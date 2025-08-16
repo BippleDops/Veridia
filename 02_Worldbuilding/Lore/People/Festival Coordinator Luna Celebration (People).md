@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Festival Coordinator Luna Celebration
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

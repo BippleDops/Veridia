@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Great Plague of Ages Past V1 Great Plague of
   Ages Past.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city great plague of ages past v1 great plague
   of ages pastsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

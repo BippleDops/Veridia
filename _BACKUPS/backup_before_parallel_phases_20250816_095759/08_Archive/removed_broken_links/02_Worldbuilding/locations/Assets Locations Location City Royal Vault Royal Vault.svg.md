@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Royal Vault Royal Vault.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal vault royal vaultsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

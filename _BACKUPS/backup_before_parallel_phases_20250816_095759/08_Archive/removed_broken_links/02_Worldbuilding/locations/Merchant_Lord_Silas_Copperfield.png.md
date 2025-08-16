@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - Merchant Lord Silas Copperfieldpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - note
 title: Merchant Lord Silas Copperfield.png
 type: location

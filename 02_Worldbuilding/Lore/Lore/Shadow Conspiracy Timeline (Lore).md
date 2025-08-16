@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Shadow Conspiracy Timeline
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

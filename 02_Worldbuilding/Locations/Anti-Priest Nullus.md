@@ -1,7 +1,7 @@
 ---
 title: Anti Priest us
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

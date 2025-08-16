@@ -76,7 +76,7 @@ This document contains important information regarding Quest - Parliament Corrup
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Quest - Parliament Corruption represents a significant element within the campaign world, offering various opportunities 
+Quest - Parliament Corruption represents a significant element within the campaign world, offering various opportunities
 *The [texture] surface feels [description] to the touch.*for engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world

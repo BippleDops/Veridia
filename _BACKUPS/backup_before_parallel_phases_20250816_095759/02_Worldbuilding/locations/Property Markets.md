@@ -2,7 +2,7 @@
 
 title: Property Markets
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

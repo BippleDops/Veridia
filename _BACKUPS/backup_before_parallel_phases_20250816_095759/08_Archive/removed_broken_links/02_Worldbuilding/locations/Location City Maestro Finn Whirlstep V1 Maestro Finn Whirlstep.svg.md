@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city maestro finn whirlstep v1 maestro finn whirlstepsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Maestro Finn Whirlstep V1 Maestro Finn Whirlstep.svg
 type: location

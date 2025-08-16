@@ -2,7 +2,7 @@
 
 title: Central [[location
 type: location
-tags: 
+tags:
 - location
 - city
 - eastern-provinces
@@ -220,7 +220,7 @@ Central Location can serve as:
 - **Aberration**: beholder
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 15
-  
+
 ### [Environmental Hazards]]
 - Magical ward
 - **DC 15** to detect
@@ -238,7 +238,7 @@ Central Location can serve as:
 - **Recent History**: Festival 11 years ago
 - **Living Memory**: Murder last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Trial in 12 days
 - **Brewing Conflict**: [[Trade War
 - **Prophecy Connection**: [Link]]s to The Second Prophecy of Stars

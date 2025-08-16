@@ -2,7 +2,7 @@
 
 title: Harbor Authority
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

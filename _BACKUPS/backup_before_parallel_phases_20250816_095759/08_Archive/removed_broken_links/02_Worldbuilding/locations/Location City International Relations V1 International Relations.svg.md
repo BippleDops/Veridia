@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city international relations v1 international relationssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City International Relations V1 International Relations.svg
 type: location

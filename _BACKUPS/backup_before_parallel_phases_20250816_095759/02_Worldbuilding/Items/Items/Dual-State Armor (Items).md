@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Items/Dual-State Armor
 type: item
-tags: 
+tags:
 - item
 - amulet
 - uncommon

@@ -2,7 +2,7 @@
 
 title: Marina Stormwright
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

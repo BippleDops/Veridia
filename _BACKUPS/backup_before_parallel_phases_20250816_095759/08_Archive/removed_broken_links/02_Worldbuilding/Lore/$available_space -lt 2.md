@@ -2,7 +2,7 @@
 
 title: $available_space -lt 2
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

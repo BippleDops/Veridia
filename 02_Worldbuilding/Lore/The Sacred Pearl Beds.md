@@ -2,7 +2,7 @@
 
 title: The Sacred Pearl Beds
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

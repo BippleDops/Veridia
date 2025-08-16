@@ -2,7 +2,7 @@
 
 title: The Banshee Caverns
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

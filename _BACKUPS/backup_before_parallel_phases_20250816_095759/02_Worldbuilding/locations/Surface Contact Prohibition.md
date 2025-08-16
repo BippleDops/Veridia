@@ -2,7 +2,7 @@
 
 title: Surface Contact Prohibition
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

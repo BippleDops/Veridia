@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temple of Shadows V1 Temple of Shadows.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of shadows v1 temple of shadowspng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

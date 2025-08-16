@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high priest nereon v1 high priest nereonsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Priest Nereon V1 High Priest Nereon.svg
 type: npc

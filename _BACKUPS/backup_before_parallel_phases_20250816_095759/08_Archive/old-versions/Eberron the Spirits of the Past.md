@@ -2,7 +2,7 @@
 
 title: Eberron the Spirits of the Past
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

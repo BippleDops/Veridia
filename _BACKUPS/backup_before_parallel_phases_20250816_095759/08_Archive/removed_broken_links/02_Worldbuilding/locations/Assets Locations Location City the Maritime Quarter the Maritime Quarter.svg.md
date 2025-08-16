@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Maritime Quarter the Maritime Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the maritime quarter the maritime quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

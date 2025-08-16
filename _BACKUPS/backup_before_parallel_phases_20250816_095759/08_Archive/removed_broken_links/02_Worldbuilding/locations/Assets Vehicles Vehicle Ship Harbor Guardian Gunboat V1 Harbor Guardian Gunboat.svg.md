@@ -1,11 +1,11 @@
 ---
 
 title: Assets Vehicles Vehicle Ship Harbor Guardian Gunboat V1 Harbor Guardian Gunboat.svg
-aliases: 
+aliases:
 - 04 Resources Assets Vehicles vehicle ship harbor guardian gunboat v1 harbor guardian
   gunboatsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

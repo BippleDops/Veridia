@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Abyssos Prime Inverse Palace Abyssos Prime Inverse
   Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city abyssos prime inverse palace abyssos
   prime inverse palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

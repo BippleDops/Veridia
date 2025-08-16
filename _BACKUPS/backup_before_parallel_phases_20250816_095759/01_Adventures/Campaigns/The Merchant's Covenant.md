@@ -2,7 +2,7 @@
 
 title: The [[Merchant's Covet]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - active

@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aquabyssos
 - artificer
 - complete
@@ -29,11 +29,11 @@ world: Aquabyssos
 
 # Merchant Viktor Geargrind
 
-**Type:** Inventor-Merchant/Technological Entrepreneur  
-**Location:** [[02_Worldbuilding/Places/Abyssos Prime - The Clockwork Depths Workshop  
-**World:** [02_Worldbuilding/Places/Aquabyssos]]  
-**Occupation:** Master Artificer and Technology Merchant  
-**Race:** Deep Gnome (Svirfneblin)  
+**Type:** Inventor-Merchant/Technological Entrepreneur
+**Location:** [[02_Worldbuilding/Places/Abyssos Prime - The Clockwork Depths Workshop
+**World:** [02_Worldbuilding/Places/Aquabyssos]]
+**Occupation:** Master Artificer and Technology Merchant
+**Race:** Deep Gnome (Svirfneblin)
 **Alignment:** Chaotic Neutral
 
 *"Innovation waits for no one - either you adapt to the depths, or the depths adapt you into something unrecognizable."*

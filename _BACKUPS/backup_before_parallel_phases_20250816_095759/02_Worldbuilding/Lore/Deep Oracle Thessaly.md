@@ -2,7 +2,7 @@
 
 title: [[Oracle|Deep [Oracle]] Thessaly
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

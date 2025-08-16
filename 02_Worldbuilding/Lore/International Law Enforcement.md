@@ -2,7 +2,7 @@
 
 title: International Law Enforcement
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

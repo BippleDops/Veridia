@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Final Sealing
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

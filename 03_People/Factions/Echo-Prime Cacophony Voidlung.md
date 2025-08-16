@@ -2,7 +2,7 @@
 
 title: Echo Prime Cacophony Voidlung
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

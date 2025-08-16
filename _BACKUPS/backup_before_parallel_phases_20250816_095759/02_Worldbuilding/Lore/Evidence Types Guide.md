@@ -2,7 +2,7 @@
 
 title: [[Evidence Types Guide
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

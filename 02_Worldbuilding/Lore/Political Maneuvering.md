@@ -2,7 +2,7 @@
 
 title: Political Maneuvering
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - index

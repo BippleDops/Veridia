@@ -2,7 +2,7 @@
 
 title: Order of Preserved Knowledge
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

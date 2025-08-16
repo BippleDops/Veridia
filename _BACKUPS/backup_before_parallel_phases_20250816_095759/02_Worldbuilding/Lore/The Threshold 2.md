@@ -7,7 +7,7 @@ location_type: Dimensional Nexus
 primary_effects: Dimensional instability and reality distortion
 scope: Reality-threatening anomaly
 status: complete
-tags: 
+tags:
 - both worlds
 - complete
 - content/location
@@ -281,7 +281,7 @@ Despite the dangers, both [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbu
 ### The Convergence Truth
 Dimensional convergence is natural healing, not disaster. It will create stable reality supporting both worlds without artificial separation.
 
-### The Betrayers' Achievement  
+### The Betrayers' Achievement
 The Seven Betrayers achieved their goal - transcendence beyond normal reality. Their "suffering" is the price of cosmic awareness.
 
 ### Aetheron's Design
@@ -311,7 +311,7 @@ Crown fragments are rebuilding [[02_Worldbuilding/Lore/The Crown of Stars in new
 
 ### Player Agency Opportunities
 - **Exploration vs. Safety**: Risk investigation for knowledge
-- **Cooperation vs. Independence**: Work with officials or pursue personal goals  
+- **Cooperation vs. Independence**: Work with officials or pursue personal goals
 - **Prevention vs. Exploitation**: Stop misuse or seek advantage
 - **Redemption vs. Justice**: Attempt betrayer rehabilitation or punishment
 - **Preservation vs. Transformation**: Maintain status quo or enable change

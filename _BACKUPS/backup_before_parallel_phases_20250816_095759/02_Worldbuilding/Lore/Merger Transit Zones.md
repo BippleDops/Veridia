@@ -2,7 +2,7 @@
 
 title: Merger Transit Zones
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy
@@ -93,7 +93,7 @@ Merger Transit Zones represents a crucial aspect of the world's history, cosmolo
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Wind Monks
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

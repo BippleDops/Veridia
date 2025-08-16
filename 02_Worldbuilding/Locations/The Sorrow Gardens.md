@@ -2,7 +2,7 @@
 
 title: The Sorrow Gardens
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

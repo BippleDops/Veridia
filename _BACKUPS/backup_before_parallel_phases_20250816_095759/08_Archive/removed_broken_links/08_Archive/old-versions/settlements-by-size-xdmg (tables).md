@@ -2,7 +2,7 @@
 
 title: settlements-by-size-xdmg (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

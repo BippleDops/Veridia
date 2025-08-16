@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc sister thalassa the depth touched sister thalassa the depth touchedsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Sister Thalassa the Depth Touched Sister Thalassa the Depth Touched.svg
 type: npc

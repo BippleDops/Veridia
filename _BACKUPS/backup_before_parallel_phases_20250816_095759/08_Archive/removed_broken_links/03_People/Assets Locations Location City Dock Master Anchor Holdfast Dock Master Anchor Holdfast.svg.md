@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Dock Master Anchor Holdfast Dock Master Anchor
   Holdfast.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city dock master anchor holdfast dock master
   anchor holdfastsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

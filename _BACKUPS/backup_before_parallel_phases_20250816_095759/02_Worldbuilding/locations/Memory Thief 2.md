@@ -13,7 +13,7 @@ location: '[02_Worldbuilding/Places/The Shadow Markets]]'
 obsidianUIMode: preview
 race: Changeling
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/faction
@@ -52,14 +52,14 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 
 ## Physical Description
 
-**Race**: Changeling  
-**Apparent Age**: Varies (actually 34 years old)  
-**Height**: Variable (natural form: 5'7" / 1.70m)  
-**Build**: Adaptable, typically lean and forgettable  
+**Race**: Changeling
+**Apparent Age**: Varies (actually 34 years old)
+**Height**: Variable (natural form: 5'7" / 1.70m)
+**Build**: Adaptable, typically lean and forgettable
 
 **True Form Features**: In their natural changeling state, The Memory Thief has pale, almost translucent skin with subtle shifting patterns, silver-white hair that moves like water, and completely black eyes that seem to absorb light. Their features are deliberately unmemorable, designed to fade from observers' minds.
 
-**Adaptive Appearance**: 
+**Adaptive Appearance**:
 - **Client Persona**: Professional, trustworthy appearance when meeting legitimate clients
 - **Underworld Identity**: Dangerous, mysterious look for criminal negotiations
 - **Infiltration Forms**: Perfectly mimics targets or associates to gain access
@@ -109,10 +109,10 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 
 ## Combat Statistics
 
-**Level**: 11th level Rogue/Enchanter (7/4)  
-**Armor Class**: 16 (Studded Leather + Dex + Mental Shields)  
-**Hit Points**: 82 (`dice: 11d8` + 33)  
-**Speed**: 30 ft.  
+**Level**: 11th level Rogue/Enchanter (7/4)
+**Armor Class**: 16 (Studded Leather + Dex + Mental Shields)
+**Hit Points**: 82 (`dice: 11d8` + 33)
+**Speed**: 30 ft.
 
 **Ability Scores**:
 - **STR**: 10 (+0) - Average physical strength, relies on magic and cunning
@@ -122,36 +122,36 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 - **WIS**: 14 (+2) - Adequate awareness despite focus on mental rather than physical threats
 - **CHA**: 17 (+3) - Strong personality for deception and social manipulation
 
-**Saving Throws**: Dex +8, Int +8, Wis +6  
-**Skills**: Arcana +12, Deception +15, Insight +10, Investigation +8, Perception +6, Sleight of Hand +8, Stealth +8  
-**Languages**: Common, Thieves' Cant, Deep Speech, telepathic communication  
-**Challenge Rating**: 9 (5,000 XP)  
+**Saving Throws**: Dex +8, Int +8, Wis +6
+**Skills**: Arcana +12, Deception +15, Insight +10, Investigation +8, Perception +6, Sleight of Hand +8, Stealth +8
+**Languages**: Common, Thieves' Cant, Deep Speech, telepathic communication
+**Challenge Rating**: 9 (5,000 XP)
 
 ## Special Abilities
 
 ### Memory Manipulation Magic
-**Extract Memory**: Can permanently remove specific memories from targets (Save vs. Enchantment)  
-**Implant False Memory**: Insert fabricated memories that seem completely real  
-**Memory Copy**: Create duplicate memories without removing originals  
-**Selective Amnesia**: Cause targets to forget specific time periods or information  
+**Extract Memory**: Can permanently remove specific memories from targets (Save vs. Enchantment)
+**Implant False Memory**: Insert fabricated memories that seem completely real
+**Memory Copy**: Create duplicate memories without removing originals
+**Selective Amnesia**: Cause targets to forget specific time periods or information
 
 ### Changeling Abilities
-**Perfect Mimicry**: Can duplicate the appearance and mannerisms of any humanoid  
-**Voice Modification**: Change voice to match any person they have heard speak  
-**Scent Masking**: Alter natural scent to avoid detection by tracking  
-**Behavioral Adaptation**: Adopt personality traits and habits of assumed identities  
+**Perfect Mimicry**: Can duplicate the appearance and mannerisms of any humanoid
+**Voice Modification**: Change voice to match any person they have heard speak
+**Scent Masking**: Alter natural scent to avoid detection by tracking
+**Behavioral Adaptation**: Adopt personality traits and habits of assumed identities
 
 ### Rogue Techniques
-**Sneak Attack**: Additional damage when attacking from advantage or surprise  
-**Expertise**: Double proficiency bonus on selected skills  
-**Cunning Action**: Dash, disengage, or hide as bonus action  
-**Evasion**: Take half damage from area effects even on failed saves  
+**Sneak Attack**: Additional damage when attacking from advantage or surprise
+**Expertise**: Double proficiency bonus on selected skills
+**Cunning Action**: Dash, disengage, or hide as bonus action
+**Evasion**: Take half damage from area effects even on failed saves
 
 ### Combat Approach
-**Avoidance Priority**: Prefers to avoid combat through stealth, deception, and escape  
-**Memory Weapons**: Uses memory modification to confuse and disorient opponents  
-**Environmental Advantages**: Exploits knowledge of territory and prepared escape routes  
-**Psychological Warfare**: Attacks opponents' confidence and certainty through memory manipulation  
+**Avoidance Priority**: Prefers to avoid combat through stealth, deception, and escape
+**Memory Weapons**: Uses memory modification to confuse and disorient opponents
+**Environmental Advantages**: Exploits knowledge of territory and prepared escape routes
+**Psychological Warfare**: Attacks opponents' confidence and certainty through memory manipulation
 
 ## Criminal Operations and Methods
 
@@ -288,7 +288,7 @@ The existence of reliable memory modification technology raises fundamental ques
 
 ---
 
-*"Everyone wants to remember the good times and forget the bad, but memory is not so simple. Take away the pain, and you may lose the wisdom. Add false joy, and you risk destroying genuine happiness. I am an artist working with the most delicate medium in existence—the human soul."*  
+*"Everyone wants to remember the good times and forget the bad, but memory is not so simple. Take away the pain, and you may lose the wisdom. Add false joy, and you risk destroying genuine happiness. I am an artist working with the most delicate medium in existence—the human soul."*
 — The Memory Thief, explaining their philosophy to a client
 
 ## Connections

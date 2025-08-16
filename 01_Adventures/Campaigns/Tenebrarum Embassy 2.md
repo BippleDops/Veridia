@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location

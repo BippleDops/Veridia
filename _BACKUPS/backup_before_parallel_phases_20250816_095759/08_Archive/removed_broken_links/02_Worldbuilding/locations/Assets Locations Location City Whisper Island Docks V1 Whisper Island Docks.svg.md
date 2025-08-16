@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Whisper Island Docks V1 Whisper Island Docks.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city whisper island docks v1 whisper island
   dockssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

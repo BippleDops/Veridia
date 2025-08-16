@@ -2,7 +2,7 @@
 
 title: Crystal Dealer Fracture
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

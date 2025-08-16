@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Freedrift Network V1 Freedrift Network.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city freedrift network v1 freedrift networksvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -4,7 +4,7 @@ created: '2025-08-08'
 created_by: auto-stub
 significance: Major Landmark
 status: complete
-tags: 
+tags:
 - aethermoor
 - campaign/arc
 - complete

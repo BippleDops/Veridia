@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Diplomatic Training Institute
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

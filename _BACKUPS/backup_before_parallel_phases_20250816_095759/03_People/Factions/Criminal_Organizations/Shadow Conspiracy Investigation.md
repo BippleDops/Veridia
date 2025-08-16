@@ -2,7 +2,7 @@
 
 title: Shadow Conspiracy Investigation
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - access/secret
 - status/complete
@@ -135,7 +135,7 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 ### The Inner Circle
 **Supreme Command**
 - **[Investigator Supreme Lucian Brightwater]]**: Former Parliament security chief, leads overall operations
-- **[[Research Director Nerissa Clearwater**: Brilliant analyst studying shadow separation phenomenon  
+- **[[Research Director Nerissa Clearwater**: Brilliant analyst studying shadow separation phenomenon
 - **[Field Operations Chief Marcus Ironheart]]**: Ex-military specialist in covert operations
 - **[[Intelligence Coordinator Elena Deepcurrent**: Master spy with network of informants
 - **[Technical Director Jasper Lightforge]]**: Inventor of anti-shadow detection devices

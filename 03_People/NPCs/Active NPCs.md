@@ -1,7 +1,7 @@
 ---
 title: Active [[Npcs
 type: npc
-tags: 
+tags:
 - npc
 - human
 - paladin

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the lighthouse keeper s ghost v1 the lighthouse keeper s ghostpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Lighthouse Keeper S Ghost V1 the Lighthouse Keeper S Ghost.png
 type: location

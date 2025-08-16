@@ -10,7 +10,7 @@ difficulty: Levels 3-8
 obsidianUIMode: preview
 owner: Abyssos Prime Government
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/faction
@@ -409,7 +409,7 @@ The terminal's critical role in transportation and communication makes it a high
 
 ---
 
-*"Distance becomes irrelevant when pressure becomes your ally. Here, the crushing depths become the highways of progress."*  
+*"Distance becomes irrelevant when pressure becomes your ally. Here, the crushing depths become the highways of progress."*
 — Chief Engineer Coral Pressurecraft
 
 ## Connections

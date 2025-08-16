@@ -2,7 +2,7 @@
 
 title: magic-item-table-g (tables)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

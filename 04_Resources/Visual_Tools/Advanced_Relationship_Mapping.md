@@ -80,7 +80,7 @@
 
 ### Color Coding System
 - 🔴 **Red:** Enemies, antagonists, hostile relationships
-- 🟢 **Green:** Allies, friends, positive relationships  
+- 🟢 **Green:** Allies, friends, positive relationships
 - 🟡 **Yellow:** Neutral, uncertain, or business relationships
 - 🔵 **Blue:** Family, romantic, or deep personal bonds
 - 🟣 **Purple:** Mysterious, unknown, or complex relationships
@@ -111,23 +111,23 @@ graph TD
     A[Supreme Authority] --> B[Regional Lords]
     A --> C[Military Command]
     A --> D[Religious Hierarchy]
-    
+
     B --> E[Local Nobles]
     B --> F[City Governors]
-    
+
     C --> G[Army Generals]
     C --> H[Navy Admirals]
-    
+
     D --> I[High Priests]
     D --> J[Temple Guards]
-    
+
     E --> K[Town Officials]
     F --> L[Merchant Guilds]
     G --> M[Local Militia]
     H --> N[Port Authorities]
     I --> O[Local Clergy]
     J --> P[Temple Networks]
-    
+
     style A fill:#ff6b6b
     style B fill:#4ecdc4
     style C fill:#45b7d1
@@ -145,19 +145,19 @@ graph TD
 ```mermaid
 timeline
     title Campaign Timeline
-    
+
     Ancient History : Founding of Aquabyssos : Great Drowning Event : Rise of Current Dynasties
-    
+
     Recent Past : Political Upheaval : Formation of Current Alliances : Previous Adventure Consequences
-    
+
     Campaign Start : Character Introductions : Initial Quest Hooks : World State Establishment
-    
+
     Early Sessions : First Major Choices : Initial Relationships : Power Structure Introduction
-    
+
     Current Events : Active Plotlines : Ongoing Conflicts : Character Development
-    
+
     Near Future : Planned Revelations : Anticipated Conflicts : Character Arc Climaxes
-    
+
     Far Future : Campaign Conclusions : Legacy Planning : Next Campaign Setup
 ```
 
@@ -222,7 +222,7 @@ timeline
    - Major Cities: [[Port Nerida]], [[Coral Gardens]]
    - Geography: Underwater civilization, kelp forests
 
-2. **Aethermoor Dominion**  
+2. **Aethermoor Dominion**
    - Capital: [[Sky Citadel]]
    - Major Cities: [[Cloud Harbor]], [[Storm Peak]]
    - Geography: Floating islands, aerial navigation
@@ -241,11 +241,11 @@ graph LR
     B -->|Safe/Slow| C[Main Roads]
     B -->|Fast/Risky| D[Direct Path]
     B -->|Secret/Unknown| E[Hidden Routes]
-    
+
     C --> F[Checkpoints]
     D --> G[Obstacles]
     E --> H[Discoveries]
-    
+
     F --> I[Destination]
     G --> I
     H --> I

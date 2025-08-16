@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Diplomatic Dining Protocol Diplomatic Dining
   Protocol.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city diplomatic dining protocol diplomatic
   dining protocolsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -200,7 +200,7 @@ Mentioned in The Second Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

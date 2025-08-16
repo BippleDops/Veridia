@@ -2,7 +2,7 @@
 
 title: The [[Memory Meadows Black Market
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

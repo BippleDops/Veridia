@@ -2,7 +2,7 @@
 
 title: Whisper Exposure
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

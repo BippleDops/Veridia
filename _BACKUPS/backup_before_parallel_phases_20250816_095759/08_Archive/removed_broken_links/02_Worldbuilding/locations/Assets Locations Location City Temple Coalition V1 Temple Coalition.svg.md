@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temple Coalition V1 Temple Coalition.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple coalition v1 temple coalitionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

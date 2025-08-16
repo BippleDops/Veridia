@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry aquabyssos faction web aquabyssos faction
   websvg
 type: npc
-tags: 
+tags:
 - character
 - aquabyssos
 - active

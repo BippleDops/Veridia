@@ -2,7 +2,7 @@
 
 title: The Anonymous Accords
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

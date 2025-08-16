@@ -2,7 +2,7 @@
 
 title: [[The_Resoce_Crater|The Resoce Crater
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

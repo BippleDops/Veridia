@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Temple of Eternal Tides the Temple of Eternal
   Tides.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the temple of eternal tides the temple
   of eternal tidessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Depth Crystal Harvest
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/location
@@ -197,7 +197,7 @@ Depth Crystal Harvest is a notable location characterized by its unique features
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: perception-and-encounters-audible-distance-xdmg
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: The Unnamed Chronicler
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

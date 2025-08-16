@@ -11,7 +11,7 @@ obsidianUIMode: preview
 security_level: Maximum
 size: Suite Complex (5,000 sq ft)
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location
@@ -43,7 +43,7 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 ## Layout & Architecture
 
 ### Main Reception Hall
-**Dimensions**: 40' x 30' with 20' vaulted ceilings  
+**Dimensions**: 40' x 30' with 20' vaulted ceilings
 **Features**:
 - Crystal dome ceiling providing filtered view of ocean above
 - Bioluminescent coral chandeliers that respond to occupant's mood
@@ -52,8 +52,8 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 - Hidden alcoves containing defensive constructs
 
 ### Private Study
-**Dimensions**: 25' x 20'  
-**Security**: Triple-warded against scrying and intrusion  
+**Dimensions**: 25' x 20'
+**Security**: Triple-warded against scrying and intrusion
 **Contents**:
 - Ancient tomes on Aquabyssos law and history
 - Memory crystal archives containing political secrets
@@ -62,7 +62,7 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 - Communication orb linked to other senators' chambers
 
 ### Sleeping Quarters
-**Dimensions**: 30' x 25'  
+**Dimensions**: 30' x 25'
 **Amenities**:
 - Pressure-adjustable sleeping pool filled with healing waters
 - Traditional air-filled bed chamber for surface-dwelling guests
@@ -71,8 +71,8 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 - Emergency escape portal (single use, leads to safe house)
 
 ### Conference Room
-**Dimensions**: 35' x 20'  
-**Capacity**: 12 individuals  
+**Dimensions**: 35' x 20'
+**Capacity**: 12 individuals
 **Features**:
 - Sound-proof barriers preventing any eavesdropping
 - Holographic projection table for strategic planning
@@ -81,7 +81,7 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 - Hidden weapons cache behind false wall panel
 
 ### Private Bath Chamber
-**Dimensions**: 20' x 15'  
+**Dimensions**: 20' x 15'
 **Luxury Features**:
 - Thermal vent pools with mineral-rich waters
 - Cleansing currents from seven different ocean regions
@@ -90,8 +90,8 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 - Meditation alcove with shadow-dampening crystals
 
 ### Secret Vault
-**Dimensions**: 15' x 10' (Hidden behind study)  
-**Access**: Biometric locks requiring specific DNA, magical signature, and passphrase  
+**Dimensions**: 15' x 10' (Hidden behind study)
+**Access**: Biometric locks requiring specific DNA, magical signature, and passphrase
 **Contents**:
 - Blackmail materials on political rivals
 - Emergency funds in multiple currencies
@@ -125,8 +125,8 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 ## Notable Occupants
 
 ### Senator Glaucus Deepcurrent
-**Term**: 45 years and counting  
-**Faction**: Moderate Preservationists  
+**Term**: 45 years and counting
+**Faction**: Moderate Preservationists
 **Chamber Features**:
 - Extensive library on ancient Aquabyssos history
 - Collection of pre-war artifacts
@@ -134,8 +134,8 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 - Hidden shrine to forgotten sea gods
 
 ### Senator Marina Coralheart (Former)
-**Term**: 12 years before disappearance  
-**Faction**: Progressive Reformers  
+**Term**: 12 years before disappearance
+**Faction**: Progressive Reformers
 **Chamber Legacy**:
 - Abandoned research into memory magic
 - Hidden notes about "The Truth" scattered throughout
@@ -143,8 +143,8 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 - Ghost sightings reported by cleaning staff
 
 ### Senator Typhon Blackwater
-**Term**: 8 years current  
-**Faction**: Military Expansionists  
+**Term**: 8 years current
+**Faction**: Military Expansionists
 **Chamber Modifications**:
 - Converted conference room into war planning center
 - Extensive weapon collection displayed on walls
@@ -215,23 +215,23 @@ A senator under threat hires the party to defend their chambers against an immin
 ## Notable Items Found Here
 
 ### The Senate Seal
-*Wondrous item, legendary*  
+*Wondrous item, legendary*
 Grants legal authority to act in the Senate's name. Possession without authorization is highest treason.
 
 ### Memory Pearls
-*Wondrous item, rare*  
+*Wondrous item, rare*
 Contain stored memories of significant political events, valuable for blackmail or historical research.
 
 ### Depth Pressure Ring
-*Ring, very rare*  
+*Ring, very rare*
 Allows perfect adaptation to any water pressure, marker of senatorial rank.
 
 ### Cipher Codex
-*Wondrous item, rare*  
+*Wondrous item, rare*
 Decodes any written message in Aquabyssos official ciphers.
 
 ### Emergency Beacon
-*Wondrous item, uncommon*  
+*Wondrous item, uncommon*
 Summons immediate military response when activated, single use.
 
 ## Connections

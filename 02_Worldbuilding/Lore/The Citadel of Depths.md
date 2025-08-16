@@ -2,7 +2,7 @@
 
 title: The Citadel of Depths
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

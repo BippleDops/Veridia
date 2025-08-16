@@ -2,7 +2,7 @@
 
 title: Captain Thaddeus Blackwater
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -49,7 +49,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -259,7 +259,7 @@ Legends speak of Captain Thaddeus Blackwater as a nexus where past and present c
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

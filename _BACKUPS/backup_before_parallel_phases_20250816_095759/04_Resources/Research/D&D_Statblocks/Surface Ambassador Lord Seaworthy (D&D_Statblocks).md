@@ -2,7 +2,7 @@
 
 title: Surface Ambassador Lord Seaworthy (D&D_Statblocks)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: Harbor Patrol
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

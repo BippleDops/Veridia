@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Quieting the Depths V1 Quieting the Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quieting the depths v1 quieting the
   depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple Scholar Depth Seer Temple Scholar Depth
   Seer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple scholar depth seer temple scholar
   depth seersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Mentioned in The Hidden Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

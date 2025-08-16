@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city port meridian v1 port meridiansvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: location city port meridian v1 port meridian.svg
 type: location

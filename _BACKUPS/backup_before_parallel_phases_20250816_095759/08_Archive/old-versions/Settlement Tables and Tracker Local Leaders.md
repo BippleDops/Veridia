@@ -2,7 +2,7 @@
 
 title: Settlement Tables and Tracker Local Leaders
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

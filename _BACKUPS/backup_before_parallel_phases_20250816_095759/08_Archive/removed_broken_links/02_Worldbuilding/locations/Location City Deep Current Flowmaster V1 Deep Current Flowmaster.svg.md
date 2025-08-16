@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city deep current flowmaster v1 deep current flowmastersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Deep Current Flowmaster V1 Deep Current Flowmaster.svg
 type: location

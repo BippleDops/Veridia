@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc duke blackwater s estate v2 duke blackwater s estatesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Duke Blackwater S Estate V2 Duke Blackwater S Estate.svg
 type: npc

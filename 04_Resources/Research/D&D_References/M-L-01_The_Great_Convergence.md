@@ -2,7 +2,7 @@
 
 title: M-L-01_The_Great_Convergence
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

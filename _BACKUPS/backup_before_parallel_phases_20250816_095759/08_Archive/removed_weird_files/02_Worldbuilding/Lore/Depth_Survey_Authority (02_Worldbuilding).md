@@ -2,7 +2,7 @@
 
 title: [[Depth Survey Authority
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

@@ -2,7 +2,7 @@
 
 title: Interfaith Council
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization
@@ -222,7 +222,7 @@ What they claim to pursue
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

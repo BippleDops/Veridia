@@ -2,7 +2,7 @@
 
 title: Church of the Tidal Throne
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

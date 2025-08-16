@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry War Commander Umbral Strategis V1 War Commander
   Umbral Strategis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry war commander umbral strategis v1 war
   commander umbral strategissvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

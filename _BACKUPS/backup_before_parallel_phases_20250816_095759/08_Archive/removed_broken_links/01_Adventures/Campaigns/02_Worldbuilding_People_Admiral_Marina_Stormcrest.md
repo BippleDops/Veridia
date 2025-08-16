@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding_People_Admiral_Marina_Stormcrest
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

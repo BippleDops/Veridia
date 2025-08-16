@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Eastern Kingdoms
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city undead services bureau v1 undead services bureausvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Undead Services Bureau V1 Undead Services Bureau.svg
 type: location

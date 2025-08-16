@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Melody Crystalsong Melody Crystalsong.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city melody crystalsong melody crystalsongsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key locations marked:
 - **Aberration**: aboleth
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 7
-  
+
 ### Environmental Hazards
 - Pit trap
 - **DC 10** to detect
@@ -196,7 +196,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

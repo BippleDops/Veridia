@@ -2,7 +2,7 @@
 
 title: The Navigation Post
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -2,7 +2,7 @@
 
 title: The Circle of Depths
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

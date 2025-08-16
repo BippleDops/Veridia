@@ -2,7 +2,7 @@
 
 title: Void Breaker Staffs
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - prophecy

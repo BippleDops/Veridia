@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Innkeeper Marina Dreamwhisper V1 Innkeeper Marina
   Dreamwhisper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city innkeeper marina dreamwhisper v1 innkeeper
   marina dreamwhispersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

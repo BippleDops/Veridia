@@ -2,7 +2,7 @@
 
 title: The Crimson Hand
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - both

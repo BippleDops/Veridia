@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Clues by Location
 type: location
-tags: 
+tags:
 - location
 - landmark
 - western-frontier

@@ -2,7 +2,7 @@
 
 title: [[Ambassador Lysandra Silvertonge's Embassy
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

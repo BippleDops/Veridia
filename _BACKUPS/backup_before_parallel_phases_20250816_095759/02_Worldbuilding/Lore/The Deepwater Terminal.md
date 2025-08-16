@@ -2,7 +2,7 @@
 
 title: The Deepwater Terminal
 type: [[Lore
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

@@ -1,7 +1,7 @@
 ---
 title: SETUP_GUIDE
 type: note
-tags: 
+tags:
 - quest
 - note
 created: '2025-01-15'

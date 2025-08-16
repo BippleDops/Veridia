@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Bubble Yeastkeeper V1 Bubble Yeastkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city bubble yeastkeeper v1 bubble yeastkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

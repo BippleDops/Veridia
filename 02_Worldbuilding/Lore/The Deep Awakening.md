@@ -2,7 +2,7 @@
 
 title: The Deep Awakening
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Constitutional Scholar Valdris Deepthought
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -180,7 +180,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

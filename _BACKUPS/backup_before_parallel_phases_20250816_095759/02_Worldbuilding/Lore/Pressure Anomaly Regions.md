@@ -2,7 +2,7 @@
 
 title: Pressure Anomaly [[regions
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

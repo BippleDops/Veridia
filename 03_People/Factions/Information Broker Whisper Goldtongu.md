@@ -2,7 +2,7 @@
 
 title: Information Broker Whisper Goldtongu
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

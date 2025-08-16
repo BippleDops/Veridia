@@ -1,7 +1,7 @@
 ---
 title: Organized Crime Networks
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

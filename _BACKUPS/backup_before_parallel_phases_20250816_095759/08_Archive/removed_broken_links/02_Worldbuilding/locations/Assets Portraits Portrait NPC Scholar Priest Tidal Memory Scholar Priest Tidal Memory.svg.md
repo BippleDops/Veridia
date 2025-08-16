@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Scholar Priest Tidal Memory Scholar Priest Tidal
   Memory.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc scholar priest tidal memory scholar priest
   tidal memorysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -211,7 +211,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

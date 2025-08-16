@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city reef guard captain torrent shellborn v1 reef guard captain torrent
   shellbornsvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Reef Guard Captain Torrent Shellborn V1 Reef Guard Captain Torrent
   Shellborn.svg

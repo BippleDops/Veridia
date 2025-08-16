@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Depth Plague the Depth Plague.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the depth plague the depth plaguesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

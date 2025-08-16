@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the corruption files v1 quest the corruption filessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Corruption Files V1 Quest the Corruption Files.svg
 type: npc

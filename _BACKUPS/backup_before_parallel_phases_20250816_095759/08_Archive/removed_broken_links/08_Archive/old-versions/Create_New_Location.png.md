@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Create_New_Location.png
 type: location
-tags: 
+tags:
 - location
 - ruins
 - central-territories

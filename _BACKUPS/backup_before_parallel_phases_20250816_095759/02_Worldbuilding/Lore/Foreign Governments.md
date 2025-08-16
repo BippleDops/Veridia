@@ -2,7 +2,7 @@
 
 title: Foreign Governments
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

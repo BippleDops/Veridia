@@ -2,7 +2,7 @@
 
 title: The Sundered Vaults
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

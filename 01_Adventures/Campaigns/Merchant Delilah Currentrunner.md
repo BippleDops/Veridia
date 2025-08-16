@@ -2,7 +2,7 @@
 
 title: [[Merchant Delilah Currentrunner
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - trade
 - status/complete

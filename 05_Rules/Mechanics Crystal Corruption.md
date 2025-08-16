@@ -3,7 +3,7 @@ enhanced: true
 
 title: Mechanics Crystal Corruption
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - bloodline

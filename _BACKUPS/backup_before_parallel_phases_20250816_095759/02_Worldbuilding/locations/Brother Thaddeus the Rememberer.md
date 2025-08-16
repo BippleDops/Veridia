@@ -2,7 +2,7 @@
 
 title: Brother Thaddeus the Rememberer
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

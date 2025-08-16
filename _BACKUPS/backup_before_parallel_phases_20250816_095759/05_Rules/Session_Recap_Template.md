@@ -11,36 +11,36 @@
 *Where we started*
 
 #### Key Events
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 #### Combat Encounters
-- **Location**: 
-- **Enemies**: 
-- **Outcome**: 
+- **Location**:
+- **Enemies**:
+- **Outcome**:
 
 #### Social Encounters
-- **NPC**: 
-- **Information Learned**: 
-- **Deals Made**: 
+- **NPC**:
+- **Information Learned**:
+- **Deals Made**:
 
 #### Exploration
-- **New Locations**: 
-- **Discoveries**: 
-- **Hazards**: 
+- **New Locations**:
+- **Discoveries**:
+- **Hazards**:
 
 ### Party Status
 
 #### Resources
-- **Gold**: 
-- **Items Gained**: 
-- **Items Lost**: 
+- **Gold**:
+- **Items Gained**:
+- **Items Lost**:
 
 #### Character Development
-- **Level Ups**: 
-- **New Abilities**: 
-- **Story Progress**: 
+- **Level Ups**:
+- **New Abilities**:
+- **Story Progress**:
 
 ### Cliffhanger/Next Session
 *How we ended*
@@ -52,7 +52,7 @@
 > - Prep needed
 
 ### Player Highlights
-- **MVP**: 
-- **Best RP**: 
-- **Best Combat**: 
-- **Quote of the Night**: 
+- **MVP**:
+- **Best RP**:
+- **Best Combat**:
+- **Quote of the Night**:

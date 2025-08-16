@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the threshold chambers v1 the threshold chamberssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Threshold Chambers V1 the Threshold Chambers.svg
 type: location

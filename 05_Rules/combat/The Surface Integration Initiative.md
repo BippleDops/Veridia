@@ -2,7 +2,7 @@
 
 title: The Surface Integration [[Initiative
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

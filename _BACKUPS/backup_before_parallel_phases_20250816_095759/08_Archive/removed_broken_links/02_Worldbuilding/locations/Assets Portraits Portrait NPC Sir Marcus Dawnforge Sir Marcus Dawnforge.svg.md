@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Sir Marcus Dawnforge Sir Marcus Dawnforge.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc sir marcus dawnforge sir marcus dawnforgesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

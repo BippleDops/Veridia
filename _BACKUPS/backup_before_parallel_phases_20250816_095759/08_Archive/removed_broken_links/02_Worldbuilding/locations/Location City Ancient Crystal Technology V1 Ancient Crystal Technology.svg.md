@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city ancient crystal technology v1 ancient crystal technologysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Ancient Crystal Technology V1 Ancient Crystal Technology.svg
 type: location

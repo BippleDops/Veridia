@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Keeper Elara Moonwhisper Keeper Elara Moonwhisper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper elara moonwhisper keeper elara
   moonwhispersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -186,7 +186,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

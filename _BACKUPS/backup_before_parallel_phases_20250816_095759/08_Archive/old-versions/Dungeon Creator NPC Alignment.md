@@ -2,7 +2,7 @@
 
 title: Dungeon Creator NPC Alignment
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city navigator flux timewalker v1 navigator flux timewalkersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Navigator Flux Timewalker V1 Navigator Flux Timewalker.svg
 type: location

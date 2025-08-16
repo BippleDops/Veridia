@@ -2,7 +2,7 @@
 
 title: The Leviathan Cult
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction
@@ -176,7 +176,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord chancellor prism valdrick v2 lord chancellor prism valdricksvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Chancellor Prism Valdrick V2 Lord Chancellor Prism Valdrick.svg
 type: npc

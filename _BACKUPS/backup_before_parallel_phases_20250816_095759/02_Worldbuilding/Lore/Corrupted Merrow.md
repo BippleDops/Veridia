@@ -2,7 +2,7 @@
 
 title: Corrupted Merrow
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

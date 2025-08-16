@@ -2,7 +2,7 @@
 
 title: Unknown Contact
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

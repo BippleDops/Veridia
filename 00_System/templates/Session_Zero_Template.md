@@ -1,11 +1,11 @@
 # Session Zero Template
 
 ## Campaign Overview
-- **Setting**: 
+- **Setting**:
 - **Tone**: (Serious/Comedic/Dark/Light)
-- **Themes**: 
-- **Starting Level**: 
-- **Expected End Level**: 
+- **Themes**:
+- **Starting Level**:
+- **Expected End Level**:
 
 ## Player Expectations
 ### What kind of game do you want?
@@ -17,32 +17,32 @@
 - [ ] Mystery solving
 
 ### Content Boundaries
-- **Hard No's**: 
-- **Prefer to Avoid**: 
-- **Okay with Fade to Black**: 
-- **No Restrictions**: 
+- **Hard No's**:
+- **Prefer to Avoid**:
+- **Okay with Fade to Black**:
+- **No Restrictions**:
 
 ## Table Rules
-- **Schedule**: 
-- **Attendance Policy**: 
-- **Late/Absence Protocol**: 
-- **Food/Drinks**: 
-- **Phone Policy**: 
-- **Rules Disputes**: 
+- **Schedule**:
+- **Attendance Policy**:
+- **Late/Absence Protocol**:
+- **Food/Drinks**:
+- **Phone Policy**:
+- **Rules Disputes**:
 
 ## Character Creation
-- **Allowed Sources**: 
-- **Ability Score Generation**: 
-- **Starting Equipment**: 
-- **Backstory Requirements**: 
-- **Party Connections**: 
+- **Allowed Sources**:
+- **Ability Score Generation**:
+- **Starting Equipment**:
+- **Backstory Requirements**:
+- **Party Connections**:
 
 ## House Rules
-- **Critical Hits**: 
-- **Death & Resurrection**: 
-- **Inspiration**: 
-- **Milestone vs XP**: 
-- **Encumbrance**: 
+- **Critical Hits**:
+- **Death & Resurrection**:
+- **Inspiration**:
+- **Milestone vs XP**:
+- **Encumbrance**:
 
 ## Safety Tools
 - [ ] X-Card
@@ -51,7 +51,7 @@
 - [ ] Check-ins
 
 ## Campaign Specific
-- **Starting Location**: 
-- **Initial Quest**: 
-- **Key NPCs**: 
-- **Major Factions**: 
+- **Starting Location**:
+- **Initial Quest**:
+- **Key NPCs**:
+- **Major Factions**:

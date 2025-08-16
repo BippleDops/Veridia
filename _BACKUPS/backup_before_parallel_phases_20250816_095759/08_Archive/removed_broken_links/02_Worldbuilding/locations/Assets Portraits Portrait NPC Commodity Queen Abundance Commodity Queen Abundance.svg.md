@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Commodity Queen Abundance Commodity Queen Abundance.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc commodity queen abundance commodity queen
   abundancesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Current Bridgewater V1 Current Bridgewater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city current bridgewater v1 current bridgewatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -212,7 +212,7 @@ Mentioned in The Second Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

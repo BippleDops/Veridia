@@ -47,7 +47,7 @@ This document contains important information regarding The_Seven_Shards_Campaign
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-The_Seven_Shards_Campaign represents a significant element within the campaign world, offering various opportunities for 
+The_Seven_Shards_Campaign represents a significant element within the campaign world, offering various opportunities for
 *The [texture] surface feels [description] to the touch.*engagement and development. Subsequently, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world

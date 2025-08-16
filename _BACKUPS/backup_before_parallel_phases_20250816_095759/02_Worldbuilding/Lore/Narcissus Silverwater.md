@@ -2,7 +2,7 @@
 
 title: Narcissus Silverwater
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

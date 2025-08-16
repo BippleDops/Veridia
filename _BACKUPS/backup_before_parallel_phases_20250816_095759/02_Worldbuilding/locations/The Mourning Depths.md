@@ -2,7 +2,7 @@
 
 title: The [[Mourning Depths
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

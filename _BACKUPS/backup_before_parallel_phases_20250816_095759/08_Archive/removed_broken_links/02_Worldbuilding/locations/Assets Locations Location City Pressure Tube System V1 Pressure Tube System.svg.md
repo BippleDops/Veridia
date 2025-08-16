@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Pressure Tube System V1 Pressure Tube System.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure tube system v1 pressure tube
   systemsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

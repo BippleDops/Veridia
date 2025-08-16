@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Void Tears V1 the Void Tears.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the void tears v1 the void tearspng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

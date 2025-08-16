@@ -2,7 +2,7 @@
 
 title: Shadow Ambush   Optional
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction

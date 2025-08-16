@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry the Forsaken Consortium Collective the Forsaken
   Consortium Collective.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the forsaken consortium collective the
   forsaken consortium collectivesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

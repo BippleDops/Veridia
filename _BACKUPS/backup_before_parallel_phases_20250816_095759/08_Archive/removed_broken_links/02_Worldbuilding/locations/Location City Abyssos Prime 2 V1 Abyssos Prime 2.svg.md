@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city abyssos prime 2 v1 abyssos prime 2svg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Abyssos Prime 2 V1 Abyssos Prime 2.svg
 type: location

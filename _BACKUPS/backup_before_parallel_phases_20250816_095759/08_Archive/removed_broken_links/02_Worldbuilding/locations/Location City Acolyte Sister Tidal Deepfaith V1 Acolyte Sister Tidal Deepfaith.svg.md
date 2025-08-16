@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city acolyte sister tidal deepfaith v1 acolyte sister tidal deepfaithsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Acolyte Sister Tidal Deepfaith V1 Acolyte Sister Tidal Deepfaith.svg
 type: location

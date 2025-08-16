@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Innkeeper Mara Ironlung V1 Innkeeper Mara Ironlung.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city innkeeper mara ironlung v1 innkeeper
   mara ironlungsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper of sorrows tidal memento v1 keeper of sorrows tidal mementosvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper of Sorrows Tidal Memento V1 Keeper of Sorrows Tidal Memento.svg
 type: location

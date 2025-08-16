@@ -2,7 +2,7 @@
 
 title: [[False Breathers
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

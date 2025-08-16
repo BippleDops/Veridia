@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Azure Citadel V1 Azure Citadel.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city azure citadel v1 azure citadelsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

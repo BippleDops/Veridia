@@ -2,7 +2,7 @@
 
 title: Representative [[Coral
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

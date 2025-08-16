@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Duke Lysander Crystalvein Duke Lysander Crystalvein.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc duke lysander crystalvein duke lysander
   crystalveinsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -171,7 +171,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

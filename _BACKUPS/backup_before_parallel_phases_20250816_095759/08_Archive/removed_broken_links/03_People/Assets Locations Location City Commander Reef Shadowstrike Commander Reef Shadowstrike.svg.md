@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Commander Reef Shadowstrike Commander Reef Shadowstrike.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city commander reef shadowstrike commander
   reef shadowstrikesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

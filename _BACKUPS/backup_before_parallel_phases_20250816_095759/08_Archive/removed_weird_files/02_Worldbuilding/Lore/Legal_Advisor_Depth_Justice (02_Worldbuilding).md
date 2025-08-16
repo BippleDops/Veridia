@@ -2,7 +2,7 @@
 
 title: [[Legal Advisor Depth Justice
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

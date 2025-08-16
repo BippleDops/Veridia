@@ -2,7 +2,7 @@
 
 title: Paradox Resolution Society
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

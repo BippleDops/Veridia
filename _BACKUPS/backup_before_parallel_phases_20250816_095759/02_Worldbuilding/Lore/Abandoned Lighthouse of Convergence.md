@@ -2,7 +2,7 @@
 
 title: Abandoned Lighthouse of Convergence
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

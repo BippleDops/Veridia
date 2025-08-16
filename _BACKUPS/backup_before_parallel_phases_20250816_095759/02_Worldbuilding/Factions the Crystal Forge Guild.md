@@ -2,7 +2,7 @@
 
 title: Factions the Crystal Forge Guild
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization
@@ -235,7 +235,7 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

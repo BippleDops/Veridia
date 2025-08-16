@@ -2,7 +2,7 @@
 
 title: Mediator's Pendant
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

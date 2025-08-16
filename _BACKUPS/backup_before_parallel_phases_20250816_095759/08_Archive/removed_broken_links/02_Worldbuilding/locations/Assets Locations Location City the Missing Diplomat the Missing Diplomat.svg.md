@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Missing Diplomat the Missing Diplomat.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the missing diplomat the missing diplomatsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Mentioned in The Second Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Smith Coral Hammer V1 Master Smith Coral
   Hammer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master smith coral hammer v1 master
   smith coral hammersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

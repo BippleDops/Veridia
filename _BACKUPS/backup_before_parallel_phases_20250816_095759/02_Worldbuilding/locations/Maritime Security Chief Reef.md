@@ -2,7 +2,7 @@
 
 title: Mari[[Time Security Chief Reef
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - world/aquabyssos
 - content/location

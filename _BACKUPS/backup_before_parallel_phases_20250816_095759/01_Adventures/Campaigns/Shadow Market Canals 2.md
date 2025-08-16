@@ -8,7 +8,7 @@ danger_level: Moderate
 obsidianUIMode: preview
 security_level: high
 status: complete
-tags: 
+tags:
 - aquabyssos
 - black_market
 - canals
@@ -191,12 +191,12 @@ Rapid transport system using trained water creatures:
 **Role**: De facto ruler of the canal system
 **Background**: Former city engineer who helped design the original drainage system
 **Motivation**: Maintaining profitable operations while avoiding official attention
-**Key Relationships**: 
+**Key Relationships**:
 - Secret arrangement with [02_Worldbuilding/Places/The Shadow Markets]] for territory division
 - Information sharing agreement with [[02_Worldbuilding/Places/Deepmind Conspiracy
 - Protection contract with [02_Worldbuilding/Places/Syndicate Enforcers]]
 
-**Abilities**: 
+**Abilities**:
 - **Master Navigator**: Knows every passage and shortcut in the system
 - **Current Control**: Can manipulate water flow using engineering knowledge
 - **Network Coordinator**: Maintains communication with all major criminal organizations

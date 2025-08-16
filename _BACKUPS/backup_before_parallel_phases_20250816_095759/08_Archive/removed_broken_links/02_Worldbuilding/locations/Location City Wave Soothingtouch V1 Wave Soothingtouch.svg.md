@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city wave soothingtouch v1 wave soothingtouchsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Wave Soothingtouch V1 Wave Soothingtouch.svg
 type: location

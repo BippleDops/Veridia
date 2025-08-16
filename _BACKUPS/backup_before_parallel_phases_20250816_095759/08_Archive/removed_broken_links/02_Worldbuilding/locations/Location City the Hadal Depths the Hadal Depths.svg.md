@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the hadal depths the hadal depthssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Hadal Depths the Hadal Depths.svg
 type: location

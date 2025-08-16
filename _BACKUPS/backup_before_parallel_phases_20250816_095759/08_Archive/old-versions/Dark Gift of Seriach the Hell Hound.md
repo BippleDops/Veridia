@@ -2,7 +2,7 @@
 
 title: Dark Gift of Seriach the Hell Hound
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

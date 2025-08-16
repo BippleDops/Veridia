@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Queen Nerida Queen Nerida.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc queen nerida queen neridasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

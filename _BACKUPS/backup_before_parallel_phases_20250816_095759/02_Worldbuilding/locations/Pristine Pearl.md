@@ -2,7 +2,7 @@
 
 title: Pristine Pearl
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -177,7 +177,7 @@ Ongoing situations affecting Pristine Pearl:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

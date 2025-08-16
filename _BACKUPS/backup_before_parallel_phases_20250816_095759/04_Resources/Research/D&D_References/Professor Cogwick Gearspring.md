@@ -2,7 +2,7 @@
 
 title: Professor Cogwick Gearspring
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

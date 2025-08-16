@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Depth Wardens the Depth Wardens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the depth wardens the depth wardenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

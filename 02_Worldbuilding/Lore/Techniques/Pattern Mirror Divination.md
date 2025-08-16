@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Techniques/Pattern Mirror Divination
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

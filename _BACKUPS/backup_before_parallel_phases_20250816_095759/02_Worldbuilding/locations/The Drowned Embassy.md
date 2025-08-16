@@ -2,7 +2,7 @@
 
 title: The [[Drowned Embassy
 type: [location]]
-tags: 
+tags:
 - place
 - both
 - active

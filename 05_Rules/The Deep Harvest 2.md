@@ -5,7 +5,7 @@ created: '2025-08-08'
 created_by: auto-stub
 significance: Critical Economic Infrastructure
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/lore

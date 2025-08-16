@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crystal Speak Crystal Speak.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal speak crystal speakpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

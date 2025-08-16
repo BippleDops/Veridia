@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Thomas Deepanchor V1 Thomas Deepanchor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city thomas deepanchor v1 thomas deepanchorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

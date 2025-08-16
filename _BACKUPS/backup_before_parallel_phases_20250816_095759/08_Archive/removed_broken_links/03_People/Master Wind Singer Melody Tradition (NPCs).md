@@ -1,7 +1,7 @@
 ---
 title: Master Wind Singer Melody Tradition
 type: npc
-tags: 
+tags:
 - npc
 - human
 - bard

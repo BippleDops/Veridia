@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding_People_Master_[[Artificer_Coral_Gemwright
 type: note
-tags: 
+tags:
 - auto-generated
 - [Link]]ed
 created: '2025-01-15'

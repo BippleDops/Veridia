@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 expanded: 2025-08-10
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/lore

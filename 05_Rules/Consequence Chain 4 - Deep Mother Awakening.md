@@ -2,7 +2,7 @@
 
 title: Consequence Chain 4   Deep Mother Awakening
 type: [[Lore
-tags: 
+tags:
 - lore
 - cosmic-entity
 - session-notes
@@ -26,7 +26,7 @@ created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
 magnitude: 5
-primary_sessions: 
+primary_sessions:
 - 'Session 10: [[The Deep Mother Rises'
 - 'Session 10: The Shadow Finale'
 updated: '2025-08-13T12:34:16.115309+00:00'

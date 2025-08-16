@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city coral reef sanctuaries v1 coral reef sanctuariessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Coral Reef Sanctuaries V1 Coral Reef Sanctuaries.svg
 type: location

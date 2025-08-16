@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc king torrhen lumengarde v2 king torrhen lumengardesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC King Torrhen Lumengarde V2 King Torrhen Lumengarde.svg
 type: npc

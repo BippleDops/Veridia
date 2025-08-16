@@ -2,7 +2,7 @@
 
 title: [[Aquabyssos [Noble House]]s
 type: [[location
-tags: 
+tags:
 - aquabyssos
 - both
 - world/both
@@ -168,7 +168,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

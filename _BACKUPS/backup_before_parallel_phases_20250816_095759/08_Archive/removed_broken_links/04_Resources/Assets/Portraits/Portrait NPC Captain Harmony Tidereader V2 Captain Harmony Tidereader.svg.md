@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain harmony tidereader v2 captain harmony tidereadersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Harmony Tidereader V2 Captain Harmony Tidereader.svg
 type: npc

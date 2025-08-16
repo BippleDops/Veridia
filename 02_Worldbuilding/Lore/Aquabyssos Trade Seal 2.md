@@ -5,14 +5,14 @@ creator: '[[02_Worldbuilding/Lore/Thalassius the Wise'
 current_location: '[02_Worldbuilding/Places/Parliament of Echoes]] Vault'
 danger_level: 3
 rarity: Legendary (Government Controlled)
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Places/Parliament of Echoes'
 - '[02_Worldbuilding/Lore/Thalassius the Wise]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards'
 - '[02_Worldbuilding/Groups/Silverscale Banking House|02 Worldbuilding/Groups/Silverscale
   Banking House]]'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - authentication
 - complete
@@ -111,7 +111,7 @@ As [[02_Worldbuilding/Places/Aquabyssos grew in political and economic importanc
 Access to the Trade Seal follows strict protocols established by the [02_Worldbuilding/Places/Parliament of Echoes]]:
 
 **Level One Authority**: Parliament Speaker and designated successors for constitutional documents and major treaties
-**Level Two Authority**: Department heads for international trade agreements and diplomatic credentials  
+**Level Two Authority**: Department heads for international trade agreements and diplomatic credentials
 **Level Three Authority**: Senior bureaucrats for routine governmental functions and standard documentation
 **Emergency Protocols**: Special procedures allowing temporary access during governmental crises
 
@@ -128,7 +128,7 @@ The Trade Seal is regularly used for:
 
 During significant events, the Trade Seal serves ceremonial functions:
 - **Treaty Signing Ceremonies**: Creating authenticated copies of major international agreements
-- **State Occasions**: Validating official proclamations during royal visits or state celebrations  
+- **State Occasions**: Validating official proclamations during royal visits or state celebrations
 - **Historical Documentation**: Authenticating records intended for permanent archival storage
 - **Emergency Declarations**: Providing immediate legitimacy to crisis response measures
 
@@ -254,7 +254,7 @@ During [[02_Worldbuilding/Lore/The Convergence Crisis, the Trade Seal might:
 A seemingly authentic Trade Seal mark has appeared on documents that the real Seal never touched. Characters must investigate this impossible forgery while uncovering a conspiracy that threatens the foundation of [[02_Worldbuilding/Places/Aquabyssos' commercial relationships.
 
 ### The Missing Authentication
-**Level**: 6-10  
+**Level**: 6-10
 Important diplomatic documents require Trade Seal authentication, but the Seal has gone missing from its secure vault. The characters must recover it before a crucial treaty negotiation fails, potentially investigating corruption within the [02_Worldbuilding/Places/Parliament of Echoes]].
 
 ### The Succession Crisis
@@ -274,7 +274,7 @@ Research reveals that the Trade Seal contains fragments of [02_Worldbuilding/Lor
 > [!secret] DM Secret - The True Power Source
 > The Trade Seal doesn't just contain fragments of [[02_Worldbuilding/Lore/The Seven Shards—it IS one of the Seven Shards, disguised and repurposed by [02_Worldbuilding/Lore/Thalassius the Wise]]. Its authentication powers are actually reality-anchoring abilities, preventing documents from being altered by dimensional shifts or timeline changes.
 
-> [!secret] DM Secret - The Consciousness Within  
+> [!secret] DM Secret - The Consciousness Within
 > The Seal contains a fragment of [[02_Worldbuilding/Lore/Thalassius the Wise]]'s consciousness, allowing it to make moral judgments about its use. This intelligence occasionally communicates with worthy bearers through dreams or subtle magical impressions, providing guidance about governmental decisions.
 
 > [!secret] DM Secret - The Network Connection

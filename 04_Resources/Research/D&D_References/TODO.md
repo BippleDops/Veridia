@@ -1,7 +1,7 @@
 ---
 
 title: "type: research"
-tags: 
+tags:
 - active
 - research
 

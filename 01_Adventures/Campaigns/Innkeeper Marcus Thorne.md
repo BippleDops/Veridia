@@ -2,7 +2,7 @@
 
 title: Innkeeper Marcus Thorne
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

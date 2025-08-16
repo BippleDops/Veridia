@@ -30,7 +30,7 @@ related: []
 cssclass: standard
 publish: false --- # NPC_Relationship_Web.png_1 ## Portrait![[Relationship_Web|portrait_npc_relationship_web.png_1_(03_people).png]] *Portrait reference for NPC_Relationship_Web.png_1 (03_People)* ## Overview ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Relationship_Web.png_1 is a notable figure in the 
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Relationship_Web.png_1 is a notable figure in the
 *The [texture] surface feels [description] to the touch.*realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing

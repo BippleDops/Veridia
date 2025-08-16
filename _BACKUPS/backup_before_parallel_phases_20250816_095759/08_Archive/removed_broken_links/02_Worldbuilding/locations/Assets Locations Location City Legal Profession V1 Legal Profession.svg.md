@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Legal Profession V1 Legal Profession.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city legal profession v1 legal professionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

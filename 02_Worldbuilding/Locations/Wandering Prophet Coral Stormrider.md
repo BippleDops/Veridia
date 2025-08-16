@@ -2,7 +2,7 @@
 
 title: Wandering Prophet [[Coral Stormrider
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

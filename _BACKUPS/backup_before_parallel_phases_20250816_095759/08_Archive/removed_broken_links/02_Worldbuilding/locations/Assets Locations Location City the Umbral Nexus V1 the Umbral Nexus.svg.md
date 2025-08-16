@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Umbral Nexus V1 the Umbral Nexus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the umbral nexus v1 the umbral nexussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Court Herald Titus V1 Court Herald Titus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city court herald titus v1 court herald titussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

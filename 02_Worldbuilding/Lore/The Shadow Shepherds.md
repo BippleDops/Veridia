@@ -2,7 +2,7 @@
 
 title: The Shadow Shepherds
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

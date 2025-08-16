@@ -2,7 +2,7 @@
 
 title: [[regional Territory
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy
@@ -99,7 +99,7 @@ Regional Territory represents a crucial aspect of the world's history, cosmology
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -213,10 +213,10 @@ Regional Territory represents a crucial aspect of the world's history, cosmology
 - [Assets Locations Location City Archaeological Society V1 Archaeological Society.svg]]
 - [[Assets Locations Location City Archdeacon Felix Faithkeeper Archdeacon Felix Faithkeeper.svg
 - [Assets Locations Location City Archdeacon Felix Faithkeeper V1 Archdeacon Felix Faithkeeper.svg]]
-- 
-- 
-- 
-- 
+-
+-
+-
+-
 - [[Assets Locations Location City Archivist Elena Sorrowkeeper Archivist Elena Sorrowkeeper.svg
 - [Assets Locations Location City Archivist Elena Sorrowkeeper V1 Archivist Elena Sorrowkeeper.svg]]
 - [[Assets Locations Location City Archivist Methodius Recordkeeper Archivist Methodius Recordkeeper.svg
@@ -1765,10 +1765,10 @@ Regional Territory represents a crucial aspect of the world's history, cosmology
 - [Assets Locations Location City World Map World Map.svg]]
 - [[Assets Locations Location City the Aether Works V1 the Aether Works.svg
 - [Assets Locations Location City the Aether Works the Aether Works.svg]]
-- 
-- 
-- 
-- 
+-
+-
+-
+-
 - [[Assets Locations Location City the Azure Coast V1 the Azure Coast.svg
 - [Assets Locations Location City the Azure Coast the Azure Coast.svg]]
 - [[Assets Locations Location City the Banker Fish V1 the Banker Fish.svg
@@ -1793,8 +1793,8 @@ Regional Territory represents a crucial aspect of the world's history, cosmology
 - [Assets Locations Location City the Conductor the Conductor.png]]
 - [[Assets Locations Location City the Constellation Mystery V1 the Constellation Mystery.png
 - [Assets Locations Location City the Constellation Mystery the Constellation Mystery.png]]
-- 
-- 
+-
+-
 - [[Assets Locations Location City the Coral Palace Complex V1 the Coral Palace Complex.svg
 - [Assets Locations Location City the Coral Palace Complex the Coral Palace Complex.svg]]
 - [[Assets Locations Location City the Coral Throne V1 the Coral Throne.svg
@@ -1875,8 +1875,8 @@ Regional Territory represents a crucial aspect of the world's history, cosmology
 - [Assets Locations Location City the Gloom Gardens the Gloom Gardens.svg]]
 - [[Assets Locations Location City the Golden Trade Route V1 the Golden Trade Route.svg
 - [Assets Locations Location City the Golden Trade Route the Golden Trade Route.svg]]
-- 
-- 
+-
+-
 - [[Assets Locations Location City the Grand Bazaar of Echoing Coins V1 the Grand Bazaar of Echoing Coins.svg
 - [Assets Locations Location City the Grand Bazaar of Echoing Coins the Grand Bazaar of Echoing Coins.svg]]
 - [[Assets Locations Location City the Great Sky Harbor V1 the Great Sky Harbor.svg

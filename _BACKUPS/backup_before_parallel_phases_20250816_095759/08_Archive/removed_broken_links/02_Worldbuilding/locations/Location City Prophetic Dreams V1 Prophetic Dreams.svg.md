@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city prophetic dreams v1 prophetic dreamssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Prophetic Dreams V1 Prophetic Dreams.svg
 type: location

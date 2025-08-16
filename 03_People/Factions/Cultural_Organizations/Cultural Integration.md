@@ -2,7 +2,7 @@
 
 title: Cultural Integration
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

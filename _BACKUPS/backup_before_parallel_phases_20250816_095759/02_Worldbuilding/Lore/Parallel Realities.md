@@ -2,7 +2,7 @@
 
 title: Parallel Realities
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

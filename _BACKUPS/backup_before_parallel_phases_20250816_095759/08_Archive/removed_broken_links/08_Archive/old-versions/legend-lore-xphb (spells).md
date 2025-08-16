@@ -2,7 +2,7 @@
 
 title: legend-lore-xphb (spells)
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

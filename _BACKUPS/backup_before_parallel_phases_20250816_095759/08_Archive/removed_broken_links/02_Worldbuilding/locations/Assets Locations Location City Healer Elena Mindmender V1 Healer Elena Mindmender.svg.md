@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Healer Elena Mindmender V1 Healer Elena Mindmender.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city healer elena mindmender v1 healer elena
   mindmendersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -183,7 +183,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

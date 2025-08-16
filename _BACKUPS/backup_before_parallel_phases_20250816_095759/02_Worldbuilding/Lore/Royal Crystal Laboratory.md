@@ -2,7 +2,7 @@
 
 title: Royal [[Crystal Laboratory
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/lore
 - content/[[Npc

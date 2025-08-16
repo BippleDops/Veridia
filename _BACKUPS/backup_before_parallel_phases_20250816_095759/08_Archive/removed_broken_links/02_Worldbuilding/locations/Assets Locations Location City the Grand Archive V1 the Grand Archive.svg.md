@@ -1,9 +1,9 @@
 ---
 title: Assets Locations Location City the Grand Archive V1 the Grand Archive.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the grand archive v1 the grand archivesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

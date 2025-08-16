@@ -2,7 +2,7 @@
 
 title: Surface Coalition
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - active

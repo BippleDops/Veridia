@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Portal Network V1 Portal Network.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city portal network v1 portal networksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -182,7 +182,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

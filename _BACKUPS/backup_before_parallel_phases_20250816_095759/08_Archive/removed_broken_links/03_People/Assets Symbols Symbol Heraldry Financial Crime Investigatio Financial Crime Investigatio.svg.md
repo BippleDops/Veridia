@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Ficial Crime Investigatio Ficial Crime Investigatio.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry ficial crime investigatio ficial crime
   investigatiosvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

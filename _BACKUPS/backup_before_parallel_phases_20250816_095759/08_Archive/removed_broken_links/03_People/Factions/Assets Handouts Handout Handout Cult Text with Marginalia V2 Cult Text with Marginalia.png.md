@@ -2,11 +2,11 @@
 
 title: Assets Handouts Handout Handout Cult Text with Marginalia V2 Cult Text with
   Marginalia.png
-aliases: 
+aliases:
 - 04 Resources Assets Handouts handout handout cult text with marginalia v2 cult text
   with marginaliapng
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

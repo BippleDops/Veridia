@@ -2,7 +2,7 @@
 
 title: Hidden Shrine of Forgotten Depths
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

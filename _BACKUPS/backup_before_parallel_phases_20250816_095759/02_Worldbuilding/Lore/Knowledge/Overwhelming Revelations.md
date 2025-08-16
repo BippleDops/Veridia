@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Knowledge/Overwhelming Revelations
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

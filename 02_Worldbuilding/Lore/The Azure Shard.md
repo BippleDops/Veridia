@@ -2,7 +2,7 @@
 
 title: The [[Azure Shard
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/lore
 - content/[[Npc

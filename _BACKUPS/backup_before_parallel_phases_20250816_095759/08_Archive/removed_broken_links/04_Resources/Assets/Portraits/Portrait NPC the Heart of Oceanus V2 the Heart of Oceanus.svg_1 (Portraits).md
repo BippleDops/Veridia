@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the heart of oceanus v2 the heart of oceanussvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Heart of Oceanus V2 the Heart of Oceanus.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: Known [[locations
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

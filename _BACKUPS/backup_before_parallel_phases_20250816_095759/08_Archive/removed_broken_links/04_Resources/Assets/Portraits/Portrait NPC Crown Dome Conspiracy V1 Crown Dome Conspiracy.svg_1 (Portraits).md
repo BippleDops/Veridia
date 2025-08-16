@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc crown dome conspiracy v1 crown dome conspiracysvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Crown Dome Conspiracy V1 Crown Dome Conspiracy.svg
 type: npc

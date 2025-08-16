@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wealthy Goldstream Wealthy Goldstream.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wealthy goldstream wealthy goldstreamsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

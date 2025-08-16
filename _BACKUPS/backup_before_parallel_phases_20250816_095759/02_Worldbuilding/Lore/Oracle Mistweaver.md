@@ -2,7 +2,7 @@
 
 title: [[Oracle Mistweaver
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

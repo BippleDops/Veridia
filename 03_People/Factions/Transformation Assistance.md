@@ -2,7 +2,7 @@
 
 title: Transformation Assistance
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

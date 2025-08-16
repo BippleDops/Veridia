@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Religious Festivals Religious Festivals.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city religious festivals religious festivalssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

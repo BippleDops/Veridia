@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city barkeep mira algaebrew v1 barkeep mira algaebrewsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Barkeep Mira Algaebrew V1 Barkeep Mira Algaebrew.svg
 type: location

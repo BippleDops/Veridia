@@ -2,7 +2,7 @@
 
 title: [[Memory Trading Economy
 type: [Lore]]
-tags: 
+tags:
 - lore
 - dashboard
 - both

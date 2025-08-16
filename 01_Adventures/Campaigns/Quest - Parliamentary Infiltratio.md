@@ -2,7 +2,7 @@
 
 title: Quest   Parliamentary Infiltratio
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction
@@ -122,7 +122,7 @@ Things widely suspected
 ### What Happened Before
 - *[Recent events leading to this adventure]*
 
-### Current Situation  
+### Current Situation
 - *[What's happening now]*
 
 ### The Stakes

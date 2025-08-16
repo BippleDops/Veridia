@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city flame keeper brother ignatius flame keeper brother ignatiussvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Flame Keeper Brother Ignatius Flame Keeper Brother Ignatius.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: The Twin Prophets
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

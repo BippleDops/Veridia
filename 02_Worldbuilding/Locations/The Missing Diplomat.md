@@ -2,7 +2,7 @@
 
 title: The Missing Diplomat
 type: Location
-tags: 
+tags:
 - mechanics/social
 - aquabyssos
 - content/adventure

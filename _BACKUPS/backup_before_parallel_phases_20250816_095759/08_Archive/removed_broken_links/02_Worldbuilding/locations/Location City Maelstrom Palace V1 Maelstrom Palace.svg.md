@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city maelstrom palace v1 maelstrom palacesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Maelstrom Palace V1 Maelstrom Palace.svg
 type: location

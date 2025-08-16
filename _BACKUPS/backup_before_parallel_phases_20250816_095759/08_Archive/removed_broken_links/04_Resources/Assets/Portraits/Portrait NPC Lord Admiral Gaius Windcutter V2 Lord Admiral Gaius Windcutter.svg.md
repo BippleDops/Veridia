@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord admiral gaius windcutter v2 lord admiral gaius windcuttersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Admiral Gaius Windcutter V2 Lord Admiral Gaius Windcutter.svg
 type: npc

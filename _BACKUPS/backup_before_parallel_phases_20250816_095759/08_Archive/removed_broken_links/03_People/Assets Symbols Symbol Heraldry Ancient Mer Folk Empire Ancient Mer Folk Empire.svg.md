@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Ancient Mer Folk Empire Ancient Mer Folk Empire.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry ancient mer folk empire ancient mer
   folk empiresvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: Organizations the Unity Coalition
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

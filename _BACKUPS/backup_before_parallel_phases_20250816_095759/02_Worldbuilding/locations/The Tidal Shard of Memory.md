@@ -1,7 +1,7 @@
 ---
 title: The Tidal Shard of Memory
 type: Item
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - mechanics/magic

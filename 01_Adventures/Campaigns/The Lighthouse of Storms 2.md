@@ -5,7 +5,7 @@ current_status: Active but Unpredictable
 historical_period: Pre-Shattering to Present
 significance: Critical
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/lore

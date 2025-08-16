@@ -2,7 +2,7 @@
 
 title: Elemental Court
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Keeper Finn Goodtide Keeper Finn Goodtide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper finn goodtide keeper finn goodtidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

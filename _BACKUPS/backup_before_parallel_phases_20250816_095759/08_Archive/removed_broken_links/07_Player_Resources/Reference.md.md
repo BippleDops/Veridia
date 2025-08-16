@@ -33,7 +33,7 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections 
+- Connections
 *The [texture] surface feels [description] to the touch.*
 *Sounds of [relevant sounds] echo in the distance.*to overarching campaign themes ## Plot Hooks - Strange sightings suggest ancient magic - Someone is hunting an heir for power
 - An heirloom has gone missing and war looms

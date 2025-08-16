@@ -2,7 +2,7 @@
 
 title: Government Leader Capable
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

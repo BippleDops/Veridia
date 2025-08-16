@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Emperor Pelagic the Last Emperor Pelagic the
   Last.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc emperor pelagic the last emperor pelagic
   the lastsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

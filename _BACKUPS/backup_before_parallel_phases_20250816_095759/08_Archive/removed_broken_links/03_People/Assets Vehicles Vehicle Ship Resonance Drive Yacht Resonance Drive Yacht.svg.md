@@ -1,10 +1,10 @@
 ---
 
 title: Assets Vehicles Vehicle Ship Resoce Drive Yacht Resoce Drive Yacht.svg
-aliases: 
+aliases:
 - 04 Resources Assets Vehicles vehicle ship resoce drive yacht resoce drive yachtsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

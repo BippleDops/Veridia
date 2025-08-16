@@ -2,7 +2,7 @@
 
 title: Gamma Enforcement
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - prophecy

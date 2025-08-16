@@ -2,7 +2,7 @@
 
 title: Using a Published Setting D D Settings Xdmg
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

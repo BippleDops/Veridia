@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc find the shadow cure find the shadow curesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Find the Shadow Cure Find the Shadow Cure.svg
 type: npc

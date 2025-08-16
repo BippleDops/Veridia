@@ -3,7 +3,7 @@ enhanced: true
 
 title: Aquabyssos Survival Mechanics
 type: mechanics
-tags: 
+tags:
 - aquabyssos
 - mechanics
 - active

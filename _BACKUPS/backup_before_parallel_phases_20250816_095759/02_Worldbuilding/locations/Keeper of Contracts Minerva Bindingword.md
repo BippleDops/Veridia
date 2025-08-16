@@ -2,7 +2,7 @@
 
 title: Keeper of Contracts Minerva Bindingword
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

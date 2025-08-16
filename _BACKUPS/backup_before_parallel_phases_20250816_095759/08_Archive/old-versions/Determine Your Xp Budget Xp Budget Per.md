@@ -2,7 +2,7 @@
 
 title: Determine Your Xp Budget Xp Budget Per
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

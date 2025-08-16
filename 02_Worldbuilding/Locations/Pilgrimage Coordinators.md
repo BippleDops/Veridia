@@ -2,7 +2,7 @@
 
 title: Pilgrimage Coordinators
 type: [[location|location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

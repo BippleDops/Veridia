@@ -2,7 +2,7 @@
 
 title: Prismatic Plankton
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

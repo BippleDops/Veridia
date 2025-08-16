@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Administrative Wing V1 Administrative Wing.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city administrative wing v1 administrative
   wingsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the cure for madness v1 quest the cure for madnesssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Cure for Madness V1 Quest the Cure for Madness.svg
 type: npc

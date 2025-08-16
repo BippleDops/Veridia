@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Finn Goodtide V1 Finn Goodtide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city finn goodtide v1 finn goodtidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

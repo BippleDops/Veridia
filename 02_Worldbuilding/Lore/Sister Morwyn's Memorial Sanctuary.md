@@ -2,7 +2,7 @@
 
 title: [[Sister Morwyn's Memorial Sanctuary
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

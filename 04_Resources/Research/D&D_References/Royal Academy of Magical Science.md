@@ -2,7 +2,7 @@
 
 title: Royal Academy of Magical Science
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

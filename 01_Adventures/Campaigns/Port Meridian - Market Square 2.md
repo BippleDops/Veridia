@@ -8,7 +8,7 @@ danger_level: Low
 obsidianUIMode: preview
 security_level: moderate
 status: complete
-tags: 
+tags:
 - aethermoor
 - bustling
 - commerce
@@ -445,7 +445,7 @@ Interactions between people from different realms and cultures require special a
 **Master Jewelcrafter Luminous Sterling** (Premium Vendor - Inner Ring)
 The most prestigious jewelry artisan in Port Meridian, Sterling specializes in crystal-enhanced jewelry that combines aesthetic beauty with practical magical properties. Her pieces are sought after by nobility and wealthy merchants throughout multiple realms.
 
-**Specialties**: 
+**Specialties**:
 - Crystal meditation accessories that enhance mental clarity
 - Protective jewelry with defensive enchantments
 - Communication devices disguised as elegant accessories
@@ -457,7 +457,7 @@ The most prestigious jewelry artisan in Port Meridian, Sterling specializes in c
 **Master Provisioner Magnus Fairweight** (Premium Vendor - Inner Ring)
 The most trusted supplier of professional tools and equipment, Fairweight's establishment provides high-quality goods for craftsmen, professionals, and adventurers from across the realms.
 
-**Inventory**: 
+**Inventory**:
 - Precision tools for various crafts and professions
 - Magical implements and focus items
 - Professional-grade equipment for specialized work
@@ -471,7 +471,7 @@ The most trusted supplier of professional tools and equipment, Fairweight's esta
 **Exotic Spice Merchant Zara Aromascent** (Standard Vendor - Middle Ring)
 A dynamic young merchant who has built a thriving business importing rare spices and ingredients from multiple realms, Aromascent represents the new generation of international traders.
 
-**Business Model**: 
+**Business Model**:
 - Direct relationships with producers in various realms
 - Seasonal specialties and limited-time offerings
 - Custom spice blends for restaurants and households
@@ -483,7 +483,7 @@ A dynamic young merchant who has built a thriving business importing rare spices
 **Street Food Artist Pepper Quickfire** (Casual Trader - Outer Ring)
 A talented chef who has transformed simple street food into an art form, Quickfire operates a mobile food cart that has become legendary among market visitors.
 
-**Specialties**: 
+**Specialties**:
 - Fusion cuisine combining techniques from multiple realms
 - Quick, affordable meals that don't compromise on quality
 - Seasonal menus that showcase local ingredients
@@ -497,7 +497,7 @@ A talented chef who has transformed simple street food into an art form, Quickfi
 **Storyteller and Cultural Guide Elder Wisdom Taleweaver** (Entertainment Permit)
 A respected elder from a distant realm who serves as both entertainer and cultural educator, Taleweaver helps visitors understand the customs and traditions of different civilizations.
 
-**Services**: 
+**Services**:
 - Traditional stories and legends from multiple cultures
 - Cultural orientation for first-time visitors from other realms
 - Language instruction and communication assistance

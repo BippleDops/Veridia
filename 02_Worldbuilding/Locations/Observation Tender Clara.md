@@ -2,7 +2,7 @@
 
 title: Observation Tender Clara
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

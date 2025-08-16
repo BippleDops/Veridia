@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Coral Throne Syndicate Hq V1 Coral Throne Syndicate
   Hq.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral throne syndicate hq v1 coral throne
   syndicate hqsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

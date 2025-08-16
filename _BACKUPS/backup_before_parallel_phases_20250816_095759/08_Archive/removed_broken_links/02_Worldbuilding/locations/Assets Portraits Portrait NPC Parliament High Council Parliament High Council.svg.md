@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Parliament High Council Parliament High Council.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc parliament high council parliament high
   councilsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Living Tide Temples V1 the Living Tide Temples.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the living tide temples v1 the living
   tide templessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Handheld Mirror Set in a Painted Wooden
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

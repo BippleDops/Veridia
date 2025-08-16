@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Operations/Alternative Technology Promotion
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

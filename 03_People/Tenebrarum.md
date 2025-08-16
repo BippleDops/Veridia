@@ -1,7 +1,7 @@
 ---
 title: Tenebrarum
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - mysterious
 - ambassador

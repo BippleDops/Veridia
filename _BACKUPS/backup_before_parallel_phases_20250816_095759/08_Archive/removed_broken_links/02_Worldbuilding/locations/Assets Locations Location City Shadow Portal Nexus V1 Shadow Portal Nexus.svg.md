@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Shadow Portal Nexus V1 Shadow Portal Nexus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadow portal nexus v1 shadow portal
   nexussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

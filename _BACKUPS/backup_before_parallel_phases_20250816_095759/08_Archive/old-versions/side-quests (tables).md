@@ -2,7 +2,7 @@
 
 title: side-quests (tables)
 type: quest
-tags: 
+tags:
 - quest
 
 created: '2025-01-15'

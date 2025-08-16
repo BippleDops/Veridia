@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Sire Sire.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc sire siresvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

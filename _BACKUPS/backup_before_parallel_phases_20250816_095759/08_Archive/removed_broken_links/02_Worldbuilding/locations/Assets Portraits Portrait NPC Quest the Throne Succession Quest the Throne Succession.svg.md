@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Throne Succession Quest the Throne
   Succession.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the throne succession quest the
   throne successionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

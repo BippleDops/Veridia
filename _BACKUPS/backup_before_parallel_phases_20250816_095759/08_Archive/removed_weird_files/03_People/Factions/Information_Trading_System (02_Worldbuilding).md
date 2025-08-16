@@ -2,7 +2,7 @@
 
 title: Information Trading System
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

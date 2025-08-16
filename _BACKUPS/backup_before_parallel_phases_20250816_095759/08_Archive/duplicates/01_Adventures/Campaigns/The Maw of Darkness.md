@@ -1,7 +1,7 @@
 ---
 title: The Maw of Darkness
 type: quest
-tags: 
+tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -40,10 +40,10 @@ updated: '2025-08-13T01:18:34.504254+00:00'
 
 # The Maw of Darkness
 
-**Type:** Horror/Exploration  
-**Level:** 12-16  
-**[location]]:** [[Hadal Depth]], [[The Cerulean Trench, [Abyssos Prime]]  
-**Duration:** 4-5 sessions  
+**Type:** Horror/Exploration
+**Level:** 12-16
+**[location]]:** [[Hadal Depth]], [[The Cerulean Trench, [Abyssos Prime]]
+**Duration:** 4-5 sessions
 **Threat:** An ancient predator from before [[The Drowning has awakened and begun consuming memories, souls, and reality itself
 
 ## 🔧 Deep Evaluation Improvements
@@ -138,7 +138,7 @@ As the Maw awakens, its influence spreads:
 
 ### Session 1: Strange [[reports
 
-**Location:** [Abyssos Prime]]  
+**Location:** [Abyssos Prime]]
 **Objective:** Investigate initial reports of unusual phenomena
 
 **Strange Incidents:**
@@ -155,7 +155,7 @@ As the Maw awakens, its influence spreads:
 
 ### Session 2: Into the Depths
 
-**Location:** [[The Cerulean Trench, [[Hadal Depths|The [Hadal Depths]]]]  
+**Location:** [[The Cerulean Trench, [[Hadal Depths|The [Hadal Depths]]]]
 **Objective:** Trace the disturbances to their source
 
 **Deep Exploration Challenges:**
@@ -217,7 +217,7 @@ Traditional combat is impossible because:
 
 ## Session 3-4: The Race Against Erasure
 
-**Location:**   
+**Location:**
 **Objective:** Implement chosen solution before reality collapse becomes irreversible
 
 ### Conceptual Barriers Approach
@@ -230,11 +230,11 @@ Traditional combat is impossible because:
 
 **Key Encounters:**
 - **Forgotten Guards**
-**CR 7** (2,900 XP)  
+**CR 7** (2,900 XP)
 **Medium construct, neutral**
 **AS** 16 (Natural Armor), **HP** 68 (`dice: 8d8` + 32), **Speed** 30 ft.
 **STR** 18 (+4) **DEX** 14 (+2) **CON** 18 (+4) **INT** 3 (-4) **WIS** 10 (+0) **CHA** 1 (-5)
-**Skills** Perception +3  
+**Skills** Perception +3
 **Damage Resistances** Necrotic, Psychic
 **Damage Immunities** Poison, Charmed, [Exhaustion]], Frightened, Paralyzed, Petrified, Poisoned
 **Senses** Darkvision 60 ft., passive Perception 13
@@ -247,11 +247,11 @@ Traditional combat is impossible because:
 - **Memory Drain**: When it hits a creature, learns one random fact about their past
 
 **Memory Thieves**
-**CR 5** (1,800 XP)  
+**CR 5** (1,800 XP)
 **Medium humanoid (various), chaotic evil**
 **AS** 14 (Leather Armor), **HP** 58 (`dice: 9d8` + 18), **Speed** 30 ft.
 **STR** 10 (+0) **DEX** 18 (+4) **CON** 14 (+2) **INT** 16 (+3) **WIS** 12 (+1) **CHA** 14 (+2)
-**Skills** Deception +5, Sleight of Hand +7, Stealth +7  
+**Skills** Deception +5, Sleight of Hand +7, Stealth +7
 **Senses** passive Perception 11
 **Languages** Common, Thieves' Cant
 **Description:** Opportunists stealing experiences and memories before the Maw consumes them
@@ -262,11 +262,11 @@ Traditional combat is impossible because:
 - **Escape Artist**: Can squeeze through spaces as if one size smaller
 
 **[[Void Cult|[Void Cult]]ists]]**
-**CR 4** (1,100 XP)  
+**CR 4** (1,100 XP)
 **Medium humanoid (human), chaotic evil**
 **AS** 12 (Unarmored Defense), **HP** 45 (`dice: 7d8` + 14), **Speed** 30 ft.
 **STR** 11 (+0) **DEX** 14 (+2) **CON** 15 (+2) **INT** 10 (+0) **WIS** 8 (-1) **CHA** 16 (+3)
-**Skills** Deception +5, Religion +2  
+**Skills** Deception +5, Religion +2
 **Damage Resistances** Necrotic
 **Senses** passive Perception 9
 **Languages** Common, Void Speech (fragmentary)
@@ -280,12 +280,12 @@ Traditional combat is impossible because:
 - **Martyrdom**: When killed, creates 10-foot radius void zone for 1 minute
 
 **Void-Touched Remt**
-**CR 9** (5,000 XP)  
+**CR 9** (5,000 XP)
 **Medium humanoid (partially erased), chaotic neutral**
 **AS** 15 (Natural Armor), **HP** 112 (`dice: 15d8` + 45), **Speed** 30 ft., fly 60 ft. (hover)
 **STR** 14 (+2) **DEX** 20 (+5) **CON** 16 (+3) **INT** 8 (-1) **WIS** 12 (+1) **CHA** 18 (+4)
-**Saving Throws** Dex +9, Cha +8  
-**Skills** Stealth +9  
+**Saving Throws** Dex +9, Cha +8
+**Skills** Stealth +9
 **Damage Resistances** All damage types
 **Damage Immunities** Necrotic, Psychic
 **Condition Immunities** Charmed, Frightened
@@ -315,7 +315,7 @@ Traditional combat is impossible because:
 
 ## Session 5: [The Final Confrontation]]
 
-**Location:** [[12 Research - Conceptual Space  
+**Location:** [[12 Research - Conceptual Space
 **Objective:** Implement the final solution and survive the consequences
 
 ### Entering Conceptual Space

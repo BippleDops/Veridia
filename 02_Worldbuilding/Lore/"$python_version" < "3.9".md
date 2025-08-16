@@ -2,7 +2,7 @@
 
 title: "$python_version" < "3.9"
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

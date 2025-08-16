@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Archivist Elena Sorrowkeeper V1 Archivist Elena
   Sorrowkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archivist elena sorrowkeeper v1 archivist
   elena sorrowkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

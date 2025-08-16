@@ -2,7 +2,7 @@
 
 title: Shadow Medical License
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: dark-gift-of-seriach-the-hell-hound-whisperer-cos
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

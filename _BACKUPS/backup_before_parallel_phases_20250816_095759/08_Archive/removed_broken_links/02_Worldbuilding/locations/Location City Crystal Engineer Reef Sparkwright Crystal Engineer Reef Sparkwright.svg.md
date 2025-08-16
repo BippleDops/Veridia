@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city crystal engineer reef sparkwright crystal engineer reef sparkwrightsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Crystal Engineer Reef Sparkwright Crystal Engineer Reef Sparkwright.svg
 type: location

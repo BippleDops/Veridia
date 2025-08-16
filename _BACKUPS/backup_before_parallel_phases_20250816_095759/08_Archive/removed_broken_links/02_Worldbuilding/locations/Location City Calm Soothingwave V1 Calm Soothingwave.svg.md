@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city calm soothingwave v1 calm soothingwavesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Calm Soothingwave V1 Calm Soothingwave.svg
 type: location

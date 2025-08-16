@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Depth Crystal Harvest Depth Crystal Harvest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city depth crystal harvest depth crystal
   harvestsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -195,7 +195,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

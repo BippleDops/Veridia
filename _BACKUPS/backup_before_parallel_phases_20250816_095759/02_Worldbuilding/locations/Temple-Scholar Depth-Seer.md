@@ -2,7 +2,7 @@
 
 title: Temple Scholar Depth Seer
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

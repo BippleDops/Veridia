@@ -2,7 +2,7 @@
 
 title: Purist Coalition
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -2,7 +2,7 @@
 
 title: Probability Shields
 type: item
-tags: 
+tags:
 - active
 - item
 - prophecy

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Sky Trader Zephyr Windcatcher Sky Trader Zephyr
   Windcatcher.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sky trader zephyr windcatcher sky trader
   zephyr windcatchersvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor

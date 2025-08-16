@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Queen_Seraphina_Lumengarde
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

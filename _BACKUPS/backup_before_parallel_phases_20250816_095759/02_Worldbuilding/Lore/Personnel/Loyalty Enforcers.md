@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Personnel/Loyalty Enforcers
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

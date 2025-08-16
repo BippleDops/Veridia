@@ -2,7 +2,7 @@
 
 title: '#Planning'
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

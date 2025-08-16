@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Host Torrent Welcomeall Master Host Torrent
   Welcomeall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master host torrent welcomeall master
   host torrent welcomeallsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

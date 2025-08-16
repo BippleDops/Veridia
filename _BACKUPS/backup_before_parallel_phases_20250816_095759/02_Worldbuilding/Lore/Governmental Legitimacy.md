@@ -2,7 +2,7 @@
 
 title: Governmental Legitimacy
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

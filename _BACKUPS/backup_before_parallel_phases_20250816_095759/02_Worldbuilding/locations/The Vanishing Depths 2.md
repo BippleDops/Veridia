@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location
@@ -38,7 +38,7 @@ Other planes of existence leak through into the Depths, creating pockets of alie
 ### The Probability Gardens
 Areas where multiple versions of the same location exist simultaneously. Travelers might see a coral reef that is simultaneously blooming, dying, newly grown, and ancient. Each version is equally real, and observers can sometimes shift between them through focused will or magical intervention.
 
-### The Echo Zones  
+### The Echo Zones
 Regions where past events replay constantly, sometimes overlapping with present events. These echoes can be observed, interacted with, or even changed, potentially altering history. However, any changes tend to create paradoxes that make the reality instability worse.
 
 ### The Null Spheres
@@ -125,7 +125,7 @@ Every hour in the Depths, characters must make a Wisdom save (**DC 15** + hours 
 ### Magic Instability
 Spellcasting in the Depths is unpredictable:
 - Roll d20 when casting: 1-5 spell fails, 6-15 normal effect, 16-20 enhanced/altered effect
-- Spell slots might not be consumed (10% chance) or might consume extra slots (15% chance)  
+- Spell slots might not be consumed (10% chance) or might consume extra slots (15% chance)
 - Wild Magic effects occur 25% more often
 - Spells from different schools may spontaneously combine
 
@@ -161,7 +161,7 @@ Some believe the Vanishing Depths are connected to the deepest levels of the Vau
 ### [02_Worldbuilding/Places/New Tethys]]
 The city's research institutions send regular (though carefully planned) expeditions to study the Depths. The knowledge gained has advanced their understanding of memory magic and dimensional theory significantly.
 
-### [[02_Worldbuilding/Places/Aethermoor  
+### [[02_Worldbuilding/Places/Aethermoor
 Reality tears occasionally connect the Depths to the surface world, creating brief portals that allow limited travel between realms. These connections are unpredictable and extremely dangerous to use.
 
 ### [02_Worldbuilding/Places/The Hadal Depths]]
@@ -170,23 +170,23 @@ The boundary between the Vanishing Depths and the Hadal Depths is unclear, as bo
 ## Quest Hooks and Adventures
 
 ### The Stabilization Project
-**Level**: 13-17  
+**Level**: 13-17
 [[02_Worldbuilding/Places/New Tethys scientists believe they've found a way to permanently stabilize a section of the Depths, but they need adventurers to place quantum anchors at specific coordinates that keep changing as reality shifts.
 
-### The Paradox Investigation  
-**Level**: 11-15  
+### The Paradox Investigation
+**Level**: 11-15
 Someone has been deliberately creating temporal paradoxes in the Depths, and the resulting instabilities threaten to spread to stable areas. The party must identify and stop the perpetrator while navigating an increasingly chaotic environment.
 
 ### The Rescue Mission Recursive
-**Level**: 9-14  
+**Level**: 9-14
 A rescue expedition to find the Lost Expedition has itself gone missing. The party must find both groups while dealing with the fact that their rescue mission may create a temporal loop that traps them as well.
 
 ### The Reality War
-**Level**: 15-18  
+**Level**: 15-18
 Two factions of dimensional refugees are fighting for control of the most stable areas in the Depths. Their conflict is making the instabilities worse and threatening to tear open permanent rifts to hostile dimensions.
 
 ### The Temporal Heist
-**Level**: 12-16  
+**Level**: 12-16
 A valuable artifact was lost in the Depths decades ago, but temporal distortions mean it can still be retrieved from the past. The party must navigate to the right time period, steal the item, and return without creating paradoxes.
 
 ## Random Encounters (d12)
@@ -194,7 +194,7 @@ A valuable artifact was lost in the Depths decades ago, but temporal distortions
 2. **Temporal Echo**: Ghostly repetition of a past event with which characters can interact
 3. **Dimension Rift**: Portal to random plane opens for `dice: 1d4` rounds
 4. **The Same Explorer**: Party member's past/future self approaches with cryptic warnings
-5. **Possibility Cascade**: Multiple versions of the same event happen simultaneously  
+5. **Possibility Cascade**: Multiple versions of the same event happen simultaneously
 6. **Paradox Parasite Swarm**: Creatures feeding on logical contradictions
 7. **Crystallized Moment**: Time crystal showing important past/future event
 8. **Reality Refugee Camp**: Displaced beings from other dimensions seeking help

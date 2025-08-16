@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Personnel/Corruption Trackers
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

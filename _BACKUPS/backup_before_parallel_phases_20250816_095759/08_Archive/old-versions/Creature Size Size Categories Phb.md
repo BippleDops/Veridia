@@ -2,7 +2,7 @@
 
 title: Creature Size Size Categories Phb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

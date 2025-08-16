@@ -2,7 +2,7 @@
 
 title: dust-of-sneezing-and-choking-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: Security Officer Guard Stormwind
 type: [[Lore
-tags: 
+tags:
 - lore
 - both worlds
 - content/lore

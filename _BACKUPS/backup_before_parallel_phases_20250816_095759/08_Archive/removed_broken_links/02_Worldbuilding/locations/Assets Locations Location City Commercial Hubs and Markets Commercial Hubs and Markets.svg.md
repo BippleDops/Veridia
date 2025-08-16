@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Commercial Hubs and Markets Commercial Hubs
   and Markets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city commercial hubs and markets commercial
   hubs and marketssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -203,7 +203,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

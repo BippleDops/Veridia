@@ -2,7 +2,7 @@
 
 title: [[DM Screen
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Purification Temples V1 the Purification
   Temples.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the purification temples v1 the purification
   templessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

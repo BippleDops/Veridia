@@ -2,7 +2,7 @@
 
 title: Variant Mixing Potions Potion Miscibility
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

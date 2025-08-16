@@ -2,7 +2,7 @@
 
 title: Futures Master Economic Sense
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

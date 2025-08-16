@@ -2,7 +2,7 @@
 
 title: Seasonal Quarters
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

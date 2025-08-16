@@ -2,7 +2,7 @@
 
 title: Doctor Harmony Whisperfall
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

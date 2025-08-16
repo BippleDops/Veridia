@@ -2,7 +2,7 @@
 
 title: The Bleeding Chambers
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore
@@ -107,7 +107,7 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city senator cornelius depthwalker v1 senator cornelius depthwalkersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Senator Cornelius Depthwalker V1 Senator Cornelius Depthwalker.svg
 type: location

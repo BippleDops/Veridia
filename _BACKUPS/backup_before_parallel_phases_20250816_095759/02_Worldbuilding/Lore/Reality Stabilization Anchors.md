@@ -2,7 +2,7 @@
 
 title: [[Reality Stabilization Anchors
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

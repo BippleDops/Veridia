@@ -2,7 +2,7 @@
 
 title: Captain Marcus
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - status/complete
 - military

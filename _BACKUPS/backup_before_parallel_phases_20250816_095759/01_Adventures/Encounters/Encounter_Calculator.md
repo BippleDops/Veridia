@@ -1,13 +1,13 @@
 # Encounter Difficulty Calculator
 
 ## Party Information
-- **Number of PCs**: 
-- **Average Level**: 
+- **Number of PCs**:
+- **Average Level**:
 - **Total Party XP Threshold**:
-  - Easy: 
-  - Medium: 
-  - Hard: 
-  - Deadly: 
+  - Easy:
+  - Medium:
+  - Hard:
+  - Deadly:
 
 ## XP Thresholds by Level
 

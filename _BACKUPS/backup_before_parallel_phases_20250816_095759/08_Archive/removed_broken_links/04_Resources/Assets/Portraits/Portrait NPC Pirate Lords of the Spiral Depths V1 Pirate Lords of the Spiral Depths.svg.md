@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc pirate lords of the spiral depths v1 pirate lords of the spiral depthssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Pirate Lords of the Spiral Depths V1 Pirate Lords of the Spiral
   Depths.svg

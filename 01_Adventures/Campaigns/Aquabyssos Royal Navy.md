@@ -2,7 +2,7 @@
 
 title: [[Aquabyssos Royal Navy
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - world/aquabyssos

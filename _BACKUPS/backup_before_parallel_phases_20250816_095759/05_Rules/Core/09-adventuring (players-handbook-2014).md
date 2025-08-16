@@ -213,4 +213,4 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Connects to [Noble Houses of Aethermoor]]
 - Affected by [[Location City Martha Hillbrook V1 Martha Hillbrook.svg
 - Originates from [Foreign Merchants 2]]
-- Originates from 
+- Originates from

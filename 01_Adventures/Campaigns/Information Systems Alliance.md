@@ -2,7 +2,7 @@
 
 title: Information Systems Alliance
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

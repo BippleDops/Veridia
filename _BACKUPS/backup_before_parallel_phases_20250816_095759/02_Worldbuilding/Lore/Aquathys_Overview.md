@@ -2,7 +2,7 @@
 
 title: Aquathys_Overview
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

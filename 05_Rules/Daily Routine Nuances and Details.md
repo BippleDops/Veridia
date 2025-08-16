@@ -2,7 +2,7 @@
 
 title: Daily Routine Nuances and Details
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - aerial
@@ -167,7 +167,7 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 - Taking turns operating secondary systems (navigation, comfort) shows community spirit
 - Emergency procedures practiced monthly by regular passenger [Groups]]
 
-### Aethermoor Transportation Timing  
+### Aethermoor Transportation Timing
 
 **Aerial Traffic Patterns**:
 - Morning flights follow rising thermal currents for energy efficiency
@@ -631,7 +631,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

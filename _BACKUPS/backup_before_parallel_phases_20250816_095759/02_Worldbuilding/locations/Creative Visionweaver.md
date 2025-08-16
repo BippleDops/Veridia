@@ -2,7 +2,7 @@
 
 title: Creative Visionweaver
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Resoce Prophet the Resoce Prophet.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the resoce prophet the resoce prophetsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

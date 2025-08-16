@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city truth verification magic v1 truth verification magicsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Truth Verification Magic V1 Truth Verification Magic.svg
 type: location

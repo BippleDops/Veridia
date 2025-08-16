@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city veiled hierophant v1 veiled hierophantsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Veiled Hierophant V1 Veiled Hierophant.svg
 type: location

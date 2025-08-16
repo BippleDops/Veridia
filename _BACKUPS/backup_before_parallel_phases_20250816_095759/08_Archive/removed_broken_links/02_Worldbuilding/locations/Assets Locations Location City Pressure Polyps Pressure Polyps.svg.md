@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pressure Polyps Pressure Polyps.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure polyps pressure polypssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -169,7 +169,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

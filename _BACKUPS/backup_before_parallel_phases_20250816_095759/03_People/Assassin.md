@@ -2,7 +2,7 @@
 
 title: Assassin
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -35,18 +35,18 @@ improvements: 20
 
 *Medium humanoid (half-elf), chaotic neutral*
 
-**Armor Class** 17 (Studded Leather +2)  
-**Hit Points** 78 (`dice: `dice: 12d8`` + 24)  
+**Armor Class** 17 (Studded Leather +2)
+**Hit Points** 78 (`dice: `dice: 12d8`` + 24)
 **Speed** 30 ft., climb 30 ft.
 
 **STR** 10 (+0) **DEX** 20 (+5) **CON** 14 (+2) **INT** 16 (+3) **WIS** 15 (+2) **CHA** 12 (+1)
 
-**Saving Throws** Dex +10, Int +8  
-**Skills** Acrobatics +10, Deception +6, Insight +7, Investigation +8, Perception +7, Sleight of Hand +10, Stealth +15  
-**Damage Resistances** Necrotic (shadow corruption)  
-**Senses** Darkvision 60 ft., passive Perception 17  
-**Languages** Common, Elvish, Thieves' Cant, Aquabyssan  
-**Challenge Rating** 8 (3,900 XP)  
+**Saving Throws** Dex +10, Int +8
+**Skills** Acrobatics +10, Deception +6, Insight +7, Investigation +8, Perception +7, Sleight of Hand +10, Stealth +15
+**Damage Resistances** Necrotic (shadow corruption)
+**Senses** Darkvision 60 ft., passive Perception 17
+**Languages** Common, Elvish, Thieves' Cant, Aquabyssan
+**Challenge Rating** 8 (3,900 XP)
 **Proficiency Bonus** +3
 
 ## 🔧 Deep Evaluation Improvements

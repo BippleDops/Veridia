@@ -2,7 +2,7 @@
 
 title: Crafting Magic Magic Item Crafting Time and Cost Xge
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

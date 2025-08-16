@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Courier Ripplestone Courier Ripplestone.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city courier ripplestone courier ripplestonesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

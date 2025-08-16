@@ -2,7 +2,7 @@
 
 title: Quieting the Depths
 type: Location
-tags: 
+tags:
 - aquabyssos
 - supernatural
 - content/adventure
@@ -241,7 +241,7 @@ Ongoing situations affecting Quieting the Depths:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

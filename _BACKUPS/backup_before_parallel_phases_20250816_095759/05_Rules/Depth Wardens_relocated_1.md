@@ -2,7 +2,7 @@
 
 title: [[Depth Wardens
 type: [location]]
-tags: 
+tags:
 - aquabyssos
 - law-enforcement
 - status/complete

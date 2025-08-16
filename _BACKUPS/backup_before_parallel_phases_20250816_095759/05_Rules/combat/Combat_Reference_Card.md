@@ -2,7 +2,7 @@
 
 title: Combat_Reference_Card
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

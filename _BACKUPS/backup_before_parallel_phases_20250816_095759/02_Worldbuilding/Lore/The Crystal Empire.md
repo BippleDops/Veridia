@@ -2,7 +2,7 @@
 
 title: The Crystal Empire
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

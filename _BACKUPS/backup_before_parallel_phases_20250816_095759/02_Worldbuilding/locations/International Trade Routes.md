@@ -2,7 +2,7 @@
 
 title: [[International Trade Routes
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

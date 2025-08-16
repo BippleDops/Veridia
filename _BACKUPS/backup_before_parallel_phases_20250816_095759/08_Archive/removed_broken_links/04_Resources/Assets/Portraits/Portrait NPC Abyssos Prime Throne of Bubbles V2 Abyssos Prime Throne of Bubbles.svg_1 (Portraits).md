@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc abyssos prime throne of bubbles v2 abyssos prime throne of bubblessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Abyssos Prime Throne of Bubbles V2 Abyssos Prime Throne of Bubbles.svg
 type: npc

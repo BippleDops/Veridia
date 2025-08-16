@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Equipment/Emergency Life Support
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

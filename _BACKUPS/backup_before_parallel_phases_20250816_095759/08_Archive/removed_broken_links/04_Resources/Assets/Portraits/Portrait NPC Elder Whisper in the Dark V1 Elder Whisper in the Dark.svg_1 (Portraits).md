@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc elder whisper in the dark v1 elder whisper in the darksvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Elder Whisper in the Dark V1 Elder Whisper in the Dark.svg
 type: npc

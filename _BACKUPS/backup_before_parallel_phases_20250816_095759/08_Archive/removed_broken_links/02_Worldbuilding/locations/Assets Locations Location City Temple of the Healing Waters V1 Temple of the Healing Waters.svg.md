@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple of the Healing Waters V1 Temple of the
   Healing Waters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of the healing waters v1 temple
   of the healing waterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -172,7 +172,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: The Depth Compass
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

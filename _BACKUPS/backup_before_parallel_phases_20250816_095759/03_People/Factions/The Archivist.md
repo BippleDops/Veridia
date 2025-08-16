@@ -2,7 +2,7 @@
 
 title: The Archivist
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction
@@ -142,4 +142,4 @@ Things widely suspected
 
 ## References
 
-- 
+-

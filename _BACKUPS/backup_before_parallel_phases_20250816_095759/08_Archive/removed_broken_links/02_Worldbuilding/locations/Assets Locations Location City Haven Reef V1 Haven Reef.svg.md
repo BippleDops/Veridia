@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Haven Reef V1 Haven Reef.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city haven reef v1 haven reefsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

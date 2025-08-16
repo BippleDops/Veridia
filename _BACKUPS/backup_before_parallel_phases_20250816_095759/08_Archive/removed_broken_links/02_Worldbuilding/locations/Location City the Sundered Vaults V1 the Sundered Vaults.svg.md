@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the sundered vaults v1 the sundered vaultssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Sundered Vaults V1 the Sundered Vaults.svg
 type: location

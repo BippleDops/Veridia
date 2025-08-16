@@ -2,7 +2,7 @@
 
 title: Research Council
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

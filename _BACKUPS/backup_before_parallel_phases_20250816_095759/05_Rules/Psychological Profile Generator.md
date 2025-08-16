@@ -4,7 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 rarity: Unknown
-tags: 
+tags:
 - item
 title: Psychological Profile Generator
 type: item

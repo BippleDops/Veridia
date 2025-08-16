@@ -2,7 +2,7 @@
 
 title: High Priestess Celeste Dawnbringer
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -29,7 +29,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -310,7 +310,7 @@ Celeste is approaching a psychological crisis that could manifest in several way
 
 ## Adventure Hooks - Expanded
 1. **The Corruption Crisis**: New form of corruption appears that her treatments can't touch
-2. **The Suspicious Investigator**: Church authority arrives to examine her research methods  
+2. **The Suspicious Investigator**: Church authority arrives to examine her research methods
 3. **The Cure Component**: Rare material needed for breakthrough cure is in dangerous location
 4. **The Royal Collapse**: Queen's condition deteriorates rapidly, forcing desperate measures
 5. **The Moral Test**: Party must decide whether to help or expose her conspiracy
@@ -327,7 +327,7 @@ Celeste is approaching a psychological crisis that could manifest in several way
 - Features stained glass windows that amplify divine magic
 - Hidden mechanisms allow rapid conversion to defensive position
 
-**The High Altar of Restoration** 
+**The High Altar of Restoration**
 - Sacred space where most powerful healing rituals are performed
 - Contains fragments of pre-corruption divine artifacts
 - Surrounded by living crystal formations that respond to divine energy
@@ -390,7 +390,7 @@ Member of House Lionblood - Trait: divine blood
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

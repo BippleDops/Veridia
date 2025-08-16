@@ -2,7 +2,7 @@
 
 title: The Shadow Awakening
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

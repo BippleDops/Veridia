@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Queen Lyralei Stormheart Queen Lyralei Stormheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc queen lyralei stormheart queen lyralei
   stormheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

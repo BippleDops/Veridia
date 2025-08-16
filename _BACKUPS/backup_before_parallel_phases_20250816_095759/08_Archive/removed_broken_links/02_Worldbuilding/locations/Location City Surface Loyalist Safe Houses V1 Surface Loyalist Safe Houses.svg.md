@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city surface loyalist safe houses v1 surface loyalist safe housessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Surface Loyalist Safe Houses V1 Surface Loyalist Safe Houses.svg
 type: location

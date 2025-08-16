@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC High Chamberlain Nautilus Deepcurrent High Chamberlain
   Nautilus Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc high chamberlain nautilus deepcurrent
   high chamberlain nautilus deepcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Storm Guard
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

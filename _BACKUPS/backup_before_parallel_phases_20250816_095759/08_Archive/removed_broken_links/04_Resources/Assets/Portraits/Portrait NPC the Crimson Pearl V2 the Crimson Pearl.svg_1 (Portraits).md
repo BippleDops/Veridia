@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the crimson pearl v2 the crimson pearlsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Crimson Pearl V2 the Crimson Pearl.svg
 type: npc

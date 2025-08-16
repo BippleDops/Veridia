@@ -2,7 +2,7 @@
 
 title: Dangerous Goods Storage
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

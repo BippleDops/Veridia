@@ -2,7 +2,7 @@
 
 title: Plague Crisis
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

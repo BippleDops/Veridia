@@ -2,7 +2,7 @@
 
 title: Medical Cover Operations Center
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

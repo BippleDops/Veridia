@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc enforcer chief mako ironjaw v1 enforcer chief mako ironjawsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Enforcer Chief Mako Ironjaw V1 Enforcer Chief Mako Ironjaw.svg
 type: npc

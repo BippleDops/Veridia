@@ -2,7 +2,7 @@
 
 title: [[Merchant Prince Vortex
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

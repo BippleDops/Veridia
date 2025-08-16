@@ -2,7 +2,7 @@
 
 title: The Forbidden Section
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

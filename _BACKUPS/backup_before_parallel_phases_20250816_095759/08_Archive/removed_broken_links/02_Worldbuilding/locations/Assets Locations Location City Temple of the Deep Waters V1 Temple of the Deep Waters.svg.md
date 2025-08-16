@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple of the Deep Waters V1 Temple of the Deep
   Waters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of the deep waters v1 temple
   of the deep waterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -204,7 +204,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

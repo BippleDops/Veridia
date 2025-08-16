@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Twin Prophets V1 the Twin Prophets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the twin prophets v1 the twin prophetssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -172,7 +172,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

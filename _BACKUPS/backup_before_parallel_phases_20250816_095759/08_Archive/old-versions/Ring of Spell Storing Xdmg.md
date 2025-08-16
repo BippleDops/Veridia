@@ -2,7 +2,7 @@
 
 title: Ring of Spell Storing Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

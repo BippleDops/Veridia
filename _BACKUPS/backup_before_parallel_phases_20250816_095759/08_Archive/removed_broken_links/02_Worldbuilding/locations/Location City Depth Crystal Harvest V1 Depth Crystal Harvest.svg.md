@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city depth crystal harvest v1 depth crystal harvestsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Depth Crystal Harvest V1 Depth Crystal Harvest.svg
 type: location

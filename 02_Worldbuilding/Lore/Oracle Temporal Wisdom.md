@@ -2,7 +2,7 @@
 
 title: [[Oracle Temporal Wisdom
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

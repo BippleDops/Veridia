@@ -2,7 +2,7 @@
 
 title: Crystal Resoce Detector
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Navigation Geograph Navigation Geograph.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry navigation geograph navigation geographsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

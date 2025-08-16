@@ -6,7 +6,7 @@ festival_type: Annual Community Celebration
 participants: All Aquabyssos Communities
 season: Spring
 status: complete
-tags: 
+tags:
 - aquabyssos
 - celebration
 - community

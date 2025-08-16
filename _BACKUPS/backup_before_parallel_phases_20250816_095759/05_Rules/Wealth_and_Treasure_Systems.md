@@ -3,7 +3,7 @@ enhanced: true
 
 title: Wealth and Treasure Systems
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 
@@ -28,7 +28,7 @@ publish: false
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. Wealth and Treasure Systems provides a structured approach to handling specific game situations that benefit from additional mechanical depth. 
+**Details**: Rich sensory elements bring this to life. Wealth and Treasure Systems provides a structured approach to handling specific game situations that benefit from additional mechanical depth.
 *The [texture] surface feels [description] to the touch.*This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Indigo Deepdye Indigo Deepdye.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city indigo deepdye indigo deepdyesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

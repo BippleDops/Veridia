@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Royal Treasury V1 Royal Treasury.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal treasury v1 royal treasurysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

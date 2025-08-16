@@ -2,7 +2,7 @@
 
 title: Pelagic the Current Walker
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

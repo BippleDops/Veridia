@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Equipment/Corruption Purification Systems
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

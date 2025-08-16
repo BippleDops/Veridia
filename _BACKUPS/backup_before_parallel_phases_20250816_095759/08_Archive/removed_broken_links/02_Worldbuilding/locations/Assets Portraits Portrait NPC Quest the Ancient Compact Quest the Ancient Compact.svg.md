@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Quest the Ancient Compact Quest the Ancient Compact.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the ancient compact quest the ancient
   compactsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -192,7 +192,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

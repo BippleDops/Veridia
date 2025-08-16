@@ -2,7 +2,7 @@
 
 title: Master Banker Cornelius Coinwrigh
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: New Quest
 type: quest
-tags: 
+tags:
 - quest
 
 created: '2025-01-15'
@@ -41,7 +41,7 @@ status: unknown
 world: Both
 updated: '2025-08-13T01:18:31.203356+00:00'
 
---- 
+---
 
 ---
 

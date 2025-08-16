@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Memory Sharing Techniques Memory Sharing Techniques.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory sharing techniques memory sharing
   techniquessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

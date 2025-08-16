@@ -2,7 +2,7 @@
 
 title: Duchess Wave Tsunami
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

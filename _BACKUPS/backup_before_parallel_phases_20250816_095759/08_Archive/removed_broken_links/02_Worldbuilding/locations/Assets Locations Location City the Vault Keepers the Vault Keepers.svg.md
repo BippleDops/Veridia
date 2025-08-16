@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Vault Keepers the Vault Keepers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the vault keepers the vault keeperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

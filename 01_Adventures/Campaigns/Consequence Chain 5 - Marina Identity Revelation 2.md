@@ -1,11 +1,11 @@
 ---
 created: '2025-08-12'
 magnitude: 3
-primary_sessions: 
+primary_sessions:
 - 'Session 04: The Silverscale Gambit'
 - 'Session 08: Between Two Worlds'
 status: complete
-tags: 
+tags:
 - both worlds
 - campaign/arc
 - complete

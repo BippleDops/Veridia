@@ -2,7 +2,7 @@
 
 title: Master_Places_Index
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

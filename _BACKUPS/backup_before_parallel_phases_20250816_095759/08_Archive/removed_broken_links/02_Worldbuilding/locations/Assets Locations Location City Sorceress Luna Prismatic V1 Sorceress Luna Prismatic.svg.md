@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Sorceress Luna Prismatic V1 Sorceress Luna Prismatic.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sorceress luna prismatic v1 sorceress
   luna prismaticsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

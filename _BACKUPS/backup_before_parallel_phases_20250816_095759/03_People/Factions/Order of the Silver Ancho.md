@@ -2,7 +2,7 @@
 
 title: Order of the Silver Ancho
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

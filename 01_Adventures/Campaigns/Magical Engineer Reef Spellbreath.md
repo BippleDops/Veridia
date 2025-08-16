@@ -2,7 +2,7 @@
 
 title: Magical Engineer Reef Spellbreath
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

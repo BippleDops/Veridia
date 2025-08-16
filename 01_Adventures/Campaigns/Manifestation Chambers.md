@@ -2,7 +2,7 @@
 
 title: Manifestation Chambers
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

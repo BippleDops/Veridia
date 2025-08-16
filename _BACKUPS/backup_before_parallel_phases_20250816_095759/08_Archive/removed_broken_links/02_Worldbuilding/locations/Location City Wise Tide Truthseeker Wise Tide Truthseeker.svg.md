@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city wise tide truthseeker wise tide truthseekersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Wise Tide Truthseeker Wise Tide Truthseeker.svg
 type: location

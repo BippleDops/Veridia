@@ -2,7 +2,7 @@
 
 title: Missing Persons of Port Meridian
 type: Location
-tags: 
+tags:
 - content/adventure
 - mechanics/exploration
 - status/complete
@@ -250,7 +250,7 @@ Ongoing situations affecting Missing Persons of Port Meridian:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

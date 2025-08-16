@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Shadow Citizenship Act Shadow Citizenship Act.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc shadow citizenship act shadow citizenship
   actsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

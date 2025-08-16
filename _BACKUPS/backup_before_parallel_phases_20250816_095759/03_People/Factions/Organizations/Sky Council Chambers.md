@@ -2,7 +2,7 @@
 
 title: Sky Council Chambers
 type: organization
-tags: 
+tags:
 - organization
 - cult
 - bloodline

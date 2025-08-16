@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Hidden Cove of Whispers V1 the Hidden Cove
   of Whispers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the hidden cove of whispers v1 the hidden
   cove of whisperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

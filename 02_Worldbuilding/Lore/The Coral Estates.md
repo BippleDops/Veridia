@@ -2,7 +2,7 @@
 
 title: The [[Coral Estates
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - content/adventure

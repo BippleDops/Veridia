@@ -2,7 +2,7 @@
 
 title: Portal Terminal Central
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]
@@ -171,7 +171,7 @@ Mentioned in The Hidden Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc queen nerida v1 queen neridasvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: portrait npc queen nerida v1 queen nerida.svg
 type: npc

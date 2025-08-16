@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Amnesia Gallery V1 Amnesia Gallery.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city amnesia gallery v1 amnesia gallerysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

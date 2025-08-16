@@ -2,7 +2,7 @@
 
 title: Memory Court
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

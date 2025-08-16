@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Pre-Submersion_Ruins.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

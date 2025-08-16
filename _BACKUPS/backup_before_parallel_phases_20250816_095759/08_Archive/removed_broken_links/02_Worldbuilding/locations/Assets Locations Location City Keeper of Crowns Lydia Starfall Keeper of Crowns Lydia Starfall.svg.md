@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Keeper of Crowns Lydia Starfall Keeper of Crowns
   Lydia Starfall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper of crowns lydia starfall keeper
   of crowns lydia starfallsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

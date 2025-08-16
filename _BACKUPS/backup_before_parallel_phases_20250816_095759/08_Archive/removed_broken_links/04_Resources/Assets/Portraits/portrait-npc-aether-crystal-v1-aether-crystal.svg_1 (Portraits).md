@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc aether crystal v1 aether crystalsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: portrait npc aether crystal v1 aether crystal.svg
 type: npc

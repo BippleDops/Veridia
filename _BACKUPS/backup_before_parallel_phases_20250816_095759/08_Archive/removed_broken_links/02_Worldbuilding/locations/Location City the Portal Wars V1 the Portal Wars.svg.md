@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the portal wars v1 the portal warssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Portal Wars V1 the Portal Wars.svg
 type: location

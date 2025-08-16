@@ -2,7 +2,7 @@
 
 title: Harbor Pilot Captain Storm Skyreacher
 type: [[location
-tags: 
+tags:
 - both
 - aerial
 - world/both

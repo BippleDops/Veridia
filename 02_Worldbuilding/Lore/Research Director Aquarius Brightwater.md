@@ -2,7 +2,7 @@
 
 title: Research Director Aquarius Brightwater
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

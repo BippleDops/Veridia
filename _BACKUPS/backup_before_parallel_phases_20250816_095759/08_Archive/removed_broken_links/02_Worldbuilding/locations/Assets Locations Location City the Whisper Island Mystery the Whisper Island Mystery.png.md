@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Whisper Island Mystery the Whisper Island
   Mystery.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the whisper island mystery the whisper
   island mysterypng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

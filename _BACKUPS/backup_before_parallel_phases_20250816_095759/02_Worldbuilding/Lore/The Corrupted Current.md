@@ -2,7 +2,7 @@
 
 title: The Corrupted Current
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

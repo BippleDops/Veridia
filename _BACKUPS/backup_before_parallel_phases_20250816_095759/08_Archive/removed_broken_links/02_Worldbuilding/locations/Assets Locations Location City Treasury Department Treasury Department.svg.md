@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Treasury Department Treasury Department.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city treasury department treasury departmentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -177,7 +177,7 @@ Key locations marked:
 - **Undead**: skeleton
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 5
-  
+
 ### Environmental Hazards
 - Collapsing ceiling
 - **DC 15** to detect
@@ -195,7 +195,7 @@ Key locations marked:
 - **Recent History**: Plague 40 years ago
 - **Living Memory**: Murder last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Festival in 10 days
 - **Brewing Conflict**: Trade war
 - **Prophecy Connection**: Links to The Hidden Prophecy of Winds
@@ -211,7 +211,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

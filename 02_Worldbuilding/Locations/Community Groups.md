@@ -2,7 +2,7 @@
 
 title: Community Groups
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

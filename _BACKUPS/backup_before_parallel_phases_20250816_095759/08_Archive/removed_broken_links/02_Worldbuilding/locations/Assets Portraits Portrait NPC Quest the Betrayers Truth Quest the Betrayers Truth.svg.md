@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Betrayers Truth Quest the Betrayers
   Truth.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the betrayers truth quest the betrayers
   truthsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

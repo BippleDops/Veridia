@@ -2,7 +2,7 @@
 
 title: Services [[Cosmic Horror Conditioning
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

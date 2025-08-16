@@ -8,9 +8,9 @@ type: quest
 *A escort quest for 4-6 characters of levels 3-7*
 
 ## Overview
-**Quest Giver**: Ivan Fireborn (Tiefling Rogue)  
-**Location**: The Rusty Anchor tavern in Bexley  
-**Type**: Escort Quest  
+**Quest Giver**: Ivan Fireborn (Tiefling Rogue)
+**Location**: The Rusty Anchor tavern in Bexley
+**Type**: Escort Quest
 **Objective**: Safely deliver the merchant caravan through bandit territory
 
 ## Background

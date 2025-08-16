@@ -2,7 +2,7 @@
 
 title: The Unnamed Watcher
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

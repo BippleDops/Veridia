@@ -2,7 +2,7 @@
 
 title: Sea Silk
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

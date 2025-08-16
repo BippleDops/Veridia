@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city kelp forest v1 kelp forestsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: location city kelp forest v1 kelp forest.svg
 type: location

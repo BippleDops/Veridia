@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Pilgrim Guide Nautilus Pathfinder V1 Pilgrim
   Guide Nautilus Pathfinder.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pilgrim guide nautilus pathfinder v1
   pilgrim guide nautilus pathfindersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -189,7 +189,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

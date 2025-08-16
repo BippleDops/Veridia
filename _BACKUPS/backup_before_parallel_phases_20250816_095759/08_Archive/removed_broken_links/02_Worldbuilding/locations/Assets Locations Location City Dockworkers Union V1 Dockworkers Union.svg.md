@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Dockworkers Union V1 Dockworkers Union.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city dockworkers union v1 dockworkers unionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

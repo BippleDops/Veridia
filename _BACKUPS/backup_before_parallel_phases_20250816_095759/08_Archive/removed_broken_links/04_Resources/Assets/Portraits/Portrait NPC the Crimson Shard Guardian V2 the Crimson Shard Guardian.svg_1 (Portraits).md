@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the crimson shard guardian v2 the crimson shard guardiansvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Crimson Shard Guardian V2 the Crimson Shard Guardian.svg
 type: npc

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Watchfulrest V1 Deep Watchfulrest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep watchfulrest v1 deep watchfulrestsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

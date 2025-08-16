@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the deep trade routes v1 the deep trade routessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Deep Trade Routes V1 the Deep Trade Routes.svg
 type: npc

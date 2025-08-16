@@ -2,7 +2,7 @@
 
 title: Dissolution Chambers
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -2,7 +2,7 @@
 
 title: Yester Hill Axe Cos
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

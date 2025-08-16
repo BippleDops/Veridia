@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city paradox engineer zeno v1 paradox engineer zenosvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Paradox Engineer Zeno V1 Paradox Engineer Zeno.svg
 type: location

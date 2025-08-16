@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sage Currentknow V1 Sage Currentknow.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sage currentknow v1 sage currentknowsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: City of Screams
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

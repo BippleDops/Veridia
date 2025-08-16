@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Master Smith Priest Vulcan Depthforge Master
   Smith Priest Vulcan Depthforge.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc master smith priest vulcan depthforge
   master smith priest vulcan depthforgesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

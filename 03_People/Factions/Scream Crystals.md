@@ -2,7 +2,7 @@
 
 title: Scream Crystals
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

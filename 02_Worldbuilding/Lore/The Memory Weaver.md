@@ -2,7 +2,7 @@
 
 title: The Memory Weaver
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

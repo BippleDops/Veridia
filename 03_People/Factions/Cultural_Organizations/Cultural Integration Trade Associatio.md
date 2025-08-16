@@ -2,7 +2,7 @@
 
 title: Cultural Integration Trade Associatio
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

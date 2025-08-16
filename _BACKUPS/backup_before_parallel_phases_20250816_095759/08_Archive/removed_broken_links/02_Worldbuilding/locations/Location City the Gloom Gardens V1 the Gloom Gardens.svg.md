@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the gloom gardens v1 the gloom gardenssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Gloom Gardens V1 the Gloom Gardens.svg
 type: location

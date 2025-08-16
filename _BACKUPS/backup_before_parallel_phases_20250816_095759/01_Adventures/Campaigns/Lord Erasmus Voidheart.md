@@ -2,7 +2,7 @@
 
 title: Lord Erasmus Voidheart
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - npc
@@ -42,7 +42,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -181,7 +181,7 @@ Mentioned in The First Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

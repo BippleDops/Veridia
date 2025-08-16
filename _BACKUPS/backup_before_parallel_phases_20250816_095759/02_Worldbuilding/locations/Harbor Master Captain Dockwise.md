@@ -2,7 +2,7 @@
 
 title: Harbor Master Captain Dockwise
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

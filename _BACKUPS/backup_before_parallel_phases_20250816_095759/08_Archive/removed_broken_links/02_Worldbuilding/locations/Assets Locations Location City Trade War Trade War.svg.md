@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Trade War Trade War.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city trade war trade warsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -182,7 +182,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

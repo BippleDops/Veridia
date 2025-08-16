@@ -2,7 +2,7 @@
 
 title: Parliamentary Speakers
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

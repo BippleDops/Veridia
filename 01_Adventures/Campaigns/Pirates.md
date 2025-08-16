@@ -2,7 +2,7 @@
 
 title: Pirates
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

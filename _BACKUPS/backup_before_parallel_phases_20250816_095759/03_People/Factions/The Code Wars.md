@@ -2,7 +2,7 @@
 
 title: The Code Wars
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Coral Gardens District V1 Coral Gardens District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral gardens district v1 coral gardens
   districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

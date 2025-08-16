@@ -76,7 +76,7 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest Dependency System ## Quest 
+- Moral dilemmas # Quest Dependency System ## Quest
 *The [texture] surface feels [description] to the touch.*Giver
 
 - **Name**: Local authority figure

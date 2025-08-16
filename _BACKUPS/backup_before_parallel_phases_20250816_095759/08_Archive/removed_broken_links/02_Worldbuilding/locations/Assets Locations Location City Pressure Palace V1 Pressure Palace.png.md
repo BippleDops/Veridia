@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pressure Palace V1 Pressure Palace.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure palace v1 pressure palacepng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

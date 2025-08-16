@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city city council of aquabyssos v1 city council of aquabyssossvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City City Council of Aquabyssos V1 City Council of Aquabyssos.svg
 type: location

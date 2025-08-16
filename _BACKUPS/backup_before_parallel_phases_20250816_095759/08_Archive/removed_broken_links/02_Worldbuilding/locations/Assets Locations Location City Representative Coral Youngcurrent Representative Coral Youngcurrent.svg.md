@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Representative Coral Youngcurrent Representative
   Coral Youngcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city representative coral youngcurrent representative
   coral youngcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

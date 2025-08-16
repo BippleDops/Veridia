@@ -2,7 +2,7 @@
 
 title: Aetheric [[Wind Songs
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aerial
 - status/complete
@@ -31,18 +31,18 @@ danger_level: 1
 historical_period: Ancient origins, continuous development
 magical_intensity: Moderate to High
 magical_properties: Elemental wind manipulation and weather influence
-practitioners: 
+practitioners:
 - '[[Wind Singer|The [Wind Singers Guild]]'
 - '[[Master Melodist Zephyr Cloudwalker'
 - '[The Stormcaller Chorus]]'
 - '[[Wandering Wind Minstrels'
 preservation_status: Actively maintained and evolving
-[region]]s: 
+[region]]s:
 - '[[The Windswept Heights'
 - '[[Port Meridian|[Port Meridian]] Harbor]]'
 - '[[Royal Palace|The [Royal Palace]]'
 - '[[Lighthouse Peak   Resoce Chamber'
-related_phenomena: 
+related_phenomena:
 - '[Resoce Peaks]]'
 - '[[Lighthouse_of_Storms|The [Lighthouse of Storms]]'
 - '[[Crystal Resoce Networks'
@@ -747,7 +747,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

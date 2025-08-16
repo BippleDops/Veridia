@@ -2,7 +2,7 @@
 
 title: Anti Scrying Division
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Current Peacefulflow V1 Current Peacefulflow.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city current peacefulflow v1 current peacefulflowsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

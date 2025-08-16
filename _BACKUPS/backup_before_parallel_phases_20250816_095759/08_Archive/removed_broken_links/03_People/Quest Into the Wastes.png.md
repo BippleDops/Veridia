@@ -70,7 +70,7 @@ publish: false
 
 Detailed description pending.
 
-Quest Into the Wastes.png is a notable figure in the realm, known for their unique skills 
+Quest Into the Wastes.png is a notable figure in the realm, known for their unique skills
 *The [texture] surface feels [description] to the touch.*and complex motivations. ## Appearance
 
 - **Age**: Middle-aged

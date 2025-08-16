@@ -2,7 +2,7 @@
 
 title: Master Depth Crystal Thalamos
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

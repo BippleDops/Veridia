@@ -2,7 +2,7 @@
 
 title: Sylvanheart
 type: [[location
-tags: 
+tags:
 - status/complete
 - environmental
 - druidic
@@ -30,11 +30,11 @@ danger_level: Moderate
 founded: [[Time Immemorial
 government: Circle of Elders
 leader: '[Archdruid Thornweaver]]'
-related_entities: 
+related_entities:
 - '[[The Verdant Reach'
 - '[Continental War]]'
 - '[[The Restoration Movement]]'
-specialties: 
+specialties:
 - Natural Magic
 - Environmental Harmony
 - Herbal Medicine

@@ -2,7 +2,7 @@
 
 title: The Great Cataloguing
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

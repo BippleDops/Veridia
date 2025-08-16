@@ -2,7 +2,7 @@
 
 title: Governments [[Local Authorities
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

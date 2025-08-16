@@ -7,14 +7,14 @@ depth: Variable (0-4000 feet)
 difficulty: Levels 10-18
 government: '[[02_Worldbuilding/Lore/Tempest Sovereignty'
 population: 800+ (court, staff, guards, prisoners)
-related_entities: 
+related_entities:
 - '[02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]]'
 - '[[02_Worldbuilding/Lore/Tempest Sovereignty'
 - '[02_Worldbuilding/Lore/Stormcaller Navy]]'
 - '[[The Maelstrom Court'
 ruler: '[02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]]'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location
@@ -68,7 +68,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Elemental Fusion**: The storm represents a unique blending of multiple magical forces:
 
 **Weather Magic**: Controlled manipulation of atmospheric pressure, precipitation, and wind patterns
-**Elemental Water**: Integration with oceanic currents and underwater weather systems  
+**Elemental Water**: Integration with oceanic currents and underwater weather systems
 **Elemental Air**: Command over atmospheric conditions and aerial phenomena
 **Lightning Magic**: Channeling and directing electrical energy for both power and combat
 **Temporal Magic**: Time moves differently within the storm's influence
@@ -299,7 +299,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **House Tempest**: Diplomatic corps and intelligence services
 - **Function**: Foreign relations and information gathering throughout [02_Worldbuilding/Places/Aquabyssos]]
-- **Leader**: [[Marquis Storm Tempest - Master of spies and diplomacy  
+- **Leader**: [[Marquis Storm Tempest - Master of spies and diplomacy
 - **Network**: Agents and informants in every major underwater city
 - **Secrets**: Maintains extensive files on foreign leaders and potential threats
 
@@ -327,7 +327,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Palace Politics**: The complex relationships between different court factions:
 
 **The Storm Loyalists**: Courtiers completely devoted to the Storm Empress and her vision
-**The Naval Faction**: Military officers who prioritize fleet operations and territorial expansion  
+**The Naval Faction**: Military officers who prioritize fleet operations and territorial expansion
 **The Diplomatic Corps**: Nobles who favor negotiation and peaceful expansion over conquest
 **The Elemental Purists**: Mages who believe the empire should focus on mastering weather magic
 **The Expansion Party**: Courtiers who want to establish permanent land-based territories
@@ -349,7 +349,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Specialized Units**: Different military roles within the palace guard:
 
 **The Lightning Company**: Electrical magic specialists who serve as offensive spellcasters
-**The Hurricane Company**: Wind magic experts specializing in aerial combat and reconnaissance  
+**The Hurricane Company**: Wind magic experts specializing in aerial combat and reconnaissance
 **The Tempest Company**: Water magic users focused on underwater operations and defense
 **The Thunder Company**: Heavy combat troops with storm-enhanced physical abilities
 **The Eye Company**: Intelligence and security specialists who protect imperial secrets
@@ -380,7 +380,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Specialized Mages**: Military spellcasters with weather magic training:
 
 **Battle Magic**: Combat spells that use weather effects for offense and defense
-**Strategic Weather**: Large-scale weather manipulation for military advantage  
+**Strategic Weather**: Large-scale weather manipulation for military advantage
 **Navigation Magic**: Magical techniques for operating in extreme weather conditions
 **Communication**: Weather-based messaging systems for coordinating military operations
 **Intelligence**: Using weather magic for reconnaissance and information gathering
@@ -389,7 +389,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Assault Troops**: Soldiers specialized in amphibious and aerial combat:
 
 **Air Marines**: Troops trained for aerial assault using flying mounts and wind magic
-**Sea Marines**: Underwater combat specialists with enhanced swimming and breathing abilities  
+**Sea Marines**: Underwater combat specialists with enhanced swimming and breathing abilities
 **Storm Marines**: Elite troops capable of fighting effectively in any weather condition
 **Lightning Marines**: Soldiers who use electrical magic for both combat and utility purposes
 **Hurricane Marines**: Fast assault troops specializing in rapid deployment and mobility
@@ -402,7 +402,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Constant Lightning**: The palace's electrical environment creates unique dangers:
 
 **Electrical Storms**: Regular discharges of lightning within the palace grounds
-- **Random Strikes**: Lightning may hit any metal object or magical focus unexpectedly  
+- **Random Strikes**: Lightning may hit any metal object or magical focus unexpectedly
 - **Electrical Feedback**: Magic items may overload and explode when exposed to excessive electrical energy
 - **Conductive Materials**: Water, metal, and certain magical substances attract dangerous electrical discharges
 - **Protection Required**: Special clothing and magical wards necessary for safety
@@ -597,7 +597,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **[[02_Worldbuilding/Places/Parliament of Echoes**: Democratic confederation that opposes imperial expansion
 - **Political Opposition**: Parliamentary system conflicts with imperial authority
-- **Trade Disputes**: Economic competition creates regular commercial conflicts  
+- **Trade Disputes**: Economic competition creates regular commercial conflicts
 - **Military Standoff**: Both sides maintain strong naval presence in disputed areas
 - **Propaganda War**: Both sides attempt to influence public opinion in neutral nations
 
@@ -788,7 +788,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 ---
 
-*"In the eye of eternal storm, we have built not just a palace, but a promise - that mortal will can find peace within nature's fury, and that even chaos itself can be made to serve the cause of civilization."*  
+*"In the eye of eternal storm, we have built not just a palace, but a promise - that mortal will can find peace within nature's fury, and that even chaos itself can be made to serve the cause of civilization."*
 — [[02_Worldbuilding/People/Storm Empress Tempestas Maelstrom, First Address from the Tempest Throne
 
 ## Connections

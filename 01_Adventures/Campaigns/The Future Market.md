@@ -2,7 +2,7 @@
 
 title: The Future Market
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

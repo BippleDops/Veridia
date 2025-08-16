@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Grand Harbor Grand Harbor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city grand harbor grand harborsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

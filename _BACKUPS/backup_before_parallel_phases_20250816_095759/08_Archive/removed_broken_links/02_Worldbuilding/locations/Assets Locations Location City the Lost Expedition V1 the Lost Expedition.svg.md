@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Lost Expedition V1 the Lost Expedition.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the lost expedition v1 the lost expeditionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

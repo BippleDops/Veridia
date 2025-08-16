@@ -2,7 +2,7 @@
 
 title: The [[Shadow Markets
 type: [location]]
-tags: 
+tags:
 - both
 - session-notes
 - world/both

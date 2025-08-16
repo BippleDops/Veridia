@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City War Machine Engineers War Machine Engineers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city war machine engineers war machine engineerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wave Merchant V1 Wave Merchant.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wave merchant v1 wave merchantsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city whisper translation v1 whisper translationsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Whisper Translation V1 Whisper Translation.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: instrument-of-the-bards-anstruth-harp-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

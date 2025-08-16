@@ -2,7 +2,7 @@
 
 title: The Great Tidal Amphitheater
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

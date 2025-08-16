@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Stone Eaters Deep Stone Eaters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep stone eaters deep stone eaterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

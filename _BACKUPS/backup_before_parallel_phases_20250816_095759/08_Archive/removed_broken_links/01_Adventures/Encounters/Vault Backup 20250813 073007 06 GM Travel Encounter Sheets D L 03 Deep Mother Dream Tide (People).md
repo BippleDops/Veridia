@@ -3,7 +3,7 @@
 title: Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother
   Dream Tide
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -29,7 +29,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

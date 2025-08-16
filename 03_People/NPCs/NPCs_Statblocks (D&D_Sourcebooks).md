@@ -2,7 +2,7 @@
 
 title: NPCs_Statblocks (D&D_Sourcebooks)
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

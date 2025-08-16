@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Fice/Multi-Realm Banking
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

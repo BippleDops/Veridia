@@ -1,7 +1,7 @@
 ---
 title: Void Lord Stat Blocks
 type: npc
-tags: 
+tags:
 - npc
 - halfling
 - cleric

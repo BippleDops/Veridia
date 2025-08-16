@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the lost shipment v1 the lost shipmentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Lost Shipment V1 the Lost Shipment.svg
 type: location

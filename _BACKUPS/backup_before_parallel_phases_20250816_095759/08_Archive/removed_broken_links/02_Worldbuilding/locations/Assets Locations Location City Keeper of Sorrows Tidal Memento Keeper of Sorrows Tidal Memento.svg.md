@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Keeper of Sorrows Tidal Memento Keeper of Sorrows
   Tidal Memento.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper of sorrows tidal memento keeper
   of sorrows tidal mementosvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -171,7 +171,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

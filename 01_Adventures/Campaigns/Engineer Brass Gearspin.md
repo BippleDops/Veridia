@@ -1,7 +1,7 @@
 ---
 title: Engineer Brass Gearspin
 type: Location
-tags: 
+tags:
 - aquabyssos
 - brass-works
 - status/complete

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memory rights debate v1 memory rights debatesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memory Rights Debate V1 Memory Rights Debate.svg
 type: location

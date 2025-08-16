@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crystal Sentinels V1 Crystal Sentinels.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal sentinels v1 crystal sentinelssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc nerissa deepcurrent v1 nerissa deepcurrentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Nerissa Deepcurrent V1 Nerissa Deepcurrent.svg
 type: npc

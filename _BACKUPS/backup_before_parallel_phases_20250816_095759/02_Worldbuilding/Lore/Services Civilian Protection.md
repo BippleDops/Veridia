@@ -2,7 +2,7 @@
 
 title: Services [[Civilian Protection
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

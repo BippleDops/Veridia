@@ -2,7 +2,7 @@
 
 title: chamber-purpose-dungeon-treasure-vault (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

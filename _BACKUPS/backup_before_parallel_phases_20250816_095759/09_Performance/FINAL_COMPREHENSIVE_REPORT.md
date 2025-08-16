@@ -104,7 +104,7 @@ Successfully completed a massive vault improvement campaign that:
 ```
 ObsidianTTRPGVault Experimental/
 ├── _INDEXES/          # All vault indexes and MOCs
-├── _METADATA/         # Vault metadata and configuration  
+├── _METADATA/         # Vault metadata and configuration
 ├── _SCRIPTS/          # All Python automation scripts (160+ files)
 ├── 00_System/         # System files, templates, automation
 ├── 01_Adventures/     # Campaigns, quests, adventures

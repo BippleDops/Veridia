@@ -2,7 +2,7 @@
 
 title: Services [[Void Resistance Training
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

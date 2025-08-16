@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wise Tide Truthseeker V1 Wise Tide Truthseeker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wise tide truthseeker v1 wise tide truthseekersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -170,7 +170,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

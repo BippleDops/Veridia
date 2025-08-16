@@ -2,7 +2,7 @@
 
 title: The [[Order of the Shattered Crown
 type: [location]]
-tags: 
+tags:
 - redemption
 - status/complete
 - content/faction

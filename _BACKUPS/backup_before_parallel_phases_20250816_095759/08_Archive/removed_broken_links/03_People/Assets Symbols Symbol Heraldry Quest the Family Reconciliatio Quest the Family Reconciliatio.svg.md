@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Quest the Family Reconciliatio Quest the Family
   Reconciliatio.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry quest the family reconciliatio quest
   the family reconciliatiosvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

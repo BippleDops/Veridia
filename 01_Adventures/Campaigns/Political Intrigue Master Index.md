@@ -2,7 +2,7 @@
 
 title: Political Intrigue Master Index
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - index
@@ -108,7 +108,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Primary Use:** Understanding how laws are made, broken, and manipulated in [Aquabyssos_Government|Aquabyssos Government]]
 
-### [[Succession Crisis Contingencies  
+### [[Succession Crisis Contingencies
 
 **Key Systems:**
 - [[Emperor|The Scattered [Emperor]]]] problem and seven personality fragments
@@ -138,7 +138,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Interconnections:**
 - Marriage alliances creating political leverage and personal complications
-- Economic cooperation concealing [[Competitive Intelligence operations  
+- Economic cooperation concealing [[Competitive Intelligence operations
 - Historical grudges driving modern political decision-making
 - Shared secrets creating mutual blackmail and uneasy truces
 
@@ -249,7 +249,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Reputation Categories:**
 - **Public Standing:** Citizen support and popular approval ratings
-- **Noble Respect:** Aristocratic social acceptance and marriage eligibility  
+- **Noble Respect:** Aristocratic social acceptance and marriage eligibility
 - **International Status:** Foreign government trust and diplomatic recognition
 - **Parliamentary Influence:** Senate voting power and committee leadership
 - **Economic Credibility:** Ficial trust and business relationship quality
@@ -354,7 +354,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Marriage alliances and family political obligations
 - Information sharing and mutual blackmail protection
 
-**Foreign Ambassadors ↔ Parliamentary Leaders**  
+**Foreign Ambassadors ↔ Parliamentary Leaders**
 - Intelligence gathering and political influence operations
 - Diplomatic pressure and economic leverage application
 - [Cultural Exchange]] and soft power projection programs

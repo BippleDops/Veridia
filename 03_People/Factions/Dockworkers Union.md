@@ -3,7 +3,7 @@
 title: Dockworkers Union
 aliases: []
 type: Faction
-tags: 
+tags:
 - both
 - union
 - content/faction
@@ -157,7 +157,7 @@ Mentioned in The Second Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

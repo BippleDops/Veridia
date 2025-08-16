@@ -2,7 +2,7 @@
 
 title: Institute of Recursive Reality Studies
 type: [[Lore
-tags: 
+tags:
 - lore
 - both worlds
 - content/lore

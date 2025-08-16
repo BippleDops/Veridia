@@ -2,7 +2,7 @@
 
 title: The Deep Prophets
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

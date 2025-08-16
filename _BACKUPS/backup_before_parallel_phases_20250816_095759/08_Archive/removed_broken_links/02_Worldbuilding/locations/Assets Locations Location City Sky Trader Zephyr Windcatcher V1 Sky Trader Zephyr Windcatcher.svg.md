@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Sky Trader Zephyr Windcatcher V1 Sky Trader
   Zephyr Windcatcher.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sky trader zephyr windcatcher v1 sky
   trader zephyr windcatchersvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor
@@ -180,7 +180,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

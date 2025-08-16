@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Ice Kingdom Spirits Ice Kingdom Spirits.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc ice kingdom spirits ice kingdom spiritssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

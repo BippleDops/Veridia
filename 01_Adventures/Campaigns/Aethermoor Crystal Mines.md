@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Resources/Aethermoor Crystal Mines
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

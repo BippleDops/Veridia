@@ -2,7 +2,7 @@
 
 title: The Slave Markets of Tethys
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

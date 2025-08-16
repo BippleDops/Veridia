@@ -2,7 +2,7 @@
 
 title: Experience for Complex Traps Complex Trap Experience Awards Xge
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

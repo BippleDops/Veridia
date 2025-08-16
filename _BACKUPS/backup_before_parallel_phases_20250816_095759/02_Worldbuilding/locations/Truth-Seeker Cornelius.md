@@ -2,7 +2,7 @@
 
 title: Truth Seeker Cornelius
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

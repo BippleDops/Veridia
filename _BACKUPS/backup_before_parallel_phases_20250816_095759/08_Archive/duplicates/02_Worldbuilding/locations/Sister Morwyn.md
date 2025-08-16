@@ -2,7 +2,7 @@
 
 title: Sister Morwyn
 type: [[location
-tags: 
+tags:
 - both
 - status/complete
 - temple
@@ -31,14 +31,14 @@ current_state: Active memorial site
 danger_level: 3
 depth: 2500-2800 feet
 discovered: true
-factions: 
+factions:
 - '[[Drowned|Order of the [Drowned]] Star|[[02_Worldbuilding|02 Worldbuilding/[Groups]]/Order Of The Drowned Star]]'
 - '[[Keepers of Memory'
 - '[The Forgiveness Seekers]]'
 government: Sacred Trust
 location_name: [[Sister Morwyn's Memorial Sanctuary
 location_type: Sacred Memorial Site
-notable_[Npc]]s: 
+notable_[Npc]]s:
 - '[[Sister Morwyn Veilkeeper'
 - '[Brother Thaddeus the Rememberer]]'
 - '[[Echo-Keeper Selin (D&D_References)'
@@ -46,14 +46,14 @@ obsidianUIMode: preview
 parent_location: '[Abyssos Prime]]'
 pressure_effects: Moderate
 ruler: '[[Sister Morwyn Veilkeeper'
-services: 
+services:
 - Death Rites
 - Memory Preservation
 - Final Forgiveness
 - Soul [Guidance]]
 - [[Grief Counseling
 shadow_density: Low
-sub_locations: 
+sub_locations:
 - ''
 - '[The Memory Vaults]]'
 - '[[Garden of Whispered Names'

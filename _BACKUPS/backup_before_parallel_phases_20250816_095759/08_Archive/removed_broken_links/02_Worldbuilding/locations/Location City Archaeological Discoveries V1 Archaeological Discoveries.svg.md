@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city archaeological discoveries v1 archaeological discoveriessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Archaeological Discoveries V1 Archaeological Discoveries.svg
 type: location

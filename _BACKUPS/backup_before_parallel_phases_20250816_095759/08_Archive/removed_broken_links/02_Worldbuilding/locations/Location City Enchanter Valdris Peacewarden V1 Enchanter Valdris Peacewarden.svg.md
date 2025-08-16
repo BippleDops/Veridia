@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city enchanter valdris peacewarden v1 enchanter valdris peacewardensvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Enchanter Valdris Peacewarden V1 Enchanter Valdris Peacewarden.svg
 type: location

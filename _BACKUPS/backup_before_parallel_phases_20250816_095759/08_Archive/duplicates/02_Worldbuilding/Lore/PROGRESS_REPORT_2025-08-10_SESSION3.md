@@ -2,7 +2,7 @@
 
 title: PROGRESS_REPORT_2025-08-10_SESSION3
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -2,7 +2,7 @@
 
 title: The Anonymous Inquisitor
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

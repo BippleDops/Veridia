@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Forge of War V1 Forge of War.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city forge of war v1 forge of warsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -186,7 +186,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ambassador Silk Bridgewater V1 Ambassador Silk
   Bridgewater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ambassador silk bridgewater v1 ambassador
   silk bridgewatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

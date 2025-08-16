@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Senator Bartholomew Bonewright V1 Senator Bartholomew
   Bonewright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city senator bartholomew bonewright v1 senator
   bartholomew bonewrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

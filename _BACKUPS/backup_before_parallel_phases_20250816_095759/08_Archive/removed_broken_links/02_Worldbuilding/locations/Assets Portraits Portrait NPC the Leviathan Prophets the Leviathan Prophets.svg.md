@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC the Leviathan Prophets the Leviathan Prophets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the leviathan prophets the leviathan
   prophetssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

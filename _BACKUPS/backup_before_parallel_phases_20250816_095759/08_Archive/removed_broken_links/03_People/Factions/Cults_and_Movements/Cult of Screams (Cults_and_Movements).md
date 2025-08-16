@@ -2,7 +2,7 @@
 
 title: Cult of Screams
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction
@@ -95,7 +95,7 @@ The Cult operates through cells of transformed individuals whose vocal cords, ea
 ### The Silence Experiments (290 years post-Drowning)
 The Cult originated from the research of **Doctor Harmony Whisperfall**, a brilliant acoustics scholar studying how the [[Aquabyssos World Overview had changed sound propagation through water and transformed tissue. Working in the ruins of the Royal Academy of Sciences, she became obsessed with the "silence between the screams" - mysterious dead-sound zones where no acoustic vibrations occurred.
 
-### The First Resoce (285 years post-Drowning)  
+### The First Resoce (285 years post-Drowning)
 During her attempts to create artificial silence zones, Dr. Whisperfall accidentally opened a connection to what she called "The Screaming Void" - a dimension of pure acoustic agony. The experience drove her mad but also gave her terrifying insights into using sound as a weapon against consciousness itself. She began recruiting followers from among the traumatized and the desperate.
 
 ### The Great Cacophony (275 years post-Drowning)
@@ -168,7 +168,7 @@ The Order's focus on celestial harmony directly conflicts with the Cult's chaoti
 The Cult's attacks disrupt trade and communication networks that the Covet depends on. The Covet has placed substantial bounties on known Cult leaders and actively shares intelligence with law enforcement.
 
 #### [Aquabyssos World Overview]]
-**Relationship**: Tactical Cooperation  
+**Relationship**: Tactical Cooperation
 While the Deep Dreamers find the Cult's methods distasteful, they sometimes cooperate on attacks against surface-sympathetic targets. Both groups want to accelerate the transformation of Aquabyssos, though for different reasons.
 
 #### [[Aquabyssos World Overview
@@ -188,7 +188,7 @@ Built in the ruins of the Grand Opera House of New Thalassopolis, this horrific 
 
 **Key Features**:
 - **The Screaming Dome**: Central chamber where mass rituals are performed
-- **Echo Laboratories**: Where new acoustic weapons and torture methods are developed  
+- **Echo Laboratories**: Where new acoustic weapons and torture methods are developed
 - **The Silent Vaults**: Soundproof chambers used for interrogation and conversion
 - **Resoce Cells**: Living quarters that continuously expose inhabitants to low-level madness frequencies
 - **The Harmonic Arsenal**: Storage for the Cult's extensive collection of acoustic weapons
@@ -209,7 +209,7 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 
 3. **The Acoustic Hostage**: Important political figures have been kidnapped and are being subjected to conversion torture. Rescue them before their minds are completely broken.
 
-### For Investigation Parties  
+### For Investigation Parties
 4. **The Sound and the Fury**: Strange acoustic phenomena are appearing throughout the city. Investigate whether these are natural occurrences or signs of impending Cult activity.
 
 5. **The Missing Musicians**: Members of a prominent performer guild are disappearing. Track down the source and discover the Cult's latest recruitment operation.
@@ -235,7 +235,7 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 **Related Organizations**:
 - [Aquabyssos World Overview]]
 - [[Order of the Drowned Star|Order of the Drowned Star
-- [Merchant's Covet]]  
+- [Merchant's Covet]]
 - [[Aquabyssos World Overview
 
 **Key Locations**:
@@ -264,7 +264,7 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 - [Resoce Bombs]]
 - [[Frequency Weapons
 - [Living Amplifiers]]
-- 
+-
 
 **Cult Techniques**:
 - [[Acoustic Infection

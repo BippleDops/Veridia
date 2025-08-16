@@ -2,7 +2,7 @@
 
 title: Foreign Trader Captain Hassan al-Rimal (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -3,7 +3,7 @@ enhanced: true
 
 title: Action Economy
 type: action-economy
-tags: 
+tags:
 - economy
 - actions
 - mechanics

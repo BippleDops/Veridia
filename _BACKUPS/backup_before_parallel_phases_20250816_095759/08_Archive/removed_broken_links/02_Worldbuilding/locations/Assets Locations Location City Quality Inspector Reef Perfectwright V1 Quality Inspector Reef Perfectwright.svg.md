@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Quality Inspector Reef Perfectwright V1 Quality
   Inspector Reef Perfectwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quality inspector reef perfectwright
   v1 quality inspector reef perfectwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Void Krakens V1 Void Krakens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city void krakens v1 void krakenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

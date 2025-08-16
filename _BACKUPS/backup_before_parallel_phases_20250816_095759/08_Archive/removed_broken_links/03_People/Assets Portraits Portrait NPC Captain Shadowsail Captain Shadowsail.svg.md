@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Shadowsail Captain Shadowsail.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain shadowsail captain shadowsailsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -211,7 +211,7 @@ Member of House Eagleblood - Trait: curse
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

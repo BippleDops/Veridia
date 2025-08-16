@@ -2,7 +2,7 @@
 created: 2025-08-14
 modified: '2025-08-14'
 rarity: Unknown
-tags: 
+tags:
 - item
 title: Evidence Archive System
 type: item

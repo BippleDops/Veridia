@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/item
@@ -32,7 +32,7 @@ This comprehensive catalog details the trade goods that flow through [02_Worldbu
 
 ### Base Price Categories
 - **Tier 1 (Common)**: 1 cp - 10 gp | Available everywhere, stable prices
-- **Tier 2 (Uncommon)**: 10 gp - 100 gp | Regional availability, moderate price fluctuation  
+- **Tier 2 (Uncommon)**: 10 gp - 100 gp | Regional availability, moderate price fluctuation
 - **Tier 3 (Rare)**: 100 gp - 1,000 gp | Limited availability, significant price variation
 - **Tier 4 (Very Rare)**: 1,000 gp - 10,000 gp | Extremely limited, dramatic price swings
 - **Tier 5 (Legendary)**: 10,000+ gp | Unique items, prices negotiated individually
@@ -50,7 +50,7 @@ This comprehensive catalog details the trade goods that flow through [02_Worldbu
 
 #### Raw Crystals
 **Tier**: 2-4 (depending on grade and purity)
-**Base Prices**: 
+**Base Prices**:
 - **Crystal Dust** (1 pound): 5 gp | Used in minor enchantments and alchemy
 - **Crystal Fragments** (1 pound): 25 gp | Basic magical components and light sources
 - **Crystal Shards** (1 pound): 100 gp | Standard magical focuses and moderate enchantments
@@ -181,7 +181,7 @@ This comprehensive catalog details the trade goods that flow through [02_Worldbu
 - **Market Notes**: Only produced in extreme deep-sea forges, limited supply
 
 **Pressure Glass** (per pound):
-- **Base Price**: 100 gp per pound  
+- **Base Price**: 100 gp per pound
 - **Properties**: Transparent, harder than steel, magical conductivity
 - **Weight**: Same as regular glass
 - **Applications**: Windows, lenses, magical focuses, art objects

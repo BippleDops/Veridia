@@ -2,7 +2,7 @@
 
 title: Reference_Cards - Aquabyssos Quick Reference Cards
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: Gravity Anomaly Mechanics
 type: [[location
-tags: 
+tags:
 - aerial
 - environmental
 - aquatic
@@ -124,9 +124,9 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 ### Gravitational  Zones
 
-**Effect**: Complete absence of gravitational force within defined area  
-**Duration**: Permanent until actively dispelled  
-**Size**: Typically 50-200 feet in diameter  
+**Effect**: Complete absence of gravitational force within defined area
+**Duration**: Permanent until actively dispelled
+**Size**: Typically 50-200 feet in diameter
 **Hazard Level**: Extreme
 
 **Characteristics**: Objects and creatures within  zones experience weightlessness, with no preferred direction of "down." Movement requires propulsion or anchor points, and objects drift aimlessly without external force.
@@ -139,9 +139,9 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 ### Gravity Wells
 
-**Effect**: Dramatically increased gravitational force, typically 3-10 times normal  
-**Duration**: Variable, from hours to permanent  
-**Size**: 20-100 foot radius with gradual dropoff  
+**Effect**: Dramatically increased gravitational force, typically 3-10 times normal
+**Duration**: Variable, from hours to permanent
+**Size**: 20-100 foot radius with gradual dropoff
 **Hazard Level**: High to Extreme
 
 **Characteristics**: Crushing gravitational forces make movement difficult or impossible, while loose objects are violently drawn toward the center of the anomaly.
@@ -154,9 +154,9 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 ### Gravity Storms
 
-**Effect**: Rapidly shifting gravitational directions and intensities  
-**Duration**: 1-6 hours typically  
-**Size**: Several miles in diameter  
+**Effect**: Rapidly shifting gravitational directions and intensities
+**Duration**: 1-6 hours typically
+**Size**: Several miles in diameter
 **Hazard Level**: Extreme
 
 **Characteristics**: Gravitational "down" changes direction every few seconds or minutes, with intensity varying from weightless to crushing force.
@@ -169,9 +169,9 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 ### Gravitational Shear Zones
 
-**Effect**: Different gravitational forces affecting adjacent areas  
-**Duration**: Usually permanent once established  
-**Size**: Linear boundaries extending for miles  
+**Effect**: Different gravitational forces affecting adjacent areas
+**Duration**: Usually permanent once established
+**Size**: Linear boundaries extending for miles
 **Hazard Level**: Moderate to High
 
 **Characteristics**: Sharp transitions between normal and altered gravity create dangerous boundary effects where objects are torn apart by differential forces.
@@ -184,9 +184,9 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 ### Gravity Inversions
 
-**Effect**: Gravitational force reversed, pulling objects "upward"  
-**Duration**: Variable, often cyclical  
-**Size**: Moderate areas, typically 100-500 feet across  
+**Effect**: Gravitational force reversed, pulling objects "upward"
+**Duration**: Variable, often cyclical
+**Size**: Moderate areas, typically 100-500 feet across
 **Hazard Level**: High
 
 **Characteristics**: Objects fall upward rather than down, with "up" becoming the new direction of gravitational pull.
@@ -209,7 +209,7 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 ### Measurement Scales
 
-**Intensity Scale**: 
+**Intensity Scale**:
 - Level 1: Minor fluctuations (10-25% variance from normal)
 - Level 2: Moderate effects (25-100% variance)
 - Level 3: Severe anomalies (100-500% variance)
@@ -497,7 +497,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

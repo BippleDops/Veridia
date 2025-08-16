@@ -2,7 +2,7 @@
 
 title: Hazards [[Dimensional Collapse
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

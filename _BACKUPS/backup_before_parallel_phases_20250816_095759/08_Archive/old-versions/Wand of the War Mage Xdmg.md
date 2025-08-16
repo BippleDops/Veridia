@@ -2,7 +2,7 @@
 
 title: Wand of the War Mage Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

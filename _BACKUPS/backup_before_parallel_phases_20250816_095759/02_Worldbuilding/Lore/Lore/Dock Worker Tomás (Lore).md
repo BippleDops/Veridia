@@ -2,7 +2,7 @@
 
 title: "02_Worldbuilding/Lore/Dock Worker Toma\u0301s"
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -103,7 +103,7 @@ Mentioned in The Second Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

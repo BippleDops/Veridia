@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Depth Safety Authorit Depth Safety Authorit.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry depth safety authorit depth safety authoritsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -203,7 +203,7 @@ Member of House Lionblood - Trait: divine blood
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

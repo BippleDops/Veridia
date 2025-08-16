@@ -2,7 +2,7 @@
 
 title: Void Guardian Mantles
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city marina oracleguard v1 marina oracleguardsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Marina Oracleguard V1 Marina Oracleguard.svg
 type: location

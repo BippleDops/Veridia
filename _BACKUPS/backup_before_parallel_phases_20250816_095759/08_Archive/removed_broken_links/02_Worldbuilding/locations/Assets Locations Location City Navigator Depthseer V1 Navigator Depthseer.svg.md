@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Navigator Depthseer V1 Navigator Depthseer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city navigator depthseer v1 navigator depthseersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Safety Coordinator Reef Safeguard
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

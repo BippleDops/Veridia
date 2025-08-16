@@ -2,7 +2,7 @@
 
 title: X-L-12_The_Deep_Mothers_Bridge_of_Dreams
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

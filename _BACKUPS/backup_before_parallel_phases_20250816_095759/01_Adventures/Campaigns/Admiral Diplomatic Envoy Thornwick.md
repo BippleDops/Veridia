@@ -2,7 +2,7 @@
 
 title: Admiral Diplomatic Envoy Thornwick
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

@@ -1,7 +1,7 @@
 ---
 title: The Gloom Gardens
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - mysterious
 - status/complete

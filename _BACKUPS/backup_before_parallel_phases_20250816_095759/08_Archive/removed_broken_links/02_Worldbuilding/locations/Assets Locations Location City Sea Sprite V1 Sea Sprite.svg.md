@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sea Sprite V1 Sea Sprite.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sea sprite v1 sea spritesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

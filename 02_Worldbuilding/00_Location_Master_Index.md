@@ -4,9 +4,9 @@
 
 ## All Locations (Dataview)
 ```dataview
-TABLE 
+TABLE
   settlement_type as "Type",
-  region as "Region", 
+  region as "Region",
   population as "Population",
   campaign as "Campaign"
 FROM "02_Worldbuilding"

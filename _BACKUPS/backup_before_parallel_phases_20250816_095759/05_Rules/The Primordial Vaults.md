@@ -2,7 +2,7 @@
 
 title: The Primordial Vaults
 type: [[location
-tags: 
+tags:
 - both
 - quest
 - world/both

@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Silverscale_Banking_House.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

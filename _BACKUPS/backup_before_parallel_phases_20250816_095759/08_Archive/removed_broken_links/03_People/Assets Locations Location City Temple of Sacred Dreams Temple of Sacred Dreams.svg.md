@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Temple of Sacred Dreams Temple of Sacred Dreams.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of sacred dreams temple of sacred
   dreamssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

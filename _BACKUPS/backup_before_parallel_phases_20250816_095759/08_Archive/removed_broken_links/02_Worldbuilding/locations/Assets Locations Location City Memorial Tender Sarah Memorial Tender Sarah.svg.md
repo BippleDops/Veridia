@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Memorial Tender Sarah Memorial Tender Sarah.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memorial tender sarah memorial tender
   sarahsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

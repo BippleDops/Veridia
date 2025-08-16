@@ -2,7 +2,7 @@
 
 title: Trade Goods Catalog
 type: Item
-tags: 
+tags:
 - economy
 - prices
 - both
@@ -94,7 +94,7 @@ This comprehensive catalog details the trade goods that flow through [The Grand 
 
 #### Raw Crystals
 **Tier**: 2-4 (depending on grade and purity)
-**Base Prices**: 
+**Base Prices**:
 - **Crystal Dust** (1 pound): 5 gp | Used in minor enchantments and alchemy
 - **Crystal Fragments** (1 pound): 25 gp | Basic magical components and light sources
 - **Crystal Shards** (1 pound): 100 gp | Standard magical focuses and moderate enchantments
@@ -217,7 +217,7 @@ This comprehensive catalog details the trade goods that flow through [The Grand 
 - **Market Notes**: Only produced in extreme deep-sea forges, limited supply
 
 **Pressure Glass** (per pound):
-- **Base Price**: 100 gp per pound  
+- **Base Price**: 100 gp per pound
 - **Properties**: Transparent, harder than steel, magical conductivity
 - **Weight**: Same as regular glass
 - **Applications**: Windows, lenses, magical focuses, art objects

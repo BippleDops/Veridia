@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding/Lore/NPC Relationship Web
 type: npc
-tags: 
+tags:
 - npc
 - halfling
 - paladin

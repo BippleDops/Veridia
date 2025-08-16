@@ -2,7 +2,7 @@
 
 title: ./yuan-ti-malison-type-4-vgm
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

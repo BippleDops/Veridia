@@ -2,7 +2,7 @@
 
 title: '#Enemies Allies'
 type: lore
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/[[Quests/Find the [Grief Bomb]]
 type: adventure
-tags: 
+tags:
 - adventure
 - quest
 - bloodline

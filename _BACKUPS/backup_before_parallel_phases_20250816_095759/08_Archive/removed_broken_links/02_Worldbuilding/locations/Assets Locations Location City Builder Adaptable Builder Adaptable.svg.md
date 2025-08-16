@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Builder Adaptable Builder Adaptable.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city builder adaptable builder adaptablesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

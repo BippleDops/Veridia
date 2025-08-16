@@ -2,7 +2,7 @@
 
 title: The Opposition Leader
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

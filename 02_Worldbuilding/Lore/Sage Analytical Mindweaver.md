@@ -2,7 +2,7 @@
 
 title: Sage Analytical Mindweaver
 type: [[Lore
-tags: 
+tags:
 - lore
 - both worlds
 - content/lore

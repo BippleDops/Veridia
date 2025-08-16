@@ -2,7 +2,7 @@
 
 title: Downtime Activity Crafting a Magic Item
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

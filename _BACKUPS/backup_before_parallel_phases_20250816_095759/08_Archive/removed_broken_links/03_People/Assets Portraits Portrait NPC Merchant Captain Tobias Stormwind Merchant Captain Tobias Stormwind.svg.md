@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Merchant Captain Tobias Stormwind Merchant Captain
   Tobias Stormwind.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc merchant captain tobias stormwind merchant
   captain tobias stormwindsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -197,7 +197,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

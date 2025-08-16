@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Scholarly Theologians V1 Scholarly Theologians.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scholarly theologians v1 scholarly theologianssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

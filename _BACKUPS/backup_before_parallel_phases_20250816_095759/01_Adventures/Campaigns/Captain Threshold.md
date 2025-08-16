@@ -2,7 +2,7 @@
 
 title: Captain Threshold
 type: Npc
-tags: 
+tags:
 - npc
 - character
 - both aethermoor & aquabyssos
@@ -41,7 +41,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

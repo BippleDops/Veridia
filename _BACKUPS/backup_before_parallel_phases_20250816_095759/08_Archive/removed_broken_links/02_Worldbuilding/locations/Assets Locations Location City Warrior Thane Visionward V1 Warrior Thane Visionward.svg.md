@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Warrior Thane Visionward V1 Warrior Thane Visionward.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city warrior thane visionward v1 warrior
   thane visionwardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Cerulean Trench
 type: [[location
-tags: 
+tags:
 - both
 - aquatic
 - quest

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC the Great Trade Routes the Great Trade Routes.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the great trade routes the great trade
   routessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

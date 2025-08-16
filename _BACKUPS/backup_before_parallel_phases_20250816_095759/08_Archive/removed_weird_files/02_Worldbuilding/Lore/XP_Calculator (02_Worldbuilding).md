@@ -2,7 +2,7 @@
 
 title: [[XP Calculator
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Aquabyssos Aquabyssos.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city aquabyssos aquabyssossvg
 type: location
-tags: 
+tags:
 - aquabyssos
 - place
 - active

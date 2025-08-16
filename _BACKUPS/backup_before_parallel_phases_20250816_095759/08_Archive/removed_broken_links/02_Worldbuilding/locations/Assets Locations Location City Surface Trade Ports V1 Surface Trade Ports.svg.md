@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Surface Trade Ports V1 Surface Trade Ports.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface trade ports v1 surface trade
   portssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

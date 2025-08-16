@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city mediator cardinal harmony mediator cardinal harmonysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Mediator Cardinal Harmony Mediator Cardinal Harmony.svg
 type: location

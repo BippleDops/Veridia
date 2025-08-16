@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city depth cardinal justice currentkeeper v1 depth cardinal justice currentkeepersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Depth Cardinal Justice Currentkeeper V1 Depth Cardinal Justice
   Currentkeeper.svg

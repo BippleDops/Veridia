@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city pressure weighted representation v1 pressure weighted representationsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Pressure Weighted Representation V1 Pressure Weighted Representation.svg
 type: location

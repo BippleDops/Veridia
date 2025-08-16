@@ -2,7 +2,7 @@
 
 title: The Shadow Warren
 type: Npc
-tags: 
+tags:
 - underground
 - mysterious
 - network
@@ -58,7 +58,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -120,23 +120,23 @@ improvements: 20
 
 ## Basic Information
 
-**Race**: Unknown (heavily corrupted humanoid)  
-**Class**: Rogue/Warlock (Shadow Patron)  
-**Level**: 14  
-**Alignment**: Chaotic Neutral  
-**Age**: Indeterminate (corruption has altered aging)  
-**Occupation**: Underground Network Leader, Information Broker  
-**Location**: The Undergrowth (Aethermoor's shadow-corrupted undercity)  
+**Race**: Unknown (heavily corrupted humanoid)
+**Class**: Rogue/Warlock (Shadow Patron)
+**Level**: 14
+**Alignment**: Chaotic Neutral
+**Age**: Indeterminate (corruption has altered aging)
+**Occupation**: Underground Network Leader, Information Broker
+**Location**: The Undergrowth (Aethermoor's shadow-corrupted undercity)
 
 ## Physical Description
 
 The Shadow Warren's true appearance is a mystery, as they are never seen without their distinctive shadow-wreathed cloak that seems to shift and move independently. What can be discerned suggests a being profoundly altered by shadow corruption:
 
-**Height**: Approximately 5'8", though their form seems to fluctuate  
-**Build**: Lean and wiry, with unnaturally elongated limbs  
-**Face**: Always hidden beneath a deep hood, with only occasional glimpses of pale, almost translucent skin  
-**Eyes**: Twin points of dim silver light that pierce through the darkness of their hood  
-**Voice**: A whisper that seems to come from multiple directions at once, with an echoing quality  
+**Height**: Approximately 5'8", though their form seems to fluctuate
+**Build**: Lean and wiry, with unnaturally elongated limbs
+**Face**: Always hidden beneath a deep hood, with only occasional glimpses of pale, almost translucent skin
+**Eyes**: Twin points of dim silver light that pierce through the darkness of their hood
+**Voice**: A whisper that seems to come from multiple directions at once, with an echoing quality
 **Distinguishing Features**:
 - Shadow tendrils that extend from their cloak, acting as extra limbs
 - Footsteps that make no sound, even on the loudest surfaces
@@ -289,23 +289,23 @@ In the past year, the Shadow Warren's activities have intensified:
 **External Backing**: The network receives mysterious funding and resources from an unknown external source, possibly connected to the Seven Shards themselves.
 
 ### The Recruitment Test
-**Level**: 4-7  
+**Level**: 4-7
 The party encounters network operatives who are evaluating them as potential recruits. They must complete a series of challenges that test their skills, loyalty, and moral flexibility.
 
 ### The Double Cross
-**Level**: 6-10  
+**Level**: 6-10
 A trusted network contact is revealed to be a double agent feeding information to the crystal nobility. The party must help expose the traitor while preventing a network massacre.
 
 ### The Corruption Cure
-**Level**: 8-12  
+**Level**: 8-12
 Warren approaches the party with intelligence about a potential cure for corruption, but obtaining it requires infiltrating the most secure crystal noble facility in Aethermoor.
 
 ### The Shadow Pact
-**Level**: 10-15  
+**Level**: 10-15
 Warren's patron begins making demands that conflict with the network's goals. The party must help Warren renegotiate the pact or find a way to break it without losing their abilities.
 
 ### The Great Unveiling
-**Level**: 12-18  
+**Level**: 12-18
 Warren's master plan to expose noble corruption comes to fruition, but success depends on the party's ability to coordinate multiple simultaneous operations across the city.
 
 ## Campaign Integration
@@ -325,23 +325,23 @@ Warren's story can evolve throughout a campaign:
 
 ## Stat Block
 
-**The Shadow Warren**  
+**The Shadow Warren**
 *Medium humanoid (corrupted human), chaotic neutral*
 
-**Armor Class** 18 (Shadow Weave Cloak)  
-**Hit Points** 165 (`dice: 22d8` + 66)  
+**Armor Class** 18 (Shadow Weave Cloak)
+**Hit Points** 165 (`dice: 22d8` + 66)
 **Speed** 30 ft., climb 30 ft.
 
 **STR** 12 (+1) **DEX** 20 (+5) **CON** 16 (+3) **INT** 18 (+4) **WIS** 15 (+2) **CHA** 20 (+5)
 
-**Saving Throws** Dex +11, Cha +11  
-**Skills** Deception +17, Insight +8, Investigation +10, Perception +8, Persuasion +11, Sleight of Hand +17, Stealth +17  
-**Damage Resistances** Cold, Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks  
-**Damage Immunities** Shadow corruption effects  
-**Condition Immunities** Charmed, Frightened  
-**Senses** Darkvision 240 ft., passive Perception 18  
-**Languages** Common, Thieves' Cant, Shadow Tongue  
-**Challenge Rating** 12 (8,400 XP)  
+**Saving Throws** Dex +11, Cha +11
+**Skills** Deception +17, Insight +8, Investigation +10, Perception +8, Persuasion +11, Sleight of Hand +17, Stealth +17
+**Damage Resistances** Cold, Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks
+**Damage Immunities** Shadow corruption effects
+**Condition Immunities** Charmed, Frightened
+**Senses** Darkvision 240 ft., passive Perception 18
+**Languages** Common, Thieves' Cant, Shadow Tongue
+**Challenge Rating** 12 (8,400 XP)
 **Proficiency Bonus** +4
 
 ### Special Abilities
@@ -447,7 +447,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

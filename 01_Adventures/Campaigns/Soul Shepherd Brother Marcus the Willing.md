@@ -2,7 +2,7 @@
 
 title: Soul Shepherd [[Brother Marcus the Willing
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

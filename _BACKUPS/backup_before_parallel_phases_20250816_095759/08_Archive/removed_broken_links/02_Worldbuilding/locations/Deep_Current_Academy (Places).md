@@ -2,7 +2,7 @@
 
 title: [[Deep Current Academy
 type: [location]]
-tags: 
+tags:
 - place
 - active
 - location
@@ -224,7 +224,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

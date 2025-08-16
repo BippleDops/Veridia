@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Diplomatic Immunity V1 Diplomatic Immunity.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city diplomatic immunity v1 diplomatic immunitysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

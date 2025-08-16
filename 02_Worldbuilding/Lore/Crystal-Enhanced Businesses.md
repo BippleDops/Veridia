@@ -2,7 +2,7 @@
 
 title: Crystal Enhanced Businesses
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

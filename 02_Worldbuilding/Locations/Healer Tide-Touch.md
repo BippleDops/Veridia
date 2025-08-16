@@ -2,7 +2,7 @@
 
 title: Healer Tide Touch
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

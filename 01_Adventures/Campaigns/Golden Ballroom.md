@@ -2,7 +2,7 @@
 
 title: Golden Ballroom
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

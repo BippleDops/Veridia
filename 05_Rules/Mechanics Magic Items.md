@@ -3,7 +3,7 @@ enhanced: true
 
 title: Mechanics Magic Items
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - conspiracy

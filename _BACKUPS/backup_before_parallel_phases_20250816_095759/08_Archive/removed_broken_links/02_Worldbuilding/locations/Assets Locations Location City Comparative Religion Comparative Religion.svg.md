@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Comparative Religion Comparative Religion.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city comparative religion comparative religionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -190,7 +190,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

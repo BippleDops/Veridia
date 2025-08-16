@@ -45,7 +45,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - War of Tides ---
 
-title: 
+title:
 *The air carries the scent of [appropriate smell].*Quest War of Tides
 type: Lore
 tags:

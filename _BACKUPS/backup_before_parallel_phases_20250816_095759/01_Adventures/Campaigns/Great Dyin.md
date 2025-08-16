@@ -2,7 +2,7 @@
 
 title: Great Dyin
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]
@@ -97,7 +97,7 @@ Mentioned in The First Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

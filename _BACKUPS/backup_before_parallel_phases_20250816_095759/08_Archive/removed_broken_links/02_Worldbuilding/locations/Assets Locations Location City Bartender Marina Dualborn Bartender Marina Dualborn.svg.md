@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Bartender Marina Dualborn Bartender Marina Dualborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city bartender marina dualborn bartender
   marina dualbornsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

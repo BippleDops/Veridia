@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Gentle Currentguide Gentle Currentguide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gentle currentguide gentle currentguidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Far Real
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

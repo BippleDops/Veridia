@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 - location city the archive keepers the archive keeperssvg
 created: 2025-08-14
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Archive Keepers the Archive Keepers.svg
 type: location

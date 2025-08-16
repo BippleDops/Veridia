@@ -2,7 +2,7 @@
 
 title: life-events-by-age-xge (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

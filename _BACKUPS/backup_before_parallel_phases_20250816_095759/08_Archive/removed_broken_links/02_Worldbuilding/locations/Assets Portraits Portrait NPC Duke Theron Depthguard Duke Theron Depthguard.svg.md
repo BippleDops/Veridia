@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc duke theron depthguard duke theron depthguardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

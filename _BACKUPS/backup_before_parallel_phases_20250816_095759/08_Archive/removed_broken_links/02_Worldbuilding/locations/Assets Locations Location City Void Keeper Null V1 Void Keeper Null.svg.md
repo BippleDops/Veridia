@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Void Keeper  V1 Void Keeper .svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city void keeper  v1 void keeper svg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

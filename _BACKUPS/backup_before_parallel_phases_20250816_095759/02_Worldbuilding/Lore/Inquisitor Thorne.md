@@ -2,7 +2,7 @@
 
 title: Inquisitor Thorne
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

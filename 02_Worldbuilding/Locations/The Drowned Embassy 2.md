@@ -4,7 +4,7 @@ updated: '2025-08-13T12:34:17.015403+00:00'
 world: Both
 type: Location
 status: active
-tags: 
+tags:
 - active
 - both
 - location

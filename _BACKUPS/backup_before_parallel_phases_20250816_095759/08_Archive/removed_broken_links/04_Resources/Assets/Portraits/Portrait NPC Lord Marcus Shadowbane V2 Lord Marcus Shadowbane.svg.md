@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord marcus shadowbane v2 lord marcus shadowbanesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Marcus Shadowbane V2 Lord Marcus Shadowbane.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: Deep Sea Explorer Captain Abyss (D&D_References)
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

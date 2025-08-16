@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Living Quarters V1 the Living Quarters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the living quarters v1 the living quarterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -203,7 +203,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

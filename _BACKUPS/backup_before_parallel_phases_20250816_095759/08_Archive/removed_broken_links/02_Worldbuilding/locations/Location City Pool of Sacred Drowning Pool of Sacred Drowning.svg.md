@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city pool of sacred drowning pool of sacred drowningsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Pool of Sacred Drowning Pool of Sacred Drowning.svg
 type: location

@@ -3,7 +3,7 @@ enhanced: true
 
 title: Bestiary Compendium Reference (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'
@@ -34,7 +34,7 @@ tags:
 - aquabyssos
 - research
 - active
-- 
+-
 *The [texture] surface feels [description] to the touch.*complete
 
 created: '2025-08-11'

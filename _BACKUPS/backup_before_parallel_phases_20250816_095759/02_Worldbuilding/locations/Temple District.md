@@ -2,7 +2,7 @@
 
 title: Temple District
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

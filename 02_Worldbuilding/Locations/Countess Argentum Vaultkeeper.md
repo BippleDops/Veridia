@@ -2,7 +2,7 @@
 
 title: Countess Argentum Vaultkeeper
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

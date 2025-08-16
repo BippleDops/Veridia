@@ -2,7 +2,7 @@
 
 title: Depth Guard
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - active

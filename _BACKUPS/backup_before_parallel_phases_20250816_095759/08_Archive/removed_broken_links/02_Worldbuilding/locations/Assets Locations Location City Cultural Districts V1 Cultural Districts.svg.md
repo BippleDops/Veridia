@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Cultural Districts V1 Cultural Districts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city cultural districts v1 cultural districtssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

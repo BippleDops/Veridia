@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Elara Crystalline Elara Crystalline.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry elara crystalline elara crystallinesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

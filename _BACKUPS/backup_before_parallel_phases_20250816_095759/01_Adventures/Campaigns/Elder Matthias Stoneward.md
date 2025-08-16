@@ -2,7 +2,7 @@
 
 title: Elder Matthias Stoneward
 type: [[location
-tags: 
+tags:
 - dwarf
 - aerial
 - engineer
@@ -287,7 +287,7 @@ Ongoing situations affecting Elder Matthias Stoneward:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

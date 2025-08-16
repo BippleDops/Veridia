@@ -2,7 +2,7 @@
 
 title: [[Tenebrarum Embassy
 type: [location]]
-tags: 
+tags:
 - mechanics/social
 - [[Aquabyssos
 - tenebrarum
@@ -316,7 +316,7 @@ Ongoing situations affecting Tenebrarum Embassy:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

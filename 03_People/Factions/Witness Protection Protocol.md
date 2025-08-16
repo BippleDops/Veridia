@@ -2,7 +2,7 @@
 
 title: Witness Protection Protocol
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

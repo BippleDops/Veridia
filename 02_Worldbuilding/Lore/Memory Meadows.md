@@ -2,7 +2,7 @@
 
 title: Memory Meadows
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - active

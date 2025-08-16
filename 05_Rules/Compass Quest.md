@@ -2,7 +2,7 @@
 
 title: Compass Quest
 type: [[location
-tags: 
+tags:
 - navigation
 - mechanics/exploration
 - aquatic
@@ -31,7 +31,7 @@ complexity: Advanced
 created_by: auto-stub
 danger_level: Moderate
 estimated_duration: 3-5 sessions
-required_skills: 
+required_skills:
 - Navigation
 - Investigation
 - Survival

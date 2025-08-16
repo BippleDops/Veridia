@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Harbor District Customs House Harbor District
   Customs House.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor district customs house harbor
   district customs housesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

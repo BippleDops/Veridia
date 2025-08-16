@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Maelstrom Palace Maelstrom Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city maelstrom palace maelstrom palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

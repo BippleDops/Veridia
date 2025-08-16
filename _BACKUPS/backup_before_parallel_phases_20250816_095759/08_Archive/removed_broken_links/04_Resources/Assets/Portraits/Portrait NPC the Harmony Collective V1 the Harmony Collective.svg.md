@@ -2,7 +2,7 @@
 
 title: Portrait NPC the Harmony Collective V1 the Harmony Collective.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

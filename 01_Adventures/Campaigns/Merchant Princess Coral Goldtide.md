@@ -2,7 +2,7 @@
 
 title: [[Merchant Princess [Coral]] Goldtide
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

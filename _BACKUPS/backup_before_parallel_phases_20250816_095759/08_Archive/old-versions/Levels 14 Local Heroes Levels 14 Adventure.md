@@ -2,7 +2,7 @@
 
 title: Levels 14 Local Heroes Levels 14 Adventure
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: [[Noble Quarter Salons
 type: [location]]
-tags: 
+tags:
 - both
 - quest
 - world/both

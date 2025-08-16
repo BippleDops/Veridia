@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Marquis Aldwin Goldcurrent V1 Marquis Aldwin
   Goldcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marquis aldwin goldcurrent v1 marquis
   aldwin goldcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

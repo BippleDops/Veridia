@@ -2,7 +2,7 @@
 
 title: Drow 1 Weapon Mm
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

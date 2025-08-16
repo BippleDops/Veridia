@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - both worlds
 - complete
 - content/location
@@ -37,7 +37,7 @@ The complex's unique architecture adapts to serve both aquatic and aerial inhabi
 
 ### Embassy Wings
 
-**Aquabyssos Embassy**: 
+**Aquabyssos Embassy**:
 - **The Deep Chambers**: Fully flooded meeting rooms pressurized to match deep-sea conditions, featuring traditional coral architecture and bio-luminescent lighting
 - **The Pressure Courts**: Formal reception areas with adjustable atmospheric pressure for hosting Aethermoor guests safely
 - **The Tidal Archives**: Repository of Aquabyssos legal codes, historical precedents, and cultural documentation essential for diplomatic reference

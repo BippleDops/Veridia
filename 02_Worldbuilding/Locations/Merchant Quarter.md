@@ -2,7 +2,7 @@
 
 title: [[Merchant Quarter
 type: [location]]
-tags: 
+tags:
 - both
 - quest
 - world/both
@@ -186,7 +186,7 @@ Ongoing situations affecting Merchant Quarter:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

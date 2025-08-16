@@ -1,7 +1,7 @@
 ---
 title: The Void Shard
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

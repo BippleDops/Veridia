@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Shadow Surgeons the Shadow Surgeons.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the shadow surgeons the shadow surgeonssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -177,7 +177,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

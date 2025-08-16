@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Scepter of Winter S Command Scepter of Winter
   S Command.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scepter of winter s command scepter
   of winter s commandsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

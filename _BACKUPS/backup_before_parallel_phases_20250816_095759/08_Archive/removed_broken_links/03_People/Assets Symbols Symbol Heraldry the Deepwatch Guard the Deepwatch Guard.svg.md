@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Deepwatch Guard the Deepwatch Guard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the deepwatch guard the deepwatch guardsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

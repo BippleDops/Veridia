@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Brother S Burden Quest the Brother
   S Burden.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the brother s burden quest the
   brother s burdensvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

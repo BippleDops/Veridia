@@ -2,7 +2,7 @@
 
 title: [[Void Touched Cult|Void Touched [Assassin]]s
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

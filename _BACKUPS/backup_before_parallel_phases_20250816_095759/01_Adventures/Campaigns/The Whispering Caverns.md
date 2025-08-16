@@ -2,7 +2,7 @@
 
 title: The Whispering Caverns
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

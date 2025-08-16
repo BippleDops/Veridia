@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Noble Quarter Market the Noble Quarter Market.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the noble quarter market the noble quarter
   marketsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

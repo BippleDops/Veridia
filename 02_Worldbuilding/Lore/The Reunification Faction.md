@@ -2,7 +2,7 @@
 
 title: The Reunification Faction
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

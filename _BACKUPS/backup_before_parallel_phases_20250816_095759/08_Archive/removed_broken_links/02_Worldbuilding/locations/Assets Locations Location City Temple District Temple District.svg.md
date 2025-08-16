@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temple District Temple District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple district temple districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -198,7 +198,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

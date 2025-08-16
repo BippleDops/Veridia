@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Transformations/Crystal/Prism_Soul
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

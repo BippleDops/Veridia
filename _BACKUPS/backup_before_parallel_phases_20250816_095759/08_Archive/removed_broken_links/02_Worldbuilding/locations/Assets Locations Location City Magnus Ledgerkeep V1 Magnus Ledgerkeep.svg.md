@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Magnus Ledgerkeep V1 Magnus Ledgerkeep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city magnus ledgerkeep v1 magnus ledgerkeepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

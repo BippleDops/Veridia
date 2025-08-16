@@ -2,7 +2,7 @@
 
 title: Distribution by Rarity Magic Items Awarded
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

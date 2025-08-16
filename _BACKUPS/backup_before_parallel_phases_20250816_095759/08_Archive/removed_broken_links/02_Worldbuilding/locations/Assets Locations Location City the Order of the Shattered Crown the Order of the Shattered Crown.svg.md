@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Order of the Shattered Crown the Order of
   the Shattered Crown.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the order of the shattered crown the
   order of the shattered crownsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

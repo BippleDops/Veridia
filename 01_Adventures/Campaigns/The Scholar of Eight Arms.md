@@ -2,7 +2,7 @@
 
 title: The Scholar of Eight Arms
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

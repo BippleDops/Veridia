@@ -2,7 +2,7 @@
 
 title: Diplomatic Event Scenarios
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - mechanics/social

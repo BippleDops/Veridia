@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Elite Transport
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

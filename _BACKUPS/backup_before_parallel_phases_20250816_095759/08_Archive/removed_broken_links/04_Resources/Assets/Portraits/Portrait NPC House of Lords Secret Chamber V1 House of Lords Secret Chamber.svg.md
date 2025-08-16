@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc house of lords secret chamber v1 house of lords secret chambersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC House of Lords Secret Chamber V1 House of Lords Secret Chamber.svg
 type: npc

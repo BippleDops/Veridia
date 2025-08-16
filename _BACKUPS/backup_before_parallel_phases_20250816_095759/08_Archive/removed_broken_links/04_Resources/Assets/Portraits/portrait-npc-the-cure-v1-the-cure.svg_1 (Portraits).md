@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the cure v1 the curesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: portrait npc the cure v1 the cure.svg
 type: npc

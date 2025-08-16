@@ -2,7 +2,7 @@
 
 title: Deep Sea Environmental Specialist
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Bridge Currentcrosser Bridge Currentcrosser.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city bridge currentcrosser bridge currentcrossersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Depth Councils
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

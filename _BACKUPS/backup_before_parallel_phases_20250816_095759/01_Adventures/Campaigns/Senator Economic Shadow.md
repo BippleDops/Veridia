@@ -2,7 +2,7 @@
 
 title: [[Senator Economic Shadow
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

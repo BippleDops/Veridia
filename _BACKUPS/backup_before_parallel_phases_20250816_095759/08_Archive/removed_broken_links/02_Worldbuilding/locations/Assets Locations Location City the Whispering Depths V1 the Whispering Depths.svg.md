@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Whispering Depths V1 the Whispering Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the whispering depths v1 the whispering
   depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

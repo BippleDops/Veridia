@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city communications master signal cryptkeeper communications master signal
   cryptkeepersvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Communications Master Signal Cryptkeeper Communications Master
   Signal Cryptkeeper.svg

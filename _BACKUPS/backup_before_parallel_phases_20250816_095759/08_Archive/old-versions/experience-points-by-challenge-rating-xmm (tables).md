@@ -2,7 +2,7 @@
 
 title: experience-points-by-challenge-rating-xmm (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

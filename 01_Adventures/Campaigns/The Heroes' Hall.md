@@ -2,7 +2,7 @@
 
 title: The Heroes' Hall
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

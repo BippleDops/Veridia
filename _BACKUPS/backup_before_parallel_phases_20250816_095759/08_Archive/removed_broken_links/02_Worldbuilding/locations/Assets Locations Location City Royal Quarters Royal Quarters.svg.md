@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Royal Quarters Royal Quarters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal quarters royal quarterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

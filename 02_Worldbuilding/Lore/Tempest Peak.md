@@ -2,7 +2,7 @@
 
 title: Tempest Peak
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

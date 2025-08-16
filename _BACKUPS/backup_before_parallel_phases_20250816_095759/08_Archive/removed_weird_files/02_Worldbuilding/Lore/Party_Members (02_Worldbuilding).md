@@ -2,7 +2,7 @@
 
 title: [[Party Members
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

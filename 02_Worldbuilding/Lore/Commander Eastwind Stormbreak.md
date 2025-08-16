@@ -2,7 +2,7 @@
 
 title: Commander Eastwind Stormbreak
 type: [[Lore
-tags: 
+tags:
 - lore
 - both worlds
 - content/lore

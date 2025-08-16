@@ -2,7 +2,7 @@
 
 title: Creatures [[Void Entities
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

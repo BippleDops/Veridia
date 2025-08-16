@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Service Levels Service Levels.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city service levels service levelssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

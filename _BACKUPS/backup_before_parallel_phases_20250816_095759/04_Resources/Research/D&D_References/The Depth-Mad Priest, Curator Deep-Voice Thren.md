@@ -2,7 +2,7 @@
 
 title: The Depth-Mad Priest, Curator Deep-Voice Thren
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

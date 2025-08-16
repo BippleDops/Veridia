@@ -2,7 +2,7 @@
 
 title: Central Crystal Processing Plant
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

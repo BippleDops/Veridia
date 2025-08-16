@@ -1,7 +1,7 @@
 ---
 title: "item properties#Silvered%20Weapons"
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

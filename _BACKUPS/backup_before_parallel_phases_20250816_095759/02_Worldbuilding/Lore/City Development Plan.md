@@ -2,7 +2,7 @@
 
 title: City Development Plan
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

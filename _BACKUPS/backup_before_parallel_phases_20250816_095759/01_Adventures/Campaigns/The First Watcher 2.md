@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags: 
+tags:
 - active
 - both aethermoor & aquabyssos
 - both-aethermoor-&-aquabyssos

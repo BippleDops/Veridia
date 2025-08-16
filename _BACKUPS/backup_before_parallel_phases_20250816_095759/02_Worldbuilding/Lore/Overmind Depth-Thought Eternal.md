@@ -2,7 +2,7 @@
 
 title: Overmind Depth Thought Eternal
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

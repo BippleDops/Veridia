@@ -2,7 +2,7 @@
 
 title: Economic Crime Methods
 type: [[Lore]]
-tags: 
+tags:
 - economy
 - lore
 - both

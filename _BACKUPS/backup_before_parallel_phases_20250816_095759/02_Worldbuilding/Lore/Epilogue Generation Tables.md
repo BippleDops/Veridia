@@ -2,7 +2,7 @@
 
 title: Epilogue Generation Tables
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -87,7 +87,7 @@ Epilogue Generation Tables represents a crucial aspect of the world's history, c
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

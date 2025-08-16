@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc investigate the crystal plague investigate the crystal plaguesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Investigate the Crystal Plague Investigate the Crystal Plague.svg
 type: npc

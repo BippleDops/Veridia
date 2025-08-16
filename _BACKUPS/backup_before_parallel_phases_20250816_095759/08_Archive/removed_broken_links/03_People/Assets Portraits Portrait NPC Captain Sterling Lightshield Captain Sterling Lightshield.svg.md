@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Captain Sterling Lightshield Captain Sterling
   Lightshield.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain sterling lightshield captain
   sterling lightshieldsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -1,7 +1,7 @@
 ---
 title: Link
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'
@@ -104,7 +104,7 @@ Further information about this topic will be developed as the campaign progresse
 - [08-using-ability-scores#Skills]]
 - [[08-using-ability-scores#Strength
 - [08-using-ability-scores#Wisdom]]
-- 
+-
 - [[09 Adventuring#movement#climbing, Swimming, and Crawling
 - [09-adventuring#Difficult Terrain]]
 - [[09-adventuring#Food and Water
@@ -286,7 +286,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Cultural Exchanges
 - [Cultural Festivals Committee (02_Worldbuilding)]]
 - [[Cultural Historian Deepcurrent
-- 
+-
 - [Cultural Traditions and Customs]]
 - [[Culture_Builder
 - [Cure Component Locations]]
@@ -517,7 +517,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Junior Administrator Elena Efficient
 - [Keeper Healer Restoration]]
 - [[Keeper Hope Beacon
-- 
+-
 - [Keeper Luminous Truehart]]
 - [[Keeper Sage Remembrance
 - [Keeper Shield Protector]]
@@ -616,7 +616,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Master Valet Sterling Currentborn
 - [Maître d' Pelagia Smoothcurrent]]
 - [[Memorial Guardians
-- 
+-
 - [Memory Loop Gardens]]
 - [[Memory Plague Survivors Network
 - [Memory Trading Economy System]]
@@ -710,7 +710,7 @@ Further information about this topic will be developed as the campaign progresse
 - [S-L-08_Gravity_Inversion_Storm_Player]]
 - [[Sage Voidseeker
 - [Senior Resoce Engineer Harmony Deepnote]]
-- 
+-
 - [[Sera Swiftcurrent
 - [Seren Goldwave]]
 - [[Session 1 the Queens Summons 1
@@ -791,7 +791,7 @@ Further information about this topic will be developed as the campaign progresse
 - [The Great Convergence Prophecies]]
 - [[The Great Resoce
 - [The Guilt Garden]]
-- 
+-
 - [[The Infinite Chamber
 - [The Infinity Seekers]]
 - [[The Inter-Realm Cultural Council
@@ -980,7 +980,7 @@ Further information about this topic will be developed as the campaign progresse
 - [skills#Stealth]]
 - [[skills#Survival
 - [strixhaven-pent-scc]]
-- 
+-
 - [[
 - [Ω_System-CLI-spells-school-abjuration]]
 - [[Ω_System-CLI-spells-school-conjuration

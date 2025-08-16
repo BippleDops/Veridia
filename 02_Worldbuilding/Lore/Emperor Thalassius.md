@@ -2,7 +2,7 @@
 
 title: [[Emperor Thalassius
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

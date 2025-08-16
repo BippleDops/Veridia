@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Multi-Dimensional Perception
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

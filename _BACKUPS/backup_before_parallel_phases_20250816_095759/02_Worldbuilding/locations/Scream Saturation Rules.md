@@ -2,7 +2,7 @@
 
 title: Scream Saturation Rules
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - mechanics/magic
@@ -310,7 +310,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

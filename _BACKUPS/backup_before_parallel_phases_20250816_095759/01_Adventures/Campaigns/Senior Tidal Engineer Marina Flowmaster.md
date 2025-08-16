@@ -2,7 +2,7 @@
 
 title: Senior Tidal Engineer Marina Flowmaster
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

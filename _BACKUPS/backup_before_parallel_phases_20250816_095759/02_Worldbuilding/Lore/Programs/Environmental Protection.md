@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Programs/Environmental Protection
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

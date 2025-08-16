@@ -2,7 +2,7 @@
 
 title: Biological Enhancement Laboratory
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

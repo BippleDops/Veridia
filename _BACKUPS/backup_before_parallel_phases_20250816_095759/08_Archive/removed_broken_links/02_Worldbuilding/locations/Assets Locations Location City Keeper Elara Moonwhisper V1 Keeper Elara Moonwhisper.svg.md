@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Keeper Elara Moonwhisper V1 Keeper Elara Moonwhisper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper elara moonwhisper v1 keeper elara
   moonwhispersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

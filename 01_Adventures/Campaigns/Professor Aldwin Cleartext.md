@@ -2,7 +2,7 @@
 
 title: Professor Aldwin Cleartext
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

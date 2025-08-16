@@ -2,7 +2,7 @@
 
 title: Complete Reality Merger System
 type: [[Lore
-tags: 
+tags:
 - lore
 - dashboard
 - both

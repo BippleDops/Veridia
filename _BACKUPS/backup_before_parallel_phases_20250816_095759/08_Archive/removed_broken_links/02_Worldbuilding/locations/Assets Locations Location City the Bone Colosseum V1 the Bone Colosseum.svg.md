@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Bone Colosseum V1 the Bone Colosseum.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the bone colosseum v1 the bone colosseumsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

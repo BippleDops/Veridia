@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Shadowport V1 Shadowport.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadowport v1 shadowportsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -198,7 +198,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

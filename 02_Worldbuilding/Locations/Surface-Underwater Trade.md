@@ -2,7 +2,7 @@
 
 title: Surface Underwater Trade
 type: [[location
-tags: 
+tags:
 - both
 - aquatic
 - world/both

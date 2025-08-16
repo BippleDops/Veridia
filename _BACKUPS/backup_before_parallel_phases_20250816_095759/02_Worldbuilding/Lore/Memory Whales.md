@@ -2,7 +2,7 @@
 
 title: Memory Whales
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

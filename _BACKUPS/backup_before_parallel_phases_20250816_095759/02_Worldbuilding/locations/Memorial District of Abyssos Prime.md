@@ -2,7 +2,7 @@
 
 title: Memorial District of [[Abyssos Prime
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

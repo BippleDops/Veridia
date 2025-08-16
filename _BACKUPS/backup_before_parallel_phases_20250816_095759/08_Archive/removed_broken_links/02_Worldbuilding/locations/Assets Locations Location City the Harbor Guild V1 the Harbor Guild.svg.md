@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Harbor Guild V1 the Harbor Guild.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the harbor guild v1 the harbor guildsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -198,7 +198,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

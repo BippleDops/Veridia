@@ -2,7 +2,7 @@
 
 title: Pressure Point Settlement
 type: Location
-tags: 
+tags:
 - border-zone
 - status/complete
 - both worlds
@@ -196,7 +196,7 @@ The settlement spans three distinct pressure layers:
 The settlement operates under a unique three-way goverce structure:
 
 **Aquabyssos Representative**: Handles deep-water laws and traditional maritime justice
-**Aethermoor Representative**: Manages aerial territories and storm-touched jurisprudence  
+**Aethermoor Representative**: Manages aerial territories and storm-touched jurisprudence
 **Neutral Arbiter**: Resolves conflicts between realm-specific legal systems
 
 ### Legal Complexity

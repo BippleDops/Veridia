@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Storm Guard Storm Guard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city storm guard storm guardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

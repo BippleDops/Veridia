@@ -2,7 +2,7 @@
 
 title: Surge Mixmaster
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

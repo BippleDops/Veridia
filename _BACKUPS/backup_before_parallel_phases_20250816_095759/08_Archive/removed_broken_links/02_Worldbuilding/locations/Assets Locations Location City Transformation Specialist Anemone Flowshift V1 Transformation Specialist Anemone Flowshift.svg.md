@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Transformation Specialist Anemone Flowshift
   V1 Transformation Specialist Anemone Flowshift.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city transformation specialist anemone flowshift
   v1 transformation specialist anemone flowshiftsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

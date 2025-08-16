@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Vault Maintece Checklist Vault Maintece Checklist.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city vault maintece checklist vault maintece
   checklistsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -204,7 +204,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

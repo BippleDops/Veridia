@@ -38,30 +38,30 @@ graph TD
     A --> G[Analytics]
     A --> H[Export System]
     A --> I[Audio System]
-    
+
     B --> B1[Quick Access]
     B --> B2[Session Tools]
-    
+
     C --> C1[NPC Gen]
     C --> C2[Location Gen]
     C --> C3[Quest Gen]
-    
+
     D --> D1[Shared Lore]
     D --> D2[Journals]
-    
+
     E --> E1[Session Logger]
     E --> E2[Combat Tracker]
-    
+
     F --> F1[NPC Schedules]
     F --> F2[Faction Politics]
     F --> F3[Economy]
-    
+
     G --> G1[Usage Stats]
     G --> G2[Optimization]
-    
+
     H --> H1[PDF Export]
     H --> H2[VTT Export]
-    
+
     I --> I1[Soundscapes]
     I --> I2[Voice Notes]
 ```
@@ -132,12 +132,12 @@ system:
   world_simulation: enabled
   analytics: enabled
   audio: enabled
-  
+
 performance:
   cache: enabled
   compression: enabled
   lazy_loading: enabled
-  
+
 backup:
   frequency: hourly
   retention: 30 days
@@ -181,14 +181,14 @@ class MasterControl:
             export='ExportSystem',
             audio='AudioSystem'
         )
-    
+
     def execute(self, command):
         # Parse and execute any command
         return self.systems[command.system].execute(command.action)
-    
+
     def status(self):
         return dict((system, s.status()) for system, s in self.systems.items())
-    
+
     def emergency_shutdown(self):
         for system in self.systems.values():
             system.save_state()

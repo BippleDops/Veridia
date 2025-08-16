@@ -2,7 +2,7 @@
 
 title: Court Mage Tempest Shadowcryst
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

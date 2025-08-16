@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Concierge Phillip Gracewater V1 Concierge Phillip
   Gracewater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city concierge phillip gracewater v1 concierge
   phillip gracewatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -180,7 +180,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc mist walker captain luna pathfinder mist walker captain luna pathfindersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Mist Walker Captain Luna Pathfinder Mist Walker Captain Luna Pathfinder.svg
 type: npc

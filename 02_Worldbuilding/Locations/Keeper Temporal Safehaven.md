@@ -2,7 +2,7 @@
 
 title: Keeper Temporal Safehaven
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

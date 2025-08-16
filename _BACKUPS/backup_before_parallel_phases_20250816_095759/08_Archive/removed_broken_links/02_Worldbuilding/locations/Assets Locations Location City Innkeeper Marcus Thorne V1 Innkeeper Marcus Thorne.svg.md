@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Innkeeper Marcus Thorne V1 Innkeeper Marcus
   Thorne.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city innkeeper marcus thorne v1 innkeeper
   marcus thornesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

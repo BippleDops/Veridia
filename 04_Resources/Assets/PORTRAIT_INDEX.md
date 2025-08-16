@@ -2,7 +2,7 @@
 
 A collection of all character portraits in the vault.
 
-## 
+##
 ![[04_Resources/Assets/Portraits/portrait_npc.png
 
 ## 00 Indexes Master Index

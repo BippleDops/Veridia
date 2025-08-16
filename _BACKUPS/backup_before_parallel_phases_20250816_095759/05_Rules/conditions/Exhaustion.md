@@ -2,7 +2,7 @@
 
 title: Exhaustion
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

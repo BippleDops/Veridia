@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Senator Marina Tidecaller Senator Marina Tidecaller.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city senator marina tidecaller senator marina
   tidecallersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

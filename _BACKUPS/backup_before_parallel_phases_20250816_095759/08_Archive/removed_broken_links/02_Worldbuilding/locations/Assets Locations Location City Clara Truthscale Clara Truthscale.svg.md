@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Clara Truthscale Clara Truthscale.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city clara truthscale clara truthscalesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

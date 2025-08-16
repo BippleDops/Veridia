@@ -568,8 +568,8 @@ Possible developments and plot opportunities.
 - [Archaeological Society]]
 - [[Archdeacon Felix Faithkeeper
 - [Archdruid Marina Kelpweaver]]
-- 
-- 
+-
+-
 - [[Archivist Elena Sorrowkeeper
 - [Archivist Reef Bookkeeper]]
 - [[Archkeeper Nereon
@@ -1104,7 +1104,7 @@ Possible developments and plot opportunities.
 - [Terminal Master Hadrian Depthbridge]]
 - [[Tethyan Hegemony
 - [The Aether Works]]
-- 
+-
 - [[The Azure Coast
 - [The Bone Colosseum]]
 - [[The Bone Palace of Sorrows
@@ -1142,7 +1142,7 @@ Possible developments and plot opportunities.
 - [[The Forgotten One
 - [The Free Current]]
 - [[The Golden Trade Route
-- 
+-
 - [The Grand Bazaar of Echoing Coins]]
 - [[The Great Sky Harbor
 - [The Harbor Guild]]
@@ -1163,7 +1163,7 @@ Possible developments and plot opportunities.
 - [[The Living Weapon
 - [The Lost Shipment]]
 - [[The Luminous Dawn Cathedral
-- 
+-
 - [The Memory Keepers Guild]]
 - [[The Memory Meadows Black Market
 - [The Memory Palace]]

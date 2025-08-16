@@ -2,7 +2,7 @@
 
 title: [[Aethermoor Session 07 the Festival of Transformation
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

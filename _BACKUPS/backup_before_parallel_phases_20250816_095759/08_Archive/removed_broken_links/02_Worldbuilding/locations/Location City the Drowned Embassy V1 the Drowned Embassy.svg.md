@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the drowned embassy v1 the drowned embassysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Drowned Embassy V1 the Drowned Embassy.svg
 type: location

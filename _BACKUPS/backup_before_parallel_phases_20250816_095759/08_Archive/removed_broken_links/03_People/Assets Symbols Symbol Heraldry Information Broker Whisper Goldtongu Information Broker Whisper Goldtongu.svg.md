@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Information Broker Whisper Goldtongu Information
   Broker Whisper Goldtongu.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry information broker whisper goldtongu
   information broker whisper goldtongusvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

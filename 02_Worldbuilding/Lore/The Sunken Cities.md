@@ -2,7 +2,7 @@
 
 title: The Sunken Cities
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - active

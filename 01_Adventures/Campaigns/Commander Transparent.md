@@ -2,7 +2,7 @@
 
 title: Commander Transparent
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

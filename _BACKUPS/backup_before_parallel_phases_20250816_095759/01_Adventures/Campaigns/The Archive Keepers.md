@@ -1,7 +1,7 @@
 ---
 title: The Archive Keepers
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Royal Palace V1 Royal Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal palace v1 royal palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

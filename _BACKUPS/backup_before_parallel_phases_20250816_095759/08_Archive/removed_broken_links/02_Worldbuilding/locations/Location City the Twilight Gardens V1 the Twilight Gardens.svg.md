@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the twilight gardens v1 the twilight gardenssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Twilight Gardens V1 the Twilight Gardens.svg
 type: location

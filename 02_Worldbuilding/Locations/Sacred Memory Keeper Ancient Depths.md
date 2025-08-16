@@ -2,7 +2,7 @@
 
 title: Sacred Memory Keeper Ancient Depths
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

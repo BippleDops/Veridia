@@ -2,7 +2,7 @@
 
 title: Philosopher Reformer Unity Bridgewright
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

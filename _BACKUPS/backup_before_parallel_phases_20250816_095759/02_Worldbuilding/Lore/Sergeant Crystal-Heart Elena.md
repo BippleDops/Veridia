@@ -2,7 +2,7 @@
 
 title: Sergeant [[Crystal_Heart|Crystal Heart Elena
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

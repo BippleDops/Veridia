@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Dream Enhancement Techniques Dream Enhancement
   Techniques.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city dream enhancement techniques dream enhancement
   techniquessvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -197,7 +197,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

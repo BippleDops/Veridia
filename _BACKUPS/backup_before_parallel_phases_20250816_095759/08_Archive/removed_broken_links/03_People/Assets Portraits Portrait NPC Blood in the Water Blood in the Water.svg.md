@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Blood in the Water Blood in the Water.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc blood in the water blood in the watersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

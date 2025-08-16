@@ -2,7 +2,7 @@
 
 title: Echo Who Was Elena
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

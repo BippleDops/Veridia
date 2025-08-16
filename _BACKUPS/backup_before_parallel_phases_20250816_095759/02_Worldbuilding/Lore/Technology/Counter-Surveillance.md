@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Technology/Counter-Surveillance
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

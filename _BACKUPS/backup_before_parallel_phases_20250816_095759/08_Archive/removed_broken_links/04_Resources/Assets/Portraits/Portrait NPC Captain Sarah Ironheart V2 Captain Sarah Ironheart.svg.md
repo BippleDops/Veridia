@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain sarah ironheart v2 captain sarah ironheartsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Sarah Ironheart V2 Captain Sarah Ironheart.svg
 type: npc

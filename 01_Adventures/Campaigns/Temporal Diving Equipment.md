@@ -2,7 +2,7 @@
 
 title: Temporal Diving Equipment
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city lady vivienne the unfrozen v1 lady vivienne the unfrozensvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Lady Vivienne the Unfrozen V1 Lady Vivienne the Unfrozen.svg
 type: location

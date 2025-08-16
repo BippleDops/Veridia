@@ -2,7 +2,7 @@
 
 title: The Iron Pits of Malachar
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

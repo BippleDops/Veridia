@@ -2,7 +2,7 @@
 
 title: Cultural Guide
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

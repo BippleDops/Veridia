@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city innkeeper mara ironlung v1 innkeeper mara ironlungsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Innkeeper Mara Ironlung V1 Innkeeper Mara Ironlung.svg
 type: location

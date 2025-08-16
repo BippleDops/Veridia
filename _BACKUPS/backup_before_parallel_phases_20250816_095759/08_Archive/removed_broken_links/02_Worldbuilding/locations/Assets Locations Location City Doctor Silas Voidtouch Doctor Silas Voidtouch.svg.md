@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Doctor Silas Voidtouch Doctor Silas Voidtouch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city doctor silas voidtouch doctor silas
   voidtouchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ancient Treasury of Tides Ancient Treasury of
   Tides.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ancient treasury of tides ancient treasury
   of tidessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

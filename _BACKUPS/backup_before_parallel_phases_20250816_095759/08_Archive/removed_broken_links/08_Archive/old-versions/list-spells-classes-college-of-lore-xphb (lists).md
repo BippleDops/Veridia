@@ -2,7 +2,7 @@
 
 title: list-spells-classes-college-of-lore-xphb (lists)
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Pirate Lords of the Spiral Depths Pirate Lords
   of the Spiral Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc pirate lords of the spiral depths pirate
   lords of the spiral depthssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -204,7 +204,7 @@ Member of House Lionblood - Trait: divine blood
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

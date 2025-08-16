@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc envoy blackwater jr v2 envoy blackwater jrsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Envoy Blackwater Jr V2 Envoy Blackwater Jr.svg
 type: npc

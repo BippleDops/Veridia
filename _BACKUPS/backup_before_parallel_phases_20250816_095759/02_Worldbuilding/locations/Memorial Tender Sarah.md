@@ -2,7 +2,7 @@
 
 title: Memorial Tender Sarah
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

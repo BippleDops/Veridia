@@ -2,7 +2,7 @@
 
 title: downtime-activity-crafting-phb (variant-rules)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

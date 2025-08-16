@@ -2,7 +2,7 @@
 
 title: Deep Sea Rescue Operations
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

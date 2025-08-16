@@ -2,7 +2,7 @@
 
 title: M-L-07_The_Anchor_Cataclysm
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

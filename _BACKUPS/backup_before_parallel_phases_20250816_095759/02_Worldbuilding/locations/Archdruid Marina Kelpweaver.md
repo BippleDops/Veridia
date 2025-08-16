@@ -2,7 +2,7 @@
 
 title: Archdruid Marina Kelpweaver
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -168,7 +168,7 @@ Ongoing situations affecting Archdruid Marina Kelpweaver:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

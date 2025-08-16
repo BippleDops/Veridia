@@ -2,7 +2,7 @@
 
 title: Stop the Shadow Harvest
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction
@@ -18,7 +18,7 @@ headquarters: Unknown
 membership: Unknown
 MyCategory: Anti-Shadow Resistance Movement
 MyContainer: '[[New Thalassopolis]]'
-benefits: 
+benefits:
 - reward: Shadow detection training and memory protection techniques
   standing: 1
 - reward: Advanced anti-shadow technology and resistance network access
@@ -27,17 +27,17 @@ benefits:
   standing: 3
 created_by: expansion
 faction: Purist Coalition
-initiates: 
+initiates:
 - New Resistance Recruits
 - Memory Security Trainees
 - Shadow Detection Students
 leader: The Harvest Vigilant Council
-members: 
+members:
 - Shadow Harvest Survivors
 - Memory Protection Advocates
 - Anti-Surgery Activists
 obsidianUIMode: preview
-officers: 
+officers:
 - Captain Elara Shadowshard
 - Brother Matthias the Amber Bearer
 - Scholar Vivienne the Chronicler

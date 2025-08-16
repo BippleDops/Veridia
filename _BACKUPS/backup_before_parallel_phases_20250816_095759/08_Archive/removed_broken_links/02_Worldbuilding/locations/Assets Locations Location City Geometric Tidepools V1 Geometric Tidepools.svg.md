@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Geometric Tidepools V1 Geometric Tidepools.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city geometric tidepools v1 geometric tidepoolssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

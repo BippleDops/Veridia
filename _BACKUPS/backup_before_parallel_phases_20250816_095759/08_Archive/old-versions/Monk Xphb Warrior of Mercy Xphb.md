@@ -2,7 +2,7 @@
 
 title: Monk Xphb Warrior of Mercy Xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

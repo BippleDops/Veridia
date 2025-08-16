@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Patriarch Valdris Lightbringer Patriarch Valdris
   Lightbringer.png
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc patriarch valdris lightbringer patriarch
   valdris lightbringerpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Gareth Ironforge Gareth Ironforge.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc gareth ironforge gareth ironforgesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

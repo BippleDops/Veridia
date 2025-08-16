@@ -2,7 +2,7 @@
 
 title: Service Levels
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

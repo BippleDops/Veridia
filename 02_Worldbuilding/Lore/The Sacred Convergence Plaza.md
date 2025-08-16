@@ -2,7 +2,7 @@
 
 title: The Sacred Convergence Plaza
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

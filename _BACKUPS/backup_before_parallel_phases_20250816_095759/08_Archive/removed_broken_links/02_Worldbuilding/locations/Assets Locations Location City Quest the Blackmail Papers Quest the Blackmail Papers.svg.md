@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Quest the Blackmail Papers Quest the Blackmail
   Papers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest the blackmail papers quest the
   blackmail paperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

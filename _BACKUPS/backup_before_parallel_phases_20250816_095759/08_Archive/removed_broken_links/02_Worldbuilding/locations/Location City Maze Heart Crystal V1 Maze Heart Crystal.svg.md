@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city maze heart crystal v1 maze heart crystalsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Maze Heart Crystal V1 Maze Heart Crystal.svg
 type: location

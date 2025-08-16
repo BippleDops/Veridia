@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Floating Market V1 the Floating Market.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the floating market v1 the floating
   marketsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

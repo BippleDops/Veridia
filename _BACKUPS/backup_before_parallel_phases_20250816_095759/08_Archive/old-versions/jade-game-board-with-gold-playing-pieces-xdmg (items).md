@@ -2,7 +2,7 @@
 
 title: jade-game-board-with-gold-playing-pieces-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

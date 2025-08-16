@@ -2,7 +2,7 @@
 
 title: Silverscale Crystal Warehouses
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[Npc]]

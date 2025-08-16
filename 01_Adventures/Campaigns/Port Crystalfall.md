@@ -2,7 +2,7 @@
 
 title: Port Crystalfall
 type: Location
-tags: 
+tags:
 - content/location
 - place
 - world/aethermoor

@@ -2,7 +2,7 @@
 
 title: Planar Defense League
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

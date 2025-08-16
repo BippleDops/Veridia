@@ -2,7 +2,7 @@
 
 title: Military Architect Darius Swiftblade
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

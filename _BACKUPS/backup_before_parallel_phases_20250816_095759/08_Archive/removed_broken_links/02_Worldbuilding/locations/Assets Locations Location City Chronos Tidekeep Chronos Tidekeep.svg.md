@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Chronos Tidekeep Chronos Tidekeep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chronos tidekeep chronos tidekeepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

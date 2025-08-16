@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc lord aldric highwind lord aldric highwindsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

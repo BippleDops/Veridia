@@ -1,7 +1,7 @@
 ---
 title: Abyssos Prime
 type: Location
-tags: 
+tags:
 - both
 - world/surface
 - world/aquabyssos
@@ -24,7 +24,7 @@ current_state: Shadow conspiracy active
 danger_level: 7
 depth: 1000-3000 feet
 discovered: true
-factions: 
+factions:
 - '[[Parliament of Echoes'
 - '[Shadow Conspiracy]]'
 - '[[Depth Merchants'
@@ -32,7 +32,7 @@ factions:
 government: '[[The Eternal Senate'
 location_name: Abyssos Prime
 location_type: Sunken Capital
-notable_npcs: 
+notable_npcs:
 - '[The Scattered Emperor]]'
 - '[[Senator Glaucus'
 - '[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
@@ -40,14 +40,14 @@ obsidianUIMode: preview
 parent_location: '[[Aquabyssos'
 pressure_effects: Moderate to Severe
 ruler: '[The Scattered Emperor]]'
-services: 
+services:
 - Pressure Tubes
 - Shadow Markets
 - Memory Trading
 - Depth Adaptation
 - Political Intrigue
 shadow_density: High
-sub_locations: 
+sub_locations:
 - '[[The Inverse Palace'
 - '[Parliament of Echoes]]'
 - '[[Screaming Gardens'

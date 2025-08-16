@@ -2,7 +2,7 @@
 
 title: The [[Void Touched Cult|Void Touched Depths
 type: [location]]
-tags: 
+tags:
 - both
 - quest
 - world/both

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the First Truth the First Truth.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the first truth the first truthsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

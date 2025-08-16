@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-cathedral-of-light-v1-cathedral-of-light.png
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

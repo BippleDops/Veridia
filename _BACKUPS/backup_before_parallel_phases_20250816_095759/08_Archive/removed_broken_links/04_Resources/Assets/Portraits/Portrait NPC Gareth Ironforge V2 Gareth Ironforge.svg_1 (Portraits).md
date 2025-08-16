@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc gareth ironforge v2 gareth ironforgesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Gareth Ironforge V2 Gareth Ironforge.svg
 type: npc

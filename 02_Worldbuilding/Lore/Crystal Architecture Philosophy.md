@@ -1,7 +1,7 @@
 ---
 title: Crystal Architecture Philosophy
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

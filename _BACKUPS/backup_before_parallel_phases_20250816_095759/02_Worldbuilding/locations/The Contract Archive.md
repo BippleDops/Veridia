@@ -1,7 +1,7 @@
 ---
 title: The Contract Archive
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

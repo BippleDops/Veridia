@@ -2,7 +2,7 @@
 
 title: Cultural Ambassador Bridge-Builder
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

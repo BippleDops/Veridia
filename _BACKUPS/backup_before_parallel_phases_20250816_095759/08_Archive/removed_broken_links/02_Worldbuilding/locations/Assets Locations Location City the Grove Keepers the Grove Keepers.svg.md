@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Grove Keepers the Grove Keepers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the grove keepers the grove keeperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -167,7 +167,7 @@ Key locations marked:
 - **Aberration**: aboleth
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 1
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 11** to detect

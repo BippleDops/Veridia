@@ -1,7 +1,7 @@
 ---
 title: "deck-of-many-things#[[Knight"
 type: note
-tags: 
+tags:
 - auto-generated
 - [Link]]ed
 created: '2025-01-15'

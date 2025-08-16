@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc madame crystal eye v1 madame crystal eyesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Madame Crystal Eye V1 Madame Crystal Eye.svg
 type: npc

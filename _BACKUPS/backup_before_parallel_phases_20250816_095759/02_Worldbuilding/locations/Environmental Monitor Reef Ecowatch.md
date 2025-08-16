@@ -2,7 +2,7 @@
 
 title: Environmental Monitor Reef Ecowatch
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

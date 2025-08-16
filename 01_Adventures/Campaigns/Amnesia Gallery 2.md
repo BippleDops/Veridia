@@ -10,7 +10,7 @@ difficulty: Levels 3-8
 obsidianUIMode: preview
 owner: '[[02_Worldbuilding/Places/Keeper Elara Mindwell]]'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location
@@ -35,7 +35,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Amnesia Gallery stands as one of [[02_Worldbuilding/Places/Aquabyssos's most enigmatic and dangerous cultural institutions—a floating exhibition space dedicated to the art of forgetting. Housed within a translucent crystalline sphere that drifts through the [02_Worldbuilding/Lore/Memory Depths]], this gallery displays memories that have been extracted, crystallized, and transformed into hauntingly beautiful artworks. 
+The Amnesia Gallery stands as one of [[02_Worldbuilding/Places/Aquabyssos's most enigmatic and dangerous cultural institutions—a floating exhibition space dedicated to the art of forgetting. Housed within a translucent crystalline sphere that drifts through the [02_Worldbuilding/Lore/Memory Depths]], this gallery displays memories that have been extracted, crystallized, and transformed into hauntingly beautiful artworks.
 
 Visitors come to experience memories that are not their own, to lose unwanted thoughts, or to witness the strange beauty that emerges when consciousness is given physical form. The gallery exists in a state of controlled temporal flux, where past, present, and future memories intermingle in displays that shift and evolve with each viewer's psyche.
 
@@ -277,7 +277,7 @@ Behind a secret panel in [[02_Worldbuilding/Places/Keeper Elara Mindwell's offic
 - **Pre-Reality Recollections**: Memories from before the current reality was established
 - **The Unnamed Exhibition**: A memory so dangerous it has no official name
 
-**Access Requirements**: 
+**Access Requirements**:
 - Master-level telepathic protection
 - Special permit from three different guild leaders
 - Proof of research necessity
@@ -299,7 +299,7 @@ Deep beneath the main gallery, a spherical chamber where the memories of willing
 - **Identity Pool**: Temporary dissolution of individual consciousness
 - **Emergence Events**: Occasionally, new personalities spontaneously form from the collective
 
-**Dangers**: 
+**Dangers**:
 - Risk of permanent identity loss
 - Potential creation of hostile collective entities
 - Unknown long-term effects on contributors
@@ -375,7 +375,7 @@ The Amnesia Gallery serves as a cultural and research hub for memory-related act
 
 ---
 
-*"In the depths of forgetting, we sometimes find who we truly are."*  
+*"In the depths of forgetting, we sometimes find who we truly are."*
 — Keeper Elara Mindwell, Gallery Director
 
 ## Connections

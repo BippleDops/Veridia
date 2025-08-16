@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Historian Lisa Outreach Historian Lisa Outreach.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city historian lisa outreach historian lisa
   outreachsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -208,7 +208,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

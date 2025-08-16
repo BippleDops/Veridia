@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Original Palace V1 the Original Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the original palace v1 the original
   palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

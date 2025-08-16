@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Whispering Caverns the Whispering Caverns.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the whispering caverns the whispering
   cavernssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

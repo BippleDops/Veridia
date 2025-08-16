@@ -2,7 +2,7 @@
 
 title: The Artisans' Collective of Master Crafters
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

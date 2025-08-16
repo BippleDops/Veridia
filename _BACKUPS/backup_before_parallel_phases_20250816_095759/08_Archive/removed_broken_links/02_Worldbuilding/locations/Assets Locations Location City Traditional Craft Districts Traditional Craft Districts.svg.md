@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Traditional Craft Districts Traditional Craft
   Districts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city traditional craft districts traditional
   craft districtssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

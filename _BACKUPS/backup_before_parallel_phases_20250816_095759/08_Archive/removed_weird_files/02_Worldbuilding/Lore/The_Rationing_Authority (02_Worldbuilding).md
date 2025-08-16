@@ -2,7 +2,7 @@
 
 title: [[The Rationing Authority
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

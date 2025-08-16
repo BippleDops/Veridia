@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city chronicle keeper sage deepmemory chronicle keeper sage deepmemorysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Chronicle Keeper Sage Deepmemory Chronicle Keeper Sage Deepmemory.svg
 type: location

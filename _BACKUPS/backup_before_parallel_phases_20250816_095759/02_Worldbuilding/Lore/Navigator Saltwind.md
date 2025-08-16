@@ -2,7 +2,7 @@
 
 title: Navigator Saltwind
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

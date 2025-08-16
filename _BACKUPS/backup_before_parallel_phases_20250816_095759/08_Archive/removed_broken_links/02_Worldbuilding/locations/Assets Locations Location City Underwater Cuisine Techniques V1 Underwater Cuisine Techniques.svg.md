@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Underwater Cuisine Techniques V1 Underwater
   Cuisine Techniques.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city underwater cuisine techniques v1 underwater
   cuisine techniquessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City University System V1 University System.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city university system v1 university systemsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

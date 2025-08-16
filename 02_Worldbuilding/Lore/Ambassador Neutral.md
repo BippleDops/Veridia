@@ -2,7 +2,7 @@
 
 title: Ambassador Neutral
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sacred Grottos Sacred Grottos.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sacred grottos sacred grottossvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

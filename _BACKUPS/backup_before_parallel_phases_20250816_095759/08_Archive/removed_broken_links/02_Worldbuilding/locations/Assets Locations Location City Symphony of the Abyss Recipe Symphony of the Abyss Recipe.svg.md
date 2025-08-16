@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Symphony of the Abyss Recipe Symphony of the
   Abyss Recipe.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city symphony of the abyss recipe symphony
   of the abyss recipesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

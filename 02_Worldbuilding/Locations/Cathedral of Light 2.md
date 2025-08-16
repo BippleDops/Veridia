@@ -10,12 +10,12 @@ leader: 'High Luminary Celestine Brightward'
 obsidianUIMode: preview
 population: 500
 region: 'Capital District'
-specialties: 
+specialties:
 - Divine Magic
 - Healing Arts
 - Light Magic
 status: draft
-tags: 
+tags:
 - aethermoor
 - cathedral
 - content/location
@@ -73,7 +73,7 @@ The Cathedral exists not merely as a place of worship but as a beacon of hope in
 Each spire represents one aspect of divine light:
 
 1. **The Spire Of Healing** - Medical halls and divine healing chambers
-2. **[02_Worldbuilding/Lore/The Spire of Knowledge]]** - Sacred libraries and scriptoriums  
+2. **[02_Worldbuilding/Lore/The Spire of Knowledge]]** - Sacred libraries and scriptoriums
 3. **The Spire Of Mercy** - Sanctuary for refugees and the desperate
 4. **The Spire Of Justice** - Ecclesiastical courts and confessionals
 5. **The Spire Of Hope** - Counseling chambers and meditation gardens
@@ -101,7 +101,7 @@ Each spire represents one aspect of divine light:
 **The Seven Luminaries**
 - Each leads one of the cathedral spires
 - **Luminary Marcus Healwright** - Spire of Healing
-- **Luminary Scholar Vera Brightpage** - Spire of Knowledge  
+- **Luminary Scholar Vera Brightpage** - Spire of Knowledge
 - **Luminary Mother Sophia Gentleheart** - Spire of Mercy
 - **Luminary Judge Thaddeus Truthseeker** - Spire of Justice
 - **Luminary Counselor Elena Hopebringer** - Spire of Hope

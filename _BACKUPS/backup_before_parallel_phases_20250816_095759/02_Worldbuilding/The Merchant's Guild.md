@@ -1,7 +1,7 @@
 ---
 title: The [[Merchant's Guild
 type: note
-tags: 
+tags:
 - auto-generated
 - [Link]]ed
 created: '2025-01-15'
@@ -84,7 +84,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[NPC_Reactions
 - [NPC_Relationship_Web.png]]
 - [[NPC_Relationship_Web.png_1 (03_People)
-- 
+-
 - [Archivist Spectrum Memorykeeper]]
 - [[Captain Azure Windcaller
 - [Captain Nerion Pearlshield]]

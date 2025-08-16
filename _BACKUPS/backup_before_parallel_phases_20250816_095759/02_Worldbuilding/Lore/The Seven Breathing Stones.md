@@ -2,7 +2,7 @@
 
 title: The Seven Breathing Stones
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

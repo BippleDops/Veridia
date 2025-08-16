@@ -2,7 +2,7 @@
 
 title: The Silver Seal
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Harmony Resonators
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

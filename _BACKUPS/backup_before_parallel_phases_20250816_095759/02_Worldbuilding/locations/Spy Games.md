@@ -2,7 +2,7 @@
 
 title: Spy Games
 type: Location
-tags: 
+tags:
 - aquabyssos
 - content/adventure
 - mechanics/exploration

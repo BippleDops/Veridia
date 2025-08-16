@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Senator Morticia Graveheart V1 Senator Morticia
   Graveheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city senator morticia graveheart v1 senator
   morticia graveheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

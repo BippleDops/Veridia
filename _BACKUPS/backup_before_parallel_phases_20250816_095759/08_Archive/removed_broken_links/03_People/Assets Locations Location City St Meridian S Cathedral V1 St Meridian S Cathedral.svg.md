@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City St Meridian S Cathedral V1 St Meridian S Cathedral.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city st meridian s cathedral v1 st meridian
   s cathedralsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

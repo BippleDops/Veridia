@@ -3,7 +3,7 @@ enhanced: true
 
 title: Skill Checks
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

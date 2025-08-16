@@ -2,7 +2,7 @@
 
 title: The Real Marina
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - session-notes

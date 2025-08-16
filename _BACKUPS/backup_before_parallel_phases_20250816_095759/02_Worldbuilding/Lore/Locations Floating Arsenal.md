@@ -2,7 +2,7 @@
 
 title: [[locations Floating Arsenal
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

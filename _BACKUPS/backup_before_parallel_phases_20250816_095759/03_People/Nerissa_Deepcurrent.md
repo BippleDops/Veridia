@@ -2,7 +2,7 @@
 
 title: Nerissa Deepcurrent
 type: Npc
-tags: 
+tags:
 - npc
 - world/both
 - character
@@ -102,7 +102,7 @@ Nerissa appears ageless, though she has ruled for nearly two centuries. Her silv
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -315,7 +315,7 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: [[Aboleth Memories
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

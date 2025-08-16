@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Portal Network Portal Network.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city portal network portal networksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

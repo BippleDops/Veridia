@@ -2,7 +2,7 @@
 
 title: Undead Rights [[Organization HQ
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

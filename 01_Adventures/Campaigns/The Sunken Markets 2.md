@@ -1,14 +1,14 @@
 ---
 MyCategory: Unknown
 MyContainer: None
-connected_locations: 
+connected_locations:
 - '[[02_Worldbuilding/Places/Port Meridian'
 - '[02_Worldbuilding/Places/Aquabyssos]]'
 - The Shadowmere (via underwater passages)
 - Category/Place
 created: '2025-08-11'
 danger_level: Moderate
-notable_npcs: 
+notable_npcs:
 - '[[02_Worldbuilding/People/Captain Thaddeus Blackwater'
 - '[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
 - '[[02_Worldbuilding/People/Castellan Ironledger III'
@@ -16,7 +16,7 @@ obsidianUIMode: preview
 region: '[02_Worldbuilding/Places/Port Meridian]]
   Harbor District'
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location

@@ -1,7 +1,7 @@
 ---
 title: 04 Places
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

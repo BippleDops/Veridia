@@ -2,7 +2,7 @@
 
 title: Economic Event Name 2
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

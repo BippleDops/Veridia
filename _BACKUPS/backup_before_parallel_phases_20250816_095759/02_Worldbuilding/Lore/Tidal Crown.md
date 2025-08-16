@@ -2,7 +2,7 @@
 
 title: Tidal Crown
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -85,7 +85,7 @@ Tidal Crown represents a crucial aspect of the world's history, cosmology, or fu
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

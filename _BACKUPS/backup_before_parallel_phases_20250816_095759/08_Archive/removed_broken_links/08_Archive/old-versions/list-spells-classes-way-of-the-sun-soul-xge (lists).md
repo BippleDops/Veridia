@@ -2,7 +2,7 @@
 
 title: list-spells-classes-way-of-the-sun-soul-xge (lists)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

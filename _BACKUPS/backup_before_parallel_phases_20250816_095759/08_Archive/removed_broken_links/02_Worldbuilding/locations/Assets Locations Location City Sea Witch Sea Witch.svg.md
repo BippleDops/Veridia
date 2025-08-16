@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sea Witch Sea Witch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sea witch sea witchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

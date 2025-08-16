@@ -2,7 +2,7 @@
 
 title: Dimensional Specialists
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

@@ -22,7 +22,7 @@ type: npc
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. /03 Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm provides a structured approach to handling specific game situations that benefit from 
+**Details**: Rich sensory elements bring this to life. /03 Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm provides a structured approach to handling specific game situations that benefit from
 *The [texture] surface feels [description] to the touch.*additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. Indeed, **Setup**: Establish parameters and stakes
 3. **Action**: Players create choices using the system

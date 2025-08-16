@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Scribe Master Elena Truthkeeper V1 Scribe Master
   Elena Truthkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scribe master elena truthkeeper v1 scribe
   master elena truthkeepersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -200,7 +200,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

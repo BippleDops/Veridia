@@ -2,7 +2,7 @@
 
 title: Services [[Reality Protection
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

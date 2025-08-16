@@ -2,7 +2,7 @@
 
 title: Skywind Cloak
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - aerial

@@ -2,7 +2,7 @@
 
 title: Political Corruption
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

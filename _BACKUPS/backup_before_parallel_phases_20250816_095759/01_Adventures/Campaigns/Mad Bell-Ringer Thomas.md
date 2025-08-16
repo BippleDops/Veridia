@@ -2,7 +2,7 @@
 
 title: Mad Bell Ringer Thomas
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - [[Oracle
 - bell-ringer
@@ -115,14 +115,14 @@ His dedication to his self-appointed role as community guardian has made him bot
 
 ## Physical Description
 
-**Race**: Human  
-**Age**: 67 years old  
-**Height**: 5'6" (1.68m)  
-**Build**: Thin and wiry from years of climbing bell towers and surviving on simple meals  
+**Race**: Human
+**Age**: 67 years old
+**Height**: 5'6" (1.68m)
+**Build**: Thin and wiry from years of climbing bell towers and surviving on simple meals
 
 **Physical Features**: Thomas has the weathered appearance of someone who has spent decades exposed to harsh maritime conditions. His hair is wild and gray-white, often standing in strange directions from his constant activity. His eyes are pale blue and unusually intense, seeming to see things others cannot. His hands are calloused from years of rope work and bell maintece.
 
-**Distinctive Traits**: 
+**Distinctive Traits**:
 - **Bell Rope Burns**: Distinctive scars on his palms from years of bell-ringing
 - **Weather-Beaten Clothes**: Practical but well-worn clothing suited for tower maintece
 - **Prophetic Eyes**: Intense gaze that seems to look through [[People to see future events
@@ -162,10 +162,10 @@ His dedication to his self-appointed role as community guardian has made him bot
 
 ## Combat Statistics
 
-**Level**: 3rd level Commoner/Oracle  
-**Armor Class**: 10 (Natural + Dex)  
-**Hit Points**: 18 (`dice: 3d8` + 3)  
-**Speed**: 30 ft., climb 20 ft.  
+**Level**: 3rd level Commoner/Oracle
+**Armor Class**: 10 (Natural + Dex)
+**Hit Points**: 18 (`dice: 3d8` + 3)
+**Speed**: 30 ft., climb 20 ft.
 
 **Ability Scores**:
 - **STR**: 12 (+1) - Adequate strength for bell-ringing and tower maintece
@@ -175,82 +175,82 @@ His dedication to his self-appointed role as community guardian has made him bot
 - **WIS**: 18 (+4) - Exceptional wisdom and prophetic awareness
 - **CHA**: 8 (-1) - Eccentric communication style makes social interaction difficult
 
-**Saving Throws**: Wis +6, Int +5  
-**Skills**: Investigation +5, Perception +10, Survival +6, Athletics +3  
-**Languages**: Common, basic understanding of weather and maritime signal codes  
-**Challenge Rating**: 1/4 (50 XP)  
+**Saving Throws**: Wis +6, Int +5
+**Skills**: Investigation +5, Perception +10, Survival +6, Athletics +3
+**Languages**: Common, basic understanding of weather and maritime signal codes
+**Challenge Rating**: 1/4 (50 XP)
 
 ### Prophetic Gifts
-**Danger Sense**: Can predict threats to the community with 75% accuracy 2-5 days in advance  
-**Weather Mastery**: Predicts weather changes with 90% accuracy up to two weeks ahead  
-**Pattern Vision**: Can see connections and consequences that others miss  
-**Bell Communication**: Can encode complex messages in bell patterns  
+**Danger Sense**: Can predict threats to the community with 75% accuracy 2-5 days in advance
+**Weather Mastery**: Predicts weather changes with 90% accuracy up to two weeks ahead
+**Pattern Vision**: Can see connections and consequences that others miss
+**Bell Communication**: Can encode complex messages in bell patterns
 
 ### Practical Skills
-**Tower Expertise**: Expert climber and rope worker from years of bell tower maintece  
-**Maritime Knowledge**: Extensive understanding of sea conditions and shipping patterns  
-**Community Memory**: Knows detailed personal information about most local residents  
-**[[Crisis Management**: Skilled at organizing community responses to predicted dangers  
+**Tower Expertise**: Expert climber and rope worker from years of bell tower maintece
+**Maritime Knowledge**: Extensive understanding of sea conditions and shipping patterns
+**Community Memory**: Knows detailed personal information about most local residents
+**[[Crisis Management**: Skilled at organizing community responses to predicted dangers
 
 ### Combat Approach
-**Non-Combatant**: Thomas avoids physical conflict, preferring to flee or hide  
-**Community Alert**: Can summon help by ringing specific bell patterns  
-**Tower Advantage**: Uses knowledge of tower layout for escape and concealment  
-**Prophetic Warning**: May predict and avoid dangerous situations before they occur  
+**Non-Combatant**: Thomas avoids physical conflict, preferring to flee or hide
+**Community Alert**: Can summon help by ringing specific bell patterns
+**Tower Advantage**: Uses knowledge of tower layout for escape and concealment
+**Prophetic Warning**: May predict and avoid dangerous situations before they occur
 
 ### Tower Structure
-**Height**: 80-foot stone tower with bells at multiple levels  
-**Construction**: Ancient stonework with modern mechanical additions  
-**Access**: Complex system of ladders, platforms, and rope mechanisms  
-**Living Quarters**: Small apartment at the base where Thomas resides  
+**Height**: 80-foot stone tower with bells at multiple levels
+**Construction**: Ancient stonework with modern mechanical additions
+**Access**: Complex system of ladders, platforms, and rope mechanisms
+**Living Quarters**: Small apartment at the base where Thomas resides
 
 ### Bell System
-**Primary Warning Bell**: Massive bronze bell used for major community alerts  
-**Weather Bells**: Set of smaller bells for specific weather pattern warnings  
-**Time Bells**: Traditional bells for marking daily schedules and events  
-**Prophecy Bells**: Special bells Thomas uses for his most complex predictions  
+**Primary Warning Bell**: Massive bronze bell used for major community alerts
+**Weather Bells**: Set of smaller bells for specific weather pattern warnings
+**Time Bells**: Traditional bells for marking daily schedules and events
+**Prophecy Bells**: Special bells Thomas uses for his most complex predictions
 
 ### Warning Codes
-**Storm Warnings**: Specific patterns for different types of dangerous weather  
-**Ship Alerts**: Signals to guide vessels and warn of hazardous conditions  
-**Community Dangers**: Codes for various threats requiring different responses  
-**Prophetic Messages**: Complex sequences encoding Thomas's supernatural warnings  
+**Storm Warnings**: Specific patterns for different types of dangerous weather
+**Ship Alerts**: Signals to guide vessels and warn of hazardous conditions
+**Community Dangers**: Codes for various threats requiring different responses
+**Prophetic Messages**: Complex sequences encoding Thomas's supernatural warnings
 
 ### Official Status
-**Unofficial Position**: Not formally employed but tolerated and sometimes consulted by authorities  
-**Historical Precedent**: Previous bell-ringers established tradition of community service  
-**Legal Protection**: Protected by local customs and appreciation for his accuracy  
-**Resource Access**: Community provides basic supplies in recognition of his services  
+**Unofficial Position**: Not formally employed but tolerated and sometimes consulted by authorities
+**Historical Precedent**: Previous bell-ringers established tradition of community service
+**Legal Protection**: Protected by local customs and appreciation for his accuracy
+**Resource Access**: Community provides basic supplies in recognition of his services
 
 ### Community Relationships
-**[Merchant]] Captain Respect**: Ship captains often seek his weather predictions before departing  
-**Children's Friend**: Local children enjoy his eccentric stories and bell demonstrations  
-**Elder Confidant**: Older residents remember his accuracy and seek his advice  
-**Official Skepticism**: Some [[Government Officials dismiss him while privately consulting his predictions  
+**[Merchant]] Captain Respect**: Ship captains often seek his weather predictions before departing
+**Children's Friend**: Local children enjoy his eccentric stories and bell demonstrations
+**Elder Confidant**: Older residents remember his accuracy and seek his advice
+**Official Skepticism**: Some [[Government Officials dismiss him while privately consulting his predictions
 
 ### Support Network
-**Market Vendors**: Provide food and supplies in exchange for weather forecasts  
-**Harbor Workers**: Rely on his warnings for scheduling dangerous activities  
-**[Religious Leaders]]**: Some view his abilities as divine gift requiring community support  
-**Local Physicians**: Occasionally consult him about health trends and epidemic predictions  
+**Market Vendors**: Provide food and supplies in exchange for weather forecasts
+**Harbor Workers**: Rely on his warnings for scheduling dangerous activities
+**[Religious Leaders]]**: Some view his abilities as divine gift requiring community support
+**Local Physicians**: Occasionally consult him about health trends and epidemic predictions
 
 ### Prediction Categories
-**Weather Events**: 90% accuracy for weather patterns and storm predictions  
-**Maritime Dangers**: 85% accuracy for shipping hazards and water conditions  
-**Community Events**: 70% accuracy for social and political developments  
-**Personal Fortunes**: 60% accuracy for individual predictions and advice  
+**Weather Events**: 90% accuracy for weather patterns and storm predictions
+**Maritime Dangers**: 85% accuracy for shipping hazards and water conditions
+**Community Events**: 70% accuracy for social and political developments
+**Personal Fortunes**: 60% accuracy for individual predictions and advice
 
 ### Interpretation Challenges
-**Symbolic Language**: Predictions often require interpretation of metaphors and symbols  
-**Timing Ambiguity**: Accurate about events but sometimes unclear about precise timing  
-**Multiple Meanings**: Single predictions may refer to several possible outcomes  
-**Cryptic Delivery**: Important warnings sometimes buried in apparent nonsense  
+**Symbolic Language**: Predictions often require interpretation of metaphors and symbols
+**Timing Ambiguity**: Accurate about events but sometimes unclear about precise timing
+**Multiple Meanings**: Single predictions may refer to several possible outcomes
+**Cryptic Delivery**: Important warnings sometimes buried in apparent nonsense
 
 ### Validation Methods
-**Documentation**: Keeps detailed records of predictions and outcomes  
-**Community Memory**: Long-term residents remember his successful predictions  
-**Official Recognition**: Some authorities quietly track his accuracy rates  
-**Pattern Analysis**: Scholars occasionally study his methods and results  
+**Documentation**: Keeps detailed records of predictions and outcomes
+**Community Memory**: Long-term residents remember his successful predictions
+**Official Recognition**: Some authorities quietly track his accuracy rates
+**Pattern Analysis**: Scholars occasionally study his methods and results
 
 ### The Silent Bells (Levels 1-3)
 Thomas's bells have fallen mysteriously silent, and he claims this means "the great quiet before the great noise." [[The Party must investigate what supernatural force is interfering with his prophetic abilities while preparing for whatever danger his silence portends.
@@ -302,7 +302,7 @@ While never formally appointed, Thomas's effectiveness has earned implicit offic
 
 ---
 
-*"The bells speak truth, but truth is not always what we want to hear. I ring them anyway, for the town's safety is worth more than their comfort with pleasant lies."*  
+*"The bells speak truth, but truth is not always what we want to hear. I ring them anyway, for the town's safety is worth more than their comfort with pleasant lies."*
 — Mad Bell-Ringer Thomas, explaining his mission to skeptical officials
 
 ## Player-Facing Summary

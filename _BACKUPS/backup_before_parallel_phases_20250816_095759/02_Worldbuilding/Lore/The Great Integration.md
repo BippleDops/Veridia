@@ -2,7 +2,7 @@
 
 title: The Great Integration
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city shadow noble districts v1 shadow noble districtssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Shadow Noble Districts V1 Shadow Noble Districts.svg
 type: location

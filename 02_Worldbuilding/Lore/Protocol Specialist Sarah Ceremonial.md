@@ -2,7 +2,7 @@
 
 title: Protocol Specialist Sarah Ceremonial
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city administrative wing v1 administrative wingsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Administrative Wing V1 Administrative Wing.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Public Safety Public Safety.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city public safety public safetysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -209,7 +209,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

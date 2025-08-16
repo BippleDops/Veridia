@@ -1,10 +1,10 @@
 ---
 
 title: Assets Art Retired Captain Bron Saltbeard.png
-aliases: 
+aliases:
 - 04 Resources Assets Art Places Retired Captain Bron Saltbeardpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

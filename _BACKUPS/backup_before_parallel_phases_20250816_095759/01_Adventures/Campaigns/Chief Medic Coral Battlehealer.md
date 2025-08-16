@@ -2,7 +2,7 @@
 
 title: Chief Medic [[Coral Battlehealer
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

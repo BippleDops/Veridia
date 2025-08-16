@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Surface Underwater Trade Surface Underwater
   Trade.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface underwater trade surface underwater
   tradesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

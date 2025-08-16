@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city safety coordinator reef safeguard safety coordinator reef safeguardsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Safety Coordinator Reef Safeguard Safety Coordinator Reef Safeguard.svg
 type: location

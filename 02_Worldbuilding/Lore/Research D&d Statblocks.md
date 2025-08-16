@@ -2,7 +2,7 @@
 
 title: Research D&d Statblocks
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - prophecy

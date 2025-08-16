@@ -2,7 +2,7 @@
 
 title: [[Clues Discovered
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

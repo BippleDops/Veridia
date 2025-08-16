@@ -2,7 +2,7 @@
 
 title: Midnight Trenches
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - active

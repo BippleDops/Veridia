@@ -2,7 +2,7 @@
 
 title: The Paradox Engine
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

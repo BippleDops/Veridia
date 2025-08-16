@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Port Meridian Market District Port Meridian
   Market District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port meridian market district port meridian
   market districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

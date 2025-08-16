@@ -6,7 +6,7 @@ danger_level: 9
 ecosystem: Deep Ocean Trenches and Abyssal Plains
 location_type: Marine Territory
 status: complete
-tags: 
+tags:
 - ancient-creatures
 - apex-predator
 - aquabyssos

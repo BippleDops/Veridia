@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc merchant captain tobias stormwind v2 merchant captain tobias stormwindsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Merchant Captain Tobias Stormwind V2 Merchant Captain Tobias Stormwind.svg
 type: npc

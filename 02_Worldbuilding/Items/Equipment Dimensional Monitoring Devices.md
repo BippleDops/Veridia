@@ -2,7 +2,7 @@
 
 title: Equipment Dimensional Monitoring Devices
 type: item
-tags: 
+tags:
 - active
 - item
 created: '2025-08-14'

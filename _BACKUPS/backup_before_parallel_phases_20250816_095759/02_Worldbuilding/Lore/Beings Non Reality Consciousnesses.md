@@ -2,7 +2,7 @@
 
 title: Beings [[Beings Non Reality Consciousnesses|Non Reality Consciousnesses
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

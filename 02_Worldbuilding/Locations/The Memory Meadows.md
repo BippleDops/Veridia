@@ -1,7 +1,7 @@
 ---
 title: The Memory Meadows
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

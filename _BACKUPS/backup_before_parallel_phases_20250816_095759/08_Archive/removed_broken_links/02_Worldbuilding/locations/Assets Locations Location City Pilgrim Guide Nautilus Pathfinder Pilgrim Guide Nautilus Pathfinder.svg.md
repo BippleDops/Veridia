@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Pilgrim Guide Nautilus Pathfinder Pilgrim Guide
   Nautilus Pathfinder.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pilgrim guide nautilus pathfinder pilgrim
   guide nautilus pathfindersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

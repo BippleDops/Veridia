@@ -2,7 +2,7 @@
 
 title: S-009_Void_Moan
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

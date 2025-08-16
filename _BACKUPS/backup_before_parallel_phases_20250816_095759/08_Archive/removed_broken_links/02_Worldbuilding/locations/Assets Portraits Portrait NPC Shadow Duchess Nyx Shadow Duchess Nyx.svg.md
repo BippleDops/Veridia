@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Shadow Duchess Nyx Shadow Duchess Nyx.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc shadow duchess nyx shadow duchess nyxsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -173,7 +173,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

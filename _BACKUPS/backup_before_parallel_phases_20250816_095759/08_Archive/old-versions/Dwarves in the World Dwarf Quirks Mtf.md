@@ -2,7 +2,7 @@
 
 title: Dwarves in the World Dwarf Quirks Mtf
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

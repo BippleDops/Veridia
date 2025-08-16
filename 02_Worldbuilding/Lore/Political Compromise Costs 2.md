@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - compromise
@@ -146,7 +146,7 @@ Intelligence suggests cult members have access to city water treatment:
 - **Opposition**: Military, infrastructure, economic interests
 
 **Military Defense** (Defense Minister's Priority)
-- **Request**: 50% of emergency budget  
+- **Request**: 50% of emergency budget
 - **Justification**: Cult military threat requires enhanced security
 - **Political Support**: Security services, threatened regions, traditionalist factions
 - **Opposition**: Civil rights groups, economic interests, pacifist religions

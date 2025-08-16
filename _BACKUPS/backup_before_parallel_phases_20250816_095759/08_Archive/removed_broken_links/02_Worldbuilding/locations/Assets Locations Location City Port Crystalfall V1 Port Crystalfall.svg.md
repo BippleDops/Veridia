@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Port Crystalfall V1 Port Crystalfall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port crystalfall v1 port crystalfallsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

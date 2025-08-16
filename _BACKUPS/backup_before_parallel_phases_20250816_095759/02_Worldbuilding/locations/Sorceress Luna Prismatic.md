@@ -2,7 +2,7 @@
 
 title: Sorceress Luna Prismatic
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

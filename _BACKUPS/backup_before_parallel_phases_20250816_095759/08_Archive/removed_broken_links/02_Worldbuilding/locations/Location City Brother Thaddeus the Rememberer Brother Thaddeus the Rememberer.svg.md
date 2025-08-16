@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city brother thaddeus the rememberer brother thaddeus the rememberersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Brother Thaddeus the Rememberer Brother Thaddeus the Rememberer.svg
 type: location

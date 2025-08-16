@@ -2,7 +2,7 @@
 
 title: Historical Research Institute
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

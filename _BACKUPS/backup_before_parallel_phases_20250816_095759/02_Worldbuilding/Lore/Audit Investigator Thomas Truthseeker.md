@@ -2,7 +2,7 @@
 
 title: Audit Investigator Thomas Truthseeker
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Depth Effect Quick Reference
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - environmental-hazards
@@ -370,7 +370,7 @@ Recent convergence effects with [[Aethermoor have created additional complicatio
 ### Light Availability by Depth
 
 | Depth Range | Natural Light | Artificial Required | Color Perception | Navigation |
-|-------------|---------------|--------------------|-----------------|-----------| 
+|-------------|---------------|--------------------|-----------------|-----------|
 | 0-30 ft | Full | Optional | Full spectrum | Visual |
 | 30-100 ft | Partial | Recommended | Red loss | Visual aided |
 | 100-300 ft | Minimal | Required | Blue spectrum | Artificial light |

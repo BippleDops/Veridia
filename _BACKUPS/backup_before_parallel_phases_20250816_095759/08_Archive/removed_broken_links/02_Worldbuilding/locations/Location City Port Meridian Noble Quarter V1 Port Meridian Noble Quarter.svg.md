@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city port meridian noble quarter v1 port meridian noble quartersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Port Meridian Noble Quarter V1 Port Meridian Noble Quarter.svg
 type: location

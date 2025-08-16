@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Silent Guardian Marcus V1 Silent Guardian Marcus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city silent guardian marcus v1 silent guardian
   marcussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

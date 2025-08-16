@@ -2,7 +2,7 @@
 
 title: Keeper of Crowns Lydia Starfall
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

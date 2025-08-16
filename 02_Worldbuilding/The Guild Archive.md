@@ -3,7 +3,7 @@ created: 2025-08-14
 headquarters: Unknown
 membership: Unknown
 modified: '2025-08-14'
-tags: 
+tags:
 - organization
 title: The Guild Archive
 type: faction

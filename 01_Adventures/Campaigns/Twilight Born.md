@@ -2,7 +2,7 @@
 
 title: Twilight Born
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

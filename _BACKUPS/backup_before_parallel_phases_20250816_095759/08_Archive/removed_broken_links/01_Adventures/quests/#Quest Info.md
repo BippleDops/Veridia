@@ -45,7 +45,7 @@ publish: false
 This document contains important information regarding #Quest Info and its role within the greater narrative. ## Description
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
-#Quest Info represents a significant element within the campaign world, offering various opportunities for engagement and 
+#Quest Info represents a significant element within the campaign world, offering various opportunities for engagement and
 *The air carries the scent of [appropriate smell].*development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world

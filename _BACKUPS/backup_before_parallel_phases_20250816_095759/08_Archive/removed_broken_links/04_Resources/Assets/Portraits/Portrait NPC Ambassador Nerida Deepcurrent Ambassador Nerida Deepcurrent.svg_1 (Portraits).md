@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc ambassador nerida deepcurrent ambassador nerida deepcurrentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Ambassador Nerida Deepcurrent Ambassador Nerida Deepcurrent.svg
 type: npc

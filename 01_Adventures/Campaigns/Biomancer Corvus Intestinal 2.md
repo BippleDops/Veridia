@@ -8,7 +8,7 @@ organization: Independent Research Specialist
 reputation: Feared and Respected
 specialization: Biological Manipulation and Flesh Magic
 status: complete
-tags: 
+tags:
 - aquabyssos
 - biological-manipulation
 - biomancer

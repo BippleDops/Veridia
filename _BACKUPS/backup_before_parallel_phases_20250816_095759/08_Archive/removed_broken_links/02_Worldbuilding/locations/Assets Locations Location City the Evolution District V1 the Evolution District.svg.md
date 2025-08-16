@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Evolution District V1 the Evolution District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the evolution district v1 the evolution
   districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

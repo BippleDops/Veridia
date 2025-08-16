@@ -2,7 +2,7 @@
 
 title: D-L-11_The_Last_Anchor
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

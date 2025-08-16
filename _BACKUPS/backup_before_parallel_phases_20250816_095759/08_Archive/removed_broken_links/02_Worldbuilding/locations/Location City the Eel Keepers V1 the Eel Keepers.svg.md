@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the eel keepers v1 the eel keeperssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Eel Keepers V1 the Eel Keepers.svg
 type: location

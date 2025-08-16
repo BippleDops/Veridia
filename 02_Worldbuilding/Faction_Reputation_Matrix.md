@@ -2,7 +2,7 @@
 
 title: Faction Reputation Matrix
 type: faction-system
-tags: 
+tags:
 - factions
 - reputation
 - politics

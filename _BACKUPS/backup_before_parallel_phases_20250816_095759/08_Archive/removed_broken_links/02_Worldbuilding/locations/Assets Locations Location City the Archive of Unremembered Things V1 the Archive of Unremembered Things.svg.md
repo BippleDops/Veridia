@@ -1,11 +1,11 @@
 ---
 title: Assets Locations Location City the Archive of Unremembered Things V1 the Archive
   of Unremembered Things.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the archive of unremembered things v1
   the archive of unremembered thingssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

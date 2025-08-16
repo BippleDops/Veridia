@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city diplomatic minister reef v1 diplomatic minister reefsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Diplomatic Minister Reef V1 Diplomatic Minister Reef.svg
 type: location

@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-dock-master-anchor-holdfast-v1-dock-master-anchor-holdfast.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

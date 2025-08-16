@@ -2,7 +2,7 @@
 
 title: [[The Professional Standards Authority
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

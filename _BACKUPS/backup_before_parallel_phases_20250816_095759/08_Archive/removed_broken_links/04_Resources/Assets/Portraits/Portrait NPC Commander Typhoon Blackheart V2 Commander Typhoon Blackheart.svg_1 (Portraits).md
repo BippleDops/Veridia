@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc commander typhoon blackheart v2 commander typhoon blackheartsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Commander Typhoon Blackheart V2 Commander Typhoon Blackheart.svg
 type: npc

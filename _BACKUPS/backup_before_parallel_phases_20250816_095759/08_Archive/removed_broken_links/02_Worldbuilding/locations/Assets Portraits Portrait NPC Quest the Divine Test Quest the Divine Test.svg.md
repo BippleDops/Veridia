@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Quest the Divine Test Quest the Divine Test.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the divine test quest the divine
   testsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

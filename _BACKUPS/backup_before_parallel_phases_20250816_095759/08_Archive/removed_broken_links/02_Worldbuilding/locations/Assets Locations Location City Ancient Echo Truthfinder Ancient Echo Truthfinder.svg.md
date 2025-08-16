@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Ancient Echo Truthfinder Ancient Echo Truthfinder.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ancient echo truthfinder ancient echo
   truthfindersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

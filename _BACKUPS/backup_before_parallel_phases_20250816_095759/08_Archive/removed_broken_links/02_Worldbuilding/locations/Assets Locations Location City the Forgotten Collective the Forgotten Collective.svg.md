@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Forgotten Collective the Forgotten Collective.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the forgotten collective the forgotten
   collectivesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

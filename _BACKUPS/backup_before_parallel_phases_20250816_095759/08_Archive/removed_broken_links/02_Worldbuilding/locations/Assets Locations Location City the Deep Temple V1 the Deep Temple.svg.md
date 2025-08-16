@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Deep Temple V1 the Deep Temple.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the deep temple v1 the deep templesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

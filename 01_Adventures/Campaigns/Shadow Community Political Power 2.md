@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags: 
+tags:
 - both aethermoor & aquabyssos
 - complete
 - content/faction

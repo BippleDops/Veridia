@@ -48,7 +48,7 @@ type: npc
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. /03 Mechanics/CLI/bestiary/humanoid/tough xmm provides a structured approach to handling specific game situations that benefit from additional 
+**Details**: Rich sensory elements bring this to life. /03 Mechanics/CLI/bestiary/humanoid/tough xmm provides a structured approach to handling specific game situations that benefit from additional
 *The air carries the scent of [appropriate smell].*
 *The air carries the scent of [appropriate smell].*mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes

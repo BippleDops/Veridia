@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Foreign Intelligence Foreign Intelligence.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city foreign intelligence foreign intelligencesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Bathyal Palace the Bathyal Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the bathyal palace the bathyal palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

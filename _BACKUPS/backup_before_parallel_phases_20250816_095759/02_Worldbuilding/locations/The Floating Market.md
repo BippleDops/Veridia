@@ -2,7 +2,7 @@
 
 title: The Floating Market
 type: Location
-tags: 
+tags:
 - dimensional nexus (both realms)
 - status/complete
 - world/both
@@ -102,7 +102,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 #### Luminar's Radiant Emporium
 *Owner: [Luminar Brightforge]] - Aethermoor Crystal Artificer*
 - **Specialty**: High-grade crystal focusing stones and illumination devices
-- **Signature Items**: 
+- **Signature Items**:
   - *Everburning Crystal Lanterns* (50 gp) - Never need fuel, emit bright light 30ft
   - *Crystal of True Sight* (2,500 gp) - Functions as *Gem of Seeing*
   - *Resoce Amplifiers* (750 gp) - Enhance spellcasting focus (+1 to spell attack rolls)
@@ -385,7 +385,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - Negotiate with moderate factions in both realms
 - Prevent market from being forced to abandon neutrality
 
-**Rewards**: 
+**Rewards**:
 - Magical items combining both realms' techniques
 - Permanent diplomatic status
 - Share in restored market profits
@@ -436,7 +436,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 *Levels 3-6*
 **Hook**: [Diplomatic Coordinator Lysandra Starweave]] asks for discrete investigation into vanishing of important ambassador.
 
-**Details**: 
+**Details**:
 - Ambassador [[Keras Stormwind from Aethermoor disappeared during routine trade negotiations
 - Last seen entering [The Abyssal Tavern]] three days ago
 - Host [[Thane Darkwater claims no knowledge, but seems nervous
@@ -625,7 +625,7 @@ Ongoing situations affecting The Floating Market:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

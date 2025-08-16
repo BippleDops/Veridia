@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain henrik proudbanner v1 captain henrik proudbannersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Henrik Proudbanner V1 Captain Henrik Proudbanner.svg
 type: npc

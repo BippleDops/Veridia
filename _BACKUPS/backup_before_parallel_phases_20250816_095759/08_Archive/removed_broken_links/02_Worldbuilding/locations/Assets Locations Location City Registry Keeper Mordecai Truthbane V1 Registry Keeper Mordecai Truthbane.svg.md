@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Registry Keeper Mordecai Truthbane V1 Registry
   Keeper Mordecai Truthbane.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city registry keeper mordecai truthbane v1
   registry keeper mordecai truthbanesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

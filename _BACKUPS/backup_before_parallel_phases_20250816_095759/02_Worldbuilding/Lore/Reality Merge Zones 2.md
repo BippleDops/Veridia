@@ -9,7 +9,7 @@ hazard_type: Planar Boundary Distortion
 scope: Cross-Realm Environmental Zones
 significance: Critical Infrastructure
 status: complete
-tags: 
+tags:
 - both worlds
 - complete
 - content/lore

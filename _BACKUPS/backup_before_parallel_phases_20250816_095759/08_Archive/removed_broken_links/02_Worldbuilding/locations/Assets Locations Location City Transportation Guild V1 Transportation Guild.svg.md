@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Transportation Guild V1 Transportation Guild.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city transportation guild v1 transportation
   guildsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

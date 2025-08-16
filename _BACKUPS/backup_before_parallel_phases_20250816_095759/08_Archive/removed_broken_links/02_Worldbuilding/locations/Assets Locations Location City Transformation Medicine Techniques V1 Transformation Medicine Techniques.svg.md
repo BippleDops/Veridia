@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Transformation Medicine Techniques V1 Transformation
   Medicine Techniques.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city transformation medicine techniques v1
   transformation medicine techniquessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

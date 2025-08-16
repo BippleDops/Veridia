@@ -2,7 +2,7 @@
 
 title: Depth Pulse
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Theological Warfare V1 Theological Warfare.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city theological warfare v1 theological warfaresvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Memory Bank Central
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

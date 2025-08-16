@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Harbor District V1 Harbor District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor district v1 harbor districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

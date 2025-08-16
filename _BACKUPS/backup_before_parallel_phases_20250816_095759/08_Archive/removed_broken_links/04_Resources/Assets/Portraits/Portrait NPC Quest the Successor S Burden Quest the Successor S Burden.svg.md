@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the successor s burden quest the successor s burdensvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Successor S Burden Quest the Successor S Burden.svg
 type: npc

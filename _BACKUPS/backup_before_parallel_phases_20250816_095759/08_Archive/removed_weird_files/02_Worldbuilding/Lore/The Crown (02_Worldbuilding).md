@@ -2,7 +2,7 @@
 
 title: [[The Crown
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

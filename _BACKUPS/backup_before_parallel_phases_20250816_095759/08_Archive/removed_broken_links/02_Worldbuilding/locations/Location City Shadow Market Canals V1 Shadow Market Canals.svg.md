@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city shadow market canals v1 shadow market canalssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Shadow Market Canals V1 Shadow Market Canals.svg
 type: location

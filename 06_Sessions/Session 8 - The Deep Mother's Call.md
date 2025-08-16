@@ -31,7 +31,7 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections 
+- Connections
 *The [texture] surface feels [description] to the touch.*to overarching campaign themes ## [[Secret Connections]] * [Hidden from players]* Connected to [[The Hidden Covenant - Control trade routes ## [Plot Hooks]] - A document has gone missing and chaos spreads - A map reveals the truth about this place
 - A map reveals a betrayal about this place
 - A corpse reveals a conspiracy about a local noble ## [[Cultural Practices ### Greetings - Touch foreheads for equals

@@ -2,7 +2,7 @@
 
 title: Encounter_Scaling_Guide
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

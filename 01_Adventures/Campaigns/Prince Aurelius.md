@@ -2,7 +2,7 @@
 
 title: Prince Aurelius
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - quest

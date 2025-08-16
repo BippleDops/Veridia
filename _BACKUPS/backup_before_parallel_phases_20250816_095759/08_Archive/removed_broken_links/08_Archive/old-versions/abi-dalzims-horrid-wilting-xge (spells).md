@@ -2,7 +2,7 @@
 
 title: abi-dalzims-horrid-wilting-xge (spells)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

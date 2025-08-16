@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Blood Current Express V1 Blood Current Express.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city blood current express v1 blood current
   expresssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

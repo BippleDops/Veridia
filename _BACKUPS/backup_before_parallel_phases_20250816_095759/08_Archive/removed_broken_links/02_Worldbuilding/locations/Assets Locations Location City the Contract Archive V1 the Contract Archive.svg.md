@@ -1,10 +1,10 @@
 ---
 title: Assets Locations Location City the Contract Archive V1 the Contract Archive.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the contract archive v1 the contract
   archivesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

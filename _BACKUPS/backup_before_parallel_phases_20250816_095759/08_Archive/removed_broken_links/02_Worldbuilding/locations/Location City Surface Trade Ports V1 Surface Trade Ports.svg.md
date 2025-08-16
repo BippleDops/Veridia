@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city surface trade ports v1 surface trade portssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Surface Trade Ports V1 Surface Trade Ports.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Interfaith Councils V1 Interfaith Councils.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city interfaith councils v1 interfaith councilssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

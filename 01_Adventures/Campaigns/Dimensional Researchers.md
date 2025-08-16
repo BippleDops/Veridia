@@ -2,7 +2,7 @@
 
 title: Dimensional Researchers
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

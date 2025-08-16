@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Scholar Magnus Riddlewright V1 Scholar Magnus
   Riddlewright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scholar magnus riddlewright v1 scholar
   magnus riddlewrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

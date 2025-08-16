@@ -1,7 +1,7 @@
 ---
 title: "deck-of-many-things#The%20Void"
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

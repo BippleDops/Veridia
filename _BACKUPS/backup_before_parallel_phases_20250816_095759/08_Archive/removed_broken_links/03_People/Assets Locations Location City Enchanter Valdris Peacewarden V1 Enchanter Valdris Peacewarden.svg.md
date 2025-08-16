@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Enchanter Valdris Peacewarden V1 Enchanter Valdris
   Peacewarden.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city enchanter valdris peacewarden v1 enchanter
   valdris peacewardensvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

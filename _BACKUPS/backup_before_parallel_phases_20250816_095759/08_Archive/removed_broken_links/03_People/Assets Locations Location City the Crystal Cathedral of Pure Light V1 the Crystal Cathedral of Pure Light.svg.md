@@ -2,11 +2,11 @@
 
 title: [[Assets|Assets Locations [location|location]] City [[The Crystal Cathedral|The Crystal Cathedral of Pure Light V1 the Crystal
   Cathedral of Pure Light.svg
-aliases: 
+aliases:
 - 04 Resources [Assets Locations|Assets Locations]] location city [[The Crystal Cathedral of Pure Light|The Crystal Cathedral of Pure Light
   v1 the crystal cathedral of pure lightsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

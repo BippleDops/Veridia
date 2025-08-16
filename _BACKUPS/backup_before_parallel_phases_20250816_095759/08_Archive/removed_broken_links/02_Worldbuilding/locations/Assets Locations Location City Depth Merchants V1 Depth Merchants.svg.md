@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Depth Merchants V1 Depth Merchants.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city depth merchants v1 depth merchantssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

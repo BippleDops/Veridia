@@ -2,7 +2,7 @@
 
 title: cape-of-the-mountebank-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

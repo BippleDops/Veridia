@@ -2,7 +2,7 @@
 
 title: Thalassius the Wise
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - both

@@ -1,14 +1,14 @@
 ---
 MyCategory: Unknown - Category/Place
 MyContainer: None
-aliases: 
+aliases:
 - Cerulean Archipelago
 created: '2025-07-23'
 danger_level: Moderate
 modified: "2025-07-23 16:10"
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location

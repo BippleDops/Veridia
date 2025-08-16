@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord aldric blackwater v1 lord aldric blackwatersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Aldric Blackwater V1 Lord Aldric Blackwater.svg
 type: npc

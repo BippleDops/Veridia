@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Void Currents V1 Void Currents.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city void currents v1 void currentssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

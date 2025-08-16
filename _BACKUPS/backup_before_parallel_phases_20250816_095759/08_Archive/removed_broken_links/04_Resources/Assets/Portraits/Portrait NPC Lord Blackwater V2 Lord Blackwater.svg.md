@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord blackwater v2 lord blackwatersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Blackwater V2 Lord Blackwater.svg
 type: npc

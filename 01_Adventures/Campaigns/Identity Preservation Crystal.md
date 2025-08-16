@@ -2,7 +2,7 @@
 
 title: [[Identity Preservation Crystal
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

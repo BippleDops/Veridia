@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Sommelier Bacchus Deepbottle V1 Sommelier Bacchus
   Deepbottle.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sommelier bacchus deepbottle v1 sommelier
   bacchus deepbottlesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -198,7 +198,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Dark Gift of Yog the Invincible Cos
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

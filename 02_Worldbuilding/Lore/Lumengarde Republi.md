@@ -2,7 +2,7 @@
 
 title: [[Lumengarde Republi
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - historical-event

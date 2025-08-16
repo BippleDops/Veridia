@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Kelp Silk V1 Kelp Silk.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city kelp silk v1 kelp silksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

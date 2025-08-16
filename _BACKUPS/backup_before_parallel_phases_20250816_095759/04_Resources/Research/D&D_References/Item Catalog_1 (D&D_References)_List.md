@@ -2,7 +2,7 @@
 
 title: Item Catalog_1 (D&D_References)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

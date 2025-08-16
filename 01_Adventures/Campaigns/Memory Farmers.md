@@ -2,7 +2,7 @@
 
 title: Memory Farmers
 type: Location
-tags: 
+tags:
 - aquabyssos
 - psychological
 - status/complete
@@ -29,11 +29,11 @@ current_status: Active but Underground
 danger_level: 8
 founded: Second Age of Aquabyssos
 leader: '[Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]'
-related_entities: 
+related_entities:
 - '[[Memory Alterations'
 - '[Aboleth Mind Mazes]]'
 - '[[Memory Trader Kellian|02 Worldbuilding/People/Memory Trader Kellian]]'
-specialties: 
+specialties:
 - Memory Extraction
 - Experience Harvesting
 - Consciousness Trafficking
@@ -370,7 +370,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

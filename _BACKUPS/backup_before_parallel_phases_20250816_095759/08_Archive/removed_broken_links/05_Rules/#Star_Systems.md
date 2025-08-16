@@ -3,7 +3,7 @@ enhanced: true
 
 title: '#Star Systems'
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

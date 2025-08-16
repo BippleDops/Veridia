@@ -2,7 +2,7 @@
 
 title: Benthic Commune
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

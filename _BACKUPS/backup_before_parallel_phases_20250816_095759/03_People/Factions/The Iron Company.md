@@ -2,7 +2,7 @@
 
 title: The Iron Company
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

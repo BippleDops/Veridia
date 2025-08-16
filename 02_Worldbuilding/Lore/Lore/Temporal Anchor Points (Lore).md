@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Temporal Anchor Points
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc castellan ironledger iii v1 castellan ironledger iiisvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Castellan Ironledger Iii V1 Castellan Ironledger Iii.svg
 type: npc

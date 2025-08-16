@@ -2,7 +2,7 @@
 
 title: Anti Religious Philosophical Arguments
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

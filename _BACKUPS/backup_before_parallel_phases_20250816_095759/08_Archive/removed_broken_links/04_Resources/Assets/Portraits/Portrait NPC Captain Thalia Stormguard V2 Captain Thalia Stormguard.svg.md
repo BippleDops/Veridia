@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain thalia stormguard v2 captain thalia stormguardsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Thalia Stormguard V2 Captain Thalia Stormguard.svg
 type: npc

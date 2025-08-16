@@ -2,7 +2,7 @@
 
 title: The Convergence Key
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

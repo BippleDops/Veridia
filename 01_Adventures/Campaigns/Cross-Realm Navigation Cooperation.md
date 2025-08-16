@@ -2,7 +2,7 @@
 
 title: Cross Realm Navigation Cooperation
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

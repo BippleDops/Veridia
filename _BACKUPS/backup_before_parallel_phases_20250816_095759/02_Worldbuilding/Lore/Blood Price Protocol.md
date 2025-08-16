@@ -2,7 +2,7 @@
 
 title: Blood Price Protocol
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

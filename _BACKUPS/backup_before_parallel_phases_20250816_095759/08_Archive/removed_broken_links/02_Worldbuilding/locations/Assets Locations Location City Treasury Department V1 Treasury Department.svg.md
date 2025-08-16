@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Treasury Department V1 Treasury Department.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city treasury department v1 treasury departmentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

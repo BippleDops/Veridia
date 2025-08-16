@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memory Keeper Ancient Nerida Memory Keeper Ancient
   Nerida.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory keeper ancient nerida memory
   keeper ancient neridasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Tavern Names
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

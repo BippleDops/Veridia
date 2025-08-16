@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Loop Walker Celia Loop Walker Celia.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city loop walker celia loop walker celiasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

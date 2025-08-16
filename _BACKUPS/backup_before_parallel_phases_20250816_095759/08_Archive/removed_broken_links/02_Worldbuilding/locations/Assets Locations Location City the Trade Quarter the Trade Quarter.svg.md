@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Trade Quarter the Trade Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the trade quarter the trade quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

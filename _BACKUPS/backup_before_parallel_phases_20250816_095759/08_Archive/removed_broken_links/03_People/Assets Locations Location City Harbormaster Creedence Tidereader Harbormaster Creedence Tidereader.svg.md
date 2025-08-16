@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Harbormaster Creedence Tidereader Harbormaster
   Creedence Tidereader.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbormaster creedence tidereader harbormaster
   creedence tidereadersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: The Shadow Markets New
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

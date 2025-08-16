@@ -2,7 +2,7 @@
 
 title: The Temple of First Tide
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

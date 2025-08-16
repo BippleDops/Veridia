@@ -1,7 +1,7 @@
 ---
 title: Archive Keeper Memoria Vaultmind
 type: npc
-tags: 
+tags:
 - npc
 - halfling
 - bard

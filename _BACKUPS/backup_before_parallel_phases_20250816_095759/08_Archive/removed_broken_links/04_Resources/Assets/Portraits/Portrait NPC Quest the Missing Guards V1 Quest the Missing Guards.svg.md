@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the missing guards v1 quest the missing guardssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Missing Guards V1 Quest the Missing Guards.svg
 type: npc

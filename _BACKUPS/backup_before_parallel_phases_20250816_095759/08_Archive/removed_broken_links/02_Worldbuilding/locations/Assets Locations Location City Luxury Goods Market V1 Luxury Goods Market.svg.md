@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Luxury Goods Market V1 Luxury Goods Market.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city luxury goods market v1 luxury goods
   marketsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

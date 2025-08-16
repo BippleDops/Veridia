@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Personnel/The Crystal Watchers
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

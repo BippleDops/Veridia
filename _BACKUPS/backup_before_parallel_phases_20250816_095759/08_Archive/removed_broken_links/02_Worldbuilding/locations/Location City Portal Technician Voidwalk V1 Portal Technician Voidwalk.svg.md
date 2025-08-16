@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city portal technician voidwalk v1 portal technician voidwalksvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Portal Technician Voidwalk V1 Portal Technician Voidwalk.svg
 type: location

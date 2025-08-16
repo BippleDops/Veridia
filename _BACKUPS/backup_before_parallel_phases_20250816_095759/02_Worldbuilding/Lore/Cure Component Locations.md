@@ -2,7 +2,7 @@
 
 title: Cure Component [[locations
 type: location
-tags: 
+tags:
 - location
 - village
 - central-territories
@@ -206,7 +206,7 @@ Cure Component Locations can serve as:
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 10
-  
+
 ### [Environmental Hazards]]
 - Poisonous gas
 - **DC 16** to detect
@@ -224,7 +224,7 @@ Cure Component Locations can serve as:
 - **Recent History**: Festival 9 years ago
 - **Living Memory**: Duel last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Arrival in 4 days
 - **Brewing Conflict**: Succession
 - **Prophecy Connection**: [[Links to The Second Prophecy of Depths

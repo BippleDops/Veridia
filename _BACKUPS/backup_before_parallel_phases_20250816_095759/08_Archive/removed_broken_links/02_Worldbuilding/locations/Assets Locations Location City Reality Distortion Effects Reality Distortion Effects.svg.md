@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Reality Distortion Effects Reality Distortion
   Effects.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reality distortion effects reality distortion
   effectssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

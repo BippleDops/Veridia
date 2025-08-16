@@ -2,7 +2,7 @@
 
 title: [[Doctor Emma Herbalist
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

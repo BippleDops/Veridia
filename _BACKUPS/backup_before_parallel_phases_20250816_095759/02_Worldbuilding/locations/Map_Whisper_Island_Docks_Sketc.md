@@ -2,7 +2,7 @@
 
 title: 07_Player_Resources/Visual_Handouts/Map_Whisper_Island_Docks_Sketc
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

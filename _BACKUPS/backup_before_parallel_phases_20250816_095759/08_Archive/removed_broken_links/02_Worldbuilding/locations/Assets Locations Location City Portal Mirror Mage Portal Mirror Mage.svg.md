@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Portal Mirror Mage Portal Mirror Mage.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city portal mirror mage portal mirror magesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

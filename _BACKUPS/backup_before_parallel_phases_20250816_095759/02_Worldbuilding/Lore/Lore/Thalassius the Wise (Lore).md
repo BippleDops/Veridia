@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Thalassius the Wise
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

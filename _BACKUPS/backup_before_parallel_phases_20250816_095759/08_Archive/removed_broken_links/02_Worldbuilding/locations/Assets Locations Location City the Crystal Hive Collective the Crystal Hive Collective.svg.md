@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Crystal Hive Collective the Crystal Hive
   Collective.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal hive collective the crystal
   hive collectivesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

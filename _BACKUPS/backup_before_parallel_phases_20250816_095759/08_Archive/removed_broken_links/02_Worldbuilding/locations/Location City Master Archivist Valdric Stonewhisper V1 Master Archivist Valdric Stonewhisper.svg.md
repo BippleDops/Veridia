@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master archivist valdric stonewhisper v1 master archivist valdric
   stonewhispersvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Archivist Valdric Stonewhisper V1 Master Archivist Valdric
   Stonewhisper.svg

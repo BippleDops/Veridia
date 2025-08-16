@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city senator bartholomew bonewright v1 senator bartholomew bonewrightsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Senator Bartholomew Bonewright V1 Senator Bartholomew Bonewright.svg
 type: location

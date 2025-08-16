@@ -2,7 +2,7 @@
 
 title: Regent Prism Goldwind
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

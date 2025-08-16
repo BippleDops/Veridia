@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Golden Coral Golden Coral.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city golden coral golden coralsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

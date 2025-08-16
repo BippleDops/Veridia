@@ -2,7 +2,7 @@
 
 title: The Brotherhood of the Black Anchor
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction
@@ -167,6 +167,6 @@ Things widely suspected
 
 ## References
 
-- 
+-
 - [[The Hidden Cove of Whispers
 - [The Hidden Cove of Whispers (D&D_References)]]

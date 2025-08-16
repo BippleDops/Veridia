@@ -2,7 +2,7 @@
 
 title: Treaty of the Depths (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

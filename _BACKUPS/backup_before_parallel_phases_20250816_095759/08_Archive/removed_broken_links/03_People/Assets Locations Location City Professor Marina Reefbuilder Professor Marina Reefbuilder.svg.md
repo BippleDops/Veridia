@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Professor Marina Reefbuilder Professor Marina
   Reefbuilder.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city professor marina reefbuilder professor
   marina reefbuildersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

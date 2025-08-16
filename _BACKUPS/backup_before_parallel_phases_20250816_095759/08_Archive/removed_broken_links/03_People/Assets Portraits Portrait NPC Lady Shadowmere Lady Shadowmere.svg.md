@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Lady Shadowmere Lady Shadowmere.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc lady shadowmere lady shadowmeresvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

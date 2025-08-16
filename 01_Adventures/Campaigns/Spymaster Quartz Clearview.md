@@ -2,7 +2,7 @@
 
 title: Spymaster Quartz Clearview
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Supplier Erikson Tidecaller V1 Supplier Erikson
   Tidecaller.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city supplier erikson tidecaller v1 supplier
   erikson tidecallersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -185,7 +185,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Commercial District Commercial District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city commercial district commercial districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

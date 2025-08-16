@@ -2,7 +2,7 @@
 
 title: Lord Flux the Inconsistent
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -46,7 +46,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

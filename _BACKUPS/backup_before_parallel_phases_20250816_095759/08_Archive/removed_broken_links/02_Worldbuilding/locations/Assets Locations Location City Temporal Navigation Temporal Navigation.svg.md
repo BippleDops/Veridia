@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temporal Navigation Temporal Navigation.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temporal navigation temporal navigationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

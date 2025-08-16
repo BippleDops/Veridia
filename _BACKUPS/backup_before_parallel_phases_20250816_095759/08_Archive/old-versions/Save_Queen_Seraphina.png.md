@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Save_Queen_Seraphina.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

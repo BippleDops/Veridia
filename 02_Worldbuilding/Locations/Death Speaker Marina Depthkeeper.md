@@ -2,7 +2,7 @@
 
 title: Death Speaker Marina Depthkeeper
 type: [[location
-tags: 
+tags:
 - both worlds
 - world/both
 - content/location
@@ -168,7 +168,7 @@ Mentioned in The Second Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

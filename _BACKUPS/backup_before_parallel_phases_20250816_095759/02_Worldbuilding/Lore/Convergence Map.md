@@ -2,7 +2,7 @@
 
 title: Convergence [[map
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

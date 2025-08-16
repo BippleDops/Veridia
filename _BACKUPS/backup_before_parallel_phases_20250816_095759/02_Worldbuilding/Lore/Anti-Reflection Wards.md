@@ -2,7 +2,7 @@
 
 title: Anti Reflection Wards
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

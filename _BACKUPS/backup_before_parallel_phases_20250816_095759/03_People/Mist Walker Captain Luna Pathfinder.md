@@ -2,7 +2,7 @@
 
 title: Mist Walker Captain Luna Pathfinder
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - npc
@@ -46,7 +46,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -198,7 +198,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

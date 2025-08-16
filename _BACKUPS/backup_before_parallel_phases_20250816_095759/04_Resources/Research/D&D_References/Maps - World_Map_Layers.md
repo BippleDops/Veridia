@@ -2,7 +2,7 @@
 
 title: Maps - World_Map_Layers
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Experimental Medical Ethics V1 Experimental
   Medical Ethics.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city experimental medical ethics v1 experimental
   medical ethicssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

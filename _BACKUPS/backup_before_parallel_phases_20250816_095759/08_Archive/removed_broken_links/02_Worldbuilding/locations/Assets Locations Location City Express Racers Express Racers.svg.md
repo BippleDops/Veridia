@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Express Racers Express Racers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city express racers express racerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

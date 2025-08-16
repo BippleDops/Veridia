@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the twin prophets v1 the twin prophetssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Twin Prophets V1 the Twin Prophets.svg
 type: location

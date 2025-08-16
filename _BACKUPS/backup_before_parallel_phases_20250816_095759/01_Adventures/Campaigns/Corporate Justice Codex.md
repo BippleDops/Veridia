@@ -2,7 +2,7 @@
 
 title: Corporate Justice Codex
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Marina Deepcurrent Marina Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marina deepcurrent marina deepcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

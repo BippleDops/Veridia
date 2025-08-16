@@ -2,7 +2,7 @@
 
 title: [[Aethermoor Trade Commission
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aerial
 - content/lore

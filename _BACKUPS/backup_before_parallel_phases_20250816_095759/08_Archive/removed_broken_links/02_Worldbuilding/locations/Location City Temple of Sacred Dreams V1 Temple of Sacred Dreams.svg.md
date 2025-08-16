@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city temple of sacred dreams v1 temple of sacred dreamssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Temple of Sacred Dreams V1 Temple of Sacred Dreams.svg
 type: location

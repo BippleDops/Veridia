@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Acolyte Sister Tidal Deepfaith V1 Acolyte Sister
   Tidal Deepfaith.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city acolyte sister tidal deepfaith v1 acolyte
   sister tidal deepfaithsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -208,7 +208,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

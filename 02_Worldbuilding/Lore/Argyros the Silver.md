@@ -2,7 +2,7 @@
 
 title: Argyros the Silver
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aethermoor]]
 - active

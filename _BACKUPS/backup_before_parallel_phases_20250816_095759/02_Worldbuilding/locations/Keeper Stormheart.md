@@ -2,7 +2,7 @@
 
 title: Keeper Stormheart
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

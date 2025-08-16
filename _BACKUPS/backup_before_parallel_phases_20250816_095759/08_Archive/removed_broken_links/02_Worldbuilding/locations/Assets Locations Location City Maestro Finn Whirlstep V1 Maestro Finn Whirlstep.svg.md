@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Maestro Finn Whirlstep V1 Maestro Finn Whirlstep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city maestro finn whirlstep v1 maestro finn
   whirlstepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -202,7 +202,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

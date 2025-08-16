@@ -2,7 +2,7 @@
 
 title: [[Merchant Council of [Port Meridian]]
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

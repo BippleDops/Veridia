@@ -2,7 +2,7 @@
 
 title: Suspects
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - prophecy

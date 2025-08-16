@@ -2,7 +2,7 @@
 
 title: [[Tidal Crown Maraleth
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

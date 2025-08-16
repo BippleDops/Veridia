@@ -7,13 +7,13 @@ current_location: '[02_Worldbuilding/Places/Port Meridian]] - Harbor Authority O
 level: 12
 occupation: Harbor Master of Port Meridian
 race: Triton
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Groups/Aquabyssos Navy|Aquabyssos Navy'
 - '[02_Worldbuilding/Lore/The Seven Shards]]'
 - '[[02_Worldbuilding/Places/Port Meridian]]'
 - 'Deepwater Trading Consortium'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/npc

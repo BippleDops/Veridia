@@ -2,7 +2,7 @@
 
 title: The Seven Shard Guardians
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

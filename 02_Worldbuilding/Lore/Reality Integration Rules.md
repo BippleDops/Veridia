@@ -2,7 +2,7 @@
 
 title: Reality Integration Rules
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -95,7 +95,7 @@ Reality Integration Rules represents a crucial aspect of the world's history, co
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

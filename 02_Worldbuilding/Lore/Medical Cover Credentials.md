@@ -2,7 +2,7 @@
 
 title: Medical Cover Credentials
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

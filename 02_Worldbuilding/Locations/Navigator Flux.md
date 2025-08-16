@@ -2,7 +2,7 @@
 
 title: Navigator Flux
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

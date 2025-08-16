@@ -2,7 +2,7 @@
 
 title: Ironforg
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

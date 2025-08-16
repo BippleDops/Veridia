@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain torrent swiftcurrent v1 captain torrent swiftcurrentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Torrent Swiftcurrent V1 Captain Torrent Swiftcurrent.svg
 type: npc

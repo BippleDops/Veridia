@@ -9,7 +9,7 @@ faction_influence: Shadowhawk Syndicate
 obsidianUIMode: preview
 region: Shattered Coast
 status: complete
-tags: 
+tags:
 - access/secret
 - aethermoor
 - coastal

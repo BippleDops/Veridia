@@ -2,7 +2,7 @@
 
 title: Memory Sanctity Laws
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

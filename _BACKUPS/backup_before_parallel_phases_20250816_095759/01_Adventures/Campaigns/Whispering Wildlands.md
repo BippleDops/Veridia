@@ -2,7 +2,7 @@
 
 title: Whispering Wildlands
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[Npc]]

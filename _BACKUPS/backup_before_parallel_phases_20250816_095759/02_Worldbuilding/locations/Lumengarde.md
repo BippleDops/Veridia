@@ -1,11 +1,11 @@
 ---
 
 title: Lumengarde
-aliases: 
+aliases:
 - The Living Light
 - Garden City
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -238,7 +238,7 @@ Lumengarde is a notable location characterized by its unique features and strate
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

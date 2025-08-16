@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Flame Keeper Brother Ignatius V1 Flame Keeper
   Brother Ignatius.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city flame keeper brother ignatius v1 flame
   keeper brother ignatiussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

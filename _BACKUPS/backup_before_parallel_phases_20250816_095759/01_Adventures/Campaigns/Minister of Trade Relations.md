@@ -2,7 +2,7 @@
 
 title: Minister of Trade Relations
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

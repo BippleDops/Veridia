@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags: 
+tags:
 - aethermoor
 - bloodline
 - celebration

@@ -2,7 +2,7 @@
 
 title: Deep Mystic Aurelius Glowseeker
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

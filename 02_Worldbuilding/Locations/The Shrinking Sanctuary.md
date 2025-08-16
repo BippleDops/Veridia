@@ -2,7 +2,7 @@
 
 title: The Shrinking Sanctuary
 type: [[location
-tags: 
+tags:
 - aquabyssos
 - sanctuary
 - status/complete
@@ -33,7 +33,7 @@ government: Council of Sanctuary Keepers
 location_type: Dimensional Pocket
 original_size: 10 square miles
 parent_location: The Wandering Depths
-related_entities: 
+related_entities:
 - '[[Free Current'
 - '[Parliament of Echoes]]'
 - '[[12 Research'
@@ -165,7 +165,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos' post-Catastrop
 **Community Integration**: Increasing blend of private and shared spaces
 **Adaptation**: Architecture transforms to maintain comfort as boundaries contract
 
-#### Community Dormitories  
+#### Community Dormitories
 
 **Function**: High-density housing for recent refugees and single residents
 **Efficiency**: Maximum space utilization while preserving dignity
@@ -348,7 +348,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos' post-Catastrop
 **Stakes**: Without functioning gateways, sanctuary becomes beautiful prison
 **Resolution**: Discover [Emergency Protocols]] or find alternative exit methods
 
-#### 2. The Resource Crisis  
+#### 2. The Resource Crisis
 
 **Hook**: Critical shortage of food or water as production space shrinks beyond capacity
 **Challenge**: Establish emergency supply lines with dangerous outside world
@@ -372,7 +372,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos' post-Catastrop
 **Risk**: Failed attempt might accelerate collapse instead of stopping it
 **Hope**: Success could save sanctuary and enable creation of new refuges
 
-#### 5. The Origin Investigation  
+#### 5. The Origin Investigation
 
 **Hook**: Mysterious clues about sanctuary's creation and why it's shrinking
 **Exploration**: Investigate hidden chambers and [Dimensional Anomalies]] within sanctuary
@@ -514,7 +514,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos' post-Catastrop
 
 **Related [[Npcs**:
 - [Keeper Temporal Safehaven]]
-- [[Sanctuary Council Members  
+- [[Sanctuary Council Members
 - [[Community Leaders|Refugee [Community Leaders]]]]
 - [[Dimensional Researchers
 - [Architect Temporal Wisdom]]

@@ -2,7 +2,7 @@
 
 title: halfling-tables-halfling-personality-traits-mtf
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

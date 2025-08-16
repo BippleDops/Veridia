@@ -2,7 +2,7 @@
 
 title: [[Target Name
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'
@@ -275,7 +275,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

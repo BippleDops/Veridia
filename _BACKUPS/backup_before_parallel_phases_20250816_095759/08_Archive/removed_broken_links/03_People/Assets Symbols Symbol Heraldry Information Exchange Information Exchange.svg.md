@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Information Exchange Information Exchange.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry information exchange information exchangesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

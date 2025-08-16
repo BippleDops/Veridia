@@ -2,7 +2,7 @@
 
 title: Cathedral of Light
 type: [[location
-tags: 
+tags:
 - aerial
 - religious
 - content/location
@@ -36,7 +36,7 @@ government: '[[Sacred Order of Luminous Daw|[02 Worldbuilding]]/[[Groups/Sacred 
   Luminous Daw]]'
 leader: '[[High Luminary Celestine Brightward'
 obsidianUIMode: preview
-specialties: 
+specialties:
 - [Divine Magic]]
 - Healing Arts
 - Light Magic
@@ -141,7 +141,7 @@ The Cathedral exists not merely as a place of worship but as a beacon of hope in
 Each spire represents one aspect of divine light:
 
 1. **[[The Spire of Healing** - Medical halls and divine healing chambers
-2. **[The Spire of Knowledge]]** - Sacred [[Libraries and scriptoriums  
+2. **[The Spire of Knowledge]]** - Sacred [[Libraries and scriptoriums
 3. **[The Spire of Mercy]]** - Sanctuary for refugees and the desperate
 4. **[[The Spire of Justice** - Ecclesiastical courts and confessionals
 5. **[The Spire of Hope]]** - Counseling chambers and meditation gardens
@@ -169,7 +169,7 @@ Each spire represents one aspect of divine light:
 **The Seven Luminaries**
 - Each leads one of the cathedral spires
 - **[[Luminary Marcus Healwright** - Spire of Healing
-- **[Luminary Scholar Vera Brightpage]]** - Spire of Knowledge  
+- **[Luminary Scholar Vera Brightpage]]** - Spire of Knowledge
 - **[[Luminary Mother Sophia Gentleheart** - Spire of Mercy
 - **[Luminary Judge Thaddeus Truthseeker]]** - Spire of Justice
 - **[[Luminary Counselor Elena Hopebringer** - Spire of Hope

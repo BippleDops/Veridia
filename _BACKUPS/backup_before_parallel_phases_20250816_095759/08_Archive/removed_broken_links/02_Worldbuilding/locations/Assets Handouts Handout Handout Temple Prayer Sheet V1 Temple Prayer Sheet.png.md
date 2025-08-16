@@ -1,11 +1,11 @@
 ---
 
 title: Assets Handouts Handout Handout Temple Prayer Sheet V1 Temple Prayer Sheet.png
-aliases: 
+aliases:
 - 04 Resources Assets Handouts handout handout temple prayer sheet v1 temple prayer
   sheetpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

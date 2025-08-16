@@ -7,17 +7,17 @@ government: Council of Forgemasters
 leader: '[[02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master
   Smith Vulcan Deepforge'
 population: 280000
-related_entities: 
+related_entities:
 - '[02_Worldbuilding/Lore/Ancient Siege Tunnels]]'
 - '[[02_Worldbuilding/Lore/Continental War'
 - '[02_Worldbuilding/Places/The Sundered Peaks]]'
-specialties: 
+specialties:
 - Metalworking
 - Engineering
 - Mountain Defense
 - Industrial Production
 status: draft
-tags: 
+tags:
 - aethermoor
 - content/location
 - draft

@@ -2,7 +2,7 @@
 
 title: The Vault of Whispers
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

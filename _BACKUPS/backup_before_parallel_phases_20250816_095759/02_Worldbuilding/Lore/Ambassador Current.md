@@ -2,7 +2,7 @@
 
 title: Ambassador Current
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

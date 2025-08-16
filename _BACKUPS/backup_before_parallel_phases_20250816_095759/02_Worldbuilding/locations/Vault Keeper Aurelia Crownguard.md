@@ -2,7 +2,7 @@
 
 title: Vault Keeper Aurelia Crownguard
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

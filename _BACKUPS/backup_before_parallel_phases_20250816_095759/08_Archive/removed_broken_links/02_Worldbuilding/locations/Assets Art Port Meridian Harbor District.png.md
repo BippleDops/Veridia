@@ -1,10 +1,10 @@
 ---
 
 title: Assets Art Port Meridian Harbor District.png
-aliases: 
+aliases:
 - 04 Resources Assets Art Places Port Meridian   Harbor Districtpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

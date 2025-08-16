@@ -2,7 +2,7 @@
 
 title: Diplomatic Training Institute
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

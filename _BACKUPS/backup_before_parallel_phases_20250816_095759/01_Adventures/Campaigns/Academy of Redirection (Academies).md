@@ -2,7 +2,7 @@
 
 title: Academy of Redirection
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Elder Matthias Stoneward V1 Elder Matthias Stoneward.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city elder matthias stoneward v1 elder matthias
   stonewardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

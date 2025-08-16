@@ -2,7 +2,7 @@
 
 title: Services [[Services Inter Realm Transportation|Inter Realm Transportation
 type: [location]]
-tags: 
+tags:
 - place
 - active
 - location

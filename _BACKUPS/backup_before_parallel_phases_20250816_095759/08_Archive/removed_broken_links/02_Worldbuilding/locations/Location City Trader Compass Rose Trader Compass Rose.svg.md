@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city trader compass rose trader compass rosesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Trader Compass Rose Trader Compass Rose.svg
 type: location

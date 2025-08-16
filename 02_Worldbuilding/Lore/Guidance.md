@@ -2,7 +2,7 @@
 
 title: Guidance
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -91,7 +91,7 @@ Guidance represents a crucial aspect of the world's history, cosmology, or funda
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

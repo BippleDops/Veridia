@@ -2,7 +2,7 @@
 
 title: Garden Keeper Earthshade
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

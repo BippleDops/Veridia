@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Missing Persons of Port Meridian Missing Persons
   of Port Meridian.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city missing persons of port meridian missing
   persons of port meridiansvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

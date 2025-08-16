@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Doctor Silas Voidtouch V1 Doctor Silas Voidtouch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city doctor silas voidtouch v1 doctor silas
   voidtouchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -188,7 +188,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

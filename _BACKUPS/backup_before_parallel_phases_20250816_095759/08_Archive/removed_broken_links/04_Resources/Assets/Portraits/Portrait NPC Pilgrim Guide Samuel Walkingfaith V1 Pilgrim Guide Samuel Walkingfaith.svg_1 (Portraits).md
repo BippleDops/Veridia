@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc pilgrim guide samuel walkingfaith v1 pilgrim guide samuel walkingfaithsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Pilgrim Guide Samuel Walkingfaith V1 Pilgrim Guide Samuel Walkingfaith.svg
 type: npc

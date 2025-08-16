@@ -2,7 +2,7 @@
 
 title: [[Aethermoor Royal Navy]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - aethermoor
 - active

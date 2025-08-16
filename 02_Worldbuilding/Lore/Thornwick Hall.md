@@ -2,7 +2,7 @@
 
 title: Thornwick Hall
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Duchess Seraphina Crimsontide Duchess Seraphina
   Crimsontide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city duchess seraphina crimsontide duchess
   seraphina crimsontidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -180,7 +180,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

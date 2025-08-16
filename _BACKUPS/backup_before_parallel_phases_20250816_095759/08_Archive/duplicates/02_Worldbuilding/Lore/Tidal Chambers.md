@@ -2,7 +2,7 @@
 
 title: Tidal Chambers
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - technology
@@ -134,7 +134,7 @@ Each Chamber incorporates crystalline amplification matrices that resonate with 
 The Chambers can create, maintain, and direct water [Pressure Differential]]s of extraordinary magnitude, enabling:
 - Vertical water transport through pressure tubes throughout the city
 - Pressure-based manufacturing processes for specialized materials
-- Emergency pressure isolation during crisis situations  
+- Emergency pressure isolation during crisis situations
 - Precision pressure control for delicate biological and magical processes
 
 ### Water Processing and Enhancement

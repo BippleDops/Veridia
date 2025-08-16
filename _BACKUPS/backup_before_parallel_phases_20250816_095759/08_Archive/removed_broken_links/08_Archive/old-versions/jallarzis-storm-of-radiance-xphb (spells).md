@@ -2,7 +2,7 @@
 
 title: jallarzis-storm-of-radiance-xphb (spells)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

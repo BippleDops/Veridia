@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Council of Currents V1 Council of Currents.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city council of currents v1 council of currentssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

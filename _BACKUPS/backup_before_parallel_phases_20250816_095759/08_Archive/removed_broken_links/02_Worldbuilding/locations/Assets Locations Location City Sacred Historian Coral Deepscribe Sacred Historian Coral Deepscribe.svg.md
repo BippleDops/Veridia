@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Sacred Historian Coral Deepscribe Sacred Historian
   Coral Deepscribe.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sacred historian coral deepscribe sacred
   historian coral deepscribesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -189,7 +189,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

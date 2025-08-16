@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Crystal_Corruption
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

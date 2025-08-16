@@ -2,7 +2,7 @@
 
 title: Into the Blue
 type: Location
-tags: 
+tags:
 - mystery
 - aquabyssos
 - content/adventure

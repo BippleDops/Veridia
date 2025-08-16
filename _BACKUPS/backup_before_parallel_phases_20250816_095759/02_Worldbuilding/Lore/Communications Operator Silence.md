@@ -2,7 +2,7 @@
 
 title: Communications Operator Silence
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

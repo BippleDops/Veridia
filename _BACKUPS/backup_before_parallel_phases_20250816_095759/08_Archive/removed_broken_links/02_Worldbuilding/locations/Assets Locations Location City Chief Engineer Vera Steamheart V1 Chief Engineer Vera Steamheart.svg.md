@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chief Engineer Vera Steamheart V1 Chief Engineer
   Vera Steamheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chief engineer vera steamheart v1 chief
   engineer vera steamheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

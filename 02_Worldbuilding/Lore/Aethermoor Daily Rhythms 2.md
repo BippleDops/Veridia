@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - cultural-guide
@@ -37,7 +37,7 @@ Aethermoor follows the **Great Wind Cycle** - three 8-hour phases that govern al
 ### Wind Bell Networks
 Every floating settlement maintains **Wind Bells** - crystalline chimes that respond to air pressure changes:
 - **Storm Warning**: Deep bass tones for dangerous weather
-- **Wind Shift**: Mid-range chimes for directional changes  
+- **Wind Shift**: Mid-range chimes for directional changes
 - **Pressure Bells**: High-pitched alerts for altitude adjustments
 - **Harmony Chimes**: Musical sequences during perfect flying weather
 
@@ -52,7 +52,7 @@ Every floating settlement maintains **Wind Bells** - crystalline chimes that res
 
 **Typical Morning Routine**:
 1. Wind current assessment (10 minutes)
-2. Altitude adjustment exercises (15 minutes)  
+2. Altitude adjustment exercises (15 minutes)
 3. Morning meal of wind-dried fruits and cloud-caught precipitation tea (25 minutes)
 4. Flight gear inspection and weather planning (15 minutes)
 5. Launch preparation and departure route selection (10 minutes)
@@ -72,7 +72,7 @@ Every floating settlement maintains **Wind Bells** - crystalline chimes that res
 5. Launch sequence for daily trading runs (15 minutes)
 
 ### The Craft Clouds
-**0545 - Artisan Awakening**  
+**0545 - Artisan Awakening**
 - **Wind Weavers**: Wake to check atmospheric conditions for delicate work
 - **Crystal Resonance**: Morning attunement to wind-powered crafting tools
 - **Creative Flow Assessment**: Testing air currents for artistic inspiration
@@ -95,7 +95,7 @@ Every floating settlement maintains **Wind Bells** - crystalline chimes that res
 - **Wind Tubes**: Pneumatic transport through city air ducts (Free for residents)
 - **Cargo Lifts**: Freight elevators between platform levels (3 copper/trip)
 
-#### Middle Class Travel  
+#### Middle Class Travel
 - **Flying Mounts**: Trained griffins, pegasi, or large birds (50-100 gold purchase, 5 silver/day feed)
 - **Personal Gliders**: Individual crafted gliding devices (200-500 gold, personal maintenance)
 - **Wind Skiffs**: Small sailing vessels for aerial navigation (1000+ gold, docking fees)
@@ -116,7 +116,7 @@ Every floating settlement maintains **Wind Bells** - crystalline chimes that res
 
 **Evening Return (1700-1900)**:
 - Coordinated return flights to residential areas
-- Family flights collecting children from education platforms  
+- Family flights collecting children from education platforms
 - Shopping expeditions to merchant platforms
 - Social visits between floating communities
 
@@ -197,7 +197,7 @@ Every floating settlement maintains **Wind Bells** - crystalline chimes that res
 
 ### Dinner (Settling Gale)
 **Social and Family Dining**:
-- **Family Flights**: Group meals combined with evening aerial recreation  
+- **Family Flights**: Group meals combined with evening aerial recreation
 - **Platform Gatherings**: Community dinners on large, stable platforms
 - **Sunset Ceremonies**: Ritualistic meals timed with evening sky colors
 - **Visiting Etiquette**: Elaborate meals for inter-platform guests
@@ -333,7 +333,7 @@ Every floating settlement maintains **Wind Bells** - crystalline chimes that res
 ### Infant and Toddler Care (0-3 years)
 **Altitude Adaptation**:
 - **Gradual Height Introduction**: Slow exposure to increasing altitudes
-- **Pressure Monitoring**: Constant medical supervision for air adaptation  
+- **Pressure Monitoring**: Constant medical supervision for air adaptation
 - **Safety Restraints**: Specialized equipment to prevent falls
 - **Family Cooperation**: Extended family support for aerial child-rearing
 
@@ -386,7 +386,7 @@ Every floating settlement maintains **Wind Bells** - crystalline chimes that res
 **Wisdom and Guidance**:
 - **Advisory Roles**: Sharing experience and wisdom with community
 - **Cultural Teaching**: Preserving and transmitting traditions
-- **Limited Flying**: Adjusted activities for changing physical capabilities  
+- **Limited Flying**: Adjusted activities for changing physical capabilities
 - **Honored Status**: Respected position with continued social involvement
 
 ## Seasonal Routine Variations
@@ -400,7 +400,7 @@ Every floating settlement maintains **Wind Bells** - crystalline chimes that res
 
 **Daily Adaptations**:
 - **Later Start**: Delayed activities waiting for weather assessment
-- **Flexible Scheduling**: Plans that can change rapidly based on conditions  
+- **Flexible Scheduling**: Plans that can change rapidly based on conditions
 - **Emergency Readiness**: Constant preparation for weather-related dangers
 - **Extended Indoor Time**: More activities adapted for enclosed spaces
 
@@ -442,7 +442,7 @@ Every floating settlement maintains **Wind Bells** - crystalline chimes that res
 ### Middle Class Daily Life
 **Time Allocation**:
 - **Work**: 40% of waking hours
-- **Family**: 30% of waking hours  
+- **Family**: 30% of waking hours
 - **Personal**: 20% of waking hours
 - **Community**: 10% of waking hours
 
@@ -452,7 +452,7 @@ Every floating settlement maintains **Wind Bells** - crystalline chimes that res
 - **Social Participation**: Active involvement in community events and governance
 - **Cultural Activities**: Participation in arts, entertainment, and cultural preservation
 
-### Upper Class Daily Life  
+### Upper Class Daily Life
 **Time Allocation**:
 - **Business/Politics**: 25% of waking hours
 - **Social**: 30% of waking hours
@@ -533,7 +533,7 @@ From the early morning wind readings to the evening social flights, every aspect
 
 **Related Topics**:
 - [02_Worldbuilding/Lore/A Day in Aquabyssos]]
-- [[02_Worldbuilding/Lore/Working Class Routines  
+- [[02_Worldbuilding/Lore/Working Class Routines
 - [02_Worldbuilding/Lore/Noble Leisure Schedules]]
 - Child Life In The Realms
 - Wind Engineering And Sky Architecture

@@ -2,7 +2,7 @@
 
 title: Market Prophet
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

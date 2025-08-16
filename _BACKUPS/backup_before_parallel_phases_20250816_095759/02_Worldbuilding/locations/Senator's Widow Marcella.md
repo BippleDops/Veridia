@@ -2,7 +2,7 @@
 
 title: [[Senator's Widow Marcella
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

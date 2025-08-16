@@ -2,7 +2,7 @@
 
 title: Ancient [[Skyforge Complex
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - aerial

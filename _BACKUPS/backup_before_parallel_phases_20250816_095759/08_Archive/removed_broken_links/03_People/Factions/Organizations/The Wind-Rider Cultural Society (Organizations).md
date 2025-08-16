@@ -2,7 +2,7 @@
 
 title: The Wind-Rider Cultural Society
 type: organization
-tags: 
+tags:
 - organization
 - company
 created: '2025-08-14'

@@ -2,7 +2,7 @@
 
 title: Seven Shards
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - relationship-matrix
 - content/lore

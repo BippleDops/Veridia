@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc blood in the water v2 blood in the watersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Blood in the Water V2 Blood in the Water.svg
 type: npc

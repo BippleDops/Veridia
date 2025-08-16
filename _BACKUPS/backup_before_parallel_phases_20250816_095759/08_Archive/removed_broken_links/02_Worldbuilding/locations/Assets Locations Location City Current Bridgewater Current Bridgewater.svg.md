@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Current Bridgewater Current Bridgewater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city current bridgewater current bridgewatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

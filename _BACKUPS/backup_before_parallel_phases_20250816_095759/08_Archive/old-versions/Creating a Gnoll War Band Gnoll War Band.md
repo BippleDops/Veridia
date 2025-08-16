@@ -2,7 +2,7 @@
 
 title: Creating a Gnoll War Band Gnoll War Band
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

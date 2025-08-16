@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Loop Walker Celia V1 Loop Walker Celia.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city loop walker celia v1 loop walker celiasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -202,7 +202,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

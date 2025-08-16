@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Ones V1 Deep Ones.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep ones v1 deep onessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

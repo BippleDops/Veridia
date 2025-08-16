@@ -2,7 +2,7 @@
 
 title: War of the Shattered Crown
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

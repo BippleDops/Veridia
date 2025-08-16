@@ -2,7 +2,7 @@
 
 title: Aurelius Goldwave
 type: Npc
-tags: 
+tags:
 - aquatic
 - npc
 - [[Merchant
@@ -35,7 +35,7 @@ allegiance: '[[Silverscale Banking House|[Silverscale Banking House]]|[[02_World
   House]] (secretly)'
 current_[[location: '[Port Meridian]] - Ficial District'
 occupation: Senior Partner, Goldwave Ficial Consortium
-related_entities: 
+related_entities:
 - '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House'
 - '[[Seven Shards|The [Seven Shards]]]]'
 - '[[Memory Meadows|[Memory Meadows Black Market]]'
@@ -238,7 +238,7 @@ Aurelius represents a unique vector for shadow corruption—rather than being di
 
 The corruption he spreads is subtle but pervasive:
 - Clients gradually become more greedy, callous, and manipulative
-- [Economic_System|Economic System]]s become increasingly unstable and exploitative  
+- [Economic_System|Economic System]]s become increasingly unstable and exploitative
 - Traditional values of community and cooperation erode in favor of pure self-interest
 - The boundary between legitimate business and supernatural manipulation dissolves
 
@@ -269,7 +269,7 @@ During [The Convergence Crisis]], Aurelius's otherworldly connections could make
 
 Potential roles during the crisis:
 - Information broker selling intelligence about dimensional threats
-- Saboteur working to destabilize reality for his patron's benefit  
+- Saboteur working to destabilize reality for his patron's benefit
 - Refugee seeking protection from entities pursuing him across dimensions
 - Key figure whose corruption must be cleansed to stabilize reality
 
@@ -280,7 +280,7 @@ Characters discover that several prominent citizens have had their memories stol
 
 ### The Surface Market Manipulation
 
-**Level**: 8-12  
+**Level**: 8-12
 [[Aethermoor merchants report impossible economic conditions that seem designed to benefit unknown [Aquabyssos]] interests. Characters must investigate the cross-realm ficial manipulation while avoiding Aurelius's attempts to corrupt or eliminate them.
 
 ### The Memory Auction
@@ -423,7 +423,7 @@ Mentioned in The Hidden Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Mediator Cardinal Harmony V1 Mediator Cardinal
   Harmony.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city mediator cardinal harmony v1 mediator
   cardinal harmonysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

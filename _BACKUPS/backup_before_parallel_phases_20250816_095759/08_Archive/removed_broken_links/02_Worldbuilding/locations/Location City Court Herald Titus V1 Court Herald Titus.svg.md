@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city court herald titus v1 court herald titussvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Court Herald Titus V1 Court Herald Titus.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City High Court V1 High Court.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city high court v1 high courtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -189,7 +189,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

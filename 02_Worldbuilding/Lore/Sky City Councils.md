@@ -2,7 +2,7 @@
 
 title: Sky City Councils
 type: [[Lore
-tags: 
+tags:
 - lore
 - aerial
 - content/lore

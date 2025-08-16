@@ -6,7 +6,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - lore
 title: Dimensional Security Chief Echo Gatekeeper
 type: lore

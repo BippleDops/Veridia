@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Embassy Quarter Embassy Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city embassy quarter embassy quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Key locations marked:
 - **Aberration**: beholder
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 20
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 19** to detect
@@ -211,7 +211,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

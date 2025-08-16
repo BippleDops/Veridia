@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ancient Crystal Technology V1 Ancient Crystal
   Technology.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ancient crystal technology v1 ancient
   crystal technologysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

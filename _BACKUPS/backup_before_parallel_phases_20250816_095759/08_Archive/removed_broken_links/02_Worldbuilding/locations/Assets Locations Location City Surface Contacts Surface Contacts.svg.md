@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Surface Contacts Surface Contacts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface contacts surface contactssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -176,7 +176,7 @@ Key locations marked:
 - **Aberration**: beholder
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 17
-  
+
 ### Environmental Hazards
 - Pit trap
 - **DC 10** to detect
@@ -194,7 +194,7 @@ Key locations marked:
 - **Recent History**: Festival 38 years ago
 - **Living Memory**: Duel last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Festival in 5 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: Links to The First Prophecy of Shadows
@@ -215,7 +215,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

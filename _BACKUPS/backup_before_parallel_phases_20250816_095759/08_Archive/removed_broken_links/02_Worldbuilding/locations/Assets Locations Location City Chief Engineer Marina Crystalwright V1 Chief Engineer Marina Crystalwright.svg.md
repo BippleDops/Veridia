@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chief Engineer Marina Crystalwright V1 Chief
   Engineer Marina Crystalwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chief engineer marina crystalwright
   v1 chief engineer marina crystalwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -176,7 +176,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

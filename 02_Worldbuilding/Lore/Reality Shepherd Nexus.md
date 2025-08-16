@@ -2,7 +2,7 @@
 
 title: Reality Shepherd Nexus
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

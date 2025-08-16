@@ -2,7 +2,7 @@
 
 title: Umbral Scholar Valentina Depth[[Lore
 type: Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

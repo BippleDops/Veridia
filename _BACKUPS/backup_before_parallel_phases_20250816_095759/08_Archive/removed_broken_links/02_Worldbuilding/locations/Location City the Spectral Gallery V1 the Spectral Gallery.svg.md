@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the spectral gallery v1 the spectral gallerysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Spectral Gallery V1 the Spectral Gallery.svg
 type: location

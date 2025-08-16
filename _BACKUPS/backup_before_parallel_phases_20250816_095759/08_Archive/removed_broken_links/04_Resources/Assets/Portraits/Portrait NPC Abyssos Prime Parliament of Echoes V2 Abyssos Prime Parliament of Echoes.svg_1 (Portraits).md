@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc abyssos prime parliament of echoes v2 abyssos prime parliament of echoessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Abyssos Prime Parliament of Echoes V2 Abyssos Prime Parliament
   of Echoes.svg

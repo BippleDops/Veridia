@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Pressure Point Settlement V1 Pressure Point
   Settlement.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure point settlement v1 pressure
   point settlementsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

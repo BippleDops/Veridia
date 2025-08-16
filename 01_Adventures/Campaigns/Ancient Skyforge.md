@@ -2,7 +2,7 @@
 
 title: Ancient [[Skyforge
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - aerial
@@ -135,7 +135,7 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

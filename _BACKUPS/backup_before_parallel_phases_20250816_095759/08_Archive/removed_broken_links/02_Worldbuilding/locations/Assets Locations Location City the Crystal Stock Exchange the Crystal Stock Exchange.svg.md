@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Crystal Stock Exchange the Crystal Stock
   Exchange.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal stock exchange the crystal
   stock exchangesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Cure for Madness Quest the Cure for
   Madness.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the cure for madness quest the
   cure for madnesssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

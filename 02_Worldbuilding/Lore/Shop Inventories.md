@@ -2,7 +2,7 @@
 
 title: Shop Inventories
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

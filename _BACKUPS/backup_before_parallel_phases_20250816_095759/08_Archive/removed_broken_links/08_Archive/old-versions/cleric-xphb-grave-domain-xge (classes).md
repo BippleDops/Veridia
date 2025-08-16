@@ -2,7 +2,7 @@
 
 title: cleric-xphb-grave-domain-xge (classes)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

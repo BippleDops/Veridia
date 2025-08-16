@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Equipment/Crystal Jammers
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

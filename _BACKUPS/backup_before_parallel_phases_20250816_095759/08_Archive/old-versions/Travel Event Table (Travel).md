@@ -2,7 +2,7 @@
 
 title: 06_GM_Resources/Travel/Travel Event Table
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

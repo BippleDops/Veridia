@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master archivist thomas scrollkeeper v1 master archivist thomas scrollkeeperpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Archivist Thomas Scrollkeeper V1 Master Archivist Thomas
   Scrollkeeper.png

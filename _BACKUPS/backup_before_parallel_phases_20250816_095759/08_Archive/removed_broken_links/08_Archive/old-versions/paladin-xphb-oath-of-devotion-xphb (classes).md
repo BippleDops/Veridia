@@ -2,7 +2,7 @@
 
 title: paladin-xphb-oath-of-devotion-xphb (classes)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

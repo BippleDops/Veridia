@@ -2,7 +2,7 @@
 
 title: Aquabyssos - Session 01 - The Drowning Welcome
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

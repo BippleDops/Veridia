@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Pressure Brewing Technology Pressure Brewing
   Technology.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure brewing technology pressure
   brewing technologysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

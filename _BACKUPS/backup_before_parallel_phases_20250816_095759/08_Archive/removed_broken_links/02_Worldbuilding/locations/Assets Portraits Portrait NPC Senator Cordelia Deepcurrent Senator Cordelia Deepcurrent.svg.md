@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Senator Cordelia Deepcurrent Senator Cordelia
   Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc senator cordelia deepcurrent senator
   cordelia deepcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

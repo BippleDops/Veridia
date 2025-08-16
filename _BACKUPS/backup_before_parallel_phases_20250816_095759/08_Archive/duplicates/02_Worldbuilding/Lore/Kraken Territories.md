@@ -2,7 +2,7 @@
 
 title: [[Krake|[Kraken]] Territories
 type: [[Lore
-tags: 
+tags:
 - aerial
 - territories
 - environment

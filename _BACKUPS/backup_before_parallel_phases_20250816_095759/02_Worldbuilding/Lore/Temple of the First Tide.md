@@ -2,7 +2,7 @@
 
 title: Temple of the First Tide
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

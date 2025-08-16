@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the coral throne syndicate v1 the coral throne syndicatesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Coral Throne Syndicate V1 the Coral Throne Syndicate.svg
 type: npc

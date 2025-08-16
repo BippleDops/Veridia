@@ -6,7 +6,7 @@ created: '2025-07-23'
 modified: "2025-07-23 15:40"
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/faction

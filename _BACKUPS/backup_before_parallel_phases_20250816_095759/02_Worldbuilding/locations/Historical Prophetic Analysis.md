@@ -2,7 +2,7 @@
 
 title: Historical Prophetic Analysis
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

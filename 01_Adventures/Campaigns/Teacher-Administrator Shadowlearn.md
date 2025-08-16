@@ -2,7 +2,7 @@
 
 title: Teacher Administrator Shadowlearn
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

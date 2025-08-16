@@ -2,7 +2,7 @@
 
 title: Levels 510 Heroes of the Realm Levels 510
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -1,7 +1,7 @@
 ---
 MyCategory: Unknown
 MyContainer: None
-aliases: 
+aliases:
 - The Iron Deep
 - The Last Stand
 created: '2024-12-19'
@@ -10,7 +10,7 @@ image: 04_Resources/Assets/Locations/pressures_end.jpg
 obsidianUIMode: preview
 population: 35000 - Category/Place
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location

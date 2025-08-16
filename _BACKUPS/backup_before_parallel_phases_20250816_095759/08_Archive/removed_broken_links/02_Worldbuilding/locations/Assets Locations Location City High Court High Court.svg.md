@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City High Court High Court.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city high court high courtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

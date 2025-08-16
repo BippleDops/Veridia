@@ -2,7 +2,7 @@
 
 title: Human Names Niger Congo Male Xge
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

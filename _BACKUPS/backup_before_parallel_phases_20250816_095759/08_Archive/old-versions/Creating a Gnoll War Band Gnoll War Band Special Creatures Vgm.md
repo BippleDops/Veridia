@@ -2,7 +2,7 @@
 
 title: Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

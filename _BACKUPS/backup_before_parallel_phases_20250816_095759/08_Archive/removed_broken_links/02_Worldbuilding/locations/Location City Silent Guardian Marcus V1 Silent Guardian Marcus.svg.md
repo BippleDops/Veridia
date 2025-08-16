@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city silent guardian marcus v1 silent guardian marcussvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Silent Guardian Marcus V1 Silent Guardian Marcus.svg
 type: location

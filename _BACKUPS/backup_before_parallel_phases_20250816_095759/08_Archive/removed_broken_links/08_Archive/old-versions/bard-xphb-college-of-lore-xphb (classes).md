@@ -2,7 +2,7 @@
 
 title: bard-xphb-college-of-lore-xphb (classes)
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

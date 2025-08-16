@@ -2,7 +2,7 @@
 
 title: The Love Bridge
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

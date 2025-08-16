@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Marcus Clausewright Marcus Clausewright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marcus clausewright marcus clausewrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Madame Whisper Madame Whisper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city madame whisper madame whispersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

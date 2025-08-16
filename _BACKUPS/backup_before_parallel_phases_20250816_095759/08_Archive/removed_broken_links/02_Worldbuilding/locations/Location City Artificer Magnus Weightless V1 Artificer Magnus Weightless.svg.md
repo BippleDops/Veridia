@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city artificer magnus weightless v1 artificer magnus weightlesssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Artificer Magnus Weightless V1 Artificer Magnus Weightless.svg
 type: location

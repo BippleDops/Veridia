@@ -2,7 +2,7 @@
 
 title: The [[Pearl Divers Guil
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

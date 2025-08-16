@@ -2,7 +2,7 @@
 
 title: Old Valdris
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -244,7 +244,7 @@ Ongoing situations affecting Old Valdris:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

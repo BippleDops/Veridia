@@ -2,7 +2,7 @@
 
 title: Harbor Master Tideshade
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

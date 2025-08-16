@@ -2,7 +2,7 @@
 
 title: [[Void Keeper|[Void Keeper Sister Nyx space]]
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

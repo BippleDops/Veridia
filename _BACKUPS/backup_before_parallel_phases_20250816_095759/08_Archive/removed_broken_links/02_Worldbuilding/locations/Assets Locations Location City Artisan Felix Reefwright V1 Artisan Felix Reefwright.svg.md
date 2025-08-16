@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Artisan Felix Reefwright V1 Artisan Felix Reefwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city artisan felix reefwright v1 artisan
   felix reefwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

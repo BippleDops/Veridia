@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Commodities/Cross-Realm Goods
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

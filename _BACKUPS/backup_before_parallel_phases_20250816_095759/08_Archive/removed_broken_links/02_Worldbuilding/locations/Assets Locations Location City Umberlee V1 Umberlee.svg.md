@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Umberlee V1 Umberlee.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city umberlee v1 umberleesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

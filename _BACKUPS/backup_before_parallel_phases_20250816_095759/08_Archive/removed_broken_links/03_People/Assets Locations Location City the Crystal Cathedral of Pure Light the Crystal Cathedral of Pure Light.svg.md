@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Crystal Cathedral of Pure Light the Crystal
   Cathedral of Pure Light.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal cathedral of pure light
   the crystal cathedral of pure lightsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -209,7 +209,7 @@ Mentioned in The Hidden Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

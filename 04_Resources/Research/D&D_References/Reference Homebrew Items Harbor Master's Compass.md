@@ -2,7 +2,7 @@
 
 title: Reference Homebrew Items Harbor Master's Compass
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

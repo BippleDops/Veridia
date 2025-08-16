@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Deep Current Flowmaster V1 Deep Current Flowmaster.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep current flowmaster v1 deep current
   flowmastersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Kelp Based Brewing V1 Kelp Based Brewing.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city kelp based brewing v1 kelp based brewingsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

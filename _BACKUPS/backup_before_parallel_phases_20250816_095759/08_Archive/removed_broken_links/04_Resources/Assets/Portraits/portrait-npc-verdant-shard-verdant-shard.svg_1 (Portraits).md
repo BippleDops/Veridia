@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc verdant shard verdant shardsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: portrait npc verdant shard verdant shard.svg
 type: npc

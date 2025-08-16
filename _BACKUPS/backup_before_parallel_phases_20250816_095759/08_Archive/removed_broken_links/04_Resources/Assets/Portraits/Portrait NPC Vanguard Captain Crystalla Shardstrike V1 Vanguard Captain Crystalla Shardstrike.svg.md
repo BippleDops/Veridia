@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc vanguard captain crystalla shardstrike v1 vanguard captain crystalla
   shardstrikesvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Vanguard Captain Crystalla Shardstrike V1 Vanguard Captain Crystalla
   Shardstrike.svg

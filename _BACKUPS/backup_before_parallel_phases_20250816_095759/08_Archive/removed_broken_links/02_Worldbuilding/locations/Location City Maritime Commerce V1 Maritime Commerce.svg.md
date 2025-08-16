@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city maritime commerce v1 maritime commercesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Maritime Commerce V1 Maritime Commerce.svg
 type: location

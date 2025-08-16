@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Memorial Wall of Names Memorial Wall of Names.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memorial wall of names memorial wall
   of namespng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -193,7 +193,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

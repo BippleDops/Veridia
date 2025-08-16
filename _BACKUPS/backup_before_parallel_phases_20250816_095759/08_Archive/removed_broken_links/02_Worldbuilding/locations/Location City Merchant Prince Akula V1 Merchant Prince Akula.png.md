@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city merchant prince akula v1 merchant prince akulapng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Merchant Prince Akula V1 Merchant Prince Akula.png
 type: location

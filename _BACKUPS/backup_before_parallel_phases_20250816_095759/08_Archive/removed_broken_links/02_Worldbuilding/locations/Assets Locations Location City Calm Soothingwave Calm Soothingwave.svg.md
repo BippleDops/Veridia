@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Calm Soothingwave Calm Soothingwave.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city calm soothingwave calm soothingwavesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

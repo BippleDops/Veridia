@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Deep Mother S Truth Quest the Deep
   Mother S Truth.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the deep mother s truth quest the
   deep mother s truthsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -190,7 +190,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Mari[[Time Commerce
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

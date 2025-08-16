@@ -2,7 +2,7 @@
 
 title: The Amnesia Rehabilitation Centers
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

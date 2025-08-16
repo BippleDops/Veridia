@@ -1,11 +1,11 @@
 ---
 
 title: Pressure's End
-aliases: 
+aliases:
 - The Iron Deep
 - The Last Stand
 type: [[location
-tags: 
+tags:
 - both
 - aquatic
 - quest

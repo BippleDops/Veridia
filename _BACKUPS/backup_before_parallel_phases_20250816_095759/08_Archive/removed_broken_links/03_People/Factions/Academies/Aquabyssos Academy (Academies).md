@@ -2,7 +2,7 @@
 
 title: Aquabyssos Academy
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/[[Quests/Stop the [Crystal Festival]] Ritual
 type: adventure
-tags: 
+tags:
 - adventure
 - quest
 - conspiracy

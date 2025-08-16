@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Quartermaster Shadow Supply V1 Quartermaster
   Shadow Supply.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quartermaster shadow supply v1 quartermaster
   shadow supplysvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -4,7 +4,7 @@ created: '2025-08-08'
 created_by: auto-stub
 significance: Social Foundation
 status: complete
-tags: 
+tags:
 - aquabyssos
 - campaign/consequence
 - complete
@@ -163,7 +163,7 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos has grown from therape
 
 **Relationship Reality Distortion:**
 - **Description**: Altered memories of relationships creating interpersonal conflicts
-- **Manifestations**: 
+- **Manifestations**:
   - Remembering different shared experiences than partner
   - Emotional connections to people based on false memories
   - Inability to maintain consistent relationship patterns
@@ -172,7 +172,7 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos has grown from therape
 
 **Trust Cascade Failure:**
 - **Description**: Loss of trust spreading from altered individual to entire social network
-- **Process**: 
+- **Process**:
   - Initial memory alteration creates inconsistent behavior
   - Friends and family notice personality changes
   - Awareness of memory manipulation creates general suspicion
@@ -181,7 +181,7 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos has grown from therape
 
 **Empathy Disruption:**
 - **Description**: Inability to relate to others' experiences due to altered emotional memories
-- **Symptoms**: 
+- **Symptoms**:
   - Lack of appropriate emotional responses
   - Inability to understand others' motivations
   - Social isolation due to apparent callousness
@@ -202,7 +202,7 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos has grown from therape
 **Intergenerational Memory Confusion:**
 - **Description**: Family memories becoming inconsistent across generations
 - **Causes**: Parents with altered memories raising children with different family histories
-- **Effects**: 
+- **Effects**:
   - Children grow up with false understanding of family background
   - Cultural traditions lost or artificially modified
   - Genetic medical history becomes unreliable
@@ -294,7 +294,7 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos has grown from therape
 **Psychosomatic Memory Disorders:**
 - **Description**: Physical illness caused by false memories of injury or disease
 - **Symptoms**: Real physical symptoms based on non-existent medical history
-- **Examples**: 
+- **Examples**:
   - Phantom pain from deleted injury memories
   - Allergic reactions to substances from false allergy memories
   - Disability symptoms from implanted memories of accidents
@@ -440,7 +440,7 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos has grown from therape
 
 **Memory Heritage Loss:**
 - **Description**: Knowledge and wisdom traditionally passed through generations being lost
-- **Impact**: 
+- **Impact**:
   - Grandparents with altered memories unable to share authentic family history
   - Cultural practices evolving rapidly due to modified memories
   - Traditional crafts and skills lost when master craftspeople receive memory alterations

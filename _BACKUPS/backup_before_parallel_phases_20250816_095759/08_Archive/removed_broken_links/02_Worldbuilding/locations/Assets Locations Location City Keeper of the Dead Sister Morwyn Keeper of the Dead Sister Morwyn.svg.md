@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Keeper of the Dead Sister Morwyn Keeper of the
   Dead Sister Morwyn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper of the dead sister morwyn keeper
   of the dead sister morwynsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

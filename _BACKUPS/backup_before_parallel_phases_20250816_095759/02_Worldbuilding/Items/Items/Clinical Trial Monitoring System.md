@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Items/Clinical Trial Monitoring System
 type: item
-tags: 
+tags:
 - item
 - ring
 - uncommon

@@ -2,7 +2,7 @@
 
 title: The Resoce Forge Hammer
 type: Item
-tags: 
+tags:
 - seven-shards-connected
 - status/complete
 - content/lore
@@ -104,35 +104,35 @@ The Resoce Forge Hammer represents the pinnacle of Aethermoor crafting technolog
 *Requires attunement by a creature proficient with smith's tools, jeweler's tools, or similar crafting implements*
 
 #### The Hammer's Test
-**Level**: 8-12  
-**Hook**: Hammer begins rejecting all craftsmen, refusing to work properly  
-**Investigation**: Discover Hammer is testing potential wielders for worthiness  
-**Challenge**: Complete series of crafting trials that test skill, creativity, and moral character  
-**Resolution**: Prove worthy of Hammer's power or find way to restore its cooperation  
+**Level**: 8-12
+**Hook**: Hammer begins rejecting all craftsmen, refusing to work properly
+**Investigation**: Discover Hammer is testing potential wielders for worthiness
+**Challenge**: Complete series of crafting trials that test skill, creativity, and moral character
+**Resolution**: Prove worthy of Hammer's power or find way to restore its cooperation
 **Reward**: Temporary or permanent access to Hammer's abilities
 
 #### The Resoce War
-**Level**: 10-15  
-**Hook**: Rival craftsmen seek to steal or destroy Hammer to prevent others' advancement  
-**Conflict**: Protect Foundry from coordinated assault by multiple antagonist groups  
-**Complication**: Some attackers are legitimate craftsmen driven by desperation or ideology  
-**Stakes**: Loss of Hammer would set back Aethermoor's magical development by decades  
+**Level**: 10-15
+**Hook**: Rival craftsmen seek to steal or destroy Hammer to prevent others' advancement
+**Conflict**: Protect Foundry from coordinated assault by multiple antagonist groups
+**Complication**: Some attackers are legitimate craftsmen driven by desperation or ideology
+**Stakes**: Loss of Hammer would set back Aethermoor's magical development by decades
 **Resolution**: Defend Hammer while addressing underlying concerns causing conflict
 
-#### The Broken Resoce  
-**Level**: 12-16  
-**Hook**: Hammer's connection to one or more Shards is severed, crippling its abilities  
-**Investigation**: Trace cause of resoce break to its source  
-**Discovery**: Deliberate sabotage meant to prevent creation of specific powerful item  
-**Challenge**: Restore Shard connection while preventing saboteurs from succeeding  
+#### The Broken Resoce
+**Level**: 12-16
+**Hook**: Hammer's connection to one or more Shards is severed, crippling its abilities
+**Investigation**: Trace cause of resoce break to its source
+**Discovery**: Deliberate sabotage meant to prevent creation of specific powerful item
+**Challenge**: Restore Shard connection while preventing saboteurs from succeeding
 **Stakes**: Important defensive item needed for upcoming crisis cannot be completed
 
 #### The Living Forge
-**Level**: 14-18  
-**Hook**: Hammer begins crafting items on its own, without human guidance  
-**Mystery**: Determine why Hammer has developed autonomous behavior  
-**Revelation**: Hammer is preparing for cosmic event that requires specific items  
-**Dilemma**: Trust Hammer's judgment or assert human control over its actions  
+**Level**: 14-18
+**Hook**: Hammer begins crafting items on its own, without human guidance
+**Mystery**: Determine why Hammer has developed autonomous behavior
+**Revelation**: Hammer is preparing for cosmic event that requires specific items
+**Dilemma**: Trust Hammer's judgment or assert human control over its actions
 **Epic: Choice affects preparation for realm-threatening situation
 
 ## Player-Facing Summary

@@ -4,13 +4,13 @@
 
 ### Aquabyssos Region
 | From | To | Travel Time | Method | Difficulty |
-|------|----|-----------|---------|-----------| 
+|------|----|-----------|---------|-----------|
 | Capital | Port City | 2 days | Ship | Easy |
 | Capital | Border Town | 5 days | Land | Medium |
 
-### Aethermoor Region  
+### Aethermoor Region
 | From | To | Travel Time | Method | Difficulty |
-|------|----|-----------|---------|-----------| 
+|------|----|-----------|---------|-----------|
 | Sky City | Mountain Keep | 1 day | Flying Mount | Easy |
 | Sky City | Valley Settlement | 3 days | Land | Hard |
 

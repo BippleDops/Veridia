@@ -2,7 +2,7 @@
 
 title: Spy Master Nonentity
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

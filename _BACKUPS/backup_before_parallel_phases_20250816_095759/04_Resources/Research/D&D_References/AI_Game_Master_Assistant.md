@@ -2,7 +2,7 @@
 
 title: AI_Game_Master_Assistant
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

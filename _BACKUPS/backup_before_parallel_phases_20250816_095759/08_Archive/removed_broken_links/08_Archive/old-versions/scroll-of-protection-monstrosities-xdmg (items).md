@@ -2,7 +2,7 @@
 
 title: scroll-of-protection-monstrosities-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

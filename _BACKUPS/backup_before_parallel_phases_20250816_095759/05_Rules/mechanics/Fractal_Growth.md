@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Transformations/Crystal/Fractal_Growth
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

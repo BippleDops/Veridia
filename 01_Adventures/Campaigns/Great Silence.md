@@ -2,7 +2,7 @@
 
 title: Great Silence
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

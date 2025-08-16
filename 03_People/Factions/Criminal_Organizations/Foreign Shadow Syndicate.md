@@ -2,7 +2,7 @@
 
 title: Foreign Shadow Syndicate
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Suicide Bridges V1 the Suicide Bridges.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the suicide bridges v1 the suicide bridgessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

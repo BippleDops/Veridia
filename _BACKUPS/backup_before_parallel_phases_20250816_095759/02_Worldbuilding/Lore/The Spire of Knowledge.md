@@ -2,7 +2,7 @@
 
 title: The Spire of Knowledge
 type: [[Lore
-tags: 
+tags:
 - lore
 - grand-cathedral
 - content/lore

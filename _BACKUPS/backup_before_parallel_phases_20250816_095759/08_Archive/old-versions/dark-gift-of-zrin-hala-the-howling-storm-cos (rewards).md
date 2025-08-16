@@ -2,7 +2,7 @@
 
 title: dark-gift-of-zrin-hala-the-howling-storm-cos (rewards)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Dream Shard
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

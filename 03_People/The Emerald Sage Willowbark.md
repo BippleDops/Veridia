@@ -2,7 +2,7 @@
 
 title: The Emerald Sage Willowbark
 type: Npc
-tags: 
+tags:
 - status/complete
 - seven-shards
 - nature-guardian
@@ -56,7 +56,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -129,22 +129,22 @@ Willowbark has been the guardian of the Heart Tree in [[The Verdant Reach for ov
 ### The Emerald Sage Willowbark
 *Medium humanoid/plant (half-dryad, shard-fused), neutral good*
 
-**Armor Class** 19 (Natural Armor)  
-**Hit Points** 225 (`dice: `dice: 25d12`` + 75)  
+**Armor Class** 19 (Natural Armor)
+**Hit Points** 225 (`dice: `dice: 25d12`` + 75)
 **Speed** 30 ft., burrow 30 ft. (through root network), teleport 500 miles (within [[The Verdant Reach)
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
 16 (+3) | 14 (+2) | 16 (+3) | 20 (+5) | 25 (+7) | 18 (+4)
 
-**Saving Throws** Int +12, Wis +14, Cha +11  
-**Skills** Arcana +12, History +19, Insight +14, Medicine +14, Nature +26, Perception +14, Survival +14  
-**Damage Resistances** Cold, Lightning, Poison  
-**Damage Immunities** Disease, Aging, Charm (fey mind)  
-**Condition Immunities** Poisoned, Diseased  
-**Senses** Tremorsense 5 miles (through roots), truesight 120 ft., passive Perception 24  
-**Languages** Common, Druidic, Elvish, Sylvan, Celestial, speaks with all plants and animals  
-**Challenge Rating** 16 (15,000 XP)  
+**Saving Throws** Int +12, Wis +14, Cha +11
+**Skills** Arcana +12, History +19, Insight +14, Medicine +14, Nature +26, Perception +14, Survival +14
+**Damage Resistances** Cold, Lightning, Poison
+**Damage Immunities** Disease, Aging, Charm (fey mind)
+**Condition Immunities** Poisoned, Diseased
+**Senses** Tremorsense 5 miles (through roots), truesight 120 ft., passive Perception 24
+**Languages** Common, Druidic, Elvish, Sylvan, Celestial, speaks with all plants and animals
+**Challenge Rating** 16 (15,000 XP)
 **Proficiency Bonus** +5
 
 ### Special Abilities
@@ -238,7 +238,7 @@ The ancient oak containing the Emerald Shard has itself become semi-sentient:
 #### The Growth Paradox
 *"What grows without limit becomes a cancer. What refuses to grow becomes stone. The wise gardener knows when to prune, when to nurture, and when to let the old growth die so new life can flourish. So too with power - even divine power."*
 
-#### The Shard Symphony  
+#### The Shard Symphony
 *"Seven voices sang the world into being, and seven voices shall sing its ending or renewal. The Song of Growth cannot be sung alone - it needs the harmony of Shadow's rest, Crystal's structure, Gold's purity, Amber's endurance, Azure's flow, and Crimson's passion. Discord brings destruction; harmony brings transformation."*
 
 #### The Root Revelation
@@ -274,7 +274,7 @@ Willowbark realizes the Emerald Shard must be contained and chooses to:
 - Use her life force to create a permanent barrier around the Shard
 - Split her soul among all living things in [[The Verdant Reach, achieving true immortality through dispersal
 
-#### The Evolution Path  
+#### The Evolution Path
 Willowbark embraces the Shard's growing power and becomes:
 - Avatar of natural divinity, transforming [Aethermoor]] into a living ecosystem
 - Guardian-goddess of a new age where nature and civilization achieve perfect balance

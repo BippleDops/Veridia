@@ -2,7 +2,7 @@
 
 title: Services [[Services Multi Dimensional Perception|Multi Dimensional Perception
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

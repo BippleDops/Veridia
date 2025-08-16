@@ -2,7 +2,7 @@
 
 title: [[Merchant Prince Akula
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

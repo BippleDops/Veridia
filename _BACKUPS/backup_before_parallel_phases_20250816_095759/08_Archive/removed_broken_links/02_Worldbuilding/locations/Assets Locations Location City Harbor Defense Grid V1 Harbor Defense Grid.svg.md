@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Harbor Defense Grid V1 Harbor Defense Grid.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor defense grid v1 harbor defense
   gridsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

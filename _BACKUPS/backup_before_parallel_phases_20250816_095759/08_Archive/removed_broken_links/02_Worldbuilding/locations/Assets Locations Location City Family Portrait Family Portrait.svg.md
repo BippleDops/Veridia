@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Family Portrait Family Portrait.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city family portrait family portraitsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

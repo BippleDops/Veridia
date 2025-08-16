@@ -2,7 +2,7 @@
 
 title: Botanist Rose Sundrinker
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - status/complete
 - quest
@@ -19,12 +19,12 @@ modified: '2025-08-14'
 status: complete
 [[region: Unknown
 population: Unknown
-accessibility: 
-  content_warnings: 
+accessibility:
+  content_warnings:
   - political coercion
   - [Environmental Hazards]]
   pronunciation: Botanist Rose Sundrinker
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door
@@ -210,7 +210,7 @@ Mentioned in The First Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

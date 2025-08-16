@@ -2,7 +2,7 @@
 
 title: The Shadow Duchess Duel
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - honor-codes
 - status/complete

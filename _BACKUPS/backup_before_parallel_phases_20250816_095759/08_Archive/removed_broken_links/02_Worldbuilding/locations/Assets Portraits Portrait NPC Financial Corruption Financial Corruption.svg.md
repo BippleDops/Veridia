@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Ficial Corruption Ficial Corruption.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc ficial corruption ficial corruptionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -193,7 +193,7 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

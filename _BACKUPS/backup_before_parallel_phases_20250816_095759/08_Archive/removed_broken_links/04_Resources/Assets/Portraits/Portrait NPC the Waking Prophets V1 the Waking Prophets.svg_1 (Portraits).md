@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the waking prophets v1 the waking prophetssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Waking Prophets V1 the Waking Prophets.svg
 type: npc

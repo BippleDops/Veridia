@@ -2,7 +2,7 @@
 
 title: House Depthguard
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

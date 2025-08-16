@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc marcus the shade blackwood v2 marcus the shade blackwoodsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Marcus the Shade Blackwood V2 Marcus the Shade Blackwood.svg
 type: npc

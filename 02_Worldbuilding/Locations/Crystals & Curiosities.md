@@ -2,7 +2,7 @@
 
 title: Crystals & Curiosities
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

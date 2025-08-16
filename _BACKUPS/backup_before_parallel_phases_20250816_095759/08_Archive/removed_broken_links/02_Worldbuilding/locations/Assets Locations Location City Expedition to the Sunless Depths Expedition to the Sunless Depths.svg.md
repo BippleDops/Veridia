@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Expedition to the Sunless Depths Expedition
   to the Sunless Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city expedition to the sunless depths expedition
   to the sunless depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

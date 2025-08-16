@@ -2,7 +2,7 @@
 
 title: Crisis Intervention Chief Raven Darkstorm
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

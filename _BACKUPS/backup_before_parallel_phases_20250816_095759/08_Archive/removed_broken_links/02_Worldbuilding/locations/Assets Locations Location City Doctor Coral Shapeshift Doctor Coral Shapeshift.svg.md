@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Doctor Coral Shapeshift Doctor Coral Shapeshift.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city doctor coral shapeshift doctor coral
   shapeshiftsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

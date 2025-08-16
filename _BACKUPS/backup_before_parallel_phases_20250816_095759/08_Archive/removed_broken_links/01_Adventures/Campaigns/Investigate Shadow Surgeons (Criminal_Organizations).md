@@ -2,7 +2,7 @@
 
 title: Investigate Shadow Surgeons
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - mechanics/exploration

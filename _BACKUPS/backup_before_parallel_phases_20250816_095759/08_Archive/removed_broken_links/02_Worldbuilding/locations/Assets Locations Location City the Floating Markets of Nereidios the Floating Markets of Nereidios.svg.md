@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Floating Markets of Nereidios the Floating
   Markets of Nereidios.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the floating markets of nereidios the
   floating markets of nereidiossvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Echo Succession
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

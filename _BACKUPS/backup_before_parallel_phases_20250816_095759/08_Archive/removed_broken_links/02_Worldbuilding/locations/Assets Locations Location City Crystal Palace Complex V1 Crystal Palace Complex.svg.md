@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Crystal Palace Complex V1 Crystal Palace Complex.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal palace complex v1 crystal palace
   complexsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

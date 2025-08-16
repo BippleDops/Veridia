@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Community Coordinator Kelp Bondweaver Community
   Coordinator Kelp Bondweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city community coordinator kelp bondweaver
   community coordinator kelp bondweaversvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

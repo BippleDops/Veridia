@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Depth Raider V1 Depth Raider.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city depth raider v1 depth raidersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

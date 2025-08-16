@@ -2,7 +2,7 @@
 
 title: The Azure Coast
 type: [[location
-tags: 
+tags:
 - coastal
 - status/complete
 - aquatic
@@ -29,11 +29,11 @@ climate: Temperate Maritime
 danger_level: 3
 government: Multiple City-States and Kingdoms
 length: 400 miles of coastline
-major_cities: 
+major_cities:
 - '[Port Meridian]]'
 - '[[Goldspire Port'
 - Azure Bay
-related_entities: 
+related_entities:
 - '[The Cerulean Archipelago]]'
 - '[[Aquabyssos Ambassadors'
 - '[The Crimson Fleet]]'
@@ -164,7 +164,7 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 ### Lighthouse Towns
 
 **Beacon's Rest**: Northern lighthouse community, population 12,000
-**Tidecaller's Harbor**: Central coast settlement, population 18,000  
+**Tidecaller's Harbor**: Central coast settlement, population 18,000
 **Sorrow Watch**: Southern lighthouse town, population 8,000
 
 ### Maritime Trade

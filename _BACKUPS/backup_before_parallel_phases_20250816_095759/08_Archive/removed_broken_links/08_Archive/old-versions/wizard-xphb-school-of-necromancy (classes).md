@@ -2,7 +2,7 @@
 
 title: wizard-xphb-school-of-necromancy (classes)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

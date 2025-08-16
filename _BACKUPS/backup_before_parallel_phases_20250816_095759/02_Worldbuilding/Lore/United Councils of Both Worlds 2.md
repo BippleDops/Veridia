@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags: 
+tags:
 - aethermoor
 - alliance
 - aquabyssos
@@ -325,7 +325,7 @@ Information gathering and intelligence operations related to threats against the
 
 ## Connected Locations and Organizations
 - [[02_Worldbuilding/Places/Aquabyssos - Primary underwater member of the alliance
-- [02_Worldbuilding/Places/Aethermoor]] - Primary surface member of the alliance  
+- [02_Worldbuilding/Places/Aethermoor]] - Primary surface member of the alliance
 - [[02_Worldbuilding/Places/Parliament of Echoes - Aquabyssos governing body participating in the alliance
 - [02_Worldbuilding/Lore/Hidden Sanctuary]] - Aethermoor resistance organization with alliance connections
 - [[02_Worldbuilding/Lore/High Diplomat Coral Bridgewater|02 Worldbuilding/Lore/High Diplomat Coral Bridgewater - Chief ambassador of the United Councils

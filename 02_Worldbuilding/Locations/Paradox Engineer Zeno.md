@@ -2,7 +2,7 @@
 
 title: Paradox Engineer Zeno
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

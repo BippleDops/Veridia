@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Tavern Keep Lucky Jack Goldpouch Tavern Keep
   Lucky Jack Goldpouch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tavern keep lucky jack goldpouch tavern
   keep lucky jack goldpouchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Cultural Festival
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Gem Trueeye V1 Gem Trueeye.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gem trueeye v1 gem trueeyesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Senator S Widow Marcella V1 Senator S Widow
   Marcella.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city senator s widow marcella v1 senator
   s widow marcellasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -199,7 +199,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

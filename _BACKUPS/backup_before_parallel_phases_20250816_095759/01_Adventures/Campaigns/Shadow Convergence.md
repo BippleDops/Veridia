@@ -2,7 +2,7 @@
 
 title: Shadow Convergence
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: Phase Shift Devices
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

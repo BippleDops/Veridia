@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Codex of Forgotten Depths Codex of Forgotten
   Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city codex of forgotten depths codex of forgotten
   depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

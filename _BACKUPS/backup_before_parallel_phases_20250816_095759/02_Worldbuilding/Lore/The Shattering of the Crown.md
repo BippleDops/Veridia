@@ -1,7 +1,7 @@
 ---
 title: [[The Shattering of [The Crown]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - aerial
 - shattering
@@ -28,12 +28,12 @@ created_by: auto-stub
 duration: Instantaneous Event with Eternal Consequences
 expanded: 2025-08-11
 outcome: Crown Shattered, World Transformed, Divinity Scattered
-participants: 
+participants:
 - God-King Aetheron
 - The Seven Betrayers
 - The [[Crown of Stars
 - Reality Itself
-related_entities: 
+related_entities:
 - '[The Seven Betrayers]]'
 - '[[The Crown of Stars'
 - '[The Great Crystallization]]'

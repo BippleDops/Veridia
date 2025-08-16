@@ -1,7 +1,7 @@
 ---
 title: Desperate Plague Victim
 type: [[Lore
-tags: 
+tags:
 - human-cost
 - shadow-corruption
 - individual-story

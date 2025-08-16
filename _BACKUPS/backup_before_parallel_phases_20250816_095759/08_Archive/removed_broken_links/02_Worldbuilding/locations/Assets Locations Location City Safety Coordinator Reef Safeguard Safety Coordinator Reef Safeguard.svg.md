@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Safety Coordinator Reef Safeguard Safety Coordinator
   Reef Safeguard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city safety coordinator reef safeguard safety
   coordinator reef safeguardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

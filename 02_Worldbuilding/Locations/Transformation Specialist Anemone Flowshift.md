@@ -2,7 +2,7 @@
 
 title: Transformation Specialist Anemone Flowshift
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

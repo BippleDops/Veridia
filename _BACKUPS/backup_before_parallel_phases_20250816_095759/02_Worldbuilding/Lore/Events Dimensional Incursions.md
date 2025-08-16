@@ -2,7 +2,7 @@
 
 title: Events [[Dimensional Incursions
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

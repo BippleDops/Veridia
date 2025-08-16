@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lich queen morwyn the deathless v2 lich queen morwyn the deathlesssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lich Queen Morwyn the Deathless V2 Lich Queen Morwyn the Deathless.svg
 type: npc

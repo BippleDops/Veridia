@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc master smith priest vulcan depthforge master smith priest vulcan depthforgesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Master Smith Priest Vulcan Depthforge Master Smith Priest Vulcan
   Depthforge.svg

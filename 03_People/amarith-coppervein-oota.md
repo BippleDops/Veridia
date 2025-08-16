@@ -2,7 +2,7 @@
 
 title: amarith-coppervein-oota
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

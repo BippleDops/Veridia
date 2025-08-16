@@ -2,7 +2,7 @@
 
 title: The Living Tools
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

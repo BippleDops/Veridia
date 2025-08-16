@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city temple district v1 temple districtsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Temple District V1 Temple District.svg
 type: location

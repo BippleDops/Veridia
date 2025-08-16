@@ -9,7 +9,7 @@ party_size: 3-6 characters
 primary_location: Port Meridian and Noble Quarter
 quest_type: Social Intrigue/Heist Adventure
 status: complete
-tags: 
+tags:
 - access/secret
 - aethermoor
 - blackmail

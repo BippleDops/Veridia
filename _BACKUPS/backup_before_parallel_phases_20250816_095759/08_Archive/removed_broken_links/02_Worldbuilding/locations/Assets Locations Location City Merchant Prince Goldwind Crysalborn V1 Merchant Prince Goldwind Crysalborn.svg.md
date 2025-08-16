@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Merchant Prince Goldwind Crysalborn V1 Merchant
   Prince Goldwind Crysalborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant prince goldwind crysalborn
   v1 merchant prince goldwind crysalbornsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

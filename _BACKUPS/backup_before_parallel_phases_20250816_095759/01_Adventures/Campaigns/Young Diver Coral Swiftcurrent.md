@@ -2,7 +2,7 @@
 
 title: Young Diver [[Coral Swiftcurrent
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

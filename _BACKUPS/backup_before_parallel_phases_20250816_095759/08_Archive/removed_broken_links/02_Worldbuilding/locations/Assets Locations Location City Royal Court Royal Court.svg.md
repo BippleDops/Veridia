@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Royal Court Royal Court.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal court royal courtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

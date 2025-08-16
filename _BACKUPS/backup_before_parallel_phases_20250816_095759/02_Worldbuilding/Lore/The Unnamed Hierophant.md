@@ -2,7 +2,7 @@
 
 title: The Unnamed Hierophant
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

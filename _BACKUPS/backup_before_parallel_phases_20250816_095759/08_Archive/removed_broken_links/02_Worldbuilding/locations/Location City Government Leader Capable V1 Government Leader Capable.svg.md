@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city government leader capable v1 government leader capablesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Government Leader Capable V1 Government Leader Capable.svg
 type: location

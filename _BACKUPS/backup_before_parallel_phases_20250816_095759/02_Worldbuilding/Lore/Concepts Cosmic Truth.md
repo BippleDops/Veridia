@@ -2,7 +2,7 @@
 
 title: Concepts [[Cosmic Truth
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

@@ -8,14 +8,14 @@ depth: 2500-3000 feet
 difficulty: Levels 6-12
 original_builder: '[[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise'
 population: 50+ (scholars, guardians, spirits)
-related_entities: 
+related_entities:
 - '[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]'
 - '[[02_Worldbuilding/Groups/The Scribes'' Covenant|02 Worldbuilding/Groups/The Scribes''
   Covenant'
 - '[02_Worldbuilding/Groups/Orders/Order of Preserved Knowledge]]'
 - '[[02_Worldbuilding/Lore/Deep Archives]]'
 status: complete
-tags: 
+tags:
 - ancient-wisdom
 - aquabyssos
 - campaign/arc
@@ -58,7 +58,7 @@ Before the Great Drowning, the Library of Thalassius was an architectural marvel
 
 **The Reading Spires**: Six towering structures surrounding the central dome, each dedicated to different fields of study:
 - **The Arcane Spire**: Magical theory and spellcraft
-- **The Historical Tower**: Chronicles, genealogies, and cultural records  
+- **The Historical Tower**: Chronicles, genealogies, and cultural records
 - **The Natural Philosophy Spire**: Sciences, mathematics, and natural studies
 - **The Literary Tower**: Poetry, drama, fiction, and artistic works
 - **The Practical Spire**: Engineering, crafts, agriculture, and applied knowledge
@@ -92,7 +92,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 **Navigation Challenges**:
 - **Current Flows**: Water circulation creates confusing current patterns
-- **Debris Fields**: Furniture and architectural elements create maze-like obstacles  
+- **Debris Fields**: Furniture and architectural elements create maze-like obstacles
 - **Guardian Territories**: Sea creatures claim specific areas as hunting grounds
 - **Magical Residue**: Unstable magic from destroyed protective wards
 
@@ -201,7 +201,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 #### The Spire Collections
 **Specialized Knowledge Centers**: Each of the six original towers maintains unique collections:
 
-**The Arcane Spire**: 
+**The Arcane Spire**:
 - **Magical Theory**: Fundamental principles of spellcasting and magical energy
 - **Spell Collections**: Thousands of spells organized by school and difficulty
 - **Artifact Studies**: Research on magical items and their creation
@@ -223,7 +223,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **The Astronomical Chambers**: Tower tops modified for underwater observation:
 
 **Current Usage**: Adapted for studying underwater phenomena rather than stars:
-- **Deep Current Analysis**: Mapping and predicting water movement patterns  
+- **Deep Current Analysis**: Mapping and predicting water movement patterns
 - **Marine Biology Studies**: Observation of sea creatures and ecosystem changes
 - **Magical Phenomena**: Research on underwater magic and energy patterns
 - **Communication Arrays**: Long-distance messaging and information gathering
@@ -326,7 +326,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 **The Knowledge Dragons**: Three small dragons each guarding a tower:
 - **Sapphire**: Guards the Arcane Spire, tests magical knowledge
-- **Emerald**: Protects the Natural Philosophy collection, values logical thinking  
+- **Emerald**: Protects the Natural Philosophy collection, values logical thinking
 - **Ruby**: Defends the Historical Tower, challenges understanding of the past
 
 **The Golem Librarians**: Constructed beings that organize and retrieve books:
@@ -487,7 +487,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 **Magical Fluctuations**: Ancient protective magic creates unpredictable effects:
 - **Spontaneous Barriers**: Air locks may seal unexpectedly
-- **Current Changes**: Water flow patterns shift without warning  
+- **Current Changes**: Water flow patterns shift without warning
 - **Temperature Variations**: Some areas become uncomfortably hot or cold
 - **Magical Storms**: Energy discharges affect electronics and magic items
 
@@ -703,7 +703,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Heritage Preservation**: Protecting cultural materials from both civilizations
 
 **Other Underwater Communities**: Scholarly exchanges with distant underwater cities
-- **Document Exchange**: Trading copies of unique historical materials  
+- **Document Exchange**: Trading copies of unique historical materials
 - **Visiting Scholar Programs**: Extended research visits and residencies
 - **Joint Expeditions**: Collaborative archaeological and historical research
 - **Technology Sharing**: Exchange of preservation and research techniques
@@ -835,7 +835,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 ---
 
-*"In the depths where knowledge sleeps, every book is a message in a bottle from a drowned world. Here, the past speaks to the present through words that survived when cities fell and civilizations ended."*  
+*"In the depths where knowledge sleeps, every book is a message in a bottle from a drowned world. Here, the past speaks to the present through words that survived when cities fell and civilizations ended."*
 — [02_Worldbuilding/Places/Keeper Aquaeous Depth-Scholar]], Chief Librarian
 
 ## Connections

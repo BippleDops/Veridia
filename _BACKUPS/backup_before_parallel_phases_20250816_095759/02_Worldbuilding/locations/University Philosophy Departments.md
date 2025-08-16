@@ -2,7 +2,7 @@
 
 title: University Philosophy Departments
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

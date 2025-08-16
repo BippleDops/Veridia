@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc deep lord pelagios the eternal v1 deep lord pelagios the eternalsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Deep Lord Pelagios the Eternal V1 Deep Lord Pelagios the Eternal.svg
 type: npc

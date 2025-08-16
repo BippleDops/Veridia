@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the failing magic v1 quest the failing magicsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Failing Magic V1 Quest the Failing Magic.svg
 type: npc

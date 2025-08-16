@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city secondary education v1 secondary educationsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Secondary Education V1 Secondary Education.svg
 type: location

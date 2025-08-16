@@ -2,7 +2,7 @@
 
 title: Fine Gold Chain Set With a Fire Opal Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

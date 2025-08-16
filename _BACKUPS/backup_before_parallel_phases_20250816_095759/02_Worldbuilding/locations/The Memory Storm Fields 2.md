@@ -9,7 +9,7 @@ frequency: Seasonal (Peak during Remembrance Tides)
 hazard_type: Memory/Temporal Anomaly
 research_status: Ongoing Investigation
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location
@@ -143,7 +143,7 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 - **Avoidance**: Marked as forbidden zone, entry restricted to emergency personnel
 - **Threat**: Highest concentration of psychological hazards in known world
 
-#### The Joy Currents  
+#### The Joy Currents
 - **Location**: Regions where great celebrations and happy events occurred
 - **Content**: Weddings, births, achievements, artistic creation, discovery
 - **Characteristics**: Beneficial effects on mental health and creativity
@@ -187,7 +187,7 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 - **Combat**: Fighting historical figures who may or may not be real
 
 #### Zone 3: Memory Maelstrom (High Intensity)
-- **Range**: 0.5-1 mile from center  
+- **Range**: 0.5-1 mile from center
 - **Effects**: Complete memory immersion, identity confusion
 - **Mechanics**: Wisdom save **DC 18** per minute or lose personal memories
 - **Duration**: Memory loss lasts until restoration magic applied
@@ -244,7 +244,7 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 ### Commercial Exploitation
 #### Memory Tourism Industry
 - **Guided Expeditions**: Carefully managed exposure to beneficial memory storms
-- **Educational Tours**: Historical experience programs for students and scholars  
+- **Educational Tours**: Historical experience programs for students and scholars
 - **Therapeutic Visits**: Medical treatment using positive memory exposure
 - **Adventure Tourism**: Extreme experiences for thrill-seekers (highly regulated)
 - **Cultural Programs**: Artistic inspiration through historical memory immersion
@@ -305,35 +305,35 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 ## Adventure Applications
 ### Quest Hooks
 #### The Lost Expedition
-**Level**: 6-11  
-**Hook**: Research team disappeared in memory storm three weeks ago  
-**Investigation**: Track expedition through memory trail evidence  
-**Complication**: Team members scattered across different historical periods  
-**Challenge**: Navigate multiple memory zones while avoiding temporal displacement  
+**Level**: 6-11
+**Hook**: Research team disappeared in memory storm three weeks ago
+**Investigation**: Track expedition through memory trail evidence
+**Complication**: Team members scattered across different historical periods
+**Challenge**: Navigate multiple memory zones while avoiding temporal displacement
 **Resolution**: Rescue survivors while recovering critical research data
 
 #### The Memory Thief
-**Level**: 8-13  
-**Hook**: Someone is artificially creating memory storms to steal specific memories  
-**Mystery**: Pattern of thefts suggests search for particular historical secret  
-**Investigation**: Track perpetrator through memory storm manipulation evidence  
-**Danger**: Stolen memories are destabilizing entire regions with artificial storms  
+**Level**: 8-13
+**Hook**: Someone is artificially creating memory storms to steal specific memories
+**Mystery**: Pattern of thefts suggests search for particular historical secret
+**Investigation**: Track perpetrator through memory storm manipulation evidence
+**Danger**: Stolen memories are destabilizing entire regions with artificial storms
 **Stakes**: Must stop thief before accumulated stolen memories create catastrophic hurricane
 
 #### The Temporal Refugee
-**Level**: 10-15  
-**Hook**: Person from past era appears claiming to be displaced by memory storm  
-**Complexity**: Refugee's presence is causing temporal paradoxes  
-**Investigation**: Determine if refugee is real, illusion, or memory construct  
-**Choice**: Help refugee return to proper time or find place in current era  
+**Level**: 10-15
+**Hook**: Person from past era appears claiming to be displaced by memory storm
+**Complexity**: Refugee's presence is causing temporal paradoxes
+**Investigation**: Determine if refugee is real, illusion, or memory construct
+**Choice**: Help refugee return to proper time or find place in current era
 **Consequence**: Decision affects historical timeline and future developments
 
 #### The Memory War
-**Level**: 12-18  
-**Hook**: Hostile faction weaponizing memory storms against civilian populations  
-**Scale**: Regional conflict using psychological warfare through induced trauma  
-**Challenge**: Stop memory storm weapons while treating massive psychological casualties  
-**Innovation**: Develop new defensive techniques against weaponized memory  
+**Level**: 12-18
+**Hook**: Hostile faction weaponizing memory storms against civilian populations
+**Scale**: Regional conflict using psychological warfare through induced trauma
+**Challenge**: Stop memory storm weapons while treating massive psychological casualties
+**Innovation**: Develop new defensive techniques against weaponized memory
 **Resolution: Prevent escalation while addressing underlying political causes
 
 ### Environmental Challenges
@@ -372,7 +372,7 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 ### Running Memory Storm Encounters
 - Focus on psychological horror and identity confusion rather than physical danger
 - Use memory exposure to reveal character backstories and motivations
-- Allow temporary personality changes to create interesting roleplay opportunities  
+- Allow temporary personality changes to create interesting roleplay opportunities
 - Emphasize collaborative storytelling as characters experience shared memories
 - Use historical memories to provide campaign exposition and world context
 

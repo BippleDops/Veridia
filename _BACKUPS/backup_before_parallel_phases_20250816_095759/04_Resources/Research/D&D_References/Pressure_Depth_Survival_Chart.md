@@ -2,7 +2,7 @@
 
 title: Pressure_Depth_Survival_Chart
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

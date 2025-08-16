@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memoriam Keeper Marcus Remembrance Memoriam
   Keeper Marcus Remembrance.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memoriam keeper marcus remembrance memoriam
   keeper marcus remembrancesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

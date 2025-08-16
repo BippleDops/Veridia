@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Merchant Quarter Districts V1 Merchant Quarter
   Districts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant quarter districts v1 merchant
   quarter districtssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

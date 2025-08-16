@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ancient Tunnels Beneath Palace V1 Ancient Tunnels
   Beneath Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ancient tunnels beneath palace v1 ancient
   tunnels beneath palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

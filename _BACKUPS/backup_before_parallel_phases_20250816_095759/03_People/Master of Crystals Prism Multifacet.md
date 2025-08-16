@@ -1,7 +1,7 @@
 ---
 title: Master of Crystals Prism Multifacet
 type: npc
-tags: 
+tags:
 - npc
 - halfling
 - paladin

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Henrik Saltbreeze Captain Henrik Saltbreeze.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain henrik saltbreeze captain henrik
   saltbreezesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

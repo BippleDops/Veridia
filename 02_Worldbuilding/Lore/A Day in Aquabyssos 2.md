@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - cultural-guide
@@ -31,7 +31,7 @@ Life in [[02_Worldbuilding/Places/Aquabyssos flows with the natural rhythms of t
 Rather than a 24-hour day, Aquabyssos follows the **Great Current Cycle** - four 6-hour tides that govern daily life:
 
 1. **Rising Tide** (Dawn Equivalent): 0000-0600 hours
-2. **High Tide** (Morning): 0600-1200 hours  
+2. **High Tide** (Morning): 0600-1200 hours
 3. **Falling Tide** (Afternoon): 1200-1800 hours
 4. **Low Tide** (Evening/Night): 1800-2400 hours
 
@@ -79,7 +79,7 @@ Every district uses **Pressure Bells** - resonant crystalline structures that em
 - **Market Preparation**: Arranging goods before morning shopping rush
 - **Currency Counting**: Daily inventory and profit calculations
 
-### Deep Residential Areas  
+### Deep Residential Areas
 **6:30 AM - Pressure Gradient Wake**
 - **Gradual Ascent**: Many residents live at higher pressure, requiring slow morning adjustment
 - **Family Pressure Pods**: Communal morning adjustment chambers
@@ -98,7 +98,7 @@ Every district uses **Pressure Bells** - resonant crystalline structures that em
 
 #### Middle Class Transportation
 - **Personal Submarines**: Small family vehicles (Fuel: 1 silver/day)
-- **Express Pressure Tubes**: Faster service with fewer stops (1 silver/trip) 
+- **Express Pressure Tubes**: Faster service with fewer stops (1 silver/trip)
 - **Riding Seahorses**: Domesticated transport animals (2 silver/day stable fee)
 - **Current Gliders**: Personal gliding devices for short distances (Equipment cost)
 
@@ -132,7 +132,7 @@ Every district uses **Pressure Bells** - resonant crystalline structures that em
 ### Government Administration
 **Standard Civil Service Day**: 0800-1600 (High Tide + Falling Tide)
 - **0800-0830**: Morning briefings and current events
-- **0830-1200**: Primary work period during High Tide (peak energy)  
+- **0830-1200**: Primary work period during High Tide (peak energy)
 - **1200-1300**: Midday meal and pressure adjustment break
 - **1300-1600**: Afternoon tasks during Falling Tide
 - **1600**: End of standard workday
@@ -155,14 +155,14 @@ Every district uses **Pressure Bells** - resonant crystalline structures that em
 ### Deep Mining Operations
 **Extended Deep Shifts**: Workers spend 10 days at pressure, 5 days surface recovery
 - **Day 1-2**: Pressure adjustment and equipment familiarization
-- **Day 3-8**: Active mining operations 
+- **Day 3-8**: Active mining operations
 - **Day 9-10**: Gradual pressure reduction
 - **Recovery**: 5 days at surface pressure with medical monitoring
 
 ### Harbor and Maritime Work
 **Tide-Dependent Schedules**:
 - **High Tide**: Loading/unloading large vessels (heavy cargo)
-- **Falling Tide**: Maintenance and repair work  
+- **Falling Tide**: Maintenance and repair work
 - **Low Tide**: Small boat operations, detailed work
 - **Rising Tide**: Preparation and organization for next cycle
 
@@ -246,7 +246,7 @@ Every district uses **Pressure Bells** - resonant crystalline structures that em
 #### The Pressure Drop Taverns
 **Peak Hours**: 1900-2300 (Low Tide evening)
 - **After-Work Crowds**: Government workers, crafters, merchants
-- **Pressure Ales**: Fermented beverages that taste different at various depths  
+- **Pressure Ales**: Fermented beverages that taste different at various depths
 - **Current Stories**: Shared tales of daily adventures and challenges
 - **Game Waters**: Swimming competitions and underwater sports
 - **Depth Singing**: Musical performances using water acoustics
@@ -273,7 +273,7 @@ Every district uses **Pressure Bells** - resonant crystalline structures that em
 - **Craft Circles**: Traditional underwater arts and skills
 - **Pressure Sports**: Athletic competitions using depth changes
 
-#### Second Rest Day (Every 12th day) 
+#### Second Rest Day (Every 12th day)
 **Community Events**:
 - **District Festivals**: Neighborhood celebrations and markets
 - **Current Races**: Athletic competitions using water flow
@@ -360,7 +360,7 @@ Every district uses **Pressure Bells** - resonant crystalline structures that em
 ### Dream Significance and Sleep Culture
 **Dream Interpretation**:
 - **Current Dreams**: Dreams of flowing water predict good fortune
-- **Deep Dreams**: Pressure dreams indicate spiritual messages  
+- **Deep Dreams**: Pressure dreams indicate spiritual messages
 - **School Dreams**: Dreams of fish schools suggest community harmony
 - **Storm Dreams**: Turbulent dreams warn of coming difficulties
 
@@ -389,7 +389,7 @@ Every district uses **Pressure Bells** - resonant crystalline structures that em
 
 **After School** (1500-1800):
 - **Family Time**: Help with household tasks and family bonding
-- **Play Currents**: Recreational swimming in safe areas  
+- **Play Currents**: Recreational swimming in safe areas
 - **Skill Practice**: Developing specialized abilities and interests
 - **Community Service**: Age-appropriate contributions to neighborhood
 
@@ -462,7 +462,7 @@ Every district uses **Pressure Bells** - resonant crystalline structures that em
 **Time Allocation**:
 - **Work**: 60% of waking hours (including commute)
 - **Family**: 25% of waking hours
-- **Personal**: 10% of waking hours  
+- **Personal**: 10% of waking hours
 - **Community**: 5% of waking hours
 
 **Routine Characteristics**:
@@ -481,7 +481,7 @@ Every district uses **Pressure Bells** - resonant crystalline structures that em
 **Routine Characteristics**:
 - **Balanced Schedule**: Work important but not overwhelming
 - **Education Focus**: Time invested in learning and skill development
-- **Social Participation**: Active involvement in community events and governance  
+- **Social Participation**: Active involvement in community events and governance
 - **Cultural Activities**: Participation in arts, entertainment, and cultural events
 
 ### Upper Class Daily Life

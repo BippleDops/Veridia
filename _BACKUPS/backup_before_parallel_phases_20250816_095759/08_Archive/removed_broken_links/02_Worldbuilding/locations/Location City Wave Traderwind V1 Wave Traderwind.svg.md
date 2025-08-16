@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city wave traderwind v1 wave traderwindsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Wave Traderwind V1 Wave Traderwind.svg
 type: location

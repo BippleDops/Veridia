@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Crystal Heart Shard
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

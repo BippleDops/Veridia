@@ -2,7 +2,7 @@
 
 title: Warden Marcus Stonehand
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - status/complete
 - aquatic

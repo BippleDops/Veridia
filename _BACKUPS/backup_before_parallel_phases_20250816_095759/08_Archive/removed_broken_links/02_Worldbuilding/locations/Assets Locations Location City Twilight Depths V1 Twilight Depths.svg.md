@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Twilight Depths V1 Twilight Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city twilight depths v1 twilight depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

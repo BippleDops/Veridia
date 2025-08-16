@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Temporal Viewing Chambers Temporal Viewing Chambers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temporal viewing chambers temporal viewing
   chamberssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

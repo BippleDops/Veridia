@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Archdeacon Felix Faithkeeper V1 Archdeacon Felix
   Faithkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archdeacon felix faithkeeper v1 archdeacon
   felix faithkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

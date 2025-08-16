@@ -2,7 +2,7 @@
 
 title: Deepmind Conspiracy
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - access/secret
 - status/complete

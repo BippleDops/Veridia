@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city tavern keep lucky jack goldpouch tavern keep lucky jack goldpouchsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Tavern Keep Lucky Jack Goldpouch Tavern Keep Lucky Jack Goldpouch.svg
 type: location

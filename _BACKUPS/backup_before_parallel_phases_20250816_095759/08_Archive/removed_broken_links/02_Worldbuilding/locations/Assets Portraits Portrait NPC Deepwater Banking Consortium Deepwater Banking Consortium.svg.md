@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Deepwater Banking Consortium Deepwater Banking
   Consortium.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc deepwater banking consortium deepwater
   banking consortiumsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

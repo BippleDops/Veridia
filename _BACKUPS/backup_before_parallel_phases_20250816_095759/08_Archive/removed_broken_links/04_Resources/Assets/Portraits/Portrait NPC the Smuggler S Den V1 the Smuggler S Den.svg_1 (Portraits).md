@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the smuggler s den v1 the smuggler s densvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Smuggler S Den V1 the Smuggler S Den.svg
 type: npc

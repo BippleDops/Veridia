@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the diplomatic immunity case v1 quest the diplomatic immunity
   casesvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Diplomatic Immunity Case V1 Quest the Diplomatic Immunity
   Case.svg

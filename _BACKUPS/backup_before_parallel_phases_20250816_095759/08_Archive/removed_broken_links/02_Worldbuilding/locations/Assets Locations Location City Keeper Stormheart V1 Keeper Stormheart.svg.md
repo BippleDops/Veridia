@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Keeper Stormheart V1 Keeper Stormheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper stormheart v1 keeper stormheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

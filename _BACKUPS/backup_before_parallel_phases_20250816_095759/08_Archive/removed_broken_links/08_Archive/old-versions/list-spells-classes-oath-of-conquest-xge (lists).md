@@ -2,7 +2,7 @@
 
 title: list-spells-classes-oath-of-conquest-xge (lists)
 type: quest
-tags: 
+tags:
 - quest
 
 created: '2025-01-15'

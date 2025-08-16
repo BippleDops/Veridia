@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tidal Stormcrest Tidal Stormcrest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tidal stormcrest tidal stormcrestsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

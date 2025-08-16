@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crystals Curiosities V1 Crystals Curiosities.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystals curiosities v1 crystals curiositiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

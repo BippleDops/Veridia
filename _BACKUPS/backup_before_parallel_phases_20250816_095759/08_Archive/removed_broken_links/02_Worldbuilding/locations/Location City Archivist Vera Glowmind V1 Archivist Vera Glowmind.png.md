@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city archivist vera glowmind v1 archivist vera glowmindpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Archivist Vera Glowmind V1 Archivist Vera Glowmind.png
 type: location

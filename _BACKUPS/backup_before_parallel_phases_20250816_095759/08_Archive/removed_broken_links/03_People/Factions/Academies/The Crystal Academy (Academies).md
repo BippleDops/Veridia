@@ -2,7 +2,7 @@
 
 title: The Crystal Academy
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction
@@ -129,7 +129,7 @@ Mentioned in The First Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

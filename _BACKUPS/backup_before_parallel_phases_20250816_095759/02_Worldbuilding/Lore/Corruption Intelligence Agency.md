@@ -2,7 +2,7 @@
 
 title: Corruption Intelligence Agency
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

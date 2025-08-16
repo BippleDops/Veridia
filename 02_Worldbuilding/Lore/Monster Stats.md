@@ -2,7 +2,7 @@
 
 title: Monster Stats
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

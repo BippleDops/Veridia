@@ -2,7 +2,7 @@
 
 title: [[locations Sunken Palace
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

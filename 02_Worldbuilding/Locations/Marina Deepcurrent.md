@@ -2,7 +2,7 @@
 
 title: Marina Deepcurrent
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

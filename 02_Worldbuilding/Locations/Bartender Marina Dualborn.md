@@ -2,7 +2,7 @@
 
 title: Bartender Marina Dualborn
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -163,7 +163,7 @@ Ongoing situations affecting Bartender Marina Dualborn:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

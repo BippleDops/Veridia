@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc duke hadal duke hadalsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: portrait npc duke hadal duke hadal.svg
 type: npc

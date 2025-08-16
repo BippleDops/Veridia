@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC the Royal Treasury Depths the Royal Treasury
   Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the royal treasury depths the royal treasury
   depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Diplomat Supreme International
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

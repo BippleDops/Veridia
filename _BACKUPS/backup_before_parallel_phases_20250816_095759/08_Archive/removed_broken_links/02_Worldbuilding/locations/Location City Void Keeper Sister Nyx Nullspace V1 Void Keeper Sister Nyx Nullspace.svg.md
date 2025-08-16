@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city void keeper sister nyx space v1 void keeper sister nyx spacesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Void Keeper Sister Nyx space V1 Void Keeper Sister Nyx space.svg
 type: location

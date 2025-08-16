@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc ancient king pelagios v1 ancient king pelagiossvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Ancient King Pelagios V1 Ancient King Pelagios.svg
 type: npc

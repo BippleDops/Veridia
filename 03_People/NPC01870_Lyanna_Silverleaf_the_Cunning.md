@@ -212,7 +212,7 @@ Modifications:
 - Requires [[Assets Locations [[Location City [Current Riders Guild V1 Current Riders Guild.svg]]]]
 - Influences [[LORE00093_Prophecies_Entry_94
 - Originates from [norse-skadi (deities)]]
-- Parallels [[Example Party 
+- Parallels [[Example Party
 - Affected by [[Location City [Courier Ripplestone]] V1 Courier Ripplestone.svg]]
 - Connects to [[Crimson Hand Strike Team
 - Compare with [armor-of-lightning-resistance-xdmg (items)]]

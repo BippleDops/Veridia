@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc character relationship web core npcs v2 character relationship web
   core npcssvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Character Relationship Web Core Npcs V2 Character Relationship
   Web Core Npcs.svg

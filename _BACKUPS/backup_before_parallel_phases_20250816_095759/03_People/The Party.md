@@ -2,7 +2,7 @@
 
 title: The Party
 type: Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - meta
@@ -19,10 +19,10 @@ status: complete
 race: Unknown
 class: Unknown
 location: Unknown
-accessibility: 
+accessibility:
   content_warnings: []
   pronunciation: The Party
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door
@@ -58,7 +58,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -668,7 +668,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Quick NPC
 - [Random Encounters]]
 - [[Sky Burial Traditions
-- 
+-
 - [The Grand Trade Routes]]
 - [[The Restoration Movement
 - [Underground Smuggling Networks]]

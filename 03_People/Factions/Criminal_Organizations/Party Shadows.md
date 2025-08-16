@@ -2,7 +2,7 @@
 
 title: Party Shadows
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction
@@ -18,7 +18,7 @@ headquarters: Unknown
 membership: Unknown
 MyCategory: Shadow Influence Network
 MyContainer: '[[Parliament of Echoes'
-benefits: 
+benefits:
 - reward: Access to shadow memory markets and political whisper networks
   standing: 1
 - reward: Shadow surgery consultation and identity modification services
@@ -27,17 +27,17 @@ benefits:
   standing: 3
 created_by: expansion
 faction: Parliament of Echoes - Shadow Chamber
-initiates: 
+initiates:
 - Vex Shadowthorn's Apprentices
 - Shadow Surgeon Apprentice
 - Shadow Broker Mirrors
 leader: Shadow Broker Mist
-members: 
+members:
 - Shadow Parliament
 - Parliament Loyalists
 - The Silhouette Surgeon Prime
 obsidianUIMode: preview
-officers: 
+officers:
 - Ambassador Nerida Deepcurrent
 - Senator Glaucus Brain
 - Tribune Cassia Deepcurrent
@@ -251,7 +251,7 @@ Party Shadows operates on principles of pragmatic opportunism disguised as ideal
 
 - **Adaptability**: Ability to change approaches based on circumstances
 - **Loyalty**: Absolute commitment to shadow integration goals
-- **Discretion**: Never revealing true nature or objectives to outsiders  
+- **Discretion**: Never revealing true nature or objectives to outsiders
 - **Innovation**: Developing new methods for shadow manipulation and control
 - **Patience**: Understanding that true change occurs over decades, not months
 
@@ -325,7 +325,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -3,7 +3,7 @@ enhanced: true
 
 title: Dr. Elena Compassion
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

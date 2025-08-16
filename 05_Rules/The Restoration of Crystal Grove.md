@@ -2,7 +2,7 @@
 
 title: The Restoration of Crystal Grove
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

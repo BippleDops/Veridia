@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city captain trawl netcaster v1 captain trawl netcastersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Captain Trawl Netcaster V1 Captain Trawl Netcaster.svg
 type: location

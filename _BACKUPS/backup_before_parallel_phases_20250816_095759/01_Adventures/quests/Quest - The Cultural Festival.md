@@ -76,7 +76,7 @@ This document contains important information regarding Quest - The Cultural Fest
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-Quest - The Cultural Festival represents a significant element within the campaign world, offering various opportunities 
+Quest - The Cultural Festival represents a significant element within the campaign world, offering various opportunities
 *The air carries the scent of [appropriate smell].*for engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Great Recognition the Great Recognition.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the great recognition the great recognitionsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

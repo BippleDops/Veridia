@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Current Riders Guild Current Riders Guild.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city current riders guild current riders
   guildsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

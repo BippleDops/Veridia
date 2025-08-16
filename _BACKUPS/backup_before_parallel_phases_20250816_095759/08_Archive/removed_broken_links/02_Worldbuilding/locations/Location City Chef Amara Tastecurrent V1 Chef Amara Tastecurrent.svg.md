@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city chef amara tastecurrent v1 chef amara tastecurrentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Chef Amara Tastecurrent V1 Chef Amara Tastecurrent.svg
 type: location

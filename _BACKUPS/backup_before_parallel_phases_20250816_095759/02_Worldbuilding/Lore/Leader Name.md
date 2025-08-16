@@ -2,7 +2,7 @@
 
 title: Leader Name
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

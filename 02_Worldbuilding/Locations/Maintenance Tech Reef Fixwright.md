@@ -2,7 +2,7 @@
 
 title: [[Maintece Tech Reef Fixwright
 type: [location]]
-tags: 
+tags:
 - content/location
 - place
 - world/[[Aethermoor

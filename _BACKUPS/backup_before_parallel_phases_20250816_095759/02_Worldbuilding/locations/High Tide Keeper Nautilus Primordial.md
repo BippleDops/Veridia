@@ -2,7 +2,7 @@
 
 title: High Tide Keeper Nautilus Primordial
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

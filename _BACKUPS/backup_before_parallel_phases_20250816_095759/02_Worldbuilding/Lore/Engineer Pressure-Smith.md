@@ -2,7 +2,7 @@
 
 title: Engineer Pressure-Smith
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

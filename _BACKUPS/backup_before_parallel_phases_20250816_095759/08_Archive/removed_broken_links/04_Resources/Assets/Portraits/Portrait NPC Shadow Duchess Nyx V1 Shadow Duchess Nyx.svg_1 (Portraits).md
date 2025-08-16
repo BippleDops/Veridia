@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc shadow duchess nyx v1 shadow duchess nyxsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Shadow Duchess Nyx V1 Shadow Duchess Nyx.svg
 type: npc

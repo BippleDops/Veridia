@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city thorek crystalhammer v1 thorek crystalhammerpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Thorek Crystalhammer V1 Thorek Crystalhammer.png
 type: location

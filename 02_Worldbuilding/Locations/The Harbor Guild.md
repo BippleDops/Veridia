@@ -2,7 +2,7 @@
 
 title: The Harbor Guild
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

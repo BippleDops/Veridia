@@ -2,7 +2,7 @@
 
 title: Shadow Reflection Sage
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

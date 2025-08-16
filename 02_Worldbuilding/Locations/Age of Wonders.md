@@ -2,7 +2,7 @@
 
 title: Age of Wonders
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

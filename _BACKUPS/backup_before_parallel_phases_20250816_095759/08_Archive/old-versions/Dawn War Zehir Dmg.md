@@ -2,7 +2,7 @@
 
 title: Dawn War Zehir Dmg
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

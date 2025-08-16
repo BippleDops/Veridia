@@ -2,7 +2,7 @@
 
 title: The Memory Walls
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Storm of Eternal Lightning (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

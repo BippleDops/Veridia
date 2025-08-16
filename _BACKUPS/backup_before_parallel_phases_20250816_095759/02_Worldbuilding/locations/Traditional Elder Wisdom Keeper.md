@@ -2,7 +2,7 @@
 
 title: Traditional Elder Wisdom Keeper
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

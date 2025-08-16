@@ -2,7 +2,7 @@
 
 title: The Forgotten Mourner
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

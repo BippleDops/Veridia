@@ -306,7 +306,7 @@ modified: '2025-08-14'
 - [Locations the Void Scanner|Locations The Void Scanner]]
 - [[Locations the Watcher Sanctums|Locations The Watcher Sanctums
 - [Maintece_Supervisor_Tide_Fixwright|Maintece Supervisor Tide Fixwright]]
-- [[Maintenance_Schedule_|Maintenance Schedule 
+- [[Maintenance_Schedule_|Maintenance Schedule
 - [Maintenance_Supplies|Maintenance Supplies]]
 - [[Major_Trading_Companies (02_Worldbuilding)|Major Trading Companies (02 Worldbuilding)
 - [Maps (02_Worldbuilding)|Maps (02 Worldbuilding)]]

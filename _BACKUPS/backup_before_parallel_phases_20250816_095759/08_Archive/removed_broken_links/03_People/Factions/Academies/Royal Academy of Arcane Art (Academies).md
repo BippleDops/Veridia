@@ -2,7 +2,7 @@
 
 title: Royal Academy of Arcane Art
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

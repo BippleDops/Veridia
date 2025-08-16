@@ -2,7 +2,7 @@
 
 title: Guild of Cross Realm Navigators
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

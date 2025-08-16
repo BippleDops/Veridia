@@ -2,7 +2,7 @@
 
 title: Princess Lyralei
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

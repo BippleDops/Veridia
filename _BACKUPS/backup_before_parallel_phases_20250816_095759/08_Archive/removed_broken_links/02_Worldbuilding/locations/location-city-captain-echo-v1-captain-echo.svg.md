@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city captain echo v1 captain echosvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: location city captain echo v1 captain echo.svg
 type: location

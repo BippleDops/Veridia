@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Bio Adaptation Crisis Quest the Bio
   Adaptation Crisis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the bio adaptation crisis quest
   the bio adaptation crisissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -189,7 +189,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

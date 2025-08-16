@@ -2,7 +2,7 @@
 
 title: The Sorrow Singers
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

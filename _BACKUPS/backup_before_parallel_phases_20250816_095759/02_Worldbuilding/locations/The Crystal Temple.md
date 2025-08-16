@@ -2,7 +2,7 @@
 
 title: The Crystal Temple
 type: location
-tags: 
+tags:
 - place
 - active
 - location

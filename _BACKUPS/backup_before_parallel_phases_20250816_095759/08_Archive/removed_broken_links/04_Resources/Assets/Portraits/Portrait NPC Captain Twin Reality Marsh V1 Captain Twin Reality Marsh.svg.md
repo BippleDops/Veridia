@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain twin reality marsh v1 captain twin reality marshsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Twin Reality Marsh V1 Captain Twin Reality Marsh.svg
 type: npc

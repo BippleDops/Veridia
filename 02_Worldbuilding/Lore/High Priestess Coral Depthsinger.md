@@ -2,7 +2,7 @@
 
 title: High Priestess [[Coral Depthsinger
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

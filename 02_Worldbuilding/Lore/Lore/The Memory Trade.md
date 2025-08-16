@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Memory Trade
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -112,5 +112,5 @@ improvements: 20
 ## References
 
 - [[02_Worldbuilding_Lore_The_Memory_Trade]]
-- 
-- 
+-
+-

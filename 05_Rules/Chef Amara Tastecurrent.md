@@ -2,7 +2,7 @@
 
 title: Chef Amara Tastecurrent
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - culinary-arts

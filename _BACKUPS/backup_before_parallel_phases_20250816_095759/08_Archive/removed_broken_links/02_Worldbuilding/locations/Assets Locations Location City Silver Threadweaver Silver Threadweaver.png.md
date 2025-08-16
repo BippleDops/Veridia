@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Silver Threadweaver Silver Threadweaver.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city silver threadweaver silver threadweaverpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

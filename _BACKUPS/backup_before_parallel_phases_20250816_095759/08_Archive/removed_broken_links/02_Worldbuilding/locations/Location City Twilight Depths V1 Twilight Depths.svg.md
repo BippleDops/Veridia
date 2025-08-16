@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city twilight depths v1 twilight depthssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Twilight Depths V1 Twilight Depths.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: [[Economic_Systems (D&D_References) Rules
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

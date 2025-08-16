@@ -2,7 +2,7 @@
 
 title: silver-bar-5-pound-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

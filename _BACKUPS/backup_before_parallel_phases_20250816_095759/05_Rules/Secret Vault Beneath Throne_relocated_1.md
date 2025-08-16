@@ -1,7 +1,7 @@
 ---
 title: Secret Vault Beneath Throne
 type: [[location
-tags: 
+tags:
 - access/secret
 - session-notes
 - status/complete

@@ -2,7 +2,7 @@
 
 title: Bundle of Sheet Music Representing the Lost
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

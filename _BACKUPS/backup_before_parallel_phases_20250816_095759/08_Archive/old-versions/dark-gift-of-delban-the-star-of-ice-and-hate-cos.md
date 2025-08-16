@@ -2,7 +2,7 @@
 
 title: dark-gift-of-delban-the-star-of-ice-and-hate-cos
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

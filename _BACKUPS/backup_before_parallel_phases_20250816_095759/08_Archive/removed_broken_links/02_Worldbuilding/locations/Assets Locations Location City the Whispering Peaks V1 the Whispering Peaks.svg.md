@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Whispering Peaks V1 the Whispering Peaks.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the whispering peaks v1 the whispering
   peakssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

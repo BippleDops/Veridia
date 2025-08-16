@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city quest the portal crisis quest the portal crisissvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Quest the Portal Crisis Quest the Portal Crisis.svg
 type: location

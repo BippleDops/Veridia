@@ -2,7 +2,7 @@
 
 title: Wind Rider Orders
 type: organization
-tags: 
+tags:
 - organization
 - guild
 created: '2025-08-14'
@@ -120,7 +120,7 @@ Wind Rider Orders is a secretive guild that influences significant aspects of po
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Councilor Tidal Balancekeeper
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location
@@ -186,7 +186,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

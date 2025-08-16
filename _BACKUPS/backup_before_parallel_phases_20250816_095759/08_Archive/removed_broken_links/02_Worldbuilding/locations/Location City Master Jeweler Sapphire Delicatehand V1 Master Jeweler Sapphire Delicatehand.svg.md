@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master jeweler sapphire delicatehand v1 master jeweler sapphire delicatehandsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Jeweler Sapphire Delicatehand V1 Master Jeweler Sapphire
   Delicatehand.svg

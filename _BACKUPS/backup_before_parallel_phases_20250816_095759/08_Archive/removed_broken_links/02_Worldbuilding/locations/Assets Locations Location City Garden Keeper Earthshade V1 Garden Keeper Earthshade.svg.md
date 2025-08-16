@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Garden Keeper Earthshade V1 Garden Keeper Earthshade.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city garden keeper earthshade v1 garden keeper
   earthshadesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: The Gilded Shard
 type: Location
-tags: 
+tags:
 - academy
 - status/complete
 - mechanics/magic
@@ -37,10 +37,10 @@ improvements: 20
 
 # The Gilded Shard
 
-**Type:** Magical Academy/Research Facility  
-**Location:** [[Aethermoor - Crystal Heights District  
-**Government:** Independent Institution under [The Crystal Throne]] charter  
-**Population:** ~800 (students, faculty, researchers, staff)  
+**Type:** Magical Academy/Research Facility
+**Location:** [[Aethermoor - Crystal Heights District
+**Government:** Independent Institution under [The Crystal Throne]] charter
+**Population:** ~800 (students, faculty, researchers, staff)
 **Notable Features:** Floating crystal spires, reality-bending workshops, temporal laboratories
 
 ## 🔧 Deep Evaluation Improvements
@@ -107,8 +107,8 @@ improvements: 20
 The Gilded Shard is [[Aethermoor's premier institution for crystal magic research and education. Built around a massive fragment of one of [The Seven Shards]], the academy floats above the Crystal Heights, its golden-veined spires rotating slowly as they channel and study arcane energies. Here, the brightest minds work to understand the fundamental forces that shape reality.
 
 ### The Central Spire - "The Heart"
-**Height:** 300 feet of pure crystal  
-**Core:** Houses the original [[Seven Shards fragment  
+**Height:** 300 feet of pure crystal
+**Core:** Houses the original [[Seven Shards fragment
 **Function:** Powers the entire complex and enables advanced magical research
 
 **Notable Areas:**
@@ -176,18 +176,18 @@ The Gilded Shard is [[Aethermoor's premier institution for crystal magic researc
 - **Graduate Researchers**: 5% - advanced students conducting original research
 
 ### Typical Student Schedule
-**Dawn (6:00 AM)**: Morning meditation and crystal attunement  
-**Morning (7:00-11:00 AM)**: Core magical theory classes  
-**Midday (12:00 PM)**: Communal lunch and social interaction  
-**Afternoon (1:00-5:00 PM)**: Practical workshops and laboratory time  
-**Evening (6:00-8:00 PM)**: Study groups and tutoring  
+**Dawn (6:00 AM)**: Morning meditation and crystal attunement
+**Morning (7:00-11:00 AM)**: Core magical theory classes
+**Midday (12:00 PM)**: Communal lunch and social interaction
+**Afternoon (1:00-5:00 PM)**: Practical workshops and laboratory time
+**Evening (6:00-8:00 PM)**: Study groups and tutoring
 **Night (9:00 PM)**: Personal research time and recreation
 
 ### Academy Traditions
-**The Crystal Calling**: Annual ceremony where first-year students bond with their focus crystals  
-**Convergence Week**: Mid-semester event where all spires work on collaborative projects  
-**The Great Exhibition**: End-of-year showcase of student achievements and research  
-**Night of Floating Lanterns**: Celebration honoring the academy's founding  
+**The Crystal Calling**: Annual ceremony where first-year students bond with their focus crystals
+**Convergence Week**: Mid-semester event where all spires work on collaborative projects
+**The Great Exhibition**: End-of-year showcase of student achievements and research
+**Night of Floating Lanterns**: Celebration honoring the academy's founding
 **The Silent Hour**: Daily period where all magic ceases for meditation and reflection
 
 ### Academic Services
@@ -288,10 +288,10 @@ The Gilded Shard is [[Aethermoor's premier institution for crystal magic researc
 - **Security Sweeps**: Regular investigations to root out security threats
 
 ### Current Major Projects
-**Project Resoce**: Attempting to communicate with other [[Seven Shards]] fragments  
-**The Unity Engine**: Device to merge different types of crystal magic  
-**Temporal Mapping**: Charting the flow of time around magical phenomena  
-**The Living Crystal**: Experiments in creating self-aware magical constructs  
+**Project Resoce**: Attempting to communicate with other [[Seven Shards]] fragments
+**The Unity Engine**: Device to merge different types of crystal magic
+**Temporal Mapping**: Charting the flow of time around magical phenomena
+**The Living Crystal**: Experiments in creating self-aware magical constructs
 **Dimensional Cartography**: Mapping connections between different planes of existence
 
 ### Dangerous Experiments
@@ -303,52 +303,52 @@ The Gilded Shard is [[Aethermoor's premier institution for crystal magic researc
 > - **The God Engine**: Attempt to create artificial divinity
 
 ### Internal Factions
-**The Purists**: Believe crystal magic should remain separate from other magical traditions  
-**The Integrationists**: Want to combine crystal magic with all other forms of magic  
-**The Militarists**: Focus on combat applications and serving [[The Crystal Throne  
-**The Scholars**: Prioritize pure research over practical applications  
+**The Purists**: Believe crystal magic should remain separate from other magical traditions
+**The Integrationists**: Want to combine crystal magic with all other forms of magic
+**The Militarists**: Focus on combat applications and serving [[The Crystal Throne
+**The Scholars**: Prioritize pure research over practical applications
 **The Reformers**: Seek to make magical education more accessible to common people
 
 ### External Relations
-**[The Crystal Throne]]**: Primary patron and source of authority  
+**[The Crystal Throne]]**: Primary patron and source of authority
 - Provides funding and political protection
 - Expects military applications and trained battle-mages
 - Sometimes conflicts with academic freedom
 
-**[[Aquabyssos Institutions**: Cautious cooperation  
+**[[Aquabyssos Institutions**: Cautious cooperation
 - Exchange programs with [Memory Farmers]] and other magical researchers
 - Shared research on dimensional barriers and realm connections
 - Tension over potential military applications
 
-**Other Magical Academies**: Professional rivalry  
+**Other Magical Academies**: Professional rivalry
 - Competition for talented students and research grants
 - Collaboration on projects too large for single institutions
 - Academic conferences and knowledge exchange
 
-**[[Parliament of Echoes**: Political oversight  
+**[[Parliament of Echoes**: Political oversight
 - Government regulation of dangerous magical research
 - Funding approval for major projects
 - Ethical oversight and academic freedom tensions
 
-**[The Depth Wardens]]**: Military cooperation  
+**[The Depth Wardens]]**: Military cooperation
 - Joint training programs for combat mages
 - Shared research on underwater magic applications
 - Intelligence sharing about magical threats
 
-**[[The Sunken Bazaar**: Commercial partnership  
+**[[The Sunken Bazaar**: Commercial partnership
 - Primary source for rare magical components
 - Market for academy-developed magical items
 - Economic support through research commissions
 
-**[The Coral Gardens]]**: Environmental research  
+**[The Coral Gardens]]**: Environmental research
 - Collaborative studies on natural magic
 - Shared research on biological-magical interactions
 - Environmental impact assessments of magical experiments
 
 ### The Under-Spire
-**Location**: Beneath the Foundation Plaza, accessible only through secret passages  
-**Contents**: Failed experiments, dangerous prototypes, and sealed research  
-**Guardians**: Automated constructs and magical traps  
+**Location**: Beneath the Foundation Plaza, accessible only through secret passages
+**Contents**: Failed experiments, dangerous prototypes, and sealed research
+**Guardians**: Automated constructs and magical traps
 **Rumored Contents**:
 - The first attempt at creating artificial [[Seven Shards fragments
 - Preserved bodies of researchers who died in magical accidents
@@ -356,17 +356,17 @@ The Gilded Shard is [[Aethermoor's premier institution for crystal magic researc
 - Gateways to planes that should never be accessed
 
 ### The Professor's Secret
-**Truth**: [Professor Aldric Crystalweaver]] is actually over 200 years old  
-**Method**: Uses crystal magic to maintain youth and extend lifespan  
-**Cost**: Each renewal requires the magical energy equivalent to a human soul  
-**Source**: He's been secretly draining small amounts from every student  
+**Truth**: [Professor Aldric Crystalweaver]] is actually over 200 years old
+**Method**: Uses crystal magic to maintain youth and extend lifespan
+**Cost**: Each renewal requires the magical energy equivalent to a human soul
+**Source**: He's been secretly draining small amounts from every student
 **Risk**: If discovered, would destroy his reputation and the academy's credibility
 
 ### The Real Seventh Spire
-**Hidden Truth**: The Deep Spire is actually the eighth spire  
-**The Real Seventh**: Exists in a parallel dimension, accessed through special rituals  
-**Contents**: Research deemed too dangerous for even the "forbidden" areas  
-**Projects**: Reality manipulation, divine ascension, universal destruction  
+**Hidden Truth**: The Deep Spire is actually the eighth spire
+**The Real Seventh**: Exists in a parallel dimension, accessed through special rituals
+**Contents**: Research deemed too dangerous for even the "forbidden" areas
+**Projects**: Reality manipulation, divine ascension, universal destruction
 **Guardians**: Entities that exist partially outside normal space-time
 
 ### The Convergence Engine
@@ -377,9 +377,9 @@ The Gilded Shard is [[Aethermoor's premier institution for crystal magic researc
 **Knowledge**: Only [Professor Aldric Crystalweaver]] and two trusted assistants know of its existence
 
 ### The Crystal Garden (Central Courtyard)
-**Description**: Open area where different types of crystals grow in carefully tended plots  
-**Function**: Living laboratory for studying crystal growth and interaction  
-**Features**: 
+**Description**: Open area where different types of crystals grow in carefully tended plots
+**Function**: Living laboratory for studying crystal growth and interaction
+**Features**:
 - Musical crystals that create harmonious melodies
 - Memory crystals preserving important academy history
 - Healing crystals that cure minor injuries and ailments
@@ -387,16 +387,16 @@ The Gilded Shard is [[Aethermoor's premier institution for crystal magic researc
 - Temporal crystals that show glimpses of past and future
 
 ### The Great Auditorium (Sky Spire)
-**Capacity**: 2,000 people  
-**Features**: Perfect acoustics enhanced by crystal resoce  
-**Events**: Major lectures, ceremonies, and public demonstrations  
+**Capacity**: 2,000 people
+**Features**: Perfect acoustics enhanced by crystal resoce
+**Events**: Major lectures, ceremonies, and public demonstrations
 **Special Property**: Sound spoken here can be heard clearly anywhere in the academy
 
 ### The Forbidden Library (Deep Spire)
-**Access**: Restricted to senior faculty and authorized researchers  
-**Contents**: Dangerous knowledge, evil spells, and corrupted research  
-**Protection**: Multiple layers of magical and physical security  
-**Rumored Books**: 
+**Access**: Restricted to senior faculty and authorized researchers
+**Contents**: Dangerous knowledge, evil spells, and corrupted research
+**Protection**: Multiple layers of magical and physical security
+**Rumored Books**:
 - "The Theorem of Soul Dissolution"
 - "Practices in Divine Murder"
  - "The Engineering of Reality Collapse"
@@ -506,7 +506,7 @@ The Gilded Shard is [[Aethermoor's premier institution for crystal magic researc
 5. Hidden or secret areas
 
 ### Adventure Hooks by Level
-**Levels 1-4**: 
+**Levels 1-4**:
 - Student initiation ceremonies gone wrong
 - Investigate missing magical components
 - Protect visiting scholars from academic rivals
@@ -636,7 +636,7 @@ Ongoing situations affecting The Gilded Shard:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

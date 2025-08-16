@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Merchant Captain Trade Merchant Captain Trade.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc merchant captain trade merchant captain
   tradesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -199,7 +199,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

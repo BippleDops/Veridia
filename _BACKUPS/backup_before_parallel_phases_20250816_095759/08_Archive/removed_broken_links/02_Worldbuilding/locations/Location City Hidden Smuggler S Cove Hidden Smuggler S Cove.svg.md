@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city hidden smuggler s cove hidden smuggler s covesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Hidden Smuggler S Cove Hidden Smuggler S Cove.svg
 type: location

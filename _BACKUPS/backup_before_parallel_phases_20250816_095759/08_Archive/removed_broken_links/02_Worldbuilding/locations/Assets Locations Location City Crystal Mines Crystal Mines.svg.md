@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crystal Mines Crystal Mines.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal mines crystal minessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Mentioned in The First Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

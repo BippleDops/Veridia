@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Architects of Depths the Architects of Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the architects of depths the architects
   of depthssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Port Shadowmere V1 Port Shadowmere.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port shadowmere v1 port shadowmeresvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

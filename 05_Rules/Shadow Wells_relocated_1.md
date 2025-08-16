@@ -2,7 +2,7 @@
 
 title: Shadow Wells
 type: [[location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - quest
@@ -110,8 +110,8 @@ Shadow Wells are mysterious phenomena scattered throughout [Aquabyssos]], appear
 
 #### The Despair Depths
 
-**Location**: Deepest oceanic trenches near [[Hadal Depths|The [Hadal Depths]]]]  
-**Count**: ~50 Wells  
+**Location**: Deepest oceanic trenches near [[Hadal Depths|The [Hadal Depths]]]]
+**Count**: ~50 Wells
 **Manifestations**: Existential dread, cosmic loneliness, fear of meaninglessness
 - **The Void Well**: Largest Well producing entities of pure nihilism
 - **Abandonment Springs**: Sources of beings representing fear of isolation
@@ -119,8 +119,8 @@ Shadow Wells are mysterious phenomena scattered throughout [Aquabyssos]], appear
 
 #### The Trauma Gardens
 
-**Location**: Mid-depth regions throughout Aquabyssos  
-**Count**: ~200 Wells  
+**Location**: Mid-depth regions throughout Aquabyssos
+**Count**: ~200 Wells
 **Manifestations**: Personal and collective traumatic experiences
 - **War Memorial Wells**: Produce phantoms of battlefield horrors
 - **Loss Lagoons**: Manifest grief over death and separation
@@ -128,8 +128,8 @@ Shadow Wells are mysterious phenomena scattered throughout [Aquabyssos]], appear
 
 #### The Anxiety Fields
 
-**Location**: Shallower waters near populated areas  
-**Count**: ~300 Wells  
+**Location**: Shallower waters near populated areas
+**Count**: ~300 Wells
 **Manifestations**: Daily fears and social anxieties
 - **Failure Fountains**: Creatures embodying fear of inadequacy
 - **Judgment Pools**: Entities representing social criticism and rejection
@@ -137,8 +137,8 @@ Shadow Wells are mysterious phenomena scattered throughout [Aquabyssos]], appear
 
 #### The Ancient Sorrows
 
-**Location**: Historical sites and ruins  
-**Count**: ~75 Wells  
+**Location**: Historical sites and ruins
+**Count**: ~75 Wells
 **Manifestations**: Primordial fears and cosmic-scale grief
 - **The First Fear**: Original terror from universe's creation
 - **Evolution's Regret**: Sorrow over necessary but painful development
@@ -247,7 +247,7 @@ Ongoing situations affecting Shadow Wells:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

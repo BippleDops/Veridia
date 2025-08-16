@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Pilgrimage Coordinators V1 Pilgrimage Coordinators.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pilgrimage coordinators v1 pilgrimage
   coordinatorssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

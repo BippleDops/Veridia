@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Diplomatic Service Diplomatic Service.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city diplomatic service diplomatic servicesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

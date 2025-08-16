@@ -1,7 +1,7 @@
 ---
 title: Royal Archives
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - active

@@ -2,7 +2,7 @@
 
 title: Keeper Aquaeous Depth Scholar
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

@@ -2,7 +2,7 @@
 
 title: Wind Song Traditions
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

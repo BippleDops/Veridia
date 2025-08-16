@@ -2,7 +2,7 @@
 
 title: Singing [[Coral
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

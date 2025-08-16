@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc shadow guard units v1 shadow guard unitssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Shadow Guard Units V1 Shadow Guard Units.svg
 type: npc

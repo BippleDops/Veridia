@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc underground testing facility v1 underground testing facilitysvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Underground Testing Facility V1 Underground Testing Facility.svg
 type: npc

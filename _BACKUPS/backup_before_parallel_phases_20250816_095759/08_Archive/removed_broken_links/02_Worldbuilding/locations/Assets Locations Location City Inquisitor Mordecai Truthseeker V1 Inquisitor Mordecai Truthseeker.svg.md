@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Inquisitor Mordecai Truthseeker V1 Inquisitor
   Mordecai Truthseeker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city inquisitor mordecai truthseeker v1 inquisitor
   mordecai truthseekersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

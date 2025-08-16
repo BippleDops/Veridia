@@ -2,7 +2,7 @@
 
 title: Reality Anchor Ring
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

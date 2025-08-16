@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city chancellor s advisory council chancellor s advisory councilsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Chancellor S Advisory Council Chancellor S Advisory Council.svg
 type: location

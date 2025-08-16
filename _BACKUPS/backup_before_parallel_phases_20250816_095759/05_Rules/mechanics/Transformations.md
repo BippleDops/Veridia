@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Transformations
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

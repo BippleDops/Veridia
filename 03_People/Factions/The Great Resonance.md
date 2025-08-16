@@ -2,7 +2,7 @@
 
 title: The Great Resoce
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -2,7 +2,7 @@
 
 title: The Liminal Space
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

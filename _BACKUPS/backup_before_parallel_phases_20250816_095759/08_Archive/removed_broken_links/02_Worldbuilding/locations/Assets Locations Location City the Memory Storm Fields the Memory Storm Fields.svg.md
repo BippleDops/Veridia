@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Memory Storm Fields the Memory Storm Fields.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the memory storm fields the memory storm
   fieldssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

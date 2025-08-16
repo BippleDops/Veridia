@@ -2,7 +2,7 @@
 
 title: Scribe Master Elena Truthkeeper
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]
@@ -179,7 +179,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

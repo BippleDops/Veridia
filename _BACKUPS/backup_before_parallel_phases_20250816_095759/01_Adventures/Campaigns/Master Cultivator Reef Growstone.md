@@ -2,7 +2,7 @@
 
 title: Master Cultivator Reef Growstone
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

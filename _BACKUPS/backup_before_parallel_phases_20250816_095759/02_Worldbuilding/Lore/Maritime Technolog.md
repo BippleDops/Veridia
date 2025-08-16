@@ -2,7 +2,7 @@
 
 title: Mari[[Time Technolog
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - historical-event

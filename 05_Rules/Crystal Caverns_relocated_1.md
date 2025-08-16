@@ -2,7 +2,7 @@
 
 title: Crystal Caverns
 type: [[location
-tags: 
+tags:
 - aerial
 - aquatic
 - content/location
@@ -31,7 +31,7 @@ access_restrictions: Magical wards, natural hazards, crystal guardians
 danger_level: High
 depth: 200-2000 feet underground
 location_type: Underground Crystal Formation
-notable_resources: 
+notable_resources:
 - Pure [[Aether Crystals
 - Crystal Songs
 - [Memory Crystals]]
@@ -397,7 +397,7 @@ Crystal Caverns was established in the distant past, growing from humble beginni
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

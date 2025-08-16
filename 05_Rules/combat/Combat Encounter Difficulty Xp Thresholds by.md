@@ -2,7 +2,7 @@
 
 title: Combat Encounter Difficulty Xp Thresholds by
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

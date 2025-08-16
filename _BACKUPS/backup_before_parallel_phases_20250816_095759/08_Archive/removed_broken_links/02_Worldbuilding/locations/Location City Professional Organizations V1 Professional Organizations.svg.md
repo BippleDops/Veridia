@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city professional organizations v1 professional organizationssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Professional Organizations V1 Professional Organizations.svg
 type: location

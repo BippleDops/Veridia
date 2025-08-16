@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the royal treasury depths v2 the royal treasury depthssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Royal Treasury Depths V2 the Royal Treasury Depths.svg
 type: npc

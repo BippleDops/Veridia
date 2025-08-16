@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Echo Truthseer V1 Echo Truthseer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city echo truthseer v1 echo truthseersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Gallery of Echoing Truths
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

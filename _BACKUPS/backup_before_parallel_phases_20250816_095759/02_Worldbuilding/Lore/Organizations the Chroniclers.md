@@ -2,7 +2,7 @@
 
 title: [[Organizations [The Chronicler]]s
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

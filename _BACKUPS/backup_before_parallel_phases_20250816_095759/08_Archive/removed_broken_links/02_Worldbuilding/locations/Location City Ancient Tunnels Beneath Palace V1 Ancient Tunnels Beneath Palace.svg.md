@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city ancient tunnels beneath palace v1 ancient tunnels beneath palacesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Ancient Tunnels Beneath Palace V1 Ancient Tunnels Beneath Palace.svg
 type: location

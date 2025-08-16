@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Crystal Caves V1 the Crystal Caves.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal caves v1 the crystal cavessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -205,7 +205,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Marquis Aldwin Goldcurrent
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -156,7 +156,7 @@ Ongoing situations affecting Marquis Aldwin Goldcurrent:
 - **Undead**: skeleton
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 3
-  
+
 ### [[Environmental Hazards
 - Collapsing ceiling
 - **DC 11** to detect
@@ -174,7 +174,7 @@ Ongoing situations affecting Marquis Aldwin Goldcurrent:
 - **Recent History**: Plague 34 years ago
 - **Living Memory**: Wedding last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Election in 21 days
 - **Brewing Conflict**: Succession
 - **Prophecy Connection**: [Link]]s to The Hidden Prophecy of Shadows

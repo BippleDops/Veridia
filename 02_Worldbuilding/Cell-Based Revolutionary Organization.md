@@ -2,7 +2,7 @@
 
 title: Cell Based Revolutionary Organization
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

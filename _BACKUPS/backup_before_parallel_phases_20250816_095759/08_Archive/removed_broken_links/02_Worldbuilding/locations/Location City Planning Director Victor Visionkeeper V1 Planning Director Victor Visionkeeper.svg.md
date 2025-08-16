@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city planning director victor visionkeeper v1 planning director victor
   visionkeepersvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Planning Director Victor Visionkeeper V1 Planning Director Victor
   Visionkeeper.svg

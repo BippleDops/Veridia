@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Port Meridian V1 Port Meridian.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port meridian v1 port meridiansvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

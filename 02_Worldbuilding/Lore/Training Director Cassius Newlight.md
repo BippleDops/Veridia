@@ -2,7 +2,7 @@
 
 title: Training Director Cassius Newlight
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

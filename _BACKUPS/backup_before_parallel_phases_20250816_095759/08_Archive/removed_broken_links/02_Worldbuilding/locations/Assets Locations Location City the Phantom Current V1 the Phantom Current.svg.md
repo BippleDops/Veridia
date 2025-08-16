@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Phantom Current V1 the Phantom Current.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the phantom current v1 the phantom currentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

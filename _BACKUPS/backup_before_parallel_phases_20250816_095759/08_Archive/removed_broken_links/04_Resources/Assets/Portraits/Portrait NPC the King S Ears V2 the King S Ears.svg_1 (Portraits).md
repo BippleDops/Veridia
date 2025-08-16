@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the king s ears v2 the king s earssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the King S Ears V2 the King S Ears.svg
 type: npc

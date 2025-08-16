@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Inverse Palace V1 Inverse Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city inverse palace v1 inverse palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

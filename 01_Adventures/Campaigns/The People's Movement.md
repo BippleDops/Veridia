@@ -2,7 +2,7 @@
 
 title: The [[People's Movement
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aethermoor
 - faction

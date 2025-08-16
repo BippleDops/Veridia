@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Regional Courts V1 Regional Courts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city regional courts v1 regional courtssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

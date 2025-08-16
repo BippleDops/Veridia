@@ -2,7 +2,7 @@
 
 title: Anatomy Master Dr Vera Shadowbody
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

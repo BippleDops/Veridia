@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Purist Coalition Thugs Purist Coalition Thugs.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry purist coalition thugs purist coalition
   thugssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Diplomatic Quarter V1 the Diplomatic Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the diplomatic quarter v1 the diplomatic
   quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

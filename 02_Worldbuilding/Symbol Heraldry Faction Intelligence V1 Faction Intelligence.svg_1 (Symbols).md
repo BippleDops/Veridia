@@ -2,7 +2,7 @@
 
 title: Symbol Heraldry Faction Intelligence V1 Faction Intelligence.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

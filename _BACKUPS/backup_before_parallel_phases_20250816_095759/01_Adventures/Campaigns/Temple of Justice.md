@@ -2,7 +2,7 @@
 
 title: Temple of Justice
 type: Location
-tags: 
+tags:
 - content/location
 - place
 - world/aethermoor

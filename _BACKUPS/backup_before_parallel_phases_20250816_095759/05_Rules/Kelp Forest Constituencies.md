@@ -2,7 +2,7 @@
 
 title: [[Kelp Forest Constituencies
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -157,7 +157,7 @@ Ongoing situations affecting Kelp Forest Constituencies:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location
@@ -30,9 +30,9 @@ What makes these facilities particularly insidious is their integration with leg
 ### Primary Surgical Sanctums (4 Major Facilities)
 
 #### The Deep Ward - Tenebrarum
-**Location**: Sublevel 7 beneath Mercy General Hospital  
-**Depth**: 4,200 feet  
-**Capacity**: 300 surgical beds, 1,000 preservation tanks  
+**Location**: Sublevel 7 beneath Mercy General Hospital
+**Depth**: 4,200 feet
+**Capacity**: 300 surgical beds, 1,000 preservation tanks
 **Specialization**: Mass prototype production and consciousness mapping
 
 The flagship facility of the shadow surgery program, The Deep Ward houses the most advanced equipment and the Surgeon Prime's personal laboratory. The facility extends through seven sublevels, each serving a specific function in the identity replacement process. Surgical amphitheaters carved from living coral provide perfect acoustics for the resonance procedures that separate soul from shadow.
@@ -45,9 +45,9 @@ The flagship facility of the shadow surgery program, The Deep Ward houses the mo
 - Surgical tools that seem to whisper when touched
 
 #### The Sanctum of Silent Healing - Crystallium
-**Location**: Hidden beneath the Crystal Spires Medical Complex  
-**Depth**: 3,800 feet  
-**Capacity**: 150 surgical beds, 500 preservation tanks  
+**Location**: Hidden beneath the Crystal Spires Medical Complex
+**Depth**: 3,800 feet
+**Capacity**: 150 surgical beds, 500 preservation tanks
 **Specialization**: High-value target replacements and political infiltration
 
 This facility focuses on replacing influential figures - nobles, merchants, government officials, and religious leaders. The surgical suites are disguised as private recovery rooms, allowing victims to believe they're receiving premium medical care while undergoing consciousness transfer.
@@ -58,10 +58,10 @@ This facility focuses on replacing influential figures - nobles, merchants, gove
 - VIP recovery suites with mind-control dampening fields
 - Direct pneumatic tube system to the Crystal Parliament building
 
-#### The Restoration Chambers - Port Meridian  
-**Location**: Abandoned submarine pen beneath the harbor  
-**Depth**: 2,100 feet  
-**Capacity**: 80 surgical beds, 200 preservation tanks  
+#### The Restoration Chambers - Port Meridian
+**Location**: Abandoned submarine pen beneath the harbor
+**Depth**: 2,100 feet
+**Capacity**: 80 surgical beds, 200 preservation tanks
 **Specialization**: Emergency procedures and shadow repair
 
 The most mobile of the major facilities, designed for rapid deployment and quick procedures. When shadow operatives are damaged or discovered, they're brought here for emergency identity repairs or complete personality overhauls.
@@ -73,9 +73,9 @@ The most mobile of the major facilities, designed for rapid deployment and quick
 - Emergency memory wipe stations for compromised agents
 
 #### The Garden of Whispers - New Tidehaven
-**Location**: Natural cavern system beneath the Botanical Research Institute  
-**Depth**: 3,600 feet  
-**Capacity**: 200 surgical beds, 800 preservation tanks  
+**Location**: Natural cavern system beneath the Botanical Research Institute
+**Depth**: 3,600 feet
+**Capacity**: 200 surgical beds, 800 preservation tanks
 **Specialization**: Child and adolescent procedures, next-generation shadow cultivation
 
 The most disturbing facility, dedicated to perfecting shadow surgery on younger subjects who adapt more readily to consciousness transfer. Disguised as a pediatric treatment center for rare diseases, it lures desperate families seeking miraculous cures.
@@ -91,7 +91,7 @@ The most disturbing facility, dedicated to perfecting shadow surgery on younger 
 Smaller operations hidden throughout Aquabyssos, each capable of handling 20-50 procedures simultaneously:
 
 - **The Quiet Clinic** (Bellhaven): Maritime worker replacement center
-- **Mercy's Shadow** (Seahaven): Religious figure infiltration facility  
+- **Mercy's Shadow** (Seahaven): Religious figure infiltration facility
 - **The Teaching Hospital** (Scholars' Bay): Academic and researcher replacement
 - **Silent Waters Retreat** (Coral Gardens): Wealthy patient "rehabilitation"
 - **The Deep Cure Institute** (Thermal Vents District): Experimental procedure testing
@@ -180,7 +180,7 @@ Regular maintenance procedures performed on existing shadow operatives to mainta
 - Mother Superior [Nerissa Compassion]] - preliminary consciousness mapping completed
 - Temple Guardian [[Brother Matthias - scheduled for selective memory harvest
 
-#### Merchant and Trade Leaders  
+#### Merchant and Trade Leaders
 - **Selection Criteria**: Economic influence, resource control, trade route access
 - **Infiltration Value**: Medium-High - economic manipulation, supply chain control
 - **Difficulty**: Medium - motivated by profit, less ideologically resistant
@@ -208,7 +208,7 @@ Individuals with unique skills, knowledge, or access required for specific opera
 ### Victim Processing Pipeline
 
 #### Stage 1: Identification and Surveillance (2-6 months)
-- Background investigation and vulnerability assessment  
+- Background investigation and vulnerability assessment
 - Social network mapping and relationship analysis
 - Daily routine establishment and security evaluation
 - Psychological profile development for shadow personality creation
@@ -234,7 +234,7 @@ Individuals with unique skills, knowledge, or access required for specific opera
 #### Stage 5: Integration and Monitoring (Ongoing)
 - Shadow deployment into target's normal life
 - Continuous performance monitoring and behavioral adjustment
-- Regular maintenance procedures and memory updates  
+- Regular maintenance procedures and memory updates
 - Long-term mission assignment and operational integration
 
 ## Security Measures & Countermeasures
@@ -249,7 +249,7 @@ Individuals with unique skills, knowledge, or access required for specific opera
 
 #### Personnel Security
 - All staff undergo loyalty procedures ensuring absolute obedience
-- Regular memory audits to prevent information leakage  
+- Regular memory audits to prevent information leakage
 - Psychological conditioning to view replacement as merciful evolution
 - Termination protocols for staff showing signs of moral resistance
 

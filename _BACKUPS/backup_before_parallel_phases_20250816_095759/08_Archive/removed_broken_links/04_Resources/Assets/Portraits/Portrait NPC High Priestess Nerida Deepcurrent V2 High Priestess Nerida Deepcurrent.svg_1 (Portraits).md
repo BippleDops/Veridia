@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high priestess nerida deepcurrent v2 high priestess nerida deepcurrentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Priestess Nerida Deepcurrent V2 High Priestess Nerida Deepcurrent.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: Inter-Species Relations Division
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

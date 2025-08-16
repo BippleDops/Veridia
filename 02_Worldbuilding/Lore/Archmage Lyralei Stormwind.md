@@ -2,7 +2,7 @@
 
 title: Archmage Lyralei Stormwind
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

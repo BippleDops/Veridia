@@ -2,7 +2,7 @@
 
 title: Identify Important Npcs Adventure Patrons
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

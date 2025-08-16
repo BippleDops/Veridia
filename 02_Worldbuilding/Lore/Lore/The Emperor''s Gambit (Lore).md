@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Emperor''s Gambit
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy
@@ -113,7 +113,7 @@ Mentioned in The First Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

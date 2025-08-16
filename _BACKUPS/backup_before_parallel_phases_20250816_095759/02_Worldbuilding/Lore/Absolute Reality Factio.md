@@ -2,7 +2,7 @@
 
 title: Absolute Reality Factio
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

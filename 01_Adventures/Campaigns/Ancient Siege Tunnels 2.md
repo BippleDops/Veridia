@@ -4,13 +4,13 @@ created: '2025-08-09'
 current_status: Partially Collapsed, Some Sections Active
 danger_level: 7
 era: The Continental Wars
-related_entities: 
+related_entities:
 - '[02_Worldbuilding/Lore/Continental War]]'
 - '[[02_Worldbuilding/Places/Port Meridian'
 - '[02_Worldbuilding/Places/Crystalhaven]]'
 - '[[02_Worldbuilding/Places/Ironhold'
 status: draft
-tags: 
+tags:
 - aethermoor
 - content/location
 - content/lore
@@ -147,7 +147,7 @@ The ancient engineers employed three distinct tunnel types:
 
 **Ancient Guardians**: Crystal golems and mechanical constructs still defending key areas
 **Criminal Organizations**: [02_Worldbuilding/Groups/Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] members and smuggling rings
-**Tunnel Rats**: Survivors who've adapted to permanent underground life  
+**Tunnel Rats**: Survivors who've adapted to permanent underground life
 **Undead Soldiers**: Spirits of those who died in the tunnels during the wars
 **Aberrant Creatures**: Things that have crept up from deeper caves
 **Rogue Archaeologists**: Scholars seeking forbidden military knowledge
@@ -184,7 +184,7 @@ The tunnel network remains strategically vital for:
 
 The Ancient Siege Tunnels serve as:
 - Highways for covert operations and intrigue
-- Repositories of ancient knowledge and artifacts  
+- Repositories of ancient knowledge and artifacts
 - Battlegrounds between competing factions
 - Links connecting separate story threads across multiple cities
 - Sources of historical context for current political tensions

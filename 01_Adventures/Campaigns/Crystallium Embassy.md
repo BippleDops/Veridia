@@ -2,7 +2,7 @@
 
 title: [[Crystallium Embassy
 type: [location]]
-tags: 
+tags:
 - mechanics/social
 - [[Aquabyssos
 - technology

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Sister Morwyn Veilkeeper Sister Morwyn Veilkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc sister morwyn veilkeeper sister morwyn
   veilkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

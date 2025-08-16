@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Shipwreck Cove V1 Shipwreck Cove.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shipwreck cove v1 shipwreck covesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

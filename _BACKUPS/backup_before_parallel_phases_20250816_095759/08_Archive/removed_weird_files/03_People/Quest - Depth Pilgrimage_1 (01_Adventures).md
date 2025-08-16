@@ -91,7 +91,7 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: 
+- **Motivation**:
 *The [texture] surface feels [description] to the touch.*Community safety ## Objectives
 
 ### Primary {#primary}

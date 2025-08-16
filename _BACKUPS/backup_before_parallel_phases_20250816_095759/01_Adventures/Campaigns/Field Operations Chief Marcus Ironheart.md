@@ -2,7 +2,7 @@
 
 title: Field Operations Chief Marcus Ironheart
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

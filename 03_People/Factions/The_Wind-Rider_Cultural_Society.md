@@ -2,7 +2,7 @@
 
 title: The Wind Rider Cultural Society
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc pirate captain blacktide pirate captain blacktidesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Pirate Captain Blacktide Pirate Captain Blacktide.svg
 type: npc

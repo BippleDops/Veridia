@@ -2,7 +2,7 @@
 
 title: monster-conversions-stat-block-conversions-xmm
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

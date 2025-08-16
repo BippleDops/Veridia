@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city breaking the deep v1 breaking the deepsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Breaking the Deep V1 Breaking the Deep.svg
 type: location

@@ -4,7 +4,7 @@
 
 ## All Sessions
 ```dataview
-TABLE 
+TABLE
   session_number as "Session",
   campaign as "Campaign",
   date as "Date",
@@ -16,7 +16,7 @@ SORT campaign, session_number ASC
 
 ## Recent Sessions
 ```dataview
-TABLE 
+TABLE
   file.link as "Session",
   campaign as "Campaign",
   session_number as "#"
@@ -28,7 +28,7 @@ LIMIT 10
 
 ## Sessions by Campaign
 ```dataview
-TABLE 
+TABLE
   session_number as "#",
   date as "Date",
   status as "Status"

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Heart of Eternal Vigilance Heart of Eternal
   Vigilance.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city heart of eternal vigilance heart of
   eternal vigilancesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

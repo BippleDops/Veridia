@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chronicle Keeper Sage Deepmemory V1 Chronicle
   Keeper Sage Deepmemory.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chronicle keeper sage deepmemory v1
   chronicle keeper sage deepmemorysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

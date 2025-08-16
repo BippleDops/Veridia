@@ -2,7 +2,7 @@
 
 title: Maestro Finn Whirlstep
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

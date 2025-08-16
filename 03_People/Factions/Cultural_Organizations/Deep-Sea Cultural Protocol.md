@@ -2,7 +2,7 @@
 
 title: Deep Sea Cultural Protocol
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc marina red tide coralheart marina red
   tide coralheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

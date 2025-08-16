@@ -2,7 +2,7 @@
 
 title: Anti Smuggling Operations
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -200,7 +200,7 @@ Ongoing situations affecting Anti-Smuggling Operations:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

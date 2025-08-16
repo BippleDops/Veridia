@@ -2,7 +2,7 @@
 
 title: The [[Drowned Prophets
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

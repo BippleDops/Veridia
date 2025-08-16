@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Wandering Atoll the Wandering Atoll.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the wandering atoll the wandering atollsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

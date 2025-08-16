@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temporal Viewing Chambers V1 Temporal Viewing
   Chambers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temporal viewing chambers v1 temporal
   viewing chamberssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -180,7 +180,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

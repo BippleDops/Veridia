@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc admiral lady cassandra stormwind v1 admiral lady cassandra stormwindsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Admiral Lady Cassandra Stormwind V1 Admiral Lady Cassandra Stormwind.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: Random [[Encounter Tables
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

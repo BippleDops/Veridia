@@ -2,7 +2,7 @@
 
 title: Memory Tides
 type: [[Lore
-tags: 
+tags:
 - lore
 - quest
 - active

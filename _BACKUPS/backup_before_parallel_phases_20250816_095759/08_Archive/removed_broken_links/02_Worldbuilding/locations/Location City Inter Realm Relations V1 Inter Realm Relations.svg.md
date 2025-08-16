@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city inter realm relations v1 inter realm relationssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Inter Realm Relations V1 Inter Realm Relations.svg
 type: location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper of crowns lydia starfall keeper of crowns lydia starfallsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper of Crowns Lydia Starfall Keeper of Crowns Lydia Starfall.svg
 type: location

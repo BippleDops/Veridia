@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-master-finn-liquidlight-v1-master-finn-liquidlight.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

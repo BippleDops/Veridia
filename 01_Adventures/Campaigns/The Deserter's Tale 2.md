@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: draft
-tags: 
+tags:
 - aquabyssos
 - completed
 - dual
@@ -11,12 +11,12 @@ tags:
 - honor
 - lore
 world: dual
-connections: 
+connections:
 - 'Pressure''S End'
 - 'Honor Guard'
 - '[[02_Worldbuilding/Lore/Deep Mother'
 - '[02_Worldbuilding/People/The Tidal Council]]'
-themes: 
+themes:
 - betrayal
 - redemption
 - duty_vs_survival
@@ -50,7 +50,7 @@ The [[02_Worldbuilding/Lore/Tidal Council branded him a deserter when his unit r
 
 Captain Nereon abandoned his post during the Deep Watch incident, forcing his subordinates to complete the mission without proper leadership. His cowardice resulted in the loss of three guardsmen and compromised security protocols. His name is stricken from honor rolls by order of the [02_Worldbuilding/Lore/Tidal Council]].
 
-### The Survivors' Account  
+### The Survivors' Account
 *Whispered in military taverns*
 
 The captain saw something down there that broke lesser minds. Whatever was in those caves, it was changing people, making them into something else. Nereon saved us all by sealing himself in with those things. He's no deserter - he's the bravest soul who ever lived.

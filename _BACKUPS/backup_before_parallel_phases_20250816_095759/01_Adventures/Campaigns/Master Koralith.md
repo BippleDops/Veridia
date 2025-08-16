@@ -2,7 +2,7 @@
 
 title: Master Koralith
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

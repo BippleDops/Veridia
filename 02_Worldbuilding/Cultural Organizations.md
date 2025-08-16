@@ -2,7 +2,7 @@
 
 title: Cultural Organizations
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

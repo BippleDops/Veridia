@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Crystal Engineer Reef Sparkwright V1 Crystal
   Engineer Reef Sparkwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal engineer reef sparkwright v1
   crystal engineer reef sparkwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -172,7 +172,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

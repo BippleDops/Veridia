@@ -2,7 +2,7 @@
 
 title: Quartermaster Judith Supplycurrent
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -175,7 +175,7 @@ Mentioned in The First Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Memory Blade
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

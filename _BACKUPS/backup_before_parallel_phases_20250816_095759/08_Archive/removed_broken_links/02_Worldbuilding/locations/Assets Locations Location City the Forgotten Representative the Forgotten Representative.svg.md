@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Forgotten Representative the Forgotten Representative.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the forgotten representative the forgotten
   representativesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

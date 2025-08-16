@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Memory Meadows Black Market V1 the Memory
   Meadows Black Market.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the memory meadows black market v1 the
   memory meadows black marketsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

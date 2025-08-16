@@ -2,7 +2,7 @@
 
 title: Echo Translator Vera
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

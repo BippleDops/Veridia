@@ -2,7 +2,7 @@
 
 title: Black Market Deal
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - content/adventure
 - black_market

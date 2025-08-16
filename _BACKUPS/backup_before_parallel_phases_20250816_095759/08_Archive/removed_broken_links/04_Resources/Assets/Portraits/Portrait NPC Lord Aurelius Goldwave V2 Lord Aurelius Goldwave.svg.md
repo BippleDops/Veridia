@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord aurelius goldwave v2 lord aurelius goldwavesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Aurelius Goldwave V2 Lord Aurelius Goldwave.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Places
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -185,7 +185,7 @@ improvements: 20
 - [The Crystal Gardens_1 (02_Worldbuilding)]]
 - [[The Crystal Palace
 - [The Festival of Rising Tides]]
-- 
+-
 - [[The Recursion Nexus
 - [Throne Room]]
 - [[Whisper Touched William's Oracle Shrine
@@ -193,7 +193,7 @@ improvements: 20
 - [[_03_Mechanics_CLI_bestiary_humanoid_lorehold-pledgemage-scc
 - [_03_Mechanics_CLI_bestiary_npc_velomachus-lorehold-scc]]
 - [[sphinx-of-lore-xmm
-- 
+-
 - [Harbor Master Luna Freedrift]]
 - [[Compass Quest
 - [Coral Throne Syndicate HQ]]
@@ -226,7 +226,7 @@ improvements: 20
 - [[Coral Throne Syndicate HQ (D&D_References)
 - [The Crown (D&D_References)]]
 - [[Surface Signals (D&D_Statblocks)
-- 
+-
 - [The Great Drowning (D&D_Statblocks)]]
 - [[The Reflection Pools (D&D_Statblocks)
 - [VAULT_UPDATES]]

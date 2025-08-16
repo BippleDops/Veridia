@@ -2,7 +2,7 @@
 
 title: Police Chief Sarah Lawkeeper
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

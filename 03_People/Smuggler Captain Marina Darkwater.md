@@ -1,7 +1,7 @@
 ---
 title: Smuggler Captain Marina Darkwater
 type: npc
-tags: 
+tags:
 - npc
 - dwarf
 - rogue

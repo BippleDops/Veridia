@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lady victoria pennworth v1 lady victoria pennworthsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lady Victoria Pennworth V1 Lady Victoria Pennworth.svg
 type: npc

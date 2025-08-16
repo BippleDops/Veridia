@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sister Mourne Sister Mourne.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sister mourne sister mournesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

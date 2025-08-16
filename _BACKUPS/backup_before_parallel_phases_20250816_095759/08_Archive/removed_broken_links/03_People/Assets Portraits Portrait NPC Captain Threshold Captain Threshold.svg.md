@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Threshold Captain Threshold.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain threshold captain thresholdsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -202,7 +202,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

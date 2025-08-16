@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Depth Warden Patrol Depth Warden Patrol.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city depth warden patrol depth warden patrolsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Noble Compact
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-master-elena-preserver-v1-master-elena-preserver.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

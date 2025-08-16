@@ -2,7 +2,7 @@
 
 title: Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -101,7 +101,7 @@ improvements: 20
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

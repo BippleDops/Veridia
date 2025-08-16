@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city aboleth adjunct yzz v1 aboleth adjunct yzzsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Aboleth Adjunct Yzz V1 Aboleth Adjunct Yzz.svg
 type: location

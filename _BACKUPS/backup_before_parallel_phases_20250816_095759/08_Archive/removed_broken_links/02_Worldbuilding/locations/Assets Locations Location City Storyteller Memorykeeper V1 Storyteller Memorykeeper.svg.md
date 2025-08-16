@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Storyteller Memorykeeper V1 Storyteller Memorykeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city storyteller memorykeeper v1 storyteller
   memorykeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

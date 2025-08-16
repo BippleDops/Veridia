@@ -2,7 +2,7 @@
 
 title: Brother Thomas the Illuminated
 type: [[Lore
-tags: 
+tags:
 - lore
 - grand-cathedral
 - content/lore

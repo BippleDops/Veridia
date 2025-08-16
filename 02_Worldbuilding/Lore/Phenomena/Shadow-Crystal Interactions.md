@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Phenomena/Shadow-Crystal Interactions
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

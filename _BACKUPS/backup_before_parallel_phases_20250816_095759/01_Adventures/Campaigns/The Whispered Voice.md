@@ -2,7 +2,7 @@
 
 title: The Whispered Voice
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aethermoor]]
 - active

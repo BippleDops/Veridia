@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Port Meridian Medical Institute Port Meridian
   Medical Institute.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port meridian medical institute port
   meridian medical institutesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

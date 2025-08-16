@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city cora peaceweaver v1 cora peaceweaversvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Cora Peaceweaver V1 Cora Peaceweaver.svg
 type: location

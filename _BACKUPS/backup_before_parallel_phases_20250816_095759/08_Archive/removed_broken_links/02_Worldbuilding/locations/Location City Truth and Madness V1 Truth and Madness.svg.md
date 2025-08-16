@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city truth and madness v1 truth and madnesssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Truth and Madness V1 Truth and Madness.svg
 type: location

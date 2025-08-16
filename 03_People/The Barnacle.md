@@ -2,7 +2,7 @@
 
 title: The Barnacle
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -36,19 +36,19 @@ improvements: 20
 
 *Medium humanoid (aberrant merfolk), chaotic neutral*
 
-**Armor Class** 16 (Natural Armor + Symbiotic Shells)  
-**Hit Points** 85 (`dice: `dice: 8d10`` + 40)  
+**Armor Class** 16 (Natural Armor + Symbiotic Shells)
+**Hit Points** 85 (`dice: `dice: 8d10`` + 40)
 **Speed** 20 ft., swim 50 ft., climb 30 ft.
 
 **STR** 16 (+3) **DEX** 13 (+1) **CON** 20 (+5) **INT** 14 (+2) **WIS** 16 (+3) **CHA** 12 (+1)
 
-**Saving Throws** Con +8, Wis +6  
-**Skills** Nature +8, Perception +9, Survival +9, Investigation +5  
-**Damage Resistances** Acid, Bludgeoning (from symbiotic carapace)  
-**Damage Immunities** Disease  
-**Senses** Darkvision 60 ft., tremorsense 30 ft., passive Perception 19  
-**Languages** Common, Aquabyssan, Deep Speech, telepathy with sea creatures  
-**Challenge Rating** 8 (3,900 XP)  
+**Saving Throws** Con +8, Wis +6
+**Skills** Nature +8, Perception +9, Survival +9, Investigation +5
+**Damage Resistances** Acid, Bludgeoning (from symbiotic carapace)
+**Damage Immunities** Disease
+**Senses** Darkvision 60 ft., tremorsense 30 ft., passive Perception 19
+**Languages** Common, Aquabyssan, Deep Speech, telepathy with sea creatures
+**Challenge Rating** 8 (3,900 XP)
 **Proficiency Bonus** +3
 
 ## 🔧 Deep Evaluation Improvements
@@ -216,7 +216,7 @@ Crust dwells in the Symbiosis Depths, an area of the deep ocean where the bounda
 
 **Voice**: His voice has strange harmonic qualities, as if multiple creatures are speaking in unison. When agitated, clicking and chirping sounds mix with his words.
 
-**Speaking Patterns**: 
+**Speaking Patterns**:
 - "We have seen such wonders in the depths..."
 - "Adaptation is survival, and survival is beautiful..."
 - "The collective memory suggests..."
@@ -340,7 +340,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

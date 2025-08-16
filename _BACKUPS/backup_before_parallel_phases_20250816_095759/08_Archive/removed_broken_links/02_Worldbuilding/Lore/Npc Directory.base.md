@@ -1,9 +1,9 @@
 ---
 title: [[Npc Directory.base
-aliases: 
+aliases:
 - [02_Worldbuilding|02 Worldbuilding]] [[Lore NPC Directorybase
 type: lore
-tags: 
+tags:
 - lore
 - active
 - prophecy

@@ -2,7 +2,7 @@
 
 title: Memorial Stones
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

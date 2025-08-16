@@ -1,7 +1,7 @@
 ---
 title: The Recursion Cult
 type: Location
-tags: 
+tags:
 - both
 - status/complete
 - cult
@@ -30,7 +30,7 @@ current_state: Active temporal experiments
 danger_level: 8
 depth: 3200-3500 feet
 discovered: false
-factions: 
+factions:
 - '[[The Infinity Seekers'
 - '[Temporal Purists]]'
 - '[[The Loop Breaker|[The Loop Breakers]]'
@@ -38,7 +38,7 @@ factions:
 government: Theocratic Recursion Council
 location_name: The Recursion Cult Complex
 location_type: Temporal Cult Compound
-notable_[Npc]]s: 
+notable_[Npc]]s:
 - '[[Oracle|The Recursion [[Oracle|[02_Worldbuilding|02 Worldbuilding]]/People/The Recursion Oracle]]'
 - '[[Paradox Engineer Zeno'
 - '[Loop-Walker Celia]]'
@@ -47,14 +47,14 @@ obsidianUIMode: preview
 parent_location: '[Abyssos Prime]]'
 pressure_effects: Severe
 ruler: '[[The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle'
-services: 
+services:
 - [Temporal Navigation]]
 - Memory Loop Creation
 - Paradox Consultation
 - [[Reality Anchoring
 - [Time]] Distortion Effects
 shadow_density: Variable
-sub_locations: 
+sub_locations:
 - '[[The Infinite Chamber'
 - '[Memory Loop Gardens]]'
 - '[[Paradox Meditation Cells'

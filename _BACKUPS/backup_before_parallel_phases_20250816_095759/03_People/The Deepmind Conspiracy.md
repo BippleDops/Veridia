@@ -2,7 +2,7 @@
 
 title: The Deepmind Conspiracy
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - deep
 - status/complete
@@ -56,7 +56,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

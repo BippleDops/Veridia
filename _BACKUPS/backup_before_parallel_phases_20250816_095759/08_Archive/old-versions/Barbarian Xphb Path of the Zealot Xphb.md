@@ -2,7 +2,7 @@
 
 title: Barbarian Xphb Path of the Zealot Xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

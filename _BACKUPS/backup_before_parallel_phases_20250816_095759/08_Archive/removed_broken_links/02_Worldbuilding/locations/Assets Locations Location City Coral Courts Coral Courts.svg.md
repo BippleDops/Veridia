@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Coral Courts Coral Courts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral courts coral courtssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

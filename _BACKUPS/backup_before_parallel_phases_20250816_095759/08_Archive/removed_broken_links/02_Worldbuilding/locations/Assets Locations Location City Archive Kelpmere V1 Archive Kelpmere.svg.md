@@ -1,9 +1,9 @@
 ---
 title: Assets Locations Location City Archive Kelpmere V1 Archive Kelpmere.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archive kelpmere v1 archive kelpmeresvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Community Investment Fund
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

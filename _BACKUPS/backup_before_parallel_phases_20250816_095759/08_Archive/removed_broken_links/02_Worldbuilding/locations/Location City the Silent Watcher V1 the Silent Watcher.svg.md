@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the silent watcher v1 the silent watchersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Silent Watcher V1 the Silent Watcher.svg
 type: location

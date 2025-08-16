@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city temporal magic research v1 temporal magic researchsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Temporal Magic Research V1 Temporal Magic Research.svg
 type: location

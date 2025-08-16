@@ -2,7 +2,7 @@
 
 title: Angel of the Depths
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - shadow-corruption
@@ -377,7 +377,7 @@ Ongoing situations affecting Angel of the Depths:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

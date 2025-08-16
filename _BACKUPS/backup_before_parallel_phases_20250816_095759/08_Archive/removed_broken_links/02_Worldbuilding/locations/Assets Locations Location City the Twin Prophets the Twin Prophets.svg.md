@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Twin Prophets the Twin Prophets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the twin prophets the twin prophetssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

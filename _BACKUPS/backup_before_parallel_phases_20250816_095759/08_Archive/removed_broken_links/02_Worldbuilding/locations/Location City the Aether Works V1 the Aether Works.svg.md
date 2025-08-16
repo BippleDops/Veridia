@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the aether works v1 the aether workssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Aether Works V1 the Aether Works.svg
 type: location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Bone Palace of Sorrows the Bone Palace of
   Sorrows.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the bone palace of sorrows the bone
   palace of sorrowspng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

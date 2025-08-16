@@ -2,7 +2,7 @@
 
 title: devastation-orb-of-fire-pota (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

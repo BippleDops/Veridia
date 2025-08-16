@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/lore
@@ -64,7 +64,7 @@ According to ancient texts found in [[02_Worldbuilding/Lore/The Forgotten Archiv
 ### The Age of Shaping (Estimated 3,000+ years ago)
 During [02_Worldbuilding/Places/Aethermoor]]'s early history, Aetheron was more active, directly teaching the first inhabitants how to work with crystals and magic. The entity guided the development of [[02_Worldbuilding/Lore/Crystal Singing, the construction of the first crystal-powered cities, and the establishment of harmony between civilization and the natural crystal formations.
 
-### The Great Corruption (1,200 years ago)  
+### The Great Corruption (1,200 years ago)
 When shadow entities from the Far Realm attempted to corrupt [02_Worldbuilding/Places/Aethermoor]]'s crystal networks, Aetheron fought a cosmic battle that raged for decades. The conflict left the entity weakened and forced it to retreat into dormancy, distributing its consciousness to prevent future corruption attempts. This event is remembered as the reason why Aetheron no longer manifests directly but still influences the realm through subtle guidance.
 
 ### The Modern Silence (Past 800 years)
@@ -158,23 +158,23 @@ If Aetheron were forced to fully manifest to combat a major threat, the concentr
 ## Quest Hooks and Adventure Seeds
 
 ### The Silent Crisis
-**Level**: 10-14  
+**Level**: 10-14
 Crystal formations throughout [[02_Worldbuilding/Places/Aethermoor have begun going dark, losing their magical properties one by one. The party must investigate whether this represents an attack on Aetheron itself or a sign that the entity is preparing for some cosmic event.
 
 ### The Awakening Ritual
-**Level**: 15-18  
+**Level**: 15-18
 Ancient texts describe a ritual that could restore Aetheron to full consciousness and power. The party must decide whether to perform the ritual, understanding that success could either save [02_Worldbuilding/Places/Aethermoor]] from some hidden threat or destroy the realm's delicate magical balance.
 
-### The Crystal Prophesy  
-**Level**: 8-12  
+### The Crystal Prophesy
+**Level**: 8-12
 Crystal formations across the realm have begun displaying the same cryptic vision—scenes of a great darkness approaching. The party must interpret these visions and determine whether they represent warnings from Aetheron or attempts by shadow entities to mislead the realm's defenders.
 
 ### The Shard Quest
-**Level**: 12-16  
+**Level**: 12-16
 One of [[02_Worldbuilding/Lore/The Seven Shards has been stolen, and its absence is causing instability in local crystal networks. The party must recover the shard while dealing with the effects of its theft and the intentions of those who took it.
 
 ### The Harmony Restoration
-**Level**: 6-10  
+**Level**: 6-10
 A region of [02_Worldbuilding/Places/Aethermoor]] has been corrupted by shadow magic, cutting it off from Aetheron's influence. The party must cleanse the corruption and restore the crystal network while dealing with the desperate inhabitants and the entities that caused the corruption.
 
 ## Secrets and Hidden Knowledge
@@ -182,7 +182,7 @@ A region of [02_Worldbuilding/Places/Aethermoor]] has been corrupted by shadow m
 > [!secret] DM Secret - The True Purpose
 > Aetheron is not native to this reality but came here as a refugee from a realm consumed by shadow entities. The entire crystal network of [[02_Worldbuilding/Places/Aethermoor]] is actually a massive defensive system designed to prevent similar entities from following Aetheron to this world. The entity's apparent dormancy is actually intense concentration on maintaining barriers between dimensions.
 
-> [!secret] DM Secret - The Connection to Aquabyssos  
+> [!secret] DM Secret - The Connection to Aquabyssos
 > Aetheron's power extends into [[02_Worldbuilding/Places/Aquabyssos through underwater crystal formations, but the water interferes with the entity's ability to maintain conscious control. Some of the strange magical phenomena in [02_Worldbuilding/Places/Aquabyssos]] are actually the result of Aetheron's subconscious influence operating through water-altered crystal resonance.
 
 > [!secret] DM Secret - The Successor Protocol

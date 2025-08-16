@@ -2,7 +2,7 @@
 
 title: gong-of-the-summit (optional-features)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

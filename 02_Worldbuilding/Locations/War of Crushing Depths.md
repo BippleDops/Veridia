@@ -2,7 +2,7 @@
 
 title: War of [[Crushing Depths
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city merchant prince goldwind crysalborn merchant prince goldwind crysalbornsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Merchant Prince Goldwind Crysalborn Merchant Prince Goldwind
   Crysalborn.svg

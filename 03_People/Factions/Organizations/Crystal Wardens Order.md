@@ -2,7 +2,7 @@
 
 title: Crystal Wardens Order
 type: organization
-tags: 
+tags:
 - organization
 - syndicate
 - prophecy

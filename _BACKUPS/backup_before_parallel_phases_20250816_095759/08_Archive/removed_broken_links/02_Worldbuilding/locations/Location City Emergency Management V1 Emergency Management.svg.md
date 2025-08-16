@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city emergency management v1 emergency managementsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Emergency Management V1 Emergency Management.svg
 type: location

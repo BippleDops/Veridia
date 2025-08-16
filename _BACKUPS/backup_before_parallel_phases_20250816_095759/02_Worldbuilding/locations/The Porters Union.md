@@ -2,7 +2,7 @@
 
 title: The Porters Union
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

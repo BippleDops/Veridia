@@ -2,7 +2,7 @@
 
 title: Memory Meadows Black Market
 type: Location
-tags: 
+tags:
 - aquabyssos
 - memory-trade
 - status/complete

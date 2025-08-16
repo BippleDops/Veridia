@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Spymaster Crow V1 Spymaster Crow.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city spymaster crow v1 spymaster crowsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: Teacher Miranda Hopekeeper
 type: Location
-tags: 
+tags:
 - academy
 - aquabyssos
 - school

@@ -2,7 +2,7 @@
 
 title: quartz-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

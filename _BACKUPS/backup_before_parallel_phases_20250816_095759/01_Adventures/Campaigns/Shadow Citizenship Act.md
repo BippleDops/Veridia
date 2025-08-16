@@ -2,7 +2,7 @@
 
 title: Shadow Citizenship Act
 type: Npc
-tags: 
+tags:
 - citizenship
 - aquabyssos
 - status/complete
@@ -54,7 +54,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

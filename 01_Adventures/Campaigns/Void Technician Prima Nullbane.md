@@ -2,7 +2,7 @@
 
 title: [[Void Technician Prima bane
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

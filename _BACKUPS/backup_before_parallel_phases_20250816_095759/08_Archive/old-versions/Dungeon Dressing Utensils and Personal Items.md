@@ -2,7 +2,7 @@
 
 title: Dungeon Dressing Utensils and Personal Items
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wave Soothingtouch Wave Soothingtouch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wave soothingtouch wave soothingtouchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

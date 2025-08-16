@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Harbor Master S License Harbor Master S License.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor master s license harbor master
   s licensesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

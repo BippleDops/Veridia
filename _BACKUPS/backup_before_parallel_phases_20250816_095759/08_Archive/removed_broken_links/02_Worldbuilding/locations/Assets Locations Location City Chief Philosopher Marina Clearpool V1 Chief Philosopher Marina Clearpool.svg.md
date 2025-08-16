@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chief Philosopher Marina Clearpool V1 Chief
   Philosopher Marina Clearpool.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chief philosopher marina clearpool v1
   chief philosopher marina clearpoolsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

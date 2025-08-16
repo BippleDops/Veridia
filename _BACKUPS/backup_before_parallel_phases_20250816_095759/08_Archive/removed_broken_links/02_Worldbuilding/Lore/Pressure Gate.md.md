@@ -1,10 +1,10 @@
 ---
 
 title: Pressure Gate.md
-aliases: 
+aliases:
 - [[02_Worldbuilding|02 Worldbuilding [Places]] Pressure Gatemd
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

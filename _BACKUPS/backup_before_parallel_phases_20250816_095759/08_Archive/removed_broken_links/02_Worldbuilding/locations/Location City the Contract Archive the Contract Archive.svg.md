@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 - location city the contract archive the contract archivesvg
 created: 2025-08-14
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Contract Archive the Contract Archive.svg
 type: location

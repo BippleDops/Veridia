@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Portal Commander Marina Bridgewright V1 Portal
   Commander Marina Bridgewright.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city portal commander marina bridgewright
   v1 portal commander marina bridgewrightpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -206,7 +206,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

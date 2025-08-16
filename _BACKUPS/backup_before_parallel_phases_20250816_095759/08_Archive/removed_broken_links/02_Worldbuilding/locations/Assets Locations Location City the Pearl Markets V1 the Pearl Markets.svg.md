@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Pearl Markets V1 the Pearl Markets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the pearl markets v1 the pearl marketssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

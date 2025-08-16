@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Living Reef V1 Living Reef.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city living reef v1 living reefpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Garden of Shadows Garden of Shadows.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city garden of shadows garden of shadowssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

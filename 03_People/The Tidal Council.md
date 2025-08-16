@@ -2,7 +2,7 @@
 
 title: The Tidal Council
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - council
 - status/complete
@@ -55,7 +55,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -270,7 +270,7 @@ Legends speak of The Tidal Council as a nexus where past and present converge. L
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

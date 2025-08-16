@@ -2,7 +2,7 @@
 
 title: [[The Crystal Cathedral of Pure Light
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

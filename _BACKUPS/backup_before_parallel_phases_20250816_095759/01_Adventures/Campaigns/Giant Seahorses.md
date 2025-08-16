@@ -2,7 +2,7 @@
 
 title: Giant Seahorses
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -3,7 +3,7 @@ enhanced: true
 
 title: Initiative Tracker
 type: initiative
-tags: 
+tags:
 - initiative
 - mechanics
 - tracking

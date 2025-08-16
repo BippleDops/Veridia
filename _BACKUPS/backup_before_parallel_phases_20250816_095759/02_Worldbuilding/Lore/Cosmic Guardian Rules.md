@@ -2,7 +2,7 @@
 
 title: Cosmic Guardian Rules
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -131,7 +131,7 @@ Cosmic Guardian Rules represents a crucial aspect of the world's history, cosmol
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

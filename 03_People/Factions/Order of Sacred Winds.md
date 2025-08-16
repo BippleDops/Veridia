@@ -2,7 +2,7 @@
 
 title: Order of Sacred Winds
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

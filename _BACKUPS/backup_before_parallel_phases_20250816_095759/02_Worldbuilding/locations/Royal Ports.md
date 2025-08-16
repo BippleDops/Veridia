@@ -2,7 +2,7 @@
 
 title: Royal Ports
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

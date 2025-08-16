@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Operations/Infiltration Recruitment
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -102,7 +102,7 @@ Mentioned in The Second Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

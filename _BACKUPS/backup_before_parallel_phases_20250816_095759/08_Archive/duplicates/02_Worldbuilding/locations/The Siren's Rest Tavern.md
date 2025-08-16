@@ -1,7 +1,7 @@
 ---
 title: The Siren's Rest Tavern
 type: Location
-tags: 
+tags:
 - status/complete
 - campaign/hook
 - tavern

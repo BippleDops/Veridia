@@ -1,7 +1,7 @@
 ---
 title: Elite Wind Rider Captain
 type: npc
-tags: 
+tags:
 - npc
 - tiefling
 - fighter

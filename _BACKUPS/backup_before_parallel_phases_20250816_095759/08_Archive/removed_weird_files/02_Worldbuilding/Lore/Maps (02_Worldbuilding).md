@@ -2,7 +2,7 @@
 
 title: [[maps
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

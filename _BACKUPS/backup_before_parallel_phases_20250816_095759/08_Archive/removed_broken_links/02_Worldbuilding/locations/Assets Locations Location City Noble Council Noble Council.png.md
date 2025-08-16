@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Noble Council Noble Council.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city noble council noble councilpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

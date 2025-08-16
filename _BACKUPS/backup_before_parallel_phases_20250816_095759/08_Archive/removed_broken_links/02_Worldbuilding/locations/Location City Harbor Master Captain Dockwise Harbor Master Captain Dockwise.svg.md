@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city harbor master captain dockwise harbor master captain dockwisesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Harbor Master Captain Dockwise Harbor Master Captain Dockwise.svg
 type: location

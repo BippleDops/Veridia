@@ -2,7 +2,7 @@
 
 title: Adventuring Gear Container Capacity Phb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

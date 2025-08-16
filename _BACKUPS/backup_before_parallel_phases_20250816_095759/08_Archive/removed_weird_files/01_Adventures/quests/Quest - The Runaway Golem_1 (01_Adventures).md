@@ -85,7 +85,7 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas > [!figure] Portrait # Quest - The 
+- Moral dilemmas > [!figure] Portrait # Quest - The
 *Sounds of [relevant sounds] echo in the distance.*Runaway Golem **Level:** 4-6 | **Type:** Chase/Investigation | **Duration:** 2-3 sessions ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Evolution Improvements - Show how traditions are changing with new generation ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Material_Culture Improvements - Detail common objects and their cultural significance ### Superstitions Improvements - List common superstitions and their origins ### Hospitality Improvements - Explain guest rights and host obligations ## Overview
 
 **Difficulty**: Moderate (Levels 3-5)

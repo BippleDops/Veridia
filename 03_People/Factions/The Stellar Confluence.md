@@ -2,7 +2,7 @@
 
 title: The Stellar Confluence
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

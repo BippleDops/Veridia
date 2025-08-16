@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city current navigation techniques v1 current navigation techniquessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Current Navigation Techniques V1 Current Navigation Techniques.svg
 type: location

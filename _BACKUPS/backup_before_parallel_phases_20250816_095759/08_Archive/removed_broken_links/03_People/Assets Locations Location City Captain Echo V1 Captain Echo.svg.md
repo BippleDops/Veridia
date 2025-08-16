@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Captain Echo V1 Captain Echo.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city captain echo v1 captain echosvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Palace Staff Guild V1 Palace Staff Guild.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city palace staff guild v1 palace staff guildsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Whisper Jack
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

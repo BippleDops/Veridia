@@ -2,7 +2,7 @@
 
 title: The Rolling Tide
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

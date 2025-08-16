@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Hybrid Communities Integration V1 Hybrid Communities
   Integration.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city hybrid communities integration v1 hybrid
   communities integrationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

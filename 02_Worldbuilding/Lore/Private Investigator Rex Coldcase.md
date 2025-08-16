@@ -2,7 +2,7 @@
 
 title: Private Investigator Rex Coldcase
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

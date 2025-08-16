@@ -2,7 +2,7 @@
 
 title: The Crown Authority
 type: Faction
-tags: 
+tags:
 - status/complete
 - content/faction
 - faction

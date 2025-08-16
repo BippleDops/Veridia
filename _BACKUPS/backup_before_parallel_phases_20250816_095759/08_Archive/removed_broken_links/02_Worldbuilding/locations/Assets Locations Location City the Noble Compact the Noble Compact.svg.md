@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Noble Compact the Noble Compact.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the noble compact the noble compactsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

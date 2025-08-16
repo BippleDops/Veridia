@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city marquis aldwin goldcurrent marquis aldwin goldcurrentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Marquis Aldwin Goldcurrent Marquis Aldwin Goldcurrent.svg
 type: location

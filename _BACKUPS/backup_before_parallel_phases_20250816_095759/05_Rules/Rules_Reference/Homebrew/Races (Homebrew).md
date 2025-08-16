@@ -3,7 +3,7 @@
 title: Races
 aliases: []
 type: Lore
-tags: 
+tags:
 - lore
 - both
 - mechanics

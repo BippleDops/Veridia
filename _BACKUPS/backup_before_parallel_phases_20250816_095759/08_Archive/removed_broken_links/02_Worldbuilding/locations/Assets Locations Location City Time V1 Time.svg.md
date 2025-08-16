@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Time V1 Time.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city time v1 timesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

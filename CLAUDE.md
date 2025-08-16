@@ -80,12 +80,12 @@ ObsidianTTRPGVault Experimental/
 ## 📝 Session History
 
 ### 2025-08-15: Major Improvement & Recovery
-- **What Happened**: 
+- **What Happened**:
   - Attempted 10,000+ improvements
   - Mistakenly reorganized structure (user wanted organization WITHIN folders)
   - Moved campaign/session content incorrectly
   - Created 10,000+ broken link files
-  
+
 - **What Was Fixed**:
   - Recovered campaign/session content
   - Removed 10,854 broken link files

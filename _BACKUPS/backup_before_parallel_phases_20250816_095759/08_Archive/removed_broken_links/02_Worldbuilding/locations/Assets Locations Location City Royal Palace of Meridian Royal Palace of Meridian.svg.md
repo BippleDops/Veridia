@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Royal Palace of Meridian Royal Palace of Meridian.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal palace of meridian royal palace
   of meridiansvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

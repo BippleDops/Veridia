@@ -2,7 +2,7 @@
 
 title: High Inquisitor Maltheos
 type: Npc
-tags: 
+tags:
 - campaign/hook
 - npc
 - purist-coalition
@@ -50,7 +50,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -167,7 +167,7 @@ High Inquisitor Maltheos leads the [[Purist Coalition, a growing religious and p
 - **Noble Alliance**: Builds coalition of nobles opposed to royal crystal policies
 - **Economic Pressure**: Coordinates boycotts and trade disruption
 
-**The Hidden Irony**: 
+**The Hidden Irony**:
 - **Unknowing Accuracy**: His accusations about royal corruption are accidentally true
 - **Misplaced Focus**: Attacks Seraphina for wrong reasons while being fundamentally correct
 - **Dangerous Truth**: If he discovers Seraphina's actual corruption, it would vindicate his entire movement

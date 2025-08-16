@@ -2,7 +2,7 @@
 
 title: Chief Engineer Brass Voidwright
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

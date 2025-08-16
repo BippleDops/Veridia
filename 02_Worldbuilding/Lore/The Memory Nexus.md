@@ -2,7 +2,7 @@
 
 title: The Memory Nexus
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

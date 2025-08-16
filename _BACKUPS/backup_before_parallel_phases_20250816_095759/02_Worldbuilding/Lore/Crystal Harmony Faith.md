@@ -2,7 +2,7 @@
 
 title: Crystal Harmony Faith
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City International Trade Agreements International
   Trade Agreements.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city international trade agreements international
   trade agreementssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

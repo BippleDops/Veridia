@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Judge Tidal Fairweather V1 Judge Tidal Fairweather.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city judge tidal fairweather v1 judge tidal
   fairweathersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -193,7 +193,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

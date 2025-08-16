@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Memory_Merchant_Valeria.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

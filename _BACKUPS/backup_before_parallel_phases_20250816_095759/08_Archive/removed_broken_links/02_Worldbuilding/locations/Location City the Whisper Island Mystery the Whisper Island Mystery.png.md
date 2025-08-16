@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the whisper island mystery the whisper island mysterypng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Whisper Island Mystery the Whisper Island Mystery.png
 type: location

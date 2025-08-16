@@ -2,7 +2,7 @@
 
 title: Great Drowning
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - aerial
@@ -98,7 +98,7 @@ The Great Drowning transformed catastrophe into rebirth, creating Aquabyssos thr
 
 **06:00** - Dawn never came; eastern horizon showed "wall of liquid darkness"
 **06:23** - Chancellor Nerida Brightwater issued mass evacuation orders
-**08:01** - Deep Fleet engaged "entities from the dimensional breach" 
+**08:01** - Deep Fleet engaged "entities from the dimensional breach"
 **12:17** - Great Harbor began sinking despite no structural damage
 **13:28** - First contact between surface survivors and Aethermoor refugees
 **14:45** - Transformation Wave swept outward at 200 mph, adapting all matter for underwater existence
@@ -126,7 +126,7 @@ The Great Drowning transformed catastrophe into rebirth, creating Aquabyssos thr
 *Personal log, written during the convergence*
 *"We were trained to fight [Dimensional Incursions]], but this wasn't an invasion - it was a homecoming. When the realities merged, I saw both worlds healing each other. The surface world gained the ocean's wisdom, and the depths gained the sky's dreams. We didn't lose our world; we found its missing half."*
 
-### Scholar Erasmus Brightwater 
+### Scholar Erasmus Brightwater
 
 *Letter to his sister, final days before convergence*
 *"The dimensional mathematics indicate a convergence event is inevitable. I've transferred 90% of our library's contents to crystal storage. If civilization survives, they'll find our knowledge preserved in the deep [[Places. The ocean remembers everything, even things that never happened."*

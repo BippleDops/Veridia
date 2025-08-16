@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Martha Hillbrook V1 Martha Hillbrook.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city martha hillbrook v1 martha hillbrooksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -202,7 +202,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

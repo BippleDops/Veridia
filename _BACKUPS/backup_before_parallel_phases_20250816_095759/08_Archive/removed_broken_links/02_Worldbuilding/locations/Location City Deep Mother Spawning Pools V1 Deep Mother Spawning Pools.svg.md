@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city deep mother spawning pools v1 deep mother spawning poolssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Deep Mother Spawning Pools V1 Deep Mother Spawning Pools.svg
 type: location

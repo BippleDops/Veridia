@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city temple of the eternal flame v1 temple of the eternal flamesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Temple of the Eternal Flame V1 Temple of the Eternal Flame.svg
 type: location

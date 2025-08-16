@@ -2,7 +2,7 @@
 
 title: Silence Keeper Mute
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -160,7 +160,7 @@ Ongoing situations affecting Silence-Keeper Mute:
 - **Undead**: skeleton
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 18
-  
+
 ### [[Environmental Hazards
 - Pit trap
 - **DC 14** to detect
@@ -178,7 +178,7 @@ Ongoing situations affecting Silence-Keeper Mute:
 - **Recent History**: Plague 41 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Trial in 13 days
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: [Link]]s to The Hidden Prophecy of Winds

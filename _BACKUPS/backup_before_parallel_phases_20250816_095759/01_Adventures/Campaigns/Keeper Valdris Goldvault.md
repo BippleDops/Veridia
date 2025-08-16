@@ -2,7 +2,7 @@
 
 title: Keeper Valdris Goldvault
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

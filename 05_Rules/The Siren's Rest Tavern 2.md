@@ -10,7 +10,7 @@ faction_influence: Independent/Multiple
 obsidianUIMode: preview
 region: Port District
 status: complete
-tags: 
+tags:
 - aethermoor
 - campaign/hook
 - complete
@@ -371,7 +371,7 @@ Monthly contests where patrons compete to tell the most entertaining, outrageous
 
 **Common Knowledge (Free - 5 gp)**
 - Current market prices for legal goods
-- Weather forecasts and tide schedules  
+- Weather forecasts and tide schedules
 - General news about local events
 - Basic information about well-known individuals
 
@@ -529,7 +529,7 @@ The Siren's Rest generates income through multiple channels:
 - Entertainment contracts: 2,000 gp annually
 
 **Facility Maintenance**
-- Building upkeep: 4,000 gp annually  
+- Building upkeep: 4,000 gp annually
 - Magical protections: 6,000 gp annually
 - Equipment replacement: 2,000 gp annually
 
@@ -550,7 +550,7 @@ The Siren's Rest generates income through multiple channels:
 ### Storm Season Operations (Autumn)
 During the autumn storm season, the tavern experiences its highest occupancy as sailors seek shelter from dangerous weather. Morgana typically raises prices for food and lodging while hosting extended gambling tournaments and storytelling competitions. The season culminates in the **Festival of Safe Harbor**, a week-long celebration featuring premium entertainment and rare beverages.
 
-### Crystal Bloom Season (Winter)  
+### Crystal Bloom Season (Winter)
 The winter crystal bloom affects the tavern's magical systems, sometimes causing unpredictable effects in the shadow crystal network. This season sees increased demand for information about crystal harvesting operations and mining rights. Morgana hosts the annual **Deepest Night Auction**, where rare magical items and valuable intelligence are sold to the highest bidders.
 
 ### Patrol Season (Spring)
@@ -572,7 +572,7 @@ A complex relationship exists between the tavern and law enforcement. Some warde
 **[[02_Worldbuilding/Lore/The Crystal Council**
 Several council members secretly patronize the tavern, creating opportunities for political intrigue and corruption storylines.
 
-**[02_Worldbuilding/Places/Hidden Smuggler's Cove]]**  
+**[02_Worldbuilding/Places/Hidden Smuggler's Cove]]**
 Direct operational connections exist through shared communication networks and coordinated smuggling operations.
 
 **[[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver**

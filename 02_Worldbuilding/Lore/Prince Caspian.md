@@ -2,7 +2,7 @@
 
 title: Prince Caspian
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - relationship-matrix
 - content/lore

@@ -2,7 +2,7 @@
 
 title: [[Noble Quarter Council Chambers
 type: [location]]
-tags: 
+tags:
 - quest
 - content/location
 - place

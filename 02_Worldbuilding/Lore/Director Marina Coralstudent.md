@@ -2,7 +2,7 @@
 
 title: Director Marina [[Coralstudent
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

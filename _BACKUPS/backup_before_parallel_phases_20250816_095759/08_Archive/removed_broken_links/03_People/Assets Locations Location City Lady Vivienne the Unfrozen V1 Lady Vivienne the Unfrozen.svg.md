@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Lady Vivienne the Unfrozen V1 Lady Vivienne
   the Unfrozen.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city lady vivienne the unfrozen v1 lady vivienne
   the unfrozensvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

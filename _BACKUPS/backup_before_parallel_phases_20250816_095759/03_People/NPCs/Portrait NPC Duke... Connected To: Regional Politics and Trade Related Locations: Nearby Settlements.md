@@ -4,7 +4,7 @@ title: 04_Resources/Assets/Portraits/portrait-npc-duke...
 - Connected to: Regional politics and trade
 - Related locations: Nearby settlements
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

@@ -2,7 +2,7 @@
 
 title: Session 08
 type: adventure
-tags: 
+tags:
 - adventure
 - session-notes
 - aquatic

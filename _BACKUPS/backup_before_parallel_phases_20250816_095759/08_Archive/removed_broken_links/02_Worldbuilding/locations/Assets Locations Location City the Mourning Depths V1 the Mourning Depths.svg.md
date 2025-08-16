@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Mourning Depths V1 the Mourning Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the mourning depths v1 the mourning
   depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Mentioned in The Second Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

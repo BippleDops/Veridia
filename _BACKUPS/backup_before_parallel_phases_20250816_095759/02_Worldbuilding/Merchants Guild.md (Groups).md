@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - Merchants Guildmd
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ headquarters: Unknown
 improvements: 20
 membership: Unknown
 modified: '2025-08-14'
-tags: 
+tags:
 - organization
 title: Merchants Guild.md
 type: faction

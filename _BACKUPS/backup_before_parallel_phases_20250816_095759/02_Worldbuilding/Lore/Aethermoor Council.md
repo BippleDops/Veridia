@@ -2,7 +2,7 @@
 
 title: [[Aethermoor Council
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - aerial

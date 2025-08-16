@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Guardian Neutralwatch V1 Guardian Neutralwatch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city guardian neutralwatch v1 guardian neutralwatchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Key locations marked:
 - **Undead**: skeleton
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 14
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 11** to detect
@@ -193,7 +193,7 @@ Key locations marked:
 - **Recent History**: Fire 29 years ago
 - **Living Memory**: Murder last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Election in 3 days
 - **Brewing Conflict**: Succession
 - **Prophecy Connection**: Links to The Hidden Prophecy of Depths

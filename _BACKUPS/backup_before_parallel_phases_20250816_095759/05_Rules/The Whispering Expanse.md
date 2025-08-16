@@ -1,7 +1,7 @@
 ---
 title: The Whispering Expanse
 type: quest
-tags: 
+tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -103,10 +103,10 @@ obsidianUIMode: preview
 
 ## Quest Overview
 
-**Level Range:** 12-17  
-**Duration:** 6-10 sessions  
-**Themes:** Cosmic horror, investigation, sanity, [[Forbidden Knowledge  
-**Party Size:** 3-6 characters  
+**Level Range:** 12-17
+**Duration:** 6-10 sessions
+**Themes:** Cosmic horror, investigation, sanity, [[Forbidden Knowledge
+**Party Size:** 3-6 characters
 
 The [map]] of the Whispering Expanse]] is a vast [[region of [Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated [[reports of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. [The Party]] must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[Aethermoor in madness.
 
@@ -396,7 +396,7 @@ The **Whispering Expanse** can be integrated with other adventures and campaign 
 
 Characters from this adventure can appear in future campaigns:
 - **[[Magistrate Elena Greywind**: Becomes an expert in cosmic threats
-- **[Innkeeper Marcus Thorne]]**: Develops resistance to otherworldly influences  
+- **[Innkeeper Marcus Thorne]]**: Develops resistance to otherworldly influences
 - **[[Dr Thaddeus Vain**: If cured, becomes a valuable but haunted ally
 - **[The Whisper Survivors]]**: Form an [[Organization to prevent similar disasters
 

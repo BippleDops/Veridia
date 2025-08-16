@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memory Preservation Technology V1 Memory Preservation
   Technology.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory preservation technology v1 memory
   preservation technologysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

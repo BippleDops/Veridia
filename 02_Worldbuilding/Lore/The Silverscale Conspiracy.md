@@ -2,7 +2,7 @@
 
 title: The Silverscale Conspiracy
 type: [[Lore
-tags: 
+tags:
 - aquatic
 - political-manipulation
 - shadow-touched
@@ -140,7 +140,7 @@ The Silverscale Conspiracy has profoundly influenced the development of commerci
 
 Silverscale gained control of crucial shipping routes through strategic loans and partnerships that appeared beneficial to all parties but gradually concentrated [Maritime Commerce]] under their influence.
 
-### The Cross-World Banking Accords (89 years ago)  
+### The Cross-World Banking Accords (89 years ago)
 
 The establishment of unified ficial standards between [[Aethermoor and [Aquabyssos]] created opportunities for Silverscale to influence both civilizations' monetary policies.
 

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Noble House V1 Noble House.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city noble house v1 noble housesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

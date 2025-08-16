@@ -2,7 +2,7 @@
 
 title: Consortium Credit
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

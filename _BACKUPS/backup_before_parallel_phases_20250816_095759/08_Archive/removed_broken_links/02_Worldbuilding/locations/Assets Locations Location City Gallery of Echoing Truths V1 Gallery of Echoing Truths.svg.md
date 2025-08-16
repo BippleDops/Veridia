@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Gallery of Echoing Truths V1 Gallery of Echoing
   Truths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gallery of echoing truths v1 gallery
   of echoing truthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

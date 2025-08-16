@@ -1,10 +1,10 @@
 ---
 
 title: Assets Art Forge Master Petra Hammerdeep.png
-aliases: 
+aliases:
 - 04 Resources Assets Art Places Forge Master Petra Hammerdeeppng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

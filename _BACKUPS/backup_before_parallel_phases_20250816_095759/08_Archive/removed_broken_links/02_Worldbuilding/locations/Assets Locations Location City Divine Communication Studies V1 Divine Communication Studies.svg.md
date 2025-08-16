@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Divine Communication Studies V1 Divine Communication
   Studies.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city divine communication studies v1 divine
   communication studiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

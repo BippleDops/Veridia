@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city crystalhaven royal palace v1 crystalhaven royal palacesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Crystalhaven Royal Palace V1 Crystalhaven Royal Palace.svg
 type: location

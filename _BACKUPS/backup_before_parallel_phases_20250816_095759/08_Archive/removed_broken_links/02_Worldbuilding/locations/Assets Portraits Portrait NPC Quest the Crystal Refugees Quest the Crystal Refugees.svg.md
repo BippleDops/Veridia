@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Crystal Refugees Quest the Crystal
   Refugees.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the crystal refugees quest the
   crystal refugeessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -185,7 +185,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

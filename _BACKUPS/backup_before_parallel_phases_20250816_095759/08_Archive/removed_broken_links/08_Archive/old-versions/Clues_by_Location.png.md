@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Clues_by_Location.png
 type: location
-tags: 
+tags:
 - location
 - town
 - eastern-provinces

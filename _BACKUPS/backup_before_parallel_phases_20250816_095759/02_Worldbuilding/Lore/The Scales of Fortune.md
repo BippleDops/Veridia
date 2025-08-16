@@ -2,7 +2,7 @@
 
 title: The Scales of Fortune
 type: [[Lore
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

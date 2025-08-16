@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Diplomatic Minister Reef V1 Diplomatic Minister
   Reef.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city diplomatic minister reef v1 diplomatic
   minister reefsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/faction
@@ -28,7 +28,7 @@ The Brotherhood of the Black Anchor operates as a sophisticated smuggling and pi
 ## Key Connections
 - **[[02_Worldbuilding/Groups/The Crimson Fleet** - Primary rival for maritime criminal dominance
 - **[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Competition and occasional cooperation
-- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers** - Recruitment pool and loose affiliates  
+- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers** - Recruitment pool and loose affiliates
 - **[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary naval opposition
 - **[[02_Worldbuilding/Places/The Floating Markets of Nereidios** - Infiltration target and protection racket
 - **[02_Worldbuilding/Places/Port Meridian]]** - Major operations base and corruption center

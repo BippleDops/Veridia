@@ -2,7 +2,7 @@
 
 title: The Lighthouse Keepers
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -174,7 +174,7 @@ Ongoing situations affecting The Lighthouse Keepers:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

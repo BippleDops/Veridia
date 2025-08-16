@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Thorek Crystalhammer Thorek Crystalhammer.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city thorek crystalhammer thorek crystalhammerpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

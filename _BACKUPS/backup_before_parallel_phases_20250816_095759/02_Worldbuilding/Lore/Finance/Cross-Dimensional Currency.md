@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Fice/Cross-Dimensional Currency
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

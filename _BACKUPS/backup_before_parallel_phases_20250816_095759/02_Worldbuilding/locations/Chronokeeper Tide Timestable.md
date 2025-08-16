@@ -2,7 +2,7 @@
 
 title: Chronokeeper Tide Timestable
 type: Location
-tags: 
+tags:
 - both worlds
 - world/both
 - content/location

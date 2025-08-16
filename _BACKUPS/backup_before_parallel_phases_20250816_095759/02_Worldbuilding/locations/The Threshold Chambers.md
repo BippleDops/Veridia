@@ -2,7 +2,7 @@
 
 title: [[The Threshold Chambers
 type: [location]]
-tags: 
+tags:
 - access/secret
 - dimensional-nexus
 - status/complete

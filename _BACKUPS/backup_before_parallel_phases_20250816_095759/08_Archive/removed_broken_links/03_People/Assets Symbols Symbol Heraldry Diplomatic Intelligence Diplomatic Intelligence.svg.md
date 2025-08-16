@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Diplomatic Intelligence Diplomatic Intelligence.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry diplomatic intelligence diplomatic intelligencesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -202,7 +202,7 @@ Member of House Wolfblood - Trait: magical affinity
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

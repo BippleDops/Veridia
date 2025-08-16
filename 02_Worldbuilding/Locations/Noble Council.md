@@ -2,7 +2,7 @@
 
 title: Noble Council
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

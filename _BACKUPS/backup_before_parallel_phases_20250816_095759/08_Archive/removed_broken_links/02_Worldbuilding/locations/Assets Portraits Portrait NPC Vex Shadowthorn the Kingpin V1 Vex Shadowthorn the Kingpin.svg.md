@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Vex Shadowthorn the Kingpin V1 Vex Shadowthorn
   the Kingpin.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc vex shadowthorn the kingpin v1 vex shadowthorn
   the kingpinsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

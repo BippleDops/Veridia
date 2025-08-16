@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Vehicles_vehicle-ship-resoce-drive-yacht-resoce-drive-yacht.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

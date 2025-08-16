@@ -2,7 +2,7 @@
 
 title: The Deep Fugitive
 type: Location
-tags: 
+tags:
 - aquabyssos
 - mysterious
 - status/complete
@@ -237,7 +237,7 @@ Ongoing situations affecting The Deep Fugitive:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

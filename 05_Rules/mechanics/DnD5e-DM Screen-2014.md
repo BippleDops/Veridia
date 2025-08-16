@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

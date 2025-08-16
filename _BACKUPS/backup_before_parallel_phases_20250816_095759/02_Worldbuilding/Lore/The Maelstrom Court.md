@@ -2,7 +2,7 @@
 
 title: The Maelstrom Court
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

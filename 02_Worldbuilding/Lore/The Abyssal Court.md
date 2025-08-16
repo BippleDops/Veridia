@@ -2,7 +2,7 @@
 
 title: The Abyssal Court
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - active

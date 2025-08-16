@@ -2,7 +2,7 @@
 
 title: Purist Coalition Thugs
 type: Faction
-tags: 
+tags:
 - status/complete
 - content/faction
 - faction
@@ -195,7 +195,7 @@ The Purist Coalition Thugs represent the militant arm of [[Aethermoor's anti-cry
 ### Extremist Interpretations
 **Dangerous Beliefs**
 - Anyone profiting from crystal trade deserves death
-- Crystal users are willing slaves who must be "liberated" 
+- Crystal users are willing slaves who must be "liberated"
 - Collateral damage is acceptable if it serves the greater good
 - Compromise with magical society is betrayal of pure principles
 - The end of magical civilization justifies any means

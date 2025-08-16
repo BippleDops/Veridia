@@ -2,7 +2,7 @@
 
 title: [[Memoriam   The Forgotten Continent
 type: [location]]
-tags: 
+tags:
 - both
 - quest
 - world/both

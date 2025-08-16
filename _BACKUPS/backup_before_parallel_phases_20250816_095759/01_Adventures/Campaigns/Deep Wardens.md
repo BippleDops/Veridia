@@ -2,7 +2,7 @@
 
 title: Deep Wardens
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

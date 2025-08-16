@@ -2,7 +2,7 @@
 
 title: The [[Crystal Caverns
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

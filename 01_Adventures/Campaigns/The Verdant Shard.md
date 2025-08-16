@@ -2,7 +2,7 @@
 
 title: The [[Verdant Shard
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/lore
 - content/[[Npc

@@ -2,7 +2,7 @@
 
 title: Stormwind's Navigation Crystal
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

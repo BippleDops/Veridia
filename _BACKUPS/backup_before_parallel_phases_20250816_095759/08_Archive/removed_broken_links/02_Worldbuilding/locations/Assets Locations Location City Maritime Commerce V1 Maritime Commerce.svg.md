@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Maritime Commerce V1 Maritime Commerce.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city maritime commerce v1 maritime commercesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

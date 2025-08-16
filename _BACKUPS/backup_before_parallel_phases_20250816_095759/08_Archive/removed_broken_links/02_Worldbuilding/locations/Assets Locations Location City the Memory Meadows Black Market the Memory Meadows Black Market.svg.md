@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Memory Meadows Black Market the Memory Meadows
   Black Market.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the memory meadows black market the
   memory meadows black marketsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

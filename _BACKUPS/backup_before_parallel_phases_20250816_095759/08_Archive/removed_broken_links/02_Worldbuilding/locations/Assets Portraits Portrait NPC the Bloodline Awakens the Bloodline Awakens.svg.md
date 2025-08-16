@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Bloodline Awakens the Bloodline Awakens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the bloodline awakens the bloodline awakenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

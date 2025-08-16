@@ -2,7 +2,7 @@
 
 title: Consequence Chain 3 Reality Merger
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

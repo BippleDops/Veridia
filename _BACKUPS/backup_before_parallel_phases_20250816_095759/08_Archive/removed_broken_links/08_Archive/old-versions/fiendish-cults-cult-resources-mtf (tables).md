@@ -2,7 +2,7 @@
 
 title: fiendish-cults-cult-resources-mtf (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

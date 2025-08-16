@@ -2,7 +2,7 @@
 
 title: The Balance Keeper
 type: Location
-tags: 
+tags:
 - content/location
 - both aethermoor & aquabyssos
 - place

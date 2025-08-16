@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest into the wastes v2 quest into the wastessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest Into the Wastes V2 Quest Into the Wastes.svg
 type: npc

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Liminal Constantinople Liminal Constantinople.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city liminal constantinople liminal constantinoplesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

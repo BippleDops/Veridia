@@ -3,7 +3,7 @@ enhanced: true
 
 title: 04_Resources/Handouts
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 

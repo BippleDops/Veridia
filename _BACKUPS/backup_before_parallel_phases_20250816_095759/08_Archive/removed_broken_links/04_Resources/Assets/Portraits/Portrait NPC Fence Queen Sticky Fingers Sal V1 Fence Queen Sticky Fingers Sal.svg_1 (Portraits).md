@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc fence queen sticky fingers sal v1 fence queen sticky fingers salsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Fence Queen Sticky Fingers Sal V1 Fence Queen Sticky Fingers Sal.svg
 type: npc

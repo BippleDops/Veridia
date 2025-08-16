@@ -2,7 +2,7 @@
 
 title: The Crystal Integration Festival
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

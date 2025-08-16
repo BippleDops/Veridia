@@ -2,7 +2,7 @@
 
 title: She Who Sees Beyond
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

@@ -7,10 +7,10 @@ tags: [generator, npc, ai-ready]
 ## Generation Parameters
 
 ### Basic Information
-- **Name**: 
-- **Race**: 
-- **Class/Profession**: 
-- **Age**: 
+- **Name**:
+- **Race**:
+- **Class/Profession**:
+- **Age**:
 
 ### Personality Matrix
 ```javascript
@@ -23,38 +23,38 @@ const selectedTraits = selectRandom(traits, 2);
 ```
 
 ### Appearance Generator
-- **Height**: 
-- **Build**: 
-- **Distinguishing Features**: 
-- **Clothing**: 
+- **Height**:
+- **Build**:
+- **Distinguishing Features**:
+- **Clothing**:
 
 ### Background Generator
-1. **Origin**: 
-2. **Family**: 
-3. **Motivation**: 
-4. **Secret**: 
+1. **Origin**:
+2. **Family**:
+3. **Motivation**:
+4. **Secret**:
 
 ### Stats Template (D&D 5e)
 ```
-AC: 
-HP: 
-Speed: 
+AC:
+HP:
+Speed:
 
-STR: , DEX: , CON: 
-INT: , WIS: , CHA: 
+STR: , DEX: , CON:
+INT: , WIS: , CHA:
 
-Skills: 
+Skills:
 ```
 
 ### Relationship Web
-- **Allies**: 
-- **Rivals**: 
-- **Neutral**: 
+- **Allies**:
+- **Rivals**:
+- **Neutral**:
 
 ### Voice & Dialogue
-- **Speech Pattern**: 
-- **Catchphrase**: 
-- **Topics**: 
+- **Speech Pattern**:
+- **Catchphrase**:
+- **Topics**:
 
 ## Auto-Generation Script
 ```python

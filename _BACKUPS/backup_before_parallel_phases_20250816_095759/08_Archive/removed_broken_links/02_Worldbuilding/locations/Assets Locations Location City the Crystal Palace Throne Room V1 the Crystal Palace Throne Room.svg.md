@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Crystal Palace Throne Room V1 the Crystal
   Palace Throne Room.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal palace throne room v1 the
   crystal palace throne roomsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

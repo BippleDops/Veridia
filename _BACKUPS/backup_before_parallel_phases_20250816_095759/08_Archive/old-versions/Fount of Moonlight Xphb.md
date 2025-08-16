@@ -2,7 +2,7 @@
 
 title: Fount of Moonlight Xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

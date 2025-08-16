@@ -2,7 +2,7 @@
 
 title: The [[Memory Crystals Division
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

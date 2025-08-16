@@ -2,7 +2,7 @@
 
 title: Monsters by Habitat Mountain Monsters Xmm
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

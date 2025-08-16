@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Scattered Emperor the Scattered Emperor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the scattered emperor the scattered emperorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

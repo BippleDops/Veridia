@@ -2,7 +2,7 @@
 
 title: Age of Skybound Empires
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: Campaign Overview
 type: Campaign
-tags: 
+tags:
 - adventure
 - session-notes
 - consciousness-manipulation
@@ -328,7 +328,7 @@ Track trust levels with key NPCs:
 
 ### Dataview Queries
 ```dataview
-TABLE 
+TABLE
   shadow-status as "Shadow Status",
   trust-level as "Trust",
   evidence-provided as "Evidence",

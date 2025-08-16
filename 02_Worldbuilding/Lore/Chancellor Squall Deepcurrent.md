@@ -2,7 +2,7 @@
 
 title: Chancellor Squall Deepcurrent
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

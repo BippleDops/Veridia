@@ -2,7 +2,7 @@
 
 title: Lady Venetia Silkwind
 type: Faction
-tags: 
+tags:
 - textiles
 - status/complete
 - content/faction
@@ -151,8 +151,8 @@ New members begin as apprentices under supervision of experienced Guild Artisans
 
 **Lady Venetia Silkwind**
 *Guild Mistress, 12th-level Enchanter Wizard*
-**Armor Class** 17 (Enchanted Silk Robes)  
-**Hit Points** 89 (`dice: 12d6` + 48)  
+**Armor Class** 17 (Enchanted Silk Robes)
+**Hit Points** 89 (`dice: 12d6` + 48)
 **Speed** 30 ft.
 **STR** 10 (+0) **DEX** 16 (+3) **CON** 18 (+4) **INT** 22 (+6) **WIS** 15 (+2) **CHA** 20 (+5)
 **Saving Throws** Int +12, Wis +8
@@ -167,8 +167,8 @@ New members begin as apprentices under supervision of experienced Guild Artisans
 
 **Master Weaver Cordelia Goldthread**
 *Production Director, 10th-level Artisan Expert*
-**Armor Class** 15 (Reinforced Silk Clothing)  
-**Hit Points** 78 (`dice: 10d8` + 30)  
+**Armor Class** 15 (Reinforced Silk Clothing)
+**Hit Points** 78 (`dice: 10d8` + 30)
 **Speed** 30 ft.
 **STR** 12 (+1) **DEX** 20 (+5) **CON** 16 (+3) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 14 (+2)
 **Saving Throws** Dex +9, Int +8
@@ -182,8 +182,8 @@ New members begin as apprentices under supervision of experienced Guild Artisans
 
 **Master Enchanter Thalius Shimmersilk**
 *Magical Enhancement Specialist, 9th-level Transmutation Wizard*
-**Armor Class** 16 (Mage Armor + Dex)  
-**Hit Points** 58 (`dice: 9d6` + 18)  
+**Armor Class** 16 (Mage Armor + Dex)
+**Hit Points** 58 (`dice: 9d6` + 18)
 **Speed** 30 ft.
 **STR** 8 (-1) **DEX** 14 (+2) **CON** 14 (+2) **INT** 20 (+5) **WIS** 13 (+1) **CHA** 16 (+3)
 **Saving Throws** Int +10, Wis +6
@@ -197,8 +197,8 @@ New members begin as apprentices under supervision of experienced Guild Artisans
 
 **Master Trader Helena Swiftcurrent**
 *Commercial Operations Director, 8th-level College of Eloquence Bard*
-**Armor Class** 16 (Studded Leather + Dex)  
-**Hit Points** 65 (`dice: 8d8` + 24)  
+**Armor Class** 16 (Studded Leather + Dex)
+**Hit Points** 65 (`dice: 8d8` + 24)
 **Speed** 30 ft.
 **STR** 10 (+0) **DEX** 16 (+3) **CON** 16 (+3) **INT** 16 (+3) **WIS** 14 (+2) **CHA** 20 (+5)
 **Saving Throws** Dex +6, Cha +8
@@ -211,8 +211,8 @@ New members begin as apprentices under supervision of experienced Guild Artisans
 
 **Master Cultivator Boris Silkworm**
 *Agricultural Operations Manager, 7th-level Circle of the Land Druid*
-**Armor Class** 14 (Natural + Dex)  
-**Hit Points** 63 (`dice: 7d8` + 28)  
+**Armor Class** 14 (Natural + Dex)
+**Hit Points** 63 (`dice: 7d8` + 28)
 **Speed** 30 ft.
 **STR** 14 (+2) **DEX** 14 (+2) **CON** 18 (+4) **INT** 15 (+2) **WIS** 20 (+5) **CHA** 12 (+1)
 **Saving Throws** Int +5, Wis +8

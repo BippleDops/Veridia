@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Void Keeper Sister Nyx space V1 Void Keeper
   Sister Nyx space.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city void keeper sister nyx space v1 void
   keeper sister nyx spacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

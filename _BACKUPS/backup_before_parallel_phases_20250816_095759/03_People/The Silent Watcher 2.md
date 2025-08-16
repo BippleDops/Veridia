@@ -6,14 +6,14 @@ current_state: Active ancient surveillance
 danger_level: 4
 depth: 3800-4100 feet
 discovered: false
-factions: 
+factions:
 - '[[The Observers'
 - '[Record Keepers]]'
 - '[[The Watched'
 government: Ancient Custodianship
 location_name: [The Silent Watcher]] Observatory
 location_type: Ancient Sentinel Complex
-notable_npcs: 
+notable_npcs:
 - '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The
   Silent Watcher Entity'
 - '[[02_Worldbuilding/Places/[Echo-Scribe Matthias]]]]'
@@ -24,7 +24,7 @@ population: 1
 pressure_effects: Extreme
 ruler: '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The
   Silent Watcher Entity'
-services: 
+services:
 - Universal Surveillance
 - Historical Record Access
 - Pattern Recognition
@@ -32,13 +32,13 @@ services:
 - Temporal Observation
 shadow_density: Minimal
 status: complete
-sub_locations: 
+sub_locations:
 - '[The Observation Sphere]]'
 - '[[02_Worldbuilding/Places/[Memory Recording Chambers]]'
 - '[[The Vigil Gardens'
 - '[Sentinel Archive Vaults]]'
 - '[[The Watcher''s Throne'
-tags: 
+tags:
 - both
 - complete
 - content/location

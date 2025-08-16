@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Consequence Chain 5 - Marina Identity Revelation
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

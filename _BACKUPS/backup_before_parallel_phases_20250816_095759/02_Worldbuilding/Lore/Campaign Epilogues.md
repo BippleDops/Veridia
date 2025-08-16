@@ -2,7 +2,7 @@
 
 title: Campaign Epilogues
 type: [[Lore
-tags: 
+tags:
 - lore
 - session-notes
 - status/complete

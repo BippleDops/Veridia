@@ -2,7 +2,7 @@
 
 title: [[Wind Riders Union
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/lore
 - quest

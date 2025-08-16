@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc professor aldric crystalweaver v2 professor aldric crystalweaversvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Professor Aldric Crystalweaver V2 Professor Aldric Crystalweaver.svg
 type: npc

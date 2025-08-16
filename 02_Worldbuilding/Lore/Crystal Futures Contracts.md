@@ -2,7 +2,7 @@
 
 title: Crystal Futures Contracts
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

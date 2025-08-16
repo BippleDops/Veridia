@@ -2,7 +2,7 @@
 
 title: Old Sally Seasprayer
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

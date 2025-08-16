@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Grief Counseling Grief Counseling.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city grief counseling grief counselingsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

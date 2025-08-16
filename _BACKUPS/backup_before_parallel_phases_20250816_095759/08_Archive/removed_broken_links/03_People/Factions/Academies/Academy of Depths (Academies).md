@@ -2,7 +2,7 @@
 
 title: Academy of Depths
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

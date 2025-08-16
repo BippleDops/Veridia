@@ -2,7 +2,7 @@
 
 title: X-L-05_The_Pirate_Confederacy_Crown
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

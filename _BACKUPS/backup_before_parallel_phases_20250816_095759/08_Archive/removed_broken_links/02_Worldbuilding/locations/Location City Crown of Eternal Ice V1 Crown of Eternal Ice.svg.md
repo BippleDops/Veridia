@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city crown of eternal ice v1 crown of eternal icesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Crown of Eternal Ice V1 Crown of Eternal Ice.svg
 type: location

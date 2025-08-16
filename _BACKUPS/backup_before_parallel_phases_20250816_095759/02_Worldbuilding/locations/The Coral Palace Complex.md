@@ -2,7 +2,7 @@
 
 title: The [[Coral Palace Complex
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

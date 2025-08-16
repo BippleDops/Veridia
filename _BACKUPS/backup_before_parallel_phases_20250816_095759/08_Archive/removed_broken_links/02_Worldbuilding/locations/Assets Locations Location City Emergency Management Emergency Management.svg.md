@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Emergency Management Emergency Management.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city emergency management emergency managementsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

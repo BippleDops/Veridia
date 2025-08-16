@@ -2,7 +2,7 @@
 
 title: Aquabyssos - Session 07 - The Resonance Revelation
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

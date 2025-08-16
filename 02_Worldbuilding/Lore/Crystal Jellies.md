@@ -2,7 +2,7 @@
 
 title: Crystal Jellies
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

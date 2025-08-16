@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc vex shadowthorn the kingpin v1 vex shadowthorn the kingpinsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Vex Shadowthorn the Kingpin V1 Vex Shadowthorn the Kingpin.svg
 type: npc

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Culinary Dreamweaver Sage Gentlespice V1 Culinary
   Dreamweaver Sage Gentlespice.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city culinary dreamweaver sage gentlespice
   v1 culinary dreamweaver sage gentlespicesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

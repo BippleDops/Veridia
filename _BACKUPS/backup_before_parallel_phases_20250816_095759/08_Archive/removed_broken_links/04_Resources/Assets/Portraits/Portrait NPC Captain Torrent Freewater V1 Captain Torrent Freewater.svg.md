@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain torrent freewater v1 captain torrent freewatersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Torrent Freewater V1 Captain Torrent Freewater.svg
 type: npc

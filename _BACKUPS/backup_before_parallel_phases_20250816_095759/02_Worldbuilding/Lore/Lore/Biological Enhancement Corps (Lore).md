@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Biological Enhancement Corps
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

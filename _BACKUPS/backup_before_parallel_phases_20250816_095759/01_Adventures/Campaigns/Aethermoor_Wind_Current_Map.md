@@ -2,7 +2,7 @@
 
 title: Aethermoor_Wind_Current_Map
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

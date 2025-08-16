@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Reality Anchor Installation
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

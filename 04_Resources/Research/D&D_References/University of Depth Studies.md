@@ -2,7 +2,7 @@
 
 title: University of Depth Studies
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Sage Lyralei Starweaver Sage Lyralei Starweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sage lyralei starweaver sage lyralei
   starweaversvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

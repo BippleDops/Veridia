@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -180,7 +180,7 @@ improvements: 20
 - [[02_Worldbuilding_Groups_Political_Consulting_Guil
 - [02_Worldbuilding_Groups_Pressure_Safety_Authorit]]
 - [[02_Worldbuilding_Groups_Surface_Reconnection_Coalition
-- 
+-
 - [02_Worldbuilding_Groups_The_Memory_Keepers]]
 - [[02_Worldbuilding_Groups_The_Nameless_Librarians
 - [02_Worldbuilding_Groups_The_Pearl_Divers_Guil]]
@@ -207,7 +207,7 @@ improvements: 20
 - [[02_Worldbuilding_Items_Truth_Crystals
 - [02_Worldbuilding_Locations_Abyssal_Forges]]
 - [[02_Worldbuilding_Locations_Abyssal_Spires
-- 
+-
 - [02_Worldbuilding_Locations_Crystal_Conservatory]]
 - [[02_Worldbuilding_Locations_Floating_Arsenal
 - [02_Worldbuilding_Locations_Sunken_Palace]]
@@ -308,7 +308,7 @@ improvements: 20
 - [[08-using-ability-scores#Skills
 - [08-using-ability-scores#Strength]]
 - [[08-using-ability-scores#Wisdom
-- 
+-
 - [09 Adventuring#movement#climbing, Swimming, and Crawling]]
 - [[09-adventuring#Difficult Terrain
 - [09-adventuring#Food and Water]]
@@ -393,7 +393,7 @@ improvements: 20
 - [[Academic Research Societies
 - [Academic Rival]]
 - [[Academic_Institutions (02_Worldbuilding)
-- 
+-
 - [Academy of Deep Learning]]
 - [[Academy of Deep Understanding
 - [Academy of Foundational Inquiry]]
@@ -420,7 +420,7 @@ improvements: 20
 - [[Aetherian Academy of Mystical Arts
 - [Aetheric Wind Songs]]
 - [[Aetherite
-- 
+-
 - [Aethermoor Content]]
 - [[Aethermoor Council
 - [Aethermoor Culture and Society]]
@@ -515,11 +515,11 @@ improvements: 20
 - [[Architect Prime Crystalline Vision
 - [Architect Temporal Wisdom]]
 - [[Architecture Dimensional Bridging
-- 
-- 
-- 
-- 
-- 
+-
+-
+-
+-
+-
 - [Archivist Memory Bank]]
 - [[Archivist Supreme Indexa
 - [Archmage Deflector Windturner]]
@@ -557,7 +557,7 @@ improvements: 20
 - [Aurelius''s Private Study]]
 - [[Authenticity Verification
 - [Avatar Manifestations]]
-- 
+-
 - [[Balance Stones
 - [Balta Kaine]]
 - [[Banker Kess
@@ -661,7 +661,7 @@ improvements: 20
 - [[Commander Ironprice
 - [Commander Tidal Strongcurrent]]
 - [[Commander Transparent
-- 
+-
 - [Commercial Dispute Resolution Procedures]]
 - [[Commercial Navigation Services
 - [Common Goods Market]]
@@ -797,7 +797,7 @@ improvements: 20
 - [Crystal Addiction Victims]]
 - [[Crystal Agricultural Research Institute
 - [Crystal Architecture Philosophy]]
-- 
+-
 - [[Crystal Assessor Pearl Gradewell
 - [Crystal Bridge Embassy]]
 - [[Crystal Caves of Aethermoor
@@ -871,7 +871,7 @@ improvements: 20
 - [[Cultural Exchanges
 - [Cultural Festivals Committee (02_Worldbuilding)]]
 - [[Cultural Historian Deepcurrent
-- 
+-
 - [Cultural Traditions and Customs]]
 - [[Culture_Builde
 - [Culture_Builder]]
@@ -908,7 +908,7 @@ improvements: 20
 - [[Deep Academy Alumni Association
 - [Deep Adaptation Processes]]
 - [[Deep Ancient Ruins
-- 
+-
 - [Deep Biology Institute]]
 - [[Deep Current Academy
 - [Deep Current Network]]
@@ -1318,7 +1318,7 @@ improvements: 20
 - [Hereditary House]]
 - [[Heresy Hunter Barracks
 - [Heritage Archiv]]
-- 
+-
 - [[Hidden Monastery of Eternal Currents
 - [Hidden Sanctuary]]
 - [[Hidden Shrine of Forgotten Depths
@@ -1465,7 +1465,7 @@ improvements: 20
 - [Junior Administrator Elena Efficient]]
 - [[Keeper Healer Restoration
 - [Keeper Hope Beacon]]
-- 
+-
 - [[Keeper Luminous Truehart
 - [Keeper Sage Remembrance]]
 - [[Keeper Shield Protector
@@ -1499,7 +1499,7 @@ improvements: 20
 - [[Legal Defense Network
 - [Legal Reform Movemen]]
 - [[Legal_Advisor_Depth_Justice (02_Worldbuilding)
-- 
+-
 - [Leviathan Graveyard]]
 - [[Leviathan the Dee
 - [Leviathan]]
@@ -1563,7 +1563,7 @@ improvements: 20
 - [Lord Flux]]
 - [[Journey Board (Lore)
 - [Lore_1 (02_Worldbuilding)]]
-- 
+-
 - [[Lost Fleet
 - [Loyal Sergean]]
 - [[Loyalty Testing Centers
@@ -1712,8 +1712,8 @@ improvements: 20
 - [Memory Alteration Consequences]]
 - [[Memory Alteration
 - [Memory Alterations]]
-- 
-- 
+-
+-
 - [[Memory Bank Central
 - [Memory Blade]]
 - [[Memory Coral
@@ -2069,7 +2069,7 @@ improvements: 20
 - [[Royal Academy of Arcane Arts - Ruins
 - [Royal Academy of Arcane Arts]]
 - [[Royal Academy of Ethical Commerce
-- 
+-
 - [Royal Bloodline Codex]]
 - [[Royal Bunker
 - [Royal Court of Aethermoor]]
@@ -2122,7 +2122,7 @@ improvements: 20
 - [[Senator Shadow-Glaucus
 - [Senior Temporal Engineer Chronos Fieldwright]]
 - [[Senior Tidal Engineer Marina Flowmaster
-- 
+-
 - [Sera Swiftcurrent]]
 - [[Seraphina the Beautiful
 - [Seren Goldwave]]
@@ -2356,8 +2356,8 @@ improvements: 20
 - [The Anchor of Being]]
 - [[The Ancient Compact
 - [The Ancient Treants]]
-- 
-- 
+-
+-
 - [[The Argument Amphitheater
 - [The Arterial Highways]]
 - [[The Artisans' Collective
@@ -2397,8 +2397,8 @@ improvements: 20
 - [[The Community Feast Halls_1 (02_Worldbuilding)
 - [The Community Sky-Platforms]]
 - [[The Concordat Seal
-- 
-- 
+-
+-
 - [The Consciousness Shard Discovery]]
 - [[The Consciousness Shard
 - [The Consciousness Vault]]
@@ -2510,7 +2510,7 @@ improvements: 20
 - [The Exchange Rate]]
 - [[The Exotic Wharf
 - [The False History Crisis]]
-- 
+-
 - [[The Festival of Rising Tides
 - [The Final Choice]]
 - [[The Final Confrontation
@@ -2529,7 +2529,7 @@ improvements: 20
 - [The Forbidden Section]]
 - [[The Forgetting Bomb
 - [The Forgiveness Seekers]]
-- 
+-
 - [[The Forgotten Court
 - [The Forgotten Isles]]
 - [[The Fortress of the Deeps
@@ -2569,8 +2569,8 @@ improvements: 20
 - [[The Heart of Convergence
 - [The Herald's Hall]]
 - [[The Heroes' Hall
-- 
-- 
+-
+-
 - [The Hybrid Settlements]]
 - [[The Identity Chamber
 - [The Identity Mirror]]
@@ -2641,7 +2641,7 @@ improvements: 20
 - [[The Null Sanctum
 - [The Observation Sphere]]
 - [[The Observers
-- 
+-
 - [The Opposition Leader]]
 - [[The Oracle
 - [The Order of Azure Flame]]
@@ -2942,10 +2942,10 @@ improvements: 20
 - [[Update Indexes
 - [VAULT_COMPLETION_STATUS]]
 - [[Valley of Eternal Mourning
-- 
-- 
-- 
-- 
+-
+-
+-
+-
 - [Vault Prime]]
 - [[Vehicle Core Rules#2) Piloting & Adaptation Requirements
 - [Vehicle_Core_Rules#10) Crew Roles (Examples)]]
@@ -2986,7 +2986,7 @@ improvements: 20
 - [[Weather_Warden_Storm_Wisdom (02_Worldbuilding)
 - [Weekly_Cleansing]]
 - [[Westkeep
-- 
+-
 - [Whisper Collective]]
 - [[Whisper Exposure
 - [Whisper Goldtongue]]
@@ -3049,7 +3049,7 @@ improvements: 20
 - [[awakened-shrub-xmm
 - [awakened-tree-xmm]]
 - [[axe-beak-xmm
-- 
+-
 - [beholder-zombie-xmm]]
 - [[black-bear-xmm
 - [black-pudding-xmm]]
@@ -3224,7 +3224,7 @@ improvements: 20
 - [[twig-blight-xmm
 - [tyrannosaurus-rex-xmm]]
 - [[vampire-spawn-xmm
-- 
+-
 - [venomous-snake-xmm]]
 - [[vine-blight-xmm
 - [violet-fungus-xmm]]
@@ -3279,8 +3279,8 @@ improvements: 20
 - [[Archaeological Society
 - [Archdeacon Felix Faithkeeper]]
 - [[Archdruid Marina Kelpweaver
-- 
-- 
+-
+-
 - [Archivist Elena Sorrowkeeper]]
 - [[Archivist Reef Bookkeeper
 - [Archkeeper Nereon]]
@@ -3826,7 +3826,7 @@ improvements: 20
 - [Terminal Master Hadrian Depthbridge]]
 - [[Tethyan Hegemony
 - [The Aether Works]]
-- 
+-
 - [[The Azure Coast
 - [The Bone Colosseum]]
 - [[The Bone Palace of Sorrows
@@ -3867,7 +3867,7 @@ improvements: 20
 - [The Forgotten Representative]]
 - [[The Free Current
 - [The Golden Trade Route]]
-- 
+-
 - [[The Grand Bazaar of Echoing Coins
 - [The Great Drowning]]
 - [[The Great Sky Harbor

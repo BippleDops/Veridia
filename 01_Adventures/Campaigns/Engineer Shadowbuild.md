@@ -2,7 +2,7 @@
 
 title: Engineer Shadowbuild
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

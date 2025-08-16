@@ -8,7 +8,7 @@ population: Variable (Pilgrims and Researchers)
 significance: Major (Deep Mother Activity)
 size: Multiple Sites Throughout Realm
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location
@@ -49,32 +49,32 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 ## Geographic Distribution
 ### Primary Well Clusters
 #### The Despair Depths
-**Location**: Deepest oceanic trenches near [[02_Worldbuilding/Places/The Hadal Depths  
-**Count**: ~50 Wells  
+**Location**: Deepest oceanic trenches near [[02_Worldbuilding/Places/The Hadal Depths
+**Count**: ~50 Wells
 **Manifestations**: Existential dread, cosmic loneliness, fear of meaninglessness
 - **The Void Well**: Largest Well producing entities of pure nihilism
 - **Abandonment Springs**: Sources of beings representing fear of isolation
 - **The Emptiness Pool**: Manifests creatures of hollow consumption
 
 #### The Trauma Gardens
-**Location**: Mid-depth regions throughout Aquabyssos  
-**Count**: ~200 Wells  
+**Location**: Mid-depth regions throughout Aquabyssos
+**Count**: ~200 Wells
 **Manifestations**: Personal and collective traumatic experiences
 - **War Memorial Wells**: Produce phantoms of battlefield horrors
 - **Loss Lagoons**: Manifest grief over death and separation
 - **Betrayal Basins**: Source beings representing broken trust and deception
 
 #### The Anxiety Fields
-**Location**: Shallower waters near populated areas  
-**Count**: ~300 Wells  
+**Location**: Shallower waters near populated areas
+**Count**: ~300 Wells
 **Manifestations**: Daily fears and social anxieties
 - **Failure Fountains**: Creatures embodying fear of inadequacy
 - **Judgment Pools**: Entities representing social criticism and rejection
 - **Change Springs**: Manifestations of fear about transformation and uncertainty
 
 #### The Ancient Sorrows
-**Location**: Historical sites and ruins  
-**Count**: ~75 Wells  
+**Location**: Historical sites and ruins
+**Count**: ~75 Wells
 **Manifestations**: Primordial fears and cosmic-scale grief
 - **The First Fear**: Original terror from universe's creation
 - **Evolution's Regret**: Sorrow over necessary but painful development

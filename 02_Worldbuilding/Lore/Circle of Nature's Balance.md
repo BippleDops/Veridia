@@ -2,7 +2,7 @@
 
 title: Circle of Nature's Balance
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

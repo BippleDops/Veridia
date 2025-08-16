@@ -2,7 +2,7 @@
 
 title: The Symbiotic Compact
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

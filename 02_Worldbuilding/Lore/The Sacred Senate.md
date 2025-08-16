@@ -2,7 +2,7 @@
 
 title: The Sacred Senate
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the first truth v1 the first truthsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the First Truth V1 the First Truth.svg
 type: location

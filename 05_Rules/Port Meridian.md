@@ -1,7 +1,7 @@
 ---
 title: Port Meridian
 type: [[location
-tags: 
+tags:
 - both
 - aerial
 - aquatic

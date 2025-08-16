@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Aboleth Adjunct Yzz Aboleth Adjunct Yzz.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city aboleth adjunct yzz aboleth adjunct
   yzzsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

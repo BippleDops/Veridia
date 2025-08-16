@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc marcus shardbreaker grimm v2 marcus shardbreaker grimmsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Marcus Shardbreaker Grimm V2 Marcus Shardbreaker Grimm.svg
 type: npc

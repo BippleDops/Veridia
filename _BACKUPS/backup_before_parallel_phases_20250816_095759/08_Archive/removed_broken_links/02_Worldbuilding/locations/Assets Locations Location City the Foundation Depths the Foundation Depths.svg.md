@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Foundation Depths the Foundation Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the foundation depths the foundation
   depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

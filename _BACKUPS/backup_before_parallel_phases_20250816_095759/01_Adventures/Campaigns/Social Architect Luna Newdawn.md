@@ -2,7 +2,7 @@
 
 title: Social Architect Luna Newdawn
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore
@@ -122,7 +122,7 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

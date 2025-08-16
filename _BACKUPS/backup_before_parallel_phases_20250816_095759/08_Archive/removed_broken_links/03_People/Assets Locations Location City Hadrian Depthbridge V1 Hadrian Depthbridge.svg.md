@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Hadrian Depthbridge V1 Hadrian Depthbridge.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city hadrian depthbridge v1 hadrian depthbridgesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

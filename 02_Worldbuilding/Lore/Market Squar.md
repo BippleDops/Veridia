@@ -2,7 +2,7 @@
 
 title: Market Squar
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

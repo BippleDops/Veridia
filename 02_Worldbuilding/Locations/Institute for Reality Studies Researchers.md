@@ -2,7 +2,7 @@
 
 title: Institute for Reality Studies Researchers
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

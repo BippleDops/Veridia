@@ -2,7 +2,7 @@
 
 title: Conductor Morpheus Mindbridge
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

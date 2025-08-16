@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Harbor Patrol Harbor Patrol.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor patrol harbor patrolsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

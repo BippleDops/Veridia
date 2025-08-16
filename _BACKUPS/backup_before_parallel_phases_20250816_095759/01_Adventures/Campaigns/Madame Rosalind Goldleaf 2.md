@@ -13,7 +13,7 @@ location: Goldleaf Manor, Aethermoor
 obsidianUIMode: preview
 occupation: Trading House Matriarch
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/location
@@ -51,16 +51,16 @@ Beyond her commercial success, Madame Goldleaf serves as informal power broker a
 
 **Madame Rosalind Goldleaf** (Medium humanoid, lawful neutral)
 
-**Armor Class** 15 (Elegant Robes + Dex)  
-**Hit Points** 71 (`dice: 11d8` + 22)  
+**Armor Class** 15 (Elegant Robes + Dex)
+**Hit Points** 71 (`dice: 11d8` + 22)
 **Speed** 30 ft.
 
 **STR** 10 (+0) **DEX** 14 (+2) **CON** 14 (+2) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 20 (+5)
 
-**Saving Throws** Wisdom +7, Charisma +9  
-**Skills** Deception +13, History +8, Insight +11, Investigation +8, Perception +7, Persuasion +13  
-**Languages** Common, Elvish, Draconic, Celestial, plus 3 trade languages  
-**Challenge Rating** 8 (3,900 XP)  
+**Saving Throws** Wisdom +7, Charisma +9
+**Skills** Deception +13, History +8, Insight +11, Investigation +8, Perception +7, Persuasion +13
+**Languages** Common, Elvish, Draconic, Celestial, plus 3 trade languages
+**Challenge Rating** 8 (3,900 XP)
 **Proficiency Bonus** +4
 
 ### Special Abilities
@@ -245,28 +245,28 @@ Contingency plans exist for various scenarios including sudden incapacitation, e
 
 ### The Trade War
 
-**Level**: 7-11  
+**Level**: 7-11
 **Type**: Economic/Political Intrigue
 
 Madame Goldleaf is being targeted by competitors attempting to destroy her business through sabotage, manipulation, and political pressure. The party must help investigate and counter these attacks while maintaining her reputation.
 
 ### The Diplomatic Commerce
 
-**Level**: 6-10  
+**Level**: 6-10
 **Type**: Diplomatic/Commercial Mission
 
 Madame Goldleaf needs the party's assistance in establishing trade relationships with a new realm, requiring them to serve as her representatives in complex negotiations involving cultural sensitivity and political complications.
 
 ### The Family Crisis
 
-**Level**: 8-12  
+**Level**: 8-12
 **Type**: Personal/Family Drama
 
 Internal conflicts within the Goldleaf family threaten to tear apart the trading house, and Madame Goldleaf needs the party's help in resolving disputes while protecting family interests and business operations.
 
 ### The Market Manipulation
 
-**Level**: 9-13  
+**Level**: 9-13
 **Type**: Investigation/Economic Thriller
 
 Someone is artificially manipulating markets to damage [[02_Worldbuilding/Places/Aethermoor's economy, and Madame Goldleaf recruits the party to investigate and stop this economic warfare before it causes widespread damage.

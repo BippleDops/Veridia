@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Marcus the Shade Blackwood Marcus the Shade Blackwood.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc marcus the shade blackwood marcus the
   shade blackwoodsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

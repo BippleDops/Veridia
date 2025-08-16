@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Captain Marcus V1 Captain Marcus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city captain marcus v1 captain marcussvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

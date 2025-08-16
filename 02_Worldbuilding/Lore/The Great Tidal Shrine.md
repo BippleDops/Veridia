@@ -2,7 +2,7 @@
 
 title: The Great Tidal Shrine
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

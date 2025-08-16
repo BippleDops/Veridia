@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Coral Throne V1 the Coral Throne.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the coral throne v1 the coral thronesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

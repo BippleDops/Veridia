@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Quest the Missing Fleet Quest the Missing Fleet.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest the missing fleet quest the missing
   fleetsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -189,7 +189,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

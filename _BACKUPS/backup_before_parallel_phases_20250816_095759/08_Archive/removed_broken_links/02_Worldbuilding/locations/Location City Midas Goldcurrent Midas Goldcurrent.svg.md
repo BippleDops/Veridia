@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city midas goldcurrent midas goldcurrentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Midas Goldcurrent Midas Goldcurrent.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Great Drowning
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Medicine/Hybrid Healing
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

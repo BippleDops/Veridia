@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Quest the Portal Crisis V1 Quest the Portal
   Crisis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest the portal crisis v1 quest the
   portal crisissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

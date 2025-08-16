@@ -5,12 +5,12 @@ created_by: auto-stub
 duration: Instantaneous Event with Eternal Consequences
 expanded: 2025-08-11
 outcome: Crown Shattered, World Transformed, Divinity Scattered
-participants: 
+participants:
 - God-King Aetheron
 - The Seven Betrayers
 - The Crown of Stars
 - Reality Itself
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Lore/The Seven Betrayers'
 - '[02_Worldbuilding/Lore/The Crown of Stars]]'
 - '[[02_Worldbuilding/Lore/The Great Crystallization'
@@ -19,7 +19,7 @@ related_entities:
 scale: Multidimensional
 significance: Reality-Altering
 status: complete
-tags: 
+tags:
 - aethermoor
 - catastrophic-event
 - complete
@@ -559,7 +559,7 @@ These questions continue to resonate through Aethermoor culture, politics, and i
 
 ---
 
-*"In breaking the crown, they broke the world - but they also freed it. Whether that freedom was worth the price, only time will tell."*  
+*"In breaking the crown, they broke the world - but they also freed it. Whether that freedom was worth the price, only time will tell."*
 *- **The Crimson Sage**, reflecting on the betrayal of his trusted advisors*
 
 ## Connections

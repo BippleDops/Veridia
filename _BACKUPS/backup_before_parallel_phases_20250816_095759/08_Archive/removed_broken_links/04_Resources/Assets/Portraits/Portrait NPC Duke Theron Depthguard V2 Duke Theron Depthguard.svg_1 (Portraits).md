@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc duke theron depthguard v2 duke theron depthguardsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Duke Theron Depthguard V2 Duke Theron Depthguard.svg
 type: npc

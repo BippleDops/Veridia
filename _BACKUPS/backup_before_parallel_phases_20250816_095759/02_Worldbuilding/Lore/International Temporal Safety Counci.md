@@ -2,7 +2,7 @@
 
 title: International Temporal Safety Counci
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

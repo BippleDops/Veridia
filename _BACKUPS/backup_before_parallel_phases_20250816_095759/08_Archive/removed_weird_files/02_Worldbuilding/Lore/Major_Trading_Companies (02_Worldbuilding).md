@@ -2,7 +2,7 @@
 
 title: [[Major Trading Companies
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

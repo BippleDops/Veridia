@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location
@@ -174,23 +174,23 @@ Surface dwellers sometimes hear echoes of the trench songs during storms or at c
 ## Quest Hooks and Adventures
 
 ### The Silent Orchestra
-**Level**: 8-11  
+**Level**: 8-11
 The music in one section of the trenches has stopped completely, and the silence is spreading. The party must discover what's causing the problem before the entire ecosystem collapses and potentially threatening other areas of Aquabyssos.
 
 ### The Stolen Song
-**Level**: 5-8  
+**Level**: 5-8
 A group of surface dwellers has captured and imprisoned a Harmony Whale, intending to use its voice for war purposes. The party must rescue the creature and deal with the diplomatic implications of surface-depth conflict.
 
 ### The Mad Composer
-**Level**: 9-13  
+**Level**: 9-13
 A powerful bard has arrived in the trenches and is using magic to force the natural music into new, dangerous patterns. Their "improvements" are causing earthquakes and driving wildlife to madness.
 
 ### The Last Performance
-**Level**: 12-15  
+**Level**: 12-15
 Ancient magical songs are beginning to play that haven't been heard since before [02_Worldbuilding/Places/The Great Drowning]]. These melodies seem to be preparing for some great event, but their meaning is unclear and their power is growing daily.
 
 ### The Harmony War
-**Level**: 6-10  
+**Level**: 6-10
 Two factions - one wanting to preserve the trenches' natural state and another seeking to exploit their musical properties - are on the verge of armed conflict. The party must mediate or choose sides before the fighting disrupts the delicate sonic ecosystem.
 
 ## Random Encounters (d12)
@@ -218,7 +218,7 @@ Two factions - one wanting to preserve the trenches' natural state and another s
 ## Adventure Integration
 The Singing Trenches work best as:
 - **Atmospheric Location**: A beautiful but dangerous place that tests characters' resolve
-- **Research Destination**: Source of magical knowledge and unique materials  
+- **Research Destination**: Source of magical knowledge and unique materials
 - **Diplomatic Challenge**: Balancing the needs of preservation vs. exploitation
 - **Musical Dungeon**: Where sound and music replace traditional traps and puzzles
 - **Connection Point**: Bridge between surface musical traditions and depth magic

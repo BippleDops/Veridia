@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Official Memory Keepers Official Memory Keepers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city official memory keepers official memory
   keeperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

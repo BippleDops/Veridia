@@ -2,7 +2,7 @@
 
 title: Mobile Terror Platform
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

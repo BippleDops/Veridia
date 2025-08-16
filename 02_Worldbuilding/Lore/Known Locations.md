@@ -2,7 +2,7 @@
 
 title: Known [[locations
 type: location
-tags: 
+tags:
 - location
 - town
 - northern-reaches
@@ -208,7 +208,7 @@ Known Locations can serve as:
 - **Aberration**: [Aboleth]]
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 8
-  
+
 ### [[Environmental Hazards
 - Collapsing ceiling
 - **DC 16** to detect
@@ -226,7 +226,7 @@ Known Locations can serve as:
 - **Recent History**: Fire 4 years ago
 - **Living Memory**: Duel last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Festival in 28 days
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: [Link]]s to The Hidden Prophecy of Shadows

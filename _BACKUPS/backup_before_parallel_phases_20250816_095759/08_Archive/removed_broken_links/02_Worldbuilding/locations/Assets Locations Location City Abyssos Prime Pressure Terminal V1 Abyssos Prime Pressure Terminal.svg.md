@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Abyssos Prime Pressure Terminal V1 Abyssos Prime
   Pressure Terminal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city abyssos prime pressure terminal v1 abyssos
   prime pressure terminalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -182,7 +182,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

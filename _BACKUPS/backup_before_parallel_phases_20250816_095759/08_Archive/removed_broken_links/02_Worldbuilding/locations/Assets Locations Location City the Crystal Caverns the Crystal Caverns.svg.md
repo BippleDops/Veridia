@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Crystal Caverns the Crystal Caverns.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal caverns the crystal cavernssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -217,7 +217,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

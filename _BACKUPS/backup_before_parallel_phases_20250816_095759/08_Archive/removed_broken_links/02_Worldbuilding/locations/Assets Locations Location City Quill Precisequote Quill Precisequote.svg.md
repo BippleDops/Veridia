@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Quill Precisequote Quill Precisequote.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quill precisequote quill precisequotesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

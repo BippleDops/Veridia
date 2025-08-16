@@ -2,7 +2,7 @@
 
 title: Master of Whispers Shade-Tongue Aldric
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

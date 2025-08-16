@@ -2,7 +2,7 @@
 
 title: Syncretist Mediators
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

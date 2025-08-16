@@ -1,7 +1,7 @@
 ---
 title: Eastern Port
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

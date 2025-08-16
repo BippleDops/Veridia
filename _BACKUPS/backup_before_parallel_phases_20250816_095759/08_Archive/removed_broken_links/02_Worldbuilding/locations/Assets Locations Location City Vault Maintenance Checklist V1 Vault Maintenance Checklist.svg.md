@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Vault Maintece Checklist V1 Vault Maintece Checklist.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city vault maintece checklist v1 vault maintece
   checklistsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

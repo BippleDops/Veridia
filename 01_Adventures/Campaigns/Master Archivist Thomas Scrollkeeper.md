@@ -2,7 +2,7 @@
 
 title: Master Archivist Thomas Scrollkeeper
 type: Location
-tags: 
+tags:
 - content/location
 - place
 - world/aethermoor

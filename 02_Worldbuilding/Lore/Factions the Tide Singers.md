@@ -2,7 +2,7 @@
 
 title: Factions the [[Tide Singers
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

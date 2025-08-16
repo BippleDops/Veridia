@@ -2,7 +2,7 @@
 
 title: [[Merchant|[Merchant Quarter]] Districts
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

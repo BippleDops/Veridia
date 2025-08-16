@@ -2,7 +2,7 @@
 
 title: Reality Anchoring
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore
@@ -115,7 +115,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -151,7 +151,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - [Memory Alteration Consequences]]
 - [[Temporal Anomaly Resolution
 - [The Crimson Hand]]
-- 
+-
 - [[The Queen
 - [Reflection Pools - Surgical Theater]]
 - [[The Recursion Cult

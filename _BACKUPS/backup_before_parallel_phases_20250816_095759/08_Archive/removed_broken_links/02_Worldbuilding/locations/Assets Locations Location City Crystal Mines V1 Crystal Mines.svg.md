@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crystal Mines V1 Crystal Mines.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal mines v1 crystal minessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

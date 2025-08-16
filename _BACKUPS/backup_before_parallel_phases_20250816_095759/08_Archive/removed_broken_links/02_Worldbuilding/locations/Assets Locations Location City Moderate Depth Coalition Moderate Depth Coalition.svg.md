@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Moderate Depth Coalition Moderate Depth Coalition.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city moderate depth coalition moderate depth
   coalitionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

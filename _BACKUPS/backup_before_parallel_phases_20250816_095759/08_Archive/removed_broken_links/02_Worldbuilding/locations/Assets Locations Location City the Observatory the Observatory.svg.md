@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Observatory the Observatory.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the observatory the observatorysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

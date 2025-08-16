@@ -70,7 +70,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas ## Objectives
 
-### 
+###
 *Sounds of [relevant sounds] echo in the distance.*Primary {#primary}
 
 - Main quest goal ### Optional

@@ -2,7 +2,7 @@
 
 title: Tax Commissioner Merion Goldcount
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

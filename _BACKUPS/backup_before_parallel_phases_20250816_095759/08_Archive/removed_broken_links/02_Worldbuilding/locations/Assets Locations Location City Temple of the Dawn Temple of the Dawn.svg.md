@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temple of the Dawn Temple of the Dawn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of the dawn temple of the dawnsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

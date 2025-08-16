@@ -1,9 +1,9 @@
 ---
 title: [[Assets|Assets Item Artifact [Explorers Pack Xphb|Explorers Pack Xphb]] Explorers Pack Xphb.png
-aliases: 
+aliases:
 - [[04_Resources|04 Resources Assets [Items|Items]] item artifact explorers pack xphb explorers pack xphbpng
 type: [[Lore|Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

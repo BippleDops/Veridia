@@ -2,7 +2,7 @@
 
 title: Order of Azure Flame
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

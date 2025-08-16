@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc vex shadowthorn s apprentices v2 vex shadowthorn s apprenticessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Vex Shadowthorn S Apprentices V2 Vex Shadowthorn S Apprentices.svg
 type: npc

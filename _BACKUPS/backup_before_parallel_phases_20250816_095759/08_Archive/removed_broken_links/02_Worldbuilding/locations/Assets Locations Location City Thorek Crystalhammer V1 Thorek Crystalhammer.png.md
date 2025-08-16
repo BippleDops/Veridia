@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Thorek Crystalhammer V1 Thorek Crystalhammer.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city thorek crystalhammer v1 thorek crystalhammerpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: [[Timeline of [The Drowning]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - pre-submersion

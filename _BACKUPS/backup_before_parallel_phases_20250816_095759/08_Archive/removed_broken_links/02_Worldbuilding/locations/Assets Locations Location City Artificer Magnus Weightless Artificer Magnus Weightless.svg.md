@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Artificer Magnus Weightless Artificer Magnus
   Weightless.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city artificer magnus weightless artificer
   magnus weightlesssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

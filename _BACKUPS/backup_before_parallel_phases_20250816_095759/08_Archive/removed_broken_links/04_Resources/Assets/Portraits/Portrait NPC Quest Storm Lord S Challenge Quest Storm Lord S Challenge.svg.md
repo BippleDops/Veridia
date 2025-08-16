@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest storm lord s challenge quest storm lord s challengesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest Storm Lord S Challenge Quest Storm Lord S Challenge.svg
 type: npc

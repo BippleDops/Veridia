@@ -2,7 +2,7 @@
 
 title: The Collector
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

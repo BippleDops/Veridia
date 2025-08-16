@@ -2,7 +2,7 @@
 
 title: Research Chief Helena [[datapoint
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

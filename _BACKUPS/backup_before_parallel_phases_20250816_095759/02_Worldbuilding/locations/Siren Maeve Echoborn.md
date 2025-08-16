@@ -2,7 +2,7 @@
 
 title: [[Siren Maeve Echoborn
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -170,7 +170,7 @@ Ongoing situations affecting Siren Maeve Echoborn:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

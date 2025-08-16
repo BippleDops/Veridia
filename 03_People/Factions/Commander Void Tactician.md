@@ -2,7 +2,7 @@
 
 title: Commander Void Tactician
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

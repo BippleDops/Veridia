@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc priest faith crystalsong v1 priest faith crystalsongsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Priest Faith Crystalsong V1 Priest Faith Crystalsong.svg
 type: npc

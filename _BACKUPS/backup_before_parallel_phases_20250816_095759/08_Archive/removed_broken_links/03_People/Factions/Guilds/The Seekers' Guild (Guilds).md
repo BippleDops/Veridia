@@ -2,7 +2,7 @@
 
 title: The Seekers' Guild
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

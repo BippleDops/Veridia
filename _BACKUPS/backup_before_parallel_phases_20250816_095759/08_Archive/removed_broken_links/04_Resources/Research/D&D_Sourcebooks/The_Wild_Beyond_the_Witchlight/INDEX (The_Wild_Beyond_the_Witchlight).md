@@ -2,7 +2,7 @@
 
 title: INDEX (The_Wild_Beyond_the_Witchlight)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

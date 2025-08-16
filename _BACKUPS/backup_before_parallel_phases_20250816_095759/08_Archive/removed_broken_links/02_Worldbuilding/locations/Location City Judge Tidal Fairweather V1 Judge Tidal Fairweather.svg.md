@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city judge tidal fairweather v1 judge tidal fairweathersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Judge Tidal Fairweather V1 Judge Tidal Fairweather.svg
 type: location

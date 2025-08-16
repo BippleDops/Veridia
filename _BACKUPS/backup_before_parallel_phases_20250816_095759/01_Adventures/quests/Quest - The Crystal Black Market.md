@@ -59,7 +59,7 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Crystal Black Market 
+- Moral dilemmas # Quest - The Crystal Black Market
 *The air carries the scent of [appropriate smell].*---
 
 title: Quest The Crystal Black Market

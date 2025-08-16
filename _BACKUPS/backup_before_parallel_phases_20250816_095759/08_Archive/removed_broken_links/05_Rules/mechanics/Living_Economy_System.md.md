@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Living_Economy_System.md
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

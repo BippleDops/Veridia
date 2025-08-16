@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Chronomancer Paradox V1 Chronomancer Paradox.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chronomancer paradox v1 chronomancer
   paradoxsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

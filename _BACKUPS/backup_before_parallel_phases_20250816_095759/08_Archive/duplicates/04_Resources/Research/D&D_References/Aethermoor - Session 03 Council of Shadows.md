@@ -2,7 +2,7 @@
 
 title: Aethermoor - Session 03 Council of Shadows
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: Shadow Silk Weavers Guild
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

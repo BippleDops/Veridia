@@ -1,7 +1,7 @@
 ---
 title: The Sunken Library of Thalassius
 type: Location
-tags: 
+tags:
 - [[Aquabyssos
 - library
 - status/complete
@@ -33,7 +33,7 @@ danger_level: Moderate-High
 depth: 2500-3000 feet
 difficulty: Levels 6-12
 original_builder: '[[Emperor|Scholar [[Emperor [Thalassius the Wise]]]]'
-related_entities: 
+related_entities:
 - '[[Emperor Thalassius|Scholar [Emperor Thalassius the Wise]]'
 - '[[Groups
   Covet]]'

@@ -7,7 +7,7 @@ danger_level: High
 expanded: 2025-08-11
 significance: Critical Infrastructure
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/lore
@@ -74,7 +74,7 @@ Each Chamber incorporates crystalline amplification matrices that resonate with 
 The Chambers can create, maintain, and direct water pressure differentials of extraordinary magnitude, enabling:
 - Vertical water transport through pressure tubes throughout the city
 - Pressure-based manufacturing processes for specialized materials
-- Emergency pressure isolation during crisis situations  
+- Emergency pressure isolation during crisis situations
 - Precision pressure control for delicate biological and magical processes
 
 ### Water Processing and Enhancement

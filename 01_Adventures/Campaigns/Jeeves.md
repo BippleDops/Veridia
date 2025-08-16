@@ -2,7 +2,7 @@
 
 title: [[Jeeves
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

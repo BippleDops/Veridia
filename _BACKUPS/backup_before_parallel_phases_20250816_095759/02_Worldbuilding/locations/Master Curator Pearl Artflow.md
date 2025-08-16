@@ -2,7 +2,7 @@
 
 title: Master Curator Pearl Artflow
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc otherworldly pacts v2 otherworldly pactssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Otherworldly Pacts V2 Otherworldly Pacts.svg
 type: npc

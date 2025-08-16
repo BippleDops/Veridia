@@ -2,7 +2,7 @@
 
 title: [[Aethermoor Navigation Crystal
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - aerial

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Luminar the Builder V1 Luminar the Builder.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city luminar the builder v1 luminar the buildersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city surface underwater trade v1 surface underwater tradesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Surface Underwater Trade V1 Surface Underwater Trade.svg
 type: location

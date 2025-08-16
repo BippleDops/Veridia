@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Ancient Nobility the Ancient Nobility.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the ancient nobility the ancient nobilitysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

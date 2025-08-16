@@ -1,7 +1,7 @@
 ---
 title: Explorer Captain Twist Realitywalker
 type: npc
-tags: 
+tags:
 - npc
 - human
 - paladin

@@ -74,7 +74,7 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest Dependency System ## Quest 
+- Moral dilemmas # Quest Dependency System ## Quest
 *The air carries the scent of [appropriate smell].*Giver
 
 - **Name**: Local authority figure

@@ -2,7 +2,7 @@
 
 title: Tidal Council
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - dual
 - content/lore

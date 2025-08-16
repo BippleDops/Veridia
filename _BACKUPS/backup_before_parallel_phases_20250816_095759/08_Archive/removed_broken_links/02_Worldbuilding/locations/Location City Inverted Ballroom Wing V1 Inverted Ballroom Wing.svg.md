@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city inverted ballroom wing v1 inverted ballroom wingsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Inverted Ballroom Wing V1 Inverted Ballroom Wing.svg
 type: location

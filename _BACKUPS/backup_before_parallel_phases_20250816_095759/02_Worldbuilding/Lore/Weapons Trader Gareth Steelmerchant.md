@@ -2,7 +2,7 @@
 
 title: Weapons Trader Gareth Steel[[Merchant
 type: [Lore]]
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

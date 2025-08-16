@@ -2,7 +2,7 @@
 
 title: [[The Deserter's Tale
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - completed
@@ -20,12 +20,12 @@ created: '2025-08-11'
 modified: '2025-08-14'
 status: draft
 world: dual
-connections: 
+connections:
 - '[[Pressure''s End'
 - '[Honor Guard]]'
 - '[[Deep Mother'
 - '[The Tidal Council]]'
-themes: 
+themes:
 - betrayal
 - redemption
 - duty_vs_survival
@@ -117,7 +117,7 @@ The [Tidal Council]] branded him a deserter when his unit returned with tales of
 
 Captain Nereon abandoned his post during the Deep Watch incident, forcing his subordinates to complete the mission without proper leadership. His cowardice resulted in the loss of three guardsmen and compromised security protocols. His name is stricken from honor rolls by order of the [[Tidal Council.
 
-### The Survivors' Account  
+### The Survivors' Account
 
 *Whispered in military taverns*
 

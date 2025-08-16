@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Surface Tensions V1 Surface Tensions.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface tensions v1 surface tensionssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Harbormaster [[Tidal Stormcrest
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

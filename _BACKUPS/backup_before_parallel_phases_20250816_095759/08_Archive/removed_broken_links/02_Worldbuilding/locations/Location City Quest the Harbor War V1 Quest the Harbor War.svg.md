@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city quest the harbor war v1 quest the harbor warsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Quest the Harbor War V1 Quest the Harbor War.svg
 type: location

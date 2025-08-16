@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Grief Overwhelming Syndrome Grief Overwhelming
   Syndrome.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city grief overwhelming syndrome grief overwhelming
   syndromesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

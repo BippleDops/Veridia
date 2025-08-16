@@ -2,7 +2,7 @@
 
 title: Name Etymology Guide
 type: [[Lore
-tags: 
+tags:
 - cultural_reference
 - lore
 - both
@@ -231,7 +231,7 @@ Reflecting sky-based culture and elevation mastery:
 
 **Height References:**
 - **Sky-** prefix: Skyborn, Skywright, Skyward
-- **Cloud-** prefix: Cloudwalker, Clouddancer, Cloudseeker  
+- **Cloud-** prefix: Cloudwalker, Clouddancer, Cloudseeker
 - **Wind-** prefix: Windwright, Windrider, Windcaller
 - **Storm-** prefix: Stormcaller, Stormbringer, Stormwright
 

@@ -2,7 +2,7 @@
 
 title: Minister Truth Darknes
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

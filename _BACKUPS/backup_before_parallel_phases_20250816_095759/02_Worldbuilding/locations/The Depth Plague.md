@@ -2,7 +2,7 @@
 
 title: The Depth Plague
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -109,18 +109,18 @@ The [Council of Currents]] declared a state of emergency when the plague began s
 #### Depth Touched
 *Medium humanoid (any race), chaotic evil*
 
-**Armor Class** 14 (Natural Armor)  
-**Hit Points** 52 (`dice: 8d8` + 16)  
+**Armor Class** 14 (Natural Armor)
+**Hit Points** 52 (`dice: 8d8` + 16)
 **Speed** 20 ft., swim 40 ft.
 
 **STR** 16 (+3) **DEX** 12 (+1) **CON** 15 (+2) **INT** 8 (-1) **WIS** 11 (+0) **CHA** 6 (-2)
 
-**Saving Throws** Con +4, Wis +2  
-**Damage Resistances** Cold, Psychic  
-**Damage Immunities** Disease  
-**Condition Immunities** Poisoned  
-**Senses** darkvision 120 ft., tremorsense 30 ft., passive Perception 10  
-**Languages** Deep Speech, Common (broken)  
+**Saving Throws** Con +4, Wis +2
+**Damage Resistances** Cold, Psychic
+**Damage Immunities** Disease
+**Condition Immunities** Poisoned
+**Senses** darkvision 120 ft., tremorsense 30 ft., passive Perception 10
+**Languages** Deep Speech, Common (broken)
 **Challenge** 3 (700 XP)
 
 **Depth Plague Carrier.** Any creature that takes damage from the Depth Touched must make a **DC 13** Constitution saving throw or become infected with the Depth Plague.
@@ -134,17 +134,17 @@ The [Council of Currents]] declared a state of emergency when the plague began s
 #### Depth Warden Korallis
 *Medium humanoid (triton), lawful good*
 
-**Armor Class** 18 (Plate)  
-**Hit Points** 85 (`dice: 10d8` + 40)  
+**Armor Class** 18 (Plate)
+**Hit Points** 85 (`dice: 10d8` + 40)
 **Speed** 30 ft., swim 60 ft.
 
 **STR** 18 (+4) **DEX** 12 (+1) **CON** 18 (+4) **INT** 13 (+1) **WIS** 16 (+3) **CHA** 14 (+2)
 
-**Saving Throws** Str +7, Con +7  
-**Skills** Medicine +6, Perception +6  
-**Damage Resistances** Cold, Disease  
-**Senses** darkvision 60 ft., passive Perception 16  
-**Languages** Common, Primordial, Aquan, Deep Speech  
+**Saving Throws** Str +7, Con +7
+**Skills** Medicine +6, Perception +6
+**Damage Resistances** Cold, Disease
+**Senses** darkvision 60 ft., passive Perception 16
+**Languages** Common, Primordial, Aquan, Deep Speech
 **Challenge** 6 (2,300 XP)
 
 **Amphibious.** Korallis can breathe air and water.
@@ -164,7 +164,7 @@ The [Council of Currents]] declared a state of emergency when the plague began s
 **Depth Plague Disease**
 A creature exposed to the Depth Plague must make a **DC 15** Constitution saving throw. On a failed save, it takes `dice: 1d6` necrotic damage and becomes infected.
 
-**Incubation:** `dice: 1d4` days  
+**Incubation:** `dice: 1d4` days
 **Symptoms:** The creature's maximum hit points decrease by `dice: 1d6` each day. If reduced to 0, the creature dies and transforms into a Depth Touched after `dice: 1d4` hours.
 
 **Recovery:** At the end of each long rest, an infected creature may make a **DC 15** Constitution saving throw. On a success, the disease's progression halts for 24 hours. Three consecutive successful saves cure the disease.
@@ -172,7 +172,7 @@ A creature exposed to the Depth Plague must make a **DC 15** Constitution saving
 #### The Writhing Gardens
 Former [Kelp Forest]] now transformed into a nightmarish maze of mutated vegetation. **DC 18** Perception checks reveal safe paths through the corrupted growth.
 
-#### The Screaming Depths  
+#### The Screaming Depths
 A deep trench where the plague originated. Strange sounds emerge from its depths - **DC 16** Wisdom saving throws or be frightened for 1 minute.
 
 #### The Bone Shelf

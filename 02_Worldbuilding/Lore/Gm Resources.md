@@ -2,7 +2,7 @@
 
 title: Gm Resources
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

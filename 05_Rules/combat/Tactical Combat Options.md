@@ -2,7 +2,7 @@
 
 title: Tactical Combat Options
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

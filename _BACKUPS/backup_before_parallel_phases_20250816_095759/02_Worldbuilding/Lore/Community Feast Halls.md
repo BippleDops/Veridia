@@ -2,7 +2,7 @@
 
 title: Community Feast Halls
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Duchess Marina Ever Drowning Duchess Marina Ever
   Drowning.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc duchess marina ever drowning duchess
   marina ever drowningsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

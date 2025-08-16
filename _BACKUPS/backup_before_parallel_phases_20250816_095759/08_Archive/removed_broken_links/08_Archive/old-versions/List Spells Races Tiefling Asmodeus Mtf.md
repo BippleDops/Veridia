@@ -2,7 +2,7 @@
 
 title: List Spells Races Tiefling Asmodeus Mtf
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

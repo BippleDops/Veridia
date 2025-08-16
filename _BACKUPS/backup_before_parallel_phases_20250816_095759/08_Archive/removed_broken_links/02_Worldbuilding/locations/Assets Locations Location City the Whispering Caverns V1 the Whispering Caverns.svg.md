@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Whispering Caverns V1 the Whispering Caverns.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the whispering caverns v1 the whispering
   cavernssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the great trade routes v2 the great trade routessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Great Trade Routes V2 the Great Trade Routes.svg
 type: npc

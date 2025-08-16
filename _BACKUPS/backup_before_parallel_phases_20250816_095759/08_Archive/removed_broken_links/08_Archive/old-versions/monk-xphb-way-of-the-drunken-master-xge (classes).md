@@ -2,7 +2,7 @@
 
 title: monk-xphb-way-of-the-drunken-master-xge (classes)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

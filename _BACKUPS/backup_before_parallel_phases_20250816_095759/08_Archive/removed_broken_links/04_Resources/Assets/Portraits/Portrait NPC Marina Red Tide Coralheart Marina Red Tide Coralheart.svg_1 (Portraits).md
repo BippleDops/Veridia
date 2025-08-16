@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc marina red tide coralheart marina red tide coralheartsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg
 type: npc

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pearl Harbor City V1 Pearl Harbor City.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pearl harbor city v1 pearl harbor citysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -208,7 +208,7 @@ Mentioned in The First Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

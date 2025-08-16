@@ -2,7 +2,7 @@
 
 title: The Drowning
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - active

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Unremembered Parliament the Unremembered
   Parliament.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the unremembered parliament the unremembered
   parliamentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

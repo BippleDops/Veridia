@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city causality shadow v1 causality shadowpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Causality Shadow V1 Causality Shadow.png
 type: location

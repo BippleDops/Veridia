@@ -4,14 +4,14 @@ created: '2025-08-09'
 danger_level: 10
 frequency: Unpredictable manifestation
 region: '[[02_Worldbuilding/Places/The Crystalline Wastes'
-related_entities: 
+related_entities:
 - '[02_Worldbuilding/Places/The Crystal Hive Collective]]'
 - '[[02_Worldbuilding/People/The Crimson Sage'
 - '[02_Worldbuilding/Places/The Sundered Vaults]]'
 - '[[02_Worldbuilding/People/Crystal Wardens]]'
 size: Variable (Individual tears 5-100 feet diameter)
 status: complete
-tags: 
+tags:
 - aethermoor
 - catastrophic
 - complete
@@ -81,7 +81,7 @@ The leading theory among dimensional scholars suggests that Void Tears result fr
 - **Detection**: Often discovered only when objects begin disappearing
 
 ### Type II: Consumption Voids
-- **Size**: 1-10 feet diameter  
+- **Size**: 1-10 feet diameter
 - **Danger Level**: High (threatens individuals and structures)
 - **Duration**: Days to weeks before closure or expansion
 - **Effects**: Systematically consume matter and energy in predictable patterns
@@ -106,7 +106,7 @@ The leading theory among dimensional scholars suggests that Void Tears result fr
 #### Wandering Tears
 Mobile void rifts that drift across landscapes, leaving trails of consumption in their wake. These tears seem to follow ley lines or areas of high magical concentration, suggesting some form of supernatural attraction to energy sources.
 
-#### Resonance Clusters  
+#### Resonance Clusters
 Groups of smaller tears that appear simultaneously in geometric patterns, often forming triangles, hexagons, or more complex magical geometric shapes. The spaces between clustered tears become increasingly unstable.
 
 #### Dormant Fractures
@@ -123,7 +123,7 @@ Sealed or inactive tears that appear as faint dark lines or scars in reality. Wh
 
 ### Reality Distortion Field
 **Distance**: 10-50 feet from tear edge (varies by tear size)
-**Effects**: 
+**Effects**:
 - **Physical Laws Breakdown**: Gravity, thermodynamics, and electromagnetic forces become unreliable
 - **Magical Interference**: Spells fail unpredictably, magical items malfunction
 - **Temporal Anomalies**: Time flows irregularly, causing aging or youth effects
@@ -164,7 +164,7 @@ Sealed or inactive tears that appear as faint dark lines or scars in reality. Wh
 Any creature or object making contact with a Void Tear is immediately and permanently destroyed without any saving throw. This includes:
 - Physical matter of any kind
 - Magical energy and spells
-- Soul essence and consciousness  
+- Soul essence and consciousness
 - Memories of the consumed entity from other beings
 - Written records that mention the consumed entity
 
@@ -179,7 +179,7 @@ Any creature or object making contact with a Void Tear is immediately and perman
 #### Environmental Hazards
 **Void Pull** (Type II+ tears): Strength save **DC 18** or be pulled 10 feet closer to tear
 **Reality Storm**: Magic missile-like effect from dimensional instability (`dice: 3d4`+3 force damage)
-**Temporal Echo**: Previous round's actions repeat automatically  
+**Temporal Echo**: Previous round's actions repeat automatically
 **Probability Spike**: Roll on wild magic surge table each round
 
 #### Tear-Spawned Entities
@@ -195,7 +195,7 @@ Some void tears occasionally spawn entities from the space between realities:
 - Desperately attempt to drag others into void to end their non-existence
 - Phase in and out of reality unpredictably
 
-**Void Stalkers**: Predatory entities that hunt along tear edges  
+**Void Stalkers**: Predatory entities that hunt along tear edges
 - Invisible except when consuming prey
 - Can phase through matter at will
 - Instinctively drawn to magical energy and strong emotions
@@ -258,7 +258,7 @@ Military-focused research aimed at weaponizing controlled tears while preventing
 
 ### Crystal Ward Barriers
 **Technology**: Enhanced crystal focusing arrays designed to stabilize reality
-**Effectiveness**: Can contain Type I and small Type II tears indefinitely  
+**Effectiveness**: Can contain Type I and small Type II tears indefinitely
 **Cost**: 50,000+ gold pieces per installation
 **Limitations**: Require constant maintenance and magical power supply
 **Failure Risk**: Ward breakdown can cause explosive tear expansion
@@ -275,7 +275,7 @@ Military-focused research aimed at weaponizing controlled tears while preventing
 #### Civilian Evacuation
 **Detection**: Network of magical sensors monitor for reality distortions
 **Warning System**: Crystal-based alerts broadcast to all major settlements
-**Evacuation Routes**: Pre-planned paths avoiding likely tear expansion zones  
+**Evacuation Routes**: Pre-planned paths avoiding likely tear expansion zones
 **Safe Houses**: Fortified locations with reality anchors for refugee protection
 **Communication**: Specialized messaging systems that function despite dimensional instability
 
@@ -288,7 +288,7 @@ Military-focused research aimed at weaponizing controlled tears while preventing
 
 #### Magical Countermeasures
 **Reality Reinforcement Spells**: High-level rituals that temporarily strengthen dimensional barriers
-**Void Sealing Techniques**: Experimental magic attempting to permanently close tears  
+**Void Sealing Techniques**: Experimental magic attempting to permanently close tears
 **Probability Stabilization**: Spells that reduce chaos effects in distortion fields
 **Memory Protection Wards**: Prevent erasure of memories related to consumed entities
 
@@ -310,7 +310,7 @@ Military-focused research aimed at weaponizing controlled tears while preventing
 **Prevention**: Requires perfect coordination between all magical institutions
 **Consequences**: Complete loss of the continent to void consumption
 
-#### The Void Invasion  
+#### The Void Invasion
 **Probability**: Unknown but increasing
 **Event**: Entities from the space between dimensions begin using tears as invasion routes
 **Warning Signs**: Increasing appearance of null shades and reality wraiths
@@ -326,7 +326,7 @@ Military-focused research aimed at weaponizing controlled tears while preventing
 
 ### Political & Social Impact
 
-#### Refugee Crisis  
+#### Refugee Crisis
 Growing populations fleeing tear-threatened areas strain resources of safer regions. Competition for reality-stabilized housing creates social tensions and economic inequality.
 
 #### Research Funding Wars
@@ -349,7 +349,7 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 
 #### 2. The Wandering Death
 **Hook**: Mobile Type II tear begins moving toward important location
-**Objective**: Track tear's movement, predict its path, establish containment barriers  
+**Objective**: Track tear's movement, predict its path, establish containment barriers
 **Opposition**: Probability chaos makes prediction difficult, local wildlife transformed into void entities
 **Timeline**: Tear reaches critical location in 72 hours
 **Resolution Options**: Redirect tear's path, establish permanent containment, attempt destruction
@@ -376,7 +376,7 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 **Goal**: Recover consumed individual from void space, restore them to reality
 **Method**: Enter tear using special equipment, navigate space between dimensions
 
-### Political & Social Conflicts  
+### Political & Social Conflicts
 #### 6. The Void Cult Crisis
 **Background**: Religious sect believes tears represent divine revelation, attempts to expand them
 **Conflict**: Cultists sabotage containment efforts, try to create new tears through ritual
@@ -387,7 +387,7 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 #### 7. The Refugee Rebellion
 **Situation**: Displaced populations from tear zones demand better housing and compensation
 **Tension**: Long-term residents resent resource allocation to "void refugees"
-**Violence**: Riots break out in refugee camps, reality anchors damaged in fighting  
+**Violence**: Riots break out in refugee camps, reality anchors damaged in fighting
 **Politics**: Various factions exploit crisis for political gain
 **Resolution**: Mediate between groups, address legitimate grievances, restore order
 
@@ -421,7 +421,7 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 - **[02_Worldbuilding/Places/The Crystalline Wastes]]**: Primary location where tears manifest
 - **[[02_Worldbuilding/Lore/The Great Crystallization**: Catastrophic event that created conditions for tear formation
 - **[02_Worldbuilding/People/Crystal Wardens]]**: Military organization responsible for tear containment and response
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver**: Leading researcher studying void phenomena  
+- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver**: Leading researcher studying void phenomena
 - **[02_Worldbuilding/Places/The Sundered Vaults]]**: Ancient facility possibly connected to tear origins
 
 ### Secondary Connections

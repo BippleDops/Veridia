@@ -2,7 +2,7 @@
 
 title: modern-bullets-10 (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

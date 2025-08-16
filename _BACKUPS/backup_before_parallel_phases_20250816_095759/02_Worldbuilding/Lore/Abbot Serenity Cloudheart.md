@@ -2,7 +2,7 @@
 
 title: Abbot Serenity Cloudheart
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

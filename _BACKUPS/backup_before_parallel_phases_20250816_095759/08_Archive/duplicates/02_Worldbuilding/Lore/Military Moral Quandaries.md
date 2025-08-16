@@ -2,7 +2,7 @@
 
 title: Military Moral Quandaries
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - warfare

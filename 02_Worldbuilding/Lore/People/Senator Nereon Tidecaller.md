@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Senator Nereon Tidecaller
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

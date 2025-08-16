@@ -2,7 +2,7 @@
 
 title: Factions the Skyborne [[Merchants
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aethermoor
 - active

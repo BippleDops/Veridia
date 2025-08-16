@@ -2,7 +2,7 @@
 
 title: Aberrant Cults
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

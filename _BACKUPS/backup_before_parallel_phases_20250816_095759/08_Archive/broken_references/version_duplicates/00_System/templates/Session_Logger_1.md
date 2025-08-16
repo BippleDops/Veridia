@@ -31,12 +31,12 @@ class CombatTracker {
     this.round = 1;
     this.turn = 0;
   }
-  
+
   addCombatant(name, init) {
     this.initiative.push({name, init, hp: 100});
     this.sort();
   }
-  
+
   nextTurn() {
     this.turn++;
     if (this.turn >= this.initiative.length) {
@@ -45,7 +45,7 @@ class CombatTracker {
     }
     this.logTurn();
   }
-  
+
   logTurn() {
     log(`Round ${this.round}, Turn ${this.turn}: ${this.currentActor()}`);
   }

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memoriam the Forgotten Continent V1 Memoriam
   the Forgotten Continent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memoriam the forgotten continent v1
   memoriam the forgotten continentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

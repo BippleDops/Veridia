@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Scholar David Crossref Scholar David Crossref.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scholar david crossref scholar david
   crossrefsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

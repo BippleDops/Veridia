@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city bartender marina dualborn v1 bartender marina dualbornsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Bartender Marina Dualborn V1 Bartender Marina Dualborn.svg
 type: location

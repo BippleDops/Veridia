@@ -2,7 +2,7 @@
 
 title: Enspelled Weapon Level 8 Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

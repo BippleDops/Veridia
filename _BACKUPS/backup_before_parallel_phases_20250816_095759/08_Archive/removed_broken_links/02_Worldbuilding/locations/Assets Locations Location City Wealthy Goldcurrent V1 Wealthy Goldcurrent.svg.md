@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wealthy Goldcurrent V1 Wealthy Goldcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wealthy goldcurrent v1 wealthy goldcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

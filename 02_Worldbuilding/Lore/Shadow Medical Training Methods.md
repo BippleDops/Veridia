@@ -2,7 +2,7 @@
 
 title: Shadow Medical Training Methods
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

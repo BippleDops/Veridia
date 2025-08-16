@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sanctuary safeharbor v1 sanctuary safeharborsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Sanctuary Safeharbor V1 Sanctuary Safeharbor.svg
 type: location

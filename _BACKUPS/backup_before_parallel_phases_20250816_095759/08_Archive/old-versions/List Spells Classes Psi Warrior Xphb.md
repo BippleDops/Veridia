@@ -2,7 +2,7 @@
 
 title: List Spells Classes Psi Warrior Xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

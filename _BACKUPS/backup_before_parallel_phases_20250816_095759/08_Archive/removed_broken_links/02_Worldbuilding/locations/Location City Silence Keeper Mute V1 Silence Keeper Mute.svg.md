@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city silence keeper mute v1 silence keeper mutesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Silence Keeper Mute V1 Silence Keeper Mute.svg
 type: location

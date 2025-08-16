@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Threshold Chambers the Threshold Chambers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the threshold chambers the threshold
   chamberssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

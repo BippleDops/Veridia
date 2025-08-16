@@ -1,7 +1,7 @@
 ---
 title: The [[Crystal_Heart|Crystal Heart Shard
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

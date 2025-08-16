@@ -2,7 +2,7 @@
 
 title: Barbarian Xphb Path of the Storm Herald Xge
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

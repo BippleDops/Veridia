@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Healing Temples V1 Healing Temples.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city healing temples v1 healing templessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

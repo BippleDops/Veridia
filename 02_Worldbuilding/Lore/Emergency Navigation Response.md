@@ -2,7 +2,7 @@
 
 title: Emergency Navigation Response
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

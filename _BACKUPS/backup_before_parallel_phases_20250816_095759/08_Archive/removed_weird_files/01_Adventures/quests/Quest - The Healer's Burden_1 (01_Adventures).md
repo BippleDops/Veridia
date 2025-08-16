@@ -82,7 +82,7 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas > [!figure] Portrait # Quest - The 
+- Moral dilemmas > [!figure] Portrait # Quest - The
 *Sounds of [relevant sounds] echo in the distance.*Healer's Burden *"Dr. Celeste Dawnbringer must choose who lives and who dies - and the weight of those choices may break her oath to accomplish no harm."* ## Quest Giver
 
 - **Name**: Local authority figure

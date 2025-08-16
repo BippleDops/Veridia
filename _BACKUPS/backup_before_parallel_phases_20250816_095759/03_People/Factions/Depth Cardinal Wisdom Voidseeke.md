@@ -2,7 +2,7 @@
 
 title: Depth Cardinal Wisdom Voidseeke
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

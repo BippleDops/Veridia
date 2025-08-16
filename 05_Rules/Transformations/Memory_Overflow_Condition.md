@@ -2,7 +2,7 @@
 
 title: Memory Overflow Condition
 type: Transformation Mechanics
-tags: 
+tags:
 - mechanics/transformation
 - mechanics
 - memory/magic

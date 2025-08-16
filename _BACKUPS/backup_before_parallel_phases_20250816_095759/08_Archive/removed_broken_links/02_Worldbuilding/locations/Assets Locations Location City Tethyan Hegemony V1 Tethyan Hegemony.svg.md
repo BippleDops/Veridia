@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tethyan Hegemony V1 Tethyan Hegemony.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tethyan hegemony v1 tethyan hegemonysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

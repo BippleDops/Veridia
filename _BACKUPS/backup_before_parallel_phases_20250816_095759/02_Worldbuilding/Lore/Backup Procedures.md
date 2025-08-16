@@ -2,7 +2,7 @@
 
 title: Backup Procedures
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - index

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc paladin commander sir radiant dawnbreaker v1 paladin commander sir
   radiant dawnbreakersvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Paladin Commander Sir Radiant Dawnbreaker V1 Paladin Commander
   Sir Radiant Dawnbreaker.svg

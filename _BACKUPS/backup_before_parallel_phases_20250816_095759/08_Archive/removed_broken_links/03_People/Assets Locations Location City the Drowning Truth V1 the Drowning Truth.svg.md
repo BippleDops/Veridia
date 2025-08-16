@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Drowning Truth V1 the Drowning Truth.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the drowning truth v1 the drowning truthsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: Economic Planning
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city intellectual freedom movement v1 intellectual freedom movementsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Intellectual Freedom Movement V1 Intellectual Freedom Movement.svg
 type: location

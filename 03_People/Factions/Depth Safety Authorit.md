@@ -2,7 +2,7 @@
 
 title: Depth Safety Authorit
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

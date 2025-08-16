@@ -2,7 +2,7 @@
 
 title: Portrait NPC the Waking Prophets V2 the Waking Prophets.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

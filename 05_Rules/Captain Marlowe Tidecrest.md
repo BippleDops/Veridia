@@ -2,7 +2,7 @@
 
 title: Captain Marlowe Tidecrest
 type: Location
-tags: 
+tags:
 - aquabyssos
 - naval-operations
 - status/complete
@@ -457,7 +457,7 @@ Ongoing situations affecting Captain Marlowe Tidecrest:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

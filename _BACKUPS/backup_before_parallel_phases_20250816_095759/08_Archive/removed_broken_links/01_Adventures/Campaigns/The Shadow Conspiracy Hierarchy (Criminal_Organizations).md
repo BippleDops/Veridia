@@ -1,7 +1,7 @@
 ---
 title: The Shadow Conspiracy Hierarchy
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Living Weapon V1 the Living Weapon.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the living weapon v1 the living weaponsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

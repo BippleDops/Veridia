@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city transformation specialist anemone flowshift transformation specialist
   anemone flowshiftsvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Transformation Specialist Anemone Flowshift Transformation Specialist
   Anemone Flowshift.svg

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Healer Tide Touch Healer Tide Touch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city healer tide touch healer tide touchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Recursion Cult V1 the Recursion Cult.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the recursion cult v1 the recursion
   cultpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

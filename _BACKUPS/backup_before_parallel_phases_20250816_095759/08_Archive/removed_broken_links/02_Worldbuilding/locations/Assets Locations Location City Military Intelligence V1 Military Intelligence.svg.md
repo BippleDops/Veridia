@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Military Intelligence V1 Military Intelligence.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city military intelligence v1 military intelligencesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

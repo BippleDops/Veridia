@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ancient Tunnels Beneath Palace Ancient Tunnels
   Beneath Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ancient tunnels beneath palace ancient
   tunnels beneath palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

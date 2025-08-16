@@ -2,7 +2,7 @@
 
 title: The Senator's Voting Record
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

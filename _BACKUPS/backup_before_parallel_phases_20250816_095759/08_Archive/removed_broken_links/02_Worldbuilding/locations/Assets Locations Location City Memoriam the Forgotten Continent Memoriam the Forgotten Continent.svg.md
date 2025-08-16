@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memoriam the Forgotten Continent Memoriam the
   Forgotten Continent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memoriam the forgotten continent memoriam
   the forgotten continentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

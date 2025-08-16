@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crystal Singers V1 Crystal Singers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal singers v1 crystal singerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Lord Reginald Seaworthy V1 Lord Reginald Seaworthy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city lord reginald seaworthy v1 lord reginald
   seaworthysvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

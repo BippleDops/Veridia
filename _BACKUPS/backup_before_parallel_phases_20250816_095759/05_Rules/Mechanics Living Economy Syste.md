@@ -3,7 +3,7 @@ enhanced: true
 
 title: Mechanics Living Economy Syste
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - prophecy

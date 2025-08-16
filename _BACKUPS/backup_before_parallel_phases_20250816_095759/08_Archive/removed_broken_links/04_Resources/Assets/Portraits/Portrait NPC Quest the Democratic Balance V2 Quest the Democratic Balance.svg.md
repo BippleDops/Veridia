@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the democratic balance v2 quest the democratic balancesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Democratic Balance V2 Quest the Democratic Balance.svg
 type: npc

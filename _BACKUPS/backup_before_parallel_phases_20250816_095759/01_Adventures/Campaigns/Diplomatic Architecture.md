@@ -2,7 +2,7 @@
 
 title: Diplomatic Architecture
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

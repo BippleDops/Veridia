@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain tempest eye marelda captain tempest eye mareldasvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Tempest Eye Marelda Captain Tempest Eye Marelda.svg
 type: npc

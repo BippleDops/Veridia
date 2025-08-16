@@ -2,7 +2,7 @@
 
 title: Sacred Order of Luminous Daw
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization
@@ -114,7 +114,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

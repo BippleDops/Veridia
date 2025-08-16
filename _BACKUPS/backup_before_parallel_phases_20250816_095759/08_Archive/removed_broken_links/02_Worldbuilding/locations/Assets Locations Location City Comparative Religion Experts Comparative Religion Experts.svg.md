@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Comparative Religion Experts Comparative Religion
   Experts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city comparative religion experts comparative
   religion expertssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -75,7 +75,7 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - Municipal 
+- Moral dilemmas # Quest - Municipal
 *The air carries the scent of [appropriate smell].*Election ---
 
 title: Quest Municipal Election

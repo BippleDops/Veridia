@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC High Techno Priest Lumina Skyweaver High Techno
   Priest Lumina Skyweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc high techno priest lumina skyweaver high
   techno priest lumina skyweaversvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor

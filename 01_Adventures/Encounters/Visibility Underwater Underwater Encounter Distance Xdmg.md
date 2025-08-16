@@ -2,7 +2,7 @@
 
 title: Visibility Underwater Underwater Encounter Distance Xdmg
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

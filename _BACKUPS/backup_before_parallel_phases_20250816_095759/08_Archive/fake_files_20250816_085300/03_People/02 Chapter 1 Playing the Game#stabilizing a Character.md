@@ -6,7 +6,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - note
 title: "02 Chapter 1 Playing the Game#stabilizing a Character"
 type: npc

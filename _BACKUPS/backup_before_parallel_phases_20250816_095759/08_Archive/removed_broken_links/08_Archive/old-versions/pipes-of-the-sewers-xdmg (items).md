@@ -2,7 +2,7 @@
 
 title: pipes-of-the-sewers-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: INDEX (Curse_of_Strahd)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Salvage Queen Nerissa Deepfinder Salvage Queen
   Nerissa Deepfinder.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc salvage queen nerissa deepfinder salvage
   queen nerissa deepfindersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 - Battle Mapsmd
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags: 
+tags:
 - quest
 title: Battle Maps.md
 type: lore

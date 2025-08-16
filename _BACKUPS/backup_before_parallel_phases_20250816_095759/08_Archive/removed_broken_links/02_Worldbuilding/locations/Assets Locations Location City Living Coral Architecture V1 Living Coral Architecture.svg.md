@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Living Coral Architecture V1 Living Coral Architecture.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city living coral architecture v1 living
   coral architecturesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -196,7 +196,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

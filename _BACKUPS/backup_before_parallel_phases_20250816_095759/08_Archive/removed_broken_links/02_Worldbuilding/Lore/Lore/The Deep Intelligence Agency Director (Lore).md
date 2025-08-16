@@ -2,7 +2,7 @@
 
 title: [[02_Worldbuilding|02_Worldbuilding/[Lore|Lore]]/[[The Deep Intelligence Agency Director|The Deep Intelligence Agency Director
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -3,7 +3,7 @@
 title: Bexley Port Authority
 aliases: []
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -2,7 +2,7 @@
 
 title: Surgeon General Darkness
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

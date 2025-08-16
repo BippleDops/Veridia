@@ -2,7 +2,7 @@
 
 title: [[Organizations [The Truth Seekers]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - prophecy

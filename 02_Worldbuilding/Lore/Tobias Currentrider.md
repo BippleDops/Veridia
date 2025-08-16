@@ -2,7 +2,7 @@
 
 title: Tobias Currentrider
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

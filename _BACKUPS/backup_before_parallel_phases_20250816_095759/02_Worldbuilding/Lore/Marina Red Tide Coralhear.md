@@ -2,7 +2,7 @@
 
 title: Marina Red Tide [[Coralhear
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

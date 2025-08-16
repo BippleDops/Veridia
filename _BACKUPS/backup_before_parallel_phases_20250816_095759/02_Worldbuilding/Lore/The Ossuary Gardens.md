@@ -2,7 +2,7 @@
 
 title: The Ossuary Gardens
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

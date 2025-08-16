@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location
@@ -25,7 +25,7 @@ The Golden Trade Route is the primary overland commercial highway connecting [[0
 
 ## Key Connections
 - **[02_Worldbuilding/Places/Port Meridian]]** - Western terminus and maritime connection hub
-- **[[02_Worldbuilding/Places/Crystalhaven** - Central hub and crystal processing center  
+- **[[02_Worldbuilding/Places/Crystalhaven** - Central hub and crystal processing center
 - **[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]** - Primary goods distribution center
 - **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium** - Route security and logistics coordination
 - **[02_Worldbuilding/Groups/Merchant Princes]]** - Major investors and cargo owners

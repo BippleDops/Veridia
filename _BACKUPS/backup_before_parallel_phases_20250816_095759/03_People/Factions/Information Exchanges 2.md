@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/faction
@@ -76,7 +76,7 @@ The Information Exchanges exist in the shadows between realms, their neutral fac
 
 The Information Exchanges emerged from the **Treaty of Whispered Truths** (634 AC), established after a devastating intelligence war nearly tore both realms apart. The treaty created neutral zones where information could be traded safely, preventing any single faction from achieving total information dominance while ensuring that vital intelligence continued to flow.
 
-**Exchange Protocols** govern all transactions: 
+**Exchange Protocols** govern all transactions:
 - **The Veil Oath**: All Exchange personnel remain anonymous and neutral
 - **The Truth Binding**: Information sold must be verified accurate or refunds apply
 - **The Silence Seal**: Client identities and specific transactions remain confidential

@@ -2,7 +2,7 @@
 
 title: Courier Ripplestone
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

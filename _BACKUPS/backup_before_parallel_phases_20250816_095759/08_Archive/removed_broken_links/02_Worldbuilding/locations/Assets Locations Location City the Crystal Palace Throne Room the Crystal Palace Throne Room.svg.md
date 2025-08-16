@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Crystal Palace Throne Room the Crystal Palace
   Throne Room.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal palace throne room the crystal
   palace throne roomsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -186,7 +186,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

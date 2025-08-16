@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Historical Research Institute Historical Research
   Institute.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city historical research institute historical
   research institutesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

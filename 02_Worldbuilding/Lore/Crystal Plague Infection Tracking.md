@@ -2,7 +2,7 @@
 
 title: Crystal Plague Infection Tracking
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

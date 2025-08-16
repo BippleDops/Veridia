@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Quest the Void Conspiracy Quest the Void Conspiracy.png
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the void conspiracy quest the void
   conspiracypng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

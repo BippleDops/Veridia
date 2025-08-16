@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Chef Coral Seasweaver Master Chef Coral
   Seasweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master chef coral seasweaver master
   chef coral seasweaversvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

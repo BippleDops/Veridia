@@ -2,7 +2,7 @@
 
 title: Surgeon Battle Shadow
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

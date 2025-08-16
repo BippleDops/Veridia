@@ -2,7 +2,7 @@
 
 title: Political Compromise Costs
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos
@@ -189,7 +189,7 @@ Intelligence suggests cult members have access to city water treatment:
 - **Opposition**: Military, infrastructure, [[Economic Interest|[Economic Interests]]
 
 **Military Defense** (Defense Minister's Priority)
-- **Request**: 50% of emergency budget  
+- **Request**: 50% of emergency budget
 - **Justification**: Cult military threat requires enhanced security
 - **Political Support**: [[Security Services, threatened regions, traditionalist factions
 - **Opposition**: Civil rights groups, economic interests, pacifist religions

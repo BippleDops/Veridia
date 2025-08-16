@@ -2,7 +2,7 @@
 
 title: Legal Advisor Depth Justice
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -106,7 +106,7 @@ Legal Advisor Depth Justice represents a crucial aspect of the world's history, 
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

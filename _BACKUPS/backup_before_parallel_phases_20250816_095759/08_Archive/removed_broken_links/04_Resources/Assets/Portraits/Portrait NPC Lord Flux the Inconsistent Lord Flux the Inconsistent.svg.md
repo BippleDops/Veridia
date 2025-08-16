@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord flux the inconsistent lord flux the inconsistentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Flux the Inconsistent Lord Flux the Inconsistent.svg
 type: npc

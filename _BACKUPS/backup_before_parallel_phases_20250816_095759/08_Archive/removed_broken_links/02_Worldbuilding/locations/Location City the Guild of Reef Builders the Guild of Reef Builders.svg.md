@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the guild of reef builders the guild of reef builderssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Guild of Reef Builders the Guild of Reef Builders.svg
 type: location

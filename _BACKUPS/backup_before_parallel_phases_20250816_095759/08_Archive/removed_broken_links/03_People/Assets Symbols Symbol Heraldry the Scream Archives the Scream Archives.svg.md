@@ -1,9 +1,9 @@
 ---
 title: Assets Symbols Symbol Heraldry the Scream Archives the Scream Archives.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the scream archives the scream archivessvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

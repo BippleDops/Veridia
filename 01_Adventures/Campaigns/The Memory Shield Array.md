@@ -2,7 +2,7 @@
 
 title: The Memory Shield Array
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

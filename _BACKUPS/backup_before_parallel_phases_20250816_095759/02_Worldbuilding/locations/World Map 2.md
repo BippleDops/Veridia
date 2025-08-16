@@ -5,7 +5,7 @@ created: '2025-08-11'
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location

@@ -1,7 +1,7 @@
 ---
 title: Vote Vaults
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - access/secret
 - voting

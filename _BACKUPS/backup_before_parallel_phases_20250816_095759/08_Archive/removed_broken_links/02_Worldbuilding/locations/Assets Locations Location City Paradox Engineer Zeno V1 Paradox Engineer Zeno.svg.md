@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Paradox Engineer Zeno V1 Paradox Engineer Zeno.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city paradox engineer zeno v1 paradox engineer
   zenosvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

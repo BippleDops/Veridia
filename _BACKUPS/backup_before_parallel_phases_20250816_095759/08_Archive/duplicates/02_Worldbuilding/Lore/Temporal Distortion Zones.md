@@ -2,7 +2,7 @@
 
 title: Temporal Distortion Zones
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - technology
@@ -354,7 +354,7 @@ Zone operations require highly trained specialists with unique qualifications:
 
 **Primary Specializations:**
 - **Temporal Engineers**: Experts in temporal field generation and control ([[Senior Temporal Engineer Chronos Fieldwright)
-- **Paradox Prevention Specialists**: Experts in detecting and preventing temporal contradictions ([Paradox Analyst Echo Causality]])  
+- **Paradox Prevention Specialists**: Experts in detecting and preventing temporal contradictions ([Paradox Analyst Echo Causality]])
 - **Temporal Safety Officers**: Personnel specializing in temporal hazard management ([[Safety Coordinator Time Guardian)
 - **Chronological Researchers**: Scientists studying temporal physics and applications ([Research Director Past Future]])
 - **Temporal Medical Personnel**: Healthcare providers trained in temporal contamination treatment ([[Temporal Physician Healing Moment)

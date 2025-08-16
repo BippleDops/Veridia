@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

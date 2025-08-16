@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Depth Plague V1 the Depth Plague.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the depth plague v1 the depth plaguesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -205,7 +205,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

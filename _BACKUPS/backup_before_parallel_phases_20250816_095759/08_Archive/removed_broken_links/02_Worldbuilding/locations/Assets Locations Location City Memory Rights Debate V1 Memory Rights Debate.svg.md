@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Memory Rights Debate V1 Memory Rights Debate.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory rights debate v1 memory rights
   debatesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

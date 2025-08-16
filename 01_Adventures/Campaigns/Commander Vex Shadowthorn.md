@@ -2,7 +2,7 @@
 
 title: Commander Vex Shadowthorn
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Sunken Observatory the Sunken Observatory.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the sunken observatory the sunken observatorysvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

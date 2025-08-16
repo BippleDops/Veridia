@@ -2,7 +2,7 @@
 
 title: Cult of the Endless Voi
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

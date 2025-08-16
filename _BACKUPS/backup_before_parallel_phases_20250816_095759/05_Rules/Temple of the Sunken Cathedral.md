@@ -2,7 +2,7 @@
 
 title: Temple of the Sunken Cathedral
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - status/complete
 - cult
@@ -131,7 +131,7 @@ The bell tower exists at the cathedral's highest point and lowest point simultan
 
 **Function**: Serves as focal point for major rituals and sacrificial ceremonies. The altar can process offerings of memory, sanity, and identity as easily as physical matter.
 
-**Special Properties**: 
+**Special Properties**:
 - Spells cast from the altar gain +2 DC when targeting creatures not loyal to Deep Mother
 - The altar responds to emotional rather than physical touch
 - Sacrifices placed on the altar transform based on Deep Mother's current needs
@@ -166,7 +166,7 @@ The bell tower exists at the cathedral's highest point and lowest point simultan
 
 **Pool Functions**:
 1. **Pressure Adaptation Pool**: Grants ability to survive at any depth
-2. **Parasitic Symbiosis Pool**: Introduces beneficial parasites 
+2. **Parasitic Symbiosis Pool**: Introduces beneficial parasites
 3. **Sensory Enhancement Pool**: Develops Deep Mother perception abilities
 4. **Memory Integration Pool**: Allows access to collective cult knowledge
 5. **[[Temporal Displacement Pool**: Provides limited time travel abilities

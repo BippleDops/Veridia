@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Profit Crosscurrent V1 Profit Crosscurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city profit crosscurrent v1 profit crosscurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -177,7 +177,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

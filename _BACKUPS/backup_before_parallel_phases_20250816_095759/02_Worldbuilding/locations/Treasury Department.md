@@ -2,7 +2,7 @@
 
 title: Treasury Department
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

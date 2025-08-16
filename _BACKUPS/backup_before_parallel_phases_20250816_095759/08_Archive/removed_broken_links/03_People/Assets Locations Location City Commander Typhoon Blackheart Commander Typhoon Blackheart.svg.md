@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Commander Typhoon Blackheart Commander Typhoon
   Blackheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city commander typhoon blackheart commander
   typhoon blackheartsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

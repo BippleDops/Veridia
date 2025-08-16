@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crisis Management V1 Crisis Management.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crisis management v1 crisis managementsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

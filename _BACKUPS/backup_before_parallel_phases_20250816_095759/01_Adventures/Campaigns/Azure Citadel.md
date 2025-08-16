@@ -2,7 +2,7 @@
 
 title: Azure Citadel
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - world/aquabyssos
@@ -38,10 +38,10 @@ improvements: 20
 
 # Azure Citadel
 
-**Type:** Military Fortress/Government Complex  
-**Location:** [[Aquabyssos - Strategic Defense Position  
-**Government:** [Parliament of Echoes]] Military Authority  
-**Population:** ~2,500 (military personnel, government officials, support staff)  
+**Type:** Military Fortress/Government Complex
+**Location:** [[Aquabyssos - Strategic Defense Position
+**Government:** [Parliament of Echoes]] Military Authority
+**Population:** ~2,500 (military personnel, government officials, support staff)
 **Notable Features:** Underwater fortress, crystal-powered defenses, temporal communication arrays
 
 ## 🔧 Deep Evaluation Improvements
@@ -100,22 +100,22 @@ improvements: 20
 The Azure Citadel stands as [[Aquabyssos's primary military headquarters and governmental stronghold. Built into a natural underwater mountain formation, its blue-crystal walls glow with protective enchantments while its strategic position allows oversight of all major shipping lanes and deep-sea approaches. From here, [Admiral Thorne Blackwater]] coordinates the realm's defenses against threats from [[The Hadal Depths.
 
 ### Original Foundation
-**Built**: 150 years after the Great Drowning  
-**Purpose**: Central command for the newly organized [Depth Wardens]]  
-**Architect**: Master Engineer Coral Deepwright (whose descendants still maintain the facility)  
-**Materials**: Living coral framework reinforced with pressure-resistant crystals  
+**Built**: 150 years after the Great Drowning
+**Purpose**: Central command for the newly organized [Depth Wardens]]
+**Architect**: Master Engineer Coral Deepwright (whose descendants still maintain the facility)
+**Materials**: Living coral framework reinforced with pressure-resistant crystals
 **Design Philosophy**: "Impregnable from below, invisible from above"
 
 ### Major Expansions
-**The Parliamentary Wing (50 years ago)**: Added civilian government facilities when [[Parliament of Echoes needed secure meeting spaces  
-**The Deep Watch Tower (30 years ago)**: Extended monitoring capabilities to [The Hadal Depths]]  
-**The Crystal Communications Array (10 years ago)**: Enables real-time contact with surface world  
+**The Parliamentary Wing (50 years ago)**: Added civilian government facilities when [[Parliament of Echoes needed secure meeting spaces
+**The Deep Watch Tower (30 years ago)**: Extended monitoring capabilities to [The Hadal Depths]]
+**The Crystal Communications Array (10 years ago)**: Enables real-time contact with surface world
 **The Emergency Bunkers (5 years ago)**: Classified facilities for catastrophic scenarios
 
 ### The Outer Fortress
-**The Approach**: Narrow canyon that funnels attackers into overlapping fields of fire  
-**Gate System**: Triple barriers of crystal, coral, and living water  
-**Perimeter Defenses**: Automated turrets powered by [[Aether Crystal fragments  
+**The Approach**: Narrow canyon that funnels attackers into overlapping fields of fire
+**Gate System**: Triple barriers of crystal, coral, and living water
+**Perimeter Defenses**: Automated turrets powered by [[Aether Crystal fragments
 **Early Warning Network**: Sensory arrays detecting movement for miles in all directions
 
 ### The Central Citadel (5 Levels)
@@ -151,15 +151,15 @@ The Azure Citadel stands as [[Aquabyssos's primary military headquarters and gov
 - **Personal Quarters**: Private residences for highest-ranking officials
 
 ### The Support Complex
-**Barracks Districts**: Housing for 1,500 military personnel  
-**Training Facilities**: Combat practice areas and military education  
-**Supply Warehouses**: Food, equipment, and ammunition storage  
-**Maintece Shops**: Repair facilities for vehicles and equipment  
-**Medical Center**: Advanced healing facilities and trauma surgery  
+**Barracks Districts**: Housing for 1,500 military personnel
+**Training Facilities**: Combat practice areas and military education
+**Supply Warehouses**: Food, equipment, and ammunition storage
+**Maintece Shops**: Repair facilities for vehicles and equipment
+**Medical Center**: Advanced healing facilities and trauma surgery
 **Research Labs**: Development of new military technologies and tactics
 
 ### Command Structure
-**Supreme Commander**: [Admiral Thorne Blackwater]]  
+**Supreme Commander**: [Admiral Thorne Blackwater]]
 **Deputy Commanders**:
 - **[[Commander Drake Pressureborn**: Deep Operations Division
 - **Captain Regina Shieldwall**: Fortress Defense Division
@@ -167,23 +167,23 @@ The Azure Citadel stands as [[Aquabyssos's primary military headquarters and gov
 - **Colonel Sarah Tidecaller**: Intelligence Division
 
 ### Major Units Stationed Here
-**The Azure Guard**: Elite 500-person unit protecting the citadel itself  
-**Deep Strike Force**: Specialized units for extreme depth operations  
-**Intelligence Corps**: Spies and information analysts  
-**Engineering Division**: Maintece and construction specialists  
+**The Azure Guard**: Elite 500-person unit protecting the citadel itself
+**Deep Strike Force**: Specialized units for extreme depth operations
+**Intelligence Corps**: Spies and information analysts
+**Engineering Division**: Maintece and construction specialists
 **Medical Corps**: Combat medics and emergency response teams
 
 ### Specialized Equipment
-**Pressure Suits**: Advanced gear allowing operation at any depth  
-**Crystal Weapons**: Magically enhanced armaments for combat effectiveness  
-**Leviathan Vehicles**: Submarine craft for transportation and combat  
-**Communication Crystals**: Instant contact across vast underwater distances  
+**Pressure Suits**: Advanced gear allowing operation at any depth
+**Crystal Weapons**: Magically enhanced armaments for combat effectiveness
+**Leviathan Vehicles**: Submarine craft for transportation and combat
+**Communication Crystals**: Instant contact across vast underwater distances
 **Defensive Constructs**: Automated guardians powered by [Aether Crystals]]
 
 ### Military Services
 **Equipment and Armory**: Access to the most advanced underwater military equipment in [[Aquabyssos
 - **Depth Suits**: Pressure-resistant armor allowing operation at any depth
-- **Crystal Weapons**: Magically enhanced arms powered by [Aether Crystal]] fragments  
+- **Crystal Weapons**: Magically enhanced arms powered by [Aether Crystal]] fragments
 - **Leviathan Vehicles**: Submersible craft for transportation and combat
 - **Communication Arrays**: Instant contact with any point in the realm
 
@@ -239,88 +239,88 @@ The Azure Citadel stands as [[Aquabyssos's primary military headquarters and gov
 - **Search and Rescue**: Recovery operations in dangerous deep-water areas
 
 ### Parliamentary Operations
-**Secure Sessions**: When [[Parliament of Echoes needs protected meeting space  
-**Crisis Government**: Emergency command structure during national emergencies  
-**Diplomatic Security**: Protection for high-level negotiations and treaties  
+**Secure Sessions**: When [[Parliament of Echoes needs protected meeting space
+**Crisis Government**: Emergency command structure during national emergencies
+**Diplomatic Security**: Protection for high-level negotiations and treaties
 **Intelligence Briefings**: Regular updates on threats to national security
 
 ### Administrative Departments
-**Military Affairs**: Coordination between government and armed forces  
-**Foreign Relations**: Management of relationships with other realms  
-**Internal Security**: Protection against threats from within [Aquabyssos]]  
+**Military Affairs**: Coordination between government and armed forces
+**Foreign Relations**: Management of relationships with other realms
+**Internal Security**: Protection against threats from within [Aquabyssos]]
 **Emergency Management**: Disaster response and crisis coordination
 
 ### Typical Day Schedule
-**Pre-Dawn (4:00 AM)**: Shift change and status reports from all monitoring stations  
-**Dawn (6:00 AM)**: Morning briefings and intelligence updates  
-**Morning (8:00 AM)**: Strategic planning sessions and administrative meetings  
-**Midday (12:00 PM)**: Coordination with external military units and government officials  
-**Afternoon (2:00 PM)**: Training exercises and equipment maintece  
-**Evening (6:00 PM)**: Analysis of daily reports and preparation for night operations  
+**Pre-Dawn (4:00 AM)**: Shift change and status reports from all monitoring stations
+**Dawn (6:00 AM)**: Morning briefings and intelligence updates
+**Morning (8:00 AM)**: Strategic planning sessions and administrative meetings
+**Midday (12:00 PM)**: Coordination with external military units and government officials
+**Afternoon (2:00 PM)**: Training exercises and equipment maintece
+**Evening (6:00 PM)**: Analysis of daily reports and preparation for night operations
 **Night (10:00 PM)**: Reduced staffing with focus on monitoring and emergency response
 
 ### Security Protocols
-**Clearance Levels**: Seven different security classifications from "Public" to "Deep Secret"  
-**Identity Verification**: Multiple layers of magical and mundane identification  
-**Area Restrictions**: Different zones requiring different levels of authorization  
-**Communication Monitoring**: All messages logged and analyzed for security threats  
+**Clearance Levels**: Seven different security classifications from "Public" to "Deep Secret"
+**Identity Verification**: Multiple layers of magical and mundane identification
+**Area Restrictions**: Different zones requiring different levels of authorization
+**Communication Monitoring**: All messages logged and analyzed for security threats
 **Visitor Control**: Strict procedures for anyone not permanently stationed at the citadel
 
 ### Military Advantages
-**Central Position**: Can coordinate defense of all [[Aquabyssos territories  
-**Deep Access**: Unique ability to monitor and respond to threats from [The Hadal Depths]]  
-**Communication Hub**: Links all military units and government facilities  
-**Resource Concentration**: Largest cache of military equipment and supplies  
+**Central Position**: Can coordinate defense of all [[Aquabyssos territories
+**Deep Access**: Unique ability to monitor and respond to threats from [The Hadal Depths]]
+**Communication Hub**: Links all military units and government facilities
+**Resource Concentration**: Largest cache of military equipment and supplies
 **Symbolic Power**: Represents [[Aquabyssos strength and determination
 
 ### Defensive Capabilities
-**Structural Integrity**: Can withstand attacks from creatures of enormous size and power  
-**Magical Defenses**: Crystal barriers that adapt to different types of assault  
-**Firepower**: Weapons capable of destroying entire enemy fleets  
-**Self-Sufficiency**: Can operate independently for months during siege  
+**Structural Integrity**: Can withstand attacks from creatures of enormous size and power
+**Magical Defenses**: Crystal barriers that adapt to different types of assault
+**Firepower**: Weapons capable of destroying entire enemy fleets
+**Self-Sufficiency**: Can operate independently for months during siege
 **Escape Routes**: Secret passages allowing evacuation or reinforcement
 
 ### External Dangers
-**Deep Incursions**: Increased activity from [The Hadal Depths]] threatening all defenses  
-**Surface Tensions**: Potential conflict with [[Aethermoor requiring military preparation  
-**Dimensional Instabilities**: Reality tears near [The Lock]] causing unpredictable effects  
+**Deep Incursions**: Increased activity from [The Hadal Depths]] threatening all defenses
+**Surface Tensions**: Potential conflict with [[Aethermoor requiring military preparation
+**Dimensional Instabilities**: Reality tears near [The Lock]] causing unpredictable effects
 **Resource Competition**: Other powers seeking control of [[Aquabyssos assets
 
 ### Internal Challenges
-**Political Pressure**: Civilian government sometimes conflicts with military priorities  
-**Resource Limitations**: Growing threats require more equipment and personnel than available  
-**Intelligence Gaps**: Insufficient information about emerging dangers  
-**Personnel Stress**: High-pressure environment causing psychological casualties  
+**Political Pressure**: Civilian government sometimes conflicts with military priorities
+**Resource Limitations**: Growing threats require more equipment and personnel than available
+**Intelligence Gaps**: Insufficient information about emerging dangers
+**Personnel Stress**: High-pressure environment causing psychological casualties
 **Technology Lag**: Equipment not keeping pace with evolving threats
 
 ### The Crystal War Room
-**Description**: Central command facility with holographic displays of all [Aquabyssos]] territories  
-**Features**: Real-time tactical information, communication with all military units  
-**Technology**: Advanced crystal arrays showing troop positions, threat assessments, resource allocation  
+**Description**: Central command facility with holographic displays of all [Aquabyssos]] territories
+**Features**: Real-time tactical information, communication with all military units
+**Technology**: Advanced crystal arrays showing troop positions, threat assessments, resource allocation
 **Access**: Restricted to highest-ranking military and government officials
 
 ### The Hall of Heroes
-**Purpose**: Memorial honoring [[Depth Wardens who died protecting the realm  
-**Displays**: Crystal monuments preserving memories and achievements of fallen warriors  
-**Ceremonies**: Regular commemorations and military promotions held here  
+**Purpose**: Memorial honoring [[Depth Wardens who died protecting the realm
+**Displays**: Crystal monuments preserving memories and achievements of fallen warriors
+**Ceremonies**: Regular commemorations and military promotions held here
 **Inspiration**: Serves as reminder of duty and sacrifice to current personnel
 
 ### The Deep Observatory
-**Function**: Monitoring station watching [The Hadal Depths]] for signs of danger  
-**Equipment**: Most advanced sensory equipment available to [[Aquabyssos  
-**Staffing**: Specialists trained to recognize threats normal people might miss  
+**Function**: Monitoring station watching [The Hadal Depths]] for signs of danger
+**Equipment**: Most advanced sensory equipment available to [[Aquabyssos
+**Staffing**: Specialists trained to recognize threats normal people might miss
 **Importance**: First line of defense against the most dangerous creatures in existence
 
 ### The Diplomatic Suite
-**Purpose**: Secure facility for high-level negotiations and treaties  
-**Security**: Multiple layers of protection against espionage and attack  
-**Comfort**: Luxurious accommodations to impress and reassure important visitors  
+**Purpose**: Secure facility for high-level negotiations and treaties
+**Security**: Multiple layers of protection against espionage and attack
+**Comfort**: Luxurious accommodations to impress and reassure important visitors
 **Technology**: Translation magic and cultural briefing systems
 
 ### The Contingency Vault
-**Location**: Deepest level, accessible only to Supreme Commander  
-**Contents**: Weapons and plans for scenarios too terrible to discuss publicly  
-**Examples**: 
+**Location**: Deepest level, accessible only to Supreme Commander
+**Contents**: Weapons and plans for scenarios too terrible to discuss publicly
+**Examples**:
 - Plans for evacuating entire population to surface world
 - Weapons capable of destroying [The Lock]] if it becomes corrupted
 - Diplomatic agreements with entities from [[The Hadal Depths
@@ -331,35 +331,35 @@ The Azure Citadel stands as [[Aquabyssos's primary military headquarters and gov
 - Backup consciousness storage for critical personnel in [Memory Farmers]] archives
 
 ### Project Deep Strike
-**Classification**: Beyond top secret  
-**Purpose**: Preparation for offensive war against [[The Hadal Depths  
-**Resources**: Secret development of weapons specifically designed to fight cosmic horrors  
+**Classification**: Beyond top secret
+**Purpose**: Preparation for offensive war against [[The Hadal Depths
+**Resources**: Secret development of weapons specifically designed to fight cosmic horrors
 **Risk**: If discovered, could trigger premature war with entities beyond human comprehension
 
 ### The Admiral's Burden
-**Truth**: [Admiral Thorne Blackwater]] is slowly dying from exposure to deep horrors  
-**Timeline**: Has approximately 18 months before psychological collapse  
-**Preparation**: Secretly training replacement while maintaining appearance of stability  
+**Truth**: [Admiral Thorne Blackwater]] is slowly dying from exposure to deep horrors
+**Timeline**: Has approximately 18 months before psychological collapse
+**Preparation**: Secretly training replacement while maintaining appearance of stability
 **Knowledge**: Only three people know the truth; revelation would cause military crisis
 
 ### [[The Lock
-**Connection**: Primary monitoring and support facility  
-**Responsibility**: Provides personnel, supplies, and emergency response  
+**Connection**: Primary monitoring and support facility
+**Responsibility**: Provides personnel, supplies, and emergency response
 **Importance**: Failure of The Lock would make Azure Citadel the last line of defense
 
 ### [Parliament of Echoes]]
-**Relationship**: Uneasy cooperation between military and civilian authority  
-**Tensions**: Different priorities sometimes create conflict  
+**Relationship**: Uneasy cooperation between military and civilian authority
+**Tensions**: Different priorities sometimes create conflict
 **Integration**: Government wing allows better coordination during emergencies
 
 ### [[Abyssos Prime
-**Role**: Military protection for the capital city  
-**Coordination**: Regular communication and resource sharing  
+**Role**: Military protection for the capital city
+**Coordination**: Regular communication and resource sharing
 **Evacuation**: Emergency plans to defend or evacuate government if necessary
 
 ### Surface World ([Aethermoor]])
-**Diplomacy**: Manages military aspects of inter-realm relations  
-**Intelligence**: Monitors surface world for potential threats or opportunities  
+**Diplomacy**: Manages military aspects of inter-realm relations
+**Intelligence**: Monitors surface world for potential threats or opportunities
 **Cooperation**: Joint operations and information sharing when interests align
 
 ### [[The Gilded Shard
@@ -535,7 +535,7 @@ Ongoing situations affecting Azure Citadel:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Transparency Coalition
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

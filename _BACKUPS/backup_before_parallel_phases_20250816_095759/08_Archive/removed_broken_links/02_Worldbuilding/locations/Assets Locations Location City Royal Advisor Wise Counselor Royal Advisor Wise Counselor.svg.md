@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Royal Advisor Wise Counselor Royal Advisor Wise
   Counselor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal advisor wise counselor royal advisor
   wise counselorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

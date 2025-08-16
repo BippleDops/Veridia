@@ -27,7 +27,7 @@ related: []
 cssclass: standard
 publish: false --- # [[Session Template ## [Overview This]] document contains important information regarding [[Session Template and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. [Session Template]] represents a significant element within the campaign world, offering various opportunities for engagement and development. ## 
+**Details**: Rich sensory elements bring this to life. [Session Template]] represents a significant element within the campaign world, offering various opportunities for engagement and development. ##
 *The air carries the scent of [appropriate smell].*[[Key Information - **[Primary Purpose]]**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### Background {#background} Historical context and development over time. However, ### [[Current State Present circumstances and ongoing relevance. ### [Future Potential]] Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault

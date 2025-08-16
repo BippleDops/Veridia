@@ -2,7 +2,7 @@
 
 title: The Great Democratic Renewal
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

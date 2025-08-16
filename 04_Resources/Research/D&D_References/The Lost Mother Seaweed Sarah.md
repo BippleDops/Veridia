@@ -2,7 +2,7 @@
 
 title: The Lost Mother Seaweed Sarah
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

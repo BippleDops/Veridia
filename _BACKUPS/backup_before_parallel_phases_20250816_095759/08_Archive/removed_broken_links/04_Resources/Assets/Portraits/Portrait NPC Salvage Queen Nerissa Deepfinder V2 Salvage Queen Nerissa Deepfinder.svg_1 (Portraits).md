@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc salvage queen nerissa deepfinder v2 salvage queen nerissa deepfindersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Salvage Queen Nerissa Deepfinder V2 Salvage Queen Nerissa Deepfinder.svg
 type: npc

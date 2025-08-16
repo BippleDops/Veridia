@@ -2,7 +2,7 @@
 
 title: Orphan_Notes
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

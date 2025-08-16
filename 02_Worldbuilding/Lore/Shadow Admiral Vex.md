@@ -2,7 +2,7 @@
 
 title: Shadow Admiral Vex
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

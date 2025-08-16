@@ -2,7 +2,7 @@
 
 title: Commander Shadowguard
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

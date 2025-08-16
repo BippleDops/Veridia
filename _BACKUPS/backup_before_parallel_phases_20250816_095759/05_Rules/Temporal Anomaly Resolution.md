@@ -2,7 +2,7 @@
 
 title: Temporal Anomaly Resolution
 type: [[Lore
-tags: 
+tags:
 - aerial
 - temporal-safety
 - aquatic

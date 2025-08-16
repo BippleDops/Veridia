@@ -2,7 +2,7 @@
 
 title: Shadow Magic Integration Practices
 type: [[Lore
-tags: 
+tags:
 - aquatic
 - integration
 - shadow-touched

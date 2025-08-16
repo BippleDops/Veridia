@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city surface contact prohibition v1 surface contact prohibitionsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Surface Contact Prohibition V1 Surface Contact Prohibition.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Port Abyssos Port Abyssos.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port abyssos port abyssossvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

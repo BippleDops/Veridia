@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Watchfulrest Deep Watchfulrest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep watchfulrest deep watchfulrestsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -176,7 +176,7 @@ Key locations marked:
 - **Aberration**: aboleth
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 15
-  
+
 ### Environmental Hazards
 - Magical ward
 - **DC 13** to detect
@@ -194,7 +194,7 @@ Key locations marked:
 - **Recent History**: Fire 11 years ago
 - **Living Memory**: Murder last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Trial in 18 days
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: Links to The Second Prophecy of Winds

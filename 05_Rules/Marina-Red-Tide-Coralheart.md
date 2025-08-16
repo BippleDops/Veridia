@@ -1,12 +1,12 @@
 ---
 
 title: Marina Red Tide Coralheart
-aliases: 
+aliases:
 - Red Tide
 - The Coral Witch
 - Tide Turner
 type: Npc
-tags: 
+tags:
 - both
 - world/aquabyssos
 - information-broker
@@ -47,27 +47,27 @@ obsidianUIMode: preview
 occupation: Smuggler Captain / Information Broker
 portrait: ''
 public_faction: '[Independent Smugglers]]'
-related_quests: 
+related_quests:
 - '[[Investigate the Crystal Plague'
 - '[The Seven Shards Mystery]]'
 - '[[Uniting the Factions'
 - '[The Bloodline Awakens]]'
 relationship_type: complicated
-relationships: 
+relationships:
 - '[[Captain Lyanna Brightshield'
 - '[The Crimson Sage]]'
 - '[[Jasper Three Eyes Flint'
 - '[Lord Aurelius Goldwave]]'
 - '[[Vex Shadowthorn'
 - '[The Bloodline Carrier]]'
-secrets: 
+secrets:
 - Member of ancient order protecting bloodline descendants
 - Can breathe underwater and sense shards
 - Tattoos are actually Aquabyssos depth-marks
 - Has been switching places with her shadow self
 - Knows location of two shards
 - Category/People
-stats: 
+stats:
   cha: 16
   con: 13
   dex: 18
@@ -164,7 +164,7 @@ She dresses in practical sailing clothes mixed with finery stolen from a dozen p
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -325,7 +325,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

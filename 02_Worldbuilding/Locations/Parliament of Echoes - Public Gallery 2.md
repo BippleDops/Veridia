@@ -10,7 +10,7 @@ obsidianUIMode: preview
 parent_location: Parliament of Echoes
 population: 200-800 visitors daily
 status: complete
-tags: 
+tags:
 - access/public
 - aquabyssos
 - civic

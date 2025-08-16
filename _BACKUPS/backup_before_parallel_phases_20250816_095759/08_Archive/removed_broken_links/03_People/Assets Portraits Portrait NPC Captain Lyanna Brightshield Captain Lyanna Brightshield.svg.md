@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain lyanna brightshield captain lyanna
   brightshieldsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

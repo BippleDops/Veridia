@@ -2,7 +2,7 @@
 
 title: [[Aquabyssos Prime
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - active

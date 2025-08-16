@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sorceress luna prismatic v1 sorceress luna prismaticsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Sorceress Luna Prismatic V1 Sorceress Luna Prismatic.svg
 type: location

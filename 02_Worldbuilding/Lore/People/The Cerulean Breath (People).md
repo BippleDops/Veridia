@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/The Cerulean Breath
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

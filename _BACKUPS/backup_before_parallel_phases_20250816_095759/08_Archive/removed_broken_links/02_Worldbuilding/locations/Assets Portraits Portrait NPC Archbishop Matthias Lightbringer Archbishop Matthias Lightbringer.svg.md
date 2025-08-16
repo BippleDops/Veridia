@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Archbishop Matthias Lightbringer Archbishop Matthias
   Lightbringer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc archbishop matthias lightbringer archbishop
   matthias lightbringersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -186,7 +186,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

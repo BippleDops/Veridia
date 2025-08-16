@@ -2,7 +2,7 @@
 
 title: Bathyal Succession
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - royal

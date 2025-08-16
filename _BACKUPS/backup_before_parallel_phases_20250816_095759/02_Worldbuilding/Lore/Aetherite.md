@@ -2,7 +2,7 @@
 
 title: Aetherite
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - aerial

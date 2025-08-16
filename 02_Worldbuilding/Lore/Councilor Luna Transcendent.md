@@ -2,7 +2,7 @@
 
 title: Councilor Luna Transcendent
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

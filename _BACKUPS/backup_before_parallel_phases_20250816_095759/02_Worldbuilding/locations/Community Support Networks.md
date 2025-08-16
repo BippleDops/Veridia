@@ -2,7 +2,7 @@
 
 title: Community Support Networks
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

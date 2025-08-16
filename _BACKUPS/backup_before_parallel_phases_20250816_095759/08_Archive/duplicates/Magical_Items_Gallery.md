@@ -2,7 +2,7 @@
 
 title: Magical_Items_Gallery
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

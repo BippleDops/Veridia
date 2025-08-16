@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Lord Aldric Blackwater Lord Aldric Blackwater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc lord aldric blackwater lord aldric blackwatersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

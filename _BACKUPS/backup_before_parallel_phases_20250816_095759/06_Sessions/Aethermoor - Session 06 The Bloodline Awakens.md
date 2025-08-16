@@ -2,7 +2,7 @@
 
 title: Aethermoor - Session 06 The Bloodline Awakens
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city protocol expert formal protocol expert formalsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Protocol Expert Formal Protocol Expert Formal.svg
 type: location

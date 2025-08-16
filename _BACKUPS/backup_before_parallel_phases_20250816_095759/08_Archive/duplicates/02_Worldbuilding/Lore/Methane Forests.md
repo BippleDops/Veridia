@@ -2,7 +2,7 @@
 
 title: Methane Forests
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

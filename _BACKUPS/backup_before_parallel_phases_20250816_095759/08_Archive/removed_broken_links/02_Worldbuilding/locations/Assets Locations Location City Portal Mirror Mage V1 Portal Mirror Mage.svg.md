@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Portal Mirror Mage V1 Portal Mirror Mage.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city portal mirror mage v1 portal mirror
   magesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Key locations marked:
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 12
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 20** to detect
@@ -202,7 +202,7 @@ Key locations marked:
 - **Recent History**: War 35 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Festival in 7 days
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: Links to The Hidden Prophecy of Winds

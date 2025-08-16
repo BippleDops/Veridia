@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sentinel Constructs Sentinel Constructs.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sentinel constructs sentinel constructssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

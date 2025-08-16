@@ -2,7 +2,7 @@
 
 title: XP Thresholds
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -2,7 +2,7 @@
 
 title: Shard_Locations (D&D_Sourcebooks)
 type: location
-tags: 
+tags:
 - location
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: Duchess Elara Brightwater
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

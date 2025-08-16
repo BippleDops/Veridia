@@ -3,7 +3,7 @@ enhanced: true
 
 title: Compendium
 type: rules-reference
-tags: 
+tags:
 - mechanics
 - active
 - reference

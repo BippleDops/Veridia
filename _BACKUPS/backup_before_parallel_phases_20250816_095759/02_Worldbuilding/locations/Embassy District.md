@@ -2,7 +2,7 @@
 
 title: Embassy District
 type: [[location
-tags: 
+tags:
 - both
 - quest
 - world/both
@@ -166,7 +166,7 @@ Ongoing situations affecting Embassy District:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

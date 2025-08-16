@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Consequence Chain 2 - Crystal Trade Disruption
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

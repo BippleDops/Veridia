@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Perfect Symbiosis the Perfect Symbiosis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the perfect symbiosis the perfect symbiosissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -213,7 +213,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

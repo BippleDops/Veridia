@@ -2,7 +2,7 @@
 
 title: Master Trader Darkmarke
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

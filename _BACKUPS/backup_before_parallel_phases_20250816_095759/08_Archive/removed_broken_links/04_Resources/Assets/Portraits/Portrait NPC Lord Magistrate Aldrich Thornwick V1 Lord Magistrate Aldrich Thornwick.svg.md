@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord magistrate aldrich thornwick v1 lord magistrate aldrich thornwicksvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Magistrate Aldrich Thornwick V1 Lord Magistrate Aldrich Thornwick.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: Institute for Supernatural Health Studies
 type: [[Lore
-tags: 
+tags:
 - lore
 - both worlds
 - content/lore

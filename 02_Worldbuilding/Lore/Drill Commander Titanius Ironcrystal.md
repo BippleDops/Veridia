@@ -2,7 +2,7 @@
 
 title: Drill Commander Titanius Ironcrystal
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

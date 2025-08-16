@@ -2,7 +2,7 @@
 
 title: Sister Benthos Scrollheart
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

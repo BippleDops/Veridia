@@ -2,7 +2,7 @@
 
 title: Tidal District
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -157,7 +157,7 @@ Ongoing situations affecting Tidal District:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

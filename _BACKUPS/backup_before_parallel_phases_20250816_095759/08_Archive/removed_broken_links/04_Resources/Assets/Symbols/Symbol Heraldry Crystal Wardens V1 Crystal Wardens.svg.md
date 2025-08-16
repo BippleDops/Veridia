@@ -2,7 +2,7 @@
 
 title: Symbol Heraldry [[Crystal Wardens|Crystal Wardens V1 Crystal Wardens.svg
 type: [Lore|Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

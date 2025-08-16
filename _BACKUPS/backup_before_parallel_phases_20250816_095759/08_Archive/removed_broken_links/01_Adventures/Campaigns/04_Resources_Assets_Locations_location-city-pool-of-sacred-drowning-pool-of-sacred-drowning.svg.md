@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-pool-of-sacred-drowning.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Maze Heart Crystal Maze Heart Crystal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city maze heart crystal maze heart crystalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Mayor S Manor Mayor S Manor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc mayor s manor mayor s manorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Crystal Master Prism Lightweaver
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

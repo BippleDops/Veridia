@@ -2,7 +2,7 @@
 
 title: Eastern Kingdom
 type: [[Lore
-tags: 
+tags:
 - lore
 - technology
 - status/complete
@@ -25,7 +25,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-connections: 
+connections:
 - '[[Crystal Forest'
 - '[Resoce Chamber]]'
 - '[[Pressure Tubes'
@@ -38,7 +38,7 @@ political_structure: Guild Federation
 scope: Continental Significance
 specialization: Innovation and Engineering
 technological_level: Cutting Edge
-themes: 
+themes:
 - technological_innovation
 - magical_engineering
 - industrial_advancement
@@ -217,7 +217,7 @@ The primary coordinating body for technological development throughout the Easte
 
 The most prestigious professional organization in the Eastern Kingdoms, representing the elite craftsmen who create the most advanced magical items and technological devices produced in the region.
 
-**Guild Hierarchy**: 
+**Guild Hierarchy**:
 - **Grandmaster Artificers**: The highest level of achievement, these individuals have created artifacts of legendary power and serve as leaders and teachers for the entire guild
 - **Master Artificers**: Highly skilled professionals who lead major projects and supervise advanced workshops while training the next generation of elite craftsmen
 - **Journeyman Artificers**: Competent professionals who work independently on standard projects while developing specialized expertise in particular areas

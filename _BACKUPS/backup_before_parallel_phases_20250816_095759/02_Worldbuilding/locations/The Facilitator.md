@@ -2,7 +2,7 @@
 
 title: The Facilitator
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Shadow Independence Levels
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction
@@ -18,7 +18,7 @@ headquarters: Unknown
 membership: Unknown
 MyCategory: Shadow Autonomy Movement
 MyContainer: '[[The Shadowmere'
-benefits: 
+benefits:
 - reward: Shadow realm navigation training and basic integration support
   standing: 1
 - reward: Advanced shadow abilities development and community protection
@@ -27,17 +27,17 @@ benefits:
   standing: 3
 created_by: expansion
 faction: Shadow Autonomy Movement
-initiates: 
+initiates:
 - New Shadow-Touched
 - Shadow Integration Candidates
 - Transition Monitors
 leader: Council of Autonomous Shadows
-members: 
+members:
 - Shadow-touched Citizens
 - Voluntary Shadow Converts
 - Shadow Realm Refugees
 obsidianUIMode: preview
-officers: 
+officers:
 - Elder Whisper-In-The-Dark
 - The Shadow Singer Naia
 - Marcus 'The Shade' Blackwood
@@ -269,7 +269,7 @@ The SIL facilitates legitimate commerce between shadow and material planes:
 | Cultural Education Programs | 25gp/course | Open enrollment |
 | Shadow Ability Training | 100gp/month | Certified instructors |
 
-### Member Services  
+### Member Services
 | Service | Membership Level | Details |
 |---------|------------------|----------|
 | Community Housing | Primary Members | Subsidized shadow-adapted housing |

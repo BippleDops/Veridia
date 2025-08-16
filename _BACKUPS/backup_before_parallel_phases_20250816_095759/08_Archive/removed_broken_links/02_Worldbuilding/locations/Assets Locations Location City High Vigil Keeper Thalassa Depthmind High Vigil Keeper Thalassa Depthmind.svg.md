@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City High Vigil Keeper Thalassa Depthmind High Vigil
   Keeper Thalassa Depthmind.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city high vigil keeper thalassa depthmind
   high vigil keeper thalassa depthmindsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

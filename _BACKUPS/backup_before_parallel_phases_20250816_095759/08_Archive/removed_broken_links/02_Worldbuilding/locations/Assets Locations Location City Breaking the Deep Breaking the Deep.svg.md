@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Breaking the Deep Breaking the Deep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city breaking the deep breaking the deepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

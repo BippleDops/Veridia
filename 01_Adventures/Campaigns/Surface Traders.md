@@ -2,7 +2,7 @@
 
 title: Surface Traders
 type: Location
-tags: 
+tags:
 - aquabyssos
 - trade
 - world/surface

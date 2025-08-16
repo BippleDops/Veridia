@@ -2,7 +2,7 @@
 
 title: Random Loot
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

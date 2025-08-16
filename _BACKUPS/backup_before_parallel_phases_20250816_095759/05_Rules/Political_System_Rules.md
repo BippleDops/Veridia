@@ -3,7 +3,7 @@ enhanced: true
 
 title: Political System Rules
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 
@@ -28,7 +28,7 @@ publish: false
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. Political System Rules provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This 
+**Details**: Rich sensory elements bring this to life. Political System Rules provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This
 *Sounds of [relevant sounds] echo in the distance.*system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic

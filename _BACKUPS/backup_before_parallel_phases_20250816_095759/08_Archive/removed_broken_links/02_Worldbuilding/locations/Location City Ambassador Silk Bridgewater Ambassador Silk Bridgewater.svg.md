@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city ambassador silk bridgewater ambassador silk bridgewatersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Ambassador Silk Bridgewater Ambassador Silk Bridgewater.svg
 type: location

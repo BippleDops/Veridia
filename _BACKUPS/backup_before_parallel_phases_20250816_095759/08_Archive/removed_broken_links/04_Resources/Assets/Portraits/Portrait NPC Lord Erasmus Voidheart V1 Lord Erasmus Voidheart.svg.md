@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord erasmus voidheart v1 lord erasmus voidheartsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Erasmus Voidheart V1 Lord Erasmus Voidheart.svg
 type: npc

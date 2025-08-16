@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Court Herald Master Proclamation Crownvoice
   V1 Court Herald Master Proclamation Crownvoice.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city court herald master proclamation crownvoice
   v1 court herald master proclamation crownvoicesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Infrastructure/Maintece Stations
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

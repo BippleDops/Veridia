@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Depth Crystal Harvest V1 Depth Crystal Harvest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city depth crystal harvest v1 depth crystal
   harvestsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

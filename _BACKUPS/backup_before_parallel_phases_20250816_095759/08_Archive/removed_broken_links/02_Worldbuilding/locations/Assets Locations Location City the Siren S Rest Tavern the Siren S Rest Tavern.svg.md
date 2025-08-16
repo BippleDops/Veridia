@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Siren S Rest Tavern the Siren S Rest Tavern.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the siren s rest tavern the siren s
   rest tavernsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

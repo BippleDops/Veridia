@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc archbishop matthias lightbringer v1 archbishop matthias lightbringersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Archbishop Matthias Lightbringer V1 Archbishop Matthias Lightbringer.svg
 type: npc

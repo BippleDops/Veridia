@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tide Bondkeeper V1 Tide Bondkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tide bondkeeper v1 tide bondkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

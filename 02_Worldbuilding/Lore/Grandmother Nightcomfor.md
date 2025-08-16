@@ -2,7 +2,7 @@
 
 title: Grandmother Nightcomfor
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

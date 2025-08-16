@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Harbor Pilot Captain Storm Skyreacher Harbor
   Pilot Captain Storm Skyreacher.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor pilot captain storm skyreacher
   harbor pilot captain storm skyreachersvg
 type: npc
-tags: 
+tags:
 - active
 - character
 - aethermoor
@@ -213,7 +213,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Crystallization Process Crystallization Process.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystallization process crystallization
   processpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

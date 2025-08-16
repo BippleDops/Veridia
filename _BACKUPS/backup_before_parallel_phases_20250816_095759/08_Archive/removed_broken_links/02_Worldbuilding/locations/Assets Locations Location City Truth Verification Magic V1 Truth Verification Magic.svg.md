@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Truth Verification Magic V1 Truth Verification
   Magic.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city truth verification magic v1 truth verification
   magicsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

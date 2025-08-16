@@ -2,7 +2,7 @@
 
 title: [[Conspiracy Web
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

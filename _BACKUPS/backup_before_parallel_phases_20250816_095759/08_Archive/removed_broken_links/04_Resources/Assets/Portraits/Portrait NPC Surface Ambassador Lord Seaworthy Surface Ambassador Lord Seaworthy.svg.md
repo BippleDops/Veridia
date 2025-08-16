@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc surface ambassador lord seaworthy surface ambassador lord seaworthysvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Surface Ambassador Lord Seaworthy Surface Ambassador Lord Seaworthy.svg
 type: npc

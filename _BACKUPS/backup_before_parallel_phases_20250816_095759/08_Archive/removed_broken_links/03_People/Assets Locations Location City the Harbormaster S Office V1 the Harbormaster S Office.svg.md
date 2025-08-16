@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Harbormaster S Office V1 the Harbormaster
   S Office.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the harbormaster s office v1 the harbormaster
   s officesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

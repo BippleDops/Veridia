@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Memory Farmer Thane V1 Memory Farmer Thane.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory farmer thane v1 memory farmer
   thanesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

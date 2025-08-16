@@ -2,7 +2,7 @@
 
 title: The Warden Guilds
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

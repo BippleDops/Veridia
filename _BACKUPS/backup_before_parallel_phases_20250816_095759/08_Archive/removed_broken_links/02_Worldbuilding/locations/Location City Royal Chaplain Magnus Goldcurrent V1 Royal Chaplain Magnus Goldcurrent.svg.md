@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city royal chaplain magnus goldcurrent v1 royal chaplain magnus goldcurrentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Royal Chaplain Magnus Goldcurrent V1 Royal Chaplain Magnus Goldcurrent.svg
 type: location

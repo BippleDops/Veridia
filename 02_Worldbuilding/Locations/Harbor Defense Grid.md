@@ -2,7 +2,7 @@
 
 title: Harbor Defense Grid
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Mediator Serenity Stillwater V1 Mediator Serenity
   Stillwater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city mediator serenity stillwater v1 mediator
   serenity stillwatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Portrait NPC Professor Aldric Crystalweaver V2 Professor Aldric Crystalweaver.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

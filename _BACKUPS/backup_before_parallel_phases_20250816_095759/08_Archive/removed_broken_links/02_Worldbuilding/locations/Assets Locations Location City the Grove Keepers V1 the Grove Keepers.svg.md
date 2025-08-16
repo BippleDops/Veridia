@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Grove Keepers V1 the Grove Keepers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the grove keepers v1 the grove keeperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

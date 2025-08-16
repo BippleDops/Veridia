@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Coral Craftsman Coral Craftsman.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral craftsman coral craftsmansvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

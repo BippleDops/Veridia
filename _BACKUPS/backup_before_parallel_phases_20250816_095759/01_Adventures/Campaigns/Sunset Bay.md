@@ -2,7 +2,7 @@
 
 title: Sunset Bay
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

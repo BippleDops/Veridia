@@ -2,7 +2,7 @@
 
 title: Research Director Past Future
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

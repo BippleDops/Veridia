@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city thalassa lightbringer v1 thalassa lightbringerpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Thalassa Lightbringer V1 Thalassa Lightbringer.png
 type: location

@@ -2,7 +2,7 @@
 
 title: Ficial Crime Investigation
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

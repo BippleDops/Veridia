@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC High Priestess Nerida Soulcurrent High Priestess
   Nerida Soulcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc high priestess nerida soulcurrent high
   priestess nerida soulcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -192,7 +192,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

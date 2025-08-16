@@ -2,7 +2,7 @@
 
 title: The Silence
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore
@@ -131,7 +131,7 @@ Mentioned in The Hidden Prophecy of Depths
 ## References
 
 - [Crystal Corruption Taboos]]
-- 
+-
 - [[The Silence Garden
 - [Screaming Gardens]]
 - [[Surface Signals

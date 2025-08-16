@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the grand bazaar of echoing coins v1 the grand bazaar of echoing coinssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Grand Bazaar of Echoing Coins V1 the Grand Bazaar of Echoing
   Coins.svg

@@ -1,7 +1,7 @@
 ---
 title: Biological Enhancement Corps
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - prophecy

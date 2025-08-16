@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Infrastructure/Express Routes
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

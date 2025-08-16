@@ -2,7 +2,7 @@
 
 title: Power Level Magic Item Power by Rarity
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

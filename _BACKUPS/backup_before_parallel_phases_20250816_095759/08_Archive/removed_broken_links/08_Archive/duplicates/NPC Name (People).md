@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding/People/NPC Name
 type: npc
-tags: 
+tags:
 - npc
 - elf
 - wizard

@@ -2,7 +2,7 @@
 access: Military Personnel Only
 architecture: Reinforced Deep-Ocean Construction
 commander: '[[02_Worldbuilding/People/Commander Typhoon Blackheart'
-connected_locations: 
+connected_locations:
 - '[02_Worldbuilding/Places/Abyssos Prime]]'
 - '[[02_Worldbuilding/Places/The Cerulean Trench'
 - '[02_Worldbuilding/Lore/Kraken Territories]]'
@@ -13,7 +13,7 @@ current_state: Full operational readiness
 danger_level: 5
 depth: 8000-12000 feet
 discovered: false
-factions: 
+factions:
 - '[02_Worldbuilding/People/The Depth Wardens]]'
 - 'Deep Strike Forces'
 - 'Abyssal Intelligence Corps'
@@ -21,7 +21,7 @@ factions:
 government: Military Command Structure
 location_name: Fortress of the Deeps
 location_type: Military Fortress and Command Center
-notable_npcs: 
+notable_npcs:
 - '[[02_Worldbuilding/People/Commander Typhoon Blackheart'
 - 'Major Hadal Deepstrike'
 - 'Intelligence Chief Marina Shadowcurrent'
@@ -31,7 +31,7 @@ population: 5000
 pressure_effects: Extreme - Specialized equipment required
 ruler: '[02_Worldbuilding/People/Commander Typhoon Blackheart]]'
 security_level: Maximum
-services: 
+services:
 - Military Command and Control
 - Deep-Ocean Combat Training
 - Emergency Response Coordination
@@ -40,14 +40,14 @@ services:
 shadow_density: High - Constantly monitored
 size: Massive Military Complex
 status: complete
-sub_locations: 
+sub_locations:
 - 'Command Center Alpha'
 - 'The Pressure Training Grounds'
 - 'Deep Strike Operations Center'
 - 'The Sentinel Watch Towers'
 - 'Military Harbor Depths'
 - 'The War Memorial Caverns'
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location

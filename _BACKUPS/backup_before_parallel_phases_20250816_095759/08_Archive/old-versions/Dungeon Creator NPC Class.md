@@ -2,7 +2,7 @@
 
 title: Dungeon Creator NPC Class
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

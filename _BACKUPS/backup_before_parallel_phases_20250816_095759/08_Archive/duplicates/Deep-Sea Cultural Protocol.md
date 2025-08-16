@@ -2,7 +2,7 @@
 
 title: Deep-Sea Cultural Protocol
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

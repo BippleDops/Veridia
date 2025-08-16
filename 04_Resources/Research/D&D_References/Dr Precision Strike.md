@@ -2,7 +2,7 @@
 
 title: Dr Precision Strike
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

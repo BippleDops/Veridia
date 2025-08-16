@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Surface Loyalist Safe Houses Surface Loyalist
   Safe Houses.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface loyalist safe houses surface
   loyalist safe housessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

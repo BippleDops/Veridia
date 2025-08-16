@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Azure Coast V1 the Azure Coast.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the azure coast v1 the azure coastsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

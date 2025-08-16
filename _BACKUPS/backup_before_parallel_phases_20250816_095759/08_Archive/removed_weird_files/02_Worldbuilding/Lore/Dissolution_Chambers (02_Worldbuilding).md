@@ -2,7 +2,7 @@
 
 title: [[Dissolution Chambers
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'
@@ -278,7 +278,7 @@ Mentioned in The Hidden Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

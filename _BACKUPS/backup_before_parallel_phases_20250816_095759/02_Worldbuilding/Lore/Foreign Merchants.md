@@ -2,7 +2,7 @@
 
 title: Foreign [[Merchants
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

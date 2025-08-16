@@ -2,7 +2,7 @@
 
 title: firearm-bullets-10-xphb 2 (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

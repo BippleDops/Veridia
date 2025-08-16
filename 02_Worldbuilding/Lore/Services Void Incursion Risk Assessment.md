@@ -2,7 +2,7 @@
 
 title: Services [[Void Incursion Risk Assessment
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

@@ -2,7 +2,7 @@
 
 title: Elder Things
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

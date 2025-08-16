@@ -2,7 +2,7 @@
 
 title: The Breathing Stone
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - status/complete

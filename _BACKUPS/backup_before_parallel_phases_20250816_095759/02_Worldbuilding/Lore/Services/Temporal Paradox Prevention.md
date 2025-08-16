@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Temporal Paradox Prevention
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

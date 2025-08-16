@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc scholar emperor thalassius the wise v2 scholar emperor thalassius the
   wisesvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Scholar Emperor Thalassius the Wise V2 Scholar Emperor Thalassius
   the Wise.svg

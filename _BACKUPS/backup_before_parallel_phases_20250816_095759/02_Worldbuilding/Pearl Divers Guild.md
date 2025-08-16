@@ -2,7 +2,7 @@
 
 title: Pearl Divers Guild
 type: organization
-tags: 
+tags:
 - organization
 - cult
 - bloodline

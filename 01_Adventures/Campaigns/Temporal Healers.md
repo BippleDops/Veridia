@@ -2,7 +2,7 @@
 
 title: Temporal Healers
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

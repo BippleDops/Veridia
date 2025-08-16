@@ -1,7 +1,7 @@
 ---
 MyCategory: Unknown
 MyContainer: None
-aliases: 
+aliases:
 - The Living Light
 - Garden City
 created: '2024-12-19'
@@ -10,7 +10,7 @@ image: 04_Resources/Assets/Locations/lumengarde.jpg
 obsidianUIMode: preview
 population: 45000 - Category/Place
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location

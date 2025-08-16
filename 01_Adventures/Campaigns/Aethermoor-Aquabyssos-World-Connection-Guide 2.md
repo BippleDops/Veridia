@@ -2,7 +2,7 @@
 connection_type: Dimensional Overlap
 created: '2025-08-07'
 status: draft
-tags: 
+tags:
 - aquabyssos
 - connections
 - content/lore
@@ -37,7 +37,7 @@ world_type: Parallel Realms
 #### State 2: Partial Merger (Current Campaign)
 - **Timeline**: Post-Crystal Festival events
 - **Barrier**: Weakening, selective breaches
-- **Merged Zones**: 
+- **Merged Zones**:
   - [[02_Worldbuilding/Places/Port Meridian ↔ [02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
   - [[02_Worldbuilding/Lore/Lighthouse of Storms ↔ [02_Worldbuilding/Places/The Inverse Palace]]
   - [[02_Worldbuilding/Places/Crystal Gardens ↔ [02_Worldbuilding/Places/Screaming Gardens]]
@@ -103,7 +103,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 - **Shared Goal**: Maintain separation/control merger
 - **Conflict**: Degree of acceptable integration
 - **Secret**: Leadership includes beings from both worlds
-- **Resources**: 
+- **Resources**:
   - Aethermoor: Crystal technology
   - Aquabyssos: Depth magic
 

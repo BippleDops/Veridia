@@ -1,7 +1,7 @@
 ---
 title: Ancient Tunnels Beneath Palace
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

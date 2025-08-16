@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the temple of eternal tides v1 the temple of eternal tidessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Temple of Eternal Tides V1 the Temple of Eternal Tides.svg
 type: location

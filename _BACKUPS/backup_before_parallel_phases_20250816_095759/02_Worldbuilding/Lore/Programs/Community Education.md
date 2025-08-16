@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Programs/Community Education
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

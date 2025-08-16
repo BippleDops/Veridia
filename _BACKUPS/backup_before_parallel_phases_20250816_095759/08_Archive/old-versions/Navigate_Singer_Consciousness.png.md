@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Navigate_Singer_Consciousness.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

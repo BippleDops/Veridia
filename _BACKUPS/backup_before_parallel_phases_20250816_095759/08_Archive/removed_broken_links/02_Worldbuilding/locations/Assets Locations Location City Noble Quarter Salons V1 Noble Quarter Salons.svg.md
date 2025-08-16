@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Noble Quarter Salons V1 Noble Quarter Salons.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city noble quarter salons v1 noble quarter
   salonssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

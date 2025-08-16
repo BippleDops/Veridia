@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Spy Games Spy Games.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city spy games spy gamessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

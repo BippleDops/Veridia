@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city moderate depth coalition v1 moderate depth coalitionsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Moderate Depth Coalition V1 Moderate Depth Coalition.svg
 type: location

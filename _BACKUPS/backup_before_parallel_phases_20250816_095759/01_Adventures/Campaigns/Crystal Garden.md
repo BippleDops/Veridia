@@ -2,7 +2,7 @@
 
 title: Crystal Garden
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - both

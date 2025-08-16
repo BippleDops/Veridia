@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Crystal Wardens V1 the Crystal Wardens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal wardens v1 the crystal wardenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

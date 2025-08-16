@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Fortress of the Deeps
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord general harrison ironhold v1 lord general harrison ironholdsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord General Harrison Ironhold V1 Lord General Harrison Ironhold.svg
 type: npc

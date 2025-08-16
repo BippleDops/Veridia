@@ -2,7 +2,7 @@
 
 title: Loop Walker Celia
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

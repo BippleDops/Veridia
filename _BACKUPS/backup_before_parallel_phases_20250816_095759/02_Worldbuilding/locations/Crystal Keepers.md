@@ -2,7 +2,7 @@
 
 title: Crystal Keepers
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]
@@ -169,7 +169,7 @@ Ongoing situations affecting Crystal Keepers:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

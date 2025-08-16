@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master finn liquidlight v1 master finn liquidlightsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Finn Liquidlight V1 Master Finn Liquidlight.svg
 type: location

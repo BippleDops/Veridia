@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ambassador Reed Treatymaker Ambassador Reed
   Treatymaker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ambassador reed treatymaker ambassador
   reed treatymakersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

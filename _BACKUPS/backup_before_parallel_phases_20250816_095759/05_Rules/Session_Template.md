@@ -1,14 +1,14 @@
 ---
 tags: [session]
-date: 
-session_number: 
+date:
+session_number:
 players_present: []
-recap: 
-xp_awarded: 
-treasure: 
+recap:
+xp_awarded:
+treasure:
 ---
 
-# Session  - 
+# Session  -
 
 ## Recap
 {previous_session_summary}

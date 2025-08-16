@@ -2,7 +2,7 @@
 
 title: [[Prince Aurelius Lightbringer
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - content/adventure

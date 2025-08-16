@@ -5,7 +5,7 @@ headquarters: Unknown
 improvements: 20
 membership: Unknown
 modified: '2025-08-14'
-tags: 
+tags:
 - organization
 title: Groups
 type: faction
@@ -100,7 +100,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[02_Worldbuilding_Groups_Political_Consulting_Guil
 - [02_Worldbuilding_Groups_Pressure_Safety_Authorit]]
 - [[02_Worldbuilding_Groups_Surface_Reconnection_Coalition
-- 
+-
 - [02_Worldbuilding_Groups_The_Memory_Keepers]]
 - [[02_Worldbuilding_Groups_The_Nameless_Librarians
 - [02_Worldbuilding_Groups_The_Pearl_Divers_Guil]]
@@ -127,7 +127,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[02_Worldbuilding_Items_Truth_Crystals
 - [02_Worldbuilding_Locations_Abyssal_Forges]]
 - [[02_Worldbuilding_Locations_Abyssal_Spires
-- 
+-
 - [02_Worldbuilding_Locations_Crystal_Conservatory]]
 - [[02_Worldbuilding_Locations_Floating_Arsenal
 - [02_Worldbuilding_Locations_Sunken_Palace]]
@@ -211,7 +211,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - [04_Resources_Handouts_Ships_Player_Handout_Merger_Vessels]]
 - [[06_GM_Resources_Session_Tools_Session_Zero_Guide
 - [07_Player_Resources_Character_Options_Character_Bonds]]
-- 
+-
 - [[1 DM Toolkit Home Dv
 - [1-DM_Toolkit_DM_Board]]
 - [[10-chapter-10-descent-into-the-depths
@@ -243,7 +243,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[Aquabyssos Shadow Pools
 - [Aquabyssos Trade Seal]]
 - [[Architecture Dimensional Bridging
-- 
+-
 - [Artifacts Shard of Empathy]]
 - [[Artificer_PlayStation
 - [Assets Locations]]
@@ -350,7 +350,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[Lieutet_Bloodcoral_Vex_Tidebreaker
 - [Lighthouse_of_Storms]]
 - [[Locations Abyssal Forges
-- 
+-
 - [Locations Crystal Conservatory]]
 - [[Locations Crystal Shadow Storms
 - [Locations the Communication Array]]
@@ -458,7 +458,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - [The Crystal Shepherds]]
 - [[The Deep Harvest
 - [The Festival of Rising Tides]]
-- 
+-
 - [[The Grand Trade Routes
 - [The Living Tools]]
 - [[The Pressure Baptism Rites
@@ -643,7 +643,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - [twig-blight-xmm]]
 - [[tyrannosaurus-rex-xmm
 - [vampire-spawn-xmm]]
-- 
+-
 - [[venomous-snake-xmm
 - [vine-blight-xmm]]
 - [[violet-fungus-xmm
@@ -723,6 +723,6 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[Convergence_Point_Introduction (D&D_Sourcebooks)
 - [Crystal Gardens (D&D_Statblocks)]]
 - [[The Drowning Truth (D&D_Statblocks)
-- 
+-
 - [The Reflection Pools (D&D_Statblocks)]]
 - [[The Seven Seals (D&D_Statblocks)]]

@@ -2,7 +2,7 @@
 
 title: Sacred Historian [[Coral Deepscribe
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

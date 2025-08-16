@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Merchant Prince Akula V1 Merchant Prince Akula.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant prince akula v1 merchant prince
   akulapng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -183,7 +183,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

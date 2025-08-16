@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Bubble District V1 Bubble District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city bubble district v1 bubble districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

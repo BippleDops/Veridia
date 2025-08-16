@@ -2,7 +2,7 @@
 
 title: The Banker Fish
 type: Location
-tags: 
+tags:
 - aquabyssos
 - maritime-banking
 - status/complete

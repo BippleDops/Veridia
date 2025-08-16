@@ -2,7 +2,7 @@
 
 title: INDEX (Icewind_Dale_Rime_of_the_Frostmaiden)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

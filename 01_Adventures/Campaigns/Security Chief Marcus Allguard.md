@@ -2,7 +2,7 @@
 
 title: Security Chief Marcus Allguard
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

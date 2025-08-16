@@ -2,7 +2,7 @@
 
 title: Merged Magic
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

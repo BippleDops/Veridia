@@ -2,7 +2,7 @@
 
 title: The Parliament of Nobody
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction

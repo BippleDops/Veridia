@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Anti Smuggling Operations Anti Smuggling Operations.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city anti smuggling operations anti smuggling
   operationssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

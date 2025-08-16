@@ -2,7 +2,7 @@
 
 title: Darkquill's Rare Books
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc weaponsmith captain marcus sharpedge weaponsmith captain marcus sharpedgesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Weaponsmith Captain Marcus Sharpedge Weaponsmith Captain Marcus
   Sharpedge.svg

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city temple of the healing waters v1 temple of the healing waterssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Temple of the Healing Waters V1 Temple of the Healing Waters.svg
 type: location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the bio adaptation crisis v2 quest the bio adaptation crisissvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Bio Adaptation Crisis V2 Quest the Bio Adaptation Crisis.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: Border Patrol Unit
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

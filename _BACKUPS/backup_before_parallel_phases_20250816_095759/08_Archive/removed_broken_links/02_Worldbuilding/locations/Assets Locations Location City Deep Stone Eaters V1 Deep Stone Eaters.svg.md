@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Stone Eaters V1 Deep Stone Eaters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep stone eaters v1 deep stone eaterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -190,7 +190,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

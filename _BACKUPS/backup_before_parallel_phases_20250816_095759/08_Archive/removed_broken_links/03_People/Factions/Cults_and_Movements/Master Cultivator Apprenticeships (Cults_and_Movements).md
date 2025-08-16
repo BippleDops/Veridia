@@ -2,7 +2,7 @@
 
 title: Master Cultivator Apprenticeships
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse
   Polyp Tendercurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city senior nurse polyp tendercurrent v1
   senior nurse polyp tendercurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

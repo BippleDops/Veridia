@@ -2,7 +2,7 @@
 
 title: [[Senator [Marina Tidecaller]]
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

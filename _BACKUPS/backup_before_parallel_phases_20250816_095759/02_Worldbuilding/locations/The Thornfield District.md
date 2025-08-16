@@ -2,7 +2,7 @@
 
 title: The Thornfield District
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

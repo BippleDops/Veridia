@@ -2,7 +2,7 @@
 
 title: Port Meridian   Merchant Quarter
 type: Location
-tags: 
+tags:
 - trading
 - district
 - status/complete
@@ -29,7 +29,7 @@ government: '[Merchant Council of Port Meridian]]'
 leader: '[[Trade Master Silas Goldwater'
 obsidianUIMode: preview
 parent_location: '[Port Meridian]]'
-specialties: 
+specialties:
 - International Trade
 - Crystal Commerce
 - Information Brokerage
@@ -559,7 +559,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

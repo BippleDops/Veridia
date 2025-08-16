@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Quest the Siren S Price Quest the Siren S Price.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the siren s price quest the siren
   s pricesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Prophetic Dreams
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

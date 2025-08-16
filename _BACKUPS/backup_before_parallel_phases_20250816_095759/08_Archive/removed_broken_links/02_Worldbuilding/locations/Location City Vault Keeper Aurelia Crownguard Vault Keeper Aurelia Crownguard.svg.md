@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city vault keeper aurelia crownguard vault keeper aurelia crownguardsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Vault Keeper Aurelia Crownguard Vault Keeper Aurelia Crownguard.svg
 type: location

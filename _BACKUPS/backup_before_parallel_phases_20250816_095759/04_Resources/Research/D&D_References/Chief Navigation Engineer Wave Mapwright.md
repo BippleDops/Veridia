@@ -2,7 +2,7 @@
 
 title: Chief Navigation Engineer Wave Mapwright
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: paladin-xphb-oath-of-conquest-xge (classes)
 type: quest
-tags: 
+tags:
 - quest
 
 created: '2025-01-15'

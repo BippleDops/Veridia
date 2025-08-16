@@ -2,7 +2,7 @@
 
 title: Lord Vexton Shadowmere
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction
@@ -159,8 +159,8 @@ The Court maintains several specialized organizations that extend their influenc
 
 **Lord Vexton Shadowmere**
 *Shadow Lord, 11th-level Warlock (Great Old One Patron)*
-**Armor Class** 18 (Shadow Silk Robes)  
-**Hit Points** 123 (`dice: 11d8` + 55)  
+**Armor Class** 18 (Shadow Silk Robes)
+**Hit Points** 123 (`dice: 11d8` + 55)
 **Speed** 30 ft., Shadow Step 60 ft.
 **STR** 12 (+1) **DEX** 16 (+3) **CON** 20 (+5) **INT** 18 (+4) **WIS** 14 (+2) **CHA** 22 (+6)
 **Saving Throws** Wis +7, Cha +11
@@ -175,8 +175,8 @@ The Court maintains several specialized organizations that extend their influenc
 
 **Duchess Seraphina Nighne**
 *Ficial Operations Director, 9th-level Enchanter Wizard*
-**Armor Class** 16 (Mage Armor + Dex)  
-**Hit Points** 67 (`dice: 9d6` + 27)  
+**Armor Class** 16 (Mage Armor + Dex)
+**Hit Points** 67 (`dice: 9d6` + 27)
 **Speed** 30 ft.
 **STR** 8 (-1) **DEX** 14 (+2) **CON** 16 (+3) **INT** 20 (+5) **WIS** 13 (+1) **CHA** 18 (+4)
 **Saving Throws** Int +10, Wis +6
@@ -190,8 +190,8 @@ The Court maintains several specialized organizations that extend their influenc
 
 **Duke Thaddeus Shadowborn**
 *Military Commander, 8th-level Eldritch Knight Fighter*
-**Armor Class** 20 (Plate + Shield)  
-**Hit Points** 104 (`dice: 8d10` + 56)  
+**Armor Class** 20 (Plate + Shield)
+**Hit Points** 104 (`dice: 8d10` + 56)
 **Speed** 30 ft.
 **STR** 18 (+4) **DEX** 12 (+1) **CON** 18 (+4) **INT** 16 (+3) **WIS** 14 (+2) **CHA** 16 (+3)
 **Saving Throws** Str +9, Con +9
@@ -205,8 +205,8 @@ The Court maintains several specialized organizations that extend their influenc
 
 **Count Aldric Voidwhisper**
 *Intelligence Operations, 7th-level Whispers Bard*
-**Armor Class** 15 (Studded Leather + Dex)  
-**Hit Points** 52 (`dice: 7d8` + 14)  
+**Armor Class** 15 (Studded Leather + Dex)
+**Hit Points** 52 (`dice: 7d8` + 14)
 **Speed** 30 ft., Shadow Step 30 ft.
 **STR** 10 (+0) **DEX** 16 (+3) **CON** 14 (+2) **INT** 16 (+3) **WIS** 12 (+1) **CHA** 18 (+4)
 **Saving Throws** Dex +6, Cha +7
@@ -220,8 +220,8 @@ The Court maintains several specialized organizations that extend their influenc
 
 **Baroness Cordelia Shadowgrace**
 *Cultural Affairs Director, 6th-level Glamour Bard*
-**Armor Class** 14 (Natural + Dex)  
-**Hit Points** 45 (`dice: 6d8` + 12)  
+**Armor Class** 14 (Natural + Dex)
+**Hit Points** 45 (`dice: 6d8` + 12)
 **Speed** 30 ft.
 **STR** 8 (-1) **DEX** 16 (+3) **CON** 14 (+2) **INT** 15 (+2) **WIS** 13 (+1) **CHA** 20 (+5)
 **Saving Throws** Dex +6, Cha +8
@@ -365,7 +365,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

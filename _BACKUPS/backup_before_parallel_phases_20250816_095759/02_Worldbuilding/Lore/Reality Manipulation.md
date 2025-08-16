@@ -1,7 +1,7 @@
 ---
 title: Reality Manipulation
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

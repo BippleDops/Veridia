@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Cultural Advisor Sarah Bridgekeeper Cultural
   Advisor Sarah Bridgekeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city cultural advisor sarah bridgekeeper
   cultural advisor sarah bridgekeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

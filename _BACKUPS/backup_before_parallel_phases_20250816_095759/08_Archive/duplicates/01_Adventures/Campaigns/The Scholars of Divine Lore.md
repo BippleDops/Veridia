@@ -2,7 +2,7 @@
 
 title: The Scholars of Divine [[Lore
 type: Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

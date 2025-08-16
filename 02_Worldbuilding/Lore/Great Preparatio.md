@@ -2,7 +2,7 @@
 
 title: Great Preparatio
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

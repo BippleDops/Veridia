@@ -1,7 +1,7 @@
 ---
 title: [[locations [Archive of Echoes]]
 type: lore
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

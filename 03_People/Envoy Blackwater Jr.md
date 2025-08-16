@@ -2,7 +2,7 @@
 
 title: Envoy Blackwater Jr
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -47,24 +47,24 @@ improvements: 20
 
 *Medium humanoid (half-elf), lawful evil*
 
-**Armor Class** 16 (Studded Leather +2, Dex)  
-**Hit Points** 75 (`dice: `dice: 10d8`` + 30)  
+**Armor Class** 16 (Studded Leather +2, Dex)
+**Hit Points** 75 (`dice: `dice: 10d8`` + 30)
 **Speed** 30 ft., swim 30 ft.
 
 **STR** 12 (+1) **DEX** 16 (+3) **CON** 16 (+3) **INT** 17 (+3) **WIS** 14 (+2) **CHA** 20 (+5)
 
-**Saving Throws** Wis +6, Cha +9  
-**Skills** Deception +13, History +7, Insight +6, Intimidation +9, Investigation +7, Persuasion +13  
-**Damage Resistances** Necrotic, Psychic  
-**Condition Immunities** Charmed (while conscious)  
-**Senses** Darkvision 60 ft., passive Perception 12  
-**Languages** Common, Aquabyssan, Elvish, Deep Speech, Primordial, Celestial  
-**Challenge Rating** 9 (5,000 XP)  
+**Saving Throws** Wis +6, Cha +9
+**Skills** Deception +13, History +7, Insight +6, Intimidation +9, Investigation +7, Persuasion +13
+**Damage Resistances** Necrotic, Psychic
+**Condition Immunities** Charmed (while conscious)
+**Senses** Darkvision 60 ft., passive Perception 12
+**Languages** Common, Aquabyssan, Elvish, Deep Speech, Primordial, Celestial
+**Challenge Rating** 9 (5,000 XP)
 **Proficiency Bonus** +4
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -365,7 +365,7 @@ Member of House Lionblood - Trait: divine blood
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

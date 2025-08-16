@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc mirror breaking crystals v2 mirror breaking crystalssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Mirror Breaking Crystals V2 Mirror Breaking Crystals.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: The Hybrid Settlements
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

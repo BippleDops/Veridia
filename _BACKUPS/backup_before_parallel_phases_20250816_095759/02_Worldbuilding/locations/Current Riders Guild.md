@@ -2,7 +2,7 @@
 
 title: Current Riders Guild
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -110,17 +110,17 @@ The guild played a crucial role during the [[War of Crushing Depths, maintaining
 ### Guildmaster Torrino Swiftcurrent
 *Medium humanoid (triton), lawful neutral*
 
-**Armor Class** 17 (Natural Armor)  
-**Hit Points** 112 (`dice: 15d8` + 45)  
+**Armor Class** 17 (Natural Armor)
+**Hit Points** 112 (`dice: 15d8` + 45)
 **Speed** 30 ft., swim 60 ft.
 
 **STR** 16 (+3) **DEX** 18 (+4) **CON** 16 (+3) **INT** 14 (+2) **WIS** 17 (+3) **CHA** 15 (+2)
 
-**Saving Throws** Dex +8, Wis +7  
-**Skills** Animal Handling +11, Athletics +7, Perception +7, Survival +7  
-**Damage Resistances** Cold  
-**Senses** darkvision 60 ft., passive Perception 17  
-**Languages** Common, Primordial, Aquan  
+**Saving Throws** Dex +8, Wis +7
+**Skills** Animal Handling +11, Athletics +7, Perception +7, Survival +7
+**Damage Resistances** Cold
+**Senses** darkvision 60 ft., passive Perception 17
+**Languages** Common, Primordial, Aquan
 **Challenge** 8 (3,900 XP)
 
 **Amphibious.** Torrino can breathe air and water.
@@ -163,7 +163,7 @@ Characters who join the Current Riders Guild (requires proficiency in Animal Han
 
 ### Guild Rank Progression
 1. **Apprentice Rider** (0-3 renown)
-2. **Current Rider** (4-10 renown)  
+2. **Current Rider** (4-10 renown)
 3. **Swift Rider** (11-25 renown)
 4. **Master Courier** (26+ renown)
 

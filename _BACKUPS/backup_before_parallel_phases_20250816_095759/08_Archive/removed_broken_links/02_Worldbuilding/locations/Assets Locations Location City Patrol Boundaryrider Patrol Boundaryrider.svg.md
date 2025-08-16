@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Patrol Boundaryrider Patrol Boundaryrider.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city patrol boundaryrider patrol boundaryridersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

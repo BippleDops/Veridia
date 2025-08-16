@@ -2,7 +2,7 @@
 
 title: Memory Recovery Specialist
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

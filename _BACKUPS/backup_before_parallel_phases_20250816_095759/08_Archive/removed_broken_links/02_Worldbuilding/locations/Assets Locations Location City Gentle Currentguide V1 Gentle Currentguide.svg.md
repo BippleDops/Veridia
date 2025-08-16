@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Gentle Currentguide V1 Gentle Currentguide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gentle currentguide v1 gentle currentguidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

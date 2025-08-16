@@ -2,7 +2,7 @@
 
 title: flaw-or-secret-npc-flaws-and-secrets (tables)
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: The Memory Weapon Vault
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

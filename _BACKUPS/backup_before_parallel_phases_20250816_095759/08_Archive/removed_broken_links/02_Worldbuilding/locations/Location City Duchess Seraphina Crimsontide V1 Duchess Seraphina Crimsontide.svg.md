@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city duchess seraphina crimsontide v1 duchess seraphina crimsontidesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Duchess Seraphina Crimsontide V1 Duchess Seraphina Crimsontide.svg
 type: location

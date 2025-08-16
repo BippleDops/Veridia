@@ -1,7 +1,7 @@
 ---
 title: [[The Consciousness Archive Key
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos]]
 - world/aquabyssos

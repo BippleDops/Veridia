@@ -2,7 +2,7 @@
 
 title: d20
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

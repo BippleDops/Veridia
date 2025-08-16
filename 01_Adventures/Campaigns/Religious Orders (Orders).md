@@ -2,7 +2,7 @@
 
 title: Religious Orders
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization
@@ -125,7 +125,7 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

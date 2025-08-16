@@ -2,7 +2,7 @@
 
 title: Sinking Phenomenon Research
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

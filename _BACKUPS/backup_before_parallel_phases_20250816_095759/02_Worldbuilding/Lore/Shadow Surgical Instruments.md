@@ -2,7 +2,7 @@
 
 title: Shadow Surgical Instruments
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

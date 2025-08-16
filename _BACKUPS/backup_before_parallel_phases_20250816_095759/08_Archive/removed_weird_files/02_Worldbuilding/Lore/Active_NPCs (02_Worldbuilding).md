@@ -2,7 +2,7 @@
 
 title: Active [[Npcs
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

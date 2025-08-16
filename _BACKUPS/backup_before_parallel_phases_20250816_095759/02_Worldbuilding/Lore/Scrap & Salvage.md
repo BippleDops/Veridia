@@ -2,7 +2,7 @@
 
 title: Scrap & Salvage
 type: [[Lore
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

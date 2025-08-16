@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Coral Reef Sanctuaries V1 Coral Reef Sanctuaries.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral reef sanctuaries v1 coral reef
   sanctuariessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

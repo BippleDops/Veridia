@@ -2,7 +2,7 @@
 
 title: Master Builder Caelum Vortexwright
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

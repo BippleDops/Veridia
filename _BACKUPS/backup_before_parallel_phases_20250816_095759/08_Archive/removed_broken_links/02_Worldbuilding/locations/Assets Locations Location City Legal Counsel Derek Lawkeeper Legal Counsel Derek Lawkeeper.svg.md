@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Legal Counsel Derek Lawkeeper Legal Counsel
   Derek Lawkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city legal counsel derek lawkeeper legal
   counsel derek lawkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

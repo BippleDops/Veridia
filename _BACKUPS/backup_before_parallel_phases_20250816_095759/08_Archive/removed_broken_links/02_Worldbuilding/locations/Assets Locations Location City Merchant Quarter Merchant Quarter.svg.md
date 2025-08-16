@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Merchant Quarter Merchant Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant quarter merchant quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

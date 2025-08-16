@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Brother Thaddeus the Rememberer Brother Thaddeus
   the Rememberer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city brother thaddeus the rememberer brother
   thaddeus the rememberersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

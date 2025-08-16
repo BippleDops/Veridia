@@ -2,7 +2,7 @@
 
 title: The [[Shadowmere
 type: [location]]
-tags: 
+tags:
 - both
 - quest
 - world/both

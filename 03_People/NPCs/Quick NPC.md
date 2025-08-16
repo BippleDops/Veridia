@@ -1,7 +1,7 @@
 ---
 title: Quick [[Npc
 type: npc
-tags: 
+tags:
 - npc
 - human
 - ranger

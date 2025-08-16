@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Eternal Senate V1 the Eternal Senate.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the eternal senate v1 the eternal senatesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Reflection Chamber
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

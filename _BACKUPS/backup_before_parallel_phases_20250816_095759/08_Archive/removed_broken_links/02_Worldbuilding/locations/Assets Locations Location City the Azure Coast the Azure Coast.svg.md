@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Azure Coast the Azure Coast.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the azure coast the azure coastsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Legal Reform Movemen
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

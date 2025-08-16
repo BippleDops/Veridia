@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city chronokeeper tide timestable v1 chronokeeper tide timestablesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Chronokeeper Tide Timestable V1 Chronokeeper Tide Timestable.svg
 type: location

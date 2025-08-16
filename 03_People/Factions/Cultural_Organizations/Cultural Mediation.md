@@ -2,7 +2,7 @@
 
 title: Cultural Mediation
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

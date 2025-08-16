@@ -2,11 +2,11 @@
 enhanced: true
 
 title: Assets Vehicles Vehicle Ship Cerulean Passenger Dirigible V2 Cerulean Passenger Dirigible.svg
-aliases: 
+aliases:
 - 04 Resources Assets Vehicles vehicle ship cerulean passenger dirigible v2 cerulean passenger dirigiblesvg
 
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

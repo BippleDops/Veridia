@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Voluntary Taxation Voluntary Taxation.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city voluntary taxation voluntary taxationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

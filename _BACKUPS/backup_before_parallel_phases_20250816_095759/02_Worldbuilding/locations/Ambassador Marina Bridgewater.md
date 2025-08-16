@@ -2,7 +2,7 @@
 
 title: Ambassador Marina Bridgewater
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Arsenal Keeper Thane Ironwill
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

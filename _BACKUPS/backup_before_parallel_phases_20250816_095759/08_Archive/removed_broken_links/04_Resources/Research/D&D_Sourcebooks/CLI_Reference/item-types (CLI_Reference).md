@@ -2,7 +2,7 @@
 
 title: item-types (CLI_Reference)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

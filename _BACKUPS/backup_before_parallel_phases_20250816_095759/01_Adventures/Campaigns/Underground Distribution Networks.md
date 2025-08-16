@@ -2,7 +2,7 @@
 
 title: Underground Distribution Networks
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

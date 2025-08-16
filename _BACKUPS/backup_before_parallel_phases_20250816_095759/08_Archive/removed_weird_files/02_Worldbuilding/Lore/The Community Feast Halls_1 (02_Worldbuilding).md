@@ -2,7 +2,7 @@
 
 title: The [[Community Feast Halls
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Frozen Throne V1 the Frozen Throne.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the frozen throne v1 the frozen thronesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

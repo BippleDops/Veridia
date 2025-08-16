@@ -2,7 +2,7 @@
 
 title: Constellation Codex
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - world/aquabyssos

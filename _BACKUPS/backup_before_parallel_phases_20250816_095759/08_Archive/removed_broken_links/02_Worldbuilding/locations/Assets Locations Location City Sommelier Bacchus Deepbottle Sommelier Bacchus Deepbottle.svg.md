@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Sommelier Bacchus Deepbottle Sommelier Bacchus
   Deepbottle.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sommelier bacchus deepbottle sommelier
   bacchus deepbottlesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

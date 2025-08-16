@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Seal Keepers Seal Keepers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city seal keepers seal keeperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

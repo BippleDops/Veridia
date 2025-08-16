@@ -2,7 +2,7 @@
 
 title: Services [[Emergency Protocol Certification
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

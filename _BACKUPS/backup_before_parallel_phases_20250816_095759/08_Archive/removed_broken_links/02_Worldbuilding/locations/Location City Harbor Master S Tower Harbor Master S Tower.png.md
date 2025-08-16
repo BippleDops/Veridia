@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city harbor master s tower harbor master s towerpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Harbor Master S Tower Harbor Master S Tower.png
 type: location

@@ -2,7 +2,7 @@
 
 title: Underwater Monastery Network
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

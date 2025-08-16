@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Art_Places_Palace_Guard_Captain_Neutralis.png
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

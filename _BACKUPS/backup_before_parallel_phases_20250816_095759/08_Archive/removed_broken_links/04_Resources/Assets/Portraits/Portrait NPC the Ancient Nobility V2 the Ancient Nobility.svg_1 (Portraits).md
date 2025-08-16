@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the ancient nobility v2 the ancient nobilitysvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Ancient Nobility V2 the Ancient Nobility.svg
 type: npc

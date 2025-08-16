@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Silent Watcher V1 the Silent Watcher.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the silent watcher v1 the silent watchersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

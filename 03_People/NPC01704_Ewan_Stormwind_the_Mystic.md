@@ -178,7 +178,7 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens, [Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
 
 ## Plot Hooks

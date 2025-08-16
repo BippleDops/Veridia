@@ -2,7 +2,7 @@
 
 title: The Final Choice
 type: [[Lore
-tags: 
+tags:
 - aquatic
 - secret-knowledge
 - shadow-touched
@@ -498,7 +498,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

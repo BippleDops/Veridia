@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Trader Abyss Currentbinder Master Trader
   Abyss Currentbinder.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master trader abyss currentbinder master
   trader abyss currentbindersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

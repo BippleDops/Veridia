@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Primordial Vaults the Primordial Vaults.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the primordial vaults the primordial
   vaultssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

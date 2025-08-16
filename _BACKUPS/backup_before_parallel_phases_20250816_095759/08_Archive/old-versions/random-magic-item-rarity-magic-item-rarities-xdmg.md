@@ -2,7 +2,7 @@
 
 title: random-magic-item-rarity-magic-item-rarities-xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

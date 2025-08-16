@@ -2,7 +2,7 @@
 
 title: armor-of-lightning-resistance-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

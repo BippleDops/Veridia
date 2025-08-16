@@ -2,7 +2,7 @@
 
 title: Educational Systems and Institutions
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the order of the shattered crown v1 the order of the shattered crownsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Order of the Shattered Crown V1 the Order of the Shattered
   Crown.svg

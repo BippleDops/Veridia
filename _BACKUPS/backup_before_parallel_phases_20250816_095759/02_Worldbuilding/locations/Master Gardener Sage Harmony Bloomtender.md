@@ -2,7 +2,7 @@
 
 title: Master Gardener Sage Harmony Bloomtender
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

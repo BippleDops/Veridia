@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Scout Captain Vera Deepwatch Scout Captain Vera
   Deepwatch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scout captain vera deepwatch scout captain
   vera deepwatchsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -218,7 +218,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

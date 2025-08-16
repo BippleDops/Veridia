@@ -2,7 +2,7 @@
 
 title: scribing-spell-scrolls-spell-scroll-costs-xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

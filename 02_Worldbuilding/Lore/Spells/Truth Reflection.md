@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Spells/Truth Reflection
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

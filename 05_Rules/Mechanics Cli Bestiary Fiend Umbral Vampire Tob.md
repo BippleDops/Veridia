@@ -3,7 +3,7 @@ enhanced: true
 
 title: Mechanics Cli Bestiary Fiend Umbral Vampire Tob
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

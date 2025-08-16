@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Reality Monitoring Specialists Reality Monitoring
   Specialists.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reality monitoring specialists reality
   monitoring specialistssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

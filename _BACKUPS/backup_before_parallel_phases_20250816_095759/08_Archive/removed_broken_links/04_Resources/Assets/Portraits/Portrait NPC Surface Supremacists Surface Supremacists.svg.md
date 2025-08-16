@@ -2,7 +2,7 @@
 
 title: Portrait NPC Surface Supremacists Surface Supremacists.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -109,7 +109,7 @@ improvements: 20
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Iron Rapids Fleetcurrent V1 Iron Rapids Fleetcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city iron rapids fleetcurrent v1 iron rapids
   fleetcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -199,7 +199,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

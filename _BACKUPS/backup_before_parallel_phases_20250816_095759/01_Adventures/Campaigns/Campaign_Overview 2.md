@@ -1,7 +1,7 @@
 ---
 created: '2025-08-13'
 status: active
-tags: 
+tags:
 - campaign/shadow-conspiracy
 - investigation
 - political-intrigue
@@ -259,7 +259,7 @@ Track trust levels with key NPCs:
 ### Dataview Queries
 
 ```dataview
-TABLE 
+TABLE
   shadow-status as "Shadow Status",
   trust-level as "Trust",
   evidence-provided as "Evidence",

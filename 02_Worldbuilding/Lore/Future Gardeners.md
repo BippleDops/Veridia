@@ -2,7 +2,7 @@
 
 title: Future Gardeners
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

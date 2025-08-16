@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Quest Harbor Security Quest Harbor Security.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest harbor security quest harbor securitysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

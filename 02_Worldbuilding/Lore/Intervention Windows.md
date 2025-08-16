@@ -2,7 +2,7 @@
 
 title: Intervention Windows
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -5,7 +5,7 @@
 ### 🤖 auto_organizer.py
 Organizes new files into appropriate folders
 
-### 🔗 link_checker.py  
+### 🔗 link_checker.py
 Checks for broken links and generates reports
 
 ### 💾 auto_backup.py

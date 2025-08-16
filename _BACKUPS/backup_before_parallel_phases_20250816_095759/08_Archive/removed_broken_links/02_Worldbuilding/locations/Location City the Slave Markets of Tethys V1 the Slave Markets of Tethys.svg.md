@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the slave markets of tethys v1 the slave markets of tethyssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Slave Markets of Tethys V1 the Slave Markets of Tethys.svg
 type: location

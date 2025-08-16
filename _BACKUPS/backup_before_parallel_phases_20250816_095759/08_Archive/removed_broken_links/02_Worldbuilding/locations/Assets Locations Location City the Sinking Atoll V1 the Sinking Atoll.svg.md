@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Sinking Atoll V1 the Sinking Atoll.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sinking atoll v1 the sinking atollsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

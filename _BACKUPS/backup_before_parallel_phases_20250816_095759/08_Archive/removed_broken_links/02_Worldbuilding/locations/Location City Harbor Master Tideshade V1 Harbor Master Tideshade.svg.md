@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city harbor master tideshade v1 harbor master tideshadesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Harbor Master Tideshade V1 Harbor Master Tideshade.svg
 type: location

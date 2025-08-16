@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Deep Harvest
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

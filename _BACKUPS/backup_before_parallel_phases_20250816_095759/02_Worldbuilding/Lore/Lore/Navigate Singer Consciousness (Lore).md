@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Navigate Singer Consciousness
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -2,7 +2,7 @@
 
 title: The Portal Wars
 type: [[location
-tags: 
+tags:
 - [Dimensional Nexus]] (both realms)
 - world/both
 - content/location

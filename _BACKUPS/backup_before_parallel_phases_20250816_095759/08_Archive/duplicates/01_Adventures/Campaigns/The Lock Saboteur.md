@@ -1,7 +1,7 @@
 ---
 title: The Lock Saboteur
 type: quest
-tags: 
+tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -40,14 +40,14 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 
 # The Lock Saboteur
 
-**Type:** Infiltration/Sabotage Prevention  
-**Level:** 10-14  
-**[location]]:** [[The Lock, [Pressure's End]], [[Hadal Depth]]  
-**Duration:** 2-3 sessions  
+**Type:** Infiltration/Sabotage Prevention
+**Level:** 10-14
+**[location]]:** [[The Lock, [Pressure's End]], [[Hadal Depth]]
+**Duration:** 2-3 sessions
 **Threat:** Someone is sabotaging the most important barrier protecting [[Aquabyssos from abyssal horrors
 
-**Connected Locations:** [Abyssos Prime]], [[12 Research, [Parliament of Echoes]]  
-**Related Groups:** [[Depth Warden]], [[Memory Farmers, [Purist Coalition]]]]  
+**Connected Locations:** [Abyssos Prime]], [[12 Research, [Parliament of Echoes]]
+**Related Groups:** [[Depth Warden]], [[Memory Farmers, [Purist Coalition]]]]
 **Key Themes:** Environmental horror, institutional failure, [[The Seven Shards|[02_Worldbuilding_Equipment_Shadow_Contamination_Scanners]]/Lore/The Seven Shards]], moral complexity
 
 ## 🔧 Deep Evaluation Improvements
@@ -120,7 +120,7 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 
 ### Phase 1: Understanding the Lock (1 session)
 
-**Location:** [The Lock]] - Surface Systems  
+**Location:** [The Lock]] - Surface Systems
 **Objective:** Learn how the Lock functions and identify sabotage patterns
 
 **The Lock's Structure:**
@@ -139,7 +139,7 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 
 ### Phase 2: Deep Investigation (1 session)
 
-**Location:** [The Lock]] - Lower Levels, [[Pressure's End  
+**Location:** [The Lock]] - Lower Levels, [[Pressure's End
 **Objective:** Identify the saboteur and their methods
 
 **[Suspects]] to Investigate:**
@@ -158,9 +158,9 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 
 ### The Real Saboteur: Engineer Brass Gearspin
 
-**Motivation:** Believes the Lock is slowly poisoning [[Aquabyssos with leaking abyssal energy  
-**Method:** Using his access to gradually weaken the barrier in "safe" ways  
-**Goal:** Force evacuation to surface before the accumulated corruption kills everyone  
+**Motivation:** Believes the Lock is slowly poisoning [[Aquabyssos with leaking abyssal energy
+**Method:** Using his access to gradually weaken the barrier in "safe" ways
+**Goal:** Force evacuation to surface before the accumulated corruption kills everyone
 **Corruption Level:** 60% - partially influenced by abyssal whispers but still rational
 
 **His Plan:**
@@ -179,7 +179,7 @@ Brass Gearspin isn't evil - he's genuinely trying to save lives based on disturb
 
 ## Phase 3: The Confrontation (1 session)
 
-**Location:** [[The Lock - Core Chamber  
+**Location:** [[The Lock - Core Chamber
 **Objective:** Stop the sabotage while addressing legitimate concerns
 
 ### Brass Gearspin's Final Gambit
@@ -197,24 +197,24 @@ When confronted, Brass reveals his master plan: a "controlled detonation" of the
 
 ### Engineer Brass Gearspin (Corrupted)
 
-**CR 9** (5,000 XP)  
+**CR 9** (5,000 XP)
 *Medium humanoid (human), chaotic good (corrupted)*
 
-**Armor Class** 16 (Reinforced Engineer's Coat + Dex)  
-**Hit Points** 135 (`dice: 18d8` + 54)  
+**Armor Class** 16 (Reinforced Engineer's Coat + Dex)
+**Hit Points** 135 (`dice: 18d8` + 54)
 **Speed** 30 ft., climb 30 ft. (via magnetic boots)
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
 14 (+2) | 16 (+3) | 16 (+3) | 22 (+6) | 15 (+2) | 11 (+0)
 
-**Saving Throws** Int +10, Wis +6  
-**Skills** Arcana +14, Investigation +14, Perception +6, Sleight of Hand +7, Thieves' Tools +11  
-**Damage Resistances** Necrotic, Psychic (from abyssal corruption)  
-**Damage Vulnerabilities** Radiant  
-**Senses** Darkvision 120 ft., passive Perception 16  
-**Languages** Common, Draconic, Primordial, Abyssal (corruption-induced)  
-**Challenge Rating** 9 (5,000 XP)  
+**Saving Throws** Int +10, Wis +6
+**Skills** Arcana +14, Investigation +14, Perception +6, Sleight of Hand +7, Thieves' Tools +11
+**Damage Resistances** Necrotic, Psychic (from abyssal corruption)
+**Damage Vulnerabilities** Radiant
+**Senses** Darkvision 120 ft., passive Perception 16
+**Languages** Common, Draconic, Primordial, Abyssal (corruption-induced)
+**Challenge Rating** 9 (5,000 XP)
 **Proficiency Bonus** +4
 
 #### Special Abilities
@@ -321,7 +321,7 @@ Legends speak of The Lock Saboteur as a nexus where past and present converge. L
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

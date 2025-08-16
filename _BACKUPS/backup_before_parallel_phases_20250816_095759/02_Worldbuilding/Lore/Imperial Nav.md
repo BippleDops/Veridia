@@ -2,7 +2,7 @@
 
 title: Imperial Nav
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

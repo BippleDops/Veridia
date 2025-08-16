@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the royal treatment v2 quest the royal treatmentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Royal Treatment V2 Quest the Royal Treatment.svg
 type: npc

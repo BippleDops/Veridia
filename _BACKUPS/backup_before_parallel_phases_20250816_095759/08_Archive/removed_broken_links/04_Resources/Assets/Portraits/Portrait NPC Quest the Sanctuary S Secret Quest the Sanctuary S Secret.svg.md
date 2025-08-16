@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the sanctuary s secret quest the sanctuary s secretsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Sanctuary S Secret Quest the Sanctuary S Secret.svg
 type: npc

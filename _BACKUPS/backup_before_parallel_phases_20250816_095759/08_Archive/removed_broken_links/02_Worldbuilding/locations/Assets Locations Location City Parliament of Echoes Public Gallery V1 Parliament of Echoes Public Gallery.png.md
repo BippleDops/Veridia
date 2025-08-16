@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Parliament of Echoes Public Gallery V1 Parliament
   of Echoes Public Gallery.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city parliament of echoes public gallery
   v1 parliament of echoes public gallerypng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

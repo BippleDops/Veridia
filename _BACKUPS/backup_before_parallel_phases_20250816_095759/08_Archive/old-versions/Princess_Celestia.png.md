@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Princess_Celestia.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

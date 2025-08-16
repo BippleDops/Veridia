@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc ice kingdom magic v1 ice kingdom magicsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Ice Kingdom Magic V1 Ice Kingdom Magic.svg
 type: npc

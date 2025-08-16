@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Shadow Markets the Shadow Markets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the shadow markets the shadow marketssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

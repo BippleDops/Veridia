@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memory Parasite Infection V1 Memory Parasite
   Infection.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory parasite infection v1 memory
   parasite infectionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

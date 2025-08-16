@@ -2,7 +2,7 @@
 
 title: Goldspire Port
 type: [[location
-tags: 
+tags:
 - place
 - both
 - active

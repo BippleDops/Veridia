@@ -2,7 +2,7 @@
 
 title: Shadow Surgeon Strike Team
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - military

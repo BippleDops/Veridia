@@ -2,7 +2,7 @@
 
 title: Dock Workers Guild
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

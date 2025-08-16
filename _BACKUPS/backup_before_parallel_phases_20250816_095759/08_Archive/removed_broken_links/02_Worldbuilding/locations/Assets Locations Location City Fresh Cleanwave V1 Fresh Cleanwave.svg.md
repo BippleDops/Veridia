@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Fresh Cleanwave V1 Fresh Cleanwave.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city fresh cleanwave v1 fresh cleanwavesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

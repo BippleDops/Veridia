@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Harbor Wall Harbor Wall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor wall harbor wallsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

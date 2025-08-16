@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wisdom Futureseer Wisdom Futureseer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wisdom futureseer wisdom futureseersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -209,7 +209,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

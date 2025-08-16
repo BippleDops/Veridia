@@ -2,7 +2,7 @@
 
 title: Memory Wraiths
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

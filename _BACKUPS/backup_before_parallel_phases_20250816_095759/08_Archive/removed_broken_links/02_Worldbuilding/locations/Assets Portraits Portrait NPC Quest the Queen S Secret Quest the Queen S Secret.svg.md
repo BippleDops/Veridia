@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Quest the Queen S Secret Quest the Queen S Secret.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the queen s secret quest the queen
   s secretsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -205,7 +205,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

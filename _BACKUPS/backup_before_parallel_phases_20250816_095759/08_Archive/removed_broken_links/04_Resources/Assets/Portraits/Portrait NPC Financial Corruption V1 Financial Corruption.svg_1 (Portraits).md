@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc ficial corruption v1 ficial corruptionsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Ficial Corruption V1 Ficial Corruption.svg
 type: npc

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Master Goldwin Ledgerkeeper Master Goldwin Ledgerkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master goldwin ledgerkeeper master goldwin
   ledgerkeepersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

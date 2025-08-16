@@ -2,7 +2,7 @@
 
 title: The [[Seven Shards
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - active

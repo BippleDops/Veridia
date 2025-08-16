@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Reflection Pools the Reflection Pools.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the reflection pools the reflection
   poolssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

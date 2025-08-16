@@ -17,10 +17,10 @@ tags: [generator, location, ai-ready]
 | 20 | Unique | Roll twice, combine |
 
 ### Procedural Details
-- **Size**: 
-- **Population**: 
-- **Wealth**: 
-- **Alignment**: 
+- **Size**:
+- **Population**:
+- **Wealth**:
+- **Alignment**:
 
 ### Feature Generator
 ```javascript
@@ -32,19 +32,19 @@ const features = {
 ```
 
 ### Inhabitant Generator
-- **Primary**: 
-- **Secondary**: 
-- **Notable NPCs**: 
+- **Primary**:
+- **Secondary**:
+- **Notable NPCs**:
 
 ### History Builder
-1. **Founded**: 
-2. **Major Events**: 
-3. **Current Status**: 
+1. **Founded**:
+2. **Major Events**:
+3. **Current Status**:
 
 ### Adventure Hooks
-- **Problem**: 
-- **Opportunity**: 
-- **Mystery**: 
+- **Problem**:
+- **Opportunity**:
+- **Mystery**:
 
 ---
 *Learns from existing vault patterns*

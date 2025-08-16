@@ -2,7 +2,7 @@
 
 title: Portrait NPC Memory Harvester Kythara V1 Memory Harvester Kythara.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

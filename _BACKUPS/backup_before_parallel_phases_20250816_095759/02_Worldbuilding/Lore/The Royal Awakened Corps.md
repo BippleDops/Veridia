@@ -2,7 +2,7 @@
 
 title: The Royal Awakened Corps
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

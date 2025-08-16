@@ -2,7 +2,7 @@
 
 title: Spectral Librarian Reverent Bookmark
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

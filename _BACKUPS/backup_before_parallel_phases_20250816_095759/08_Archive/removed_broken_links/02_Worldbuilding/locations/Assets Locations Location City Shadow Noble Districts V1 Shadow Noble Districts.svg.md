@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Shadow Noble Districts V1 Shadow Noble Districts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadow noble districts v1 shadow noble
   districtssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city temporal navigation v1 temporal navigationsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Temporal Navigation V1 Temporal Navigation.svg
 type: location

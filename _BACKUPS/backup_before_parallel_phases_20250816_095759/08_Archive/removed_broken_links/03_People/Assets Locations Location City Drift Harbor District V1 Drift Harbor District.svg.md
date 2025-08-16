@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Drift Harbor District V1 Drift Harbor District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city drift harbor district v1 drift harbor
   districtsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Keeper Elara Mindwell V1 Keeper Elara Mindwell.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper elara mindwell v1 keeper elara
   mindwellsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

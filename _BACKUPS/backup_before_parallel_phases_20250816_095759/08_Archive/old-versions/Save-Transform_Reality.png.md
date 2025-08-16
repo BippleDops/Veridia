@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Save-Transform_Reality.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

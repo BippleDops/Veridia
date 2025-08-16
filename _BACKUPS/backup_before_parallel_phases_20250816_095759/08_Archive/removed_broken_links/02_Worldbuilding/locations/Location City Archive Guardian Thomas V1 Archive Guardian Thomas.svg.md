@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 - location city archive guardian thomas v1 archive guardian thomassvg
 created: 2025-08-14
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Archive Guardian Thomas V1 Archive Guardian Thomas.svg
 type: location

@@ -3,7 +3,7 @@ enhanced: true
 
 title: Crystal Plague Mechanics
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - bloodline

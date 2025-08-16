@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memory parasite infection v1 memory parasite infectionsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memory Parasite Infection V1 Memory Parasite Infection.svg
 type: location

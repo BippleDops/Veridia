@@ -2,7 +2,7 @@
 
 title: Royal Bloodline Powers
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

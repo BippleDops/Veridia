@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city education department v1 education departmentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Education Department V1 Education Department.svg
 type: location

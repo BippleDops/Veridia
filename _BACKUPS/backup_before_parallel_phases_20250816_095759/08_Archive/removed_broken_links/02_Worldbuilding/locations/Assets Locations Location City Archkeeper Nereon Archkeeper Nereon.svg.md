@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Archkeeper Nereon Archkeeper Nereon.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archkeeper nereon archkeeper nereonsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

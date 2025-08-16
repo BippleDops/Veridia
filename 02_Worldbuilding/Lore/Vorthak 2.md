@@ -4,7 +4,7 @@ status: complete
 world: Both
 updated: '2025-08-13T01:18:34.888858+00:00'
 created: '2025-08-11'
-tags: 
+tags:
 - active
 - both
 - lore
@@ -24,7 +24,7 @@ The entity exists in a state of eternal dreaming, its consciousness expanded acr
 ### The Physical Form
 Vorthak's body is so massive that most observers never see it in its entirety. What they encounter are portions: tentacles the size of city districts, an eye that could swallow a building, or a section of shell-encrusted hide that forms the wall of an underwater cavern. The entity's complete form, if ever fully revealed, would span several miles from tentacle tip to tentacle tip.
 
-### The Dreaming State  
+### The Dreaming State
 Vorthak exists primarily in dream, its consciousness drifting through:
 - **The Deep Memory**: Accessing every event that has occurred in the world's oceans
 - **The Prophetic Streams**: Perceiving potential futures flowing like currents through time
@@ -157,23 +157,23 @@ Different factions in [02_Worldbuilding/Places/Aquabyssos]] interpret Vorthak's 
 ## Quest Hooks and Adventure Seeds
 
 ### The Silent Prophet
-**Level**: 11-15  
+**Level**: 11-15
 Vorthak has stopped sending visions, and the Deep Prophets throughout [[02_Worldbuilding/Places/Aquabyssos have fallen into mysterious comas. The party must venture to the [02_Worldbuilding/Lore/Hadal Depths]] to discover what has happened to the ancient oracle.
 
 ### The Paradox Prophecy
-**Level**: 9-13  
+**Level**: 9-13
 A new prophecy from Vorthak seems to predict the party's own actions, creating a temporal paradox. The characters must decide whether to fulfill the prophecy, prevent it, or find a third option that breaks the cycle.
 
 ### The Memory Thief
-**Level**: 12-16  
+**Level**: 12-16
 Someone is stealing memories from Vorthak's vast consciousness, potentially damaging the entity's ability to provide guidance to [[02_Worldbuilding/Places/Aquabyssos. The investigation leads to ancient enemies and cosmic-level threats.
 
 ### The Deep Pilgrimage
-**Level**: 8-14  
+**Level**: 8-14
 The party must escort an important political figure on a pilgrimage to seek Vorthak's guidance on a critical decision affecting both [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos. The journey through the [02_Worldbuilding/Lore/Hadal Depths]] reveals ancient secrets and terrible dangers.
 
 ### The Awakening Signs
-**Level**: 15-18  
+**Level**: 15-18
 Vorthak shows signs of fully awakening, which could either save [[02_Worldbuilding/Places/Aquabyssos]] from some cosmic threat or destroy it through the psychic shock. The party must investigate the cause and decide whether to encourage or prevent the awakening.
 
 ## Secrets and Hidden Knowledge

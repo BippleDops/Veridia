@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Electric Eel V1 Electric Eel.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city electric eel v1 electric eelsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

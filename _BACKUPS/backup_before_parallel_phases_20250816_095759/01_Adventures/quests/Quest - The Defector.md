@@ -67,7 +67,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - The Defector ---
 
-title: 
+title:
 *Sounds of [relevant sounds] echo in the distance.*Quest The Defector
 type: Lore
 tags:

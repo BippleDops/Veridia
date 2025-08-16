@@ -2,7 +2,7 @@
 
 title: Establish New World Order
 type: Faction
-tags: 
+tags:
 - status/complete
 - political-movement
 - content/faction
@@ -326,7 +326,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: The Battle Forge Arena
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

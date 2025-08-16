@@ -5,14 +5,14 @@ established: Ancient natural phenomenon, organized 400+ years ago
 government: Collective Self-Governance
 length: Over 2,000 miles of interconnected currents
 population: ~15,000 (rotating community of travelers and workers)
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Groups/Current Riders Guild|02 Worldbuilding/Groups/Current
   Riders Guild'
 - '[02_Worldbuilding/Places/Abyssos Prime]]'
 - '[[02_Worldbuilding/Places/New Tethys'
 - '[02_Worldbuilding/Places/The Memory Meadows]]'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - communal
 - complete
@@ -51,17 +51,17 @@ The name "Free Current" reflects both its political independence from any major 
 The primary flow of Free Current forms an enormous circular pattern that encompasses most of [[02_Worldbuilding/Places/Aquabyssos, connecting major population centers while maintaining enough independence to avoid direct government control.
 
 #### Northern Loop
-**Distance**: ~600 miles  
+**Distance**: ~600 miles
 **Key Stops**: [02_Worldbuilding/Places/Abyssos Prime]], [[02_Worldbuilding/Places/New Tethys, The Kelp Highway junction
 **Characteristics**: Fastest-flowing section, heavily traveled by commercial traffic
 **Depth Range**: 800-1,200 feet below surface
 **Hazards**: Occasional pressure variations, heavy traffic congestion
 
-#### Eastern Reach  
+#### Eastern Reach
 **Distance**: ~500 miles
 **Key Stops**: [02_Worldbuilding/Places/The Memory Meadows]], Whisper Island trading posts, Coral Court territories
 **Characteristics**: Meandering flow through scenic underwater landscapes
-**Depth Range**: 600-1,000 feet below surface  
+**Depth Range**: 600-1,000 feet below surface
 **Features**: Memory crystal formations, artistic underwater sculptures, meditation zones
 
 #### Southern Expanse
@@ -72,7 +72,7 @@ The primary flow of Free Current forms an enormous circular pattern that encompa
 **Attractions**: Unique geological formations, bioluminescent displays, healing springs
 
 #### Western Deep
-**Distance**: ~450 miles  
+**Distance**: ~450 miles
 **Key Stops**: Ancient ruins, [[02_Worldbuilding/Lore/The Deep Mother shrine sites, research outposts
 **Characteristics**: Mysterious and spiritual, lowest traffic volume
 **Depth Range**: 1,200-2,000+ feet below surface
@@ -83,11 +83,11 @@ The primary flow of Free Current forms an enormous circular pattern that encompa
 #### The Messenger Streams
 Network of smaller, faster currents used for priority communications and urgent travel:
 - **Speed**: 3x faster than main current
-- **Access**: Restricted to licensed couriers and emergency situations  
+- **Access**: Restricted to licensed couriers and emergency situations
 - **Maintenance**: Requires constant current-shaping by skilled technicians
 - **Cost**: Premium fees fund overall current maintenance
 
-#### Trade Tributaries  
+#### Trade Tributaries
 Specialized flows connecting Free Current to major commercial centers:
 - **Commercial Focus**: Designed for cargo transport efficiency
 - **Infrastructure**: Loading/unloading facilities at junction points
@@ -129,7 +129,7 @@ Democratic assembly that meets monthly at rotating locations along the current:
 - **Authority**: Limited to current maintenance, safety regulations, and conflict resolution
 - **Enforcement**: Relies on social pressure and voluntary compliance
 
-#### Regional Assemblies  
+#### Regional Assemblies
 Smaller governing bodies for specific sections of the current:
 - **Local Focus**: Address issues specific to their geographic area
 - **Coordination**: Regular communication with main Flowing Council
@@ -169,7 +169,7 @@ Smaller governing bodies for specific sections of the current:
 
 #### Way Station Network
 **Count**: 50+ permanent stations along major routes
-**Services**: 
+**Services**:
 - Rest and resupply facilities
 - Communication and message relay
 - Basic medical and repair services
@@ -182,7 +182,7 @@ Smaller governing bodies for specific sections of the current:
 **Location**: Junction of Northern Loop and Eastern Reach
 **Population**: 800 permanent residents, 200-400 daily visitors
 **Specialties**: Navigation services, current flow monitoring, emergency response
-**Features**: 
+**Features**:
 - Central dispatch for Current Riders Guild
 - Major communication relay station
 - Conflict mediation center
@@ -200,7 +200,7 @@ Smaller governing bodies for specific sections of the current:
 
 ###### Deep Harbor Rest
 **Location**: Southern Expanse thermal vent region
-**Population**: 400 permanent residents, 100-250 daily visitors  
+**Population**: 400 permanent residents, 100-250 daily visitors
 **Specialties**: Healing services, mineral processing, geological research
 **Features**:
 - Thermal healing baths open to all travelers
@@ -241,7 +241,7 @@ Smaller governing bodies for specific sections of the current:
 
 ### The Library Lagoon
 **Description**: Artificial calm zone housing Free Current's collective knowledge
-**Contents**: 
+**Contents**:
 - Historical records of current development and governance
 - Technical manuals for current maintenance and navigation
 - Cultural archives from communities throughout [[02_Worldbuilding/Places/Aquabyssos
@@ -293,7 +293,7 @@ The collective nature of Current society creates ongoing resource allocation cha
 - **Skill Shortages**: Critical positions sometimes lacking qualified volunteers
 - **Emergency Reserves**: Maintaining adequate supplies for crisis situations
 
-#### Social Tensions  
+#### Social Tensions
 Diverse population and egalitarian ideals sometimes create conflicts:
 - **Cultural Clashes**: Different traditions and values causing misunderstandings
 - **Work Distribution**: Disputes over fair allocation of labor and responsibilities
@@ -378,7 +378,7 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 
 #### Current Society Integration
 **Reputation System**: Actions affect standing within Current community
-**Mutual Aid Expectations**: Refusal to help others results in social consequences  
+**Mutual Aid Expectations**: Refusal to help others results in social consequences
 **Collective Decision Participation**: Opportunity to influence Current governance
 **Cultural Exchange**: Learn about diverse populations encountered during travel
 
@@ -483,7 +483,7 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 - **[[02_Worldbuilding/Places/New Tethys**: Important stop along primary current route
 - **[02_Worldbuilding/Places/The Memory Meadows]]**: Cultural exchange point on Eastern Reach
 
-### Secondary Connections  
+### Secondary Connections
 - **[[02_Worldbuilding/Places/Parliament of Echoes**: Government body that occasionally regulates Current activities
 - **[02_Worldbuilding/Lore/The Deep Mother]]**: Spiritual sites along Western Deep attract religious pilgrims
 - **[[02_Worldbuilding/Places/Shadow Wells**: Monitoring stations provide early warning for dangerous phenomena
@@ -511,7 +511,7 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 - **Environmental Integration**: Demonstrate sustainable living and ecological harmony
 - **Mutual Aid**: Reward characters for helping others and contributing to community
 
-### Adventure Themes  
+### Adventure Themes
 - **Cooperation vs Competition**: Contrast Current values with external pressures
 - **Individual vs Community**: Balance personal desires with collective needs
 - **Freedom vs Security**: Explore tensions between openness and safety

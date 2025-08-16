@@ -2,7 +2,7 @@
 
 title: Sage Moonwhisper
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Reflection Pools Surgical Theater Reflection
   Pools Surgical Theater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reflection pools surgical theater reflection
   pools surgical theatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

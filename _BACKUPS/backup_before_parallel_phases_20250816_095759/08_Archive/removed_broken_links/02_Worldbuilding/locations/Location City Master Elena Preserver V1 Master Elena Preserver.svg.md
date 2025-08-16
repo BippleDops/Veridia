@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master elena preserver v1 master elena preserversvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Elena Preserver V1 Master Elena Preserver.svg
 type: location

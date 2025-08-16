@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Master Finn Liquidlight Master Finn Liquidlight.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master finn liquidlight master finn
   liquidlightsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

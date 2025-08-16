@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Equipment/Precision Weapons Array
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

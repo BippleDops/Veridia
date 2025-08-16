@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Codex of Forgotten Depths V1 Codex of Forgotten
   Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city codex of forgotten depths v1 codex of
   forgotten depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -168,7 +168,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

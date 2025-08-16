@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Courier Chief Swift Currentrider Courier Chief
   Swift Currentrider.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city courier chief swift currentrider courier
   chief swift currentridersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -210,7 +210,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

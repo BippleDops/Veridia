@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Cerulean Archipelago the Cerulean Archipelago.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the cerulean archipelago the cerulean
   archipelagosvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

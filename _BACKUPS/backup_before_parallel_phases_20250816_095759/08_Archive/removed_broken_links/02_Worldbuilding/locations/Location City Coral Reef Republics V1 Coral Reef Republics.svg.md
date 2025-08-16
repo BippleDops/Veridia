@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city coral reef republics v1 coral reef republicssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Coral Reef Republics V1 Coral Reef Republics.svg
 type: location

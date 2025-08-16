@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Thornfield District the Thornfield District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the thornfield district the thornfield
   districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

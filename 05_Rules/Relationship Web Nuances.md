@@ -2,7 +2,7 @@
 
 title: Relationship Web Nuances
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - relationships

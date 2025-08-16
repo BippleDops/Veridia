@@ -2,7 +2,7 @@
 
 title: Embroidered Glove Set With Jewel Chips Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

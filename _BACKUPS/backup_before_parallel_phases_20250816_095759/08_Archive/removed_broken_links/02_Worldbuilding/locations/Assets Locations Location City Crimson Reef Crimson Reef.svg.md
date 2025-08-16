@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crimson Reef Crimson Reef.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crimson reef crimson reefsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

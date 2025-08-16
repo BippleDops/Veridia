@@ -11,7 +11,7 @@ leader: '[02_Worldbuilding/Lore/Purifier Marcus Steelbane]]'
 members: ~2,000 active militants, 5,000+ sympathizers
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aethermoor
 - anti-corruption
 - complete
@@ -181,7 +181,7 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ### Extremist Interpretations
 **Dangerous Beliefs**
 - Anyone profiting from crystal trade deserves death
-- Crystal users are willing slaves who must be "liberated" 
+- Crystal users are willing slaves who must be "liberated"
 - Collateral damage is acceptable if it serves the greater good
 - Compromise with magical society is betrayal of pure principles
 - The end of magical civilization justifies any means

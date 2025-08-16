@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the silhouette surgeon prime v2 the silhouette surgeon primesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Silhouette Surgeon Prime V2 the Silhouette Surgeon Prime.svg
 type: npc

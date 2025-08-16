@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-court-herald-master-proclamation-crownvoice-v1-court-herald-master-proclamation-crownvoice.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

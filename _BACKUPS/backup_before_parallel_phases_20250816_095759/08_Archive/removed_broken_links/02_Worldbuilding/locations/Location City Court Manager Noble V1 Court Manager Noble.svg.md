@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city court manager noble v1 court manager noblesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Court Manager Noble V1 Court Manager Noble.svg
 type: location

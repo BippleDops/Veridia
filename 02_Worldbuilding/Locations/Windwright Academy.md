@@ -2,7 +2,7 @@
 
 title: Windwright Academy
 type: [[location
-tags: 
+tags:
 - place
 - active
 - location

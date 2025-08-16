@@ -2,7 +2,7 @@
 
 title: Parasite Boarding & Biohazards
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

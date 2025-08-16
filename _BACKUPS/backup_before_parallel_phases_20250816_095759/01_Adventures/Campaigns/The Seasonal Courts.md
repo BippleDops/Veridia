@@ -2,7 +2,7 @@
 
 title: The Seasonal Courts
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[Npc]]

@@ -2,7 +2,7 @@
 
 title: The Resistance Network
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

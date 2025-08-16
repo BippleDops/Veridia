@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city current harvestsage v1 current harvestsagesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Current Harvestsage V1 Current Harvestsage.svg
 type: location

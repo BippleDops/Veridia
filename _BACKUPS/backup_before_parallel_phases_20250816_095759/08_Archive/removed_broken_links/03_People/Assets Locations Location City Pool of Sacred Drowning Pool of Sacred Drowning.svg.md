@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Pool of Sacred Drowning Pool of Sacred Drowning.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pool of sacred drowning pool of sacred
   drowningsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -191,7 +191,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

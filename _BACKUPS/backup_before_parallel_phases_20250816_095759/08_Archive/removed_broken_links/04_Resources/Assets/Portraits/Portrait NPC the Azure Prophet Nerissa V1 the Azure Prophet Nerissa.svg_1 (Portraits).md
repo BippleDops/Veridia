@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the azure prophet nerissa v1 the azure prophet nerissasvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Azure Prophet Nerissa V1 the Azure Prophet Nerissa.svg
 type: npc

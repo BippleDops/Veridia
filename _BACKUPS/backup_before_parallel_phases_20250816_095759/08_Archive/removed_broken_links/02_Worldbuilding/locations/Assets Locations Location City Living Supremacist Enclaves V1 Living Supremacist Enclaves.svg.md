@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Living Supremacist Enclaves V1 Living Supremacist
   Enclaves.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city living supremacist enclaves v1 living
   supremacist enclavessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

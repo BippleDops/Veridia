@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sacred historian coral deepscribe v1 sacred historian coral deepscribesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Sacred Historian Coral Deepscribe V1 Sacred Historian Coral Deepscribe.svg
 type: location

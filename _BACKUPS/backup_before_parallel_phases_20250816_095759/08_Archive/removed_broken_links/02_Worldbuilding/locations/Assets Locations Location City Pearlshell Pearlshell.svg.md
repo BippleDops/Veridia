@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pearlshell Pearlshell.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pearlshell pearlshellsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

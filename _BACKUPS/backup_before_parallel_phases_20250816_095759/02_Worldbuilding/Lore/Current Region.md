@@ -2,7 +2,7 @@
 
 title: Current [[region
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

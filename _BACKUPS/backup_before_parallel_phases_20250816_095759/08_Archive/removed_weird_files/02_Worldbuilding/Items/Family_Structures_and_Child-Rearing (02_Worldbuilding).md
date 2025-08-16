@@ -2,7 +2,7 @@
 
 title: Family Structures and Child Rearing
 type: item
-tags: 
+tags:
 - active
 - item
 - conspiracy

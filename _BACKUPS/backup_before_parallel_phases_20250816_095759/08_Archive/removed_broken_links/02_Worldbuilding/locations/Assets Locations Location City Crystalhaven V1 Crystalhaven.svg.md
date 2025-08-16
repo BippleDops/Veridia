@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crystalhaven V1 Crystalhaven.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystalhaven v1 crystalhavensvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

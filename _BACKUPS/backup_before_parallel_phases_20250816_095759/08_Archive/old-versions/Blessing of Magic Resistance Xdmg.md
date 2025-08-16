@@ -2,7 +2,7 @@
 
 title: Blessing of Magic Resistance Xdmg
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

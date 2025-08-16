@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city commander typhoon blackheart v1 commander typhoon blackheartsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: The Forgotten One
 type: [[location
-tags: 
+tags:
 - mystery
 - aquabyssos
 - status/complete

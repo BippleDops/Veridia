@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Speaking Stones the Speaking Stones.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the speaking stones the speaking stonessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -200,7 +200,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

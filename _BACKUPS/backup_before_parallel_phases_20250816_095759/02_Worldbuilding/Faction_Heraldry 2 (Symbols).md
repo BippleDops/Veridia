@@ -1,7 +1,7 @@
 ---
 title: Faction_Heraldry 2 (Symbols)
 type: note
-tags: 
+tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'

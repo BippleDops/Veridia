@@ -2,7 +2,7 @@
 
 title: Palace Security Chief
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

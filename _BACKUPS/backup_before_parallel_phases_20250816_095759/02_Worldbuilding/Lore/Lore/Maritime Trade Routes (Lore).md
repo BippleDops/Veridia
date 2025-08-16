@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Maritime Trade Routes
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

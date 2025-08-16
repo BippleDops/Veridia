@@ -2,7 +2,7 @@
 
 title: Environmental Hazards
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

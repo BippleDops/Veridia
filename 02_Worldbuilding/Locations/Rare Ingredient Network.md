@@ -2,7 +2,7 @@
 
 title: Rare Ingredient Network
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

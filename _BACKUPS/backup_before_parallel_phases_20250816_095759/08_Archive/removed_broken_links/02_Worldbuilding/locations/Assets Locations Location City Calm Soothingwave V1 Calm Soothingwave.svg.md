@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Calm Soothingwave V1 Calm Soothingwave.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city calm soothingwave v1 calm soothingwavesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -195,7 +195,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

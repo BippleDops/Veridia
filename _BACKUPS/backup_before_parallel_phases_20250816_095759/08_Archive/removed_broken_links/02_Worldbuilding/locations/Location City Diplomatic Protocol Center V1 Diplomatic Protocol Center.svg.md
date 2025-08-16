@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - [[location|location city [Diplomatic Protocol Center|Diplomatic Protocol Center]] v1 diplomatic protocol centersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 [[region|region: Unknown
-tags: 
+tags:
 - location
 title: Location City Diplomatic Protocol Center V1 Diplomatic Protocol Center.svg
 type: location

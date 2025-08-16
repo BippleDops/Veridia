@@ -1,7 +1,7 @@
 ---
 title: The Archives
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

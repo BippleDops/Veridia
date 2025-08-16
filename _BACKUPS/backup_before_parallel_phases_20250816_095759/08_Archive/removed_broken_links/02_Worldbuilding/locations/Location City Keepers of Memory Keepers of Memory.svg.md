@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keepers of memory keepers of memorysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keepers of Memory Keepers of Memory.svg
 type: location

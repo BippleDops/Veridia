@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc deep priest covet v2 deep priest covetsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Deep Priest Covet V2 Deep Priest Covet.svg
 type: npc

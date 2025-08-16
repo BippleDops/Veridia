@@ -2,7 +2,7 @@
 
 title: Pseudodragon
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

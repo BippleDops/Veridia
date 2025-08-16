@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Reality Breach Locations V1 Reality Breach Locations.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reality breach locations v1 reality
   breach locationssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: [[Island of Screams
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

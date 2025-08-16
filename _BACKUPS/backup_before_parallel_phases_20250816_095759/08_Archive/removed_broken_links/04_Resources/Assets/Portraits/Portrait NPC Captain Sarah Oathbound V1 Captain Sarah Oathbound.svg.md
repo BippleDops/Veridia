@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain sarah oathbound v1 captain sarah oathboundsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Sarah Oathbound V1 Captain Sarah Oathbound.svg
 type: npc

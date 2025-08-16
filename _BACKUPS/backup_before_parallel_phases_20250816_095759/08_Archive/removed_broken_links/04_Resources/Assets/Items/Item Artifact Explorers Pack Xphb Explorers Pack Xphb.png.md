@@ -2,7 +2,7 @@
 
 title: Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png
 type: item
-tags: 
+tags:
 - item
 - ring
 - legendary

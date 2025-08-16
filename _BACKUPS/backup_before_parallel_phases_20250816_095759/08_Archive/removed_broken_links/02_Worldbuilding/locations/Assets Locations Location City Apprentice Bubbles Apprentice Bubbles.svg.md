@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Apprentice Bubbles Apprentice Bubbles.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city apprentice bubbles apprentice bubblessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

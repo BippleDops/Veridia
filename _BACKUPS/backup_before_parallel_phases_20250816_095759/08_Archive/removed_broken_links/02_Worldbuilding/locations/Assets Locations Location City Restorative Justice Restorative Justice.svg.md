@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Restorative Justice Restorative Justice.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city restorative justice restorative justicesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

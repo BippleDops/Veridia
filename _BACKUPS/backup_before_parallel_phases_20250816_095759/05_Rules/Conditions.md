@@ -3,7 +3,7 @@ enhanced: true
 
 title: Conditions
 type: conditions
-tags: 
+tags:
 - conditions
 - mechanics
 - active

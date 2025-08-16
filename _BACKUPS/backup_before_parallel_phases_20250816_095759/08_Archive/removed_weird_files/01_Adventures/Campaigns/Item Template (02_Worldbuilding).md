@@ -1,7 +1,7 @@
 ---
 
 type: Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - status/complete
@@ -16,9 +16,9 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-accessibility: 
+accessibility:
   content_warnings: []
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -120,7 +120,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Sacred Healing Springs V1 Sacred Healing Springs.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sacred healing springs v1 sacred healing
   springssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

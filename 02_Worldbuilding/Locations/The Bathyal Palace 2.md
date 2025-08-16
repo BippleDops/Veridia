@@ -1,7 +1,7 @@
 ---
 MyCategory: Unknown
 MyContainer: None
-aliases: 
+aliases:
 - The Neutral Deep
 - The Court of Currents
 created: '2024-12-19'
@@ -10,7 +10,7 @@ image: 04_Resources/Assets/Locations/bathyal_palace.jpg
 obsidianUIMode: preview
 population: 8000 - Category/Place
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location

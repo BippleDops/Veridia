@@ -2,7 +2,7 @@
 
 title: Shape the Flowing River
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

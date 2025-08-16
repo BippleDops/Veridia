@@ -1,11 +1,11 @@
 ---
 
 title: Assets Handouts Handout Handout Council Summons Notice V1 Council Summons Notice.png
-aliases: 
+aliases:
 - 04 Resources Assets Handouts handout handout council summons notice v1 council summons
   noticepng
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

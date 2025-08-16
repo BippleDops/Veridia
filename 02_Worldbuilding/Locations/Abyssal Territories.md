@@ -2,7 +2,7 @@
 
 title: Abyssal Territories
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

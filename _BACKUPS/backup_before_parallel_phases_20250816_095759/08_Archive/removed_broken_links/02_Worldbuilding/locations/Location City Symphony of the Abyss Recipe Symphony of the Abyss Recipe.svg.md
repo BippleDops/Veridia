@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city symphony of the abyss recipe symphony of the abyss recipesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Symphony of the Abyss Recipe Symphony of the Abyss Recipe.svg
 type: location

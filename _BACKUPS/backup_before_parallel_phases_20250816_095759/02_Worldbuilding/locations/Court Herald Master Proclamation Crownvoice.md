@@ -2,7 +2,7 @@
 
 title: Court Herald Master Proclamation Crownvoice
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

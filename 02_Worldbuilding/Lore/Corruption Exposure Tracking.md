@@ -2,7 +2,7 @@
 
 title: Corruption Exposure Tracking
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - session-notes

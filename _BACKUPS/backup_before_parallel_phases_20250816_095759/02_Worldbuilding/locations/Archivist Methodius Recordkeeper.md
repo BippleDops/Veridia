@@ -2,7 +2,7 @@
 
 title: Archivist Methodius Recordkeeper
 type: Location
-tags: 
+tags:
 - both worlds
 - world/both
 - content/location

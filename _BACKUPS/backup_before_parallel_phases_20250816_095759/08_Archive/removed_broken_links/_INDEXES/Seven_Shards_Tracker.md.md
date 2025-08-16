@@ -2,7 +2,7 @@
 enhanced: true
 title: 13_Performance/Indexes/Seven_Shards_Tracker.md
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Captain Trawl Netcaster V1 Captain Trawl Netcaster.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city captain trawl netcaster v1 captain trawl
   netcastersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

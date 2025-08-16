@@ -3,7 +3,7 @@ enhanced: true
 
 title: Mechanics Transformations
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

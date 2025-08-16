@@ -2,7 +2,7 @@
 
 title: Magistrate Justice Lawkeeper
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]
@@ -176,7 +176,7 @@ Ongoing situations affecting Magistrate Justice Lawkeeper:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

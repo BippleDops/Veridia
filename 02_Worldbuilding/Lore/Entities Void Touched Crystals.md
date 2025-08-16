@@ -2,7 +2,7 @@
 
 title: Entities [[Void Touched Cult|Void Touched Crystals
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

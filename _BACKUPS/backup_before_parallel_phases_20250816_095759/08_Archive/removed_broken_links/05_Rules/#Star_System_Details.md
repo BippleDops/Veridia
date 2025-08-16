@@ -3,7 +3,7 @@ enhanced: true
 
 title: '#Star System Details'
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

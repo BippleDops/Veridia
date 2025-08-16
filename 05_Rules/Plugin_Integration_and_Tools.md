@@ -2,7 +2,7 @@
 
 title: Plugin_Integration_and_Tools
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

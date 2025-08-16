@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Merchant Guild Headquarters Merchant Guild Headquarters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant guild headquarters merchant
   guild headquarterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

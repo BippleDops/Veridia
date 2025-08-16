@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Port Meridian Noble Quarter Port Meridian Noble
   Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port meridian noble quarter port meridian
   noble quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

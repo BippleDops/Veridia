@@ -2,7 +2,7 @@
 
 title: MECHANICS_STANDARDIZATION_REPORT
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

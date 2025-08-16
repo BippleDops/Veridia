@@ -2,7 +2,7 @@
 
 title: Harbor Pilot Guild
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Depth Market the Depth Market.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the depth market the depth marketsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

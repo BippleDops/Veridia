@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Public Safety V1 Public Safety.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city public safety v1 public safetysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

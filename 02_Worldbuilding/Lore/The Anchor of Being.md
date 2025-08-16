@@ -2,7 +2,7 @@
 
 title: The Anchor of Being
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Pressure Suit Malfunction
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - status/complete
 - emergency

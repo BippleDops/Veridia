@@ -2,7 +2,7 @@
 
 title: Experimental Medical Ethics
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

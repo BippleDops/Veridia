@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Tactics/Pressure Differential
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -99,7 +99,7 @@ Mentioned in The First Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

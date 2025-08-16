@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Miranda Hopekeeper V1 Miranda Hopekeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city miranda hopekeeper v1 miranda hopekeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

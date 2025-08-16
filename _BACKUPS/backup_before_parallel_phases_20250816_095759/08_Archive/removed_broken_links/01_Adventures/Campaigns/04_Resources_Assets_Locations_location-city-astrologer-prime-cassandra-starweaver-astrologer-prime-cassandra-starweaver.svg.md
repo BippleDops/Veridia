@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-astrologer-prime-cassandra-starweaver-astrologer-prime-cassandra-starweaver.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

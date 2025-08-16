@@ -2,7 +2,7 @@
 
 title: Unite or Divide
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - status/complete
@@ -17,10 +17,10 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-accessibility: 
+accessibility:
   content_warnings: []
   pronunciation: Unite or Divide
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and

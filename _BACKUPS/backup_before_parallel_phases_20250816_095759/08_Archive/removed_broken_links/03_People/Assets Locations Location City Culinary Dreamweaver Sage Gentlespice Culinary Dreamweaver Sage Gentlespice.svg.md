@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Culinary Dreamweaver Sage Gentlespice Culinary
   Dreamweaver Sage Gentlespice.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city culinary dreamweaver sage gentlespice
   culinary dreamweaver sage gentlespicesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -196,7 +196,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

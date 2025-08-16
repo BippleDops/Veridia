@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Community Support Networks V1 Community Support
   Networks.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city community support networks v1 community
   support networkssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Director of Experimental Procedures Dr Siren
   Voidtouch Director of Experimental Procedures Dr Siren Voidtouch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc director of experimental procedures dr
   siren voidtouch director of experimental procedures dr siren voidtouchsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

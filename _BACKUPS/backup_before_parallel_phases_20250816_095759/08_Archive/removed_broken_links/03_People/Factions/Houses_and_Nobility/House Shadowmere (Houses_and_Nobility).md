@@ -2,7 +2,7 @@
 
 title: House Shadowmere
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - politics
 - noble-house
@@ -108,7 +108,7 @@ House Shadowmere operates as the realm's premier intelligence and espionage orga
 - **[Order of the Silent Depths]]** - Member providing political protection for historical secrets
 - **[[Memory Merchant Valeria Siltweave** - Alliance for memory-based intelligence gathering
 
-### The Information Mistress: Dame Nyx Shadowmere  
+### The Information Mistress: Dame Nyx Shadowmere
 - **Age:** 27
 - **Position:** Domestic Intelligence Chief, Memory Trader
 - **Personality:** Cold, efficient, treats people as data points

@@ -2,7 +2,7 @@
 
 title: Professional Terminology
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - aerial
@@ -156,7 +156,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Void-silent"** - Communication blackout procedures near dangerous areas
 - **"Emergency-beacon"** - Distress signals for rescue operations
 
-### **Shadow Surgeon Collective** 
+### **Shadow Surgeon Collective**
 
 **Medical Procedures:**
 - **"Shadow-separation"** - Surgical removal of autonomous shadow entities

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high priestess marina oracleguard v1 high priestess marina oracleguardsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Priestess Marina Oracleguard V1 High Priestess Marina Oracleguard.svg
 type: npc

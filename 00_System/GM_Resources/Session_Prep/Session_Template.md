@@ -22,9 +22,9 @@
 ### Act 3: [Title] (45 min)
 
 ### Potential Encounters
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## NPCs This Session
 | Name | Role | Location | Notes |
@@ -32,20 +32,20 @@
 | | | | |
 
 ## Locations
-- 
+-
 
 ## Treasure/Rewards
-- 
+-
 
 ## Contingencies
 **If players go off-script:**
-- 
+-
 
 **If combat goes too fast/slow:**
-- 
+-
 
 **If session runs short:**
-- 
+-
 
 ## Post-Session
 - [ ] Update campaign notes

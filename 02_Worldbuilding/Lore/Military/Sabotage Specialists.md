@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Military/Sabotage Specialists
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

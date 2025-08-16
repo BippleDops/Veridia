@@ -2,7 +2,7 @@
 
 title: Crystal Engineer Spark Gemwright
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

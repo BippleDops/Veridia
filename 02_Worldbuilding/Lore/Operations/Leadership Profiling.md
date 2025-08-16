@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Operations/Leadership Profiling
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

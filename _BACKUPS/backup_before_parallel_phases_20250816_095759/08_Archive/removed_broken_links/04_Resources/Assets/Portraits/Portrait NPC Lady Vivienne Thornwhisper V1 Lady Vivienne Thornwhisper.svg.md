@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lady vivienne thornwhisper v1 lady vivienne thornwhispersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lady Vivienne Thornwhisper V1 Lady Vivienne Thornwhisper.svg
 type: npc

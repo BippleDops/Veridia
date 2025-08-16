@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city embassy district v1 embassy districtsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Embassy District V1 Embassy District.svg
 type: location

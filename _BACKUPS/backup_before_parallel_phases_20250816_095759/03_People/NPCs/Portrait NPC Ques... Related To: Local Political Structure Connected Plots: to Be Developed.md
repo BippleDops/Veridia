@@ -2,9 +2,9 @@
 
 title: 04_Resources/Assets/Portraits/portrait-npc-ques...
 - Related to: Local political structure
-- Connected plots: 
+- Connected plots:
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

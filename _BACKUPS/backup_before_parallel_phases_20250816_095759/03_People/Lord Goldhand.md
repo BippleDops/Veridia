@@ -1,7 +1,7 @@
 ---
 title: Lord Goldhand
 type: npc
-tags: 
+tags:
 - npc
 - dwarf
 - wizard

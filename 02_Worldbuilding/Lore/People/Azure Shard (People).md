@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Azure Shard
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

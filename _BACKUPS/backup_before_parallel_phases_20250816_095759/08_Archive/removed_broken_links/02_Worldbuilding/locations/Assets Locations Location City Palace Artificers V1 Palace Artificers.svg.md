@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Palace Artificers V1 Palace Artificers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city palace artificers v1 palace artificerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

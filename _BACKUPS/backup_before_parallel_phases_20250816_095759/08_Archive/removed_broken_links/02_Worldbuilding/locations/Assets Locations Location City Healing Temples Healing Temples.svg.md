@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Healing Temples Healing Temples.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city healing temples healing templessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -188,7 +188,7 @@ Mentioned in The First Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Time Lost Delegate Chronus
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -168,7 +168,7 @@ Ongoing situations affecting Time-Lost Delegate Chronus:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

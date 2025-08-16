@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Temporal Engineering Guil Temporal Engineering
   Guil.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry temporal engineering guil temporal engineering
   guilsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -196,7 +196,7 @@ Member of House Dragonblood - Trait: magical affinity
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

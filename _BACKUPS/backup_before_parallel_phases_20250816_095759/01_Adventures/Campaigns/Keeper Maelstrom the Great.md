@@ -2,7 +2,7 @@
 
 title: Keeper Maelstrom the Great
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

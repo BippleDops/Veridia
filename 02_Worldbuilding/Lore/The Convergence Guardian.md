@@ -2,7 +2,7 @@
 
 title: The Convergence Guardian
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -94,7 +94,7 @@ The Convergence Guardian represents a crucial aspect of the world's history, cos
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

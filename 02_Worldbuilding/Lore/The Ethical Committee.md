@@ -2,7 +2,7 @@
 
 title: The Ethical Committee
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

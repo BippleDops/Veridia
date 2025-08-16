@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Archdruid Marina Kelpweaver V1 Archdruid Marina
   Kelpweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archdruid marina kelpweaver v1 archdruid
   marina kelpweaversvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

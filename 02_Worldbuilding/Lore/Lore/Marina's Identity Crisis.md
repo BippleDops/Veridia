@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Marina's Identity Crisis
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

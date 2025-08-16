@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding/Lore/NPC
 type: npc
-tags: 
+tags:
 - npc
 - halfling
 - ranger

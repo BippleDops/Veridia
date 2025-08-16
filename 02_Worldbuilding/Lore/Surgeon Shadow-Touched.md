@@ -2,7 +2,7 @@
 
 title: Surgeon Shadow Touched
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

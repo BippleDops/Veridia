@@ -12,7 +12,7 @@ leader: '[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
 members: ~10,000 direct servants
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/faction

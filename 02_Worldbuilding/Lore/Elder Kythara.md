@@ -2,7 +2,7 @@
 
 title: Elder Kythara
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

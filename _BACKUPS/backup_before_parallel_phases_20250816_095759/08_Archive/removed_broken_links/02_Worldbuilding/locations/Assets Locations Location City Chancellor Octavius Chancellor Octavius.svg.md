@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Chancellor Octavius Chancellor Octavius.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chancellor octavius chancellor octaviussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

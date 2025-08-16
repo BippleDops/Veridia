@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city community organizations v1 community organizationssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Community Organizations V1 Community Organizations.svg
 type: location

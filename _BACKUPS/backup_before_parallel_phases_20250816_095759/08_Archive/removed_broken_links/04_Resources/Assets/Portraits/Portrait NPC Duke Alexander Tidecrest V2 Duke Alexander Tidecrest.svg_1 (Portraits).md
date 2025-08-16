@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc duke alexander tidecrest v2 duke alexander tidecrestsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg
 type: npc

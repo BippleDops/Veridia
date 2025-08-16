@@ -2,7 +2,7 @@
 
 title: The Great Sky Harbor
 type: [[location
-tags: 
+tags:
 - aerial
 - content/location
 - place

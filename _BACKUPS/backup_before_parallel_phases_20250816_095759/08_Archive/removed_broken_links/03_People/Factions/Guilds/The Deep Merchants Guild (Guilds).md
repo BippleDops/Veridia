@@ -2,7 +2,7 @@
 
 title: The Deep Merchants Guild
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

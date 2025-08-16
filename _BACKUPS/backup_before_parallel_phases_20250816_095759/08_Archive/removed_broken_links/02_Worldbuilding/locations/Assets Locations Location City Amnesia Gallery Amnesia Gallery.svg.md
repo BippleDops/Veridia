@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Amnesia Gallery Amnesia Gallery.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city amnesia gallery amnesia gallerysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

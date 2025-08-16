@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Undead Services Bureau Undead Services Bureau.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city undead services bureau undead services
   bureausvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -201,7 +201,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

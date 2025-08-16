@@ -2,7 +2,7 @@
 
 title: [[Leviathan the Dee
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

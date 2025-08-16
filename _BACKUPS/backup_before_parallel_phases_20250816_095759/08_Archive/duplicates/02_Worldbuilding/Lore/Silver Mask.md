@@ -2,7 +2,7 @@
 
 title: Silver Mask
 type: [[Lore
-tags: 
+tags:
 - mechanics/exploration
 - political-manipulation
 - shadow-touched
@@ -129,7 +129,7 @@ The mystery deepens when considering that Silver Mask's activities appear to be 
 - Anonymous tips to investigators that always prove partially accurate
 - Letters signed with a silver mask symbol warning of impending dangers
 
-### Deeper Layer: Criminal Network Connections  
+### Deeper Layer: Criminal Network Connections
 
 **Initiated Knowledge (Difficulty: Moderate)**
 - Silver Mask appears to have detailed knowledge of criminal operations

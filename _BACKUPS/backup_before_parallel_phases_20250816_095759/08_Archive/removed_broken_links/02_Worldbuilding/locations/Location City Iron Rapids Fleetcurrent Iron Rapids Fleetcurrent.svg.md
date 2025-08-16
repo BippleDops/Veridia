@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city iron rapids fleetcurrent iron rapids fleetcurrentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Iron Rapids Fleetcurrent Iron Rapids Fleetcurrent.svg
 type: location

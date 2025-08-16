@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Recursion_Travel_System
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

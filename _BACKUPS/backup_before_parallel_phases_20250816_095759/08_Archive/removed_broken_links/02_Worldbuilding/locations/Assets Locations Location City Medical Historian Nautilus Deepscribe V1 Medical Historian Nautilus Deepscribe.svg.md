@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Medical Historian Nautilus Deepscribe V1 Medical
   Historian Nautilus Deepscribe.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city medical historian nautilus deepscribe
   v1 medical historian nautilus deepscribesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Head of Memory Integration Dr. Nautilus Depthcaller
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -116,6 +116,6 @@ Head of Memory Integration Dr. Nautilus Depthcaller represents a crucial aspect 
 ## References
 
 - [[Assets Locations Location City Guildmaster Harwick Guildmaster Harwick.png
-- 
+-
 - [Reflection Pools - Surgical Theater]]
 - [[Reflection Pools - Surgical Theater (D&D_References)]]

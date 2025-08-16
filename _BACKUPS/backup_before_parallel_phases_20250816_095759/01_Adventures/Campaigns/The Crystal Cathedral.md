@@ -2,7 +2,7 @@
 
 title: The Crystal Cathedral
 type: [[location
-tags: 
+tags:
 - quest
 - content/location
 - place
@@ -177,7 +177,7 @@ Ongoing situations affecting The Crystal Cathedral:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Memory Harvester Kythara
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - servant
@@ -55,7 +55,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -132,22 +132,22 @@ Kythara tends the [[Memory Meadows where the [The Deep Mother]]'s pleasant dream
 ### Memory Harvester Kythara
 *Medium humanoid (human, shadow-touched), neutral good*
 
-**Armor Class** 18 (Memory Shroud)  
-**Hit Points** 158 (`dice: `dice: 21d8`` + 63)  
+**Armor Class** 18 (Memory Shroud)
+**Hit Points** 158 (`dice: `dice: 21d8`` + 63)
 **Speed** 30 ft., hover 30 ft. (in Memory Meadows)
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
 12 (+1) | 18 (+4) | 16 (+3) | 20 (+5) | 24 (+7) | 22 (+6)
 
-**Saving Throws** Int +12, Wis +14, Cha +13  
-**Skills** Insight +21, Medicine +14, Nature +12, Perception +14, Religion +12  
-**Damage Resistances** Psychic, Necrotic  
-**Damage Immunities** Memory alteration effects, shadow corruption  
-**Condition Immunities** Charmed, frightened by memories  
-**Senses** Memory sight 120 ft., darkvision 60 ft., passive Perception 24  
-**Languages** Common, Primordial (Dream Speech), telepathy 60 ft.  
-**Challenge Rating** 12 (8,400 XP)  
+**Saving Throws** Int +12, Wis +14, Cha +13
+**Skills** Insight +21, Medicine +14, Nature +12, Perception +14, Religion +12
+**Damage Resistances** Psychic, Necrotic
+**Damage Immunities** Memory alteration effects, shadow corruption
+**Condition Immunities** Charmed, frightened by memories
+**Senses** Memory sight 120 ft., darkvision 60 ft., passive Perception 24
+**Languages** Common, Primordial (Dream Speech), telepathy 60 ft.
+**Challenge Rating** 12 (8,400 XP)
 **Proficiency Bonus** +4
 
 ### Special Abilities
@@ -259,7 +259,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 **The Harvesting Art**: Development of ethical and sacred memory collection practices
 - Learning to distinguish between memories that should be preserved vs. those needing release
 - Techniques for extracting traumatic memories without damaging the core self
-- Methods for amplifying positive memories to provide better nourishment for Divine consciousness  
+- Methods for amplifying positive memories to provide better nourishment for Divine consciousness
 - Skills in memory-healing that restore psychological balance without erasing necessary growth
 
 ---
@@ -319,14 +319,14 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 
 **Memory Healing Services**: Therapeutic work helping individuals process difficult experiences
 - Extraction of traumatic memories that prevent psychological healing
-- Amplification of positive memories to strengthen personal resilience  
+- Amplification of positive memories to strengthen personal resilience
 - Memory integration therapy helping people understand and learn from experiences
 - Restoration of memories damaged by magical interference or psychological trauma
 
 ---
 
 ### Sacred Memory Workers Alliance
-**[Memory Trader Kellian]]**: Ethical merchant maintaining commercial memory trade standards  
+**[Memory Trader Kellian]]**: Ethical merchant maintaining commercial memory trade standards
 - Collaborative oversight of memory commerce ensuring no exploitation of sacred sites
 - Joint certification program for ethical memory handlers
 - Shared resources for protecting individual memory rights
@@ -340,7 +340,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 
 **The Dream Shepherds**: Network of professionals protecting sleeping minds
 - Coordination to prevent nightmare-bleed from affecting wider population
-- Shared early warning system for dream-realm instabilities  
+- Shared early warning system for dream-realm instabilities
 - Joint training programs for safely navigating collective unconscious
 - Collaborative response to dream-based magical threats
 
@@ -363,7 +363,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Shared resources for training priests in safe dream-walking techniques
 - Mutual support during religious holidays and cosmic spiritual events
 
-### Opposition & Complex Relationships  
+### Opposition & Complex Relationships
 **[[Memory Farmer Thane**: Primary commercial adversary threatening Memory Meadows
 - Direct conflict over exploitation vs. preservation of sacred memory sites
 - Legal battles over memory harvesting rights and environmental protection
@@ -372,7 +372,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 
 **Commercial Memory Syndicates**: Corporate entities seeking to industrialize memory trade
 - Lobbying government to remove protections from sacred memory sites
-- Attempts to infiltrate and co-opt legitimate memory preservation operations  
+- Attempts to infiltrate and co-opt legitimate memory preservation operations
 - Legal challenges to religious protections for Memory Meadows
 - Economic warfare through dumping artificially created memories to depress market
 
@@ -403,7 +403,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 
 ---
 
-### Individual Memory Healing Services  
+### Individual Memory Healing Services
 **Trauma Memory Extraction**: 5,000-15,000gp based on complexity and danger
 - Safe removal of memories too painful for conscious processing
 - Specialized techniques preventing psychological damage during extraction
@@ -500,7 +500,7 @@ A divine dream in the Memory Meadows has been corrupted by shadow influence, thr
 - **Rewards**: 18,000gp, permanent resistance to memory effects, blessed memory artifact
 - **Complications**: Success requires sacrificing party member's happiest memory to restore balance
 
-### 2. The Memory Thief Syndicate (Level 9-15)  
+### 2. The Memory Thief Syndicate (Level 9-15)
 Criminal organization has begun stealing precious memories from dying people, including god-dreams meant for Divine nourishment. Kythara needs investigators to expose and stop the operation.
 - **Investigation**: Tracking stolen memories through black market dealers and corrupt memory traders
 - **Combat**: Fighting memory-enhanced criminals who can use stolen experiences as weapons
@@ -524,7 +524,7 @@ Artificially created memories are spreading through the population, overwriting 
 ### 5. The Divine Memory War (Level 12-18)
 Two factions of Deep Mother servants disagree about which memories should be fed to their sleeping goddess, with Kythara caught in the middle. The conflict threatens to destabilize both Divine consciousness and mortal memory ecosystem.
 - **Sides**: Those who want only positive memories vs. those who believe authentic experience requires including pain
-- **Consequences**: Divine consciousness responding differently to different memory diets  
+- **Consequences**: Divine consciousness responding differently to different memory diets
 - **Politics**: Navigating religious schism while maintaining sacred duties
 - **Resolution**: Finding balanced approach that serves both Divine will and mortal psychological needs
 
@@ -576,7 +576,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Potential alliance with those resisting shadow-crystal influence
 - Protection of memory ecosystem from synthesis contamination and control
 
-### Links to [Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]  
+### Links to [Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 **Divine Memory Conduit**: Serving as bridge between mortal and divine memory systems
 - Facilitating communication between Divine consciousness and mortal awareness
 - Translation services helping mortals understand Divine memory communications
@@ -772,7 +772,7 @@ Mentioned in The First Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

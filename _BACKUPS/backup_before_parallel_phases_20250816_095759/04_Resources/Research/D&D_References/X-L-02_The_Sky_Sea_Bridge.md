@@ -2,7 +2,7 @@
 
 title: X-L-02_The_Sky_Sea_Bridge
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

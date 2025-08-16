@@ -2,7 +2,7 @@
 
 title: Marina Tidecaller
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

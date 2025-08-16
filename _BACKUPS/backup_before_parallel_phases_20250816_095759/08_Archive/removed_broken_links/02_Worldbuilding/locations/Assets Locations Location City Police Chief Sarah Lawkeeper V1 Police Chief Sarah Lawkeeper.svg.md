@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Police Chief Sarah Lawkeeper V1 Police Chief
   Sarah Lawkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city police chief sarah lawkeeper v1 police
   chief sarah lawkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

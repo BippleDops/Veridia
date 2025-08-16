@@ -2,7 +2,7 @@
 
 title: The Wind Shrine Archipelago
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

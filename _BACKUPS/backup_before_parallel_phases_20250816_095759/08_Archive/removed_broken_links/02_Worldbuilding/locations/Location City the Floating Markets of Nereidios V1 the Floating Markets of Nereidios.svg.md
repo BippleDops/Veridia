@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the floating markets of nereidios v1 the floating markets of nereidiossvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Floating Markets of Nereidios V1 the Floating Markets of
   Nereidios.svg

@@ -2,7 +2,7 @@
 
 title: Cross-Realm Politics
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -89,7 +89,7 @@ Cross-Realm Politics represents a crucial aspect of the world's history, cosmolo
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

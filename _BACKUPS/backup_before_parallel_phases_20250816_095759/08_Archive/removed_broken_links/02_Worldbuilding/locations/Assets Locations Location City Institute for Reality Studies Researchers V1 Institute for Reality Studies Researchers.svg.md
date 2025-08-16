@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Institute for Reality Studies Researchers V1
   Institute for Reality Studies Researchers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city institute for reality studies researchers
   v1 institute for reality studies researcherssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

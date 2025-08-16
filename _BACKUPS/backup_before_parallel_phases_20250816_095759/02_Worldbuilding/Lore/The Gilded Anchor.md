@@ -2,7 +2,7 @@
 
 title: The Gilded Anchor
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

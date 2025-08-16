@@ -2,7 +2,7 @@
 
 title: Faction_War_Campaign_Act_Structure (D&D_Sourcebooks)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

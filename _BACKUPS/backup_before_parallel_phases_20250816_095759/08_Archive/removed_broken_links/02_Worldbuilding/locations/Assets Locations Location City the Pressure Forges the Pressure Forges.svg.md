@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Pressure Forges the Pressure Forges.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the pressure forges the pressure forgessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

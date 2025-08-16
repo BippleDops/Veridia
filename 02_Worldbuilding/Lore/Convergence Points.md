@@ -2,7 +2,7 @@
 
 title: Convergence Points
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

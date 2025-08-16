@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Luminous Hollow Luminous Hollow.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city luminous hollow luminous hollowsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

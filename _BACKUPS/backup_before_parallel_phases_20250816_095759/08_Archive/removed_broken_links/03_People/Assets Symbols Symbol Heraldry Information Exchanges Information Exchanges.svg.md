@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Information Exchanges Information Exchanges.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry information exchanges information exchangessvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -204,7 +204,7 @@ Member of House Lionblood - Trait: divine blood
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

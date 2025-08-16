@@ -2,7 +2,7 @@
 
 title: The Authentication Crisis
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Diplomatic Deepcurrent V1 Diplomatic Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city diplomatic deepcurrent v1 diplomatic
   deepcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city anti smuggling operations anti smuggling operationssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Anti Smuggling Operations Anti Smuggling Operations.svg
 type: location

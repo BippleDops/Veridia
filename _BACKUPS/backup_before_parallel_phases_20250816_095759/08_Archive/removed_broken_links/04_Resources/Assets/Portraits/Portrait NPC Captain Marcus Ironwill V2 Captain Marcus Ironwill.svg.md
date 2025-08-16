@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain marcus ironwill v2 captain marcus ironwillsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Marcus Ironwill V2 Captain Marcus Ironwill.svg
 type: npc

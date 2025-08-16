@@ -2,7 +2,7 @@
 
 title: Academy of Depths
 type: location
-tags: 
+tags:
 - place
 - active
 - location

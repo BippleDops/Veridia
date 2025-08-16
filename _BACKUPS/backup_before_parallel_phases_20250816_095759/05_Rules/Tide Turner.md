@@ -1,7 +1,7 @@
 ---
 title: Tide Turner
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - status/complete

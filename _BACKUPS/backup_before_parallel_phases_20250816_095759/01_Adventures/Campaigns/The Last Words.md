@@ -2,7 +2,7 @@
 
 title: The Last Words
 type: Location
-tags: 
+tags:
 - mystery
 - aquabyssos
 - content/adventure

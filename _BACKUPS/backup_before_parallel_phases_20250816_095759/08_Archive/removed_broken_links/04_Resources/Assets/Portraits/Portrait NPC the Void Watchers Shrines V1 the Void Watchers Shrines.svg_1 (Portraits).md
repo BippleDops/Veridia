@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the void watchers shrines v1 the void watchers shrinessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Void Watchers Shrines V1 the Void Watchers Shrines.svg
 type: npc

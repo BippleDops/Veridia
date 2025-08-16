@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc banking lord cornelius coinwright v2 banking lord cornelius coinwrightsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Banking Lord Cornelius Coinwright V2 Banking Lord Cornelius Coinwright.svg
 type: npc

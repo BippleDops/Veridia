@@ -2,7 +2,7 @@
 
 title: The Crystal Exchange
 type: [[Lore
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

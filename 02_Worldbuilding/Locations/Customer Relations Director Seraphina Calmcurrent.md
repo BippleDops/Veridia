@@ -2,7 +2,7 @@
 
 title: Customer Relations Director Seraphina Calmcurrent
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

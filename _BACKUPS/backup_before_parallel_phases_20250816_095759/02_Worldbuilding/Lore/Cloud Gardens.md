@@ -2,7 +2,7 @@
 
 title: Cloud Gardens
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Memory Magic
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

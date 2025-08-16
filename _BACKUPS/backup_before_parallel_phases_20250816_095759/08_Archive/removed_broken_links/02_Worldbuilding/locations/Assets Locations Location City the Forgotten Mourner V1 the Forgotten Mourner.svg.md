@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Forgotten Mourner V1 the Forgotten Mourner.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the forgotten mourner v1 the forgotten
   mournersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

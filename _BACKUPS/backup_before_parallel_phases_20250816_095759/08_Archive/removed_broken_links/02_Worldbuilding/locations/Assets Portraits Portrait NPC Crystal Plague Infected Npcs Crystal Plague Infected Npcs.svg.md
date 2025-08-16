@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Crystal Plague Infected Npcs Crystal Plague Infected
   Npcs.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc crystal plague infected npcs crystal
   plague infected npcssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

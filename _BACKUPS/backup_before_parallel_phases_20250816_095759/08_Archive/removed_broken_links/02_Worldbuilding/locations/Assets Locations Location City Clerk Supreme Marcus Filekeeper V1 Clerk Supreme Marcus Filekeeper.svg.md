@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Clerk Supreme Marcus Filekeeper V1 Clerk Supreme
   Marcus Filekeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city clerk supreme marcus filekeeper v1 clerk
   supreme marcus filekeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -193,7 +193,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

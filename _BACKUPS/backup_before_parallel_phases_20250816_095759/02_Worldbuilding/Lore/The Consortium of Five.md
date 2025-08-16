@@ -2,7 +2,7 @@
 
 title: The Consortium of Five
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

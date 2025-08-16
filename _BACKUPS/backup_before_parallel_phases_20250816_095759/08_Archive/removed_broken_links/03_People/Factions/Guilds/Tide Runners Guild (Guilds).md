@@ -2,7 +2,7 @@
 
 title: Tide Runners Guild
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

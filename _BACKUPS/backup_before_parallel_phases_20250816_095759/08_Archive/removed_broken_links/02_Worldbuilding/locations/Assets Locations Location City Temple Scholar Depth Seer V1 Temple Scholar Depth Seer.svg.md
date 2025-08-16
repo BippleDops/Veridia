@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple Scholar Depth Seer V1 Temple Scholar
   Depth Seer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple scholar depth seer v1 temple
   scholar depth seersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

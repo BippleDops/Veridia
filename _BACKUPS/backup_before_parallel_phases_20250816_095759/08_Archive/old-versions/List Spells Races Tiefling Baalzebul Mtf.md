@@ -2,7 +2,7 @@
 
 title: List Spells Races Tiefling Baalzebul Mtf
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

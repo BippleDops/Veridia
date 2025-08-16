@@ -2,7 +2,7 @@
 
 title: Anti Corruption Task Force
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

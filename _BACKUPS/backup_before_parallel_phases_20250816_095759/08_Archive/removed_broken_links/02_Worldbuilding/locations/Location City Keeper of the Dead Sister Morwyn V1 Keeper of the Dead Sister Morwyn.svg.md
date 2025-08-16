@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper of the dead sister morwyn v1 keeper of the dead sister morwynsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper of the Dead Sister Morwyn V1 Keeper of the Dead Sister
   Morwyn.svg

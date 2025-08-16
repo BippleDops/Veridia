@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city commercial district v1 commercial districtsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Commercial District V1 Commercial District.svg
 type: location

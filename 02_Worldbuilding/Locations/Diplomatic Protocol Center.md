@@ -1,7 +1,7 @@
 ---
 title: Diplomatic Protocol Center
 type: [[location
-tags: 
+tags:
 - mechanics/social
 - aerial
 - embassy

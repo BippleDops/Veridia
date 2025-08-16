@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Trader Compass Rose V1 Trader Compass Rose.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city trader compass rose v1 trader compass
   rosesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

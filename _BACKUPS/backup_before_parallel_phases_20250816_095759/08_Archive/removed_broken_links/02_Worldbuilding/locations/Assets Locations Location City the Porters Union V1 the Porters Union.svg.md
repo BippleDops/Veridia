@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Porters Union V1 the Porters Union.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the porters union v1 the porters unionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

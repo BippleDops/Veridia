@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Great Resoce the Great Resoce.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the great resoce the great resocesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

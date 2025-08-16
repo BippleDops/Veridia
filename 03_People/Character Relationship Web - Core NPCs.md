@@ -2,7 +2,7 @@
 
 title: Character Relationship Web   Core NPCs
 type: Lore
-tags: 
+tags:
 - lore
 - both
 - status/complete
@@ -52,7 +52,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

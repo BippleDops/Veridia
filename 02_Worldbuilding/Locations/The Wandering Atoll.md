@@ -2,7 +2,7 @@
 
 title: The Wandering Atoll
 type: [[location
-tags: 
+tags:
 - both
 - quest
 - world/both
@@ -194,7 +194,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

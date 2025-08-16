@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Fire Crystals V1 Fire Crystals.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city fire crystals v1 fire crystalssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

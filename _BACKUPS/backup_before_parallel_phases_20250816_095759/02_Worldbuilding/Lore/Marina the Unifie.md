@@ -2,7 +2,7 @@
 
 title: Marina the Unifie
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

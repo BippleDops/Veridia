@@ -2,7 +2,7 @@
 
 title: List Spells Classes Path of the Wild Heart
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

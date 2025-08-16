@@ -8,7 +8,7 @@ government: The Cognition Collective
 obsidianUIMode: preview
 population: ~500000
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location

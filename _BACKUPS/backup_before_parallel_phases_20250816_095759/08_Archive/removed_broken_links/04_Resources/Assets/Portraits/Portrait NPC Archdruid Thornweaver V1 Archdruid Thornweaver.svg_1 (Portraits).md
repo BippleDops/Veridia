@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc archdruid thornweaver v1 archdruid thornweaversvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Archdruid Thornweaver V1 Archdruid Thornweaver.svg
 type: npc

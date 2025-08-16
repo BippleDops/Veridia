@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Inter Realm Diplomacy V1 Inter Realm Diplomacy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city inter realm diplomacy v1 inter realm
   diplomacysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

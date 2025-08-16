@@ -2,7 +2,7 @@
 
 title: [[Artificer General Magnus Gemheart
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

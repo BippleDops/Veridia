@@ -2,7 +2,7 @@
 
 title: The Neural Clusters
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

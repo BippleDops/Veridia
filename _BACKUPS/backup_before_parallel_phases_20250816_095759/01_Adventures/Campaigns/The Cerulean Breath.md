@@ -2,7 +2,7 @@
 
 title: The Cerulean Breath
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - world/aquabyssos
@@ -57,7 +57,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -274,7 +274,7 @@ Despite her peaceful nature, Maraleth is still an ancient dragon turtle when thr
 ## Secrets & Hidden Knowledge
 > [!warning] DM Only
 > - Maraleth knows the true location of Emperor Thalassius's scattered consciousness and how to potentially restore him
-> - She has preserved pre-Aquabyssos surface world knowledge that could revolutionize technology and magic in both realms  
+> - She has preserved pre-Aquabyssos surface world knowledge that could revolutionize technology and magic in both realms
 > - Her memory contains the locations of several lost cities and treasure hoards from before the Great Submersion
 > - She knows which current political leaders are descended from the original royal bloodlines and could challenge current power structures
 > - Maraleth has been having prophetic dreams suggesting a coming catastrophe that will require sacrificing Aquabyssos to save both realms

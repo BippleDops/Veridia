@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc sir marcus dawnforge v2 sir marcus dawnforgesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Sir Marcus Dawnforge V2 Sir Marcus Dawnforge.svg
 type: npc

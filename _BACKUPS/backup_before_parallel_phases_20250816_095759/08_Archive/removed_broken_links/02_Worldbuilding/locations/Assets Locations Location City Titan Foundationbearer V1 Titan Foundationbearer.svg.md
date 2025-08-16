@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Titan Foundationbearer V1 Titan Foundationbearer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city titan foundationbearer v1 titan foundationbearersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

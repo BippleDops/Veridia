@@ -2,7 +2,7 @@
 
 title: [[Crystal Workers Union
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

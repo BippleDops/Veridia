@@ -1,7 +1,7 @@
 ---
 title: scripts
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

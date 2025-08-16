@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Memory_Tide_Events.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

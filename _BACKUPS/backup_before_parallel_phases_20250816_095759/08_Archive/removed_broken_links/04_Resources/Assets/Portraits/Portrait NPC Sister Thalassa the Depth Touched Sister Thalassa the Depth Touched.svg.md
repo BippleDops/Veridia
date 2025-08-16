@@ -2,7 +2,7 @@
 
 title: Portrait NPC Sister Thalassa the Depth Touched Sister Thalassa the Depth Touched.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

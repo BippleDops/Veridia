@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Vault Breach V1 Vault Breach.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city vault breach v1 vault breachsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

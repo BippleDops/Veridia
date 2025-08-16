@@ -2,7 +2,7 @@
 
 title: Abyssal Pearls
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - active

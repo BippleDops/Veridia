@@ -2,7 +2,7 @@
 
 title: Academic Institutions
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

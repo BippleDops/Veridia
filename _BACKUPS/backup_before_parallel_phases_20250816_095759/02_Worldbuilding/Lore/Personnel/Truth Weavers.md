@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Personnel/Truth Weavers
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

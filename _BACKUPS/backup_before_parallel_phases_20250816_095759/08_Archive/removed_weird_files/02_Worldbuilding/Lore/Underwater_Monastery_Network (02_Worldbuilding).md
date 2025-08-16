@@ -2,7 +2,7 @@
 
 title: [[Underwater Monastery Network
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memoriam the forgotten continent memoriam the forgotten continentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memoriam the Forgotten Continent Memoriam the Forgotten Continent.svg
 type: location

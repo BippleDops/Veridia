@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: draft
-tags: 
+tags:
 - aethermoor
 - ancient-conflict
 - completed
@@ -14,14 +14,14 @@ tags:
 world: Aethermoor
 time_period: Third Age, Years 892-901
 scale: Continental
-participants: 
+participants:
 - Multiple Kingdoms
 - City-States
 - Ancient Powers
 outcome: Pyrrhic Victory for Alliance Forces
 created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Lore/Ancient Siege Tunnels'
 - '[02_Worldbuilding/Places/Crystalhaven]]'
 - '[[02_Worldbuilding/Places/Ironhold'
@@ -42,7 +42,7 @@ The war is remembered not only for its unprecedented scale and brutality but als
 ### The Drakmoor Succession Crisis
 The immediate cause of the war was the death of King Valorian the Great of Drakmoor without a clear heir:
 - **Prince Cassius the Bold**: Supported by military commanders and northern provinces
-- **Princess Serenity the Wise**: Backed by merchants and southern trading cities  
+- **Princess Serenity the Wise**: Backed by merchants and southern trading cities
 - **Duke Mordain the Ruthless**: Foreign-supported claimant with promises of territorial concessions
 - **The Royal Council**: Attempted to establish a regency but lacked popular support
 

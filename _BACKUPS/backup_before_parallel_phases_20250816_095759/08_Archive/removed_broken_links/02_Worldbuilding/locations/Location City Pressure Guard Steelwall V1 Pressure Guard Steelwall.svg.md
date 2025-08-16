@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city pressure guard steelwall v1 pressure guard steelwallsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg
 type: location

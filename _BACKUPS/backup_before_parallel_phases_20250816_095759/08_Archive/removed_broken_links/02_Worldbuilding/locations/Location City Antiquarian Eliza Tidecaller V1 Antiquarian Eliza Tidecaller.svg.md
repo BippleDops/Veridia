@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city antiquarian eliza tidecaller v1 antiquarian eliza tidecallersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Antiquarian Eliza Tidecaller V1 Antiquarian Eliza Tidecaller.svg
 type: location

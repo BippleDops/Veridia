@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Gamma-Enforcement
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -93,7 +93,7 @@ improvements: 20
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

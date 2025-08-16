@@ -2,7 +2,7 @@
 
 title: Bio Tech Supervisor Reef Lifeweaver
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

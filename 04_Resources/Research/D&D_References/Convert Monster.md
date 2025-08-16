@@ -2,7 +2,7 @@
 
 title: Convert Monster
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'
@@ -39,7 +39,7 @@ prompt-info: prompt Id: Conv Monst name: "\U0001F9CC Convert Monster \U0001F9CC"
 world: Both
 updated: '2025-08-13T01:18:31.185410+00:00'
 
---- 
+---
 
 Convert the provided text into the statblock template provided. The Syntax is important. Do not change the layout/syntax.  ---
 

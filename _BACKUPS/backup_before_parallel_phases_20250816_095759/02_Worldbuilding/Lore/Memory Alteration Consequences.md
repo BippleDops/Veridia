@@ -2,7 +2,7 @@
 
 title: [[Memory Alteration Consequences
 type: [Lore]]
-tags: 
+tags:
 - aquatic
 - ethics
 - shadow-touched
@@ -225,7 +225,7 @@ Memory alteration in [[Aquabyssos has grown from therapeutic necessity to widesp
 
 **Relationship Reality Distortion:**
 - **Description**: Altered memories of relationships creating interpersonal conflicts
-- **Manifestations**: 
+- **Manifestations**:
   - Remembering different shared experiences than partner
   - Emotional connections to [[People based on false memories
   - Inability to maintain consistent relationship patterns
@@ -234,7 +234,7 @@ Memory alteration in [[Aquabyssos has grown from therapeutic necessity to widesp
 
 **Trust Cascade Failure:**
 - **Description**: Loss of trust spreading from altered individual to entire social network
-- **Process**: 
+- **Process**:
   - Initial memory alteration creates inconsistent behavior
   - Friends and family notice personality changes
   - Awareness of [Memory Manipulation]] creates general suspicion
@@ -243,7 +243,7 @@ Memory alteration in [[Aquabyssos has grown from therapeutic necessity to widesp
 
 **Empathy Disruption:**
 - **Description**: Inability to relate to others' experiences due to altered emotional memories
-- **Symptoms**: 
+- **Symptoms**:
   - Lack of appropriate emotional responses
   - Inability to understand others' motivations
   - Social isolation due to apparent callousness
@@ -264,7 +264,7 @@ Memory alteration in [[Aquabyssos has grown from therapeutic necessity to widesp
 **Intergenerational Memory Confusion:**
 - **Description**: Family memories becoming inconsistent across generations
 - **Causes**: Parents with altered memories raising children with different family histories
-- **Effects**: 
+- **Effects**:
   - Children grow up with false understanding of family background
   - Cultural traditions lost or artificially modified
   - Genetic medical history becomes unreliable
@@ -352,7 +352,7 @@ Memory alteration in [[Aquabyssos has grown from therapeutic necessity to widesp
 **Psychosomatic Memory Disorders:**
 - **Description**: Physical illness caused by false memories of injury or disease
 - **Symptoms**: Real physical symptoms based on non-existent medical history
-- **Examples**: 
+- **Examples**:
   - Phantom pain from deleted injury memories
   - Allergic reactions to substances from false allergy memories
   - Disability symptoms from implanted memories of accidents
@@ -491,7 +491,7 @@ Memory alteration in [[Aquabyssos has grown from therapeutic necessity to widesp
 
 **Memory Heritage Loss:**
 - **Description**: Knowledge and wisdom traditionally passed through generations being lost
-- **Impact**: 
+- **Impact**:
   - Grandparents with altered memories unable to share authentic family history
   - Cultural practices evolving rapidly due to modified memories
   - Traditional crafts and skills lost when master craftspeople receive memory alterations
@@ -765,7 +765,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

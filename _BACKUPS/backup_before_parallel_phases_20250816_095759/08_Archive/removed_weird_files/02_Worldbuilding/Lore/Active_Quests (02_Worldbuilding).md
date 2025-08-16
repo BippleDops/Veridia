@@ -2,7 +2,7 @@
 
 title: [[Active Quests
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

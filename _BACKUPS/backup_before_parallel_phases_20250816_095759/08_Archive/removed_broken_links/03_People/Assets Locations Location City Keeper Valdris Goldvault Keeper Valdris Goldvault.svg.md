@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper valdris goldvault keeper valdris
   goldvaultsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: Physical Characteristics Beholder Eye Color
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

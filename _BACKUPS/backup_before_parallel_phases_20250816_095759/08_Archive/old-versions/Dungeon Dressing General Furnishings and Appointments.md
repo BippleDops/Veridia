@@ -2,7 +2,7 @@
 
 title: Dungeon Dressing General Furnishings and Appointments
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

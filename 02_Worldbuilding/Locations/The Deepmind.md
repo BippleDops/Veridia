@@ -2,7 +2,7 @@
 
 title: The Deepmind
 type: Location
-tags: 
+tags:
 - dungeon
 - aquabyssos
 - status/complete
@@ -297,7 +297,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

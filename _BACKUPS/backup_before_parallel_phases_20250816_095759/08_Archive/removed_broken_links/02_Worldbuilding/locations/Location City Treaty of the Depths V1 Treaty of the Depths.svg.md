@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city treaty of the depths v1 treaty of the depthssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Treaty of the Depths V1 Treaty of the Depths.svg
 type: location

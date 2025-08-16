@@ -2,7 +2,7 @@
 
 title: [[The Drowning Welcome
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - active

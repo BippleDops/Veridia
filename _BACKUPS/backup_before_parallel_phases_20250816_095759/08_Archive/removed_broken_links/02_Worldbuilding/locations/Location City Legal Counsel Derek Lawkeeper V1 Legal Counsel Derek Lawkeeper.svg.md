@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city legal counsel derek lawkeeper v1 legal counsel derek lawkeepersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Legal Counsel Derek Lawkeeper V1 Legal Counsel Derek Lawkeeper.svg
 type: location

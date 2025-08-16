@@ -2,7 +2,7 @@
 
 title: The Vault of Scales
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

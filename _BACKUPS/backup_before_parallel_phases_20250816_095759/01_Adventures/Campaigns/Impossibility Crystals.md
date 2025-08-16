@@ -2,7 +2,7 @@
 
 title: Impossibility Crystals
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[Npc]]

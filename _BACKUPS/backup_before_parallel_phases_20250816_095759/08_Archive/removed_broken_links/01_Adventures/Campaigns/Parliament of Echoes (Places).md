@@ -2,7 +2,7 @@
 
 title: Parliament of Echoes
 type: Location
-tags: 
+tags:
 - both
 - aerial
 - world/aquabyssos
@@ -248,7 +248,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

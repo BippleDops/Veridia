@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city prophetic studies institute v1 prophetic studies institutesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Prophetic Studies Institute V1 Prophetic Studies Institute.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: The First Healing
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

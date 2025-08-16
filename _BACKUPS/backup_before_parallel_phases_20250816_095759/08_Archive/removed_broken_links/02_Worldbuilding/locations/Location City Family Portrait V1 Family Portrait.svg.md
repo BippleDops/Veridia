@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city family portrait v1 family portraitsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Family Portrait V1 Family Portrait.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: [[Royal Court of [Aethermoor]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - aerial
 - content/lore

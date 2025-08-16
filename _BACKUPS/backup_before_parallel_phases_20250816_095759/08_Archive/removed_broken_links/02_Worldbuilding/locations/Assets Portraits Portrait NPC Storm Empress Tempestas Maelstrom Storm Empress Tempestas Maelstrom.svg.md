@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Storm Empress Tempestas Maelstrom Storm Empress
   Tempestas Maelstrom.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc storm empress tempestas maelstrom storm
   empress tempestas maelstromsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

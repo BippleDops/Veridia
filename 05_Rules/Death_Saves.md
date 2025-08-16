@@ -3,7 +3,7 @@ enhanced: true
 
 title: Death Saves
 type: death-saves
-tags: 
+tags:
 - mechanics
 - tracking
 - death

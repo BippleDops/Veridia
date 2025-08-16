@@ -2,7 +2,7 @@
 
 title: Purification Chambers
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

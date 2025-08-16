@@ -2,7 +2,7 @@
 
 title: [[The Dimensional Anchor Stone
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

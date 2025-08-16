@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city pressure tube terminal v1 pressure tube terminalsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Pressure Tube Terminal V1 Pressure Tube Terminal.svg
 type: location

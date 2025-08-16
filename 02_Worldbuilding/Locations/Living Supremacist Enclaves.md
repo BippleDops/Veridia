@@ -2,7 +2,7 @@
 
 title: Living Supremacist Enclaves
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

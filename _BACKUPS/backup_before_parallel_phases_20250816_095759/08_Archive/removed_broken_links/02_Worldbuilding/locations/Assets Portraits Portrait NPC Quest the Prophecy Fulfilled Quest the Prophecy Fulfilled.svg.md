@@ -1,11 +1,11 @@
 ---
 title: Assets Portraits Portrait NPC Quest the Prophecy Fulfilled Quest the Prophecy
   Fulfilled.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the prophecy fulfilled quest the
   prophecy fulfilledsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

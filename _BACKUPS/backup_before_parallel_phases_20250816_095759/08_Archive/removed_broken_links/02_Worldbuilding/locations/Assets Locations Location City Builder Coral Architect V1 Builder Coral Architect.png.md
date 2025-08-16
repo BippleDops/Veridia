@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Builder Coral Architect V1 Builder Coral Architect.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city builder coral architect v1 builder coral
   architectpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -209,7 +209,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

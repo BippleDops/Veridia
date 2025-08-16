@@ -2,7 +2,7 @@
 
 title: Possessed Noble Coterie
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - active

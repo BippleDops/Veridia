@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Golden Trade Route V1 the Golden Trade Route.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the golden trade route v1 the golden
   trade routesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

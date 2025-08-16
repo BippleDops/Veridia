@@ -2,7 +2,7 @@
 
 title: location
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -108,7 +108,7 @@ location represents a crucial aspect of the world's history, cosmology, or funda
 - [[02_Worldbuilding_Items_Shadow_Dampeners
 - [02_Worldbuilding_Locations_Abyssal_Forges]]
 - [[02_Worldbuilding_Locations_Abyssal_Spires
-- 
+-
 - [02_Worldbuilding_Locations_Crystal_Conservatory]]
 - [[02_Worldbuilding_Locations_Floating_Arsenal
 - [02_Worldbuilding_Locations_Sunken_Palace]]
@@ -150,7 +150,7 @@ location represents a crucial aspect of the world's history, cosmology, or funda
 - [02_Worldbuilding_Tactics_Acoustic_Masking]]
 - [[04_Places_The_Grinding_Workshop
 - [04_Places_The_Outfitters_Shop]]
-- 
+-
 - [[1 DM Toolkit Home Dv
 - [1 DM Toolkit Home Embeds Dv]]
 - [[1-DM_Toolkit_DM_Board
@@ -410,7 +410,7 @@ location represents a crucial aspect of the world's history, cosmology, or funda
 - [[Location Tracker (02_Worldbuilding)
 - [Locations Abyssal Forges]]
 - [[Locations Abyssal Spires
-- 
+-
 - [Locations Crystal Conservatory]]
 - [[Locations Crystal Shadow Storms
 - [Locations Floating Arsenal]]
@@ -620,7 +620,7 @@ location represents a crucial aspect of the world's history, cosmology, or funda
 - [The First Dreamer]]
 - [[The First Water
 - [The Forgetting Bomb]]
-- 
+-
 - [[The Forgotten Court
 - [The Future Seer]]
 - [[The Grand Trade Routes
@@ -692,8 +692,8 @@ location represents a crucial aspect of the world's history, cosmology, or funda
 - [[Underwater_Monastery_Network (02_Worldbuilding)
 - [University Heights]]
 - [[Valley of Eternal Mourning
-- 
-- 
+-
+-
 - [Viscountess Helena Saltmere]]
 - [[Void Between Pressures
 - [Void Breaker Staffs]]
@@ -745,7 +745,7 @@ location represents a crucial aspect of the world's history, cosmology, or funda
 - [thri-kreen-marauder-xmm]]
 - [[treasure-hoard-challenge-17
 - [tyrannosaurus-rex-xmm]]
-- 
+-
 - [[water-weird-xmm
 - [Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
 - [[NPC00743_Ysara_Lightbringer_the_Broken
@@ -774,8 +774,8 @@ location represents a crucial aspect of the world's history, cosmology, or funda
 - [Archaeological Society]]
 - [[Archdeacon Felix Faithkeeper
 - [Archdruid Marina Kelpweaver]]
-- 
-- 
+-
+-
 - [[Archivist Elena Sorrowkeeper
 - [Archivist Reef Bookkeeper]]
 - [[Archkeeper Nereon
@@ -1331,7 +1331,7 @@ location represents a crucial aspect of the world's history, cosmology, or funda
 - [[Terminal Master Hadrian Depthbridge
 - [Tethyan Hegemony]]
 - [[The Aether Works
-- 
+-
 - [The Azure Coast]]
 - [[The Bone Colosseum
 - [The Bone Palace of Sorrows]]
@@ -1373,7 +1373,7 @@ location represents a crucial aspect of the world's history, cosmology, or funda
 - [The Frozen Throne]]
 - [[The Gloom Gardens
 - [The Golden Trade Route]]
-- 
+-
 - [[The Grand Bazaar of Echoing Coins
 - [The Great Drowning]]
 - [[The Great Sky Harbor

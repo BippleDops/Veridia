@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple Guardian Marcus the Drowned V1 Temple
   Guardian Marcus the Drowned.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple guardian marcus the drowned v1
   temple guardian marcus the drownedsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -192,7 +192,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

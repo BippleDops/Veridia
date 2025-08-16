@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper luminous crystalbeam v1 keeper luminous crystalbeamsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper Luminous Crystalbeam V1 Keeper Luminous Crystalbeam.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: The Lock
 type: Location
-tags: 
+tags:
 - fortress
 - aquabyssos
 - deep
@@ -130,7 +130,7 @@ Each tower corresponds to one matrix of the Great Seal:
 - Contains [Aethermoor]] embassy chambers
 - Requires constant magical maintece
 
-**Crystal Tower** 
+**Crystal Tower**
 - Central repository for [[Depth Crystals
 - Managed by [Master Crystallographer Orion Deepmine]]
 - Crystal gardens that grow reality-stabilizing formations
@@ -198,7 +198,7 @@ Living quarters designed for extreme psychological pressure:
 
 Every member undergoes [The Deep Binding]], a ritual that:
 - Provides immunity to deep-pressure psychological effects
-- Creates mental shields against entity influence  
+- Creates mental shields against entity influence
 - Links consciousness partially to the barrier itself
 - Ensures loyalty even beyond death
 - Prevents information leaks about true threats
@@ -293,7 +293,7 @@ Evidence suggests The Lock is not unique:
 ### Emergency Response
 1. **Barrier Breach** - Respond to localized failure in the Great Seal
 2. **Entity Incursion** - Deal with creatures that have somehow crossed over
-3. **Internal Sabotage** - Root out compromised personnel or infiltrators  
+3. **Internal Sabotage** - Root out compromised personnel or infiltrators
 4. **Admiral's Crisis** - Manage command transition as leader transforms
 
 ### Special Equipment
@@ -306,7 +306,7 @@ Evidence suggests The Lock is not unique:
 
 **Void Walker Gear**
 - Functions in non-reality environments
-- Provides life support in impossible conditions  
+- Provides life support in impossible conditions
 - Includes weapons that can harm non-physical entities
 - Communication devices that work across dimensions
 
@@ -360,7 +360,7 @@ Evidence suggests The Lock is not unique:
 
 ### Critical Systems
 1. **Crown Matrix** - Reality stabilization
-2. **Depth Crystal Core** - Power generation  
+2. **Depth Crystal Core** - Power generation
 3. **Memory Anchor** - Historical connection
 4. **Will Ward** - Psychological reinforcement
 5. **Paradox Engine** - Impossible physics
@@ -464,7 +464,7 @@ The Lock was established in the distant past, growing from humble beginnings to 
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

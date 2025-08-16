@@ -2,7 +2,7 @@
 
 title: Aethermoor - Session 01 Blood in the Harbor
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

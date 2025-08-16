@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Law Enforcement Law Enforcement.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city law enforcement law enforcementsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

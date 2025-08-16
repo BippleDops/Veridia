@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Sunken Library of Thalassius the Sunken
   Library of Thalassius.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sunken library of thalassius the
   sunken library of thalassiussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Dock Boss Marina Irongrip Dock Boss Marina Irongrip.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city dock boss marina irongrip dock boss
   marina irongripsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

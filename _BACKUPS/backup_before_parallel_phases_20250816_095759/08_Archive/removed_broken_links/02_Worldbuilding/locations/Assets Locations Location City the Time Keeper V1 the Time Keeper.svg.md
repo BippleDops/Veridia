@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Time Keeper V1 the Time Keeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the time keeper v1 the time keepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

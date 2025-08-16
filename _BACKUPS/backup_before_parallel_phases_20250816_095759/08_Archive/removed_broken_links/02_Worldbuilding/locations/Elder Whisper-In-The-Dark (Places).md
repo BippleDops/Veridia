@@ -2,7 +2,7 @@
 
 title: [[Assets Portraits Portrait NPC Elder Whisper in the Dark Elder Whisper in the Dark.svg|Elder Whisper In The Dark
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -153,7 +153,7 @@ Ongoing situations affecting Elder Whisper-In-The-Dark:
 - **Dragon**: gem
   - Traits: standard
   - CR Range: 6
-  
+
 ### [[Environmental Hazards
 - Magical ward
 - **DC 15** to detect

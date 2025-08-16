@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Family Retaine Family Retaine.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry family retaine family retainesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -1,11 +1,11 @@
 ---
 
 title: The Order of the Azure Flame
-aliases: 
+aliases:
 - Azure Flame
 - The Order
 type: Faction
-tags: 
+tags:
 - both
 - mechanics/magic
 - content/faction

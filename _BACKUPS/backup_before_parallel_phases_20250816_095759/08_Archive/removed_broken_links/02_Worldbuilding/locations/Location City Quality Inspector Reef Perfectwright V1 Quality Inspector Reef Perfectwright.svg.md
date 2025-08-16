@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city quality inspector reef perfectwright v1 quality inspector reef perfectwrightsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Quality Inspector Reef Perfectwright V1 Quality Inspector Reef
   Perfectwright.svg

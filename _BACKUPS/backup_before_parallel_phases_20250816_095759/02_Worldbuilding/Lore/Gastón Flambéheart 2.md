@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags: 
+tags:
 - active
 - dimensional nexus (both realms)
 - dimensional-nexus-(both-realms)

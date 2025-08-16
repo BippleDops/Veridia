@@ -2,7 +2,7 @@
 
 title: The Shadow Trade Network
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction
@@ -100,7 +100,7 @@ The Network formed during the early years following the Great Drowning, when off
 ### The Shadow Innovation
 Early smugglers discovered that shadow magic could:
 - Hide contraband from conventional inspection methods
-- Create temporary storage spaces in shadow-dimension  
+- Create temporary storage spaces in shadow-dimension
 - Enable rapid transportation without using monitored routes
 - Provide secure communication networks for criminal coordination
 - Establish meeting places undetectable by authorities
@@ -112,7 +112,7 @@ Early smugglers discovered that shadow magic could:
 - High risk of detection and imprisonment
 - Basic shadow magic techniques, mostly improvised
 
-**Phase 2 - Criminal Cooperation (Years 6-15)**  
+**Phase 2 - Criminal Cooperation (Years 6-15)**
 - Formation of loose alliances and mutual protection agreements
 - Shared resources and coordinated operations
 - Development of standardized shadow magic techniques
@@ -134,7 +134,7 @@ Early smugglers discovered that shadow magic could:
 
 #### Deep Market Operations (Lower [Aquabyssos]])
 **Territory**: Forgotten districts and abandoned areas in city depths
-**Population**: 150 active members plus 800 affiliated criminals and customers  
+**Population**: 150 active members plus 800 affiliated criminals and customers
 **Specialization**: Basic contraband, survival supplies, illegal services
 **Leadership**: **Regional Manager Deepmerchant**
 **Key Facilities**: The Forgotten Bazaar, Shadow Storage Vaults, Underground Meeting Halls
@@ -143,7 +143,7 @@ Early smugglers discovered that shadow magic could:
 **Territory**: Merchant areas and mixed residential/commercial zones
 **Population**: 120 active members plus 1,200 customers and affiliates
 **Specialization**: Luxury contraband, information trading, high-value services
-**Leadership**: **Regional Manager Middletrade**  
+**Leadership**: **Regional Manager Middletrade**
 **Key Facilities**: The Veiled Market, Secure Transaction Centers, Discrete Service Locations
 
 #### Surface Shadow Trade (Upper City Areas)
@@ -166,7 +166,7 @@ Early smugglers discovered that shadow magic could:
 **Key Services**: Weapons, drugs, magical components, forbidden texts, stolen goods
 **Leadership**: **Division Chief Blackgoods**
 
-#### Information Brokerage Division  
+#### Information Brokerage Division
 **Primary Function**: Collection, analysis, and sale of sensitive information
 **Membership**: 80+ intelligence specialists, informants, and analysts
 **Key Services**: Government secrets, personal blackmail material, commercial intelligence, criminal intelligence
@@ -283,7 +283,7 @@ Early smugglers discovered that shadow magic could:
 **Current Status**: Limited but valuable partnership with potential for expansion
 
 #### **Local Criminal Gangs**
-**Relationship**: Subcontractors and territorial partners  
+**Relationship**: Subcontractors and territorial partners
 **Cooperation Areas**: Street-level operations, muscle for enforcement, local intelligence
 **Benefits**: Territorial control, reduced operational costs, local expertise
 **Challenges**: Gang instability, territorial disputes, loyalty questions
@@ -365,7 +365,7 @@ Early smugglers discovered that shadow magic could:
 
 10. **The Customer Dilemma**: Character's friend or family member is Network customer, creating personal and legal conflicts.
 
-### Action and Combat Adventures  
+### Action and Combat Adventures
 
 11. **The Raid Response**: Characters caught in Network facility during law enforcement raid, must escape while avoiding both criminals and police.
 

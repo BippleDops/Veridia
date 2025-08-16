@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Twilight Gardens V1 the Twilight Gardens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the twilight gardens v1 the twilight
   gardenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,28 +1,28 @@
 ---
 type: npc
-name: 
-campaign: 
+name:
+campaign:
 status: active
-location: 
-created: 
+location:
+created:
 tags: [npc]
 ---
 
-# 
+#
 
 ## Basic Information
-- **Race:** 
-- **Class:** 
-- **Alignment:** 
-- **Location:** 
+- **Race:**
+- **Class:**
+- **Alignment:**
+- **Location:**
 
 ## Appearance
 
 ## Personality
-- **Personality Traits:** 
-- **Ideals:** 
-- **Bonds:** 
-- **Flaws:** 
+- **Personality Traits:**
+- **Ideals:**
+- **Bonds:**
+- **Flaws:**
 
 ## Background
 

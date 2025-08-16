@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Crystal Powered Vessels V1 Crystal Powered Vessels.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal powered vessels v1 crystal powered
   vesselssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

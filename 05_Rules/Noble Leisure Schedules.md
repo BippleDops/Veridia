@@ -1,7 +1,7 @@
 ---
 title: Noble Leisure Schedules
 type: [[Lore
-tags: 
+tags:
 - lore
 - mechanics/social
 - both

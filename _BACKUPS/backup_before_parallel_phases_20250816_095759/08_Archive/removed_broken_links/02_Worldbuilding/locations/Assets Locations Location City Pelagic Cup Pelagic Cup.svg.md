@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pelagic Cup Pelagic Cup.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pelagic cup pelagic cupsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

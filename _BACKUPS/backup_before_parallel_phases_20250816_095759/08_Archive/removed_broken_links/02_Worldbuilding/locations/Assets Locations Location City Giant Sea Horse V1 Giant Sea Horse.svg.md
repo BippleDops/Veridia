@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Giant Sea Horse V1 Giant Sea Horse.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city giant sea horse v1 giant sea horsesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

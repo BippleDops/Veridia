@@ -2,7 +2,7 @@
 
 title: Buying a Magic Item Magic Item Price Xge
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

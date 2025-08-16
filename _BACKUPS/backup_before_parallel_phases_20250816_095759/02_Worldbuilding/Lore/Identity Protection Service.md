@@ -2,7 +2,7 @@
 
 title: Identity Protection Service
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

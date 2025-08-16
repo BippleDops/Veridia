@@ -2,7 +2,7 @@
 
 title: The Grand Trade Routes
 type: [[Lore
-tags: 
+tags:
 - economy
 - lore
 - both
@@ -110,7 +110,7 @@ The Grand Trade Routes represent the most lucrative and dangerous commercial [pa
 **Risk Level**: Moderate (well-patrolled but high-value targets)
 **Profit Margins**: 300-500% on luxury goods, 50-100% on bulk commodities
 
-**Key Goods**: 
+**Key Goods**:
 - **Surface to Deep**: Crystal refinements, surface grains, textiles, metals, preserved foods
 - **Deep to Surface**: [Memory Pearls]], pressure-forged items, bio-luminescent materials, deep-sea delicacies, ancient artifacts
 
@@ -133,7 +133,7 @@ The Grand Trade Routes represent the most lucrative and dangerous commercial [pa
 **Risk Level**: Lethal ([Environmental Hazards]], deep-sea monsters, pressure extremes)
 **Profit Margins**: 2000-5000% on successful runs
 
-**Key Features**: 
+**Key Features**:
 - Requires specialized pressure vessels and magical protection
 - Access to [[Ancient Ruins|Deep [Ancient Ruins]] and their technological treasures
 - Controlled by select members of [[The Current Merchants' inner circle
@@ -152,7 +152,7 @@ The Grand Trade Routes represent the most lucrative and dangerous commercial [pa
 
 **Base Travel Time** is modified by:
 - **Route Condition** (-25% to +100% travel time)
-- **Weather/Storms** (-10% to +200% travel time)  
+- **Weather/Storms** (-10% to +200% travel time)
 - **Vessel Quality** (-30% to +50% travel time)
 - **Navigator Skill** (-20% to +30% travel time)
 - **Cargo Load** (0% to +40% travel time for overloaded vessels)
@@ -178,7 +178,7 @@ Each route segment has risk factors rated 1-10:
 
 **Transport Costs**:
 - Safe routes: 5-10% of cargo value
-- Moderate routes: 10-20% of cargo value  
+- Moderate routes: 10-20% of cargo value
 - Dangerous routes: 20-40% of cargo value
 - Extreme routes: 40-80% of cargo value
 
@@ -195,7 +195,7 @@ Each route segment has risk factors rated 1-10:
 **Volume**: Hundreds of tons per shipment
 **Risk Tolerance**: Low (use safest routes)
 
-### Tier 2 Manufactured Goods (Medium Volume, Medium Margin)  
+### Tier 2 Manufactured Goods (Medium Volume, Medium Margin)
 
 **Examples**: Quality textiles, jewelry, weapons, furniture
 **Typical Margins**: 100-200%
@@ -222,14 +222,14 @@ Each route segment has risk factors rated 1-10:
 **Harbor Capacity**: 200+ large vessels simultaneously
 **Storage**: 2 million cubic feet of warehouse space
 **Services**: Full repair facilities, magical enhancement, crystal refinement, banking
-**Notable Features**: 
+**Notable Features**:
 - [The Meridian Exchange]] - Primary crystal trading floor
 - [[The Five Towers - [Merchant Princes]] headquarters
 - [[Goldwave Academy - Premier navigation and trade school
 
 #### [The Deep Markets]] - Aquabyssos Commercial Center
 
-**Population**: 300,000+  
+**Population**: 300,000+
 **Harbor Capacity**: 150+ vessels (optimized for underwater craft)
 **Storage**: Pressure-sealed vaults for sensitive goods
 **Services**: Current-riding dock systems, bio-luminescent cargo tracking
@@ -244,7 +244,7 @@ Each route segment has risk factors rated 1-10:
 **Specialization**: Processing raw crystals into tradeable grades
 **Control**: Joint [[Merchant Princes and [12 Research]] operation
 
-#### Deepwatch Outpost  
+#### Deepwatch Outpost
 
 **Function**: Deep-route navigation and emergency services
 **Specialization**: Rescue operations, route intelligence, pressure equipment
@@ -274,7 +274,7 @@ Each route segment has risk factors rated 1-10:
 
 #### The Current Maze
 
-**Location**: Mid-depth oceanic channels  
+**Location**: Mid-depth oceanic channels
 **Hazard**: Constantly shifting underwater currents that trap vessels
 **Frequency**: Seasonal variations
 **Mitigation**: Current-sight navigation, [The Current Merchants]] guides
@@ -327,7 +327,7 @@ Each route segment has risk factors rated 1-10:
 
 ### High Season (Spring/Summer)
 
-**Characteristics**: 
+**Characteristics**:
 - Optimal weather conditions
 - Increased demand for luxury goods
 - Higher volume, moderate margins
@@ -340,7 +340,7 @@ Each route segment has risk factors rated 1-10:
 
 **Characteristics**:
 - Hazardous weather patterns
-- Reduced route availability  
+- Reduced route availability
 - High risk, high reward opportunities
 - Decreased law enforcement presence
 - Emergency supply runs
@@ -383,7 +383,7 @@ Each route segment has risk factors rated 1-10:
 1. **Roll `dice: 1d6` for Base Route**:
    - 1-2: Golden Circuit (standard)
    - 3-4: Secondary established route
-   - 5: New/experimental route  
+   - 5: New/experimental route
    - 6: Shadow/illegal route
 
 2. **Roll `dice: 1d8` for Current Conditions**:
@@ -396,14 +396,14 @@ Each route segment has risk factors rated 1-10:
 
 3. **Roll `dice: 1d10` for Cargo Type**:
    - 1-4: Tier 1 Commodities (low risk, low margin)
-   - 5-7: Tier 2 Manufactured (medium risk/margin)  
+   - 5-7: Tier 2 Manufactured (medium risk/margin)
    - 8-9: Tier 3 Luxury (high risk/margin)
    - 10: Tier 4 Contraband (extreme risk/margin)
 
 ### Route Profitability Calculator
 
 **Step 1**: Determine base cargo value
-**Step 2**: Apply route risk multiplier (1.2x to 5x)  
+**Step 2**: Apply route risk multiplier (1.2x to 5x)
 **Step 3**: Subtract transport costs (5% to 80%)
 **Step 4**: Subtract insurance (1% to 50%)
 **Step 5**: Apply market demand modifier (0.5x to 3x)
@@ -413,7 +413,7 @@ Each route segment has risk factors rated 1-10:
 
 1-5: Routine patrol check (no complications)
 6-8: Weather delays (`dice: 1d4` extra days)
-9-11: Merchant competition (potential trade opportunities)  
+9-11: Merchant competition (potential trade opportunities)
 12-14: Pirates sighted (may avoid with successful checks)
 15-16: Mechanical problems (repair costs and delays)
 17-18: Political checkpoint (bribes or delays)
@@ -459,7 +459,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

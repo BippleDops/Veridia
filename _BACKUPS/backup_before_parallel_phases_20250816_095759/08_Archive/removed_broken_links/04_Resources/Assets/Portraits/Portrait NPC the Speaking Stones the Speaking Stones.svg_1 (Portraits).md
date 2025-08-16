@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the speaking stones the speaking stonessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Speaking Stones the Speaking Stones.svg
 type: npc

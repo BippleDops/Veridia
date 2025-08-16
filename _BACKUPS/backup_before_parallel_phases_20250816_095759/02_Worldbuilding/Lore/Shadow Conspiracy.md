@@ -2,7 +2,7 @@
 
 title: Shadow Conspiracy
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline
@@ -351,7 +351,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - [[NPC_Reactions
 - [NPC_Relationship_Web.png]]
 - [[NPC_Relationship_Web.png_1 (03_People)
-- 
+-
 - [Archivist Spectrum Memorykeeper]]
 - [[Captain Azure Windcaller
 - [Captain Nerion Pearlshield]]

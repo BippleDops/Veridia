@@ -1,12 +1,12 @@
 ---
 
 title: Comprehensive World Connection Guide
-aliases: 
+aliases:
 - World Connection Guide
 - Realm Merger Guide
 - [[Aquabyssos-[Aethermoor]] Bridge
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - both
@@ -92,14 +92,14 @@ improvements: 20
 
 ## 📊 Campaign Status Tracker
 ```dataview
-TABLE 
+TABLE
   status as "Merger Status",
-  depth as "Current Depth", 
+  depth as "Current Depth",
   corruption_exposure as "Crystal Level",
   ap_gained as "Adaptation Points"
 FROM # session
 
-WHERE campaign = "Aethermoor - The Plague of Crystals" 
+WHERE campaign = "Aethermoor - The Plague of Crystals"
   OR campaign = "The Parliament of Shadows"
 SORT session_number DESC
 LIMIT 5
@@ -619,7 +619,7 @@ Remember: In [The Space Between Worlds]], identity itself becomes fluid. Use thi
 The merger isn't just about two worlds colliding—it's about what it means to be human when humanity itself is negotiable.
 
 > *"In the depths, we discover what rises. On the surface, we learn what sinks. Between them, we choose what remains."*
-> 
+>
 > — Final entry, Chronicles of the Convergence
 
 ---

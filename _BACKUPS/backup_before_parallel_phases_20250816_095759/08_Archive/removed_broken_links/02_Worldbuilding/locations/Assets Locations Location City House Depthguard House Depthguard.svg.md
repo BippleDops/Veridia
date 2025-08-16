@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City House Depthguard House Depthguard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city house depthguard house depthguardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

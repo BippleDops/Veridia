@@ -2,7 +2,7 @@
 
 title: White Dragon Scale Mail Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

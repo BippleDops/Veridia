@@ -2,7 +2,7 @@
 
 title: Shard Corruption Mechanics
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

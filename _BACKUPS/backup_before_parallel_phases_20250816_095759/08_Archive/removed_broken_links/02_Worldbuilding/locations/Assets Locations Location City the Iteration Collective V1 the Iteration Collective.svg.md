@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Iteration Collective V1 the Iteration Collective.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the iteration collective v1 the iteration
   collectivesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

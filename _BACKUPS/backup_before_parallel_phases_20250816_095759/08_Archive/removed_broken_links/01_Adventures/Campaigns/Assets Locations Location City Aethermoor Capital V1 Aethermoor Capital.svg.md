@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Aethermoor Capital V1 Aethermoor Capital.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city aethermoor capital v1 aethermoor capitalsvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor

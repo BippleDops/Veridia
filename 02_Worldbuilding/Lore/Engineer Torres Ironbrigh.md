@@ -2,7 +2,7 @@
 
 title: Engineer Torres Ironbrigh
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

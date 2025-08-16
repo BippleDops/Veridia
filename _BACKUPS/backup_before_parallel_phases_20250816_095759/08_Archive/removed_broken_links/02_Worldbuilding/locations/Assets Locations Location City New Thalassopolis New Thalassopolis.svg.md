@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City New Thalassopolis New Thalassopolis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city new thalassopolis new thalassopolissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

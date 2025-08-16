@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Anti Smuggling Operations V1 Anti Smuggling
   Operations.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city anti smuggling operations v1 anti smuggling
   operationssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Deep Energy Consortium
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

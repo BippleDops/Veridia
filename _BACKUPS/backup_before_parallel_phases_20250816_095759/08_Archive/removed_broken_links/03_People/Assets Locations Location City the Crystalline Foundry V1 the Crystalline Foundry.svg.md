@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Crystalline Foundry V1 the Crystalline Foundry.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystalline foundry v1 the crystalline
   foundrysvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Underground Testing Facility Underground Testing
   Facility.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc underground testing facility underground
   testing facilitysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

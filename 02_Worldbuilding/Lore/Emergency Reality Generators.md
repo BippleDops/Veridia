@@ -2,7 +2,7 @@
 
 title: Emergency Reality Generators
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

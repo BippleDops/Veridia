@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city futures master economic sense futures master economic sensesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Futures Master Economic Sense Futures Master Economic Sense.svg
 type: location

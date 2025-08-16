@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Education Department V1 Education Department.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city education department v1 education departmentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

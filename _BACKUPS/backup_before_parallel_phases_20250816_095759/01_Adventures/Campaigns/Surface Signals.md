@@ -2,7 +2,7 @@
 
 title: Surface Signals
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - status/complete
 - aquatic
@@ -20,12 +20,12 @@ modified: '2025-08-14'
 status: complete
 [[region: Unknown
 population: Unknown
-accessibility: 
-  content_warnings: 
+accessibility:
+  content_warnings:
   - political coercion
   - [Environmental Hazards]]
   pronunciation: Surface Signals
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door

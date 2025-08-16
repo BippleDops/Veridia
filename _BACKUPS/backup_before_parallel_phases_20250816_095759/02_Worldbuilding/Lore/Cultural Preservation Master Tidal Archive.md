@@ -1,7 +1,7 @@
 ---
 created: 2025-08-14
 modified: '2025-08-14'
-tags: 
+tags:
 - [[Lore
 title: [Cultural Preservation]] Master Tidal Archive
 type: lore

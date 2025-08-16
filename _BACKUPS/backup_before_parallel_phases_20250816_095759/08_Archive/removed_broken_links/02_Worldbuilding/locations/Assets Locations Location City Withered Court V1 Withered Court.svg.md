@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Withered Court V1 Withered Court.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city withered court v1 withered courtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

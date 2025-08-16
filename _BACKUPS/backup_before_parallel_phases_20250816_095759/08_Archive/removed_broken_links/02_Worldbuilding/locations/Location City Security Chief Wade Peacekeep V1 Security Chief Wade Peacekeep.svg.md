@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city security chief wade peacekeep v1 security chief wade peacekeepsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Security Chief Wade Peacekeep V1 Security Chief Wade Peacekeep.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: Arcane Master Voidweav
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

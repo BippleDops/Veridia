@@ -1,7 +1,7 @@
 ---
 title: Withered Court
 type: Location
-tags: 
+tags:
 - world/surface
 - status/complete
 - content/faction

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Artificer S Row V1 Artificer S Row.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city artificer s row v1 artificer s rowsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Bloodtide Brotherhood
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

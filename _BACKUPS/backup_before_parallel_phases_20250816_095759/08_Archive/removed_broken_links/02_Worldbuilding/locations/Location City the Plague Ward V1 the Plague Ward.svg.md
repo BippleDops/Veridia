@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the plague ward v1 the plague wardsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Plague Ward V1 the Plague Ward.svg
 type: location

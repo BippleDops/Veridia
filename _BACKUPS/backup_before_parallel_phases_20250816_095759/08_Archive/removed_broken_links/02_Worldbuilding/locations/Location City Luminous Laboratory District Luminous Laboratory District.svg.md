@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city luminous laboratory district luminous laboratory districtsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Luminous Laboratory District Luminous Laboratory District.svg
 type: location

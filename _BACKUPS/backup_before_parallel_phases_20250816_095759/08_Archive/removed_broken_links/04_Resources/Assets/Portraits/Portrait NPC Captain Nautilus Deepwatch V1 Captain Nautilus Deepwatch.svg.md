@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain nautilus deepwatch v1 captain nautilus deepwatchsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Nautilus Deepwatch V1 Captain Nautilus Deepwatch.svg
 type: npc

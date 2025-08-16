@@ -2,7 +2,7 @@
 
 title: Public Works Director Boris Bridgewright
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

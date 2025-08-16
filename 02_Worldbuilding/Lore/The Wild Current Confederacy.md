@@ -2,7 +2,7 @@
 
 title: The Wild Current Confederacy
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - historical-event

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc director of experimental procedures dr siren voidtouch v2 director
   of experimental procedures dr siren voidtouchsvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch V2 Director
   of Experimental Procedures Dr Siren Voidtouch.svg

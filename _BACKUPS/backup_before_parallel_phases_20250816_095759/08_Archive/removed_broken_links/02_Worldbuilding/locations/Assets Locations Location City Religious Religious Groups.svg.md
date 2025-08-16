@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Religious Religious Groups.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city religious groups religious groupssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

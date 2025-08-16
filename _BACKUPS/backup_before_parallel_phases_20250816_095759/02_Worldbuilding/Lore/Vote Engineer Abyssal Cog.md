@@ -2,7 +2,7 @@
 
 title: Vote Engineer Abyssal Cog
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

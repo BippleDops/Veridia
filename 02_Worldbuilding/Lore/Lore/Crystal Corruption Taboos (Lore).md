@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Crystal Corruption Taboos
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -116,7 +116,7 @@ Mentioned in The Hidden Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

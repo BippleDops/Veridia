@@ -2,7 +2,7 @@
 
 title: Crisis Response Service
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

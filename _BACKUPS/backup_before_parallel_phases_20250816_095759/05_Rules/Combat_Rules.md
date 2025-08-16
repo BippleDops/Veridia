@@ -3,7 +3,7 @@ enhanced: true
 
 title: Combat Rules
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

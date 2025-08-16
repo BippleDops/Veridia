@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city kelp based brewing v1 kelp based brewingsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Kelp Based Brewing V1 Kelp Based Brewing.svg
 type: location

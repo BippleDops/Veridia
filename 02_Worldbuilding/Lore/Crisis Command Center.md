@@ -2,7 +2,7 @@
 
 title: Crisis Command Center
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

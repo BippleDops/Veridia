@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the scattered emperor v1 the scattered emperorsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Scattered Emperor V1 the Scattered Emperor.svg
 type: npc

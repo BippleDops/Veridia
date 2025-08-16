@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Sorrow Gardens V1 the Sorrow Gardens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sorrow gardens v1 the sorrow gardenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -209,7 +209,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

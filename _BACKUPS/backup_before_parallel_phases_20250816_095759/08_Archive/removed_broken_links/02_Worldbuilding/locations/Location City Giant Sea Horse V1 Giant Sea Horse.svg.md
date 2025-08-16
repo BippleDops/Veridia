@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city giant sea horse v1 giant sea horsesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Giant Sea Horse V1 Giant Sea Horse.svg
 type: location

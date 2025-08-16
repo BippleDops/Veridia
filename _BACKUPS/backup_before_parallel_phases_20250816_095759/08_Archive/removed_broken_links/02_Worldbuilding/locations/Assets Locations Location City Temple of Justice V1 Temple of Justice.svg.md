@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temple of Justice V1 Temple of Justice.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of justice v1 temple of justicesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Democratic Balance Quest the Democratic
   Balance.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the democratic balance quest the
   democratic balancesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

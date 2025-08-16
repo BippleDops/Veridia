@@ -1,7 +1,7 @@
 ---
 title: Infected [[Npc Database
 type: npc
-tags: 
+tags:
 - npc
 - elf
 - warlock

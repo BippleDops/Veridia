@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city golden coral golden coralsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: location city golden coral golden coral.svg
 type: location

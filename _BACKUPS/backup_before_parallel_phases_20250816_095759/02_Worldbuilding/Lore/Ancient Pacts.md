@@ -2,7 +2,7 @@
 
 title: Ancient Pacts
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

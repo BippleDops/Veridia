@@ -2,7 +2,7 @@
 
 title: Nereidios
 type: [[location
-tags: 
+tags:
 - both
 - world/surface
 - world/[Aquabyssos]]

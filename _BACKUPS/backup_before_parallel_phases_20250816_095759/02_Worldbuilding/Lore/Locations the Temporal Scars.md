@@ -2,7 +2,7 @@
 
 title: [[locations the Temporal Scars
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

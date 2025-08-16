@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Vote Vault Mystery the Vote Vault Mystery.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the vote vault mystery the vote vault
   mysterysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

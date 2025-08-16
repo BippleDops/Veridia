@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc investigator supreme lucian brightwater v1 investigator supreme lucian
   brightwatersvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Investigator Supreme Lucian Brightwater V1 Investigator Supreme
   Lucian Brightwater.svg

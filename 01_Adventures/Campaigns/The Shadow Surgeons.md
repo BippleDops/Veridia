@@ -1,7 +1,7 @@
 ---
 title: The Shadow Surgeons
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - medical
 - status/complete

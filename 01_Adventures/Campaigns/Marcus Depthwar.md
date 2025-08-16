@@ -2,7 +2,7 @@
 
 title: Marcus Depthwar
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

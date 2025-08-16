@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the suicide bridges the suicide bridgessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Suicide Bridges the Suicide Bridges.svg
 type: location

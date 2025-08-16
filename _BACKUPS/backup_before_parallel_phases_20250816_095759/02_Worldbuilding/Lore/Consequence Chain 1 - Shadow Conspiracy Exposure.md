@@ -2,7 +2,7 @@
 
 title: Consequence Chain 1   [[Shadow Conspiracy Exposure
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - session-notes
@@ -22,7 +22,7 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:35.136916+00:00'
 magnitude: 4
 visibility: 3
-primary_sessions: 
+primary_sessions:
 - 'Session 03: Gallery Conspiracy'
 - 'Session 06: Silhouette Surgeons'
 evaluated: '2025-08-14'

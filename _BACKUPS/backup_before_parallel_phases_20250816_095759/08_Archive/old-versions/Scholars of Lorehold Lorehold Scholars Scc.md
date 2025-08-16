@@ -2,7 +2,7 @@
 
 title: Scholars of Lorehold Lorehold Scholars Scc
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

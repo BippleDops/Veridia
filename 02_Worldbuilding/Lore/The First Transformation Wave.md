@@ -2,7 +2,7 @@
 
 title: The First Transformation Wave
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

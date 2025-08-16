@@ -2,7 +2,7 @@
 
 title: Talisman of Pure Good Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

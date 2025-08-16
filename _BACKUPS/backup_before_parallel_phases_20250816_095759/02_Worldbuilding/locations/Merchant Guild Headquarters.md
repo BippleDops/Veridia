@@ -2,7 +2,7 @@
 
 title: Merchant Guild Headquarters
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

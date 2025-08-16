@@ -2,7 +2,7 @@
 
 title: The Overflow
 type: [[Lore
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

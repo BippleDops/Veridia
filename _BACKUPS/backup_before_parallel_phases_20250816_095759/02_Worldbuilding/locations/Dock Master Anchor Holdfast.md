@@ -2,7 +2,7 @@
 
 title: Dock Master Anchor Holdfast
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

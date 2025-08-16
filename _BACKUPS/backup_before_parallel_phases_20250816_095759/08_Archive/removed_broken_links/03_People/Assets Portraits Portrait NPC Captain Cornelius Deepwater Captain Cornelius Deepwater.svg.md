@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Captain Cornelius Deepwater Captain Cornelius
   Deepwater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain cornelius deepwater captain cornelius
   deepwatersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

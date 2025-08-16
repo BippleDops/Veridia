@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tide Bondkeeper Tide Bondkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tide bondkeeper tide bondkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

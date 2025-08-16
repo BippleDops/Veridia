@@ -1,7 +1,7 @@
 ---
 title: Archivist Spectrum Memorykeeper
 type: npc
-tags: 
+tags:
 - npc
 - dragonborn
 - rogue

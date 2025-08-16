@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc lord commander steelborn lord commander
   steelbornsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

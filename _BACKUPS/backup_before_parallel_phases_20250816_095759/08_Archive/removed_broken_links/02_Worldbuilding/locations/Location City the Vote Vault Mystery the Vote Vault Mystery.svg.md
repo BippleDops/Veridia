@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the vote vault mystery the vote vault mysterysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Vote Vault Mystery the Vote Vault Mystery.svg
 type: location

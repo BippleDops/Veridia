@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Dolphin Dolphin.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city dolphin dolphinsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -183,7 +183,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

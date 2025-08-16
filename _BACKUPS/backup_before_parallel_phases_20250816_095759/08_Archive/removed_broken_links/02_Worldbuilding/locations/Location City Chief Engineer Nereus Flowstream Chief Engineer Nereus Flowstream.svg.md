@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city chief engineer nereus flowstream chief engineer nereus flowstreamsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Chief Engineer Nereus Flowstream Chief Engineer Nereus Flowstream.svg
 type: location

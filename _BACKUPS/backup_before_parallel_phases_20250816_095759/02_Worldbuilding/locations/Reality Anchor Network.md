@@ -2,7 +2,7 @@
 
 title: Reality Anchor Network
 type: [[location
-tags: 
+tags:
 - mechanics/skill
 - reality-anchors
 - status/complete
@@ -484,7 +484,7 @@ Ongoing situations affecting Reality Anchor Network:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

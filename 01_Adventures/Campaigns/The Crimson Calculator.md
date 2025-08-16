@@ -2,7 +2,7 @@
 
 title: The Crimson Calculator
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

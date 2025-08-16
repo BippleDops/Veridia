@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Goldwave Ficial Offices Goldwave Ficial Offices.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc goldwave ficial offices goldwave ficial
   officessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

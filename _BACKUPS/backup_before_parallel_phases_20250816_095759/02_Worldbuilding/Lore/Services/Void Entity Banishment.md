@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Void Entity Banishment
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

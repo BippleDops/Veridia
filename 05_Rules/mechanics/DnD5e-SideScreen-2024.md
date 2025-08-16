@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

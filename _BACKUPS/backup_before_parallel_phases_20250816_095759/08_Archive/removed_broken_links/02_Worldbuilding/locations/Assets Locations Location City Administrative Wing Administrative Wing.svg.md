@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Administrative Wing Administrative Wing.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city administrative wing administrative wingsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

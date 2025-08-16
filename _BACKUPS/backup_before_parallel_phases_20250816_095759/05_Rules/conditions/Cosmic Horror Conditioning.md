@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Cosmic Horror Conditioning
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

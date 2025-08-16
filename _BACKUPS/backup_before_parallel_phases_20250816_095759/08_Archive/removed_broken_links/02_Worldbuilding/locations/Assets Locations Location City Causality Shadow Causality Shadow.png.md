@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Causality Shadow Causality Shadow.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city causality shadow causality shadowpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

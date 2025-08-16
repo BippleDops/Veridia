@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the listener s code v1 the listener s codesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Listener S Code V1 the Listener S Code.svg
 type: location

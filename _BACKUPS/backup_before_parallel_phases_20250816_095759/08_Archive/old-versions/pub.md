@@ -1,11 +1,11 @@
 ---
 
 title: pub
-aliases: 
+aliases:
 - Pub
 
 type: note
-tags: 
+tags:
 - both
 - ttrpg-cli/bastion
 - research

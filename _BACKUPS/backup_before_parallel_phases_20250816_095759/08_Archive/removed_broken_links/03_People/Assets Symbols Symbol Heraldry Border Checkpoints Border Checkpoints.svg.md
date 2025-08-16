@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Border Checkpoints Border Checkpoints.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry border checkpoints border checkpointssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

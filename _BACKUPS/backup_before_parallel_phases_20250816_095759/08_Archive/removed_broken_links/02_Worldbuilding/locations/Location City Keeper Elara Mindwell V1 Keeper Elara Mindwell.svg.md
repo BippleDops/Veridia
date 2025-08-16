@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper elara mindwell v1 keeper elara mindwellsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper Elara Mindwell V1 Keeper Elara Mindwell.svg
 type: location

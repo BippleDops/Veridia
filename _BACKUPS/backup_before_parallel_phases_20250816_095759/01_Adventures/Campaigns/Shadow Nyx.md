@@ -2,7 +2,7 @@
 
 title: Shadow Nyx
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction
@@ -160,8 +160,8 @@ The Network maintains extensive networks of informants, assets, and contacts thr
 
 **Shadow Nyx**
 *Network Leader, 13th-level Rogue (Soulknife)*
-**Armor Class** 18 (Studded Leather + Dex + Magical)  
-**Hit Points** 97 (`dice: 13d8` + 39)  
+**Armor Class** 18 (Studded Leather + Dex + Magical)
+**Hit Points** 97 (`dice: 13d8` + 39)
 **Speed** 30 ft., Shadow Step 60 ft.
 **STR** 12 (+1) **DEX** 22 (+6) **CON** 16 (+3) **INT** 20 (+5) **WIS** 18 (+4) **CHA** 16 (+3)
 **Saving Throws** Dex +12, Int +11
@@ -176,8 +176,8 @@ The Network maintains extensive networks of informants, assets, and contacts thr
 
 **Whisper, Collection Chief**
 *Intelligence Operations Director, 11th-level Rogue (Phantom)*
-**Armor Class** 16 (Studded Leather + Dex)  
-**Hit Points** 82 (`dice: 11d8` + 33)  
+**Armor Class** 16 (Studded Leather + Dex)
+**Hit Points** 82 (`dice: 11d8` + 33)
 **Speed** 30 ft., Shadow Step 30 ft.
 **STR** 10 (+0) **DEX** 20 (+5) **CON** 16 (+3) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 14 (+2)
 **Saving Throws** Dex +9, Int +8
@@ -191,8 +191,8 @@ The Network maintains extensive networks of informants, assets, and contacts thr
 
 **Echo, Analysis Director**
 *Intelligence Analyst, 10th-level Divination Wizard*
-**Armor Class** 15 (Mage Armor + Dex)  
-**Hit Points** 68 (`dice: 10d6` + 30)  
+**Armor Class** 15 (Mage Armor + Dex)
+**Hit Points** 68 (`dice: 10d6` + 30)
 **Speed** 30 ft.
 **STR** 8 (-1) **DEX** 16 (+3) **CON** 16 (+3) **INT** 22 (+6) **WIS** 18 (+4) **CHA** 12 (+1)
 **Saving Throws** Int +10, Wis +8
@@ -206,8 +206,8 @@ The Network maintains extensive networks of informants, assets, and contacts thr
 
 **Shade, Operations Commander**
 *Active Measures Specialist, 9th-level Enchantment Wizard*
-**Armor Class** 14 (Mage Armor + Dex)  
-**Hit Points** 54 (`dice: 9d6` + 18)  
+**Armor Class** 14 (Mage Armor + Dex)
+**Hit Points** 54 (`dice: 9d6` + 18)
 **Speed** 30 ft.
 **STR** 10 (+0) **DEX** 16 (+3) **CON** 14 (+2) **INT** 20 (+5) **WIS** 15 (+2) **CHA** 18 (+4)
 **Saving Throws** Int +9, Wis +6
@@ -221,8 +221,8 @@ The Network maintains extensive networks of informants, assets, and contacts thr
 
 **Cipher, Technical Leader**
 *Communications Security Expert, 8th-level Artificer (Armorer)*
-**Armor Class** 16 (Studded Leather + Dex + Infusions)  
-**Hit Points** 72 (`dice: 8d8` + 32)  
+**Armor Class** 16 (Studded Leather + Dex + Infusions)
+**Hit Points** 72 (`dice: 8d8` + 32)
 **Speed** 30 ft.
 **STR** 12 (+1) **DEX** 16 (+3) **CON** 18 (+4) **INT** 20 (+5) **WIS** 14 (+2) **CHA** 10 (+0)
 **Saving Throws** Con +7, Int +8

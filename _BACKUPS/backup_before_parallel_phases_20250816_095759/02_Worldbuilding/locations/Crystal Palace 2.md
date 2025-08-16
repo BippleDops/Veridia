@@ -8,7 +8,7 @@ location_type: Royal Residence
 population: 500
 ruler: Crystal Sovereign Prism-Heart
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location
@@ -186,7 +186,7 @@ The current Crystal Sovereign, Prism-Heart the Radiant, has begun showing signs 
 
 ### Active Palace Intrigues
 - **The Succession Debate:** Three potential heirs with different visions for the kingdom's future
-- **The Crystal Merchants:** Economic faction seeking to commercialize palace crystal-growing techniques  
+- **The Crystal Merchants:** Economic faction seeking to commercialize palace crystal-growing techniques
 - **The Surface Sympathizers:** Political movement advocating for renewed contact with surface world
 - **The Purity Movement:** Faction opposed to any non-crystal architecture or technology
 

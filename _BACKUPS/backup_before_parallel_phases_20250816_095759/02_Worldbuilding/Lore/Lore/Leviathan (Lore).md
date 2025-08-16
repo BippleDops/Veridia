@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Leviathan
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the cerulean trench v1 the cerulean trenchsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Cerulean Trench V1 the Cerulean Trench.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Umbral Exchange the Umbral Exchange.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the umbral exchange the umbral exchangesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -227,7 +227,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

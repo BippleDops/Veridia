@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crimson Velocity V1 Crimson Velocity.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crimson velocity v1 crimson velocitysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -180,7 +180,7 @@ Key locations marked:
 - **Aberration**: aboleth
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 9
-  
+
 ### Environmental Hazards
 - Magical ward
 - **DC 11** to detect
@@ -198,7 +198,7 @@ Key locations marked:
 - **Recent History**: Plague 38 years ago
 - **Living Memory**: Wedding last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Festival in 20 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: Links to The Second Prophecy of Depths

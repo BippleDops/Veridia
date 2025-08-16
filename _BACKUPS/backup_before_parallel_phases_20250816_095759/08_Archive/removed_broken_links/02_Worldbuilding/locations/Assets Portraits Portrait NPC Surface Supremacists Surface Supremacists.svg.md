@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Surface Supremacists Surface Supremacists.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc surface supremacists surface supremacistssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Operations/Economic Pressure
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

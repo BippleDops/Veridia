@@ -1,7 +1,7 @@
 ---
 title: The [[Lighthouse_of_Storms|Lighthouse of Storms
 type: [Lore]]
-tags: 
+tags:
 - navigation
 - aquatic
 - mari[[Time

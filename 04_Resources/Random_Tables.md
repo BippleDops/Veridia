@@ -3,7 +3,7 @@ enhanced: true
 
 title: 04_Resources/Random_Tables
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 

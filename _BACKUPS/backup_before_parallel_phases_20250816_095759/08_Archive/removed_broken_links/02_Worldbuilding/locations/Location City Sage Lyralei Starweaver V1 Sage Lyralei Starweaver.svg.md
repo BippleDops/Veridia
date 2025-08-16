@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sage lyralei starweaver v1 sage lyralei starweaversvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Sage Lyralei Starweaver V1 Sage Lyralei Starweaver.svg
 type: location

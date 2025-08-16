@@ -2,7 +2,7 @@
 
 title: Void Realm Territories
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

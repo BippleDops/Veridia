@@ -2,7 +2,7 @@
 
 title: The Shadowmire Tavern
 type: Location
-tags: 
+tags:
 - mechanics/social
 - aquabyssos
 - status/complete
@@ -24,7 +24,7 @@ affiliation: Neutral Territory
 created_by: Claude
 danger_level: 2
 location_type: Tavern & Social Hub
-services: 
+services:
 - Food
 - Drink
 - Lodging

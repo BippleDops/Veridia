@@ -2,7 +2,7 @@
 
 title: Tide Welcomeheart
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

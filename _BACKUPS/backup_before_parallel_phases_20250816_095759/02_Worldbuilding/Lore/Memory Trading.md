@@ -2,7 +2,7 @@
 
 title: Memory Trading
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

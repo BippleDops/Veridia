@@ -2,7 +2,7 @@
 
 title: X-103_Leviathan_Mirror_Chase
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

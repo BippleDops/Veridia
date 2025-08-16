@@ -2,7 +2,7 @@
 
 title: M L-05 the Dream Sovereign Player
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: The Eel Keepers
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction

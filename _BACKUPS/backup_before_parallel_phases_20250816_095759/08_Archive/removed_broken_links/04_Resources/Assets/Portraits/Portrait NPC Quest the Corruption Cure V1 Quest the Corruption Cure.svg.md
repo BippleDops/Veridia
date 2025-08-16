@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the corruption cure v1 quest the corruption curesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Corruption Cure V1 Quest the Corruption Cure.svg
 type: npc

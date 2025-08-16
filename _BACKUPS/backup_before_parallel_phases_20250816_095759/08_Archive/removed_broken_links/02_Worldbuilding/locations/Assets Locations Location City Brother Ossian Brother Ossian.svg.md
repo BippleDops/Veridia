@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Brother Ossian Brother Ossian.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city brother ossian brother ossiansvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

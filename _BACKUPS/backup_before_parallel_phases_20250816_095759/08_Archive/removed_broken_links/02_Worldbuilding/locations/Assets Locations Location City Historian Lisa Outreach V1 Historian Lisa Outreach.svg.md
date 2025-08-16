@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Historian Lisa Outreach V1 Historian Lisa Outreach.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city historian lisa outreach v1 historian
   lisa outreachsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

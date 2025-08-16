@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Gareth Goldenheart the Chosen Vessel Gareth Goldenheart
   the Chosen Vessel.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc gareth goldenheart the chosen vessel
   gareth goldenheart the chosen vesselsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

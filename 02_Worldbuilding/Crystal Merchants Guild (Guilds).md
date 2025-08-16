@@ -2,7 +2,7 @@
 
 title: Crystal Merchants Guild
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

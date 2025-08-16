@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Echo Scribe Matthias Echo Scribe Matthias.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city echo scribe matthias echo scribe matthiassvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

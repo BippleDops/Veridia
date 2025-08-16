@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city military families support groups v1 military families support groupspng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Military Families Support V1 Military Families Support Groups.png
 type: location

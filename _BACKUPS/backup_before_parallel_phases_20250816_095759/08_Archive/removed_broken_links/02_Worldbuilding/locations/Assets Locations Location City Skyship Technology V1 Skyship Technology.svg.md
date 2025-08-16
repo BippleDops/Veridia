@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Skyship Technology V1 Skyship Technology.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city skyship technology v1 skyship technologysvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor
@@ -212,7 +212,7 @@ Mentioned in The Hidden Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

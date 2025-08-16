@@ -2,7 +2,7 @@
 
 title: The Dimensional Hospital
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore
@@ -129,7 +129,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

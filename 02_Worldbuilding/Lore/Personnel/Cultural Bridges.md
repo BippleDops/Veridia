@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Personnel/Cultural Bridges
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

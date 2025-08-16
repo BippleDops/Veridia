@@ -2,7 +2,7 @@
 
 title: [[Random Shop
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

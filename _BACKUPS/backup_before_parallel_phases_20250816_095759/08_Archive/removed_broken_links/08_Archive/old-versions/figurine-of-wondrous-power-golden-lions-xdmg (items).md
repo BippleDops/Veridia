@@ -2,7 +2,7 @@
 
 title: figurine-of-wondrous-power-golden-lions-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

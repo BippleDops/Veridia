@@ -2,7 +2,7 @@
 
 title: Admiral Marina Stormcrest
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -31,7 +31,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

@@ -2,7 +2,7 @@
 
 title: Protocol Expert Formal
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

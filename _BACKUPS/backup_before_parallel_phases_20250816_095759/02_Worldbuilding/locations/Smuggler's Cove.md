@@ -1,7 +1,7 @@
 ---
 title: Smuggler's Cove
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

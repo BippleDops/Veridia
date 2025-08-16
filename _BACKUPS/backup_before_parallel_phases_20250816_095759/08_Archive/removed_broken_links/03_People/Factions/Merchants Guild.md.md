@@ -1,10 +1,10 @@
 ---
 
 title: Merchants Guild.md
-aliases: 
+aliases:
 - 02 Worldbuilding Groups Merchants Guildmd
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization
@@ -208,7 +208,7 @@ What they claim to pursue
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

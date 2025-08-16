@@ -2,7 +2,7 @@
 
 title: Councilor Marcus Traditionkeeper
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

@@ -2,7 +2,7 @@
 
 title: Harbor Master Nereid Deepcurrent
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -162,7 +162,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

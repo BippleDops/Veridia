@@ -2,7 +2,7 @@
 
 title: Initiative
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

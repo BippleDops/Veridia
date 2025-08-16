@@ -2,7 +2,7 @@
 
 title: Cosmic Awareness
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

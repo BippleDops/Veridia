@@ -2,7 +2,7 @@
 
 title: Void Current Survivors
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

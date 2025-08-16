@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Noble Quarter Council Chambers V1 Noble Quarter
   Council Chambers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city noble quarter council chambers v1 noble
   quarter council chamberssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

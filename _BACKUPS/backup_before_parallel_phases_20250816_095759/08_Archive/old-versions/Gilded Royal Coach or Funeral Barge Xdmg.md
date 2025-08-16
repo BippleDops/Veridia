@@ -2,7 +2,7 @@
 
 title: Gilded Royal Coach or Funeral Barge Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

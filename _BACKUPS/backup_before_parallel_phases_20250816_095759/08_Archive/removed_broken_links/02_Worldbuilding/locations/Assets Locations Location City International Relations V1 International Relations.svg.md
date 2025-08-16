@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City International Relations V1 International Relations.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city international relations v1 international
   relationssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Royal Bloodline Codex
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - quest

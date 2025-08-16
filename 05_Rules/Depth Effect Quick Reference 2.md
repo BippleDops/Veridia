@@ -8,7 +8,7 @@ reference_type: Depth-Based Environmental Effects
 scope: Underwater Environmental Conditions
 significance: Essential Survival Information
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/lore
@@ -309,7 +309,7 @@ Recent convergence effects with [[02_Worldbuilding/Places/Aethermoor have create
 ### Light Availability by Depth
 
 | Depth Range | Natural Light | Artificial Required | Color Perception | Navigation |
-|-------------|---------------|--------------------|-----------------|-----------| 
+|-------------|---------------|--------------------|-----------------|-----------|
 | 0-30 ft | Full | Optional | Full spectrum | Visual |
 | 30-100 ft | Partial | Recommended | Red loss | Visual aided |
 | 100-300 ft | Minimal | Required | Blue spectrum | Artificial light |

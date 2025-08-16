@@ -2,7 +2,7 @@
 
 title: Magic User
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

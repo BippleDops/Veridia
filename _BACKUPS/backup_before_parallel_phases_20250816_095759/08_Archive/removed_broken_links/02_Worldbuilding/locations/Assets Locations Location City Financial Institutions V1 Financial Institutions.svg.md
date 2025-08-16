@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Ficial Institutions V1 Ficial Institutions.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ficial institutions v1 ficial institutionssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

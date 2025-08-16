@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Aboleth Mind Mazes
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

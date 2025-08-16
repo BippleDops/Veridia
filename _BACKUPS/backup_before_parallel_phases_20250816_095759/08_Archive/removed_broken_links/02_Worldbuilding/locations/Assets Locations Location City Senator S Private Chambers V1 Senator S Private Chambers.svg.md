@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Senator S Private Chambers V1 Senator S Private
   Chambers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city senator s private chambers v1 senator
   s private chamberssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

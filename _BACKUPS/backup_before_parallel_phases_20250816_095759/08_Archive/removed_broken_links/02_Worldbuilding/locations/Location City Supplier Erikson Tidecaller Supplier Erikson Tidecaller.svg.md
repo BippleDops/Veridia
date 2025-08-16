@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - [[location|location city [Supplier Erikson Tidecaller|Supplier Erikson Tidecaller]] supplier erikson tidecallersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 [[region|region: Unknown
-tags: 
+tags:
 - location
 title: Location City Supplier Erikson Tidecaller Supplier Erikson Tidecaller.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: Figurine of Wondrous Power Marble Elephant
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

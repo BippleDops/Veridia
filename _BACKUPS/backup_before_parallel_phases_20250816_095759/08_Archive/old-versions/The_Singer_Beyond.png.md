@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/The_Singer_Beyond.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

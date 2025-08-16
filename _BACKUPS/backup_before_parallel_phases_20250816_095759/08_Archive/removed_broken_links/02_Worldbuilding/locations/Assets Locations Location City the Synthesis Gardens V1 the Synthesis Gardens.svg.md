@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Synthesis Gardens V1 the Synthesis Gardens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the synthesis gardens v1 the synthesis
   gardenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

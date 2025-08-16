@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Sunken Markets V1 the Sunken Markets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sunken markets v1 the sunken marketssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

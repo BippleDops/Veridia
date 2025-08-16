@@ -61,7 +61,7 @@ tags:
 - index
 - aquatic
 - active
-- 
+-
 *The air carries the scent of [appropriate smell].*combat
 - shadow-touched
 - crystal-enhanced

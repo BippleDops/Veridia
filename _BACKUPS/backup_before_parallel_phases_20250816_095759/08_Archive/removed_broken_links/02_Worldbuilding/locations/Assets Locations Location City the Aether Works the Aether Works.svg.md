@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Aether Works the Aether Works.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the aether works the aether workssvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor
@@ -183,7 +183,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

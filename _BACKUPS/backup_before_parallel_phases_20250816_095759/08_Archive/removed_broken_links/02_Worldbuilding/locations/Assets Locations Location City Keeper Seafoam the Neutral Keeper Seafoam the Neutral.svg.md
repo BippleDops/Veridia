@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Keeper Seafoam the Neutral Keeper Seafoam the
   Neutral.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper seafoam the neutral keeper seafoam
   the neutralsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -189,7 +189,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

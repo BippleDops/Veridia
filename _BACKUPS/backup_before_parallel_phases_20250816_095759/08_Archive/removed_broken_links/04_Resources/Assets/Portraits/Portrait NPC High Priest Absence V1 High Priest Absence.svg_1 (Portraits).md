@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high priest absence v1 high priest absencesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Priest Absence V1 High Priest Absence.svg
 type: npc

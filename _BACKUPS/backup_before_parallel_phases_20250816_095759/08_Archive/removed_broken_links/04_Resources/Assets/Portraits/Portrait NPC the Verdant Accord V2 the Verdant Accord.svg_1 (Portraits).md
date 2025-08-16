@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the verdant accord v2 the verdant accordsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Verdant Accord V2 the Verdant Accord.svg
 type: npc

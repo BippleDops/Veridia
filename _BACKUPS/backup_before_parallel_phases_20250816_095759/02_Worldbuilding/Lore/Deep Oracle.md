@@ -2,7 +2,7 @@
 
 title: Deep [[Oracle
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: Coral Throne Syndicate
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -117,17 +117,17 @@ The syndicate's influence now extends throughout [Aquabyssos]], with operations 
 ### Coral Empress Scarletina
 *Medium humanoid (sea elf), lawful evil*
 
-**Armor Class** 17 (Natural Armor + Dex)  
-**Hit Points** 165 (`dice: 22d8` + 66)  
+**Armor Class** 17 (Natural Armor + Dex)
+**Hit Points** 165 (`dice: 22d8` + 66)
 **Speed** 30 ft., swim 60 ft.
 
 **STR** 14 (+2) **DEX** 18 (+4) **CON** 16 (+3) **INT** 17 (+3) **WIS** 15 (+2) **CHA** 20 (+5)
 
-**Saving Throws** Dex +10, Cha +11  
-**Skills** Deception +17, Insight +8, Intimidation +11, Persuasion +17  
-**Damage Resistances** Poison  
-**Senses** darkvision 60 ft., passive Perception 12  
-**Languages** Common, Elvish, Aquan, Draconic  
+**Saving Throws** Dex +10, Cha +11
+**Skills** Deception +17, Insight +8, Intimidation +11, Persuasion +17
+**Damage Resistances** Poison
+**Senses** darkvision 60 ft., passive Perception 12
+**Languages** Common, Elvish, Aquan, Draconic
 **Challenge** 12 (8,400 XP)
 
 **Legendary Resistance (3/Day).** If Scarletina fails a saving throw, she can choose to succeed instead.
@@ -161,7 +161,7 @@ The syndicate's influence now extends throughout [Aquabyssos]], with operations 
 - **Base:** [[The Crimson Docks smuggling operation
 - **Specialty:** Intimidation and violent debt collection
 
-#### Navigator Slyph Currentwhisper  
+#### Navigator Slyph Currentwhisper
 *Medium humanoid (water genasi), neutral evil*
 - **Role:** Smuggling Route Coordination
 - **Base:** Mobile command aboard the submarine *Depth's Fortune*

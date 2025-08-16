@@ -3,7 +3,7 @@ enhanced: true
 
 title: "Vehicle Core Rules#6) Ship Sanity & Madness (living Conscious Vessels)"
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - conspiracy

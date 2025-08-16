@@ -2,7 +2,7 @@
 
 title: Angels and Depths
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - tavern
@@ -170,7 +170,7 @@ The tavern's foundation is built within the massive skeleton of an ancient [Levi
 
 #### The Fin Annexes
 **Port Fin**: Kitchen and service areas
-- **Kelp Gardens**: Underwater cultivation areas for fresh ingredients  
+- **Kelp Gardens**: Underwater cultivation areas for fresh ingredients
 - **Smokehouse**: Specialized area for preparing surface-style foods
 - **Storage Caverns**: Temperature-controlled areas carved into the bone
 - **Staff Quarters**: Modest accommodations for tavern employees
@@ -429,7 +429,7 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 ### The Neutral Ground Crisis (Levels 5-8)
 **Background**: A murder occurs during peak hours in the main dining hall
 **Investigation**: Victim is a diplomatic courier carrying important peace treaty documents
-**Complications**: 
+**Complications**:
 - Multiple suspects with political motives
 - The [[Sea Witch's protection magic is failing
 - Outside forces pressure the tavern to close
@@ -548,7 +548,7 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 
 ---
 
-*"In the depths where ancient giants rest, even the dead can offer sanctuary to the living. Here, beneath the weight of water and memory, strangers become allies and enemies find temporary peace."*  
+*"In the depths where ancient giants rest, even the dead can offer sanctuary to the living. Here, beneath the weight of water and memory, strangers become allies and enemies find temporary peace."*
 — Inscription carved into the Leviathan's skull
 
 ## Player-Facing Summary

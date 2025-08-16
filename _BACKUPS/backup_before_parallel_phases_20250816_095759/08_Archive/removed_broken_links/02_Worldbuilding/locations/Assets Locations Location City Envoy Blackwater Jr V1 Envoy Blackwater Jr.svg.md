@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Envoy Blackwater Jr V1 Envoy Blackwater Jr.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city envoy blackwater jr v1 envoy blackwater
   jrsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -196,7 +196,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Legal Counsel Derek Lawkeeper
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -158,7 +158,7 @@ Ongoing situations affecting Legal Counsel Derek Lawkeeper:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

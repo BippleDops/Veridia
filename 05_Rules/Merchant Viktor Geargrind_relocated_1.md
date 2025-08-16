@@ -1,7 +1,7 @@
 ---
 title: [[Merchant Viktor Geargrind
 type: Location
-tags: 
+tags:
 - [Aquabyssos]]
 - technology
 - status/complete

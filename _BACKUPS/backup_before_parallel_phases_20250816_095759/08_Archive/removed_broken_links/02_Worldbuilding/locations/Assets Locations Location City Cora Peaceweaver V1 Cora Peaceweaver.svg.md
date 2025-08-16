@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Cora Peaceweaver V1 Cora Peaceweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city cora peaceweaver v1 cora peaceweaversvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

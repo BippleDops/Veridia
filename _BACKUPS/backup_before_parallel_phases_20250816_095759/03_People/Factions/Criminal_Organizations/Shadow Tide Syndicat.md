@@ -2,7 +2,7 @@
 
 title: Shadow Tide Syndicat
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

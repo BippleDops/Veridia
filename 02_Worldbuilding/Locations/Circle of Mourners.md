@@ -2,7 +2,7 @@
 
 title: Circle of Mourners
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

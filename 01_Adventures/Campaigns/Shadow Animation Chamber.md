@@ -2,7 +2,7 @@
 
 title: Shadow Animation Chamber
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

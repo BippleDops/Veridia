@@ -2,7 +2,7 @@
 
 title: Training Director Tide Teachwright
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

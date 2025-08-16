@@ -1,11 +1,11 @@
 ---
 
 title: The Bathyal Palace
-aliases: 
+aliases:
 - The Neutral Deep
 - The Court of Currents
 type: Location
-tags: 
+tags:
 - both
 - political_center
 - world/both

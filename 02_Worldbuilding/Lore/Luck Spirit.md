@@ -2,7 +2,7 @@
 
 title: Luck Spirit
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

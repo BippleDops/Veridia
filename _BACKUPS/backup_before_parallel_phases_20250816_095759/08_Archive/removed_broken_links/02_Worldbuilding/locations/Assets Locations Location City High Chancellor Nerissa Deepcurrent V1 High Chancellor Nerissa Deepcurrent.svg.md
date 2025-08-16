@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City High Chancellor Nerissa Deepcurrent V1 High
   Chancellor Nerissa Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city high chancellor nerissa deepcurrent
   v1 high chancellor nerissa deepcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

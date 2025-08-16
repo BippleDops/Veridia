@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding/Lore/NPC Name Generator
 type: npc
-tags: 
+tags:
 - npc
 - dwarf
 - rogue

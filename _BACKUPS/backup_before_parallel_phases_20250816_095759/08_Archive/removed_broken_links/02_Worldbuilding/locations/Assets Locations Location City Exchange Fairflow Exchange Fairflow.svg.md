@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Exchange Fairflow Exchange Fairflow.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city exchange fairflow exchange fairflowsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

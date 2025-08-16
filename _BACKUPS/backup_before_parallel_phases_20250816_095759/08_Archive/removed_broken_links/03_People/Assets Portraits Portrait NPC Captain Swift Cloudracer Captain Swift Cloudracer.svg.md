@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Swift Cloudracer Captain Swift Cloudracer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain swift cloudracer captain swift
   cloudracersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

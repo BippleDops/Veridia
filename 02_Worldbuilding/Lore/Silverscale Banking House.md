@@ -2,7 +2,7 @@
 
 title: Silverscale Banking House
 type: [[Lore
-tags: 
+tags:
 - lore
 - session-notes
 - status/complete
@@ -15,10 +15,10 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-accessibility: 
+accessibility:
   content_warnings: []
   pronunciation: Silverscale Banking House
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and

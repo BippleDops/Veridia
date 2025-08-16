@@ -2,7 +2,7 @@
 
 title: The Shadowhawk Syndicate
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

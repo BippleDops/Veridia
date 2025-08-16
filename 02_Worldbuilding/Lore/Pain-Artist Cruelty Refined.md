@@ -2,7 +2,7 @@
 
 title: Pain Artist Cruelty Refined
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

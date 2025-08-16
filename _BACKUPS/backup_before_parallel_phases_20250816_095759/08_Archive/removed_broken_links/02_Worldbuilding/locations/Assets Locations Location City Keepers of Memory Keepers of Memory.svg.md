@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Keepers of Memory Keepers of Memory.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keepers of memory keepers of memorysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

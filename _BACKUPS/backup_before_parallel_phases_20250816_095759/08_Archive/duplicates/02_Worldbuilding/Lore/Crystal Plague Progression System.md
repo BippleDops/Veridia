@@ -2,7 +2,7 @@
 
 title: Crystal Plague Progression System
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - status/complete

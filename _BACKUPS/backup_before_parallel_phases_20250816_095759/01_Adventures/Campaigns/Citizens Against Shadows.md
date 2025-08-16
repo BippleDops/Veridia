@@ -2,7 +2,7 @@
 
 title: Citizens Against Shadows
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

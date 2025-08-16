@@ -2,7 +2,7 @@
 
 title: Wind Rider Orders
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

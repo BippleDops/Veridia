@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Memory Tide Events
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

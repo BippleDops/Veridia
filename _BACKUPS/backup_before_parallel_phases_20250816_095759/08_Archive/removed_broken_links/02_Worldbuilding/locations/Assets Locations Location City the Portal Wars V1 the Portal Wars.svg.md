@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Portal Wars V1 the Portal Wars.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the portal wars v1 the portal warssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,7 +1,7 @@
 ---
 title: The [[Crystal Networks
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

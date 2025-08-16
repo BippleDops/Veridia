@@ -2,7 +2,7 @@
 
 title: Shadow Information Brokers
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

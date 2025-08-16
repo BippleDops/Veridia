@@ -2,7 +2,7 @@
 
 title: Vault Backup 20250813 073007 07 [[Player Character Options Depth Adapted Background
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

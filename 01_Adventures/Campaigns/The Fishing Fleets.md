@@ -2,7 +2,7 @@
 
 title: The Fishing Fleets
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[Npc]]

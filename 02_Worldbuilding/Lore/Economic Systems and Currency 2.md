@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - banking
 - both
 - complete
@@ -42,7 +42,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 - **Copper Crown** (1 gp value) - Small purchases, wages
 - **Crystal Shards** (0.1 gp value) - Fractional currency, change
 
-**Special Features**: 
+**Special Features**:
 - Embedded with authentication crystals that glow when genuine
 - Magically enhanced to resist counterfeiting
 - Exchange rate fluctuates based on crystal market stability
@@ -68,7 +68,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 **Issuing Authority**: [[02_Worldbuilding/People/Lord Aurelius Goldwave's financial network
 **Backing**: Diversified portfolio of investments and precious metals
 **Usage**: Internal transactions within Goldwave business empire
-**Special Features**: 
+**Special Features**:
 - Redeemable for services across Goldwave companies
 - Offers preferential exchange rates to frequent users
 - Includes limited magical enhancements and benefits
@@ -102,7 +102,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 
 #### Pressure Coins (Industrial Currency)
 **Issuing Authority**: Deep Manufacturing Guilds
-**Backing**: Pressure-forged materials and technological expertise  
+**Backing**: Pressure-forged materials and technological expertise
 **Usage**: Payment for pressure-manufactured goods and deep-sea services
 **Special Properties**:
 - Physically compressed to contain more value in smaller size
@@ -129,7 +129,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 
 #### Deep Vault Banking Consortium
 **Controller**: [[02_Worldbuilding/People/Banker Titus Goldcurrent
-**Services**: 
+**Services**:
 - Secure currency storage across both realms
 - Inter-realm wire transfers using magical communication
 - Currency speculation and hedging
@@ -161,7 +161,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 #### Void Tokens
 **Origin**: Unknown (possibly extra-dimensional)
 **Usage**: Payment for services that cannot be obtained through legal means
-**Properties**: 
+**Properties**:
 - Appear to phase in and out of reality
 - Only visible to those engaged in specific types of forbidden activities
 - Value determined by the magnitude of laws broken or taboos violated
@@ -187,7 +187,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 - Shard acquisition financing
 - Revolutionary planning support
 
-#### Deep Vault Banking Consortium  
+#### Deep Vault Banking Consortium
 **Controller**: [[02_Worldbuilding/People/Banker Titus Goldcurrent
 **Specialty**: Cross-realm currency manipulation and control
 **Assets**: 5+ million gp equivalent across both realms
@@ -227,7 +227,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 - **Special Coverage**: Crystal corruption insurance, piracy protection, weather delays
 
 **Current Rider Protection**
-- **Specialty**: Deep-sea route insurance using current-riding technology  
+- **Specialty**: Deep-sea route insurance using current-riding technology
 - **Coverage**: Unique hazards like pressure damage, current maze entrapment, deep-sea monsters
 - **Premiums**: 5-25% of cargo value for deep-route coverage
 - **Benefits**: Rescue services included, specialized deep-sea recovery
@@ -343,7 +343,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 **Unique Features**: Premium pricing, exclusive clientele, advanced magical services
 
 #### Port Districts
-**Economic Focus**: Trade facilitation, maritime services, international commerce  
+**Economic Focus**: Trade facilitation, maritime services, international commerce
 **Currency Preference**: Mixed currencies with heavy exchange activity
 **Major Players**: [02_Worldbuilding/Groups/Merchant Princes]], independent traders, foreign merchants
 **Unique Features**: 24-hour operations, multi-cultural business practices, competitive pricing
@@ -455,7 +455,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 - **Secure real estate** in commercial districts
 - **Traditional banking deposits** with insurance
 
-#### Medium Risk Investments (15-40% annual returns)  
+#### Medium Risk Investments (15-40% annual returns)
 - **New trade route development**
 - **Commodity speculation** (crystals, rare goods)
 - **Emerging merchant operations**
@@ -503,7 +503,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 
 3. **The Tax Rebellion**: Merchants are refusing to pay new taxes, and players must resolve the situation without triggering economic collapse.
 
-#### Criminal Economy Adventures  
+#### Criminal Economy Adventures
 1. **The Money Laundering Network**: Players discover their legitimate business is being used to clean criminal profits, forcing them to choose between profit and law.
 
 2. **The Protection Racket**: Criminal organizations are demanding payment from local merchants, and players must decide whether to pay, fight, or find alternative solutions.
@@ -530,7 +530,7 @@ The economic systems of [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuil
 
 #### Random Market Events (d20)
 1-3: **Market Stability** - Normal conditions, no special modifiers
-4-6: **Price Fluctuations** - Random goods increase/decrease 10-30% in price  
+4-6: **Price Fluctuations** - Random goods increase/decrease 10-30% in price
 7-9: **Currency Changes** - Exchange rates shift by 5-15%
 10-12: **Trade Disruption** - Specific routes delayed or closed temporarily
 13-15: **Political Economic** - Government policy changes affect business

@@ -2,7 +2,7 @@
 
 title: Information Trading System
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction
@@ -141,7 +141,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

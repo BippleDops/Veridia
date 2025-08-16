@@ -2,7 +2,7 @@
 
 title: Royal Guard
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -155,7 +155,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

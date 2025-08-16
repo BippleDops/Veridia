@@ -2,7 +2,7 @@
 
 title: Void Magic
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

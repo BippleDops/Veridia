@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the progressive coalition headquarters v1 the progressive coalition
   headquarterssvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Progressive Coalition Headquarters V1 the Progressive Coalition
   Headquarters.svg

@@ -2,7 +2,7 @@
 
 title: S-102_Downburst_Hammer
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

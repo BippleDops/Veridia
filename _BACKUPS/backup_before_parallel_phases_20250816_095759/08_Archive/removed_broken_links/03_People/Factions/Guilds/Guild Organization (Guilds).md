@@ -2,7 +2,7 @@
 
 title: Guild Organization
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

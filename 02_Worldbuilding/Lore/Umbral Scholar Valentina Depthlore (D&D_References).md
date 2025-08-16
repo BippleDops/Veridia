@@ -2,7 +2,7 @@
 
 title: Umbral Scholar Valentina Depthlore (D&D_References)
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

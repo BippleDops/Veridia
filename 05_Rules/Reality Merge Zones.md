@@ -2,7 +2,7 @@
 
 title: Reality Merge Zones
 type: [[Lore
-tags: 
+tags:
 - dimensional-bleed
 - lore
 - session-notes

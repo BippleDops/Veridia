@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Sorrow Gardens the Sorrow Gardens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sorrow gardens the sorrow gardenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

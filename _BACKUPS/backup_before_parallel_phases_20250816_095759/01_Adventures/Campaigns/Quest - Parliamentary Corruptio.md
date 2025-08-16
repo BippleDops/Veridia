@@ -2,7 +2,7 @@
 
 title: Quest   Parliamentary Corruptio
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction
@@ -164,7 +164,7 @@ Mentioned in The Hidden Prophecy of Depths
 ### What Happened Before
 - *[Recent events leading to this adventure]*
 
-### Current Situation  
+### Current Situation
 - *[What's happening now]*
 
 ### The Stakes

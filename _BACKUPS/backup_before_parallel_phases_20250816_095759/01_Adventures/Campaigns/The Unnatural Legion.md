@@ -2,7 +2,7 @@
 
 title: The Unnatural Legion
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

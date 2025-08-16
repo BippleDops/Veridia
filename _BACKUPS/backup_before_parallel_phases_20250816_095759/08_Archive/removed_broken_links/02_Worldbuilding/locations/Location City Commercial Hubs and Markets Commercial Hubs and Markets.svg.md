@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city commercial hubs and markets commercial hubs and marketssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Commercial Hubs and Markets Commercial Hubs and Markets.svg
 type: location

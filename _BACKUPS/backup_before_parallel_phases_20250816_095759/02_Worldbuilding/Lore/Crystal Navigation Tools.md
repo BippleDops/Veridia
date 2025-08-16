@@ -2,7 +2,7 @@
 
 title: Crystal Navigation Tools
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

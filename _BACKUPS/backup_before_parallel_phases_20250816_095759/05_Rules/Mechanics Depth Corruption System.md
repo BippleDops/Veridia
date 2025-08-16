@@ -3,7 +3,7 @@ enhanced: true
 
 title: Mechanics Depth Corruption System
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

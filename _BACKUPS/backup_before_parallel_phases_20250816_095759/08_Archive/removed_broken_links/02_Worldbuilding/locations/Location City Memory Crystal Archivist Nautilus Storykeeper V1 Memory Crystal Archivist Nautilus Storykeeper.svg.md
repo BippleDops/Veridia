@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memory crystal archivist nautilus storykeeper v1 memory crystal archivist
   nautilus storykeepersvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memory Crystal Archivist Nautilus Storykeeper V1 Memory Crystal
   Archivist Nautilus Storykeeper.svg

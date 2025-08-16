@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Great Sky Harbor V1 the Great Sky Harbor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the great sky harbor v1 the great sky
   harborsvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor
@@ -198,7 +198,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

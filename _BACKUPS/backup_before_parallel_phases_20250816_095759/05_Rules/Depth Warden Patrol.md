@@ -2,7 +2,7 @@
 
 title: [[Depth Warden Patrol
 type: [location]]
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - campaign/session
@@ -571,7 +571,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

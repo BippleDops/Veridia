@@ -2,7 +2,7 @@
 
 title: S-114_Gravity_Well_Rescue
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

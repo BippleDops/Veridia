@@ -2,7 +2,7 @@
 
 title: The Final Gasp
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

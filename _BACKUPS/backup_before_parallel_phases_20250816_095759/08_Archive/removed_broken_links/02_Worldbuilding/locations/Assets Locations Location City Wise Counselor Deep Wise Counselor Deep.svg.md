@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wise Counselor Deep Wise Counselor Deep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wise counselor deep wise counselor deepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

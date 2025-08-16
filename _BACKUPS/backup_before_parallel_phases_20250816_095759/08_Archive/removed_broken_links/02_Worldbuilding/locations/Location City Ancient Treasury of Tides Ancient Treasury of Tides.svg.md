@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city ancient treasury of tides ancient treasury of tidessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Ancient Treasury of Tides Ancient Treasury of Tides.svg
 type: location

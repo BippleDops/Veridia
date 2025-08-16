@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Great Plague of Ages Past Great Plague of Ages
   Past.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city great plague of ages past great plague
   of ages pastsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

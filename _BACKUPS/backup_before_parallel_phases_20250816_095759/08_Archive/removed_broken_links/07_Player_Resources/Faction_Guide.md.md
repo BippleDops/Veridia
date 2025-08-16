@@ -38,7 +38,7 @@ type: faction
 updated: 2025-08-14
 - -- # Faction_Guide.md ## Overview This document contains important information regarding Faction_Guide.md and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. Faction_Guide.md represents a significant element within the campaign world, offering various opportunities for engagement and development. ## 
+**Details**: Rich sensory elements bring this to life. Faction_Guide.md represents a significant element within the campaign world, offering various opportunities for engagement and development. ##
 *Sounds of [relevant sounds] echo in the distance.*
 *Sounds of [relevant sounds] echo in the distance.*Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

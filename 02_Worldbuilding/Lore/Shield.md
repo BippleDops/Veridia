@@ -2,7 +2,7 @@
 
 title: Shield
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

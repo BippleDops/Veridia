@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Smuggler S Cove V1 Smuggler S Cove.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city smuggler s cove v1 smuggler s covesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

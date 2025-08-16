@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Environmental Monitor Reef Ecowatch Environmental
   Monitor Reef Ecowatch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city environmental monitor reef ecowatch
   environmental monitor reef ecowatchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Quality Inspector Wave Purewater
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

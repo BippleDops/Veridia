@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-weapon-master-dain-sharpedge-v1-weapon-master-dain-sharpedge.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

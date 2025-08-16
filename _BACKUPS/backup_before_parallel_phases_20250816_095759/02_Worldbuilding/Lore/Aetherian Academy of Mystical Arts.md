@@ -2,7 +2,7 @@
 
 title: Aetherian Academy of Mystical Arts
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -111,7 +111,7 @@ Aetherian Academy of Mystical Arts represents a crucial aspect of the world's hi
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

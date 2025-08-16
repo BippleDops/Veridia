@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chief Inspector Magnus Ledgerkeep V1 Chief Inspector
   Magnus Ledgerkeep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chief inspector magnus ledgerkeep v1
   chief inspector magnus ledgerkeepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -207,7 +207,7 @@ Mentioned in The Hidden Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

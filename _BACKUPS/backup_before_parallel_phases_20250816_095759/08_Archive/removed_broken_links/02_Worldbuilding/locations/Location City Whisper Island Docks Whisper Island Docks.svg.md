@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city whisper island docks whisper island dockssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Whisper Island Docks Whisper Island Docks.svg
 type: location

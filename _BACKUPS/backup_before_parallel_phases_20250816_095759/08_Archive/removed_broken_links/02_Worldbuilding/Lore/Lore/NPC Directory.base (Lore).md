@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding/Lore/NPC Directory.base
 type: npc
-tags: 
+tags:
 - npc
 - tiefling
 - wizard

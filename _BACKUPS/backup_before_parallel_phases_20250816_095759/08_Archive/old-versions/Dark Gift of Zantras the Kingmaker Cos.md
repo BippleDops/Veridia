@@ -2,7 +2,7 @@
 
 title: Dark Gift of Zantras the Kingmaker Cos
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -6,7 +6,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - lore
 title: Cultural Sage Deep Memory
 type: lore

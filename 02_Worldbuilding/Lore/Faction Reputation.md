@@ -2,7 +2,7 @@
 
 title: Faction Reputation
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

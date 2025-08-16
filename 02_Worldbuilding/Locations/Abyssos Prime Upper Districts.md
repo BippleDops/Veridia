@@ -2,7 +2,7 @@
 
 title: Abyssos Prime Upper Districts
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Arts Communities V1 Arts Communities.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city arts communities v1 arts communitiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

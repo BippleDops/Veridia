@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Undead Rights Organization Hq V1 Undead Rights
   Organization Hq.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city undead rights organization hq v1 undead
   rights organization hqsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

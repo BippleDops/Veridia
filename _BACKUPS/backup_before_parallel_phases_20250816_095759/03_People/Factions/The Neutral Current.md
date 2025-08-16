@@ -2,7 +2,7 @@
 
 title: The Neutral Current
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

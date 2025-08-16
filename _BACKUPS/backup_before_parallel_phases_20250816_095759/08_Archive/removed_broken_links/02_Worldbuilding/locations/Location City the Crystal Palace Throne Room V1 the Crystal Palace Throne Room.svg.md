@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the crystal palace throne room v1 the crystal palace throne roomsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Crystal Palace Throne Room V1 the Crystal Palace Throne Room.svg
 type: location

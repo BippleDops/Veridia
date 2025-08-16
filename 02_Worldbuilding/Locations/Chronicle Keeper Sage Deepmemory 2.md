@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags: 
+tags:
 - both worlds
 - complete
 - content/location

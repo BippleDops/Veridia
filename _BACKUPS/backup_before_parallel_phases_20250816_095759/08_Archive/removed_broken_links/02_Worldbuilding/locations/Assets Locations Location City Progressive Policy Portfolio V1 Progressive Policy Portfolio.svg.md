@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Progressive Policy Portfolio V1 Progressive
   Policy Portfolio.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city progressive policy portfolio v1 progressive
   policy portfoliosvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

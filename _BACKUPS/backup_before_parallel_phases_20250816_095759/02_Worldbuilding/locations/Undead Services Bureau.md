@@ -2,7 +2,7 @@
 
 title: Undead Services Bureau
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

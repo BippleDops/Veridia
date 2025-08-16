@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags: 
+tags:
 - complete
 - content/location
 - content/lore

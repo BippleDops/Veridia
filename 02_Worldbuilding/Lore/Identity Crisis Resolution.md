@@ -2,7 +2,7 @@
 
 title: Identity Crisis Resolution
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - session-notes
@@ -16,10 +16,10 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-accessibility: 
+accessibility:
   content_warnings: []
   pronunciation: Identity Crisis Resolution
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and

@@ -8,7 +8,7 @@ expanded: 2025-08-11
 operational_status: Active
 significance: Regional Critical Infrastructure
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/lore
@@ -73,7 +73,7 @@ The heart of each Peak's functionality lies in its integrated crystal systems, w
 
 **Crystal Classification and Function:**
 - **Primary Amplification Crystals**: Large formations that boost incoming sound waves exponentially
-- **Harmonic Focusing Crystals**: Smaller crystals that refine and direct specific frequencies  
+- **Harmonic Focusing Crystals**: Smaller crystals that refine and direct specific frequencies
 - **Dimensional Resonance Crystals**: Specialized crystals capable of projecting sound across dimensional boundaries
 - **Safety Regulation Crystals**: Protective crystals that prevent dangerous resonance buildup
 - **Communication Interface Crystals**: Crystals designed for two-way communication and signal processing
@@ -183,7 +183,7 @@ The Peaks provide unique research capabilities for various scientific discipline
 **Cross-Dimensional Studies:**
 Recent research focuses on the Peaks' potential for dimensional interaction:
 - Communication experiments attempting to establish contact with [[02_Worldbuilding/Places/Aethermoor
-- Research into acoustic effects on dimensional stability and boundary conditions  
+- Research into acoustic effects on dimensional stability and boundary conditions
 - Investigation of harmonic frequencies that may facilitate dimensional travel
 - Studies of acoustic phenomena that appear to transcend normal physical limitations
 - Development of new technologies based on cross-dimensional acoustic principles

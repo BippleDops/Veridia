@@ -2,7 +2,7 @@
 
 title: Skyfall Observatory
 type: [[Lore
-tags: 
+tags:
 - lore
 - aerial
 - content/lore

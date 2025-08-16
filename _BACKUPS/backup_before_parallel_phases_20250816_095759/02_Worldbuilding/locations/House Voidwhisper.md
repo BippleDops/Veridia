@@ -2,7 +2,7 @@
 
 title: House Voidwhisper
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

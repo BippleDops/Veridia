@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain finn crosscurrent v1 captain finn crosscurrentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Finn Crosscurrent V1 Captain Finn Crosscurrent.svg
 type: npc

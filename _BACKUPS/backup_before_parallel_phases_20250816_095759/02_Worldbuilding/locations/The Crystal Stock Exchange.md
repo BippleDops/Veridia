@@ -2,7 +2,7 @@
 
 title: The Crystal Stock Exchange
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Seven Shards Seven Shards.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city seven shards seven shardssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

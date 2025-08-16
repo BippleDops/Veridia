@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Weapon Master Dain Sharpedge V1 Weapon Master
   Dain Sharpedge.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city weapon master dain sharpedge v1 weapon
   master dain sharpedgesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

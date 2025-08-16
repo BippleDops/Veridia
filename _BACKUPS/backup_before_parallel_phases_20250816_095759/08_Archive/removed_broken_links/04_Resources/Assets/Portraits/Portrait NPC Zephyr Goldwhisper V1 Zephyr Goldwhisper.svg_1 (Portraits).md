@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc zephyr goldwhisper v1 zephyr goldwhispersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Zephyr Goldwhisper V1 Zephyr Goldwhisper.svg
 type: npc

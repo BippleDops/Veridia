@@ -8,7 +8,7 @@ investigation_difficulty: Extremely High
 mystery_type: Identity and Conspiracy Network
 significance: Major Conspiracy Element
 status: complete
-tags: 
+tags:
 - access/secret
 - aethermoor
 - complete
@@ -61,7 +61,7 @@ The mystery deepens when considering that Silver Mask's activities appear to be 
 - Anonymous tips to investigators that always prove partially accurate
 - Letters signed with a silver mask symbol warning of impending dangers
 
-### Deeper Layer: Criminal Network Connections  
+### Deeper Layer: Criminal Network Connections
 **Initiated Knowledge (Difficulty: Moderate)**
 - Silver Mask appears to have detailed knowledge of criminal operations
 - Connections between Silver Mask sightings and major heists or cons

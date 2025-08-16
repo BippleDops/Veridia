@@ -2,7 +2,7 @@
 
 title: The Forgotten Representative
 type: [[location
-tags: 
+tags:
 - mystery
 - [Aquabyssos]]
 - session-notes

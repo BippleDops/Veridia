@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Singing Shadows the Singing Shadows.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the singing shadows the singing shadowssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

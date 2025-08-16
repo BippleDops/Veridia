@@ -2,7 +2,7 @@
 
 title: D-104_Whale_Graveyard
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

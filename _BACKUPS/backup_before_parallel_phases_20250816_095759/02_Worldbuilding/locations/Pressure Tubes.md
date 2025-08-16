@@ -2,7 +2,7 @@
 
 title: Pressure Tubes
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -153,46 +153,46 @@ Scientific pods equipped with laboratory facilities allow researchers to continu
 The Research Conduits operate under academic and governmental oversight that balances scientific freedom with security requirements, ensuring that beneficial research continues while preventing the development or transport of dangerous technologies that could threaten kingdom stability.
 
 ### Chief Engineer Nereus Flowstream
-**Role**: Master of Tube Operations and Director of Transportation Infrastructure  
-**Appearance**: A middle-aged individual with hands stained by pressure-crystal dust and eyes that reflect the blue-green glow of tube bioluminescence  
-**Personality**: Passionate about engineering excellence with an intuitive understanding of the tube network's needs and behaviors  
-**Secrets**: Possesses knowledge of classified tube routes and maintains personal communication with the network's apparent consciousness  
+**Role**: Master of Tube Operations and Director of Transportation Infrastructure
+**Appearance**: A middle-aged individual with hands stained by pressure-crystal dust and eyes that reflect the blue-green glow of tube bioluminescence
+**Personality**: Passionate about engineering excellence with an intuitive understanding of the tube network's needs and behaviors
+**Secrets**: Possesses knowledge of classified tube routes and maintains personal communication with the network's apparent consciousness
 **Goals**: Expanding the tube system to serve every community in [Aquabyssos]] while preserving the delicate balance between efficiency and safety
 
 Nereus serves as the ultimate authority on tube operations and the primary interface between human administration and the network's semi-sentient nature. Their office within the Central Exchange contains detailed technical documentation, prototype crystal samples, and communication equipment that allows direct interface with the tube system's control intelligence.
 
 ### Pressure Sage Marina Depthwhisper
-**Role**: Senior Safety Inspector and Guardian of Passenger Welfare  
-**Appearance**: An elderly figure whose long experience with pressure changes has given them an almost supernatural ability to sense atmospheric conditions  
-**Personality**: Methodical and cautious but fiercely protective of passenger safety, with a reputation for catching problems before they develop  
-**Secrets**: Can communicate with the tube network through methods that blend technology with psychic sensitivity  
+**Role**: Senior Safety Inspector and Guardian of Passenger Welfare
+**Appearance**: An elderly figure whose long experience with pressure changes has given them an almost supernatural ability to sense atmospheric conditions
+**Personality**: Methodical and cautious but fiercely protective of passenger safety, with a reputation for catching problems before they develop
+**Secrets**: Can communicate with the tube network through methods that blend technology with psychic sensitivity
 **Goals**: Maintaining perfect safety records while advocating for system improvements that prioritize passenger comfort and security
 
 Marina conducts regular inspections of tube facilities and maintains detailed records of system performance, passenger incidents, and maintece needs. Their expertise includes both technical knowledge and intuitive understanding of the psychological factors that affect passenger experience during high-pressure, high-speed travel.
 
 ### Transport Coordinator Felix Rapidcurrent
-**Role**: Traffic Management Specialist and Route Optimization Expert  
-**Appearance**: A quick-moving individual with multiple communication devices and schedules that seem to change constantly  
-**Personality**: Highly organized and efficient but capable of adapting quickly to unexpected changes in transportation needs  
-**Secrets**: Maintains backdoor access to emergency transportation protocols and classified routing information  
+**Role**: Traffic Management Specialist and Route Optimization Expert
+**Appearance**: A quick-moving individual with multiple communication devices and schedules that seem to change constantly
+**Personality**: Highly organized and efficient but capable of adapting quickly to unexpected changes in transportation needs
+**Secrets**: Maintains backdoor access to emergency transportation protocols and classified routing information
 **Goals**: Maximizing system efficiency while ensuring that critical personnel and materials receive priority treatment when necessary
 
 Felix manages the complex logistics of coordinating thousands of daily journeys across the tube network, balancing passenger convenience with cargo requirements and emergency needs. Their work requires constant communication with station operators, maintece crews, and governmental officials who depend on the transportation system.
 
 ### Crystal Cultivator Dr. Prism Growthseed
-**Role**: Specialist in Pressure-Crystal Development and Tube Expansion  
-**Appearance**: A researcher whose clothing and skin bear traces of the exotic minerals used in crystal cultivation  
-**Personality**: Scientifically curious about the biological aspects of crystal growth but respectful of the network's apparent consciousness  
-**Secrets**: Has discovered evidence that the tube system connects to natural crystal formations throughout the ocean depths  
+**Role**: Specialist in Pressure-Crystal Development and Tube Expansion
+**Appearance**: A researcher whose clothing and skin bear traces of the exotic minerals used in crystal cultivation
+**Personality**: Scientifically curious about the biological aspects of crystal growth but respectful of the network's apparent consciousness
+**Secrets**: Has discovered evidence that the tube system connects to natural crystal formations throughout the ocean depths
 **Goals**: Understanding the relationship between cultivated crystals and naturally occurring formations while expanding the system's capabilities
 
 Dr. Prism oversees the growth of new tube sections and the maintece of existing crystal infrastructure, working with materials that seem to exist at the boundary between mineral and living tissue. Their research includes both practical engineering applications and theoretical studies of the consciousness that appears to inhabit the tube network.
 
 ### Emergency Response Commander Captain Torrent Swiftaid
-**Role**: Director of Crisis Transportation and Emergency Evacuation Procedures  
-**Appearance**: A military officer with the bearing of someone accustomed to making life-or-death decisions under extreme pressure  
-**Personality**: Calm and decisive during emergencies but dedicated to preventing crises through careful preparation and training  
-**Secrets**: Has access to classified emergency protocols that can reshape the entire transportation network during major threats  
+**Role**: Director of Crisis Transportation and Emergency Evacuation Procedures
+**Appearance**: A military officer with the bearing of someone accustomed to making life-or-death decisions under extreme pressure
+**Personality**: Calm and decisive during emergencies but dedicated to preventing crises through careful preparation and training
+**Secrets**: Has access to classified emergency protocols that can reshape the entire transportation network during major threats
 **Goals**: Ensuring that the tube system remains functional during any crisis while coordinating with military and civilian authorities
 
 Captain Swiftaid maintains specialized emergency response teams stationed throughout the tube network and oversees training programs that prepare civilians for emergency evacuations. Their responsibilities include both immediate crisis response and long-term planning for threats that could affect the entire kingdom.

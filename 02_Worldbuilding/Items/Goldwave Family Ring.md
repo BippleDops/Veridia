@@ -2,7 +2,7 @@
 
 title: Goldwave Family Ring
 type: item
-tags: 
+tags:
 - item
 - staff
 - common
@@ -119,7 +119,7 @@ Goldwave Family Ring is a magnificent staff that radiates elemental force.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

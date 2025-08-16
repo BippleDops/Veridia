@@ -2,7 +2,7 @@
 
 title: Random Magic Items Relics
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: The Integration Temple
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -187,7 +187,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

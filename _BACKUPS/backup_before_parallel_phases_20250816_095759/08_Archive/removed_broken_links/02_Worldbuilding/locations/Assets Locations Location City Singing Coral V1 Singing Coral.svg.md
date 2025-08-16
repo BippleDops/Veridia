@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Singing Coral V1 Singing Coral.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city singing coral v1 singing coralsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

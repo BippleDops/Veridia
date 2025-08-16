@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Private Arbitration V1 Private Arbitration.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city private arbitration v1 private arbitrationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -217,7 +217,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

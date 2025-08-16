@@ -2,7 +2,7 @@
 
 title: Garden of Shadows
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - mysterious
 - status/complete

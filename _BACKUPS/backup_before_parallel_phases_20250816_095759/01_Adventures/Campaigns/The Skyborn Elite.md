@@ -2,7 +2,7 @@
 
 title: The Skyborn Elite
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - aerial

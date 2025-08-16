@@ -1,7 +1,7 @@
 ---
 title: The Threshold
 type: [[Lore
-tags: 
+tags:
 - lore
 - status/complete
 - dangerous-zone
@@ -76,7 +76,7 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- 
+-
 - [[Crystal Cult Temples
 - [The Primordial Vaults]]
 - [[The Threshold Chambers

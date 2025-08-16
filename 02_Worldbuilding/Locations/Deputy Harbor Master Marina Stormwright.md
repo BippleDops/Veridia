@@ -2,7 +2,7 @@
 
 title: Deputy Harbor Master [[Marina Stormwright
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

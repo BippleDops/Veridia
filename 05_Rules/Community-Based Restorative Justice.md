@@ -2,7 +2,7 @@
 
 title: Community Based [[Restorative Justice
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

@@ -1,7 +1,7 @@
 # Player Notes
 
-## Session: 
-## Date: 
+## Session:
+## Date:
 
 ### Important:
 

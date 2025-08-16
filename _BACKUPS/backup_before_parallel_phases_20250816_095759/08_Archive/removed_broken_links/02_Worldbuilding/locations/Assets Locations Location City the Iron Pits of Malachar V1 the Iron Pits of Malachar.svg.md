@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Iron Pits of Malachar V1 the Iron Pits of
   Malachar.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the iron pits of malachar v1 the iron
   pits of malacharsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

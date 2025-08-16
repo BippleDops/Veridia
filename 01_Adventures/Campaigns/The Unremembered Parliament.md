@@ -2,7 +2,7 @@
 
 title: The Unremembered Parliament
 type: Location
-tags: 
+tags:
 - aquabyssos
 - supernatural
 - status/complete

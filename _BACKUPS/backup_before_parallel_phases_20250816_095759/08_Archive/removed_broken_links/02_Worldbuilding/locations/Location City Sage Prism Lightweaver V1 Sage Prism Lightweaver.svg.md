@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sage prism lightweaver v1 sage prism lightweaversvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Sage Prism Lightweaver V1 Sage Prism Lightweaver.svg
 type: location

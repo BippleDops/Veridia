@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city reflection pools surgical theater v1 reflection pools surgical theatersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Reflection Pools Surgical Theater V1 Reflection Pools Surgical
   Theater.svg

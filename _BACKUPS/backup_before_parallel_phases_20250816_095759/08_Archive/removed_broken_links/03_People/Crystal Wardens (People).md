@@ -2,7 +2,7 @@
 
 title: Crystal Wardens
 type: Npc
-tags: 
+tags:
 - status/complete
 - campaign/hook
 - npc
@@ -56,7 +56,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

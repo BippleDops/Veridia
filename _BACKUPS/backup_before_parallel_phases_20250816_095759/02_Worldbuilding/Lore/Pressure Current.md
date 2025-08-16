@@ -2,7 +2,7 @@
 
 title: Pressure Current
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

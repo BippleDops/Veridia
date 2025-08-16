@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Interfaith Dialogue Interfaith Dialogue.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city interfaith dialogue interfaith dialoguesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

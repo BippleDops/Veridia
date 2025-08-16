@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc reflection captain vantage v2 reflection captain vantagesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Reflection Captain Vantage V2 Reflection Captain Vantage.svg
 type: npc

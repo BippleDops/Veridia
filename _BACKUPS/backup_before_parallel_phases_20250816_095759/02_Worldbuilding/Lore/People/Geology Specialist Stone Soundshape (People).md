@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Geology Specialist Stone Soundshape
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -2,7 +2,7 @@
 
 title: Memory Eternal Keeper
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: [[Seven Shards Quick Reference
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

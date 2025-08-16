@@ -2,7 +2,7 @@
 
 title: Ancestor's Pool
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

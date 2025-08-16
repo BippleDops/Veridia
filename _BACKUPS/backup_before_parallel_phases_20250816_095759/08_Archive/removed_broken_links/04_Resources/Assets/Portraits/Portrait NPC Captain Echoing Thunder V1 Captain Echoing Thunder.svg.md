@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain echoing thunder v1 captain echoing thundersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Echoing Thunder V1 Captain Echoing Thunder.svg
 type: npc

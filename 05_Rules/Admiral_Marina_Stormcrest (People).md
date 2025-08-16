@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Admiral_Marina_Stormcrest
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -2,7 +2,7 @@
 
 title: Kelp Based Brewing
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

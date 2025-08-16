@@ -2,7 +2,7 @@
 
 title: Aethermoor
 type: Location
-tags: 
+tags:
 - content/location
 - place
 - world/aethermoor

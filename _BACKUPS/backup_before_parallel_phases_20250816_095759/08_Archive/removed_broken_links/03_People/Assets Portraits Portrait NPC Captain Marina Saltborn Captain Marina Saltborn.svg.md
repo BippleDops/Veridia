@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Marina Saltborn Captain Marina Saltborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain marina saltborn captain marina
   saltbornsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

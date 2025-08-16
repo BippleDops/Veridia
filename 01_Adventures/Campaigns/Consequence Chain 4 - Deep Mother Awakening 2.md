@@ -1,11 +1,11 @@
 ---
 created: '2025-08-12'
 magnitude: 5
-primary_sessions: 
+primary_sessions:
 - 'Session 10: The Deep Mother Rises'
 - 'Session 10: The Shadow Finale'
 status: complete
-tags: 
+tags:
 - both worlds
 - campaign/arc
 - complete

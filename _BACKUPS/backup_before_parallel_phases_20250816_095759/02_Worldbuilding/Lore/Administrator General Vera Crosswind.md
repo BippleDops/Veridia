@@ -2,7 +2,7 @@
 
 title: Administrator General Vera Crosswind
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

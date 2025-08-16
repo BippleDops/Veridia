@@ -14,12 +14,12 @@ class VoiceNotes {
     this.recognition.continuous = true;
     this.recognition.interimResults = true;
   }
-  
+
   startRecording(context) {
     this.recognition.start();
     this.context = context; // NPC, location, etc.
   }
-  
+
   processTranscript(text) {
     // Auto-tag and file based on context
     saveToVault(this.context, text);
@@ -72,7 +72,7 @@ class DynamicAudio:
         self.current_track = None
         self.intensity = 0.5
         self.layers = []
-    
+
     def adjust_to_scene(self, scene_type, intensity):
         if scene_type == "combat":
             self.crossfade_to("battle_theme")
@@ -81,7 +81,7 @@ class DynamicAudio:
             self.crossfade_to("ambient_exploration")
         elif scene_type == "dialogue":
             self.lower_volume()
-    
+
     def add_layer(self, sound_effect):
         # Add contextual sounds
         self.layers.append(sound_effect)
@@ -151,7 +151,7 @@ class SpatialAudio {
   positionSound(source, listener) {
     const angle = calculateAngle(source, listener);
     const distance = calculateDistance(source, listener);
-    
+
     return {
       pan: Math.sin(angle),
       volume: 1 / (distance + 1),

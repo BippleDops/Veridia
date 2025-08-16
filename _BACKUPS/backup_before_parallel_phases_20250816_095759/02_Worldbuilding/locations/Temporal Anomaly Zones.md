@@ -2,7 +2,7 @@
 
 title: Temporal Anomaly Zones
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

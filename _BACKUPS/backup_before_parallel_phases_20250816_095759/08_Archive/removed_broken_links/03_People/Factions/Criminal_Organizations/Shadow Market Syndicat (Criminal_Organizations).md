@@ -2,7 +2,7 @@
 
 title: Shadow Market Syndicat
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -11,7 +11,7 @@ leader: '[02_Worldbuilding/Lore/Commander Ironprice]]'
 members: ~1,200 crystal constructs and operators
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - construct

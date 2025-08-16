@@ -3,7 +3,7 @@ enhanced: true
 
 title: Environmental Engineer Current Depthwright
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

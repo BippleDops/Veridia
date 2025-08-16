@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Pressure Conspiracy the Pressure Conspiracy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the pressure conspiracy the pressure
   conspiracysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

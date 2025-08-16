@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Lady Resistance Brightshield Lady Resistance
   Brightshield.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc lady resistance brightshield lady resistance
   brightshieldsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

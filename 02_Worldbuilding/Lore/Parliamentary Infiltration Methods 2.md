@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/faction
@@ -36,7 +36,7 @@ The conspiracy began by identifying the most corruptible and ambitious members o
 
 **Primary Targets**:
 - **Financial Desperation**: Representatives with gambling debts, failed businesses, or family medical expenses
-- **Personal Scandals**: Officials with compromising relationships, criminal histories, or moral hypocrisies  
+- **Personal Scandals**: Officials with compromising relationships, criminal histories, or moral hypocrisies
 - **Ideological Extremism**: Politicians whose radical views could be weaponized for shadow purposes
 - **Professional Ambition**: Career politicians willing to compromise principles for advancement
 
@@ -61,7 +61,7 @@ Initial shadow agents focused on procedural manipulation rather than dramatic po
 - Creation of false intelligence reports to influence decision-making
 - Establishment of propaganda networks within government communications
 
-### Phase Two: The Expansion (8 Years Ago - 3 Years Ago)  
+### Phase Two: The Expansion (8 Years Ago - 3 Years Ago)
 **"Claiming the Seats"**
 
 #### Strategic Replacements
@@ -69,7 +69,7 @@ With infrastructure established, the conspiracy began systematic replacement of 
 
 **Replacement Priority System**:
 1. **Committee Chairs**: Control over legislative agenda and procedural rules
-2. **Budget Oversight**: Authority over government spending and resource allocation  
+2. **Budget Oversight**: Authority over government spending and resource allocation
 3. **Foreign Relations**: Influence over diplomatic policies and international agreements
 4. **Internal Security**: Access to law enforcement and intelligence operations
 5. **Economic Policy**: Control over trade regulations and business legislation
@@ -80,7 +80,7 @@ With infrastructure established, the conspiracy began systematic replacement of 
 - **Family Pressure**: Threats or actual harm to family members forcing cooperation or replacement
 - **Voluntary Collaboration**: Ideological converts willingly undergoing shadow enhancement procedures
 
-#### Shadow Chamber Establishment  
+#### Shadow Chamber Establishment
 Secret parliamentary body operating parallel to official government:
 
 **Structure**:
@@ -91,7 +91,7 @@ Secret parliamentary body operating parallel to official government:
 
 **Functions**:
 - Pre-vote coordination to ensure shadow-favorable outcomes
-- Development of legislation serving shadow conspiracy interests  
+- Development of legislation serving shadow conspiracy interests
 - Counter-intelligence operations against government oversight
 - Recruitment and vetting of new shadow parliamentary candidates
 
@@ -116,8 +116,8 @@ With substantial parliamentary presence established, the conspiracy refined cont
 ## Current Shadow Parliamentary Structure
 
 ### The Shadow Speaker
-**Position**: Unofficial leader of shadow parliamentary operations  
-**Current Holder**: Deputy Speaker Marina Voidwhisper (shadow replacement)  
+**Position**: Unofficial leader of shadow parliamentary operations
+**Current Holder**: Deputy Speaker Marina Voidwhisper (shadow replacement)
 **Authority**: Coordinates all shadow parliamentary activities, maintains communication with conspiracy leadership
 
 **Responsibilities**:
@@ -129,20 +129,20 @@ With substantial parliamentary presence established, the conspiracy refined cont
 ### Committee Infiltration Status
 
 #### Budget and Finance Committee
-**Shadow Control**: 7 of 12 members (58% control)  
-**Key Operatives**: 
+**Shadow Control**: 7 of 12 members (58% control)
+**Key Operatives**:
 - **Chairman Marcus Goldstream**: Shadow replacement, 3 years in position
 - **Vice-Chair Elena Coincount**: Corrupted original, blackmail-controlled
 - **Senior Member Tobias Expenditure**: Voluntary collaborator, ideologically converted
 
 **Controlled Functions**:
 - Government facility funding for shadow operations
-- Budget allocation hiding surgical network expenses  
+- Budget allocation hiding surgical network expenses
 - Financial oversight of departments containing shadow operatives
 - Resource diversion supporting conspiracy infrastructure
 
-#### Foreign Relations Committee  
-**Shadow Control**: 5 of 9 members (55% control)  
+#### Foreign Relations Committee
+**Shadow Control**: 5 of 9 members (55% control)
 **Key Operatives**:
 - **Ranking Member Cordelia Diplomacy**: Shadow replacement, 18 months in position
 - **Cultural Liaison Jasper Worldbridge**: Enhanced original with implanted shadow advisors
@@ -155,7 +155,7 @@ With substantial parliamentary presence established, the conspiracy refined cont
 - Treaty negotiations including shadow-favorable economic terms
 
 #### Internal Security Committee
-**Shadow Control**: 4 of 8 members (50% control)  
+**Shadow Control**: 4 of 8 members (50% control)
 **Key Operatives**:
 - **Security Liaison Captain Reef Shadowstrike**: Shadow replacement, military background
 - **Intelligence Coordinator Sage Voidseeker**: Corrupted original with enhanced shadow awareness
@@ -232,7 +232,7 @@ For critical shadow priorities, operatives coordinate to create artificial conse
 **Data Management Manipulation**:
 - **Record Modification**: Altering government documents to hide shadow activities
 - **Classification Abuse**: Over-classifying information about legitimate government operations
-- **Database Corruption**: Introducing errors that benefit shadow operatives  
+- **Database Corruption**: Introducing errors that benefit shadow operatives
 - **Communication Monitoring**: Surveillance of non-shadow government officials
 
 ### Judicial Integration

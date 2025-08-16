@@ -2,7 +2,7 @@
 
 title: The Sunken Conspiracy - Introduction
 type: Adventure
-tags: 
+tags:
 - aquabyssos
 - adventure
 - session-notes
@@ -94,9 +94,9 @@ improvements: 20
 
 ## Adventure Overview
 
-**Duration**: 5 sessions (approximately 20-25 hours of play)  
-**Party Level**: 1st-3rd level  
-**Party Size**: 3-6 characters  
+**Duration**: 5 sessions (approximately 20-25 hours of play)
+**Party Level**: 1st-3rd level
+**Party Size**: 3-6 characters
 **Adventure Type**: Investigation, Conspiracy, Action-Adventure
 
 ### Synopsis
@@ -119,7 +119,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Discover the first major clues
 - Encounter their first taste of danger
 
-### Session 2: Harbor Investigation  
+### Session 2: Harbor Investigation
 
 *Social encounters and clue gathering*
 - Deep dive into the political landscape
@@ -185,7 +185,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Operates from the shadows with supernatural crew
 - May appear throughout adventure as escalating threat
 
-**Vex Thornwater** 
+**Vex Thornwater**
 - Ambitious smuggler seeking to control the harbor
 - Leader of the "Iron Current" smuggling ring
 - Ruthless but pragmatic, open to negotiation
@@ -344,7 +344,7 @@ Major rewards include:
 ## DM Notes and Secrets
 
 > [!warning] DM Only Information
-> 
+>
 > ### The Real Conspiracy
 
 > The ship disappearances are part of a three-pronged operation:

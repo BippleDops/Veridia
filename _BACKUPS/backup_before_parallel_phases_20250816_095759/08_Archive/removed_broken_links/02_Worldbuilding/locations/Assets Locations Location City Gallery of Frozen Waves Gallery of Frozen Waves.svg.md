@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Gallery of Frozen Waves Gallery of Frozen Waves.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gallery of frozen waves gallery of frozen
   wavessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Crystal Cult Initiates Ambush
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

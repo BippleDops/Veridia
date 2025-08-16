@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc duke sterling truecrystal v1 duke sterling truecrystalsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Duke Sterling Truecrystal V1 Duke Sterling Truecrystal.svg
 type: npc

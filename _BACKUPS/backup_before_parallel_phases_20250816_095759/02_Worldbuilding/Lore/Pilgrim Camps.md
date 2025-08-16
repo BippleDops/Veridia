@@ -2,7 +2,7 @@
 
 title: Pilgrim Camps
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

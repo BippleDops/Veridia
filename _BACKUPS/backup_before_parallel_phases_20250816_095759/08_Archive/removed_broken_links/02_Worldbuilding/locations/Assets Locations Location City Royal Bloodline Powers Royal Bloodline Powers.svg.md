@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Royal Bloodline Powers Royal Bloodline Powers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal bloodline powers royal bloodline
   powerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -177,7 +177,7 @@ Key locations marked:
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 2
-  
+
 ### Environmental Hazards
 - Pit trap
 - **DC 16** to detect
@@ -195,7 +195,7 @@ Key locations marked:
 - **Recent History**: Plague 18 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Election in 17 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: Links to The Second Prophecy of Shadows

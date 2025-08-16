@@ -2,7 +2,7 @@
 
 title: The Exotic Wharf
 type: [[Lore
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

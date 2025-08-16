@@ -2,7 +2,7 @@
 
 title: Portrait NPC Emperor Thalassius Emperor Thalassius.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

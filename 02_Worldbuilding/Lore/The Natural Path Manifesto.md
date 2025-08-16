@@ -2,7 +2,7 @@
 
 title: The Natural [[path Manifesto
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

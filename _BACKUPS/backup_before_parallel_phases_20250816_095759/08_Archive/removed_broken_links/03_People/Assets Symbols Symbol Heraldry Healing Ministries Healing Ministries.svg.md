@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Healing Ministries Healing Ministries.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry healing ministries healing ministriessvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

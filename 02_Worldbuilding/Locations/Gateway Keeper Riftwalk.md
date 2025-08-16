@@ -2,7 +2,7 @@
 
 title: Gateway Keeper Riftwalk
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

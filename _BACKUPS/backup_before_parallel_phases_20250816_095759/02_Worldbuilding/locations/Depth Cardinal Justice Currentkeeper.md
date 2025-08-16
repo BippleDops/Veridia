@@ -2,7 +2,7 @@
 
 title: Depth Cardinal Justice Currentkeeper
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -160,7 +160,7 @@ Ongoing situations affecting Depth Cardinal Justice Currentkeeper:
 - **Dragon**: gem
   - Traits: standard
   - CR Range: 10
-  
+
 ### [Environmental Hazards]]
 - Collapsing ceiling
 - **DC 15** to detect

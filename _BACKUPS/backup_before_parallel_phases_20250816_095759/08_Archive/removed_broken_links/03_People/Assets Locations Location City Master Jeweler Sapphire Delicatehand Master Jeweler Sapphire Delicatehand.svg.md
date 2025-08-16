@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Jeweler Sapphire Delicatehand Master
   Jeweler Sapphire Delicatehand.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master jeweler sapphire delicatehand
   master jeweler sapphire delicatehandsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -227,7 +227,7 @@ Member of House Eagleblood - Trait: curse
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

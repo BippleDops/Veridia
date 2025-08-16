@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city bridge currentcrosser v1 bridge currentcrossersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Bridge Currentcrosser V1 Bridge Currentcrosser.svg
 type: location

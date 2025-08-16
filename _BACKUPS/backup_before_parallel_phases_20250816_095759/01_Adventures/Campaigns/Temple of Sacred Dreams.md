@@ -2,7 +2,7 @@
 
 title: Temple of Sacred Dreams
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Great Sky Harbor the Great Sky Harbor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the great sky harbor the great sky harborsvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor

@@ -2,7 +2,7 @@
 
 title: [[Campaign_Management_Guide|Campaign Management Guide
 type: [Lore]]
-tags: 
+tags:
 - lore
 - complete
 - content/lore

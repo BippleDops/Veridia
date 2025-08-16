@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Quest the Missing Fleet V1 Quest the Missing
   Fleet.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest the missing fleet v1 quest the
   missing fleetsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -192,7 +192,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

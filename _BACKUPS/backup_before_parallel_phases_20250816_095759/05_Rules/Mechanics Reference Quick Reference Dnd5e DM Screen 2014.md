@@ -3,7 +3,7 @@ enhanced: true
 
 title: Mechanics Reference Quick Reference Dnd5e DM Screen 2014
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - prophecy

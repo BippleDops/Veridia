@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Aquabyssos Kelp Wine V1 Aquabyssos Kelp Wine.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city aquabyssos kelp wine v1 aquabyssos kelp
   winesvg
 type: location
-tags: 
+tags:
 - aquabyssos
 - place
 - active

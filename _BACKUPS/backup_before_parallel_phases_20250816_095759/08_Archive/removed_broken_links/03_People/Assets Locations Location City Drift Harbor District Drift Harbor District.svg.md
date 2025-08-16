@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Drift Harbor District Drift Harbor District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city drift harbor district drift harbor districtsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -195,7 +195,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

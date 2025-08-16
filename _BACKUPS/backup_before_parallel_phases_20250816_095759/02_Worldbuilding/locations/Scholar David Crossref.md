@@ -2,7 +2,7 @@
 
 title: Scholar David Crossref
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

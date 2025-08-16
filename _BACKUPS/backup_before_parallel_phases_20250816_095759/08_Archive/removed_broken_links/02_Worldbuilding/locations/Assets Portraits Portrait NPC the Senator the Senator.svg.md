@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Senator the Senator.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the senator the senatorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

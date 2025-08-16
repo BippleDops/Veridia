@@ -2,7 +2,7 @@
 
 title: Vex Shadowthorn Boss Fight
 type: Faction
-tags: 
+tags:
 - status/complete
 - content/faction
 - faction

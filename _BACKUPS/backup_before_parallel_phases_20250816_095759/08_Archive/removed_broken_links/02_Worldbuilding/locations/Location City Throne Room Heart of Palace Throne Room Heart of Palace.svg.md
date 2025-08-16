@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city throne room heart of palace throne room heart of palacesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Throne Room Heart of Palace Throne Room Heart of Palace.svg
 type: location

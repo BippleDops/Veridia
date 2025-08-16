@@ -2,7 +2,7 @@
 
 title: Intelligence Chief Shadow Knowal
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

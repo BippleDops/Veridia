@@ -2,7 +2,7 @@
 
 title: Memory [[Merchant Zara Mindweave
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - content/adventure

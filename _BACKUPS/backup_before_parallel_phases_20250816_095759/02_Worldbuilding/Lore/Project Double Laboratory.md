@@ -2,7 +2,7 @@
 
 title: Project Double Laboratory
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Battle Priest Cassius Depthshield V1 Battle
   Priest Cassius Depthshield.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city battle priest cassius depthshield v1
   battle priest cassius depthshieldsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Luminous Dawn Cathedral the Luminous Dawn
   Cathedral.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the luminous dawn cathedral the luminous
   dawn cathedralsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

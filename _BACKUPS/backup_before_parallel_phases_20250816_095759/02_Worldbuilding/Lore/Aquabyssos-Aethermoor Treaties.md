@@ -1,7 +1,7 @@
 ---
 title: [[Aquabyssos [Aethermoor]] Treaties
 type: [[Lore
-tags: 
+tags:
 - trade
 - aerial
 - aquatic

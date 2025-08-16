@@ -2,7 +2,7 @@
 
 title: Antiquarian Eliza Tidecaller
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - antiquarian
@@ -512,7 +512,7 @@ Ongoing situations affecting Antiquarian Eliza Tidecaller:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

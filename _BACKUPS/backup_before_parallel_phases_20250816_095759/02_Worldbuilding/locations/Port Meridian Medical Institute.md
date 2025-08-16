@@ -2,7 +2,7 @@
 
 title: [[Port Meridian Medical Institute
 type: [location]]
-tags: 
+tags:
 - both worlds
 - world/both
 - content/location

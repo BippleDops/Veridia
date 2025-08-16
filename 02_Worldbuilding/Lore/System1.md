@@ -1,7 +1,7 @@
 ---
 title: System1
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

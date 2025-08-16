@@ -110,9 +110,9 @@
 ```markdown
 # [Name]
 
-**Race:** 
-**Class/Occupation:** 
-**Alignment:** 
+**Race:**
+**Class/Occupation:**
+**Alignment:**
 
 ## Description
 
@@ -125,9 +125,9 @@
 ## Relationships
 
 ## Stats (if needed)
-- **AC:** 
-- **HP:** 
-- **Speed:** 
+- **AC:**
+- **HP:**
+- **Speed:**
 - **STR:** 10 (+0) **DEX:** 10 (+0) **CON:** 10 (+0)
 - **INT:** 10 (+0) **WIS:** 10 (+0) **CHA:** 10 (+0)
 

@@ -2,7 +2,7 @@
 
 title: Port Meridian   Noble Quarter
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

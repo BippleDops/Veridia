@@ -21,7 +21,7 @@ type: session
 updated: 2025-08-14
 - -- # Session 10 - Diplomatic Immunity ## Overview This document contains important information regarding Session 10 - Diplomatic Immunity and its role within the greater narrative. ## Description
 
-**Details**: Rich sensory elements bring this to life. Session 10 - Diplomatic Immunity represents a significant element within the campaign world, offering various opportunities for engagement and 
+**Details**: Rich sensory elements bring this to life. Session 10 - Diplomatic Immunity represents a significant element within the campaign world, offering various opportunities for engagement and
 *The [texture] surface feels [description] to the touch.*development. ## Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. Furthermore, ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault

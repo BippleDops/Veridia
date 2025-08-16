@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Theological Education Theological Education.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city theological education theological educationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

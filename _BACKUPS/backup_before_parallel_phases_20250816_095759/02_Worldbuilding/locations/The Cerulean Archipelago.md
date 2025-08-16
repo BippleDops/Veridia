@@ -1,10 +1,10 @@
 ---
 
 title: The Cerulean Archipelago
-aliases: 
+aliases:
 - Cerulean Archipelago
 type: Location
-tags: 
+tags:
 - both
 - [[region]]
 - content/location

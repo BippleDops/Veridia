@@ -2,7 +2,7 @@
 
 title: Sage of Two Worlds
 type: [[Lore
-tags: 
+tags:
 - lore
 - dimensional threshold (both realms)
 - content/lore

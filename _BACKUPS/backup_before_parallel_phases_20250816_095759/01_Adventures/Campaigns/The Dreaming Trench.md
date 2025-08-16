@@ -2,7 +2,7 @@
 
 title: The Dreaming Trench
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

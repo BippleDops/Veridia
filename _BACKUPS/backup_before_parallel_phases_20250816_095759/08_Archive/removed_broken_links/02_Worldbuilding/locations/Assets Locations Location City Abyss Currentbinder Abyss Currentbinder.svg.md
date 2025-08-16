@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Abyss Currentbinder Abyss Currentbinder.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city abyss currentbinder abyss currentbindersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

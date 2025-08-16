@@ -2,7 +2,7 @@
 
 title: A Sample Pantheon Dawn War Deities
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

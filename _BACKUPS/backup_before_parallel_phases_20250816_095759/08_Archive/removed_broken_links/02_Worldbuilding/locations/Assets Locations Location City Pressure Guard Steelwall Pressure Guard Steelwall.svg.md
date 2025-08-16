@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Pressure Guard Steelwall Pressure Guard Steelwall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure guard steelwall pressure guard
   steelwallsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -172,7 +172,7 @@ Key locations marked:
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 10
-  
+
 ### Environmental Hazards
 - Pit trap
 - **DC 12** to detect
@@ -192,7 +192,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

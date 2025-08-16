@@ -2,7 +2,7 @@
 
 title: [[Admiral Marina Stormcrest
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

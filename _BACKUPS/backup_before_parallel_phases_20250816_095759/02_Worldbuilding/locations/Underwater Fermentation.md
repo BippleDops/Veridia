@@ -2,7 +2,7 @@
 
 title: Underwater Fermentation
 type: [[location
-tags: 
+tags:
 - both
 - aquatic
 - world/both
@@ -162,7 +162,7 @@ Ongoing situations affecting Underwater Fermentation:
 - **Dragon**: gem
   - Traits: standard
   - CR Range: 18
-  
+
 ### [[Environmental Hazards
 - Magical ward
 - **DC 20** to detect
@@ -180,7 +180,7 @@ Ongoing situations affecting Underwater Fermentation:
 - **Recent History**: Fire 31 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Arrival in 29 days
 - **Brewing Conflict**: [Trade War]]
 - **Prophecy Connection**: [[Link]]s to The Hidden Prophecy of Depths

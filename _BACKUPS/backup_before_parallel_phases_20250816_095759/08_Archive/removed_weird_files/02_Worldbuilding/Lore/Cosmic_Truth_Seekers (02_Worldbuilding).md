@@ -2,7 +2,7 @@
 
 title: [[Cosmic Truth|[Cosmic Truth Seekers]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy
@@ -286,7 +286,7 @@ Mentioned in The First Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

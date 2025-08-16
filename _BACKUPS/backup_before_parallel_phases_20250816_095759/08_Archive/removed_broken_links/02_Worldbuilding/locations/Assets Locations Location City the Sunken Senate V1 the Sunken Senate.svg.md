@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Sunken Senate V1 the Sunken Senate.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sunken senate v1 the sunken senatesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

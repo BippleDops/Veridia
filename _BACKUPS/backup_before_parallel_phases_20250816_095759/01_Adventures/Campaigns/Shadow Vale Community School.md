@@ -2,7 +2,7 @@
 
 title: Shadow Vale Community School
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

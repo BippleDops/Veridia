@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc tribune cassia deepcurrent v1 tribune cassia deepcurrentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Tribune Cassia Deepcurrent V1 Tribune Cassia Deepcurrent.svg
 type: npc

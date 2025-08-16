@@ -2,7 +2,7 @@
 
 title: [[Artificer Prism Lightweaver
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -111,7 +111,7 @@ Mentioned in The First Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Coral Throne Syndicate Hq Coral Throne Syndicate
   Hq.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral throne syndicate hq coral throne
   syndicate hqsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -192,7 +192,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

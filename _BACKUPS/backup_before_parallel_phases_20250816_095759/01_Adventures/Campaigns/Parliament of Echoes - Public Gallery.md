@@ -1,7 +1,7 @@
 ---
 title: [[Parliament of Echoes   Public Gallery
 type: Location
-tags: 
+tags:
 - gallery
 - content/faction
 - content/location

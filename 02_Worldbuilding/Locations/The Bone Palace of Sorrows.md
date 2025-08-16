@@ -2,7 +2,7 @@
 
 title: The Bone Palace of Sorrows
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Spectral Gallery the Spectral Gallery.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the spectral gallery the spectral gallerysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

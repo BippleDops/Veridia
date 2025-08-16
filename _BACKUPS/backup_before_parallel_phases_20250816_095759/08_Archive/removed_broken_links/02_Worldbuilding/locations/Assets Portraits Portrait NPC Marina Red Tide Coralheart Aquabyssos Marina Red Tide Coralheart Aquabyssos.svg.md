@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Marina Red Tide Coralheart Aquabyssos Marina
   Red Tide Coralheart Aquabyssos.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc marina red tide coralheart aquabyssos
   marina red tide coralheart aquabyssossvg
 type: location
-tags: 
+tags:
 - aquabyssos
 - place
 - active
@@ -196,7 +196,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

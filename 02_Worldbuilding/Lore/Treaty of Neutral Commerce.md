@@ -2,7 +2,7 @@
 
 title: Treaty of Neutral Commerce
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

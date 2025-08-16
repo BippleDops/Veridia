@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city curse of eternal winter curse of eternal wintersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Curse of Eternal Winter Curse of Eternal Winter.svg
 type: location

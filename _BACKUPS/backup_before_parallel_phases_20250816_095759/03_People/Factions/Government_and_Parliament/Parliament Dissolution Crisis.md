@@ -2,7 +2,7 @@
 
 title: Parliament Dissolution Crisis
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

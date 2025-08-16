@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the depth market v1 the depth marketsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Depth Market V1 the Depth Market.svg
 type: location

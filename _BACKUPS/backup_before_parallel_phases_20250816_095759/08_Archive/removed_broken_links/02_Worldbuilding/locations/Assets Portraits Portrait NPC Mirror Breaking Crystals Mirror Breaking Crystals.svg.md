@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc mirror breaking crystals mirror breaking
   crystalssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

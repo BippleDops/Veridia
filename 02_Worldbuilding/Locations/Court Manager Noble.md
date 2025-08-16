@@ -2,7 +2,7 @@
 
 title: Court Manager Noble
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

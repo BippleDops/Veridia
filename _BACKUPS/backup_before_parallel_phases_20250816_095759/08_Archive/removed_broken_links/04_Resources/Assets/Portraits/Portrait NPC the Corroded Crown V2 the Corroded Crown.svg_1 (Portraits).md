@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the corroded crown v2 the corroded crownsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Corroded Crown V2 the Corroded Crown.svg
 type: npc

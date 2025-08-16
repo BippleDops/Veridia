@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Bathyal Succession Bathyal Succession.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city bathyal succession bathyal successionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

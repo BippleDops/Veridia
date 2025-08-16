@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Crown of Eternal Ice V1 Crown of Eternal Ice.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crown of eternal ice v1 crown of eternal
   icesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

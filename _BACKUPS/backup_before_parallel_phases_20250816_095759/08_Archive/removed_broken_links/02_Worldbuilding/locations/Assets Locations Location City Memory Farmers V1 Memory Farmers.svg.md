@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Memory Farmers V1 Memory Farmers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory farmers v1 memory farmerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

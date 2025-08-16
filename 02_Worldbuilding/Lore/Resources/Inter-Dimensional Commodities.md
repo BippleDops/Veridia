@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Resources/Inter-Dimensional Commodities
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

@@ -3,7 +3,7 @@ enhanced: true
 
 title: "Complete Reality Merger System#reality Anchor Mechanics"
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

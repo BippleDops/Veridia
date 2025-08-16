@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Vehicles/Stealth Submarines
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

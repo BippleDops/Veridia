@@ -2,7 +2,7 @@
 
 title: Consequence Chain 3 Reality Merger Diplomatic Crisis
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

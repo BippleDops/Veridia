@@ -2,7 +2,7 @@
 
 title: Master Trader Abyss Currentbinder
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

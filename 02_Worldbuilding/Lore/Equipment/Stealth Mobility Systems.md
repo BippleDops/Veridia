@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Equipment/Stealth Mobility Systems
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

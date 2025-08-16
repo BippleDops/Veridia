@@ -2,7 +2,7 @@
 
 title: Coral Craftsman
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

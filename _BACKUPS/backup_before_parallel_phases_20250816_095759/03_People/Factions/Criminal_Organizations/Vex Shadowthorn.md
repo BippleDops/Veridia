@@ -2,7 +2,7 @@
 
 title: Vex Shadowthorn
 type: Faction
-tags: 
+tags:
 - status/complete
 - mechanics/magic
 - content/faction

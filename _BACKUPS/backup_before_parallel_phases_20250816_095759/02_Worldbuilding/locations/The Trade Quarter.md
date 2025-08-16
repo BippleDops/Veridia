@@ -2,7 +2,7 @@
 
 title: The Trade Quarter
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

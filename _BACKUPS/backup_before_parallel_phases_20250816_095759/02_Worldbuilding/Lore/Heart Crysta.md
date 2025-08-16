@@ -2,7 +2,7 @@
 
 title: Heart Crysta
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

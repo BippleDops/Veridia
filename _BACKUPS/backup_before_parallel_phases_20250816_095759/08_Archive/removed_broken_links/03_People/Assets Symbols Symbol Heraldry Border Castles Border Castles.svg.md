@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Border Castles Border Castles.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry border castles border castlessvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

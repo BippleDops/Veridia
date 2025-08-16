@@ -2,7 +2,7 @@
 
 title: The Consciousness Vault
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

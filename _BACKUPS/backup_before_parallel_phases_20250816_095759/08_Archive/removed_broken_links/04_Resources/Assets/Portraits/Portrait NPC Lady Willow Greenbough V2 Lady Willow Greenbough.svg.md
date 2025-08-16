@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lady willow greenbough v2 lady willow greenboughsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lady Willow Greenbough V2 Lady Willow Greenbough.svg
 type: npc

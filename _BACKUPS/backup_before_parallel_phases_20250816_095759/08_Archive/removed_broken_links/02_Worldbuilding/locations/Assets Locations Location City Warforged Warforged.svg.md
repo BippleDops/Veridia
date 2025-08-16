@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Warforged Warforged.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city warforged warforgedsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

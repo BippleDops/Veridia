@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Syndicate Enforcers Syndicate Enforcers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city syndicate enforcers syndicate enforcerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

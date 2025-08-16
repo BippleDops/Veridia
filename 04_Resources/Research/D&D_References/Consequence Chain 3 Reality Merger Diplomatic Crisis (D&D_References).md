@@ -2,7 +2,7 @@
 
 title: Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

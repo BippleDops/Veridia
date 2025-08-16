@@ -2,7 +2,7 @@
 
 title: [[Memoriam Keeper Marcus Remembrance
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - world/aquabyssos
 - content/location

@@ -3,7 +3,7 @@ enhanced: true
 
 title: Spell Slots
 type: spell-slots
-tags: 
+tags:
 - mechanics
 - tracking
 - spells

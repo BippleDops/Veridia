@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Witness Protection Protocols V1 Witness Protection
   Protocols.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry witness protection protocols v1 witness
   protection protocolssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -201,7 +201,7 @@ Mentioned in The Hidden Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

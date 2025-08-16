@@ -2,7 +2,7 @@
 
 title: Corrupt Crystalline Guard
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

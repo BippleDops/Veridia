@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memory Merchant Headquarters V1 Memory Merchant
   Headquarters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory merchant headquarters v1 memory
   merchant headquarterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

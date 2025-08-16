@@ -2,7 +2,7 @@
 
 title: list-spells-classes-circle-of-the-sea-xphb (lists)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

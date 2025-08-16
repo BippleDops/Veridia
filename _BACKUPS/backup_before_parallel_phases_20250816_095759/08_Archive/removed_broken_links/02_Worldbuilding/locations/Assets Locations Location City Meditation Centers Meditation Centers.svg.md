@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Meditation Centers Meditation Centers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city meditation centers meditation centerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

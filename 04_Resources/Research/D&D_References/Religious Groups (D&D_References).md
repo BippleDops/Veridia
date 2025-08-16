@@ -2,7 +2,7 @@
 
 title: Religious Groups (D&D_References)
 type: organization
-tags: 
+tags:
 - organization
 
 created: '2025-01-15'

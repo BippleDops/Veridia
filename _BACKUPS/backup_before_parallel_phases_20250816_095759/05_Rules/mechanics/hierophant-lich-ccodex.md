@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/CLI/bestiary/undead/hierophant-lich-ccodex
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

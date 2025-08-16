@@ -2,7 +2,7 @@
 
 title: Captain Nautilus the Deep Wanderer (D&D_Statblocks)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc harbor master luna freedrift v2 harbor master luna freedriftsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Harbor Master Luna Freedrift V2 Harbor Master Luna Freedrift.svg
 type: npc

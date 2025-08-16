@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Crystal Master Prism Lightweaver V1 Crystal
   Master Prism Lightweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal master prism lightweaver v1
   crystal master prism lightweaversvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

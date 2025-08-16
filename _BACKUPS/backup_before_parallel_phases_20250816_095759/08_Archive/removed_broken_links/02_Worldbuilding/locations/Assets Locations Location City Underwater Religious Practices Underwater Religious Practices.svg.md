@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Underwater Religious Practices Underwater Religious
   Practices.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city underwater religious practices underwater
   religious practicessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

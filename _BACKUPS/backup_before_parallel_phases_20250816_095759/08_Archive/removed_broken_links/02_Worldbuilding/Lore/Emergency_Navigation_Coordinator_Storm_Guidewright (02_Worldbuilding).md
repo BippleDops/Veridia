@@ -2,7 +2,7 @@
 
 title: [[Emergency Navigation Coordinator Storm Guidewright
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city silver threadweaver v1 silver threadweaverpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Silver Threadweaver V1 Silver Threadweaver.png
 type: location

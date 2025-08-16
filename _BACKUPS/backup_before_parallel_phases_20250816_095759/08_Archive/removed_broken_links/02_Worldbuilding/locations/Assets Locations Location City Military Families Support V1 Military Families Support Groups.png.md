@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Military Families Support V1 Military Families
   Support Groups.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city military families support groups v1
   military families support groupspng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

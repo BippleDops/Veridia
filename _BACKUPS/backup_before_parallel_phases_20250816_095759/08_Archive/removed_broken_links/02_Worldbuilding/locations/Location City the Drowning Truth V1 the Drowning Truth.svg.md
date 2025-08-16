@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the drowning truth v1 the drowning truthsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Drowning Truth V1 the Drowning Truth.svg
 type: location

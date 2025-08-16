@@ -1,7 +1,7 @@
 ---
 title: [[region Name
 type: note
-tags: 
+tags:
 - auto-generated
 - [Link]]ed
 created: '2025-01-15'
@@ -49,7 +49,7 @@ Further information about this topic will be developed as the campaign progresse
 - [Emergency Signal Mirrors]]
 - [[Emotional Reflection Mirrors
 - [Encrypted Reflection Messages]]
-- 
+-
 - [[Evidence Recording Glass
 - [Existence Beacons (Items)]]
 - [[Future Glimpse Glass

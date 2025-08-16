@@ -2,7 +2,7 @@
 
 title: Institute of Adaptive Sciences
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

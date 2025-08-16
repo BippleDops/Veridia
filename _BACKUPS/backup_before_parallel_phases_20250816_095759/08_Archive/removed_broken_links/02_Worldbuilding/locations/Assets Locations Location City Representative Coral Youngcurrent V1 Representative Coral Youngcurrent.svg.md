@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Representative Coral Youngcurrent V1 Representative
   Coral Youngcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city representative coral youngcurrent v1
   representative coral youngcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -183,7 +183,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: [[Economic_System|Economic Systems and Currency
 type: [Lore]]
-tags: 
+tags:
 - economy
 - lore
 - both
@@ -110,7 +110,7 @@ The economic systems of [[Aethermoor and [Aquabyssos]] represent a complex web o
 - **Copper Crown** (1 gp value) - Small purchases, wages
 - **[[Crystal Shards** (0.1 gp value) - Fractional currency, change
 
-**Special Features**: 
+**Special Features**:
 - [Embed]]ded with authentication crystals that glow when genuine
 - Magically enhanced to resist counterfeiting
 - Exchange rate fluctuates based on crystal market stability
@@ -138,7 +138,7 @@ The economic systems of [[Aethermoor and [Aquabyssos]] represent a complex web o
 **Issuing Authority**: [[12 Research's ficial network
 **Backing**: Diversified portfolio of investments and precious metals
 **Usage**: Internal transactions within Goldwave business empire
-**Special Features**: 
+**Special Features**:
 - Redeemable for services across Goldwave companies
 - Offers preferential exchange rates to frequent users
 - Includes limited magical enhancements and benefits
@@ -173,7 +173,7 @@ The economic systems of [[Aethermoor and [Aquabyssos]] represent a complex web o
 #### Pressure Coins (Industrial Currency)
 
 **Issuing Authority**: Deep Manufacturing Guilds
-**Backing**: Pressure-forged materials and technological expertise  
+**Backing**: Pressure-forged materials and technological expertise
 **Usage**: Payment for pressure-manufactured goods and deep-sea services
 **Special Properties**:
 - Physically compressed to contain more value in smaller size
@@ -200,7 +200,7 @@ The economic systems of [[Aethermoor and [Aquabyssos]] represent a complex web o
 #### [Deep Vault Banking Consortium]]
 
 **Controller**: [[Banker Titus Goldcurrent
-**Services**: 
+**Services**:
 - Secure currency storage across both realms
 - Inter-realm wire transfers using magical communication
 - Currency speculation and hedging
@@ -233,7 +233,7 @@ The economic systems of [[Aethermoor and [Aquabyssos]] represent a complex web o
 
 **Origin**: Unknown (possibly extra-dimensional)
 **Usage**: Payment for services that cannot be obtained through legal means
-**Properties**: 
+**Properties**:
 - Appear to phase in and out of reality
 - Only visible to those engaged in specific types of forbidden activities
 - Value determined by the magnitude of laws broken or taboos violated
@@ -256,7 +256,7 @@ The economic systems of [[Aethermoor and [Aquabyssos]] represent a complex web o
 - Shard acquisition ficing
 - Revolutionary planning support
 
-#### Deep Vault Banking Consortium  
+#### Deep Vault Banking Consortium
 
 **Controller**: [Banker Titus Goldcurrent]]
 **Specialty**: Cross-realm currency manipulation and control
@@ -296,7 +296,7 @@ The economic systems of [[Aethermoor and [Aquabyssos]] represent a complex web o
 - **Special Coverage**: Crystal corruption insurance, piracy protection, weather delays
 
 **Current Rider Protection**
-- **Specialty**: Deep-sea route insurance using current-riding technology  
+- **Specialty**: Deep-sea route insurance using current-riding technology
 - **Coverage**: Unique hazards like pressure damage, current maze entrapment, deep-sea monsters
 - **Premiums**: 5-25% of cargo value for deep-route coverage
 - **Benefits**: Rescue services included, specialized deep-sea recovery
@@ -408,7 +408,7 @@ The economic systems of [[Aethermoor and [Aquabyssos]] represent a complex web o
 
 #### Port Districts
 
-**Economic Focus**: Trade facilitation, maritime services, [International Commerce]]  
+**Economic Focus**: Trade facilitation, maritime services, [International Commerce]]
 **Currency Preference**: Mixed currencies with heavy exchange activity
 **Major Players**: [[Merchant Princes, independent traders, [Foreign Merchants]]
 **Unique Features**: 24-hour operations, multi-cultural business practices, competitive pricing
@@ -501,7 +501,7 @@ The economic systems of [[Aethermoor and [Aquabyssos]] represent a complex web o
 
 3. **The Tax Rebellion**: Merchants are refusing to pay new taxes, and players must resolve the situation without triggering economic collapse.
 
-#### Criminal Economy Adventures  
+#### Criminal Economy Adventures
 
 1. **The Money Laundering Network**: Players discover their legitimate business is being used to clean criminal profits, forcing them to choose between profit and law.
 
@@ -512,7 +512,7 @@ The economic systems of [[Aethermoor and [Aquabyssos]] represent a complex web o
 #### Random Market Events (d20)
 
 1-3: **Market Stability** - Normal conditions, no special modifiers
-4-6: **Price Fluctuations** - Random goods increase/decrease 10-30% in price  
+4-6: **Price Fluctuations** - Random goods increase/decrease 10-30% in price
 7-9: **Currency Changes** - Exchange rates shift by 5-15%
 10-12: **Trade Disruption** - Specific routes delayed or closed temporarily
 13-15: **Political Economic** - Government policy changes affect business
@@ -576,7 +576,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

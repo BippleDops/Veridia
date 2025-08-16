@@ -2,7 +2,7 @@
 
 title: Resoce Bomb
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

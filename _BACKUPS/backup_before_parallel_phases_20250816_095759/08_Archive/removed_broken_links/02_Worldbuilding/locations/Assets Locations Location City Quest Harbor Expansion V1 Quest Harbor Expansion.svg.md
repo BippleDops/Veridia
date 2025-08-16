@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Quest Harbor Expansion V1 Quest Harbor Expansion.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest harbor expansion v1 quest harbor
   expansionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

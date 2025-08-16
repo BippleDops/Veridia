@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Intellectual Freedom Movement Intellectual Freedom
   Movement.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city intellectual freedom movement intellectual
   freedom movementsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

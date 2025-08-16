@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memorial tender sarah v1 memorial tender sarahsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memorial Tender Sarah V1 Memorial Tender Sarah.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: The Memory Storm Fields
 type: [[location
-tags: 
+tags:
 - environmental-hazard
 - [Aquabyssos]]
 - memory-phenomena
@@ -121,38 +121,38 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 
 #### [The Lost Expedition]]
 
-**Level**: 6-11  
-**Hook**: Research team disappeared in memory storm three weeks ago  
-**Investigation**: Track expedition through memory trail [[Evidence  
-**Complication**: Team members scattered across different historical periods  
-**Challenge**: Navigate multiple memory zones while avoiding temporal displacement  
+**Level**: 6-11
+**Hook**: Research team disappeared in memory storm three weeks ago
+**Investigation**: Track expedition through memory trail [[Evidence
+**Complication**: Team members scattered across different historical periods
+**Challenge**: Navigate multiple memory zones while avoiding temporal displacement
 **Resolution**: Rescue survivors while recovering critical research [data]]
 
 #### [[Memory Thief|The [Memory Thief]]
 
-**Level**: 8-13  
-**Hook**: Someone is artificially creating memory storms to steal specific memories  
-**Mystery**: Pattern of thefts suggests search for particular historical secret  
-**Investigation**: Track perpetrator through memory storm manipulation evidence  
-**Danger**: Stolen memories are destabilizing entire regions with artificial storms  
+**Level**: 8-13
+**Hook**: Someone is artificially creating memory storms to steal specific memories
+**Mystery**: Pattern of thefts suggests search for particular historical secret
+**Investigation**: Track perpetrator through memory storm manipulation evidence
+**Danger**: Stolen memories are destabilizing entire regions with artificial storms
 **Stakes**: Must stop thief before accumulated stolen memories create catastrophic hurricane
 
 #### The Temporal Refugee
 
-**Level**: 10-15  
-**Hook**: Person from past era appears claiming to be displaced by memory storm  
-**Complexity**: Refugee's presence is causing temporal paradoxes  
-**Investigation**: Determine if refugee is real, illusion, or memory construct  
-**Choice**: Help refugee return to proper time or find place in current era  
+**Level**: 10-15
+**Hook**: Person from past era appears claiming to be displaced by memory storm
+**Complexity**: Refugee's presence is causing temporal paradoxes
+**Investigation**: Determine if refugee is real, illusion, or memory construct
+**Choice**: Help refugee return to proper time or find place in current era
 **Consequence**: Decision affects historical [[Timeline and future developments
 
 #### The Memory War
 
-**Level**: 12-18  
-**Hook**: Hostile faction weaponizing memory storms against civilian populations  
-**Scale**: Regional conflict using psychological warfare through induced trauma  
-**Challenge**: Stop memory storm weapons while treating massive psychological casualties  
-**Innovation**: Develop new defensive techniques against weaponized memory  
+**Level**: 12-18
+**Hook**: Hostile faction weaponizing memory storms against civilian populations
+**Scale**: Regional conflict using psychological warfare through induced trauma
+**Challenge**: Stop memory storm weapons while treating massive psychological casualties
+**Innovation**: Develop new defensive techniques against weaponized memory
 **Resolution: Prevent escalation while addressing underlying political causes
 
 ### [Key Locations]]
@@ -263,7 +263,7 @@ Ongoing situations affecting The Memory Storm Fields:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Market Mystery V1 Market Mystery.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city market mystery v1 market mysterysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

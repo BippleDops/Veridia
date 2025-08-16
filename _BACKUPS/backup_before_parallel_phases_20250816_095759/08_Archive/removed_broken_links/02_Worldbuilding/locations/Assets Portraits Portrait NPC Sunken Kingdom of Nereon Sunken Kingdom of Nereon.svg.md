@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Sunken Kingdom of Nereon Sunken Kingdom of Nereon.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc sunken kingdom of nereon sunken kingdom
   of nereonsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

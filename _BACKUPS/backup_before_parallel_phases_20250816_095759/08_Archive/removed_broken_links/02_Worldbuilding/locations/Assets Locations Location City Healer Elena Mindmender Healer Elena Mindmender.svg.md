@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Healer Elena Mindmender Healer Elena Mindmender.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city healer elena mindmender healer elena
   mindmendersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

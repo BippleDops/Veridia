@@ -15,7 +15,7 @@ This comprehensive folder contains everything you need to run successful D&D 5e 
 #### 📋 Quick_References
 Fast access to rules, conditions, and DCs during play.
 
-#### 🎲 Random_Tables  
+#### 🎲 Random_Tables
 Encounters, loot, NPCs for improvisation.
 
 #### ⚔️ Encounter_Tools

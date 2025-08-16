@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Warehouse District V1 Warehouse District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city warehouse district v1 warehouse districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

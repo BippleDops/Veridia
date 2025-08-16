@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Chef Gastropod Chef Gastropod.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chef gastropod chef gastropodsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

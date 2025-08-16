@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city screaming gardens songwood grove v1 screaming gardens songwood grovesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Screaming Gardens Songwood Grove V1 Screaming Gardens Songwood
   Grove.svg

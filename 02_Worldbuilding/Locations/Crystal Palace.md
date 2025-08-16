@@ -2,7 +2,7 @@
 
 title: Crystal Palace
 type: [[location
-tags: 
+tags:
 - both
 - world/[Aquabyssos]]
 - royal
@@ -256,7 +256,7 @@ Ongoing situations affecting Crystal Palace:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

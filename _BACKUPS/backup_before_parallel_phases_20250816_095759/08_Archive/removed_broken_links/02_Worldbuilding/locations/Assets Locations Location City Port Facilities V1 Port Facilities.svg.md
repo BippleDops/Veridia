@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Port Facilities V1 Port Facilities.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port facilities v1 port facilitiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

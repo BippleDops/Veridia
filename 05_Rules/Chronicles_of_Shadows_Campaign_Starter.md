@@ -56,7 +56,7 @@ In this campaign, a powerful artifact has been shattered and its pieces scattere
 
 ## Campaign Themes
 - Mystery and investigation
-- Moral choices with consequences  
+- Moral choices with consequences
 - Rising threat that escalates over time
 - Heroes forged through adversity
 

@@ -2,7 +2,7 @@
 
 title: Symbiotic Integration Specialists
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

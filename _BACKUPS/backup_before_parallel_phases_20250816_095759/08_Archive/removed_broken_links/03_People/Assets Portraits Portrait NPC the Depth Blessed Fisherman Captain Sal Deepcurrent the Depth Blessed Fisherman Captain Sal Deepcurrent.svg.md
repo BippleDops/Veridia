@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent
   the Depth Blessed Fisherman Captain Sal Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the depth blessed fisherman captain sal
   deepcurrent the depth blessed fisherman captain sal deepcurrentsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

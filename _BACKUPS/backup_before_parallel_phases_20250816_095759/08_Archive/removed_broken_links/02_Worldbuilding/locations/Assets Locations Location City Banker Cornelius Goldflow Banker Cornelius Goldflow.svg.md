@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Banker Cornelius Goldflow Banker Cornelius Goldflow.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city banker cornelius goldflow banker cornelius
   goldflowsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

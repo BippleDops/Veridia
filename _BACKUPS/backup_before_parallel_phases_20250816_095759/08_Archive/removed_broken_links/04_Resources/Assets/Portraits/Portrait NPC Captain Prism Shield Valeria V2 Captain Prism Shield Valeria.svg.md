@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain prism shield valeria v2 captain prism shield valeriasvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Prism Shield Valeria V2 Captain Prism Shield Valeria.svg
 type: npc

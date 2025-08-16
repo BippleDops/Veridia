@@ -2,7 +2,7 @@
 
 title: The Tidal Sanctum
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

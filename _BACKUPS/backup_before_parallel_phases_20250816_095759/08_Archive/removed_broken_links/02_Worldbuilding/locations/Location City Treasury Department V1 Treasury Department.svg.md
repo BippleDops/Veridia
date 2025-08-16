@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city treasury department v1 treasury departmentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Treasury Department V1 Treasury Department.svg
 type: location

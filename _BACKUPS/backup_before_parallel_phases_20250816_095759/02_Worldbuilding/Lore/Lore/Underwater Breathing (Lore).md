@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Underwater Breathing
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

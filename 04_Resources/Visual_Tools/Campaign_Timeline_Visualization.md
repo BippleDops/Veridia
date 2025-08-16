@@ -11,12 +11,12 @@ gantt
     Act 1: Discovery        :act1, after start, 30d
     Act 2: Conflict         :act2, after act1, 45d
     Act 3: Resolution       :act3, after act2, 30d
-    
+
     section Character Arcs
     Hero's Journey          :hero, 2024-01-15, 90d
     Redemption Arc          :redemption, 2024-02-01, 75d
     Mystery Resolution      :mystery, 2024-01-30, 60d
-    
+
     section World Events
     Political Crisis        :crit, 2024-02-15, 14d
     Natural Disaster        :disaster, 2024-03-01, 7d
@@ -66,11 +66,11 @@ graph TD
     A[Aquabyssos Forces] --> B[Northern Border]
     A --> C[Eastern Fleet]
     A --> D[Capital Guard]
-    
+
     E[Aethermoor Forces] --> F[Sky Patrol]
     E --> G[Southern Outposts]
     E --> H[Mobile Reserves]
-    
+
     I[Independent Forces] --> J[Mercenary Companies]
     I --> K[City Militias]
     I --> L[Rebel Groups]
@@ -86,13 +86,13 @@ flowchart TD
     A[Player Action] --> B{Immediate Effect}
     B --> C[Short-term Consequence]
     B --> D[Alternative Outcome]
-    
+
     C --> E[Regional Impact]
     D --> F[Different Regional Impact]
-    
+
     E --> G[Long-term Campaign Change]
     F --> H[Alternative Campaign Direction]
-    
+
     G --> I[End-game Implications]
     H --> J[Different End-game Scenario]
 ```
@@ -112,12 +112,12 @@ flowchart TD
 ```mermaid
 timeline
     title Upcoming World Events
-    
+
     Next Week : Merchant Festival : Guild Elections : Seasonal Weather Change
-    
+
     Next Month : Royal Wedding : Trade Summit : Military Exercises
-    
+
     Next Season : Harvest Festival : Political Convention : Natural Phenomenon
-    
+
     Next Year : Centennial Celebration : Economic Crisis : Discovery Event
 ```

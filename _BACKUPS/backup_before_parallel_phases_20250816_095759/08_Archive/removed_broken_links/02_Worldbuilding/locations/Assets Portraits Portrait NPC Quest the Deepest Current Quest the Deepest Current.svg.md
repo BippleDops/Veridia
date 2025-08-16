@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Quest the Deepest Current Quest the Deepest Current.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the deepest current quest the deepest
   currentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -182,7 +182,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

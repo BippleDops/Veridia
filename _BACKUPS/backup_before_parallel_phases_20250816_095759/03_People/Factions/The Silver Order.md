@@ -2,7 +2,7 @@
 
 title: The Silver Order
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

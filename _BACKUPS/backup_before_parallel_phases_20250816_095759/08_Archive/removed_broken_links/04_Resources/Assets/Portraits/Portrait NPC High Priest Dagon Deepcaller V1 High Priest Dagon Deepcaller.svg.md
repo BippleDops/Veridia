@@ -2,7 +2,7 @@
 
 title: Portrait NPC High Priest Dagon Deepcaller V1 High Priest Dagon Deepcaller.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

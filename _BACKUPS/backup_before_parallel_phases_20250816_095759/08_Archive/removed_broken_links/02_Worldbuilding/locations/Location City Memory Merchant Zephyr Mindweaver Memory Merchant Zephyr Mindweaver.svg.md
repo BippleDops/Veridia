@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memory merchant zephyr mindweaver memory merchant zephyr mindweaversvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memory Merchant Zephyr Mindweaver Memory Merchant Zephyr Mindweaver.svg
 type: location

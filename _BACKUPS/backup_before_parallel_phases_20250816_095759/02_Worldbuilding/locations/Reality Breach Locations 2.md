@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location
@@ -34,8 +34,8 @@ Reality Breach Locations are sites where the barrier between normal existence an
 ## Major Breach Sites
 
 ### The Sunken Cathedral (Primary Manifestation Site)
-**Location**: 2 miles below Aquabyssos, in the Mariana Reach  
-**Breach Intensity**: Catastrophic (Level 5)  
+**Location**: 2 miles below Aquabyssos, in the Mariana Reach
+**Breach Intensity**: Catastrophic (Level 5)
 **Discovery DC**: 25 (requires specialized deep-sea equipment)
 
 #### Description
@@ -63,8 +63,8 @@ Once the Grand Cathedral of Tidal Harmony, this massive structure was pulled int
 ---
 
 ### The Observatory of Broken Stars
-**Location**: Mount Celestialis Peak, Aethermoor  
-**Breach Intensity**: Major (Level 4)  
+**Location**: Mount Celestialis Peak, Aethermoor
+**Breach Intensity**: Major (Level 4)
 **Discovery DC**: 18 (visible from miles away as "wrong" light)
 
 #### Description
@@ -92,8 +92,8 @@ This astronomical observatory was built at the highest point in Aethermoor to st
 ---
 
 ### The Merchant's Folly (Convergence Breach)
-**Location**: Goldwater Trading Company Warehouse District  
-**Breach Intensity**: Growing (Level 3)  
+**Location**: Goldwater Trading Company Warehouse District
+**Breach Intensity**: Growing (Level 3)
 **Discovery DC**: 15 (obvious to anyone with magical sensitivity)
 
 #### Description
@@ -122,8 +122,8 @@ This began as a simple warehouse where merchant Codex Goldstream stored "unusual
 ---
 
 ### The Null Gardens (Extinction Zone)
-**Location**: Former Royal Botanical Gardens, Aethermoor  
-**Breach Intensity**: Critical (Level 4)  
+**Location**: Former Royal Botanical Gardens, Aethermoor
+**Breach Intensity**: Critical (Level 4)
 **Discovery DC**: 10 (impossible to miss - plants don't exist there)
 
 #### Description
@@ -148,8 +148,8 @@ These once-magnificent gardens became a reality breach when researchers tried to
 ---
 
 ### The Echo Marina (Temporal Breach)
-**Location**: Port District, Aquabyssos  
-**Breach Intensity**: Moderate (Level 2)  
+**Location**: Port District, Aquabyssos
+**Breach Intensity**: Moderate (Level 2)
 **Discovery DC**: 12 (ships arrive before they depart)
 
 #### Description
@@ -180,28 +180,28 @@ This busy marina experiences severe temporal displacement due to a breach in the
 ## Minor Breach Sites
 
 ### The Dreaming Library
-**Location**: Academy of Deep Understanding  
-**Breach Level**: 2  
+**Location**: Academy of Deep Understanding
+**Breach Level**: 2
 **Effect**: Books write themselves with dreams of sleeping readers
 
 ### The Pressure Chamber
-**Location**: Deep Sea Trading Guild Headquarters  
-**Breach Level**: 2  
+**Location**: Deep Sea Trading Guild Headquarters
+**Breach Level**: 2
 **Effect**: Interior exists at crushing depth pressure despite surface location
 
 ### The Inverted Lighthouse
-**Location**: Beacon Point, Aethermoor  
-**Breach Level**: 3  
+**Location**: Beacon Point, Aethermoor
+**Breach Level**: 3
 **Effect**: Light points inward, illuminating the Deep Mother's realm
 
 ### The Memory Pool
-**Location**: Cultural Exchange Center  
-**Breach Level**: 2  
+**Location**: Cultural Exchange Center
+**Breach Level**: 2
 **Effect**: Water contains liquefied memories from all who've touched it
 
 ### The Accountable Void
-**Location**: Parliament of Shadows - Archive Chamber  
-**Breach Level**: 3  
+**Location**: Parliament of Shadows - Archive Chamber
+**Breach Level**: 3
 **Effect**: Empty filing cabinets contain documents that eat information
 
 ## Breach Detection and Investigation

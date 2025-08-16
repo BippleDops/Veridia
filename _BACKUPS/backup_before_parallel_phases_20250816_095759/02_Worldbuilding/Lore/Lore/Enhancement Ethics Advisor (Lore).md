@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Enhancement Ethics Advisor
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

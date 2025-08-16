@@ -2,7 +2,7 @@
 
 title: Abilities [[Abilities Cross Dimensional Perception|Cross Dimensional Perception
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

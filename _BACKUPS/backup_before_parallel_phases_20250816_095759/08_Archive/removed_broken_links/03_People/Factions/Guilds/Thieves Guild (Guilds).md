@@ -1,10 +1,10 @@
 ---
 
 title: Thieves Guild
-aliases: 
+aliases:
 - The Guild
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

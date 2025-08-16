@@ -2,7 +2,7 @@
 
 title: Oracle
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -35,19 +35,19 @@ improvements: 20
 
 *Medium humanoid (triton), chaotic neutral*
 
-**Armor Class** 17 (Natural Armor + Dex)  
-**Hit Points** 104 (`dice: `dice: 16d6`` + 64)  
+**Armor Class** 17 (Natural Armor + Dex)
+**Hit Points** 104 (`dice: `dice: 16d6`` + 64)
 **Speed** 30 ft., swim 60 ft.
 
 **STR** 12 (+1) **DEX** 14 (+2) **CON** 18 (+4) **INT** 20 (+5) **WIS** 22 (+6) **CHA** 16 (+3)
 
-**Saving Throws** Int +11, Wis +12  
-**Skills** Arcana +11, History +11, Insight +18, Investigation +11, Perception +12, Religion +11  
-**Damage Resistances** Cold, Psychic  
-**Condition Immunities** Charmed (while conscious)  
-**Senses** Darkvision 60 ft., passive Perception 22, Truesight 120 ft. (3/day)  
-**Languages** Common, Primordial, Aquabyssan, Deep Speech, telepathy 60 ft.  
-**Challenge Rating** 12 (8,400 XP)  
+**Saving Throws** Int +11, Wis +12
+**Skills** Arcana +11, History +11, Insight +18, Investigation +11, Perception +12, Religion +11
+**Damage Resistances** Cold, Psychic
+**Condition Immunities** Charmed (while conscious)
+**Senses** Darkvision 60 ft., passive Perception 22, Truesight 120 ft. (3/day)
+**Languages** Common, Primordial, Aquabyssan, Deep Speech, telepathy 60 ft.
+**Challenge Rating** 12 (8,400 XP)
 **Proficiency Bonus** +4
 
 ## 🔧 Deep Evaluation Improvements
@@ -206,7 +206,7 @@ She resides in the Depths of Contemplation, a sacred site where the barriers bet
 
 **Voice**: Her voice has a lilting, harmonic quality that echoes strangely in enclosed spaces. She often speaks as if addressing multiple people at once, because she sees multiple timeline versions of her conversation partners.
 
-**Speaking Patterns**: 
+**Speaking Patterns**:
 - "The tides whisper of possibilities..."
 - "In seven turns of the moon, or perhaps seventy..."
 - "I have seen this face in dreams that have not yet been dreamed..."
@@ -342,7 +342,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

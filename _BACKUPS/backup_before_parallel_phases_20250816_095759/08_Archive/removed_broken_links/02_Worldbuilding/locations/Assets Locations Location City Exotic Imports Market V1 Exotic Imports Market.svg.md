@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Exotic Imports Market V1 Exotic Imports Market.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city exotic imports market v1 exotic imports
   marketsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

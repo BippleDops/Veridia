@@ -1,7 +1,7 @@
 ---
 title: Commercial Archives
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: [[Goldspire Expedition
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

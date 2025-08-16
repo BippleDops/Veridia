@@ -2,7 +2,7 @@
 
 title: Duchess Seraphina Crimsontide
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

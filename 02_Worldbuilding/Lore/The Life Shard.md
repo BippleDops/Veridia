@@ -2,7 +2,7 @@
 
 title: The Life Shard
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

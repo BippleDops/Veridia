@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Competitive Intelligence
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -2,7 +2,7 @@
 
 title: Portal Chambers
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

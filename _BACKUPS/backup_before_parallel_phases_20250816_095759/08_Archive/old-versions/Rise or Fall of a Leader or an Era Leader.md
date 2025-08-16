@@ -2,7 +2,7 @@
 
 title: Rise or Fall of a Leader or an Era Leader
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

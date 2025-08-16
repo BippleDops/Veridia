@@ -2,7 +2,7 @@
 
 title: Natural Order Movemen
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

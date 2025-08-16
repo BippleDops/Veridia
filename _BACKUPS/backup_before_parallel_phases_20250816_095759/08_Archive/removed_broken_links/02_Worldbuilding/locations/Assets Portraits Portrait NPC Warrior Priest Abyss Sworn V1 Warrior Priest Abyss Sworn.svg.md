@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Warrior Priest Abyss Sworn V1 Warrior Priest
   Abyss Sworn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc warrior priest abyss sworn v1 warrior
   priest abyss swornsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

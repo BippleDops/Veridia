@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Screaming Gardens Songwood Grove Screaming Gardens
   Songwood Grove.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city screaming gardens songwood grove screaming
   gardens songwood grovesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

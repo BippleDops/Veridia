@@ -2,7 +2,7 @@
 
 title: Thalassa the Life Weaver
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

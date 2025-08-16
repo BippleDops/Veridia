@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/History/The Origin War
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Military/Corruption Hunters
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

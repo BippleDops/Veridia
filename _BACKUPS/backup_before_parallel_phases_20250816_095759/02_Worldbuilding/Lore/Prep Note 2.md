@@ -1,8 +1,8 @@
 ---
-accessibility: 
+accessibility:
   content_warnings: []
   pronunciation: Prep Note
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -10,7 +10,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/lore

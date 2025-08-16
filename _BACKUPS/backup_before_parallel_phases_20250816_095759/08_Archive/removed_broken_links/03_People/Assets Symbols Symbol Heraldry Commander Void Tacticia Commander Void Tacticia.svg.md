@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Commander Void Tacticia Commander Void Tacticia.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry commander void tacticia commander void
   tacticiasvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

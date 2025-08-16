@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Procedures/Advanced Shadow Detection
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

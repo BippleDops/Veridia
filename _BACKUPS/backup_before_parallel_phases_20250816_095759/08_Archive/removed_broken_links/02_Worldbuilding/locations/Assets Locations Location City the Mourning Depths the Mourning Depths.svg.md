@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Mourning Depths the Mourning Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the mourning depths the mourning depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

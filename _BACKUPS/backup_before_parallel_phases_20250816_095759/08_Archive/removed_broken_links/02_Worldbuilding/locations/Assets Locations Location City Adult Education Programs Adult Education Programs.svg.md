@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Adult Education Programs Adult Education Programs.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city adult education programs adult education
   programssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

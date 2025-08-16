@@ -2,7 +2,7 @@
 
 title: The [[Kelp Highways
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

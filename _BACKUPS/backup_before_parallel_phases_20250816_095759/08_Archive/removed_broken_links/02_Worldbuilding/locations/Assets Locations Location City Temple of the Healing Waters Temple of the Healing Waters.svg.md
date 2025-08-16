@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple of the Healing Waters Temple of the Healing
   Waters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of the healing waters temple
   of the healing waterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

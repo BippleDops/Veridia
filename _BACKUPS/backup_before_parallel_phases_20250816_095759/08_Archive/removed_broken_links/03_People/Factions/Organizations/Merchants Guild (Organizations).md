@@ -2,7 +2,7 @@
 
 title: Merchants Guild
 type: organization
-tags: 
+tags:
 - organization
 - company
 created: '2025-08-14'

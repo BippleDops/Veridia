@@ -2,7 +2,7 @@
 
 title: Archivist Supreme Indexa
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

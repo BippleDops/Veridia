@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Cleaner V1 the Cleaner.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the cleaner v1 the cleanersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

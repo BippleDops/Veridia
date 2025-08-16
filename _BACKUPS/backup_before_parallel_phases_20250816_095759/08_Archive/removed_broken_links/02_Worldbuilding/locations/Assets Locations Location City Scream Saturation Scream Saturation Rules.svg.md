@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Scream Saturation Scream Saturation Rules.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scream saturation rules scream saturation
   rulessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

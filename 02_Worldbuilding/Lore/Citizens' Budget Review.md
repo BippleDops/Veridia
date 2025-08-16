@@ -2,7 +2,7 @@
 
 title: Citizens' Budget Review
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

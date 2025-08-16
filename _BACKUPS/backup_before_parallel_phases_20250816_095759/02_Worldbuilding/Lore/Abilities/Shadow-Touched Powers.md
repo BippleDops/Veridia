@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Abilities/Shadow-Touched Powers
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

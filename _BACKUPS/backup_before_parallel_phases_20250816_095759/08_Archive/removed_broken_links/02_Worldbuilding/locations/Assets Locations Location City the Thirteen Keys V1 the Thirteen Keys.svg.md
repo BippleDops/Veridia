@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Thirteen Keys V1 the Thirteen Keys.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the thirteen keys v1 the thirteen keyssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

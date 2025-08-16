@@ -2,7 +2,7 @@
 
 title: Marina Tidecrest
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - prophecy

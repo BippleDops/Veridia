@@ -2,7 +2,7 @@
 
 title: Paradox Legal Counsel
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Political Intrigue of Meridian Political Intrigue
   of Meridian.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city political intrigue of meridian political
   intrigue of meridiansvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -198,7 +198,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

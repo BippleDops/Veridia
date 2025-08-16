@@ -2,7 +2,7 @@
 
 title: Madame Whisper
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - whisper
 - status/complete

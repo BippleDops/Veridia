@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Priest Faith Crystalsong Priest Faith Crystalsong.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc priest faith crystalsong priest faith
   crystalsongsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

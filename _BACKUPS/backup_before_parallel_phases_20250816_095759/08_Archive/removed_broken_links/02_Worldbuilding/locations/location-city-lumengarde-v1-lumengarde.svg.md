@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city lumengarde v1 lumengardesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: location city lumengarde v1 lumengarde.svg
 type: location

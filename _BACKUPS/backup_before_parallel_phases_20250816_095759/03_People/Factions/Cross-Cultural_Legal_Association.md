@@ -2,7 +2,7 @@
 
 title: Cross Cultural Legal Association
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

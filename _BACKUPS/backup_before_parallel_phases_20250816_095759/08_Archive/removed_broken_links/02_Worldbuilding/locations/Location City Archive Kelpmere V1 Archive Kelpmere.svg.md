@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 - location city archive kelpmere v1 archive kelpmeresvg
 created: 2025-08-14
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Archive Kelpmere V1 Archive Kelpmere.svg
 type: location

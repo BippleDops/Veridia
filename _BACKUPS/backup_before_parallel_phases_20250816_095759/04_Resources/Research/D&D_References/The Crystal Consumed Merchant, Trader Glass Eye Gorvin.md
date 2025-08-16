@@ -2,7 +2,7 @@
 
 title: The Crystal Consumed Merchant, Trader Glass Eye Gorvin
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

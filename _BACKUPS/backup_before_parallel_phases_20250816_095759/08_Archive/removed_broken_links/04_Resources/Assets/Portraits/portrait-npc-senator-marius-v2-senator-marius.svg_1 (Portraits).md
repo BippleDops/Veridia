@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc senator marius v2 senator mariussvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: portrait npc senator marius v2 senator marius.svg
 type: npc

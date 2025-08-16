@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Dimensional_Travel
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

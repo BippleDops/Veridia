@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Forgetting Bomb
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

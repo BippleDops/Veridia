@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Save_Marina.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

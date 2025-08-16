@@ -118,4 +118,4 @@ tags:
 ## Thematic Connections
 - Character development and
 - Social encounters and
-- Faction relationships with 
+- Faction relationships with

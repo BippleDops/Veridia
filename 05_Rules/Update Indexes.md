@@ -2,7 +2,7 @@
 
 title: Update Indexes
 type: [[Lore
-tags: 
+tags:
 - lore
 - navigation
 - index

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tenebrarum Embassy Tenebrarum Embassy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tenebrarum embassy tenebrarum embassysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

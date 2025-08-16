@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Crown of Stars
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

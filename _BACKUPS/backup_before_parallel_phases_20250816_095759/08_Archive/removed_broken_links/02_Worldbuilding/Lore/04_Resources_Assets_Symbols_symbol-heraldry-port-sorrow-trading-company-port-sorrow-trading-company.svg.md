@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Symbols_symbol-heraldry-port-sorrow-trading-company-port-sorrow-trading-company.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

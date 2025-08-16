@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City War Machine Assembly Halls V1 War Machine Assembly
   Halls.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city war machine assembly halls v1 war machine
   assembly hallssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

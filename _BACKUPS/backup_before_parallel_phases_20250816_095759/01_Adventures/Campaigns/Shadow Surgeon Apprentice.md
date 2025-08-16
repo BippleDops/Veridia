@@ -2,7 +2,7 @@
 
 title: Shadow Surgeon Apprentice
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - shadow-surgery
 - status/complete

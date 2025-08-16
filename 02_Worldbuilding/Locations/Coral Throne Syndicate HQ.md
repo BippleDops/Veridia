@@ -2,7 +2,7 @@
 
 title: Coral Throne Syndicate HQ
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction
@@ -25,7 +25,7 @@ controlled_by: '[[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Sy
 danger_level: Very High
 depth: 1800-2200 feet
 difficulty: Levels 8-15
-related_entities: 
+related_entities:
 - '[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
 - '[[Coral Empress Scarletina'
 - '[Places]]
@@ -201,7 +201,7 @@ Beneath the scientific veneer lies the true nature of the complex:
 - [[Navigator Slyph Currentwhisper - Maritime operations coordinator with maps room
 - [Harvester Keth Reefrender]] - Coral cultivation expert with personal greenhouse
 
-##### Staff Quarters  
+##### Staff Quarters
 **Functional Housing**: Accommodations for essential syndicate personnel:
 - **Security Barracks**: Guards, enforcers, and specialized combat personnel
 - **Technical Staff Housing**: Engineers, artificers, and magical specialists
@@ -614,7 +614,7 @@ The fortress employs various coral creatures as security:
 #### Political Complexity
 **Government Relations**: The fortress exists within larger political context:
 - Corrupt officials provide protection in exchange for services
-- Legitimate government agencies seek to gather evidence and plan operations  
+- Legitimate government agencies seek to gather evidence and plan operations
 - International relationships affected by transnational criminal activities
 - Public opinion influenced by syndicate's community impact
 
@@ -627,7 +627,7 @@ The fortress employs various coral creatures as security:
 
 ---
 
-*"The beauty of living coral hides the poison of criminal ambition. In the depths where law cannot reach, power flows to those bold enough to claim it."*  
+*"The beauty of living coral hides the poison of criminal ambition. In the depths where law cannot reach, power flows to those bold enough to claim it."*
 — Anonymous intelligence report on syndicate activities
 
 ## Player-Facing Summary

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crystallium Embassy Crystallium Embassy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystallium embassy crystallium embassysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Barkeep Salty Sarah Barkeep Salty Sarah.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city barkeep salty sarah barkeep salty sarahsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

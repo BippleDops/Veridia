@@ -2,7 +2,7 @@
 
 title: crafting-an-item-resources-and-resolution-xge (tables)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memorial district of abyssos prime v1 memorial district of abyssos
   primesvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memorial District of Abyssos Prime V1 Memorial District of Abyssos
   Prime.svg

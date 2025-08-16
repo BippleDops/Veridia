@@ -64,11 +64,11 @@ class CraftingSystem:
         self.recipes = {}
         self.materials = {}
         self.tools = {}
-    
+
     def craft_item(self, recipe, materials, skill_check):
         time_required = recipe.time
         dc = recipe.difficulty
-        
+
         if skill_check >= dc:
             return create_item(recipe, quality="masterwork")
         elif skill_check >= dc - 5:

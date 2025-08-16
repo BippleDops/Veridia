@@ -2,7 +2,7 @@
 
 title: [[Void Touched Cult|Void Touched Pilgrims
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

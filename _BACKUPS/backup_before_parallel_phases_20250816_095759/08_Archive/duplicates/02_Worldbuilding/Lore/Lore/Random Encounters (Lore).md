@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Random Encounters
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

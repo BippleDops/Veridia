@@ -2,7 +2,7 @@
 
 title: Legal Advocate Rights Defender
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

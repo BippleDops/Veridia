@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Screaming Battleground the Screaming Battleground.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the screaming battleground the screaming
   battlegroundsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

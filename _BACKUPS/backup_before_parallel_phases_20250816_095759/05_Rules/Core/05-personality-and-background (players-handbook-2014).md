@@ -211,4 +211,4 @@ Witnessed important events in the past
 - Related: [Completed Content]]
 - Related: [[QUEST00426_Side_Quest_427
 - See also: [Major Image Xphb]]
-- Influences 
+- Influences

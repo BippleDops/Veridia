@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Diplomatic Immunity Diplomatic Immunity.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city diplomatic immunity diplomatic immunitysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

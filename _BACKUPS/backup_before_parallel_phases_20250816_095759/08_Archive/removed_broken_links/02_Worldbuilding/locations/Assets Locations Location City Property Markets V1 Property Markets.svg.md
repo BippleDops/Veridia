@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Property Markets V1 Property Markets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city property markets v1 property marketssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -180,7 +180,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

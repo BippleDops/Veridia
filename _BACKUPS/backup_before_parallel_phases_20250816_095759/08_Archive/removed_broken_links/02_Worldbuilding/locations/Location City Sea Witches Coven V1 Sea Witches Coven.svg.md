@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sea witches coven v1 sea witches covensvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Sea Witches Coven V1 Sea Witches Coven.svg
 type: location

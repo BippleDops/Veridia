@@ -2,7 +2,7 @@
 
 title: Communications Chief Storm Signalmaster
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

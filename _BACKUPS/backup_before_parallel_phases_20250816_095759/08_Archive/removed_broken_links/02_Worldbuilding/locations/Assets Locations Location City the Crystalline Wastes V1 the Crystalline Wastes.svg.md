@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Crystalline Wastes V1 the Crystalline Wastes.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystalline wastes v1 the crystalline
   wastessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

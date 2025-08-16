@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord commander gareth steelborn v2 lord commander gareth steelbornsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Commander Gareth Steelborn V2 Lord Commander Gareth Steelborn.svg
 type: npc

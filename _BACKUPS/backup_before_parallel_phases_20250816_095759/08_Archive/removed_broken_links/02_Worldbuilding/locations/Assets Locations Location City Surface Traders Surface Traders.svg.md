@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Surface Traders Surface Traders.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface traders surface traderssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

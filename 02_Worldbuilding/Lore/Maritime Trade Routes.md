@@ -1,7 +1,7 @@
 ---
 title: Maritime Trade Routes
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

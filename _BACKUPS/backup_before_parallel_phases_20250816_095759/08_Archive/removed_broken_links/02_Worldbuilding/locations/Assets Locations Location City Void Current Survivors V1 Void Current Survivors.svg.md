@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Void Current Survivors V1 Void Current Survivors.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city void current survivors v1 void current
   survivorssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

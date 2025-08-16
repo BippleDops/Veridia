@@ -2,7 +2,7 @@
 
 title: Healing Two Worlds
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - active

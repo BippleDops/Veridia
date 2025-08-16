@@ -2,7 +2,7 @@
 
 title: elf-tables-drow-house-specialty-mtf (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

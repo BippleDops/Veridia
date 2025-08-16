@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Archmagus Velleth Shadowmere
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

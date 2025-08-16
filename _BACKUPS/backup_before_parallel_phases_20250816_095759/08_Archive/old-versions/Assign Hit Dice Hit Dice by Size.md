@@ -2,7 +2,7 @@
 
 title: Assign Hit Dice Hit Dice by Size
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

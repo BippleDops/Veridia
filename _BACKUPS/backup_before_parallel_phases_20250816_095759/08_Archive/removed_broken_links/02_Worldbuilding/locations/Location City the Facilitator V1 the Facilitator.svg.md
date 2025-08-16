@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the facilitator v1 the facilitatorsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Facilitator V1 the Facilitator.svg
 type: location

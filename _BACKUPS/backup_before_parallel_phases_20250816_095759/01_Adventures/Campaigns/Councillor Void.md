@@ -2,7 +2,7 @@
 
 title: Councillor Void
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

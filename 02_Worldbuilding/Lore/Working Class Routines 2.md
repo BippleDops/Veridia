@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags: 
+tags:
 - both
 - complete
 - culture
@@ -37,7 +37,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos and [02_Worldbu
 - Communal breakfast: kelp porridge, protein bars, and current tea
 - Equipment check: pressure suits, lifting gear, communication shells
 
-**0530 - Morning Assembly** 
+**0530 - Morning Assembly**
 - Gather at harbor tide pools for work assignments
 - Foreman distributes tasks based on incoming vessels and cargo
 - Safety briefing focusing on pressure changes and weather conditions
@@ -75,7 +75,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos and [02_Worldbu
 
 **1800-2200 - Personal Time**:
 - **Social Gathering**: Harbor taverns with fellow workers
-- **Family Meals**: Shared dinners in communal dining areas  
+- **Family Meals**: Shared dinners in communal dining areas
 - **Local Entertainment**: Music, storytelling, games
 - **Early Rest**: Preparation for next day's early start
 
@@ -142,7 +142,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos and [02_Worldbu
 - Equipment maintenance and replacement
 - Communication with surface and families
 
-**1300-1800 - Secondary Operations**  
+**1300-1800 - Secondary Operations**
 - **Processing Work**: Initial refinement of extracted materials
 - **Equipment Maintenance**: Repairing and maintaining deep-operation tools
 - **Documentation**: Recording production and safety information
@@ -440,7 +440,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos and [02_Worldbu
 - **Safety Training**: Ongoing education about risks and prevention
 - **Community Health**: Shared knowledge about occupational hazards
 
-#### Aethermoor Workers  
+#### Aethermoor Workers
 **Altitude and Wind-Related Health Issues**:
 - **Altitude Sickness**: Effects of working at high elevations
 - **Wind Injuries**: Accidents from strong air currents

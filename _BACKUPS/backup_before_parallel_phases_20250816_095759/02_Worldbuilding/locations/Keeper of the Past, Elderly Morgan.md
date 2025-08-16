@@ -1,7 +1,7 @@
 ---
 title: Keeper of the Past, Elderly Morgan
 type: [[location
-tags: 
+tags:
 - aquatic
 - quest
 - world/both

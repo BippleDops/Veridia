@@ -2,7 +2,7 @@
 
 title: Order of the Shattered Crown
 type: Npc
-tags: 
+tags:
 - status/complete
 - grand-master
 - campaign/hook
@@ -59,7 +59,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -223,22 +223,22 @@ The weight of cosmic knowledge and responsibility has shaped Valdric's personali
 ### Grand Master Valdric Shardseeker
 *Medium humanoid (human, heavily crystal-touched), lawful neutral*
 
-**Armor Class** 19 (Natural Crystal Armor)  
-**Hit Points** 195 (`dice: `dice: 23d8`` + 92)  
+**Armor Class** 19 (Natural Crystal Armor)
+**Hit Points** 195 (`dice: `dice: 23d8`` + 92)
 **Speed** 30 ft., fly 60 ft. (crystal levitation)
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
 16 (+3) | 18 (+4) | 18 (+4) | 24 (+7) | 20 (+5) | 22 (+6)
 
-**Saving Throws** Int +14, Wis +12, Cha +13  
-**Skills** Arcana +21, History +21, Insight +12, Investigation +14, Perception +12, Religion +14  
-**Damage Resistances** Cold, Radiant, Psychic  
-**Damage Immunities** Charm, Crystal corruption effects, Force  
-**Condition Immunities** Charmed, Frightened  
-**Senses** Truesight 120 ft., Shard detection 10 miles, passive Perception 22  
-**Languages** Common, Celestial, Draconic, Ancient Crown Script, Primordial  
-**Challenge Rating** 15 (13,000 XP)  
+**Saving Throws** Int +14, Wis +12, Cha +13
+**Skills** Arcana +21, History +21, Insight +12, Investigation +14, Perception +12, Religion +14
+**Damage Resistances** Cold, Radiant, Psychic
+**Damage Immunities** Charm, Crystal corruption effects, Force
+**Condition Immunities** Charmed, Frightened
+**Senses** Truesight 120 ft., Shard detection 10 miles, passive Perception 22
+**Languages** Common, Celestial, Draconic, Ancient Crown Script, Primordial
+**Challenge Rating** 15 (13,000 XP)
 **Proficiency Bonus** +5
 
 ### Special Abilities
@@ -373,7 +373,7 @@ Valdric's transformation is accelerating, and he needs to prepare Marcus for lea
 
 **Key Elements**:
 - Political intrigue within the Order hierarchy
-- Tests and trials designed to prepare Marcus for cosmic responsibility  
+- Tests and trials designed to prepare Marcus for cosmic responsibility
 - Sabotage attempts by Order members who oppose Marcus's succession
 - Valdric's growing detachment from human concerns affecting his judgment
 - Discovery of ancient succession rituals that require dangerous quests
@@ -384,7 +384,7 @@ Valdric's transformation is accelerating, and he needs to prepare Marcus for lea
 - Order splits into competing factions with different cosmic visions
 - Valdric's transformation accelerates, forcing immediate crisis resolution
 
-### 2. The Eighth Fragment (Levels 14-18)  
+### 2. The Eighth Fragment (Levels 14-18)
 Valdric reveals his secret knowledge of an eighth Crown fragment and recruits the party for a perilous expedition to recover it. The fragment is hidden in a location where reality is already unstable, making the mission extremely dangerous.
 
 **Key Elements**:
@@ -397,7 +397,7 @@ Valdric reveals his secret knowledge of an eighth Crown fragment and recruits th
 **Potential Outcomes**:
 - Successful recovery empowers final Crown reunification attempt
 - Fragment's power proves too dangerous and must be contained or destroyed
-- Recovery triggers premature reunification with unpredictable consequences  
+- Recovery triggers premature reunification with unpredictable consequences
 - Rival faction obtains fragment, dramatically shifting cosmic power balance
 
 ### 3. The Master's Test (Levels 10-14)
@@ -460,7 +460,7 @@ Valdric discovers a way to commune directly with the consciousness of the origin
 
 **Potential Outcomes**:
 - Original Crown bearer successfully returns with wisdom for current crisis
-- Consciousness proves too corrupted or mad for safe restoration  
+- Consciousness proves too corrupted or mad for safe restoration
 - Partial success creates multiple personality situation requiring careful management
 - Ritual reveals that Crown's original purpose conflicts with current assumptions
 
@@ -478,7 +478,7 @@ Valdric's forehead-embedded Crown fragment is the largest and most powerful piec
 
 **Drawbacks**:
 - **Information Overload**: Constant cosmic awareness causes periodic mental exhaustion
-- **Emotional Detachment**: Cosmic perspective makes it difficult to relate to immediate human concerns  
+- **Emotional Detachment**: Cosmic perspective makes it difficult to relate to immediate human concerns
 - **Physical Dependency**: Removal would be fatal and potentially catastrophic for local reality
 - **Corruption Acceleration**: Fragment gradually transforms bearer into cosmic entity
 - **Target Identification**: Makes bearer easily recognizable to enemies and rivals
@@ -508,7 +508,7 @@ A mystical artifact that serves as both identifier and access key to the Order's
 
 **Functions**:
 - **Repository Access**: Opens hidden libraries and research facilities
-- **Knowledge Compilation**: Can rapidly search and cross-reference vast amounts of information  
+- **Knowledge Compilation**: Can rapidly search and cross-reference vast amounts of information
 - **Secure Communication**: Enables encrypted communication with Order members worldwide
 - **Research Enhancement**: Provides magical assistance for complex scholarly work
 - **Legacy Protocols**: Ensures continuation of Order operations if Valdric is incapacitated

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the bone colosseum v1 the bone colosseumsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Bone Colosseum V1 the Bone Colosseum.svg
 type: location

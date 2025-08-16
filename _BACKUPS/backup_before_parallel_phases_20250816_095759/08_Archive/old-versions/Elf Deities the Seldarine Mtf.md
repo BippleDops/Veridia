@@ -2,7 +2,7 @@
 
 title: Elf Deities the Seldarine Mtf
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

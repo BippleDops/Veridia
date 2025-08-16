@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Emperor the Emperor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the emperor the emperorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

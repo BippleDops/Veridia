@@ -2,7 +2,7 @@
 
 title: Count Viktor [[Shadowmere
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/lore
 - content/[[location
@@ -109,7 +109,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Embassy Quarter the Embassy Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the embassy quarter the embassy quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

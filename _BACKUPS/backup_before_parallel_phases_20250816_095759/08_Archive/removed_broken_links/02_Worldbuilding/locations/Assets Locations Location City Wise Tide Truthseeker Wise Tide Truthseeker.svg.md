@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wise Tide Truthseeker Wise Tide Truthseeker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wise tide truthseeker wise tide truthseekersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

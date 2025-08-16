@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Infinite Garden V1 the Infinite Garden.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the infinite garden v1 the infinite
   gardensvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

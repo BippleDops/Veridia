@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Crystal Caves the Crystal Caves.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal caves the crystal cavessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key locations marked:
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 2
-  
+
 ### Environmental Hazards
 - Pit trap
 - **DC 16** to detect
@@ -199,7 +199,7 @@ Key locations marked:
 - **Recent History**: Plague 1 years ago
 - **Living Memory**: Murder last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Election in 9 days
 - **Brewing Conflict**: Trade war
 - **Prophecy Connection**: Links to The Second Prophecy of Depths

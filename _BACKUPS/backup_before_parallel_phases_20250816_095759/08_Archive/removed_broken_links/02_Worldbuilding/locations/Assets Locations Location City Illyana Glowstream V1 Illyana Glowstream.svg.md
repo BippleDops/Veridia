@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Illyana Glowstream V1 Illyana Glowstream.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city illyana glowstream v1 illyana glowstreamsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -182,7 +182,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

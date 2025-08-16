@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city crimson velocity v1 crimson velocitysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Crimson Velocity V1 Crimson Velocity.svg
 type: location

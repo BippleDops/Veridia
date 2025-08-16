@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city echo scribe matthias v1 echo scribe matthiassvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Echo Scribe Matthias V1 Echo Scribe Matthias.svg
 type: location

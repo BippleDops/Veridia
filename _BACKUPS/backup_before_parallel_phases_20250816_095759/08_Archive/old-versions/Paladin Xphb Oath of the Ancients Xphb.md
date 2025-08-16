@@ -2,7 +2,7 @@
 
 title: Paladin Xphb Oath of the Ancients Xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

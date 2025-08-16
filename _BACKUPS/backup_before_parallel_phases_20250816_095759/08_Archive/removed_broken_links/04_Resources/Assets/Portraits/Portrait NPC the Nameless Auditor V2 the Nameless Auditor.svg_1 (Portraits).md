@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the nameless auditor v2 the nameless auditorsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg
 type: npc

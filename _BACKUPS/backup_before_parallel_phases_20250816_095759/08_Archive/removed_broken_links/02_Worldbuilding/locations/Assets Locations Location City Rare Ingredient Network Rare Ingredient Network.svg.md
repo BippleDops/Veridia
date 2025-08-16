@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Rare Ingredient Network Rare Ingredient Network.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city rare ingredient network rare ingredient
   networksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Sergeant Major Deep Veteranstrike
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

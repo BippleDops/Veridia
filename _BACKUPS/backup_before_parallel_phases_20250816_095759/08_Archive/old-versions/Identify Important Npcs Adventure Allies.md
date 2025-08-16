@@ -2,7 +2,7 @@
 
 title: Identify Important Npcs Adventure Allies
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

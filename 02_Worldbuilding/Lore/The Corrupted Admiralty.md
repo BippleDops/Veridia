@@ -2,7 +2,7 @@
 
 title: The Corrupted Admiralty
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

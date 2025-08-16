@@ -3,7 +3,7 @@ enhanced: true
 
 title: Skills Reality Anchor Deployment
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

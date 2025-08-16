@@ -2,7 +2,7 @@
 
 title: Current Peacefulflow
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -153,7 +153,7 @@ Ongoing situations affecting Current Peacefulflow:
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 8
-  
+
 ### [[Environmental Hazards
 - Collapsing ceiling
 - **DC 16** to detect
@@ -171,7 +171,7 @@ Ongoing situations affecting Current Peacefulflow:
 - **Recent History**: Festival 43 years ago
 - **Living Memory**: Wedding last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Arrival in 15 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: [[Links to The Second Prophecy of Stars

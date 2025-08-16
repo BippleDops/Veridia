@@ -2,7 +2,7 @@
 
 title: Surface Ambassador Lord Seaworthy
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - world/surface
 - ambassador
@@ -55,7 +55,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -128,22 +128,22 @@ Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative o
 ### Lord Admiral Horatio Seaworthy
 *Medium humanoid (human), lawful neutral*
 
-**Armor Class** 18 (Studded Leather +2, Diplomatic Protection)  
-**Hit Points** 165 (`dice: `dice: 22d8`` + 66)  
+**Armor Class** 18 (Studded Leather +2, Diplomatic Protection)
+**Hit Points** 165 (`dice: `dice: 22d8`` + 66)
 **Speed** 30 ft., swim 30 ft. (magical adaptation)
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
 14 (+2) | 16 (+3) | 16 (+3) | 20 (+5) | 18 (+4) | 22 (+6)
 
-**Saving Throws** Int +11, Wis +10, Cha +12  
-**Skills** History +17, Insight +16, Investigation +11, Medicine +10, Perception +10, Persuasion +18, Survival +10  
-**Damage Resistances** Cold (environmental protection magic)  
-**Damage Immunities** Diplomatic immunity (cannot be targeted by charm or mind-reading without consent)  
-**Condition Immunities** Suffocation (while underwater)  
-**Senses** passive Perception 20  
-**Languages** Common, Aquan, Draconic, Celestial, telepathy 60 ft. (translation magic)  
-**Challenge Rating** 12 (8,400 XP)  
+**Saving Throws** Int +11, Wis +10, Cha +12
+**Skills** History +17, Insight +16, Investigation +11, Medicine +10, Perception +10, Persuasion +18, Survival +10
+**Damage Resistances** Cold (environmental protection magic)
+**Damage Immunities** Diplomatic immunity (cannot be targeted by charm or mind-reading without consent)
+**Condition Immunities** Suffocation (while underwater)
+**Senses** passive Perception 20
+**Languages** Common, Aquan, Draconic, Celestial, telepathy 60 ft. (translation magic)
+**Challenge Rating** 12 (8,400 XP)
 **Proficiency Bonus** +4
 
 ### Special Abilities
@@ -161,7 +161,7 @@ Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative o
 **Spellcasting.** Seaworthy is a 15th-level spellcaster. His spellcasting ability is Charisma (spell save **DC 20**, +12 to hit with spell attacks). He knows the following spells:
 
 - **Cantrips (at will):** guidance, mending, message, prestidigitation, thaumaturgy
-- **1st level (4 slots):** charm person, command, comprehend languages, sanctuary  
+- **1st level (4 slots):** charm person, command, comprehend languages, sanctuary
 - **2nd level (3 slots):** calm emotions, detect thoughts, suggestion, zone of truth
 - **3rd level (3 slots):** counterspell, sending, tongues, water breathing
 - **4th level (3 slots):** confusion, freedom of movement, greater invisibility
@@ -234,7 +234,7 @@ Seaworthy's appointment as ambassador represents a careful political calculation
 **Location**: [[The Diplomatic Quarter, specially constructed building
 **Architecture**: Hybrid design accommodating both air-breathing and aquatic visitors
 - **Air-filled quarters** for surface staff with magical environmental controls
-- **Aquatic reception areas** with flowing water chambers for Aquabyssos visitors  
+- **Aquatic reception areas** with flowing water chambers for Aquabyssos visitors
 - **Neutral meeting spaces** that can be configured for either environment
 - **Communication center** with magical links to surface kingdoms
 - **Cultural archive** containing information about both societies
@@ -283,7 +283,7 @@ Seaworthy's appointment as ambassador represents a careful political calculation
 
 **Relationship with [[Tribune Cassia Deepcurrent**
 - **Professional Alliance**: Mutual respect for each other's dedication to justice
-- **Reform Collaboration**: Joint efforts on legal and social reform initiatives  
+- **Reform Collaboration**: Joint efforts on legal and social reform initiatives
 - **Information Sharing**: Discrete exchange of intelligence about threats to both realms
 - **Policy Coordination**: Ensuring surface trade doesn't undermine Aquabyssos social progress
 - **Personal Friendship**: Genuine respect grown into trusted partnership
@@ -379,7 +379,7 @@ Ancient treaties between surface and Aquabyssos have been discovered, but they c
 - **Rewards**: 8,000gp, diplomatic immunity, access to historical archives
 - **Complications**: Both sides have valid claims, and compromise may require sacrifice from all parties
 
-### 2. The Cultural Incident (Level 7-12) 
+### 2. The Cultural Incident (Level 7-12)
 Surface visitors have unknowingly violated sacred Aquabyssos customs, creating international crisis. The party must help Seaworthy navigate cultural reconciliation while preventing war.
 - **Rewards**: 5,000gp, cultural education, reputation with both sides
 - **Complications**: The incident may have been deliberately engineered by those opposing surface-Aquabyssos cooperation

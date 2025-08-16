@@ -2,7 +2,7 @@
 
 title: Current Riders Union
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

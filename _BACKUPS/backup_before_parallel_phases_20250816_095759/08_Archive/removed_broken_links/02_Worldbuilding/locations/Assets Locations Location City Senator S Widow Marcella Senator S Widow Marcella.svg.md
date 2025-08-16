@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Senator S Widow Marcella Senator S Widow Marcella.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city senator s widow marcella senator s widow
   marcellasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

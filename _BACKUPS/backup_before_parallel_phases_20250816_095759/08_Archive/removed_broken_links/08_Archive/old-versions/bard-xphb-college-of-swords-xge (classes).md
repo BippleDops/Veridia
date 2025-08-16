@@ -2,7 +2,7 @@
 
 title: bard-xphb-college-of-swords-xge (classes)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

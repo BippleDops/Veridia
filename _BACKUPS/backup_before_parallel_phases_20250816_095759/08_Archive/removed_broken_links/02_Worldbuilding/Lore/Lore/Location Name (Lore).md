@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Location Name
 type: location
-tags: 
+tags:
 - location
 - town
 - central-territories

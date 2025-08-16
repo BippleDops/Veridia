@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city great plague of ages past v1 great plague of ages pastsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Great Plague of Ages Past V1 Great Plague of Ages Past.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Frozen Throne the Frozen Throne.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the frozen throne the frozen thronesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

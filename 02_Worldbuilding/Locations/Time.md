@@ -2,7 +2,7 @@
 
 title: Time
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -298,7 +298,7 @@ Ongoing situations affecting Time:
 - [[02_Worldbuilding_Groups_Political_Consulting_Guil
 - [02_Worldbuilding_Groups_Pressure_Safety_Authorit]]
 - [[02_Worldbuilding_Groups_Surface_Reconnection_Coalition
-- 
+-
 - [02_Worldbuilding_Groups_The_Memory_Keepers]]
 - [[02_Worldbuilding_Groups_The_Nameless_Librarians
 - [02_Worldbuilding_Groups_The_Pearl_Divers_Guil]]
@@ -325,7 +325,7 @@ Ongoing situations affecting Time:
 - [[02_Worldbuilding_Items_Truth_Crystals
 - [02_Worldbuilding_Locations_Abyssal_Forges]]
 - [[02_Worldbuilding_Locations_Abyssal_Spires
-- 
+-
 - [02_Worldbuilding_Locations_Crystal_Conservatory]]
 - [[02_Worldbuilding_Locations_Floating_Arsenal
 - [02_Worldbuilding_Locations_Sunken_Palace]]
@@ -397,7 +397,7 @@ Ongoing situations affecting Time:
 - [08-using-ability-scores#Skills]]
 - [[08-using-ability-scores#Strength
 - [08-using-ability-scores#Wisdom]]
-- 
+-
 - [[09 Adventuring#movement#climbing, Swimming, and Crawling
 - [09-adventuring#Difficult Terrain]]
 - [[09-adventuring#Food and Water
@@ -510,7 +510,7 @@ Ongoing situations affecting Time:
 - [Arcanum Heights]]
 - [[Archcrystallographer Clarity
 - [Architecture Dimensional Bridging]]
-- 
+-
 - [[Archmagus Velleth Shadowmere
 - [Archmaster Lyralei Windweaver]]
 - [[Archshadow Charm Mindweaver
@@ -644,7 +644,7 @@ Ongoing situations affecting Time:
 - [[Cultural Exchanges
 - [Cultural Festivals Committee (02_Worldbuilding)]]
 - [[Cultural Historian Deepcurrent
-- 
+-
 - [Cultural Traditions and Customs]]
 - [[Cure Component Locations
 - [Current_Region (02_Worldbuilding)]]
@@ -944,7 +944,7 @@ Ongoing situations affecting Time:
 - [Junior Administrator Elena Efficient]]
 - [[Keeper Healer Restoration
 - [Keeper Hope Beacon]]
-- 
+-
 - [[Keeper Luminous Truehart
 - [Keeper Sage Remembrance]]
 - [[Keeper Shield Protector
@@ -1087,7 +1087,7 @@ Ongoing situations affecting Time:
 - [Maître d' Pelagia Smoothcurrent]]
 - [[Medicine Hybrid Healing
 - [Memorial Guardians]]
-- 
+-
 - [[Memory Integration Devices
 - [Memory Loop Gardens]]
 - [[Memory Plague Survivors Network
@@ -1235,7 +1235,7 @@ Ongoing situations affecting Time:
 - [[S_201_Eclipse_Raid_Window_Player
 - [Sage Voidseeker]]
 - [[Scholar Paradox Timeweave
-- 
+-
 - [Sera Swiftcurrent]]
 - [[Seren Goldwave
 - [Services Civilian Protection]]
@@ -1363,7 +1363,7 @@ Ongoing situations affecting Time:
 - [The Grand Trade Routes]]
 - [[The Great Convergence Prophecies
 - [The Guilt Garden]]
-- 
+-
 - [[The Infinite Chamber
 - [The Infinity Seekers]]
 - [[The Inter Realm Marriage Guil
@@ -1488,8 +1488,8 @@ Ongoing situations affecting Time:
 - [Unknown Contact]]
 - [[Update Indexes
 - [VAULT_COMPLETION_STATUS]]
-- 
-- 
+-
+-
 - [[Vehicle Core Rules#2) Piloting & Adaptation Requirements
 - [Vehicle_Core_Rules#10) Crew Roles (Examples)]]
 - [[Void Breaker Staffs

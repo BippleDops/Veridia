@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city community support networks community support networkssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Community Support Networks Community Support Networks.svg
 type: location

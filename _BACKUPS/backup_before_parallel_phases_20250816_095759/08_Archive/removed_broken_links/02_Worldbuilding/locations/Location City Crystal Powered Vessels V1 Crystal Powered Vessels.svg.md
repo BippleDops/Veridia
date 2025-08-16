@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city crystal powered vessels v1 crystal powered vesselssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Crystal Powered Vessels V1 Crystal Powered Vessels.svg
 type: location

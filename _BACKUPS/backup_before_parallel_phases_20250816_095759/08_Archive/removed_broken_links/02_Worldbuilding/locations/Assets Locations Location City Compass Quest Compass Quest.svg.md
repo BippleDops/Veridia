@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Compass Quest Compass Quest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city compass quest compass questsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

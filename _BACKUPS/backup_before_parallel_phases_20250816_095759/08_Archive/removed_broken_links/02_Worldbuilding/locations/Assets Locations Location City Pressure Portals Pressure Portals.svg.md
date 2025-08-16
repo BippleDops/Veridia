@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pressure Portals Pressure Portals.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure portals pressure portalssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

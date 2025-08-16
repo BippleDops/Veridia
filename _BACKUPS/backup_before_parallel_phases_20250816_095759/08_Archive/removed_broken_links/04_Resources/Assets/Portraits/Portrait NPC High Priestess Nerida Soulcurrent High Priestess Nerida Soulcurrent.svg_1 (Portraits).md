@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high priestess nerida soulcurrent high priestess nerida soulcurrentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Priestess Nerida Soulcurrent High Priestess Nerida Soulcurrent.svg
 type: npc

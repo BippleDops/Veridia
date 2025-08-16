@@ -2,7 +2,7 @@
 
 title: Fear Farms
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - session-notes

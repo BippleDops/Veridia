@@ -2,7 +2,7 @@
 
 title: Portrait NPC Abyssos Prime Government V2 Abyssos Prime Government.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city garden keeper zen currentdancer v1 garden keeper zen currentdancersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Garden Keeper Zen Currentdancer V1 Garden Keeper Zen Currentdancer.svg
 type: location

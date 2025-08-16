@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Lord Marcus Shadowbane Lord Marcus Shadowbane.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc lord marcus shadowbane lord marcus shadowbanesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -216,7 +216,7 @@ Mentioned in The First Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

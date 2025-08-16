@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city war machine assembly halls v1 war machine assembly hallssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City War Machine Assembly Halls V1 War Machine Assembly Halls.svg
 type: location

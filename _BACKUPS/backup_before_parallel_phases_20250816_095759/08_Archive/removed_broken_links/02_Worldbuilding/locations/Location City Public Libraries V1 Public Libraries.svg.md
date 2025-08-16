@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city public libraries v1 public librariessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Public Libraries V1 Public Libraries.svg
 type: location

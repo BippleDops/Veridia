@@ -2,7 +2,7 @@
 
 title: Death Hunters Guild
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

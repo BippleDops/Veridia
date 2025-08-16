@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Government Leader Capable V1 Government Leader
   Capable.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city government leader capable v1 government
   leader capablesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -200,7 +200,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

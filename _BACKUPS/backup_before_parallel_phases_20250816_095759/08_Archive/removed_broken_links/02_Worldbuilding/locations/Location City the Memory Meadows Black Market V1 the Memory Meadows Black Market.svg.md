@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the memory meadows black market v1 the memory meadows black marketsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Memory Meadows Black Market V1 the Memory Meadows Black Market.svg
 type: location

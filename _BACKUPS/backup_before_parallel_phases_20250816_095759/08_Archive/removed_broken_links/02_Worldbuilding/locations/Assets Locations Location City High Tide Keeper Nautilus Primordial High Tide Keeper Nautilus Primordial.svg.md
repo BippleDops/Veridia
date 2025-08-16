@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City High Tide Keeper Nautilus Primordial High Tide
   Keeper Nautilus Primordial.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city high tide keeper nautilus primordial
   high tide keeper nautilus primordialsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

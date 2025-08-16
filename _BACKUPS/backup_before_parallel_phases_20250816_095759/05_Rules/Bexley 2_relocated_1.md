@@ -11,7 +11,7 @@ leader: '[[02_Worldbuilding/Lore/Mayor Cornelius Tidecrest'
 members: ~5,000 city employees and officials
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - administration
 - aquabyssos
 - complete

@@ -73,7 +73,7 @@ publish: false
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
-5. Hidden or secret areas ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Sensory Details **Sights**: Sunlight filters through stained glass windows **Sounds**: The constant murmur of conversation fills the air **Smells**: Wood smoke curls from countless chimneys ## Description Quest - Harbor Security is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region. 
+5. Hidden or secret areas ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Sensory Details **Sights**: Sunlight filters through stained glass windows **Sounds**: The constant murmur of conversation fills the air **Smells**: Wood smoke curls from countless chimneys ## Description Quest - Harbor Security is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
 *Sounds of [relevant sounds] echo in the distance.***Type**: Settlement/Landmark/Region
 
 **Size**: Appropriate to location type

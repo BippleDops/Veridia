@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain thrace deeprunner v2 captain thrace deeprunnersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Thrace Deeprunner V2 Captain Thrace Deeprunner.svg
 type: npc

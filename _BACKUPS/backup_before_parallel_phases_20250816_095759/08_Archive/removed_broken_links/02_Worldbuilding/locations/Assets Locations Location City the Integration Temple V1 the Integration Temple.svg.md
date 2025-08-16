@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Integration Temple V1 the Integration Temple.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the integration temple v1 the integration
   templesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tidal Runner Nerissa Tidal Runner Nerissa.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tidal runner nerissa tidal runner nerissasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

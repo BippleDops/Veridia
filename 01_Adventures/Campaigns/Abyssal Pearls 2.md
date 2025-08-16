@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags: 
+tags:
 - active
 - aquabyssos
 - lore
@@ -33,22 +33,22 @@ The discovery of Abyssal Pearls traces back to the legendary deep explorer **Cap
 - **Void Heart Pearls**: Largest grade, size of a human head, containing swirling darkness that seems to move independently
 - **Echo Pearls**: Legendary grade, rumored to contain the memories of ancient deep-dwellers
 
-**Harvesting Challenges**: 
+**Harvesting Challenges**:
 Collecting Abyssal Pearls requires expeditions to depths that challenge even the most pressure-adapted beings. The pearl beds lie in the **Midnight Trenches**, where the water pressure could crush normal vessels instantly. Worse, the guardian leviathans view pearl harvesting as theft and respond with devastating fury. Many expeditions never return, while others come back with crews driven mad by the crushing isolation and otherworldly encounters.
 
-**Sensory Characteristics**: 
+**Sensory Characteristics**:
 Abyssal Pearls emit a low-frequency hum that resonates through bone and water alike, creating an almost hypnotic effect on those nearby. The sound carries emotional weight—listeners often report feeling ancient sadness, profound loneliness, or overwhelming awe. The pearls' surface appears smooth but feels strangely textured, as if the pressure-essence creates microscopic currents across their surface.
 
-**Cultural Significance**: 
+**Cultural Significance**:
 In Aquabyssos society, owning an Abyssal Pearl indicates either incredible wealth or extraordinary bravery. The pearls serve as diplomatic gifts between major powers, wedding tokens for the most prestigious marriages, and components in the most powerful magical artifacts. The [[02_Worldbuilding/Lore/Aquabyssos Depth Caste System|depth caste system recognizes pearl ownership as automatic elevation to high status.
 
-**Trade and Economics**: 
+**Trade and Economics**:
 A single Twilight Pearl can purchase a noble's estate, while Midnight Pearls represent the equivalent of a small city's annual tax revenue. Void Heart Pearls are so valuable they're usually bartered only for political favors or military alliances. The [02_Worldbuilding/Groups/The Deepwater Trading Consortium|Deepwater Trading Consortium]] maintains exclusive harvesting rights to most known pearl beds, making them the wealthiest organization in Aquabyssos.
 
-**Magical Properties**: 
+**Magical Properties**:
 Abyssal Pearls can be incorporated into magical items to provide pressure-based enchantments, create protective barriers that deflect crushing forces, or power spells that manipulate water density. Master enchanters use ground pearl dust to create potions that allow temporary adaptation to extreme depths. The most powerful applications involve whole pearls as focal points for reality-altering magic.
 
-**Dangerous Applications**: 
+**Dangerous Applications**:
 [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy|Shadow conspirators have discovered that Abyssal Pearls can amplify mind-control magic when properly corrupted. The resulting **Shadow Pearls** appear normal but contain malevolent consciousness fragments that can influence their bearers' thoughts and actions. Several high-ranking officials in Aquabyssos are suspected of wearing corrupted pearl jewelry.
 
 ## Adventure Hooks

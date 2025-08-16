@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high cultivist jasper lifebinder v1 high cultivist jasper lifebindersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Cultivist Jasper Lifebinder V1 High Cultivist Jasper Lifebinder.svg
 type: npc

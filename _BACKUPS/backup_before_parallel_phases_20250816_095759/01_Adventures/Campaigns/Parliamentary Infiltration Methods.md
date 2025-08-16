@@ -1,7 +1,7 @@
 ---
 title: Parliamentary Infiltration Methods
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - status/complete

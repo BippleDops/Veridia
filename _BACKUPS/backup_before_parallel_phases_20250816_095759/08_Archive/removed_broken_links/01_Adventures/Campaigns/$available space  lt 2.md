@@ -1,7 +1,7 @@
 ---
 title: [[$available space  lt 2
 type: note
-tags: 
+tags:
 - auto-generated
 - [Link]]ed
 created: '2025-01-15'

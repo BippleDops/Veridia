@@ -2,7 +2,7 @@
 
 title: Pearl Divers
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

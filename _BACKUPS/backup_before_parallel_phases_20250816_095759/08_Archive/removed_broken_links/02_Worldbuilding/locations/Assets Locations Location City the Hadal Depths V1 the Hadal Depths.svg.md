@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Hadal Depths V1 the Hadal Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the hadal depths v1 the hadal depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

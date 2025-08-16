@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Serenity Stillwater V1 Serenity Stillwater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city serenity stillwater v1 serenity stillwatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

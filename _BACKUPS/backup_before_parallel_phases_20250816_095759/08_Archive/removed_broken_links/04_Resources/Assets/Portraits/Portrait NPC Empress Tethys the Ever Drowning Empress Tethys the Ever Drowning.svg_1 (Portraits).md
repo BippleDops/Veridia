@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc empress tethys the ever drowning empress tethys the ever drowningsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Empress Tethys the Ever Drowning Empress Tethys the Ever Drowning.svg
 type: npc

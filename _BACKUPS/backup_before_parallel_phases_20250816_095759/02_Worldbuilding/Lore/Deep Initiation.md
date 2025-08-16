@@ -2,7 +2,7 @@
 
 title: Deep Initiation
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

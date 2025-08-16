@@ -2,7 +2,7 @@
 
 title: Memory Corruption Mechanics
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

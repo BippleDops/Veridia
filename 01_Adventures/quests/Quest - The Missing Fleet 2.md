@@ -12,7 +12,7 @@ party_size: 4-6 characters
 primary_location: Aethermoor Maritime Region
 quest_type: Investigation/Diplomatic Mission
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/adventure

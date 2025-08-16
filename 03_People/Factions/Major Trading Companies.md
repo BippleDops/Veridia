@@ -2,7 +2,7 @@
 
 title: Major Trading Companies
 type: Faction
-tags: 
+tags:
 - economy
 - both
 - status/complete
@@ -123,7 +123,7 @@ The major trading companies of [Aethermoor]] and [[Aquabyssos represent the pinn
 - **Independent Navigation Guilds** (route expertise)
 
 ### Silkwind Luxury Enterprises
-**Chief Executive**: [[Lady Venetia Silkwind  
+**Chief Executive**: [[Lady Venetia Silkwind
 **Founded**: 18 years ago through strategic marriages and acquisitions
 **Primary Headquarters**: The Silk Tower, [Port Meridian]]
 **Estimated Value**: 1.8+ million gold pieces
@@ -138,7 +138,7 @@ The major trading companies of [Aethermoor]] and [[Aquabyssos represent the pinn
 **Managing Director**: [[Master Chen Wei
 **Founded**: 25 years ago with foreign backing
 **Primary Headquarters**: The Jade Tower, [Port Meridian]]
-**Estimated Value**: 1.5+ million gold pieces  
+**Estimated Value**: 1.5+ million gold pieces
 **Workforce**: 1,800+ direct employees
 
 #### Hidden Foreign Connections
@@ -240,7 +240,7 @@ The major trading companies of [Aethermoor]] and [[Aquabyssos represent the pinn
 
 ### The Independent Threat
 **Challenge**: Small independent traders undermining corporate monopolies
-**Corporate Response**: 
+**Corporate Response**:
 - **Economic**: Predatory pricing to drive independents out of business
 - **Political**: Lobbying for regulations that favor large corporations
 - **Criminal**: Using illegal methods to eliminate persistent competitors
@@ -422,7 +422,7 @@ The major trading companies of [Aethermoor]] and [[Aquabyssos represent the pinn
 
 #### Random Corporate Executive (d20)
 1-4: **Ambitious Middle Manager** - Seeking advancement through any means necessary
-5-8: **Corrupt Ficial Officer** - Embezzling funds while maintaining respectable facade  
+5-8: **Corrupt Ficial Officer** - Embezzling funds while maintaining respectable facade
 9-12: **Corporate Spy Master** - Managing intelligence operations and industrial espionage
 13-16: **Reform-Minded Director** - Trying to change corporate culture from within
 17-19: **Ruthless Efficiency Expert** - Maximizing profits regardless of human cost
@@ -448,7 +448,7 @@ The major trading companies of [Aethermoor]] and [[Aquabyssos represent the pinn
 9: **Competitive Sabotage** - Rivals attacking corporate assets or operations
 10: **Succession Crisis** - Leadership transition creating power vacuum
 
-#### External Corporate Threats (d10)  
+#### External Corporate Threats (d10)
 1: **Government Intervention** - Political action threatening corporate interests
 2: **Criminal Infiltration** - Organized crime targeting corporate operations
 3: **Foreign Competition** - International rivals entering local markets

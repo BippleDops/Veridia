@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc patriarch valdris lightbringer v1 patriarch valdris lightbringersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Patriarch Valdris Lightbringer V1 Patriarch Valdris Lightbringer.svg
 type: npc

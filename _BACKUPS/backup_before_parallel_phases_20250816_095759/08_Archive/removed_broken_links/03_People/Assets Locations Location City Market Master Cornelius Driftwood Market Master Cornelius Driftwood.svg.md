@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Market Master Cornelius Driftwood Market Master
   Cornelius Driftwood.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city market master cornelius driftwood market
   master cornelius driftwoodsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: Entertainment Industry
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Symphony of the Abyss Recipe V1 Symphony of
   the Abyss Recipe.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city symphony of the abyss recipe v1 symphony
   of the abyss recipesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

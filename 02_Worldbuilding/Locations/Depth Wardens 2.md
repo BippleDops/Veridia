@@ -8,7 +8,7 @@ member_count: ~2,000 active wardens
 scope: Realm-wide
 significance: Major
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/faction

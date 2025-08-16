@@ -2,7 +2,7 @@
 
 title: Memory Tide Pools
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

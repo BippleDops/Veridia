@@ -2,7 +2,7 @@
 
 title: The Temple of Eternal Tides
 type: [[location
-tags: 
+tags:
 - both
 - aerial
 - aquatic

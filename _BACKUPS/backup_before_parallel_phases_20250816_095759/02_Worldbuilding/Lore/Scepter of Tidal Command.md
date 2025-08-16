@@ -2,7 +2,7 @@
 
 title: Scepter of Tidal Command
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

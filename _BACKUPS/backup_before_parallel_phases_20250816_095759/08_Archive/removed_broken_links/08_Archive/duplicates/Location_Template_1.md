@@ -1,14 +1,14 @@
 ---
-created: 
+created:
 type: location
-name: 
+name:
 region: [[
-settlement_size: 
-population: 
-government: 
+settlement_size:
+population:
+government:
 ---
 
-# 
+#
 
 ## Overview
 {overview}

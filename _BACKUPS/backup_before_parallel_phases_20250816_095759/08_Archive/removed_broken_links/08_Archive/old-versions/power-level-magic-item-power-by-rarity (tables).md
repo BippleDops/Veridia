@@ -2,7 +2,7 @@
 
 title: power-level-magic-item-power-by-rarity (tables)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Living Stone Living Stone.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city living stone living stonesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

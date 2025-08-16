@@ -4,7 +4,7 @@ created: '2025-08-08'
 created_by: auto-stub
 significance: Human Representative
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/lore

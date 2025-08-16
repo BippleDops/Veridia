@@ -2,7 +2,7 @@
 
 title: Crystallization Process
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - world/aquabyssos

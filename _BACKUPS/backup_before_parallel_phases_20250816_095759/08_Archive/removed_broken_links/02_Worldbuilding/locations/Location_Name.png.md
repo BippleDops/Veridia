@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Location_Name.png
 type: location
-tags: 
+tags:
 - location
 - city
 - central-territories

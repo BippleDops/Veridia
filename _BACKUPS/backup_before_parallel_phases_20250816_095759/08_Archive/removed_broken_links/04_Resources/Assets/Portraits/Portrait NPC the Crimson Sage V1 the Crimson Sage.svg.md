@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the crimson sage v1 the crimson sagesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Crimson Sage V1 the Crimson Sage.svg
 type: npc

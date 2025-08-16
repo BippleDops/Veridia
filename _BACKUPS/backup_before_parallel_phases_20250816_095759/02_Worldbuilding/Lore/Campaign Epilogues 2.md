@@ -5,7 +5,7 @@ purpose: Campaign Resolution
 scope: Both Worlds
 status: complete
 structure_type: Campaign Framework
-tags: 
+tags:
 - both worlds
 - campaign/consequence
 - complete

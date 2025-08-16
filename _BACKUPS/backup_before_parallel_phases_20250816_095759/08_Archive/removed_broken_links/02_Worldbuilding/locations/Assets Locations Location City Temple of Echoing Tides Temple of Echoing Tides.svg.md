@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Temple of Echoing Tides Temple of Echoing Tides.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of echoing tides temple of echoing
   tidessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -200,7 +200,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

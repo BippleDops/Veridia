@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Infected_Experiments.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

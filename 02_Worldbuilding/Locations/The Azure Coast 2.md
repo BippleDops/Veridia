@@ -4,17 +4,17 @@ created: '2025-08-09'
 danger_level: 3
 government: Multiple City-States and Kingdoms
 length: 400 miles of coastline
-major_cities: 
+major_cities:
 - '[[02_Worldbuilding/Places/Port Meridian'
 - '[02_Worldbuilding/Places/Goldspire Port]]'
 - Azure Bay
 population: 850000
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Places/The Cerulean Archipelago'
 - 'Aquabyssos Ambassadors'
 - '[02_Worldbuilding/Groups/The Crimson Fleet]]'
 status: draft
-tags: 
+tags:
 - aethermoor
 - coastal
 - coastal-region
@@ -91,7 +91,7 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 
 ### Lighthouse Towns
 **Beacon's Rest**: Northern lighthouse community, population 12,000
-**Tidecaller's Harbor**: Central coast settlement, population 18,000  
+**Tidecaller's Harbor**: Central coast settlement, population 18,000
 **Sorrow Watch**: Southern lighthouse town, population 8,000
 
 ## Economic Activities

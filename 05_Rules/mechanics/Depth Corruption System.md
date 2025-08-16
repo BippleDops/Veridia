@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Mechanics/Depth Corruption System
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

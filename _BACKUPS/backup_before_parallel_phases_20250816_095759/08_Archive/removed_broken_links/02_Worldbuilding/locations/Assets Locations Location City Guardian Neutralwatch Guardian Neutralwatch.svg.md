@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Guardian Neutralwatch Guardian Neutralwatch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city guardian neutralwatch guardian neutralwatchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

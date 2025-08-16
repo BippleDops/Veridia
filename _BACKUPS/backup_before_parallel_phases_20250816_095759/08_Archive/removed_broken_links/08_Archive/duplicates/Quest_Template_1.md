@@ -1,15 +1,15 @@
 ---
-created: 
+created:
 type: quest
-name: 
+name:
 questgiver: [[
 location: []]
-level: 
-reward: 
+level:
+reward:
 status: available
 ---
 
-# 
+#
 
 ## Quest Overview
 **Giver**: [[{questgiver}

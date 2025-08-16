@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city pressure gems v1 pressure gemssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: location city pressure gems v1 pressure gems.svg
 type: location

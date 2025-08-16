@@ -2,7 +2,7 @@
 
 title: Foreign Crystal Traders
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

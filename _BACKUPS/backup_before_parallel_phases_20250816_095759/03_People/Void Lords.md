@@ -1,7 +1,7 @@
 ---
 title: Void Lords
 type: npc
-tags: 
+tags:
 - npc
 - halfling
 - paladin

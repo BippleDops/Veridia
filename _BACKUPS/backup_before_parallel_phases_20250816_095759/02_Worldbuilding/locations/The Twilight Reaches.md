@@ -5,7 +5,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - note
 title: The Twilight Reaches
 type: location

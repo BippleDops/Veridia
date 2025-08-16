@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Coral Palace Complex V1 the Coral Palace
   Complex.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the coral palace complex v1 the coral
   palace complexsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -209,7 +209,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

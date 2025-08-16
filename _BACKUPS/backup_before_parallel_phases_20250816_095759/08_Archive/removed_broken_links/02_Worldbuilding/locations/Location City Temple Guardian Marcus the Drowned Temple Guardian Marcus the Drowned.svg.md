@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city temple guardian marcus the drowned temple guardian marcus the drownedsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Temple Guardian Marcus the Drowned Temple Guardian Marcus the
   Drowned.svg

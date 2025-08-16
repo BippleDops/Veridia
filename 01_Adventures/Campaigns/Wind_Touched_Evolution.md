@@ -2,7 +2,7 @@
 
 title: Wind_Touched_Evolution
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

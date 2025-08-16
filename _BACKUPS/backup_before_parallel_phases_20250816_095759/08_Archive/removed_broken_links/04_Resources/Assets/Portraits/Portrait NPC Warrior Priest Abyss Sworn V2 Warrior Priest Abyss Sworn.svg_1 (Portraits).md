@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc warrior priest abyss sworn v2 warrior priest abyss swornsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Warrior Priest Abyss Sworn V2 Warrior Priest Abyss Sworn.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: Winds of Rebellion
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Historical Research Institute V1 Historical
   Research Institute.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city historical research institute v1 historical
   research institutesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

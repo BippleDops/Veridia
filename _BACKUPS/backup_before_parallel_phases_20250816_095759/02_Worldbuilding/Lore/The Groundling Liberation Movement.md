@@ -2,7 +2,7 @@
 
 title: The [[Groundling Liberation Movement
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

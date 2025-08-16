@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Marcus Shardbreaker Grimm Marcus Shardbreaker
   Grimm.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc marcus shardbreaker grimm marcus shardbreaker
   grimmsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

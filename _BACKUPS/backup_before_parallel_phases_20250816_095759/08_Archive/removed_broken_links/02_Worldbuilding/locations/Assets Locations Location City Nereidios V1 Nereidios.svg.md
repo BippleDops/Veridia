@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Nereidios V1 Nereidios.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city nereidios v1 nereidiossvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

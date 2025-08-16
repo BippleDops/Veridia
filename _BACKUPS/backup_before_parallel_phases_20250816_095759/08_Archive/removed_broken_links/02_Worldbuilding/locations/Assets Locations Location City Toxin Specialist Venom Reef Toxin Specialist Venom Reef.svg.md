@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Toxin Specialist Venom Reef Toxin Specialist
   Venom Reef.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city toxin specialist venom reef toxin specialist
   venom reefsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

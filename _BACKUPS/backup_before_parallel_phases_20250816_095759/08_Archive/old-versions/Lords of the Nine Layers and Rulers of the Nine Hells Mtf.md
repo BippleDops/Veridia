@@ -2,7 +2,7 @@
 
 title: Lords of the Nine Layers and Rulers of the Nine Hells Mtf
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

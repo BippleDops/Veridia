@@ -2,7 +2,7 @@
 
 title: Crystalhaven
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -201,7 +201,7 @@ Where those suffering from crystal corruption seek healing. Run by [[[High Pries
 
 **Social Stratification at Dawn**: The wealthy in the Radiant Quarter enjoy "crystal-filtered morning air" that provides magical enhancement and perfect climate control. Working families in the Forge District wake to the sound of industrial crystal formation charging, while those in the Shadow Warren experience dim, unreliable lighting that reflects their social status and corruption exposure.
 
-**Professional Morning Rituals**: 
+**Professional Morning Rituals**:
 - **Palace Staff**: Begin with loyalty oaths spoken before crystal recording devices that detect deception or corruption influence
 - **Crystal Wardens**: Perform equipment inspections using crystal-enhanced detection methods, checking for shadow influence or corruption signs
 - **Artificers**: Calibrate workshop crystal formations and review overnight magical experiments through crystal memory storage

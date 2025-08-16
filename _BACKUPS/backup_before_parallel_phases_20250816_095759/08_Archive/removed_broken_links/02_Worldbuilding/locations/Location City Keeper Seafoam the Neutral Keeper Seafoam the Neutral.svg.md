@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper seafoam the neutral keeper seafoam the neutralsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper Seafoam the Neutral Keeper Seafoam the Neutral.svg
 type: location

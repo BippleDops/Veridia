@@ -2,7 +2,7 @@
 
 title: The Last Seeds
 type: Location
-tags: 
+tags:
 - aquabyssos
 - urgency
 - content/adventure

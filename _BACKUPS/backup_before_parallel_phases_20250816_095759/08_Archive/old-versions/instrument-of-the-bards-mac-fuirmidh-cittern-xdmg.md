@@ -2,7 +2,7 @@
 
 title: instrument-of-the-bards-mac-fuirmidh-cittern-xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: Keeper of Memories Echo Truthseer
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -157,7 +157,7 @@ Ongoing situations affecting Keeper of Memories Echo Truthseer:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

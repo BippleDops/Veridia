@@ -2,7 +2,7 @@
 
 title: Kelp Highway
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

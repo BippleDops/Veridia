@@ -19,7 +19,7 @@ Total Maps Generated: 3481
 
 ### World Maps
 - **Political**: Borders, nations, cities
-- **Physical**: Terrain, climate, geography  
+- **Physical**: Terrain, climate, geography
 - **Player**: Known world information
 - **GM**: Complete information with secrets
 

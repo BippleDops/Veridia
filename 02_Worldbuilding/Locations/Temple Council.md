@@ -2,7 +2,7 @@
 
 title: Temple Council
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

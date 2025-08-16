@@ -2,7 +2,7 @@
 
 title: Patrol Boundaryrider
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

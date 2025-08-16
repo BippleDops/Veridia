@@ -2,7 +2,7 @@
 
 title: Ancient Treasury of Tides
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

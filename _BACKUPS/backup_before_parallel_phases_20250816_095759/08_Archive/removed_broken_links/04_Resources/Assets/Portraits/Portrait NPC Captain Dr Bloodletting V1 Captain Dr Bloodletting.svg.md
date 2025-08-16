@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain dr bloodletting v1 captain dr bloodlettingsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Dr Bloodletting V1 Captain Dr Bloodletting.svg
 type: npc

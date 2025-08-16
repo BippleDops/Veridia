@@ -59,7 +59,7 @@ Possible developments and plot opportunities.
 - [[Location3 (Places)
 - [Abyssal Forges]]
 - [[Abyssal Spires
-- 
+-
 - [Conspiracy Prison Facilities]]
 - [[Crystal Conservatory
 - [Crystal Shadow Storms]]
@@ -261,10 +261,10 @@ Possible developments and plot opportunities.
 - [Location City Archdeacon Felix Faithkeeper V1 Archdeacon Felix Faithkeeper.svg]]
 - [[Location City Archdruid Marina Kelpweaver Archdruid Marina Kelpweaver.svg
 - [Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
-- 
-- 
-- 
-- 
+-
+-
+-
+-
 - [[Location City Archivist Elena Sorrowkeeper Archivist Elena Sorrowkeeper.svg
 - [Location City Archivist Elena Sorrowkeeper V1 Archivist Elena Sorrowkeeper.svg]]
 - [[Location City Archivist Methodius Recordkeeper Archivist Methodius Recordkeeper.svg
@@ -1670,10 +1670,10 @@ Possible developments and plot opportunities.
 - [[Location City Wise Tide Truthseeker Wise Tide Truthseeker.svg
 - [Location City the Aether Works V1 the Aether Works.svg]]
 - [[Location City the Aether Works the Aether Works.svg
-- 
-- 
-- 
-- 
+-
+-
+-
+-
 - [Location City the Azure Coast V1 the Azure Coast.svg]]
 - [[Location City the Banker Fish V1 the Banker Fish.svg
 - [Location City the Banshee Caverns V1 the Banshee Caverns.svg]]
@@ -1690,8 +1690,8 @@ Possible developments and plot opportunities.
 - [[Location City the Cerulean Trench the Cerulean Trench.svg
 - [Location City the Constellation Mystery V1 the Constellation Mystery.png]]
 - [[Location City the Constellation Mystery the Constellation Mystery.png
-- 
-- 
+-
+-
 - [Location City the Coral Palace Complex V1 the Coral Palace Complex.svg]]
 - [[Location City the Coral Palace Complex the Coral Palace Complex.svg
 - [Location City the Coral Throne V1 the Coral Throne.svg]]
@@ -1775,8 +1775,8 @@ Possible developments and plot opportunities.
 - [Location City the Gloom Gardens the Gloom Gardens.svg]]
 - [[Location City the Golden Trade Route V1 the Golden Trade Route.svg
 - [Location City the Golden Trade Route the Golden Trade Route.svg]]
-- 
-- 
+-
+-
 - [[Location City the Grand Bazaar of Echoing Coins V1 the Grand Bazaar of Echoing Coins.svg
 - [Location City the Grand Bazaar of Echoing Coins the Grand Bazaar of Echoing Coins.svg]]
 - [[Location City the Great Sky Harbor V1 the Great Sky Harbor.svg

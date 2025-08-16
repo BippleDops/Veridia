@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Arcturus Lumenblade Arcturus Lumenblade.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry arcturus lumenblade arcturus lumenbladesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

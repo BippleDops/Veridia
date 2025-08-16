@@ -66,7 +66,7 @@ This document contains important information regarding All Quests and its role w
 
 **Tension**: The urgency of this quest creates palpable tension in the air.
 
-All Quests represents a significant element within the campaign world, offering various opportunities for engagement and 
+All Quests represents a significant element within the campaign world, offering various opportunities for engagement and
 *The air carries the scent of [appropriate smell].*development. Moreover, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world

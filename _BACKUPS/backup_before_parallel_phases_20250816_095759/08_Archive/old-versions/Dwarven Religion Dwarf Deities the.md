@@ -2,7 +2,7 @@
 
 title: Dwarven Religion Dwarf Deities the
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

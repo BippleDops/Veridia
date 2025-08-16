@@ -2,7 +2,7 @@
 
 title: Random Settlements Rulers Status
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

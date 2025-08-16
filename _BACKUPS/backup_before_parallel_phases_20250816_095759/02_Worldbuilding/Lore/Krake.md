@@ -2,7 +2,7 @@
 
 title: Krake
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

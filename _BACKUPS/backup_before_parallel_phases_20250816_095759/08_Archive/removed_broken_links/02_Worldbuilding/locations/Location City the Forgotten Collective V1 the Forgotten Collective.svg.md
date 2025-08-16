@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the forgotten collective v1 the forgotten collectivesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Forgotten Collective V1 the Forgotten Collective.svg
 type: location

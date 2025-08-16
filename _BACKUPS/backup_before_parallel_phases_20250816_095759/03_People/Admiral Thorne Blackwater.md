@@ -1,12 +1,12 @@
 ---
 
 title: Admiral Thorne Blackwater
-aliases: 
+aliases:
 - Admiral Blackwater
 - The Iron Admiral
 - Thorne
 type: Npc
-tags: 
+tags:
 - both
 - status/complete
 - military
@@ -34,7 +34,7 @@ in_combat: true
 initiative: 12
 max_hp: 20
 obsidianUIMode: preview
-relationships: 
+relationships:
 - strength: 3
   target: '[[Captain Garrett Stormcutter'
   type: rival
@@ -71,7 +71,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

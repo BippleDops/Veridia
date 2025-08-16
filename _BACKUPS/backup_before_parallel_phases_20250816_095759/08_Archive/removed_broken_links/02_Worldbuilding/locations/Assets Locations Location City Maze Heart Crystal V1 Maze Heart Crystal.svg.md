@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Maze Heart Crystal V1 Maze Heart Crystal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city maze heart crystal v1 maze heart crystalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc duke cyrus reefheart v1 duke cyrus reefheartsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Duke Cyrus Reefheart V1 Duke Cyrus Reefheart.svg
 type: npc

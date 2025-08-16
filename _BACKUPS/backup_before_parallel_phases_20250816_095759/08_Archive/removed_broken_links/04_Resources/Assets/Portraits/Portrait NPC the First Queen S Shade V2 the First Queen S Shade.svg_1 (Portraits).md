@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the first queen s shade v2 the first queen s shadesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the First Queen S Shade V2 the First Queen S Shade.svg
 type: npc

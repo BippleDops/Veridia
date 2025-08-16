@@ -2,7 +2,7 @@
 
 title: Order of the Silent Vigil
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

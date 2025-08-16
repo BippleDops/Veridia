@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Goldspire Port V1 Goldspire Port.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city goldspire port v1 goldspire portsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

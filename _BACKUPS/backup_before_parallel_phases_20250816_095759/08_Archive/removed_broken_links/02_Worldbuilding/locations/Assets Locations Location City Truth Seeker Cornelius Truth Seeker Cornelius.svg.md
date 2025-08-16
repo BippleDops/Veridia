@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Truth Seeker Cornelius Truth Seeker Cornelius.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city truth seeker cornelius truth seeker
   corneliussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -185,7 +185,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city harbor pilot captain storm skyreacher v1 harbor pilot captain storm
   skyreachersvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Harbor Pilot Captain Storm Skyreacher V1 Harbor Pilot Captain
   Storm Skyreacher.svg

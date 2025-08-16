@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc agent whisper voidheart v1 agent whisper voidheartsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Agent Whisper Voidheart V1 Agent Whisper Voidheart.svg
 type: npc

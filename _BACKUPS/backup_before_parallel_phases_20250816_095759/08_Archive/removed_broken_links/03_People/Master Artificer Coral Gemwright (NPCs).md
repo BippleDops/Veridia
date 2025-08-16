@@ -1,7 +1,7 @@
 ---
 title: Master Artificer Coral Gemwright
 type: npc
-tags: 
+tags:
 - npc
 - elf
 - wizard

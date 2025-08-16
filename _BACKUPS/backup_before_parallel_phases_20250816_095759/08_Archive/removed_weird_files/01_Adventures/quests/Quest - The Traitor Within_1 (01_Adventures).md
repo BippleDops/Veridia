@@ -84,7 +84,7 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas > [!figure] Portrait # Quest - The Traitor Within **Level:** 6-9 | **Type:** Investigation/Political Intrigue | 
+- Moral dilemmas > [!figure] Portrait # Quest - The Traitor Within **Level:** 6-9 | **Type:** Investigation/Political Intrigue |
 *Sounds of [relevant sounds] echo in the distance.***Duration:** 4-6 sessions ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Diaspora Improvements - Describe how this culture exists in other regions ### Superstitions Improvements - List common superstitions and their origins ### Oral_Tradition Improvements - Add folk tales and children's stories ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Evolution Improvements - Show how traditions are changing with new generation ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Contradictions Improvements - Include cultural hypocrisies and double standards ### Sensory Improvements - Add smells, sounds, and textures unique to this culture ## Overview
 
 **Difficulty**: Moderate (Levels 3-5)

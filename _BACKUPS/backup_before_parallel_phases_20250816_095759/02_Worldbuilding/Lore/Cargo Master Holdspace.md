@@ -2,7 +2,7 @@
 
 title: Cargo Master Holdspace
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

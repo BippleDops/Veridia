@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Merchant Delilah Currentrunner V1 Merchant Delilah
   Currentrunner.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant delilah currentrunner v1 merchant
   delilah currentrunnersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Free Traders Alliance
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[Npc]]

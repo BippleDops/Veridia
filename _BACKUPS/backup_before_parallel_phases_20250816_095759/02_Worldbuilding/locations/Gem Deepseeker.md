@@ -2,7 +2,7 @@
 
 title: Gem Deepseeker
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

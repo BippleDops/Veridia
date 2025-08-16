@@ -2,7 +2,7 @@
 
 title: Multi Phase Boss Fights
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - aerial

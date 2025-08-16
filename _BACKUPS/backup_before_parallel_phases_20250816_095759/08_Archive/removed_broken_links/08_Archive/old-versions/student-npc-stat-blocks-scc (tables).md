@@ -2,7 +2,7 @@
 
 title: student-npc-stat-blocks-scc (tables)
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

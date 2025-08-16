@@ -2,7 +2,7 @@
 
 title: The Deep Expansion
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

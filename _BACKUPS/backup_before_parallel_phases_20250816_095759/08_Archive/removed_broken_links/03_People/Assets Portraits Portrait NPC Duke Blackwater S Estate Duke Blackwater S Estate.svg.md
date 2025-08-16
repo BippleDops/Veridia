@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc duke blackwater s estate duke blackwater
   s estatesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

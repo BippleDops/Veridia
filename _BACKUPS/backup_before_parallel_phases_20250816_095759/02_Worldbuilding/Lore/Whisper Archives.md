@@ -1,7 +1,7 @@
 ---
 title: Whisper Archives
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

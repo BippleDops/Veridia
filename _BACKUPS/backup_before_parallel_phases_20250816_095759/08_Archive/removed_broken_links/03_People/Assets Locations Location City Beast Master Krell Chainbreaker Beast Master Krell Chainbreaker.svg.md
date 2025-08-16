@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Beast Master Krell Chainbreaker Beast Master
   Krell Chainbreaker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city beast master krell chainbreaker beast
   master krell chainbreakersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

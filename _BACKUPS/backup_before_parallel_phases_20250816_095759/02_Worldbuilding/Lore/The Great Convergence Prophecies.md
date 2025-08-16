@@ -1,7 +1,7 @@
 ---
 title: The Great Convergence Prophecies
 type: [[Lore
-tags: 
+tags:
 - aerial
 - aquatic
 - ancient-prophecy
@@ -30,7 +30,7 @@ modified: '2025-08-14'
 status: complete
 category: Religious-Historical Event
 created_by: cultural-expansion
-related_entities: 
+related_entities:
 - '[[Deep Mother]]'
 - '[[Aetheron'
 - '[The Shattering]] of [[The Crown]]'

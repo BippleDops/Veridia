@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Reality Breach Locations Reality Breach Locations.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reality breach locations reality breach
   locationssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

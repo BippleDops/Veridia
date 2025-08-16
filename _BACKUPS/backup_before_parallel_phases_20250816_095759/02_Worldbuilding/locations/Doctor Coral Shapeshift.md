@@ -2,7 +2,7 @@
 
 title: Doctor Coral Shapeshift
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -159,7 +159,7 @@ The Metamorphosis Clinic represents the pinnacle of experimental medical practic
 **Contribution**: His statistical analysis of transformation outcomes has revolutionized understanding of which procedures work best for specific conditions and patient types. This data-driven approach has significantly improved success rates while reducing risks for experimental procedures.
 
 ### The Transformation Gone Wrong
-**Level**: 8-14  
+**Level**: 8-14
 **Crisis**: A prominent noble has undergone a transformation procedure that has begun producing unexpected and dangerous side effects. The transformation is continuing beyond its intended parameters, potentially threatening not only the patient's life but also creating a new and dangerous creature that could threaten the entire city. Doctor Shapeshift needs the characters' help to reverse or control the transformation before it becomes irreversible.
 
 **Investigation**: Characters must research the specific transformation technique used, identify what went wrong in the process, and locate rare ingredients or magical components needed for a reversal procedure. This may require travel to dangerous locations, negotiations with hostile creatures, or infiltration of rival research facilities that possess needed resources.
@@ -169,7 +169,7 @@ The Metamorphosis Clinic represents the pinnacle of experimental medical practic
 **Stakes**: Success saves the patient's life and protects the clinic's reputation, while failure could result in the creation of a dangerous monster and the potential shutdown of transformation medicine throughout [[Aquabyssos. The adventure provides opportunities to explore the ethical implications of experimental medicine and the responsibilities that come with revolutionary capabilities.
 
 ### The Stolen Research Crisis
-**Level**: 6-12  
+**Level**: 6-12
 **Situation**: Critical research data containing transformation techniques and patient information has been stolen from the clinic's memory preservation systems. The stolen information could be used to create unauthorized transformations, blackmail patients who have undergone sensitive procedures, or replicate the clinic's techniques without proper safety protocols.
 
 **Investigation**: Characters must track down the thieves through [Aquabyssos]]'s underworld while racing to prevent the stolen information from being used maliciously. The trail may lead through rival medical facilities, foreign intelligence networks, or criminal organizations that specialize in magical technology theft.
@@ -179,7 +179,7 @@ The Metamorphosis Clinic represents the pinnacle of experimental medical practic
 **Resolution**: Successfully recovering the stolen research and preventing its misuse requires both detective work and potentially direct confrontation with dangerous criminals. Success protects patient privacy and prevents unauthorized transformations, while failure could lead to widespread abuse of transformation technology.
 
 ### The Experimental Treatment Emergency
-**Level**: 7-13  
+**Level**: 7-13
 **Emergency**: A rare disease is rapidly spreading through part of [[Aquabyssos, and conventional medicine has proven ineffective. Doctor Shapeshift believes that a radical experimental transformation could provide immunity, but the treatment is untested and potentially dangerous. The characters must help gather rare components for the experimental treatment while protecting the clinic from those who oppose experimental medicine.
 
 **Resources**: The experimental treatment requires ingredients from dangerous locations throughout the ocean, including abyssal trenches, magical coral reefs, and territories controlled by hostile creatures. Characters must organize expeditions to gather these materials while racing against the disease's spread.
@@ -189,7 +189,7 @@ The Metamorphosis Clinic represents the pinnacle of experimental medical practic
 **Outcome**: Success in developing and implementing the experimental treatment could save thousands of lives and establish new precedents for emergency medical response. Failure could result in widespread casualties and potentially permanent restrictions on experimental medical research.
 
 ### The Identity Crisis Investigation
-**Level**: 5-11  
+**Level**: 5-11
 **Mystery**: Patients who have undergone identity-altering transformations at the clinic are experiencing unexpected psychological effects, including memory confusion, personality changes, and claims that their transformations have somehow mixed their identities with other people. The characters must investigate whether these effects are caused by medical error, sabotage, or previously unknown properties of transformation magic.
 
 **Psychology**: The investigation requires understanding both magical theory and psychological principles as characters work to determine whether the reported identity confusion is real or imagined. Interviews with affected patients reveal conflicting accounts that may indicate either medical complications or deliberate manipulation.
@@ -406,7 +406,7 @@ Ongoing situations affecting Doctor Coral Shapeshift:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

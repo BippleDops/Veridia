@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city innkeeper marcus thorne v1 innkeeper marcus thornesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Innkeeper Marcus Thorne V1 Innkeeper Marcus Thorne.svg
 type: location

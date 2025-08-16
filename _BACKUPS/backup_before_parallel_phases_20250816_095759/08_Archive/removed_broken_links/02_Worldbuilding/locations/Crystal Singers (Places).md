@@ -2,7 +2,7 @@
 
 title: [[Crystal Singers
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

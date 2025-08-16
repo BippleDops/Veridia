@@ -2,7 +2,7 @@
 
 title: Carpet of Flying 4 Ft 6 Ft Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

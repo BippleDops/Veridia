@@ -2,7 +2,7 @@
 
 title: Healer Sage Bondseer
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -162,7 +162,7 @@ Ongoing situations affecting Healer Sage Bondseer:
 - **Aberration**: beholder
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 7
-  
+
 ### [[Environmental Hazards
 - Pit trap
 - **DC 14** to detect

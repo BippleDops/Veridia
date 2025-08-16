@@ -1,10 +1,10 @@
 ---
 
 title: Assets Art Palace Guard Captain Neutralis.png
-aliases: 
+aliases:
 - 04 Resources Assets Art Places Palace Guard Captain Neutralispng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

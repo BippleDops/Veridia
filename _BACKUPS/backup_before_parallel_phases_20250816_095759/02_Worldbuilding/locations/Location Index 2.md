@@ -3,7 +3,7 @@ completed: 2025-08-11
 created: '2025-08-08'
 created_by: auto-stub
 status: complete
-tags: 
+tags:
 - complete
 - content/location
 - content/lore

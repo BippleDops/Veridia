@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Transformations/Crystal/Resoce_Body
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

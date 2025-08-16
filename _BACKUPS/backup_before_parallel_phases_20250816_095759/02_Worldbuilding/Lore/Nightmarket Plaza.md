@@ -2,7 +2,7 @@
 
 title: Nightmarket Plaza
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pearl Sharpedge Pearl Sharpedge.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pearl sharpedge pearl sharpedgesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

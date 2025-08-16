@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Infrastructure Development V1 Infrastructure
   Development.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city infrastructure development v1 infrastructure
   developmentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

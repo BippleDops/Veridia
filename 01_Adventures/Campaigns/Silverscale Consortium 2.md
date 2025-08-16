@@ -11,7 +11,7 @@ leader: '[02_Worldbuilding/People/Zephyr Goldwhisper]]'
 members: ~50,000 employees, contractors, agents
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/faction

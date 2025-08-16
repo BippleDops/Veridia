@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Deep Harbor Technology V1 Deep Harbor Technology.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep harbor technology v1 deep harbor
   technologysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

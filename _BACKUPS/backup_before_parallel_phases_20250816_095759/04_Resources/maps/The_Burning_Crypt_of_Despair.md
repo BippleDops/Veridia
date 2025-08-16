@@ -171,24 +171,24 @@ Weapon racks line the walls, and a table sits in the center with dice and coins 
 
 ### Room 1
 **Container**: Locked chest
-**Contents**: 
+**Contents**:
 - 450 gold pieces
 
 ### Room 1
 **Container**: Behind secret door
-**Contents**: 
+**Contents**:
 - 561 gold pieces
 - Ancient tome
 
 ### Room 4
 **Container**: Behind secret door
-**Contents**: 
+**Contents**:
 - 156 gold pieces
 - Potion of Speed
 
 ### Room 4
 **Container**: Ancient sarcophagus
-**Contents**: 
+**Contents**:
 - 125 gold pieces
 
 ## Running the Dungeon

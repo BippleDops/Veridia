@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc queen morwyn lumengarde v1 queen morwyn lumengardesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Queen Morwyn Lumengarde V1 Queen Morwyn Lumengarde.svg
 type: npc

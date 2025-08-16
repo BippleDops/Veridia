@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The_Dimensional_Barrier
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

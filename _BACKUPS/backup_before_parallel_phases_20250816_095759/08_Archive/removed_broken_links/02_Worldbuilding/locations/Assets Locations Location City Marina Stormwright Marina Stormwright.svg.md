@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Marina Stormwright Marina Stormwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marina stormwright marina stormwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

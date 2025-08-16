@@ -2,7 +2,7 @@
 
 title: [[Senator|The [Senator]]'s Office
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

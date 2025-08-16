@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Magical Engineer Reef Spellbreath V1 Magical
   Engineer Reef Spellbreath.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city magical engineer reef spellbreath v1
   magical engineer reef spellbreathsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

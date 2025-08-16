@@ -1,7 +1,7 @@
 ---
 title: The Seven Betrayers
 type: [[Lore
-tags: 
+tags:
 - aerial
 - aquatic
 - political-intrigue
@@ -28,11 +28,11 @@ category: Ancient Conspiracy
 created_by: auto-stub
 expanded: 2025-08-11
 outcome: Catastrophic Success - Crown Shattered, Crystallization Triggered
-participants: 
+participants:
 - God-King Aetheron
 - Seven Trusted Advisors
 - Divine Court
-related_entities: 
+related_entities:
 - '[[The Great Crystallization'
 - '[[Seven Shards|The [Seven Shards]]]]'
 - '[[Crown of Stars|The [Crown of Stars]]'

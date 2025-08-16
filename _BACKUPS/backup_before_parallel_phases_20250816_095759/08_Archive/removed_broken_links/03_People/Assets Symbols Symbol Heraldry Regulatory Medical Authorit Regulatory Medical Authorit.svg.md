@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Regulatory Medical Authorit Regulatory Medical
   Authorit.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry regulatory medical authorit regulatory
   medical authoritsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temple Clergy V1 Temple Clergy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple clergy v1 temple clergysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

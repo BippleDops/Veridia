@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city marcus clausewright v1 marcus clausewrightsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Marcus Clausewright V1 Marcus Clausewright.svg
 type: location

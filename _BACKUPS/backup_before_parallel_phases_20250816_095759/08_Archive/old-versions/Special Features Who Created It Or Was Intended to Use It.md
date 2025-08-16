@@ -2,7 +2,7 @@
 
 title: Special Features Who Created It Or Was Intended to Use It
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -8,7 +8,7 @@ practitioner_level: Community-wide Integration
 safety_rating: Regulated but Accessible
 significance: Cultural Foundation
 status: complete
-tags: 
+tags:
 - adaptation
 - both
 - complete

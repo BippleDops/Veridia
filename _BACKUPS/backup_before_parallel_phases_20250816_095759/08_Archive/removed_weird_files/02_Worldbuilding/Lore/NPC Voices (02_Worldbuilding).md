@@ -1,7 +1,7 @@
 ---
 title: [[Npc Voices
 type: npc
-tags: 
+tags:
 - npc
 - gnome
 - wizard

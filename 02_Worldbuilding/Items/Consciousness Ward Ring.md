@@ -2,7 +2,7 @@
 
 title: Consciousness Ward Ring
 type: item
-tags: 
+tags:
 - item
 - armor
 - uncommon

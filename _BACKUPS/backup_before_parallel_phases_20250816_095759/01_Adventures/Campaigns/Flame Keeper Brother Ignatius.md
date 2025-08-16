@@ -2,7 +2,7 @@
 
 title: Flame Keeper Brother Ignatius
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

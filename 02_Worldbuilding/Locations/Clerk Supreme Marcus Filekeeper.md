@@ -2,7 +2,7 @@
 
 title: Clerk Supreme Marcus Filekeeper
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

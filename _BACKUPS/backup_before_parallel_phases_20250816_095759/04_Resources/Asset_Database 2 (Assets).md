@@ -1,7 +1,7 @@
 ---
 title: Asset_Database 2 (Assets)
 type: note
-tags: 
+tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'

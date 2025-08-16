@@ -2,7 +2,7 @@
 
 title: Victoria Harbormane
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

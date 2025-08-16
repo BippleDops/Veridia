@@ -2,7 +2,7 @@
 
 title: Senator
 type: Npc
-tags: 
+tags:
 - both
 - world/aquabyssos
 - npc
@@ -41,24 +41,24 @@ obsidianUIMode: preview
 occupation: Senator (Shadow-replaced)
 original_race: Human
 portrait: ''
-related_quests: 
+related_quests:
 - '[Investigate Shadow Conspiracy]]'
 - '[[Shadow Citizenship Act'
 relationship_type: political
-relationships: 
+relationships:
 - '[The Scattered Emperor]]'
 - '[[Shadow Duchess Nyx'
 - '[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
 - '[[Original Glaucus (imprisoned)'
 secondary_faction: '[Shadow Conspiracy]]'
-secrets: 
+secrets:
 - Is actually the shadow of the original Senator
 - Reports directly to Shadow Duchess Nyx
 - Knows location of shadow transformation facility
 - Original Glaucus still alive but imprisoned
 shadow_independence: 6
 shadow_status: Replaced
-stats: 
+stats:
   cha: 15
   con: 13
   dex: 14
@@ -89,7 +89,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -272,7 +272,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

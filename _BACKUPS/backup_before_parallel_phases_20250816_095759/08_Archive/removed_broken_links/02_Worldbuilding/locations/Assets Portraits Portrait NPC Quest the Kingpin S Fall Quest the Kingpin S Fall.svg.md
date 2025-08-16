@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Kingpin S Fall Quest the Kingpin S
   Fall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the kingpin s fall quest the kingpin
   s fallsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

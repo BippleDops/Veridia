@@ -2,7 +2,7 @@
 
 title: The Rumor Mill
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

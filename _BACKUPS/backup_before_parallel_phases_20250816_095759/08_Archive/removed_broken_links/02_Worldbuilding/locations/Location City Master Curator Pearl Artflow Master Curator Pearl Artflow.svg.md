@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master curator pearl artflow master curator pearl artflowsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Curator Pearl Artflow Master Curator Pearl Artflow.svg
 type: location

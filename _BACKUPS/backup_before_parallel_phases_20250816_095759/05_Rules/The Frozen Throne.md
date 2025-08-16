@@ -1,7 +1,7 @@
 ---
 title: The Frozen Throne
 type: [[location
-tags: 
+tags:
 - both
 - aquatic
 - quest

@@ -1,7 +1,7 @@
 ---
 title: TOOL_LIBRARY_DOCUMENTATION
 type: note
-tags: 
+tags:
 - quest
 - note
 created: '2025-01-15'
@@ -203,7 +203,7 @@ async function generateCampaignAssets() {
   const portraits = await tools.generateImage('heroic adventurer portrait');
   const battleMap = await tools.generateImage('dungeon battle map, top down');
   const ambience = await tools.generateAudio('cave ambience with dripping water');
-  
+
   return { portraits, battleMap, ambience };
 }
 
@@ -285,43 +285,43 @@ const path = require('path');
 
 async function generateRPGAssets() {
   const tools = new ToolLibrary();
-  
+
   // Start services
   await tools.startService('comfyui');
   await tools.startService('n8n');
-  
+
   // Check they're running
   const status = await tools.checkAllServices();
   console.log('Services:', status);
-  
+
   // Generate character portraits
   const characters = [
     'brave knight in shining armor',
     'mysterious wizard with glowing staff',
     'stealthy rogue in dark leather'
   ];
-  
+
   for (const char of characters) {
     const image = await tools.generateImage(char, {
       width: 512,
       height: 512,
       method: 'comfyui'
     });
-    
+
     const filename = char.replace(/\s+/g, '_') + '.png';
     fs.writeFileSync(path.join('./portraits', filename), image);
     console.log(`Generated: ${filename}`);
-  
+
   // Generate ambient audio
   const audio = await tools.generateAudio('medieval tavern ambience', {
     duration: 60
   });
-  
+
   // Generate quest text
   const quest = await tools.generateText(
     'Create a quest about retrieving a magical artifact from a dragon'
   );
-  
+
   console.log('Quest:', quest);
 
 generateRPGAssets().catch(console.error);
@@ -333,21 +333,21 @@ generateRPGAssets().catch(console.error);
 // Every time a new character is added, generate their portrait
 async function onNewCharacter(characterData) {
   const { name, description } = characterData;
-  
+
   // Generate portrait
   const portrait = await tools.generateImage(
     `${description}, fantasy character portrait`,
     { method: 'auto' }
-  
+
   // Generate backstory
   const backstory = await tools.generateText(
     `Write a backstory for ${name}: ${description}`
-  
+
   // Generate theme music
   const theme = await tools.generateAudio(
     `character theme music for ${description}`,
     { duration: 30 }
-  
+
   return { portrait, backstory, theme };
 
 ## Performance Tips

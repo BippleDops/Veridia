@@ -2,7 +2,7 @@
 
 title: The Addicted Nobles
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

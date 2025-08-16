@@ -2,7 +2,7 @@
 
 title: [[Gm Session Packets [Aquabyssos]] Session 01
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - active

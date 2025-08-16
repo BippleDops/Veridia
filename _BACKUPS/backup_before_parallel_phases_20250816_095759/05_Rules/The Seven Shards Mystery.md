@@ -2,7 +2,7 @@
 
 title: [[Seven Shards|The [Seven Shards]] Mystery
 type: [[location
-tags: 
+tags:
 - mystery
 - [Aquabyssos]]
 - status/complete

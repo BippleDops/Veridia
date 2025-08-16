@@ -2,7 +2,7 @@
 
 title: Dr. Umbral Voidheart
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

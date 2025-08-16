@@ -2,7 +2,7 @@
 
 title: Entities [[The Screaming Prisms
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

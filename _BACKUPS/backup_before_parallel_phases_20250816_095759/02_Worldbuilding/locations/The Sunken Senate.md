@@ -2,7 +2,7 @@
 
 title: The Sunken Senate
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

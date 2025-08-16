@@ -2,7 +2,7 @@
 
 title: Gideon Quickste
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc emperor thalassius v1 emperor thalassiussvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Emperor Thalassius V1 Emperor Thalassius.svg
 type: npc

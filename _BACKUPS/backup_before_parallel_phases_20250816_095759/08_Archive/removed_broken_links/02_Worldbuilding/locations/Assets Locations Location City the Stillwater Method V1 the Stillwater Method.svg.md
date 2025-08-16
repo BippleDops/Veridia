@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Stillwater Method V1 the Stillwater Method.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the stillwater method v1 the stillwater
   methodsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

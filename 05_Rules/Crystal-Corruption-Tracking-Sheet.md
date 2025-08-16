@@ -2,7 +2,7 @@
 
 title: Crystal Corruption Tracking Sheet
 type: [[Lore
-tags: 
+tags:
 - lore
 - technology
 - corruption-detection

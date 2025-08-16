@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Gateway Keeper Riftwalk V1 Gateway Keeper Riftwalk.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gateway keeper riftwalk v1 gateway keeper
   riftwalksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

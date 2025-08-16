@@ -2,7 +2,7 @@
 
 title: Cultural Ambassador Bridge Builder
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

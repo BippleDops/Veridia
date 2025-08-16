@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc admiral thorne blackwater v1 admiral thorne blackwatersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Admiral Thorne Blackwater V1 Admiral Thorne Blackwater.svg
 type: npc

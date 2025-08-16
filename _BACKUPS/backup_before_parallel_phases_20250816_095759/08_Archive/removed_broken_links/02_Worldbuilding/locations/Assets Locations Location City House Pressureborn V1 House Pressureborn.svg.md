@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City House Pressureborn V1 House Pressureborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city house pressureborn v1 house pressurebornsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -176,7 +176,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

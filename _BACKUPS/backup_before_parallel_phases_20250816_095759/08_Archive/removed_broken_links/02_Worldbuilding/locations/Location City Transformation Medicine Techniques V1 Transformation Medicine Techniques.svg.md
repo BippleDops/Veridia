@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city transformation medicine techniques v1 transformation medicine techniquessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Transformation Medicine Techniques V1 Transformation Medicine
   Techniques.svg

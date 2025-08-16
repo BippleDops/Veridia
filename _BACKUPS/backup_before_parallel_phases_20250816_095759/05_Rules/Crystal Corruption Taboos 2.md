@@ -8,7 +8,7 @@ historical_period: Post-Great Crystallization to Present (500+ Years)
 significance: Fundamental Cultural Framework
 status: complete
 taboo_category: Existential Threat Response
-tags: 
+tags:
 - both
 - collective-fear
 - complete

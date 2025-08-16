@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the integration temple v1 the integration templesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Integration Temple V1 the Integration Temple.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: Master Engineer Cordelia Pressurewright
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

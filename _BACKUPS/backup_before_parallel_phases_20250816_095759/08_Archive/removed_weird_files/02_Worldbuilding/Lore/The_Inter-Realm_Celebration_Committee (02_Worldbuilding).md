@@ -2,7 +2,7 @@
 
 title: [[The_Inter-Realm_Celebration_Committee (02_Worldbuilding)
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

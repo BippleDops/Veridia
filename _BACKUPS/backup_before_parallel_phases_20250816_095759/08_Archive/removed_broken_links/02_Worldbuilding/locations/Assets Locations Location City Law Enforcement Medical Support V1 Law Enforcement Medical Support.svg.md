@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Law Enforcement Medical Support V1 Law Enforcement
   Medical Support.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city law enforcement medical support v1 law
   enforcement medical supportsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -186,7 +186,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

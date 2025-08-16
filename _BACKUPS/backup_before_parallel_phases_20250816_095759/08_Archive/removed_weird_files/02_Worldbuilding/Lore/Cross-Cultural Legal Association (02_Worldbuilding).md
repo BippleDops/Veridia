@@ -2,7 +2,7 @@
 
 title: Cross-Cultural Legal Association
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

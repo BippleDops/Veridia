@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Professional Organizations Professional Organizations.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city professional organizations professional
   organizationssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Forgotten Isles
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - active

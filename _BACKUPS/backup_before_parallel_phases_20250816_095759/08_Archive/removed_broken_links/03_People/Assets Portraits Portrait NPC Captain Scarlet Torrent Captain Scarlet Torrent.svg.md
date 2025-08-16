@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain scarlet torrent captain scarlet
   torrentsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -200,7 +200,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

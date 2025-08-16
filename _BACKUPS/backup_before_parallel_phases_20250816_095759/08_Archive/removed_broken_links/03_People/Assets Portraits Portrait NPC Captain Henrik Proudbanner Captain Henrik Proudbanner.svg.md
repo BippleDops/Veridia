@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Henrik Proudbanner Captain Henrik Proudbanner.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain henrik proudbanner captain henrik
   proudbannersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

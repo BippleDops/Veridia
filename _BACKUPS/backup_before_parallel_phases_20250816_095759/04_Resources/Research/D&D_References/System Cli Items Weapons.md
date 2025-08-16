@@ -2,7 +2,7 @@
 
 title: System Cli Items Weapons
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

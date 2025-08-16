@@ -2,7 +2,7 @@
 
 title: Abyssal Depths
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

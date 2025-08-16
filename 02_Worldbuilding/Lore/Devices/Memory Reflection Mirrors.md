@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Devices/Memory Reflection Mirrors
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

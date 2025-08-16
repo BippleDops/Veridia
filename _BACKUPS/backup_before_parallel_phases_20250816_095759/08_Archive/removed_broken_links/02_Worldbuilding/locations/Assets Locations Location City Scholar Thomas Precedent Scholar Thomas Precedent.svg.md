@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Scholar Thomas Precedent Scholar Thomas Precedent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scholar thomas precedent scholar thomas
   precedentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

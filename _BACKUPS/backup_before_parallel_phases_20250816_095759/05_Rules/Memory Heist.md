@@ -1,7 +1,7 @@
 ---
 title: Memory Heist
 type: Location
-tags: 
+tags:
 - mechanics/exploration
 - content/location
 - crime

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city codex of forgotten depths v1 codex of forgotten depthssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Codex of Forgotten Depths V1 Codex of Forgotten Depths.svg
 type: location

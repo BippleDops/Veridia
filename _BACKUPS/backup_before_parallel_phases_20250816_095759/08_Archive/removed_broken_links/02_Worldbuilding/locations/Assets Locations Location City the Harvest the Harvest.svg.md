@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Harvest the Harvest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the harvest the harvestsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

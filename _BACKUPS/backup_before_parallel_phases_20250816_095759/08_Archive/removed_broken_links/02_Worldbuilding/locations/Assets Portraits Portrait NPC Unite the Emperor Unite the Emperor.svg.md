@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Unite the Emperor Unite the Emperor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc unite the emperor unite the emperorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

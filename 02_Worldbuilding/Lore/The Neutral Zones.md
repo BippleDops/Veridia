@@ -2,7 +2,7 @@
 
 title: The [[Neutral Zones
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - quest

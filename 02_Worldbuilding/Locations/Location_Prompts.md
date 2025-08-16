@@ -1,7 +1,7 @@
 ---
 title: Location_Prompts
 type: location
-tags: 
+tags:
 - location
 created: '2025-01-15'
 modified: '2025-01-15'

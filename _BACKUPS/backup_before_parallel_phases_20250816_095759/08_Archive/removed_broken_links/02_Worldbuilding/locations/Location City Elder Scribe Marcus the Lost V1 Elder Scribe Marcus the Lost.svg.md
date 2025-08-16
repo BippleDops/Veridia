@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city elder scribe marcus the lost v1 elder scribe marcus the lostsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Elder Scribe Marcus the Lost V1 Elder Scribe Marcus the Lost.svg
 type: location

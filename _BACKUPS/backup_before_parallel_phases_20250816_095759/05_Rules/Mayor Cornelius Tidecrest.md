@@ -2,7 +2,7 @@
 
 title: Mayor Cornelius Tidecrest
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

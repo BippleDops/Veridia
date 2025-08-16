@@ -2,7 +2,7 @@
 
 title: Titan [[Coral
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

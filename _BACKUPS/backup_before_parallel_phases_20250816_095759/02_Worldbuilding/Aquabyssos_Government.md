@@ -2,7 +2,7 @@
 
 title: [[Aquabyssos_Government
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

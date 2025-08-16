@@ -2,7 +2,7 @@
 
 title: Cultural Sage Deep Memor
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

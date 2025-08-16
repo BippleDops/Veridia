@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chief Inspector Magnus Ledgerkeep Chief Inspector
   Magnus Ledgerkeep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chief inspector magnus ledgerkeep chief
   inspector magnus ledgerkeepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Resoce Cascade Attack
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

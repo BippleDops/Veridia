@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Working Class Routines
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy
@@ -103,7 +103,7 @@ Mentioned in The Second Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

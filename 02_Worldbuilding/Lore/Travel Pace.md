@@ -2,7 +2,7 @@
 
 title: Travel Pace
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

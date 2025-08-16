@@ -2,7 +2,7 @@
 
 title: Sacred Texts of Transformation
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

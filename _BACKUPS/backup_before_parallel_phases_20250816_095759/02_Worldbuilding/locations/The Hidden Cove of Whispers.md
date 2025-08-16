@@ -2,7 +2,7 @@
 
 title: The Hidden Cove of Whispers
 type: [[location
-tags: 
+tags:
 - both
 - aquatic
 - world/both

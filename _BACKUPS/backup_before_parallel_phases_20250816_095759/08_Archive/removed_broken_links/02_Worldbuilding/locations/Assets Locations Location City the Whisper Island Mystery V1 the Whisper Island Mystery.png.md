@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Whisper Island Mystery V1 the Whisper Island
   Mystery.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the whisper island mystery v1 the whisper
   island mysterypng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -200,7 +200,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

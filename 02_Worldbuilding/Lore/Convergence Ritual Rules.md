@@ -2,7 +2,7 @@
 
 title: Convergence Ritual Rules
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy
@@ -99,7 +99,7 @@ Mentioned in The First Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

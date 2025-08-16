@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain marina saltborn v1 captain marina saltbornsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Marina Saltborn V1 Captain Marina Saltborn.svg
 type: npc

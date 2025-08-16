@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Face_the_Ancient_Threat.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

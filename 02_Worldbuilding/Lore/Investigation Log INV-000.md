@@ -2,7 +2,7 @@
 
 title: Investigation Log INV 000
 type: [[Lore
-tags: 
+tags:
 - lore
 - both worlds
 - content/lore

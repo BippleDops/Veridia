@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Historical Prophetic Analysis V1 Historical
   Prophetic Analysis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city historical prophetic analysis v1 historical
   prophetic analysissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

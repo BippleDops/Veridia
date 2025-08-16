@@ -2,7 +2,7 @@
 
 title: [[Interfaith_Council|Interfaith Councils
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

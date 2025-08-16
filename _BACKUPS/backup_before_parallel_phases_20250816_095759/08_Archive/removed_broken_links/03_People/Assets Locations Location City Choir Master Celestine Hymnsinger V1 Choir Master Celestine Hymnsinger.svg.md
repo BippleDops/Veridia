@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Choir Master Celestine Hymnsinger V1 Choir Master
   Celestine Hymnsinger.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city choir master celestine hymnsinger v1
   choir master celestine hymnsingersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -210,7 +210,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

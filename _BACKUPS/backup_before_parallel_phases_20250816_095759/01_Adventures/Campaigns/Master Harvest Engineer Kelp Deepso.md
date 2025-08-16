@@ -2,7 +2,7 @@
 
 title: Master Harvest Engineer Kelp Deepso
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

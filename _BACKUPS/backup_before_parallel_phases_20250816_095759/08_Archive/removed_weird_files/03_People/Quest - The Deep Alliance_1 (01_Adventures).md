@@ -88,7 +88,7 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: 
+- **Motivation**:
 *The air carries the scent of [appropriate smell].*Community safety > [!figure] Portrait ## Objectives
 
 ### Primary {#primary}

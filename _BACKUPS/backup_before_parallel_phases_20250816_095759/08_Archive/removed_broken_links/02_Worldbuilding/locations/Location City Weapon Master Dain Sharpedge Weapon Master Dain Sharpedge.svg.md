@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city weapon master dain sharpedge weapon master dain sharpedgesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Weapon Master Dain Sharpedge Weapon Master Dain Sharpedge.svg
 type: location

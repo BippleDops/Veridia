@@ -2,7 +2,7 @@
 
 title: Shadow Attache Void
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - quest

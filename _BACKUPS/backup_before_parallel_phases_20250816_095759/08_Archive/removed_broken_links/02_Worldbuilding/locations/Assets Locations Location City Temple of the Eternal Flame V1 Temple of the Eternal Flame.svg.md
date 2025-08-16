@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple of the Eternal Flame V1 Temple of the
   Eternal Flame.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of the eternal flame v1 temple
   of the eternal flamesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

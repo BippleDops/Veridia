@@ -21,11 +21,11 @@ class PDFExporter:
             "rules_reference",
             "appendices"
         ]
-        
+
         pdf = PDFDocument()
         for section in sections:
             pdf.add_section(self.format_section(section))
-        
+
         return pdf.save("campaign_guide.pdf")
 ```
 
@@ -96,7 +96,7 @@ function exportToRoll20() {
 world:
   name: Campaign World
   description: Exported from Obsidian Vault
-  
+
 categories:
   - npcs:
       type: character

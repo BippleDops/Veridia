@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc prophet nerida voidgazer v2 prophet nerida voidgazersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Prophet Nerida Voidgazer V2 Prophet Nerida Voidgazer.svg
 type: npc

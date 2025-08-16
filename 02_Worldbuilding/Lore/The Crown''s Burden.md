@@ -2,7 +2,7 @@
 
 title: [[The Crown''s Burden
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -111,7 +111,7 @@ Mentioned in The Hidden Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

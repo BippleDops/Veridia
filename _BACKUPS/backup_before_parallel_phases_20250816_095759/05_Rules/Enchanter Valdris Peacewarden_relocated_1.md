@@ -2,7 +2,7 @@
 
 title: Enchanter Valdris Peacewarden
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - status/complete
 - mechanics/magic

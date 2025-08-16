@@ -1,10 +1,10 @@
 ---
 
 title: Shadowhaven [[Merchant Marine.md
-aliases: 
+aliases:
 - [02_Worldbuilding|02 Worldbuilding]] [[Groups Shadowhaven Merchant Marinemd
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

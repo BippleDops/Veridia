@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Eel Keepers V1 the Eel Keepers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the eel keepers v1 the eel keeperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -173,7 +173,7 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

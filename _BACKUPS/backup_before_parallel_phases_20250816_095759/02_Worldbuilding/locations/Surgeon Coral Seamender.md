@@ -2,7 +2,7 @@
 
 title: Surgeon [[Coral Seamender
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: [[Lumengarde City
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

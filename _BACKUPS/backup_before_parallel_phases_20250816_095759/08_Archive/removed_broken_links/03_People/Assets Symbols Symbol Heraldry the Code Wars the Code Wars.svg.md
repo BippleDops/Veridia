@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Code Wars the Code Wars.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the code wars the code warssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain repossession v1 captain repossessionsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Repossession V1 Captain Repossession.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Professor_Euclid_Mindmaze.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

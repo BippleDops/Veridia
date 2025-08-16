@@ -2,7 +2,7 @@
 
 title: Fragment Compas
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

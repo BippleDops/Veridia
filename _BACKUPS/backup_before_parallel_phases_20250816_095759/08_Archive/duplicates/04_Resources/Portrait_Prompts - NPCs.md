@@ -1,7 +1,7 @@
 ---
 title: Portrait_Prompts - NPCs
 type: npc
-tags: 
+tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'

@@ -7,7 +7,7 @@ encounter_type: Social/Combat
 frequency: Common
 location_type: Any depth zone
 status: complete
-tags: 
+tags:
 - aquabyssos
 - campaign/session
 - complete

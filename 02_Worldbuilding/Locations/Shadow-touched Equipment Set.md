@@ -2,7 +2,7 @@
 
 title: Shadow touched Equipment Set
 type: Item
-tags: 
+tags:
 - aquabyssos
 - cursed
 - deep-mother-connected
@@ -90,43 +90,43 @@ improvements: 20
 The Shadow-touched Equipment Set represents gear that has been fundamentally transformed by prolonged exposure to [The Deep Mother]]'s influence. Unlike simple cursed items, these pieces have been evolved by shadow magic into something that exists partially in darkness itself. Each piece offers significant power at the cost of gradually consuming the wielder's connection to light and hope. The set grows stronger as more pieces are worn together, but also accelerates the wielder's transformation into something no longer entirely human.
 
 ### The Collector's Gambit
-**Level**: 8-13  
-**Hook**: Wealthy collector has assembled 5 pieces and seeks final two  
-**Complication**: Collector is already showing advanced corruption symptoms  
-**Moral Choice**: Help complete set knowing consequences, or sabotage collection  
-**Stakes**: Collector's transformation will affect entire city district  
+**Level**: 8-13
+**Hook**: Wealthy collector has assembled 5 pieces and seeks final two
+**Complication**: Collector is already showing advanced corruption symptoms
+**Moral Choice**: Help complete set knowing consequences, or sabotage collection
+**Stakes**: Collector's transformation will affect entire city district
 **Resolution**: Find way to satisfy collector's obsession without enabling corruption
 
 ### The Shadow Knight's Quest
-**Level**: 10-15  
-**Hook**: Death knight in full shadow set seeks redemption for past atrocities  
-**Challenge**: Must help knight resist set's influence while seeking cure  
-**Opposition**: Other shadow creatures try to prevent knight's potential redemption  
-**Complexity**: Knight's memories of human life return gradually, causing guilt and grief  
+**Level**: 10-15
+**Hook**: Death knight in full shadow set seeks redemption for past atrocities
+**Challenge**: Must help knight resist set's influence while seeking cure
+**Opposition**: Other shadow creatures try to prevent knight's potential redemption
+**Complexity**: Knight's memories of human life return gradually, causing guilt and grief
 **Outcome**: Determine whether redemption is possible or mercy killing is necessary
 
 ### The Corrupted Champion
-**Level**: 12-17  
-**Hook**: Famous hero has been secretly assembling shadow set to fight greater evil  
-**Revelation**: Hero's methods become increasingly ruthless as corruption progresses  
-**Dilemma**: Support hero's mission despite moral concerns, or stop them  
-**Investigation**: Uncover whether hero's mission justifies risk of total corruption  
+**Level**: 12-17
+**Hook**: Famous hero has been secretly assembling shadow set to fight greater evil
+**Revelation**: Hero's methods become increasingly ruthless as corruption progresses
+**Dilemma**: Support hero's mission despite moral concerns, or stop them
+**Investigation**: Uncover whether hero's mission justifies risk of total corruption
 **Resolution**: Find alternative solution or guide hero's final heroic sacrifice
 
 ### The Shadow Market
-**Level**: 6-11  
-**Hook**: Underground marketplace specializing in shadow-touched items  
-**Discovery**: Market is front for [[The Deep Mother]] cult recruitment  
-**Investigation**: Infiltrate organization and discover their ultimate purpose  
-**Action**: Decide whether to expose, destroy, or co-opt the shadow market  
+**Level**: 6-11
+**Hook**: Underground marketplace specializing in shadow-touched items
+**Discovery**: Market is front for [[The Deep Mother]] cult recruitment
+**Investigation**: Infiltrate organization and discover their ultimate purpose
+**Action**: Decide whether to expose, destroy, or co-opt the shadow market
 **Consequences**: Actions affect availability of shadow items throughout region
 
 ### The Last Light
-**Level**: 15-20  
-**Hook**: Multiple complete shadow sets have appeared, threatening to eclipse all light  
-**Epic Scope**: Shadow-touched armies march to create permanent realm of darkness  
-**Resistance**: Organize forces of light to oppose shadow corruption  
-**Personal**: Party members must resist temptation to use shadow power against itself  
+**Level**: 15-20
+**Hook**: Multiple complete shadow sets have appeared, threatening to eclipse all light
+**Epic Scope**: Shadow-touched armies march to create permanent realm of darkness
+**Resistance**: Organize forces of light to oppose shadow corruption
+**Personal**: Party members must resist temptation to use shadow power against itself
 **Climax**: Final battle determining whether light or shadow dominates the world
 
 ## Player-Facing Summary

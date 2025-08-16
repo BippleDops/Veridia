@@ -1,7 +1,7 @@
 ---
 title: United Councils of Both Worlds
 type: [[Lore
-tags: 
+tags:
 - alliance
 - [Aquabyssos]]
 - lore

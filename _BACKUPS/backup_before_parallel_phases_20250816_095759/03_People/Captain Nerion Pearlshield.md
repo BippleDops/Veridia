@@ -1,7 +1,7 @@
 ---
 title: Captain Nerion Pearlshield
 type: npc
-tags: 
+tags:
 - npc
 - tiefling
 - cleric

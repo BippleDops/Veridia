@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Commander Typhoon Blackheart V1 Commander Typhoon
   Blackheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city commander typhoon blackheart v1 commander
   typhoon blackheartsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -226,7 +226,7 @@ Mentioned in The First Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

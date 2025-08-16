@@ -3,7 +3,7 @@ enhanced: true
 
 title: Countess Argentum Vaultkeeper (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'
@@ -34,7 +34,7 @@ tags:
 - location
 - research
 
-created: 
+created:
 *The [texture] surface feels [description] to the touch.*'2025-08-11'
 modified: '2025-08-14'
 status: active
@@ -75,5 +75,5 @@ This relates to the deep realm of Deepest ocean trenches and underwater kingdoms
 - **Current Conflict**: The Crushing Dark, Surface Wars
 - **Key Locations**: [Abyssal Trenches]], [[Coral Throne]]
 
-In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens
 build cities of living coral and navigate by bioluminescent paths.

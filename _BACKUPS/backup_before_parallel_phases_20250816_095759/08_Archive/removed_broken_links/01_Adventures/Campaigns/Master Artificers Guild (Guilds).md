@@ -2,7 +2,7 @@
 
 title: Master Artificers Guild
 type: Faction
-tags: 
+tags:
 - technology
 - status/complete
 - craftsmanship
@@ -26,7 +26,7 @@ modified: '2025-08-14'
 status: complete
 headquarters: Eastern Kingdoms - Crystalhaven
 membership: Elite Crafters
-connections: 
+connections:
 - '[[Eastern Kingdoms 2'
 - '[Crystal Forest]]'
 - '[[Magic Items'
@@ -38,7 +38,7 @@ organization_type: Professional Guild
 political_influence: High
 scope: Continental
 specialization: Advanced Magical Items
-themes: 
+themes:
 - elite_craftsmanship
 - technological_innovation
 - magical_engineering
@@ -149,7 +149,7 @@ The highest level of achievement within the guild, Grandmasters have created art
 
 *Current Grandmasters:*
 - **Grandmaster Prism Perfectionist**: Specialist in crystal-magical integration and quality standards
-- **Grandmaster Forge Transcendent**: Expert in advanced metallurgy and pressure-forging techniques  
+- **Grandmaster Forge Transcendent**: Expert in advanced metallurgy and pressure-forging techniques
 - **Grandmaster Innovation Limitless**: Pioneer of hybrid magical-mechanical systems
 - **Grandmaster Harmony Resoce**: Master of sound-based magical technologies
 - **Grandmaster Memory Eternal**: Creator of information storage and processing systems
@@ -184,7 +184,7 @@ Advanced facilities dedicated to exploring new techniques, materials, and applic
 **Quality Assurance and Standards Division**
 Responsible for maintaining guild certification standards, testing finished products, and ensuring that all guild-created items meet safety and performance requirements. This division also investigates failures and develops improved techniques based on real-world performance data.
 
-**Training and Education Division**  
+**Training and Education Division**
 Manages apprenticeship programs, continuing education for guild members, and public outreach efforts that promote understanding of magical technology. The division operates multiple training facilities and coordinates with educational institutions throughout [[Aethermoor.
 
 **Commercial Relations Division**
@@ -201,7 +201,7 @@ Operates near [[Aethermoor's governmental center, focusing on official commissio
 **Coastal Chapters**
 Specialized facilities focusing on maritime technology, weather-resistant equipment, and items required for trade with other realms. These chapters have developed unique expertise in creating magical items that function effectively in challenging marine environments.
 
-**Frontier Chapters**  
+**Frontier Chapters**
 Smaller facilities located in remote areas, these chapters specialize in robust, reliable equipment suitable for exploration and resource extraction. They often work with mining operations, agricultural communities, and military outposts requiring specialized equipment.
 
 **Research Outpost Chapters**
@@ -254,7 +254,7 @@ Masters who create tools and protective systems for exploring alternate realitie
 
 *Research Applications:*
 - **Dimensional Scanning Arrays**: Equipment for detecting and analyzing alternate realities
-- **Portal Stabilization Systems**: Technology for creating safe interdimensional travel routes  
+- **Portal Stabilization Systems**: Technology for creating safe interdimensional travel routes
 - **Reality Anchor Devices**: Equipment that maintains normal physical laws in unstable areas
 - **Cosmic Threat Detection**: Early warning systems for large-scale threats to reality
 
@@ -273,7 +273,7 @@ The Master Artificers Guild operates as one of [Aethermoor]]'s most significant 
 
 **Revenue Streams:**
 - **Custom Commission Work**: High-value projects for wealthy individuals and organizations
-- **Government Contracts**: Official commissions for infrastructure and military equipment  
+- **Government Contracts**: Official commissions for infrastructure and military equipment
 - **Commercial Licensing**: Patent fees for innovations used by other manufacturers
 - **Educational Services**: Training programs and technical consulting
 - **Research Partnerships**: Collaborative projects with academic and commercial organizations

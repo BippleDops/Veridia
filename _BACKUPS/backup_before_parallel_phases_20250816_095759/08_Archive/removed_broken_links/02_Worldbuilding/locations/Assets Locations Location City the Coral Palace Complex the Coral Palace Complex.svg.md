@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Coral Palace Complex the Coral Palace Complex.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the coral palace complex the coral palace
   complexsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

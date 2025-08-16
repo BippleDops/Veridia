@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city gatekeeper iron lung boris gatekeeper iron lung borissvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Gatekeeper Iron Lung Boris Gatekeeper Iron Lung Boris.svg
 type: location

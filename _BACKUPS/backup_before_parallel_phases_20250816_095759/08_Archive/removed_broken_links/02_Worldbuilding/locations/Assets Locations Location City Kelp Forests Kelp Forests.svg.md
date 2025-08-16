@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Kelp Forests Kelp Forests.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city kelp forests kelp forestssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

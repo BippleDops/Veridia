@@ -2,7 +2,7 @@
 
 title: Royal Bunker
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

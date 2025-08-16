@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Middle Harbor V1 Middle Harbor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city middle harbor v1 middle harborsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Oracle Bathys Deep Oracle Bathys.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep oracle bathys deep oracle bathyspng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -198,7 +198,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

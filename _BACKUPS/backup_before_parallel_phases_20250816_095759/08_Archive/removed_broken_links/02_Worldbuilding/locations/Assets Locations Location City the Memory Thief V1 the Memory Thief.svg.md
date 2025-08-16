@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Memory Thief V1 the Memory Thief.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the memory thief v1 the memory thiefsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

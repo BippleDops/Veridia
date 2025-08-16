@@ -2,7 +2,7 @@
 
 title: Memoriam
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -103,7 +103,7 @@ The memorial expanded during the [[Great Plague of Ages Past, serving not only a
 
 Throughout its existence, Memoriam has served multiple roles:
 - Sacred burial ground for nobility and heroes
-- Repository of historical knowledge and genealogical records  
+- Repository of historical knowledge and genealogical records
 - Sanctuary for those seeking spiritual guidance from ancestors
 - Research center for necromantic and divination magic
 - Neutral ground where even enemies can commune with the dead
@@ -111,19 +111,19 @@ Throughout its existence, Memoriam has served multiple roles:
 ### High Keeper Solemneth the Eternal
 *Medium undead (lich), lawful neutral*
 
-**Armor Class** 17 (Natural Armor)  
-**Hit Points** 135 (`dice: 18d8` + 54)  
+**Armor Class** 17 (Natural Armor)
+**Hit Points** 135 (`dice: 18d8` + 54)
 **Speed** 30 ft., swim 60 ft.
 
 **STR** 11 (+0) **DEX** 16 (+3) **CON** 16 (+3) **INT** 20 (+5) **WIS** 14 (+2) **CHA** 16 (+3)
 
-**Saving Throws** Con +10, Int +12, Wis +9  
-**Skills** Arcana +19, History +12, Insight +9, Perception +9  
-**Damage Resistances** Cold, Lightning, Necrotic  
-**Damage Immunities** Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks  
-**Condition Immunities** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned  
-**Senses** truesight 120 ft., passive Perception 19  
-**Languages** Common, Draconic, Abyssal, all languages known by creatures interred in Memoriam  
+**Saving Throws** Con +10, Int +12, Wis +9
+**Skills** Arcana +19, History +12, Insight +9, Perception +9
+**Damage Resistances** Cold, Lightning, Necrotic
+**Damage Immunities** Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+**Condition Immunities** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+**Senses** truesight 120 ft., passive Perception 19
+**Languages** Common, Draconic, Abyssal, all languages known by creatures interred in Memoriam
 **Challenge** 21 (33,000 XP)
 
 **Legendary Resistance (3/Day).** If Solemneth fails a saving throw, she can choose to succeed instead.
@@ -155,17 +155,17 @@ Throughout its existence, Memoriam has served multiple roles:
 #### Memorial Guardian
 *Large undead, lawful good*
 
-**Armor Class** 15 (Natural Armor)  
-**Hit Points** 68 (`dice: 8d12` + 16)  
+**Armor Class** 15 (Natural Armor)
+**Hit Points** 68 (`dice: 8d12` + 16)
 **Speed** 0 ft., fly 60 ft. (hover)
 
 **STR** 16 (+3) **DEX** 14 (+2) **CON** 15 (+2) **INT** 12 (+1) **WIS** 17 (+3) **CHA** 18 (+4)
 
-**Damage Resistances** Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks  
-**Damage Immunities** Cold, Necrotic, Poison  
-**Condition Immunities** Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained  
-**Senses** darkvision 60 ft., passive Perception 13  
-**Languages** Common, understands all languages spoken by interred souls  
+**Damage Resistances** Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+**Damage Immunities** Cold, Necrotic, Poison
+**Condition Immunities** Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+**Senses** darkvision 60 ft., passive Perception 13
+**Languages** Common, understands all languages spoken by interred souls
 **Challenge** 5 (1,800 XP)
 
 **Incorporeal Movement.** The guardian can move through other creatures and objects as if they were difficult terrain.
@@ -181,14 +181,14 @@ The central monument containing the **Archive of Souls** - crystalline matrices 
 ### Gardens of Remembrance
 Themed memorial areas including:
 - **Heroes' Rest** - Monument to legendary figures and war heroes
-- **Children's Garden** - Gentle memorial space for those who died young  
+- **Children's Garden** - Gentle memorial space for those who died young
 - **The Forgotten Corner** - Unmarked graves of criminals and outcasts
 - **Plague Victims Memorial** - Dedicated to those lost to ancient diseases
 
 ### The Communion Pools
 Sacred tidal pools where visitors can commune with spirits through ritual and meditation. Each pool is attuned to different types of communication:
 - **Pool of Whispers** - Recent dead (within 1 year)
-- **Pool of Dreams** - Long-departed souls (1-100 years)  
+- **Pool of Dreams** - Long-departed souls (1-100 years)
 - **Pool of Echoes** - Ancient spirits (100+ years)
 - **Pool of Silence** - For those seeking peace from haunting spirits
 

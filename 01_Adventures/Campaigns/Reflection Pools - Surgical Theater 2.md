@@ -10,7 +10,7 @@ obsidianUIMode: preview
 parent_location: The Reflection Pools
 population: 50-80 medical staff, 20-40 patients daily
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - consciousness

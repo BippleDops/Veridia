@@ -10,9 +10,9 @@
 
 ## All NPCs (Dataview)
 ```dataview
-TABLE 
+TABLE
   race as "Race",
-  class as "Class", 
+  class as "Class",
   location as "Location",
   campaign as "Campaign",
   faction as "Faction"

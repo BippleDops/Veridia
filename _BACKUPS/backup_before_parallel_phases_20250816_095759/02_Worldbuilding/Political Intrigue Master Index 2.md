@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/lore
@@ -39,7 +39,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Primary Use:** Understanding how laws are made, broken, and manipulated in Aquabyssos government
 
-### Succession Crisis Contingencies  
+### Succession Crisis Contingencies
 **Key Systems:**
 - The Scattered Emperor problem and seven personality fragments
 - Competing succession laws and legal framework chaos
@@ -68,7 +68,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Interconnections:**
 - Marriage alliances creating political leverage and personal complications
-- Economic cooperation concealing competitive intelligence operations  
+- Economic cooperation concealing competitive intelligence operations
 - Historical grudges driving modern political decision-making
 - Shared secrets creating mutual blackmail and uneasy truces
 
@@ -178,7 +178,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 ### Political Reputation Mechanics
 **Reputation Categories:**
 - **Public Standing:** Citizen support and popular approval ratings
-- **Noble Respect:** Aristocratic social acceptance and marriage eligibility  
+- **Noble Respect:** Aristocratic social acceptance and marriage eligibility
 - **International Status:** Foreign government trust and diplomatic recognition
 - **Parliamentary Influence:** Senate voting power and committee leadership
 - **Economic Credibility:** Financial trust and business relationship quality
@@ -278,7 +278,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Economic warfare escalation and trade relationship changes
 
 ### Long-Term Consequences (Seasons to Years)
-- Constitutional crisis resolution and governmental restructuring  
+- Constitutional crisis resolution and governmental restructuring
 - Succession resolution and new ruler establishment
 - International relationship realignment and treaty development
 - Economic system transformation and wealth redistribution
@@ -303,7 +303,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Marriage alliances and family political obligations
 - Information sharing and mutual blackmail protection
 
-**Foreign Ambassadors ↔ Parliamentary Leaders**  
+**Foreign Ambassadors ↔ Parliamentary Leaders**
 - Intelligence gathering and political influence operations
 - Diplomatic pressure and economic leverage application
 - Cultural exchange and soft power projection programs

@@ -2,7 +2,7 @@
 
 title: step_018_create_audio_recommendations
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

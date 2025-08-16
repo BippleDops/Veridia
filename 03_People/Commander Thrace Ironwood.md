@@ -2,7 +2,7 @@
 
 title: Commander Thrace Ironwood
 type: Npc
-tags: 
+tags:
 - status/complete
 - military-commander
 - npc
@@ -54,7 +54,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -127,22 +127,22 @@ Commander Thrace Ironwood leads the military wing of the [[Purist Coalition, bri
 ### Commander Thrace Ironwood
 *Medium humanoid (human), lawful evil*
 
-**Armor Class** 20 (Plate Armor +2, Shield)  
-**Hit Points** 178 (`dice: `dice: 21d10`` + 63)  
+**Armor Class** 20 (Plate Armor +2, Shield)
+**Hit Points** 178 (`dice: `dice: 21d10`` + 63)
 **Speed** 30 ft.
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
 18 (+4) | 14 (+2) | 16 (+3) | 17 (+3) | 15 (+2) | 18 (+4)
 
-**Saving Throws** Str +10, Con +9, Wis +8, Cha +10  
-**Skills** Athletics +10, History +9, Insight +8, Intimidation +16, Investigation +9, Medicine +8, Perception +8, Survival +8  
-**Damage Resistances** Psychic (trauma-hardened mind)  
-**Damage Immunities** Charmed, Frightened (unshakeable resolve)  
-**Condition Immunities** None  
-**Senses** passive Perception 18  
-**Languages** Common, Draconic, military codes and signals  
-**Challenge Rating** 13 (10,000 XP)  
+**Saving Throws** Str +10, Con +9, Wis +8, Cha +10
+**Skills** Athletics +10, History +9, Insight +8, Intimidation +16, Investigation +9, Medicine +8, Perception +8, Survival +8
+**Damage Resistances** Psychic (trauma-hardened mind)
+**Damage Immunities** Charmed, Frightened (unshakeable resolve)
+**Condition Immunities** None
+**Senses** passive Perception 18
+**Languages** Common, Draconic, military codes and signals
+**Challenge Rating** 13 (10,000 XP)
 **Proficiency Bonus** +5
 
 ### Special Abilities
@@ -228,7 +228,7 @@ Thrace's former Crystal Warden unit before the corruption incident:
 ### Military Structure
 **Total Strength**: 2,847 active personnel organized into specialized units
 - **Crystal Bane Regiment**: 800 anti-crystal specialists with disruption weapons
-- **Infiltration Division**: 400 covert operatives embedded in crystal organizations  
+- **Infiltration Division**: 400 covert operatives embedded in crystal organizations
 - **Support Corps**: 600 logistics, medical, and technical personnel
 - **Warden Defectors**: 347 former Crystal Wardens who've joined the Coalition
 - **Civilian Militia**: 700 local volunteers with basic anti-crystal training
@@ -255,7 +255,7 @@ Thrace's former Crystal Warden unit before the corruption incident:
 **Objective**: Simultaneous attacks on 12 major crystal facilities across [Aethermoor]]
 **Timeline**: Planned for [[Crystal Festival when security will be focused on celebrations
 **Forces**: 1,200 Purifier Corps troops plus 300 civilian sympathizers
-**Targets**: 
+**Targets**:
 - **[Central Crystal Processing Plant]]**: Primary industrial facility
 - **[[Royal Crystal Laboratory**: Government research center
 - **[Academy of Crystalline Art|02 Worldbuilding/Groups/Academy Of Crystalline Art]]**: Educational institution training crystal mages
@@ -287,7 +287,7 @@ Thrace's former Crystal Warden unit before the corruption incident:
 
 ### Trauma Manifestations
 **Survivor's Guilt**: Constantly questions why he lived when his unit died
-**Hypervigilance**: Cannot relax, always scanning for crystal corruption threats  
+**Hypervigilance**: Cannot relax, always scanning for crystal corruption threats
 **Nightmare Cycles**: Recurring dreams of watching his soldiers transform
 **Emotional Numbing**: Difficulty forming personal connections since the incident
 **Rage Triggers**: Uncontrollable anger when seeing crystal technology used casually
@@ -365,7 +365,7 @@ Thrace's former Crystal Warden unit before the corruption incident:
 ### For Potential Converts
 **The Truth Revelation**: Free, but requires commitment
 - Evidence presentations about crystal corruption dangers
-- Personal testimony from survivors and reformed Wardens  
+- Personal testimony from survivors and reformed Wardens
 - Demonstration of Coalition alternative technologies
 - Invitation to witness crystal-free community success
 
@@ -381,7 +381,7 @@ New evidence suggests a major crystal facility is conducting illegal experiments
 - **Rewards**: 12,000gp, Anti-crystal equipment, Honorary Coalition membership
 - **Complications**: The facility is protected by powerful interests and the corruption may be worse than suspected
 
-### 3. The Moderate's Mission (Level 9-14)  
+### 3. The Moderate's Mission (Level 9-14)
 Coalition moderates hire the party to convince Thrace to restrain planned attacks that could harm innocent civilians.
 - **Rewards**: 6,000gp, Favor with Coalition moderates, Prevention of civilian casualties
 - **Complications**: Thrace's trauma makes him resistant to moderation, and extremists may view party as traitors
@@ -513,7 +513,7 @@ Legends speak of Commander Thrace Ironwood as a nexus where past and present con
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

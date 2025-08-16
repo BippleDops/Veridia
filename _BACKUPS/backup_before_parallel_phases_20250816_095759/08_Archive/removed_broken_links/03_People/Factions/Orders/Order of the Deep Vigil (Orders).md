@@ -2,7 +2,7 @@
 
 title: Order of the Deep Vigil
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

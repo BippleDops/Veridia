@@ -9,7 +9,7 @@ party_size: 4-6 characters
 primary_location: Port Meridian Noble Quarter and Crystal Throne territories
 quest_type: Political Intrigue/Identity Mystery
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/adventure

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Mira Algaebrew V1 Mira Algaebrew.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city mira algaebrew v1 mira algaebrewsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

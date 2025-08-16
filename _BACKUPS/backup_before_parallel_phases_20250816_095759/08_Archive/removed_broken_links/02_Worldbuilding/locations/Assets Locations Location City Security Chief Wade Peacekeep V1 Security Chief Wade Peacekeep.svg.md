@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Security Chief Wade Peacekeep V1 Security Chief
   Wade Peacekeep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city security chief wade peacekeep v1 security
   chief wade peacekeepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -193,7 +193,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

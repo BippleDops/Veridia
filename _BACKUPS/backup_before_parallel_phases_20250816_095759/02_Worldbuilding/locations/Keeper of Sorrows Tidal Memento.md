@@ -2,7 +2,7 @@
 
 title: Keeper of Sorrows [[Tidal Memento
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Phenomena [[Dimensional Anomalies
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

@@ -29,7 +29,7 @@ created: 2025-08-15
 ### ✅ Phase 3: Gameplay Optimization (Steps 201-300)
 **Created**: 20+ gameplay tools
 - **Session Tools**: NPC Generator, Initiative Tracker, Treasure Roller, Weather Generator
-- **Combat Tools**: Terrain Effects, Environmental Hazards, Mob Calculator, Critical Tables  
+- **Combat Tools**: Terrain Effects, Environmental Hazards, Mob Calculator, Critical Tables
 - **Player Tools**: Character Journals, Downtime Activities, Party Inventory, Reputation Tracker
 - **DM Tools**: Quick encounter calculator, random events, merchant generator
 

@@ -1,7 +1,7 @@
 ---
 title: Recent Events
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'
@@ -53,7 +53,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[02_Worldbuilding_Groups_Political_Consulting_Guil
 - [02_Worldbuilding_Groups_Pressure_Safety_Authorit]]
 - [[02_Worldbuilding_Groups_Surface_Reconnection_Coalition
-- 
+-
 - [02_Worldbuilding_Groups_The_Memory_Keepers]]
 - [[02_Worldbuilding_Groups_The_Nameless_Librarians
 - [02_Worldbuilding_Groups_The_Pearl_Divers_Guil]]
@@ -80,7 +80,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[02_Worldbuilding_Items_Truth_Crystals
 - [02_Worldbuilding_Locations_Abyssal_Forges]]
 - [[02_Worldbuilding_Locations_Abyssal_Spires
-- 
+-
 - [02_Worldbuilding_Locations_Crystal_Conservatory]]
 - [[02_Worldbuilding_Locations_Floating_Arsenal
 - [02_Worldbuilding_Locations_Sunken_Palace]]
@@ -138,7 +138,7 @@ Further information about this topic will be developed as the campaign progresse
 - [04_Resources_Handouts_Ships_Player_Handout_Merger_Vessels]]
 - [[06_GM_Resources_Session_Tools_Session_Zero_Guide
 - [07_Player_Resources_Character_Options_Character_Bonds]]
-- 
+-
 - [[1 DM Toolkit Home Dv
 - [1-DM_Toolkit_DM_Board]]
 - [[10-chapter-10-descent-into-the-depths
@@ -162,7 +162,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Annual_Renewal_Event
 - [Aquabyssos Shadow Pools]]
 - [[Architecture Dimensional Bridging
-- 
+-
 - [Artifacts Shard of Empathy]]
 - [[Artificer_PlayStation
 - [Assets Locations]]

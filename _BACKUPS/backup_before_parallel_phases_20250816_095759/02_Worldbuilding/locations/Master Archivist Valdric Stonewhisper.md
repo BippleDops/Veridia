@@ -2,7 +2,7 @@
 
 title: Master Archivist Valdric Stonewhisper
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -161,7 +161,7 @@ Ongoing situations affecting Master Archivist Valdric Stonewhisper:
 - **Undead**: zombie
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 19
-  
+
 ### [Environmental Hazards]]
 - Pit trap
 - **DC 16** to detect

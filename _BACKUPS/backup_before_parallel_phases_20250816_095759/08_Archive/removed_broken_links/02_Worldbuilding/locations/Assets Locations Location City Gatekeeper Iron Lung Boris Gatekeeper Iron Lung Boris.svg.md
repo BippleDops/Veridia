@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Gatekeeper Iron Lung Boris Gatekeeper Iron Lung
   Boris.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gatekeeper iron lung boris gatekeeper
   iron lung borissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

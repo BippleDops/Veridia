@@ -2,7 +2,7 @@
 
 title: "02_Worldbuilding/Lore/\u03A9_System-CLI-spells-school-enchantment"
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

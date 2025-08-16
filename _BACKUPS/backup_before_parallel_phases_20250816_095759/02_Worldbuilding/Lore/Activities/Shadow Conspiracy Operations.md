@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Activities/Shadow Conspiracy Operations
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

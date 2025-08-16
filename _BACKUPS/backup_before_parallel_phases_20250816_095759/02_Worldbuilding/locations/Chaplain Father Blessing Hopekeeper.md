@@ -2,7 +2,7 @@
 
 title: Chaplain Father Blessing Hopekeeper
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

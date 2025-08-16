@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/The Senator
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

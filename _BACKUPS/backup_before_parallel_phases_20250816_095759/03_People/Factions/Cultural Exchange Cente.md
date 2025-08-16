@@ -2,7 +2,7 @@
 
 title: Cultural Exchange Cente
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

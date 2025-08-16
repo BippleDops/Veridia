@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ambassador Marina Bridgewater Ambassador Marina
   Bridgewater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ambassador marina bridgewater ambassador
   marina bridgewatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

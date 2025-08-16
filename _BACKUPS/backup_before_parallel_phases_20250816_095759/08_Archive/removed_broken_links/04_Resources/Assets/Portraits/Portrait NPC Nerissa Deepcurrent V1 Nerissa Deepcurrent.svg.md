@@ -2,7 +2,7 @@
 
 title: Portrait NPC Nerissa Deepcurrent V1 Nerissa Deepcurrent.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -2,7 +2,7 @@
 
 title: Deep Harbor
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

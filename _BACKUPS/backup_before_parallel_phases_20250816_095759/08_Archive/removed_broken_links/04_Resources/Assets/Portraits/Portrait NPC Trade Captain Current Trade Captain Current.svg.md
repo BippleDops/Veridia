@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc trade captain current trade captain currentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Trade Captain Current Trade Captain Current.svg
 type: npc

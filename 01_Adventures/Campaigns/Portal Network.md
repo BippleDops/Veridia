@@ -2,7 +2,7 @@
 
 title: Portal Network
 type: Location
-tags: 
+tags:
 - content/location
 - place
 - world/aethermoor
@@ -170,7 +170,7 @@ Ongoing situations affecting Portal Network:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

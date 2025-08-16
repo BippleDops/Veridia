@@ -2,7 +2,7 @@
 
 title: Side Quests
 type: quest
-tags: 
+tags:
 - quest
 
 created: '2025-01-15'

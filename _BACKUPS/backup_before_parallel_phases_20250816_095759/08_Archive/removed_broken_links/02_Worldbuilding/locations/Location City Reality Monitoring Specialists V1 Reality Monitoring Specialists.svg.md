@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city reality monitoring specialists v1 reality monitoring specialistssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Reality Monitoring Specialists V1 Reality Monitoring Specialists.svg
 type: location

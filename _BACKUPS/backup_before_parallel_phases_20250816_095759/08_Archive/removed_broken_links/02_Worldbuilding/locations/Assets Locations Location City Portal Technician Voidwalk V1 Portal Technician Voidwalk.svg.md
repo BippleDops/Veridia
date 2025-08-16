@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Portal Technician Voidwalk V1 Portal Technician
   Voidwalk.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city portal technician voidwalk v1 portal
   technician voidwalksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

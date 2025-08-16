@@ -2,7 +2,7 @@
 
 title: The Tidepool Markets
 type: [[location
-tags: 
+tags:
 - mechanics/social
 - [Aquabyssos]]
 - trade-hub
@@ -27,7 +27,7 @@ affiliation: [Independent Merchan]]ts (Loosely [[The Liminal Trading Company]] i
 created_by: Claude
 danger_level: 2
 location_type: Floating Marketplace
-services: 
+services:
 - Trade
 - Crafting
 - Food
@@ -108,38 +108,38 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 #### The Tide Thief
 
-**Level**: 3-7  
-**Hook**: Valuable items disappearing during specific tide transitions  
-**Investigation**: Pattern suggests someone exploiting tidal access timing  
-**Mystery**: Thief using unique knowledge of market layout and schedules  
-**Challenge**: Catch criminal without disrupting vital commercial operations  
+**Level**: 3-7
+**Hook**: Valuable items disappearing during specific tide transitions
+**Investigation**: Pattern suggests someone exploiting tidal access timing
+**Mystery**: Thief using unique knowledge of market layout and schedules
+**Challenge**: Catch criminal without disrupting vital commercial operations
 **Resolution**: Uncover whether theft is simple crime or larger conspiracy
 
 #### The Merchant Wars
 
-**Level**: 6-10  
-**Hook**: Escalating conflict between rival trading companies  
-**Complication**: Violence threatens neutral status of markets  
-**Stakes**: [Economic Warfare]] could destroy region's commercial center  
-**Challenge**: Mediate between factions while uncovering true cause of conflict  
+**Level**: 6-10
+**Hook**: Escalating conflict between rival trading companies
+**Complication**: Violence threatens neutral status of markets
+**Stakes**: [Economic Warfare]] could destroy region's commercial center
+**Challenge**: Mediate between factions while uncovering true cause of conflict
 **Resolution**: Discover external manipulation and restore market peace
 
 #### The Cursed Cargo
 
-**Level**: 8-12  
-**Hook**: Mysterious shipment bringing strange effects to market  
-**Investigation**: Items causing [[Reality Distortions and unusual behavior  
-**Danger**: Contamination spreading through tidal water systems  
-**Challenge**: Identify source and neutralize threat without causing panic  
+**Level**: 8-12
+**Hook**: Mysterious shipment bringing strange effects to market
+**Investigation**: Items causing [[Reality Distortions and unusual behavior
+**Danger**: Contamination spreading through tidal water systems
+**Challenge**: Identify source and neutralize threat without causing panic
 **Resolution**: Trace cargo to source and prevent larger catastrophe
 
 #### The Tide Prophecy
 
-**Level**: 10-15  
-**Hook**: [[Oracle|[Oracle]] Nerida the Tidereader]] predicts disaster befalling markets  
-**Urgency**: Limited time to prevent economic catastrophe affecting entire realm  
-**Complexity**: Multiple possible interpretations of prophetic warnings  
-**Investigation**: Determine which threat is real and how to prevent it  
+**Level**: 10-15
+**Hook**: [[Oracle|[Oracle]] Nerida the Tidereader]] predicts disaster befalling markets
+**Urgency**: Limited time to prevent economic catastrophe affecting entire realm
+**Complexity**: Multiple possible interpretations of prophetic warnings
+**Investigation**: Determine which threat is real and how to prevent it
 **Stakes**: Failure could destroy Aquabyssos's primary commercial hub
 
 ### [[Key Locations

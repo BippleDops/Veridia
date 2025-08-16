@@ -2,7 +2,7 @@
 
 title: Void Between Pressures
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

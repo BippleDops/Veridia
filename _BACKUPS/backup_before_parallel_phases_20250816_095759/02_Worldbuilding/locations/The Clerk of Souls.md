@@ -2,7 +2,7 @@
 
 title: The Clerk of Souls
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

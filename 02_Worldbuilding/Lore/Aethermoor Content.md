@@ -2,7 +2,7 @@
 
 title: [[Aethermoor Content
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

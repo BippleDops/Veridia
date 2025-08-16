@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Crystal Engineer Reef Sparkwright Crystal Engineer
   Reef Sparkwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal engineer reef sparkwright crystal
   engineer reef sparkwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Memory [[Coral Crown
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

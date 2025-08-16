@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Cerulean Trench V1 the Cerulean Trench.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the cerulean trench v1 the cerulean
   trenchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

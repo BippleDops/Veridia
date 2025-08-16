@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Maintece Tech Reef Fixwright V1 Maintece Tech
   Reef Fixwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city maintece tech reef fixwright v1 maintece
   tech reef fixwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

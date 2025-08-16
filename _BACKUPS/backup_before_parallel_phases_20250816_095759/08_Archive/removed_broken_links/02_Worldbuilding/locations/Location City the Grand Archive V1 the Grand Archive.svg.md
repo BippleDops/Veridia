@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 - location city the grand archive v1 the grand archivesvg
 created: 2025-08-14
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Grand Archive V1 the Grand Archive.svg
 type: location

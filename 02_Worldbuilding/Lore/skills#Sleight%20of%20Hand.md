@@ -1,7 +1,7 @@
 ---
 title: "skills#Sleight%20of%20Hand"
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crown Jewels Crown Jewels.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crown jewels crown jewelssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

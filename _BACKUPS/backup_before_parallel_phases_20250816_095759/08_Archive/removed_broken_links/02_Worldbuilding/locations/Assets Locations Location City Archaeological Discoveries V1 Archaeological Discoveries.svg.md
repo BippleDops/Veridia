@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Archaeological Discoveries V1 Archaeological
   Discoveries.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archaeological discoveries v1 archaeological
   discoveriessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Reality Monitoring Specialists V1 Reality Monitoring
   Specialists.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reality monitoring specialists v1 reality
   monitoring specialistssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

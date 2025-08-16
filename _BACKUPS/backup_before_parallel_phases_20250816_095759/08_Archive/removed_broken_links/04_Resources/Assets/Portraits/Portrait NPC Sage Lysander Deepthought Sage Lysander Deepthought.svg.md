@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc sage lysander deepthought sage lysander deepthoughtsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Sage Lysander Deepthought Sage Lysander Deepthought.svg
 type: npc

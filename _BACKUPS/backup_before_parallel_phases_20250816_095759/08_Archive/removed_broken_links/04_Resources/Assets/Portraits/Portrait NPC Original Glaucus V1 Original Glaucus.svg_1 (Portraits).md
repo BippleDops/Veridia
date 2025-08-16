@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc original glaucus v1 original glaucussvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Original Glaucus V1 Original Glaucus.svg
 type: npc

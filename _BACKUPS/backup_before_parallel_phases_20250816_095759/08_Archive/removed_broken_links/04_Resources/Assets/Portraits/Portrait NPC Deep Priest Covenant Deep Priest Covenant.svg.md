@@ -2,7 +2,7 @@
 
 title: Portrait NPC Deep Priest Covet Deep Priest Covet.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

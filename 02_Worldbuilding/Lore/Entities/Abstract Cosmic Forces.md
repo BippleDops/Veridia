@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Entities/Abstract Cosmic Forces
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

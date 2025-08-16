@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Silent Guardian Marcus Silent Guardian Marcus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city silent guardian marcus silent guardian
   marcussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

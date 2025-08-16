@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc crystal plague infected npcs v2 crystal plague infected npcssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Crystal Plague Infected Npcs V2 Crystal Plague Infected Npcs.svg
 type: npc

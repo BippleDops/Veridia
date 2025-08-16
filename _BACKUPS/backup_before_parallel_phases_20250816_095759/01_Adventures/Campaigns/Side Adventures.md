@@ -3,7 +3,7 @@ enhanced: true
 
 title: Side Adventures
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 

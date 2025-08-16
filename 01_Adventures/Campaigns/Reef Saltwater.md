@@ -2,7 +2,7 @@
 
 title: Reef Saltwater
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Coral Lifeshaper V1 Coral Lifeshaper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral lifeshaper v1 coral lifeshapersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

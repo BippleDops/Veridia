@@ -2,7 +2,7 @@
 
 title: Warrior Scarredheart
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

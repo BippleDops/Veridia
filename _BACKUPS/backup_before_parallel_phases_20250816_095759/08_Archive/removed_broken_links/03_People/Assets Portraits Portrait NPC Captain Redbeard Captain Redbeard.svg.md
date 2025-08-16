@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Redbeard Captain Redbeard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain redbeard captain redbeardsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

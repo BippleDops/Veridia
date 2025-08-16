@@ -2,7 +2,7 @@
 
 title: Living the Giant Life Giant Life Spans Vgm
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

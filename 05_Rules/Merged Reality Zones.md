@@ -1,7 +1,7 @@
 ---
 title: Merged Reality Zones
 type: [[Lore
-tags: 
+tags:
 - aerial
 - reality-storms
 - shadow-corruption

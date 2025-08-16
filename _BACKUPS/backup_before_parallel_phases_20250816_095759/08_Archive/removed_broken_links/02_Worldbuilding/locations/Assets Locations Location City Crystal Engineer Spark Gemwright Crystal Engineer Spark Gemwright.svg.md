@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Crystal Engineer Spark Gemwright Crystal Engineer
   Spark Gemwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal engineer spark gemwright crystal
   engineer spark gemwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Economic System
 type: economy
-tags: 
+tags:
 - economy
 - trade
 - commerce

@@ -2,7 +2,7 @@
 
 title: Party Quarters   [[Inverse Palace
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - status/complete
 - luxury

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Royal Bloodline Powers V1 Royal Bloodline Powers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal bloodline powers v1 royal bloodline
   powerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

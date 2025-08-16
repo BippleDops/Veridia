@@ -2,7 +2,7 @@
 
 title: Divine Preservation Magic
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

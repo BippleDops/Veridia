@@ -2,7 +2,7 @@
 
 title: Abyssos Prime   [[Pressure Terminal
 type: [location]]
-tags: 
+tags:
 - aquabyssos
 - session-notes
 - status/complete
@@ -492,7 +492,7 @@ The terminal's critical role in transportation and communication makes it a high
 
 ---
 
-*"Distance becomes irrelevant when pressure becomes your ally. Here, the [[Crushing Depths become the highways of progress."*  
+*"Distance becomes irrelevant when pressure becomes your ally. Here, the [[Crushing Depths become the highways of progress."*
 — Chief Engineer Coral Pressurecraft
 
 ## Player-Facing Summary

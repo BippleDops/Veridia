@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Procedures/Hybrid Transformation
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

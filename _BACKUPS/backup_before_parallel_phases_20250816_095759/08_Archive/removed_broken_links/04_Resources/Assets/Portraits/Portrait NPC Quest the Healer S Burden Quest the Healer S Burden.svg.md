@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the healer s burden quest the healer s burdensvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Healer S Burden Quest the Healer S Burden.svg
 type: npc

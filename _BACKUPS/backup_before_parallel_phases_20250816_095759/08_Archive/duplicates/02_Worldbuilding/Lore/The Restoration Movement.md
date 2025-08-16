@@ -2,7 +2,7 @@
 
 title: The Restoration Movement
 type: [[Lore
-tags: 
+tags:
 - democracy
 - shadow-touched
 - lore

@@ -2,7 +2,7 @@
 
 title: Crystal Plague Wards
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - medical
 - status/complete
@@ -92,8 +92,8 @@ The Crystal Plague Wards represent the medical system's response to the ongoing 
 
 ### The Isolation Wing
 
-**Location:** Harbor District, Port Meridian  
-**Capacity:** 120 beds across 5 floors  
+**Location:** Harbor District, Port Meridian
+**Capacity:** 120 beds across 5 floors
 **Security Level:** High (Armed guards, locked doors, crystal detection)
 
 The primary plague ward occupies an entire wing of the city's largest hospital. The building's stone walls have been reinforced with lead sheeting to prevent crystal resoce from spreading between floors.
@@ -137,7 +137,7 @@ The primary plague ward occupies an entire wing of the city's largest hospital. 
 - Tireless advocate for patient rights
 - "Every person in here is still someone's family."
 
-**Head Nurse Meredith Saltwind**  
+**Head Nurse Meredith Saltwind**
 - 15 years experience with magical ailments
 - Trains volunteers in crystal-safe patient care
 - Maintains illegal supply line for comfort items
@@ -156,7 +156,7 @@ Former dock worker, infected during cargo handling. Her crystalline patches form
 
 *"The crystals[[Quest Corruption in ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements|... they show me ships that could sail between stars. I know it's the plague talking, but the designs are so beautiful."*
 
-**Young Thomas Tidwell (Age 8, Stage 1)**  
+**Young Thomas Tidwell (Age 8, Stage 1)**
 Marina's son, showing early symptoms. The medical staff debate separating him from his mother. He builds [Crystal Garden]]s from his fingernail clippings, which grow overnight into tiny geometric forests.
 
 *"Mama says I'm becoming special like her. Will I be able to fly too?"*
@@ -217,8 +217,8 @@ Three converted merchant vessels anchored in Port Meridian's outer harbor serve 
 
 #### The "Mercy's Grace" - Stage 1 & 2 Facility
 
-**Former:** Luxury passenger liner  
-**Current Capacity:** 80 patients  
+**Former:** Luxury passenger liner
+**Current Capacity:** 80 patients
 **Staff:** 12 medical personnel, 8 security
 
 Converted luxury cabins provide more comfortable accommodations for paying patients. The ship's ballroom has been converted into a treatment center where [Brother Marcus]] performs large-scale healing ceremonies.
@@ -229,10 +229,10 @@ Converted luxury cabins provide more comfortable accommodations for paying patie
 - Library of pre-plague books and music
 - Daily entertainment by volunteer performers
 
-#### The "Last Hope" - Stage 3 Research Vessel  
+#### The "Last Hope" - Stage 3 Research Vessel
 
-**Former:** Deep-sea research ship  
-**Current Capacity:** 40 patients  
+**Former:** Deep-sea research ship
+**Current Capacity:** 40 patients
 **Staff:** 20 researchers, 6 medical, 10 security
 
 This vessel serves as the primary research facility for advanced plague studies. The ship's laboratory equipment has been adapted for crystal analysis and experimental treatments.
@@ -245,8 +245,8 @@ This vessel serves as the primary research facility for advanced plague studies.
 
 #### The "Silent Depths" - Stage 4 Containment
 
-**Former:** Prison transport  
-**Current Capacity:** 15 maximum security cells  
+**Former:** Prison transport
+**Current Capacity:** 15 maximum security cells
 **Staff:** 25 security, 5 medical observers
 
 The most heavily fortified facility, designed to contain patients who pose risks to others. The hull has been lined with crystal-dampening materials and equipped with emergency scuttling charges.
@@ -259,8 +259,8 @@ The most heavily fortified facility, designed to contain patients who pose risks
 
 #### Mercy's Grace Patient Profile: Captain James Stormwind (Retired)
 
-**Age:** 67, **Stage:** 2  
-**Background:** Retired naval captain who contracted plague during "one last voyage"  
+**Age:** 67, **Stage:** 2
+**Background:** Retired naval captain who contracted plague during "one last voyage"
 **Current State:** Crystalline formations follow old tattoo patterns of nautical stars and anchors
 
 *"I've sailed every sea from here to the Crystal Straits. Never thought I'd end my career as cargo on a plague ship. At least the view's still good."*
@@ -269,8 +269,8 @@ Captain Stormwind has become an unofficial leader among the barge patients, orga
 
 #### Last Hope Research Subject: Dr. Marcus Voidwise
 
-**Age:** 45, **Stage:** 3 (Voluntary Infection)  
-**Background:** Former university colleague of Professor Elena  
+**Age:** 45, **Stage:** 3 (Voluntary Infection)
+**Background:** Former university colleague of Professor Elena
 **Research Focus:** Documenting the experience of crystalline transformation
 
 Dr. Voidwise infected himself to provide first-person research [[data. His detailed journals describe the psychological changes accompanying physical transformation. He serves as a bridge between the medical staff and Stage 4 patients.
@@ -279,8 +279,8 @@ Dr. Voidwise infected himself to provide first-person research [[data. His detai
 
 ### Street-Level Response
 
-**Location:** [Pier 7]], Harbor District  
-**Staff:** 3 doctors, 8 nurses, 6 volunteers  
+**Location:** [Pier 7]], Harbor District
+**Staff:** 3 doctors, 8 nurses, 6 volunteers
 **Patients:** Walk-ins, early detection, family support
 
 This hastily converted warehouse serves as the first point of contact for suspected plague cases. The facility provides:

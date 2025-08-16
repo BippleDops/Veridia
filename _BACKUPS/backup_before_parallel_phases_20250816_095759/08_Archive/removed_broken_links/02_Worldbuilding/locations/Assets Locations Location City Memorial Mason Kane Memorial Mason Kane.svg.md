@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Memorial Mason Kane Memorial Mason Kane.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memorial mason kane memorial mason kanesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: The Archive of Questions (D&D_References)
 type: quest
-tags: 
+tags:
 - quest
 
 created: '2025-01-15'

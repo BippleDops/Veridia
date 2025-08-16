@@ -2,7 +2,7 @@
 
 title: The Purification Order
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

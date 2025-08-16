@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Market District V1 Market District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city market district v1 market districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

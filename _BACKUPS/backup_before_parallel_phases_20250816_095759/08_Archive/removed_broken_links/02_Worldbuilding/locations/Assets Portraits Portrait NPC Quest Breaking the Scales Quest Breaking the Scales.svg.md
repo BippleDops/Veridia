@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest Breaking the Scales Quest Breaking the
   Scales.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest breaking the scales quest breaking
   the scalessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -196,7 +196,7 @@ Mentioned in The First Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

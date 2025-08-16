@@ -2,7 +2,7 @@
 
 title: level-1-hit-points-by-class-xphb (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

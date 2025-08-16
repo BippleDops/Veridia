@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Resoce Cathedral the Resoce Cathedral.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the resoce cathedral the resoce cathedralsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

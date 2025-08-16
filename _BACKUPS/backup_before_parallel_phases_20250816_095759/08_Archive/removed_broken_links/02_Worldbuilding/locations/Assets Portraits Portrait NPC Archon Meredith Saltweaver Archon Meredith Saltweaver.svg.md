@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Archon Meredith Saltweaver Archon Meredith Saltweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc archon meredith saltweaver archon meredith
   saltweaversvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

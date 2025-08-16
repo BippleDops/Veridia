@@ -2,7 +2,7 @@
 
 title: Arcanum Heights
 type: [[Lore
-tags: 
+tags:
 - lore
 - aerial
 - status/complete
@@ -29,11 +29,11 @@ elevation: Upper Crystal Spires
 founded: Early Crystal Age
 government: '[[Crystalhaven [Council of Mages]]'
 parent_location: '[[Crystalhaven'
-related_entities: 
+related_entities:
 - '[12 Research]]'
 - '[[garden'
 - '[Abyssal Academy]]'
-specialties: 
+specialties:
 - Advanced Magic Research
 - Artifact Creation
 - Planar Studies

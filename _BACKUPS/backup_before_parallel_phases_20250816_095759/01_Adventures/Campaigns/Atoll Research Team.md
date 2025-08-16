@@ -2,7 +2,7 @@
 
 title: Atoll Research Team
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

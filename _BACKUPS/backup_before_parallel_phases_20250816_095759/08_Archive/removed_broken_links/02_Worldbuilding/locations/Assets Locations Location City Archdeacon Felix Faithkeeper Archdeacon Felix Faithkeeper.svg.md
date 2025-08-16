@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Archdeacon Felix Faithkeeper Archdeacon Felix
   Faithkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archdeacon felix faithkeeper archdeacon
   felix faithkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

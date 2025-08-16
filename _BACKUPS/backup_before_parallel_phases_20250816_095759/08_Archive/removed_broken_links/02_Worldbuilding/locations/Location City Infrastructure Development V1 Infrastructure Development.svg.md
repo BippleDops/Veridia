@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city infrastructure development v1 infrastructure developmentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Infrastructure Development V1 Infrastructure Development.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: [[The Community Sky Platforms
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aethermoor
 - active

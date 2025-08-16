@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Dream Enhancement Techniques V1 Dream Enhancement
   Techniques.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city dream enhancement techniques v1 dream
   enhancement techniquessvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

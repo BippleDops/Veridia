@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/[[Quests/Diplomatic Tides
 type: adventure
-tags: 
+tags:
 - adventure
 - quest
 - bloodline

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city traditional craft districts v1 traditional craft districtssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Traditional Craft Districts V1 Traditional Craft Districts.svg
 type: location

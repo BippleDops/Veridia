@@ -2,7 +2,7 @@
 
 title: Shadow Ability Ethics
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

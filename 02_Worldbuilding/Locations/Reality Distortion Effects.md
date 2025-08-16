@@ -2,7 +2,7 @@
 
 title: Reality Distortion Effects
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

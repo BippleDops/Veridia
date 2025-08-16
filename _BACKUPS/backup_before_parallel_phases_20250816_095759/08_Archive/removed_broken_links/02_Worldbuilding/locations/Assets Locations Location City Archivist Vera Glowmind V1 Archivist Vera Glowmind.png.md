@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Archivist Vera Glowmind V1 Archivist Vera Glowmind.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archivist vera glowmind v1 archivist
   vera glowmindpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

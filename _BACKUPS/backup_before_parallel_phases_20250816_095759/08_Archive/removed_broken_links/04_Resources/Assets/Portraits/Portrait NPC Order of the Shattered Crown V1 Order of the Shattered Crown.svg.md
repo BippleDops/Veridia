@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc order of the shattered crown v1 order of the shattered crownsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Order of the Shattered Crown V1 Order of the Shattered Crown.svg
 type: npc

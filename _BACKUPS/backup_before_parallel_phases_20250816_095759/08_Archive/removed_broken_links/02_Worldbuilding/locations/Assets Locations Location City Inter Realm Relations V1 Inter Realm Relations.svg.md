@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Inter Realm Relations V1 Inter Realm Relations.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city inter realm relations v1 inter realm
   relationssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Quest the Crimson Tide Quest the Crimson Tide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the crimson tide quest the crimson
   tidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

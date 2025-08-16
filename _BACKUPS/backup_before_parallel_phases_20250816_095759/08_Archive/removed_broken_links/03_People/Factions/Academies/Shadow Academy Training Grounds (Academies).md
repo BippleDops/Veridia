@@ -2,7 +2,7 @@
 
 title: Shadow Academy Training Grounds
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

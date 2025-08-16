@@ -2,7 +2,7 @@
 
 title: CR Calculator
 type: calculator
-tags: 
+tags:
 - encounter
 - mechanics
 - cr

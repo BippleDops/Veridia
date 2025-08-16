@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Sunken Library of Thalassius V1 the Sunken
   Library of Thalassius.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sunken library of thalassius v1
   the sunken library of thalassiussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -188,7 +188,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

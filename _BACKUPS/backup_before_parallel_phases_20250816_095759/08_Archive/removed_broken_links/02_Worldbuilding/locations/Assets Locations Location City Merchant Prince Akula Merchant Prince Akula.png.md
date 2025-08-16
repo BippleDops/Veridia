@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Merchant Prince Akula Merchant Prince Akula.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant prince akula merchant prince
   akulapng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

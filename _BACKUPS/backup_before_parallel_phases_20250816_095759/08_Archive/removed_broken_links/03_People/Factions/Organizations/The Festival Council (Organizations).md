@@ -2,7 +2,7 @@
 
 title: The Festival Council
 type: organization
-tags: 
+tags:
 - organization
 - syndicate
 - conspiracy

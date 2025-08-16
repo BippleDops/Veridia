@@ -2,7 +2,7 @@
 
 title: The War Room Sanctuary
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

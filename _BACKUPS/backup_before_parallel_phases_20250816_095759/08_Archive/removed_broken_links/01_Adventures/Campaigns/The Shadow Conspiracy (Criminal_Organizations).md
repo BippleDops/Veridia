@@ -2,7 +2,7 @@
 
 title: The Shadow Conspiracy
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - shadow

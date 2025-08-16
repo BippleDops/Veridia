@@ -2,7 +2,7 @@
 
 title: Master Elena Preserver
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -182,7 +182,7 @@ Ongoing situations affecting Master Elena Preserver:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: The [[Bathyal Succession
 type: [Lore]]
-tags: 
+tags:
 - aquatic
 - [[Time|[Timeline]]
 - lore
@@ -29,12 +29,12 @@ category: Political Succession War
 created_by: auto-stub
 duration: 33 years of active conflict
 outcome: Establishment of Modern Parliamentary System
-participants: 
+participants:
 - Bathyal Royal Houses
 - Deep Parliament
 - Pressure Nobility
 - Hadal Council
-related_entities: 
+related_entities:
 - '[[Parliament Of Echoes|The [Parliament of Echoes]]]]'
 - '[[Aboleth|[Aboleth Prime Yoth]]'
 - '[[Deep Mother|The [Deep Mother]]'
@@ -130,7 +130,7 @@ Before the crisis, Aquabyssos operated under the **Pressure Crown System**, a mo
 **[[The Depth Hierarchy:**
 - **Surface Crown** (0-200m depth): Ceremonial authority, diplomatic relations
 - **Twilight Throne** (200-1,000m): Administrative goverce, daily law
-- **Bathyal Scepter** (1,000-4,000m): [Military Command]], resource al[[location  
+- **Bathyal Scepter** (1,000-4,000m): [Military Command]], resource al[[location
 - **Abyssal Seal** (4,000-6,000m): Deep trade, [Pressure Technology]]
 - **Hadal Rod** (6,000m+): Religious authority, connection to [[The Deep Mother
 
@@ -160,7 +160,7 @@ Emperor Abyssius represented the pinnacle of depth monarchy success and its ulti
 Abyssius's unique physical capabilities could not be inherited. His three legitimate heirs each possessed different depth limitations, making traditional succession impossible:
 
 **Prince Pelagic** (Heir Apparent): Maximum depth 2,800 meters, popular in upper zones
-**Princess Benthia** (Second Heir): Could survive to 5,200 meters, supported by middle depths  
+**Princess Benthia** (Second Heir): Could survive to 5,200 meters, supported by middle depths
 **Prince Hadal** (Third Heir): Required deep pressure to survive, lived below 4,000 meters permanently
 
 ### The Succession Crisis Triggers
@@ -192,7 +192,7 @@ Emperor Abyssius implemented his three-way succession plan, creating the first t
 
 **The Three Crowns:**
 - **Prince Pelagic**: The Twilight Crown (Surface to 3,000m)
-- **Princess Benthia**: The Bathyal Crown (2,000m to 5,500m)  
+- **Princess Benthia**: The Bathyal Crown (2,000m to 5,500m)
 - **Prince Hadal**: The Abyssal Crown (4,000m to maximum depth)
 
 **Overlapping Zones:** The 2,000-3,000m and 4,000-5,500m ranges were governed jointly, requiring constant coordination.
@@ -239,7 +239,7 @@ The thermal vent disaster catalyzed existing opposition movements into active re
 - **Support Base**: Mobile populations and [[International Traders
 - **Ideology**: Merit-based goverce regardless of depth adaptation
 
-**The Deep Mother Theocrats**  
+**The Deep Mother Theocrats**
 - **Leadership**: [Religious Leaders]] claiming direct divine communication
 - **Goal**: Replace human rule with divinely guided government
 - **Support Base**: Deepest zone populations and religious extremists
@@ -248,7 +248,7 @@ The thermal vent disaster catalyzed existing opposition movements into active re
 **The Pressure Purists**
 - **Leadership**: Military commanders and security officials
 - **Goal**: Military government until succession crisis resolved
-- **Support Base**: Defense forces and border zone populations  
+- **Support Base**: Defense forces and border zone populations
 - **Ideology**: Strong central authority to maintain Aquabyssos security
 
 #### The Rebellion Campaigns (238-242 AS)
@@ -269,7 +269,7 @@ Military conflict between loyalist forces and rebellion:
 
 **Key Battles:**
 - **The Battle of Current Convergence** (240 AS): Parliamentary forces defeated united royalist fleet
-- **The Siege of [[Pressure Palace** (241 AS): Princess Benthia's fortress fell after 18-month siege  
+- **The Siege of [[Pressure Palace** (241 AS): Princess Benthia's fortress fell after 18-month siege
 - **The Thermal War** (241-242 AS): Year-long campaign for control of deep energy sources
 - **The Hadal Uprising** (242 AS): Deep Mother cultists overthrew Prince Hadal's government
 
@@ -305,7 +305,7 @@ Recognizing the need for stable governmental structure, the Provisional Parliame
 
 **Major Debates:**
 1. **Representation**: Population-based vs. depth-zone equality
-2. **Executive Authority**: Strong president vs. committee goverce  
+2. **Executive Authority**: Strong president vs. committee goverce
 3. **Religious Role**: Secular government vs. Deep Mother recognition
 4. **Depth Integration**: Unified system vs. federal depth-zone autonomy
 5. **[Succession Planning]]**: Preventing future succession crises
@@ -319,7 +319,7 @@ After three years of debate, the convention produced Aquabyssos's first constitu
 - **The Religious Accommodation**: Recognition of Deep Mother worship alongside traditional faiths
 - **The Defense Integration**: Unified military command with depth-specialized forces
 
-### Phase Four: The Restoration Attempt (251-258 AS)  
+### Phase Four: The Restoration Attempt (251-258 AS)
 
 **"The Royal Return"**
 
@@ -333,7 +333,7 @@ The establishment of democratic government triggered a royalist counter-revoluti
 - **Support**: Upper-depth traditionalists and foreign monarchists
 - **Strategy**: Legal challenges to parliamentary authority
 
-**The Depth [[Purist Coalition**  
+**The Depth [[Purist Coalition**
 - **Leadership**: Princess Benthia and pressure-adapted nobility
 - **Goal**: Return to depth-based hierarchical goverce
 - **Support**: Middle-depth professionals who lost status under democracy
@@ -342,7 +342,7 @@ The establishment of democratic government triggered a royalist counter-revoluti
 **The Deep Mother Restoration**
 - **Leadership**: Religious extremists claiming Prince Hadal survived
 - **Goal**: Theocratic monarchy guided by divine revelation
-- **Support**: Deepest zone populations and mystical communities  
+- **Support**: Deepest zone populations and mystical communities
 - **Strategy**: Religious uprising and miraculous claims
 
 #### The Restoration War (251-255 AS)
@@ -455,7 +455,7 @@ The **Constitution of Depths** established the modern [Aquabyssos_Government|Aqu
 **Legacy**: Remembered as great ruler whose physical uniqueness made traditional succession impossible
 **Death**: Natural causes in 234 AS, precipitating the succession crisis
 
-#### Prince Pelagic the Surface-Touched (234-267 AS)  
+#### Prince Pelagic the Surface-Touched (234-267 AS)
 
 **Depth Range**: Surface to 2,800 meters maximum
 **Personality**: Diplomatic, internationally minded, favored [[Constitutional Monarchy
@@ -465,7 +465,7 @@ The **Constitution of Depths** established the modern [Aquabyssos_Government|Aqu
 
 #### Princess Benthia the Middle-Deep (234-271 AS)
 
-**Depth Range**: 500 to 5,200 meters  
+**Depth Range**: 500 to 5,200 meters
 **Personality**: Military-minded, practical, emphasized efficient goverce
 **Support Base**: Middle-depth professionals, military officers, administrators
 **Role in Crisis**: Led restoration attempt, eventually reconciled with parliament
@@ -476,7 +476,7 @@ The **Constitution of Depths** established the modern [Aquabyssos_Government|Aqu
 **Depth Range**: Required 4,000+ meters to survive
 **Personality**: Mystical, religious, claimed direct communication with Deep Mother
 **Support Base**: Deepest-zone populations, religious extremists, mystical communities
-**Role in Crisis**: Catalyst for theocratic movement, disappeared during Deep Mother manifestations  
+**Role in Crisis**: Catalyst for theocratic movement, disappeared during Deep Mother manifestations
 **Final Fate**: Unknown - some claim he merged with Deep Mother, others say he lives in deepest trenches
 
 #### [Senator]] Nerida Currentflow (235-289 AS)
@@ -486,7 +486,7 @@ The **Constitution of Depths** established the modern [Aquabyssos_Government|Aqu
 **Achievements**: Authored Pressure Compact, established parliamentary procedures
 **Legacy**: "Mother of Aquabyssos Democracy"
 
-#### General Marcus Depthstrike (228-278 AS)  
+#### General Marcus Depthstrike (228-278 AS)
 
 **Background**: Military commander who unified rebel and loyalist forces
 **Role**: Defense minister during restoration war, architect of military integration
@@ -528,7 +528,7 @@ The Bathyal Succession fundamentally transformed Aquabyssos from monarchy to dem
 The crisis established enduring principles of Aquabyssos goverce:
 
 **Depth Equality**: All depth zones have equal representation regardless of population
-**Religious Accommodation**: Spiritual authority recognized within constitutional limits  
+**Religious Accommodation**: Spiritual authority recognized within constitutional limits
 **Popular Sovereignty**: Government derives authority from citizen consent, not heredity
 **Succession Prevention**: Constitutional prohibition of hereditary political authority
 **[Crisis Management]]**: Established procedures for governmental transitions during emergencies
@@ -542,7 +542,7 @@ The succession crisis dismantled traditional depth-based social hierarchy:
 **Social Mobility**: Citizens could advance based on ability rather than depth adaptation
 **Cultural Integration**: Inter-depth marriages and [[Cultural Exchange increased dramatically
 
-#### Religious Integration  
+#### Religious Integration
 
 The crisis created unique accommodation between secular democracy and religious authority:
 
@@ -742,7 +742,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

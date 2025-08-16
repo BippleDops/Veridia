@@ -2,7 +2,7 @@
 
 title: Eberron the Silver Flame
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

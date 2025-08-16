@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city quartermaster shadow supply quartermaster shadow supplysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Quartermaster Shadow Supply Quartermaster Shadow Supply.svg
 type: location

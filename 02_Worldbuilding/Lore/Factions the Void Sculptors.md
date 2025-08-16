@@ -2,7 +2,7 @@
 
 title: Factions the Void Sculptors
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

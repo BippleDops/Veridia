@@ -2,7 +2,7 @@
 
 title: Guildmaster Storm Skywright
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

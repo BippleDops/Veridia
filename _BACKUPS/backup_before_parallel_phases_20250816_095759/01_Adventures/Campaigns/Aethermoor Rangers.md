@@ -2,7 +2,7 @@
 
 title: [[Aethermoor Rangers
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - aerial

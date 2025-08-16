@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city ambassador mark exchangekeeper v1 ambassador mark exchangekeepersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Ambassador Mark Exchangekeeper V1 Ambassador Mark Exchangekeeper.svg
 type: location

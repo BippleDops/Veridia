@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pristine Pearl Pristine Pearl.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pristine pearl pristine pearlsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -205,7 +205,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

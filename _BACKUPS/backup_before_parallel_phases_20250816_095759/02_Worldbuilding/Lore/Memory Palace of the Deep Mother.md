@@ -2,7 +2,7 @@
 
 title: Memory Palace of the [[Deep Mother
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -88,7 +88,7 @@ Memory Palace of [The Deep Mother]] represents a crucial aspect of the world's h
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: [[locations the Cosmic Library
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

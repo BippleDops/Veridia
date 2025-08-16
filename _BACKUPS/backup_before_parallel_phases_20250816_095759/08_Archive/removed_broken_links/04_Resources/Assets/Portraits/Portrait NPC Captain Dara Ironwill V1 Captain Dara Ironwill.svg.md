@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain dara ironwill v1 captain dara ironwillsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Dara Ironwill V1 Captain Dara Ironwill.svg
 type: npc

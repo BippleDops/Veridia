@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Forgotten One V1 the Forgotten One.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the forgotten one v1 the forgotten onepng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

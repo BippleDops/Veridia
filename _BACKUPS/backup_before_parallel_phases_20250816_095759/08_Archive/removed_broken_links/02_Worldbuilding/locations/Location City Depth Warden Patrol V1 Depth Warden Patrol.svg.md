@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city depth warden patrol v1 depth warden patrolsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Depth Warden Patrol V1 Depth Warden Patrol.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: Bubble Burst
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - casino
@@ -173,7 +173,7 @@ Bubble Burst serves as a nexus for [Aquabyssos]]'s underground economy, with con
 
 ## History
 
-**Bubble Burst** was founded three decades ago by Lady Nerida Pearlsong, who discovered the massive natural air pocket while exploring the [[Deep Currents. Initially a simple gambling den, it evolved into Aquabyssos's premier entertainment destination through Nerida's shrewd partnerships with [Luck Spirits]] and innovative use of [[Aeration Crystals. 
+**Bubble Burst** was founded three decades ago by Lady Nerida Pearlsong, who discovered the massive natural air pocket while exploring the [[Deep Currents. Initially a simple gambling den, it evolved into Aquabyssos's premier entertainment destination through Nerida's shrewd partnerships with [Luck Spirits]] and innovative use of [[Aeration Crystals.
 
 The casino survived the [Great Pressure Shift]] of fifteen years ago that collapsed many bubble structures by adapting its magical infrastructure. This event led to Nerida's current obsession with magical insurance policies and her mysterious deals with entities from the [[Abyssal Depths.
 

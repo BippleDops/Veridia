@@ -2,7 +2,7 @@
 
 title: Dark Gift of Yrrga the Eye of Shadows Cos
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

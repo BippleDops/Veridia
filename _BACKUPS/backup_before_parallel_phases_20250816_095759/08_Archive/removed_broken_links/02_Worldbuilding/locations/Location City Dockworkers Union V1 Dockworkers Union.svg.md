@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city dockworkers union v1 dockworkers unionsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Dockworkers Union V1 Dockworkers Union.svg
 type: location

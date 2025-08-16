@@ -2,7 +2,7 @@
 
 title: The Last Priest
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - religious

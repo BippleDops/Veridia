@@ -2,7 +2,7 @@
 
 title: Master Cloud Shepherd Zephyr Stormcalle
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

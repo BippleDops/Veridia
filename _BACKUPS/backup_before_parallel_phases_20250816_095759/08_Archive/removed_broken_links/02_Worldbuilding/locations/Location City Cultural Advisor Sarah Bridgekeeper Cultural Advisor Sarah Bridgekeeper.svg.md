@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city cultural advisor sarah bridgekeeper cultural advisor sarah bridgekeepersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Cultural Advisor Sarah Bridgekeeper Cultural Advisor Sarah Bridgekeeper.svg
 type: location

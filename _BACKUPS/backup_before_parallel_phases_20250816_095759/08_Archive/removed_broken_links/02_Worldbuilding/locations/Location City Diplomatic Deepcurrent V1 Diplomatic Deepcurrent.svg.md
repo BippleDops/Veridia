@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city diplomatic deepcurrent v1 diplomatic deepcurrentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Diplomatic Deepcurrent V1 Diplomatic Deepcurrent.svg
 type: location

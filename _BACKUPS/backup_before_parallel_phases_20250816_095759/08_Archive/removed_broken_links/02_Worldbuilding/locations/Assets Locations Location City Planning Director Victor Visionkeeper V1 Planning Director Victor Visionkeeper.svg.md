@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Planning Director Victor Visionkeeper V1 Planning
   Director Victor Visionkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city planning director victor visionkeeper
   v1 planning director victor visionkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key locations marked:
 - **Aberration**: beholder
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 10
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 10** to detect
@@ -196,7 +196,7 @@ Key locations marked:
 - **Recent History**: War 22 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Festival in 21 days
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: Links to The Second Prophecy of Depths

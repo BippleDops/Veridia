@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Screaming Gardens Songwood Grove V1 Screaming
   Gardens Songwood Grove.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city screaming gardens songwood grove v1
   screaming gardens songwood grovesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

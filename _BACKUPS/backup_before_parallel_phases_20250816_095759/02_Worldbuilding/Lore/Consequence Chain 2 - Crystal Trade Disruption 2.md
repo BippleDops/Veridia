@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags: 
+tags:
 - aethermoor
 - campaign-consequences
 - complete
@@ -15,7 +15,7 @@ created: '2025-08-12'
 updated: '2025-08-13T01:18:34.737572+00:00'
 magnitude: 4
 visibility: 4
-primary_sessions: 
+primary_sessions:
 - 'Session 04: The Silverscale Gambit'
 ---
 

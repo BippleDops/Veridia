@@ -2,7 +2,7 @@
 
 title: Exotic Imports Market
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

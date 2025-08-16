@@ -2,7 +2,7 @@
 
 title: Community Temple Network
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

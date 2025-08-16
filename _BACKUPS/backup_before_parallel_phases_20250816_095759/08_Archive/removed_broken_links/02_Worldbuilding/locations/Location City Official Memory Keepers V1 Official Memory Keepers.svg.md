@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city official memory keepers v1 official memory keeperssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Official Memory Keepers V1 Official Memory Keepers.svg
 type: location

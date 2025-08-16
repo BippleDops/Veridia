@@ -2,7 +2,7 @@
 
 title: The Memory Vaults
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

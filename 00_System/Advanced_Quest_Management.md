@@ -2,7 +2,7 @@
 
 ## Active Quests Dashboard
 ```dataview
-TABLE 
+TABLE
   priority as "Priority",
   status as "Status",
   quest_giver as "Quest Giver",
@@ -134,7 +134,7 @@ tags: [quest, combat]
 - New opportunities unlocked
 - World state changes
 
-### Failure Outcomes  
+### Failure Outcomes
 - Alternative paths opened
 - Relationships damaged
 - Consequences for world

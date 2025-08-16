@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Seven Shards Mystery V1 the Seven Shards
   Mystery.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the seven shards mystery v1 the seven
   shards mysterysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

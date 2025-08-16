@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tribune Cassia V1 Tribune Cassia.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tribune cassia v1 tribune cassiasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

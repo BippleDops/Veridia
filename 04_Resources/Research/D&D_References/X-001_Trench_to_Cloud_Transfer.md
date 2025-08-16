@@ -2,7 +2,7 @@
 
 title: X-001_Trench_to_Cloud_Transfer
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

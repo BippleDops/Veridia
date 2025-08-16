@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Senator Cornelius Depthwalker V1 Senator Cornelius
   Depthwalker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city senator cornelius depthwalker v1 senator
   cornelius depthwalkersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

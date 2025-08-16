@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memory Recording Chambers V1 Memory Recording
   Chambers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory recording chambers v1 memory
   recording chamberssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

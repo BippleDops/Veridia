@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Captain Marlowe Tidecrest Captain Marlowe Tidecrest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city captain marlowe tidecrest captain marlowe
   tidecrestsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

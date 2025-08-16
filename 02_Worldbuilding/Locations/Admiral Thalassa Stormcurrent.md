@@ -2,7 +2,7 @@
 
 title: Admiral Thalassa Stormcurrent
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

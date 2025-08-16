@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City His Eternal Majesty Keeper of the Throne of
   Bubbles His Eternal Majesty Keeper of the Throne of Bubbles.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city his eternal majesty keeper of the throne
   of bubbles his eternal majesty keeper of the throne of bubblessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -190,7 +190,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

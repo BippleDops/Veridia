@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Into the Blue Into the Blue.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city into the blue into the bluesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key locations marked:
 - **Aberration**: beholder
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 3
-  
+
 ### Environmental Hazards
 - Pit trap
 - **DC 19** to detect
@@ -216,7 +216,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

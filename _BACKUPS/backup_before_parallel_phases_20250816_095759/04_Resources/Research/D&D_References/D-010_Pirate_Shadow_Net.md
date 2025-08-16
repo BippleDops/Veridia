@@ -2,7 +2,7 @@
 
 title: D-010_Pirate_Shadow_Net
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

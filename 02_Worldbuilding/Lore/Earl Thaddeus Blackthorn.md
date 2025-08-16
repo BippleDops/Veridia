@@ -2,7 +2,7 @@
 
 title: Earl Thaddeus Blackthorn
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

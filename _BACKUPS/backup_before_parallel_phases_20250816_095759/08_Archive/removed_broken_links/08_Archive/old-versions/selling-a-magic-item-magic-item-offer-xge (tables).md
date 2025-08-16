@@ -2,7 +2,7 @@
 
 title: selling-a-magic-item-magic-item-offer-xge (tables)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

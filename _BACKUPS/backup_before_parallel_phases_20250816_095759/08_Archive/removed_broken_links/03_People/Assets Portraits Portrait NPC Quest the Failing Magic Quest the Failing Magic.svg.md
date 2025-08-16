@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the failing magic quest the failing
   magicsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

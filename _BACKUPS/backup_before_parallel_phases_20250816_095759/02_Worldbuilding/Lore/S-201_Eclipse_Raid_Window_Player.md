@@ -3,7 +3,7 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags: 
+tags:
 - [[Lore
 title: [S_201_Eclipse_Raid_Window_Player|S 201 Eclipse Raid Window Player]]
 type: lore

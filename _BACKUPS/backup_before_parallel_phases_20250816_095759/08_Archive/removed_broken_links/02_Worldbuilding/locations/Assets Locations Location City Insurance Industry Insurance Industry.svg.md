@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Insurance Industry Insurance Industry.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city insurance industry insurance industrysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

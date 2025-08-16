@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Siren Maeve Echoborn V1 Siren Maeve Echoborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city siren maeve echoborn v1 siren maeve
   echobornsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

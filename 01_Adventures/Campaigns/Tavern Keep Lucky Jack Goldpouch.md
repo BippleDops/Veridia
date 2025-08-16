@@ -2,7 +2,7 @@
 
 title: Tavern Keep Lucky Jack Goldpouch
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]
@@ -175,7 +175,7 @@ Ongoing situations affecting Tavern Keep Lucky Jack Goldpouch:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

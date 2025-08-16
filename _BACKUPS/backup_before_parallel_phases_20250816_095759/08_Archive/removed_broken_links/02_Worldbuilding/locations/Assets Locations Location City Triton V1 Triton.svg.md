@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Triton V1 Triton.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city triton v1 tritonsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

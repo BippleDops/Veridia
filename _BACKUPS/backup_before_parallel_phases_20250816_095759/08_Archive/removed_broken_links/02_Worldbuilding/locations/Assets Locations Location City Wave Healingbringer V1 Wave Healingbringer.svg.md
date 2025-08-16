@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wave Healingbringer V1 Wave Healingbringer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wave healingbringer v1 wave healingbringersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -206,7 +206,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Cultural Patro
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

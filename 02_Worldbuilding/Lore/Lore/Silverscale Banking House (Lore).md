@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Silverscale Banking House
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

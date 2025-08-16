@@ -2,7 +2,7 @@
 
 title: Current Innovator
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

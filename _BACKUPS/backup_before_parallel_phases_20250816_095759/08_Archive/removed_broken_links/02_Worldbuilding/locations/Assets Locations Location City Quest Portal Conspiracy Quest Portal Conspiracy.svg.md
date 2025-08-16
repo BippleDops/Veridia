@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Quest Portal Conspiracy Quest Portal Conspiracy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest portal conspiracy quest portal
   conspiracysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

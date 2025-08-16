@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Prince Caspian
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

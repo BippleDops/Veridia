@@ -2,7 +2,7 @@
 
 title: The Great Mother Tree
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

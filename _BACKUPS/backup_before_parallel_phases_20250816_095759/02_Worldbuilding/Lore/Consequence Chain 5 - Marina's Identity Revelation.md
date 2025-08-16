@@ -2,7 +2,7 @@
 
 title: Consequence Chain 5 - Marina's Identity Revelation
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy
@@ -107,7 +107,7 @@ Consequence Chain 5 - Marina's Identity Revelation represents a crucial aspect o
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

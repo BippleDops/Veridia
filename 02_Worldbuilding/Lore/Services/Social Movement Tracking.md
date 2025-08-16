@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Social Movement Tracking
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

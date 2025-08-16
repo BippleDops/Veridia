@@ -2,7 +2,7 @@
 
 title: The Informant
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

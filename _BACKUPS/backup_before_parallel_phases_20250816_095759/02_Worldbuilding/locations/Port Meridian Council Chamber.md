@@ -2,7 +2,7 @@
 
 title: [[Port Meridian Council Chamber
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -149,7 +149,7 @@ Ongoing situations affecting Port Meridian Council Chamber:
 - **Aberration**: beholder
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 1
-  
+
 ### [Environmental Hazards]]
 - Collapsing ceiling
 - **DC 19** to detect
@@ -167,7 +167,7 @@ Ongoing situations affecting Port Meridian Council Chamber:
 - **Recent History**: Fire 38 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Election in 18 days
 - **Brewing Conflict**: [Trade War]]
 - **Prophecy Connection**: [[Link]]s to The Second Prophecy of Winds
@@ -200,7 +200,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

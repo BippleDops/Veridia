@@ -2,7 +2,7 @@
 
 title: Inventor Chief Adaptatio
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

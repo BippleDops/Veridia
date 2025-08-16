@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Commercial Hubs and Markets V1 Commercial Hubs
   and Markets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city commercial hubs and markets v1 commercial
   hubs and marketssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

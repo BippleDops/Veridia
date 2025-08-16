@@ -1,10 +1,10 @@
 ---
 
 title: Elena Starweaver.md
-aliases: 
+aliases:
 - [[02_Worldbuilding|02 Worldbuilding [People]] Elena Starweavermd
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

@@ -2,7 +2,7 @@
 
 title: Depth Merchants
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - commercial-district
@@ -24,12 +24,12 @@ danger_level: 4
 depth: 3,000-5,000 feet below surface
 established: ~300 years ago
 government: Merchant Council Oligarchy
-related_entities: 
+related_entities:
 - '[[Silverscale Consortium'
 - '[Free Current]]'
 - '[[The Memory Meadows'
 - '[The Deep Mother]]'
-specialties: 
+specialties:
 - Deep-Ocean Resources
 - Pressure Equipment
 - Exotic Goods
@@ -124,7 +124,7 @@ The defining characteristic of the Depth Merchants district is the incredible wa
 
 #### Physical Effects on Commerce
 **Material Properties**: Extreme pressure creates unique conditions for manufacturing and processing
-**Storage Considerations**: Goods must be specially contained to prevent damage during transport to shallow depths  
+**Storage Considerations**: Goods must be specially contained to prevent damage during transport to shallow depths
 **Transportation Challenges**: Specialized vessels required for movement between pressure zones
 **Communication Difficulties**: Pressure affects sound transmission and magical communication methods
 
@@ -164,7 +164,7 @@ The entire district is built using advanced underwater engineering techniques de
 - Banking and ficial services adapted to extreme-depth operations
 
 ##### The Processing Depths
-**Depth Range**: 3,500-4,000 feet  
+**Depth Range**: 3,500-4,000 feet
 **Population**: ~2,500
 **Purpose**: Manufacturing and resource refinement
 **Features**:
@@ -202,7 +202,7 @@ The complex environment of extreme depths has created a highly specialized socie
 #### The Depth Masters
 **Role**: Elite merchants who coordinate major deep-ocean trading operations
 **Qualifications**: Decades of experience, proven ability to survive and thrive at crushing depths
-**Responsibilities**: 
+**Responsibilities**:
 - Establishing trade relationships with deep-ocean cultures
 - Coordinating complex multi-depth trading expeditions
 - Managing risks associated with extreme-depth commerce
@@ -215,9 +215,9 @@ The complex environment of extreme depths has created a highly specialized socie
 
 #### The Extraction Syndicate
 **Purpose**: Organized harvesting of deep-ocean resources
-**Operations**: 
+**Operations**:
 - Large-scale mining of rare minerals and crystals
-- Sustainable harvesting of deep-ocean biological resources  
+- Sustainable harvesting of deep-ocean biological resources
 - Exploration of new resource deposits in unmapped depths
 - Development of advanced extraction technologies
 
@@ -253,7 +253,7 @@ Living at crushing depths has created unique cultural practices and social adapt
 
 #### Social Hierarchies
 **Depth Rating**: Social status partially determined by maximum depth an individual can safely operate
-**Pressure Endurance**: Respect granted based on ability to function under extreme conditions  
+**Pressure Endurance**: Respect granted based on ability to function under extreme conditions
 **Resource Access**: Wealth measured by ability to acquire rare deep-ocean materials
 **Survival Experience**: Wisdom and leadership roles often granted to those who've survived deep-ocean crises
 **Adaptation Success**: Recognition for individuals who've successfully modified themselves or their equipment for depth survival
@@ -268,13 +268,13 @@ Living at crushing depths has created unique cultural practices and social adapt
 #### Abyssal Mining Corporation
 **Operations**: Large-scale extraction of rare minerals from ocean floor deposits
 **Depth Range**: 4,000-6,000+ feet
-**Specialties**: 
+**Specialties**:
 - Pressure-formed crystals with unique magical and physical properties
 - Rare earth elements found only in deep ocean sediments
 - Precious metals concentrated in thermal vent areas
 - Ancient artifacts buried in abyssal sediment layers
 
-**Technology**: 
+**Technology**:
 - Pressure-resistant mining equipment operated by bio-adapted workers
 - Remotely operated vehicles for the deepest and most dangerous extraction sites
 - Processing facilities that use extreme pressure as part of the refinement process
@@ -586,7 +586,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

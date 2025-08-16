@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city councilor tidal balancekeeper councilor tidal balancekeepersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Councilor Tidal Balancekeeper Councilor Tidal Balancekeeper.svg
 type: location

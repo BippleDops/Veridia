@@ -2,7 +2,7 @@
 
 title: [[Trade Unions
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -156,7 +156,7 @@ Ongoing situations affecting Trade Unions:
 - **Dragon**: metallic
   - Traits: standard
   - CR Range: 17
-  
+
 ### [[Environmental Hazards]]
 - Pit trap
 - **DC 19** to detect

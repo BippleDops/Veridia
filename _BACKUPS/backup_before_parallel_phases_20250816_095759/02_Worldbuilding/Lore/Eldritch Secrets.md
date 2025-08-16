@@ -2,7 +2,7 @@
 
 title: Eldritch Secrets
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

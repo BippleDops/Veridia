@@ -2,7 +2,7 @@
 
 title: Level and Lethality Trap Save Dcs and Attack Bonuses Xge
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

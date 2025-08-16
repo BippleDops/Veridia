@@ -3,7 +3,7 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags: 
+tags:
 - [[Lore
 title: "08 using ability scores#Strength"
 type: lore

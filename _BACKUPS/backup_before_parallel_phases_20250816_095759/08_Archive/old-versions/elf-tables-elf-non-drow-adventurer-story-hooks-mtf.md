@@ -2,7 +2,7 @@
 
 title: elf-tables-elf-non-drow-adventurer-story-hooks-mtf
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

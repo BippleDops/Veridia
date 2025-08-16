@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/faction

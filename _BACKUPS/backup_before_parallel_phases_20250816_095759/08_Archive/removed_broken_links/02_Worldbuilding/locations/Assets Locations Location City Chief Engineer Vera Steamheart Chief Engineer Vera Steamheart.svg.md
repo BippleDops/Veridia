@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chief Engineer Vera Steamheart Chief Engineer
   Vera Steamheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chief engineer vera steamheart chief
   engineer vera steamheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -188,7 +188,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: [[Consequence Chain Name 1
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

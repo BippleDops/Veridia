@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Prophetic Studies Institute V1 Prophetic Studies
   Institute.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city prophetic studies institute v1 prophetic
   studies institutesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

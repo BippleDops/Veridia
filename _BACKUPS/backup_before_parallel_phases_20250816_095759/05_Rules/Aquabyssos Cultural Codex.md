@@ -2,7 +2,7 @@
 
 title: [[Aquabyssos Cultural Codex
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - cultural-customs
@@ -133,7 +133,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 ### 5. The Hierarchy of Feeding
 
 **Social Structure**: Meal consumption follows strict depth-based precedence
-**Protocol**: 
+**Protocol**:
 - Deepest dwellers receive first portions and choicest cuts
 - Surface-adapted individuals eat only after depth-natives finish
 - Mixed-depth meals require careful portion planning and timing

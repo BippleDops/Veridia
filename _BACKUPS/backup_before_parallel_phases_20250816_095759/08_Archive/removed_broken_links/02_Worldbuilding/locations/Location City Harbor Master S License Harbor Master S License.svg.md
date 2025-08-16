@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city harbor master s license harbor master s licensesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Harbor Master S License Harbor Master S License.svg
 type: location

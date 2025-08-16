@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Void Watchers the Void Watchers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the void watchers the void watcherssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: International Crystal Trade Associatio
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: Initiate Shadow Walker
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

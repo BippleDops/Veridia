@@ -2,7 +2,7 @@
 
 title: Physical Variations Type 4 Malison Lower
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

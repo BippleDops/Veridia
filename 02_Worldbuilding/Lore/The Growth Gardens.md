@@ -2,7 +2,7 @@
 
 title: The Growth Gardens
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

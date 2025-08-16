@@ -2,7 +2,7 @@
 
 title: Translator Marina Polyglot
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

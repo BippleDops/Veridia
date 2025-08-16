@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/The Crystal Shepherds
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

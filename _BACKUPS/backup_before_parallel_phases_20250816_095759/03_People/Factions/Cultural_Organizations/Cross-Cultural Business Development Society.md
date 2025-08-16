@@ -2,7 +2,7 @@
 
 title: Cross Cultural Business Development Society
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

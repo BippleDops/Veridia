@@ -2,7 +2,7 @@
 
 title: Damage Vulnerabilities Resistances and Immunities Effective Hit Points Based on Resistances and Immunities
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

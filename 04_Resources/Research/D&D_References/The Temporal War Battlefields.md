@@ -3,7 +3,7 @@ enhanced: true
 
 title: The Temporal War Battlefields
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

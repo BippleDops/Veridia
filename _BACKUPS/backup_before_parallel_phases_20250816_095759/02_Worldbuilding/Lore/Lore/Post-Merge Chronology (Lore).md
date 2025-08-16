@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Post-Merge Chronology
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

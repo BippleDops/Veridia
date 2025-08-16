@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sanctuary Safeharbor V1 Sanctuary Safeharbor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sanctuary safeharbor v1 sanctuary safeharborsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

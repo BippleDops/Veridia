@@ -2,7 +2,7 @@
 
 title: Bio Integration Researcher [[Coral Lifeshaper
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

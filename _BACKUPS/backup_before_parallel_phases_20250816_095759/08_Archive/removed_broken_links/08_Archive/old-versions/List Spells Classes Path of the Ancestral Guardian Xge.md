@@ -2,7 +2,7 @@
 
 title: List Spells Classes Path of the Ancestral Guardian Xge
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

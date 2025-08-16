@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Unite_or_Divide.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

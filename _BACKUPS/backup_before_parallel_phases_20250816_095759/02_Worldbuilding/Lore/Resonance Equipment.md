@@ -2,7 +2,7 @@
 
 title: [[Resoce_Equipment|Resoce Equipment
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

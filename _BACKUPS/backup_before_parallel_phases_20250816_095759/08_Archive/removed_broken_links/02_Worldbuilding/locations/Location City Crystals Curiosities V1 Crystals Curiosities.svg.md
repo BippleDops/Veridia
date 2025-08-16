@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city crystals curiosities v1 crystals curiositiessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Crystals Curiosities V1 Crystals Curiosities.svg
 type: location

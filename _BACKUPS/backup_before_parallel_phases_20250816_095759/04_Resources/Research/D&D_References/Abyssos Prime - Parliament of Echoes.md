@@ -2,7 +2,7 @@
 
 title: Abyssos Prime - Parliament of Echoes
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

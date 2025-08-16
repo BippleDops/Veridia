@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest faith and doubt v1 quest faith and doubtsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest Faith and Doubt V1 Quest Faith and Doubt.svg
 type: npc

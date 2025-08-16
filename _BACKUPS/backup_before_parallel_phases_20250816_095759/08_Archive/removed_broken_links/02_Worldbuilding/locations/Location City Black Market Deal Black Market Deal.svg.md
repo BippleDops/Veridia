@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city black market deal black market dealsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Black Market Deal Black Market Deal.svg
 type: location

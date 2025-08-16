@@ -1,7 +1,7 @@
 ---
 title: Location Network Graph
 type: Lore
-tags: 
+tags:
 - index
 - status/complete
 - report

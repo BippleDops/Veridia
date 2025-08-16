@@ -1,10 +1,10 @@
 ---
-accessibility: 
-  content_warnings: 
+accessibility:
+  content_warnings:
   - political coercion
   - environmental hazards
   pronunciation: The Reflection Pools
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door
@@ -14,7 +14,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location
@@ -55,7 +55,7 @@ Reaching the Reflection Pools requires navigating the Corridor of Choices, a win
 **Reveals**: Children never conceived, ideas never spoken
 **Danger**: Viewers may become obsessed with impossible offspring
 
-#### Pool of Roads Not Taken  
+#### Pool of Roads Not Taken
 **Diameter**: 45 feet
 **Depth**: Variable (changes with regret)
 **Reveals**: Lives shaped by different choices

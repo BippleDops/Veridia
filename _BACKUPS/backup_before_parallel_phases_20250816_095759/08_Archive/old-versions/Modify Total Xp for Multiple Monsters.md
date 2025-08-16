@@ -2,7 +2,7 @@
 
 title: Modify Total Xp for Multiple Monsters
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

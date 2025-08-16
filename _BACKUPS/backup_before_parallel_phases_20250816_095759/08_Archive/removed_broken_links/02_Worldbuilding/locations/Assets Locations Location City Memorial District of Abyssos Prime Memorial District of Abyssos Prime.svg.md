@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memorial District of Abyssos Prime Memorial
   District of Abyssos Prime.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memorial district of abyssos prime memorial
   district of abyssos primesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -189,7 +189,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

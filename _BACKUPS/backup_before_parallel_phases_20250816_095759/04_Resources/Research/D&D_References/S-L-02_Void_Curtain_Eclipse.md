@@ -2,7 +2,7 @@
 
 title: S-L-02_Void_Curtain_Eclipse
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

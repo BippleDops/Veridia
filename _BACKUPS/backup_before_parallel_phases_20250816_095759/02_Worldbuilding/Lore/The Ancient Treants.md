@@ -2,7 +2,7 @@
 
 title: The Ancient Treants
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

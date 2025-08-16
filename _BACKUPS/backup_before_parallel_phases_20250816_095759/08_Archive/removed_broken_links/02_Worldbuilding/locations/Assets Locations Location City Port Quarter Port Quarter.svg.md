@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Port Quarter Port Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port quarter port quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Shattered Isles V1 the Shattered Isles.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the shattered isles v1 the shattered
   islessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

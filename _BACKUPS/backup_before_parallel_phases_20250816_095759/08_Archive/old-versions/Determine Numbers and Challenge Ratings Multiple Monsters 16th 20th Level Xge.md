@@ -2,7 +2,7 @@
 
 title: Determine Numbers and Challenge Ratings Multiple Monsters 16th 20th Level Xge
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

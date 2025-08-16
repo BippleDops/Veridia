@@ -1,7 +1,7 @@
 ---
 title: Lord Commander Gareth Steelborn
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both

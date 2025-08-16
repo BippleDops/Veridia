@@ -2,7 +2,7 @@
 
 title: Secular Community Practices
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

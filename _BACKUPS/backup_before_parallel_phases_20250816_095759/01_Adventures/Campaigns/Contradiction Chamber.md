@@ -2,7 +2,7 @@
 
 title: Contradiction Chamber
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

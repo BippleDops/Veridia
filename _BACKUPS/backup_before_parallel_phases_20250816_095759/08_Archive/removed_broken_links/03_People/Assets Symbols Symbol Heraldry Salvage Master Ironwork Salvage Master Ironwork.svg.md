@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Salvage Master Ironwork Salvage Master Ironwork.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry salvage master ironwork salvage master
   ironworksvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

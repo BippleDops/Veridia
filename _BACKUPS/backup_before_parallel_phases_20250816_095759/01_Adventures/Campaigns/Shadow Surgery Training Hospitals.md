@@ -2,7 +2,7 @@
 
 title: [[Shadow_Surgery|Shadow Surgery Training Hospitals
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

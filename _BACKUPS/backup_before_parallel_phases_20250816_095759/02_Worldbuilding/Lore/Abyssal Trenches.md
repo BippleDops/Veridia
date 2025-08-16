@@ -2,7 +2,7 @@
 
 title: Abyssal Trenches
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

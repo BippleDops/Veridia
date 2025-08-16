@@ -2,7 +2,7 @@
 
 title: Ficial District
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - prophecy

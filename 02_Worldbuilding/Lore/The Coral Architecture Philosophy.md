@@ -2,7 +2,7 @@
 
 title: The [[Coral Architecture Philosophy
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

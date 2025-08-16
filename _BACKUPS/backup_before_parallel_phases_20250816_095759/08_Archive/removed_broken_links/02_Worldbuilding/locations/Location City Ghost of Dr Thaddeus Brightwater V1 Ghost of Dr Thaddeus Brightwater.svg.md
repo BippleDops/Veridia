@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city ghost of dr thaddeus brightwater v1 ghost of dr thaddeus brightwatersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Ghost of Dr Thaddeus Brightwater V1 Ghost of Dr Thaddeus Brightwater.svg
 type: location

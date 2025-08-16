@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Crystal Storm Barriers V1 Crystal Storm Barriers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal storm barriers v1 crystal storm
   barrierssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

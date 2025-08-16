@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc commander thrace ironwood v1 commander thrace ironwoodsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Commander Thrace Ironwood V1 Commander Thrace Ironwood.svg
 type: npc

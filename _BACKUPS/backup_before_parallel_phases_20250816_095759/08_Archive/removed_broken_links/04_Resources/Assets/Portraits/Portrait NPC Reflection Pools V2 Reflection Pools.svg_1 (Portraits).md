@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc reflection pools v2 reflection poolssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Reflection Pools V2 Reflection Pools.svg
 type: npc

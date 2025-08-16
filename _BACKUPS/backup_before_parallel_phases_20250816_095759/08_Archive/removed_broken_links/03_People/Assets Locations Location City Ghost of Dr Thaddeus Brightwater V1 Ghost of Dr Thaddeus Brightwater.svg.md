@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ghost of Dr Thaddeus Brightwater V1 Ghost of
   Dr Thaddeus Brightwater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ghost of dr thaddeus brightwater v1
   ghost of dr thaddeus brightwatersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

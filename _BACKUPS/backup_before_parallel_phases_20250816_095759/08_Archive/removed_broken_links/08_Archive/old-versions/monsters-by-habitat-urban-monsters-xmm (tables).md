@@ -2,7 +2,7 @@
 
 title: monsters-by-habitat-urban-monsters-xmm (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

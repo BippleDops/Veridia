@@ -2,7 +2,7 @@
 
 title: Chief Marine Engineer [[Coral Seaforge
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

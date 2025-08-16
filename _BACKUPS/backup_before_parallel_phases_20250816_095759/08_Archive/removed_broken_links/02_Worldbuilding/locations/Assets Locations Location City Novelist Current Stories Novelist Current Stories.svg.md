@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Novelist Current Stories Novelist Current Stories.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city novelist current stories novelist current
   storiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Harmony Tidereader Captain Harmony Tidereader.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain harmony tidereader captain harmony
   tidereadersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

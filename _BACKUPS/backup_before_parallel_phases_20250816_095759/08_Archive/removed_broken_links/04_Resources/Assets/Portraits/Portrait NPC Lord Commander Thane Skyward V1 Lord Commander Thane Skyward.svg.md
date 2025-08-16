@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord commander thane skyward v1 lord commander thane skywardsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Commander Thane Skyward V1 Lord Commander Thane Skyward.svg
 type: npc

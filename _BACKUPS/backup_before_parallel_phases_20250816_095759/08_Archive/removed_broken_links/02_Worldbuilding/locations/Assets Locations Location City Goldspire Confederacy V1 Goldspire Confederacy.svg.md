@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Goldspire Confederacy V1 Goldspire Confederacy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city goldspire confederacy v1 goldspire confederacysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

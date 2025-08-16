@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Lock the Lock.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the lock the locksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

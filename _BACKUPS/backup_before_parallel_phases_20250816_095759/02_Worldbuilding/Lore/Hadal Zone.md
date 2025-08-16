@@ -2,7 +2,7 @@
 
 title: [[Hadal Zone
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

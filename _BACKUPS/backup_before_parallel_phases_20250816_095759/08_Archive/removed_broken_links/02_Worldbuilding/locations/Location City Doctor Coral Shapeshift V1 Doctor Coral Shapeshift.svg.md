@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city doctor coral shapeshift v1 doctor coral shapeshiftsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Doctor Coral Shapeshift V1 Doctor Coral Shapeshift.svg
 type: location

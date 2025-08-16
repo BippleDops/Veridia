@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Time Lost Delegate Chronus Time Lost Delegate
   Chronus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city time lost delegate chronus time lost
   delegate chronussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -216,7 +216,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

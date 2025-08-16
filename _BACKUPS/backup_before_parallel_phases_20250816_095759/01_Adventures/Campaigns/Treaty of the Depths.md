@@ -2,7 +2,7 @@
 
 title: Treaty of the Depths
 type: [[location
-tags: 
+tags:
 - mechanics/social
 - status/complete
 - treaty

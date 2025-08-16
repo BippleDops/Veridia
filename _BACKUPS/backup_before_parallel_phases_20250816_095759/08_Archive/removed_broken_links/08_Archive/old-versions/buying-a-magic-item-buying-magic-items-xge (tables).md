@@ -2,7 +2,7 @@
 
 title: buying-a-magic-item-buying-magic-items-xge (tables)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

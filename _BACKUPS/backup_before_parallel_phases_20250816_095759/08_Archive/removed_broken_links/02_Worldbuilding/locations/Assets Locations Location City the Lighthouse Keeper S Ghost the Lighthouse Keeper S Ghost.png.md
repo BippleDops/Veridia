@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Lighthouse Keeper S Ghost the Lighthouse
   Keeper S Ghost.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the lighthouse keeper s ghost the lighthouse
   keeper s ghostpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

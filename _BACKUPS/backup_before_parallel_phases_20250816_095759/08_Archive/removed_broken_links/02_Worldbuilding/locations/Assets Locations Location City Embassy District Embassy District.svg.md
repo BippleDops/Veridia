@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Embassy District Embassy District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city embassy district embassy districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

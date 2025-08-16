@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the stillwater method v1 the stillwater methodsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Stillwater Method V1 the Stillwater Method.svg
 type: location

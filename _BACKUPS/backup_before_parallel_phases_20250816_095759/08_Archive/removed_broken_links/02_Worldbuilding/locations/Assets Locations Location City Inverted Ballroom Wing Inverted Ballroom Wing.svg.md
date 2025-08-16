@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Inverted Ballroom Wing Inverted Ballroom Wing.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city inverted ballroom wing inverted ballroom
   wingsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

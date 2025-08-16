@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Abyssal Territories Abyssal Territories.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city abyssal territories abyssal territoriessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

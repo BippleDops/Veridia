@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Deepmind the Deepmind.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the deepmind the deepmindsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

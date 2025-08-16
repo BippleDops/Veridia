@@ -2,7 +2,7 @@
 
 title: The [[Great Drowning
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - status/complete
 - aquatic
@@ -21,12 +21,12 @@ modified: '2025-08-14'
 status: complete
 [region]]: Unknown
 population: Unknown
-accessibility: 
-  content_warnings: 
+accessibility:
+  content_warnings:
   - political coercion
   - [[Environmental Hazards
   pronunciation: The Great Drowning
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door
@@ -126,7 +126,7 @@ Concentric zones of crystallized water orbit the maelstrom at various depths:
 
 Time flows differently near the Great Drowning:
 - **Outer Edge**: 1 hour = 61 minutes external time
-- **Middle Zone**: 1 hour = 2 hours external time  
+- **Middle Zone**: 1 hour = 2 hours external time
 - **Inner Spiral**: 1 hour = 1 day external time
 - **Event Horizon**: Time becomes non-linear
 

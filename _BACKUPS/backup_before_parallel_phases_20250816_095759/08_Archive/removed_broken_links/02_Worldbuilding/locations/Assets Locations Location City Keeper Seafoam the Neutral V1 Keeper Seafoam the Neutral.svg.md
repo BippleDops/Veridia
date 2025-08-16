@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Keeper Seafoam the Neutral V1 Keeper Seafoam
   the Neutral.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper seafoam the neutral v1 keeper
   seafoam the neutralsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -4,7 +4,7 @@ created: '2025-08-08'
 created_by: auto-stub
 significance: Campaign-Critical
 status: complete
-tags: 
+tags:
 - adaptation
 - both
 - complete
@@ -199,7 +199,7 @@ A town leader whose exposure to [02_Worldbuilding/Lore/Merged Reality Zones]] le
 **[[02_Worldbuilding/Lore/The Crystal Harmony Collective:**
 A community in [02_Worldbuilding/Places/Aethermoor]] that has embraced crystal transformation as evolution:
 - Established crystal cultivation gardens to guide transformations safely
-- Created new art forms using crystal-enhanced abilities  
+- Created new art forms using crystal-enhanced abilities
 - Developed education programs for crystal-touched children
 - Built architecture that responds to crystalline consciousness
 - Founded support networks for families with transformed members
@@ -236,7 +236,7 @@ Areas attempting to prevent any reality alterations:
 A trading post that has become a refuge for mixed transformations:
 - Built infrastructure accommodating both crystal and aquatic needs
 - Established markets specializing in transformation-related goods
-- Created diplomatic protocols for inter-reality negotiations  
+- Created diplomatic protocols for inter-reality negotiations
 - Developed healing services for transformation complications
 - Founded schools teaching transformation management
 
@@ -244,7 +244,7 @@ A trading post that has become a refuge for mixed transformations:
 A research community studying transformation to optimize outcomes:
 - Built laboratories studying transformation processes
 - Established volunteer programs for safe transformation experimentation
-- Created databases tracking transformation patterns and outcomes  
+- Created databases tracking transformation patterns and outcomes
 - Developed technologies to assist with transformation side effects
 - Founded counseling services for transformation trauma
 

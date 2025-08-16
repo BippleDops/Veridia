@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Garden Keeper Earthshade Garden Keeper Earthshade.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city garden keeper earthshade garden keeper
   earthshadesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

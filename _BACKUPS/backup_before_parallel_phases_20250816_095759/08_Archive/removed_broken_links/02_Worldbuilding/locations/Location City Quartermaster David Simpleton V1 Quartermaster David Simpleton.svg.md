@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city quartermaster david simpleton v1 quartermaster david simpletonsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Quartermaster David Simpleton V1 Quartermaster David Simpleton.svg
 type: location

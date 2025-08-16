@@ -2,7 +2,7 @@
 
 title: Economic Event Name 1
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

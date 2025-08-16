@@ -3,7 +3,7 @@ enhanced: true
 
 title: 04_Resources/Assets
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 

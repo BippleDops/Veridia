@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc aboleth prime yoth aboleth prime yothsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Aboleth Prime Yoth Aboleth Prime Yoth.svg
 type: npc

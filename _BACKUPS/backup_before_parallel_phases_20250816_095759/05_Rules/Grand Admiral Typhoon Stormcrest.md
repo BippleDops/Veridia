@@ -2,7 +2,7 @@
 
 title: Grand Admiral Typhoon Stormcrest
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

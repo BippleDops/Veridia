@@ -2,7 +2,7 @@
 
 title: The Shattered Sanctum
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

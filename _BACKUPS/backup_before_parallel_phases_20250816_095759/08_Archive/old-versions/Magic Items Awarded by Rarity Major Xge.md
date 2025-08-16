@@ -2,7 +2,7 @@
 
 title: Magic Items Awarded by Rarity Major Xge
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

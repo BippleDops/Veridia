@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Nautilus Threadmender V1 Nautilus Threadmender.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city nautilus threadmender v1 nautilus threadmendersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

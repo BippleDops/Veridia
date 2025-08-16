@@ -2,7 +2,7 @@
 
 title: Viscount Deeper Still
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

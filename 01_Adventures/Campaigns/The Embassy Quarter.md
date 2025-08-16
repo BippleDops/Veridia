@@ -2,7 +2,7 @@
 
 title: The Embassy Quarter
 type: Location
-tags: 
+tags:
 - district
 - embassy
 - status/complete
@@ -27,11 +27,11 @@ danger_level: 2
 established: Post-Continental War
 government: International Diplomatic Council
 parent_location: '[[Port Meridian'
-related_entities: 
+related_entities:
 - '[Aquabyssos Ambassadors]]'
 - '[[The Azure Coast'
 - '[Continental War]]'
-specialties: 
+specialties:
 - International Relations
 - Cultural Exchange
 - Trade Negotiations
@@ -414,7 +414,7 @@ The Embassy Quarter was established in the distant past, growing from humble beg
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

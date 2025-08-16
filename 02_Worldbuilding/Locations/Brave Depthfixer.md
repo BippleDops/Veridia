@@ -2,7 +2,7 @@
 
 title: Brave Depthfixer
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

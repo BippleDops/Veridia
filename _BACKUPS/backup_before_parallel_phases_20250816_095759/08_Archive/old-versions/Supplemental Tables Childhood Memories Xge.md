@@ -2,7 +2,7 @@
 
 title: Supplemental Tables Childhood Memories Xge
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

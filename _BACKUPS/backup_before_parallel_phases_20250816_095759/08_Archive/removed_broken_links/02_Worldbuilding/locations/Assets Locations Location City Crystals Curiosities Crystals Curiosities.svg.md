@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crystals Curiosities Crystals Curiosities.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystals curiosities crystals curiositiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -176,7 +176,7 @@ Key locations marked:
 - **Aberration**: aboleth
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 8
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 20** to detect

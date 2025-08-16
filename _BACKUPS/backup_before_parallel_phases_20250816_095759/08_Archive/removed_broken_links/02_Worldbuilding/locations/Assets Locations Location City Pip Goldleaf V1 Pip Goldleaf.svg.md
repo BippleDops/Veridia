@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pip Goldleaf V1 Pip Goldleaf.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pip goldleaf v1 pip goldleafsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Parliament of Echoes
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

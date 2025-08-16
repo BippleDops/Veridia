@@ -2,7 +2,7 @@
 
 title: Ancient Aquabyssos Rulers
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - status/complete
@@ -24,7 +24,7 @@ created: '2025-08-09'
 modified: '2025-08-14'
 status: draft
 historical_accuracy: Mix of verified records and recovered myths
-related_entities: 
+related_entities:
 - '[[Great Drowning|The [Great Drowning]]|[[02_Worldbuilding|02 Worldbuilding/Lore/[The Great Drowning]]]]'
 - '[[Parliament of Echoes'
 - '[Thalassius the Wise]]'

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the diplomatic quarter the diplomatic quartersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Diplomatic Quarter the Diplomatic Quarter.svg
 type: location

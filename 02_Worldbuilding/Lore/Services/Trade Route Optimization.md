@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Trade Route Optimization
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

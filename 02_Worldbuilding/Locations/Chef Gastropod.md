@@ -1,7 +1,7 @@
 ---
 title: Chef Gastropod
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

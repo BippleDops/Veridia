@@ -2,7 +2,7 @@
 
 title: Lessons of the First Ones Xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

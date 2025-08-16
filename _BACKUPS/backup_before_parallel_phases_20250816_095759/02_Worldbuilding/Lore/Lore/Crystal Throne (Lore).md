@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Crystal Throne
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

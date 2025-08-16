@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high king aurelius skyborn v1 high king aurelius skybornsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High King Aurelius Skyborn V1 High King Aurelius Skyborn.svg
 type: npc

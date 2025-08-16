@@ -2,7 +2,7 @@
 
 title: Npc Secrets Xdmg
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

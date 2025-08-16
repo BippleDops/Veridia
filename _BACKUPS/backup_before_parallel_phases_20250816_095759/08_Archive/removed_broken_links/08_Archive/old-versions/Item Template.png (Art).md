@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 rarity: Unknown
-tags: 
+tags:
 - item
 type: item
 updated: 2025-08-14

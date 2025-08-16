@@ -2,7 +2,7 @@
 
 title: Registrar Cornelius Scrollkeeper
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

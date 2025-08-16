@@ -2,7 +2,7 @@
 
 title: Lady Jade Clawgrip
 type: Npc
-tags: 
+tags:
 - status/complete
 - corporate-raider
 - npc
@@ -56,7 +56,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -131,22 +131,22 @@ Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[Silverscale Con
 ### Lady Jade Clawgrip
 *Medium humanoid (half-dragon), lawful evil*
 
-**Armor Class** 18 (Natural Armor + Elegant Business Attire)  
-**Hit Points** 195 (`dice: `dice: 23d10`` + 69)  
+**Armor Class** 18 (Natural Armor + Elegant Business Attire)
+**Hit Points** 195 (`dice: `dice: 23d10`` + 69)
 **Speed** 30 ft., fly 60 ft. (hover)
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
 16 (+3) | 14 (+2) | 16 (+3) | 22 (+6) | 17 (+3) | 20 (+5)
 
-**Saving Throws** Int +12, Wis +9, Cha +11  
-**Skills** Deception +17, Insight +15, Intimidation +17, Investigation +12, Perception +9, Persuasion +17  
-**Damage Resistances** Cold (silver dragon heritage)  
-**Damage Immunities** Charmed by ficial temptation effects  
-**Condition Immunities** Frightened  
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 19  
-**Languages** Common, Draconic, telepathy 120 ft., all languages (comprehend languages always active)  
-**Challenge Rating** 14 (11,500 XP)  
+**Saving Throws** Int +12, Wis +9, Cha +11
+**Skills** Deception +17, Insight +15, Intimidation +17, Investigation +12, Perception +9, Persuasion +17
+**Damage Resistances** Cold (silver dragon heritage)
+**Damage Immunities** Charmed by ficial temptation effects
+**Condition Immunities** Frightened
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 19
+**Languages** Common, Draconic, telepathy 120 ft., all languages (comprehend languages always active)
+**Challenge Rating** 14 (11,500 XP)
 **Proficiency Bonus** +5
 
 ### Special Abilities
@@ -263,7 +263,7 @@ Jade's dragon nature is becoming more pronounced:
 ---
 
 ### [[Silverscale Consortium Board Politics
-**Alliance with [Countess Argentum Vaultkeeper]]**: 
+**Alliance with [Countess Argentum Vaultkeeper]]**:
 - Joint ficial manipulation schemes
 - Shared intelligence on regulatory threats
 - Coordinated attacks on banking competitors
@@ -310,7 +310,7 @@ Jade's dragon nature is becoming more pronounced:
 - Access to Jade's supernatural business insight
 
 ### For Hostile Targets
-**"Generous" Acquisition Offers**: 
+**"Generous" Acquisition Offers**:
 - Initial offers at 60-80% of actual business value
 - Escalating pressure tactics if offers are refused
 - Complete destruction if acquisition is impossible

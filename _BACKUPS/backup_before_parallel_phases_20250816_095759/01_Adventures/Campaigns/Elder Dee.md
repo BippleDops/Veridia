@@ -2,7 +2,7 @@
 
 title: Elder Dee
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

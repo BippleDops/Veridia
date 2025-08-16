@@ -2,7 +2,7 @@
 
 title: The Sunken City of Aeridor
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

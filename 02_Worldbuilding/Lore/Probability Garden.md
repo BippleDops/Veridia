@@ -2,7 +2,7 @@
 
 title: Probability Garden
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

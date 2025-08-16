@@ -2,7 +2,7 @@
 
 title: Shadow Collective
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

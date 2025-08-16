@@ -6,14 +6,14 @@ current_state: Preserved memorial and research site
 danger_level: 6
 depth: 2800-3100 feet
 discovered: true
-factions: 
+factions:
 - '[[The Penitent Order'
 - '[Solution Seekers]]'
 - '[[Memorial Guardians'
 government: Memorial Custodianship
 location_name: The First Failure - Prototype Salvation Site
 location_type: Ruined Magical Laboratory
-notable_npcs: 
+notable_npcs:
 - '[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper
   Of Failures, Marcus Ashworth]]'
 - '[[02_Worldbuilding/Places/Archivist Elena Sorrowkeeper'
@@ -25,7 +25,7 @@ population: 12
 pressure_effects: Moderate
 ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper
   Of Failures, Marcus Ashworth'
-services: 
+services:
 - Historical Research
 - Magical Failure Analysis
 - Guilt Counseling
@@ -33,13 +33,13 @@ services:
 - Experimental Records Access
 shadow_density: Moderate
 status: complete
-sub_locations: 
+sub_locations:
 - '[The Shattered Summoning Circle]]'
 - '[[02_Worldbuilding/Places/Memorial Wall of Names'
 - '[The Preservation Chamber]]'
 - '[[Library of Lost Solutions'
 - '[The Guilt Garden]]'
-tags: 
+tags:
 - both
 - complete
 - content/location

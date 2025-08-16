@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Whisper Touched William V1 Whisper Touched William.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city whisper touched william v1 whisper touched
   williamsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Victoria Harbormane Victoria Harbormane.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city victoria harbormane victoria harbormanesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

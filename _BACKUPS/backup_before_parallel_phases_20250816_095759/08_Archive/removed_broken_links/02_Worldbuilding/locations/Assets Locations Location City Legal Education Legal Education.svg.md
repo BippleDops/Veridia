@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Legal Education Legal Education.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city legal education legal educationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

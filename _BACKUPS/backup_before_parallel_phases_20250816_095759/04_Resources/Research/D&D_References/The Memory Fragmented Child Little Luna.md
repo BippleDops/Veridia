@@ -2,7 +2,7 @@
 
 title: The Memory Fragmented Child Little Luna
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

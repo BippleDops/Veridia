@@ -2,7 +2,7 @@
 
 title: [[The Memory Weavers
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,37 +1,37 @@
 ---
 type: quest
-name: 
-campaign: 
-status: 
-priority: 
+name:
+campaign:
+status:
+priority:
 quest_giver: [[]]
-reward: 
-created: 
+reward:
+created:
 tags: [quest]
 ---
 
-# 
+#
 
 ## Objective
 
 ## Background
 
 ## Steps
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## NPCs Involved
 - [[ - Quest Giver
-- []] - 
+- []] -
 
 ## Locations
-- [[]] - 
+- [[]] -
 
 ## Rewards
-- **XP:** 
-- **Gold:** 
-- **Items:** 
+- **XP:**
+- **Gold:**
+- **Items:**
 
 ## Notes
 

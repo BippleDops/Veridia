@@ -2,7 +2,7 @@
 
 title: Necromancer's Conclave
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

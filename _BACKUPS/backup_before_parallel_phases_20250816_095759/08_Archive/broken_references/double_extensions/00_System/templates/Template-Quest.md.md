@@ -1,7 +1,7 @@
 ---
 
 type: adventure
-tags: 
+tags:
 - adventure
 - quest
 - bloodline

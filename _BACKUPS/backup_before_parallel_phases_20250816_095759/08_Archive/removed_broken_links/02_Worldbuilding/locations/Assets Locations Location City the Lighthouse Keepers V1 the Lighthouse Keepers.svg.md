@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Lighthouse Keepers V1 the Lighthouse Keepers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the lighthouse keepers v1 the lighthouse
   keeperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

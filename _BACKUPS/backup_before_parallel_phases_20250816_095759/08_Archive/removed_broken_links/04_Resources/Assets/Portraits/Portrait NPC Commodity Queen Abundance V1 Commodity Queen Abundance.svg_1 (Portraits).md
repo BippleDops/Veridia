@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc commodity queen abundance v1 commodity queen abundancesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Commodity Queen Abundance V1 Commodity Queen Abundance.svg
 type: npc

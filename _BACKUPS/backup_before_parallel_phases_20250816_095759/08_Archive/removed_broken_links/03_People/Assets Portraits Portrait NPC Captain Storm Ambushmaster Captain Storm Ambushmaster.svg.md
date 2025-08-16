@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Storm Ambushmaster Captain Storm Ambushmaster.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain storm ambushmaster captain storm
   ambushmastersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

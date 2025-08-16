@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Personnel/Risk Assessment Teams
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -130,7 +130,7 @@ Mentioned in The Hidden Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

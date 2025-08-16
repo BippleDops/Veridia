@@ -1,7 +1,7 @@
 ---
 title: Captain Nautilus the Deep Wanderer
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - npc

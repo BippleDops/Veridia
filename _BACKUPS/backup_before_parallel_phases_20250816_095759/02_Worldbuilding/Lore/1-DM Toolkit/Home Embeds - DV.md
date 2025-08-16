@@ -2,7 +2,7 @@
 
 title: 1-DM Toolkit/Home Embeds - DV
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ambassador Mark Exchangekeeper Ambassador Mark
   Exchangekeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ambassador mark exchangekeeper ambassador
   mark exchangekeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

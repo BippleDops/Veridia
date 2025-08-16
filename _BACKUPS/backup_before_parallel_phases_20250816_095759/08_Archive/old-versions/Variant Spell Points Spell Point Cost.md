@@ -2,7 +2,7 @@
 
 title: Variant Spell Points Spell Point Cost
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

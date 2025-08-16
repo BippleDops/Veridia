@@ -2,7 +2,7 @@
 
 title: [[Merchant  Profiteer
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Culinary Dreamweaver [[Sage Gentlespice
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

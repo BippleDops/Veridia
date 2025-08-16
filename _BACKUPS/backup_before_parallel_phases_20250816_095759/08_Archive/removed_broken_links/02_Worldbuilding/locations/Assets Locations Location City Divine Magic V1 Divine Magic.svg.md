@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Divine Magic V1 Divine Magic.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city divine magic v1 divine magicsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

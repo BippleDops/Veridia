@@ -8,7 +8,7 @@ item_type: Artifact Crafting Tool
 rarity: Legendary
 requires_attunement: Yes (by a creature proficient with smith's tools)
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/item
@@ -159,7 +159,7 @@ The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting techno
 
 ### Pre-Sundering Era
 - **Golden Age**: Used to create greatest architectural and artistic marvels
-- **Cooperation**: Symbol of different specialists working together harmoniously  
+- **Cooperation**: Symbol of different specialists working together harmoniously
 - **Innovation**: Enabled technological advancement through magical enhancement
 - **Preservation**: Helped maintain stability between competing magical forces
 - **Legacy**: Items created with Hammer still function perfectly centuries later
@@ -212,35 +212,35 @@ The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting techno
 ## Adventure Applications
 ### Quest Hooks
 #### The Hammer's Test
-**Level**: 8-12  
-**Hook**: Hammer begins rejecting all craftsmen, refusing to work properly  
-**Investigation**: Discover Hammer is testing potential wielders for worthiness  
-**Challenge**: Complete series of crafting trials that test skill, creativity, and moral character  
-**Resolution**: Prove worthy of Hammer's power or find way to restore its cooperation  
+**Level**: 8-12
+**Hook**: Hammer begins rejecting all craftsmen, refusing to work properly
+**Investigation**: Discover Hammer is testing potential wielders for worthiness
+**Challenge**: Complete series of crafting trials that test skill, creativity, and moral character
+**Resolution**: Prove worthy of Hammer's power or find way to restore its cooperation
 **Reward**: Temporary or permanent access to Hammer's abilities
 
 #### The Resonance War
-**Level**: 10-15  
-**Hook**: Rival craftsmen seek to steal or destroy Hammer to prevent others' advancement  
-**Conflict**: Protect Foundry from coordinated assault by multiple antagonist groups  
-**Complication**: Some attackers are legitimate craftsmen driven by desperation or ideology  
-**Stakes**: Loss of Hammer would set back Aethermoor's magical development by decades  
+**Level**: 10-15
+**Hook**: Rival craftsmen seek to steal or destroy Hammer to prevent others' advancement
+**Conflict**: Protect Foundry from coordinated assault by multiple antagonist groups
+**Complication**: Some attackers are legitimate craftsmen driven by desperation or ideology
+**Stakes**: Loss of Hammer would set back Aethermoor's magical development by decades
 **Resolution**: Defend Hammer while addressing underlying concerns causing conflict
 
-#### The Broken Resonance  
-**Level**: 12-16  
-**Hook**: Hammer's connection to one or more Shards is severed, crippling its abilities  
-**Investigation**: Trace cause of resonance break to its source  
-**Discovery**: Deliberate sabotage meant to prevent creation of specific powerful item  
-**Challenge**: Restore Shard connection while preventing saboteurs from succeeding  
+#### The Broken Resonance
+**Level**: 12-16
+**Hook**: Hammer's connection to one or more Shards is severed, crippling its abilities
+**Investigation**: Trace cause of resonance break to its source
+**Discovery**: Deliberate sabotage meant to prevent creation of specific powerful item
+**Challenge**: Restore Shard connection while preventing saboteurs from succeeding
 **Stakes**: Important defensive item needed for upcoming crisis cannot be completed
 
 #### The Living Forge
-**Level**: 14-18  
-**Hook**: Hammer begins crafting items on its own, without human guidance  
-**Mystery**: Determine why Hammer has developed autonomous behavior  
-**Revelation**: Hammer is preparing for cosmic event that requires specific items  
-**Dilemma**: Trust Hammer's judgment or assert human control over its actions  
+**Level**: 14-18
+**Hook**: Hammer begins crafting items on its own, without human guidance
+**Mystery**: Determine why Hammer has developed autonomous behavior
+**Revelation**: Hammer is preparing for cosmic event that requires specific items
+**Dilemma**: Trust Hammer's judgment or assert human control over its actions
 **Epic: Choice affects preparation for realm-threatening situation
 
 ### Services for Adventurers

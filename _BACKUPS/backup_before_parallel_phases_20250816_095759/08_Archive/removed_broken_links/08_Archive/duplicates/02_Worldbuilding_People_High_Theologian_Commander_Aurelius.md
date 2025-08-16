@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding_People_High_Theologian_Commander_Aurelius
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

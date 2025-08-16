@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Lord Magnus Goldspire Lord Magnus Goldspire.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc lord magnus goldspire lord magnus goldspiresvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -191,7 +191,7 @@ Member of House Wolfblood - Trait: magical affinity
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

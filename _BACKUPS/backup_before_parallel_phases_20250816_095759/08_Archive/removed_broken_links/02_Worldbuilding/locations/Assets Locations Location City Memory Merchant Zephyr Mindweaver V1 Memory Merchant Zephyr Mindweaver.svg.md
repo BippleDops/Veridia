@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memory Merchant Zephyr Mindweaver V1 Memory
   Merchant Zephyr Mindweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory merchant zephyr mindweaver v1
   memory merchant zephyr mindweaversvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

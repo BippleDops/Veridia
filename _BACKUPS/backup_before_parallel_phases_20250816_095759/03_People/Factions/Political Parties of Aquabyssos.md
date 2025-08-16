@@ -2,7 +2,7 @@
 
 title: Political Parties of Aquabyssos
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - intrigue
 - status/complete
@@ -168,7 +168,7 @@ The TAP is controlled by Crystallium intelligence services to:
 **Support Base:** 3% - Citizens affected by temporal anomalies
 
 ### The Deep Mother's Chosen (DMC)
-**Platform:** Theocratic government guided by deep-sea religious revelations  
+**Platform:** Theocratic government guided by deep-sea religious revelations
 **Hidden Agenda:** Preparation for arrival of eldritch entities
 **Support Base:** 4% - Religious extremists and cultists
 
@@ -306,7 +306,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

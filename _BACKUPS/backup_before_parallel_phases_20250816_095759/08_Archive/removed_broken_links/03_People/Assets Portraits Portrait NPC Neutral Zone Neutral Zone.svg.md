@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Neutral Zone Neutral Zone.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc neutral zone neutral zonesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -8,9 +8,9 @@ type: quest
 *A fetch quest for 4-6 characters of levels 3-7*
 
 ## Overview
-**Quest Giver**: Fiora Frostbeard (Gnome Rogue)  
-**Location**: Guarding a merchant caravan  
-**Type**: Fetch Quest  
+**Quest Giver**: Fiora Frostbeard (Gnome Rogue)
+**Location**: Guarding a merchant caravan
+**Type**: Fetch Quest
 **Objective**: Retrieve the stolen artifact from the bandit hideout
 
 ## Background

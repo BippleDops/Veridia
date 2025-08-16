@@ -2,7 +2,7 @@
 
 title: The Unknown Original
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

@@ -2,7 +2,7 @@
 
 title: Scepter of Winter's Command
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Intelligence Services
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both

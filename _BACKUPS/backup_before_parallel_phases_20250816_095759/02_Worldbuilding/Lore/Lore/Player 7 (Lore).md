@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Player 7
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

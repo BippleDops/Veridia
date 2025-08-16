@@ -2,7 +2,7 @@
 
 title: Noble House
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

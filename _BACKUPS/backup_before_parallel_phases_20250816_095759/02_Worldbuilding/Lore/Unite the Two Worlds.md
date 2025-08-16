@@ -2,7 +2,7 @@
 
 title: Unite the Two Worlds
 type: [[Lore
-tags: 
+tags:
 - lore
 - status/complete
 - content/lore
@@ -13,10 +13,10 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-accessibility: 
+accessibility:
   content_warnings: []
   pronunciation: Unite the Two Worlds
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and

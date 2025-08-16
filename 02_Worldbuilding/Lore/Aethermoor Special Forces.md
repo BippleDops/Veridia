@@ -2,7 +2,7 @@
 
 title: [[Aethermoor Special Forces
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aerial
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Shadow [[Noble Districts
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - world/aquabyssos
 - content/location

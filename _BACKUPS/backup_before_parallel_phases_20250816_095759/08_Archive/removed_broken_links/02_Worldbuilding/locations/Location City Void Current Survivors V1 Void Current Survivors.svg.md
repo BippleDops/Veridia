@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city void current survivors v1 void current survivorssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Void Current Survivors V1 Void Current Survivors.svg
 type: location

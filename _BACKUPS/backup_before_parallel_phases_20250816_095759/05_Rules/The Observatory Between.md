@@ -2,7 +2,7 @@
 
 title: The Observatory Between
 type: Location
-tags: 
+tags:
 - both
 - world/aquabyssos
 - world/both

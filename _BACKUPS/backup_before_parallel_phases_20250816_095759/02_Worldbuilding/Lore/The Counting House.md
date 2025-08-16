@@ -2,7 +2,7 @@
 
 title: The Counting House
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

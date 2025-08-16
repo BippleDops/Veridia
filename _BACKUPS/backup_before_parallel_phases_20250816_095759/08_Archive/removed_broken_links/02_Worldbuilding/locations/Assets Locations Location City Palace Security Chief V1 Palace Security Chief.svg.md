@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Palace Security Chief V1 Palace Security Chief.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city palace security chief v1 palace security
   chiefsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

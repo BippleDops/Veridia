@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Anchor Stronghaul Anchor Stronghaul.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city anchor stronghaul anchor stronghaulsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -180,7 +180,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

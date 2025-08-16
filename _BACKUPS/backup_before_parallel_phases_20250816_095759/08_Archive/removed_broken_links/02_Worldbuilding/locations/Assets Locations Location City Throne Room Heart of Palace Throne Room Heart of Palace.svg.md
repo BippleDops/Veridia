@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Throne Room Heart of Palace Throne Room Heart
   of Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city throne room heart of palace throne room
   heart of palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

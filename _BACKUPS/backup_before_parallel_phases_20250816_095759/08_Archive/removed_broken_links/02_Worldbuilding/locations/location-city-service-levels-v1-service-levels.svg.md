@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city service levels v1 service levelssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: location city service levels v1 service levels.svg
 type: location

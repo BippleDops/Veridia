@@ -1,7 +1,7 @@
 ---
 title: [[Aethermoor World Guide
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aethermoor
 - active

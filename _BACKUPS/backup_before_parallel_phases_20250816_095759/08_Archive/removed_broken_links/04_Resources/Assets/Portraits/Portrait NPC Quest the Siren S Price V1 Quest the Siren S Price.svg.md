@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the siren s price v1 quest the siren s pricesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Siren S Price V1 Quest the Siren S Price.svg
 type: npc

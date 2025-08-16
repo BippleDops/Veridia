@@ -2,7 +2,7 @@
 
 title: Counselor Marcus Publicvoice
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

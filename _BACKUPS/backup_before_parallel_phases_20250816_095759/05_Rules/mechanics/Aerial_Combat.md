@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Aerial_Combat
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

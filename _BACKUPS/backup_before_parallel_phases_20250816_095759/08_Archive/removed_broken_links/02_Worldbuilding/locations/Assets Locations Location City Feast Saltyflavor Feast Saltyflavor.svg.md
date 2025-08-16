@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Feast Saltyflavor Feast Saltyflavor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city feast saltyflavor feast saltyflavorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

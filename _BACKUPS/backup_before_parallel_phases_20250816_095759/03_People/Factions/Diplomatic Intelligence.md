@@ -2,7 +2,7 @@
 
 title: Diplomatic Intelligence
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

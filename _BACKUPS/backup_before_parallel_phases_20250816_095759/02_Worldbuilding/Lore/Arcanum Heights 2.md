@@ -7,17 +7,17 @@ government: '[[02_Worldbuilding/Places/Crystalhaven
   Council of Mages'
 parent_location: '[02_Worldbuilding/Places/Crystalhaven]]'
 population: 12000
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/People/Professor Aldric Crystalweaver'
 - '[02_Worldbuilding/Places/Crystal Gardens]]'
 - '[[02_Worldbuilding/Lore/Abyssal Academy'
-specialties: 
+specialties:
 - Advanced Magic Research
 - Artifact Creation
 - Planar Studies
 - Elemental Manipulation
 status: draft
-tags: 
+tags:
 - academia
 - aethermoor
 - content/location

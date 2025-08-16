@@ -2,7 +2,7 @@
 
 title: Wizard Xphb School of Necromancy
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

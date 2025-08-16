@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Circle of Mourners Circle of Mourners.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city circle of mourners circle of mournerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

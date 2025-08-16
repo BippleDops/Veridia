@@ -2,7 +2,7 @@
 
 title: His Eternal Majesty Keeper of the Throne of
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

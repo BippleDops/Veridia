@@ -2,7 +2,7 @@
 
 title: random-yuan-ti-servants-yuan-ti-protectors-vgm
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

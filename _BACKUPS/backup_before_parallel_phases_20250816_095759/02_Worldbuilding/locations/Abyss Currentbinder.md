@@ -2,7 +2,7 @@
 
 title: Abyss Currentbinder
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city crystal keepers v1 crystal keeperssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Crystal Keepers V1 Crystal Keepers.svg
 type: location

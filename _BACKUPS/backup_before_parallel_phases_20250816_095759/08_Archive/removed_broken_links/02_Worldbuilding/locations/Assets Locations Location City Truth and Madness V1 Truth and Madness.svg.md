@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Truth and Madness V1 Truth and Madness.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city truth and madness v1 truth and madnesssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

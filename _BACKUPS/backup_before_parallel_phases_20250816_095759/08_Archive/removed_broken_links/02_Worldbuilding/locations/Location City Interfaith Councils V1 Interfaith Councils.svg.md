@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city interfaith councils v1 interfaith councilssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Interfaith Councils V1 Interfaith Councils.svg
 type: location

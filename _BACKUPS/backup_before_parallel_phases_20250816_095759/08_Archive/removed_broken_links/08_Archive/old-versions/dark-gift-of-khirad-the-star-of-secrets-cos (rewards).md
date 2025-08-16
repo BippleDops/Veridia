@@ -2,7 +2,7 @@
 
 title: dark-gift-of-khirad-the-star-of-secrets-cos (rewards)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

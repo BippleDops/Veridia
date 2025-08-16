@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Port Nimbus V1 Port Nimbus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port nimbus v1 port nimbussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the King S Ears the King S Ears.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the king s ears the king s earssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

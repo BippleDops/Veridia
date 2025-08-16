@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city leviathan shrines v1 leviathan shrinessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Leviathan Shrines V1 Leviathan Shrines.svg
 type: location

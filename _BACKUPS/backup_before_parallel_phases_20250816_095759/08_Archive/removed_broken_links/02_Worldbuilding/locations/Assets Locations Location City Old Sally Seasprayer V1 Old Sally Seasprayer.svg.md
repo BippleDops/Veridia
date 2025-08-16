@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Old Sally Seasprayer V1 Old Sally Seasprayer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city old sally seasprayer v1 old sally seasprayersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Regulatory Guidance
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

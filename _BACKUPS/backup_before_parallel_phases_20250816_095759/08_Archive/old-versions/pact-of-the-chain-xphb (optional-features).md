@@ -2,7 +2,7 @@
 
 title: pact-of-the-chain-xphb (optional-features)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

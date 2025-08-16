@@ -2,7 +2,7 @@
 
 title: House Deepforge
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

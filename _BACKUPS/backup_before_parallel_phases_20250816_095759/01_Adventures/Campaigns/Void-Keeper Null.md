@@ -2,7 +2,7 @@
 
 title: [[Void Keeper
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - world/aquabyssos
 - content/location
@@ -165,7 +165,7 @@ Ongoing situations affecting Void-Keeper :
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

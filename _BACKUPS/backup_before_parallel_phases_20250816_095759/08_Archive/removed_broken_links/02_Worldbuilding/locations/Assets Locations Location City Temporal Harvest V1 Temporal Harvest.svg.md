@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temporal Harvest V1 Temporal Harvest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temporal harvest v1 temporal harvestsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

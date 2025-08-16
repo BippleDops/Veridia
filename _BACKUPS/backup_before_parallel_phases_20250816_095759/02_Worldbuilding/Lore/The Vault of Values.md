@@ -2,7 +2,7 @@
 
 title: The Vault of Values
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

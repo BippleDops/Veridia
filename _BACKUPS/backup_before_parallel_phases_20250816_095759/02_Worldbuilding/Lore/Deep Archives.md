@@ -1,7 +1,7 @@
 ---
 title: Deep Archives
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Prism Sword V1 Prism Sword.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city prism sword v1 prism swordsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

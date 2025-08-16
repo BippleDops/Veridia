@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pearl Harbor City Pearl Harbor City.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pearl harbor city pearl harbor citysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

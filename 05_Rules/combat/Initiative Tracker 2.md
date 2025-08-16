@@ -4,7 +4,7 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 system: D&D 5e
-tags: 
+tags:
 - both
 - complete
 - content/item

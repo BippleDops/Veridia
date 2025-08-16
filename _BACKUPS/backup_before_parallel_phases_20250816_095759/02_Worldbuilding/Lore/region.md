@@ -70,7 +70,7 @@ Possible developments and plot opportunities.
 - [02_Worldbuilding_Groups_Political_Consulting_Guil]]
 - [[02_Worldbuilding_Groups_Pressure_Safety_Authorit
 - [02_Worldbuilding_Groups_Surface_Reconnection_Coalition]]
-- 
+-
 - [[02_Worldbuilding_Groups_The_Memory_Keepers
 - [02_Worldbuilding_Groups_The_Nameless_Librarians]]
 - [[02_Worldbuilding_Groups_The_Pearl_Divers_Guil
@@ -97,7 +97,7 @@ Possible developments and plot opportunities.
 - [02_Worldbuilding_Items_Truth_Crystals]]
 - [[02_Worldbuilding_Locations_Abyssal_Forges
 - [02_Worldbuilding_Locations_Abyssal_Spires]]
-- 
+-
 - [[02_Worldbuilding_Locations_Crystal_Conservatory
 - [02_Worldbuilding_Locations_Floating_Arsenal]]
 - [[02_Worldbuilding_Locations_Sunken_Palace
@@ -156,7 +156,7 @@ Possible developments and plot opportunities.
 - [04_Resources_Handouts_Ships_Player_Handout_Merger_Vessels]]
 - [[06_GM_Resources_Session_Tools_Session_Zero_Guide
 - [07_Player_Resources_Character_Options_Character_Bonds]]
-- 
+-
 - [[1 DM Toolkit Home Dv
 - [1-DM_Toolkit_DM_Board]]
 - [[10-chapter-10-descent-into-the-depths
@@ -236,7 +236,7 @@ Possible developments and plot opportunities.
 - [[Architect Coral Builder
 - [Architect Temporal Wisdom]]
 - [[Architecture Dimensional Bridging
-- 
+-
 - [Archmage Deflector Windturner]]
 - [[Archmage Lyralei Stormwind
 - [Archmage Tidal Currentweave]]
@@ -1595,8 +1595,8 @@ Possible developments and plot opportunities.
 - [[Archaeological Society
 - [Archdeacon Felix Faithkeeper]]
 - [[Archdruid Marina Kelpweaver
-- 
-- 
+-
+-
 - [Archivist Elena Sorrowkeeper]]
 - [[Archivist Reef Bookkeeper
 - [Archkeeper Nereon]]
@@ -2166,7 +2166,7 @@ Possible developments and plot opportunities.
 - [Terminal Master Hadrian Depthbridge]]
 - [[Tethyan Hegemony
 - [The Aether Works]]
-- 
+-
 - [[The Azure Coast
 - [The Bone Colosseum]]
 - [[The Bone Palace of Sorrows
@@ -2210,7 +2210,7 @@ Possible developments and plot opportunities.
 - [[The Frozen Throne
 - [The Gloom Gardens]]
 - [[The Golden Trade Route
-- 
+-
 - [The Grand Bazaar of Echoing Coins]]
 - [[The Great Drowning
 - [The Great Sky Harbor]]
@@ -2232,7 +2232,7 @@ Possible developments and plot opportunities.
 - [The Living Weapon]]
 - [[The Lost Shipment
 - [The Luminous Dawn Cathedral]]
-- 
+-
 - [[The Memory Keepers Guild
 - [The Memory Meadows Black Market]]
 - [[The Memory Palace

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Law Enforcement Medical Support Law Enforcement
   Medical Support.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city law enforcement medical support law
   enforcement medical supportsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -203,7 +203,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -60,7 +60,7 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Crystal Black Market 
+- Moral dilemmas # Quest - The Crystal Black Market
 *The [texture] surface feels [description] to the touch.*---
 
 title: Quest The Crystal Black Market

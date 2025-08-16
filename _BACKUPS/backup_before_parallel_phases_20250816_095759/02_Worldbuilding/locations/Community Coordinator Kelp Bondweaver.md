@@ -2,7 +2,7 @@
 
 title: Community Coordinator Kelp Bondweaver
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Prime Minister Government Leader
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Obsidian Statuette With Gold Fittings and
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

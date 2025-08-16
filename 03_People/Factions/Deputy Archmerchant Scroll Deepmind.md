@@ -2,7 +2,7 @@
 
 title: Deputy Archmerchant Scroll Deepmind
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

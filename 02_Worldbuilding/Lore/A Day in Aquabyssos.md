@@ -1,7 +1,7 @@
 ---
 title: A Day in [[Aquabyssos
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - status/complete

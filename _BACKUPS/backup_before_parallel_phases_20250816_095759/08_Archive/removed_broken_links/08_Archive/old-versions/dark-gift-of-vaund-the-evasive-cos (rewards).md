@@ -2,7 +2,7 @@
 
 title: dark-gift-of-vaund-the-evasive-cos (rewards)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

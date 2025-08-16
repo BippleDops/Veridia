@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Street Urchin Gang V1 Street Urchin Gang.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city street urchin gang v1 street urchin
   gangsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

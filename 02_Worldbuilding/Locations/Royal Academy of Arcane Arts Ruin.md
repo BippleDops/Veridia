@@ -2,7 +2,7 @@
 
 title: Royal Academy of Arcane Arts Ruin
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Trade Specialist Commerce
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

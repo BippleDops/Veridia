@@ -2,7 +2,7 @@
 
 title: The Great Unraveling
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

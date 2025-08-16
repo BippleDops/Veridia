@@ -34,7 +34,7 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections 
+- Connections
 *The air carries the scent of [appropriate smell].*to overarching campaign themes ## Prophecy Connection Mentioned in The First Prophecy of Shadows ## Plot Hooks - A letter reveals a betrayal about a local noble - A stranger needs help stealing before the festival
 - A noble needs help finding before winter ## Religious Observances ### Daily Prayers - Dawn: Gratitude for life
 - Noon: Strength for labor

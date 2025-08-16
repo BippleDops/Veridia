@@ -2,7 +2,7 @@
 
 title: Curse of Eternal Winter
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Astrologer Prime Cassandra Starweaver V1 Astrologer
   Prime Cassandra Starweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city astrologer prime cassandra starweaver
   v1 astrologer prime cassandra starweaversvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

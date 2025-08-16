@@ -2,7 +2,7 @@
 
 title: The Deep Prophecies
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - status/complete
@@ -98,22 +98,22 @@ The Deep Prophecies are a collection of oracular visions, [Prophetic Dreams]], a
 
 *Found carved in impossible script on the ocean floor, discovered 47 years ago*
 
-*"In the depths below depths, [[The First Dreamer stirs.  
-Her dream gave birth to all that is, and all that is not.  
-When last the stars align in sorrow's pattern,  
-When water runs upward and air sinks below,  
-When children are born remembering deaths they have not died,  
-Then shall She open Her eyes.  
+*"In the depths below depths, [[The First Dreamer stirs.
+Her dream gave birth to all that is, and all that is not.
+When last the stars align in sorrow's pattern,
+When water runs upward and air sinks below,
+When children are born remembering deaths they have not died,
+Then shall She open Her eyes.
 
-And in that opening, all dreams shall end,  
-And in that ending, all truth begins.  
-The last tide rises, the final current flows,  
-From deepest dark to highest light,  
-All returns to the Mother's embrace.  
+And in that opening, all dreams shall end,
+And in that ending, all truth begins.
+The last tide rises, the final current flows,
+From deepest dark to highest light,
+All returns to the Mother's embrace.
 
-Seven [Time]]s seven years shall mark Her stirring,  
-Seven by seven shall Her servants gather,  
-Seven and seven more shall reality fracture,  
+Seven [Time]]s seven years shall mark Her stirring,
+Seven by seven shall Her servants gather,
+Seven and seven more shall reality fracture,
 Before the final Seven sound Her name."*
 
 **Interpretation**: This prophecy establishes the 49-year [[Timeline (7×7) from first stirring to final awakening. Currently at year 47, suggesting imminent culmination.
@@ -124,42 +124,42 @@ Before the final Seven sound Her name."*
 
 *Spoken by the dying Parliament Speaker Celestine Voidworth, 23 years ago*
 
-*"In halls where shadows vote with flesh,  
-Where empty seats hold phantom power,  
-The [[People's voice becomes a whisper,  
-And whispers become screaming depths.  
+*"In halls where shadows vote with flesh,
+Where empty seats hold phantom power,
+The [[People's voice becomes a whisper,
+And whispers become screaming depths.
 
-He who speaks for all shall speak for none,  
-She who leads the dance shall dance alone,  
-They who guard the light shall kindle darkness,  
-And darkness shall be called illumination.  
+He who speaks for all shall speak for none,
+She who leads the dance shall dance alone,
+They who guard the light shall kindle darkness,
+And darkness shall be called illumination.
 
-When the Parliament of flesh becomes Parliament of dreams,  
-When the Speaker speaks words not his own,  
-When voting weighs the living and the [Drowned]] equally,  
+When the Parliament of flesh becomes Parliament of dreams,
+When the Speaker speaks words not his own,
+When voting weighs the living and the [Drowned]] equally,
 Then know the Deep Mother counts Her ballots."*
 
 **Interpretation**: Predicts corruption of democratic institutions. The "Parliament of Echoes" mentioned suggests infiltration of the Parliament of Shadows, with "phantom power" indicating non-living entities gaining political influence.
 
 ---
 
-### The [[Merchant's Ledger (Economic Prophecy)  
+### The [[Merchant's Ledger (Economic Prophecy)
 
 *Written in the accounting books of [Meridian Trading Company]], ink changed overnight*
 
-*"Gold flows like water, water flows like memory,  
-Memory flows like time, time flows backward.  
-The greatest merchants shall trade in nothing,  
-Nothing shall be worth everything.  
+*"Gold flows like water, water flows like memory,
+Memory flows like time, time flows backward.
+The greatest merchants shall trade in nothing,
+Nothing shall be worth everything.
 
-Ships arrive before they sail,  
-Cargo unloads itself from empty holds,  
-Customers buy what they already own,  
-Payment comes from pockets that don't exist.  
+Ships arrive before they sail,
+Cargo unloads itself from empty holds,
+Customers buy what they already own,
+Payment comes from pockets that don't exist.
 
-When the ledger balances zero against infinity,  
-When profit is measured in years of life,  
-When the market sells reality by the pound,  
+When the ledger balances zero against infinity,
+When profit is measured in years of life,
+When the market sells reality by the pound,
 Then the Deep Mother collects Her due."*
 
 **Interpretation**: Predicts economic collapse through [[Reality Distortion. References to temporal paradoxes in commerce match current anomalies at Echo Marina breach site.
@@ -170,19 +170,19 @@ Then the Deep Mother collects Her due."*
 
 *Transmitted through crystal [Communication Networks]] during harmonic alignment*
 
-*"In harmony discord, in order chaos,  
-The crystals sing what should not be sung,  
-Their light illuminates the spaces between spaces,  
-Their resoce cracks the shell of is.  
+*"In harmony discord, in order chaos,
+The crystals sing what should not be sung,
+Their light illuminates the spaces between spaces,
+Their resoce cracks the shell of is.
 
-Seven nodes shall sing in unison,  
-Seven frequencies shall break the world,  
-Seven harmonies shall open doorways,  
-Through which the Deep Mother shall step.  
+Seven nodes shall sing in unison,
+Seven frequencies shall break the world,
+Seven harmonies shall open doorways,
+Through which the Deep Mother shall step.
 
-The [[Crystal_Heart|Crystal Heart beats in dimensions  
-Where geometry has no meaning,  
-Where mathematics serves madness,  
+The [[Crystal_Heart|Crystal Heart beats in dimensions
+Where geometry has no meaning,
+Where mathematics serves madness,
 And logic kneels to deeper law."*
 
 **Interpretation**: Predicts corruption of [Crystal Technology]] and communication networks. The "seven nodes" may reference reality anchors, suggesting they could be turned to facilitate rather than prevent awakening.
@@ -193,19 +193,19 @@ And logic kneels to deeper law."*
 
 *Discovered in the medical notes of Dr. Harmony Whisperfall, written during parasitic infection*
 
-*"Flesh remembers what it was before it was,  
-Bone recalls the sea from whence it came,  
-Blood flows with tides of ancient waters,  
-And breath carries whispers from the depths.  
+*"Flesh remembers what it was before it was,
+Bone recalls the sea from whence it came,
+Blood flows with tides of ancient waters,
+And breath carries whispers from the depths.
 
-The body is but dream of form,  
-The mind but echo of greater thought,  
-When dream and echo find their source,  
-Then transformation is complete.  
+The body is but dream of form,
+The mind but echo of greater thought,
+When dream and echo find their source,
+Then transformation is complete.
 
-First come the children of two worlds,  
-Then the dwellers in between,  
-Last the perfect unity,  
+First come the children of two worlds,
+Then the dwellers in between,
+Last the perfect unity,
 Where individual becomes impossible."*
 
 **Interpretation**: Describes stages of human transformation under [[Deep Mother Influence. "Children of two worlds" likely refers to pressure adaptation, "dwellers in between" to parasitic symbiosis, and "perfect unity" to complete ego dissolution.
@@ -214,46 +214,46 @@ Where individual becomes impossible."*
 
 *Collected from students' dream journals at various academies*
 
-*"Knowledge drowns the seeker,  
-Truth breathes water into lungs of thought,  
-The deepest studies yield the highest madness,  
+*"Knowledge drowns the seeker,
+Truth breathes water into lungs of thought,
+The deepest studies yield the highest madness,
 And the wisest scholars speak in bubbles."*
 
 ### The [[Lighthouse Keeper's Warning
 
 *Found scratched into lighthouse walls across both realms*
 
-*"Light points inward where it should shine out,  
-Beacons guide ships to perfect emptiness,  
-Safe harbor becomes dangerous depths,  
+*"Light points inward where it should shine out,
+Beacons guide ships to perfect emptiness,
+Safe harbor becomes dangerous depths,
 And depths become the only safety."*
 
-### The Memory Merchant's Advertisement  
+### The Memory Merchant's Advertisement
 
 *Appears randomly in newspapers and proclamations*
 
-*"For sale: The concept of permanence  
-Slightly used, some temporal wear  
-Will trade for a moment that never happened  
-Or a name that was never spoken  
+*"For sale: The concept of permanence
+Slightly used, some temporal wear
+Will trade for a moment that never happened
+Or a name that was never spoken
 
-Inquire within the space between thoughts  
-Payment due before transaction is considered  
-References from alternate timelines preferred  
+Inquire within the space between thoughts
+Payment due before transaction is considered
+References from alternate timelines preferred
 No returns after reality collapses"*
 
 ### The Children's Rhyme
 
 *Sung by children born near reality breaches*
 
-*"Mother dear in waters deep,  
-Watches over us while we sleep,  
-When we wake she'll still be there,  
-Swimming through our morning prayer.  
+*"Mother dear in waters deep,
+Watches over us while we sleep,
+When we wake she'll still be there,
+Swimming through our morning prayer.
 
-Rock-a-bye in cradle-wave,  
-Every breath the ocean gave,  
-If we're good and if we're true,  
+Rock-a-bye in cradle-wave,
+Every breath the ocean gave,
+If we're good and if we're true,
 Mother's dreams will swallow you."*
 
 ### The Mathematical Proof of Impermanence
@@ -284,7 +284,7 @@ Mother's dreams will swallow you."*
 
 ---
 
-### The Consciousness Coefficient  
+### The Consciousness Coefficient
 
 *Theorized by [Academy of Deep Understanding]] researchers*
 
@@ -296,47 +296,47 @@ Mother's dreams will swallow you."*
 
 ### The Codex Abyssos
 
-**Physical Description**: Tome bound in scales from impossible fish, pages made from pressed water  
-**Origin**: Found in the deepest ocean trenches, predates known civilization  
-**Contents**: 347 pages of prophecies written in language that translates itself based on reader's fears  
-**[[location**: Hidden vault beneath Aquabyssos Academy  
-**Access**: Requires three keys held by different [Organization]]s  
+**Physical Description**: Tome bound in scales from impossible fish, pages made from pressed water
+**Origin**: Found in the deepest ocean trenches, predates known civilization
+**Contents**: 347 pages of prophecies written in language that translates itself based on reader's fears
+**[[location**: Hidden vault beneath Aquabyssos Academy
+**Access**: Requires three keys held by different [Organization]]s
 **Sanity Cost**: `dice: 1d4` per page read, contains answers to questions not yet asked
 
 ### The Stellar Manuscript
 
-**Physical Description**: Star charts that show constellations from other realities  
-**Origin**: Received through telescope transmissions at Observatory of Broken Stars  
-**Contents**: Astronomical prophecies about reality alignment events  
-**Location**: Observatory vault, requires specialized equipment to read safely  
-**Access**: Observatory staff only (most are now corrupted)  
+**Physical Description**: Star charts that show constellations from other realities
+**Origin**: Received through telescope transmissions at Observatory of Broken Stars
+**Contents**: Astronomical prophecies about reality alignment events
+**Location**: Observatory vault, requires specialized equipment to read safely
+**Access**: Observatory staff only (most are now corrupted)
 **Sanity Cost**: `dice: 1d6` per constellation studied, reveals when "stars are right" for various rituals
 
 ### The Living Ledger
 
-**Physical Description**: Account book that writes itself in real-time  
-**Origin**: Spontaneously manifested at Meridian Trading Company  
-**Contents**: Economic prophecies written as shipping manifests and ficial records  
-**Location**: Meridian Trading Company headquarters, closely guarded  
-**Access**: Senior merchants and accounting staff  
+**Physical Description**: Account book that writes itself in real-time
+**Origin**: Spontaneously manifested at Meridian Trading Company
+**Contents**: Economic prophecies written as shipping manifests and ficial records
+**Location**: Meridian Trading Company headquarters, closely guarded
+**Access**: Senior merchants and accounting staff
 **Sanity Cost**: Minimal (`dice: 1d4` per major revelation) but creates obsession with cosmic economics
 
 ### The Dream Archive
 
-**Physical Description**: Collection of preserved dreams in crystal orbs  
-**Origin**: Gathered from individuals experiencing prophetic dreams  
-**Contents**: Visual prophecies that play out when crystals are activated  
-**Location**: Parliament of Shadows secret chamber  
-**Access**: High-ranking Parliament members only  
+**Physical Description**: Collection of preserved dreams in crystal orbs
+**Origin**: Gathered from individuals experiencing prophetic dreams
+**Contents**: Visual prophecies that play out when crystals are activated
+**Location**: Parliament of Shadows secret chamber
+**Access**: High-ranking Parliament members only
 **Sanity Cost**: `dice: 2d6` per dream viewed, but provides perfect accuracy about one future event
 
 ### The Pressure Plates
 
-**Physical Description**: Metal tablets that exist only under crushing pressure  
-**Origin**: Discovered by deep-sea mining operations  
-**Contents**: Prophecies visible only when underwater at specific depths  
-**Location**: Various deep ocean sites, require specialized equipment  
-**Access**: Deep sea exploration guilds and cult diving operations  
+**Physical Description**: Metal tablets that exist only under crushing pressure
+**Origin**: Discovered by deep-sea mining operations
+**Contents**: Prophecies visible only when underwater at specific depths
+**Location**: Various deep ocean sites, require specialized equipment
+**Access**: Deep sea exploration guilds and cult diving operations
 **Sanity Cost**: `dice: 1d6` per plate, but grants understanding of Deep Mother's physical nature
 
 ### Truth Verification
@@ -406,7 +406,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

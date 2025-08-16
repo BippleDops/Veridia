@@ -1,11 +1,11 @@
 ---
 
 title: Assets Handouts Handout Handout Council Summons Notice V3 Council Summons Notice.png
-aliases: 
+aliases:
 - 04 Resources Assets Handouts handout handout council summons notice v3 council summons
   noticepng
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization
@@ -213,7 +213,7 @@ What they claim to pursue
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

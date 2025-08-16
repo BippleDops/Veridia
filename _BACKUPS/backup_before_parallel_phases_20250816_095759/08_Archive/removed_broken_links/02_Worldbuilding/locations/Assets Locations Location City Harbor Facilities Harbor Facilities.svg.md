@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Harbor Facilities Harbor Facilities.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor facilities harbor facilitiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

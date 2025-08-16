@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city emergency life support research foundation v1 emergency life support
   research foundationsvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Emergency Life Support Research Foundation V1 Emergency Life
   Support Research Foundation.svg

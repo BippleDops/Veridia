@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Warrior Scarredheart V1 Warrior Scarredheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city warrior scarredheart v1 warrior scarredheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

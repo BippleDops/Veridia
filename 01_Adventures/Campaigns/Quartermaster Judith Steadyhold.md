@@ -2,7 +2,7 @@
 
 title: Quartermaster Judith Steadyhold
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -170,7 +170,7 @@ Ongoing situations affecting Quartermaster Judith Steadyhold:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Parliament of Shadow
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

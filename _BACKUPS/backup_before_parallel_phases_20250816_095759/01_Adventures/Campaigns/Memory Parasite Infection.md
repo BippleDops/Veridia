@@ -2,7 +2,7 @@
 
 title: Memory Parasite Infection
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - memory

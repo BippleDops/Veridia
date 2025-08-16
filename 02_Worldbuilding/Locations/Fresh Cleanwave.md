@@ -2,7 +2,7 @@
 
 title: Fresh Cleanwave
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

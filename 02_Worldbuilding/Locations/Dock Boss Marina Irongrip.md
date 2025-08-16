@@ -2,7 +2,7 @@
 
 title: Dock Boss Marina Irongrip
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Trap Effects Trap Save Dcs and Attack Bonuses
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Reef Shark V1 Reef Shark.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reef shark v1 reef sharksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

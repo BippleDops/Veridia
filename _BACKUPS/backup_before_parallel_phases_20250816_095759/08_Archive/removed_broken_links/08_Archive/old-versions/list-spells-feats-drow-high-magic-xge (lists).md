@@ -2,7 +2,7 @@
 
 title: list-spells-feats-drow-high-magic-xge (lists)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

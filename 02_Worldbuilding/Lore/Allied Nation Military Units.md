@@ -2,7 +2,7 @@
 
 title: Allied Nation Military Units
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

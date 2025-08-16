@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Consortium Security Constructs Consortium Security
   Constructs.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry consortium security constructs consortium
   security constructssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Pressure Weighted Representation V1 Pressure
   Weighted Representation.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure weighted representation v1
   pressure weighted representationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

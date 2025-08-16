@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Archivist Methodius Recordkeeper V1 Archivist
   Methodius Recordkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archivist methodius recordkeeper v1
   archivist methodius recordkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

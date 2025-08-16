@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city aquabyssos government v1 aquabyssos governmentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Aquabyssos Government V1 Aquabyssos Government.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: Seven_Shards_Legend_Summary
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -47,7 +47,7 @@ Detailed description pending.
 
 ### Primary
 
-- Main 
+- Main
 *The [texture] surface feels [description] to the touch.*quest goal ### Optional
 
 - Secondary objectives

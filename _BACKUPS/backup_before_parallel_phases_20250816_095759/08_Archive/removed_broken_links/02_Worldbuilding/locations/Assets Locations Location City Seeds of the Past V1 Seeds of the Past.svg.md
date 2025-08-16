@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Seeds of the Past V1 Seeds of the Past.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city seeds of the past v1 seeds of the pastsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

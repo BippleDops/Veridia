@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Memory Storm Fields V1 the Memory Storm
   Fields.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the memory storm fields v1 the memory
   storm fieldssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

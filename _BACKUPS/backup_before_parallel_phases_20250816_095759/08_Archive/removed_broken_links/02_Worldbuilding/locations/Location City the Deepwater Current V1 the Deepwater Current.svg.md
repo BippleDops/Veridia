@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the deepwater current v1 the deepwater currentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Deepwater Current V1 the Deepwater Current.svg
 type: location

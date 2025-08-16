@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc sea spirit priests v2 sea spirit priestssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Sea Spirit Priests V2 Sea Spirit Priests.svg
 type: npc

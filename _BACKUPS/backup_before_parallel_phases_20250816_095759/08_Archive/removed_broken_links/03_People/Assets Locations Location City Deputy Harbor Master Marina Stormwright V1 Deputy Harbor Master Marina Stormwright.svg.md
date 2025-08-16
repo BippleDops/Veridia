@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Deputy Harbor Master Marina Stormwright V1 Deputy
   Harbor Master Marina Stormwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deputy harbor master marina stormwright
   v1 deputy harbor master marina stormwrightsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

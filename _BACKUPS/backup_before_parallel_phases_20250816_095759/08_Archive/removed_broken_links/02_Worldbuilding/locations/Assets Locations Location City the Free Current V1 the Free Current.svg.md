@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Free Current V1 the Free Current.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the free current v1 the free currentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -172,7 +172,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

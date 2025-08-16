@@ -3,7 +3,7 @@ enhanced: true
 
 title: Mechanics Dimensional Travel
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - conspiracy

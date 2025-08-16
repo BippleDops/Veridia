@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Depth Wardens Depth Wardens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city depth wardens depth wardenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

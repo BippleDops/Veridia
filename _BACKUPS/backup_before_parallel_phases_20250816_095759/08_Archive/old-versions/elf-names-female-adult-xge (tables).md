@@ -2,7 +2,7 @@
 
 title: elf-names-female-adult-xge (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

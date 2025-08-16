@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city high hierophant meridius v1 high hierophant meridiussvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City High Hierophant Meridius V1 High Hierophant Meridius.svg
 type: location

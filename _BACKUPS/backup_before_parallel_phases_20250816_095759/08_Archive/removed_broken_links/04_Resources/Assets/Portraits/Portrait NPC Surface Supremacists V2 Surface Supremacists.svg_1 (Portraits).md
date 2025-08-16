@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc surface supremacists v2 surface supremacistssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Surface Supremacists V2 Surface Supremacists.svg
 type: npc

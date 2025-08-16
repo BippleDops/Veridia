@@ -1,7 +1,7 @@
 ---
 title: New Thalassopolis
 type: Location
-tags: 
+tags:
 - place
 - both
 - active

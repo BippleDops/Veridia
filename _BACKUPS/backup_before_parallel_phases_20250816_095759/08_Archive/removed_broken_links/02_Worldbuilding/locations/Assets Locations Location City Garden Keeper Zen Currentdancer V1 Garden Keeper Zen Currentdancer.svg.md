@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Garden Keeper Zen Currentdancer V1 Garden Keeper
   Zen Currentdancer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city garden keeper zen currentdancer v1 garden
   keeper zen currentdancersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

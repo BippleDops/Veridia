@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memory sharing techniques v1 memory sharing techniquessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memory Sharing Techniques V1 Memory Sharing Techniques.svg
 type: location

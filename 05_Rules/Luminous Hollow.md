@@ -1,7 +1,7 @@
 ---
 title: Luminous Hollow
 type: Location
-tags: 
+tags:
 - [[Aquabyssos
 - cave
 - status/complete

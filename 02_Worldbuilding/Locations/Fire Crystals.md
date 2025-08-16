@@ -2,7 +2,7 @@
 
 title: [[Fire Crystals
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Cultural Integration Council
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Comparative Religion V1 Comparative Religion.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city comparative religion v1 comparative
   religionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

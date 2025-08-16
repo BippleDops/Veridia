@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pearl Sharpedge V1 Pearl Sharpedge.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pearl sharpedge v1 pearl sharpedgesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -186,7 +186,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

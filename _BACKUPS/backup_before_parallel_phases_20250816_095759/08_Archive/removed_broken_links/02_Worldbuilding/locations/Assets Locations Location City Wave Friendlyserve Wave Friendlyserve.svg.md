@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wave Friendlyserve Wave Friendlyserve.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wave friendlyserve wave friendlyservesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

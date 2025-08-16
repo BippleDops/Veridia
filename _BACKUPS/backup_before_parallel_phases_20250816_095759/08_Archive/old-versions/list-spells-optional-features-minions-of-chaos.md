@@ -2,7 +2,7 @@
 
 title: list-spells-optional-features-minions-of-chaos
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

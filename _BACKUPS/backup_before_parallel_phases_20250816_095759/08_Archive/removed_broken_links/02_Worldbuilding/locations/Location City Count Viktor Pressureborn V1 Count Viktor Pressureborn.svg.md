@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city count viktor pressureborn v1 count viktor pressurebornsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Count Viktor Pressureborn V1 Count Viktor Pressureborn.svg
 type: location

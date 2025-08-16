@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Harvester Keth Reefrender Harvester Keth Reefrender.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harvester keth reefrender harvester
   keth reefrendersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

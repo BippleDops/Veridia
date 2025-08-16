@@ -2,7 +2,7 @@
 
 title: Community Support Programs
 type: [[location
-tags: 
+tags:
 - place
 - active
 - location

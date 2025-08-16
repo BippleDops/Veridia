@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Commercial District V1 Commercial District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city commercial district v1 commercial districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -190,7 +190,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

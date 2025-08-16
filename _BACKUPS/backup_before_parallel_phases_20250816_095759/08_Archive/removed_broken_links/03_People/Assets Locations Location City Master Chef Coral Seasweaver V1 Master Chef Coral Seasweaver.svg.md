@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Chef Coral Seasweaver V1 Master Chef
   Coral Seasweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master chef coral seasweaver v1 master
   chef coral seasweaversvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -217,7 +217,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

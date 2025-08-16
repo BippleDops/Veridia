@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Crystal Merchant the Crystal Merchant.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal merchant the crystal merchantsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: INDEX (Journeys_through_the_Radiant_Citadel)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

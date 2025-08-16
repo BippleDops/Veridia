@@ -1,7 +1,7 @@
 ---
 title: Major [[Npcs
 type: npc
-tags: 
+tags:
 - npc
 - gnome
 - ranger

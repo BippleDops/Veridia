@@ -2,7 +2,7 @@
 
 title: The Deep Patrol
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - status/complete
 - military

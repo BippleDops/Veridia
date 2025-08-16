@@ -2,7 +2,7 @@
 
 title: Tethyan Basin
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

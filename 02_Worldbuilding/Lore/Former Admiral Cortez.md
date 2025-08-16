@@ -2,7 +2,7 @@
 
 title: Former Admiral Cortez
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

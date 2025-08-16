@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the screaming battleground v1 the screaming battlegroundsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Screaming Battleground V1 the Screaming Battleground.svg
 type: location

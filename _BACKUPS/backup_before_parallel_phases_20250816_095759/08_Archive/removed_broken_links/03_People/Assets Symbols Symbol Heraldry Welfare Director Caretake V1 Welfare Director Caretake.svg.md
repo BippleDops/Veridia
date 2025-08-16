@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Welfare Director Caretake V1 Welfare Director
   Caretake.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry welfare director caretake v1 welfare
   director caretakesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

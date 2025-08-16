@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Countess Marina Stormcrest Countess Marina Stormcrest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city countess marina stormcrest countess
   marina stormcrestsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

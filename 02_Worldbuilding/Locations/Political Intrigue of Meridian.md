@@ -2,7 +2,7 @@
 
 title: Political Intrigue of Meridian
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - power-struggle

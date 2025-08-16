@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Departments/Conflict Resolution Division
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

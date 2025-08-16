@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city political intrigue of meridian political intrigue of meridiansvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Political Intrigue of Meridian Political Intrigue of Meridian.svg
 type: location

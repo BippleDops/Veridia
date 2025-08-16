@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city police chief sarah lawkeeper v1 police chief sarah lawkeepersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Police Chief Sarah Lawkeeper V1 Police Chief Sarah Lawkeeper.svg
 type: location

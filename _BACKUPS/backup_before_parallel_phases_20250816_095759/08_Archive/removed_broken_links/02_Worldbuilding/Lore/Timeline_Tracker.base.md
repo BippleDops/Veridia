@@ -1,10 +1,10 @@
 ---
 
 title: [[Time|[Timeline]] Tracker.base
-aliases: 
+aliases:
 - Timeline Trackerbase
 type: [[Lore
-tags: 
+tags:
 - lore
 - status/complete
 - chronology

@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 - Create New Sessionpng
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags: 
+tags:
 - lore
 title: Create New Session.png
 type: session

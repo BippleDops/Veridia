@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the depth plague the depth plaguesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Depth Plague the Depth Plague.svg
 type: location

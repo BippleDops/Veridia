@@ -2,7 +2,7 @@
 
 title: list-spells-feats-ritual-caster-xphb (lists)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

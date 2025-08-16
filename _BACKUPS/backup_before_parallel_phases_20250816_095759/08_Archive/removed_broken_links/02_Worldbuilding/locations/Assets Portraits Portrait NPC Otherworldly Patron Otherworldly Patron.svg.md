@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Otherworldly Patron Otherworldly Patron.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc otherworldly patron otherworldly patronsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -204,7 +204,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

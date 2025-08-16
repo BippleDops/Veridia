@@ -2,7 +2,7 @@
 
 title: Poseidon
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -160,7 +160,7 @@ Ongoing situations affecting Poseidon:
 - **Dragon**: metallic
   - Traits: standard
   - CR Range: 9
-  
+
 ### [[Environmental Hazards
 - Pit trap
 - **DC 10** to detect
@@ -178,7 +178,7 @@ Ongoing situations affecting Poseidon:
 - **Recent History**: Plague 19 years ago
 - **Living Memory**: Wedding last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Festival in 12 days
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: [Link]]s to The Hidden Prophecy of Shadows

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Manta Ray Manta Ray.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city manta ray manta raysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

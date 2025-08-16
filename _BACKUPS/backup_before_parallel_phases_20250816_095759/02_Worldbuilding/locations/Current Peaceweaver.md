@@ -2,7 +2,7 @@
 
 title: Current Peaceweaver
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

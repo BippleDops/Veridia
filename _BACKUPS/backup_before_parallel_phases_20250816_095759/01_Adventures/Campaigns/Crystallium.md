@@ -2,7 +2,7 @@
 
 title: Crystallium
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/location
@@ -27,7 +27,7 @@ depth: 8,000 feet below surface
 government: '[The Crystal Academy Council]]'
 leader: '[[Master Crystallographer Aurora Prismheart]]'
 obsidianUIMode: preview
-specialties: 
+specialties:
 - Crystal Research
 - Pressure Magic
 - Deep Science
@@ -204,7 +204,7 @@ Creating defensive technologies for [The Lock]] and other critical facilities:
 - Early warning systems for threats from [[The Hadal Depths
 - Communication networks resistant to extreme conditions
 
-### 
+###
 Preserving the knowledge and experiences of pre-Drowning civilization:
 - Recovery of surface world memories from survivors
 - Documentation of lost technologies and magical techniques
@@ -345,7 +345,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

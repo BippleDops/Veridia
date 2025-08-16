@@ -1,7 +1,7 @@
 ---
 title: The Abyss Beneath [[Aquabyssos
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - mystery

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc surface liaison captain reed bridgewater surface liaison captain reed
   bridgewatersvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Surface Liaison Captain Reed Bridgewater Surface Liaison Captain
   Reed Bridgewater.svg

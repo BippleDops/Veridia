@@ -2,7 +2,7 @@
 
 title: [[locations Crystal Conservatory
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

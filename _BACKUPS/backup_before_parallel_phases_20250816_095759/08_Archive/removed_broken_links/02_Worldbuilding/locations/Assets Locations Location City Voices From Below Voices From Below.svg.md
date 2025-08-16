@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Voices From Below Voices From Below.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city voices from below voices from belowsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

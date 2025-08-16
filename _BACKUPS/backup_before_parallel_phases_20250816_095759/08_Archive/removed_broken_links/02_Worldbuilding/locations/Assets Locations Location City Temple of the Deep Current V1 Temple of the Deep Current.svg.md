@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple of the Deep Current V1 Temple of the
   Deep Current.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of the deep current v1 temple
   of the deep currentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

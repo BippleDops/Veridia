@@ -2,7 +2,7 @@
 
 title: [[Crystal Corruption Taboos
 type: [Lore]]
-tags: 
+tags:
 - traditional-beliefs
 - historical-trauma
 - aquatic

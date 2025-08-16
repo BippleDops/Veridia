@@ -2,7 +2,7 @@
 
 title: Temple Guardian Marcus the Drowned
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -148,19 +148,19 @@ The Drowned Temple represents one of [Aquabyssos]]'s most mysterious and spiritu
 **Knowledge**: Possesses encyclopedic knowledge of the temple's history and can provide context for unusual spiritual events or ritual variations.
 
 ### The Lost Pilgrimage
-**Level**: 6-12  
+**Level**: 6-12
 **Mystery**: A group of prominent pilgrims has disappeared during their journey to the temple, and their families fear they have been murdered rather than achieving sacred transformation. The characters must investigate what happened while respecting the temple's sacred nature and navigating the complex spiritual politics surrounding the disappearances.
 
 ### The Sacred Relic Quest
-**Level**: 8-14  
+**Level**: 8-14
 **Mission**: Ancient texts speak of a divine artifact hidden within the temple that could purify the corruption spreading through [[Aquabyssos's waters. The characters must prove their worthiness to Marcus and undergo spiritual trials to locate the relic, facing both physical dangers and spiritual challenges that test their faith and resolve.
 
 ### The False Guardian
-**Level**: 7-13  
+**Level**: 7-13
 **Deception**: Someone claiming to be another drowned guardian has appeared, challenging Marcus's authority and performing competing rituals that may be corrupting the temple's sacred nature. The characters must determine which guardian is authentic while avoiding spiritual contamination from false teachings.
 
 ### The Resurrection Crisis
-**Level**: 9-15  
+**Level**: 9-15
 **Emergency**: The temple's spiritual balance has been disrupted, causing the dead to rise improperly and threaten both the temple and surrounding areas. The characters must work with Marcus to restore proper order while protecting pilgrims and investigating the source of the disruption.
 
 ### The Original Drowning

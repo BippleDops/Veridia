@@ -2,7 +2,7 @@
 
 title: The Crimson Foundries
 type: [[location
-tags: 
+tags:
 - both
 - quest
 - world/both

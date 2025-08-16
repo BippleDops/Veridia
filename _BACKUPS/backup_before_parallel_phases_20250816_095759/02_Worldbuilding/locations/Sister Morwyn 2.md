@@ -6,7 +6,7 @@ current_state: Active memorial site
 danger_level: 3
 depth: 2500-2800 feet
 discovered: true
-factions: 
+factions:
 - '[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order
   Of The Drowned Star'
 - '[02_Worldbuilding/Places/Keepers of Memory]]'
@@ -14,7 +14,7 @@ factions:
 government: Sacred Trust
 location_name: Sister Morwyn's Memorial Sanctuary
 location_type: Sacred Memorial Site
-notable_npcs: 
+notable_npcs:
 - '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper'
 - '[02_Worldbuilding/Places/Brother Thaddeus the Rememberer]]'
 - '[[02_Worldbuilding/Places/Echo-Keeper Selin'
@@ -23,7 +23,7 @@ parent_location: '[02_Worldbuilding/Places/Abyssos Prime]]'
 population: 50
 pressure_effects: Moderate
 ruler: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper'
-services: 
+services:
 - Death Rites
 - Memory Preservation
 - Final Forgiveness
@@ -31,12 +31,12 @@ services:
 - Grief Counseling
 shadow_density: Low
 status: complete
-sub_locations: 
+sub_locations:
 - '[02_Worldbuilding/Places/The Archive of Unremembered Things]]'
 - '[[02_Worldbuilding/Lore/The Memory Vaults]]'
 - 'Garden Of Whispered Names'
 - 'Hall Of Final Echoes'
-tags: 
+tags:
 - both
 - complete
 - content/location

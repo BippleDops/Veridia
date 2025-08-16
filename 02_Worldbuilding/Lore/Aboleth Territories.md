@@ -2,7 +2,7 @@
 
 title: [[Aboleth Territories
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -2,7 +2,7 @@
 
 title: Wind Songs
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

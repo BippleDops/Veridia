@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Procedures/Energy State Conversion
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

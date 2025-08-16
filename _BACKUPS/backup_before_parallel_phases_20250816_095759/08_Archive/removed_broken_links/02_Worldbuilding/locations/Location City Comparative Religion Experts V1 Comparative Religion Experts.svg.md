@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city comparative religion experts v1 comparative religion expertssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Comparative Religion Experts V1 Comparative Religion Experts.svg
 type: location

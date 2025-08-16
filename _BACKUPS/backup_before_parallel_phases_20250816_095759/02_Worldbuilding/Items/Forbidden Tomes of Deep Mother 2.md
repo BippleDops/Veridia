@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags: 
+tags:
 - books
 - both
 - complete
@@ -40,7 +40,7 @@ These accursed texts contain knowledge about the Deep Mother, her servants, the 
 
 **Contents**: 347 pages covering:
 - Deep Mother's nature and true names (pages 1-49)
-- History of reality as dream construct (pages 50-98)  
+- History of reality as dream construct (pages 50-98)
 - Biological transformation processes (pages 99-147)
 - Ritual instructions for awakening ceremonies (pages 148-196)
 - Prophecies of the final awakening (pages 197-245)
@@ -55,7 +55,7 @@ These accursed texts contain knowledge about the Deep Mother, her servants, the 
 
 **Sanity Costs by Section**:
 - **Basic Nature (pages 1-49)**: `dice: 1d4` per page, **DC 15** Wisdom save for half
-- **Reality History (pages 50-98)**: `dice: 1d6` per page, **DC 17** Wisdom save for half  
+- **Reality History (pages 50-98)**: `dice: 1d6` per page, **DC 17** Wisdom save for half
 - **Transformation Guide (pages 99-147)**: `dice: 2d4` per page, **DC 19** Wisdom save for half
 - **Awakening Rituals (pages 148-196)**: `dice: 2d6` per page, **DC 21** Wisdom save for half
 - **Final Prophecies (pages 197-245)**: `dice: 3d4` per page, **DC 23** Wisdom save for half
@@ -144,7 +144,7 @@ These accursed texts contain knowledge about the Deep Mother, her servants, the 
 
 **Contents**: Continuously updating sections on:
 - Trades between dimensional merchants
-- Market values for concepts like "hope," "memory," and "identity"  
+- Market values for concepts like "hope," "memory," and "identity"
 - Economic forecasts for reality collapse scenarios
 - Investment opportunities in post-awakening economy
 - Shipping manifests for impossible cargo
@@ -158,7 +158,7 @@ These accursed texts contain knowledge about the Deep Mother, her servants, the 
 
 **Sanity Costs by Section Type**:
 - **Basic Interdimensional Commerce**: `dice: 1d3` per major transaction reviewed
-- **Concept Trading Records**: `dice: 1d4` per abstract concept studied  
+- **Concept Trading Records**: `dice: 1d4` per abstract concept studied
 - **Reality Collapse Economics**: `dice: 1d6` per financial model examined
 - **Post-Awakening Markets**: `dice: 2d4` per future scenario analyzed
 - **Impossible Logistics**: `dice: 1d4` per shipping record studied
@@ -251,7 +251,7 @@ These accursed texts contain knowledge about the Deep Mother, her servants, the 
 
 **Contents**: Each crystal contains different categories of dreams:
 - **Crystal 1**: Prophetic dreams about immediate future (1-30 days)
-- **Crystal 2**: Historical dreams showing Deep Mother's past manifestations  
+- **Crystal 2**: Historical dreams showing Deep Mother's past manifestations
 - **Crystal 3**: Transformation dreams from willing cultists
 - **Crystal 4**: Nightmares from those who resisted cult recruitment
 - **Crystal 5**: Dreams of the post-awakening world

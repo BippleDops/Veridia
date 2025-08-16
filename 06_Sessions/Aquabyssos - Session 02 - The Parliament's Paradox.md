@@ -2,7 +2,7 @@
 
 title: Aquabyssos - Session 02 - [[The Parliament's Paradox
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

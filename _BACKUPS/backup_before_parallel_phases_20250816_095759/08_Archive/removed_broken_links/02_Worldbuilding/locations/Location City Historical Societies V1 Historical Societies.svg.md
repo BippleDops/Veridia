@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city historical societies v1 historical societiessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Historical Societies V1 Historical Societies.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Current Solidarity V1 Current Solidarity.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city current solidarity v1 current solidaritysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -189,7 +189,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

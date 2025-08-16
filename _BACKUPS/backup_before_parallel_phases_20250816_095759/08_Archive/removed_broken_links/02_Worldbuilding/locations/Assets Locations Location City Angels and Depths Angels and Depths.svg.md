@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Angels and Depths Angels and Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city angels and depths angels and depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

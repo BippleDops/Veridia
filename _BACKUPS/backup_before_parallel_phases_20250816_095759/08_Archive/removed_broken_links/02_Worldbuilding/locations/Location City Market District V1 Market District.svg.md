@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city market district v1 market districtsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Market District V1 Market District.svg
 type: location

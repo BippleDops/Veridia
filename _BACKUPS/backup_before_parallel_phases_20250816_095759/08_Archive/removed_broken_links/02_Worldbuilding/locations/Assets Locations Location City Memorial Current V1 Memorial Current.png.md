@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Memorial Current V1 Memorial Current.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memorial current v1 memorial currentpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

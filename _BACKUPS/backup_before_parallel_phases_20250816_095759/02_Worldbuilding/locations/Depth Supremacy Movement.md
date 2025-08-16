@@ -2,7 +2,7 @@
 
 title: Depth Supremacy Movement
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Underwater Cuisine Techniques
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Shadow Marina
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - world/aquabyssos

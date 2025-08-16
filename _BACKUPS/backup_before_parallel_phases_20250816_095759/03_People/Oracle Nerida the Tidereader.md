@@ -1,7 +1,7 @@
 ---
 title: Oracle Nerida the Tidereader
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - oracle
 - status/complete

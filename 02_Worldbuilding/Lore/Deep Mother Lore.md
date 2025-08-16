@@ -2,7 +2,7 @@
 
 title: Deep Mother Lore
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

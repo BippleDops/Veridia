@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the crystal cathedral of pure light v1 the crystal cathedral of pure
   lightsvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral
   of Pure Light.svg

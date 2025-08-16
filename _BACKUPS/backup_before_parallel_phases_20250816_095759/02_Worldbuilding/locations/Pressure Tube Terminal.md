@@ -2,7 +2,7 @@
 
 title: Pressure Tube Terminal
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -124,7 +124,7 @@ Advanced technical facilities where tube maintece crews service the transport po
 **Goals**: Maximizing transportation efficiency while ensuring passenger safety and comfort
 
 ### Security Chief Commander Guard Pressurewatch
-**Role**: Director of Terminal Security and Anti-Terrorism Operations  
+**Role**: Director of Terminal Security and Anti-Terrorism Operations
 **Personality**: Vigilant protector with expertise in crowd control and threat assessment
 **Goals**: Maintaining terminal security without disrupting the flow of legitimate commerce and travel
 
@@ -311,7 +311,7 @@ Ongoing situations affecting Pressure Tube Terminal:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

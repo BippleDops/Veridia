@@ -2,7 +2,7 @@
 
 title: Memory Merchant Zephyr Mindweaver
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - mechanics/magic
@@ -103,19 +103,19 @@ improvements: 20
 
 ## Stat Block
 
-**Armor Class** 17 (Natural Armor + Mage Armor)  
-**Hit Points** 165 (`dice: 22d8` + 66)  
-**Speed** 30 ft., swim 60 ft.  
+**Armor Class** 17 (Natural Armor + Mage Armor)
+**Hit Points** 165 (`dice: 22d8` + 66)
+**Speed** 30 ft., swim 60 ft.
 
 **STR** 12 (+1) **DEX** 16 (+3) **CON** 16 (+3) **INT** 20 (+5) **WIS** 15 (+2) **CHA** 18 (+4)
 
-**Saving Throws** Int +11, Wis +8  
-**Skills** Arcana +17, Deception +10, History +17, Insight +14, Persuasion +16  
-**Damage Resistances** Psychic, Cold  
-**Damage Immunities** Charmed  
-**Senses** Darkvision 120 ft., passive Perception 12  
-**Languages** Common, Elvish, Aquan, Deep Speech, telepathy 120 ft.  
-**Challenge Rating** 12 (8,400 XP)  
+**Saving Throws** Int +11, Wis +8
+**Skills** Arcana +17, Deception +10, History +17, Insight +14, Persuasion +16
+**Damage Resistances** Psychic, Cold
+**Damage Immunities** Charmed
+**Senses** Darkvision 120 ft., passive Perception 12
+**Languages** Common, Elvish, Aquan, Deep Speech, telepathy 120 ft.
+**Challenge Rating** 12 (8,400 XP)
 **Proficiency Bonus** +4
 
 ## Special Abilities

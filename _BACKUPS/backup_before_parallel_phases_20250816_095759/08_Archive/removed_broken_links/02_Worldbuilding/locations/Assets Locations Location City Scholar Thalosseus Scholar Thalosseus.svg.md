@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Scholar Thalosseus Scholar Thalosseus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scholar thalosseus scholar thalosseussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

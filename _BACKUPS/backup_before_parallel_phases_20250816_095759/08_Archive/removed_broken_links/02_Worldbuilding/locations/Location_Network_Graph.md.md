@@ -1,7 +1,7 @@
 ---
 title: 13_Performance/Indexes/Location_Network_Graph.md
 type: location
-tags: 
+tags:
 - location
 - town
 - central-territories

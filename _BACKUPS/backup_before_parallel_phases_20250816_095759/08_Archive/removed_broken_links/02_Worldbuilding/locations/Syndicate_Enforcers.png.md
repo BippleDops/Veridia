@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - Syndicate Enforcerspng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - note
 title: Syndicate Enforcers.png
 type: location

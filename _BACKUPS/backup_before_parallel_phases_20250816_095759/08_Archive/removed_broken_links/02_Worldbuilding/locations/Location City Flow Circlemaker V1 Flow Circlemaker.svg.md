@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city flow circlemaker v1 flow circlemakersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Flow Circlemaker V1 Flow Circlemaker.svg
 type: location

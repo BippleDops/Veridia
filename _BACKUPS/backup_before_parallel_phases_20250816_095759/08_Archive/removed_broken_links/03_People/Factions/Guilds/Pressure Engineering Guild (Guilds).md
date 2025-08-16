@@ -2,7 +2,7 @@
 
 title: Pressure Engineering Guild
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

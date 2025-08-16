@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord chancellor prism v1 lord chancellor prismsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Chancellor Prism V1 Lord Chancellor Prism.svg
 type: npc

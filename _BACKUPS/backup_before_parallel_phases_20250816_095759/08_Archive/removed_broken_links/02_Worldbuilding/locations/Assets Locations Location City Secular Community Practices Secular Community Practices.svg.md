@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Secular Community Practices Secular Community
   Practices.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city secular community practices secular
   community practicessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

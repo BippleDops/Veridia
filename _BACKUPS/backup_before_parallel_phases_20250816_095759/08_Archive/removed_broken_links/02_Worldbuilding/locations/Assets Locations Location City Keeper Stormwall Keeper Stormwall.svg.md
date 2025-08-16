@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Keeper Stormwall Keeper Stormwall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper stormwall keeper stormwallsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

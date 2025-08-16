@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc tidal priest marina deepcurrent tidal priest marina deepcurrentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Tidal Priest Marina Deepcurrent Tidal Priest Marina Deepcurrent.svg
 type: npc

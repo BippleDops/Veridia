@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city commander reef shadowstrike v1 commander reef shadowstrikesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg
 type: location

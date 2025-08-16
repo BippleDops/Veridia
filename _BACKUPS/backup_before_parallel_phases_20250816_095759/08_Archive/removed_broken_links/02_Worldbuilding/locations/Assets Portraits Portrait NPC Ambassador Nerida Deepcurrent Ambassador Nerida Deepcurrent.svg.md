@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Ambassador Nerida Deepcurrent Ambassador Nerida
   Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc ambassador nerida deepcurrent ambassador
   nerida deepcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

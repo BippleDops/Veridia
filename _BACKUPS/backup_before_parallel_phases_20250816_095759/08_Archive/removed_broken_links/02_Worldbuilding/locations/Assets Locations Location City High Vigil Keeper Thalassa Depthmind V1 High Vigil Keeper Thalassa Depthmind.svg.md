@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City High Vigil Keeper Thalassa Depthmind V1 High
   Vigil Keeper Thalassa Depthmind.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city high vigil keeper thalassa depthmind
   v1 high vigil keeper thalassa depthmindsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -196,7 +196,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

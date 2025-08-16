@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Shadow Markets New the Shadow Markets New.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the shadow markets new the shadow markets
   newsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

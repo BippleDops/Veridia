@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding_People_Dr._Marina_Coralheart_ _Shadow
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

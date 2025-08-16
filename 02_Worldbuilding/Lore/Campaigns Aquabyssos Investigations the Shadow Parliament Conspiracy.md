@@ -2,7 +2,7 @@
 
 title: Campaigns [[Aquabyssos Investigations the [Shadow Parliament]] Conspiracy
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - active

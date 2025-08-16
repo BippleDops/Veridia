@@ -2,7 +2,7 @@
 
 title: Medical Ethics in Plague Crisis
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

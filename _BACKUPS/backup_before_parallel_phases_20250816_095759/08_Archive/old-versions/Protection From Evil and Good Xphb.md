@@ -2,7 +2,7 @@
 
 title: Protection From Evil and Good Xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

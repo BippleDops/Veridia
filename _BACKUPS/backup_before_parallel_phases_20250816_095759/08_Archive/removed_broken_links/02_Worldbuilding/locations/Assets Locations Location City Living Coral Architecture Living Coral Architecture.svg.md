@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Living Coral Architecture Living Coral Architecture.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city living coral architecture living coral
   architecturesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

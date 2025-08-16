@@ -2,7 +2,7 @@
 
 title: Shadow Broker Maximian Darkmarket
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Time Keeper the Time Keeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the time keeper the time keepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -198,7 +198,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

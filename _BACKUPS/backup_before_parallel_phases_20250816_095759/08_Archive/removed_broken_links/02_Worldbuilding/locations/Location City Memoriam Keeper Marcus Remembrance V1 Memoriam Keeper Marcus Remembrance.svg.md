@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memoriam keeper marcus remembrance v1 memoriam keeper marcus remembrancesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memoriam Keeper Marcus Remembrance V1 Memoriam Keeper Marcus
   Remembrance.svg

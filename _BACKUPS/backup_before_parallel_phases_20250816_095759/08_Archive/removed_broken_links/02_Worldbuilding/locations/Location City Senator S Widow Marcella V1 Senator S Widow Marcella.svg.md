@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city senator s widow marcella v1 senator s widow marcellasvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Senator S Widow Marcella V1 Senator S Widow Marcella.svg
 type: location

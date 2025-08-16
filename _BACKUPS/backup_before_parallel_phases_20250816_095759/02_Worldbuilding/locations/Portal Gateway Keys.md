@@ -2,7 +2,7 @@
 
 title: Portal Gateway Keys
 type: Location
-tags: 
+tags:
 - content/location
 - place
 - world/aethermoor

@@ -2,7 +2,7 @@
 
 title: Academic Rival
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Commander Drake Pressureborn
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - world/aquabyssos
@@ -486,7 +486,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

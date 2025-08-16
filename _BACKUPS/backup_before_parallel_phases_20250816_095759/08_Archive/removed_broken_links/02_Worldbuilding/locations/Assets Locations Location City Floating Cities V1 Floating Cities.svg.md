@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Floating Cities V1 Floating Cities.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city floating cities v1 floating citiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -173,7 +173,7 @@ Key locations marked:
 - **Dragon**: gem
   - Traits: standard
   - CR Range: 14
-  
+
 ### Environmental Hazards
 - Magical ward
 - **DC 10** to detect
@@ -191,7 +191,7 @@ Key locations marked:
 - **Recent History**: Plague 25 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Trial in 5 days
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: Links to The Second Prophecy of Shadows
@@ -214,7 +214,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

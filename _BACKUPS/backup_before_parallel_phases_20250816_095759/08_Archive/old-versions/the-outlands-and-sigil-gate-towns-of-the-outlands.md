@@ -2,7 +2,7 @@
 
 title: the-outlands-and-sigil-gate-towns-of-the-outlands
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

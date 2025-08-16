@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Gem Deepseeker V1 Gem Deepseeker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gem deepseeker v1 gem deepseekersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

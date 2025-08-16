@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc golden scale transformation v2 golden scale transformationsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Golden Scale Transformation V2 Golden Scale Transformation.svg
 type: npc

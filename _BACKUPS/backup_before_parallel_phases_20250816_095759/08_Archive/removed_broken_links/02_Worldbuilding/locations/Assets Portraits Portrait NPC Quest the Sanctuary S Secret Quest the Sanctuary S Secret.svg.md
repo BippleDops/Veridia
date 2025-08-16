@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Sanctuary S Secret Quest the Sanctuary
   S Secret.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the sanctuary s secret quest the
   sanctuary s secretsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

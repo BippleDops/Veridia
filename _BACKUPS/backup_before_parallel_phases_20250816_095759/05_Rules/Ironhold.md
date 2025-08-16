@@ -2,7 +2,7 @@
 
 title: Ironhold
 type: [[location
-tags: 
+tags:
 - industrial
 - aerial
 - status/complete
@@ -31,11 +31,11 @@ founded: First Age
 government: Council of Forgemasters
 leader: '[[Master Smith Vulcan Deepforge|[[02 Worldbuilding/[People]]/Master Smith Vulcan]]
   Deepforge]]'
-related_entities: 
+related_entities:
 - '[[Ancient Siege Tunnels'
 - '[Continental War]]'
 - '[[The Sundered Peaks]]'
-specialties: 
+specialties:
 - Metalworking
 - Engineering
 - Mountain Defense
@@ -484,7 +484,7 @@ Ironhold was established in the distant past, growing from humble beginnings to 
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

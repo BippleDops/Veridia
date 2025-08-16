@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memory Crystal Archivist Nautilus Storykeeper
   V1 Memory Crystal Archivist Nautilus Storykeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory crystal archivist nautilus storykeeper
   v1 memory crystal archivist nautilus storykeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

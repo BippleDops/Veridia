@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the parasite priests v2 the parasite priestssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Parasite Priests V2 the Parasite Priests.svg
 type: npc

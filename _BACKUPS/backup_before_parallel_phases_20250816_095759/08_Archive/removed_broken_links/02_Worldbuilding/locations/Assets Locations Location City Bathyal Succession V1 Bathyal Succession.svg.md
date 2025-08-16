@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Bathyal Succession V1 Bathyal Succession.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city bathyal succession v1 bathyal successionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: The Reality Compass
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

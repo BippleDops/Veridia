@@ -2,7 +2,7 @@
 
 title: Original Glaucus
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - senator
 - status/complete
@@ -59,7 +59,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -327,7 +327,7 @@ Legends speak of Original Glaucus as a nexus where past and present converge. Lo
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

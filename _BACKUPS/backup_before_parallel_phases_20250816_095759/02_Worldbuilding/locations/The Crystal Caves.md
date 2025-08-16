@@ -2,7 +2,7 @@
 
 title: The Crystal Caves
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -168,7 +168,7 @@ Ongoing situations affecting The Crystal Caves:
 - **Aberration**: beholder
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 9
-  
+
 ### [Environmental Hazards]]
 - Poisonous gas
 - **DC 14** to detect
@@ -186,7 +186,7 @@ Ongoing situations affecting The Crystal Caves:
 - **Recent History**: Plague 37 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Festival in 4 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: [Link]]s to The Hidden Prophecy of Depths

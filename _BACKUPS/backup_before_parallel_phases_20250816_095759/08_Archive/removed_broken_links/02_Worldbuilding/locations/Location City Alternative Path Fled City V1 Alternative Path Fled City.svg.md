@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city alternative path fled city v1 alternative path fled citysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Alternative Path Fled City V1 Alternative Path Fled City.svg
 type: location

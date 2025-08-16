@@ -2,7 +2,7 @@
 
 title: [[Time's Mercy
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

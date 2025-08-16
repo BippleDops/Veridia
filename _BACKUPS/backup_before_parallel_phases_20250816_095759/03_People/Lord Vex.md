@@ -1,7 +1,7 @@
 ---
 title: Lord Vex
 type: npc
-tags: 
+tags:
 - npc
 - tiefling
 - wizard

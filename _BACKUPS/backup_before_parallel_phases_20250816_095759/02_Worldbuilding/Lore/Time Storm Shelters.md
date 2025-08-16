@@ -2,7 +2,7 @@
 
 title: [[Time Storm Shelters
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

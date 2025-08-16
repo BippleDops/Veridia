@@ -2,7 +2,7 @@
 
 title: downtime-activity-crafting-an-item-xge (variant-rules)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

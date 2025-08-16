@@ -2,7 +2,7 @@
 
 title: War Machine Assembly Halls
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

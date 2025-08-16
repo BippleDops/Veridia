@@ -8,7 +8,7 @@ expanded: 2025-08-11
 operational_status: Active Research
 significance: Critical Hazard & Research Infrastructure
 status: complete
-tags: 
+tags:
 - advanced-physics
 - aquabyssos
 - chronoengineering
@@ -303,7 +303,7 @@ Zone operations require highly trained specialists with unique qualifications:
 
 **Primary Specializations:**
 - **Temporal Engineers**: Experts in temporal field generation and control ([02_Worldbuilding/Lore/Senior Temporal Engineer Chronos Fieldwright]])
-- **Paradox Prevention Specialists**: Experts in detecting and preventing temporal contradictions ([[02_Worldbuilding/Lore/Paradox Analyst Echo Causality)  
+- **Paradox Prevention Specialists**: Experts in detecting and preventing temporal contradictions ([[02_Worldbuilding/Lore/Paradox Analyst Echo Causality)
 - **Temporal Safety Officers**: Personnel specializing in temporal hazard management ([02_Worldbuilding/Lore/Safety Coordinator Time Guardian]])
 - **Chronological Researchers**: Scientists studying temporal physics and applications ([[02_Worldbuilding/Lore/Research Director Past Future)
 - **Temporal Medical Personnel**: Healthcare providers trained in temporal contamination treatment ([02_Worldbuilding/Lore/Temporal Physician Healing Moment]])

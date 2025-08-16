@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city dock boss marina irongrip v1 dock boss marina irongripsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Dock Boss Marina Irongrip V1 Dock Boss Marina Irongrip.svg
 type: location

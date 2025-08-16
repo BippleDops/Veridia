@@ -2,7 +2,7 @@
 
 title: Wind Speaker Aria Ghostheart
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

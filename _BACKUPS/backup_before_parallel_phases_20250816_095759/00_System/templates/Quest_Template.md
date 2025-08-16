@@ -27,7 +27,7 @@ modified: '2025-08-14'
 **Type**: Main/Side/Personal
 **Giver**: [[NPC Name
 **Location**: [location]]
-**Level**: 
+**Level**:
 **Reward**: **Time Limit**: None/X days
 **Status**: Available/Active/Complete/Failed ## Hook
 

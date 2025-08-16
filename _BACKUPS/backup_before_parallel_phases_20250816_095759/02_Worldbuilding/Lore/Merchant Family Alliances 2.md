@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - alliances
 - aquabyssos
 - complete
@@ -477,7 +477,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **Opportunities:** Cultural exchange, technological integration
 
 **Tenebrarum Shadow Markets:**
-- **Primary Goods:** Information services ↔ Shadow manipulation technology  
+- **Primary Goods:** Information services ↔ Shadow manipulation technology
 - **Key Partners:** Information Brokers ↔ Tenebrarum Shadow Guilds
 - **Challenges:** Political tensions, cultural misunderstanding, security concerns
 - **Benefits:** Advanced intelligence techniques, shadow-based transportation
@@ -516,7 +516,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 
 **Top Tier (Oligarchy Level):**
 - **House Goldstream:** 35% of total merchant wealth
-- **Deepwater Consortium:** 20% of total merchant wealth  
+- **Deepwater Consortium:** 20% of total merchant wealth
 - **Silverscale Consortium:** 15% of total merchant wealth
 - **Combined Control:** 70% of merchant economy controlled by three families
 
@@ -542,7 +542,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 
 **Indirect Political Influence:**
 - **Economic Pressure:** Threatening business operations to influence policy
-- **Campaign Contributions:** Financial support for favorable political candidates  
+- **Campaign Contributions:** Financial support for favorable political candidates
 - **Lobbying Operations:** Professional influence campaigns on specific legislation
 - **Media Control:** Shaping public opinion through information and advertising
 

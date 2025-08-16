@@ -2,7 +2,7 @@
 
 title: The Stillwater Method
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

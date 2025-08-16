@@ -2,7 +2,7 @@
 
 title: M-008_Door_Opens_Elsewhere
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

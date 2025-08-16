@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City University Philosophy Departments V1 University
   Philosophy Departments.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city university philosophy departments v1
   university philosophy departmentssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -182,7 +182,7 @@ Key locations marked:
 - **Dragon**: metallic
   - Traits: standard
   - CR Range: 11
-  
+
 ### Environmental Hazards
 - Collapsing ceiling
 - **DC 16** to detect

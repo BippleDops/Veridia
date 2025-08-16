@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Symbols_symbol-heraldry-commerce-manager-fairdealin-commerce-manager-fairdealin.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

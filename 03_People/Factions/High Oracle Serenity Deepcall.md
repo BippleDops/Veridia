@@ -2,7 +2,7 @@
 
 title: High Oracle Serenity Deepcall
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Spiral Sanctum the Spiral Sanctum.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the spiral sanctum the spiral sanctumsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

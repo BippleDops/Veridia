@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city merchant lord silas copperfield merchant lord silas copperfieldsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Merchant Lord Silas Copperfield Merchant Lord Silas Copperfield.svg
 type: location

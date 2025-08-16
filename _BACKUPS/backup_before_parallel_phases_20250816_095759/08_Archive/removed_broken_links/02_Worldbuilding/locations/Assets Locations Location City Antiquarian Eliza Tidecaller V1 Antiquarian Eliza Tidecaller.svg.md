@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Antiquarian Eliza Tidecaller V1 Antiquarian
   Eliza Tidecaller.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city antiquarian eliza tidecaller v1 antiquarian
   eliza tidecallersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -180,7 +180,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Economic Interest
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

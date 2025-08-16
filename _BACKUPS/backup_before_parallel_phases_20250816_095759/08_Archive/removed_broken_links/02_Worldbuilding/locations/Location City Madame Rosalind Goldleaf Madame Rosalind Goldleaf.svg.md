@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city madame rosalind goldleaf madame rosalind goldleafsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Madame Rosalind Goldleaf Madame Rosalind Goldleaf.svg
 type: location

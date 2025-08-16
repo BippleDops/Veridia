@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Verdant Reach the Verdant Reach.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the verdant reach the verdant reachpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

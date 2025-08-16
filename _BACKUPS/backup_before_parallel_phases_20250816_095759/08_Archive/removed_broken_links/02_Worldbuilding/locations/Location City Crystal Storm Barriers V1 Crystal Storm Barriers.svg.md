@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city crystal storm barriers v1 crystal storm barrierssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Crystal Storm Barriers V1 Crystal Storm Barriers.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Beings/Non-Reality Consciousnesses
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

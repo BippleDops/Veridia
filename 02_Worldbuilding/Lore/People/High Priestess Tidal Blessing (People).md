@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/High Priestess Tidal Blessing
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -97,7 +97,7 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

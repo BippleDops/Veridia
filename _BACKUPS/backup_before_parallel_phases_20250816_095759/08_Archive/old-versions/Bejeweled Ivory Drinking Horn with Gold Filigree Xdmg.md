@@ -2,7 +2,7 @@
 
 title: Bejeweled Ivory Drinking Horn with Gold Filigree Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: Thermal Vent Fields
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: Temple of Shadows
 type: [[location
-tags: 
+tags:
 - quest
 - content/location
 - place

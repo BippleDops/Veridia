@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Culinary Critic Marina Tastebud Culinary Critic
   Marina Tastebud.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city culinary critic marina tastebud culinary
   critic marina tastebudsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

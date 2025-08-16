@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Institute for Reality Studies Researchers Institute
   for Reality Studies Researchers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city institute for reality studies researchers
   institute for reality studies researcherssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -167,7 +167,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

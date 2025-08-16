@@ -2,7 +2,7 @@
 
 title: Royal Court
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -164,7 +164,7 @@ Ongoing situations affecting Royal Court:
 - **Aberration**: beholder
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 14
-  
+
 ### [[Environmental Hazards
 - Pit trap
 - **DC 17** to detect
@@ -182,7 +182,7 @@ Ongoing situations affecting Royal Court:
 - **Recent History**: Festival 36 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Arrival in 28 days
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: [Link]]s to The First Prophecy of Shadows

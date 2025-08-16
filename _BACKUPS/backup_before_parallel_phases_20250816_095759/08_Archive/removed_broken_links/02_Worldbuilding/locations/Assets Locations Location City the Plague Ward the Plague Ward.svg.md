@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Plague Ward the Plague Ward.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the plague ward the plague wardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

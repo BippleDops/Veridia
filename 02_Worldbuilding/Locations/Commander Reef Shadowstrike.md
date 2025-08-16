@@ -2,7 +2,7 @@
 
 title: Commander Reef Shadowstrike
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

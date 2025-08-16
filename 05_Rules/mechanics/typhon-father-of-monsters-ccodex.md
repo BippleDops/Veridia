@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/CLI/bestiary/fiend/typhon-father-of-monsters-ccodex
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

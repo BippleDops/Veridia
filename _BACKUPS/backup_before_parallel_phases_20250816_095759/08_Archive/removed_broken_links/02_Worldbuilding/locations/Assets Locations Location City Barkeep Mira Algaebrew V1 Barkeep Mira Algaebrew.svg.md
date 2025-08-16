@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Barkeep Mira Algaebrew V1 Barkeep Mira Algaebrew.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city barkeep mira algaebrew v1 barkeep mira
   algaebrewsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

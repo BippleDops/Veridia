@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Elena Prismweaver V1 Elena Prismweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city elena prismweaver v1 elena prismweaversvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -177,7 +177,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: The Cloud Shepherd Guild
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

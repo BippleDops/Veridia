@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc jasper three eyes flint 2 v2 jasper three eyes flint 2svg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Jasper Three Eyes Flint 2 V2 Jasper Three Eyes Flint 2.svg
 type: npc

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city parliament of echoes public gallery v1 parliament of echoes public
   gallerypng
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Parliament of Echoes Public Gallery V1 Parliament of Echoes Public
   Gallery.png

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lord commander steelborn lord commander steelbornsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg
 type: npc

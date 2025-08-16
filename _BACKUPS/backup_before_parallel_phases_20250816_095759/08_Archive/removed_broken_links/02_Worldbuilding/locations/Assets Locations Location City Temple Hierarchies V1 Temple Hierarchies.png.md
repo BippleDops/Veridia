@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temple Hierarchies V1 Temple Hierarchies.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple hierarchies v1 temple hierarchiespng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

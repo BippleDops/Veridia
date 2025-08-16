@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Pier 7
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

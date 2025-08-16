@@ -2,7 +2,7 @@
 
 title: The Truth Sanctuary
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

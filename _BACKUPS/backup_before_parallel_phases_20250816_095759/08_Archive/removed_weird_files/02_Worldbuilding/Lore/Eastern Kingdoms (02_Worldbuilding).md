@@ -2,7 +2,7 @@
 
 title: [[Eastern Kingdoms
 type: [Lore]]
-tags: 
+tags:
 - lore
 - session-notes
 - historical-events
@@ -27,12 +27,12 @@ status: complete
 category: Political Entity
 created_by: auto-stub
 outcome: Ongoing Major Power
-participants: 
+participants:
 - Eastern Royal Houses
 - [Imperial Nav]]y
 - Colonial Administrations
 - Trade Guilds
-related_entities: 
+related_entities:
 - '[[Aethermoor'
 - '[Continental War]]'
 - '[[The Great Crystallization'

@@ -2,7 +2,7 @@
 
 title: Elder Scribe Marcus the Lost
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

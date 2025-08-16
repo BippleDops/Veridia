@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Clara Truthscale V1 Clara Truthscale.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city clara truthscale v1 clara truthscalesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -198,7 +198,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

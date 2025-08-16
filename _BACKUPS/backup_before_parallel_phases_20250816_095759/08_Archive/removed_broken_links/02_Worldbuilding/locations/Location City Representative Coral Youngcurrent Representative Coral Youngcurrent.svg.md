@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city representative coral youngcurrent representative coral youngcurrentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Representative Coral Youngcurrent Representative Coral Youngcurrent.svg
 type: location

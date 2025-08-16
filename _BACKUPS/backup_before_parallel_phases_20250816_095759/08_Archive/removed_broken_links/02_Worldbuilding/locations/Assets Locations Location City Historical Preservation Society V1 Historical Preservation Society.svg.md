@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Historical Preservation Society V1 Historical
   Preservation Society.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city historical preservation society v1 historical
   preservation societysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

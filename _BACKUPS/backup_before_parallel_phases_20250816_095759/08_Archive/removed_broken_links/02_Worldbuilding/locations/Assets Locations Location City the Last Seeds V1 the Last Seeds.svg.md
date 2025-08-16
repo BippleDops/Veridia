@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Last Seeds V1 the Last Seeds.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the last seeds v1 the last seedssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

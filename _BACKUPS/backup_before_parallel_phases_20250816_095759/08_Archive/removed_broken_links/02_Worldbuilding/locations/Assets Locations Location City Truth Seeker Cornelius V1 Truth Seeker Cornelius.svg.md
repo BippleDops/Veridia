@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Truth Seeker Cornelius V1 Truth Seeker Cornelius.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city truth seeker cornelius v1 truth seeker
   corneliussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Witness Protection Network
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

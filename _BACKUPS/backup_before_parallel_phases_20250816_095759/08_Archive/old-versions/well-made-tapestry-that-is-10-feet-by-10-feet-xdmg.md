@@ -2,7 +2,7 @@
 
 title: well-made-tapestry-that-is-10-feet-by-10-feet-xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

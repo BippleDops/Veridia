@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Elena Recordkeeper V1 Elena Recordkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city elena recordkeeper v1 elena recordkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

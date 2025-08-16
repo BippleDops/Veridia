@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Fence Queen Sticky Fingers Sal Fence Queen Sticky
   Fingers Sal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc fence queen sticky fingers sal fence
   queen sticky fingers salsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -195,7 +195,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

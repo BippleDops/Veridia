@@ -2,7 +2,7 @@
 
 title: Lady Vivienne the Unfrozen
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - mechanics/magic
@@ -131,7 +131,7 @@ The lady's husband, preserved at the moment of his death from corruption. Someti
 #### [[Marcus Thornwhisper (Son, Age 12)
 Caught in an eternal loop of playing with his toys. Occasionally becomes aware of his situation and begs for release.
 
-#### [Elena Thornwhisper]] (Daughter, Age 16)  
+#### [Elena Thornwhisper]] (Daughter, Age 16)
 Frozen while reading a book of poetry. Her tears of crystal that fall continuously have magical properties.
 
 #### [[Jeeves (Butler)
@@ -140,7 +140,7 @@ An elderly human who maintains the manor despite being temporally displaced. Exi
 ### Temporal Echoes
 Ghostly impressions of past events that play out repeatedly:
 - **The Corruption's Arrival**: Shadowy figures spreading darkness through the estate
-- **The Last Dance**: Guests celebrating, unaware of approaching doom  
+- **The Last Dance**: Guests celebrating, unaware of approaching doom
 - **The Ritual**: Lady Vivienne's desperate attempt to freeze time
 
 ### The Temporal Field
@@ -190,11 +190,11 @@ Throughout the manor:
 ### Ground Floor
 1. **Grand Entrance**: Frozen chandelier eternally falling and reforming
 2. **Ballroom**: 30 guests frozen mid-dance, orchestra plays the same measure forever
-3. **Dining Hall**: Feast laid out but food exists in multiple states of decay simultaneously  
+3. **Dining Hall**: Feast laid out but food exists in multiple states of decay simultaneously
 4. **Kitchen**: Chef repeating the same recipe preparation in 5-minute loops
 5. **Servant's Hall**: Staff frozen in their daily duties
 
-### Second Floor  
+### Second Floor
 6. **Master Bedroom**: Lady Vivienne's multiple temporal forms rest fitfully
 7. **Children's Rooms**: Marcus and Elena in their suspended states
 8. **Guest Chambers**: Visitors caught unaware by the temporal freeze

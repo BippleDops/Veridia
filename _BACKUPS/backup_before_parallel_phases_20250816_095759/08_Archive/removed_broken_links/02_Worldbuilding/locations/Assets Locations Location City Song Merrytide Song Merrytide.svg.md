@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Song Merrytide Song Merrytide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city song merrytide song merrytidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

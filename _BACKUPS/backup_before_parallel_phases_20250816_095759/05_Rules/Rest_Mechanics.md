@@ -3,7 +3,7 @@ enhanced: true
 
 title: Rest Mechanics
 type: rest
-tags: 
+tags:
 - recovery
 - active
 - mechanics

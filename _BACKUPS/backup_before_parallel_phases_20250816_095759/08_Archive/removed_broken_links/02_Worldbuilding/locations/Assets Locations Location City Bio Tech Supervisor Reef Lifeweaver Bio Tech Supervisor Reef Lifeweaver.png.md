@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Bio Tech Supervisor Reef Lifeweaver Bio Tech
   Supervisor Reef Lifeweaver.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city bio tech supervisor reef lifeweaver
   bio tech supervisor reef lifeweaverpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -193,7 +193,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Adjust Hit Points and Hit Point Dice Fixed Hit Points by Class Xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

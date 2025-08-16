@@ -2,7 +2,7 @@
 
 title: Cross Realm Agricultural Exchang
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

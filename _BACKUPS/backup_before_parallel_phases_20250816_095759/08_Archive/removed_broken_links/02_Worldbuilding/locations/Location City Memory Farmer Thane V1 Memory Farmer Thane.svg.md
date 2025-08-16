@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memory farmer thane v1 memory farmer thanesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memory Farmer Thane V1 Memory Farmer Thane.svg
 type: location

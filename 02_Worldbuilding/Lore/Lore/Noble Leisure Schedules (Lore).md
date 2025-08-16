@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Noble Leisure Schedules
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

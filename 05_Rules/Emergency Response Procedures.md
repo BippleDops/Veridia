@@ -2,7 +2,7 @@
 
 title: Emergency Response Procedures
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

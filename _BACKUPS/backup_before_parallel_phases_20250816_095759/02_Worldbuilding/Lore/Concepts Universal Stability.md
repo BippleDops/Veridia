@@ -2,7 +2,7 @@
 
 title: Concepts [[Universal Stability
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

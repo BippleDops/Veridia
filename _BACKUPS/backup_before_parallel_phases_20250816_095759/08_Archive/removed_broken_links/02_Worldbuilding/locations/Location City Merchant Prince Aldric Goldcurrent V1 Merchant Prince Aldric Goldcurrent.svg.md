@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city merchant prince aldric goldcurrent v1 merchant prince aldric goldcurrentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Merchant Prince Aldric Goldcurrent V1 Merchant Prince Aldric
   Goldcurrent.svg

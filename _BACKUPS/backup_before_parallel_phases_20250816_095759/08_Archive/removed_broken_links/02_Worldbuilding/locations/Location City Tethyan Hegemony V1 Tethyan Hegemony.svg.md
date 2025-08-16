@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city tethyan hegemony v1 tethyan hegemonysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Tethyan Hegemony V1 Tethyan Hegemony.svg
 type: location

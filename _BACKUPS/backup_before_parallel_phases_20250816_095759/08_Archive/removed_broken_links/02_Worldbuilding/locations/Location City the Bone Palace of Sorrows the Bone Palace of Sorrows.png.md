@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the bone palace of sorrows the bone palace of sorrowspng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Bone Palace of Sorrows the Bone Palace of Sorrows.png
 type: location

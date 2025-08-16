@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the crystal caves v1 the crystal cavessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Crystal Caves V1 the Crystal Caves.svg
 type: location

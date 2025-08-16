@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc queen seraphina lumengarde v1 queen seraphina lumengardesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Queen Seraphina Lumengarde V1 Queen Seraphina Lumengarde.svg
 type: npc

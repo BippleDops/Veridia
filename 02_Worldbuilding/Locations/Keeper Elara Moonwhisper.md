@@ -1,7 +1,7 @@
 ---
 title: Keeper Elara Moonwhisper
 type: Location
-tags: 
+tags:
 - library
 - status/complete
 - mechanics/magic

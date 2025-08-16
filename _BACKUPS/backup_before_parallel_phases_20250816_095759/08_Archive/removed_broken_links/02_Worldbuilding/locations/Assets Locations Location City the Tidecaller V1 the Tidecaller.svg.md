@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Tidecaller V1 the Tidecaller.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the tidecaller v1 the tidecallersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

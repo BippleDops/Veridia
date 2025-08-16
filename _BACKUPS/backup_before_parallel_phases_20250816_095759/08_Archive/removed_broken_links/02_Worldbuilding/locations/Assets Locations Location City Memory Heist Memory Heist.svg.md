@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Memory Heist Memory Heist.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory heist memory heistsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -185,7 +185,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

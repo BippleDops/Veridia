@@ -2,7 +2,7 @@
 
 title: Reality Maintece Department
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

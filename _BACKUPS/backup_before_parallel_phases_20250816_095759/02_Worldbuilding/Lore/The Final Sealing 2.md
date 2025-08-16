@@ -3,19 +3,19 @@ type: Lore
 status: complete
 updated: '2025-08-13T01:18:35.199646+00:00'
 created: '2025-08-11'
-tags: 
+tags:
 - aethermoor
 - category/lore
 - complete
 - lore
 world: Aethermoor
 obsidianUIMode: preview
-accessibility: 
+accessibility:
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
   content_warnings: []
   pronunciation: The Final Sealing
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
 ---

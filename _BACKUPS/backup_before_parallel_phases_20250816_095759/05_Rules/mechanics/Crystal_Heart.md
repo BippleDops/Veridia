@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Transformations/Crystal/Crystal_Heart
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -85,7 +85,7 @@ improvements: 20
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

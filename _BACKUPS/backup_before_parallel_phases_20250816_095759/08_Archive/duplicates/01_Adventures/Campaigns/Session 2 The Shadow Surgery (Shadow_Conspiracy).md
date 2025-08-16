@@ -4,7 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 level: 1-5
 modified: '2025-08-14'
-tags: 
+tags:
 - quest
 title: Session 2 The Shadow Surgery
 type: session

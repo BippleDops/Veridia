@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the throne pretenders v1 the throne pretenderssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Throne Pretenders V1 the Throne Pretenders.svg
 type: npc

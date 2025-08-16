@@ -2,7 +2,7 @@
 
 title: Determine the Villains Actions Event Based Villain Actions
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

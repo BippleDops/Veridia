@@ -2,7 +2,7 @@
 
 title: Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

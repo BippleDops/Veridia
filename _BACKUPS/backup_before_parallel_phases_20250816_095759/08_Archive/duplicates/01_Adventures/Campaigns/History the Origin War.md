@@ -1,7 +1,7 @@
 ---
 title: History [[The Origin War
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

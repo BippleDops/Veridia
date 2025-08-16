@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Tribune Cassia Deepcurrent Tribune Cassia Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc tribune cassia deepcurrent tribune cassia
   deepcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

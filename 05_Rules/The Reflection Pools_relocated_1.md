@@ -2,7 +2,7 @@
 
 title: The [[Reflection Pools
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - status/complete
 - quest
@@ -20,12 +20,12 @@ modified: '2025-08-14'
 status: complete
 [region]]: Unknown
 population: Unknown
-accessibility: 
-  content_warnings: 
+accessibility:
+  content_warnings:
   - political coercion
   - [[Environmental Hazards]]
   pronunciation: The Reflection Pools
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door
@@ -119,7 +119,7 @@ Reaching the Reflection Pools requires navigating the Corridor of Choices, a win
 **Reveals**: Children never conceived, ideas never spoken
 **Danger**: Viewers may become obsessed with impossible offspring
 
-#### Pool of Roads Not Taken  
+#### Pool of Roads Not Taken
 
 **Diameter**: 45 feet
 **Depth**: Variable (changes with regret)

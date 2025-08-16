@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Kraken S Harbor the Kraken S Harbor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the kraken s harbor the kraken s harborsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

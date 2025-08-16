@@ -2,7 +2,7 @@
 
 title: Exp[[Lorer Captain Reef Deepdiver
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

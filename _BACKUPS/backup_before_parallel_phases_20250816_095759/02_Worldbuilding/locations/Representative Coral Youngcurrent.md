@@ -2,7 +2,7 @@
 
 title: [[Coral|Representative [Coral]] Youngcurrent
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

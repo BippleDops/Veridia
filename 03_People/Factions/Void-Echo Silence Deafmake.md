@@ -2,7 +2,7 @@
 
 title: Void Echo Silence Deafmake
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Shadow Guard Units Shadow Guard Units.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc shadow guard units shadow guard unitssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

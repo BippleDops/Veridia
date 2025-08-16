@@ -1,7 +1,7 @@
 ---
 title: [[The Crown's Burden
 type: quest
-tags: 
+tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -133,7 +133,7 @@ The Crown of Aethermoor was created during the First Crystal Age as a way to pre
 
 ### Royal Confession
 
-**[location]]**: Queen's Private Meditation Chamber  
+**[location]]**: Queen's Private Meditation Chamber
 **[[Time**: Midnight, during a lucid moment
 
 The Queen summons the party through unconventional means—dreams, coded messages, or trusted intermediaries. She cannot risk public knowledge of her condition.
@@ -149,7 +149,7 @@ The Queen summons the party through unconventional means—dreams, coded message
 
 ### The Crystal Archive
 
-**Location**: Forgotten vault beneath the palace  
+**Location**: Forgotten vault beneath the palace
 **Discovery**: The Crown's creation records
 
 **Revelations**:
@@ -180,7 +180,7 @@ The Queen summons the party through unconventional means—dreams, coded message
 
 ### The Psychic Dive
 
-**Method**: Ritual allowing party to enter Queen's mindscape  
+**Method**: Ritual allowing party to enter Queen's mindscape
 **Guide**: [[12 Research or similar specialist
 
 **The Mental Landscape**:
@@ -190,39 +190,39 @@ The Queen's mind is a vast palace where each room represents a different monarch
 
 #### The Throne of Sorrows
 
-**Monarch**: Queen Isabella the Grieving (300 years ago)  
-**Memory**: Lost all seven children to plague  
-**Challenge**: Resist overwhelming despair (Wisdom saves)  
-**Lesson**: The weight of personal loss while maintaining public strength  
+**Monarch**: Queen Isabella the Grieving (300 years ago)
+**Memory**: Lost all seven children to plague
+**Challenge**: Resist overwhelming despair (Wisdom saves)
+**Lesson**: The weight of personal loss while maintaining public strength
 **Guardian**: Manifestation of maternal grief (CR 8)
 
 #### The Battlefield Eternal
 
-**Monarch**: King Marcus the Bloodied (500 years ago)  
-**Memory**: Led troops in the Crystal Wars  
-**Challenge**: Survive recreated battle without killing innocents  
-**Lesson**: The cost of necessary violence  
+**Monarch**: King Marcus the Bloodied (500 years ago)
+**Memory**: Led troops in the Crystal Wars
+**Challenge**: Survive recreated battle without killing innocents
+**Lesson**: The cost of necessary violence
 **Guardian**: Phantom army that cannot be defeated by force
 
 #### The Traitor's Table
 
-**Monarch**: King Benedict the Betrayed (150 years ago)  
-**Memory**: Murdered by his own council  
-**Challenge**: Identify the traitor among [Allies]] (all seem guilty)  
-**Lesson**: The paranoia that comes with power  
+**Monarch**: King Benedict the Betrayed (150 years ago)
+**Memory**: Murdered by his own council
+**Challenge**: Identify the traitor among [Allies]] (all seem guilty)
+**Lesson**: The paranoia that comes with power
 **Guardian**: Doppelgangers of the party themselves
 
 #### The Golden Age
 
-**Monarch**: Queen Celestine the Beloved (700 years ago)  
-**Memory**: Peak of Aethermoor's prosperity  
-**Challenge**: Resist temptation to remain in perfect happiness  
-**Lesson**: Even good times end; attachment brings suffering  
+**Monarch**: Queen Celestine the Beloved (700 years ago)
+**Memory**: Peak of Aethermoor's prosperity
+**Challenge**: Resist temptation to remain in perfect happiness
+**Lesson**: Even good times end; attachment brings suffering
 **Guardian**: Lotus-eater style contentment trap
 
 ### The Crown Chamber
 
-**Location**: Center of the mindscape  
+**Location**: Center of the mindscape
 **Discovery**: The Crown's true nature
 
 **The Revelation**:
@@ -264,7 +264,7 @@ Each day spent in the mindscape, the Queen deteriorates:
 
 **Discovery**: The Sundering Ritual
 
-**Location**: Hidden in memories of the First King  
+**Location**: Hidden in memories of the First King
 **Requirements**:
 - Willing sacrifice of royal blood
 - Shard from the original [Lady Crystal-Heart Miraleth]]
@@ -280,26 +280,26 @@ Each day spent in the mindscape, the Queen deteriorates:
 
 #### [[path of Severance
 
-**Method**: Forcibly separate Crown from Queen  
-**Cost**: Queen loses all memories of her reign  
-**Benefit**: Crown's influence ends forever  
-**Risk**: Kingdom loses all institutional memory  
+**Method**: Forcibly separate Crown from Queen
+**Cost**: Queen loses all memories of her reign
+**Benefit**: Crown's influence ends forever
+**Risk**: Kingdom loses all institutional memory
 **Consequence**: New form of government needed
 
 #### Path of Integration
 
-**Method**: Help Queen fully merge with Crown  
-**Cost**: Seraphina ceases to exist as individual  
-**Benefit**: Creates immortal collective ruler  
-**Risk**: Humanity lost to crystalline logic  
+**Method**: Help Queen fully merge with Crown
+**Cost**: Seraphina ceases to exist as individual
+**Benefit**: Creates immortal collective ruler
+**Risk**: Humanity lost to crystalline logic
 **Consequence**: Aethermoor becomes technocracy
 
 #### Path of Distribution
 
-**Method**: Spread Crown's burden among many  
-**Cost**: Multiple volunteers share memories  
-**Benefit**: No single person bears full weight  
-**Risk**: Potential for psychic civil war  
+**Method**: Spread Crown's burden among many
+**Cost**: Multiple volunteers share memories
+**Benefit**: No single person bears full weight
+**Risk**: Potential for psychic civil war
 **Consequence**: Council rule replaces monarchy
 
 ### [The Final Choice]]
@@ -487,10 +487,10 @@ Seraphina has been pregt this entire time, hiding it even from herself.
 
 ### Tone Options
 
-**Political Thriller**: Focus on court intrigue and succession crisis  
-**Psychological Horror**: Emphasize madness and identity loss  
-**Epic Fantasy**: Crown entity as cosmic threat  
-**Personal Drama**: Queen's humanity and sacrifice  
+**Political Thriller**: Focus on court intrigue and succession crisis
+**Psychological Horror**: Emphasize madness and identity loss
+**Epic Fantasy**: Crown entity as cosmic threat
+**Personal Drama**: Queen's humanity and sacrifice
 **Mystery**: Uncover Crown's true history
 
 ### Scaling Difficulty
@@ -518,10 +518,10 @@ Seraphina has been pregt this entire time, hiding it even from herself.
 
 ### Pacing Suggestions
 
-**Sessions 1-2**: [Introduction]] and investigation  
-**Sessions 3-4**: First psychic journey  
-**Sessions 5-6**: Political complications  
-**Sessions 7-8**: Deep dive into memories  
+**Sessions 1-2**: [Introduction]] and investigation
+**Sessions 3-4**: First psychic journey
+**Sessions 5-6**: Political complications
+**Sessions 7-8**: Deep dive into memories
 **Sessions 9-10**: Final choice and resolution
 
 ## Player-Facing Summary

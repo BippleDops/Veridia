@@ -2,7 +2,7 @@
 
 title: Sword of Answering Concluder
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

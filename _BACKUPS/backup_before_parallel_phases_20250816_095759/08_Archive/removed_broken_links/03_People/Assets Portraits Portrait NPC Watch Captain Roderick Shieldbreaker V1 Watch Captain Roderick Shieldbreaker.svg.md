@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Watch Captain Roderick Shieldbreaker V1 Watch
   Captain Roderick Shieldbreaker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc watch captain roderick shieldbreaker
   v1 watch captain roderick shieldbreakersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

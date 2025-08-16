@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Conservatory of Memory V1 Conservatory of Memory.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city conservatory of memory v1 conservatory
   of memorysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Communications Master Signal Cryptkeeper V1
   Communications Master Signal Cryptkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city communications master signal cryptkeeper
   v1 communications master signal cryptkeepersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

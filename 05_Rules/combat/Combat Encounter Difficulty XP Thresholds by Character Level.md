@@ -2,7 +2,7 @@
 
 title: Combat Encounter Difficulty XP Thresholds by Character Level
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

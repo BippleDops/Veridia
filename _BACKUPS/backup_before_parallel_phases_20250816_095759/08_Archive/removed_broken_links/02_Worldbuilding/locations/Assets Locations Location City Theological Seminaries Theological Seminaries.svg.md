@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Theological Seminaries Theological Seminaries.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city theological seminaries theological seminariessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

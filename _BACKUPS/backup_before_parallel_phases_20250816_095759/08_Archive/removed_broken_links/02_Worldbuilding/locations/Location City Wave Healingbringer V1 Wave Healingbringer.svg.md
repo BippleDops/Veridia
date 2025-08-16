@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city wave healingbringer v1 wave healingbringersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Wave Healingbringer V1 Wave Healingbringer.svg
 type: location

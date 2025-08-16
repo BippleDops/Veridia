@@ -2,7 +2,7 @@
 
 title: Surface Trade Ports
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

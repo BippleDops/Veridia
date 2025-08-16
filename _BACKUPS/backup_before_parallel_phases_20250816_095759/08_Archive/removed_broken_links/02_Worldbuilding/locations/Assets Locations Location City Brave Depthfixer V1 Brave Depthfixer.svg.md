@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Brave Depthfixer V1 Brave Depthfixer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city brave depthfixer v1 brave depthfixersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

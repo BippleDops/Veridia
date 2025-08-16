@@ -2,7 +2,7 @@
 
 title: Ancient Artifacts System
 type: item
-tags: 
+tags:
 - item
 - staff
 - legendary

@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/faction
@@ -29,7 +29,7 @@ The Provinces are governed by the **Harvest Council**, composed of seven **Field
 
 **Regional Divisions:**
 - **The Twilight Fields**: Upper-depth settlements growing bioluminescent grains
-- **The Verdant Abyss**: Deep kelp forests and mushroom farms  
+- **The Verdant Abyss**: Deep kelp forests and mushroom farms
 - **The Mineral Gardens**: Settlements near thermal vents growing metal-infused crops
 - **The Border Reaches**: Frontier farms that serve as early warning against [02_Worldbuilding/Lore/Deep Mother|Deep Mother]] corruption
 

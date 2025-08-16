@@ -2,7 +2,7 @@
 
 title: Umbral Exchange
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - shadow-manipulation

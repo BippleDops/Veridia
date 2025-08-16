@@ -2,7 +2,7 @@
 
 title: Kelp Silk
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

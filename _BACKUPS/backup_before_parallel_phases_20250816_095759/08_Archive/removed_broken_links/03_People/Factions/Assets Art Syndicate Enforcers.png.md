@@ -1,10 +1,10 @@
 ---
 
 title: Assets Art Syndicate Enforcers.png
-aliases: 
+aliases:
 - 04 Resources Assets Art Places Syndicate Enforcerspng
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

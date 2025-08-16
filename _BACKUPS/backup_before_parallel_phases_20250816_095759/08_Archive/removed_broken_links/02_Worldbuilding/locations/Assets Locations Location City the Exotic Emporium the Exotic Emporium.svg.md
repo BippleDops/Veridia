@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Exotic Emporium the Exotic Emporium.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the exotic emporium the exotic emporiumsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

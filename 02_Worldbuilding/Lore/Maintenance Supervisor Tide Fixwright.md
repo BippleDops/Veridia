@@ -3,7 +3,7 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags: 
+tags:
 - [[Lore
 title: [Maintece_Supervisor_Tide_Fixwright|Maintece Supervisor Tide Fixwright]]
 type: lore

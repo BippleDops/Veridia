@@ -2,7 +2,7 @@
 
 title: Tide Speaker Nerida of House Abyssos
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

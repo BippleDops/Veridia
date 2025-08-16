@@ -2,7 +2,7 @@
 
 title: The Neutral Tavern
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

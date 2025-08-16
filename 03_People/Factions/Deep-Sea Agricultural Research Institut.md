@@ -2,7 +2,7 @@
 
 title: Deep Sea Agricultural Research Institut
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

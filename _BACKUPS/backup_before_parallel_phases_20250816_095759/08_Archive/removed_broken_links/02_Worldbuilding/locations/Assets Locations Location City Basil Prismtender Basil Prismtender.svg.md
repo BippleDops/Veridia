@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Basil Prismtender Basil Prismtender.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city basil prismtender basil prismtendersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

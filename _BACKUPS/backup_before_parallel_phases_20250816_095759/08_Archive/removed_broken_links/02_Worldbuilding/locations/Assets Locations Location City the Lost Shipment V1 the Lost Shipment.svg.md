@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Lost Shipment V1 the Lost Shipment.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the lost shipment v1 the lost shipmentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc scholar priest tidal memory v1 scholar priest tidal memorysvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Scholar Priest Tidal Memory V1 Scholar Priest Tidal Memory.svg
 type: npc

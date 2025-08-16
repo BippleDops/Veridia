@@ -2,7 +2,7 @@
 
 title: Detective Prime Clarity Truthseeke
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

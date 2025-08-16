@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Keeper Brinescale V1 Keeper Brinescale.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper brinescale v1 keeper brinescalesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

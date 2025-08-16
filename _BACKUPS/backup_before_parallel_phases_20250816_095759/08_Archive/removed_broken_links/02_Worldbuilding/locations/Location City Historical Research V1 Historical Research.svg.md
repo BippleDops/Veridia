@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city historical research v1 historical researchsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Historical Research V1 Historical Research.svg
 type: location

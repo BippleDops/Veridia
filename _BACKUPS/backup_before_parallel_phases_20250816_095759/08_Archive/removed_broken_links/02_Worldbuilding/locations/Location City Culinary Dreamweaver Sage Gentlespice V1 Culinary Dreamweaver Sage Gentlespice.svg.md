@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city culinary dreamweaver sage gentlespice v1 culinary dreamweaver sage
   gentlespicesvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Culinary Dreamweaver Sage Gentlespice V1 Culinary Dreamweaver
   Sage Gentlespice.svg

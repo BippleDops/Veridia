@@ -2,7 +2,7 @@
 
 title: "02_Worldbuilding/Lore/\u03A9_System-CLI-spells-school-transmutation"
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy
@@ -122,7 +122,7 @@ Mentioned in The First Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

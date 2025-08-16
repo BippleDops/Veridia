@@ -11,7 +11,7 @@ leader: '[[02_Worldbuilding/Groups/Master Chen Wei'
 members: ~150 monks, students, and initiates
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/faction
@@ -96,8 +96,8 @@ The majority of Order membership consists of students at various stages of train
 
 **Master Chen Wei**
 *Grand Master, 15th-level Monk (Way of the Open Hand)*
-**Armor Class** 21 (Unarmored Defense + Wisdom)  
-**Hit Points** 142 (`dice: 15d8` + 75)  
+**Armor Class** 21 (Unarmored Defense + Wisdom)
+**Hit Points** 142 (`dice: 15d8` + 75)
 **Speed** 50 ft., Wall Running
 **STR** 16 (+3) **DEX** 20 (+5) **CON** 20 (+5) **INT** 18 (+4) **WIS** 22 (+6) **CHA** 16 (+3)
 **Saving Throws** Str +9, Dex +11
@@ -112,8 +112,8 @@ The majority of Order membership consists of students at various stages of train
 
 **Master Li Flowing Stone**
 *Training Academy Director, 12th-level Monk (Way of the Astral Self)*
-**Armor Class** 19 (Unarmored Defense)  
-**Hit Points** 108 (`dice: 12d8` + 48)  
+**Armor Class** 19 (Unarmored Defense)
+**Hit Points** 108 (`dice: 12d8` + 48)
 **Speed** 45 ft.
 **STR** 18 (+4) **DEX** 18 (+4) **CON** 18 (+4) **INT** 16 (+3) **WIS** 20 (+5) **CHA** 14 (+2)
 **Saving Throws** Str +10, Dex +10
@@ -127,8 +127,8 @@ The majority of Order membership consists of students at various stages of train
 
 **Master Zhang Calm Waters**
 *Scholar Circle Leader, 11th-level Monk (Way of the Kensei)*
-**Armor Class** 18 (Unarmored Defense)  
-**Hit Points** 93 (`dice: 11d8` + 44)  
+**Armor Class** 18 (Unarmored Defense)
+**Hit Points** 93 (`dice: 11d8` + 44)
 **Speed** 45 ft.
 **STR** 14 (+2) **DEX** 18 (+4) **CON** 18 (+4) **INT** 20 (+5) **WIS** 18 (+4) **CHA** 12 (+1)
 **Saving Throws** Str +8, Dex +10
@@ -141,8 +141,8 @@ The majority of Order membership consists of students at various stages of train
 
 **Master Wang Swift Current**
 *Guardian Corps Commander, 13th-level Monk (Way of Shadow)*
-**Armor Class** 20 (Unarmored Defense)  
-**Hit Points** 117 (`dice: 13d8` + 52)  
+**Armor Class** 20 (Unarmored Defense)
+**Hit Points** 117 (`dice: 13d8` + 52)
 **Speed** 50 ft., Shadow Step
 **STR** 16 (+3) **DEX** 20 (+5) **CON** 18 (+4) **INT** 14 (+2) **WIS** 18 (+4) **CHA** 16 (+3)
 **Saving Throws** Str +9, Dex +11
@@ -156,8 +156,8 @@ The majority of Order membership consists of students at various stages of train
 
 **Master Liu Peaceful Resolution**
 *Diplomatic Mission Director, 10th-level Monk (Way of Tranquility)*
-**Armor Class** 17 (Unarmored Defense)  
-**Hit Points** 85 (`dice: 10d8` + 40)  
+**Armor Class** 17 (Unarmored Defense)
+**Hit Points** 85 (`dice: 10d8` + 40)
 **Speed** 40 ft.
 **STR** 12 (+1) **DEX** 16 (+3) **CON** 18 (+4) **INT** 16 (+3) **WIS** 20 (+5) **CHA** 20 (+5)
 **Saving Throws** Str +7, Dex +9

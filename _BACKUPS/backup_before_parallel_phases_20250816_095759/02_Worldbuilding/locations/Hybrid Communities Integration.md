@@ -1,7 +1,7 @@
 ---
 title: Hybrid Communities Integration
 type: Location
-tags: 
+tags:
 - hybrid-species
 - status/complete
 - both worlds

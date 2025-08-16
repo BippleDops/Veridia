@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the porters union v1 the porters unionsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Porters Union V1 the Porters Union.svg
 type: location

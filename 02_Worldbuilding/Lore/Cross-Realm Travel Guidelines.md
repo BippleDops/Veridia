@@ -2,7 +2,7 @@
 
 title: Cross-Realm Travel Guidelines
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

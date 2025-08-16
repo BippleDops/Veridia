@@ -8,7 +8,7 @@ item_type: Legendary Artifact (The Seven Shards)
 rarity: Legendary
 requires_attunement: 'Yes'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/item
@@ -77,7 +77,7 @@ The Tidal Shard of Memory stands as one of [02_Worldbuilding/Lore/The Seven Shar
 - **Benefit**: Gain insight into cultural practices, historical events, and shared experiences
 - **Risk**: Temporary confusion as foreign memories integrate with personal experience
 
-#### Memory Weaving (1/Month) 
+#### Memory Weaving (1/Month)
 - **Requirement**: Attunement for at least 1 year
 - **Effect**: Combine memories from different sources to create new understanding
 - **Process**: Blend up to 3 different memories to synthesize new knowledge or skills
@@ -150,7 +150,7 @@ The Tidal Shard of Memory stands as one of [02_Worldbuilding/Lore/The Seven Shar
 9. **Ancestral Connection**: Access racial or family memories
 10. **Trauma Healing**: Use positive memories to heal psychological wounds
 
-### Tier 3 - Deep Integration (1+ years)  
+### Tier 3 - Deep Integration (1+ years)
 11. **Memory Palace Mastery**: Perfect navigation of Shard's memory collection
 12. **Temporal Viewing**: Observe past events in greater detail and accuracy
 13. **Collective Unconscious**: Tap into species-wide shared experiences
@@ -224,42 +224,42 @@ The Tidal Shard of Memory stands as one of [02_Worldbuilding/Lore/The Seven Shar
 
 ## Adventure Hooks
 ### The Memory Thieves
-**Level**: 7-12  
-**Hook**: Someone is stealing memories from citizens, weakening their connection to personal identity  
-**Investigation**: Trail leads to efforts to unlock Shard's location through forced memory extraction  
-**Complication**: Thieves are using corrupted fragment of Shard's power  
+**Level**: 7-12
+**Hook**: Someone is stealing memories from citizens, weakening their connection to personal identity
+**Investigation**: Trail leads to efforts to unlock Shard's location through forced memory extraction
+**Complication**: Thieves are using corrupted fragment of Shard's power
 **Resolution**: Stop thieves and decide whether to help them find or hide the complete Shard
 
 ### The Forgotten War
-**Level**: 9-14  
-**Hook**: Historical records show gap where major war should be, but everyone denies it happened  
-**Mystery**: Entire conflict has been erased from collective memory by Shard's power  
-**Quest**: Recover lost memories and discover why the war was hidden  
-**Revelation**: War's memory was sealed to prevent its traumatic effects from destroying society  
+**Level**: 9-14
+**Hook**: Historical records show gap where major war should be, but everyone denies it happened
+**Mystery**: Entire conflict has been erased from collective memory by Shard's power
+**Quest**: Recover lost memories and discover why the war was hidden
+**Revelation**: War's memory was sealed to prevent its traumatic effects from destroying society
 **Choice**: Restore painful truth or maintain beneficial ignorance
 
 ### The Living Library
-**Level**: 11-16  
-**Hook**: Shard has been discovered but is creating pocket dimension filled with living memories  
-**Exploration**: Navigate realm where every memory is a tangible location  
-**Danger**: Risk of becoming trapped in recursive loops of experience  
-**Goal**: Establish sustainable access to Shard's knowledge without losing reality  
+**Level**: 11-16
+**Hook**: Shard has been discovered but is creating pocket dimension filled with living memories
+**Exploration**: Navigate realm where every memory is a tangible location
+**Danger**: Risk of becoming trapped in recursive loops of experience
+**Goal**: Establish sustainable access to Shard's knowledge without losing reality
 **Outcome**: Determine how to integrate vast memory collection with modern world
 
 ### The Memory Wars
-**Level**: 13-18  
-**Hook**: Multiple factions wage secret war for control of Shard's location  
-**Conflict**: Each group has legitimate claim to need Shard's knowledge  
-**Complexity**: Previous Shard wielders have left consciousness fragments that choose sides  
-**Stakes**: Winner determines how accumulated human experience will be used  
+**Level**: 13-18
+**Hook**: Multiple factions wage secret war for control of Shard's location
+**Conflict**: Each group has legitimate claim to need Shard's knowledge
+**Complexity**: Previous Shard wielders have left consciousness fragments that choose sides
+**Stakes**: Winner determines how accumulated human experience will be used
 **Resolution**: Find way to share Shard's benefits without enabling exploitation
 
 ### The Final Remembering
-**Level**: 15-20  
-**Hook**: Shard begins actively seeking wielder as reality approaches crisis point  
-**Revelation**: Contains memory of how to prevent or survive upcoming catastrophe  
-**Challenge**: Accessing this knowledge requires merging with Shard's entire memory collection  
-**Risk**: Wielder may lose individual identity in process of gaining cosmic wisdom  
+**Level**: 15-20
+**Hook**: Shard begins actively seeking wielder as reality approaches crisis point
+**Revelation**: Contains memory of how to prevent or survive upcoming catastrophe
+**Challenge**: Accessing this knowledge requires merging with Shard's entire memory collection
+**Risk**: Wielder may lose individual identity in process of gaining cosmic wisdom
 **Epic Choice**: Personal sacrifice for greater good or finding alternative solution
 
 ## Connected Elements
@@ -274,7 +274,7 @@ The Tidal Shard of Memory stands as one of [02_Worldbuilding/Lore/The Seven Shar
 ## DM Notes
 ### Campaign Integration
 - Ultimate source of exposition about world history and pre-Sundering era
-- Powerful reward that grows with character development and campaign investment  
+- Powerful reward that grows with character development and campaign investment
 - Catalyst for major story developments about nature of reality and identity
 - Tool for exploring themes of memory, identity, wisdom, and responsibility
 - Bridge between individual character development and cosmic campaign events

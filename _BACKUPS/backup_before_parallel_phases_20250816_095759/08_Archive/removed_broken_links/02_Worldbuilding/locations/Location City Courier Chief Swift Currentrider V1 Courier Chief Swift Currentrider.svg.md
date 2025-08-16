@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city courier chief swift currentrider v1 courier chief swift currentridersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Courier Chief Swift Currentrider V1 Courier Chief Swift Currentrider.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Deep Patrol V1 the Deep Patrol.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the deep patrol v1 the deep patrolsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

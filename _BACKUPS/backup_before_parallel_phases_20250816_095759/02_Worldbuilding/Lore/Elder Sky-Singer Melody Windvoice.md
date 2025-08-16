@@ -2,7 +2,7 @@
 
 title: Elder Sky-Singer Melody Windvoice
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

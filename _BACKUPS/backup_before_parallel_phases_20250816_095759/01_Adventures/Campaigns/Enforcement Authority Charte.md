@@ -2,7 +2,7 @@
 
 title: Enforcement Authority Charte
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

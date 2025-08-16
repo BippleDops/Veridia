@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc brother matthias the amber bearer v1 brother matthias the amber bearersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Brother Matthias the Amber Bearer V1 Brother Matthias the Amber
   Bearer.svg

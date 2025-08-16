@@ -64,7 +64,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Truth Market ---
 
-title: 
+title:
 *The [texture] surface feels [description] to the touch.*Quest Truth Market
 type: Lore
 tags:

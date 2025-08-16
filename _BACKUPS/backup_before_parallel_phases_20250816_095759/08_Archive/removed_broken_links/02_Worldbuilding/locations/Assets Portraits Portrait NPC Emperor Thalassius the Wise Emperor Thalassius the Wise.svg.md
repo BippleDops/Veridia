@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Emperor Thalassius the Wise Emperor Thalassius
   the Wise.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc emperor thalassius the wise emperor thalassius
   the wisesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

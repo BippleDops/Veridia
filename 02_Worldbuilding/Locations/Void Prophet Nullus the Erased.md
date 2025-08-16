@@ -2,7 +2,7 @@
 
 title: [[Void Prophet us the Erased
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

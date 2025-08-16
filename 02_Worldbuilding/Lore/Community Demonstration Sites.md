@@ -2,7 +2,7 @@
 
 title: Community Demonstration Sites
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

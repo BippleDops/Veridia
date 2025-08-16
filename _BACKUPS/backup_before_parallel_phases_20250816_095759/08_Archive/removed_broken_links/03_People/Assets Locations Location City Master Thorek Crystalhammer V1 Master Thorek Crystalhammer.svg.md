@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Thorek Crystalhammer V1 Master Thorek
   Crystalhammer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master thorek crystalhammer v1 master
   thorek crystalhammersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -196,7 +196,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

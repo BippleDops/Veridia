@@ -2,7 +2,7 @@
 
 title: rod-of-alertness-xdmg ([[Items|Items]])
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Scholar David Crossref V1 Scholar David Crossref.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scholar david crossref v1 scholar david
   crossrefsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -188,7 +188,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

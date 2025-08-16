@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Noble Palatemaster Noble Palatemaster.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city noble palatemaster noble palatemasterpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

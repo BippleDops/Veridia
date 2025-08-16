@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city drift harbor district v1 drift harbor districtsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Drift Harbor District V1 Drift Harbor District.svg
 type: location

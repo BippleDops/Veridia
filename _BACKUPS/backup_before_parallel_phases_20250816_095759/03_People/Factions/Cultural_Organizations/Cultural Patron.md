@@ -2,7 +2,7 @@
 
 title: Cultural Patron
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

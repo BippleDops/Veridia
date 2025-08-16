@@ -2,9 +2,9 @@
 
 title: "Head of Memory Integration Dr. Nautilus Depthc[[Quest Corruption in ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements|..."
 - Related to: Local political structure
-- Connected plots: 
+- Connected plots:
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

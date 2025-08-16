@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temple District V1 Temple District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple district v1 temple districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

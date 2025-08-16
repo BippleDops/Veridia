@@ -7,7 +7,7 @@ location_type: Underground Sanctuary
 region: Aethermoor
 significance: Resistance Stronghold
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/location

@@ -2,7 +2,7 @@
 
 title: Crystal Preservation Society
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

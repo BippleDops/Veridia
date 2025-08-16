@@ -257,4 +257,4 @@ Former associate of the party's patron
 - Requires [[3 Phandalin
 - Requires [Crystal Navigation Tools (Items)]]
 - Related: [[portrait-npc-the-party-v2-the-party.svg_1 (Portraits)]]
-- See also: 
+- See also:

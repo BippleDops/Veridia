@@ -2,7 +2,7 @@
 
 title: [[Deep Mother Spawning Pools
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

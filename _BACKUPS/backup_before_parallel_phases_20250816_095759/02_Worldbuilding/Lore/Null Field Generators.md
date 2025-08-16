@@ -2,7 +2,7 @@
 
 title: Field Generators
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

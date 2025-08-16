@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc shadow binding sanctum v2 shadow binding sanctumsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Shadow Binding Sanctum V2 Shadow Binding Sanctum.svg
 type: npc

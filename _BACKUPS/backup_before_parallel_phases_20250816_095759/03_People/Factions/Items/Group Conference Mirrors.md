@@ -5,7 +5,7 @@ headquarters: Unknown
 improvements: 20
 membership: Unknown
 modified: '2025-08-14'
-tags: 
+tags:
 - item
 title: Group Conference Mirrors
 type: faction

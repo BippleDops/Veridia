@@ -2,7 +2,7 @@
 
 title: Dark Gift of Zrin Hala the Howling Storm Cos
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

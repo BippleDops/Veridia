@@ -2,7 +2,7 @@
 
 title: The Sunken Bazaar
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - active

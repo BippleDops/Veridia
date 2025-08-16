@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city resoce roses v1 resoce rosessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Resoce Roses V1 Resoce Roses.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: The Networker
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

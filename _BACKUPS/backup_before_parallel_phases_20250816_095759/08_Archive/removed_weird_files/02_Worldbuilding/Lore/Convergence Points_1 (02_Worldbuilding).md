@@ -1,7 +1,7 @@
 ---
 title: [[Convergence Points
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

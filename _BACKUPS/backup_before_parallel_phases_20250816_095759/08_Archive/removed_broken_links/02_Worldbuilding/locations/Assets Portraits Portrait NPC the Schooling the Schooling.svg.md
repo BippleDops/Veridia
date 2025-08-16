@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Schooling the Schooling.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the schooling the schoolingsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

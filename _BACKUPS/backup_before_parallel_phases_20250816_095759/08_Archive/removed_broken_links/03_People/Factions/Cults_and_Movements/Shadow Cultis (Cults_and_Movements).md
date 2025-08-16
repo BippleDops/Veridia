@@ -2,7 +2,7 @@
 
 title: Shadow Cultis
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

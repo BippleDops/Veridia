@@ -2,7 +2,7 @@
 
 title: Quartermaster David Simpleton
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

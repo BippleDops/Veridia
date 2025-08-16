@@ -2,7 +2,7 @@
 
 title: The Listener's Code
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

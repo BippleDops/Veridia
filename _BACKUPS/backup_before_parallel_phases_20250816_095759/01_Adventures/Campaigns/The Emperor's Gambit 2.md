@@ -1,5 +1,5 @@
 ---
-connections: 
+connections:
 - '[[02_Worldbuilding/People/The Scattered Emperor'
 - '[02_Worldbuilding/Places/Parliament of Echoes]]'
 - '[[02_Worldbuilding/Lore/Tidal Council'
@@ -7,7 +7,7 @@ connections:
 - '[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos'
 created: '2025-08-11'
 status: draft
-tags: 
+tags:
 - campaign/arc
 - content/lore
 - draft
@@ -17,7 +17,7 @@ tags:
 - status/complete
 - strategy
 - world/aquabyssos
-themes: 
+themes:
 - political_manipulation
 - long_term_strategy
 - hidden_knowledge
@@ -39,7 +39,7 @@ Through his network of [02_Worldbuilding/Lore/Deep Mother]] scholars and surface
 
 His "gambit" was a centuries-long plan involving:
 - Distributing fragments of his consciousness throughout key figures in both worlds
-- Establishing secret protocols within [02_Worldbuilding/Places/Parliament of Echoes]] for cross-dimensional cooperation  
+- Establishing secret protocols within [02_Worldbuilding/Places/Parliament of Echoes]] for cross-dimensional cooperation
 - Creating hidden knowledge caches accessible only during convergence events
 - Positioning loyal agents in positions where they could guide future heroes
 
@@ -134,7 +134,7 @@ If a character proves to be the chosen bloodline bearer:
 ### The Missing Fragments
 Two of the nine aspects have gone silent. Investigation reveals they may have been corrupted by [[02_Worldbuilding/Lore/Deep Mother influence. Can the PCs purify them before the final crisis?
 
-### The Impostor Emperor  
+### The Impostor Emperor
 Someone claiming to be the true Emperor has appeared in both worlds simultaneously. Are they genuine, or a cosmic horror wearing his form? How can the PCs determine the truth when reality itself is unstable?
 
 ### The Gambit's Price

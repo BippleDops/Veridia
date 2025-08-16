@@ -2,7 +2,7 @@
 
 title: Commercial Hubs and Markets
 type: Location
-tags: 
+tags:
 - economy
 - markets
 - both
@@ -144,7 +144,7 @@ The commercial hubs and markets of [[Aethermoor and [Aquabyssos]] serve as the v
 
 **Special Events**:
 - **Monthly Auction Days**: High-value and unique items
-- **Cultural Festivals**: Celebrating various ethnic and national traditions  
+- **Cultural Festivals**: Celebrating various ethnic and national traditions
 - **Emergency Markets**: Crisis-response trading during disasters
 - **Diplomatic Markets**: Special trading during international negotiations
 
@@ -190,7 +190,7 @@ The commercial hubs and markets of [[Aethermoor and [Aquabyssos]] serve as the v
 **Guild Markets**:
 - **Metalworker's Market**: Weapons, armor, tools, and decorative metals
 - **Woodcrafter's Quarter**: Furniture, musical instruments, and artistic carvings
-- **Textile Merchant's Row**: Traditional fabrics, clothing, and tapestries  
+- **Textile Merchant's Row**: Traditional fabrics, clothing, and tapestries
 - **Jeweler's Circle**: Precious stones, fine jewelry, and artistic metalwork
 - **Alchemist's Arcade**: Potions, magical components, and scientific instruments
 
@@ -636,7 +636,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

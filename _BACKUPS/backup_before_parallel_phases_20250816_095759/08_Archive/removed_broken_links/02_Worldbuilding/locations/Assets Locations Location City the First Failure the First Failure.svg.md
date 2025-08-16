@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the First Failure the First Failure.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the first failure the first failuresvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

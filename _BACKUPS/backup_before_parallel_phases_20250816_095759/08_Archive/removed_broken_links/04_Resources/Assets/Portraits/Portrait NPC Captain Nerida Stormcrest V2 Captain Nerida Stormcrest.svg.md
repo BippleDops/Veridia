@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain nerida stormcrest v2 captain nerida stormcrestsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Nerida Stormcrest V2 Captain Nerida Stormcrest.svg
 type: npc

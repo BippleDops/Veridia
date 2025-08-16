@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city quest harbor expansion v1 quest harbor expansionsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Quest Harbor Expansion V1 Quest Harbor Expansion.svg
 type: location

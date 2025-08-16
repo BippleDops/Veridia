@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deepsteel Deepsteel.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deepsteel deepsteelsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc current lord triton of house pelagios v2 current lord triton of house
   pelagiossvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Current Lord Triton of House Pelagios V2 Current Lord Triton of
   House Pelagios.svg

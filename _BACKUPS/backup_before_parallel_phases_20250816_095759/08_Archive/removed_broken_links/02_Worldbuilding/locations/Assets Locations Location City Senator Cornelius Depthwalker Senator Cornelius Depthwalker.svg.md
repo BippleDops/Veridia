@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Senator Cornelius Depthwalker Senator Cornelius
   Depthwalker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city senator cornelius depthwalker senator
   cornelius depthwalkersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

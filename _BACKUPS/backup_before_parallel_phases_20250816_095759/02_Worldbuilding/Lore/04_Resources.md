@@ -2,7 +2,7 @@
 
 title: 04_Resources
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -122,7 +122,7 @@ improvements: 20
 - [Master_Wind_Singer_Melody_Tradition]]
 - [[Sky_Lords_Worship
 - [The Soul Market]]
-- 
+-
 - [[The Pearl Markets
 - [Index (Galleries)]]
 - [[Index

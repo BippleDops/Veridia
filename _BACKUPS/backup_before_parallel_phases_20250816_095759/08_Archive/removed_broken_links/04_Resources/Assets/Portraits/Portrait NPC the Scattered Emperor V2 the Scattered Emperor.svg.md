@@ -2,7 +2,7 @@
 
 title: Portrait NPC the Scattered Emperor V2 the Scattered Emperor.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

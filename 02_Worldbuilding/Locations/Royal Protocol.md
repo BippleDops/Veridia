@@ -2,7 +2,7 @@
 
 title: Royal Protocol
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

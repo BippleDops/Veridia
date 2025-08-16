@@ -65,7 +65,7 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Pretender_1 ## Quest 
+- Moral dilemmas # Quest - The Pretender_1 ## Quest
 *Sounds of [relevant sounds] echo in the distance.*Giver
 
 - **Name**: Local authority figure

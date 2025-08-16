@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Inquisitor Mordecai Truthseeker Inquisitor Mordecai
   Truthseeker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city inquisitor mordecai truthseeker inquisitor
   mordecai truthseekersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

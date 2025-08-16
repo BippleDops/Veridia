@@ -2,7 +2,7 @@
 
 title: identify-important-npcs-adventure-patrons (tables)
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

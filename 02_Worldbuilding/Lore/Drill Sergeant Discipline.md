@@ -2,7 +2,7 @@
 
 title: Drill Sergeant Discipline
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

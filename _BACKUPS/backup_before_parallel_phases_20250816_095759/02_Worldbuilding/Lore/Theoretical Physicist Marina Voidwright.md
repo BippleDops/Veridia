@@ -2,7 +2,7 @@
 
 title: Theoretical Physicist Marina Voidwright
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

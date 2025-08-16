@@ -2,7 +2,7 @@
 
 title: Key Officer
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

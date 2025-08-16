@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city historian lisa outreach v1 historian lisa outreachsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Historian Lisa Outreach V1 Historian Lisa Outreach.svg
 type: location

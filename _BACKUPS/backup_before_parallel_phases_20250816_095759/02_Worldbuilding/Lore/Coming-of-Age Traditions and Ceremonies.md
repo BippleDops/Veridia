@@ -2,7 +2,7 @@
 
 title: Coming-of-Age Traditions and Ceremonies
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc unite the emperor v1 unite the emperorsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Unite the Emperor V1 Unite the Emperor.svg
 type: npc

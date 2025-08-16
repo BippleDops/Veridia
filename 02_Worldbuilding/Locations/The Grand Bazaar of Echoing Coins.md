@@ -2,7 +2,7 @@
 
 title: The Grand Bazaar of Echoing Coins
 type: [[location
-tags: 
+tags:
 - both
 - aerial
 - world/both

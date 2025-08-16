@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Merchant Prince Aldric Goldcurrent V1 Merchant
   Prince Aldric Goldcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant prince aldric goldcurrent v1
   merchant prince aldric goldcurrentsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal
   the Deep Sighted.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc emperor abyssal the deep sighted emperor
   abyssal the deep sightedsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

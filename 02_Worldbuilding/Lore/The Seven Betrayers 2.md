@@ -4,11 +4,11 @@ created: '2025-08-08'
 created_by: auto-stub
 expanded: 2025-08-11
 outcome: Catastrophic Success - Crown Shattered, Crystallization Triggered
-participants: 
+participants:
 - God-King Aetheron
 - Seven Trusted Advisors
 - Divine Court
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Lore/The Great Crystallization'
 - '[02_Worldbuilding/Lore/The Seven Shards]]'
 - '[[02_Worldbuilding/Lore/The Crown of Stars'
@@ -17,7 +17,7 @@ related_entities:
 scale: Continental
 significance: World-Defining
 status: complete
-tags: 
+tags:
 - aethermoor
 - ancient-conspiracy
 - betrayal
@@ -523,7 +523,7 @@ These questions have no easy answers, making the legacy of the Seven Betrayers a
 
 ---
 
-*"Seven hands reached for the stars, and seven stars fell to earth. In their falling, they lit the world on fire - but also illuminated the darkness in mortal hearts."*  
+*"Seven hands reached for the stars, and seven stars fell to earth. In their falling, they lit the world on fire - but also illuminated the darkness in mortal hearts."*
 *- Chronicle of the Shattering, [02_Worldbuilding/Lore/Aethermoor Archives]]*
 
 ## Connections

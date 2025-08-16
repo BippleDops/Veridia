@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Temporal Convergence Storms V1 the Temporal
   Convergence Storms.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the temporal convergence storms v1 the
   temporal convergence stormssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

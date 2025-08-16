@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Thalassa the Deepmother V1 Thalassa the Deepmother.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city thalassa the deepmother v1 thalassa
   the deepmothersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

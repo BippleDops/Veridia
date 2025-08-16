@@ -2,7 +2,7 @@
 
 title: Speaker Marcus Resoce
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

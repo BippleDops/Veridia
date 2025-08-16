@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Quest the Crown S Return Quest the Crown S Return.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the crown s return quest the crown
   s returnsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

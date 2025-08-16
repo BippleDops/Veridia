@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Unity Hopecurrent V1 Unity Hopecurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city unity hopecurrent v1 unity hopecurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

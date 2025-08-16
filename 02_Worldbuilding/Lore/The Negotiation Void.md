@@ -2,7 +2,7 @@
 
 title: The Negotiation Void
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Mistwalker Captain Mistwalker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain mistwalker captain mistwalkersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

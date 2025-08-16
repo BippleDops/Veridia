@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Mad Bell Ringer Thomas V1 Mad Bell Ringer Thomas.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city mad bell ringer thomas v1 mad bell ringer
   thomassvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

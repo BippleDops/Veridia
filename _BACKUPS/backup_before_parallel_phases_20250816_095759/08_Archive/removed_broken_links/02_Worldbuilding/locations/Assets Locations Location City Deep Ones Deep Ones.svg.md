@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Ones Deep Ones.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep ones deep onessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -203,7 +203,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

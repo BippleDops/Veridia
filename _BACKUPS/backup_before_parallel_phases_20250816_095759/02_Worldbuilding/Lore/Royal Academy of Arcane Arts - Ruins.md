@@ -2,7 +2,7 @@
 
 title: [[Royal Academy of Arcane Arts - Ruins
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -2,7 +2,7 @@
 
 title: Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

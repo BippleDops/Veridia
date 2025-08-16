@@ -2,7 +2,7 @@
 
 title: [[Cosmic Truth Seekers
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

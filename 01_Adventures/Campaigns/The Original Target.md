@@ -2,7 +2,7 @@
 
 title: The Original Target
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

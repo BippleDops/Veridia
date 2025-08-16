@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc marina red tide coralheart aquabyssos v1 marina red tide coralheart
   aquabyssossvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Marina Red Tide Coralheart Aquabyssos V1 Marina Red Tide Coralheart
   Aquabyssos.svg

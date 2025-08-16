@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Community Support Networks Community Support
   Networks.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city community support networks community
   support networkssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

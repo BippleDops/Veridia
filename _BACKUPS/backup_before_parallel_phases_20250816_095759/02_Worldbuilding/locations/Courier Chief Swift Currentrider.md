@@ -2,7 +2,7 @@
 
 title: Courier Chief Swift Currentrider
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

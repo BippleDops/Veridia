@@ -2,7 +2,7 @@
 
 title: Treaty of Seven Skies
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city secular community practices v1 secular community practicessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Secular Community Practices V1 Secular Community Practices.svg
 type: location

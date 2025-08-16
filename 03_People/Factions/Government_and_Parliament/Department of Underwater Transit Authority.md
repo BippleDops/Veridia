@@ -2,7 +2,7 @@
 
 title: Department of Underwater Transit Authority
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

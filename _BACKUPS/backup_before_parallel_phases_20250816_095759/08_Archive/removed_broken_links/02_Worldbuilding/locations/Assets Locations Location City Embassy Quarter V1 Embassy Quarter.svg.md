@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Embassy Quarter V1 Embassy Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city embassy quarter v1 embassy quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -189,7 +189,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

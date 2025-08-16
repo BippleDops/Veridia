@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure guard steelwall v1 pressure
   guard steelwallsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

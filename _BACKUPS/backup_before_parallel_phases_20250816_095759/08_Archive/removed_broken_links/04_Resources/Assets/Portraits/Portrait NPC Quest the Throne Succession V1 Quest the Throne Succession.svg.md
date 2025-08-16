@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the throne succession v1 quest the throne successionsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Throne Succession V1 Quest the Throne Succession.svg
 type: npc

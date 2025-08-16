@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Smith Vulcan Deepforge Master Smith Vulcan
   Deepforge.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master smith vulcan deepforge master
   smith vulcan deepforgesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -216,7 +216,7 @@ Mentioned in The First Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

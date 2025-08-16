@@ -2,7 +2,7 @@
 
 title: Cross-Realm Ancestry Rules
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

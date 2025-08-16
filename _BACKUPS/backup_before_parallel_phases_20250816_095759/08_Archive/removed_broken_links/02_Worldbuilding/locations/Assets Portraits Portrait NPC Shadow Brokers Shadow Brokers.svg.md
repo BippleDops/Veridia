@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Shadow Brokers Shadow Brokers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc shadow brokers shadow brokerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

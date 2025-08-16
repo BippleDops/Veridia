@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ambassador Reed Treatymaker V1 Ambassador Reed
   Treatymaker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ambassador reed treatymaker v1 ambassador
   reed treatymakersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

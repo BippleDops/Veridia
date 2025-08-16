@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Supernatural Mysteries Supernatural Mysteries.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry supernatural mysteries supernatural
   mysteriessvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

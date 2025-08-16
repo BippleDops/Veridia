@@ -3,7 +3,7 @@ enhanced: true
 
 title: Technology Void Early Warning System
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - bloodline

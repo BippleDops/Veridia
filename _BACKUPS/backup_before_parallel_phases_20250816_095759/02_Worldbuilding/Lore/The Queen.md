@@ -2,7 +2,7 @@
 
 title: The Queen
 type: [[Lore
-tags: 
+tags:
 - lore
 - crystal-possession
 - convergence

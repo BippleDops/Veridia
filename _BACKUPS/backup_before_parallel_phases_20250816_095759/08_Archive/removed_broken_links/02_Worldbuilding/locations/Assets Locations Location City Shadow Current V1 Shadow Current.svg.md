@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Shadow Current V1 Shadow Current.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadow current v1 shadow currentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

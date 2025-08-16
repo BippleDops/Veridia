@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Coral Shaper Polyp V1 Coral Shaper Polyp.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral shaper polyp v1 coral shaper polypsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

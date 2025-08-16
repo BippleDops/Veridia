@@ -2,7 +2,7 @@
 
 title: Tidal Memory Ceremonies
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - religion

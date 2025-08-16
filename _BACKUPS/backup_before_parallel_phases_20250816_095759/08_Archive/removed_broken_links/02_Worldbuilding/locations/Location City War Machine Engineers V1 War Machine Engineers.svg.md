@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city war machine engineers v1 war machine engineerssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City War Machine Engineers V1 War Machine Engineers.svg
 type: location

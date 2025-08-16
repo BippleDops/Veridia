@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Royal Chaplain Magnus Goldcurrent V1 Royal Chaplain
   Magnus Goldcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal chaplain magnus goldcurrent v1
   royal chaplain magnus goldcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

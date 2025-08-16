@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Reef Communities V1 the Reef Communities.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the reef communities v1 the reef communitiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

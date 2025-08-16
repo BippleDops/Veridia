@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Archdruid Marina Kelpweaver Archdruid Marina
   Kelpweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archdruid marina kelpweaver archdruid
   marina kelpweaversvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -205,7 +205,7 @@ Mentioned in The Hidden Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

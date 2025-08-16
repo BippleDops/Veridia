@@ -2,7 +2,7 @@
 
 title: Aquabyssos - Session 03 - The Gallery Conspiracy
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

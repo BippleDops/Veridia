@@ -2,7 +2,7 @@
 
 title: Crystal Cultivation Training Cente
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

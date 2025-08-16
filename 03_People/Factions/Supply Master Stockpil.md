@@ -2,7 +2,7 @@
 
 title: Supply Master Stockpil
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

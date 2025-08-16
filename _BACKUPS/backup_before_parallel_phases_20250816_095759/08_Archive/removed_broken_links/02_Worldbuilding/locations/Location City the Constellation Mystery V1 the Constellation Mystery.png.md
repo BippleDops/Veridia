@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the constellation mystery v1 the constellation mysterypng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Constellation Mystery V1 the Constellation Mystery.png
 type: location

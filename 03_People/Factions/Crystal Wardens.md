@@ -2,7 +2,7 @@
 
 title: Crystal Wardens
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction
@@ -112,17 +112,17 @@ The order maintains fortress-monasteries throughout Aethermoor, with their prima
 
 *Medium humanoid (any race), lawful good*
 
-**Armor Class** 18 (Crystal Plate Armor)  
-**Hit Points** 75 (`dice: 10d8` + 30)  
+**Armor Class** 18 (Crystal Plate Armor)
+**Hit Points** 75 (`dice: 10d8` + 30)
 **Speed** 30 ft.
 
 **STR** 16 (+3) **DEX** 12 (+1) **CON** 16 (+3) **INT** 13 (+1) **WIS** 14 (+2) **CHA** 15 (+2)
 
-**Saving Throws** Str +6, Con +6, Wis +5  
-**Skills** Athletics +6, Insight +5, Perception +5  
-**Damage Resistances** Radiant; Slashing, Piercing, and Bludgeoning from nonmagical attacks  
-**Senses** Darkvision 60 ft. (crystal-enhanced), passive Perception 15  
-**Languages** Common, Celestial  
+**Saving Throws** Str +6, Con +6, Wis +5
+**Skills** Athletics +6, Insight +5, Perception +5
+**Damage Resistances** Radiant; Slashing, Piercing, and Bludgeoning from nonmagical attacks
+**Senses** Darkvision 60 ft. (crystal-enhanced), passive Perception 15
+**Languages** Common, Celestial
 **Challenge Rating** 5 (1,800 XP)
 
 **Crystal Bond.** The Warden has resistance to necrotic damage and immunity to shadow corruption effects. They can sense shadow-touched creatures within 30 feet.

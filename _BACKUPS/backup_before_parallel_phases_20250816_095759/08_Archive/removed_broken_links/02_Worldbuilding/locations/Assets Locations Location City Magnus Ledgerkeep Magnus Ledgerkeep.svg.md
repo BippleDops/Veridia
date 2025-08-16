@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Magnus Ledgerkeep Magnus Ledgerkeep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city magnus ledgerkeep magnus ledgerkeepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

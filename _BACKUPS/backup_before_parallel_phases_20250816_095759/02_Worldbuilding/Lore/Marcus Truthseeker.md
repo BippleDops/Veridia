@@ -2,7 +2,7 @@
 
 title: Marcus Truthseeker
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

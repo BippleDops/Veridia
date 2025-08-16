@@ -2,7 +2,7 @@
 
 title: Watchtower Prime
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

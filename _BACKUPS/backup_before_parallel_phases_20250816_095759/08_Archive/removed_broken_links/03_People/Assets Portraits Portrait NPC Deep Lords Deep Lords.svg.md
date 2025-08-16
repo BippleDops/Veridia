@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Deep Lords Deep Lords.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc deep lords deep lordssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

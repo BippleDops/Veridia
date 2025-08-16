@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Mother Zealots Deep Mother Zealots.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep mother zealots deep mother zealotssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

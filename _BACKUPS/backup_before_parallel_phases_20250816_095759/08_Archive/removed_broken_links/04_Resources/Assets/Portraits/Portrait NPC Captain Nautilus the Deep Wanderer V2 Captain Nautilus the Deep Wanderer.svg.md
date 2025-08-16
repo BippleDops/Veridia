@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain nautilus the deep wanderer v2 captain nautilus the deep wanderersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Nautilus the Deep Wanderer V2 Captain Nautilus the Deep
   Wanderer.svg

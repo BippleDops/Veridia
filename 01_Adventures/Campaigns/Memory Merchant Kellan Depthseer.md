@@ -2,7 +2,7 @@
 
 title: Memory [[Merchant Kellan Depthseer
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

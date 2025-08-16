@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Shadow Chancellor V1 Shadow Chancellor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadow chancellor v1 shadow chancellorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

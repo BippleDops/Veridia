@@ -2,7 +2,7 @@
 
 title: [[Time|[Timeline]] of Crimes
 type: [[Lore
-tags: 
+tags:
 - lore
 - access/secret
 - conspiracy-development
@@ -125,7 +125,7 @@ The earliest criminal activities occurred during the establishment of the fundam
 - **Long-term Impact**: Creates the infrastructure for reality-manipulation conspiracies that continue to the present day
 
 **The First Conspiracy**
-- **Date**: Unknown (Pre-Divine Period)  
+- **Date**: Unknown (Pre-Divine Period)
 - **Crime Type**: Knowledge Suppression and Information Control
 - **Perpetrators**: Entity coalition seeking to control the development of mortal civilizations
 - **Description**: Systematic suppression of dangerous knowledge and manipulation of early cultural development to create populations vulnerable to later exploitation
@@ -193,7 +193,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,9 +2,9 @@
 
 title: 02_Worldbuilding/People/Dr. Marina Coralhea...
 - Related to: Local political structure
-- Connected plots: 
+- Connected plots:
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city healer sage bondseer v1 healer sage bondseersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Healer Sage Bondseer V1 Healer Sage Bondseer.svg
 type: location

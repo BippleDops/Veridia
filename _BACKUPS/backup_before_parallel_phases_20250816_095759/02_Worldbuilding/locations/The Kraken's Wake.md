@@ -2,7 +2,7 @@
 
 title: The [[Krake|[Kraken]]'s Wake
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

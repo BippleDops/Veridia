@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Gloom Gardens V1 the Gloom Gardens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the gloom gardens v1 the gloom gardenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

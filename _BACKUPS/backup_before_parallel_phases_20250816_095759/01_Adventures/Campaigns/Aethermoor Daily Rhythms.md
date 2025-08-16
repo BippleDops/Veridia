@@ -1,7 +1,7 @@
 ---
 title: [[Aethermoor Daily Rhythms
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aerial
 - status/complete

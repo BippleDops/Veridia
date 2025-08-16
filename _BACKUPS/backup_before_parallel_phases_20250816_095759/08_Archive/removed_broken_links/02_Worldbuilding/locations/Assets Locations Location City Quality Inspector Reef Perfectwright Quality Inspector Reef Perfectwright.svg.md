@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Quality Inspector Reef Perfectwright Quality
   Inspector Reef Perfectwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quality inspector reef perfectwright
   quality inspector reef perfectwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -182,7 +182,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

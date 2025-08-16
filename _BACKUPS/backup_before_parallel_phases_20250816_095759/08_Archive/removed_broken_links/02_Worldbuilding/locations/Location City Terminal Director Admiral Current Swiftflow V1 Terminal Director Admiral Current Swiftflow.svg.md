@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city terminal director admiral current swiftflow v1 terminal director admiral
   current swiftflowsvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Terminal Director Admiral Current Swiftflow V1 Terminal Director
   Admiral Current Swiftflow.svg

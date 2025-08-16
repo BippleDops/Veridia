@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Protocol Expert Formal V1 Protocol Expert Formal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city protocol expert formal v1 protocol expert
   formalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the waking prophets the waking prophetssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -174,7 +174,7 @@ Key locations marked:
 - **Undead**: lich
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 5
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 13** to detect
@@ -206,7 +206,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

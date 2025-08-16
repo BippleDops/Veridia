@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Abyssos Prime Throne of Bubbles Abyssos Prime
   Throne of Bubbles.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc abyssos prime throne of bubbles abyssos
   prime throne of bubblessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -207,7 +207,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

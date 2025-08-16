@@ -2,7 +2,7 @@
 
 title: Demon Customization Tables Unusual Demon
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

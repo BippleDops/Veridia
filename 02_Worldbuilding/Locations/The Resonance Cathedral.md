@@ -2,7 +2,7 @@
 
 title: [[The Resoce Cathedral
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

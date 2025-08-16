@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Archivist Reef Bookkeeper V1 Archivist Reef
   Bookkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archivist reef bookkeeper v1 archivist
   reef bookkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

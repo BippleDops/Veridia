@@ -2,7 +2,7 @@
 
 title: Economic Development Director Carmen Commerc
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

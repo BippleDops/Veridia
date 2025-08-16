@@ -6,7 +6,7 @@
 
 ### 🎮 Adventures/
 - **Sessions/** - Game session notes and logs
-- **Quests/** - Quest descriptions and tracking  
+- **Quests/** - Quest descriptions and tracking
 - **Encounters/** - Combat and social encounters
 - **Campaigns/** - Campaign overviews and arcs
 

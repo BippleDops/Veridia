@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Secondary Education V1 Secondary Education.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city secondary education v1 secondary educationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

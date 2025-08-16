@@ -2,7 +2,7 @@
 
 title: Order of Sacred Winds
 type: organization
-tags: 
+tags:
 - organization
 - society
 - prophecy
@@ -121,7 +121,7 @@ Order of Sacred Winds is a widespread society that serves significant aspects of
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

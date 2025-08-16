@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city vault maintece checklist v1 vault maintece checklistsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Vault Maintece Checklist V1 Vault Maintece Checklist.svg
 type: location

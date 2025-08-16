@@ -2,7 +2,7 @@
 
 title: Safe Passage Guild
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

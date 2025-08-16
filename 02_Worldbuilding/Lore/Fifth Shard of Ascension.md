@@ -2,7 +2,7 @@
 
 title: Fifth Shard of Ascension
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

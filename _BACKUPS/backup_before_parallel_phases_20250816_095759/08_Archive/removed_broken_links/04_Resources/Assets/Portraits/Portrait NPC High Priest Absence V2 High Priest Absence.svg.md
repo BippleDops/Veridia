@@ -2,7 +2,7 @@
 
 title: Portrait NPC High Priest Absence V2 High Priest Absence.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

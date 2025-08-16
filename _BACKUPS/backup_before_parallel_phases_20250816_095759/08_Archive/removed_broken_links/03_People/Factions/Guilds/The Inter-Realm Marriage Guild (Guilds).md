@@ -2,7 +2,7 @@
 
 title: The Inter Realm Marriage Guild
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

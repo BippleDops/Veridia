@@ -2,7 +2,7 @@
 
 title: Introduction
 type: Adventure
-tags: 
+tags:
 - adventure
 - session-notes
 - content/adventure
@@ -24,7 +24,7 @@ level: 1-5
 adventure_level: 4-6
 adventure_type: Political Intrigue & Social Combat
 estimated_sessions: '6'
-themes: 
+themes:
 - political-conspiracy
 - aerial-combat
 - court-intrigue
@@ -121,7 +121,7 @@ These three threats have begun to converge, creating a perfect storm of politica
 - *Weaknesses*: Queen's hidden corruption, growing isolation, internal doubts
 - *Key NPCs*: Admiral Cassandra Stormwind, Lord Commander Gareth Steelborn
 
-**The Restoration Faction** 
+**The Restoration Faction**
 - *Leader*: Prince Caspian Duskwater (in exile)
 - *Goals*: Return to throne, expose queen's corruption, restore "traditional" monarchy
 - *Resources*: Noble sympathizers, foreign backing, network of spies
@@ -129,7 +129,7 @@ These three threats have begun to converge, creating a perfect storm of politica
 - *Key NPCs*: Lord Vexton Shadowmere, Captain Thaddeus Blackwater
 
 **The Purist Coalition**
-- *Leader*: High Inquisitor Maltheos  
+- *Leader*: High Inquisitor Maltheos
 - *Goals*: Eliminate crystal technology, establish theocratic rule, "purify" society
 - *Resources*: Religious authority, growing popular support, militant cells
 - *Weaknesses*: Extremist reputation, internal power struggles, resource limitations
@@ -177,7 +177,7 @@ The adventure's central mystery revolves around discovering that what appears to
 Shadowthorn's master plan involves:
 
 1. **Expose the Queen's Corruption**: Time the revelation to maximize political chaos and discredit the crown
-2. **Eliminate Prince Caspian**: Remove the legitimate heir while making it appear to be royal assassination  
+2. **Eliminate Prince Caspian**: Remove the legitimate heir while making it appear to be royal assassination
 3. **Trigger Purist Uprising**: Use religious extremism to destabilize society and justify authoritarian response
 4. **Seize Emergency Powers**: Position himself as the only figure capable of restoring order
 5. **Establish Shadow Rule**: Transform Aethermoor into a surveillance state under his control
@@ -224,7 +224,7 @@ Queen Seraphina's hidden condition creates multiple layers of intrigue:
 Characters begin the adventure as competent but relatively unknown figures. By its conclusion, they should have:
 
 - Gained reputation with multiple factions (positive or negative)
-- Mastered elements of Aethermoor court etiquette and wind rider customs  
+- Mastered elements of Aethermoor court etiquette and wind rider customs
 - Developed aerial combat skills and weather magic knowledge
 - Formed lasting political relationships that will affect future adventures
 - Influenced the future direction of Aethermoor's government
@@ -234,7 +234,7 @@ Characters begin the adventure as competent but relatively unknown figures. By i
 The six sessions are designed with increasing stakes and complexity:
 
 **Session 1**: Introduction to court politics and initial faction encounters
-**Session 2**: Social investigation disguised as entertainment  
+**Session 2**: Social investigation disguised as entertainment
 **Session 3**: Action and aerial combat with political consequences
 **Session 4**: Major revelation about the conspiracy's scope
 **Session 5**: Political maneuvering and alliance building
@@ -248,7 +248,7 @@ Each session includes multiple possible approaches, ensuring that different part
 
 The adventure's conclusion sets up multiple possible future directions:
 - Traditional fantasy adventures serving the restored monarchy
-- Intrigue campaigns in a reformed government system  
+- Intrigue campaigns in a reformed government system
 - Resistance adventures against an authoritarian regime
 - Cross-world diplomatic missions to Aquabyssos
 - Religious conflicts involving the Purist Coalition
@@ -274,7 +274,7 @@ The adventure provides everything needed for a complex political campaign while 
 For DMs who want to jump directly into the adventure, the essential information is:
 
 - **Hook**: The PCs are summoned to court for a diplomatic mission that becomes a political conspiracy
-- **Central Mystery**: Who is orchestrating the rebellion and why?  
+- **Central Mystery**: Who is orchestrating the rebellion and why?
 - **Key Revelation**: Vex Shadowthorn is playing all factions against each other
 - **Climax**: Choose which faction to support in the final confrontation
 - **Stakes**: The future of Aethermoor's government and society

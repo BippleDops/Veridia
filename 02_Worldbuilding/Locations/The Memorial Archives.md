@@ -1,7 +1,7 @@
 ---
 title: The Memorial Archives
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

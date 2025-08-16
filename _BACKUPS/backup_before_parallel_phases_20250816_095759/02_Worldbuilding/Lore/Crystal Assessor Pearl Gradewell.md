@@ -2,7 +2,7 @@
 
 title: Crystal Assessor Pearl Gradewell
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

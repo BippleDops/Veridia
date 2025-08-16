@@ -2,7 +2,7 @@
 
 title: [[The Tidecaller
 type: [location]]
-tags: 
+tags:
 - status/complete
 - mechanics/magic
 - content/location

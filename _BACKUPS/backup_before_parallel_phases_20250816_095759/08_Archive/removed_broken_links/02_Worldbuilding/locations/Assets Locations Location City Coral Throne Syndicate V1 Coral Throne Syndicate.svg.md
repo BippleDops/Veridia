@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Coral Throne Syndicate V1 Coral Throne Syndicate.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral throne syndicate v1 coral throne
   syndicatesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

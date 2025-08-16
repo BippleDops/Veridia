@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Scribe Master Elena Truthkeeper Scribe Master
   Elena Truthkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scribe master elena truthkeeper scribe
   master elena truthkeepersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

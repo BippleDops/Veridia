@@ -2,7 +2,7 @@
 
 title: Harmonic Mind Contro
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

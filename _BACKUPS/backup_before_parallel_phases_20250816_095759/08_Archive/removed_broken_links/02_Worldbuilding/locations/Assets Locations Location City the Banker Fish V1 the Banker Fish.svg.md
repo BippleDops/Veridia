@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Banker Fish V1 the Banker Fish.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the banker fish v1 the banker fishsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

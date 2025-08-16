@@ -35,7 +35,7 @@ Your TTRPG vault now has a fully reorganized, comprehensively tagged asset syste
 
 ### Asset Distribution:
 - **Portraits**: 9,348 character portraits
-- **[[Maps|Maps**: 20,043 world and area maps  
+- **[[Maps|Maps**: 20,043 world and area maps
 - **Misc**: 8,128 miscellaneous assets
 - **[locations|Locations]]**: 7,644 location scenes
 - **Tokens**: 3,983 game tokens

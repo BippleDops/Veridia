@@ -2,7 +2,7 @@
 
 title: Architect Temporal Wisdom
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

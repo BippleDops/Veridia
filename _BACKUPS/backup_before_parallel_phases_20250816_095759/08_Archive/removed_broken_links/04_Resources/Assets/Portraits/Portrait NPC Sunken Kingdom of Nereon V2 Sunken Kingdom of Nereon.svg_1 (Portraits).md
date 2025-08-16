@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc sunken kingdom of nereon v2 sunken kingdom of nereonsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Sunken Kingdom of Nereon V2 Sunken Kingdom of Nereon.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: Reality Monitoring Specialists
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

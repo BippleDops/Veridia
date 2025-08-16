@@ -2,7 +2,7 @@
 
 title: The Bloodline Carrier
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -36,19 +36,19 @@ improvements: 20
 
 *Medium humanoid (human), lawful good*
 
-**Armor Class** 18 (Plate of the Ancestors + Shield)  
-**Hit Points** 142 (`dice: `dice: 14d10`` + 70)  
+**Armor Class** 18 (Plate of the Ancestors + Shield)
+**Hit Points** 142 (`dice: `dice: 14d10`` + 70)
 **Speed** 30 ft., fly 60 ft. (with crystal wings)
 
 **STR** 18 (+4) **DEX** 12 (+1) **CON** 20 (+5) **INT** 14 (+2) **WIS** 16 (+3) **CHA** 22 (+6)
 
-**Saving Throws** Wis +8, Cha +11  
-**Skills** History +7, Insight +8, Persuasion +11, Religion +12  
-**Damage Resistances** Radiant, Force  
-**Damage Immunities** Charmed (while conscious)  
-**Senses** Darkvision 60 ft., passive Perception 13  
-**Languages** Common, Celestial, Draconic, Ancient Aethermoor  
-**Challenge Rating** 14 (11,500 XP)  
+**Saving Throws** Wis +8, Cha +11
+**Skills** History +7, Insight +8, Persuasion +11, Religion +12
+**Damage Resistances** Radiant, Force
+**Damage Immunities** Charmed (while conscious)
+**Senses** Darkvision 60 ft., passive Perception 13
+**Languages** Common, Celestial, Draconic, Ancient Aethermoor
+**Challenge Rating** 14 (11,500 XP)
 **Proficiency Bonus** +5
 
 ## 🔧 Deep Evaluation Improvements
@@ -215,7 +215,7 @@ He maintains the Bloodline Sanctum, a crystal cathedral where the spirits of his
 
 **Voice**: Speaks with perfect diction and formal grammar, as if addressing a royal court. His voice carries harmonic undertones that suggest multiple speakers.
 
-**Speaking Patterns**: 
+**Speaking Patterns**:
 - "The wisdom of my forebears suggests..."
 - "In the name of my bloodline and its honored dead..."
 - "Noble birth is a gift that must be earned anew each generation..."

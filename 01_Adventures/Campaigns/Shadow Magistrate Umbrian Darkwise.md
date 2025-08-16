@@ -2,7 +2,7 @@
 
 title: Shadow Magistrate Umbrian Darkwise
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

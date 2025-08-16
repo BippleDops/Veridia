@@ -2,7 +2,7 @@
 
 title: interactions-with-others-npc-interaction-traits
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: player_agency_preservation_study
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

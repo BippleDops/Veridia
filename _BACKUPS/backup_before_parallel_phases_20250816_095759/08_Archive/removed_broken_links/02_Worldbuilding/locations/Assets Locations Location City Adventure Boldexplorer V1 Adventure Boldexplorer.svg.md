@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Adventure Boldexplorer V1 Adventure Boldexplorer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city adventure boldexplorer v1 adventure
   boldexplorersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

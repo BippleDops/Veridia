@@ -2,7 +2,7 @@
 
 title: Community Resource Sharing
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

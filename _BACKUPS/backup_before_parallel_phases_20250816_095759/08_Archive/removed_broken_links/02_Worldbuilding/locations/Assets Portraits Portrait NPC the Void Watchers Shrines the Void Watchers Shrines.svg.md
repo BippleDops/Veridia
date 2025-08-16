@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC the Void Watchers Shrines the Void Watchers Shrines.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the void watchers shrines the void watchers
   shrinessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -205,7 +205,7 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

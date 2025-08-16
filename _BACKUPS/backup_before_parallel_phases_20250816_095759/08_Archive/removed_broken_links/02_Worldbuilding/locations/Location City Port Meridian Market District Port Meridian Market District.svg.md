@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city port meridian market district port meridian market districtsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Port Meridian Market District Port Meridian Market District.svg
 type: location

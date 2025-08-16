@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crystal Keepers Crystal Keepers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal keepers crystal keeperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Royal Intelligence
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

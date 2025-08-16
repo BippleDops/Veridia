@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Ambassador Lysandra Silvertonge Ambassador Lysandra
   Silvertonge.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ambassador lysandra silvertonge ambassador
   lysandra silvertongesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

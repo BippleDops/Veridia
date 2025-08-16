@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Banking Lord Cornelius Coinwright Banking Lord
   Cornelius Coinwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc banking lord cornelius coinwright banking
   lord cornelius coinwrightsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

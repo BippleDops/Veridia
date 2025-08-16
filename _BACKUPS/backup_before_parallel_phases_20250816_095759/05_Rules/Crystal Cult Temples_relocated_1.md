@@ -2,7 +2,7 @@
 
 title: Crystal Cult Temples
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - religion
 - temples
@@ -95,10 +95,10 @@ The Crystal Plague has given rise to numerous religious movements that view crys
 
 ### Primary Temple - Hidden Beneath [Port Meridian]]
 
-**Location:** Converted natural cavern system beneath the Old Quarter  
-**High Priestess:** Seraphina the Transformed (Stage 4)  
-**Membership:** 200+ active worshippers, 500+ sym[[pathizers  
-**Doctrine:** Crystallization represents evolution toward divine perfection  
+**Location:** Converted natural cavern system beneath the Old Quarter
+**High Priestess:** Seraphina the Transformed (Stage 4)
+**Membership:** 200+ active worshippers, 500+ sym[[pathizers
+**Doctrine:** Crystallization represents evolution toward divine perfection
 **Status:** Officially banned, operates in secret
 
 The main temple occupies a vast underground cavern discovered during early city construction. Natural crystal formations throughout the space create an atmosphere of otherworldly beauty that believers interpret as divine blessing.
@@ -111,7 +111,7 @@ The main temple occupies a vast underground cavern discovered during early city 
 - Donation collection and new member orientation
 - Guards positioned to detect law enforcement infiltration
 
-**The Gallery of Stages - "The Path of Transformation"**  
+**The Gallery of Stages - "The Path of Transformation"**
 A series of connected chambers representing the progression of crystallization:
 
 - **Stage 1 Chamber:** Soft lighting, comfortable seating, [[Introduction to doctrine
@@ -155,9 +155,9 @@ The most sacred ritual, where willing members undergo procedures to accelerate t
 
 #### High Priestess Seraphina the Transformed
 
-**Age:** 43 (appears ageless due to crystallization)  
-**Stage:** 4 (Voluntarily infected 3 years ago)  
-**Background:** Former [Medical Research Facilities]] who became convinced that cure research was misguided  
+**Age:** 43 (appears ageless due to crystallization)
+**Stage:** 4 (Voluntarily infected 3 years ago)
+**Background:** Former [Medical Research Facilities]] who became convinced that cure research was misguided
 **Abilities:** Levitation, crystal communion, harmonic voice projection
 
 High Priestess Seraphina founded the temple after her deliberate infection with the plague. Her scientific background lends credibility to the cult's theological claims about the divine nature of crystallization.
@@ -168,24 +168,24 @@ Her crystalline formations follow geometric patterns that seem to shift and flow
 
 *Current Projects:*
 - Developing theological framework for crystalline society
-- Training Stage 3-4 members in temple leadership roles  
+- Training Stage 3-4 members in temple leadership roles
 - Coordinating with [[Black Market Crystal Trade suppliers for medical equipment
 - Establishing satellite temples in other cities
 
 #### The Living Saints - Stage 5 Oracles
 
-**Saint Aurelius the Eternal**  
-*Former Identity:* Royal Academy mathematics professor  
-*Transformation:* 18 months ago during university outbreak  
+**Saint Aurelius the Eternal**
+*Former Identity:* Royal Academy mathematics professor
+*Transformation:* 18 months ago during university outbreak
 *Role:* Provides "divine calculations" for temple strategic planning
 
 Saint Aurelius communicates through crystalline light patterns that only other crystal-touched individuals can interpret. His mathematical insights have proved uncannily accurate for predicting plague outbreaks and government enforcement actions.
 
 *Recent Prophecy:* Complex light patterns interpreted as warning about major government crackdown within three months. Temple security preparations are underway.
 
-**Saint Marina the Deep-Touched**  
-*Former Identity:* Deep-sea salvage diver  
-*Transformation:* Infected during deep-ocean expedition  
+**Saint Marina the Deep-Touched**
+*Former Identity:* Deep-sea salvage diver
+*Transformation:* Infected during deep-ocean expedition
 *Role:* Oracle specializing in oceanic and depth-related guidance
 
 Saint Marina's crystalline form incorporates patterns reminiscent of deep-sea [Pressure Effects]]. She serves as the temple's primary advisor on matters related to underwater operations and oceanic spirituality.
@@ -194,9 +194,9 @@ Saint Marina's crystalline form incorporates patterns reminiscent of deep-sea [P
 
 #### The Recruitment Network
 
-**Sister [[Coral Gentletouch**  
-**Age:** 29, **Stage:** 2  
-**Role:** Community outreach and new member recruitment  
+**Sister [[Coral Gentletouch**
+**Age:** 29, **Stage:** 2
+**Role:** Community outreach and new member recruitment
 **Method:** Visits [Crystal Plague Wards]] to offer spiritual comfort to patients
 
 Sister Coral presents herself as a compassionate volunteer providing emotional support to plague victims. Her genuine care and acceptance offers stark contrast to the fear and rejection plague victims encounter elsewhere.
@@ -209,9 +209,9 @@ Sister Coral presents herself as a compassionate volunteer providing emotional s
 
 *Success Rate:* Approximately 30% of contacted patients eventually visit the temple, with 60% of those becoming regular members.
 
-**Brother Tidewell the Sanctuary-Keeper**  
-**Age:** 51, **Stage:** 3  
-**Role:** Safe house operations and member protection  
+**Brother Tidewell the Sanctuary-Keeper**
+**Age:** 51, **Stage:** 3
+**Role:** Safe house operations and member protection
 **Background:** Former [[Merchant with extensive knowledge of city layout and security
 
 Brother Tidewell operates a network of safe houses where plague victims can escape government quarantine or family rejection. These facilities provide practical support while introducing residents to cult teachings.
@@ -226,10 +226,10 @@ Brother Tidewell operates a network of safe houses where plague victims can esca
 
 ### Underwater Sanctuary - Benthic Trench Temple
 
-**Location:** Natural deep-sea trench, 2,000 feet below Port Meridian  
-**High Priest:** Nereon the Depth-Blessed (Stage 5)  
-**Membership:** 75+ waterbreathing or magically adapted cultists  
-**Doctrine:** Crystallization is oceanic evolution, returning humanity to primordial sea-state  
+**Location:** Natural deep-sea trench, 2,000 feet below Port Meridian
+**High Priest:** Nereon the Depth-Blessed (Stage 5)
+**Membership:** 75+ waterbreathing or magically adapted cultists
+**Doctrine:** Crystallization is oceanic evolution, returning humanity to primordial sea-state
 **Access:** Submarine transport or magical water-breathing required
 
 This underwater temple attracts members who believe the plague represents humanity's return to oceanic origins. The extreme depth and pressure environment accelerates plague progression while creating unique crystalline formations.
@@ -267,9 +267,9 @@ Members practice abilities associated with their transformation stage, viewing t
 
 #### [High Priest Nereon]] the Depth-Blessed
 
-**Age:** Unknown (crystalline beings don't age normally)  
-**Stage:** 5 (Transformed 4 years ago)  
-**Background:** Former deep-sea exp[[Lorer and pressure researcher  
+**Age:** Unknown (crystalline beings don't age normally)
+**Stage:** 5 (Transformed 4 years ago)
+**Background:** Former deep-sea exp[[Lorer and pressure researcher
 **Form:** Crystalline structure optimized for extreme pressure environments
 
 High Priest Nereon's crystalline body resembles a living deep-sea creature made of luminous crystal. His consciousness remains accessible through the Living Reef, though individual personality has merged with collective oceanic awareness.
@@ -278,35 +278,35 @@ High Priest Nereon's crystalline body resembles a living deep-sea creature made 
 
 #### The [Depth Warden]]s
 
-**Warden Thalassa Currentride**  
-**Age:** 34, **Stage:** 4  
-**Role:** Temple security and surface-world intelligence  
+**Warden Thalassa Currentride**
+**Age:** 34, **Stage:** 4
+**Role:** Temple security and surface-world intelligence
 **Abilities:** Pressure resistance, underwater mobility, crystal-enhanced sonar
 
 Warden Thalassa maintains the temple's security through magical surveillance of surrounding ocean areas. Her crystalline enhancements provide natural sonar abilities and pressure resistance superior to magical equipment.
 
-**Warden Pelagic Deepstrike**  
-**Age:** 41, **Stage:** 4  
-**Role:** Recruitment operations and underwater transportation  
+**Warden Pelagic Deepstrike**
+**Age:** 41, **Stage:** 4
+**Role:** Recruitment operations and underwater transportation
 **Background:** Former submarine captain with intimate knowledge of oceanic navigation
 
 Warden Pelagic operates the temple's submarine transportation network, ferrying new members and supplies between surface and temple facilities.
 
 ### Mathematical Temple - Hidden Academy Wing
 
-**Location:** Concealed rooms within Port Meridian University mathematics building  
-**High Mathematician:** Professor Elena Voidscript (Stage 4, voluntary infection)  
-**Membership:** 30+ academics, researchers, and intellectuals  
-**Doctrine:** Crystallization represents mathematical perfection made manifest  
+**Location:** Concealed rooms within Port Meridian University mathematics building
+**High Mathematician:** Professor Elena Voidscript (Stage 4, voluntary infection)
+**Membership:** 30+ academics, researchers, and intellectuals
+**Doctrine:** Crystallization represents mathematical perfection made manifest
 **Approach:** Scholarly study of transformation as natural mathematical process
 
 This intellectual branch of crystal cult movement attracts educated individuals who approach crystalline transformation as a subject of academic study rather than purely religious devotion.
 
 #### The Sacred Geometry Laboratory
 
-**Research Focus:** Mathematical analysis of crystalline growth patterns  
-**Equipment:** Advanced magical calculation devices and geometric analysis tools  
-**Discoveries:** Crystalline formations follow previously unknown mathematical principles  
+**Research Focus:** Mathematical analysis of crystalline growth patterns
+**Equipment:** Advanced magical calculation devices and geometric analysis tools
+**Discoveries:** Crystalline formations follow previously unknown mathematical principles
 **Applications:** Predictions about plague progression based on geometric modeling
 
 *Recent Breakthrough:* Discovery that individual crystalline patterns contain mathematical formulae for predicting personal transformation progression with 85% accuracy.
@@ -324,9 +324,9 @@ Carefully selected research findings are published in academic journals, gradual
 
 #### Professor Elena Voidscript - High Mathematician
 
-**Age:** 29, **Stage:** 4  
-**Background:** Youngest professor in university history, voluntarily infected for research  
-**Specialization:** Geometric analysis of crystalline transformation  
+**Age:** 29, **Stage:** 4
+**Background:** Youngest professor in university history, voluntarily infected for research
+**Specialization:** Geometric analysis of crystalline transformation
 **Status:** Officially on "medical leave," actually teaching cult members
 
 Professor Voidscript's academic credentials lend intellectual legitimacy to cult activities. Her research papers on crystalline mathematics are studied by both cult members and mainstream researchers.
@@ -335,14 +335,14 @@ Professor Voidscript's academic credentials lend intellectual legitimacy to cult
 
 #### The Research Collective
 
-**Dr. Marcus Patternweave**  
-**Age:** 45, **Stage:** 3  
-**Research Focus:** Statistical analysis of transformation outcomes  
+**Dr. Marcus Patternweave**
+**Age:** 45, **Stage:** 3
+**Research Focus:** Statistical analysis of transformation outcomes
 **Contribution:** Developed probability models for predicting successful transcendence
 
-**Professor Coral Formulaic**  
-**Age:** 38, **Stage:** 2  
-**Research Focus:** Applications of crystalline mathematics to practical problems  
+**Professor Coral Formulaic**
+**Age:** 38, **Stage:** 2
+**Research Focus:** Applications of crystalline mathematics to practical problems
 **Achievement:** Created architectural designs using crystalline geometric principles
 
 ### The Ancient Conspiracy
@@ -395,9 +395,9 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 
 #### The Religious Crimes Division
 
-**Commander:** Captain Helena Faithguard  
-**Personnel:** 25 investigators, 50 enforcement agents  
-**Budget:** 30,000 gold pieces annually  
+**Commander:** Captain Helena Faithguard
+**Personnel:** 25 investigators, 50 enforcement agents
+**Budget:** 30,000 gold pieces annually
 **Mission:** Investigate and disrupt crystal cult operations
 
 *Major Operations:*
@@ -414,7 +414,7 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 #### Anti-Cult Legislation
 
 **The [[Public Safety Protection Act**
-- Prohibits "encouragement of plague progression" 
+- Prohibits "encouragement of plague progression"
 - Criminalizes medical advice from non-licensed practitioners
 - Allows seizure of property used for cult activities
 - Establishes penalties up to 10 years imprisonment for cult leadership
@@ -433,9 +433,9 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 
 #### The Temple Infiltration Project
 
-**Operation Shepherd:** Undercover agents attempt to join cult organizations  
-**Success Rate:** 15% of agents successfully gain cult membership  
-**Intelligence Gathered:** Basic operational procedures, membership lists, some ritual practices  
+**Operation Shepherd:** Undercover agents attempt to join cult organizations
+**Success Rate:** 15% of agents successfully gain cult membership
+**Intelligence Gathered:** Basic operational procedures, membership lists, some ritual practices
 **Limitations:** Advanced cult members detect most infiltration attempts
 
 *Agent Report Extract:*
@@ -443,14 +443,14 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 
 #### The Information War
 
-**Propaganda Campaign:** Public education about cult recruitment methods  
-**Counter-Messaging:** Alternative religious interpretations of plague emphasizing cure-seeking  
-**Media Control:** Censorship of cult literature and recruitment materials  
+**Propaganda Campaign:** Public education about cult recruitment methods
+**Counter-Messaging:** Alternative religious interpretations of plague emphasizing cure-seeking
+**Media Control:** Censorship of cult literature and recruitment materials
 **Effectiveness:** Moderate success in preventing cult growth, minimal impact on existing membership
 
 *Public Opinion Polling Results:*
 - 35% of citizens view cults as dangerous extremist organizations
-- 40% see cults as misguided but sympathetic response to tragedy  
+- 40% see cults as misguided but sympathetic response to tragedy
 - 25% express varying degrees of support for cult perspectives
 - Support correlates strongly with personal experience of plague in family
 

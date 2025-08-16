@@ -2,7 +2,7 @@
 
 title: The [[Fortress of the Deeps
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

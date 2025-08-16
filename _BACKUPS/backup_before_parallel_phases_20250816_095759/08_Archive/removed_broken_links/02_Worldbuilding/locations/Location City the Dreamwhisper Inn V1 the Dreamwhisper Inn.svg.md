@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the dreamwhisper inn v1 the dreamwhisper innsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Dreamwhisper Inn V1 the Dreamwhisper Inn.svg
 type: location

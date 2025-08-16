@@ -2,7 +2,7 @@
 
 title: Trade Council Representative Nerissa Pearlsong
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

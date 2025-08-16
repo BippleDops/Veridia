@@ -2,7 +2,7 @@
 
 title: Shadow Integration Coordinator Luna Bridgebuilder
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: Cross Cultural Adaptation Technique
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

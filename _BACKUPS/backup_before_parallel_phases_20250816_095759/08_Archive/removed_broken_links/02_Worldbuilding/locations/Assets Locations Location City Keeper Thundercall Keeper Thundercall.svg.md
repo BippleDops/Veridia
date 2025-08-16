@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Keeper Thundercall Keeper Thundercall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper thundercall keeper thundercallsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

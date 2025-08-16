@@ -2,7 +2,7 @@
 
 title: [[Coral Courts
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

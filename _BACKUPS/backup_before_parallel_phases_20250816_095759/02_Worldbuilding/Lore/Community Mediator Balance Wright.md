@@ -2,7 +2,7 @@
 
 title: Community Mediator Balance Wright
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

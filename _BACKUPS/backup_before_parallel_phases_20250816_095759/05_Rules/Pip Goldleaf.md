@@ -2,7 +2,7 @@
 
 title: Pip Goldleaf
 type: [[location
-tags: 
+tags:
 - aerial
 - family
 - content/location
@@ -115,16 +115,16 @@ Unlike older generations of merchants who focus primarily on established trade r
 
 **Pip Goldleaf** (Small humanoid, chaotic good)
 
-**Armor Class** 14 (Leather Armor + Dex)  
-**Hit Points** 45 (`dice: 6d8` + 12)  
+**Armor Class** 14 (Leather Armor + Dex)
+**Hit Points** 45 (`dice: 6d8` + 12)
 **Speed** 25 ft.
 
 **STR** 10 (+0) **DEX** 16 (+3) **CON** 14 (+2) **INT** 15 (+2) **WIS** 13 (+1) **CHA** 17 (+3)
 
-**Saving Throws** Dexterity +6, Charisma +6  
-**Skills** Acrobatics +6, Deception +6, Insight +4, Investigation +5, Perception +7, Persuasion +9, Sleight of Hand +6, Stealth +9  
-**Languages** Common, Halfling, plus 2 trade languages  
-**Challenge Rating** 4 (1,100 XP)  
+**Saving Throws** Dexterity +6, Charisma +6
+**Skills** Acrobatics +6, Deception +6, Insight +4, Investigation +5, Perception +7, Persuasion +9, Sleight of Hand +6, Stealth +9
+**Languages** Common, Halfling, plus 2 trade languages
+**Challenge Rating** 4 (1,100 XP)
 **Proficiency Bonus** +3
 
 ### Special Abilities
@@ -263,28 +263,28 @@ Belief that successful merchants have responsibility to contribute positively to
 
 ### The New Market
 
-**Level**: 4-7  
+**Level**: 4-7
 **Type**: Commercial/Exploration
 
 Pip has discovered potential for new trade route or market opportunity, but investigation requires travel through dangerous territory and negotiation with unfamiliar cultures.
 
 ### The Family Crisis
 
-**Level**: 5-8  
+**Level**: 5-8
 **Type**: Family/Business Drama
 
 Problems within the Goldleaf Trading House threaten family business and reputation, requiring Pip to prove capability while protecting family interests.
 
 ### The Innovation Opportunity
 
-**Level**: 3-6  
+**Level**: 3-6
 **Type**: Commercial/Technical
 
 Pip has encountered new technology or magical innovation with commercial potential, but development requires research, resources, and protection from competitors.
 
 ### The Cultural Exchange
 
-**Level**: 6-9  
+**Level**: 6-9
 **Type**: Diplomatic/Commercial
 
 Pip is selected to represent family interests in complex cultural and commercial negotiations requiring sensitivity, skill, and courage.
@@ -415,7 +415,7 @@ Mentioned in The First Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

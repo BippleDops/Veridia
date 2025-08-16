@@ -2,7 +2,7 @@
 
 title: The Godhead Ritual
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

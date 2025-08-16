@@ -2,7 +2,7 @@
 
 title: Market Heist
 type: Location
-tags: 
+tags:
 - aquabyssos
 - content/adventure
 - status/complete

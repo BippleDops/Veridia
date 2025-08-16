@@ -3,7 +3,7 @@ enhanced: true
 
 title: Concentration
 type: concentration
-tags: 
+tags:
 - mechanics
 - tracking
 - spells

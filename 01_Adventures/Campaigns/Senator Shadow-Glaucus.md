@@ -2,7 +2,7 @@
 
 title: [[Senator Shadow Glaucus
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

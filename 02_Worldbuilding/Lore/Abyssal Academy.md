@@ -2,7 +2,7 @@
 
 title: Abyssal Academy
 type: [[Lore
-tags: 
+tags:
 - lore
 - academy
 - aquabyssos
@@ -29,11 +29,11 @@ founded: Third Age of Aquabyssos
 government: '[[Parliament of Echoes'
 leader: '[[Professor Euclid Mindmaze|[Professor Euclid Mindmaze]]|[[02_Worldbuilding|02 Worldbuilding/[People]]/Professor Euclid Mindmaze]]'
 parent_location: '[[Abyssos Prime'
-related_entities: 
+related_entities:
 - '[Deep Mother]]'
 - '[[Aboleth|[Aboleth Mind Mazes]]'
 - '[[The Abyss Beneath Aquabyssos|[[The Abyss Beneath Aquabyssos|02 Worldbuilding/[Places]]/The Abyss Beneath Aquabyssos]]'
-specialties: 
+specialties:
 - Deep Lore Research
 - Psionic Studies
 - Aberrant Biology
@@ -119,7 +119,7 @@ The Academy consists of seven interconnected spiral towers, each devoted to a di
 **First Year Studies:**
 - Fundamentals of Deep Survival
 - Elementary Psionics
-- Aquabyssos History and Culture  
+- Aquabyssos History and Culture
 - Basic Aberrant Biology
 - Pressure Adaptation Theory
 

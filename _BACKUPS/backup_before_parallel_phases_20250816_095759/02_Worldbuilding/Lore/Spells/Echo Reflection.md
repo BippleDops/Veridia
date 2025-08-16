@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Spells/Echo Reflection
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

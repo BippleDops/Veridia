@@ -2,7 +2,7 @@
 
 title: Echo Keeper Selin
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

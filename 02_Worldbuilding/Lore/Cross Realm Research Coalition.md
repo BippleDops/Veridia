@@ -2,7 +2,7 @@
 
 title: Cross Realm Research Coalition
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

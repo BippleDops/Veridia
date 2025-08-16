@@ -2,7 +2,7 @@
 
 title: Quantum Compromise Protocols
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

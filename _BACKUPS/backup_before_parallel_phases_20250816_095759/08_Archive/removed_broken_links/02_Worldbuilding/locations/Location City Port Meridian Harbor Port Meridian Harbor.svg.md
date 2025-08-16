@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city port meridian harbor port meridian harborsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Port Meridian Harbor Port Meridian Harbor.svg
 type: location

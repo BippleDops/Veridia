@@ -66,36 +66,36 @@
 # [Settlement Name]
 
 ## Overview
-**Population:** 
-**Size:** 
-**Government:** 
-**Notable Features:** 
+**Population:**
+**Size:**
+**Government:**
+**Notable Features:**
 
 ## Description
 
 ## Districts/Areas
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## Notable NPCs
-- 
-- 
-- 
+-
+-
+-
 
 ## Shops & Services
-- **Inn:** 
-- **Tavern:** 
-- **General Store:** 
-- **Blacksmith:** 
-- **Temple:** 
+- **Inn:**
+- **Tavern:**
+- **General Store:**
+- **Blacksmith:**
+- **Temple:**
 
 ## Current Events
 
 ## Secrets
 
 ## Plot Hooks
-1. 
-2. 
-3. 
+1.
+2.
+3.
 ```

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper valdris goldvault v1 keeper valdris goldvaultsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper Valdris Goldvault V1 Keeper Valdris Goldvault.svg
 type: location

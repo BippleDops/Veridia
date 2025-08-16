@@ -2,7 +2,7 @@
 
 title: The Cold Houses
 type: [[Lore
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

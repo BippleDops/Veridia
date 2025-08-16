@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Government Leader Capable Government Leader
   Capable.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city government leader capable government
   leader capablesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

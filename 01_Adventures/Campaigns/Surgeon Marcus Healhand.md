@@ -2,7 +2,7 @@
 
 title: Surgeon Marcus Healhand
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

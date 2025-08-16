@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Constitutional Monarchy V1 Constitutional Monarchy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city constitutional monarchy v1 constitutional
   monarchysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

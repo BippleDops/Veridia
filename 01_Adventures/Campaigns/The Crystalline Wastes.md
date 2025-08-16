@@ -1,7 +1,7 @@
 ---
 title: The Crystalline Wastes
 type: Location
-tags: 
+tags:
 - world/surface
 - status/complete
 - mechanics/magic
@@ -24,7 +24,7 @@ climate: Magically Altered Desert
 current_status: Quarantined, Heavily Monitored
 danger_level: 10
 formation_cause: '[[The Great Crystallization'
-related_entities: 
+related_entities:
 - '[Crystalhaven]]'
 - '[[The Seven Shards'
 - '[The Crimson Sage]]'

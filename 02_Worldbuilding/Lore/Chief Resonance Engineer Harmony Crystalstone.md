@@ -2,7 +2,7 @@
 
 title: Chief Resoce Engineer Harmony Crystalstone
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

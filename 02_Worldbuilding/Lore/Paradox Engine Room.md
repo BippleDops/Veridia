@@ -2,7 +2,7 @@
 
 title: Paradox Engine Room
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Archaeological Discoveries Archaeological Discoveries.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archaeological discoveries archaeological
   discoveriessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

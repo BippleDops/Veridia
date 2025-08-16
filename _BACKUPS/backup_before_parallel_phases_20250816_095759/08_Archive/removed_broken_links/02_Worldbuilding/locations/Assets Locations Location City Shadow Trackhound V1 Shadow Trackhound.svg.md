@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Shadow Trackhound V1 Shadow Trackhound.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadow trackhound v1 shadow trackhoundsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

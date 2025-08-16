@@ -2,7 +2,7 @@
 
 title: Corruption Mystic Serafina Shadowheart
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

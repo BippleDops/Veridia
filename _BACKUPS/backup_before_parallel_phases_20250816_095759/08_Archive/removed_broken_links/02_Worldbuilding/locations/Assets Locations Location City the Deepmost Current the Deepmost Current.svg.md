@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Deepmost Current the Deepmost Current.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the deepmost current the deepmost currentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

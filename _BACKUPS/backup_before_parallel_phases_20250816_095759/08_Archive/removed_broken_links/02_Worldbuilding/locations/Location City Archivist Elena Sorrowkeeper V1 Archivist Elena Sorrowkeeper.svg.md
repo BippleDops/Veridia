@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city archivist elena sorrowkeeper v1 archivist elena sorrowkeepersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Archivist Elena Sorrowkeeper V1 Archivist Elena Sorrowkeeper.svg
 type: location

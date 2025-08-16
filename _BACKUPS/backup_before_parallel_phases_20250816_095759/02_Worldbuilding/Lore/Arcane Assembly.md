@@ -2,7 +2,7 @@
 
 title: Arcane Assembly
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the seven shards mystery the seven shards mysterysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Seven Shards Mystery the Seven Shards Mystery.svg
 type: location

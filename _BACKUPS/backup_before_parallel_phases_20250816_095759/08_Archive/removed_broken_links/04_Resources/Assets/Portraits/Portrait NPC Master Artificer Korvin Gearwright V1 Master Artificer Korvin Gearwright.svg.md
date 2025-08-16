@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc master artificer korvin gearwright v1 master artificer korvin gearwrightsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Master Artificer Korvin Gearwright V1 Master Artificer Korvin
   Gearwright.svg

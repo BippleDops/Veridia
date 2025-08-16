@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Artificer Artificer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city artificer artificersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

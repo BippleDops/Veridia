@@ -2,7 +2,7 @@
 
 title: Modify Total XP for Multiple Monsters Encounter Multipliers
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

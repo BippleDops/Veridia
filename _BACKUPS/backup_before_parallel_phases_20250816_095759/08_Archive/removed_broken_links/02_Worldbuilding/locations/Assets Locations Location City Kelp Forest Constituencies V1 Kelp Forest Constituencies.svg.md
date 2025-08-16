@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Kelp Forest Constituencies V1 Kelp Forest Constituencies.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city kelp forest constituencies v1 kelp forest
   constituenciessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

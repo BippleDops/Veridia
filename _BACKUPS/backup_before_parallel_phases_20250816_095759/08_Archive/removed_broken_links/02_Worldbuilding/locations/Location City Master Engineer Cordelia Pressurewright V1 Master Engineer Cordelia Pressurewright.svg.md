@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master engineer cordelia pressurewright v1 master engineer cordelia
   pressurewrightsvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Engineer Cordelia Pressurewright V1 Master Engineer Cordelia
   Pressurewright.svg

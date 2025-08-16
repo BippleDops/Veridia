@@ -2,7 +2,7 @@
 
 title: Shadow Portal Nexus
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]
@@ -161,7 +161,7 @@ Ongoing situations affecting Shadow Portal Nexus:
 - **Undead**: wight
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 2
-  
+
 ### [Environmental Hazards]]
 - Poisonous gas
 - **DC 13** to detect

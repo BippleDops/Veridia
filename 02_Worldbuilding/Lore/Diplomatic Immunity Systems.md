@@ -2,7 +2,7 @@
 
 title: [[Diplomatic Immunity Systems
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

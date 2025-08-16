@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city brother matthias inkdrinker brother matthias inkdrinkersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Brother Matthias Inkdrinker Brother Matthias Inkdrinker.svg
 type: location

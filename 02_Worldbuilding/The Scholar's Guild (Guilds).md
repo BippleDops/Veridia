@@ -2,7 +2,7 @@
 
 title: The Scholar's Guild
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

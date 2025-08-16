@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Progressive Coalition Headquarters V1 the
   Progressive Coalition Headquarters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the progressive coalition headquarters
   v1 the progressive coalition headquarterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

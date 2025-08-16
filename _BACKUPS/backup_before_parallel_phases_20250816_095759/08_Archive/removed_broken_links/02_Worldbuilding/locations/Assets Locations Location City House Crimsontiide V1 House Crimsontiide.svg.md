@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City House Crimsontiide V1 House Crimsontiide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city house crimsontiide v1 house crimsontiidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

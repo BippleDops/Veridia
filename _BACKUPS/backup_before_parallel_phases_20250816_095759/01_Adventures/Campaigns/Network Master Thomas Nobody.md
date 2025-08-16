@@ -2,7 +2,7 @@
 
 title: Network Master Thomas Nobody
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

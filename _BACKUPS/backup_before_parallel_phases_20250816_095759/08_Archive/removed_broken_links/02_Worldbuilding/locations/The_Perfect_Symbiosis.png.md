@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - The Perfect Symbiosispng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - note
 title: The Perfect Symbiosis.png
 type: location

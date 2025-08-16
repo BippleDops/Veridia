@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Archivist Thomas Scrollkeeper Master
   Archivist Thomas Scrollkeeper.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master archivist thomas scrollkeeper
   master archivist thomas scrollkeeperpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

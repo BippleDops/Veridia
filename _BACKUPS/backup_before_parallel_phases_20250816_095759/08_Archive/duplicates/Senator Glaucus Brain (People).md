@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Senator Glaucus Brain
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

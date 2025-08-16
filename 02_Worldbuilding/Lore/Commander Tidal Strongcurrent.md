@@ -2,7 +2,7 @@
 
 title: Commander Tidal Strongcurrent
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

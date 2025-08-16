@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Commerce Manager Fairdealin Commerce Manager
   Fairdealin.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry commerce manager fairdealin commerce
   manager fairdealinsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

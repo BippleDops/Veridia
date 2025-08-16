@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city scream saturation rules scream saturation rulessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Scream Saturation Scream Saturation Rules.svg
 type: location

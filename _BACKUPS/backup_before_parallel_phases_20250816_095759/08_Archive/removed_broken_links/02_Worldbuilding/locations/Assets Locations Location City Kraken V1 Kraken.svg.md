@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Kraken V1 Kraken.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city kraken v1 krakensvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

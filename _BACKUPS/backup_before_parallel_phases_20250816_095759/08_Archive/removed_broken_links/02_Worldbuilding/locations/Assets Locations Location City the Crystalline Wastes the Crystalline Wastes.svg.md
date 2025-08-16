@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Crystalline Wastes the Crystalline Wastes.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystalline wastes the crystalline
   wastessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -188,7 +188,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

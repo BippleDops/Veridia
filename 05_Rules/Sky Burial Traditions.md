@@ -2,7 +2,7 @@
 
 title: Sky Burial Traditions
 type: [[Lore
-tags: 
+tags:
 - lore
 - afterlife
 - religion
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-connections: 
+connections:
 - '[Aethermoor]]'
 - '[[Skyforge|[Skyforged Crystal Worship]]'
 - '[[Wind Songs|Aetheric [Wind Songs]]'
@@ -31,7 +31,7 @@ connections:
 - '[Princess Celestia]]'
 - '[[Queen Seraphina'
 created_by: cultural-expansion
-themes: 
+themes:
 - death_rituals
 - aerial_customs
 - wind_spirits

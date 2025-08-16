@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Memory Coral Reefs Memory Coral Reefs.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory coral reefs memory coral reefssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -199,7 +199,7 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

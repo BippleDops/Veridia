@@ -1,7 +1,7 @@
 ---
 title: Amnesia Gallery
 type: Location
-tags: 
+tags:
 - gallery
 - aquatic
 - content/location

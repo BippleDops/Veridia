@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Community Organizations V1 Community Organizations.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city community organizations v1 community
   organizationssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -7,7 +7,7 @@
 - **Icon:** 🧙 for NPCs
 - **Color:** Blue for allies, Red for enemies, Yellow for neutral
 
-### Location Links  
+### Location Links
 - **Format:** `[Location Name|🏰 Display Name]]`
 - **Icon:** 🏰 for cities, 🏕️ for camps, 🏠 for buildings
 - **Color:** Green for safe areas, Red for dangerous

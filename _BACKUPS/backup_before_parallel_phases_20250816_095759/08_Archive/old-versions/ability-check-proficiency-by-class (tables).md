@@ -2,7 +2,7 @@
 
 title: ability-check-proficiency-by-class (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

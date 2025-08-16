@@ -2,7 +2,7 @@
 
 title: Mirror [[Merchant Marina
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

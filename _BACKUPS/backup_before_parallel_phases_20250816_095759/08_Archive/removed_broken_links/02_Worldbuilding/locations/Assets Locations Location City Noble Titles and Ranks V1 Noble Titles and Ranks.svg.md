@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Noble Titles and Ranks V1 Noble Titles and Ranks.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city noble titles and ranks v1 noble titles
   and rankssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

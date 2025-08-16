@@ -2,7 +2,7 @@
 
 title: Healer Marina Greenboug
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

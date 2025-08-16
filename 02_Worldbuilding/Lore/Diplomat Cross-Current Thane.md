@@ -2,7 +2,7 @@
 
 title: Diplomat Cross Current Thane
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

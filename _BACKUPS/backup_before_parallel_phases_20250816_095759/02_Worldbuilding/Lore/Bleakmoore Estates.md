@@ -2,7 +2,7 @@
 
 title: Bleakmoore Estates
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

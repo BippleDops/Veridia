@@ -2,7 +2,7 @@
 
 title: Keeper Elara Mindwell
 type: [[location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - world/aquabyssos
@@ -126,16 +126,16 @@ As Senior Cultural Advisor to diplomatic missions, Keeper Mindwell specializes i
 
 **Keeper Elara Mindwell** (Medium humanoid, lawful good)
 
-**Armor Class** 15 (Robes of the Arcanist)  
-**Hit Points** 82 (1[`dice: 2d6`]] + 36)  
+**Armor Class** 15 (Robes of the Arcanist)
+**Hit Points** 82 (1[`dice: 2d6`]] + 36)
 **Speed** 30 ft., swim 30 ft.
 
 **STR** 10 (+0) **DEX** 13 (+1) **CON** 16 (+3) **INT** 20 (+5) **WIS** 18 (+4) **CHA** 14 (+2)
 
-**Saving Throws** Intelligence +10, Wisdom +9  
-**Skills** Arcana +15, History +15, Insight +14, Investigation +10, Medicine +9, Perception +9  
-**Languages** Common, Aquan, Celestial, Draconic, Giant, Primordial, plus 4 ancient languages  
-**Challenge Rating** 8 (3,900 XP)  
+**Saving Throws** Intelligence +10, Wisdom +9
+**Skills** Arcana +15, History +15, Insight +14, Investigation +10, Medicine +9, Perception +9
+**Languages** Common, Aquan, Celestial, Draconic, Giant, Primordial, plus 4 ancient languages
+**Challenge Rating** 8 (3,900 XP)
 **Proficiency Bonus** +4
 
 ### Special Abilities
@@ -262,46 +262,46 @@ This project represents her most ambitious intellectual undertaking but also her
 
 ### The Lost Cultural Archive
 
-**Level**: 6-9  
+**Level**: 6-9
 **Type**: Investigation/Recovery Mission
 
 An ancient archive containing crucial cultural knowledge has been discovered but is located in dangerous territory. Keeper Mindwell needs [[The Party to retrieve the archive while navigating both physical dangers and complex cultural sensitivities of local guardians.
 
-**Key NPCs**: Local guardians, rival scholars, ancient spirits  
-**Locations**: Hidden archive site, guardian settlements, dangerous wilderness  
+**Key NPCs**: Local guardians, rival scholars, ancient spirits
+**Locations**: Hidden archive site, guardian settlements, dangerous wilderness
 **Rewards**: Cultural knowledge, magical research materials, improved relationships with guardian communities
 
 ### The Cultural Conspiracy
 
-**Level**: 7-11  
+**Level**: 7-11
 **Type**: Investigation/Social Intrigue
 
 Keeper Mindwell has identified signs that someone is deliberately manipulating cultural symbols and historical narratives to promote conflict between communities. The party must help investigate and stop this manipulation while preserving cultural integrity.
 
-**Key NPCs**: Manipulators, affected [Community Leaders]], cultural experts  
-**Locations**: Community centers, historical sites, political meeting places  
+**Key NPCs**: Manipulators, affected [Community Leaders]], cultural experts
+**Locations**: Community centers, historical sites, political meeting places
 **Rewards**: Political reputation, cultural artifacts, prevention of major conflicts
 
 ### The Memory Restoration
 
-**Level**: 8-12  
+**Level**: 8-12
 **Type**: Magical/Cultural Challenge
 
 A community has lost crucial cultural memories due to magical interference, and Keeper Mindwell needs the party's help to restore these memories while dealing with the magical and political complications surrounding the memory loss.
 
-**Key NPCs**: Affected community members, memory thieves, cultural elders  
-**Locations**: Affected communities, memory storage sites, magical research facilities  
+**Key NPCs**: Affected community members, memory thieves, cultural elders
+**Locations**: Affected communities, memory storage sites, magical research facilities
 **Rewards**: Restored cultural knowledge, magical insights, community gratitude
 
 ### The Diplomatic Crisis
 
-**Level**: 5-8  
+**Level**: 5-8
 **Type**: Diplomatic/Cultural Mission
 
 A major diplomatic crisis has emerged due to cultural misunderstandings, and Keeper Mindwell needs the party to help facilitate communication between conflicting groups while addressing the underlying cultural issues causing the conflict.
 
-**Key NPCs**: Conflicting group representatives, cultural mediators, political leaders  
-**Locations**: Negotiation venues, [[Cultural Centers, community territories  
+**Key NPCs**: Conflicting group representatives, cultural mediators, political leaders
+**Locations**: Negotiation venues, [[Cultural Centers, community territories
 **Rewards**: Diplomatic favor, cultural understanding, conflict resolution recognition
 
 ### Scholarly Equipment
@@ -429,7 +429,7 @@ Ongoing situations affecting Keeper Elara Mindwell:
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 16
-  
+
 ### [[Environmental Hazards]]
 - Pit trap
 - **DC 11** to detect

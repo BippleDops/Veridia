@@ -2,7 +2,7 @@
 
 title: Dwarves in the Clan Clans Status Mtf
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

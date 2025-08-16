@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Shadow Shard
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

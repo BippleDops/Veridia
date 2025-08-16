@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city inquisitor mordecai truthseeker v1 inquisitor mordecai truthseekersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Inquisitor Mordecai Truthseeker V1 Inquisitor Mordecai Truthseeker.svg
 type: location

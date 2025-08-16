@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC the Coral Throne Syndicate the Coral Throne Syndicate.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the coral throne syndicate the coral
   throne syndicatesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple of the Deep Current Temple of the Deep
   Current.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of the deep current temple of
   the deep currentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -196,7 +196,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Investigation Procedures
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - both

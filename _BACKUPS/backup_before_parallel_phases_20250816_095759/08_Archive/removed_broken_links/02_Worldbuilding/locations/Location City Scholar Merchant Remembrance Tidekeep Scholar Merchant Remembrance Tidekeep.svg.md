@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city scholar merchant remembrance tidekeep scholar merchant remembrance
   tidekeepsvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Scholar Merchant Remembrance Tidekeep Scholar Merchant Remembrance
   Tidekeep.svg

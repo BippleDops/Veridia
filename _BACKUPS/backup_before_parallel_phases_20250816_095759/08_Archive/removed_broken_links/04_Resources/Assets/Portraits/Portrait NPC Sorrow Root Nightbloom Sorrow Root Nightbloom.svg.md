@@ -2,7 +2,7 @@
 
 title: Portrait NPC Sorrow Root Nightbloom Sorrow Root Nightbloom.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

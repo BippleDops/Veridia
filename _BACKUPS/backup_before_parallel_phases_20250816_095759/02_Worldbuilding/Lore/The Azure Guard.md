@@ -2,7 +2,7 @@
 
 title: The Azure Guard
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

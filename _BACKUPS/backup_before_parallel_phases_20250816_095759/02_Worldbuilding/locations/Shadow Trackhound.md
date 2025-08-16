@@ -2,7 +2,7 @@
 
 title: Shadow Trackhound
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

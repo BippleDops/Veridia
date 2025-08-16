@@ -2,7 +2,7 @@
 
 title: Food Drink and Lodging Phb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

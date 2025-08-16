@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chancellor S Advisory Council Chancellor S Advisory
   Council.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chancellor s advisory council chancellor
   s advisory councilsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

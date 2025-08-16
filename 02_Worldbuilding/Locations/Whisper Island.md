@@ -2,7 +2,7 @@
 
 title: Whisper Island
 type: [[location
-tags: 
+tags:
 - access/secret
 - mysterious
 - supernatural
@@ -26,7 +26,7 @@ population: Unknown (Estimated 200-500)
 climate: Temperate, frequently shrouded in mist
 danger_level: 9
 government: None (Anarchic)
-related_entities: 
+related_entities:
 - '[[Shadow Conspiracy|The [[Shadow Conspiracy|[02_Worldbuilding|02 Worldbuilding]]/[[Groups/The Shadow Conspiracy]]'
 - '[[Memory Alteration|[Memory Alterations]]'
 - '[[Memory Meadows|[Memory Meadows Black Market]]'
@@ -217,7 +217,7 @@ Constitution saves required to maintain physical coherence:
 
 ### Services Available
 **Memory Modification**: 1,000-10,000 gold depending on complexity
-**Identity Reconstruction**: 5,000-50,000 gold for complete makeover  
+**Identity Reconstruction**: 5,000-50,000 gold for complete makeover
 **Information Brokerage**: Varies wildly based on value and danger
 **Sanctuary Services**: 100 gold per day for safe haven status
 **Transportation Arrangements**: 500+ gold for discrete passage
@@ -357,7 +357,7 @@ Ongoing situations affecting Whisper Island:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

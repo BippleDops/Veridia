@@ -2,7 +2,7 @@
 
 title: dark-gift-of-drizlash-the-nine-eyed-spider-cos
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

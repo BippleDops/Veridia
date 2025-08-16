@@ -2,7 +2,7 @@
 
 title: Quartermaster Sterling Suppystone
 type: [[location
-tags: 
+tags:
 - content/location
 - place
 - world/[Aethermoor]]

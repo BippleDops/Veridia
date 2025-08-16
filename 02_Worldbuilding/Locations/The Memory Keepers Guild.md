@@ -2,7 +2,7 @@
 
 title: The [[Memory_Keepers|Memory Keepers Guild
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - world/aquabyssos
 - content/location

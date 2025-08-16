@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city depth supremacy movement depth supremacy movementsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Depth Supremacy Movement Depth Supremacy Movement.svg
 type: location

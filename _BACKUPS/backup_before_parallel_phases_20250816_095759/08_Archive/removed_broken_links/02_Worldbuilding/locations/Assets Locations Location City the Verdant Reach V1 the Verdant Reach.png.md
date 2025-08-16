@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Verdant Reach V1 the Verdant Reach.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the verdant reach v1 the verdant reachpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -214,7 +214,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

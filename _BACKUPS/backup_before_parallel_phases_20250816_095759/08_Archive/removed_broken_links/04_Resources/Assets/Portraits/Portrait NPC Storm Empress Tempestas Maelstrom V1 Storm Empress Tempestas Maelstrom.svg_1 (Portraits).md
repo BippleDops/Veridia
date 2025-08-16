@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc storm empress tempestas maelstrom v1 storm empress tempestas maelstromsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Storm Empress Tempestas Maelstrom V1 Storm Empress Tempestas Maelstrom.svg
 type: npc

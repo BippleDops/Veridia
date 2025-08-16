@@ -2,7 +2,7 @@
 
 title: The Bone Bridges
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

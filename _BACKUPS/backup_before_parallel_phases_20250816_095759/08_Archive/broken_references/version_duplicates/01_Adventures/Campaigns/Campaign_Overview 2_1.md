@@ -1,7 +1,7 @@
 ---
 created: '2025-08-13'
 status: active
-tags: 
+tags:
 - campaign/crystal-plague
 - medical-mystery
 - corruption
@@ -139,7 +139,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 ### Session 2: The Research Race
 *Gathering scientific resources and knowledge*
 
-**Locations**: 
+**Locations**:
 - Royal Medical Academy
 - Ancient Library of Plagues
 - Alchemist Underground Market
@@ -367,7 +367,7 @@ Child has natural immunity in their blood:
 ### Dataview Tracking
 
 ```dataview
-TABLE 
+TABLE
   infection-stage as "Stage",
   days-infected as "Days",
   treatment-status as "Treatment",

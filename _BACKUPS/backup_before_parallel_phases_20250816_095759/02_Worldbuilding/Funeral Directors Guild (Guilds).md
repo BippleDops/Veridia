@@ -2,7 +2,7 @@
 
 title: Funeral Directors Guild
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

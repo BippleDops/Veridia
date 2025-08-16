@@ -2,7 +2,7 @@
 
 title: Trade Route Establishment
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - trade
@@ -151,7 +151,7 @@ The establishment of major trade routes transformed the maritime empire from iso
 
 #### Primary Trading Goods
 
-**Exports to North**: 
+**Exports to North**:
 - Kelp textiles and rope
 - Deep-sea pearls and ornaments
 - Fermented fish products

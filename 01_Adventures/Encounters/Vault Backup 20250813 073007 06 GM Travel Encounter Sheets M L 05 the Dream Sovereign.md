@@ -3,7 +3,7 @@
 title: Vault Backup 20250813 073007 06 GM Travel Encounter Sheets M L 05 the Dream
   Sovereign
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -93,7 +93,7 @@ vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_M_L-05_the_
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

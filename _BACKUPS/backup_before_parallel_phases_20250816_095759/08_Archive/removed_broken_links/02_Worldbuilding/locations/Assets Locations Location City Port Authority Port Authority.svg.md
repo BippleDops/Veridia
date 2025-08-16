@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Port Authority Port Authority.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port authority port authoritysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

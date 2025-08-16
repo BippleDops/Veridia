@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lady crystal heart miraleth v1 lady crystal heart miralethsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lady Crystal Heart Miraleth V1 Lady Crystal Heart Miraleth.svg
 type: npc

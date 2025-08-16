@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Keeper of Contracts Minerva Bindingword Keeper
   of Contracts Minerva Bindingword.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper of contracts minerva bindingword
   keeper of contracts minerva bindingwordsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

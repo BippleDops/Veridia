@@ -2,7 +2,7 @@
 
 title: The Verdant Reach
 type: [[location
-tags: 
+tags:
 - both
 - quest
 - world/both

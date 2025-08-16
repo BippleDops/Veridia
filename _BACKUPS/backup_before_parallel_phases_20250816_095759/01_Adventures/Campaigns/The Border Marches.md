@@ -2,7 +2,7 @@
 
 title: The Border Marches
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

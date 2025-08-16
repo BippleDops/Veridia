@@ -9,7 +9,7 @@ party_size: 4-6 characters
 primary_location: The Verdant Reach underground network and surrounding regions
 quest_type: Exploration/Environmental Adventure
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/adventure

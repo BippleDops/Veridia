@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Trade War V1 Trade War.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city trade war v1 trade warsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key locations marked:
 - **Undead**: wraith
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 5
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 15** to detect
@@ -197,7 +197,7 @@ Key locations marked:
 - **Recent History**: Plague 6 years ago
 - **Living Memory**: Duel last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Trial in 18 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: Links to The Hidden Prophecy of Winds

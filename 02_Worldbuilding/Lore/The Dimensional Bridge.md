@@ -2,7 +2,7 @@
 
 title: The Dimensional Bridge
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memory merchant headquarters v1 memory merchant headquarterssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memory Merchant Headquarters V1 Memory Merchant Headquarters.svg
 type: location

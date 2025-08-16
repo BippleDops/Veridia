@@ -2,7 +2,7 @@
 
 title: The Crystal Hive Collective
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

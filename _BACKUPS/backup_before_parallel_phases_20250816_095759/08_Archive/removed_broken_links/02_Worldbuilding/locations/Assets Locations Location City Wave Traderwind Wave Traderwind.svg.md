@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wave Traderwind Wave Traderwind.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wave traderwind wave traderwindsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

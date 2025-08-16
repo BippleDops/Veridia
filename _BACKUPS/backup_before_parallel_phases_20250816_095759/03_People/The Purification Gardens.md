@@ -2,7 +2,7 @@
 
 title: The Purification Gardens
 type: Npc
-tags: 
+tags:
 - purification
 - status/complete
 - npc

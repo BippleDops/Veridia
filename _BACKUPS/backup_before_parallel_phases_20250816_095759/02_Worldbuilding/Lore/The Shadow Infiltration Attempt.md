@@ -2,7 +2,7 @@
 
 title: The Shadow Infiltration Attempt
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: The Crimson Fleet
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

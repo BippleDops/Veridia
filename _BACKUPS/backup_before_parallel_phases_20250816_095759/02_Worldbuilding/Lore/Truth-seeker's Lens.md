@@ -2,7 +2,7 @@
 
 title: Truth seeker's Lens
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

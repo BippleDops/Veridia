@@ -2,7 +2,7 @@
 
 title: Cultural Heritage Center
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -2,7 +2,7 @@
 
 title: Shadow Crystal Synthesis
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - both
 - quest

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC King Marcus Lumengarde King Marcus Lumengarde.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc king marcus lumengarde king marcus lumengardesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

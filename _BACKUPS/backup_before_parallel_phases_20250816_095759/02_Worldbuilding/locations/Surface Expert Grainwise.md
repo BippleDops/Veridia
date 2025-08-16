@@ -2,7 +2,7 @@
 
 title: Surface Expert Grainwise
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the crown s return v2 quest the crown s returnsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Crown S Return V2 Quest the Crown S Return.svg
 type: npc

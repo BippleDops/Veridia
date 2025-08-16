@@ -1,6 +1,6 @@
 ---
 
-tags: 
+tags:
 
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -9,7 +9,7 @@ modified: '2025-01-15'
 
 Detailed description pending.
 type: Lore
-tags: 
+tags:
 - lore
 - both
 - monster

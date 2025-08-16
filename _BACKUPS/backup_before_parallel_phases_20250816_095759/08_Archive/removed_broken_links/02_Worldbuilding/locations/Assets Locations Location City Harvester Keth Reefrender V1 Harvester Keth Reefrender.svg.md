@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Harvester Keth Reefrender V1 Harvester Keth
   Reefrender.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harvester keth reefrender v1 harvester
   keth reefrendersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -199,7 +199,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

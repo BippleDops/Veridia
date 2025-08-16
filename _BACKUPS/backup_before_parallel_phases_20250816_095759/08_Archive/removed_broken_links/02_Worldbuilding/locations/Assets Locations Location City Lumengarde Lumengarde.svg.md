@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Lumengarde Lumengarde.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city lumengarde lumengardesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

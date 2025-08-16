@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pristine Pearl V1 Pristine Pearl.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pristine pearl v1 pristine pearlsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Siren Maeve Echoborn Siren Maeve Echoborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city siren maeve echoborn siren maeve echobornsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -199,7 +199,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

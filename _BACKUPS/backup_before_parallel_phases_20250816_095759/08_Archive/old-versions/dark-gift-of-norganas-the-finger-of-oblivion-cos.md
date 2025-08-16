@@ -2,7 +2,7 @@
 
 title: dark-gift-of-norganas-the-finger-of-oblivion-cos
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

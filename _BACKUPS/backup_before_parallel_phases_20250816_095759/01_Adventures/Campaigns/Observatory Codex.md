@@ -2,7 +2,7 @@
 
 title: Observatory Codex
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

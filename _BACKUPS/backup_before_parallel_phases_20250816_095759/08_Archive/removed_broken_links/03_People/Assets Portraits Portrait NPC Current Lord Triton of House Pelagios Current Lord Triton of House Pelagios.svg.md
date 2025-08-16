@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Current Lord Triton of House Pelagios Current
   Lord Triton of House Pelagios.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc current lord triton of house pelagios
   current lord triton of house pelagiossvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

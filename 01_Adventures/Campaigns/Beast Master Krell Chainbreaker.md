@@ -2,7 +2,7 @@
 
 title: Beast Master Krell Chainbreaker
 type: Location
-tags: 
+tags:
 - aquabyssos
 - beast-master
 - status/complete

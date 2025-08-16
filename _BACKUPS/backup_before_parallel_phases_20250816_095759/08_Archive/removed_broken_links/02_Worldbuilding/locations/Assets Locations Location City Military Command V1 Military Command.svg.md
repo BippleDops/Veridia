@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Military Command V1 Military Command.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city military command v1 military commandsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Memory [[Merchant Mneme
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

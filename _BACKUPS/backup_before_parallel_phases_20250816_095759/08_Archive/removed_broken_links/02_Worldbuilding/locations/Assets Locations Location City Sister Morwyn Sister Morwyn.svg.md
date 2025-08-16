@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sister Morwyn Sister Morwyn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sister morwyn sister morwynsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

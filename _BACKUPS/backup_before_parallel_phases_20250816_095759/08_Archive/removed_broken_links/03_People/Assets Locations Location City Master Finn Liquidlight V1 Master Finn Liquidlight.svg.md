@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Master Finn Liquidlight V1 Master Finn Liquidlight.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master finn liquidlight v1 master finn
   liquidlightsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -196,7 +196,7 @@ Member of House Dragonblood - Trait: magical affinity
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

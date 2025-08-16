@@ -1,7 +1,7 @@
 ---
 title: 04_Resources/Assets/Art/Lore/The_Forgotten_Archive.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

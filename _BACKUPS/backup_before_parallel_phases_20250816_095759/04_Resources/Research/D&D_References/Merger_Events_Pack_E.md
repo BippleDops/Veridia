@@ -2,7 +2,7 @@
 
 title: Merger_Events_Pack_E
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

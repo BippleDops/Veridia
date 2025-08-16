@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city taverner bubbles mcgill taverner bubbles mcgillsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Taverner Bubbles Mcgill Taverner Bubbles Mcgill.svg
 type: location

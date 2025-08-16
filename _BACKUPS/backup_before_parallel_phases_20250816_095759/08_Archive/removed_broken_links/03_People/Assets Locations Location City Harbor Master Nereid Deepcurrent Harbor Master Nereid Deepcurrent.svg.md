@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Harbor Master Nereid Deepcurrent Harbor Master
   Nereid Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor master nereid deepcurrent harbor
   master nereid deepcurrentsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

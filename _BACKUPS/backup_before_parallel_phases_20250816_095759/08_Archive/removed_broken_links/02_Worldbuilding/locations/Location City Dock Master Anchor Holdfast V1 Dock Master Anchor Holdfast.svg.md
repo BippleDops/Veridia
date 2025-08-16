@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city dock master anchor holdfast v1 dock master anchor holdfastsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Dock Master Anchor Holdfast V1 Dock Master Anchor Holdfast.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Vehicles/Rapid Assault Craft
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

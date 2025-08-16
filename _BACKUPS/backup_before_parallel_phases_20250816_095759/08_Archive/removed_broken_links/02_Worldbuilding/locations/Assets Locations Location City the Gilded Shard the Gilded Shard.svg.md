@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Gilded Shard the Gilded Shard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the gilded shard the gilded shardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

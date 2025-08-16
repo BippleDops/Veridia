@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Artist Wave Creator V1 Artist Wave Creator.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city artist wave creator v1 artist wave creatorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

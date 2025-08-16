@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city scholar david crossref v1 scholar david crossrefsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Scholar David Crossref V1 Scholar David Crossref.svg
 type: location

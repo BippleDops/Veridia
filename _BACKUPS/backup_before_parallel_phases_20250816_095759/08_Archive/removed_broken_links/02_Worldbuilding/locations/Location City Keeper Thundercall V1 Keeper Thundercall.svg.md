@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper thundercall v1 keeper thundercallsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper Thundercall V1 Keeper Thundercall.svg
 type: location

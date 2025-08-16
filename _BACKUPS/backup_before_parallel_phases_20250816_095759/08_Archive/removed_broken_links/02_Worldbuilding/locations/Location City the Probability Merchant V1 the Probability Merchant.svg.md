@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the probability merchant v1 the probability merchantsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Probability Merchant V1 the Probability Merchant.svg
 type: location

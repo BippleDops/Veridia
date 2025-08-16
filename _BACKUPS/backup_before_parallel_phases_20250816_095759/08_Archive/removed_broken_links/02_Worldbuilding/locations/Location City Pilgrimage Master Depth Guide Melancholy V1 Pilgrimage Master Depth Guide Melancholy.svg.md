@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city pilgrimage master depth guide melancholy v1 pilgrimage master depth
   guide melancholysvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master
   Depth Guide Melancholy.svg

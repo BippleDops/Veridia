@@ -2,7 +2,7 @@
 
 title: [[The Sacred Convergence Plaza
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

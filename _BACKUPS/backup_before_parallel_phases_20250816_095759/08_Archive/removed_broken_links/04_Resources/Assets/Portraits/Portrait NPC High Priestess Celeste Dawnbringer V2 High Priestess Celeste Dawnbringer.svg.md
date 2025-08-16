@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high priestess celeste dawnbringer v2 high priestess celeste dawnbringersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Priestess Celeste Dawnbringer V2 High Priestess Celeste Dawnbringer.svg
 type: npc

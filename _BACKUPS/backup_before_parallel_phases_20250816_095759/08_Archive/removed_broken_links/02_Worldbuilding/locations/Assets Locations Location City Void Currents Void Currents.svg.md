@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Void Currents Void Currents.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city void currents void currentssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

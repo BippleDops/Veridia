@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 - Marine Environmental Specialist Dr Pressure Deepcurrent
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags: 
+tags:
 - [[Lore
 title: Marine Environmental Specialist Dr. Pressure Deepcurrent
 type: lore

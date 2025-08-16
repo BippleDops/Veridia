@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Dreamwhisper Inn the Dreamwhisper Inn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the dreamwhisper inn the dreamwhisper
   innsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -209,7 +209,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

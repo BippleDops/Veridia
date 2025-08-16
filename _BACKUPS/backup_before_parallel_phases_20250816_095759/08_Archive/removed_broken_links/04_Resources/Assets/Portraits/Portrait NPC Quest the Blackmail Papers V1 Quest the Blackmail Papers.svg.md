@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the blackmail papers v1 quest the blackmail paperssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Blackmail Papers V1 Quest the Blackmail Papers.svg
 type: npc

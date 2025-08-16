@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Engineer Prisma Depthwright V1 Engineer Prisma
   Depthwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city engineer prisma depthwright v1 engineer
   prisma depthwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -6,18 +6,18 @@ government: '[[02_Worldbuilding/Places/Parliament of Echoes'
 leader: '[02_Worldbuilding/People/Professor Euclid Mindmaze|02 Worldbuilding/People/Professor
   Euclid Mindmaze]]'
 parent_location: '[[02_Worldbuilding/Places/Abyssos Prime'
-related_entities: 
+related_entities:
 - '[02_Worldbuilding/Lore/Deep Mother]]'
 - '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes'
 - '[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The
   Abyss Beneath Aquabyssos]]'
-specialties: 
+specialties:
 - Deep Lore Research
 - Psionic Studies
 - Aberrant Biology
 - Ancient History
 status: draft
-tags: 
+tags:
 - academy
 - aquabyssos
 - content/location
@@ -71,7 +71,7 @@ The Academy consists of seven interconnected spiral towers, each devoted to a di
 **First Year Studies:**
 - Fundamentals of Deep Survival
 - Elementary Psionics
-- Aquabyssos History and Culture  
+- Aquabyssos History and Culture
 - Basic Aberrant Biology
 - Pressure Adaptation Theory
 

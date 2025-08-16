@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Doctor Harmony Whisperfall Doctor Harmony Whisperfall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry doctor harmony whisperfall doctor harmony
   whisperfallsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Cultural Advisor Sarah Bridgekeeper V1 Cultural
   Advisor Sarah Bridgekeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city cultural advisor sarah bridgekeeper
   v1 cultural advisor sarah bridgekeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

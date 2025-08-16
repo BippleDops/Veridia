@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high tide environmental effects v2 high tide environmental effectssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Tide Environmental Effects V2 High Tide Environmental Effects.svg
 type: npc

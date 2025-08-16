@@ -1,7 +1,7 @@
 ---
 title: Void Prophet us the Erased
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

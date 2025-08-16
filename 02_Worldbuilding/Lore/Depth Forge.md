@@ -2,7 +2,7 @@
 
 title: Depth Forge
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

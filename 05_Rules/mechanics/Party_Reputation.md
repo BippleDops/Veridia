@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Social_Systems/Party_Reputation
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

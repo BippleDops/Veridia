@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tide Welcomeheart Tide Welcomeheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tide welcomeheart tide welcomeheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

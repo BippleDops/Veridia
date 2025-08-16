@@ -2,7 +2,7 @@
 
 title: Guardian Neutralwatch
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

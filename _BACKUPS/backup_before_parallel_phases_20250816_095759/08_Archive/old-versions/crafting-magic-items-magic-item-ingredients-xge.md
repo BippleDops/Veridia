@@ -2,7 +2,7 @@
 
 title: crafting-magic-items-magic-item-ingredients-xge
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

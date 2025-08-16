@@ -2,7 +2,7 @@
 
 title: Intel Master Raven Shadowsigh
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

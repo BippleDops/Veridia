@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc gallery guide captain marina civicvoice v1 gallery guide captain marina
   civicvoicesvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Gallery Guide Captain Marina Civicvoice V1 Gallery Guide Captain
   Marina Civicvoice.svg

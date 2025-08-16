@@ -1,7 +1,7 @@
 ---
 title: Rescue [[Senator Glaucus
 type: quest
-tags: 
+tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'

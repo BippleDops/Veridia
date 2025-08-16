@@ -2,7 +2,7 @@
 
 title: Palace Courtyard   Crystal Garden
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -107,7 +107,7 @@ A magnificent waterfall where crystalline formations change color and configurat
 ### The Diplomatic Rose Arbor
 An elegant covered walkway lined with hybrid roses that bloom in response to the emotional states of nearby individuals, creating a unique environment for diplomatic meetings where sincerity and deception become visually apparent through the flowers' responses.
 
-### The Memorial Grove  
+### The Memorial Grove
 A sacred section of the garden dedicated to honoring departed members of the royal family and important kingdom figures. Each memorial consists of a unique tree-crystal partnership that creates living monuments more beautiful and lasting than traditional stone markers.
 
 ### The Research Conservatory
@@ -121,7 +121,7 @@ A carefully designed maze of pathways bordered by aromatic plants and singing cr
 **Personality**: Peaceful nature enthusiast with deep understanding of the relationship between magic and plant life
 **Goals**: Expanding the garden's beauty while advancing knowledge of magical agriculture
 
-### Crystal Cultivator Dr. Growth Gemheart  
+### Crystal Cultivator Dr. Growth Gemheart
 **Role**: Specialist in Crystal-Plant Symbiosis and Magical Enhancement
 **Personality**: Scientific approach to magic with artistic appreciation for natural beauty
 **Goals**: Perfecting techniques for integrating crystal and plant growth while maintaining natural harmony

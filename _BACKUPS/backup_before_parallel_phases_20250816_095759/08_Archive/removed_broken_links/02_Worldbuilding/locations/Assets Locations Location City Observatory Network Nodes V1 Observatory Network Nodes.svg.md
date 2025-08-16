@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Observatory Network Nodes V1 Observatory Network
   Nodes.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city observatory network nodes v1 observatory
   network nodessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -199,7 +199,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

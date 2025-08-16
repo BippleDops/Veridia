@@ -2,7 +2,7 @@
 
 title: ring-of-elemental-command-air-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

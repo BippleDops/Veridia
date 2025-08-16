@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Mothercoral Crisis the Mothercoral Crisis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the mothercoral crisis the mothercoral
   crisissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

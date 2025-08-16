@@ -2,7 +2,7 @@
 
 title: The [[Crystal Wardens
 type: [location]]
-tags: 
+tags:
 - aerial
 - content/faction
 - content/location
@@ -406,7 +406,7 @@ Long-range scouting and intelligence operations:
 **The Academy of Tactical Crystal Combat**
 Elite training facility for combat specialists:
 - **Advanced Weapon Mastery**: Training with exotic and experimental weapons
-- **Combined Arms Tactics**: Coordination between different combat specialties  
+- **Combined Arms Tactics**: Coordination between different combat specialties
 - **Leadership Development**: Preparing future commanders and officers
 - **Strategic Planning**: Large-scale military planning and coordination
 - **Cross-Realm Combat**: Training for fighting in different dimensional environments

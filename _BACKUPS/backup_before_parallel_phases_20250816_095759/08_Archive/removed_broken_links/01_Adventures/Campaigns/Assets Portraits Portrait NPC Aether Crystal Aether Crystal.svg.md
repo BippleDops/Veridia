@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Aether Crystal Aether Crystal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc aether crystal aether crystalsvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor
@@ -171,7 +171,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

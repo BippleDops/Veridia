@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Historical Societies Historical Societies.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city historical societies historical societiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

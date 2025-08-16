@@ -2,7 +2,7 @@
 
 title: [[Illumination Crystal
 type: [Lore]]
-tags: 
+tags:
 - lore
 - grand-cathedral
 - content/lore

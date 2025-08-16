@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city countess marina stormcrest v1 countess marina stormcrestsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Countess Marina Stormcrest V1 Countess Marina Stormcrest.svg
 type: location

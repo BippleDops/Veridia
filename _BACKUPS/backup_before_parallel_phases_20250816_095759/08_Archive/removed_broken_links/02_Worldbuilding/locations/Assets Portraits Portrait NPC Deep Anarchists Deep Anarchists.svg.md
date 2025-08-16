@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Deep Anarchists Deep Anarchists.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc deep anarchists deep anarchistssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

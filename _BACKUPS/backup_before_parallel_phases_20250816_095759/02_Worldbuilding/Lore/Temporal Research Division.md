@@ -2,7 +2,7 @@
 
 title: Temporal Research Division
 type: [[Lore
-tags: 
+tags:
 - lore
 - both worlds
 - content/lore

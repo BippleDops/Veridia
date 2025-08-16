@@ -2,7 +2,7 @@
 
 title: Captain Rodrigo Irochor
 type: Faction
-tags: 
+tags:
 - iron-fleet
 - status/complete
 - military
@@ -157,8 +157,8 @@ The majority of Fleet personnel serve as sailors, marines, and support crew who 
 
 **Captain Rodrigo Irochor**
 *Fleet Admiral, 14th-level Fighter (Battle Master)*
-**Armor Class** 20 (Plate + Shield)  
-**Hit Points** 162 (`dice: 14d10` + 84)  
+**Armor Class** 20 (Plate + Shield)
+**Hit Points** 162 (`dice: 14d10` + 84)
 **Speed** 30 ft., Swimming 30 ft.
 **STR** 20 (+5) **DEX** 16 (+3) **CON** 22 (+6) **INT** 16 (+3) **WIS** 18 (+4) **CHA** 18 (+4)
 **Saving Throws** Str +11, Con +12
@@ -173,8 +173,8 @@ The majority of Fleet personnel serve as sailors, marines, and support crew who 
 
 **Captain Marina Stormcutter**
 *Battle Squadron Leader, 12th-level Fighter (Eldritch Knight)*
-**Armor Class** 19 (Plate)  
-**Hit Points** 134 (`dice: 12d10` + 72)  
+**Armor Class** 19 (Plate)
+**Hit Points** 134 (`dice: 12d10` + 72)
 **Speed** 30 ft.
 **STR** 18 (+4) **DEX** 14 (+2) **CON** 20 (+5) **INT** 16 (+3) **WIS** 15 (+2) **CHA** 14 (+2)
 **Saving Throws** Str +10, Con +11
@@ -188,8 +188,8 @@ The majority of Fleet personnel serve as sailors, marines, and support crew who 
 
 **Captain Elena Swiftwind**
 *Escort Division Commander, 10th-level Ranger (Hunter)*
-**Armor Class** 17 (Studded Leather + Dex)  
-**Hit Points** 95 (`dice: 10d10` + 40)  
+**Armor Class** 17 (Studded Leather + Dex)
+**Hit Points** 95 (`dice: 10d10` + 40)
 **Speed** 30 ft., Swimming 40 ft.
 **STR** 16 (+3) **DEX** 20 (+5) **CON** 18 (+4) **INT** 14 (+2) **WIS** 18 (+4) **CHA** 16 (+3)
 **Saving Throws** Str +7, Dex +9
@@ -203,8 +203,8 @@ The majority of Fleet personnel serve as sailors, marines, and support crew who 
 
 **Captain Marcus Deepdiver**
 *Salvage Corps Chief, 11th-level Artificer (Armorer)*
-**Armor Class** 18 (Magical Plate)  
-**Hit Points** 112 (`dice: 11d8` + 66)  
+**Armor Class** 18 (Magical Plate)
+**Hit Points** 112 (`dice: 11d8` + 66)
 **Speed** 30 ft., Swimming 60 ft.
 **STR** 16 (+3) **DEX** 14 (+2) **CON** 20 (+5) **INT** 22 (+6) **WIS** 16 (+3) **CHA** 12 (+1)
 **Saving Throws** Con +10, Int +11
@@ -219,8 +219,8 @@ The majority of Fleet personnel serve as sailors, marines, and support crew who 
 
 **Captain Isabella Sharpsteel**
 *Intelligence Director, 9th-level Rogue (Mastermind)*
-**Armor Class** 16 (Studded Leather + Dex)  
-**Hit Points** 71 (`dice: 9d8` + 27)  
+**Armor Class** 16 (Studded Leather + Dex)
+**Hit Points** 71 (`dice: 9d8` + 27)
 **Speed** 30 ft., Swimming 30 ft.
 **STR** 12 (+1) **DEX** 18 (+4) **CON** 16 (+3) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 20 (+5)
 **Saving Throws** Dex +8, Int +8
@@ -347,7 +347,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

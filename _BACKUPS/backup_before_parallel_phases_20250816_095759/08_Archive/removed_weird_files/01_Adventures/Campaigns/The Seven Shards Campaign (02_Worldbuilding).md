@@ -2,7 +2,7 @@
 
 title: The [[Seven Shards|[Seven Shards Campaign]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

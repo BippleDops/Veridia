@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain torren stormwright captain torren
   stormwrightsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

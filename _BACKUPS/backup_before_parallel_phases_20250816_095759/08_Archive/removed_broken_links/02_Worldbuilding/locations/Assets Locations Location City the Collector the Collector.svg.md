@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Collector the Collector.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the collector the collectorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

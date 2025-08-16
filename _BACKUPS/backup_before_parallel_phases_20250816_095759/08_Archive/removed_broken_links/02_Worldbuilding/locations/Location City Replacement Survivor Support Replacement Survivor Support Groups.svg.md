@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city replacement survivor support groups replacement survivor support groupssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Replacement Survivor Support Replacement Survivor Support Groups.svg
 type: location

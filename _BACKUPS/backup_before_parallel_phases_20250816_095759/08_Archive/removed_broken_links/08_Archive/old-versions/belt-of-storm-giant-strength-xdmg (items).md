@@ -2,7 +2,7 @@
 
 title: belt-of-storm-giant-strength-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

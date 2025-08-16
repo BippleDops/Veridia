@@ -2,7 +2,7 @@
 
 title: List Spells Classes Fey Wanderer Xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

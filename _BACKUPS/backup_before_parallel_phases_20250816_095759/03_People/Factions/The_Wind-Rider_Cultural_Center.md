@@ -2,7 +2,7 @@
 
 title: The Wind Rider Cultural Center
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

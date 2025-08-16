@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Pressure Crown the Pressure Crown.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the pressure crown the pressure crownsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Duke Hadal Duke Hadal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc duke hadal duke hadalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -206,7 +206,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

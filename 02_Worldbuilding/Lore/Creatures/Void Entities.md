@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Creatures/Void Entities
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

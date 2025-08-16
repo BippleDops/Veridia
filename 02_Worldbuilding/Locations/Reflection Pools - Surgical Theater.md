@@ -2,7 +2,7 @@
 
 title: [[Reflection Pools   Surgical Theater
 type: [location]]
-tags: 
+tags:
 - reflection_pools
 - content/location
 - healing
@@ -464,7 +464,7 @@ Beyond official procedures, the Theater secretly facilitates [Memory Trading]]:
 - **Experience Trading**: [[People selling unique or valuable experiences
 - **Identity Trafficking**: Complete personality exchanges for various purposes
 
-### 
+###
 
 Hidden beneath the facility lies a vast archive of consciousness data:
 - **Historical Figures**: Preserved consciousness patterns of important historical personalities

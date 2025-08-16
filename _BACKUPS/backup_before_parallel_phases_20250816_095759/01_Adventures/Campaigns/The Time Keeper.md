@@ -2,7 +2,7 @@
 
 title: The Time Keeper
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

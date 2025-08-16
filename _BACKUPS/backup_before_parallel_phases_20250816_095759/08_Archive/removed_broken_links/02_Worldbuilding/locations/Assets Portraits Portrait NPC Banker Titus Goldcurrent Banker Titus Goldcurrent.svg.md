@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc banker titus goldcurrent banker titus
   goldcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Silent Rescue
 type: Location
-tags: 
+tags:
 - aquabyssos
 - content/adventure
 - rescue

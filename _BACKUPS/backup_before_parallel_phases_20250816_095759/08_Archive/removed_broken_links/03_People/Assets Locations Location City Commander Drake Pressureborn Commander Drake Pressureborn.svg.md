@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Commander Drake Pressureborn Commander Drake
   Pressureborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city commander drake pressureborn commander
   drake pressurebornsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

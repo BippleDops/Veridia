@@ -1,10 +1,10 @@
 ---
 
 title: Assets Art Captain Trawl Netcaster.png
-aliases: 
+aliases:
 - 04 Resources Assets Art Places Captain Trawl Netcasterpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -198,7 +198,7 @@ Member of House Lionblood - Trait: prophecy
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

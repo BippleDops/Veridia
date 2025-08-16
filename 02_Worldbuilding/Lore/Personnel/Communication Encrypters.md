@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Personnel/Communication Encrypters
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

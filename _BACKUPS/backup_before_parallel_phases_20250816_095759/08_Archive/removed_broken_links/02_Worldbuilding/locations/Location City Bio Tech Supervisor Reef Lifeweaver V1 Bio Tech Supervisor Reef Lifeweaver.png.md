@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city bio tech supervisor reef lifeweaver v1 bio tech supervisor reef lifeweaverpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Bio Tech Supervisor Reef Lifeweaver V1 Bio Tech Supervisor Reef
   Lifeweaver.png

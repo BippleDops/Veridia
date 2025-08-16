@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Memorial Mason Kane V1 Memorial Mason Kane.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memorial mason kane v1 memorial mason
   kanesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

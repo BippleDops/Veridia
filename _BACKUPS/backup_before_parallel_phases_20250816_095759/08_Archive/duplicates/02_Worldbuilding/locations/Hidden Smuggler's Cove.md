@@ -1,7 +1,7 @@
 ---
 title: Hidden [[Smuggler's Cove
 type: Location
-tags: 
+tags:
 - aquatic
 - content/location
 - shadow-touched

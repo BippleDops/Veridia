@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Stellar Confluence the Stellar Confluence.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the stellar confluence the stellar confluencesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -216,7 +216,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -232,4 +232,4 @@ This NPC can serve multiple roles:
 
 ## References
 
-- 
+-

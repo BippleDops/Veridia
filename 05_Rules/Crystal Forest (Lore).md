@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Crystal Forest
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Surface Observation Posts V1 Surface Observation
   Posts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface observation posts v1 surface
   observation postssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

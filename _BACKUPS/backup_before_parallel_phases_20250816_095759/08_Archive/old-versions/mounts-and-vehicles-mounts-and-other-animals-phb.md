@@ -2,7 +2,7 @@
 
 title: mounts-and-vehicles-mounts-and-other-animals-phb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

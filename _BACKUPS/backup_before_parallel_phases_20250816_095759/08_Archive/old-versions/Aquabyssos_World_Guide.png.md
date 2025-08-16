@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/Aquabyssos_World_Guide.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

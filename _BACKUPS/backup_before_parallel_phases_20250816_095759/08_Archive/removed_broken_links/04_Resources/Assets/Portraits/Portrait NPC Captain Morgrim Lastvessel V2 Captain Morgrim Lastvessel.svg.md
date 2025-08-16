@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain morgrim lastvessel v2 captain morgrim lastvesselsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Morgrim Lastvessel V2 Captain Morgrim Lastvessel.svg
 type: npc

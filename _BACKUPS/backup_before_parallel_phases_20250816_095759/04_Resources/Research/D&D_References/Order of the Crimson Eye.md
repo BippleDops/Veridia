@@ -2,7 +2,7 @@
 
 title: Order of the Crimson Eye
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

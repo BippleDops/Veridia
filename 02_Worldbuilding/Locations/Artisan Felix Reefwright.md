@@ -2,7 +2,7 @@
 
 title: Artisan Felix Reefwright
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

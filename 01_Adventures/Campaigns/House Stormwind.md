@@ -2,7 +2,7 @@
 
 title: [[House Stormwind
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/lore
 - world/[[Aethermoor

@@ -8,7 +8,7 @@ expanded: 2025-08-11
 operational_status: Active with Restrictions
 significance: Critical Economic Infrastructure
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Medallion of the Depths
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

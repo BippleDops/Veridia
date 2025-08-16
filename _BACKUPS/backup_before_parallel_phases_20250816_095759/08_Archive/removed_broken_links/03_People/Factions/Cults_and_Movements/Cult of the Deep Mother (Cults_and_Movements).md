@@ -2,7 +2,7 @@
 
 title: Cult of the Deep Mother
 type: Faction
-tags: 
+tags:
 - both
 - status/complete
 - cult
@@ -250,7 +250,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

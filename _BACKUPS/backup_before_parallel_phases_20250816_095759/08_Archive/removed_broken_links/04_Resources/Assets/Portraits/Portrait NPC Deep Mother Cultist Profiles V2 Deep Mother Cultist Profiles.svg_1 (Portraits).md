@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc deep mother cultist profiles v2 deep mother cultist profilessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Deep Mother Cultist Profiles V2 Deep Mother Cultist Profiles.svg
 type: npc

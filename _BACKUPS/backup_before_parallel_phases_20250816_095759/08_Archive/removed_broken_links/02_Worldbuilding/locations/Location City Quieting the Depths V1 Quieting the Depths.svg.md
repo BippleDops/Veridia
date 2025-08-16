@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city quieting the depths v1 quieting the depthssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Quieting the Depths V1 Quieting the Depths.svg
 type: location

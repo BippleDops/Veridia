@@ -2,7 +2,7 @@
 
 title: Chief Temporal Engineer Paradox [[Timeweaver
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos
@@ -112,7 +112,7 @@ Mentioned in The First Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

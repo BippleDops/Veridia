@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Pressure Tube Terminal Pressure Tube Terminal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure tube terminal pressure tube
   terminalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Weather Sage Ancient Tempest
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

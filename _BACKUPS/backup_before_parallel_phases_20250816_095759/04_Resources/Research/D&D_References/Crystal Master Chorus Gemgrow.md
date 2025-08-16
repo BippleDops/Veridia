@@ -2,7 +2,7 @@
 
 title: Crystal Master Chorus Gemgrow
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

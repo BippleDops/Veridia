@@ -2,7 +2,7 @@
 
 title: The Storm Callers
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[Npc]]

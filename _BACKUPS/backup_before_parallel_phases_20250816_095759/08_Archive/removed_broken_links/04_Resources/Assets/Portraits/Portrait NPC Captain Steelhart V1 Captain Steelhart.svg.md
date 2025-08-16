@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain steelhart v1 captain steelhartsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Steelhart V1 Captain Steelhart.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: Deep Root Caretaker Nereon
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

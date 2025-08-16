@@ -2,7 +2,7 @@
 
 title: Storm's End Citadel
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

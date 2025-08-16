@@ -2,7 +2,7 @@
 
 title: Established Family Communities
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

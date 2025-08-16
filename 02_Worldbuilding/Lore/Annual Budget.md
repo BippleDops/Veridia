@@ -2,7 +2,7 @@
 
 title: Annual Budget
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

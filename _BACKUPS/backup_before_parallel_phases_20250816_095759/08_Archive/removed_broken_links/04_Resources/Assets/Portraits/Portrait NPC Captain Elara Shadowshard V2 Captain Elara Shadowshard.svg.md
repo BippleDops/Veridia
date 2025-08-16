@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain elara shadowshard v2 captain elara shadowshardsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Elara Shadowshard V2 Captain Elara Shadowshard.svg
 type: npc

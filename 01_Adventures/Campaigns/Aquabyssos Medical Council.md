@@ -2,7 +2,7 @@
 
 title: [[Aquabyssos Medical Council
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - world/aquabyssos

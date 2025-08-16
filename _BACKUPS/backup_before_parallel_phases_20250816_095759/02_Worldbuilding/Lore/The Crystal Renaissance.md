@@ -2,7 +2,7 @@
 
 title: The Crystal Renaissance
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

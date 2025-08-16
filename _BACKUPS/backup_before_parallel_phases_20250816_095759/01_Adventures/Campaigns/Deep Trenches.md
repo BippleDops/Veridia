@@ -2,7 +2,7 @@
 
 title: Deep Trenches
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

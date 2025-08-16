@@ -2,7 +2,7 @@
 
 title: Nyx Thalassic
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

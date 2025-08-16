@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Merchant Princes Merchant Princes.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry merchant princes merchant princessvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

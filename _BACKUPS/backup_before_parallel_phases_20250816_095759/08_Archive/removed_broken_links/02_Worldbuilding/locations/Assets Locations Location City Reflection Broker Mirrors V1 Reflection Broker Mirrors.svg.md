@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Reflection Broker Mirrors V1 Reflection Broker
   Mirrors.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reflection broker mirrors v1 reflection
   broker mirrorssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

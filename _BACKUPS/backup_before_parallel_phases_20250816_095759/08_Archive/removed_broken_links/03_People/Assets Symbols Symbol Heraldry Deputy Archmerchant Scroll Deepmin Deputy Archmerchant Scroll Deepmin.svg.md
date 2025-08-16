@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Deputy Archmerchant Scroll Deepmin Deputy Archmerchant
   Scroll Deepmin.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry deputy archmerchant scroll deepmin deputy
   archmerchant scroll deepminsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

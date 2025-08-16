@@ -2,7 +2,7 @@
 
 title: The Schism and Reconciliation
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

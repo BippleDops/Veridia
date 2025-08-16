@@ -2,7 +2,7 @@
 
 title: Inspector Helena Truthseeker
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

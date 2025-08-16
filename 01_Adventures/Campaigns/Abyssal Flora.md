@@ -2,7 +2,7 @@
 
 title: Abyssal Flora
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

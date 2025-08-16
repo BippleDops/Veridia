@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc mayor thompson mayor thompsonsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: portrait npc mayor thompson mayor thompson.svg
 type: npc

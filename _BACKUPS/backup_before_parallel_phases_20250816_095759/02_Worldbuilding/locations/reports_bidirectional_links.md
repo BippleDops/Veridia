@@ -2,7 +2,7 @@
 
 title: reports bidirectional links
 type: location
-tags: 
+tags:
 - place
 - active
 - location

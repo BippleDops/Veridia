@@ -2,7 +2,7 @@
 
 title: Quick_Reference - Dn D5e-Side Screen-2024 (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

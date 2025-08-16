@@ -8,24 +8,24 @@ danger_level: 1
 historical_period: Ancient origins, continuous development
 magical_intensity: Moderate to High
 magical_properties: Elemental wind manipulation and weather influence
-practitioners: 
+practitioners:
 - 'The Wind Singers Guild'
 - 'Master Melodist Zephyr Cloudwalker'
 - 'The Stormcaller Chorus'
 - 'Wandering Wind Minstrels'
 preservation_status: Actively maintained and evolving
-regions: 
+regions:
 - 'The Windswept Heights'
 - '[[02_Worldbuilding/Places/Port Meridian Harbor'
 - '[02_Worldbuilding/Places/The Royal Palace]]'
 - 'Lighthouse Peak   Resonance Chamber'
-related_phenomena: 
+related_phenomena:
 - '[[02_Worldbuilding/Lore/Resonance Peaks'
 - '[02_Worldbuilding/Lore/The Lighthouse of Storms]]'
 - 'Crystal Resonance Networks'
 - 'Temporal Wind Patterns'
 status: complete
-tags: 
+tags:
 - aethermoor
 - bardic-tradition
 - complete

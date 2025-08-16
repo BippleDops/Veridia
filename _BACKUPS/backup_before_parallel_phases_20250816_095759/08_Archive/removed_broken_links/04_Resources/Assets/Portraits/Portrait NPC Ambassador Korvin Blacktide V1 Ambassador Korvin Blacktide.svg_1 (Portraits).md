@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc ambassador korvin blacktide v1 ambassador korvin blacktidesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Ambassador Korvin Blacktide V1 Ambassador Korvin Blacktide.svg
 type: npc

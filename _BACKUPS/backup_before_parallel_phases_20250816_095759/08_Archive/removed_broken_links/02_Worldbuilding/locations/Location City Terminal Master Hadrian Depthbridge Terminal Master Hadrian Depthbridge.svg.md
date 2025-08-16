@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city terminal master hadrian depthbridge terminal master hadrian depthbridgesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Terminal Master Hadrian Depthbridge Terminal Master Hadrian Depthbridge.svg
 type: location

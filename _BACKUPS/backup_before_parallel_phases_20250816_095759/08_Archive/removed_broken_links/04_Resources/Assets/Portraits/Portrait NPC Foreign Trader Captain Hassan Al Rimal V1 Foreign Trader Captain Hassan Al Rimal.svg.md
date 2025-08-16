@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc foreign trader captain hassan al rimal v1 foreign trader captain hassan
   al rimalsvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Foreign Trader Captain Hassan Al Rimal V1 Foreign Trader Captain
   Hassan Al Rimal.svg

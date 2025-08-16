@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Operations/Crisis Profit Maximization
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

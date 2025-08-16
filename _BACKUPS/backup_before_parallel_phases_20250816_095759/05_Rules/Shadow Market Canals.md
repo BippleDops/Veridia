@@ -2,7 +2,7 @@
 
 title: Shadow Market Canals
 type: [[location
-tags: 
+tags:
 - underground
 - [Aquabyssos]]
 - waterways
@@ -253,12 +253,12 @@ Rapid transport system using trained water creatures:
 **Role**: De facto ruler of the canal system
 **Background**: Former city engineer who helped design the original drainage system
 **Motivation**: Maintaining profitable operations while avoiding official attention
-**Key Relationships**: 
+**Key Relationships**:
 - Secret arrangement with [[Shadow Markets|The [Shadow Markets]] for territory division
 - Information sharing agreement with [[Deepmind Conspiracy
 - Protection contract with [Syndicate Enforcers]]
 
-**Abilities**: 
+**Abilities**:
 - **Master Navigator**: Knows every passage and shortcut in the system
 - **Current Control**: Can manipulate water flow using engineering knowledge
 - **Network Coordinator**: Maintains communication with all major [[Criminal_Organizations|Criminal Organizations
@@ -697,7 +697,7 @@ Ongoing situations affecting Shadow Market Canals:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

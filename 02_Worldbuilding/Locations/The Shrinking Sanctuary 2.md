@@ -9,14 +9,14 @@ location_type: Dimensional Pocket
 original_size: 10 square miles
 parent_location: The Wandering Depths
 population: ~300 refugees and guardians
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Places/Free Current'
 - '[02_Worldbuilding/Places/Parliament of Echoes]]'
 - '[[02_Worldbuilding/Places/The Memory Meadows'
 - '[02_Worldbuilding/Lore/Dimensional Research Institute]]'
 shrinking_rate: 5 cubic feet per hour
 status: complete
-tags: 
+tags:
 - aquabyssos
 - community
 - complete
@@ -94,7 +94,7 @@ The Sanctuary represents the ultimate expression of [[02_Worldbuilding/Places/Aq
 **Community Integration**: Increasing blend of private and shared spaces
 **Adaptation**: Architecture transforms to maintain comfort as boundaries contract
 
-#### Community Dormitories  
+#### Community Dormitories
 **Function**: High-density housing for recent refugees and single residents
 **Efficiency**: Maximum space utilization while preserving dignity
 **Flexibility**: Modular design allowing rapid reconfiguration
@@ -286,7 +286,7 @@ The Sanctuary represents the ultimate expression of [[02_Worldbuilding/Places/Aq
 **Stakes**: Without functioning gateways, sanctuary becomes beautiful prison
 **Resolution**: Discover emergency protocols or find alternative exit methods
 
-#### 2. The Resource Crisis  
+#### 2. The Resource Crisis
 **Hook**: Critical shortage of food or water as production space shrinks beyond capacity
 **Challenge**: Establish emergency supply lines with dangerous outside world
 **Obstacles**: Navigate external threats that originally drove refugees to seek sanctuary
@@ -309,7 +309,7 @@ The Sanctuary represents the ultimate expression of [[02_Worldbuilding/Places/Aq
 **Risk**: Failed attempt might accelerate collapse instead of stopping it
 **Hope**: Success could save sanctuary and enable creation of new refuges
 
-#### 5. The Origin Investigation  
+#### 5. The Origin Investigation
 **Hook**: Mysterious clues about sanctuary's creation and why it's shrinking
 **Exploration**: Investigate hidden chambers and dimensional anomalies within sanctuary
 **Revelations**: Discover truth about original creators and their intentions
@@ -444,7 +444,7 @@ The Sanctuary represents the ultimate expression of [[02_Worldbuilding/Places/Aq
 
 **Related NPCs**:
 - [[02_Worldbuilding/Places/Keeper Temporal Safehaven
-- Sanctuary Council Members  
+- Sanctuary Council Members
 - Refugee Community Leaders
 - [02_Worldbuilding/Lore/Dimensional Researchers]]
 - [[02_Worldbuilding/Lore/Architect Temporal Wisdom

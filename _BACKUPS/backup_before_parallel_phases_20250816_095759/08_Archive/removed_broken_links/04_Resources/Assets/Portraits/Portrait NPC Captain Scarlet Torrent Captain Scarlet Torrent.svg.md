@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain scarlet torrent captain scarlet torrentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg
 type: npc

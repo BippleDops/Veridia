@@ -2,7 +2,7 @@
 
 title: Customs House
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - both

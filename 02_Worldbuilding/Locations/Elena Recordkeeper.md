@@ -2,7 +2,7 @@
 
 title: Elena Recordkeeper
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

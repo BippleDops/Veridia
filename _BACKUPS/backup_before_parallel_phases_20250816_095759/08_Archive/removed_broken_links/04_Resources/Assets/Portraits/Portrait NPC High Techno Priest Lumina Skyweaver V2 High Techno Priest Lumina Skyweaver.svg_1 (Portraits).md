@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high techno priest lumina skyweaver v2 high techno priest lumina skyweaversvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Techno Priest Lumina Skyweaver V2 High Techno Priest Lumina
   Skyweaver.svg

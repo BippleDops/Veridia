@@ -2,7 +2,7 @@
 
 title: The Deep Trading Halls
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

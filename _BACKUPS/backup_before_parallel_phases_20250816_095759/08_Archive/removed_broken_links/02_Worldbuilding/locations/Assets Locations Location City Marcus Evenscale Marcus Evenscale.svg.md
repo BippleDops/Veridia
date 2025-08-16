@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Marcus Evenscale Marcus Evenscale.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marcus evenscale marcus evenscalesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

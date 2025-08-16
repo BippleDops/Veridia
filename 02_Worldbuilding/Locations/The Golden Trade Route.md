@@ -2,7 +2,7 @@
 
 title: The Golden Trade Route
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

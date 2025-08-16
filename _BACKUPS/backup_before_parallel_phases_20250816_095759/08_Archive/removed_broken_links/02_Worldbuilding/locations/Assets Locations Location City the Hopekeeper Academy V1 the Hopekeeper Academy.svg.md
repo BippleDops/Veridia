@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Hopekeeper Academy V1 the Hopekeeper Academy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the hopekeeper academy v1 the hopekeeper
   academysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

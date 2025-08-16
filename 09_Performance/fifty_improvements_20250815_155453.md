@@ -27,7 +27,7 @@ aliases: [fifty improvements 20250815 155453]
 
 ### Combat & Mechanics (10)
 ✅ Initiative Tracker Template
-✅ Encounter Difficulty Calculator  
+✅ Encounter Difficulty Calculator
 ✅ Exhaustion Level Tracker
 ✅ Concentration Tracker
 ✅ Death Save Tracker

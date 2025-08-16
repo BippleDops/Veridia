@@ -2,7 +2,7 @@
 
 title: International Commerce
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

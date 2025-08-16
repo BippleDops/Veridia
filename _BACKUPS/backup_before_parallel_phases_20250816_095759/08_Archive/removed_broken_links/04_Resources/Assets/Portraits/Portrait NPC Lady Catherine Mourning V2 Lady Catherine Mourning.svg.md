@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lady catherine mourning v2 lady catherine mourningsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lady Catherine Mourning V2 Lady Catherine Mourning.svg
 type: npc

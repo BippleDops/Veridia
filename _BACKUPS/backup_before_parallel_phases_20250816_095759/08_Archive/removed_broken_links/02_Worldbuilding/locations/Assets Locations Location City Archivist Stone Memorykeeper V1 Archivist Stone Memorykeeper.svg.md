@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Archivist Stone Memorykeeper V1 Archivist Stone
   Memorykeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archivist stone memorykeeper v1 archivist
   stone memorykeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

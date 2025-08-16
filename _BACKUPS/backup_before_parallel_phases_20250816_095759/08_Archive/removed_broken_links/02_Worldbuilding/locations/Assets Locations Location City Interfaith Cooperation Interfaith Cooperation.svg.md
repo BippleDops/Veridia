@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Interfaith Cooperation Interfaith Cooperation.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city interfaith cooperation interfaith cooperationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

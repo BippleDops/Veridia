@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Quest Harbor Security V1 Quest Harbor Security.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest harbor security v1 quest harbor
   securitysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key locations marked:
 - **Dragon**: metallic
   - Traits: standard
   - CR Range: 2
-  
+
 ### Environmental Hazards
 - Magical ward
 - **DC 12** to detect
@@ -199,7 +199,7 @@ Key locations marked:
 - **Recent History**: Plague 5 years ago
 - **Living Memory**: Duel last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Festival in 19 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: Links to The Hidden Prophecy of Winds

@@ -3,7 +3,7 @@ enhanced: true
 
 title: "Mechanics Cli Books Players Handbook 2024 02 Chapter 1 Playing the Game#advantage Disadvantage"
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - conspiracy

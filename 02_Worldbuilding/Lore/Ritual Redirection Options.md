@@ -2,7 +2,7 @@
 
 title: Ritual Redirection Options
 type: [[Lore
-tags: 
+tags:
 - lore
 - session-notes
 - status/complete

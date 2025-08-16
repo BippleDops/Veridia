@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Dataview Query Guide
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

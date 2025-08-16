@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Brother Ossian V1 Brother Ossian.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city brother ossian v1 brother ossiansvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -204,7 +204,7 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

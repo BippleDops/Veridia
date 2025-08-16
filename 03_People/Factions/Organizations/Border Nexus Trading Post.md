@@ -2,7 +2,7 @@
 
 title: Border Nexus Trading Post
 type: organization
-tags: 
+tags:
 - organization
 - order
 - conspiracy

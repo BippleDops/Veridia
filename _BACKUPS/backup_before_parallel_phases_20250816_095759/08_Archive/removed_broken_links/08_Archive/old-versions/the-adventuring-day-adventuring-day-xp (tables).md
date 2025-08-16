@@ -2,7 +2,7 @@
 
 title: the-adventuring-day-adventuring-day-xp (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

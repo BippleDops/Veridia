@@ -2,7 +2,7 @@
 
 title: Architect Prime Crystalline Vision
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

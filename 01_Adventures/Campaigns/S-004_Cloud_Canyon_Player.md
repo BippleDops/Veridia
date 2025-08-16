@@ -3,7 +3,7 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags: 
+tags:
 - [[Lore
 title: [[S_004_Cloud_Canyon|[S 004 Cloud Canyon]] Player]]
 type: lore

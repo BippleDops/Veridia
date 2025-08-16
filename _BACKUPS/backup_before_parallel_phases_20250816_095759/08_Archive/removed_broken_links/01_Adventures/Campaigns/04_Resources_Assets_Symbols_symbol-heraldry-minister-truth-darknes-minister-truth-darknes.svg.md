@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Symbols_symbol-heraldry-minister-truth-darknes-minister-truth-darknes.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

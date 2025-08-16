@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Trader Grimm Voidheart V1 Trader Grimm Voidheart.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city trader grimm voidheart v1 trader grimm
   voidheartpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

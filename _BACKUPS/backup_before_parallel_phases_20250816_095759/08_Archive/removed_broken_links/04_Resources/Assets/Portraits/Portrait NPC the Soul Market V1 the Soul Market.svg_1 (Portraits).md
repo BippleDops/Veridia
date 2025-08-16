@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the soul market v1 the soul marketsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Soul Market V1 the Soul Market.svg
 type: npc

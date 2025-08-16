@@ -2,7 +2,7 @@
 
 title: Communications Officer Tidecall
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

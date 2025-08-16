@@ -192,32 +192,32 @@ Crates and barrels fill the room. Most have been broken open, their contents lon
 
 ### Room 5
 **Container**: Locked chest
-**Contents**: 
+**Contents**:
 - 104 gold pieces
 
 ### Room 12
 **Container**: Hidden cache
-**Contents**: 
+**Contents**:
 - 582 gold pieces
 - Potion of Invisibility
 - Noble's signet ring
 
 ### Room 6
 **Container**: Hidden cache
-**Contents**: 
+**Contents**:
 - 160 gold pieces
 - Potion of Healing
 - Noble's signet ring
 
 ### Room 2
 **Container**: Hidden cache
-**Contents**: 
+**Contents**:
 - 488 gold pieces
 - Boots of Stealth
 
 ### Room 8
 **Container**: Ancient sarcophagus
-**Contents**: 
+**Contents**:
 - 110 gold pieces
 - Boots of Stealth
 - Treasure map

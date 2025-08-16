@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the noble compact v1 the noble compactsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Noble Compact V1 the Noble Compact.svg
 type: location

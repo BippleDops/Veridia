@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Quartermaster Judith Supplycurrent Quartermaster
   Judith Supplycurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quartermaster judith supplycurrent quartermaster
   judith supplycurrentsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

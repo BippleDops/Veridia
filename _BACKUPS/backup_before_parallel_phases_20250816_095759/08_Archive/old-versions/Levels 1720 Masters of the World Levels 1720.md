@@ -2,7 +2,7 @@
 
 title: Levels 1720 Masters of the World Levels 1720
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

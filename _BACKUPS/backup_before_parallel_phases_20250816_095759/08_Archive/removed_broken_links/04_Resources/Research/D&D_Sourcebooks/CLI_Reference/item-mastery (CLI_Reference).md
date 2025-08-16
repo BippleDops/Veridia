@@ -2,7 +2,7 @@
 
 title: item-mastery (CLI_Reference)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

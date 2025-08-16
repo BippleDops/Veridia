@@ -2,7 +2,7 @@
 
 title: The Hadal Depths
 type: Location
-tags: 
+tags:
 - aquabyssos
 - cosmic-horror
 - status/complete

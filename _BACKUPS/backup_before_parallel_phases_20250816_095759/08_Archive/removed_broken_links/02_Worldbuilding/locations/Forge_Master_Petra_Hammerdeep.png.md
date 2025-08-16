@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - Forge Master Petra Hammerdeeppng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - note
 title: Forge Master Petra Hammerdeep.png
 type: location

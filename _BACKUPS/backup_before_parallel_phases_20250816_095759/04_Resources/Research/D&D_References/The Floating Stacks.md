@@ -2,7 +2,7 @@
 
 title: The Floating Stacks
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

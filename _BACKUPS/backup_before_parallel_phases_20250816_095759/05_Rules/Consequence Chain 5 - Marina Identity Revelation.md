@@ -2,7 +2,7 @@
 
 title: Consequence Chain 5   Marina Identity Revelation
 type: [[Lore
-tags: 
+tags:
 - lore
 - cross-realm-bloodline
 - session-notes
@@ -25,7 +25,7 @@ created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
 magnitude: 3
-primary_sessions: 
+primary_sessions:
 - 'Session 04: The Silverscale Gambit'
 - 'Session 08: Between Two Worlds'
 updated: '2025-08-13T12:34:15.832449+00:00'

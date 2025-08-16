@@ -2,7 +2,7 @@
 
 title: Department of Defense
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

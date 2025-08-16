@@ -2,7 +2,7 @@
 
 title: README_Handouts_Export
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

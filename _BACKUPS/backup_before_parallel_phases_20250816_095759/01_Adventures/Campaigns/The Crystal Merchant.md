@@ -2,7 +2,7 @@
 
 title: The Crystal Merchant
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/location

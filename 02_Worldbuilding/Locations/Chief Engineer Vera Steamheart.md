@@ -2,7 +2,7 @@
 
 title: Chief Engineer Vera Steamheart
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

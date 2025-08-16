@@ -1,7 +1,7 @@
 ---
 title: Guild Master Shellforge
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - stub
 - status/stub

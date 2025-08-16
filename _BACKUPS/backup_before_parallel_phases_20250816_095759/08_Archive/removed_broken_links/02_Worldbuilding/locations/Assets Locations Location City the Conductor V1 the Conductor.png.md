@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Conductor V1 the Conductor.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the conductor v1 the conductorpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

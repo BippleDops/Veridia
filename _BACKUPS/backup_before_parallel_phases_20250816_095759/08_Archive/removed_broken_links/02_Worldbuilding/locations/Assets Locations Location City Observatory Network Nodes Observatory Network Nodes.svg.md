@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Observatory Network Nodes Observatory Network
   Nodes.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city observatory network nodes observatory
   network nodessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

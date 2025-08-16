@@ -2,7 +2,7 @@
 
 title: Common Goods Market
 type: [[Lore
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

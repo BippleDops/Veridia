@@ -2,7 +2,7 @@
 
 title: Naia Deepcurrent
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

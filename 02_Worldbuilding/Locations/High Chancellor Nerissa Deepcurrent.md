@@ -2,7 +2,7 @@
 
 title: High Chancellor Nerissa Deepcurrent
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

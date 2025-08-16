@@ -9,7 +9,7 @@ magical_properties: Crystal Growth Acceleration
 scope: City-Wide Resource Production
 significance: Critical Infrastructure
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location

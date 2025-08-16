@@ -2,7 +2,7 @@
 
 title: Professor Reef Growthseeker
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

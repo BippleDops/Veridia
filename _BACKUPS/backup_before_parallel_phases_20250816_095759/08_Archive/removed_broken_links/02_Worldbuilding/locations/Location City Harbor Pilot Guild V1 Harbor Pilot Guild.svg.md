@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city harbor pilot guild v1 harbor pilot guildsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Harbor Pilot Guild V1 Harbor Pilot Guild.svg
 type: location

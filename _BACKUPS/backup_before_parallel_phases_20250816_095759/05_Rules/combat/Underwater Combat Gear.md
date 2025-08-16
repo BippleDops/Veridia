@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Equipment/Underwater Combat Gear
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -2,7 +2,7 @@
 
 title: The [[Memory Thief
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - memory_thief
 - mysterious

@@ -2,7 +2,7 @@
 
 title: Crystal Cultivator
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

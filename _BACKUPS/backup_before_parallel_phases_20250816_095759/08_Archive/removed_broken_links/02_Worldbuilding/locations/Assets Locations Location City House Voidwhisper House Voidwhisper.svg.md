@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City House Voidwhisper House Voidwhisper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city house voidwhisper house voidwhispersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

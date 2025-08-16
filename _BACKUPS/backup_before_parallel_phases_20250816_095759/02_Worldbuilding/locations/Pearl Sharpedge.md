@@ -2,7 +2,7 @@
 
 title: Pearl Sharpedge
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

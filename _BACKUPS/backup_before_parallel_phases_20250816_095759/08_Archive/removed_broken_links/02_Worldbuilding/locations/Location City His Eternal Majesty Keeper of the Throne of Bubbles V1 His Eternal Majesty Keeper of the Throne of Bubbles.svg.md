@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city his eternal majesty keeper of the throne of bubbles v1 his eternal
   majesty keeper of the throne of bubblessvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City His Eternal Majesty Keeper of the Throne of Bubbles V1 His Eternal
   Majesty Keeper of the Throne of Bubbles.svg

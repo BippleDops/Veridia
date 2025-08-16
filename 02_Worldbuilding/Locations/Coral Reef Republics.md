@@ -2,7 +2,7 @@
 
 title: [[Coral Reef Republics
 type: [location]]
-tags: 
+tags:
 - quest
 - content/location
 - place

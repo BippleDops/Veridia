@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Shrinking Sanctuary V1 the Shrinking Sanctuary.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the shrinking sanctuary v1 the shrinking
   sanctuarysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

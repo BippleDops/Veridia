@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city dream enhancement techniques dream enhancement techniquessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Dream Enhancement Techniques Dream Enhancement Techniques.svg
 type: location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Maritime Security Chief Reef V1 Maritime Security
   Chief Reef.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city maritime security chief reef v1 maritime
   security chief reefsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -198,7 +198,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

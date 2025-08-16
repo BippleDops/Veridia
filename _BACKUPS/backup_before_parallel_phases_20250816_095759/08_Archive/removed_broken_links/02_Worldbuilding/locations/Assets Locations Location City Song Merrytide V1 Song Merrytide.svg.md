@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Song Merrytide V1 Song Merrytide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city song merrytide v1 song merrytidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -207,7 +207,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

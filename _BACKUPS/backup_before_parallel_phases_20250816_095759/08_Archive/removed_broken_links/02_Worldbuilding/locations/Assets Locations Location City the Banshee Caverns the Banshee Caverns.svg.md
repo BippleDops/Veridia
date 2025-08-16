@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Banshee Caverns the Banshee Caverns.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the banshee caverns the banshee cavernssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Deep Sea Cultists
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

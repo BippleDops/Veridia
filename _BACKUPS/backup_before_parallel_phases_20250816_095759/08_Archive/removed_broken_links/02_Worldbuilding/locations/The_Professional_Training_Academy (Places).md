@@ -2,7 +2,7 @@
 
 title: [[Professional Training|The [Professional Training Academy]]
 type: [[location
-tags: 
+tags:
 - place
 - active
 - location

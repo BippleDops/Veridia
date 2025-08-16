@@ -2,7 +2,7 @@
 
 title: Disease_and_Plague_System
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

@@ -1,7 +1,7 @@
 ---
 title: Archive Old Content
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - both
 - index

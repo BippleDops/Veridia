@@ -2,7 +2,7 @@
 
 title: Jasper Three Eyes Flint
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

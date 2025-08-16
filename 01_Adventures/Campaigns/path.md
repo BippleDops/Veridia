@@ -78,7 +78,7 @@ Possible developments and plot opportunities.
 - [The Crimson Hand]]
 - [[The Final Choice
 - [The Forgetting Bomb]]
-- 
+-
 - [[The Grand Trade Routes
 - [The Natural Path Manifesto]]
 - [[The Queen

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Coral Seasweaver V1 Coral Seasweaver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral seasweaver v1 coral seasweaversvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

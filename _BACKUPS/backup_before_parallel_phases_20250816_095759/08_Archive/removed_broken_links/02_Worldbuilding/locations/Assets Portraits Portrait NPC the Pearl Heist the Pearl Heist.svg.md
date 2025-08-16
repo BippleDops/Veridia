@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Pearl Heist the Pearl Heist.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the pearl heist the pearl heistsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -210,7 +210,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

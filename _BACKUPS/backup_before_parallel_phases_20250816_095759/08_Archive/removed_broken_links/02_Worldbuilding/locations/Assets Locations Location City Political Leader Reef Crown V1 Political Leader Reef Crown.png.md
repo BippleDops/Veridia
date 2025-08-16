@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Political Leader Reef Crown V1 Political Leader
   Reef Crown.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city political leader reef crown v1 political
   leader reef crownpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

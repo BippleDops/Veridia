@@ -2,7 +2,7 @@
 
 title: Commander Typhoon Blackheart
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - military-commander
@@ -52,7 +52,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

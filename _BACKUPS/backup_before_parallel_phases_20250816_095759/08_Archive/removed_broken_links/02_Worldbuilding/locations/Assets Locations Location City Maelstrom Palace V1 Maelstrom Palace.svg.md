@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Maelstrom Palace V1 Maelstrom Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city maelstrom palace v1 maelstrom palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -200,7 +200,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

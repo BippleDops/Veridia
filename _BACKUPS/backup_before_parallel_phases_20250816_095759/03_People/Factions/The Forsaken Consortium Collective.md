@@ -2,7 +2,7 @@
 
 title: The Forsaken Consortium Collective
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction
@@ -100,7 +100,7 @@ The Collective operates under the principle of "Abandoned Rights"—that any fac
 ### The Great Abandonment (Post-Shattering Era)
 Following [[The Shattering, major commercial entities fled [Aethermoor]], leaving behind:
 - 47 major manufacturing facilities
-- 23 warehouse and distribution complexes  
+- 23 warehouse and distribution complexes
 - 15 mining operations and processing plants
 - 8 major port and shipping facilities
 - Thousands of smaller workshops and commercial buildings
@@ -162,7 +162,7 @@ The founding document established:
 - **Social Services**: Healthcare, education, housing, and retirement benefits
 - **Leadership Opportunities**: Eligible for elected positions and specialized training
 
-**Requirements**: 
+**Requirements**:
 - Two years continuous residency in Collective territory
 - Demonstrated commitment to Collective principles
 - Technical skills or willingness to learn industrial trades
@@ -309,7 +309,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

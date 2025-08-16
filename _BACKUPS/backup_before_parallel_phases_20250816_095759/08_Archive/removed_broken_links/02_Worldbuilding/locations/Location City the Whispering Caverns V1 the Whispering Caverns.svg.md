@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the whispering caverns v1 the whispering cavernssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Whispering Caverns V1 the Whispering Caverns.svg
 type: location

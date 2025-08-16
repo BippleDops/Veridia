@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain guard peacehold v1 captain guard peaceholdsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Guard Peacehold V1 Captain Guard Peacehold.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: Consequence Chain 3 Reality Merger Diplomatic Crisis
 type: [[Lore
-tags: 
+tags:
 - lore
 - session-notes
 - status/complete
@@ -26,7 +26,7 @@ created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
 magnitude: 5
-primary_sessions: 
+primary_sessions:
 - 'Session 08: Between Two Worlds'
 - 'Session 09: The Price of Unity'
 - 'Session 10: The [Deep Mother]] Rises'

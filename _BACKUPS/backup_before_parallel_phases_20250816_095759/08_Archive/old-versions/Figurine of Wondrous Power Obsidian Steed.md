@@ -2,7 +2,7 @@
 
 title: Figurine of Wondrous Power Obsidian Steed
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

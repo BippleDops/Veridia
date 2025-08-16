@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Deep Fugitive the Deep Fugitive.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the deep fugitive the deep fugitivesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

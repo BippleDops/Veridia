@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Last Dance V1 the Last Dance.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the last dance v1 the last dancesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -188,7 +188,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

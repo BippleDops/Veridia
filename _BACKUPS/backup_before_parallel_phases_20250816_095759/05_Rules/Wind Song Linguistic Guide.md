@@ -2,7 +2,7 @@
 
 title: Wind Song Linguistic Guide
 type: [[Lore
-tags: 
+tags:
 - lore
 - linguistics
 - aerial
@@ -124,7 +124,7 @@ Different altitudes create distinct linguistic environments:
 - Used for personal relationships, quiet contemplation
 - Children learn this first as foundational communication
 
-**Gale-Voice** (Strong wind tones)  
+**Gale-Voice** (Strong wind tones)
 - Powerful, carrying tones for long-distance communication
 - Rhythmic patterns that cut through heavy wind
 - Emergency signals and public announcements
@@ -206,7 +206,7 @@ Different altitudes create distinct linguistic environments:
 
 ### **Inter-Realm Challenges**
 
-**[Aquabyssos]] Communication**: 
+**[Aquabyssos]] Communication**:
 - Atmospheric vs. hydrostatic pressure creates fundamental incompatibilities
 - Tonal patterns distorted by water medium transmission
 - Cultural context gaps in pressure-based vs. wind-based worldviews

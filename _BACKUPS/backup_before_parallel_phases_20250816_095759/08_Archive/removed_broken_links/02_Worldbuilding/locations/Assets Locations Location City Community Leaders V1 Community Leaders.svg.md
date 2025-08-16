@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Community Leaders V1 Community Leaders.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city community leaders v1 community leaderssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

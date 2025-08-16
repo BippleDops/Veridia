@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Programs/Cultural Preservation
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -115,7 +115,7 @@ improvements: 20
 - [Cross-Realm Etiquette Guide]]
 - [[Crystal Corruption Taboos
 - [Crystal Forest]]
-- 
+-
 - [[Daily Routine Nuances and Details
 - [Eastern Kingdoms (02_Worldbuilding)]]
 - [[Hidden Sanctuary

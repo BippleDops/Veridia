@@ -2,7 +2,7 @@
 
 title: Magical Component Manufacturers Guil
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

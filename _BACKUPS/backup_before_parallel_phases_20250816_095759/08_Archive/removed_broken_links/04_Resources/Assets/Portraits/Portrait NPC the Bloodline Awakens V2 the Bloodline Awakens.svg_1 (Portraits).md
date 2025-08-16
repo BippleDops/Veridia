@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the bloodline awakens v2 the bloodline awakenssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Bloodline Awakens V2 the Bloodline Awakens.svg
 type: npc

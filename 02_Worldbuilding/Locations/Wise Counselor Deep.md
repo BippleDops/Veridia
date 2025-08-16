@@ -2,7 +2,7 @@
 
 title: Wise Counselor Deep
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

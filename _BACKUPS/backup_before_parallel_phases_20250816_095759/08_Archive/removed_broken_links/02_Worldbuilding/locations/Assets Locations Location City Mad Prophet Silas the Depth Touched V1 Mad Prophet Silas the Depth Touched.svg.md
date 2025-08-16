@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Mad Prophet Silas the Depth Touched V1 Mad Prophet
   Silas the Depth Touched.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city mad prophet silas the depth touched
   v1 mad prophet silas the depth touchedsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

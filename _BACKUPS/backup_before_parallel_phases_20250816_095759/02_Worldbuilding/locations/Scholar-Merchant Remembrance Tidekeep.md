@@ -2,7 +2,7 @@
 
 title: Scholar [[Merchant Remembrance Tidekeep
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

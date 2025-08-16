@@ -2,7 +2,7 @@
 
 title: God King Aetheron
 type: Npc
-tags: 
+tags:
 - both worlds
 - npc
 - world/both
@@ -44,7 +44,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

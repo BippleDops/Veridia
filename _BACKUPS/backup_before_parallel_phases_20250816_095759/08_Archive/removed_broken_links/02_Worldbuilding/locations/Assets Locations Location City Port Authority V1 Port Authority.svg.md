@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Port Authority V1 Port Authority.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port authority v1 port authoritysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -205,7 +205,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

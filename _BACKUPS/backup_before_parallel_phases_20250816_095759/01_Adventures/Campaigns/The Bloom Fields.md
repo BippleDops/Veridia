@@ -2,7 +2,7 @@
 
 title: The Bloom Fields
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - aquatic-ecology

@@ -1,7 +1,7 @@
 ---
 type: Location
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - cross-realm-trade
@@ -16,12 +16,12 @@ world: Aethermoor
 location_name: Goldwave Manor
 location_type: Noble Estate and Financial Complex
 parent_location: '[[02_Worldbuilding/Places/Port Meridian - Market Square'
-connected_locations: 
+connected_locations:
 - '[02_Worldbuilding/Places/Port Meridian Harbor]]'
 - '[[02_Worldbuilding/Places/The Royal Palace'
 - '[02_Worldbuilding/Lore/Silverscale Banking House]]'
 - '[[02_Worldbuilding/Places/The Shadow Markets'
-sub_locations: 
+sub_locations:
 - 'Goldwave Private Offices'
 - 'The Crystal Conservatory'
 - 'Aurelius''S Private Study'
@@ -36,13 +36,13 @@ wealth_level: Extreme
 created_by: auto-stub
 created: '2025-08-08'
 updated: '2025-08-13T01:18:35.209288+00:00'
-services: 
+services:
 - Private Banking
 - Investment Consultation
 - Cross-Realm Trade Facilitation
 - High-Society Entertainment
 - Diplomatic Hosting
-notable_residents: 
+notable_residents:
 - '[[02_Worldbuilding/Lore/Aurelius Goldwave'
 - 'Lady Serena Goldwave'
 - 'Master Valet Sterling Currentborn'

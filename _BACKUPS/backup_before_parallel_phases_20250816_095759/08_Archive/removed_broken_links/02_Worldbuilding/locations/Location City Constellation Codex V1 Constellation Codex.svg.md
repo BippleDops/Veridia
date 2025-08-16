@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city constellation codex v1 constellation codexsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Constellation Codex V1 Constellation Codex.svg
 type: location

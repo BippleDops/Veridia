@@ -2,7 +2,7 @@
 
 title: Adventure Boldexp[[Lorer
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

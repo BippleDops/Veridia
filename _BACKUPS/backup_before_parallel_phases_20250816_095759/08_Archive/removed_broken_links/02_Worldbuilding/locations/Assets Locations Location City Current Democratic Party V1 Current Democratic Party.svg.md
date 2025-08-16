@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Current Democratic Party V1 Current Democratic
   Party.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city current democratic party v1 current
   democratic partysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

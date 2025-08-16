@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Singing Trenches the Singing Trenches.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the singing trenches the singing trenchessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

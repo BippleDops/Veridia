@@ -2,7 +2,7 @@
 
 title: The Spice Road
 type: [[Lore
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

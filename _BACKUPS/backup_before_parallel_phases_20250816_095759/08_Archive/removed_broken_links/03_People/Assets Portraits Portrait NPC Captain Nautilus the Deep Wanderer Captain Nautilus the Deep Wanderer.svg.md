@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Captain Nautilus the Deep Wanderer Captain Nautilus
   the Deep Wanderer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain nautilus the deep wanderer captain
   nautilus the deep wanderersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

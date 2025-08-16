@@ -2,11 +2,11 @@
 
 title: Assets Handouts Handout Handout Cult Text with Marginalia V3 Cult Text with
   Marginalia.png
-aliases: 
+aliases:
 - 04 Resources Assets Handouts handout handout cult text with marginalia v3 cult text
   with marginaliapng
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization
@@ -220,7 +220,7 @@ What they claim to pursue
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

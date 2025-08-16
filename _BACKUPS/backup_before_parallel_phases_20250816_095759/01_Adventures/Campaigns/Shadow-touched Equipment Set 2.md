@@ -8,7 +8,7 @@ item_type: Cursed Equipment Set
 rarity: Very Rare (Cursed)
 requires_attunement: Yes (by a creature that has been touched by shadow magic)
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/item
@@ -65,7 +65,7 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 - **Curse**: Wielder must make Wisdom save or attack nearest creature when bloodied
 
 #### Shadow-touched Cloak
-- **Properties**: Advantage on Stealth checks, resistance to cold damage  
+- **Properties**: Advantage on Stealth checks, resistance to cold damage
 - **Special**: Can become incorporeal for 6 seconds once per long rest
 - **Active**: Cast *misty step* at will, but only into areas of dim light or darkness
 - **Curse**: Wearer cannot benefit from natural healing in bright light
@@ -94,7 +94,7 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 - **Whisper Network**: Communicate telepathically with other shadow-touched creatures within 1 mile
 - **Curse Enhancement**: Minor personality changes toward pessimism and isolation
 
-#### 3-4 Pieces  
+#### 3-4 Pieces
 - **Shadow Form**: Become incorporeal for up to 1 minute per long rest
 - **Fear Aura**: Creatures within 10 feet must save or become frightened (1/day)
 - **Light Drain**: Dim bright light to normal light within 30 feet
@@ -149,7 +149,7 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 - **Location**: Drifts with [[02_Worldbuilding/Lore/The Phantom Tide ghost fleet
 - **Power Level**: Fully developed shadow corruption with nautical enhancement
 
-### The Shield of the Last Sentinel  
+### The Shield of the Last Sentinel
 - **Origin**: Carried by final defender of [02_Worldbuilding/Places/Sunken Citadel of Remembrance|02 Worldbuilding/Places/Sunken Citadel Of Remembrance]]
 - **Corruption**: Absorbed despair and hopelessness during citadel's fall
 - **Current Status**: Embedded in citadel wall, surrounded by wailing spirits
@@ -308,43 +308,43 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 
 ## Adventure Hooks
 ### The Collector's Gambit
-**Level**: 8-13  
-**Hook**: Wealthy collector has assembled 5 pieces and seeks final two  
-**Complication**: Collector is already showing advanced corruption symptoms  
-**Moral Choice**: Help complete set knowing consequences, or sabotage collection  
-**Stakes**: Collector's transformation will affect entire city district  
+**Level**: 8-13
+**Hook**: Wealthy collector has assembled 5 pieces and seeks final two
+**Complication**: Collector is already showing advanced corruption symptoms
+**Moral Choice**: Help complete set knowing consequences, or sabotage collection
+**Stakes**: Collector's transformation will affect entire city district
 **Resolution**: Find way to satisfy collector's obsession without enabling corruption
 
 ### The Shadow Knight's Quest
-**Level**: 10-15  
-**Hook**: Death knight in full shadow set seeks redemption for past atrocities  
-**Challenge**: Must help knight resist set's influence while seeking cure  
-**Opposition**: Other shadow creatures try to prevent knight's potential redemption  
-**Complexity**: Knight's memories of human life return gradually, causing guilt and grief  
+**Level**: 10-15
+**Hook**: Death knight in full shadow set seeks redemption for past atrocities
+**Challenge**: Must help knight resist set's influence while seeking cure
+**Opposition**: Other shadow creatures try to prevent knight's potential redemption
+**Complexity**: Knight's memories of human life return gradually, causing guilt and grief
 **Outcome**: Determine whether redemption is possible or mercy killing is necessary
 
 ### The Corrupted Champion
-**Level**: 12-17  
-**Hook**: Famous hero has been secretly assembling shadow set to fight greater evil  
-**Revelation**: Hero's methods become increasingly ruthless as corruption progresses  
-**Dilemma**: Support hero's mission despite moral concerns, or stop them  
-**Investigation**: Uncover whether hero's mission justifies risk of total corruption  
+**Level**: 12-17
+**Hook**: Famous hero has been secretly assembling shadow set to fight greater evil
+**Revelation**: Hero's methods become increasingly ruthless as corruption progresses
+**Dilemma**: Support hero's mission despite moral concerns, or stop them
+**Investigation**: Uncover whether hero's mission justifies risk of total corruption
 **Resolution**: Find alternative solution or guide hero's final heroic sacrifice
 
 ### The Shadow Market
-**Level**: 6-11  
-**Hook**: Underground marketplace specializing in shadow-touched items  
-**Discovery**: Market is front for [02_Worldbuilding/Lore/The Deep Mother]] cult recruitment  
-**Investigation**: Infiltrate organization and discover their ultimate purpose  
-**Action**: Decide whether to expose, destroy, or co-opt the shadow market  
+**Level**: 6-11
+**Hook**: Underground marketplace specializing in shadow-touched items
+**Discovery**: Market is front for [02_Worldbuilding/Lore/The Deep Mother]] cult recruitment
+**Investigation**: Infiltrate organization and discover their ultimate purpose
+**Action**: Decide whether to expose, destroy, or co-opt the shadow market
 **Consequences**: Actions affect availability of shadow items throughout region
 
 ### The Last Light
-**Level**: 15-20  
-**Hook**: Multiple complete shadow sets have appeared, threatening to eclipse all light  
-**Epic Scope**: Shadow-touched armies march to create permanent realm of darkness  
-**Resistance**: Organize forces of light to oppose shadow corruption  
-**Personal**: Party members must resist temptation to use shadow power against itself  
+**Level**: 15-20
+**Hook**: Multiple complete shadow sets have appeared, threatening to eclipse all light
+**Epic Scope**: Shadow-touched armies march to create permanent realm of darkness
+**Resistance**: Organize forces of light to oppose shadow corruption
+**Personal**: Party members must resist temptation to use shadow power against itself
 **Climax**: Final battle determining whether light or shadow dominates the world
 
 ## Connected Elements
@@ -359,7 +359,7 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 ## DM Notes
 ### Campaign Integration
 - Represents temptation of power at cost of humanity
-- Excellent long-term corruption mechanic for morally complex campaigns  
+- Excellent long-term corruption mechanic for morally complex campaigns
 - Can drive personal character arcs about identity and moral compromise
 - Links individual equipment choices to larger cosmic themes
 - Provides mechanical progression that mirrors character development
@@ -378,7 +378,7 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 - Multiple acquisition methods allow different party approaches
 - Countermeasures provide hope and motivation for affected characters
 
-### Roleplay Opportunities  
+### Roleplay Opportunities
 - Gradual personality changes create compelling character development
 - Other characters must react to friend's transformation
 - Moral dilemmas about using corrupted power for good purposes

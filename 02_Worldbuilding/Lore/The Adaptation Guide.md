@@ -2,7 +2,7 @@
 
 title: The Adaptation Guide
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

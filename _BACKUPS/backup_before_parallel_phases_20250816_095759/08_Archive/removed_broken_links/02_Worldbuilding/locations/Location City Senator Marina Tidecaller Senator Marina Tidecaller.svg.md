@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city senator marina tidecaller senator marina tidecallersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Senator Marina Tidecaller Senator Marina Tidecaller.svg
 type: location

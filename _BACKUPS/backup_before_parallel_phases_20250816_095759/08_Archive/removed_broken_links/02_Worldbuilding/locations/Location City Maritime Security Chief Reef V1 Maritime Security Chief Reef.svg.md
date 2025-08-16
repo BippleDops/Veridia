@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city maritime security chief reef v1 maritime security chief reefsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Maritime Security Chief Reef V1 Maritime Security Chief Reef.svg
 type: location

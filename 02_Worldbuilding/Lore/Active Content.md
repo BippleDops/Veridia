@@ -2,7 +2,7 @@
 
 title: Active Content
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

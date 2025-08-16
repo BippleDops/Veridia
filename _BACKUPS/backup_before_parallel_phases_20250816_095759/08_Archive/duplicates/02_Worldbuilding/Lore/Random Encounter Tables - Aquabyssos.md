@@ -2,7 +2,7 @@
 
 title: Random [[Encounter Tables   [Aquabyssos]]
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - status/complete
@@ -16,10 +16,10 @@ tags:
 created: null
 modified: '2025-08-14'
 status: complete
-accessibility: 
+accessibility:
   content_warnings: []
   pronunciation: [[Random Encounter|[Random Encounter Tables]] - Aquabyssos
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -133,7 +133,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

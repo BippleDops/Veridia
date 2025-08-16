@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Intelligence Services Intelligence Services.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc intelligence services intelligence servicessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

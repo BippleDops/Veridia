@@ -2,7 +2,7 @@
 
 title: Magic Missile
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -2,7 +2,7 @@
 
 title: Port Nimbus
 type: [[location
-tags: 
+tags:
 - both
 - quest
 - world/both

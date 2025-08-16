@@ -2,7 +2,7 @@
 
 title: Magic Item Values by Rarity Magic Item Rarities and Values Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

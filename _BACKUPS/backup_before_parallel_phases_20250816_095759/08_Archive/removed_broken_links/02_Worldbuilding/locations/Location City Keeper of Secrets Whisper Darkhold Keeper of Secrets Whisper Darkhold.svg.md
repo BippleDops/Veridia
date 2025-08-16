@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper of secrets whisper darkhold keeper of secrets whisper darkholdsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper of Secrets Whisper Darkhold Keeper of Secrets Whisper
   Darkhold.svg

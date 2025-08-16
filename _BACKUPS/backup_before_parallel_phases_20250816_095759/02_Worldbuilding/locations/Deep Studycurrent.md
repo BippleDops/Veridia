@@ -2,7 +2,7 @@
 
 title: Deep Studycurrent
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

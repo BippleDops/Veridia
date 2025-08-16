@@ -2,7 +2,7 @@
 
 title: The [[Deep Mother Rises
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

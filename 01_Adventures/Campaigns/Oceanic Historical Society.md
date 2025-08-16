@@ -2,7 +2,7 @@
 
 title: Oceanic Historical Society
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Crystal Magic Theory
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

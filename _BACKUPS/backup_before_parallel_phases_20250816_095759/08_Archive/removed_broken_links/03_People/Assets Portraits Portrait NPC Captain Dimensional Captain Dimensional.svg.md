@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Dimensional Captain Dimensional.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain dimensional captain dimensionalsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: [[Aethermoor [Aquabyssos]] World Connection Guide
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - aethermoor
@@ -117,7 +117,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - Danger: Void current exposure
 
 3. **Memory Streams**
-   - Flow between 
+   - Flow between
    - Travel: Consciousness only, body remains
    - Duration: `dice: 1d4` hours maximum
    - Cost: Temporary memory loss

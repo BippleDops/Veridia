@@ -2,7 +2,7 @@
 
 title: Lieutet Loyalt
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

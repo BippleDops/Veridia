@@ -2,7 +2,7 @@
 
 title: [[Community Health Clinics
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

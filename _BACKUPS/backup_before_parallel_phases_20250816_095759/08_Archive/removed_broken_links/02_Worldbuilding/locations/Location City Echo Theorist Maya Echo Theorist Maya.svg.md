@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city echo theorist maya echo theorist mayasvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Echo Theorist Maya Echo Theorist Maya.svg
 type: location

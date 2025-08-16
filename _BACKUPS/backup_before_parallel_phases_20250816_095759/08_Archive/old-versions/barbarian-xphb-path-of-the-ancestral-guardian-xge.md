@@ -2,7 +2,7 @@
 
 title: barbarian-xphb-path-of-the-ancestral-guardian-xge
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

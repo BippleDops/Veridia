@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Trade Regulations Trade Regulations.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city trade regulations trade regulationssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

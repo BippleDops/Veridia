@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Studycurrent Deep Studycurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep studycurrent deep studycurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

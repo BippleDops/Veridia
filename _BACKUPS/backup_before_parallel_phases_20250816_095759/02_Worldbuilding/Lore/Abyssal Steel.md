@@ -2,7 +2,7 @@
 
 title: Abyssal Steel
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

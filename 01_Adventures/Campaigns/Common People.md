@@ -2,7 +2,7 @@
 
 title: Common [[People
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore
@@ -113,7 +113,7 @@ Mentioned in The Hidden Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Transformation Techniques
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

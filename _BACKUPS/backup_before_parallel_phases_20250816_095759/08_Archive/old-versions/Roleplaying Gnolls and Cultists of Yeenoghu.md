@@ -2,7 +2,7 @@
 
 title: Roleplaying Gnolls and Cultists of Yeenoghu
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

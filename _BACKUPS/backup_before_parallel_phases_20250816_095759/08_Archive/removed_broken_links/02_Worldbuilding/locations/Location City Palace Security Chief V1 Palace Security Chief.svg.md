@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city palace security chief v1 palace security chiefsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Palace Security Chief V1 Palace Security Chief.svg
 type: location

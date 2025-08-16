@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Whisper Island Whisper Island.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city whisper island whisper islandsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

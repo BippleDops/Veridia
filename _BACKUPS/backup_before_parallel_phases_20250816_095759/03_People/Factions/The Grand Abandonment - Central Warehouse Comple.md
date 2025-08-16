@@ -2,7 +2,7 @@
 
 title: The Grand Abandonment   Central Warehouse Comple
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

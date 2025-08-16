@@ -2,7 +2,7 @@
 
 title: The Abyssal Tavern
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

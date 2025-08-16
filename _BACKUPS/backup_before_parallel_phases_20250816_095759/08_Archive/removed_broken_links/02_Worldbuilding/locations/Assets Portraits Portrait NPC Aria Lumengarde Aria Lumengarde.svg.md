@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Aria Lumengarde Aria Lumengarde.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc aria lumengarde aria lumengardesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

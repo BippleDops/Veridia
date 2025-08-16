@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Grand Bazaar of Echoing Coins the Grand
   Bazaar of Echoing Coins.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the grand bazaar of echoing coins the
   grand bazaar of echoing coinssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

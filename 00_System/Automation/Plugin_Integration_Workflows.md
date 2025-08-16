@@ -17,8 +17,8 @@ const existingNPCs = app.vault.getMarkdownFiles()
 // Suggest relationships with existing NPCs
 if (existingNPCs.length > 0) {
   const relatedNPC = await tp.system.suggester(
-    existingNPCs, existingNPCs, 
-    false, 
+    existingNPCs, existingNPCs,
+    false,
     "Related to existing NPC?"
   );
 }
@@ -33,7 +33,7 @@ const recentFiles = app.workspace.getRecentFiles()
   .filter(file => file.includes("01_Adventures"))
   .map(file => file.split("/").pop().replace(".md", ""));
 
-const campaign = recentFiles.length > 0 ? 
+const campaign = recentFiles.length > 0 ?
   await tp.system.suggester(["Auto-detect: " + recentFiles[0], "Choose different"], [recentFiles[0], "other"]) :
   await tp.system.prompt("Campaign");
 %>
@@ -94,7 +94,7 @@ tag:#npc location:"Aquabyssos" campaign:"Current"
 *Hotkeys and shortcuts for common operations*
 
 - `Ctrl+N+P` → New NPC template
-- `Ctrl+N+Q` → New Quest template  
+- `Ctrl+N+Q` → New Quest template
 - `Ctrl+N+S` → New Session template
 - `Ctrl+N+L` → New Location template
 
@@ -179,7 +179,7 @@ WHERE contains(file.path, "People")
 ### Plugin Conflicts
 *Identify and resolve plugin conflicts*
 
-### Performance Problems  
+### Performance Problems
 *Diagnose and fix slow performance*
 
 ### Data Corruption

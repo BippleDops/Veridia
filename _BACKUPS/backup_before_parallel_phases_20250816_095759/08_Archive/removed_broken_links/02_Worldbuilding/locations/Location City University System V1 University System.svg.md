@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city university system v1 university systemsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City University System V1 University System.svg
 type: location

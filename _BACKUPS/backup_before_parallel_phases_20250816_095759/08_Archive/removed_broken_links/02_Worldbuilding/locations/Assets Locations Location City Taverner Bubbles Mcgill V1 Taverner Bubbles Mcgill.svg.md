@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Taverner Bubbles Mcgill V1 Taverner Bubbles
   Mcgill.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city taverner bubbles mcgill v1 taverner
   bubbles mcgillsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

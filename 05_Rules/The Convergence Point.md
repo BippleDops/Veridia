@@ -1,7 +1,7 @@
 ---
 title: The Convergence Point
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - both

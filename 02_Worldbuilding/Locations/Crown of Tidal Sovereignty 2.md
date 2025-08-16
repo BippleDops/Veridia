@@ -8,7 +8,7 @@ item_type: Crown of Rule (Seven Shards Enhanced)
 rarity: Legendary
 requires_attunement: Yes (by a creature of noble blood or appointed by divine authority)
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/item
@@ -223,35 +223,35 @@ Each of the seven fragments retains part of the crown's original power while dev
 
 ## Adventure Opportunities
 ### The Fragment Hunt
-**Level**: 5-15 (scales with number of fragments sought)  
-**Hook**: Commission to locate and secure crown fragments before hostile forces  
-**Challenge**: Each fragment requires different approach and tests of character  
-**Complication**: Multiple factions competing for same fragments  
-**Political**: Must navigate diplomatic consequences of fragment ownership  
+**Level**: 5-15 (scales with number of fragments sought)
+**Hook**: Commission to locate and secure crown fragments before hostile forces
+**Challenge**: Each fragment requires different approach and tests of character
+**Complication**: Multiple factions competing for same fragments
+**Political**: Must navigate diplomatic consequences of fragment ownership
 **Resolution**: Decide whether to unite fragments, distribute them, or keep them separate
 
 ### The Emperor's Choice
-**Level**: 10-16  
-**Hook**: [02_Worldbuilding/People/The Scattered Emperor]] requests help reuniting fragments to heal his mind  
-**Complexity**: Different personality aspects have conflicting goals for fragments  
-**Moral**: Question of whether unity is worth potential cost of absolute power  
-**Obstacles**: Fragment guardians may resist surrendering their charges  
+**Level**: 10-16
+**Hook**: [02_Worldbuilding/People/The Scattered Emperor]] requests help reuniting fragments to heal his mind
+**Complexity**: Different personality aspects have conflicting goals for fragments
+**Moral**: Question of whether unity is worth potential cost of absolute power
+**Obstacles**: Fragment guardians may resist surrendering their charges
 **Stakes**: Success could restore stable rule or create new tyranny
 
 ### The False Crown
-**Level**: 12-18  
-**Hook**: Someone has created counterfeit fragments and is using them to claim rulership  
-**Investigation**: Identify which fragments are real and expose the deception  
-**Danger**: False fragments may have corrupted powers or dangerous side effects  
-**Politics**: False claimant may have legitimate grievances against current system  
+**Level**: 12-18
+**Hook**: Someone has created counterfeit fragments and is using them to claim rulership
+**Investigation**: Identify which fragments are real and expose the deception
+**Danger**: False fragments may have corrupted powers or dangerous side effects
+**Politics**: False claimant may have legitimate grievances against current system
 **Resolution**: Restore truth while addressing underlying political problems
 
 ### The Crown War
-**Level**: 15-20  
-**Hook**: All seven fragments surface simultaneously, triggering conflict between major factions  
-**Epic Scope**: Realm-wide war with multiple factions seeking to claim complete crown  
-**Player Role**: Navigate complex alliances and betrayals to prevent catastrophe  
-**Moral Complexity**: Each faction has legitimate claim to certain aspects of governance  
+**Level**: 15-20
+**Hook**: All seven fragments surface simultaneously, triggering conflict between major factions
+**Epic Scope**: Realm-wide war with multiple factions seeking to claim complete crown
+**Player Role**: Navigate complex alliances and betrayals to prevent catastrophe
+**Moral Complexity**: Each faction has legitimate claim to certain aspects of governance
 **Resolution**: Find way to share power or unite factions under worthy ruler
 
 ## Connected Elements

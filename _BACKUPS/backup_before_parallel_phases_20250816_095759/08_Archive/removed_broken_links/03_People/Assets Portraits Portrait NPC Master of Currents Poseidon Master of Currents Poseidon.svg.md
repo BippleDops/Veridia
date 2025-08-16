@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Master of Currents Poseidon Master of Currents
   Poseidon.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc master of currents poseidon master of
   currents poseidonsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

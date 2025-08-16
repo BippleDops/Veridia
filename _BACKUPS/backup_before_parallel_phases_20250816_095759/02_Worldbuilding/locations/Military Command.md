@@ -2,7 +2,7 @@
 
 title: Military Command
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -158,7 +158,7 @@ Ongoing situations affecting Military Command:
 - **Dragon**: chromatic
   - Traits: standard
   - CR Range: 3
-  
+
 ### [[Environmental Hazards
 - Poisonous gas
 - **DC 20** to detect
@@ -176,7 +176,7 @@ Ongoing situations affecting Military Command:
 - **Recent History**: Festival 40 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Arrival in 26 days
 - **Brewing Conflict**: Succession
 - **Prophecy Connection**: [Link]]s to The Second Prophecy of Shadows

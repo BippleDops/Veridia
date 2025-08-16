@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City City Council of Aquabyssos City Council of Aquabyssos.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city city council of aquabyssos city council
   of aquabyssossvg
 type: location
-tags: 
+tags:
 - aquabyssos
 - place
 - active

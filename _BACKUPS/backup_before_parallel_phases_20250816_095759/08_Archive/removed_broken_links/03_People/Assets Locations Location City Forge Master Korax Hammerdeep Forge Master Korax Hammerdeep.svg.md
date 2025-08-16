@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Forge Master Korax Hammerdeep Forge Master Korax
   Hammerdeep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city forge master korax hammerdeep forge
   master korax hammerdeepsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

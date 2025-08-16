@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Harbor Pilot Guild V1 Harbor Pilot Guild.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor pilot guild v1 harbor pilot guildsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

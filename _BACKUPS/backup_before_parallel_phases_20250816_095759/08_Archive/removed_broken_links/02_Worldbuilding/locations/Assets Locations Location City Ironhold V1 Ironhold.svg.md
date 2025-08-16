@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Ironhold V1 Ironhold.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city ironhold v1 ironholdsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

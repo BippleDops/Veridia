@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Sage Iris Crystalbloom V1 Sage Iris Crystalbloom.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sage iris crystalbloom v1 sage iris
   crystalbloomsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Rewrite the World Order
 type: Faction
-tags: 
+tags:
 - status/complete
 - extremists
 - content/faction

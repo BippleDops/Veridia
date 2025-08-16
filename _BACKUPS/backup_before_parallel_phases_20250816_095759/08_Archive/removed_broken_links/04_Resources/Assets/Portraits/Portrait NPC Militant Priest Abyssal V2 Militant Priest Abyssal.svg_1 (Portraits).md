@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc militant priest abyssal v2 militant priest abyssalsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Militant Priest Abyssal V2 Militant Priest Abyssal.svg
 type: npc

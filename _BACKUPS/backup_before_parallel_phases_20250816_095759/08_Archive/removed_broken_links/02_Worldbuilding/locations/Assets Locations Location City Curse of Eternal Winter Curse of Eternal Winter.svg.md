@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Curse of Eternal Winter Curse of Eternal Winter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city curse of eternal winter curse of eternal
   wintersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

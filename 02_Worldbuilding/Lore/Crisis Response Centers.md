@@ -2,7 +2,7 @@
 
 title: Crisis Response Centers
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Lighthouse Keeper S Ghost V1 the Lighthouse
   Keeper S Ghost.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the lighthouse keeper s ghost v1 the
   lighthouse keeper s ghostpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

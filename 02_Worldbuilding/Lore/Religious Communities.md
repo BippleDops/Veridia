@@ -2,7 +2,7 @@
 
 title: Religious Communities
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city portal commander marina bridgewright v1 portal commander marina bridgewrightpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Portal Commander Marina Bridgewright V1 Portal Commander Marina
   Bridgewright.png

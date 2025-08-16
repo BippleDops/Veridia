@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temporal Rescue Temporal Rescue.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temporal rescue temporal rescuesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

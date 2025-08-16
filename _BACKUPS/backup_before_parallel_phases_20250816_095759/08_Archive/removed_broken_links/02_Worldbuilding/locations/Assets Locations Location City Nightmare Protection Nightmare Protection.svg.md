@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Nightmare Protection Nightmare Protection.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city nightmare protection nightmare protectionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

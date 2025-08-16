@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Fice/Dimensional Vaults
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

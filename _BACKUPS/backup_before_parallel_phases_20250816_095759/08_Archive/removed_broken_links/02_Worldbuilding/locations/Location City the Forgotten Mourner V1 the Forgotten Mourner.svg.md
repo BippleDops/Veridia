@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the forgotten mourner v1 the forgotten mournersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Forgotten Mourner V1 the Forgotten Mourner.svg
 type: location

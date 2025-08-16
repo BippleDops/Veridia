@@ -2,7 +2,7 @@
 
 title: Resot Crystals
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

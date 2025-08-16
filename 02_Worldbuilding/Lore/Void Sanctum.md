@@ -2,7 +2,7 @@
 
 title: Void Sanctum
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

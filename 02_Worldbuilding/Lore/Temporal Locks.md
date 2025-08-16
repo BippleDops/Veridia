@@ -2,7 +2,7 @@
 
 title: Temporal Locks
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

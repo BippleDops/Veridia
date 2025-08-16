@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Courier Chief Swift Currentrider V1 Courier
   Chief Swift Currentrider.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city courier chief swift currentrider v1
   courier chief swift currentridersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

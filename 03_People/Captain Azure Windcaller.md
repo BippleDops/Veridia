@@ -1,7 +1,7 @@
 ---
 title: Captain Azure Windcaller
 type: npc
-tags: 
+tags:
 - npc
 - human
 - rogue

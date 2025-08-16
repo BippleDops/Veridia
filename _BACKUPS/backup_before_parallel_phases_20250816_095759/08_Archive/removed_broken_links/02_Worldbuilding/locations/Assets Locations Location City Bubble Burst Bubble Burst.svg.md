@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Bubble Burst Bubble Burst.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city bubble burst bubble burstsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: [[locations Abyssal Forges
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

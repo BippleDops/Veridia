@@ -2,7 +2,7 @@
 
 title: Npc Low Abilities
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

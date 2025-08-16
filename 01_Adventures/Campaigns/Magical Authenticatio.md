@@ -2,7 +2,7 @@
 
 title: Magical Authenticatio
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

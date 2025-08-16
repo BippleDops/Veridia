@@ -2,7 +2,7 @@
 
 title: Temporal Pools
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

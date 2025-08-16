@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Thalassa Lightbringer V1 Thalassa Lightbringer.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city thalassa lightbringer v1 thalassa lightbringerpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

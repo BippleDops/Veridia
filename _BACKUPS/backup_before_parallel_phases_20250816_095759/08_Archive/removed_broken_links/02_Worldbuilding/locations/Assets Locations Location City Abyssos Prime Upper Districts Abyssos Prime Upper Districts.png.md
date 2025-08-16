@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Abyssos Prime Upper Districts Abyssos Prime
   Upper Districts.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city abyssos prime upper districts abyssos
   prime upper districtspng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -185,7 +185,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

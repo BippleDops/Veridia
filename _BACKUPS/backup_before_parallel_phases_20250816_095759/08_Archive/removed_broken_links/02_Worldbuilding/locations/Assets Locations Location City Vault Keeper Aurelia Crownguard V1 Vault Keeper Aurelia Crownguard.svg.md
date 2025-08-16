@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Vault Keeper Aurelia Crownguard V1 Vault Keeper
   Aurelia Crownguard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city vault keeper aurelia crownguard v1 vault
   keeper aurelia crownguardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

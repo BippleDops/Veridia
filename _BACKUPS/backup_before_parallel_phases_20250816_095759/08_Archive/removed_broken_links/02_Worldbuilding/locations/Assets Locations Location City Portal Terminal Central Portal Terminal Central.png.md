@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Portal Terminal Central Portal Terminal Central.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city portal terminal central portal terminal
   centralpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

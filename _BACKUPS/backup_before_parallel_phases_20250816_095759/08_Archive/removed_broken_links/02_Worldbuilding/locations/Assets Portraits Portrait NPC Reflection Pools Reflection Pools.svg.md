@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Reflection Pools Reflection Pools.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc reflection pools reflection poolssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

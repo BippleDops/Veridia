@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Shadowmire Tavern the Shadowmire Tavern.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the shadowmire tavern the shadowmire
   tavernsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: List Spells Optional Features Fist of Four Thunders
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sunken palace of tides sunken palace of tidessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Sunken Palace of Tides Sunken Palace of Tides.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: [[Marcus Depthward
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

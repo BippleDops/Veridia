@@ -2,7 +2,7 @@
 
 title: Memory Depths
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

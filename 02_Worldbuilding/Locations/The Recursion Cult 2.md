@@ -6,7 +6,7 @@ current_state: Active temporal experiments
 danger_level: 8
 depth: 3200-3500 feet
 discovered: false
-factions: 
+factions:
 - '[[The Infinity Seekers'
 - '[Temporal Purists]]'
 - '[[The Loop Breakers'
@@ -14,7 +14,7 @@ factions:
 government: Theocratic Recursion Council
 location_name: The Recursion Cult Complex
 location_type: Temporal Cult Compound
-notable_npcs: 
+notable_npcs:
 - '[[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion
   Oracle'
 - '[02_Worldbuilding/Places/Paradox Engineer Zeno]]'
@@ -26,7 +26,7 @@ population: 200
 pressure_effects: Severe
 ruler: '[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The
   Recursion Oracle]]'
-services: 
+services:
 - Temporal Navigation
 - Memory Loop Creation
 - Paradox Consultation
@@ -34,13 +34,13 @@ services:
 - Time Distortion Effects
 shadow_density: Variable
 status: complete
-sub_locations: 
+sub_locations:
 - '[[The Infinite Chamber'
 - '[Memory Loop Gardens]]'
 - '[[Paradox Meditation Cells'
 - '[The Causality Engine]]'
 - '[[Temporal Observation Deck]]'
-tags: 
+tags:
 - both
 - complete
 - content/location

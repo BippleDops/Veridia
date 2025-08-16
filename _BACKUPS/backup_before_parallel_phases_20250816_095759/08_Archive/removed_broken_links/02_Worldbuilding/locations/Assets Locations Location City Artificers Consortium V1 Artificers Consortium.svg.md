@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Artificers Consortium V1 Artificers Consortium.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city artificers consortium v1 artificers
   consortiumsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

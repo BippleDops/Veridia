@@ -2,7 +2,7 @@
 
 title: Memory Coral Reefs
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

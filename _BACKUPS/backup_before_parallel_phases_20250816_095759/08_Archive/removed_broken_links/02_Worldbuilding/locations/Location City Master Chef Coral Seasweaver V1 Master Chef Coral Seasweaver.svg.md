@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master chef coral seasweaver v1 master chef coral seasweaversvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Chef Coral Seasweaver V1 Master Chef Coral Seasweaver.svg
 type: location

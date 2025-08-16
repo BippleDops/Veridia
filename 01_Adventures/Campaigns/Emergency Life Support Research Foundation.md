@@ -2,7 +2,7 @@
 
 title: [[Emergency Life Support Research Foundation
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - world/aquabyssos
 - aquatic

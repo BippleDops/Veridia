@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc shadow broker mist v1 shadow broker mistsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Shadow Broker Mist V1 Shadow Broker Mist.svg
 type: npc

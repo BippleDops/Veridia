@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Smuggler S Den the Smuggler S Den.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the smuggler s den the smuggler s densvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

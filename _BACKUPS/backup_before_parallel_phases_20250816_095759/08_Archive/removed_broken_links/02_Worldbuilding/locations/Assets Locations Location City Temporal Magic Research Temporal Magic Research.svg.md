@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Temporal Magic Research Temporal Magic Research.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temporal magic research temporal magic
   researchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Interfaith Council
 type: organization
-tags: 
+tags:
 - organization
 - society
 - conspiracy

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Express Racers V1 Express Racers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city express racers v1 express racerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -173,7 +173,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

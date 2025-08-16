@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Liberty Coalition V1 Liberty Coalition.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city liberty coalition v1 liberty coalitionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

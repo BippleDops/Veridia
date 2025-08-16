@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Elena Starweaver.md
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

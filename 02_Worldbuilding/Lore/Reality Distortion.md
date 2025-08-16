@@ -2,7 +2,7 @@
 
 title: Reality Distortion
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

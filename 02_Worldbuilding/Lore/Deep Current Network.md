@@ -2,7 +2,7 @@
 
 title: Deep Current Network
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

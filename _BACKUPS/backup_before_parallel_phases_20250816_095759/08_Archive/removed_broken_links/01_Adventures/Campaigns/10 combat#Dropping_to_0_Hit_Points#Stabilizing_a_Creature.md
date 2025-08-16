@@ -1,7 +1,7 @@
 ---
 title: "10 combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature"
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

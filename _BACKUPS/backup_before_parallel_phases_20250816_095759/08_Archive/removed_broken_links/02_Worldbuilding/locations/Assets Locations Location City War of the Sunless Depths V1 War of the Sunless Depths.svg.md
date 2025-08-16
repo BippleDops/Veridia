@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City War of the Sunless Depths V1 War of the Sunless
   Depths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city war of the sunless depths v1 war of
   the sunless depthssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

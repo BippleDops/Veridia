@@ -1,7 +1,7 @@
 ---
 title: Archive of Depths
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

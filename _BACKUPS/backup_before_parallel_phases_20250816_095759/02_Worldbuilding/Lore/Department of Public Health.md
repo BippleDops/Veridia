@@ -2,7 +2,7 @@
 
 title: Department of Public Health
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

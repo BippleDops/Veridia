@@ -2,7 +2,7 @@
 
 title: Marine Druids
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

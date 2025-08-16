@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city law enforcement medical support v1 law enforcement medical supportsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Law Enforcement Medical Support V1 Law Enforcement Medical Support.svg
 type: location

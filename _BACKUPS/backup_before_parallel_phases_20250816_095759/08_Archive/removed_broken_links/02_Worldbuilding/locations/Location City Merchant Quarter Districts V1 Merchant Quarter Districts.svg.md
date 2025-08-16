@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city merchant quarter districts v1 merchant quarter districtssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Merchant Quarter Districts V1 Merchant Quarter Districts.svg
 type: location

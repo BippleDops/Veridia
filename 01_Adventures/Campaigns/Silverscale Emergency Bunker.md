@@ -2,7 +2,7 @@
 
 title: Silverscale Emergency Bunker
 type: [[Lore
-tags: 
+tags:
 - lore
 - silverscale
 - session-notes

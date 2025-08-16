@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Religious Leaders V1 Religious Leaders.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city religious leaders v1 religious leaderssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Lost Fleet
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

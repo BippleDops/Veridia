@@ -2,7 +2,7 @@
 
 title: The River Spirits
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

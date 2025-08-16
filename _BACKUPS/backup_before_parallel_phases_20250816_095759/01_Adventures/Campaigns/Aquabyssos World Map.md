@@ -1,7 +1,7 @@
 ---
 title: Aquabyssos World Map
 type: note
-tags: 
+tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -55,7 +55,7 @@ marker:
   - coordinates: [41.7, 13.0]
     name: Parliament of Echoes
     link: [[Parliament of Echoes]]
-``` 
+```
 
 Notes
 - Edit markers above to add more locations. Coordinates are illustrative.

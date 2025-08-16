@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc scholar vivienne the chronicler v1 scholar vivienne the chroniclersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Scholar Vivienne the Chronicler V1 Scholar Vivienne the Chronicler.svg
 type: npc

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc free current safe houses v2 free current safe housessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Free Current Safe Houses V2 Free Current Safe Houses.svg
 type: npc

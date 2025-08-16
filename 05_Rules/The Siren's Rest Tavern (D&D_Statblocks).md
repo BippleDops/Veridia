@@ -2,7 +2,7 @@
 
 title: The Siren's Rest Tavern (D&D_Statblocks)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

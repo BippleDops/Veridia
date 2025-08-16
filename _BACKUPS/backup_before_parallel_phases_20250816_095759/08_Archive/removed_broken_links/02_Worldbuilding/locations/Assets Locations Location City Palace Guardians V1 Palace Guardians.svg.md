@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Palace Guardians V1 Palace Guardians.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city palace guardians v1 palace guardianssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

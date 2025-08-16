@@ -4,7 +4,7 @@ title: 04_Resources/Assets/Portraits/portrait-npc-mari...
 - Connected to: Regional politics and trade
 - Related locations: Nearby settlements
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -117,7 +117,7 @@ Mentioned in The First Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

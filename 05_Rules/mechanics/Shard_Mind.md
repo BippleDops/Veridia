@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Transformations/Crystal/Shard_Mind
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

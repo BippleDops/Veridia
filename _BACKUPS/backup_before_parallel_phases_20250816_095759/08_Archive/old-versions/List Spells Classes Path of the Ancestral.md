@@ -2,7 +2,7 @@
 
 title: List Spells Classes Path of the Ancestral
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

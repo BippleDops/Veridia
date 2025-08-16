@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/CLI/bestiary/fiend/umbral-vampire-tob
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

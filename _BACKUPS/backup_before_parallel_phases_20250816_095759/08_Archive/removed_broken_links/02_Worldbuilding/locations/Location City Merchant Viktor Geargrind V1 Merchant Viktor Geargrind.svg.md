@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city merchant viktor geargrind v1 merchant viktor geargrindsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Merchant Viktor Geargrind V1 Merchant Viktor Geargrind.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: List Spells Classes College of Lore Xphb
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

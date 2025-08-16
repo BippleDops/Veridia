@@ -2,7 +2,7 @@
 
 title: Mourning Mother Cordelia
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

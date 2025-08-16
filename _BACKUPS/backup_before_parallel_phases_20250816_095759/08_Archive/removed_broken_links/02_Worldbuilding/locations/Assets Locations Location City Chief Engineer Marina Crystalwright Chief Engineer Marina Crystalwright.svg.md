@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chief Engineer Marina Crystalwright Chief Engineer
   Marina Crystalwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chief engineer marina crystalwright
   chief engineer marina crystalwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Merchant Lord Silas Copperfield V1 Merchant
   Lord Silas Copperfield.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant lord silas copperfield v1 merchant
   lord silas copperfieldsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

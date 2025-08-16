@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Abyssos Prime 2 V1 Abyssos Prime 2.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city abyssos prime 2 v1 abyssos prime 2svg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

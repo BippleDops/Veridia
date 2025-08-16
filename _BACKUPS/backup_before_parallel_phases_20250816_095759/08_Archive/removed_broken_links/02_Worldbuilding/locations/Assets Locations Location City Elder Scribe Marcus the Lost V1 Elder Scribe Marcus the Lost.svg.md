@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Elder Scribe Marcus the Lost V1 Elder Scribe
   Marcus the Lost.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city elder scribe marcus the lost v1 elder
   scribe marcus the lostsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

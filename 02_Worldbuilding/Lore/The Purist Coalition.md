@@ -2,7 +2,7 @@
 
 title: The [[Purist Coalition
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

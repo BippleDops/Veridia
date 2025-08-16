@@ -2,7 +2,7 @@
 
 title: Existence Beacons
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

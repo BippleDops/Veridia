@@ -1,10 +1,10 @@
 ---
 
 title: The Island of Screams.jpg
-aliases: 
+aliases:
 - The Island of Screamsjpg
 type: lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

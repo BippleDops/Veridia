@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Siren S Mask the Siren S Mask.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the siren s mask the siren s masksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -174,7 +174,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

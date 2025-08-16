@@ -2,7 +2,7 @@
 
 title: Wealthy Goldstream
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

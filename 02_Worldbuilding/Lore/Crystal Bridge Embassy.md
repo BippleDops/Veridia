@@ -2,7 +2,7 @@
 
 title: Crystal Bridge Embassy
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -103,7 +103,7 @@ Crystal Bridge Embassy represents a crucial aspect of the world's history, cosmo
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

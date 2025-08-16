@@ -2,7 +2,7 @@
 
 title: Depth Plague
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Embassy Quarter
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

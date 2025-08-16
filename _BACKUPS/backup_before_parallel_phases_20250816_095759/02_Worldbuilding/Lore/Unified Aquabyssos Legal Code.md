@@ -2,7 +2,7 @@
 
 title: Unified [[Aquabyssos Legal Code
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - world/aquabyssos

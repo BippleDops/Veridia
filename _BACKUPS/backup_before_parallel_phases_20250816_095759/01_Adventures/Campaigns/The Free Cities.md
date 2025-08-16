@@ -2,7 +2,7 @@
 
 title: The Free Cities
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

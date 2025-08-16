@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sister morwyn v1 sister morwynsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: location city sister morwyn v1 sister morwyn.svg
 type: location

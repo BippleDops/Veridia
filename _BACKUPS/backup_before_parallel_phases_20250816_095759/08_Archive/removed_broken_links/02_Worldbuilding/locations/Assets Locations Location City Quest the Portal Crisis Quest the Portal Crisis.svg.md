@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Quest the Portal Crisis Quest the Portal Crisis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest the portal crisis quest the portal
   crisissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

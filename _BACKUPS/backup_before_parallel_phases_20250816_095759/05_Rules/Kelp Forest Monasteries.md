@@ -2,7 +2,7 @@
 
 title: [[Kelp Forest Monasteries
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - active

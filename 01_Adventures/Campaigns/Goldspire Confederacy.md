@@ -1,7 +1,7 @@
 ---
 title: Goldspire Confederacy
 type: Location
-tags: 
+tags:
 - beyond aethermoor
 - status/archived
 - status/complete
@@ -26,12 +26,12 @@ capital: '[[Goldspire Port'
 danger_level: Moderate
 government: Merchant Confederacy
 leader: Trade Prince Aurelius Gilt
-related_entities: 
+related_entities:
 - '[Economic Warfare]]'
 - '[[Zephyr Goldwhisper'
 - '[The Azure Coast]]'
 relationship_with_aethermoor: Opportunistic Economic Partner
-specialties: 
+specialties:
 - International Commerce
 - Ficial Services
 - Naval Power

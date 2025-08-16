@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Market Heist V1 Market Heist.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city market heist v1 market heistsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

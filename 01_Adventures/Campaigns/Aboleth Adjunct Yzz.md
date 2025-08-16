@@ -2,7 +2,7 @@
 
 title: Aboleth Adjunct Yzz
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - aboleth
@@ -518,7 +518,7 @@ The facility's influence extends throughout [Aquabyssos]] through:
 
 ---
 
-*"The boundary between self and other is merely a construct of limited imagination. Here, we transcend such primitive limitations."*  
+*"The boundary between self and other is merely a construct of limited imagination. Here, we transcend such primitive limitations."*
 — Master Researcher Zyx'thylla
 
 ## Player-Facing Summary
@@ -620,7 +620,7 @@ Ongoing situations affecting Aboleth Adjunct Yzz:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

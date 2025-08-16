@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Duke Cyrus Reefheart Duke Cyrus Reefheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc duke cyrus reefheart duke cyrus reefheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

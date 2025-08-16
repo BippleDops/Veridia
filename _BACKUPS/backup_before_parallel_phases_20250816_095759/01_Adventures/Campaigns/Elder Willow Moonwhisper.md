@@ -2,7 +2,7 @@
 
 title: Elder Willow Moonwhisper
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

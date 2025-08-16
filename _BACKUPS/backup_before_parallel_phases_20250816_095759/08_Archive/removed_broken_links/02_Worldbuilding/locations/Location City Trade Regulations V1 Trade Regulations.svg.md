@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city trade regulations v1 trade regulationssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Trade Regulations V1 Trade Regulations.svg
 type: location

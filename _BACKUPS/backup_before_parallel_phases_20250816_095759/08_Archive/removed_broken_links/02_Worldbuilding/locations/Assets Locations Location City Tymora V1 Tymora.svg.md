@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tymora V1 Tymora.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tymora v1 tymorasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

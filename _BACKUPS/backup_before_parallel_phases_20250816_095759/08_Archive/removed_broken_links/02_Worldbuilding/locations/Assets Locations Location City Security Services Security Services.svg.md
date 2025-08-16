@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Security Services Security Services.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city security services security servicessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

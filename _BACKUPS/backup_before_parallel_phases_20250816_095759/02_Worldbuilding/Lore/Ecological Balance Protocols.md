@@ -2,7 +2,7 @@
 
 title: Ecological Balance Protocols
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

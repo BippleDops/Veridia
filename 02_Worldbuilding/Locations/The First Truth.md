@@ -2,7 +2,7 @@
 
 title: The First Truth
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - truth
 - status/complete

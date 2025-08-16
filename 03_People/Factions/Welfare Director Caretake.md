@@ -2,7 +2,7 @@
 
 title: Welfare Director Caretake
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

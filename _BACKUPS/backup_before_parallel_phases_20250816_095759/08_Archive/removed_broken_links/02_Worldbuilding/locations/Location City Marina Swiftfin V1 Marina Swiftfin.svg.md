@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city marina swiftfin v1 marina swiftfinsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Marina Swiftfin V1 Marina Swiftfin.svg
 type: location

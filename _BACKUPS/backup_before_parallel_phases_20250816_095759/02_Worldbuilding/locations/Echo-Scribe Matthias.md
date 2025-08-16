@@ -2,7 +2,7 @@
 
 title: Echo Scribe Matthias
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Novelist Current Stories
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

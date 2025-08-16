@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sage Nereon V1 Sage Nereon.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sage nereon v1 sage nereonsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

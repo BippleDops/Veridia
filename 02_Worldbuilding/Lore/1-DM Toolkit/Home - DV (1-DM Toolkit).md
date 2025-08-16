@@ -2,7 +2,7 @@
 
 title: 1-DM Toolkit/Home - DV
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

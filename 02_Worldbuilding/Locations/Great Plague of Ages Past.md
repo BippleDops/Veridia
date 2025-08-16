@@ -2,7 +2,7 @@
 
 title: Great Plague of Ages Past
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -166,7 +166,7 @@ Ongoing situations affecting Great Plague of Ages Past:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

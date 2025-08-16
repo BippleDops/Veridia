@@ -2,7 +2,7 @@
 
 title: Foreign Affairs
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

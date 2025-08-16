@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city guide helpfulcurrent guide helpfulcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -168,7 +168,7 @@ Key locations marked:
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 2
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 14** to detect
@@ -186,7 +186,7 @@ Key locations marked:
 - **Recent History**: Fire 47 years ago
 - **Living Memory**: Duel last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Trial in 25 days
 - **Brewing Conflict**: Trade war
 - **Prophecy Connection**: Links to The Hidden Prophecy of Depths

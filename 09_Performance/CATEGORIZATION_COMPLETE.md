@@ -106,7 +106,7 @@ The system analyzed files based on content patterns:
 - Must have: race, class, personality, alignment, stats
 - Must not have: district, building, location terms
 
-### Location Detection  
+### Location Detection
 - Must have: location, district, building, landmark, region
 - Must not have: NPC, personality, class, race
 

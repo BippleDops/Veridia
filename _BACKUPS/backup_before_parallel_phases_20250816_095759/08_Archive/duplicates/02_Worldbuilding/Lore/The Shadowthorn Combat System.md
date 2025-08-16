@@ -2,7 +2,7 @@
 
 title: The Shadowthorn Combat System
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

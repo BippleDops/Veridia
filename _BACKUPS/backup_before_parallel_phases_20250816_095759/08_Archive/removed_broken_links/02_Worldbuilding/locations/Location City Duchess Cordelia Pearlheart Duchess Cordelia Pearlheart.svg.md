@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city duchess cordelia pearlheart duchess cordelia pearlheartsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Duchess Cordelia Pearlheart Duchess Cordelia Pearlheart.svg
 type: location

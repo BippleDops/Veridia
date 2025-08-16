@@ -2,7 +2,7 @@
 
 title: monk-xphb-warrior-of-mercy-xphb (classes)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

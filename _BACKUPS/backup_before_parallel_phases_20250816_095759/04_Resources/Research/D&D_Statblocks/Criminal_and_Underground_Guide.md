@@ -2,7 +2,7 @@
 
 title: Criminal_and_Underground_Guide
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

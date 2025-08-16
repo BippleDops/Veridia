@@ -2,7 +2,7 @@
 
 title: physical-variations-yuan-ti-snake-head-shape-vgm
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

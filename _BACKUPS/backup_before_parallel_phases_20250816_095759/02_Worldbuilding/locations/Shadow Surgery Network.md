@@ -1,7 +1,7 @@
 ---
 title: [[Shadow_Surgery|Shadow Surgery Network
 type: Location
-tags: 
+tags:
 - [Aquabyssos]]
 - facilities
 - status/complete

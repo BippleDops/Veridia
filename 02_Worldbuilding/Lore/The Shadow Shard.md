@@ -1,7 +1,7 @@
 ---
 title: The [[Shadow Shard
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

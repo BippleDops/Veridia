@@ -2,7 +2,7 @@
 
 title: Consequence Chain 2   Crystal Trade Disruption
 type: [[Lore
-tags: 
+tags:
 - ficial-corruption
 - lore
 - session-notes
@@ -25,7 +25,7 @@ world: Aethermoor
 updated: '2025-08-13T01:18:34.737572+00:00'
 magnitude: 4
 visibility: 4
-primary_sessions: 
+primary_sessions:
 - 'Session 04: The Silverscale Gambit'
 evaluated: '2025-08-14'
 improvements: 20

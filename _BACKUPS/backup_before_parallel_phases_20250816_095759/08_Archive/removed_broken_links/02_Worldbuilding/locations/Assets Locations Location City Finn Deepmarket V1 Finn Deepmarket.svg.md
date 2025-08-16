@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Finn Deepmarket V1 Finn Deepmarket.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city finn deepmarket v1 finn deepmarketsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

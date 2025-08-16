@@ -2,7 +2,7 @@
 
 title: settlement-tables-and-tracker-claims-to-fame-xdmg
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

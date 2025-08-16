@@ -9,7 +9,7 @@ response_time: Immediate to Extended Operations
 significance: Critical Safety Infrastructure
 specialization_required: Temporal Engineering Certification
 status: complete
-tags: 
+tags:
 - advanced-physics
 - anomaly-resolution
 - both

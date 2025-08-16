@@ -30,7 +30,7 @@ related: []
 cssclass: standard
 publish: false --- # NPC_Reactions ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Reactions* ## Overview ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Reactions is a notable figure in the realm, known 
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Reactions is a notable figure in the realm, known
 *The air carries the scent of [appropriate smell].*for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing

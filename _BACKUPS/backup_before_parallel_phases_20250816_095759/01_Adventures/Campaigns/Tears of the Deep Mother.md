@@ -2,7 +2,7 @@
 
 title: Tears of the [[Deep Mother
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

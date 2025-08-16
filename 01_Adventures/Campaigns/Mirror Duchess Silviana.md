@@ -2,7 +2,7 @@
 
 title: Mirror Duchess Silviana
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

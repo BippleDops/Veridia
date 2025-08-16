@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Quest the Truth Unveiled V1 Quest the Truth
   Unveiled.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest the truth unveiled v1 quest the
   truth unveiledsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

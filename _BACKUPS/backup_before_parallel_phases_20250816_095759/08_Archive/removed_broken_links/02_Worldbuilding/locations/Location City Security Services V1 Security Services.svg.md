@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city security services v1 security servicessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Security Services V1 Security Services.svg
 type: location

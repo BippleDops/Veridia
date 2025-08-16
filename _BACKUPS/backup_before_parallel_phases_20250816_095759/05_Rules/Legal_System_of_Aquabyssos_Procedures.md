@@ -3,7 +3,7 @@ enhanced: true
 
 title: Legal System of Aquabyssos Procedures
 type: mechanics
-tags: 
+tags:
 - aquabyssos
 - mechanics
 - active

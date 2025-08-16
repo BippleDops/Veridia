@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/faction
@@ -35,7 +35,7 @@ The Collective operates under the principle of "Abandoned Rights"—that any fac
 ### The Great Abandonment (Post-Shattering Era)
 Following [[02_Worldbuilding/Groups/The Shattering, major commercial entities fled [02_Worldbuilding/Places/Aethermoor]], leaving behind:
 - 47 major manufacturing facilities
-- 23 warehouse and distribution complexes  
+- 23 warehouse and distribution complexes
 - 15 mining operations and processing plants
 - 8 major port and shipping facilities
 - Thousands of smaller workshops and commercial buildings
@@ -210,7 +210,7 @@ The founding document established:
 - **Social Services**: Healthcare, education, housing, and retirement benefits
 - **Leadership Opportunities**: Eligible for elected positions and specialized training
 
-**Requirements**: 
+**Requirements**:
 - Two years continuous residency in Collective territory
 - Demonstrated commitment to Collective principles
 - Technical skills or willingness to learn industrial trades
@@ -398,7 +398,7 @@ Massive warehouse and manufacturing complex originally built by the [02_Worldbui
 - **Legal Risks**: Association with smugglers complicates Collective's legitimacy efforts
 
 #### **[[02_Worldbuilding/Groups/The Liminal Trading Company**
-- **Commercial Partnership**: Formal contracts for manufacturing and logistics services  
+- **Commercial Partnership**: Formal contracts for manufacturing and logistics services
 - **Quality Standards**: Trading Company helps Collective improve product quality
 - **Market Access**: Company provides connections to legitimate business networks
 - **Investment Relationship**: Company considering major investment in Collective facilities

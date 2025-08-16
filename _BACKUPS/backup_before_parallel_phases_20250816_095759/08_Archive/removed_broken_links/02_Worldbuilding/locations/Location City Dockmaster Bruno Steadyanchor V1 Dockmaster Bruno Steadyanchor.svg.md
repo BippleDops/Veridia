@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city dockmaster bruno steadyanchor v1 dockmaster bruno steadyanchorsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Dockmaster Bruno Steadyanchor V1 Dockmaster Bruno Steadyanchor.svg
 type: location

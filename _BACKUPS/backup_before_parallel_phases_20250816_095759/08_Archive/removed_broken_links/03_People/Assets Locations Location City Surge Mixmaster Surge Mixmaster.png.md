@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Surge Mixmaster Surge Mixmaster.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surge mixmaster surge mixmasterpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

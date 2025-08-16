@@ -2,7 +2,7 @@
 
 title: The Deserter
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

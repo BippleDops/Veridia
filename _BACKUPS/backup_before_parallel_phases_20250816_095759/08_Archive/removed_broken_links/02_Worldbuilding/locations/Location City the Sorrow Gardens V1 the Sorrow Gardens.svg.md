@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the sorrow gardens v1 the sorrow gardenssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Sorrow Gardens V1 the Sorrow Gardens.svg
 type: location

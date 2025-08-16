@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Scout Captain Vera Deepwatch V1 Scout Captain
   Vera Deepwatch.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scout captain vera deepwatch v1 scout
   captain vera deepwatchsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

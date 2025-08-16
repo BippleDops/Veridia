@@ -1,7 +1,7 @@
 ---
 title: Void Touched Cult
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - stub
 - status/stub

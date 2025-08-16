@@ -2,7 +2,7 @@
 
 title: List Spells Classes Oath of Conquest Xge
 type: quest
-tags: 
+tags:
 - quest
 
 created: '2025-01-15'

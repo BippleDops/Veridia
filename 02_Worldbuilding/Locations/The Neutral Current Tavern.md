@@ -2,7 +2,7 @@
 
 title: [[The Neutral Current Tavern
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Marina Dreamwhisper Marina Dreamwhisper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marina dreamwhisper marina dreamwhispersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

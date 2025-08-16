@@ -2,7 +2,7 @@
 
 title: Keeper Stormwall
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

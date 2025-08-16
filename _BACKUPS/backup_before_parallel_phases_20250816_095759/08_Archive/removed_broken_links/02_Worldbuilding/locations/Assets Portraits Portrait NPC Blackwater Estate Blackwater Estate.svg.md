@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Blackwater Estate Blackwater Estate.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc blackwater estate blackwater estatesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

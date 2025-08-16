@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pressure Terminal V1 Pressure Terminal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure terminal v1 pressure terminalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

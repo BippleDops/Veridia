@@ -2,7 +2,7 @@
 
 title: GM_Quick_Reference
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy
@@ -99,7 +99,7 @@ GM_Quick_Reference represents a crucial aspect of the world's history, cosmology
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

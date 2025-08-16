@@ -1,7 +1,7 @@
 ---
 title: Tradition Keeper Elder Wisdom
 type: npc
-tags: 
+tags:
 - npc
 - human
 - warlock

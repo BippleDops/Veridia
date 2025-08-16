@@ -2,7 +2,7 @@
 
 title: Dead Magic Seas
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

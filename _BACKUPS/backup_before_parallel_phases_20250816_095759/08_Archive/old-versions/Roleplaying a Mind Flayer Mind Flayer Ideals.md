@@ -2,7 +2,7 @@
 
 title: Roleplaying a Mind Flayer Mind Flayer Ideals
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

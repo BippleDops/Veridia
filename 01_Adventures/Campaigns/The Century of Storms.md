@@ -2,7 +2,7 @@
 
 title: The Century of Storms
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

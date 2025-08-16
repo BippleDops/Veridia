@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Echo Translator Vera Echo Translator Vera.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city echo translator vera echo translator
   verasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

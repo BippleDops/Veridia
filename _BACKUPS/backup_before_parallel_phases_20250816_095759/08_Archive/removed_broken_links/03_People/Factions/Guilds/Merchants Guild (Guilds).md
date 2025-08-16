@@ -3,7 +3,7 @@
 title: Merchants Guild
 aliases: []
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

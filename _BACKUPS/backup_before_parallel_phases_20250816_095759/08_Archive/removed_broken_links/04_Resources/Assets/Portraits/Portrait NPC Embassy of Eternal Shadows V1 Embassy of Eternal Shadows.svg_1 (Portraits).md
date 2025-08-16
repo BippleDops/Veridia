@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc embassy of eternal shadows v1 embassy of eternal shadowssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Embassy of Eternal Shadows V1 Embassy of Eternal Shadows.svg
 type: npc

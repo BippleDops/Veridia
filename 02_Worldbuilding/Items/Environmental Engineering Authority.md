@@ -2,7 +2,7 @@
 
 title: Environmental Engineering Authority
 type: item
-tags: 
+tags:
 - active
 - item
 - conspiracy

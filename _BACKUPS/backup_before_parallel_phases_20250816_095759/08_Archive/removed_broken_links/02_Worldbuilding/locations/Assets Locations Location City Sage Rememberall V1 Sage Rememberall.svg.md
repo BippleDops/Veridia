@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sage Rememberall V1 Sage Rememberall.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sage rememberall v1 sage rememberallsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

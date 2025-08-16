@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/The Eternal Speaker
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

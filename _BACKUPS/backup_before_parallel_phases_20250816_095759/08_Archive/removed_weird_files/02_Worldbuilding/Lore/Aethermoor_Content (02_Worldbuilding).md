@@ -2,7 +2,7 @@
 
 title: [[Aethermoor|[Aethermoor Content]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - aethermoor
 - active

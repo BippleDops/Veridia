@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Pilgrimage Master Depth Guide Melancholy V1
   Pilgrimage Master Depth Guide Melancholy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pilgrimage master depth guide melancholy
   v1 pilgrimage master depth guide melancholysvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

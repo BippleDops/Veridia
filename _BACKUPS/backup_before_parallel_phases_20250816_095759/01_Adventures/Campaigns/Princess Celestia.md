@@ -2,7 +2,7 @@
 
 title: Princess Celestia
 type: [[Lore
-tags: 
+tags:
 - lore
 - category/lore
 - quest
@@ -15,12 +15,12 @@ status: complete
 updated: '2025-08-13T01:18:35.146003+00:00'
 world: Aethermoor
 obsidianUIMode: preview
-accessibility: 
+accessibility:
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
   content_warnings: []
   pronunciation: Princess Celestia
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
 evaluated: '2025-08-14'
@@ -134,7 +134,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

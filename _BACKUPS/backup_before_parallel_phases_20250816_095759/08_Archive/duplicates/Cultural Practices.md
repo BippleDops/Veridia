@@ -2,7 +2,7 @@
 
 title: Cultural Practices
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

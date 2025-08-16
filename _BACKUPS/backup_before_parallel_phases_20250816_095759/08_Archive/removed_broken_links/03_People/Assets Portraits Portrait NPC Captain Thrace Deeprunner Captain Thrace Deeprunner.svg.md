@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain thrace deeprunner captain thrace
   deeprunnersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

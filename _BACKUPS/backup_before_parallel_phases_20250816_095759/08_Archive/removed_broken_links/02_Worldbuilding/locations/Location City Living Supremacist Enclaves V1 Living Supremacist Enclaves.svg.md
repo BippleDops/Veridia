@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city living supremacist enclaves v1 living supremacist enclavessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Living Supremacist Enclaves V1 Living Supremacist Enclaves.svg
 type: location

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Archaeological Society V1 Archaeological Society.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archaeological society v1 archaeological
   societysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

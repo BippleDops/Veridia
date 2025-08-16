@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Manta Ray V1 Manta Ray.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city manta ray v1 manta raysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Leviathan Prophet Thalassa Leviathan Prophet
   Thalassa.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city leviathan prophet thalassa leviathan
   prophet thalassasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -219,7 +219,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

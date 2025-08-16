@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Diplomatic Protocol Center Diplomatic Protocol
   Center.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city diplomatic protocol center diplomatic
   protocol centersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

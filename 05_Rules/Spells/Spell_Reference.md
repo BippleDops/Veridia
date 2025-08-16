@@ -2,7 +2,7 @@
 
 title: Spell Reference
 type: spell-reference
-tags: 
+tags:
 - mechanics
 - spells
 - active

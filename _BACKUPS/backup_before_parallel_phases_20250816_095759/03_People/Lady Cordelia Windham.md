@@ -2,7 +2,7 @@
 
 title: Lady Cordelia Windham
 type: Npc
-tags: 
+tags:
 - npc
 - character
 - content/npc
@@ -46,7 +46,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

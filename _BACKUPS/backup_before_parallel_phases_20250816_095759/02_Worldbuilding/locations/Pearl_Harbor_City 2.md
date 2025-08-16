@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location
@@ -155,7 +155,7 @@ Suitable for levels 1-5. Higher-level threats exist but avoid direct confrontati
 
 ---
 
-*"In Pearl Harbor, everyone's swimming in the same water - just at different pressures."* 
+*"In Pearl Harbor, everyone's swimming in the same water - just at different pressures."*
 - [02_Worldbuilding/Places/Taverner Bubbles McGill]]
 
 ## Player-Facing Summary

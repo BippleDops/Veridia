@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Deep Sea Agricultural Research Institut Deep
   Sea Agricultural Research Institut.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry deep sea agricultural research institut
   deep sea agricultural research institutsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

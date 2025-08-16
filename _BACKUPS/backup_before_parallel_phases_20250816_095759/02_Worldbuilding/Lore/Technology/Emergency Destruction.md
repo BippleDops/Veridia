@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Technology/Emergency Destruction
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

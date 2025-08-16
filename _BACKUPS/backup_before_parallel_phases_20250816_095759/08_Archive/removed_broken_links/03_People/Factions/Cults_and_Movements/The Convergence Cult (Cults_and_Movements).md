@@ -2,7 +2,7 @@
 
 title: The Convergence Cult
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

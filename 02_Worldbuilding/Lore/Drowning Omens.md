@@ -2,7 +2,7 @@
 
 title: Drowning Omens
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

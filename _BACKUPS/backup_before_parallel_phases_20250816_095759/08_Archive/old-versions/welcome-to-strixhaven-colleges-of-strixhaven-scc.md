@@ -2,7 +2,7 @@
 
 title: welcome-to-strixhaven-colleges-of-strixhaven-scc
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

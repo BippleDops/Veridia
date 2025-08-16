@@ -2,7 +2,7 @@
 
 title: Witness [[reports
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

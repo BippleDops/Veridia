@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Shadowmere V1 the Shadowmere.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the shadowmere v1 the shadowmerepng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

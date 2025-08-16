@@ -2,7 +2,7 @@
 
 title: Security Chief Wade Peacekeep
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

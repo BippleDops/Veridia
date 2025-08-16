@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc duke aldric blackwater v1 duke aldric blackwatersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Duke Aldric Blackwater V1 Duke Aldric Blackwater.svg
 type: npc

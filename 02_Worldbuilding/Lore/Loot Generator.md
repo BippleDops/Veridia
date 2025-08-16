@@ -2,7 +2,7 @@
 
 title: Loot Generator
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

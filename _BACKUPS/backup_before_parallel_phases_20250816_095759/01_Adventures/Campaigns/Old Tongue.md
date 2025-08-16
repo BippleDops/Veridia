@@ -2,7 +2,7 @@
 
 title: Old Tongue
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sylvanheart Sylvanheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sylvanheart sylvanheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

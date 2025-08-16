@@ -2,7 +2,7 @@
 
 title: Authenticity Verification
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: Ley Line Network
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

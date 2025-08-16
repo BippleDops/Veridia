@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Council of Faiths V1 Council of Faiths.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city council of faiths v1 council of faithssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

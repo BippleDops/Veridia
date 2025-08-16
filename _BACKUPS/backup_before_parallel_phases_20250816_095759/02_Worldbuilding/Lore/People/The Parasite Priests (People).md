@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/The Parasite Priests
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

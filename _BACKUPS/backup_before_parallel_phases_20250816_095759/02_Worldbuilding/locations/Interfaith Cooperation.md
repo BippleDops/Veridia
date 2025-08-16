@@ -2,7 +2,7 @@
 
 title: Interfaith Cooperation
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

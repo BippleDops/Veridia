@@ -2,7 +2,7 @@
 
 title: The [[Silverscale Consortium
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - active

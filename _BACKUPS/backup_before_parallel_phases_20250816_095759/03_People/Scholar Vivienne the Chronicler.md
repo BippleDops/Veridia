@@ -2,7 +2,7 @@
 
 title: Scholar Vivienne the Chronicler
 type: Npc
-tags: 
+tags:
 - status/complete
 - seven-shards
 - neutral
@@ -56,7 +56,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -152,21 +152,21 @@ Religious extremists plan to destroy the Archive of Forgotten Things, viewing it
 ### Scholar Vivienne the Chronicler
 *Medium humanoid (half-elf), true neutral*
 
-**Armor Class** 15 (Studded Leather + Research Wards)  
-**Hit Points** 112 (`dice: `dice: 16d8`` + 40)  
+**Armor Class** 15 (Studded Leather + Research Wards)
+**Hit Points** 112 (`dice: `dice: 16d8`` + 40)
 **Speed** 30 ft.
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
 10 (+0) | 16 (+3) | 14 (+2) | 22 (+6) | 18 (+4) | 16 (+3)
 
-**Saving Throws** Int +12, Wis +10  
-**Skills** Arcana +18, History +18, Investigation +18, Insight +10, Perception +10, Religion +12  
-**Damage Resistances** Psychic (from extensive exposure to dangerous knowledge)  
-**Condition Immunities** Charmed by information-seeking magic  
-**Senses** Darkvision 60 ft. (half-elf), passive Perception 20  
-**Languages** Common, Elvish, Draconic, Celestial, Infernal, plus 4 ancient languages  
-**Challenge Rating** 9 (5,000 XP)  
+**Saving Throws** Int +12, Wis +10
+**Skills** Arcana +18, History +18, Investigation +18, Insight +10, Perception +10, Religion +12
+**Damage Resistances** Psychic (from extensive exposure to dangerous knowledge)
+**Condition Immunities** Charmed by information-seeking magic
+**Senses** Darkvision 60 ft. (half-elf), passive Perception 20
+**Languages** Common, Elvish, Draconic, Celestial, Infernal, plus 4 ancient languages
+**Challenge Rating** 9 (5,000 XP)
 **Proficiency Bonus** +4
 
 ### Special Abilities

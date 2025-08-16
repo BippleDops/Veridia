@@ -7,13 +7,13 @@ current_location: '[02_Worldbuilding/Places/Crystal Sanatorium]] - Private Wing'
 level: 10
 occupation: Merchant Princess and Trade Ambassador
 race: Half-Elf
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Groups/Goldwave Trading House|Goldwave Trading House'
 - '[02_Worldbuilding/Lore/Crystal Corruption]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards'
 - '[02_Worldbuilding/Places/Crystal Sanatorium]]'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/npc
@@ -256,7 +256,7 @@ A potential cure for crystal corruption is discovered, but testing it requires e
 
 **Crystal Corruption (Stage 3)**: Seren's corruption grants her enhanced magical abilities but causes severe mental instability. At the start of each turn, roll a d6:
 - 1-2: Severe episode (disadvantage on all rolls, random spell cast)
-- 3-4: Unstable period (normal abilities but emotional volatility)  
+- 3-4: Unstable period (normal abilities but emotional volatility)
 - 5-6: Lucid period (advantage on Charisma-based rolls)
 
 **Empathic Sensitivity**: Seren automatically detects the emotional state of all creatures within 60 feet. She has advantage on Insight checks but must make a **DC 15** Wisdom saving throw each round or be overwhelmed by emotional feedback.
@@ -362,7 +362,7 @@ Merchant Princess Seren Goldwave was once Aquabyssos's most brilliant diplomatic
 ## Adventure Hooks
 
 - A stalled diplomatic crisis requires Seren's unique negotiation skills, but her condition must be stabilized first
-- Seren's corrupted visions provide warnings about future disasters that only the characters can prevent  
+- Seren's corrupted visions provide warnings about future disasters that only the characters can prevent
 - Someone offers to purchase her memories, raising questions about exploitation versus legitimate research
 - Her empathic abilities begin connecting with other corruption victims, creating an involuntary psychic network
 

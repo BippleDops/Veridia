@@ -2,7 +2,7 @@
 
 title: [[The Drowning Embrace
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

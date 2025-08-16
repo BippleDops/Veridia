@@ -2,7 +2,7 @@
 
 title: Depth Speak Variations
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - linguistics

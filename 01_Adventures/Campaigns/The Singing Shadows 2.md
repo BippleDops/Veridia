@@ -1,10 +1,10 @@
 ---
-accessibility: 
-  content_warnings: 
+accessibility:
+  content_warnings:
   - political coercion
   - environmental hazards
   pronunciation: The Singing Shadows
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door
@@ -14,7 +14,7 @@ accessibility:
 created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location

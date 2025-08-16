@@ -2,7 +2,7 @@
 
 title: Imperial [[Crown Fragment
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

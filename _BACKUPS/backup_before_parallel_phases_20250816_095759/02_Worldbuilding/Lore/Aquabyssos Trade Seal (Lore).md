@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Aquabyssos Trade Seal
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

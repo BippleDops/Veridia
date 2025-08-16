@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Constellation Mystery the Constellation
   Mystery.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the constellation mystery the constellation
   mysterypng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

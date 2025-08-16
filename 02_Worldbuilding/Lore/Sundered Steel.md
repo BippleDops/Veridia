@@ -2,7 +2,7 @@
 
 title: Sundered Steel
 type: [[Lore
-tags: 
+tags:
 - lore
 - commercial-district
 - content/lore

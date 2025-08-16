@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Pearls V1 Deep Pearls.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep pearls v1 deep pearlssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

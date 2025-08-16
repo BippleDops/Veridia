@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Taverner Bubbles Mcgill Taverner Bubbles Mcgill.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city taverner bubbles mcgill taverner bubbles
   mcgillsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

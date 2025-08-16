@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Last Priest the Last Priest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the last priest the last priestsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

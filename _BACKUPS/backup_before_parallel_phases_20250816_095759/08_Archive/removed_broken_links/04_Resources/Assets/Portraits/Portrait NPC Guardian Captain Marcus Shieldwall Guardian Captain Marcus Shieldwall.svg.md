@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc guardian captain marcus shieldwall guardian captain marcus shieldwallsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Guardian Captain Marcus Shieldwall Guardian Captain Marcus Shieldwall.svg
 type: npc

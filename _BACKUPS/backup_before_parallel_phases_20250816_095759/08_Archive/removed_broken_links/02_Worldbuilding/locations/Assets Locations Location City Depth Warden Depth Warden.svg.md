@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Depth Warden Depth Warden.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city depth warden depth wardensvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

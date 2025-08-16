@@ -2,7 +2,7 @@
 
 title: list-spells-optional-features-fiendish-vigor-xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

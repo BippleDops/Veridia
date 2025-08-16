@@ -2,7 +2,7 @@
 
 title: Thugs
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

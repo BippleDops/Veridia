@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags: 
+tags:
 - active merger possibility
 - active-merger-possibility
 - aethermoor
@@ -15,7 +15,7 @@ world_type: Parallel Realms
 connection_type: Dimensional Convergence
 created: '2025-08-07'
 updated: '2025-08-13T01:18:34.791034+00:00'
-aliases: 
+aliases:
 - World Connection Guide
 - Realm Merger Guide
 - Aquabyssos-Aethermoor Bridge
@@ -39,13 +39,13 @@ world: Both
 
 ## 📊 Campaign Status Tracker
 ```dataview
-TABLE 
+TABLE
   status as "Merger Status",
-  depth as "Current Depth", 
+  depth as "Current Depth",
   corruption_exposure as "Crystal Level",
   ap_gained as "Adaptation Points"
 FROM #session
-WHERE campaign = "Aethermoor - The Plague of Crystals" 
+WHERE campaign = "Aethermoor - The Plague of Crystals"
   OR campaign = "The Parliament of Shadows"
 SORT session_number DESC
 LIMIT 5
@@ -65,7 +65,7 @@ LIMIT 5
 - Lighthouses mark dimensional weak points
 - Crystal plague begins weakening barrier
 
-#### Aquabyssos Side  
+#### Aquabyssos Side
 - Evolves bizarre underwater civilization
 - Shadow independence movement grows
 - Memory tides carry surface dreams
@@ -677,7 +677,7 @@ Normal    Changed    Hybrid    Transformed   Transcendent
 
 #### Track Transformation
 ```dataview
-TABLE 
+TABLE
   corruption_exposure as "Crystal",
   ap_gained as "Adaptation",
   shadow_level_change as "Shadow"
@@ -721,7 +721,7 @@ Remember: In the space between worlds, identity itself becomes fluid. Use this u
 The merger isn't just about two worlds colliding—it's about what it means to be human when humanity itself is negotiable.
 
 > *"In the depths, we discover what rises. On the surface, we learn what sinks. Between them, we choose what remains."*
-> 
+>
 > — Final entry, Chronicles of the Convergence
 
 ---

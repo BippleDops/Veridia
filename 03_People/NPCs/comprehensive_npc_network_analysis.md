@@ -2,7 +2,7 @@
 
 title: comprehensive_npc_network_analysis
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

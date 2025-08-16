@@ -2,7 +2,7 @@
 
 title: damage-types (CLI_Reference)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

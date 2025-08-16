@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Leviathan Shrines V1 Leviathan Shrines.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city leviathan shrines v1 leviathan shrinessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

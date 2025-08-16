@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Unnamed Watcher the Unnamed Watcher.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the unnamed watcher the unnamed watchersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

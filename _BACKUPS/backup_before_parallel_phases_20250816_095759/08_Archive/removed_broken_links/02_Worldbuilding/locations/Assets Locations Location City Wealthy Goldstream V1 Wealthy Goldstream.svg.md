@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wealthy Goldstream V1 Wealthy Goldstream.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wealthy goldstream v1 wealthy goldstreamsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -211,7 +211,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

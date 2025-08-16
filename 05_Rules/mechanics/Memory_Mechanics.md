@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Memory_Mechanics
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline
@@ -98,5 +98,5 @@ improvements: 20
 
 ## References
 
-- 
-- 
+-
+-

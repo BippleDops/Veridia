@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Patrol Boundaryrider V1 Patrol Boundaryrider.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city patrol boundaryrider v1 patrol boundaryridersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -173,7 +173,7 @@ Key locations marked:
 - **Undead**: skeleton
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 8
-  
+
 ### Environmental Hazards
 - Collapsing ceiling
 - **DC 16** to detect
@@ -205,7 +205,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

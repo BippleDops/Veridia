@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city magical engineer reef spellbreath v1 magical engineer reef spellbreathsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Magical Engineer Reef Spellbreath V1 Magical Engineer Reef Spellbreath.svg
 type: location

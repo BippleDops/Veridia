@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Mad Oracle Thessaly Mad Oracle Thessaly.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city mad oracle thessaly mad oracle thessalysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

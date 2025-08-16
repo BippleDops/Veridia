@@ -2,7 +2,7 @@
 
 title: Harbor Master Luna Freedrift
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

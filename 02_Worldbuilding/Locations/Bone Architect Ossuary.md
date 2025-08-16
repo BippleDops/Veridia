@@ -2,7 +2,7 @@
 
 title: Bone Architect Ossuary
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

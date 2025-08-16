@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chronokeeper Tide Timestable Chronokeeper Tide
   Timestable.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chronokeeper tide timestable chronokeeper
   tide timestablesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

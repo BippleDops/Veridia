@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Operations/Information Warfare
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

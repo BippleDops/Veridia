@@ -2,7 +2,7 @@
 
 title: [[Temple of the Deep Current
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

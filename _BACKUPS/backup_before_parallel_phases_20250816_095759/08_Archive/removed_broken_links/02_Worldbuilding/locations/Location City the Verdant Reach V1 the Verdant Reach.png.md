@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the verdant reach v1 the verdant reachpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Verdant Reach V1 the Verdant Reach.png
 type: location

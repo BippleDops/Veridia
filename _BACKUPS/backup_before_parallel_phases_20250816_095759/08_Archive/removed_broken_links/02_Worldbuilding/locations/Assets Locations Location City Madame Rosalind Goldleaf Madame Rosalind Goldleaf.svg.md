@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Madame Rosalind Goldleaf Madame Rosalind Goldleaf.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city madame rosalind goldleaf madame rosalind
   goldleafsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -204,7 +204,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

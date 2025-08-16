@@ -1,17 +1,17 @@
 ---
-created: 
-modified: 
+created:
+modified:
 type: npc
-name: 
-race: 
-class: 
-level: 
+name:
+race:
+class:
+level:
 location: [[
 faction: []]
 status: active
 ---
 
-# 
+#
 
 ## Quick Reference
 - **Race/Class**: {race} {class}

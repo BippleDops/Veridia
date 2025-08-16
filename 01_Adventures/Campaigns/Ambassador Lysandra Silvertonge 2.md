@@ -10,7 +10,7 @@ difficulty: Levels 2-8
 obsidianUIMode: preview
 owner: Aethermoor Diplomatic Service
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/faction
@@ -458,7 +458,7 @@ Discovery of an ancient treaty between the realms reveals obligations that both 
 
 ---
 
-*"True diplomacy is not the art of avoiding conflict, but the art of finding the higher ground where apparent enemies can stand together as friends."*  
+*"True diplomacy is not the art of avoiding conflict, but the art of finding the higher ground where apparent enemies can stand together as friends."*
 — Ambassador Lysandra Silvertonge, Chief Diplomatic Representative
 
 ## Connections

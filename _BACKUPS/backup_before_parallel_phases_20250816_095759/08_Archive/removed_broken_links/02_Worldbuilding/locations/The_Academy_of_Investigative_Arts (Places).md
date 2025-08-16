@@ -2,7 +2,7 @@
 
 title: [[The Academy of Investigative Arts
 type: [location]]
-tags: 
+tags:
 - place
 - active
 - location

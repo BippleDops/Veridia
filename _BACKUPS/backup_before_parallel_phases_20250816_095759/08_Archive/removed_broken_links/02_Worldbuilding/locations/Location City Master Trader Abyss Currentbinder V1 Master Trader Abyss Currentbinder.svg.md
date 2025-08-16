@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master trader abyss currentbinder v1 master trader abyss currentbindersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg
 type: location

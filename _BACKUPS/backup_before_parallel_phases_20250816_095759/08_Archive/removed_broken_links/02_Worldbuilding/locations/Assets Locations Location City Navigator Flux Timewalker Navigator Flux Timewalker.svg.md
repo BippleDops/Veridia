@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Navigator Flux Timewalker Navigator Flux Timewalker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city navigator flux timewalker navigator
   flux timewalkersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

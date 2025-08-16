@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Concierge Phillip Gracewater Concierge Phillip
   Gracewater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city concierge phillip gracewater concierge
   phillip gracewatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

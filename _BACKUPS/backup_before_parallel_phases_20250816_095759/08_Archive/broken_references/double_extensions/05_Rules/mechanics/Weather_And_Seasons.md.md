@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Weather_And_Seasons.md
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

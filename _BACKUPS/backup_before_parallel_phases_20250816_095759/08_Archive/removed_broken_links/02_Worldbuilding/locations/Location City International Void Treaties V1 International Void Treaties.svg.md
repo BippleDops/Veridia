@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city international void treaties v1 international void treatiessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City International Void Treaties V1 International Void Treaties.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: [[Merchant Lord Silas Copperfield
 type: [location]]
-tags: 
+tags:
 - status/complete
 - content/location
 - place
@@ -17,12 +17,12 @@ modified: '2025-08-14'
 status: complete
 [region]]: Unknown
 population: Unknown
-accessibility: 
-  content_warnings: 
+accessibility:
+  content_warnings:
   - political coercion
   - [[Environmental Hazards]]
   pronunciation: Merchant Lord Silas Copperfield
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door
@@ -186,7 +186,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

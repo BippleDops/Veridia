@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/lore
@@ -27,7 +27,7 @@ Unlike traditional cities built from dead materials, every surface, wall, and st
 ### The Living Architecture
 Corallion manifests as a sprawling coral reef shaped into recognizable urban forms. Streets are formed by controlled coral growth creating tunnels and passages, while buildings are living chambers that can expand, contract, or relocate based on the inhabitants' needs and the city's will. The entire organism pulses gently with a slow heartbeat that can be felt through the floors, and bioluminescent patterns flow through the walls like a circulatory system of light.
 
-### Dual Consciousness  
+### Dual Consciousness
 Corallion operates with two layers of awareness:
 - **The City Mind**: A vast, slow intelligence concerned with long-term growth, architectural harmony, and the welfare of inhabitants
 - **The Coral Swarm**: Thousands of smaller coral polyp consciousnesses that handle day-to-day operations, maintenance, and rapid responses to threats
@@ -35,7 +35,7 @@ Corallion operates with two layers of awareness:
 ### Communication Methods
 Corallion communicates through multiple channels:
 - **Chemical Signals**: Releasing pheromones and dissolved substances that affect mood and decision-making
-- **Structural Changes**: Physically altering passages and rooms to convey messages or guide behavior  
+- **Structural Changes**: Physically altering passages and rooms to convey messages or guide behavior
 - **Bioluminescent Patterns**: Complex light displays that convey emotional states and simple concepts
 - **Vibration Messages**: Controlling the resonance of its structure to create meaningful sounds and rhythms
 - **The City Speakers**: Specially modified coral growths that can produce speech for direct communication
@@ -98,7 +98,7 @@ Every resident of Corallion enters into a biological and legal contract with the
 
 ### Species Composition
 - **Merfolk**: 35% - The largest single group, often serving as intermediaries between the city and other settlements
-- **Tritons**: 20% - Valued for their natural affinity with sea life and architectural skills  
+- **Tritons**: 20% - Valued for their natural affinity with sea life and architectural skills
 - **Deep Dwellers**: 15% - Various adapted humanoid species from the deepest parts of [[02_Worldbuilding/Places/Aquabyssos
 - **Sea Elves**: 10% - Bringing surface knowledge and artistic traditions
 - **Sahuagin**: 8% - Integrated into the community despite historical conflicts with other species
@@ -189,23 +189,23 @@ As Corallion expands, there's risk that its consciousness could fragment into in
 ## Quest Hooks and Adventure Seeds
 
 ### The Coral Conspiracy
-**Level**: 7-11  
+**Level**: 7-11
 Someone is deliberately spreading the coral plague to weaken Corallion. The party must investigate the source while navigating the city's unique political and biological systems, potentially discovering a larger plot against all living cities.
 
 ### The Integration Crisis
-**Level**: 4-8  
+**Level**: 4-8
 A group of new refugees refuses to accept Corallion's symbiotic requirements but desperately needs shelter. The party must help negotiate a solution that satisfies both the city's needs and the refugees' cultural taboos.
 
 ### The Growing Pains
-**Level**: 9-13  
+**Level**: 9-13
 Corallion's rapid expansion has begun destabilizing the local ecosystem and threatening neighboring settlements. The party must help the city find sustainable growth solutions while managing political tensions and environmental challenges.
 
 ### The Memory Thief
-**Level**: 6-10  
+**Level**: 6-10
 Someone is stealing memories from Corallion's Memory Walls, potentially damaging the city's accumulated knowledge. The investigation reveals connections to larger espionage networks and ancient secrets about [02_Worldbuilding/Places/The Great Drowning]].
 
-### The Separation Syndrome  
-**Level**: 12-16  
+### The Separation Syndrome
+**Level**: 12-16
 Parts of Corallion have begun developing independent consciousness and threatening to break away from the main city. The party must determine whether this represents natural growth, outside interference, or internal illness while preventing civil war within the living city.
 
 ## Secrets and Hidden Knowledge

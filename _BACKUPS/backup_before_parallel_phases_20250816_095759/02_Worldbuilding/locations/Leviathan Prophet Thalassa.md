@@ -2,7 +2,7 @@
 
 title: [[Leviathan Prophet Thalassa
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

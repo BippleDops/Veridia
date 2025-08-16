@@ -2,7 +2,7 @@
 
 title: The Reality Storm Crisis
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

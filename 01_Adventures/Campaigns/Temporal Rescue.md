@@ -2,7 +2,7 @@
 
 title: Temporal Rescue
 type: Location
-tags: 
+tags:
 - aquabyssos
 - time-travel
 - content/adventure

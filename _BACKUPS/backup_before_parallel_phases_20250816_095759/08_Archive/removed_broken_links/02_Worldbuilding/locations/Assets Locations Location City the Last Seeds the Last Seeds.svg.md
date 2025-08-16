@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Last Seeds the Last Seeds.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the last seeds the last seedssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -181,7 +181,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

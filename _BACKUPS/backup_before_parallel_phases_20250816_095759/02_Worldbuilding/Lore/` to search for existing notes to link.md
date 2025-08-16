@@ -2,7 +2,7 @@
 
 title: ` to search for existing notes to link
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

@@ -2,7 +2,7 @@
 
 title: Memory Farmer Thane
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -183,7 +183,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

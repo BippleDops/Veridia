@@ -2,7 +2,7 @@
 
 title: Thessaly the Illuminated
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Basalt Depthwright V1 Basalt Depthwright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city basalt depthwright v1 basalt depthwrightsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

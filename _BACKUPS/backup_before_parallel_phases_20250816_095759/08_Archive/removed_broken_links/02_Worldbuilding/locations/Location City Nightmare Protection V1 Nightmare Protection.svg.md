@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city nightmare protection v1 nightmare protectionsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Nightmare Protection V1 Nightmare Protection.svg
 type: location

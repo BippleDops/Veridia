@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Undead Services Bureau V1 Undead Services Bureau.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city undead services bureau v1 undead services
   bureausvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

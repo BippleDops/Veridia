@@ -2,7 +2,7 @@
 
 title: The Trencher Folk
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: [[The Crown''s Burden]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

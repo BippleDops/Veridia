@@ -2,7 +2,7 @@
 
 title: Market Mystery
 type: Location
-tags: 
+tags:
 - mystery
 - aquabyssos
 - content/adventure

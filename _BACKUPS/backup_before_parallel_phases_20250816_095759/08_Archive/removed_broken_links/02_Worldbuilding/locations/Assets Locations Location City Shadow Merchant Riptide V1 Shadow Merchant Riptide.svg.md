@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Shadow Merchant Riptide V1 Shadow Merchant Riptide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadow merchant riptide v1 shadow merchant
   riptidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

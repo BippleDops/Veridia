@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Stormwatch Keep V1 Stormwatch Keep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city stormwatch keep v1 stormwatch keepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Cipher Current
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

@@ -2,7 +2,7 @@
 
 title: The Repository Barge
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

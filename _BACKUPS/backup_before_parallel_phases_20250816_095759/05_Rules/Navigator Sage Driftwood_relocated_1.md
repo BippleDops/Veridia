@@ -2,7 +2,7 @@
 
 title: Navigator Sage Driftwood
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - navigator
 - status/complete
@@ -257,7 +257,7 @@ Ongoing situations affecting Navigator Sage Driftwood:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

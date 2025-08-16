@@ -2,7 +2,7 @@
 
 title: Widow's Rest
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: Chronos Tidekeep
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

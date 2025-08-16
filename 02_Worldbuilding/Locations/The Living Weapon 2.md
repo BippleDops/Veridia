@@ -8,7 +8,7 @@ danger_level: Extreme
 obsidianUIMode: preview
 security_level: extreme
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/item
@@ -125,7 +125,7 @@ The first recorded wielder, General Tidebringer led the expansion of Aquabyssos'
 Naval commander who utilized the weapon in its bow configuration during sea battles. The weapon demonstrated remarkable accuracy and the ability to fire energy arrows that could penetrate ship hulls and magical barriers.
 
 **Battle Record**: 47 naval engagements, 46 victories
-**Partnership Duration**: 11 years  
+**Partnership Duration**: 11 years
 **End of Association**: Cassandra lost in battle when enemy magic severed her connection to the weapon
 **Weapon's Assessment**: "Possessed admirable courage but insufficient paranoia"
 
@@ -245,7 +245,7 @@ Active defense systems that eliminate dangers before they can cause harm:
 **Mental Integration Syndrome**
 Extended use of The Living Weapon can lead to gradual merger of user and artifact consciousness, resulting in loss of individual identity and personality changes that may become permanent.
 
-**Symptoms**: 
+**Symptoms**:
 - Memory confusion between user and weapon experiences
 - Adoption of weapon's strategic priorities over personal goals
 - Emotional numbing except in combat situations
@@ -333,7 +333,7 @@ Areas where The Living Weapon has seen extensive combat may become permanently a
 **Vault Keeper Eternal** - [02_Worldbuilding/Places/Vault Keeper Eternal]]
 Primary custodian responsible for artifact management and security protocol enforcement. Eternal has maintained this position for over 200 years and possesses unique resistance to the weapon's mental influences.
 
-**Qualifications**: 
+**Qualifications**:
 - Advanced training in artifact psychology and management
 - Decades of experience with dangerous magical items
 - Mental shields developed through intensive training

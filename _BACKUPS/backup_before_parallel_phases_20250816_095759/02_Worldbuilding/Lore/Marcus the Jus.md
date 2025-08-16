@@ -2,7 +2,7 @@
 
 title: Marcus the Jus
 type: [[Lore
-tags: 
+tags:
 - lore
 - historical-event
 - content/lore

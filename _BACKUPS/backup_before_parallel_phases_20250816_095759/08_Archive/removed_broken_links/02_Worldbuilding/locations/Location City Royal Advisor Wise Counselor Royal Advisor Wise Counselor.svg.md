@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city royal advisor wise counselor royal advisor wise counselorsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Royal Advisor Wise Counselor Royal Advisor Wise Counselor.svg
 type: location

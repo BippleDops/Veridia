@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Coral Vortextrader Coral Vortextrader.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral vortextrader coral vortextradersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

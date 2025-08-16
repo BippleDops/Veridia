@@ -2,7 +2,7 @@
 
 title: High Speed Transportation
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

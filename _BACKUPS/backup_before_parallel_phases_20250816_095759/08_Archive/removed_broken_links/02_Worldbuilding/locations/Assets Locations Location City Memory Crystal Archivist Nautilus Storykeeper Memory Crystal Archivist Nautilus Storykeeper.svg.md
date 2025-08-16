@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memory Crystal Archivist Nautilus Storykeeper
   Memory Crystal Archivist Nautilus Storykeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory crystal archivist nautilus storykeeper
   memory crystal archivist nautilus storykeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Forbidden Knowledge
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos
@@ -107,7 +107,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -141,7 +141,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - [[Abyssal Academy
 - [The Emperor's Gambit]]
-- 
+-
 - [[The Grand Trade Routes
 - [The Great Crystallization]]
 - [[Abyssos Prime - Inverse Palace

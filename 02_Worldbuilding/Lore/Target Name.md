@@ -2,7 +2,7 @@
 
 title: Target Name
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

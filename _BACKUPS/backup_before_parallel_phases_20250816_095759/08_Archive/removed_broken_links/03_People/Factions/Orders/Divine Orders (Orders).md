@@ -2,7 +2,7 @@
 
 title: Divine Orders
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

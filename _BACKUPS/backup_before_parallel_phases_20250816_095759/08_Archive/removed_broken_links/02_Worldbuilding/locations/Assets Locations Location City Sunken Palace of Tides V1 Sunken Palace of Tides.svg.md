@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Sunken Palace of Tides V1 Sunken Palace of Tides.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sunken palace of tides v1 sunken palace
   of tidessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

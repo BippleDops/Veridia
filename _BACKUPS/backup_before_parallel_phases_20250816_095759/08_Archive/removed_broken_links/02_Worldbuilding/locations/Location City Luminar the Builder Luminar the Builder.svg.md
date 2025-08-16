@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city luminar the builder luminar the buildersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Luminar the Builder Luminar the Builder.svg
 type: location

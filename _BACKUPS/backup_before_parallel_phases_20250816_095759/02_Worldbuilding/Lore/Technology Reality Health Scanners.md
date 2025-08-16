@@ -2,7 +2,7 @@
 
 title: Technology [[Reality Health Scanners
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

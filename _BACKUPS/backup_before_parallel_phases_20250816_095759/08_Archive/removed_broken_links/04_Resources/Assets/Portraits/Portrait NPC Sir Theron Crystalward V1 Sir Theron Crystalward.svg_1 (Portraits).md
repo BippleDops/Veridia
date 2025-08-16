@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc sir theron crystalward v1 sir theron crystalwardsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Sir Theron Crystalward V1 Sir Theron Crystalward.svg
 type: npc

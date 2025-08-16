@@ -2,7 +2,7 @@
 
 title: Crown of Eternal Ice
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

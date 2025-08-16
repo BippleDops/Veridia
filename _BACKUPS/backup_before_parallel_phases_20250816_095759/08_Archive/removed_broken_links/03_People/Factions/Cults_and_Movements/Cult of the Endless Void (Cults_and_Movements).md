@@ -2,7 +2,7 @@
 
 title: Cult of the Endless Void
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

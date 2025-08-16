@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Void Watchers
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

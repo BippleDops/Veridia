@@ -2,7 +2,7 @@
 
 title: Commerce Manager Fairdealin
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

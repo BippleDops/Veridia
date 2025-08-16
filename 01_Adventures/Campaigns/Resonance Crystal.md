@@ -2,7 +2,7 @@
 
 title: Resoce Crystal
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

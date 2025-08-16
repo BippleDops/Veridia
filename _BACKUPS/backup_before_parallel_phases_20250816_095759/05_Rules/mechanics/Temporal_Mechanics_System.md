@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Temporal_Mechanics_System
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

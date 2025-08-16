@@ -2,7 +2,7 @@
 
 title: Diplomatic Deepcurrent
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: Trade Route Map
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

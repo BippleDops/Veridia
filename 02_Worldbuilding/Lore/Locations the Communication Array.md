@@ -2,7 +2,7 @@
 
 title: [[locations the Communication Array
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

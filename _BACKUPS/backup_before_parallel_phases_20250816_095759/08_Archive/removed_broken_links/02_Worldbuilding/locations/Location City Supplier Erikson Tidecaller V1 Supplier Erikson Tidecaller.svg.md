@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city supplier erikson tidecaller v1 supplier erikson tidecallersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Supplier Erikson Tidecaller V1 Supplier Erikson Tidecaller.svg
 type: location

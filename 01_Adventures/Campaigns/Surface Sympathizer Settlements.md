@@ -2,7 +2,7 @@
 
 title: Surface Sympathizer Settlements
 type: Location
-tags: 
+tags:
 - aquabyssos
 - access/secret
 - political-dissidents
@@ -207,7 +207,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

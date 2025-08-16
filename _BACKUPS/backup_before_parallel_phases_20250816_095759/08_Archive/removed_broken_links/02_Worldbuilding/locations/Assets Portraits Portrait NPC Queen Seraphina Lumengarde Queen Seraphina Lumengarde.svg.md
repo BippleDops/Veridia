@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Queen Seraphina Lumengarde Queen Seraphina Lumengarde.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc queen seraphina lumengarde queen seraphina
   lumengardesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

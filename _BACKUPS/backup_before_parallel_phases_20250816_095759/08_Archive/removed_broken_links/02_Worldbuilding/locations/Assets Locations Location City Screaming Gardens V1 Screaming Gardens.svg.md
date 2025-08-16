@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Screaming Gardens V1 Screaming Gardens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city screaming gardens v1 screaming gardenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

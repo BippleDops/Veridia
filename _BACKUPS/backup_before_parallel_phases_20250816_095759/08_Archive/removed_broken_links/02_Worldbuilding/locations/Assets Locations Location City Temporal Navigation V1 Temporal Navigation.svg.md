@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Temporal Navigation V1 Temporal Navigation.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temporal navigation v1 temporal navigationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sister Morwyn V1 Sister Morwyn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sister morwyn v1 sister morwynsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -188,7 +188,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Portrait NPC Pilgrim Guide Samuel Walkingfaith Pilgrim Guide Samuel Walkingfaith.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

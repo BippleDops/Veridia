@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Crystalhaven Royal Palace V1 Crystalhaven Royal
   Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystalhaven royal palace v1 crystalhaven
   royal palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -3,7 +3,7 @@ enhanced: true
 
 title: Deep_Mother_Corruption_Warning
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

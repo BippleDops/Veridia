@@ -2,7 +2,7 @@
 
 title: Shard Powers and Effects
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -104,7 +104,7 @@ Mentioned in The Hidden Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -14,10 +14,10 @@
 | ___ | | | | | |
 
 ## Lair Actions (Initiative 20)
-- [ ] 
+- [ ]
 
 ## Environmental Effects
-- 
+-
 
 ## Concentration Tracking
 - **Character**: Spell: ___ (DC ___ to maintain)

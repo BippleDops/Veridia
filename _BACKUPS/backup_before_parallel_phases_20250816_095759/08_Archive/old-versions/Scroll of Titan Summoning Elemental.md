@@ -2,7 +2,7 @@
 
 title: Scroll of Titan Summoning Elemental
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

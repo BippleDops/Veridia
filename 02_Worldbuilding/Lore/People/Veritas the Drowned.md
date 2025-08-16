@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Veritas the Drowned
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

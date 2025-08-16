@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Marina Oracleguard Marina Oracleguard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marina oracleguard marina oracleguardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

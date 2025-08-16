@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Plague Crisis V1 Plague Crisis.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city plague crisis v1 plague crisispng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

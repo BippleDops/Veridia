@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Harmony Collective the Harmony Collective.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the harmony collective the harmony collectivesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

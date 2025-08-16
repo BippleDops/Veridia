@@ -1,11 +1,11 @@
 ---
 title: Assets Locations Location City Archive Guardian Thomas V1 Archive Guardian
   Thomas.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archive guardian thomas v1 archive guardian
   thomassvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Truth Verification Magic Truth Verification
   Magic.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city truth verification magic truth verification
   magicsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -172,7 +172,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc gareth goldenheart the chosen vessel v2 gareth goldenheart the chosen
   vesselsvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Gareth Goldenheart the Chosen Vessel V2 Gareth Goldenheart the
   Chosen Vessel.svg

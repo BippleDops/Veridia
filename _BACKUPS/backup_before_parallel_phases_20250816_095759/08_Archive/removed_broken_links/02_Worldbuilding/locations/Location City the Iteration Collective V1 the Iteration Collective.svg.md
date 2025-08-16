@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the iteration collective v1 the iteration collectivesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Iteration Collective V1 the Iteration Collective.svg
 type: location

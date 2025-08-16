@@ -2,7 +2,7 @@
 
 title: Quick_Reference_Combat_Actions
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

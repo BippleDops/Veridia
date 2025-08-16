@@ -2,7 +2,7 @@
 
 title: Crystal Academy
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Deepwater Current the Deepwater Current.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the deepwater current the deepwater
   currentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

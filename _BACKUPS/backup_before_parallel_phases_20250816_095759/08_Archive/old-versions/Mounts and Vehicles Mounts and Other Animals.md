@@ -2,7 +2,7 @@
 
 title: Mounts and Vehicles Mounts and Other Animals
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

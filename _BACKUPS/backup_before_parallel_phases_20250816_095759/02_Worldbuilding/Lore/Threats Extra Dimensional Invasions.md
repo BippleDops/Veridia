@@ -2,7 +2,7 @@
 
 title: Threats [[Threats Extra Dimensional Invasions|Extra Dimensional Invasions
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

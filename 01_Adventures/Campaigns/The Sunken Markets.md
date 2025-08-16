@@ -2,7 +2,7 @@
 
 title: The Sunken Markets
 type: Location
-tags: 
+tags:
 - both
 - mysterious
 - trade
@@ -22,13 +22,13 @@ region: '[[Port Meridian Harbor District'
 population: Unknown
 MyCategory: Unknown
 MyContainer: None
-connected_locations: 
+connected_locations:
 - '[Port Meridian]]'
 - '[[Aquabyssos'
 - The Shadowmere (via underwater passages)
 - Category/Place
 danger_level: Moderate
-notable_npcs: 
+notable_npcs:
 - '[Captain Thaddeus Blackwater]]'
 - '[[Ambassador Nerida Deepcurrent'
 - '[Castellan Ironledger III]]'

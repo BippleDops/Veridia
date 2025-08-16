@@ -2,7 +2,7 @@
 
 title: Religious Leaders
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

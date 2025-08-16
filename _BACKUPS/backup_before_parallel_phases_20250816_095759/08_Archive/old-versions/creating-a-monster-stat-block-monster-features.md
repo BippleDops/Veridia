@@ -2,7 +2,7 @@
 
 title: creating-a-monster-stat-block-monster-features
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

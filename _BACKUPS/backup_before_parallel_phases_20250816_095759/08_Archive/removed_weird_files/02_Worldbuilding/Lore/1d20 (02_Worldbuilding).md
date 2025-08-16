@@ -2,7 +2,7 @@
 
 title: `dice: 1d20`
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

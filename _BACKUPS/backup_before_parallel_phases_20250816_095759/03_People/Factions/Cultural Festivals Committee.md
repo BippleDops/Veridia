@@ -2,7 +2,7 @@
 
 title: Cultural Festivals Committee
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

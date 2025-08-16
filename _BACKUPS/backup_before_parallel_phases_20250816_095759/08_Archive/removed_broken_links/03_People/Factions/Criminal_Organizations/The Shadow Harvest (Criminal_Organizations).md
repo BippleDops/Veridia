@@ -2,7 +2,7 @@
 
 title: The Shadow Harvest
 type: Faction
-tags: 
+tags:
 - resource-extraction
 - aquabyssos
 - status/complete

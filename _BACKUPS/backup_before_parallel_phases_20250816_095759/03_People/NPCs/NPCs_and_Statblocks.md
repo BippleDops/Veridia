@@ -2,7 +2,7 @@
 
 title: NPCs_and_Statblocks
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

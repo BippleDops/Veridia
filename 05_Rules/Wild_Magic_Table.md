@@ -33,5 +33,5 @@
 
 ## Expanded Effects Categories
 - **Beneficial**: 25% chance
-- **Neutral/Cosmetic**: 50% chance  
+- **Neutral/Cosmetic**: 50% chance
 - **Detrimental**: 25% chance

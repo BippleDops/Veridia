@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Equipment/Advanced Shadow Scanners
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

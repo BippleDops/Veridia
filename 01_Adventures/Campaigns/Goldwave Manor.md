@@ -2,7 +2,7 @@
 
 title: Goldwave Manor
 type: [[location
-tags: 
+tags:
 - [Lore]]
 - session-notes
 - noble-house
@@ -26,12 +26,12 @@ world: Aethermoor
 location_name: Goldwave Manor
 location_type: Noble Estate and Ficial Complex
 parent_location: '[Port Meridian]]'
-connected_locations: 
+connected_locations:
 - '[[Port Meridian Harbor'
 - '[[Royal Palace|The [Royal Palace]]]]'
 - '[[Silverscale Banking House'
 - '[[Shadow Markets|The [Shadow Markets]]]]'
-sub_locations: 
+sub_locations:
 - '[[Goldwave Private Offices'
 - '[[Crystal Conservatory|The [Crystal Conservatory]]]]'
 - '[[Aurelius''s Private Study'
@@ -45,13 +45,13 @@ access: By invitation only
 wealth_level: Extreme
 created_by: auto-stub
 updated: '2025-08-13T01:18:35.209288+00:00'
-services: 
+services:
 - Private Banking
 - Investment Consultation
 - Cross-Realm Trade Facilitation
 - High-Society Entertainment
 - Diplomatic Hosting
-notable_residents: 
+notable_residents:
 - '[[12 Research'
 - '[Lady Serena Goldwave]]'
 - '[[Master Valet Sterling Currentborn'
@@ -211,7 +211,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 3
-  
+
 ### [Environmental Hazards]]
 - Collapsing ceiling
 - **DC 14** to detect
@@ -229,7 +229,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - **Recent History**: Fire 13 years ago
 - **Living Memory**: Wedding last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Trial in 28 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: [Link]]s to The Second Prophecy of Shadows

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Kelp Highway V1 the Kelp Highway.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the kelp highway v1 the kelp highwaysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Entertainment Industry Entertainment Industry.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city entertainment industry entertainment
   industrysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

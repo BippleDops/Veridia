@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Quartermaster David Simpleton V1 Quartermaster
   David Simpleton.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quartermaster david simpleton v1 quartermaster
   david simpletonsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

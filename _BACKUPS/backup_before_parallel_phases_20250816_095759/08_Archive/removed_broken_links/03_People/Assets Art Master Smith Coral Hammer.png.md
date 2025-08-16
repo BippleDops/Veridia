@@ -1,10 +1,10 @@
 ---
 
 title: Assets Art Master Smith Coral Hammer.png
-aliases: 
+aliases:
 - 04 Resources Assets Art Places Master Smith Coral Hammerpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

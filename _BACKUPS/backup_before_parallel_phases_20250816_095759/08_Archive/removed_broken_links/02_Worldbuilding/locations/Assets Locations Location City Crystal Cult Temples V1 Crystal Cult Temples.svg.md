@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Crystal Cult Temples V1 Crystal Cult Temples.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal cult temples v1 crystal cult
   templessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

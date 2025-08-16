@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city market master cornelius driftwood market master cornelius driftwoodsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Market Master Cornelius Driftwood Market Master Cornelius Driftwood.svg
 type: location

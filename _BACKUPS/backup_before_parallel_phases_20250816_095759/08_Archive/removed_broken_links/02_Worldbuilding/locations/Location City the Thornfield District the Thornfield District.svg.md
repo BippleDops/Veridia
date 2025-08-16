@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the thornfield district the thornfield districtsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Thornfield District the Thornfield District.svg
 type: location

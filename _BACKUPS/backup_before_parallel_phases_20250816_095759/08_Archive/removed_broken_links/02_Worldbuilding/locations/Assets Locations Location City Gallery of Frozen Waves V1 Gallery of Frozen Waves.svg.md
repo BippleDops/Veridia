@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Gallery of Frozen Waves V1 Gallery of Frozen
   Waves.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gallery of frozen waves v1 gallery of
   frozen wavessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

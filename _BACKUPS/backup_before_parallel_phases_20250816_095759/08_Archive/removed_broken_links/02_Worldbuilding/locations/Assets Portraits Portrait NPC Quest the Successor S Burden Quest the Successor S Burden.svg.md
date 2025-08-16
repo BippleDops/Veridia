@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Successor S Burden Quest the Successor
   S Burden.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the successor s burden quest the
   successor s burdensvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

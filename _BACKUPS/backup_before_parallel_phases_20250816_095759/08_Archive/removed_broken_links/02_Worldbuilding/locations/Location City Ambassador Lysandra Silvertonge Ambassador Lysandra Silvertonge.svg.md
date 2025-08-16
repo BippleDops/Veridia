@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city ambassador lysandra silvertonge ambassador lysandra silvertongesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Ambassador Lysandra Silvertonge Ambassador Lysandra Silvertonge.svg
 type: location

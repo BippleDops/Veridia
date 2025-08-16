@@ -2,7 +2,7 @@
 
 title: The Phantom Fleet
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

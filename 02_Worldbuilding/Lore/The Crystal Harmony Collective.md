@@ -2,7 +2,7 @@
 
 title: The Crystal Harmony Collective
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

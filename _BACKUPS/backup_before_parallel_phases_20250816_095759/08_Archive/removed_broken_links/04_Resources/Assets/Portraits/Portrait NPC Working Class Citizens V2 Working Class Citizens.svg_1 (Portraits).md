@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc working class citizens v2 working class citizenssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Working Class Citizens V2 Working Class Citizens.svg
 type: npc

@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: cultural-expansion
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/lore

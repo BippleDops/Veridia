@@ -2,7 +2,7 @@
 
 title: [[Resoce Peaks
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - technology
@@ -140,7 +140,7 @@ The heart of each Peak's functionality lies in its integrated crystal systems, w
 
 **Crystal Classification and Function:**
 - **Primary Amplification Crystals**: Large formations that boost incoming sound waves exponentially
-- **Harmonic Focusing Crystals**: Smaller crystals that refine and direct specific frequencies  
+- **Harmonic Focusing Crystals**: Smaller crystals that refine and direct specific frequencies
 - **[Dimensional_Resoce|Dimensional Resoce]] Crystals**: Specialized crystals capable of projecting sound across dimensional boundaries
 - **Safety Regulation Crystals**: Protective crystals that prevent dangerous resoce buildup
 - **Communication Interface Crystals**: Crystals designed for two-way communication and signal processing
@@ -248,7 +248,7 @@ The Peaks provide unique research capabilities for various scientific discipline
 **Cross-Dimensional Studies:**
 Recent research focuses on the Peaks' potential for dimensional interaction:
 - Communication experiments attempting to establish contact with [Aethermoor]]
-- Research into acoustic effects on dimensional stability and boundary conditions  
+- Research into acoustic effects on dimensional stability and boundary conditions
 - Investigation of harmonic frequencies that may facilitate [[Dimensional_Travel|Dimensional Travel
 - Studies of acoustic phenomena that appear to transcend normal physical limitations
 - Development of new technologies based on cross-dimensional acoustic principles

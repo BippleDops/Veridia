@@ -2,7 +2,7 @@
 created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/lore
@@ -170,7 +170,7 @@ Reflecting sky-based culture and elevation mastery:
 
 **Height References:**
 - **Sky-** prefix: Skyborn, Skywright, Skyward
-- **Cloud-** prefix: Cloudwalker, Clouddancer, Cloudseeker  
+- **Cloud-** prefix: Cloudwalker, Clouddancer, Cloudseeker
 - **Wind-** prefix: Windwright, Windrider, Windcaller
 - **Storm-** prefix: Stormcaller, Stormbringer, Stormwright
 

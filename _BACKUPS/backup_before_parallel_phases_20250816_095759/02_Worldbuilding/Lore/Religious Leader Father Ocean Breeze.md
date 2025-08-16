@@ -2,7 +2,7 @@
 
 title: Religious Leader Father Ocean Breeze
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

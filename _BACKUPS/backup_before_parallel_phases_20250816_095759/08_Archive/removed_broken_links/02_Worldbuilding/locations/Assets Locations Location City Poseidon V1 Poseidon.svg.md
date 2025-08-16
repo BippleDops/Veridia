@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Poseidon V1 Poseidon.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city poseidon v1 poseidonsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

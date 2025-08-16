@@ -2,7 +2,7 @@
 
 title: Lysandra Tidecaller
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

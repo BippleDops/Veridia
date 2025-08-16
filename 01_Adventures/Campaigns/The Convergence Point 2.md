@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags: 
+tags:
 - aethermoor
 - apocalypse
 - aquabyssos

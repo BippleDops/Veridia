@@ -2,7 +2,7 @@
 
 title: Institute of Aquatic Mysticism
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

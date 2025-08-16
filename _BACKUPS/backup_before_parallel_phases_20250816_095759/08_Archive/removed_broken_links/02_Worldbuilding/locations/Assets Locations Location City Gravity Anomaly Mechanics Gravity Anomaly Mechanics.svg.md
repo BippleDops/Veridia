@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Gravity Anomaly Mechanics Gravity Anomaly Mechanics.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gravity anomaly mechanics gravity anomaly
   mechanicssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

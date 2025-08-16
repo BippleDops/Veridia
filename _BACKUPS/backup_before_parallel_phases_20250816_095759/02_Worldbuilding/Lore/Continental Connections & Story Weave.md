@@ -2,7 +2,7 @@
 
 title: Continental Connections & Story Weave
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - active

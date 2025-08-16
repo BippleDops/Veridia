@@ -2,7 +2,7 @@
 
 title: Shadow Energy Processing Facilities
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Priest Thomas Messagekeeper V1 Priest Thomas
   Messagekeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city priest thomas messagekeeper v1 priest
   thomas messagekeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

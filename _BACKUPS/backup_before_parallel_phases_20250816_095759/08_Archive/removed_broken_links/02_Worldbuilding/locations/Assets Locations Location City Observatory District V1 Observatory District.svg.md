@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Observatory District V1 Observatory District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city observatory district v1 observatory
   districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

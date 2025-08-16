@@ -2,7 +2,7 @@
 
 title: The [[Shadowmere Purification
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

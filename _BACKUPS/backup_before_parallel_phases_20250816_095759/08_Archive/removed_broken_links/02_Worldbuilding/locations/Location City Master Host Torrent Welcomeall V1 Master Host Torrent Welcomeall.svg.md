@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master host torrent welcomeall v1 master host torrent welcomeallsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Host Torrent Welcomeall V1 Master Host Torrent Welcomeall.svg
 type: location

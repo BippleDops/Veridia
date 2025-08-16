@@ -3,7 +3,7 @@ enhanced: true
 
 title: Sleep Magic
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - conspiracy

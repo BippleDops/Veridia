@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the iron pits of malachar v1 the iron pits of malacharsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Iron Pits of Malachar V1 the Iron Pits of Malachar.svg
 type: location

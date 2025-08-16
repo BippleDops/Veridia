@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain thorne darkwater v2 captain thorne darkwatersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Thorne Darkwater V2 Captain Thorne Darkwater.svg
 type: npc

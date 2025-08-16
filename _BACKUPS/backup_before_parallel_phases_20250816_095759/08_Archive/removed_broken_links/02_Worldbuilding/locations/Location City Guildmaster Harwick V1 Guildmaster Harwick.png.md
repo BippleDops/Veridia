@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city guildmaster harwick v1 guildmaster harwickpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Guildmaster Harwick V1 Guildmaster Harwick.png
 type: location

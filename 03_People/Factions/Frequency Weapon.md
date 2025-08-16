@@ -2,7 +2,7 @@
 
 title: Frequency Weapon
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

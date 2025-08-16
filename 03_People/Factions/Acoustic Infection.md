@@ -2,7 +2,7 @@
 
 title: Acoustic Infection
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

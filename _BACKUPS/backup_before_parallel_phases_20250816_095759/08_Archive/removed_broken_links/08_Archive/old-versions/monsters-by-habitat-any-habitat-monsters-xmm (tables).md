@@ -2,7 +2,7 @@
 
 title: monsters-by-habitat-any-habitat-monsters-xmm (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

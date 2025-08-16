@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Purification Temples the Purification Temples.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the purification temples the purification
   templessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -192,7 +192,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

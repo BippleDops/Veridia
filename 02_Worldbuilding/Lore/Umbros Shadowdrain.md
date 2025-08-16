@@ -2,7 +2,7 @@
 
 title: Umbros Shadowdrain
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

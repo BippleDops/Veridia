@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Blood Current Express Blood Current Express.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city blood current express blood current
   expresssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -213,7 +213,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

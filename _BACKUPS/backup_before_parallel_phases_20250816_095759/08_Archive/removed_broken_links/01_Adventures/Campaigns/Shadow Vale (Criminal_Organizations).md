@@ -2,7 +2,7 @@
 
 title: Shadow Vale
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: Pressure Gems
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

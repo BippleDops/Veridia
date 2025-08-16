@@ -2,7 +2,7 @@
 
 title: Research D&d References
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

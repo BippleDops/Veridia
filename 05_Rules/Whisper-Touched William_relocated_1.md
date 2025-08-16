@@ -2,7 +2,7 @@
 
 title: Whisper Touched William
 type: [[location
-tags: 
+tags:
 - shrine
 - both
 - [Oracle]]
@@ -31,7 +31,7 @@ current_state: Active oracle shrine
 danger_level: 5
 depth: 2400-2600 feet
 discovered: true
-factions: 
+factions:
 - '[The Voice Interpreters]]'
 - '[[Silence Seekers'
 - '[Truth Hunters]]'
@@ -39,7 +39,7 @@ factions:
 government: Oracular Authority
 location_name: Whisper-Touched William's Oracle Shrine
 location_type: Prophetic Shrine Complex
-notable_npcs: 
+notable_npcs:
 - '[[Places|Whisper-Touched William's Oracle Shrine ([Places]])]]'
 - '[[Echo-Translator Vera (D&D_References)'
 - '[Silent Guardian Marcus]]'
@@ -48,14 +48,14 @@ obsidianUIMode: preview
 parent_location: '[Abyssos Prime]]'
 pressure_effects: Moderate
 ruler: '[[Whisper-Touched William's Oracle Shrine (Places)'
-services: 
+services:
 - Prophetic Consultation
 - [Whisper Translation]]
 - [[Future Glimpse Sessions
 - Truth Seeking [Guidance]]
 - Madness Counseling
 shadow_density: Low
-sub_locations: 
+sub_locations:
 - '[[Npc'
 - '[Gallery of Echoing Truths]]'
 - '[[The Silence|[The Silence Garden]]'

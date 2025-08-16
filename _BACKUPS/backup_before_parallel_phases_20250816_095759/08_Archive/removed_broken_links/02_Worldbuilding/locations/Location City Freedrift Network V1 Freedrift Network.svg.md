@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city freedrift network v1 freedrift networksvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Freedrift Network V1 Freedrift Network.svg
 type: location

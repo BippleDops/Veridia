@@ -2,7 +2,7 @@
 
 title: Lord Reginald Seaworthy
 type: [[location
-tags: 
+tags:
 - aquabyssos
 - world/surface
 - ambassador
@@ -117,35 +117,35 @@ Originally from a mari[[Time [Merchant]] family, Reginald came to [[Aquabyssos t
 
 ## Physical Description and Background
 
-**Race**: Human (Surface-born)  
-**Age**: 64 years old  
-**Height**: 5'10" (1.78m)  
-**Build**: Distinguished bearing with the poise of an experienced diplomat  
+**Race**: Human (Surface-born)
+**Age**: 64 years old
+**Height**: 5'10" (1.78m)
+**Build**: Distinguished bearing with the poise of an experienced diplomat
 
 **Appearance**: Silver-haired with intelligent gray eyes, Reginald maintains the formal appearance expected of his position while showing subtle adaptations to aquatic life. He wears modified formal attire suitable for both air and water, with diplomatic insignia marking his rank and authority.
 
 **Personality**: Patient, analytical, and genuinely committed to peaceful relations. Reginald believes that understanding cultural differences is the key to successful diplomacy and works tirelessly to build bridges between different ways of thinking and living.
 
 ### Primary Functions
-**Inter-Realm Negotiations**: Leading diplomatic missions and treaty discussions between [Aquabyssos]] and surface realms  
-**Cultural Interpretation**: Helping both sides understand cultural context and avoiding misunderstandings  
-**[[Crisis Management**: Mediating disputes and preventing minor conflicts from escalating into major problems  
-**Policy Development**: Advising [Aquabyssos]] government on foreign relations strategy and implementation  
+**Inter-Realm Negotiations**: Leading diplomatic missions and treaty discussions between [Aquabyssos]] and surface realms
+**Cultural Interpretation**: Helping both sides understand cultural context and avoiding misunderstandings
+**[[Crisis Management**: Mediating disputes and preventing minor conflicts from escalating into major problems
+**Policy Development**: Advising [Aquabyssos]] government on foreign relations strategy and implementation
 
 ### Key Achievements
-**Trade Agreement Expansion**: Successfully negotiated multiple beneficial trade deals increasing commerce between realms  
-**[[Cultural Exchange|[Cultural Exchange Programs]]**: Established educational and artistic exchange [[Initiatives building mutual understanding  
-**Conflict Prevention**: Prevented three potential diplomatic crises through skillful mediation and compromise  
-**Alliance Building**: Helped create cooperative frameworks for addressing shared challenges and opportunities  
+**Trade Agreement Expansion**: Successfully negotiated multiple beneficial trade deals increasing commerce between realms
+**[[Cultural Exchange|[Cultural Exchange Programs]]**: Established educational and artistic exchange [[Initiatives building mutual understanding
+**Conflict Prevention**: Prevented three potential diplomatic crises through skillful mediation and compromise
+**Alliance Building**: Helped create cooperative frameworks for addressing shared challenges and opportunities
 
 ## Combat Statistics
 
-**Level**: 8th level Noble  
-**AS**: 13 (Fine Clothes + Dex + Diplomatic Protection), **HP**: 58 (`dice: 8d8` + 16), **Speed**: 30 ft.  
-**STR**: 11 (+0), **DEX**: 14 (+2), **CON**: 14 (+2), **INT**: 16 (+3), **WIS**: 15 (+2), **CHA**: 18 (+4)  
-**Skills**: Deception +7, History +9, Insight +8, Investigation +6, Perception +5, Persuasion +10  
-**Languages**: Common, Primordial (Aquan), Celestial, Draconic, Diplomatic protocols  
-**CR**: 2 (450 XP)  
+**Level**: 8th level Noble
+**AS**: 13 (Fine Clothes + Dex + Diplomatic Protection), **HP**: 58 (`dice: 8d8` + 16), **Speed**: 30 ft.
+**STR**: 11 (+0), **DEX**: 14 (+2), **CON**: 14 (+2), **INT**: 16 (+3), **WIS**: 15 (+2), **CHA**: 18 (+4)
+**Skills**: Deception +7, History +9, Insight +8, Investigation +6, Perception +5, Persuasion +10
+**Languages**: Common, Primordial (Aquan), Celestial, Draconic, Diplomatic protocols
+**CR**: 2 (450 XP)
 
 **Special Abilities**: [Diplomatic Immunity]], Cultural mediation, Information networks, Crisis negotiation, Noble connections
 
@@ -160,14 +160,14 @@ Lord Seaworthy discovers [Evidence]] of a secret alliance forming against both [
 
 ## Professional Network
 
-**Government Contacts**: [[Parliament of Echoes leadership, foreign ministry officials, [Intelligence Services]]  
-**Diplomatic Corps**: [[Ambassador Lysandra Silvertonge, embassy staff, cultural attachés  
-**Surface Connections**: Former colleagues, merchant contacts, political [Allies]] in various realms  
-**Local Relationships**: [[Aquabyssos nobility, cultural leaders, [Academic Institutions]]  
+**Government Contacts**: [[Parliament of Echoes leadership, foreign ministry officials, [Intelligence Services]]
+**Diplomatic Corps**: [[Ambassador Lysandra Silvertonge, embassy staff, cultural attachés
+**Surface Connections**: Former colleagues, merchant contacts, political [Allies]] in various realms
+**Local Relationships**: [[Aquabyssos nobility, cultural leaders, [Academic Institutions]]
 
 ---
 
-*"True diplomacy requires not just speaking the language, but understanding the heart behind the words."*  
+*"True diplomacy requires not just speaking the language, but understanding the heart behind the words."*
 — Lord Reginald Seaworthy
 
 ## Player-Facing Summary

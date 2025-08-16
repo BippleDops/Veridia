@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Primary Schools Primary Schools.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city primary schools primary schoolssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

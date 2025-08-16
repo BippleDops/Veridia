@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Dr Siphon Gillwater V1 Dr Siphon Gillwater.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city dr siphon gillwater v1 dr siphon gillwaterpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: The Great Elevation
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

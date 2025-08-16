@@ -2,7 +2,7 @@
 
 title: The [[Crown of Stars
 type: [Lore]]
-tags: 
+tags:
 - lore
 - convergence
 - aerial
@@ -22,14 +22,14 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: draft
-connections: 
+connections:
 - '[[Queen Seraphina'
 - '[Aethermoor]]'
 - '[[The Forgotten Isles'
 - '[[Time|[Time]]''s Mercy]]'
 - '[[Emperor|[[The [Emperor]]''s Gambit]]'
 - '[[Deep Mother'
-themes: 
+themes:
 - celestial_authority
 - sacrifice_of_rulers
 - stellar_alignment

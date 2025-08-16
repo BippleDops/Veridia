@@ -2,7 +2,7 @@
 
 title: list-spells-optional-features-ascendant-step-xphb
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

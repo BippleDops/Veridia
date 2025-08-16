@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Shadow Portal Nexus Shadow Portal Nexus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadow portal nexus shadow portal nexussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

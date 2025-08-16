@@ -2,7 +2,7 @@
 
 title: Combat_Actions
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

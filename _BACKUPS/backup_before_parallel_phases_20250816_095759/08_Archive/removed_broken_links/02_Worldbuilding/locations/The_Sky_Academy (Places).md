@@ -2,7 +2,7 @@
 
 title: The Sky Academy
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor

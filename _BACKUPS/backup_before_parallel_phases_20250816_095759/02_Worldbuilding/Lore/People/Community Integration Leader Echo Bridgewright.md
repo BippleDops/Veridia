@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Community Integration Leader Echo Bridgewright
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

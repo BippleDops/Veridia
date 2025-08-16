@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Divination_Expanded
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

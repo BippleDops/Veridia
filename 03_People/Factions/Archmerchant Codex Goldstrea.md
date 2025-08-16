@@ -2,7 +2,7 @@
 
 title: Archmerchant Codex Goldstrea
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

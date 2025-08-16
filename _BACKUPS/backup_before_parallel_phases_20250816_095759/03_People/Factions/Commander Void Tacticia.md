@@ -2,7 +2,7 @@
 
 title: Commander Void Tacticia
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

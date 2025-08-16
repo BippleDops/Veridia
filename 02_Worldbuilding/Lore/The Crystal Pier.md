@@ -2,7 +2,7 @@
 
 title: The Crystal Pier
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

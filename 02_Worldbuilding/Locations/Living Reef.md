@@ -2,7 +2,7 @@
 
 title: Living Reef
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

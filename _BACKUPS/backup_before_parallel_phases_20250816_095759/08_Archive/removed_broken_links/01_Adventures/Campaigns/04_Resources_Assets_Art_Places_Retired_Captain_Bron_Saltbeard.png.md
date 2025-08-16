@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Art_Places_Retired_Captain_Bron_Saltbeard.png
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

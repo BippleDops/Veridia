@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city abyssos prime pressure terminal v1 abyssos prime pressure terminalsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Abyssos Prime Pressure Terminal V1 Abyssos Prime Pressure Terminal.svg
 type: location

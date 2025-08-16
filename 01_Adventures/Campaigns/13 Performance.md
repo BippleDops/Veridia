@@ -1,7 +1,7 @@
 ---
 title: 13 Performance
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

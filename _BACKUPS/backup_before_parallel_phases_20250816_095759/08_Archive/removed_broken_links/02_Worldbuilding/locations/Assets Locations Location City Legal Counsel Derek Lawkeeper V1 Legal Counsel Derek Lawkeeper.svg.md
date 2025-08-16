@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Legal Counsel Derek Lawkeeper V1 Legal Counsel
   Derek Lawkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city legal counsel derek lawkeeper v1 legal
   counsel derek lawkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -203,7 +203,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Replacement Survivor Support [[Groups
 type: [location]]
-tags: 
+tags:
 - [[Aquabyssos
 - world/aquabyssos
 - content/location

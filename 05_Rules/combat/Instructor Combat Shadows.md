@@ -2,7 +2,7 @@
 
 title: Instructor Combat Shadows
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

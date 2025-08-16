@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Probability Merchant the Probability Merchant.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the probability merchant the probability
   merchantsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

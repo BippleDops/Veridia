@@ -2,7 +2,7 @@
 
 title: Island of Scream
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the War Room Sanctuary the War Room Sanctuary.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the war room sanctuary the war room
   sanctuarysvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

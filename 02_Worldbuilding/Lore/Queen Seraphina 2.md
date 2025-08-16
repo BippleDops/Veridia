@@ -3,7 +3,7 @@ title: Queen of the Depths, Sovereign of the Coral Throne, Protector of the Abys
   Realms
 type: Npc
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - coral-crown
@@ -26,17 +26,17 @@ political_alignment: Moderate Progressive
 created_by: auto-stub
 created: '2025-08-08'
 updated: '2025-08-13T01:18:35.219460+00:00'
-notable_achievements: 
+notable_achievements:
 - Survived the Depth Crown Crisis
 - Established the Modern Parliament System
 - Led Defense Against the Shadow Incursions
 - Negotiated Peace with Surface Realms
-current_challenges: 
+current_challenges:
 - The Scattered Emperor Problem
 - Rising Political Extremism
 - Deep Mother Activity Increase
 - Economic Instability from Crisis
-personality_traits: 
+personality_traits:
 - Diplomatic but Decisive
 - Protective of Citizens
 - Burden of Crown Weighs Heavily

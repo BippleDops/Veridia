@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Deep Mother Spawning Pools Deep Mother Spawning
   Pools.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep mother spawning pools deep mother
   spawning poolssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

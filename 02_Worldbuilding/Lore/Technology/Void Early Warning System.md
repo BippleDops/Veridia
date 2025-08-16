@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Technology/Void Early Warning System
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

@@ -2,7 +2,7 @@
 
 title: Portrait NPC Archdruid Thornweaver V2 Archdruid Thornweaver.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

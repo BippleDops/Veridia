@@ -2,7 +2,7 @@
 
 title: Sentient Magic Item Senses
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

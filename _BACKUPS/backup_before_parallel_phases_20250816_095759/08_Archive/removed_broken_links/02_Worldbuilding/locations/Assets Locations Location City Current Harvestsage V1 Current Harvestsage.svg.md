@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Current Harvestsage V1 Current Harvestsage.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city current harvestsage v1 current harvestsagesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

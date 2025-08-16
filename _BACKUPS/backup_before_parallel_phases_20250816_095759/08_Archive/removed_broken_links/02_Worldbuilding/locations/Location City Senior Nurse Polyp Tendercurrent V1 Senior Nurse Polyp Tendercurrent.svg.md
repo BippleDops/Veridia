@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city senior nurse polyp tendercurrent v1 senior nurse polyp tendercurrentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg
 type: location

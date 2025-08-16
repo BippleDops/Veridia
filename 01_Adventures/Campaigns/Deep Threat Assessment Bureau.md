@@ -2,7 +2,7 @@
 
 title: Deep Threat Assessment Bureau
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

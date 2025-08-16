@@ -2,7 +2,7 @@
 
 title: Investigation Mechanics
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

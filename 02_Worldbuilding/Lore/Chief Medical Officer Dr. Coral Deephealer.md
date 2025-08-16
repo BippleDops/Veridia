@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 - Chief Medical Officer Dr Coral Deephealer
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags: 
+tags:
 - [[Lore
 title: Chief Medical Officer Dr. Coral Deephealer
 type: lore

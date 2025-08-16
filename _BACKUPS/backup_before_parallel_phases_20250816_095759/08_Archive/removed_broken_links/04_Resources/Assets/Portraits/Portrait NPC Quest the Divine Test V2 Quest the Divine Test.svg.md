@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the divine test v2 quest the divine testsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Divine Test V2 Quest the Divine Test.svg
 type: npc

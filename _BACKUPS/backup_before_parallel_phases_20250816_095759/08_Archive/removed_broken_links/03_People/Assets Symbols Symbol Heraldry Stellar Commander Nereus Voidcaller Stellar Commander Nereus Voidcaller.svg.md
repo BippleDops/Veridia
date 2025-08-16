@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Stellar Commander Nereus Voidcaller Stellar
   Commander Nereus Voidcaller.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry stellar commander nereus voidcaller
   stellar commander nereus voidcallersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

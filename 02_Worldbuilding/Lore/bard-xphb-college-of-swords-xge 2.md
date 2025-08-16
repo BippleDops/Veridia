@@ -1,7 +1,7 @@
 ---
 title: bard-xphb-college-of-swords-xge 2
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

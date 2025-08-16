@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Surface Contact Prohibition Surface Contact
   Prohibition.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface contact prohibition surface
   contact prohibitionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

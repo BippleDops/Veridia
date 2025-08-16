@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the seventh song v2 quest the seventh songsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Seventh Song V2 Quest the Seventh Song.svg
 type: npc

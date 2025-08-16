@@ -2,7 +2,7 @@
 
 title: Tests [[Cosmic Horror Trials
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

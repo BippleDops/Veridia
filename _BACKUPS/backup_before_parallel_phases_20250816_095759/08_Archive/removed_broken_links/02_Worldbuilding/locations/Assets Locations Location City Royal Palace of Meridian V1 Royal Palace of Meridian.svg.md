@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Royal Palace of Meridian V1 Royal Palace of
   Meridian.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal palace of meridian v1 royal palace
   of meridiansvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -200,7 +200,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

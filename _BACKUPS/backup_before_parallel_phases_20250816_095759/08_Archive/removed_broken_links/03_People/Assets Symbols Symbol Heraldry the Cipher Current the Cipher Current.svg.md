@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Cipher Current the Cipher Current.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the cipher current the cipher currentsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

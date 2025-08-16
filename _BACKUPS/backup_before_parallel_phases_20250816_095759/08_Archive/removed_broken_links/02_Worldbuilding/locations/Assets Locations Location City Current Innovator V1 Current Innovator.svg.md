@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Current Innovator V1 Current Innovator.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city current innovator v1 current innovatorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

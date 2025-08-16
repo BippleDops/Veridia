@@ -2,7 +2,7 @@
 
 title: Adventure Boldexplorer (D&D_Sourcebooks)
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

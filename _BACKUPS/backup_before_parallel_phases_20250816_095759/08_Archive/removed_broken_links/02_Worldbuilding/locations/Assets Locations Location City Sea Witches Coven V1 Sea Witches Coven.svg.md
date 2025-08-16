@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sea Witches Coven V1 Sea Witches Coven.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sea witches coven v1 sea witches covensvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

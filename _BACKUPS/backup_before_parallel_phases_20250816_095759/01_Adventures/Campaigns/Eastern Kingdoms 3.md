@@ -3,12 +3,12 @@ category: Political Entity
 created: '2025-08-08'
 created_by: auto-stub
 outcome: Ongoing Major Power
-participants: 
+participants:
 - Eastern Royal Houses
 - Imperial Navy
 - Colonial Administrations
 - Trade Guilds
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Places/Aethermoor'
 - '[02_Worldbuilding/Lore/Continental War]]'
 - '[[02_Worldbuilding/Lore/The Great Crystallization'
@@ -18,7 +18,7 @@ related_entities:
 scale: Multi-Continental Empire
 significance: Major Continental Power
 status: complete
-tags: 
+tags:
 - aethermoor
 - campaign/arc
 - complete

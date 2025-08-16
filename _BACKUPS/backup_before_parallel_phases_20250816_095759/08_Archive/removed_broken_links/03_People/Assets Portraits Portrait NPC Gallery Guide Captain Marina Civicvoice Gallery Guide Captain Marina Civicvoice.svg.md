@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Gallery Guide Captain Marina Civicvoice Gallery
   Guide Captain Marina Civicvoice.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc gallery guide captain marina civicvoice
   gallery guide captain marina civicvoicesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

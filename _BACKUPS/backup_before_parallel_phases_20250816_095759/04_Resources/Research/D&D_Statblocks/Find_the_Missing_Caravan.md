@@ -2,7 +2,7 @@
 
 title: Find_the_Missing_Caravan
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

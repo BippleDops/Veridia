@@ -2,7 +2,7 @@
 
 title: Portrait NPC Oracle Nerida the Tidereader V1 Oracle Nerida the Tidereader.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

@@ -2,7 +2,7 @@
 
 title: Factions the Prismatic Order
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

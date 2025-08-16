@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc corrupted clients v1 corrupted clientssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Corrupted Clients V1 Corrupted Clients.svg
 type: npc

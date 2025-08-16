@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city tenebrarum embassy v1 tenebrarum embassysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Tenebrarum Embassy V1 Tenebrarum Embassy.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: Scholar Thomas Precedent
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the lady s garden society v2 the lady s garden societysvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Lady S Garden Society V2 the Lady S Garden Society.svg
 type: npc

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City New Tethys V1 New Tethys.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city new tethys v1 new tethyssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

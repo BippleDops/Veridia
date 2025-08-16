@@ -2,7 +2,7 @@
 
 title: Dungeon Location
 type: location
-tags: 
+tags:
 - location
 
 created: '2025-01-15'

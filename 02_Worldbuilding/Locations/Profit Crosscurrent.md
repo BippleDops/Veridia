@@ -2,7 +2,7 @@
 
 title: Profit Crosscurrent
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

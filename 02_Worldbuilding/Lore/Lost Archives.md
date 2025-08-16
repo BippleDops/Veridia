@@ -1,7 +1,7 @@
 ---
 title: Lost Archives
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

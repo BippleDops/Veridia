@@ -2,7 +2,7 @@
 
 title: Ethics Investigator Steel Truthseeke
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

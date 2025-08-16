@@ -2,7 +2,7 @@
 
 title: Navigator Stormwatch
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

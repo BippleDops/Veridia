@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Veiled Hierophant Veiled Hierophant.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city veiled hierophant veiled hierophantsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

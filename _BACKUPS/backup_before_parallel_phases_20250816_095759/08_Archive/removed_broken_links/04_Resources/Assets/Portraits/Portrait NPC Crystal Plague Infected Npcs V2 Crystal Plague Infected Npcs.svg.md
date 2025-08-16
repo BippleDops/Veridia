@@ -2,7 +2,7 @@
 
 title: Portrait NPC Crystal Plague Infected Npcs V2 Crystal Plague Infected Npcs.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Marine Druids V1 Marine Druids.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marine druids v1 marine druidssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

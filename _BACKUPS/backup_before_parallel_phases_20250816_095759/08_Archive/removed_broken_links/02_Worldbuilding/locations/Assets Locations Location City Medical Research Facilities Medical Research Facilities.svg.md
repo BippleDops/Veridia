@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Medical Research Facilities Medical Research
   Facilities.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city medical research facilities medical
   research facilitiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

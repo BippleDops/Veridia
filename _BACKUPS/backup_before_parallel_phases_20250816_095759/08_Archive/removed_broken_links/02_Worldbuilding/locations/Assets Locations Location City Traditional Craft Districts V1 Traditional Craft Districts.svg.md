@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Traditional Craft Districts V1 Traditional Craft
   Districts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city traditional craft districts v1 traditional
   craft districtssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -177,7 +177,7 @@ Key locations marked:
 - **Dragon**: metallic
   - Traits: standard
   - CR Range: 1
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 14** to detect
@@ -197,7 +197,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

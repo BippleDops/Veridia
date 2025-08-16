@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc archon meredith saltweaver v1 archon meredith saltweaversvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Archon Meredith Saltweaver V1 Archon Meredith Saltweaver.svg
 type: npc

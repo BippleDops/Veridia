@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain lyanna brightshield v2 captain lyanna brightshieldsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Lyanna Brightshield V2 Captain Lyanna Brightshield.svg
 type: npc

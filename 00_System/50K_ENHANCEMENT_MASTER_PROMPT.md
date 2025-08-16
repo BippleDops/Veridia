@@ -1,7 +1,7 @@
 ---
 title: 50K Enhancement Master Prompt
 type: blueprint
-tags: 
+tags:
 - enhancement
 - master-plan
 - 50000-steps

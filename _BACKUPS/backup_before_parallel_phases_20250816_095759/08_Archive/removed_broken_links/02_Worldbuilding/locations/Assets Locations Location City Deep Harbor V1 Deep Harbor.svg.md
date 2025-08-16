@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deep Harbor V1 Deep Harbor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deep harbor v1 deep harborsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

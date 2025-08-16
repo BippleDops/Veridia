@@ -2,7 +2,7 @@
 
 title: Healer Dawnshade
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

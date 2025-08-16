@@ -2,7 +2,7 @@
 
 title: Harbor Master's Tower
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

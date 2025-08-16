@@ -2,7 +2,7 @@
 
 title: Spell Gem Bloodstone Oota
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

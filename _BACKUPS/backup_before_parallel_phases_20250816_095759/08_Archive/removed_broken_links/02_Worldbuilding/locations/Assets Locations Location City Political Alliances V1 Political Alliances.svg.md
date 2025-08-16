@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Political Alliances V1 Political Alliances.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city political alliances v1 political alliancessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

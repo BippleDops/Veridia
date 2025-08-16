@@ -2,7 +2,7 @@
 
 title: Throne Room
 type: [[Lore
-tags: 
+tags:
 - lore
 - political-center
 - dimensional-nexus
@@ -408,7 +408,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

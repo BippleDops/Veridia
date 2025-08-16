@@ -2,7 +2,7 @@
 
 title: The Artisans' Collective
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

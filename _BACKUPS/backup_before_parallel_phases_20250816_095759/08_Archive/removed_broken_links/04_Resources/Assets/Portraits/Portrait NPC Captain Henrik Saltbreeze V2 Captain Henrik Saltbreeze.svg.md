@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain henrik saltbreeze v2 captain henrik saltbreezesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Henrik Saltbreeze V2 Captain Henrik Saltbreeze.svg
 type: npc

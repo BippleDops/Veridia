@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Maestro Finn Whirlstep Maestro Finn Whirlstep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city maestro finn whirlstep maestro finn
   whirlstepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

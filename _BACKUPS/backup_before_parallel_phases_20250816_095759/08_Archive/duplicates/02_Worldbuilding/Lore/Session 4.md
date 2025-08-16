@@ -1,7 +1,7 @@
 ---
 title: Session 4
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Link]]ed
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: [[New Session
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'
@@ -43,7 +43,7 @@ status: unknown
 world: Both
 updated: '2025-08-13T01:18:31.202359+00:00'
 
---- 
+---
 
 ---
 

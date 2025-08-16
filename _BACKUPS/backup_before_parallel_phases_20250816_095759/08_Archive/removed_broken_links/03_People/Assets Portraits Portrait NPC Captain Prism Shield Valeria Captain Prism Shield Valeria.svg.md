@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Captain Prism Shield Valeria Captain Prism Shield
   Valeria.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain prism shield valeria captain
   prism shield valeriasvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

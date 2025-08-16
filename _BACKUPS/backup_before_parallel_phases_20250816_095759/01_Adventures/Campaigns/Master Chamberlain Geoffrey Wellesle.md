@@ -2,7 +2,7 @@
 
 title: Master Chamberlain Geoffrey Wellesle
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

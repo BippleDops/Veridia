@@ -2,7 +2,7 @@
 
 title: Consequence Chain 2 - Crystal Trade Disruption (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

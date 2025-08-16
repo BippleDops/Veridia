@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Supplier Erikson Tidecaller Supplier Erikson
   Tidecaller.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city supplier erikson tidecaller supplier
   erikson tidecallersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

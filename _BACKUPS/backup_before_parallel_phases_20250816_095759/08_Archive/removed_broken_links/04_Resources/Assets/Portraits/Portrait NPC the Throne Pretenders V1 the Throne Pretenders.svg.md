@@ -2,7 +2,7 @@
 
 title: Portrait NPC the Throne Pretenders V1 the Throne Pretenders.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

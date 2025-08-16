@@ -3,7 +3,7 @@ enhanced: true
 
 title: "Vehicle Core Rules#12) Parasite Boarding & Biohazards"
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

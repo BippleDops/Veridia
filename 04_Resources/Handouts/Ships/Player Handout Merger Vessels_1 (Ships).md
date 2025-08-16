@@ -2,7 +2,7 @@
 
 title: 04_Resources/Handouts/Ships/Player Handout Merger Vessels
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

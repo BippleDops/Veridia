@@ -2,7 +2,7 @@
 
 title: [[Artificer Magnus Weightless
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

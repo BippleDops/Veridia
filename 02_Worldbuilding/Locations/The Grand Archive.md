@@ -1,7 +1,7 @@
 ---
 title: The Grand Archive
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

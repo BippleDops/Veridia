@@ -2,7 +2,7 @@
 
 title: Solar Corruption
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

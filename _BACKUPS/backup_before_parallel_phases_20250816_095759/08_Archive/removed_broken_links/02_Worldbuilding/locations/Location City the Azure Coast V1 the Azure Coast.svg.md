@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the azure coast v1 the azure coastsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Azure Coast V1 the Azure Coast.svg
 type: location

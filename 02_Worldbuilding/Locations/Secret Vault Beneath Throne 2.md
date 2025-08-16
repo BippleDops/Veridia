@@ -8,7 +8,7 @@ danger_level: Extreme
 obsidianUIMode: preview
 security_level: maximum
 status: complete
-tags: 
+tags:
 - access/secret
 - aethermoor
 - complete

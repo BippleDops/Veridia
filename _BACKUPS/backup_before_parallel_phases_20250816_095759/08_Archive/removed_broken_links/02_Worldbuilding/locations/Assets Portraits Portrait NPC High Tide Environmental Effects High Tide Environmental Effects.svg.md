@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC High Tide Environmental Effects High Tide Environmental
   Effects.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc high tide environmental effects high
   tide environmental effectssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

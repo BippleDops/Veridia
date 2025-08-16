@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple Guardian Marcus the Drowned Temple Guardian
   Marcus the Drowned.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple guardian marcus the drowned temple
   guardian marcus the drownedsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

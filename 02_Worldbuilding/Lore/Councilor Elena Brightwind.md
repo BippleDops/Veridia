@@ -2,7 +2,7 @@
 
 title: Councilor Elena Brightwind
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

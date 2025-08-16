@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Pressure Adaptation System
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

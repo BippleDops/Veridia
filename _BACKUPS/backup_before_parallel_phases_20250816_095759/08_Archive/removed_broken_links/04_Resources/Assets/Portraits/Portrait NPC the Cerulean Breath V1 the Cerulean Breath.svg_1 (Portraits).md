@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the cerulean breath v1 the cerulean breathsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Cerulean Breath V1 the Cerulean Breath.svg
 type: npc

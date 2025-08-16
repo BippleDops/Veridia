@@ -2,7 +2,7 @@
 
 title: The Crystal Council
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - [location]]

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city exotic imports market v1 exotic imports marketsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Exotic Imports Market V1 Exotic Imports Market.svg
 type: location

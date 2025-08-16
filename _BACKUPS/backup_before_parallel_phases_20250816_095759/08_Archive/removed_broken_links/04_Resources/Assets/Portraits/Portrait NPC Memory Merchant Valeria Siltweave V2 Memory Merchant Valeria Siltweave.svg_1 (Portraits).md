@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc memory merchant valeria siltweave v2 memory merchant valeria siltweavesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Memory Merchant Valeria Siltweave V2 Memory Merchant Valeria Siltweave.svg
 type: npc

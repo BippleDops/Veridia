@@ -2,7 +2,7 @@
 
 title: Family Retainer
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

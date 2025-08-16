@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Pressure Responsive Fabrics V1 Pressure Responsive
   Fabrics.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure responsive fabrics v1 pressure
   responsive fabricssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

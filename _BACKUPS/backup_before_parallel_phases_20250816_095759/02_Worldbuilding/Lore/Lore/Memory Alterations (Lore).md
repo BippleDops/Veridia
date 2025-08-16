@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Memory Alterations
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

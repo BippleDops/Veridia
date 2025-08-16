@@ -2,7 +2,7 @@
 
 title: [[Aethermoor Wind Rider Traditions
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aerial
 - status/complete
@@ -479,7 +479,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

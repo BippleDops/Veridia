@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Heritage Keeper Memoryshade Heritage Keeper
   Memoryshade.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city heritage keeper memoryshade heritage
   keeper memoryshadesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

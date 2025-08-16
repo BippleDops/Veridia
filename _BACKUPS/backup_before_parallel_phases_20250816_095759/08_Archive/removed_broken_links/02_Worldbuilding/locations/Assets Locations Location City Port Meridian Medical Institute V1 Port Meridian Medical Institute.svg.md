@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Port Meridian Medical Institute V1 Port Meridian
   Medical Institute.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port meridian medical institute v1 port
   meridian medical institutesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -182,7 +182,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

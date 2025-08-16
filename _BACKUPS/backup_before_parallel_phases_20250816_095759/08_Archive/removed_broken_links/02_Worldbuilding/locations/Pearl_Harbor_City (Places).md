@@ -2,7 +2,7 @@
 
 title: Pearl Harbor City
 type: Location
-tags: 
+tags:
 - both
 - aquatic
 - quest
@@ -202,7 +202,7 @@ Suitable for levels 1-5. Higher-level threats exist but avoid direct confrontati
 
 ---
 
-*"In Pearl Harbor, everyone's swimming in the same water - just at different pressures."* 
+*"In Pearl Harbor, everyone's swimming in the same water - just at different pressures."*
 - [[Taverner Bubbles McGill]]
 
 ## Player-Facing Summary
@@ -277,7 +277,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

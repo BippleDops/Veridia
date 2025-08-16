@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc sorrow root nightbloom v2 sorrow root nightbloomsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Sorrow Root Nightbloom V2 Sorrow Root Nightbloom.svg
 type: npc

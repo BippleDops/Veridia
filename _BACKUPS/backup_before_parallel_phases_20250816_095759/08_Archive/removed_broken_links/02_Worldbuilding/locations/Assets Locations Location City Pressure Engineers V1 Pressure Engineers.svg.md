@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pressure Engineers V1 Pressure Engineers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure engineers v1 pressure engineerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -175,7 +175,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

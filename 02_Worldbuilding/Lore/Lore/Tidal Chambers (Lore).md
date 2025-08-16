@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Tidal Chambers
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city pressure tube system v1 pressure tube systemsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Pressure Tube System V1 Pressure Tube System.svg
 type: location

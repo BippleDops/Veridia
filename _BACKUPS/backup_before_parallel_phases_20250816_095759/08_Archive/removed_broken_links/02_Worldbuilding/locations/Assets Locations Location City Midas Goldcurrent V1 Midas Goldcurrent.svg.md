@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Midas Goldcurrent V1 Midas Goldcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city midas goldcurrent v1 midas goldcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

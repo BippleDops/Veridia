@@ -2,7 +2,7 @@
 
 title: Frontier Settlement
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

@@ -1,7 +1,7 @@
 ---
 title: Similar Topic 1
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

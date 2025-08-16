@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Captain Thaddeus Blackwater Captain Thaddeus
   Blackwater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain thaddeus blackwater captain thaddeus
   blackwatersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

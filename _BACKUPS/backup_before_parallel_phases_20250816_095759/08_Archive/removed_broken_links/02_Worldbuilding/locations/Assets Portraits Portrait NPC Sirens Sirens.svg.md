@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Sirens Sirens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc sirens sirenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

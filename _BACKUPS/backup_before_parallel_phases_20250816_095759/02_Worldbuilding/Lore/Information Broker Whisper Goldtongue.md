@@ -2,7 +2,7 @@
 
 title: [[Information Broker Whisper Goldtongue
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the admiral s gambit quest the admiral s gambitsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Admiral S Gambit Quest the Admiral S Gambit.svg
 type: npc

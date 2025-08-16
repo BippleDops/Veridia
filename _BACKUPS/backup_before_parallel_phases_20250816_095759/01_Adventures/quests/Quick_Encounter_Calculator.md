@@ -17,7 +17,7 @@ created: "2025-08-15T14:13:16.703716"
 
 ## XP Budget (4 players)
 ```dataview
-TABLE 
+TABLE
   level as "Level",
   (25 * level) as "Easy",
   (50 * level) as "Medium",

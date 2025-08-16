@@ -3,7 +3,7 @@
 title: Vault Backup 20250813 073007 06 GM Travel Encounter Sheets M L 05 the Dream
   Sovereign
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -32,7 +32,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -206,7 +206,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

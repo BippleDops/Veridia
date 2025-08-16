@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Listener S Code the Listener S Code.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the listener s code the listener s codesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

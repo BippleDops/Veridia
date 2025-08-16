@@ -8,7 +8,7 @@ population: ~300 researchers and support staff
 significance: Major (Convergence Research Center)
 size: Large Complex
 status: complete
-tags: 
+tags:
 - access/secret
 - complete
 - content/location

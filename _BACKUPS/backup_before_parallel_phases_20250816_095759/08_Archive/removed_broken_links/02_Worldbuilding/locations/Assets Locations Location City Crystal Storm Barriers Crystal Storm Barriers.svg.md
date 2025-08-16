@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Crystal Storm Barriers Crystal Storm Barriers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crystal storm barriers crystal storm
   barrierssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -190,7 +190,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

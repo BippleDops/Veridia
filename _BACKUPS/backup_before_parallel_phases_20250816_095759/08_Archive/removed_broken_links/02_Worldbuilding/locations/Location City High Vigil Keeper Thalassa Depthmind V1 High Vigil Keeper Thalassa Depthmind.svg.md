@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city high vigil keeper thalassa depthmind v1 high vigil keeper thalassa
   depthmindsvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City High Vigil Keeper Thalassa Depthmind V1 High Vigil Keeper Thalassa
   Depthmind.svg

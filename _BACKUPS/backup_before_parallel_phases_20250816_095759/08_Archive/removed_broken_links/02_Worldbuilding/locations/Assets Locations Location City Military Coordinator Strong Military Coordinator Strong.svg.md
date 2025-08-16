@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Military Coordinator Strong Military Coordinator
   Strong.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city military coordinator strong military
   coordinator strongsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

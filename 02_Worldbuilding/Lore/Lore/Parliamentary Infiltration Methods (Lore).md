@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Parliamentary Infiltration Methods
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

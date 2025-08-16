@@ -1,12 +1,12 @@
 ---
-aliases: 
+aliases:
 - location city the archive of unremembered things v1 the archive of unremembered
   thingssvg
 created: 2025-08-14
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Archive of Unremembered Things V1 the Archive of Unremembered
   Things.svg

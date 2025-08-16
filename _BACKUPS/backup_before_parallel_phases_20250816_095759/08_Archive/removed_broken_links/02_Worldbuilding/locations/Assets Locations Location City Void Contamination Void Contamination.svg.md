@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Void Contamination Void Contamination.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city void contamination void contaminationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

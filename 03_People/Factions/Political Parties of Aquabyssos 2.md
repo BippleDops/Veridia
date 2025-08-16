@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/faction
@@ -283,7 +283,7 @@ The TAP is controlled by Crystallium intelligence services to:
 **Support Base:** 3% - Citizens affected by temporal anomalies
 
 ### The Deep Mother's Chosen (DMC)
-**Platform:** Theocratic government guided by deep-sea religious revelations  
+**Platform:** Theocratic government guided by deep-sea religious revelations
 **Hidden Agenda:** Preparation for arrival of eldritch entities
 **Support Base:** 4% - Religious extremists and cultists
 
@@ -319,7 +319,7 @@ The TAP is controlled by Crystallium intelligence services to:
 - **Stability:** Medium - shadow infiltration creating hidden tensions
 
 #### The Prosperity Partnership
-- **Members:** Economic Prosperity Party + Technological Advancement Party  
+- **Members:** Economic Prosperity Party + Technological Advancement Party
 - **Seats:** 38 out of 150 (25%)
 - **Agenda:** Economic growth, technological development, international cooperation
 - **Stability:** Low - foreign control creating conflicting interests

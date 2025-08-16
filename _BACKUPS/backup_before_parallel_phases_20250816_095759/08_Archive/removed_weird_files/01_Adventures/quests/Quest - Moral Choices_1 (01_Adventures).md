@@ -76,7 +76,7 @@ Detailed description pending.
 
 - **Name**: Local authority figure
 - **Location**: Town center
-- **Motivation**: 
+- **Motivation**:
 *Sounds of [relevant sounds] echo in the distance.*Community safety ## Objectives
 
 ### Primary {#primary}

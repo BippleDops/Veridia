@@ -1,5 +1,5 @@
 ---
-connections: 
+connections:
 - '[[02_Worldbuilding/Lore/Queen Seraphina'
 - '[02_Worldbuilding/Places/Aethermoor]]'
 - '[[02_Worldbuilding/Lore/The Forgotten Isles'
@@ -8,7 +8,7 @@ connections:
 - '[02_Worldbuilding/Lore/Deep Mother]]'
 created: '2025-08-11'
 status: draft
-tags: 
+tags:
 - celestial_power
 - content/item
 - content/lore
@@ -20,7 +20,7 @@ tags:
 - mechanics/magic
 - royal_regalia
 - status/complete
-themes: 
+themes:
 - celestial_authority
 - sacrifice_of_rulers
 - stellar_alignment

@@ -1,6 +1,6 @@
 ---
 enhanced: true
-aliases: 
+aliases:
 - The Verdant Accordpng
 class: Unknown
 created: 2025-08-14
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: The Verdant Accord.png
 type: npc

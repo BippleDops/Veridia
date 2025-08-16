@@ -2,7 +2,7 @@
 
 title: [[Lighthouse Keeper Finn Deepbeacon
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Slave Markets of Tethys the Slave Markets
   of Tethys.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the slave markets of tethys the slave
   markets of tethyssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

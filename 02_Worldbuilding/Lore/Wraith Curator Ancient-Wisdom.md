@@ -2,7 +2,7 @@
 
 title: Wraith Curator Ancient Wisdom
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

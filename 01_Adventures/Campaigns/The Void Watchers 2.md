@@ -9,7 +9,7 @@ leader: '[02_Worldbuilding/Lore/The First Watcher]] (ancient entity)'
 members: ~200 across both realms and beyond
 purpose: Prevent reality collapse and dimensional instability
 status: complete
-tags: 
+tags:
 - both aethermoor & aquabyssos
 - complete
 - content/faction

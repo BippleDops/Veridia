@@ -2,7 +2,7 @@
 
 title: Crystal [[Merchants Guil
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

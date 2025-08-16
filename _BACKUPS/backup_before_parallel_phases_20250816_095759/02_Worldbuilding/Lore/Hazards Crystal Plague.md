@@ -2,7 +2,7 @@
 
 title: Hazards Crystal Plague
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

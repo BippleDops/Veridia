@@ -2,7 +2,7 @@
 
 title: Academy Mirror Researchers
 type: Faction
-tags: 
+tags:
 - academy
 - aquabyssos
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Equipment/Memory Restoration Devices
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

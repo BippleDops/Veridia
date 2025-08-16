@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memory keeper lament v1 memory keeper lamentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memory Keeper Lament V1 Memory Keeper Lament.svg
 type: location

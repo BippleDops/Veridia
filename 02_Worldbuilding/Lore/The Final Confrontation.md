@@ -2,7 +2,7 @@
 
 title: The Final Confrontation
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Chef Amara Tastecurrent Chef Amara Tastecurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chef amara tastecurrent chef amara tastecurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Reef Communities
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location
@@ -169,7 +169,7 @@ Ongoing situations affecting The Reef Communities:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

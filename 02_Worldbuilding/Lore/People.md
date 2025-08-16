@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -656,7 +656,7 @@ improvements: 20
 - [[The Final Merger
 - [The First Watcher]]
 - [[The Forgetting Bomb
-- 
+-
 - [The Forgotten Court]]
 - [[The Fortress of the Deeps
 - [The Free Traders Alliance]]
@@ -782,10 +782,10 @@ improvements: 20
 - [Unknown Contact]]
 - [[Update Indexes
 - [Valley of Eternal Mourning]]
-- 
-- 
-- 
-- 
+-
+-
+-
+-
 - [[Vault Prime
 - [Void Guardian Mantles]]
 - [[Void Magic
@@ -810,7 +810,7 @@ improvements: 20
 - [_03_Mechanics_CLI_bestiary_npc_velomachus-lorehold-scc]]
 - [[reports
 - [sphinx-of-lore-xmm]]
-- 
+-
 - [[yuan-ti-anathema-mpmm
 - [yuan-ti-malison-type-2-xmm]]
 - [[yuan-ti-malison-type-3-xmm

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the coral palace complex the coral palace complexsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Coral Palace Complex the Coral Palace Complex.svg
 type: location

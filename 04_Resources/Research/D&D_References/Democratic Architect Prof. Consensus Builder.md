@@ -2,7 +2,7 @@
 
 title: Democratic Architect Prof. Consensus Builder
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

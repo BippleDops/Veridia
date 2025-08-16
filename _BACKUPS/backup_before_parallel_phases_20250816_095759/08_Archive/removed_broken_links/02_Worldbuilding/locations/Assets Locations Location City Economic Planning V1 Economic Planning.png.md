@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Economic Planning V1 Economic Planning.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city economic planning v1 economic planningpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

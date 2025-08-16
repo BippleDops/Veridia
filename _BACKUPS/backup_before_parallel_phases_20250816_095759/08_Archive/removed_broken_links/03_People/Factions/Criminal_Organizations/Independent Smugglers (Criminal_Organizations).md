@@ -1,7 +1,7 @@
 ---
 title: Independent Smugglers
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

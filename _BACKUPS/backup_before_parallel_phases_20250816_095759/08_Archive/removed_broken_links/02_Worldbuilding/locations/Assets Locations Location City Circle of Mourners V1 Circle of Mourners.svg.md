@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Circle of Mourners V1 Circle of Mourners.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city circle of mourners v1 circle of mournerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -170,7 +170,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

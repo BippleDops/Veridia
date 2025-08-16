@@ -2,7 +2,7 @@
 
 title: [[Festival Ground|The Great [Festival Grounds]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

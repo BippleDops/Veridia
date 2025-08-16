@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city environmental monitor reef ecowatch v1 environmental monitor reef
   ecowatchsvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Environmental Monitor Reef Ecowatch V1 Environmental Monitor
   Reef Ecowatch.svg

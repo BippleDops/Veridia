@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master cultivator reef growstone master cultivator reef growstonesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Cultivator Reef Growstone Master Cultivator Reef Growstone.svg
 type: location

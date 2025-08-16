@@ -2,7 +2,7 @@
 
 title: [[Memory Manipulation Mechanics
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

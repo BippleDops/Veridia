@@ -2,7 +2,7 @@
 
 title: The Catastrophe - Hour by Hour
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

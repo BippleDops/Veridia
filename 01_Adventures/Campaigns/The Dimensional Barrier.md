@@ -1,7 +1,7 @@
 ---
 title: The Dimensional Barrier
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

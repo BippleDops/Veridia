@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich the
   Reality Sick Mayor Lord Quantum Aldrich.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the reality sick mayor lord quantum aldrich
   the reality sick mayor lord quantum aldrichsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -205,7 +205,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

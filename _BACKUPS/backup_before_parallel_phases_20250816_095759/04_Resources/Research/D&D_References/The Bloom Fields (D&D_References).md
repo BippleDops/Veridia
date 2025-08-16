@@ -2,7 +2,7 @@
 
 title: The Bloom Fields (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'
@@ -394,7 +394,7 @@ Working with Bloom Fields provides unique opportunities for character developmen
 - **[[Field Supervisor Coral Lightweaver**: Manager of daily field operations
 - **[Research Director Spectrum Bloomwright]]**: Leader of field research programs
 - **[[Community Organizer Current Communalspirit**: Leader of field worker communities
-- **[Conservation Director Ecosystem Protector]]**: Manager of field environmental protection The Bloom Fields represent the triumph of sustainable agriculture in the deep-sea environment, demonstrating that human civilization can thrive in harmony with natural ecosystems rather than in opposition to them. Through careful cultivation, scientific research, and community cooperation, these underwater gardens of light provide not only sustece for the body, but nourishment for the soul through their spectacular beauty and their representation of life's determination to create light even in the deepest darkness. ## Player-Facing Summary The Bloom Fields is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Bloom Fields as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Bloom Fields. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. 
+- **[Conservation Director Ecosystem Protector]]**: Manager of field environmental protection The Bloom Fields represent the triumph of sustainable agriculture in the deep-sea environment, demonstrating that human civilization can thrive in harmony with natural ecosystems rather than in opposition to them. Through careful cultivation, scientific research, and community cooperation, these underwater gardens of light provide not only sustece for the body, but nourishment for the soul through their spectacular beauty and their representation of life's determination to create light even in the deepest darkness. ## Player-Facing Summary The Bloom Fields is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Bloom Fields as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Bloom Fields. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Notes
 

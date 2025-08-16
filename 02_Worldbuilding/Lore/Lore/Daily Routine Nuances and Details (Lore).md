@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Daily Routine Nuances and Details
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

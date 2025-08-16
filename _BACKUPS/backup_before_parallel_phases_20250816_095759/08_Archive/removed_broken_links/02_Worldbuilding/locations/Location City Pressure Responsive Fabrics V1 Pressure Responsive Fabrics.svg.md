@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city pressure responsive fabrics v1 pressure responsive fabricssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Pressure Responsive Fabrics V1 Pressure Responsive Fabrics.svg
 type: location

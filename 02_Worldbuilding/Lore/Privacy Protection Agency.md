@@ -2,7 +2,7 @@
 
 title: Privacy Protection Agency
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

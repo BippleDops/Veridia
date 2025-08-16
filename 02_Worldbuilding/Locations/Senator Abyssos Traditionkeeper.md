@@ -2,7 +2,7 @@
 
 title: [[Senator Abyssos Traditionkeeper
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Trade Union Trade Union.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city trade union trade unionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

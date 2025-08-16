@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Theological Education V1 Theological Education.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city theological education v1 theological
   educationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

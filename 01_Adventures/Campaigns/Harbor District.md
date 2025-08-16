@@ -2,7 +2,7 @@
 
 title: Harbor District
 type: Location
-tags: 
+tags:
 - both
 - world/aquabyssos
 - harbor
@@ -193,13 +193,13 @@ The Harbor District serves as the beating heart of underwater commerce, where pr
 The Harbor Authority faces unprecedented challenges as surface world diplomatic pressure conflicts with underwater political independence movements. Three factions compete for control:
 
 **The Traditionalists**: Favor maintaining current mixed-operation systems and gradual integration
-**The Separatists**: Advocate for complete underwater independence and surface trade elimination  
+**The Separatists**: Advocate for complete underwater independence and surface trade elimination
 **The Integrationists**: Push for full cultural and economic merger between surface and underwater societies
 
 ### Economic Pressures
 Recent trade disputes have reduced shipping traffic by 30%, forcing difficult decisions about dock maintece, worker employment, and facility upgrades. The crisis affects every aspect of harbor life from basic services to major infrastructure projects.
 
-### Security Concerns  
+### Security Concerns
 Increased smuggling activity and foreign intelligence operations have necessitated enhanced security measures that conflict with traditional harbor openness and cultural exchange.
 
 ### Political Intrigue
@@ -310,7 +310,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

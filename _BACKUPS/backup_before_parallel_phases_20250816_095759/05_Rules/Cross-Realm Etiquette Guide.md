@@ -2,7 +2,7 @@
 
 title: Cross Realm Etiquette Guide
 type: [[Lore
-tags: 
+tags:
 - lore
 - mechanics/social
 - both

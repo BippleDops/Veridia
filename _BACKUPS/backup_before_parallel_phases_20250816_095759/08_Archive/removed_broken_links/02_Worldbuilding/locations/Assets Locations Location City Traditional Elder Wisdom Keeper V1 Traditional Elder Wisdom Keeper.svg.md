@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Traditional Elder Wisdom Keeper V1 Traditional
   Elder Wisdom Keeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city traditional elder wisdom keeper v1 traditional
   elder wisdom keepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

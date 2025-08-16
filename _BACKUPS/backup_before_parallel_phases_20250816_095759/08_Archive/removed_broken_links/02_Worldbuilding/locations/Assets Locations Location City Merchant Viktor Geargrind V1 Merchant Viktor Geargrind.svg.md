@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Merchant Viktor Geargrind V1 Merchant Viktor
   Geargrind.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant viktor geargrind v1 merchant
   viktor geargrindsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/[[Quests/The Green Death
 type: adventure
-tags: 
+tags:
 - adventure
 - quest
 created: '2025-08-14'

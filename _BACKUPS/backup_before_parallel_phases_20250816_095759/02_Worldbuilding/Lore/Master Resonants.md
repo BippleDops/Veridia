@@ -2,7 +2,7 @@
 
 title: [[Master_Resots|Master Resots
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

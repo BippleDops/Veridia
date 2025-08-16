@@ -2,7 +2,7 @@
 
 title: Security Quarters
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

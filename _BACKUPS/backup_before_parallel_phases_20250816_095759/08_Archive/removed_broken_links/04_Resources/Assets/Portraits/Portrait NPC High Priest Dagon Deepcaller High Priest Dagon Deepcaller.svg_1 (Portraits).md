@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high priest dagon deepcaller high priest dagon deepcallersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Priest Dagon Deepcaller High Priest Dagon Deepcaller.svg
 type: npc

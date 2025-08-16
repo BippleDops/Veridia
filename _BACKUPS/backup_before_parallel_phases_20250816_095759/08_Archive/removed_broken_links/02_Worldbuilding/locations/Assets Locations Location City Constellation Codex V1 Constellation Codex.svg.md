@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Constellation Codex V1 Constellation Codex.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city constellation codex v1 constellation
   codexsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

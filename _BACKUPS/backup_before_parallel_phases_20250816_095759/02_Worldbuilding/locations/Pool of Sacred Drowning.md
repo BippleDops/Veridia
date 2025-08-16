@@ -2,7 +2,7 @@
 
 title: Pool of Sacred Drowning
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

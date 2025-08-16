@@ -2,7 +2,7 @@
 
 title: The Royal Transformation
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Portrait NPC Corrupted Clients Corrupted Clients.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

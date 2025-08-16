@@ -2,7 +2,7 @@
 
 title: [[Marina the Unifier
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

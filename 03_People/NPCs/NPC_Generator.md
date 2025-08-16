@@ -7,7 +7,7 @@ created: "2025-08-15T14:13:16.703710"
 
 ## Instant NPC
 ```dataview
-TABLE 
+TABLE
   choice(["Human", "Elf", "Dwarf", "Halfling", "Dragonborn"]) as Race,
   choice(["Fighter", "Wizard", "Rogue", "Cleric", "Ranger"]) as Class,
   choice(["Friendly", "Neutral", "Hostile", "Suspicious"]) as Attitude,

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Void Touched Pilgrims Void Touched Pilgrims.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city void touched pilgrims void touched pilgrimssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

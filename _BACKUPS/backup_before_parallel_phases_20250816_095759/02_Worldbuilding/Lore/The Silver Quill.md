@@ -2,7 +2,7 @@
 
 title: The Silver Quill
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: [[Gm Session Packets [Aethermoor]] Session 01
 type: [[Lore
-tags: 
+tags:
 - lore
 - aethermoor
 - active

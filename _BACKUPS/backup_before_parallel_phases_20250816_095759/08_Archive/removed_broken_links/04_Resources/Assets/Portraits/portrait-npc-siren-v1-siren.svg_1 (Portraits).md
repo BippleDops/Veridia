@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc siren v1 sirensvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: portrait npc siren v1 siren.svg
 type: npc

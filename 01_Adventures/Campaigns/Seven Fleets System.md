@@ -2,7 +2,7 @@
 
 title: Seven Fleets System
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

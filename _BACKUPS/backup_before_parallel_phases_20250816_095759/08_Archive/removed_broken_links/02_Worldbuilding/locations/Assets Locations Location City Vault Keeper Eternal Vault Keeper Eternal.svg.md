@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Vault Keeper Eternal Vault Keeper Eternal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city vault keeper eternal vault keeper eternalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

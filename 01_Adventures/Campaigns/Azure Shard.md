@@ -2,7 +2,7 @@
 
 title: Azure Shard
 type: Npc
-tags: 
+tags:
 - status/complete
 - npc
 - content/lore
@@ -56,7 +56,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -508,7 +508,7 @@ Member of House Serpentblood - Trait: magical affinity
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

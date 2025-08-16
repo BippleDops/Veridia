@@ -2,7 +2,7 @@
 
 title: random-yuan-ti-servants-yuan-ti-agents-vgm (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

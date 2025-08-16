@@ -1,7 +1,7 @@
 ---
 title: Investigator Supreme Lucian Brightwater
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - stub
 - status/stub

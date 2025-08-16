@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City International Trade V1 International Trade.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city international trade v1 international
   tradesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

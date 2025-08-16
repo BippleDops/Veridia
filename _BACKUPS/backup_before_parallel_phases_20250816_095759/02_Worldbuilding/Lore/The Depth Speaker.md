@@ -2,7 +2,7 @@
 
 title: The Depth Speaker
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

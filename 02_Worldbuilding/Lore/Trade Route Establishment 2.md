@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - commerce
 - complete
@@ -75,7 +75,7 @@ The establishment of major trade routes transformed the maritime empire from iso
 **Seasonal Access**: Limited to warm season due to ice barriers
 
 #### Primary Trading Goods
-**Exports to North**: 
+**Exports to North**:
 - Kelp textiles and rope
 - Deep-sea pearls and ornaments
 - Fermented fish products

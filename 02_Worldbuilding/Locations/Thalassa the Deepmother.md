@@ -2,7 +2,7 @@
 
 title: Thalassa the Deepmother
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pressure Tube System Pressure Tube System.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure tube system pressure tube systemsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -183,7 +183,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

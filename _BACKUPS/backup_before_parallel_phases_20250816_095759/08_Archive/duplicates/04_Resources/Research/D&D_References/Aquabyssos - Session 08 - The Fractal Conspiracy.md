@@ -2,7 +2,7 @@
 
 title: Aquabyssos - Session 08 - The Fractal Conspiracy
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

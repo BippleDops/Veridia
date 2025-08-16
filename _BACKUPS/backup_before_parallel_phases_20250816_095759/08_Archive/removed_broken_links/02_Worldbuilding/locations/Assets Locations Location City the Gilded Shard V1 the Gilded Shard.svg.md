@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Gilded Shard V1 the Gilded Shard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the gilded shard v1 the gilded shardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -170,7 +170,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

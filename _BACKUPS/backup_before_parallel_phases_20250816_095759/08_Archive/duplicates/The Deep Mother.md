@@ -2,7 +2,7 @@
 
 title: The [[Deep Mother
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - session-notes

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city gallery of echoing truths v1 gallery of echoing truthssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Gallery of Echoing Truths V1 Gallery of Echoing Truths.svg
 type: location

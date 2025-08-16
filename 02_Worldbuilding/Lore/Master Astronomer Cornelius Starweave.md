@@ -2,7 +2,7 @@
 
 title: Master Astronomer Cornelius Starweave
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

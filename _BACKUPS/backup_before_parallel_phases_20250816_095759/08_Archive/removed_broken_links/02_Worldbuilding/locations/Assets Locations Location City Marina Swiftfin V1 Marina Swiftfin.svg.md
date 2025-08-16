@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Marina Swiftfin V1 Marina Swiftfin.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marina swiftfin v1 marina swiftfinsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

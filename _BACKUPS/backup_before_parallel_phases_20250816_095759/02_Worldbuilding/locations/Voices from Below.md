@@ -2,7 +2,7 @@
 
 title: Voices from Below
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

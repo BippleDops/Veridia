@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest breaking the scales v2 quest breaking the scalessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest Breaking the Scales V2 Quest Breaking the Scales.svg
 type: npc

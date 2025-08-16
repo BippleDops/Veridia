@@ -2,7 +2,7 @@
 
 title: Institute for Supernatural Health Studies (D&D_References)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

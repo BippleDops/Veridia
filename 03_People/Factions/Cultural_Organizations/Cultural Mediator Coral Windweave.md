@@ -2,7 +2,7 @@
 
 title: Cultural Mediator Coral Windweave
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

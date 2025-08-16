@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Diplomatic Quarter the Diplomatic Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the diplomatic quarter the diplomatic
   quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -190,7 +190,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: Prophecies and Omens
 type: prophecy
-tags: 
+tags:
 - prophecy
 - foreshadowing
 - divination

@@ -2,7 +2,7 @@
 
 title: Keeper of Secrets Whisper Darkhold
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

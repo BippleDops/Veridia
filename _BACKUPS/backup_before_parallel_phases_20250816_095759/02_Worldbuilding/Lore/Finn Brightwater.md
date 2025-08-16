@@ -2,7 +2,7 @@
 
 title: Finn Brightwater
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

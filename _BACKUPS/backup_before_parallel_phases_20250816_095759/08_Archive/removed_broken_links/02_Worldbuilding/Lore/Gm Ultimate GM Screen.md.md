@@ -1,10 +1,10 @@
 ---
 
 title: Gm [[Ultimate_GM_Screen]]
-aliases: 
+aliases:
 - 06 [[Gm Resources Ultimate GM Screenmd
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

@@ -2,7 +2,7 @@
 
 title: To Be Determined
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy
@@ -506,7 +506,7 @@ To Be Determined represents a crucial aspect of the world's history, cosmology, 
 - [[Assets Symbols Symbol Heraldry the Great Cacophony the Great Cacophony.svg
 - [Assets Symbols Symbol Heraldry the Great Recognition the Great Recognition.svg]]
 - [[Assets Symbols Symbol Heraldry the Great Resonance the Great Resonance.svg
-- 
+-
 - [Assets Symbols Symbol Heraldry the Shadow Crystal Synthesis the Shadow Crystal Synthesis.png]]
 - [[Assets Symbols Symbol Heraldry the Shattering the Shattering.svg
 - [Assets Symbols Symbol Heraldry the Stellar Confluence the Stellar Confluence.svg]]
@@ -536,8 +536,8 @@ To Be Determined represents a crucial aspect of the world's history, cosmology, 
 - [Sky_Lords_Worship]]
 - [[The Dream Shard
 - [The__Cathedral]]
-- 
-- 
+-
+-
 - [[_03_Mechanics_CLI_bestiary_humanoid_druid_xmm
 - [_03_Mechanics_CLI_bestiary_humanoid_duergar-warlord-mpmm]]
 - [[_03_Mechanics_CLI_bestiary_humanoid_lorehold-professor-of-chaos-scc

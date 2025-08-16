@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - Palace Guard Captain Neutralispng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - note
 title: Palace Guard Captain Neutralis.png
 type: location

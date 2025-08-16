@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Agricultural Provinces Agricultural Provinces.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry agricultural provinces agricultural
   provincessvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

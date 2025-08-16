@@ -2,7 +2,7 @@
 
 title: [[Merchant Shade Voidbargain
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

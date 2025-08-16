@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Emergency Life Support Research Foundation V1
   Emergency Life Support Research Foundation.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city emergency life support research foundation
   v1 emergency life support research foundationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

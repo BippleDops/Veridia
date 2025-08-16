@@ -2,7 +2,7 @@
 
 title: Aethermoor - Session 05 [[The Queens Madness
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city scribe master elena truthkeeper scribe master elena truthkeepersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Scribe Master Elena Truthkeeper Scribe Master Elena Truthkeeper.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Noble Quarter V1 Noble Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city noble quarter v1 noble quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

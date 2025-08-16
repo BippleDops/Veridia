@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master chronologist temporal truthkeeper v1 master chronologist temporal
   truthkeepersvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Chronologist Temporal Truthkeeper V1 Master Chronologist
   Temporal Truthkeeper.svg

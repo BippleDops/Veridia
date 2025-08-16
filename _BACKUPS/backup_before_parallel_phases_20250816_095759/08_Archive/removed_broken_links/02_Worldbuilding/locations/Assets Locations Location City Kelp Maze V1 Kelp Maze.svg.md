@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Kelp Maze V1 Kelp Maze.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city kelp maze v1 kelp mazesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

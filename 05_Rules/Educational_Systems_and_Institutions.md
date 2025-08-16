@@ -3,7 +3,7 @@ enhanced: true
 
 title: Educational Systems and Institutions
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

@@ -3,7 +3,7 @@ enhanced: true
 
 title: Trade Arbitrator Marina Fairwave
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'
@@ -72,7 +72,7 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [Floating Gardens]], [[Storm's Eye Tower
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
 
 ### Connection to Aquabyssos
@@ -84,5 +84,5 @@ This relates to the deep realm of Deepest ocean trenches and underwater kingdoms
 - **Current Conflict**: The Crushing Dark, Surface Wars
 - **Key Locations**: [[Abyssal Trenches, [Coral Throne]]
 
-In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens
 build cities of living coral and navigate by bioluminescent paths.

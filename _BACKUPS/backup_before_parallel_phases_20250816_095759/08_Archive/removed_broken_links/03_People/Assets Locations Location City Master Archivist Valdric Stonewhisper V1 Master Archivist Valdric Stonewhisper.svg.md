@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Archivist Valdric Stonewhisper V1 Master
   Archivist Valdric Stonewhisper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master archivist valdric stonewhisper
   v1 master archivist valdric stonewhispersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

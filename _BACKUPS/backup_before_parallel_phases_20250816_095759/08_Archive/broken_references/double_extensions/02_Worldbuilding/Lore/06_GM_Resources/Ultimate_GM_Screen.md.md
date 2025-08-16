@@ -2,7 +2,7 @@
 
 title: 06_GM_Resources/Ultimate_GM_Screen.md
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

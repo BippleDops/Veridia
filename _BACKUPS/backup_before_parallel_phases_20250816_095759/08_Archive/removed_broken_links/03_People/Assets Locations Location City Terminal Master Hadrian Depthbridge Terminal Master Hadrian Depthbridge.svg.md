@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Terminal Master Hadrian Depthbridge Terminal
   Master Hadrian Depthbridge.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city terminal master hadrian depthbridge
   terminal master hadrian depthbridgesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: Sister Morwyn Veilkeeper
 type: NPC
-tags: 
+tags:
 - character
 - both
 - active
@@ -41,7 +41,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -192,7 +192,7 @@ Legends speak of Sister Morwyn Veilkeeper as a nexus where past and present conv
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

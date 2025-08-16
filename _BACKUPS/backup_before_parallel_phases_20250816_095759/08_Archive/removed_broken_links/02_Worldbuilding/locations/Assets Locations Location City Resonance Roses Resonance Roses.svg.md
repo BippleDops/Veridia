@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Resoce Roses Resoce Roses.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city resoce roses resoce rosessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

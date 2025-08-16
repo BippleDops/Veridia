@@ -1,10 +1,10 @@
 ---
-accessibility: 
-  content_warnings: 
+accessibility:
+  content_warnings:
   - political coercion
   - environmental hazards
   pronunciation: The Great Drowning
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door
@@ -14,7 +14,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/location
@@ -57,7 +57,7 @@ Concentric zones of crystallized water orbit the maelstrom at various depths:
 ### The Temporal Distortion Field
 Time flows differently near the Great Drowning:
 - **Outer Edge**: 1 hour = 61 minutes external time
-- **Middle Zone**: 1 hour = 2 hours external time  
+- **Middle Zone**: 1 hour = 2 hours external time
 - **Inner Spiral**: 1 hour = 1 day external time
 - **Event Horizon**: Time becomes non-linear
 

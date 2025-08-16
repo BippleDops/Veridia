@@ -2,7 +2,7 @@
 
 title: Border Castles
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

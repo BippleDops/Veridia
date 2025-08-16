@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Luminous Laboratory District V1 Luminous Laboratory
   District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city luminous laboratory district v1 luminous
   laboratory districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

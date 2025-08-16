@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the emperor s memories v1 the emperor s memoriessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Emperor S Memories V1 the Emperor S Memories.svg
 type: npc

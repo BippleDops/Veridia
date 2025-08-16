@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the deep mother s truth v1 quest the deep mother s truthsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Deep Mother S Truth V1 Quest the Deep Mother S Truth.svg
 type: npc

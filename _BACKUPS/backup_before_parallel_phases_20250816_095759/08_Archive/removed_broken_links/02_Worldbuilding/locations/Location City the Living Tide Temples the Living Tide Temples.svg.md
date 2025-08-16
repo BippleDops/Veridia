@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the living tide temples the living tide templessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Living Tide Temples the Living Tide Temples.svg
 type: location

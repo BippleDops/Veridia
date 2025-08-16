@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc deep sea explorer captain abyss deep sea explorer captain abysssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Deep Sea Explorer Captain Abyss Deep Sea Explorer Captain Abyss.svg
 type: npc

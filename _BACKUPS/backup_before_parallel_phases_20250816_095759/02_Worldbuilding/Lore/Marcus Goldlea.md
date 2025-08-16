@@ -2,7 +2,7 @@
 
 title: Marcus Goldlea
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/npc

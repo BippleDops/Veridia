@@ -2,7 +2,7 @@
 
 title: Depth Pressure Rings
 type: Item
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - mechanics/magic
@@ -96,43 +96,43 @@ improvements: 20
 Depth Pressure Rings represent one of the most fundamental and widely-used magical items in Aquabyssos, providing essential protection against the crushing pressures of deep-ocean environments. These simple but vital rings allow surface-dwelling races to survive and thrive in the underwater cities and deep-sea locations that comprise most of Aquabyssos civilization. So common and necessary are these rings that they're considered as essential as clothing in underwater society, with variants available for every social class and economic level.
 
 #### The Ring Shortage
-**Level**: 3-7  
-**Hook**: Sudden shortage of pressure rings creates social crisis  
-**Investigation**: Discover whether shortage is natural or artificially created  
-**Stakes**: Without rings, surface dwellers cannot safely live in underwater cities  
-**Complexity**: Multiple potential causes from supply disruption to sabotage  
+**Level**: 3-7
+**Hook**: Sudden shortage of pressure rings creates social crisis
+**Investigation**: Discover whether shortage is natural or artificially created
+**Stakes**: Without rings, surface dwellers cannot safely live in underwater cities
+**Complexity**: Multiple potential causes from supply disruption to sabotage
 **Resolution**: Restore ring supply while addressing root causes of shortage
 
 #### The Counterfeit Crisis
-**Level**: 5-9  
-**Hook**: Defective counterfeit rings causing injuries and deaths  
-**Mystery**: Track down source of dangerous fake rings  
-**Danger**: More counterfeits in circulation than initially believed  
-**Investigation**: Navigate criminal networks and corrupt officials  
+**Level**: 5-9
+**Hook**: Defective counterfeit rings causing injuries and deaths
+**Mystery**: Track down source of dangerous fake rings
+**Danger**: More counterfeits in circulation than initially believed
+**Investigation**: Navigate criminal networks and corrupt officials
 **Resolution**: Stop counterfeiters while protecting public from defective products
 
 #### The Master's Last Ring
-**Level**: 7-11  
-**Hook**: Legendary ring crafter's final masterwork has gone missing  
-**Importance**: Ring contains revolutionary new enchantments  
-**Competition**: Multiple factions seek the ring for different reasons  
-**Adventure**: Race against competing groups to find ring first  
+**Level**: 7-11
+**Hook**: Legendary ring crafter's final masterwork has gone missing
+**Importance**: Ring contains revolutionary new enchantments
+**Competition**: Multiple factions seek the ring for different reasons
+**Adventure**: Race against competing groups to find ring first
 **Choice**: Decide who deserves access to potentially game-changing technology
 
 #### The Depth Walker
-**Level**: 9-13  
-**Hook**: Someone is traveling to impossible depths without any visible protection  
-**Mystery**: Investigate how individual survives crushing pressures  
-**Discovery**: Person has developed natural pressure resistance through unknown means  
-**Implications**: Discovery could revolutionize underwater exploration  
+**Level**: 9-13
+**Hook**: Someone is traveling to impossible depths without any visible protection
+**Mystery**: Investigate how individual survives crushing pressures
+**Discovery**: Person has developed natural pressure resistance through unknown means
+**Implications**: Discovery could revolutionize underwater exploration
 **Consequences**: Various factions want to exploit or protect this individual
 
 #### The Ring War
-**Level**: 12-16  
-**Hook**: Trade war between ring-producing guilds threatens entire economy  
-**Politics**: Navigate complex relationships between manufacturing groups  
-**Stakes**: Disruption could collapse Aquabyssos's ability to function underwater  
-**Diplomacy**: Mediate between legitimate competing interests  
+**Level**: 12-16
+**Hook**: Trade war between ring-producing guilds threatens entire economy
+**Politics**: Navigate complex relationships between manufacturing groups
+**Stakes**: Disruption could collapse Aquabyssos's ability to function underwater
+**Diplomacy**: Mediate between legitimate competing interests
 **Resolution**: Find compromise that preserves both competition and cooperation
 
 ## Player-Facing Summary

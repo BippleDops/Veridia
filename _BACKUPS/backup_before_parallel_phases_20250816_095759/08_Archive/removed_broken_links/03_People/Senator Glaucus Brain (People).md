@@ -2,7 +2,7 @@
 
 title: Senator Glaucus Brain
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -94,7 +94,7 @@ Current Reputation: **Respected but Declining**
 
 ### Speech Patterns
 **Accent/Dialect**: Formal Parliamentary procedure speak with depth-echo
-**Favorite Phrases**: 
+**Favorite Phrases**:
 - "The Parliament recognizes the distinguished..."
 - "For the stability of the depths..."
 - "Order! We must maintain order!"
@@ -156,7 +156,7 @@ Current Reputation: **Respected but Declining**
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

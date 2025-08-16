@@ -2,7 +2,7 @@
 
 title: Portrait NPC Gareth Ironforge V2 Gareth Ironforge.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

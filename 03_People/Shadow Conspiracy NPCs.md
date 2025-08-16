@@ -6,7 +6,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Shadow Conspiracy NPCs
 type: npc
@@ -155,4 +155,4 @@ ___
 ## References
 
 - [[Campaign_Overview (Shadow_Conspiracy)]]
-- 
+-

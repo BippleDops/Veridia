@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc deep mother priestess sira v2 deep mother priestess sirasvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Deep Mother Priestess Sira V2 Deep Mother Priestess Sira.svg
 type: npc

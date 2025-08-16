@@ -1,10 +1,10 @@
 ---
 title: New Tethys
-aliases: 
+aliases:
 - The Glass City
 - The First Refuge
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

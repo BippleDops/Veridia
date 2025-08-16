@@ -2,7 +2,7 @@
 
 title: [[Aquabyssos Depth Caste System
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - world/aquabyssos

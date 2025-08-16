@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Port Meridian Merchant Quarter V1 Port Meridian
   Merchant Quarter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city port meridian merchant quarter v1 port
   meridian merchant quartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

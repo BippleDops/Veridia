@@ -2,7 +2,7 @@
 
 title: The Forgetting Cult
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

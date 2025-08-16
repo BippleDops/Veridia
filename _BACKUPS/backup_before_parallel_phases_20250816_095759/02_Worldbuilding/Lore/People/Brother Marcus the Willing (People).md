@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Brother Marcus the Willing
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

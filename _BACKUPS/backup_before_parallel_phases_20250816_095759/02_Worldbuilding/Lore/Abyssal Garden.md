@@ -2,7 +2,7 @@
 
 title: Abyssal Garden
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

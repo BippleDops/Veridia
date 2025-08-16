@@ -2,7 +2,7 @@
 
 title: The Recursion Nexus
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - prophecy

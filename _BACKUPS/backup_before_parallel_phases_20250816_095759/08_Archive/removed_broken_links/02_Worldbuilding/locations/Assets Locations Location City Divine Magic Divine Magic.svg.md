@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Divine Magic Divine Magic.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city divine magic divine magicsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -174,7 +174,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

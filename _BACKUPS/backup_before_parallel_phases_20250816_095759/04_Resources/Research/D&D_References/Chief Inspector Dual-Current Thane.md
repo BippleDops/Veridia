@@ -2,7 +2,7 @@
 
 title: Chief Inspector Dual-Current Thane
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

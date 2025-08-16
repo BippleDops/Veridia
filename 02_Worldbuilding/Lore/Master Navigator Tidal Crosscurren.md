@@ -2,7 +2,7 @@
 
 title: Master Navigator Tidal Crosscurren
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

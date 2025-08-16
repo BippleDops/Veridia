@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Captain Echo Captain Echo.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city captain echo captain echosvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -194,7 +194,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

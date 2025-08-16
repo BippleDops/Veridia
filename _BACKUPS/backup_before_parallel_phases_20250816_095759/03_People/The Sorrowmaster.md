@@ -2,7 +2,7 @@
 
 title: The Sorrowmaster
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -33,19 +33,19 @@ improvements: 20
 
 *Medium humanoid (deep merfolk), lawful evil*
 
-**Armor Class** 18 (Robes of the Grave + Natural Armor)  
-**Hit Points** 165 (`dice: `dice: 15d8`` + 90)  
+**Armor Class** 18 (Robes of the Grave + Natural Armor)
+**Hit Points** 165 (`dice: `dice: 15d8`` + 90)
 **Speed** 30 ft., swim 60 ft.
 
 **STR** 12 (+1) **DEX** 14 (+2) **CON** 22 (+6) **INT** 18 (+4) **WIS** 20 (+5) **CHA** 16 (+3)
 
-**Saving Throws** Int +10, Wis +11  
-**Skills** Arcana +10, History +10, Insight +11, Medicine +17, Religion +16  
-**Damage Resistances** Cold, Necrotic  
-**Damage Immunities** Charmed, Frightened (while conscious)  
-**Senses** Darkvision 120 ft., passive Perception 15  
-**Languages** Common, Aquabyssan, Abyssal, Celestial, telepathy 60 ft.  
-**Challenge Rating** 15 (13,000 XP)  
+**Saving Throws** Int +10, Wis +11
+**Skills** Arcana +10, History +10, Insight +11, Medicine +17, Religion +16
+**Damage Resistances** Cold, Necrotic
+**Damage Immunities** Charmed, Frightened (while conscious)
+**Senses** Darkvision 120 ft., passive Perception 15
+**Languages** Common, Aquabyssan, Abyssal, Celestial, telepathy 60 ft.
+**Challenge Rating** 15 (13,000 XP)
 **Proficiency Bonus** +5
 
 ## 🔧 Deep Evaluation Improvements
@@ -215,7 +215,7 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 
 **Voice**: Speaks in a soft, hypnotic whisper that somehow carries clearly underwater. His words are carefully chosen and often sound like funeral orations or religious benedictions.
 
-**Speaking Patterns**: 
+**Speaking Patterns**:
 - "In death, all things find their true purpose..."
 - "The living fear what they do not understand..."
 - "Grief is but love with nowhere to go..."
@@ -330,7 +330,7 @@ Mentioned in The Second Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

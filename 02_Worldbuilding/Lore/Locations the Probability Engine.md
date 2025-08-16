@@ -2,7 +2,7 @@
 
 title: [[locations the Probability Engine
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

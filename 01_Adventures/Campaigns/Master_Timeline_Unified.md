@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - timeline
   - history
   - lore

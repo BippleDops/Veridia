@@ -2,7 +2,7 @@
 
 title: Observatory Network Nodes
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

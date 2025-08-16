@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc emperor abyssal the deep sighted v1 emperor abyssal the deep sightedsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Emperor Abyssal the Deep Sighted V1 Emperor Abyssal the Deep Sighted.svg
 type: npc

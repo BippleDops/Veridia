@@ -2,7 +2,7 @@
 
 title: The Resot Hermit
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

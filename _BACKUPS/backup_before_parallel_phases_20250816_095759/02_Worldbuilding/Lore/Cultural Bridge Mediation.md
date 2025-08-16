@@ -2,7 +2,7 @@
 
 title: Cultural Bridge Mediation
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

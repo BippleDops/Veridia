@@ -2,7 +2,7 @@
 
 title: S-004_Cloud_Canyon
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

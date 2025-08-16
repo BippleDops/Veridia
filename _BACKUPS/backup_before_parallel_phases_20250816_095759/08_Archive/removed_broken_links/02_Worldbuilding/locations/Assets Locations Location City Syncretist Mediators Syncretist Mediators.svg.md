@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Syncretist Mediators Syncretist Mediators.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city syncretist mediators syncretist mediatorssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Pressure Baptism Rites
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - religion
@@ -24,7 +24,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-connections: 
+connections:
 - '[[Deep Mother|[Deep Mother]] Cult Practices]]'
 - '[[Kelp Forest|[Kelp Forest Monasteries]]'
 - '[[Temple of the First Tide'
@@ -33,7 +33,7 @@ connections:
 - '[Aquabyssos Depth Caste System]]'
 - '[[Tidal Memory Ceremonies'
 created_by: cultural-expansion
-themes: 
+themes:
 - pressure_initiation
 - depth_transformation
 - underwater_baptism
@@ -235,7 +235,7 @@ Specialized baptism for those entering underwater military service, incorporatin
 **Academic Deep Immersion**
 Modified baptism for researchers and academics who need depth adaptation for scholarly work:
 - Extended time for meditation and spiritual revelation
-- Access to rare texts and artifacts housed in 
+- Access to rare texts and artifacts housed in
 - Connection with scholarly communities in the deepest [[Libraries
 - Enhanced spiritual preparation for handling dangerous knowledge
 
@@ -431,7 +431,7 @@ Mentioned in The First Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

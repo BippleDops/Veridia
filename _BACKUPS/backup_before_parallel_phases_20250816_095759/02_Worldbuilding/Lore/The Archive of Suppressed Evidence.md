@@ -1,7 +1,7 @@
 ---
 title: The Archive of Suppressed Evidence
 type: [[Lore
-tags: 
+tags:
 - lore
 - both worlds
 - content/lore

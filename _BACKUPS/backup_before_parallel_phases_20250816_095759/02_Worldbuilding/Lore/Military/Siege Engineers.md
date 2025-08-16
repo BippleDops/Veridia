@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Military/Siege Engineers
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -123,7 +123,7 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

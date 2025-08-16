@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lady dawn pureheart v2 lady dawn pureheartsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lady Dawn Pureheart V2 Lady Dawn Pureheart.svg
 type: npc

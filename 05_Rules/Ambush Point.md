@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/[[Quests/Ambush Point
 type: adventure
-tags: 
+tags:
 - adventure
 - quest
 - conspiracy

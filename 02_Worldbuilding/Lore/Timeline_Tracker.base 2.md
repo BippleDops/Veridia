@@ -2,7 +2,7 @@
 created: '2025-08-08'
 created_by: auto-stub
 status: complete
-tags: 
+tags:
 - chronology
 - content/item
 - content/lore

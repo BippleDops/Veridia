@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Keeper Finn Goodtide V1 Keeper Finn Goodtide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper finn goodtide v1 keeper finn
   goodtidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -185,7 +185,7 @@ Key locations marked:
 - **Undead**: lich
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 15
-  
+
 ### Environmental Hazards
 - Poisonous gas
 - **DC 20** to detect
@@ -203,7 +203,7 @@ Key locations marked:
 - **Recent History**: Festival 49 years ago
 - **Living Memory**: Murder last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Arrival in 14 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: Links to The Hidden Prophecy of Shadows

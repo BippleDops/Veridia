@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc emperor thalassius the wise v2 emperor thalassius the wisesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Emperor Thalassius the Wise V2 Emperor Thalassius the Wise.svg
 type: npc

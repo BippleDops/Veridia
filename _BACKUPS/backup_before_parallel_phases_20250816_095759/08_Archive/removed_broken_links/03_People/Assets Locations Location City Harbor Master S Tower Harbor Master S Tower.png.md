@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Harbor Master S Tower Harbor Master S Tower.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city harbor master s tower harbor master
   s towerpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

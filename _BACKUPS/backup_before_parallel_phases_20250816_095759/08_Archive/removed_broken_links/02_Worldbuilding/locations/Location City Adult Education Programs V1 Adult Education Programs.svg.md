@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city adult education programs v1 adult education programssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Adult Education Programs V1 Adult Education Programs.svg
 type: location

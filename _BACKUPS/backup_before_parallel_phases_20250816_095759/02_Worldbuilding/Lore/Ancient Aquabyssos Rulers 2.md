@@ -1,13 +1,13 @@
 ---
 created: '2025-08-09'
 historical_accuracy: Mix of verified records and recovered myths
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning'
 - '[02_Worldbuilding/Places/Parliament of Echoes]]'
 - '[[02_Worldbuilding/People/Emperor Thalassius the Wise'
 - '[02_Worldbuilding/Places/The Bathyal Palace]]'
 status: draft
-tags: 
+tags:
 - aquabyssos
 - campaign/arc
 - content/lore

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Perfect Symbiosis V1 the Perfect Symbiosis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the perfect symbiosis v1 the perfect
   symbiosissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

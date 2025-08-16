@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Feast Saltyflavor V1 Feast Saltyflavor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city feast saltyflavor v1 feast saltyflavorsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -215,7 +215,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

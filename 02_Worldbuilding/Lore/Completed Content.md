@@ -2,7 +2,7 @@
 
 title: Completed Content
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

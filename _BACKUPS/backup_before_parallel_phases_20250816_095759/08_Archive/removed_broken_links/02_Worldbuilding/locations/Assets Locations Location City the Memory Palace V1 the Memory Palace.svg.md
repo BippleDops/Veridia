@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Memory Palace V1 the Memory Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the memory palace v1 the memory palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

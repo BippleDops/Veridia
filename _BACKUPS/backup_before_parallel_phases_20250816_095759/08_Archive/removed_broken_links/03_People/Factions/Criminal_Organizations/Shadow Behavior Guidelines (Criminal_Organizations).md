@@ -2,7 +2,7 @@
 
 title: Shadow Behavior Guidelines
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - self-regulation

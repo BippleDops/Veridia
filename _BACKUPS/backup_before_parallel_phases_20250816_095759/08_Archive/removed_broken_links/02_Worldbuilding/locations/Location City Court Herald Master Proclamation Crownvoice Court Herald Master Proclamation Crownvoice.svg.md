@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city court herald master proclamation crownvoice court herald master proclamation
   crownvoicesvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Court Herald Master Proclamation Crownvoice Court Herald Master
   Proclamation Crownvoice.svg

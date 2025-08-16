@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Grief Harvester Melancholy V1 Grief Harvester
   Melancholy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city grief harvester melancholy v1 grief
   harvester melancholysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -210,7 +210,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

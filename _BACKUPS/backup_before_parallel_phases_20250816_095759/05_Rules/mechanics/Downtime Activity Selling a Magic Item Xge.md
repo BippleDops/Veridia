@@ -2,7 +2,7 @@
 
 title: Downtime Activity Selling a Magic Item Xge
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

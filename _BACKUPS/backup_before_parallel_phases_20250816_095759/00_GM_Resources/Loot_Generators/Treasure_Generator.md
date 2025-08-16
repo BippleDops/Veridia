@@ -74,7 +74,7 @@
 
 **10 gp gems:**
 1. Azurite
-2. Agate  
+2. Agate
 3. Quartz
 4. Obsidian
 

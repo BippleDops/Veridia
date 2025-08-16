@@ -2,7 +2,7 @@
 
 title: [[The Pressure Forges
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: [[Resoce Chamber
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - active

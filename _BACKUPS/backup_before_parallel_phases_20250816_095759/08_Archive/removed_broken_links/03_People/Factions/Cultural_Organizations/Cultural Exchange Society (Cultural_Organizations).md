@@ -2,7 +2,7 @@
 
 title: Cultural Exchange Society
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

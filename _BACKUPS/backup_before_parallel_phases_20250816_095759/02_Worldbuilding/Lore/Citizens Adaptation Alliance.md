@@ -2,7 +2,7 @@
 
 title: Citizens Adaptation Alliance
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

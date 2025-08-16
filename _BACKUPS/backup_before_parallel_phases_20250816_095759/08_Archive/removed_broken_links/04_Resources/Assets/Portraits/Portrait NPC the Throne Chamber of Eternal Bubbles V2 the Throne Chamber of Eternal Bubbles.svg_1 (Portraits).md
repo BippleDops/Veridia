@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the throne chamber of eternal bubbles v2 the throne chamber of eternal
   bubblessvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Throne Chamber of Eternal Bubbles V2 the Throne Chamber of
   Eternal Bubbles.svg

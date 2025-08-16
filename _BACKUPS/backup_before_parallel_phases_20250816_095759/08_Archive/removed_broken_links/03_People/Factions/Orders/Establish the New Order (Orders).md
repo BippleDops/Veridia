@@ -2,7 +2,7 @@
 
 title: Establish the New Order
 type: Faction
-tags: 
+tags:
 - status/complete
 - content/faction
 - faction
@@ -19,7 +19,7 @@ headquarters: Unknown
 membership: Unknown
 MyCategory: Revolutionary Political Movement
 MyContainer: '[[Lumengarde'
-benefits: 
+benefits:
 - reward: Access to crystal stabilization techniques and unified goverce training
   standing: 1
 - reward: Advanced reality anchor technology and regional leadership opportunities
@@ -28,17 +28,17 @@ benefits:
   standing: 3
 created_by: expansion
 faction: The Restoration Movement
-initiates: 
+initiates:
 - New Order Recruits
 - Reality Stabilization Trainees
 - Unity Doctrine Students
 leader: The Architect of Order
-members: 
+members:
 - Order Initiates
 - Crystal Wardens Reformed
 - Sky Island Unificationists
 obsidianUIMode: preview
-officers: 
+officers:
 - Commander Thrace Ironwood
 - Aria Lumengarde
 - Brother Marcus Steelbane
@@ -417,7 +417,7 @@ Mentioned in The Second Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

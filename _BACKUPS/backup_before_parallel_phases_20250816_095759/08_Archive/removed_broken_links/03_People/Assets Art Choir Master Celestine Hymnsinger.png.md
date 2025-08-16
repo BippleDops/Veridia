@@ -1,10 +1,10 @@
 ---
 
 title: Assets Art Choir Master Celestine Hymnsinger.png
-aliases: 
+aliases:
 - 04 Resources Assets Art Places Choir Master Celestine Hymnsingerpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

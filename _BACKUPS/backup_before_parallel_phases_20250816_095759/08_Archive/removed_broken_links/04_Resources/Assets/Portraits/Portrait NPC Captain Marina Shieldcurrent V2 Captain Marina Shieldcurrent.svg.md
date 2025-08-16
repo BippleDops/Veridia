@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain marina shieldcurrent v2 captain marina shieldcurrentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Marina Shieldcurrent V2 Captain Marina Shieldcurrent.svg
 type: npc

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Coral Gardens District Coral Gardens District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral gardens district coral gardens
   districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -172,7 +172,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

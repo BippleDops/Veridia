@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Social Clubs Social Clubs.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city social clubs social clubssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

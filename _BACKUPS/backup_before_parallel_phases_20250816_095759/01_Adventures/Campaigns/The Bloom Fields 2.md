@@ -9,7 +9,7 @@ ecological_status: Thriving
 seasonal_variation: Bioluminescent Tide Cycles
 significance: Critical Ecosystem
 status: complete
-tags: 
+tags:
 - aquabyssos
 - aquatic-ecology
 - complete

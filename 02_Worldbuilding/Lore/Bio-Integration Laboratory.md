@@ -2,7 +2,7 @@
 
 title: Bio Integration Laboratory
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

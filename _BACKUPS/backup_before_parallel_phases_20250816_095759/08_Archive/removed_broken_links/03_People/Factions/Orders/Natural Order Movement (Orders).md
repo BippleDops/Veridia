@@ -2,7 +2,7 @@
 
 title: Natural Order Movement
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

@@ -2,7 +2,7 @@
 
 title: Treatments [[Synthesis Consciousness Transfer
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

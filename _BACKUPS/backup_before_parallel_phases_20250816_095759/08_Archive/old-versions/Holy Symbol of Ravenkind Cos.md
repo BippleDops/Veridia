@@ -2,7 +2,7 @@
 
 title: Holy Symbol of Ravenkind Cos
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: [[Embassy of Emptiness
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

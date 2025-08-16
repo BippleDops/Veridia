@@ -2,7 +2,7 @@
 
 title: Factions the Order of the Veil
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

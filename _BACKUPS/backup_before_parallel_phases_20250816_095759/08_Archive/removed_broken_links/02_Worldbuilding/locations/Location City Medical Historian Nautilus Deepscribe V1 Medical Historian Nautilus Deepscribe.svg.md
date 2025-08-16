@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city medical historian nautilus deepscribe v1 medical historian nautilus
   deepscribesvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Medical Historian Nautilus Deepscribe V1 Medical Historian Nautilus
   Deepscribe.svg

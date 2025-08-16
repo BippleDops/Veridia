@@ -2,7 +2,7 @@
 
 title: Scholars of Divine Lore (D&D_References)
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

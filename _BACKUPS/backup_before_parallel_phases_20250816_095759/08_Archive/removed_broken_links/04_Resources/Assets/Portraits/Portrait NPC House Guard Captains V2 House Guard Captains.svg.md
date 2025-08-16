@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc house guard captains v2 house guard captainssvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC House Guard Captains V2 House Guard Captains.svg
 type: npc

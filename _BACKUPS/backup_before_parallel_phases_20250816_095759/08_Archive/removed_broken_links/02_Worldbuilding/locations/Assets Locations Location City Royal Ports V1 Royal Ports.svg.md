@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Royal Ports V1 Royal Ports.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city royal ports v1 royal portssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Healer's Persecution
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

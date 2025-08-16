@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Void Prophet us the Erased V1 Void Prophet us
   the Erased.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city void prophet us the erased v1 void prophet
   us the erasedsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

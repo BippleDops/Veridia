@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city temple of the dawn temple of the dawnsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Temple of the Dawn Temple of the Dawn.svg
 type: location

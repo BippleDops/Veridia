@@ -2,7 +2,7 @@
 
 title: The Eternal Senate
 type: [[location
-tags: 
+tags:
 - both
 - status/complete
 - content/faction
@@ -30,7 +30,7 @@ current_state: Active undead parliament
 danger_level: 7
 depth: 2200-2400 feet
 discovered: true
-factions: 
+factions:
 - '[[Senator|The Original [Senators]]'
 - '[[Shadow Replacements'
 - '[The Transcended]]'
@@ -38,7 +38,7 @@ factions:
 government: Undead Parliamentary Democracy
 location_name: The Eternal Senate Chamber
 location_type: Undead Parliamentary Complex
-notable_[Npc]]s: 
+notable_[Npc]]s:
 - '[[People
   Speaker]]'
 - '[[Senator Glaucus'
@@ -49,14 +49,14 @@ parent_location: '[Parliament of Echoes]]'
 pressure_effects: Moderate
 ruler: '[[People
   Eternal Speaker]]'
-services: 
+services:
 - Legislative Sessions
 - Undead Rights Advocacy
 - Eternal Citizenship Services
 - Spectral Legal Consultation
 - Death Transition Counseling
 shadow_density: High
-sub_locations: 
+sub_locations:
 - '[[The Spectral Gallery'
 - '[Chamber of Eternal Debate]]'
 - '[[The Voting Crypts'

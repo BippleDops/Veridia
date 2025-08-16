@@ -3,7 +3,7 @@ enhanced: true
 
 title: DM_Session_Navigator
 type: session
-tags: 
+tags:
 - combat
 - session
 

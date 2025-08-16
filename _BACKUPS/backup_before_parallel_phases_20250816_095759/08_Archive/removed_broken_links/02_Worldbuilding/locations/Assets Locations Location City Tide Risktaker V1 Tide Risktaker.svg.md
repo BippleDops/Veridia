@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tide Risktaker V1 Tide Risktaker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tide risktaker v1 tide risktakersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

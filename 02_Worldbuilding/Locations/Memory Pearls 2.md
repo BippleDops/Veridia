@@ -8,7 +8,7 @@ item_type: Memory Storage Consumable
 rarity: Uncommon to Legendary (varies by content)
 requires_attunement: 'No'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - consumable
@@ -52,7 +52,7 @@ Memory Pearls represent the pinnacle of [02_Worldbuilding/Places/Memory Farmers]
 - **Content**: Complete memories with full sensory and emotional detail
 - **Availability**: Rare but obtainable through specialized dealers
 
-#### Standard Pearls (Rare)  
+#### Standard Pearls (Rare)
 - **Surface**: Generally smooth with minor imperfections
 - **Glow**: Moderate luminescence, occasionally dims or brightens
 - **Resonance**: Noticeable warmth and slight vibration
@@ -84,7 +84,7 @@ Memory Pearls represent the pinnacle of [02_Worldbuilding/Places/Memory Farmers]
 
 #### Combat Training (Rare)
 - **Content**: Veteran warrior's battle experience and tactical knowledge
-- **Duration**: 1 week of enhanced combat ability  
+- **Duration**: 1 week of enhanced combat ability
 - **Effect**: +2 to attack rolls with specific weapon type
 - **Examples**: Sword techniques, archery precision, mounted combat
 - **Market Value**: 300-800 gold pieces per pearl
@@ -108,7 +108,7 @@ Memory Pearls represent the pinnacle of [02_Worldbuilding/Places/Memory Farmers]
 - **Content**: Memories of overcoming great fear or adversity
 - **Duration**: 1 week of enhanced willpower
 - **Effect**: Advantage on Wisdom saves, immunity to being frightened
-- **Examples**: Standing up to tyrants, protecting loved ones, facing death bravely  
+- **Examples**: Standing up to tyrants, protecting loved ones, facing death bravely
 - **Market Value**: 500-1200 gold pieces per pearl
 
 #### Wisdom and Enlightenment (Very Rare)
@@ -330,43 +330,43 @@ Memory Pearls represent the pinnacle of [02_Worldbuilding/Places/Memory Farmers]
 ## Adventure Applications
 ### Quest Hooks
 #### The Memory Thief
-**Level**: 5-10  
-**Hook**: Someone is stealing memories directly from people's minds and crystallizing them  
-**Investigation**: Track down illegal memory harvesting operation  
-**Revelation**: Victims are left with gaps in their personal history  
-**Moral Complexity**: Some victims voluntarily traded away painful memories  
+**Level**: 5-10
+**Hook**: Someone is stealing memories directly from people's minds and crystallizing them
+**Investigation**: Track down illegal memory harvesting operation
+**Revelation**: Victims are left with gaps in their personal history
+**Moral Complexity**: Some victims voluntarily traded away painful memories
 **Resolution**: Stop thief while deciding whether to restore stolen memories
 
 #### The False Prophet
-**Level**: 8-13  
-**Hook**: Religious leader claims divine visions but is actually using fabricated memory pearls  
-**Discovery**: Prophet's "miracles" come from consuming exotic experience pearls  
-**Challenge**: Expose fraud without destroying followers' genuine faith  
-**Investigation**: Trace source of fraudulent divine experience pearls  
+**Level**: 8-13
+**Hook**: Religious leader claims divine visions but is actually using fabricated memory pearls
+**Discovery**: Prophet's "miracles" come from consuming exotic experience pearls
+**Challenge**: Expose fraud without destroying followers' genuine faith
+**Investigation**: Trace source of fraudulent divine experience pearls
 **Stakes**: False prophet's actions could start religious war or social uprising
 
 #### The Living Archive
-**Level**: 10-15  
-**Hook**: Ancient library's memory pearl collection has achieved collective consciousness  
-**Mystery**: Pearls begin acting independently, rearranging themselves  
-**Discovery**: Stored memories have merged into gestalt intelligence  
-**Communication**: Entity offers vast knowledge in exchange for freedom  
+**Level**: 10-15
+**Hook**: Ancient library's memory pearl collection has achieved collective consciousness
+**Mystery**: Pearls begin acting independently, rearranging themselves
+**Discovery**: Stored memories have merged into gestalt intelligence
+**Communication**: Entity offers vast knowledge in exchange for freedom
 **Choice**: Release potentially dangerous memory collective or contain it
 
 #### The Memory Wars
-**Level**: 12-17  
-**Hook**: Two nations fight over control of memory pearl trade routes  
-**Complexity**: Each side has legitimate claims and grievances  
-**Espionage**: Infiltrate memory farming operations to gather intelligence  
-**Diplomacy**: Negotiate peace while powerful interests profit from conflict  
+**Level**: 12-17
+**Hook**: Two nations fight over control of memory pearl trade routes
+**Complexity**: Each side has legitimate claims and grievances
+**Espionage**: Infiltrate memory farming operations to gather intelligence
+**Diplomacy**: Negotiate peace while powerful interests profit from conflict
 **Resolution**: Find solution that addresses root causes of memory trade disputes
 
 #### The Last Memory
-**Level**: 15-20  
-**Hook**: Final pearl containing memory of preventing ancient catastrophe must be found  
-**Urgency**: Signs indicate catastrophe is beginning to repeat  
-**Competition**: Multiple factions racing to claim the crucial memory  
-**Corruption**: Pearl's power may corrupt whoever uses it  
+**Level**: 15-20
+**Hook**: Final pearl containing memory of preventing ancient catastrophe must be found
+**Urgency**: Signs indicate catastrophe is beginning to repeat
+**Competition**: Multiple factions racing to claim the crucial memory
+**Corruption**: Pearl's power may corrupt whoever uses it
 **Epic Choice**: Risk personal destruction to save world using dangerous memory
 
 ### Campaign Integration

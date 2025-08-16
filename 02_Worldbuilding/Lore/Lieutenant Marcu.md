@@ -2,7 +2,7 @@
 
 title: Lieutet Marcu
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

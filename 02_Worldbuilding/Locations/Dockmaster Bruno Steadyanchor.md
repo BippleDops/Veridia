@@ -2,7 +2,7 @@
 
 title: Dockmaster Bruno Steadyanchor
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - world/aquabyssos
@@ -442,7 +442,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

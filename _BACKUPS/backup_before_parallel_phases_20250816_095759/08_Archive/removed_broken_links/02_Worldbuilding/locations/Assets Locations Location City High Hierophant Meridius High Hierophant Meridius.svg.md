@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City High Hierophant Meridius High Hierophant Meridius.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city high hierophant meridius high hierophant
   meridiussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

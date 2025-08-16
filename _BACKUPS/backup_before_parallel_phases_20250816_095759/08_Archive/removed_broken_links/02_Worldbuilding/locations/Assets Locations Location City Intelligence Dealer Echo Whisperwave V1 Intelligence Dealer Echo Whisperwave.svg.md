@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Intelligence Dealer Echo Whisperwave V1 Intelligence
   Dealer Echo Whisperwave.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city intelligence dealer echo whisperwave
   v1 intelligence dealer echo whisperwavesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

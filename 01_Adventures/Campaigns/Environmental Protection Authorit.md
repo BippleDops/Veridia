@@ -2,7 +2,7 @@
 
 title: Environmental Protection Authorit
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

@@ -2,7 +2,7 @@
 
 title: physical-variations-type-4-malison-lower-body-vgm
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

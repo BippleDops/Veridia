@@ -1,9 +1,9 @@
 ---
 title: Assets Locations Location City the Archive Keepers V1 the Archive Keepers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the archive keepers v1 the archive keeperssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Island of Screams.jpg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

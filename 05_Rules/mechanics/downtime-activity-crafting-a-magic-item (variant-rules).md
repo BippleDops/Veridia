@@ -2,7 +2,7 @@
 
 title: downtime-activity-crafting-a-magic-item (variant-rules)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

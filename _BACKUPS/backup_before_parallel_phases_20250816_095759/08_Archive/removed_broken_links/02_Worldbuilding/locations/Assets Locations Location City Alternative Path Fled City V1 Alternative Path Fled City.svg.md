@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Alternative Path Fled City V1 Alternative Path
   Fled City.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city alternative path fled city v1 alternative
   path fled citysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

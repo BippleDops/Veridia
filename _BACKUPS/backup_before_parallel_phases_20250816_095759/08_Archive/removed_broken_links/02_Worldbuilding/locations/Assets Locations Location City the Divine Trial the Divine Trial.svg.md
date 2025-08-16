@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Divine Trial the Divine Trial.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the divine trial the divine trialsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Liminal Trading Company
 type: Faction
-tags: 
+tags:
 - status/complete
 - world/aquabyssos
 - content/faction

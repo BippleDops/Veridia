@@ -2,7 +2,7 @@
 
 title: [[Crystal Palace|The [Crystal Palace]]   [[Throne Room
 type: [location]]
-tags: 
+tags:
 - both
 - quest
 - world/both

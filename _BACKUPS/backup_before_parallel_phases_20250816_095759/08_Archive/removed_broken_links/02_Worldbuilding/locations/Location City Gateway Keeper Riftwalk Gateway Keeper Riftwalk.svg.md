@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city gateway keeper riftwalk gateway keeper riftwalksvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Gateway Keeper Riftwalk Gateway Keeper Riftwalk.svg
 type: location

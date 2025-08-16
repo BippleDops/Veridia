@@ -1,7 +1,7 @@
 ---
 title: [[Corallion
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - aquatic

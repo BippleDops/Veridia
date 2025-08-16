@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Brother Matthias Inkdrinker Brother Matthias
   Inkdrinker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city brother matthias inkdrinker brother
   matthias inkdrinkersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

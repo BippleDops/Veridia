@@ -2,7 +2,7 @@
 
 title: The [[Tethyan Hegemony
 type: [Lore]]
-tags: 
+tags:
 - ancient-civilizations
 - [[Aquabyssos
 - lore
@@ -450,7 +450,7 @@ Intelligence [[reports suggest that a significant portion of the Tethyan Navy wa
 
 While Aquabyssos is the most visible successor to the Tethyan Hegemony, at least three other civilizations claim direct descent from the empire. These hidden kingdoms may possess different aspects of Tethyan knowledge and technology, potentially making them powerful [Allies]] or dangerous rivals.
 
-### The 
+### The
 
 Beneath the ruins of the Crystal Palace lies a vast underground complex containing the complete records of the Tethyan Hegemony. These archives allegedly include detailed plans for rebuilding the empire, advanced magical techniques, and intelligence on threats from other dimensions. Access to these archives is restricted by both magical barriers and government secrecy.
 

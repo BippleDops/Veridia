@@ -2,7 +2,7 @@
 
 title: Academy of War Science
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

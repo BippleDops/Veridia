@@ -2,7 +2,7 @@
 
 title: Surgeon [[Coral Precisehands
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

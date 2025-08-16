@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc agent whisper voidheart agent whisper
   voidheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Tools [[Tools Dual State Sensors|Dual State Sensors
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

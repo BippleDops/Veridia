@@ -1,12 +1,12 @@
 ---
 created: '2025-08-12'
 magnitude: 5
-primary_sessions: 
+primary_sessions:
 - 'Session 08: Between Two Worlds'
 - 'Session 09: The Price of Unity'
 - 'Session 10: The Deep Mother Rises'
 status: complete
-tags: 
+tags:
 - campaign/arc
 - content/lore
 - convergence-event

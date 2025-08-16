@@ -4,14 +4,14 @@ created: '2025-08-11'
 danger_level: High
 depth: 200-2000 feet underground
 location_type: Underground Crystal Formation
-notable_resources: 
+notable_resources:
 - Pure Aether Crystals
 - Crystal Songs
 - Memory Crystals
 - Corrupted Shards
 parent_location: '[[02_Worldbuilding/Places/The Sundered Peaks]]'
 status: complete
-tags: 
+tags:
 - both
 - caverns
 - complete

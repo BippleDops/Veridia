@@ -2,7 +2,7 @@
 
 title: Community Organizer Current Communalspirit
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

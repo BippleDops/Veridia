@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Surface Expert Grainwise Surface Expert Grainwise.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface expert grainwise surface expert
   grainwisesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -203,7 +203,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

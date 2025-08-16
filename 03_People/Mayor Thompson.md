@@ -2,7 +2,7 @@
 
 title: Mayor Thompson
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -46,23 +46,23 @@ improvements: 20
 
 *Medium humanoid (human), lawful evil*
 
-**Armor Class** 15 (Studded Leather +1, Ring of Protection)  
-**Hit Points** 58 (`dice: `dice: 8d8`` + 24)  
+**Armor Class** 15 (Studded Leather +1, Ring of Protection)
+**Hit Points** 58 (`dice: `dice: 8d8`` + 24)
 **Speed** 30 ft., swim 20 ft. (magical boots)
 
 **STR** 12 (+1) **DEX** 16 (+3) **CON** 16 (+3) **INT** 15 (+2) **WIS** 13 (+1) **CHA** 18 (+4)
 
-**Saving Throws** Dex +6, Cha +7  
-**Skills** Deception +10, Insight +4, Investigation +5, Persuasion +10, Sleight of Hand +6  
-**Damage Resistances** Cold (from years underwater)  
-**Senses** Passive Perception 11  
-**Languages** Common, Aquabyssan, Primordial, Thieves' Cant  
-**Challenge Rating** 6 (2,300 XP)  
+**Saving Throws** Dex +6, Cha +7
+**Skills** Deception +10, Insight +4, Investigation +5, Persuasion +10, Sleight of Hand +6
+**Damage Resistances** Cold (from years underwater)
+**Senses** Passive Perception 11
+**Languages** Common, Aquabyssan, Primordial, Thieves' Cant
+**Challenge Rating** 6 (2,300 XP)
 **Proficiency Bonus** +3
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -204,7 +204,7 @@ Thompson is not a warrior and avoids direct confrontation whenever possible. His
 ### Personality in Action
 **Voice**: Loud, jovial, with a surface accent he tries to hide when talking to nobility. Frequently interrupts himself with hearty laughs and uses merchant cant when discussing business.
 
-**Mannerisms**: 
+**Mannerisms**:
 - Constantly adjusts his gold tooth with his tongue when nervous
 - Rubs his hands together when discussing profitable deals
 - Slaps people on the back and offers drinks to everyone
@@ -214,7 +214,7 @@ Thompson is not a warrior and avoids direct confrontation whenever possible. His
 
 Under Thompson's leadership, Drift Harbor has become a study in contrasts:
 
-**Public Face**: 
+**Public Face**:
 - Thriving commercial district with bustling markets
 - New civic improvements and public works projects
 - Regular cultural festivals that boost tourism
@@ -222,7 +222,7 @@ Under Thompson's leadership, Drift Harbor has become a study in contrasts:
 
 **Hidden Reality**:
 - Widespread corruption in all levels of government
-- Organized crime operating with official protection  
+- Organized crime operating with official protection
 - Slavery and human trafficking disguised as "employment services"
 - Environmental destruction ignored in favor of profitable ventures
 
@@ -313,7 +313,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

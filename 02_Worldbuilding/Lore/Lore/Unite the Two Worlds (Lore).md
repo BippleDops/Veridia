@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Unite the Two Worlds
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

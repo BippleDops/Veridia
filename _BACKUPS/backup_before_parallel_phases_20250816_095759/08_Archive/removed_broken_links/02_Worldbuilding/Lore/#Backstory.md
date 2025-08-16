@@ -1,7 +1,7 @@
 ---
 title: '#Backstory'
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper of contracts minerva bindingword keeper of contracts minerva
   bindingwordsvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper of Contracts Minerva Bindingword Keeper of Contracts Minerva
   Bindingword.svg

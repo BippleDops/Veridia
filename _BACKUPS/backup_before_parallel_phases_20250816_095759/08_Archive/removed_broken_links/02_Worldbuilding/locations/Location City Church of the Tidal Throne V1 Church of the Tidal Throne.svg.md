@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city church of the tidal throne v1 church of the tidal thronesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Church of the Tidal Throne V1 Church of the Tidal Throne.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: Mind Surgeon Dr Forget Me Always
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

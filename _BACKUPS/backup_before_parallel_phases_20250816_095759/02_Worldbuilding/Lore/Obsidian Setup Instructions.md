@@ -2,7 +2,7 @@
 
 title: Obsidian Setup Instructions
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

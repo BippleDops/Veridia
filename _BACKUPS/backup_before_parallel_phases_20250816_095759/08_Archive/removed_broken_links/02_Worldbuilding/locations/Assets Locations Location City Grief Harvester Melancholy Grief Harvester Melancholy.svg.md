@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city grief harvester melancholy grief harvester
   melancholysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

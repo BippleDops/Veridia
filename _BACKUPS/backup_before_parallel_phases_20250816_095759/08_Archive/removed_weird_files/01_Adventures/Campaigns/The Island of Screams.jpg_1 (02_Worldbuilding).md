@@ -1,9 +1,9 @@
 ---
 title: The Island of Screams.jpg
-aliases: 
+aliases:
 - 02 Worldbuilding Lore The Island of Screamsjpg
 type: lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

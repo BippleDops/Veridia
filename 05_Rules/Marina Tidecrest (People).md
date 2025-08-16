@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Marina Tidecrest
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

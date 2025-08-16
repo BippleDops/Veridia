@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the deepest current v1 quest the deepest currentsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Deepest Current V1 Quest the Deepest Current.svg
 type: npc

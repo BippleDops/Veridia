@@ -2,7 +2,7 @@
 
 title: [[Royal Palace of Meridian
 type: [location]]
-tags: 
+tags:
 - status/complete
 - royal
 - content/faction

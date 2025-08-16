@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Abyssos Prime Pressure Terminal Abyssos Prime
   Pressure Terminal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city abyssos prime pressure terminal abyssos
   prime pressure terminalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

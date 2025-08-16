@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the free current movement v1 the free current movementsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Free Current Movement V1 the Free Current Movement.svg
 type: npc

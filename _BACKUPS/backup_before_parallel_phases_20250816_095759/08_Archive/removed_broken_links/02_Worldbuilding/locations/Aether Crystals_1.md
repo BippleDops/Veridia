@@ -2,7 +2,7 @@
 
 title: Aether Crystals
 type: Item
-tags: 
+tags:
 - seven-shards-connected
 - status/complete
 - mechanics/magic
@@ -94,43 +94,43 @@ improvements: 20
 Aether Crystals represent Aethermoor's revolutionary approach to currency—magical energy crystallized into stable, portable forms that serve both as medium of exchange and actual magical power source. Unlike traditional coinage, these crystals contain genuine magical energy that can be consumed for spellcasting, powering magical devices, or enhancing magical research. The crystal-based economy reflects Aethermoor's mastery of [The Seven Shards]] energies and has transformed how magical societies approach both commerce and arcane practice.
 
 #### The Crystal Conspiracy
-**Level**: 6-11  
-**Hook**: Counterfeit crystals flooding market threaten entire economic system  
-**Investigation**: Track source of sophisticated counterfeits  
-**Discovery**: Organized crime syndicate with inside access to government facilities  
-**Complexity**: Some counterfeit crystals are actually superior to genuine ones  
+**Level**: 6-11
+**Hook**: Counterfeit crystals flooding market threaten entire economic system
+**Investigation**: Track source of sophisticated counterfeits
+**Discovery**: Organized crime syndicate with inside access to government facilities
+**Complexity**: Some counterfeit crystals are actually superior to genuine ones
 **Stakes**: Economic collapse could destabilize entire realm's government
 
 #### The Shard Resoce
-**Level**: 8-13  
-**Hook**: All crystals in region begin resonating and overcharging simultaneously  
-**Mystery**: Investigate connection to [[The Seven Shards]] activity  
-**Danger**: Overcharged crystals explode, causing widespread damage  
-**Discovery**: Ancient Shard fragment awakening and calling to crystallized energies  
+**Level**: 8-13
+**Hook**: All crystals in region begin resonating and overcharging simultaneously
+**Mystery**: Investigate connection to [[The Seven Shards]] activity
+**Danger**: Overcharged crystals explode, causing widespread damage
+**Discovery**: Ancient Shard fragment awakening and calling to crystallized energies
 **Resolution**: Safely contain or relocate awakening Shard without destroying economy
 
 #### The Crystal Cartel
-**Level**: 10-15  
-**Hook**: Merchant consortium attempts to monopolize crystal production  
-**Politics**: Navigate complex web of legitimate business and criminal activity  
-**Opposition**: Wealthy and influential enemies with government connections  
-**Method**: Economic warfare, sabotage, and political manipulation  
+**Level**: 10-15
+**Hook**: Merchant consortium attempts to monopolize crystal production
+**Politics**: Navigate complex web of legitimate business and criminal activity
+**Opposition**: Wealthy and influential enemies with government connections
+**Method**: Economic warfare, sabotage, and political manipulation
 **Choice**: Preserve free market or allow monopoly if it benefits greater good
 
 #### The Living Currency
-**Level**: 12-17  
-**Hook**: Prime-grade crystals develop sentience and begin making demands  
-**Philosophy**: Explore rights of artificial magical intelligences  
-**Consequences**: Sentient crystals refuse to be "spent" or consumed  
-**Negotiation**: Establish relationship between humans and crystal consciousness  
+**Level**: 12-17
+**Hook**: Prime-grade crystals develop sentience and begin making demands
+**Philosophy**: Explore rights of artificial magical intelligences
+**Consequences**: Sentient crystals refuse to be "spent" or consumed
+**Negotiation**: Establish relationship between humans and crystal consciousness
 **Impact**: Fundamental changes to economic system and magical theory
 
 #### The Crystal War
-**Level**: 15-20  
-**Hook**: Foreign invasion specifically targeting crystal production facilities  
-**Epic Scope**: Defend entire economic foundation of civilization  
-**Strategy**: Protect key facilities while maintaining production  
-**Innovation**: Develop new defensive applications for crystal technology  
+**Level**: 15-20
+**Hook**: Foreign invasion specifically targeting crystal production facilities
+**Epic Scope**: Defend entire economic foundation of civilization
+**Strategy**: Protect key facilities while maintaining production
+**Innovation**: Develop new defensive applications for crystal technology
 **Victory**: Successful defense transforms Aethermoor into magical superpower
 
 ## Player-Facing Summary

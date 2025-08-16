@@ -2,7 +2,7 @@
 
 title: Brother Matthias the Amber Bearer
 type: Npc
-tags: 
+tags:
 - status/complete
 - unknowing-bearer
 - seven-shards
@@ -52,7 +52,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -125,22 +125,22 @@ Brother Matthias is one of the most zealous and effective members of the [[Puris
 ### Brother Matthias the Amber Bearer
 *Medium humanoid (human, shard-bearer), lawful good*
 
-**Armor Class** 20 (Plate Armor +2, Shield +1)  
-**Hit Points** 195 (`dice: `dice: 23d10`` + 69)  
+**Armor Class** 20 (Plate Armor +2, Shield +1)
+**Hit Points** 195 (`dice: `dice: 23d10`` + 69)
 **Speed** 30 ft.
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
 20 (+5) | 12 (+1) | 16 (+3) | 14 (+2) | 18 (+4) | 19 (+4)
 
-**Saving Throws** Str +12, Con +10, Wis +11, Cha +11  
-**Skills** Athletics +12, Insight +11, Intimidation +11, Medicine +11, Perception +11, Religion +9  
-**Damage Resistances** Radiant, Force (Amber Shard influence)  
-**Damage Immunities** Charmed, Frightened, Crystal Corruption  
-**Condition Immunities** Exhaustion (Shard sustains him)  
-**Senses** Detect corruption 120 ft., passive Perception 21  
-**Languages** Common, Celestial (believes it's divine blessing)  
-**Challenge Rating** 15 (13,000 XP)  
+**Saving Throws** Str +12, Con +10, Wis +11, Cha +11
+**Skills** Athletics +12, Insight +11, Intimidation +11, Medicine +11, Perception +11, Religion +9
+**Damage Resistances** Radiant, Force (Amber Shard influence)
+**Damage Immunities** Charmed, Frightened, Crystal Corruption
+**Condition Immunities** Exhaustion (Shard sustains him)
+**Senses** Detect corruption 120 ft., passive Perception 21
+**Languages** Common, Celestial (believes it's divine blessing)
+**Challenge Rating** 15 (13,000 XP)
 **Proficiency Bonus** +5
 
 ### Special Abilities
@@ -217,19 +217,19 @@ The [[The Seven Shards grants Matthias powers he doesn't understand:
 ### The Amber Prophecy (Misinterpreted)
 *"The foundation stone shall not be moved, though heaven and earth pass away. In the bearer of earth's strength lies the anchor that keeps the divine from scattering to the winds. But beware - for even the strongest stone may crack if it bears too great a weight."*
 
-**Matthias's Interpretation**: Divine mandate to remain steadfast in faith  
+**Matthias's Interpretation**: Divine mandate to remain steadfast in faith
 **True Meaning**: The Amber Shard serves as reality anchor during Convergence
 
 ### The Vision of Unity
 *"Seven lights become one, and in that unity, judgment falls upon the corrupt. The righteous shall stand in golden light while the wicked burn in crystal fire."*
 
-**Matthias's Interpretation**: Divine prophecy of Purist Coalition victory  
+**Matthias's Interpretation**: Divine prophecy of Purist Coalition victory
 **True Meaning**: Vision of Shard reunification and its consequences
 
 ### The Dream of the Child
 *"A child of gold shall speak words that either heal or damn all creation. The bearer of earth's strength must choose - protect the innocent or preserve the cause."*
 
-**Matthias's Interpretation**: Test of faith involving protecting worthy children  
+**Matthias's Interpretation**: Test of faith involving protecting worthy children
 **True Meaning**: His future choice regarding [Gareth Goldenheart, The Chosen Vessel]]
 
 ### Current Divine "Guidance"
@@ -367,7 +367,7 @@ Legends speak of Brother Matthias the Amber Bearer as a nexus where past and pre
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

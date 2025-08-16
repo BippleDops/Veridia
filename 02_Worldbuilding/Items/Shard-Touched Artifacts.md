@@ -2,7 +2,7 @@
 
 title: Shard-Touched Artifacts
 type: item
-tags: 
+tags:
 - item
 - armor
 - legendary

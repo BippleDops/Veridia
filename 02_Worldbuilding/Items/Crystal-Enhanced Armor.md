@@ -2,7 +2,7 @@
 
 title: Crystal-Enhanced Armor
 type: item
-tags: 
+tags:
 - item
 - ring
 - rare
@@ -113,7 +113,7 @@ Crystal-Enhanced Armor is a mysterious ring that radiates divine energy.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

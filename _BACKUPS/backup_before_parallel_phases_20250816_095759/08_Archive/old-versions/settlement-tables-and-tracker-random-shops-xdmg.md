@@ -2,7 +2,7 @@
 
 title: settlement-tables-and-tracker-random-shops-xdmg
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

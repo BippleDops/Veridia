@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Last Words V1 the Last Words.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the last words v1 the last wordssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

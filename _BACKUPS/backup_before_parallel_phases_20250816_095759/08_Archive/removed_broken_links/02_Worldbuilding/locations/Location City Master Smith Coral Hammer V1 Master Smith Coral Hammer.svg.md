@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city master smith coral hammer v1 master smith coral hammersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Master Smith Coral Hammer V1 Master Smith Coral Hammer.svg
 type: location

@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry the Deepwater Trading Consortium the Deepwater
   Trading Consortium.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the deepwater trading consortium the
   deepwater trading consortiumsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

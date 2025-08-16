@@ -2,7 +2,7 @@
 
 title: Heart of Eternal Vigilance
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

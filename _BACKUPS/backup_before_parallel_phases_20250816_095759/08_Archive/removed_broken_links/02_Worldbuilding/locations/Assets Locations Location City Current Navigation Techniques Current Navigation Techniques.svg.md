@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Current Navigation Techniques Current Navigation
   Techniques.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city current navigation techniques current
   navigation techniquessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

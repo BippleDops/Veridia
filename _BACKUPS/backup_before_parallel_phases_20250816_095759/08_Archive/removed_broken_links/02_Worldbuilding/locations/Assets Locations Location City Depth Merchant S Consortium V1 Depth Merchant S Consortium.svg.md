@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Depth Merchant S Consortium V1 Depth Merchant
   S Consortium.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city depth merchant s consortium v1 depth
   merchant s consortiumsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

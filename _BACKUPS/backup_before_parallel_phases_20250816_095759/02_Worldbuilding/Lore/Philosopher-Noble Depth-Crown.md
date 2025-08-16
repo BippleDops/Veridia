@@ -2,7 +2,7 @@
 
 title: Philosopher Noble Depth Crown
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

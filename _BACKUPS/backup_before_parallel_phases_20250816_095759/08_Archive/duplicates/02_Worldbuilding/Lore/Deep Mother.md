@@ -2,7 +2,7 @@
 
 title: Deep Mother
 type: [[Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - cosmic-entity
@@ -327,7 +327,7 @@ The origins of this lore trace back through the ages, influenced by major events
 - [The Great Convergence Prophecies]]
 - [[The Queen
 - [Timeline of the Drowning]]
-- 
+-
 - [[Emperor Thalassius the Wise
 - [Shadow Broker Mist]]
 - [[The Seven Seals

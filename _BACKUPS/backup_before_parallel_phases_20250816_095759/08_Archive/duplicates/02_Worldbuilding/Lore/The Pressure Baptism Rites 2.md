@@ -1,5 +1,5 @@
 ---
-connections: 
+connections:
 - '[[02_Worldbuilding/Lore/Deep Mother Cult Practices'
 - '[02_Worldbuilding/Lore/Kelp Forest Monasteries]]'
 - '[[02_Worldbuilding/Lore/Temple of the First Tide'
@@ -10,7 +10,7 @@ connections:
 created: '2025-08-11'
 created_by: cultural-expansion
 status: complete
-tags: 
+tags:
 - aquabyssos
 - baptism
 - ceremony
@@ -22,7 +22,7 @@ tags:
 - spiritual-transformation
 - status/complete
 - world/aquabyssos
-themes: 
+themes:
 - pressure_initiation
 - depth_transformation
 - underwater_baptism

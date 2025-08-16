@@ -2,7 +2,7 @@
 
 title: creating-npcs-from-scratch-npc-features (tables)
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

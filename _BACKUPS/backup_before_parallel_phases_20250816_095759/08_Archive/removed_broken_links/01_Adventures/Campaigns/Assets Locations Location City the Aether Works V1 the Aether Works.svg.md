@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Aether Works V1 the Aether Works.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the aether works v1 the aether workssvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor

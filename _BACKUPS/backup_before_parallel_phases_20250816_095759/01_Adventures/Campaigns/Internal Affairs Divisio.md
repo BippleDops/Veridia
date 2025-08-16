@@ -2,7 +2,7 @@
 
 title: Internal Affairs Divisio
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

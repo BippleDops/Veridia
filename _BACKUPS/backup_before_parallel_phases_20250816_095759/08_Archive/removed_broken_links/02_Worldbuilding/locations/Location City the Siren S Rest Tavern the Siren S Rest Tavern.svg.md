@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the siren s rest tavern the siren s rest tavernsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Siren S Rest Tavern the Siren S Rest Tavern.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: Order of the Drowned Star
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction
@@ -110,7 +110,7 @@ The Order played a crucial role in the civil wars that established the current [
 Each Star-Bearer oversees a different aspect of the Order and is identified by a unique bioluminescent pattern:
 
 1. **Navigator-Star [[Thalassa the Pathfinder**: Routes and exploration
-2. **War-Star [Brother Pelagios Irondeep]]**: Military training and strategy  
+2. **War-Star [Brother Pelagios Irondeep]]**: Military training and strategy
 3. **Keeper-Star [[Sister Benthos Scrollheart**: Knowledge and archives
 4. **Builder-Star [Master Craftsman Hydros]]**: Observatories and equipment
 5. **Depth-Star [[Chaplain Abyssos the Deepseeke**: Spiritual guidance and rituals
@@ -143,7 +143,7 @@ Serving as neutral mediators between factions, using their strategic value to ma
 The Order provides navigation and strategic intelligence to the Preservation Current's fleet, while receiving political protection and funding. Many Order knights serve as officers in Preservation Current vessels.
 
 #### [[Ambassador Korvin Blacktide
-**Relationship**: Diplomatic Cooperation  
+**Relationship**: Diplomatic Cooperation
 The Order's navigation expertise is crucial for maintaining contact with the surface world. In exchange, they receive updates on surface astronomical observations and star-charts.
 
 #### Independent Depth Merchants
@@ -163,7 +163,7 @@ While both groups are militaristic, the Resurgent Tide sees the Order's desire t
 The Order requires Void Touched expertise for their deepest observations, but fears their influence. Some joint expeditions have been successful, but trust remains limited.
 
 #### [[Aquabyssos World Overview
-**Relationship**: Selective Loyalty  
+**Relationship**: Selective Loyalty
 The Order serves the legitimate government but maintains independence through their strategic value. Some Council members seek to control them, others prefer their neutrality.
 
 ### Primary Base: The Sunken Observatory
@@ -179,11 +179,11 @@ Located in the ruins of the Royal Academy of Celestial Sciences, this massive fa
 #### The Navigation Posts
 Seven fortified observatories positioned at key depth transitions:
 1. **Polaris Station**: Northernmost outpost, monitoring ice-flow patterns
-2. **Meridian Deep**: Central navigation hub for merchant routes  
+2. **Meridian Deep**: Central navigation hub for merchant routes
 3. **The Southern Cross**: Defensive installation guarding Hadean approach routes
 4. **Twilight Watch**: Border monitoring station near surface zones
 5. **The Compass Rose**: Training facility for new navigators
-6. **Void's Edge**: Deepest installation, studying Hadean phenomena  
+6. **Void's Edge**: Deepest installation, studying Hadean phenomena
 7. **The Anchor Point**: Strategic reserve base and emergency command center
 
 #### The Hidden Lights
@@ -196,7 +196,7 @@ Secret installations throughout Aquabyssos that serve as safe houses, supply cac
 
 3. **The Surface Observatory**: Establish a secret observation post on the surface to coordinate with the Order's deep installations, requiring careful diplomacy and stealth.
 
-### For Neutral Parties  
+### For Neutral Parties
 4. **The Broken Beacon**: A remote observatory has gone silent during a crucial navigation season. Investigate the facility and restore communications before merchant fleets become lost in the depths.
 
 5. **The Rival Astronomers**: Mediate a dispute between the Order and surface astronomers who claim the Order's water-lens observations are impossible and fraudulent.
@@ -212,7 +212,7 @@ Secret installations throughout Aquabyssos that serve as safe houses, supply cac
 
 ## Internal Wiki-Style Links
 
-**Related Organizations**: 
+**Related Organizations**:
 - [[Aquabyssos World Overview
 - [Ambassador Korvin Blacktide]]
 
@@ -274,7 +274,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

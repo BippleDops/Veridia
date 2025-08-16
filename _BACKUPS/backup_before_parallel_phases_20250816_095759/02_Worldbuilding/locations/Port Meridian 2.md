@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location
@@ -478,7 +478,7 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 
 **Guild Meetings**: Professional guilds meet weekly to coordinate responses to corruption threats, plan major projects, and maintain professional standards. These gatherings follow traditions from the [[02_Worldbuilding/Lore/Guild Traditions Compendium, adapted for the unique challenges of operating in a corruption zone.
 
-**Seasonal Adaptations**: 
+**Seasonal Adaptations**:
 - **Storm Season**: Port operations shift to underground facilities, social gatherings move indoors, and emergency protocols activate to protect against corruption spread during severe weather.
 - **Trade Winds Season**: Maximum activity as favorable sailing conditions bring increased international commerce. Cultural festivals peak as foreign traders share their traditions.
 - **High Sun Season**: Work schedules adjust for heat protection, with early morning and late evening activity peaks. Corruption spreads faster in heat, requiring modified safety protocols.

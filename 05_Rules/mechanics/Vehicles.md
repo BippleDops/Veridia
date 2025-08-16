@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Vehicles
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

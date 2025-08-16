@@ -2,7 +2,7 @@
 
 title: Wisdom of the Avatars
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

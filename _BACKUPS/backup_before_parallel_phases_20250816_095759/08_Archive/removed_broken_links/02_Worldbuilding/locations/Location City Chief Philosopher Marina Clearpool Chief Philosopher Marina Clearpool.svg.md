@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city chief philosopher marina clearpool chief philosopher marina clearpoolsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Chief Philosopher Marina Clearpool Chief Philosopher Marina Clearpool.svg
 type: location

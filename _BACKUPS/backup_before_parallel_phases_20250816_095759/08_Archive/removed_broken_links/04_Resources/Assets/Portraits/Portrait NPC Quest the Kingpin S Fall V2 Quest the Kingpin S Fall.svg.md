@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the kingpin s fall v2 quest the kingpin s fallsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Kingpin S Fall V2 Quest the Kingpin S Fall.svg
 type: npc

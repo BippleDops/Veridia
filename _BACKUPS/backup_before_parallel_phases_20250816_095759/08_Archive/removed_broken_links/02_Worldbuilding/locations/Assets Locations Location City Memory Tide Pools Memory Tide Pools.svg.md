@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Memory Tide Pools Memory Tide Pools.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory tide pools memory tide poolssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

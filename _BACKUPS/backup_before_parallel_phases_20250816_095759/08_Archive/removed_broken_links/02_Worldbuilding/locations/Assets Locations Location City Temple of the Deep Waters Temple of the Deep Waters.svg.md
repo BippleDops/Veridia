@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Temple of the Deep Waters Temple of the Deep
   Waters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city temple of the deep waters temple of
   the deep waterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

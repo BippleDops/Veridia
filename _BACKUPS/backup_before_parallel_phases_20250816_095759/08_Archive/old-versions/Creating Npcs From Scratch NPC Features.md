@@ -2,7 +2,7 @@
 
 title: Creating Npcs From Scratch NPC Features
 type: npc
-tags: 
+tags:
 - npc
 
 created: '2025-01-15'

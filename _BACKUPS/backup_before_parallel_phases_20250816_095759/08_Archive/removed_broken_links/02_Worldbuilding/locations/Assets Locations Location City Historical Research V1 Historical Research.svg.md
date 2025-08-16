@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Historical Research V1 Historical Research.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city historical research v1 historical researchsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

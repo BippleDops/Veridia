@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Trade Captain Sterling Trade Captain Sterling.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc trade captain sterling trade captain
   sterlingsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

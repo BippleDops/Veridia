@@ -2,7 +2,7 @@
 
 title: improvising-damage-damage-severity-and-level-xdmg
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Succession Crisis Quest the Succession
   Crisis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the succession crisis quest the
   succession crisissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

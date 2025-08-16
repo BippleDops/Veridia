@@ -2,7 +2,7 @@
 
 title: Aetherian Academy of Mystical Arts
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor
@@ -191,7 +191,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

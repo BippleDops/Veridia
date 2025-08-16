@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Historical Analysis V1 Historical Analysis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city historical analysis v1 historical analysissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

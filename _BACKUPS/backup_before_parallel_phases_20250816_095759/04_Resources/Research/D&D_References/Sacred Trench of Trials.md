@@ -2,7 +2,7 @@
 
 title: Sacred Trench of Trials
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

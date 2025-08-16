@@ -2,7 +2,7 @@
 
 title: Ocean's Balance Circle
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

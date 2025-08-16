@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city chief engineer marina crystalwright chief engineer marina crystalwrightsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Chief Engineer Marina Crystalwright Chief Engineer Marina Crystalwright.svg
 type: location

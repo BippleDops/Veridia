@@ -2,7 +2,7 @@
 
 title: Alpha Leader Marina Depthstrike
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

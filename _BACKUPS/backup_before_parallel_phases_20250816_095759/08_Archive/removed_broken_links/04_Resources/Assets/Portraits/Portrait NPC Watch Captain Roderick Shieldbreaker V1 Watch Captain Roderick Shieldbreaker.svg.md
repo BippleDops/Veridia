@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc watch captain roderick shieldbreaker v1 watch captain roderick shieldbreakersvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Watch Captain Roderick Shieldbreaker V1 Watch Captain Roderick
   Shieldbreaker.svg

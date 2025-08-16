@@ -2,7 +2,7 @@
 
 title: Archmage Tidal Currentweave
 type: [[Lore
-tags: 
+tags:
 - lore
 - both worlds
 - content/lore

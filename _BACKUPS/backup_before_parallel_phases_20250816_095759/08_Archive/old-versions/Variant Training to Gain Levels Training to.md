@@ -2,7 +2,7 @@
 
 title: Variant Training to Gain Levels Training to
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

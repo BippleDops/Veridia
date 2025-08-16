@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Synthesis Gardens the Synthesis Gardens.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the synthesis gardens the synthesis
   gardenssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

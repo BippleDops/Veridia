@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc ranger captain orin swiftarrow v1 ranger captain orin swiftarrowsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Ranger Captain Orin Swiftarrow V1 Ranger Captain Orin Swiftarrow.svg
 type: npc

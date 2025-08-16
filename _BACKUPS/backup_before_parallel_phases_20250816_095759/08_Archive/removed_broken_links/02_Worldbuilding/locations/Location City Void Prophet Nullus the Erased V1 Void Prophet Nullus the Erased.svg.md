@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city void prophet us the erased v1 void prophet us the erasedsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Void Prophet us the Erased V1 Void Prophet us the Erased.svg
 type: location

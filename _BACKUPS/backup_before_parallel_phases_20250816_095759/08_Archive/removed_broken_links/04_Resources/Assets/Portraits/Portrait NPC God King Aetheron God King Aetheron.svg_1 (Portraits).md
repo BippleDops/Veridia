@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc god king aetheron god king aetheronsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC God King Aetheron God King Aetheron.svg
 type: npc

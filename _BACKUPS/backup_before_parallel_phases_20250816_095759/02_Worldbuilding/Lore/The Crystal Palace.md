@@ -2,7 +2,7 @@
 
 title: The [[Crystal Palace
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

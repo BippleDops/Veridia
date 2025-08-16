@@ -2,7 +2,7 @@
 
 title: Intellectual Freedom Movement
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

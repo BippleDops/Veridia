@@ -2,7 +2,7 @@
 
 title: Deep Current Society
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

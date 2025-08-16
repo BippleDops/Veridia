@@ -2,7 +2,7 @@
 
 title: [[Transportation Guild Masters
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -177,7 +177,7 @@ Mentioned in The First Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

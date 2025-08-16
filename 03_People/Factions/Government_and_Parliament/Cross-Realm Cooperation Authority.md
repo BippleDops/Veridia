@@ -2,7 +2,7 @@
 
 title: Cross Realm Cooperation Authority
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

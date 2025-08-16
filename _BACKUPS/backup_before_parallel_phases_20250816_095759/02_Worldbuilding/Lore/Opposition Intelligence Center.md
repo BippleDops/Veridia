@@ -2,7 +2,7 @@
 
 title: Opposition Intelligence Center
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

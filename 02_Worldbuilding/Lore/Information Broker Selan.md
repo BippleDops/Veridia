@@ -2,7 +2,7 @@
 
 title: Information Broker Selan
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -118,7 +118,7 @@ Information Broker Selan represents a crucial aspect of the world's history, cos
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

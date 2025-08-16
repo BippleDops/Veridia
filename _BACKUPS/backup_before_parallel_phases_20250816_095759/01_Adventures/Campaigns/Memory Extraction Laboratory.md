@@ -2,7 +2,7 @@
 
 title: Memory Extraction Laboratory
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

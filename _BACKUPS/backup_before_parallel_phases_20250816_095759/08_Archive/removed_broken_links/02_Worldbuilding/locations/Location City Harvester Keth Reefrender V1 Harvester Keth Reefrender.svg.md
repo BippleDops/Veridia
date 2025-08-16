@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city harvester keth reefrender v1 harvester keth reefrendersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Harvester Keth Reefrender V1 Harvester Keth Reefrender.svg
 type: location

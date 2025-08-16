@@ -2,7 +2,7 @@
 
 title: Phenomena [[Phenomena Shadow Crystal Interactions|Shadow Crystal Interactions
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

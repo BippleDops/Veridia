@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Deepstone Deepstone.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city deepstone deepstonesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

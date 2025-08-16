@@ -2,7 +2,7 @@
 
 title: Continental War
 type: [[Lore
-tags: 
+tags:
 - lore
 - completed
 - session-notes
@@ -25,13 +25,13 @@ status: draft
 world: Aethermoor
 [Time]]_period: Third Age, Years 892-901
 scale: Continental
-participants: 
+participants:
 - Multiple Kingdoms
 - City-States
 - Ancient Powers
 outcome: Pyrrhic Victory for Alliance Forces
 updated: '2025-08-11T00:00:00+00:00'
-related_entities: 
+related_entities:
 - '[[Ancient Siege Tunnels'
 - '[Crystalhaven]]'
 - '[[Ironhold'
@@ -102,7 +102,7 @@ The war is remembered not only for its unprecedented scale and brutality but als
 
 The immediate cause of the war was the death of King Valorian the Great of Drakmoor without a clear heir:
 - **Prince Cassius the Bold**: Supported by [Military Command]]ers and northern provinces
-- **Princess Serenity the Wise**: Backed by [[Merchants and southern trading cities  
+- **Princess Serenity the Wise**: Backed by [[Merchants and southern trading cities
 - **Duke Mordain the Ruthless**: Foreign-supported claimant with promises of territorial concessions
 - **The Royal Council**: Attempted to establish a regency but lacked popular support
 
@@ -401,7 +401,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

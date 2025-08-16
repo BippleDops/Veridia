@@ -2,7 +2,7 @@
 
 title: Portal Mirror Mage
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

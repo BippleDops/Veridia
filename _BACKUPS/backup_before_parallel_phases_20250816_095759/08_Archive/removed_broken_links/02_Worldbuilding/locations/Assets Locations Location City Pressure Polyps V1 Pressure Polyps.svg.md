@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pressure Polyps V1 Pressure Polyps.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure polyps v1 pressure polypssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

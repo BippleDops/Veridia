@@ -2,7 +2,7 @@
 
 title: Discover Shadow Market Location
 type: Location
-tags: 
+tags:
 - aquabyssos
 - content/adventure
 - mechanics/exploration

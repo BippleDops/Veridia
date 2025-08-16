@@ -2,7 +2,7 @@
 
 title: Emperor Thalassius the Wise
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -35,20 +35,20 @@ improvements: 20
 
 *Medium undead (lich), lawful neutral*
 
-**Armor Class** 19 (natural armor, Ring of the Deep Emperor)  
-**Hit Points** 315 (`dice: `dice: 30d8`` + 180)  
+**Armor Class** 19 (natural armor, Ring of the Deep Emperor)
+**Hit Points** 315 (`dice: `dice: 30d8`` + 180)
 **Speed** 30 ft., swim 60 ft.
 
 **STR** 12 (+1) **DEX** 16 (+3) **CON** 22 (+6) **INT** 24 (+7) **WIS** 20 (+5) **CHA** 18 (+4)
 
-**Saving Throws** Con +13, Int +14, Wis +12  
-**Skills** Arcana +21, History +21, Insight +12, Perception +12, Persuasion +11  
-**Damage Resistances** Cold, Lightning, Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks  
-**Damage Immunities** Poison; Pressure (adapted to depths)  
-**Condition Immunities** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned  
-**Senses** Truesight 120 ft., passive Perception 22  
-**Languages** All (gift of ancient sovereignty), Telepathy 120 ft.  
-**Challenge Rating** 23 (50,000 XP)  
+**Saving Throws** Con +13, Int +14, Wis +12
+**Skills** Arcana +21, History +21, Insight +12, Perception +12, Persuasion +11
+**Damage Resistances** Cold, Lightning, Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+**Damage Immunities** Poison; Pressure (adapted to depths)
+**Condition Immunities** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+**Senses** Truesight 120 ft., passive Perception 22
+**Languages** All (gift of ancient sovereignty), Telepathy 120 ft.
+**Challenge Rating** 23 (50,000 XP)
 **Proficiency Bonus** +7
 
 ## 🔧 Deep Evaluation Improvements
@@ -181,7 +181,7 @@ The emperor rarely leaves the Sunken Throne, a massive chamber at the heart of [
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -461,7 +461,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city pressure lock systems v1 pressure lock systemssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Pressure Lock Systems V1 Pressure Lock Systems.svg
 type: location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the deepmind conspiracy v2 the deepmind conspiracysvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Deepmind Conspiracy V2 the Deepmind Conspiracy.svg
 type: npc

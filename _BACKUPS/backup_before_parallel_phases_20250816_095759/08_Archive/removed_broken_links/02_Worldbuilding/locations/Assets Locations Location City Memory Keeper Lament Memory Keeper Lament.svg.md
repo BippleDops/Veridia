@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Memory Keeper Lament Memory Keeper Lament.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory keeper lament memory keeper lamentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

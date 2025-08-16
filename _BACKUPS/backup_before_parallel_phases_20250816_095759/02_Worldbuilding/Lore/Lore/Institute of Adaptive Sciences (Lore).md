@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Institute of Adaptive Sciences
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

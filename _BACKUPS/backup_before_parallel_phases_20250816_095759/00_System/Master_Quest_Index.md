@@ -61,7 +61,7 @@ Detailed description pending.
 
 ### Primary Campaign Arc {#primary-campaign-arc}
 
-- *[Major story quests]* 
+- *[Major story quests]*
 *The [texture] surface feels [description] to the touch.*### Regional Questlines
 
 - *[Area-specific quest chains]* ## Side Quests

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the memory palace the memory palacesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Memory Palace the Memory Palace.svg
 type: location

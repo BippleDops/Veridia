@@ -2,7 +2,7 @@
 
 title: House Stormwin
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

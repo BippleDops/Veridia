@@ -2,7 +2,7 @@
 
 title: Corrupted Government Reflections
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

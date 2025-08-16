@@ -2,7 +2,7 @@
 
 title: Seal Vault Complex
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,7 +2,7 @@
 
 title: The Current Maps
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

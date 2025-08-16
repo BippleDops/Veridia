@@ -2,7 +2,7 @@
 
 title: [[Session Planning Guide
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - dm-tools

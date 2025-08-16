@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Merchant Quarter Districts Merchant Quarter
   Districts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city merchant quarter districts merchant
   quarter districtssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -186,7 +186,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

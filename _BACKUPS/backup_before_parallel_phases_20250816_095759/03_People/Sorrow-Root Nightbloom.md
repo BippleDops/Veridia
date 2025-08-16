@@ -2,7 +2,7 @@
 
 title: Sorrow Root Nightbloom
 type: NPC
-tags: 
+tags:
 - character
 - both
 - active
@@ -126,7 +126,7 @@ A growing faction of druids, rangers, and fey who believe that:
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 

@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Living_Economy_Syste
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

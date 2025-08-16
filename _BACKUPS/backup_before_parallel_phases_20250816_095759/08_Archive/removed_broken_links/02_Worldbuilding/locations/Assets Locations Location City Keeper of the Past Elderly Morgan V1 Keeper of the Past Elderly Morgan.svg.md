@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Keeper of the Past Elderly Morgan V1 Keeper
   of the Past Elderly Morgan.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper of the past elderly morgan v1
   keeper of the past elderly morgansvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

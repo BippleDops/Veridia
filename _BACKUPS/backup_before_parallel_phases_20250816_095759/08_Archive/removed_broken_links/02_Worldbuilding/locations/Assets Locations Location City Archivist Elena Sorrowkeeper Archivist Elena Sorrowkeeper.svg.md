@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Archivist Elena Sorrowkeeper Archivist Elena
   Sorrowkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city archivist elena sorrowkeeper archivist
   elena sorrowkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -43,7 +43,7 @@ modified: '2025-08-14' --- # Quick NPC Search > Search for NPCs by name, faction
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Description
 
-**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *To be added* ## Appearance *To be added* ## Personality *To be added* ## Background *To be added* 
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *To be added* ## Appearance *To be added* ## Personality *To be added* ## Background *To be added*
 *The [texture] surface feels [description] to the touch.*## Relationships *To be added* ## Plot Hooks *To be added* ## Notes {#notes} *Additional notes* #story/plot
 #story/story
 #story/background
@@ -83,5 +83,5 @@ This relates to the deep realm of Deepest ocean trenches and underwater kingdoms
 - **Current Conflict**: The Crushing Dark, Surface Wars
 - **Key Locations**: [[Abyssal Trenches, [Coral Throne]]
 
-In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens
 build cities of living coral and navigate by bioluminescent paths.

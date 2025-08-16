@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Diplomatic Immunity Case Quest the
   Diplomatic Immunity Case.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the diplomatic immunity case quest
   the diplomatic immunity casesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -187,7 +187,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

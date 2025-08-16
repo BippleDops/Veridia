@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/faction
@@ -74,13 +74,13 @@ The major trading companies of [02_Worldbuilding/Places/Aethermoor]] and [[02_Wo
 
 #### Corporate Secrets
 - **Financial**: Embezzling funds for secret Order operations
-- **Political**: Funding multiple political factions simultaneously  
+- **Political**: Funding multiple political factions simultaneously
 - **Personal**: Lord Aurelius's plan to sacrifice everything for temporal manipulation
 - **Technological**: Developing crystal-powered time magic capabilities
 - **Intelligence**: Comprehensive spy network in all major governments
 
 ### Silkwind Luxury Enterprises
-**Chief Executive**: [[02_Worldbuilding/Groups/Lady Venetia Silkwind  
+**Chief Executive**: [[02_Worldbuilding/Groups/Lady Venetia Silkwind
 **Founded**: 18 years ago through strategic marriages and acquisitions
 **Primary Headquarters**: The Silk Tower, [02_Worldbuilding/Places/Port Meridian]]
 **Estimated Value**: 1.8+ million gold pieces
@@ -113,7 +113,7 @@ The major trading companies of [02_Worldbuilding/Places/Aethermoor]] and [[02_Wo
 **Managing Director**: [[02_Worldbuilding/Groups/Master Chen Wei
 **Founded**: 25 years ago with foreign backing
 **Primary Headquarters**: The Jade Tower, [02_Worldbuilding/Places/Port Meridian]]
-**Estimated Value**: 1.5+ million gold pieces  
+**Estimated Value**: 1.5+ million gold pieces
 **Workforce**: 1,800+ direct employees
 
 #### Unique Business Model
@@ -294,7 +294,7 @@ The major trading companies of [02_Worldbuilding/Places/Aethermoor]] and [[02_Wo
 
 ### The Independent Threat
 **Challenge**: Small independent traders undermining corporate monopolies
-**Corporate Response**: 
+**Corporate Response**:
 - **Economic**: Predatory pricing to drive independents out of business
 - **Political**: Lobbying for regulations that favor large corporations
 - **Criminal**: Using illegal methods to eliminate persistent competitors
@@ -527,7 +527,7 @@ The major trading companies of [02_Worldbuilding/Places/Aethermoor]] and [[02_Wo
 
 #### Random Corporate Executive (d20)
 1-4: **Ambitious Middle Manager** - Seeking advancement through any means necessary
-5-8: **Corrupt Financial Officer** - Embezzling funds while maintaining respectable facade  
+5-8: **Corrupt Financial Officer** - Embezzling funds while maintaining respectable facade
 9-12: **Corporate Spy Master** - Managing intelligence operations and industrial espionage
 13-16: **Reform-Minded Director** - Trying to change corporate culture from within
 17-19: **Ruthless Efficiency Expert** - Maximizing profits regardless of human cost
@@ -555,7 +555,7 @@ The major trading companies of [02_Worldbuilding/Places/Aethermoor]] and [[02_Wo
 9: **Competitive Sabotage** - Rivals attacking corporate assets or operations
 10: **Succession Crisis** - Leadership transition creating power vacuum
 
-#### External Corporate Threats (d10)  
+#### External Corporate Threats (d10)
 1: **Government Intervention** - Political action threatening corporate interests
 2: **Criminal Infiltration** - Organized crime targeting corporate operations
 3: **Foreign Competition** - International rivals entering local markets

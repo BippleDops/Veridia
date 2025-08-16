@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Neutral Current Tavern the Neutral Current
   Tavern.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the neutral current tavern the neutral
   current tavernsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -192,7 +192,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

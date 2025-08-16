@@ -2,7 +2,7 @@
 
 title: The [[Integration Institute
 type: [Lore]]
-tags: 
+tags:
 - lore
 - both
 - content/lore

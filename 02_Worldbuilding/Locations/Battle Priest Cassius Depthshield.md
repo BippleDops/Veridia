@@ -2,7 +2,7 @@
 
 title: Battle Priest Cassius Depthshield
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

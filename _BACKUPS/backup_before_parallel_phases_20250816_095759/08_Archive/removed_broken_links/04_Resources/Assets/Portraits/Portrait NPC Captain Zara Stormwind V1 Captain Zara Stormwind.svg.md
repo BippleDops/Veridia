@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain zara stormwind v1 captain zara stormwindsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Zara Stormwind V1 Captain Zara Stormwind.svg
 type: npc

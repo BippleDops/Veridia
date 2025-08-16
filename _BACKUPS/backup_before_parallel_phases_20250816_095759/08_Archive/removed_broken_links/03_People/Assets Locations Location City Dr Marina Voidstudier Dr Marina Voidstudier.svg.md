@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Dr Marina Voidstudier Dr Marina Voidstudier.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city dr marina voidstudier dr marina voidstudiersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

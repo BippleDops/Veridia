@@ -3,7 +3,7 @@ enhanced: true
 
 title: Aethermoor Academy of Mystical Science
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'
@@ -70,5 +70,5 @@ This relates to the deep realm of Deepest ocean trenches and underwater kingdoms
 - **Current Conflict**: The Crushing Dark, Surface Wars
 - **Key Locations**: [Abyssal Trenches]], [[Coral Throne]]
 
-In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
+In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens
 build cities of living coral and navigate by bioluminescent paths.

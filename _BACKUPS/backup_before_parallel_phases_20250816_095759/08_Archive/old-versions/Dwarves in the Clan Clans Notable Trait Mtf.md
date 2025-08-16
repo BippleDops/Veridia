@@ -2,7 +2,7 @@
 
 title: Dwarves in the Clan Clans Notable Trait Mtf
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

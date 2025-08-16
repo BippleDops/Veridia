@@ -2,7 +2,7 @@
 
 title: Key [[locations
 type: location
-tags: 
+tags:
 - location
 - village
 - western-frontier
@@ -210,7 +210,7 @@ Key Locations can serve as:
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 11
-  
+
 ### [Environmental Hazards]]
 - Pit trap
 - **DC 11** to detect
@@ -228,7 +228,7 @@ Key Locations can serve as:
 - **Recent History**: Plague 13 years ago
 - **Living Memory**: Murder last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Trial in 18 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: [[Links to The Second Prophecy of Shadows
@@ -242,7 +242,7 @@ Key Locations can serve as:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

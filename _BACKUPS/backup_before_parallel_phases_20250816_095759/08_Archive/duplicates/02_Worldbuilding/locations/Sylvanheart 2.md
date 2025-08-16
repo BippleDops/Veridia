@@ -6,17 +6,17 @@ founded: Time Immemorial
 government: Circle of Elders
 leader: '[[02_Worldbuilding/People/Archdruid Thornweaver'
 population: 180000
-related_entities: 
+related_entities:
 - '[02_Worldbuilding/Places/The Verdant Reach]]'
 - '[[02_Worldbuilding/Lore/Continental War'
 - '[02_Worldbuilding/Lore/The Restoration Movement]]'
-specialties: 
+specialties:
 - Natural Magic
 - Environmental Harmony
 - Herbal Medicine
 - Forest Protection
 status: draft
-tags: 
+tags:
 - aethermoor
 - content/location
 - draft

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Shadow Crystals V1 Shadow Crystals.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadow crystals v1 shadow crystalssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

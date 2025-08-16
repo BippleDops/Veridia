@@ -2,7 +2,7 @@
 
 title: Lighthouse Keeper
 type: Npc
-tags: 
+tags:
 - both
 - npc
 - world/both
@@ -35,19 +35,19 @@ improvements: 20
 
 *Medium humanoid (half-elf), chaotic good*
 
-**Armor Class** 17 (Studded Leather +2 + Dex)  
-**Hit Points** 97 (`dice: `dice: 13d10`` + 26)  
+**Armor Class** 17 (Studded Leather +2 + Dex)
+**Hit Points** 97 (`dice: `dice: 13d10`` + 26)
 **Speed** 30 ft., climb 30 ft., swim 30 ft.
 
 **STR** 14 (+2) **DEX** 18 (+4) **CON** 15 (+2) **INT** 13 (+1) **WIS** 20 (+5) **CHA** 16 (+3)
 
-**Saving Throws** Wis +10, Cha +8  
-**Skills** Animal Handling +10, Investigation +6, Nature +10, Perception +15, Survival +15  
-**Damage Resistances** Lightning, Thunder  
-**Condition Immunities** Charmed (while conscious)  
-**Senses** Darkvision 60 ft., passive Perception 25  
-**Languages** Common, Elvish, Aquabyssan, Primordial, telepathy with sea creatures  
-**Challenge Rating** 9 (5,000 XP)  
+**Saving Throws** Wis +10, Cha +8
+**Skills** Animal Handling +10, Investigation +6, Nature +10, Perception +15, Survival +15
+**Damage Resistances** Lightning, Thunder
+**Condition Immunities** Charmed (while conscious)
+**Senses** Darkvision 60 ft., passive Perception 25
+**Languages** Common, Elvish, Aquabyssan, Primordial, telepathy with sea creatures
+**Challenge Rating** 9 (5,000 XP)
 **Proficiency Bonus** +4
 
 ## 🔧 Deep Evaluation Improvements
@@ -215,7 +215,7 @@ Alaric's quarters atop the lighthouse are spartan but functional: charts of ever
 
 **Voice**: Deep and calm, like distant thunder. Speaks slowly and thoughtfully, often pausing to listen to wind or weather changes. His vocabulary is peppered with nautical terms.
 
-**Speaking Patterns**: 
+**Speaking Patterns**:
 - "The wind's telling me..."
 - "Seen storms like this before, back in '98..."
 - "Mark my words, something's not right with those tides..."
@@ -351,7 +351,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

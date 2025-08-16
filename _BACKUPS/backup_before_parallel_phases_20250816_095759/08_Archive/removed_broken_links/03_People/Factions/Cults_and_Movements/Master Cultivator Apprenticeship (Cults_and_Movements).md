@@ -2,7 +2,7 @@
 
 title: Master Cultivator Apprenticeship
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

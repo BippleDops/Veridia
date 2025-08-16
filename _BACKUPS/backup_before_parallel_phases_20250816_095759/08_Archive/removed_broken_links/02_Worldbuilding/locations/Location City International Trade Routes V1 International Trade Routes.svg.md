@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city international trade routes v1 international trade routessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City International Trade Routes V1 International Trade Routes.svg
 type: location

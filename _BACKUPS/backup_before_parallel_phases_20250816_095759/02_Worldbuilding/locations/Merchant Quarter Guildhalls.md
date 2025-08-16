@@ -2,7 +2,7 @@
 
 title: [[Merchant|[Merchant Quarter]] Guildhalls
 type: [[location
-tags: 
+tags:
 - both
 - quest
 - world/both

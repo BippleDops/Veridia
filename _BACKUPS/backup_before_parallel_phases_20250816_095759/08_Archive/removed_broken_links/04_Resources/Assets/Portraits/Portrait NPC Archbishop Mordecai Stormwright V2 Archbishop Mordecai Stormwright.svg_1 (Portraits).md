@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc archbishop mordecai stormwright v2 archbishop mordecai stormwrightsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Archbishop Mordecai Stormwright V2 Archbishop Mordecai Stormwright.svg
 type: npc

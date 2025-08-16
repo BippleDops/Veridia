@@ -2,7 +2,7 @@
 
 title: Quick_Session_Pulse_Check
 type: session
-tags: 
+tags:
 - session
 
 created: '2025-01-15'

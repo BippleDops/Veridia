@@ -8,9 +8,9 @@ type: quest
 *A investigate quest for 4-6 characters of levels 3-7*
 
 ## Overview
-**Quest Giver**: Ewan Brightblade (Dragonborn Ranger)  
-**Location**: Hiding in the sewers beneath the city  
-**Type**: Investigate Quest  
+**Quest Giver**: Ewan Brightblade (Dragonborn Ranger)
+**Location**: Hiding in the sewers beneath the city
+**Type**: Investigate Quest
 **Objective**: Discover who is behind the mysterious disappearances
 
 ## Background

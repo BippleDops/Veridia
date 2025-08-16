@@ -2,7 +2,7 @@
 
 title: [[Coral Reef Sanctuaries
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

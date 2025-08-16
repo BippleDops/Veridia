@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the free current v1 the free currentsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Free Current V1 the Free Current.svg
 type: location

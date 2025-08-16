@@ -21,7 +21,7 @@ type: note
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 **Campaign Name**: *[Campaign Title]*
 **Start Date**: *[Date]*
-**Current Session**: *[Number]* ## 
+**Current Session**: *[Number]* ##
 *Sounds of [relevant sounds] echo in the distance.*Party Status ### Current Level - *[Party level]* ### Current Location - *[Where the party is now]* ### Current Objective - *[Main goal]* ## Active Plot Threads - *[Ongoing storylines]* ## Completed Arcs - *[Finished storylines]* ## Important NPCs ### Allies - *[Friendly NPCs]* ### Enemies - *[Hostile NPCs]* ### Neutral - *[Uncommitted NPCs]* ## Key Locations ### Visited - *[Places party has been]* ### Known But Unvisited - *[Places party knows about]* ### Secret/Unknown - *[Hidden locations]* ## Major Events Timeline | Session | Date | Event |
 | created: 2025-08-14
 modified: 2025-08-14

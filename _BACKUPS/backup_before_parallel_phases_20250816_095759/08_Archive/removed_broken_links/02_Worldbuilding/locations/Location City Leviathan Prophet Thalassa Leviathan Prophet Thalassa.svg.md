@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city leviathan prophet thalassa leviathan prophet thalassasvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Leviathan Prophet Thalassa Leviathan Prophet Thalassa.svg
 type: location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the crystal refugees quest the crystal refugeessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Crystal Refugees Quest the Crystal Refugees.svg
 type: npc

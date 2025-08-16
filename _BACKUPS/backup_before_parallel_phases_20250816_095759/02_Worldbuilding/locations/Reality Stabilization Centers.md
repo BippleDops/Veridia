@@ -2,7 +2,7 @@
 
 title: Reality Stabilization Centers
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

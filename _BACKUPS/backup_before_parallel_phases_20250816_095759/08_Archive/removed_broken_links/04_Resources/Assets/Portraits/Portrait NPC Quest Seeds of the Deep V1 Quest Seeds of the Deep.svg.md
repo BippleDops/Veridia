@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest seeds of the deep v1 quest seeds of the deepsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest Seeds of the Deep V1 Quest Seeds of the Deep.svg
 type: npc

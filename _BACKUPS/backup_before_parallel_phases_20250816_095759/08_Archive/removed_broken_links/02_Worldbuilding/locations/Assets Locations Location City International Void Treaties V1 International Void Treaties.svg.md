@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City International Void Treaties V1 International
   Void Treaties.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city international void treaties v1 international
   void treatiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The [[Coral Gardens
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - content/adventure

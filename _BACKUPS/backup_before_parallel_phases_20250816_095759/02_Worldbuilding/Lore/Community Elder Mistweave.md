@@ -2,7 +2,7 @@
 
 title: Community Elder Mistweave
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

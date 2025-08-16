@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Risk Assessor Probability Risk Assessor Probability.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city risk assessor probability risk assessor
   probabilitysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

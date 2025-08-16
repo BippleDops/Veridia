@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city market mystery v1 market mysterysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: location city market mystery v1 market mystery.svg
 type: location

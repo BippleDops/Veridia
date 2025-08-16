@@ -2,7 +2,7 @@
 
 title: Counter Mirror Safe Houses
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/faction
@@ -59,7 +59,7 @@ Each House specializes in different knowledge categories and maintains semi-auto
 - **Specialization**: Navigation knowledge, geographical surveys, safe passage intel
 - **Signature Service**: Guaranteed safe escort through dangerous waters
 
-#### House of Memories (History & Culture)  
+#### House of Memories (History & Culture)
 - **Scholar-Merchant Remembrance Tidekeep**: Pre-Drowning knowledge, cultural practices
 - **Specialization**: Historical records, cultural artifacts, transformation lore
 - **Signature Service**: Memory extraction and preservation techniques
@@ -86,7 +86,7 @@ Each House specializes in different knowledge categories and maintains semi-auto
 
 ### Membership Structure
 - **Archive Council**: 2 supreme leaders
-- **House Leaders**: 5 department heads  
+- **House Leaders**: 5 department heads
 - **Senior Scholar-Traders**: 50+ department specialists
 - **Scholar-Traders**: 400+ full members
 - **Knowledge Hunters**: 200+ field agents gathering information
@@ -98,7 +98,7 @@ The Covenant maintains several categories of information storage:
 
 #### **The Open Archives** (Public Knowledge)
 - Basic navigation charts
-- Common survival techniques  
+- Common survival techniques
 - Historical overviews
 - Cultural introductions
 - Standard trade information
@@ -157,7 +157,7 @@ The Covenant maintains networks of informants, researchers, and field agents thr
 #### Neutral Mediation
 By maintaining strict neutrality and confidentiality, the Covenant serves as trusted mediators for conflicts and negotiations between factions. Their reputation for honesty is their most valuable asset.
 
-#### Educational Services  
+#### Educational Services
 Beyond trading in knowledge, the Covenant provides educational services: tutoring, research assistance, cultural orientation, and skill training for clients adapting to new depth levels or situations.
 
 #### Research and Development
@@ -222,7 +222,7 @@ This massive vessel serves as both the Covenant's headquarters and its most visi
 The Covenant maintains trading posts at every major depth boundary:
 - **Twilight Exchange**: Primary surface-world interface
 - **Meridian Station**: Central hub for inter-depth trade
-- **Midnight Market**: Deep-level commercial center  
+- **Midnight Market**: Deep-level commercial center
 - **Hadean Outpost**: Dangerous frontier trading post
 - **The Pressure Lock**: Emergency facility for depth-change adaptation
 
@@ -248,7 +248,7 @@ The Covenant maintains trading posts at every major depth boundary:
 
 6. **The Forbidden Knowledge**: Decide whether certain dangerous information should be preserved, shared, or destroyed, weighing the risks and benefits to society.
 
-### For Scholarly Parties  
+### For Scholarly Parties
 7. **The Research Partnership**: Collaborate with Covenant scholars on a major research project that could benefit all of Aquabyssos.
 
 8. **The Archive Rescue**: Help evacuate and preserve important knowledge from a location threatened by natural disaster or factional conflict.

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city temple ward v1 temple wardsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: location city temple ward v1 temple ward.svg
 type: location

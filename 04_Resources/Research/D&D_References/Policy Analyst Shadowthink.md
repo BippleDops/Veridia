@@ -2,7 +2,7 @@
 
 title: Policy Analyst Shadowthink
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

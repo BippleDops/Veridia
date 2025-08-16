@@ -2,7 +2,7 @@
 
 title: Master Chronologist Temporal Truthkeeper
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

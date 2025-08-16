@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding_[[Lore_The_Dream_Shard
 type: note
-tags: 
+tags:
 - auto-generated
 - [Link]]ed
 created: '2025-01-15'

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Echo Theorist Maya V1 Echo Theorist Maya.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city echo theorist maya v1 echo theorist
   mayasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

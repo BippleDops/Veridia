@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Vex_Shadowthorn
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

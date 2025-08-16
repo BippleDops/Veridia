@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Militant Priest Abyssal Militant Priest Abyssal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc militant priest abyssal militant priest
   abyssalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

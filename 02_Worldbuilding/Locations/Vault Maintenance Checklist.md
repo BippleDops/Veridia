@@ -2,7 +2,7 @@
 
 title: Vault Maintece Checklist
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - royal-vault

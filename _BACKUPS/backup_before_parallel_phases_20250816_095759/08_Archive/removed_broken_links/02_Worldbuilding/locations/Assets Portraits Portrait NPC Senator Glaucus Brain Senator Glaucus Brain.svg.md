@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Senator Glaucus Brain Senator Glaucus Brain.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc senator glaucus brain senator glaucus
   brainsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

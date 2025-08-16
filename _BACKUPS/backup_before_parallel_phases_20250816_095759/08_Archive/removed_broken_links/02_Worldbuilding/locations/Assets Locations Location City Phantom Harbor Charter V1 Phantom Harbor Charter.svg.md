@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Phantom Harbor Charter V1 Phantom Harbor Charter.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city phantom harbor charter v1 phantom harbor
   chartersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

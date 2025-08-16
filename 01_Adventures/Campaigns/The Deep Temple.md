@@ -2,7 +2,7 @@
 
 title: The Deep Temple
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

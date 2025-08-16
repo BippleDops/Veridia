@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/[[Groups
 type: [Organization]]
-tags: 
+tags:
 - organization
 - order
 created: '2025-08-14'

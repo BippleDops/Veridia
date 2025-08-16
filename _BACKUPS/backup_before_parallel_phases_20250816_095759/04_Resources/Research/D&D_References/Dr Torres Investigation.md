@@ -2,7 +2,7 @@
 
 title: Dr Torres Investigation
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

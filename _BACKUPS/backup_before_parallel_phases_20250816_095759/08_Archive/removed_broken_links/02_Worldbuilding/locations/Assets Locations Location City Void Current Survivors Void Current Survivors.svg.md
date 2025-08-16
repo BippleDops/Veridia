@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Void Current Survivors Void Current Survivors.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city void current survivors void current
   survivorssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

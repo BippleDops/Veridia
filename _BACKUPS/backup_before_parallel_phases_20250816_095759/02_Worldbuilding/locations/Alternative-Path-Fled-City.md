@@ -1,7 +1,7 @@
 ---
 title: Alternative Path Fled City
 type: Location
-tags: 
+tags:
 - status/complete
 - alternative-community
 - content/location

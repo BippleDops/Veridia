@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Master Elena Preserver Master Elena Preserver.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master elena preserver master elena
   preserversvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -207,7 +207,7 @@ Mentioned in The Hidden Prophecy of Winds
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

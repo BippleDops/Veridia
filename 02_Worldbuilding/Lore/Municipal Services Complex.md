@@ -2,7 +2,7 @@
 
 title: Municipal Services Complex
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

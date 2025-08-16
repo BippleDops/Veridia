@@ -2,7 +2,7 @@
 
 title: Etheric Currents
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

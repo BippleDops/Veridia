@@ -2,7 +2,7 @@
 
 title: Trust Network Tracker
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

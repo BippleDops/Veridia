@@ -1,7 +1,7 @@
 ---
 title: Ambassador Lysandra Silvertonge
 type: Location
-tags: 
+tags:
 - [[Aquabyssos
 - aerial
 - embassy

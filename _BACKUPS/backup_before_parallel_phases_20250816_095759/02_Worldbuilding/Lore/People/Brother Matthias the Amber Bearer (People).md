@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Brother Matthias the Amber Bearer
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

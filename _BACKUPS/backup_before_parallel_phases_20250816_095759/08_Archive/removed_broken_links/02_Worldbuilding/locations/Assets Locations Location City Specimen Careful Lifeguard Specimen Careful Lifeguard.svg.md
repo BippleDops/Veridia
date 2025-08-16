@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Specimen Careful Lifeguard Specimen Careful
   Lifeguard.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city specimen careful lifeguard specimen
   careful lifeguardsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Unity Seeds
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

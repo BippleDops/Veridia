@@ -2,7 +2,7 @@
 
 title: The Umbral Pavilion
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

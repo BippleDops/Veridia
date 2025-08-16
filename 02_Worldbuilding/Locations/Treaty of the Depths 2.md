@@ -10,7 +10,7 @@ primary_participants: Aquabyssos and Aethermoor
 scope: Inter-Realm Relations
 significance: Foundational
 status: complete
-tags: 
+tags:
 - agreement
 - both worlds
 - complete

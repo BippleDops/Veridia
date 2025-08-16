@@ -1,7 +1,7 @@
 ---
 title: Aetheron
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - aerial

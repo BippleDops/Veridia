@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Void Shard
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

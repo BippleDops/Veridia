@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Navigator Flux Navigator Flux.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city navigator flux navigator fluxsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -199,7 +199,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

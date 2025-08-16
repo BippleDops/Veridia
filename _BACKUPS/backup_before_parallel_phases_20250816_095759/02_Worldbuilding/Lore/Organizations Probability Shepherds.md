@@ -2,7 +2,7 @@
 
 title: Organizations Probability Shepherds
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

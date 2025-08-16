@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Sunken Palace V1 the Sunken Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sunken palace v1 the sunken palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

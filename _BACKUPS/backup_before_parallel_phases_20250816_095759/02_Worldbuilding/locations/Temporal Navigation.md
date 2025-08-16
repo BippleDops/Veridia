@@ -2,7 +2,7 @@
 
 title: Temporal Navigation
 type: Location
-tags: 
+tags:
 - aquabyssos
 - cosmic-horror
 - navigation

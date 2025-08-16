@@ -18,7 +18,7 @@ if (complexity === "epic") {
 - [ ] <% tp.system.prompt("Act 1 objective") %>
 - [ ] <% tp.system.prompt("Act 1 complication") %>
 
-### Act II: Development  
+### Act II: Development
 - [ ] <% tp.system.prompt("Act 2 objective") %>
 - [ ] <% tp.system.prompt("Act 2 twist") %>
 

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sommelier bacchus deepbottle sommelier bacchus deepbottlesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Sommelier Bacchus Deepbottle Sommelier Bacchus Deepbottle.svg
 type: location

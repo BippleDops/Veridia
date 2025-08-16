@@ -2,7 +2,7 @@
 
 title: Theological Warfare
 type: [[location
-tags: 
+tags:
 - both
 - status/complete
 - warfare
@@ -32,7 +32,7 @@ current_state: Active religious conflict zone
 danger_level: 9
 depth: 2600-2900 feet
 discovered: true
-factions: 
+factions:
 - '[[Temple of Divine Order|[[02 Worldbuilding/[Groups]]/Temple Of Divine Order]]'
 - '[[Leviathan|The [Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]'
 - '[[Deep Mother|[Deep Mother Zealots]]'
@@ -40,7 +40,7 @@ factions:
 government: Religious Council of War
 location_name: The Theological Warfare Grounds
 location_type: Contested Religious Battlefield
-notable_[Npc]]s: 
+notable_[Npc]]s:
 - '[[People
   Theologian Commander Aurelius]]'
 - '[[Leviathan Prophet Thalassa'

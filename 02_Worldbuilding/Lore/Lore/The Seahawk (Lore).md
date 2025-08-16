@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Seahawk
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

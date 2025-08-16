@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Spiral Sanctum V1 the Spiral Sanctum.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the spiral sanctum v1 the spiral sanctumsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -192,7 +192,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Surface Contacts V1 Surface Contacts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface contacts v1 surface contactssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

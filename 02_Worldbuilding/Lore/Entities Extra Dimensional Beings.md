@@ -2,7 +2,7 @@
 
 title: Entities [[Entities Extra Dimensional Beings|Extra Dimensional Beings
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

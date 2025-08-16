@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Magical Theory Schools V1 Magical Theory Schools.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city magical theory schools v1 magical theory
   schoolssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

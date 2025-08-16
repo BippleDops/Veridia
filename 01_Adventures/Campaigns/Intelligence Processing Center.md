@@ -2,7 +2,7 @@
 
 title: Intelligence Processing Center
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

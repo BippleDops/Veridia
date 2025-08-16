@@ -6,7 +6,7 @@ historical_period: Post-Bathyal Succession to Present
 movement_type: Political and Religious Reform
 significance: Major
 status: complete
-tags: 
+tags:
 - aquabyssos
 - campaign/arc
 - complete

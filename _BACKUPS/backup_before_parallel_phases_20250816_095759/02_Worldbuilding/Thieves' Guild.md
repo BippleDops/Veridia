@@ -5,7 +5,7 @@ headquarters: Unknown
 improvements: 20
 membership: Unknown
 modified: '2025-08-14'
-tags: 
+tags:
 - organization
 title: Thieves' Guild
 type: faction

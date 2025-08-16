@@ -2,7 +2,7 @@
 
 title: Marcus Evenscale
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

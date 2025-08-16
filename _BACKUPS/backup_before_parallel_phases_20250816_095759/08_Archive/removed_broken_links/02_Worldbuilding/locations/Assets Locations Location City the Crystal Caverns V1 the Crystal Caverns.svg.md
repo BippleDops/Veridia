@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Crystal Caverns V1 the Crystal Caverns.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the crystal caverns v1 the crystal cavernssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

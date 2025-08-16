@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Libraries Libraries.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city libraries librariessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

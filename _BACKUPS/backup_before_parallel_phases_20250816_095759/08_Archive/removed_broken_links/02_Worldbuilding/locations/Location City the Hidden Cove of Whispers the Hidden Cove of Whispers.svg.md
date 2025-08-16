@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the hidden cove of whispers the hidden cove of whisperssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Hidden Cove of Whispers the Hidden Cove of Whispers.svg
 type: location

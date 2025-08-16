@@ -2,7 +2,7 @@
 
 title: Security Chief Corwin Ironshell
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -160,7 +160,7 @@ Ongoing situations affecting Security Chief Corwin Ironshell:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

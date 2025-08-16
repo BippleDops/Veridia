@@ -1,7 +1,7 @@
 ---
 title: Surface Portal Alpha
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

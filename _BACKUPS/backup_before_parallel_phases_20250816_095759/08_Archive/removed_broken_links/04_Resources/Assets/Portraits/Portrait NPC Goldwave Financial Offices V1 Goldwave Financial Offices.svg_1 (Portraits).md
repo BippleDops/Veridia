@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc goldwave ficial offices v1 goldwave ficial officessvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Goldwave Ficial Offices V1 Goldwave Ficial Offices.svg
 type: npc

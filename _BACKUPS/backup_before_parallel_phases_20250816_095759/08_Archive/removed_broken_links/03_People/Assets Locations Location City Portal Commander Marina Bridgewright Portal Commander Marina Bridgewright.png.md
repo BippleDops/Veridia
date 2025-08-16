@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Portal Commander Marina Bridgewright Portal
   Commander Marina Bridgewright.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city portal commander marina bridgewright
   portal commander marina bridgewrightpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

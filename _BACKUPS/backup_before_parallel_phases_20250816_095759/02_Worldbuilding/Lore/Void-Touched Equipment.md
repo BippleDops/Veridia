@@ -2,7 +2,7 @@
 
 title: [[Void Touched Cult|Void Touched Equipment
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

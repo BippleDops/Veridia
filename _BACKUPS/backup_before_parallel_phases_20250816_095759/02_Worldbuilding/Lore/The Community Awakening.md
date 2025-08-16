@@ -2,7 +2,7 @@
 
 title: The Community Awakening
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

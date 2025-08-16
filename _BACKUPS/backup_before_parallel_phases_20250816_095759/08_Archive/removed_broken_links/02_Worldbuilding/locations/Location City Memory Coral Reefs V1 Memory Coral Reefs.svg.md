@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city memory coral reefs v1 memory coral reefssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Memory Coral Reefs V1 Memory Coral Reefs.svg
 type: location

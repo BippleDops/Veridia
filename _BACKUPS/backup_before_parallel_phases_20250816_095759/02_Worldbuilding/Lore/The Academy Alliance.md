@@ -2,7 +2,7 @@
 
 title: The Academy Alliance
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

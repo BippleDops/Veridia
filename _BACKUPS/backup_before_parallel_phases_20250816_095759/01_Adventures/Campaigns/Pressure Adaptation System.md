@@ -2,7 +2,7 @@
 
 title: Pressure Adaptation System
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - technology

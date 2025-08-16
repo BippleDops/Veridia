@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City World Map V1 World Map.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city world map v1 world mapsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

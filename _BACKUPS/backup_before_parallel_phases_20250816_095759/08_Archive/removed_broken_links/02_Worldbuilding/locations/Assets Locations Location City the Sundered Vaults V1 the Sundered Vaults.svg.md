@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Sundered Vaults V1 the Sundered Vaults.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sundered vaults v1 the sundered
   vaultssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

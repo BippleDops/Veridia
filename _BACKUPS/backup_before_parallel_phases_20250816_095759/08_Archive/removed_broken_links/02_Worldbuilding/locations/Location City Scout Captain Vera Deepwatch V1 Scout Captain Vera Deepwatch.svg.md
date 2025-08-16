@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city scout captain vera deepwatch v1 scout captain vera deepwatchsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Scout Captain Vera Deepwatch V1 Scout Captain Vera Deepwatch.svg
 type: location

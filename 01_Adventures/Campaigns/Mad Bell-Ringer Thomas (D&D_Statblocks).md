@@ -2,7 +2,7 @@
 
 title: Mad Bell-Ringer Thomas (D&D_Statblocks)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

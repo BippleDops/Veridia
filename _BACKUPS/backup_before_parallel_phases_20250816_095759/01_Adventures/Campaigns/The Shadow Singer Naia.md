@@ -1,7 +1,7 @@
 ---
 title: The Shadow Singer Naia
 type: Npc
-tags: 
+tags:
 - dream-servant
 - aquabyssos
 - status/complete

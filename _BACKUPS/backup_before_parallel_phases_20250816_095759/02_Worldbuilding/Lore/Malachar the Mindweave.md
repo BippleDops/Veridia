@@ -2,7 +2,7 @@
 
 title: Malachar the Mindweave
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

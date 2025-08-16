@@ -2,7 +2,7 @@
 
 title: Great Crystal Lens
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

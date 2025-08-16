@@ -7,7 +7,7 @@ danger_level: 4
 primary_agents: Silverscale Banking House and allied organizations
 scope: Cross-world influence network
 status: complete
-tags: 
+tags:
 - access/secret
 - banking
 - both worlds
@@ -66,7 +66,7 @@ The Silverscale Conspiracy has profoundly influenced the development of commerci
 ### The Silent Takeover of Maritime Trade (127 years ago)
 Silverscale gained control of crucial shipping routes through strategic loans and partnerships that appeared beneficial to all parties but gradually concentrated maritime commerce under their influence.
 
-### The Cross-World Banking Accords (89 years ago)  
+### The Cross-World Banking Accords (89 years ago)
 The establishment of unified financial standards between [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos created opportunities for Silverscale to influence both civilizations' monetary policies.
 
 ### The Recent Acceleration (Past 5 years)

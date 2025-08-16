@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the crystal merchant v1 the crystal merchantsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Crystal Merchant V1 the Crystal Merchant.svg
 type: location

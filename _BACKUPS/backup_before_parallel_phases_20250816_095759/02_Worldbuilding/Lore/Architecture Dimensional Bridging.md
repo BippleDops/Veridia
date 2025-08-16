@@ -2,7 +2,7 @@
 
 title: Architecture [[Dimensional Bridging
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

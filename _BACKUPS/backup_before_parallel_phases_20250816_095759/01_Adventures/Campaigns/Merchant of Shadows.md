@@ -2,7 +2,7 @@
 
 title: [[Merchant of Shadows
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

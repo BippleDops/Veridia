@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry the Crystal Throne the Crystal Throne.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the crystal throne the crystal thronesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -210,7 +210,7 @@ Mentioned in The First Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

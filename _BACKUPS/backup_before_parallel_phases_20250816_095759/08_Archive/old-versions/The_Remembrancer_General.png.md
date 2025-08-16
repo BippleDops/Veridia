@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/Art/Lore/The_Remembrancer_General.png
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

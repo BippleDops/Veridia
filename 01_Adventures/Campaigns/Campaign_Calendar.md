@@ -7,7 +7,7 @@ tags: [campaign]
 
 # Campaign Calendar
 
-## Current Date: 
+## Current Date:
 
 | Month | Day | Event |
 |-------|-----|-------|

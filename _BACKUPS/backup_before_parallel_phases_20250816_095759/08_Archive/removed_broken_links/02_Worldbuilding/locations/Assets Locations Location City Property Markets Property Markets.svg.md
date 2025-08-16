@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Property Markets Property Markets.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city property markets property marketssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

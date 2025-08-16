@@ -6,7 +6,7 @@ current_state: Active religious conflict zone
 danger_level: 9
 depth: 2600-2900 feet
 discovered: true
-factions: 
+factions:
 - '[[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple
   Of Divine Order'
 - '[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan
@@ -16,7 +16,7 @@ factions:
 government: Religious Council of War
 location_name: The Theological Warfare Grounds
 location_type: Contested Religious Battlefield
-notable_npcs: 
+notable_npcs:
 - '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
   Theologian Commander Aurelius'
 - '[02_Worldbuilding/Places/Leviathan Prophet Thalassa]]'
@@ -28,7 +28,7 @@ population: 500
 pressure_effects: Severe
 ruler: '[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
   Theologian Commander Aurelius]]'
-services: 
+services:
 - Theological Debate Resolution
 - Religious Combat Training
 - Divine Magic Testing
@@ -36,13 +36,13 @@ services:
 - Faith Counseling
 shadow_density: Variable
 status: complete
-sub_locations: 
+sub_locations:
 - '[[The Argument Amphitheater'
 - '[Divine Intervention Plaza]]'
 - '[[Heresy Hunter Barracks'
 - '[The Schism Bridges]]'
 - '[[Faith Testing Grounds]]'
-tags: 
+tags:
 - both
 - complete
 - content/location

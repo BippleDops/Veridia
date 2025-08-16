@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the emerald sage willowbark v1 the emerald sage willowbarksvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Emerald Sage Willowbark V1 the Emerald Sage Willowbark.svg
 type: npc

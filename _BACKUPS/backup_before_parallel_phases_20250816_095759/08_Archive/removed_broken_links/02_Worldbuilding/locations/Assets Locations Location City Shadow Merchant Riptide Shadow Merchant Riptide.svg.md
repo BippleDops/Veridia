@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Shadow Merchant Riptide Shadow Merchant Riptide.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadow merchant riptide shadow merchant
   riptidesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -195,7 +195,7 @@ Mentioned in The First Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -22,22 +22,22 @@ WHERE file.name != ""
 ## Round: 1
 
 ### Environmental Effects
-- 
+-
 
 ### Lair Actions (Initiative 20)
-- 
+-
 
 ### Legendary Actions (3/round)
 - [ ] Used
-- [ ] Used  
+- [ ] Used
 - [ ] Used
 
 ## Combat Log
 **Round 1:**
-- 
+-
 
 **Round 2:**
-- 
+-
 
 ## Quick Rules
 - **Surprise**: Can't move or act first turn, no reactions
@@ -51,7 +51,7 @@ WHERE file.name != ""
 | | | | |
 
 ## Conditions Applied
-- 
+-
 
 ## Post-Combat
 - [ ] Calculate XP

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Underwater Fermentation V1 Underwater Fermentation.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city underwater fermentation v1 underwater
   fermentationsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -183,7 +183,7 @@ Mentioned in The Second Prophecy of Shadows
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

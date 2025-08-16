@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Blood Coral V1 Blood Coral.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city blood coral v1 blood coralsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

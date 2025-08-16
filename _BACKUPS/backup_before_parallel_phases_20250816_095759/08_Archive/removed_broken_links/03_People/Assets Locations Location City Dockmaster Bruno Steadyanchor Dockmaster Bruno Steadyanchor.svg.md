@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Dockmaster Bruno Steadyanchor Dockmaster Bruno
   Steadyanchor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city dockmaster bruno steadyanchor dockmaster
   bruno steadyanchorsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

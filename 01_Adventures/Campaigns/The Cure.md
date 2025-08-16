@@ -2,7 +2,7 @@
 
 title: The Cure
 type: Npc
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - npc
@@ -18,12 +18,12 @@ status: complete
 race: Unknown
 class: Unknown
 location: Unknown
-accessibility: 
-  content_warnings: 
+accessibility:
+  content_warnings:
   - coercion
   - memory manipulation
   pronunciation: The Cure
-  safety_tools: 
+  safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door
@@ -58,7 +58,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -274,7 +274,7 @@ Member of House Eagleblood - Trait: curse
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -326,7 +326,7 @@ Member of House Eagleblood - Trait: curse
 
 ## References
 
-- 
+-
 - [[The Queen
 - [Assets Locations Location City Temple Guardian Marcus the Drowned V1 Temple Guardian Marcus the Drowned.svg]]
 - [[The_Crimson_Pearl

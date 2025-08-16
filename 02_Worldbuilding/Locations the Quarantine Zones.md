@@ -2,7 +2,7 @@
 
 title: [[locations the Quarantine Zones
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

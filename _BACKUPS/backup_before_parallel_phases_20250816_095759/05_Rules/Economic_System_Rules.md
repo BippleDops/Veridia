@@ -3,7 +3,7 @@ enhanced: true
 
 title: Economic System Rules
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

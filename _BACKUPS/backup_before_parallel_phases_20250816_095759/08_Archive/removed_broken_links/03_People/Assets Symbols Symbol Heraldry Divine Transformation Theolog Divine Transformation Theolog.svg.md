@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Divine Transformation Theolog Divine Transformation
   Theolog.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry divine transformation theolog divine
   transformation theologsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

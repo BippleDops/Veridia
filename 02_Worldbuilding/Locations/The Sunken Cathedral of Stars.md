@@ -2,7 +2,7 @@
 
 title: The Sunken Cathedral of Stars
 type: [[location
-tags: 
+tags:
 - both
 - aquatic
 - world/both
@@ -188,7 +188,7 @@ Ongoing situations affecting The Sunken Cathedral of Stars:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

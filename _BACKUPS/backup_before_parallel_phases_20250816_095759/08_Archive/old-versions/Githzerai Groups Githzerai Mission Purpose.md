@@ -2,7 +2,7 @@
 
 title: Githzerai Groups Githzerai Mission Purpose
 type: organization
-tags: 
+tags:
 - organization
 
 created: '2025-01-15'

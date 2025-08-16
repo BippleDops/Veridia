@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the sunken library of thalassius the sunken library of thalassiussvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Sunken Library of Thalassius the Sunken Library of Thalassius.svg
 type: location

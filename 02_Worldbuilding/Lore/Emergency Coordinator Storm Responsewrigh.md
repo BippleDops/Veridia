@@ -2,7 +2,7 @@
 
 title: Emergency Coordinator Storm Responsewrigh
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city pressure suit malfunction v1 pressure suit malfunctionsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Pressure Suit Malfunction V1 Pressure Suit Malfunction.svg
 type: location

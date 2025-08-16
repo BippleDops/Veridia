@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Marina Truewater Captain Marina Truewater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain marina truewater captain marina
   truewatersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: X-105_Crown_Council_Summit_Convoy
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

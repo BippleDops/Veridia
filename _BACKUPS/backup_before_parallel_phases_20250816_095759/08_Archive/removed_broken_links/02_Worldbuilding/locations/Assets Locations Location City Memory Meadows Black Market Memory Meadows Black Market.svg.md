@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memory Meadows Black Market Memory Meadows Black
   Market.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory meadows black market memory meadows
   black marketsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -205,7 +205,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

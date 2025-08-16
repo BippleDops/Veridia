@@ -2,7 +2,7 @@
 
 title: Embroidered Silk and Velvet Mantle Set with Numerous Moonstones Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

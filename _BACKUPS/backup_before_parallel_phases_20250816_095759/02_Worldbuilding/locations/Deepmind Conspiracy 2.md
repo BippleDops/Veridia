@@ -8,7 +8,7 @@ danger_level: High
 obsidianUIMode: preview
 security_level: extreme
 status: complete
-tags: 
+tags:
 - access/secret
 - aquabyssos
 - complete

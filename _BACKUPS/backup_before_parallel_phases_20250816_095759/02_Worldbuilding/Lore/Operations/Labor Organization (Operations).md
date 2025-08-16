@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Operations/Labor Organization
 type: organization
-tags: 
+tags:
 - organization
 - alliance
 created: '2025-08-14'

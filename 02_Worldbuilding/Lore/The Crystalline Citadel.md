@@ -2,7 +2,7 @@
 
 title: The Crystalline Citadel
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

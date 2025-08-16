@@ -2,7 +2,7 @@
 
 title: Bridge Currentcrosser
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

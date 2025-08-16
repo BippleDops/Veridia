@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Vote Vaults V1 Vote Vaults.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city vote vaults v1 vote vaultssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

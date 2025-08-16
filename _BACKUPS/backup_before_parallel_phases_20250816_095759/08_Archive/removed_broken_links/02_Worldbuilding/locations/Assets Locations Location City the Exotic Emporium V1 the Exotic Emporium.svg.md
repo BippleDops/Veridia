@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Exotic Emporium V1 the Exotic Emporium.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the exotic emporium v1 the exotic emporiumsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -196,7 +196,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

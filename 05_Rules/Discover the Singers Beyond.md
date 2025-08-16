@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/[[Quests/Discover the Singers Beyond
 type: adventure
-tags: 
+tags:
 - adventure
 - quest
 - conspiracy

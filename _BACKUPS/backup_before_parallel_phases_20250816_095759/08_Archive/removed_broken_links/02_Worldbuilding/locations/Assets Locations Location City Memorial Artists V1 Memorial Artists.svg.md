@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Memorial Artists V1 Memorial Artists.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memorial artists v1 memorial artistssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

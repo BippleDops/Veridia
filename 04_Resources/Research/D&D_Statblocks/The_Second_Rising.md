@@ -2,7 +2,7 @@
 
 title: The_Second_Rising
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

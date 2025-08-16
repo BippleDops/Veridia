@@ -2,7 +2,7 @@
 
 title: 04_Resources/Assets/locations
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

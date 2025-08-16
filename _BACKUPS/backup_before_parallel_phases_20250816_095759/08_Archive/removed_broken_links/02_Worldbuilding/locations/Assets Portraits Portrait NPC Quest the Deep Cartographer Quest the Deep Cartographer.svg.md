@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Quest the Deep Cartographer Quest the Deep Cartographer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the deep cartographer quest the
   deep cartographersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

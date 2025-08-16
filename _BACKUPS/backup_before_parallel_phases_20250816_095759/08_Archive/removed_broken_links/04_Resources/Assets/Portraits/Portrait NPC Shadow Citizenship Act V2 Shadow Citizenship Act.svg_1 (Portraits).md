@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc shadow citizenship act v2 shadow citizenship actsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Shadow Citizenship Act V2 Shadow Citizenship Act.svg
 type: npc

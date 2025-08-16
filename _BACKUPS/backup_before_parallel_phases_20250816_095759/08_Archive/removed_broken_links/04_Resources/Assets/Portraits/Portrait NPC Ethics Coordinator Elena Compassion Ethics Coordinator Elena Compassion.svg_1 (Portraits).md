@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc ethics coordinator elena compassion ethics coordinator elena compassionsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Ethics Coordinator Elena Compassion Ethics Coordinator Elena Compassion.svg
 type: npc

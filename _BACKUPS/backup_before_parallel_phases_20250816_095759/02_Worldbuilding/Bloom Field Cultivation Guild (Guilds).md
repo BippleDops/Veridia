@@ -2,7 +2,7 @@
 
 title: Bloom Field Cultivation Guild
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/faction

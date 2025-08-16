@@ -2,7 +2,7 @@
 
 title: The Transformation Rights Movement
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

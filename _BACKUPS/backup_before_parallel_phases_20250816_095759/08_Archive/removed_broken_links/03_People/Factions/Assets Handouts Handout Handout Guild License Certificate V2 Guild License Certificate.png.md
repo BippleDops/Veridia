@@ -2,11 +2,11 @@
 
 title: Assets Handouts Handout Handout Guild License Certificate V2 Guild License
   Certificate.png
-aliases: 
+aliases:
 - 04 Resources Assets Handouts handout handout guild license certificate v2 guild
   license certificatepng
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

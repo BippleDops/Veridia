@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Emergency Protocols V1 Emergency Protocols.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city emergency protocols v1 emergency protocolssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

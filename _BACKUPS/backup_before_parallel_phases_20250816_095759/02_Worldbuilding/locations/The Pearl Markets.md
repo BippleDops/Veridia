@@ -2,7 +2,7 @@
 
 title: The Pearl Markets
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

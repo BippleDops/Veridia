@@ -2,7 +2,7 @@
 
 title: Concierge Phillip Gracewater
 type: Location
-tags: 
+tags:
 - helpful
 - aquabyssos
 - mechanics/social
@@ -119,14 +119,14 @@ Phillip's extensive knowledge of both [Aquabyssos]] and [[Aethermoor customs, co
 
 ## Physical Description
 
-**Race**: Sea Elf  
-**Age**: 89 years old (equivalent to mid-30s for humans)  
-**Height**: 5'10" (1.78m)  
-**Build**: Lean and graceful with excellent posture befitting his professional role  
+**Race**: Sea Elf
+**Age**: 89 years old (equivalent to mid-30s for humans)
+**Height**: 5'10" (1.78m)
+**Build**: Lean and graceful with excellent posture befitting his professional role
 
 **Physical Features**: Phillip exhibits the classic Sea Elf features of pale blue-green skin with a subtle luminescent quality in dim lighting. His hair is silver-white, always impeccably styled in a professional manner that works equally well in aquatic and atmospheric environments. His eyes are a deep ocean blue that sparkle with warmth and intelligence.
 
-**Distinctive Traits**: 
+**Distinctive Traits**:
 - **Embassy Pin**: Always wears the official embassy insignia indicating his position and authority
 - **Cultural Accessories**: Subtle jewelry and accessories that honor both [Aquabyssos]] and [[Aethermoor traditions
 - **Perfect Grooming**: Maintains an impeccable appearance that reflects the embassy's professional standards
@@ -177,7 +177,7 @@ Phillip suspects that someone has been using embassy events to gather intelligen
 
 ---
 
-*"Diplomacy succeeds when people feel heard, respected, and cared for. My role may be to serve refreshments and arrange accommodations, but really I'm serving understanding and peace."*  
+*"Diplomacy succeeds when people feel heard, respected, and cared for. My role may be to serve refreshments and arrange accommodations, but really I'm serving understanding and peace."*
 — Concierge Phillip Gracewater
 
 ## Player-Facing Summary

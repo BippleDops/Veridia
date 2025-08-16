@@ -2,7 +2,7 @@
 
 title: Economic Intelligence
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

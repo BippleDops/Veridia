@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence
   Deafmake.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry void echo silence deafmake v1 void echo
   silence deafmakesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

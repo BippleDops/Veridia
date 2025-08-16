@@ -1,7 +1,7 @@
 ---
 title: The Shadow Crystal Synthesis
 type: Faction
-tags: 
+tags:
 - status/complete
 - world/aquabyssos
 - content/faction

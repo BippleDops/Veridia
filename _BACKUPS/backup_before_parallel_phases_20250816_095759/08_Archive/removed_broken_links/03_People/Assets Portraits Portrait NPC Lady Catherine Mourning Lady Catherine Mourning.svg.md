@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Lady Catherine Mourning Lady Catherine Mourning.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc lady catherine mourning lady catherine
   mourningsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

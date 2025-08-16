@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city echo translator vera v1 echo translator verasvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Echo Translator Vera V1 Echo Translator Vera.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: [[Emperor|The [Emperor]]'s Gambit
 type: [[Lore
-tags: 
+tags:
 - lore
 - status/complete
 - dual
@@ -18,13 +18,13 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: draft
-connections: 
+connections:
 - '[[The Scattered Emperor'
 - '[Parliament of Echoes]]'
 - '[[Tidal Council'
 - '[Deep Mother]]'
 - '[[Coral|[[Marina Red Tide [Coralhear]]t - Aquabyssos (D&D_References)]]'
-themes: 
+themes:
 - political_manipulation
 - long_term_strategy
 - hidden_knowledge
@@ -105,7 +105,7 @@ Through his network of [Deep Mother]] scholars and surface-world [[Aethermoor co
 
 His "gambit" was a centuries-long plan involving:
 - Distributing fragments of his consciousness throughout key figures in both worlds
-- Establishing secret protocols within [[Parliament of Echoes for cross-dimensional cooperation  
+- Establishing secret protocols within [[Parliament of Echoes for cross-dimensional cooperation
 - Creating hidden knowledge caches accessible only during convergence events
 - Positioning loyal agents in positions where they could guide future heroes
 
@@ -197,7 +197,7 @@ If a character proves to be the chosen bloodline bearer:
 
 Two of the nine aspects have gone silent. Investigation reveals they may have been corrupted by [[Deep Mother influence. Can the PCs purify them before the final crisis?
 
-### The Impostor Emperor  
+### The Impostor Emperor
 
 Someone claiming to be the true Emperor has appeared in both worlds simultaneously. Are they genuine, or a cosmic horror wearing his form? How can the PCs determine the truth when reality itself is unstable?
 

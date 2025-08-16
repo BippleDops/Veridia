@@ -1,7 +1,7 @@
 ---
 title: 13_Performance/optimization_report_*.md
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

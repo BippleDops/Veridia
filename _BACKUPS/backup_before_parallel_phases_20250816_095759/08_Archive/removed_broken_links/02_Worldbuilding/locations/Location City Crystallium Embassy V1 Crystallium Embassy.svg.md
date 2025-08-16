@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city crystallium embassy v1 crystallium embassysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Crystallium Embassy V1 Crystallium Embassy.svg
 type: location

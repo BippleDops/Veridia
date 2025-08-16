@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Acolyte Sister Tidal Deepfaith Acolyte Sister
   Tidal Deepfaith.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city acolyte sister tidal deepfaith acolyte
   sister tidal deepfaithsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

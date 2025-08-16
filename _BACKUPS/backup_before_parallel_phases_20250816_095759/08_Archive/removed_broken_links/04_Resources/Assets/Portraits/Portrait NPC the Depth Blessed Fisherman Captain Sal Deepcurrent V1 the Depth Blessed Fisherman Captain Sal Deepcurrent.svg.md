@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the depth blessed fisherman captain sal deepcurrent v1 the depth blessed
   fisherman captain sal deepcurrentsvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent V1 the Depth
   Blessed Fisherman Captain Sal Deepcurrent.svg

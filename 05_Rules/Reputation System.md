@@ -2,7 +2,7 @@
 
 title: Reputation System
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - aerial

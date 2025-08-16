@@ -2,7 +2,7 @@
 
 title: Crystal Forest
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - mechanics/skill

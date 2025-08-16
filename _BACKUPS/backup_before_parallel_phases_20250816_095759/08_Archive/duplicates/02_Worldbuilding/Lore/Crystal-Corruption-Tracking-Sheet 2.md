@@ -5,7 +5,7 @@ created: '2025-08-08'
 created_by: auto-stub
 significance: Critical Safety System
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/lore

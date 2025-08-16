@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

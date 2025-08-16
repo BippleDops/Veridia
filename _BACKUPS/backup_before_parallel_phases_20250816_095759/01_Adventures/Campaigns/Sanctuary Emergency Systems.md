@@ -2,7 +2,7 @@
 
 title: Sanctuary Emergency Systems
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

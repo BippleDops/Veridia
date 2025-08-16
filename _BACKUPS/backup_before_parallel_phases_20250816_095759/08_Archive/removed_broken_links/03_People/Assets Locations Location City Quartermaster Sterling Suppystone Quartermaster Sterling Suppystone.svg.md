@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Quartermaster Sterling Suppystone Quartermaster
   Sterling Suppystone.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quartermaster sterling suppystone quartermaster
   sterling suppystonesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

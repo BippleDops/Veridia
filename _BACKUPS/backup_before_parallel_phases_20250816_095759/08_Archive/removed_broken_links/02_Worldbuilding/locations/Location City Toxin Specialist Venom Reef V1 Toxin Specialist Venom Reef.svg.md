@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city toxin specialist venom reef v1 toxin specialist venom reefsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Toxin Specialist Venom Reef V1 Toxin Specialist Venom Reef.svg
 type: location

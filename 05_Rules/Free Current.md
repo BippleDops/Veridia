@@ -1,7 +1,7 @@
 ---
 title: Free Current
 type: Location
-tags: 
+tags:
 - [[Aquabyssos
 - trade-route
 - status/complete
@@ -29,7 +29,7 @@ danger_level: 3
 established: Ancient natural phenomenon, organized 400+ years ago
 government: Collective Self-Goverce
 length: Over 2,000 miles of interconnected currents
-related_entities: 
+related_entities:
 - '[[[[Current Riders Guild|[02 Worldbuilding]]/[[Groups/Current Riders Guild]]'
 - '[[Abyssos Prime'
 - '[New Tethys]]'

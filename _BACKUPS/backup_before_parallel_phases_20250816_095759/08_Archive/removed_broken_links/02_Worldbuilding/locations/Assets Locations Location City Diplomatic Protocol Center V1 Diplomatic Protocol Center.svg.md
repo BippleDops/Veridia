@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Diplomatic Protocol Center V1 Diplomatic Protocol
   Center.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city diplomatic protocol center v1 diplomatic
   protocol centersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -193,7 +193,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-the-crystal-cathedral-of-pure-light.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

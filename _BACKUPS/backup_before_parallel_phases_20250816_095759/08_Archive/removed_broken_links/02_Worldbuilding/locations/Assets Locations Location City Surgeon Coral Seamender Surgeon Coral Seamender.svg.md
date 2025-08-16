@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Surgeon Coral Seamender Surgeon Coral Seamender.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surgeon coral seamender surgeon coral
   seamendersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

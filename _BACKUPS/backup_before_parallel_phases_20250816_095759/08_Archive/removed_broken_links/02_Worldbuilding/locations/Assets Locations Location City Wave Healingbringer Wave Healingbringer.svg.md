@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Wave Healingbringer Wave Healingbringer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wave healingbringer wave healingbringersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

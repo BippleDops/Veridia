@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Shadow Market Canals V1 Shadow Market Canals.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city shadow market canals v1 shadow market
   canalssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

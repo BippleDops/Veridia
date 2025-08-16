@@ -2,7 +2,7 @@
 
 title: The Forgetting Bomb
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - technology
@@ -112,7 +112,7 @@ The Forgetting Bomb represents the pinnacle of [The Memory Weapon Arms Race]] - 
 
 **Blast Characteristics:**
 - **Primary Radius**: Complete amnesia within 2-mile radius
-- **Secondary Radius**: Partial memory loss within 5-mile radius  
+- **Secondary Radius**: Partial memory loss within 5-mile radius
 - **Tertiary Effects**: Memory confusion and disorientation within 10-mile radius
 - **Duration**: Permanent memory loss, effects irreversible with current technology
 - **Activation**: Pressure-triggered detonation or remote crystalline resoce

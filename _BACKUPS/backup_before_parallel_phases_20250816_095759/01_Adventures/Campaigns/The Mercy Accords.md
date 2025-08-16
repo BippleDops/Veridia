@@ -2,7 +2,7 @@
 
 title: The Mercy Accords
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

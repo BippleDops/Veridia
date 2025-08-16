@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Memory Sanctity Laws V1 Memory Sanctity Laws.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory sanctity laws v1 memory sanctity
   lawssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

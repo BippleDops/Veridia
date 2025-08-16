@@ -2,7 +2,7 @@
 
 title: Whisper Island Docks
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Keeper Deepcurrent V1 Keeper Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper deepcurrent v1 keeper deepcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

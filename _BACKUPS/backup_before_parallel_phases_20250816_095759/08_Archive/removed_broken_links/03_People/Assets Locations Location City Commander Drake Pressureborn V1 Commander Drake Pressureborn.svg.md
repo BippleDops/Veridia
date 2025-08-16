@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Commander Drake Pressureborn V1 Commander Drake
   Pressureborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city commander drake pressureborn v1 commander
   drake pressurebornsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -217,7 +217,7 @@ Mentioned in The First Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

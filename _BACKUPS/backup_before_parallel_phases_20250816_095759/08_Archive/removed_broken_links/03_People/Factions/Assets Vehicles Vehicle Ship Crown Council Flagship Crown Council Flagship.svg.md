@@ -1,10 +1,10 @@
 ---
 
 title: Assets Vehicles Vehicle Ship Crown Council Flagship Crown Council Flagship.svg
-aliases: 
+aliases:
 - 04 Resources Assets Vehicles vehicle ship crown council flagship crown council flagshipsvg
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

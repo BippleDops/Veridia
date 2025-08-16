@@ -4,7 +4,7 @@ created: '2025-08-08'
 created_by: auto-stub
 significance: Campaign-Critical
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/lore
@@ -217,7 +217,7 @@ Beings that have evolved specifically within Merged Reality Zones:
 **Echo Residents:**
 Individuals from both worlds who have become permanently adapted:
 - **Dual Existence**: Living simultaneously in both realities
-- **Enhanced Awareness**: Understanding consequences of actions across dimensions  
+- **Enhanced Awareness**: Understanding consequences of actions across dimensions
 - **Reality Fluency**: Ability to function regardless of local physics
 - **Memory Integration**: Experiences from both worlds merged into single identity
 - **Transformation Resistance**: Immune to negative effects of reality shifts
@@ -444,7 +444,7 @@ Merged Reality Zones serve as preview and preparation for the ultimate [02_World
 > [!warning] DM Secret
 > The largest and most stable merged zones have developed their own collective consciousness—a fusion of divine awareness from both realities. These zone minds are neither malevolent nor benevolent, but they do have their own agenda: expanding their influence and creating more stable merged areas. They may secretly guide or manipulate visitors to achieve these goals.
 
-### The Ultimate Purpose  
+### The Ultimate Purpose
 > [!warning] Hidden Knowledge
 > The zones are not just preview of convergence—they're the mechanism by which convergence will occur. As zones expand and merge with each other, they will eventually cover both entire worlds. The final convergence will happen when the last non-merged areas are absorbed, creating a single hybrid reality where both worlds' rules apply everywhere.
 

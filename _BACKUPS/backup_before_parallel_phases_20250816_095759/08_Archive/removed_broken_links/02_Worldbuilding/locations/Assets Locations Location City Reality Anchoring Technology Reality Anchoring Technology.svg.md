@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Reality Anchoring Technology Reality Anchoring
   Technology.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reality anchoring technology reality
   anchoring technologysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

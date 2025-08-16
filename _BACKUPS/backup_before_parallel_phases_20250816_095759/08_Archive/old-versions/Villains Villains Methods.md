@@ -2,7 +2,7 @@
 
 title: Villains Villains Methods
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

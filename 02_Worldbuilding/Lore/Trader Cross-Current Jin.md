@@ -2,7 +2,7 @@
 
 title: Trader Cross Current Jin
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,7 +2,7 @@
 
 title: Symbol Heraldry Factional Conflicts Factional Conflicts.svg
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

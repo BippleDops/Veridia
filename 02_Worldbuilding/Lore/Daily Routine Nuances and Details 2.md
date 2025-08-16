@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags: 
+tags:
 - both
 - complete
 - comprehensive
@@ -91,7 +91,7 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 - Taking turns operating secondary systems (navigation, comfort) shows community spirit
 - Emergency procedures practiced monthly by regular passenger groups
 
-### Aethermoor Transportation Timing  
+### Aethermoor Transportation Timing
 **Aerial Traffic Patterns**:
 - Morning flights follow rising thermal currents for energy efficiency
 - Afternoon flights use stable high-pressure systems for predictable routing

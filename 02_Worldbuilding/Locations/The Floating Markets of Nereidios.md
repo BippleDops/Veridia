@@ -2,7 +2,7 @@
 
 title: The [[Floating Markets of [Nereidios]]
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the golden trade route v1 the golden trade routesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Golden Trade Route V1 the Golden Trade Route.svg
 type: location

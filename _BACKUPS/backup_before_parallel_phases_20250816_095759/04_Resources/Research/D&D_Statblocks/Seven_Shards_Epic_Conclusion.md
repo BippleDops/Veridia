@@ -2,7 +2,7 @@
 
 title: Seven_Shards_Epic_Conclusion
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

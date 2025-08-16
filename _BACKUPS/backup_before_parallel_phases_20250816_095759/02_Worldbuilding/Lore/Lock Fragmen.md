@@ -2,7 +2,7 @@
 
 title: Lock Fragmen
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Mobile Terror Platform Mobile Terror Platform.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry mobile terror platform mobile terror
   platformsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

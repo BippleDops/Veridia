@@ -76,7 +76,7 @@
 `dice: `dice: 2d6``
 
 2-3: Hostile
-4-5: Unfriendly  
+4-5: Unfriendly
 6-8: Neutral
 9-10: Friendly
 11-12: Helpful

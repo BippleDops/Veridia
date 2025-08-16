@@ -2,7 +2,7 @@
 
 title: Shadow Merchant Riptide
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - content/faction
@@ -42,9 +42,9 @@ improvements: 20
 
 # Shadow Merchant Riptide
 
-**Role:** Information Broker and Black Market Dealer  
-**Location:** [[Shadow Market Canals - Mobile operations  
-**Affiliations:** [Shadow Surgeons Collective]], [[The Whisper Syndicate  
+**Role:** Information Broker and Black Market Dealer
+**Location:** [[Shadow Market Canals - Mobile operations
+**Affiliations:** [Shadow Surgeons Collective]], [[The Whisper Syndicate
 **Specialties:** Memory trafficking, identity forgery, political blackmail
 
 ## 🔧 Deep Evaluation Improvements
@@ -105,7 +105,7 @@ Riptide operates as one of [Aquabyssos]]'s most dangerous information brokers, d
 ## Appearance and Demeanor
 **Physical**: Tall, gaunt figure with pale skin marked by surgical scars. His eyes constantly shift color due to crystalline implants that help him process stolen memories. Wears expensive but understated clothing that conceals numerous hidden weapons and magical devices.
 
-**Mannerisms**: 
+**Mannerisms**:
 - Speaks in whispers, forcing others to lean in to hear him
 - Frequently references conversations and events he shouldn't know about
 - Touches his temple when accessing implanted memories
@@ -113,15 +113,15 @@ Riptide operates as one of [Aquabyssos]]'s most dangerous information brokers, d
 - Always has three escape routes planned
 
 ## Background and History
-**Origins**: Former [[Memory Farmers apprentice who discovered the profit potential in stolen experiences  
-**Corruption**: Made a pact with an entity from the shadow realm in exchange for power over memories  
-**Rise to Power**: Systematically blackmailed his way into becoming one of [Aquabyssos]]'s most feared criminals  
+**Origins**: Former [[Memory Farmers apprentice who discovered the profit potential in stolen experiences
+**Corruption**: Made a pact with an entity from the shadow realm in exchange for power over memories
+**Rise to Power**: Systematically blackmailed his way into becoming one of [Aquabyssos]]'s most feared criminals
 **Current Status**: Untouchable due to the secrets he holds, but constantly paranoid about rivals
 
 ### Combat Capabilities
-**AS**: 16 (Studded Leather + Dex)  
-**HP**: 112 (`dice: 16d8` + 32)  
-**Speed**: 30 ft., swim 40 ft.  
+**AS**: 16 (Studded Leather + Dex)
+**HP**: 112 (`dice: 16d8` + 32)
+**Speed**: 30 ft., swim 40 ft.
 **Saving Throws**: Dex +8, Cha +6
 
 **Key Abilities**:
@@ -132,81 +132,81 @@ Riptide operates as one of [Aquabyssos]]'s most dangerous information brokers, d
 - **Uncanny Dodge**: Half damage from one attack per round
 
 ### Magical Equipment
-**Ring of Memory Storage**: Can store up to 12 complete memory sequences  
-**Cloak of Displacement**: Disadvantage on attacks against him  
-**Dagger of Soul Cutting**: Weapon that damages both body and memories  
+**Ring of Memory Storage**: Can store up to 12 complete memory sequences
+**Cloak of Displacement**: Disadvantage on attacks against him
+**Dagger of Soul Cutting**: Weapon that damages both body and memories
 **Crystal of True Sight**: See through illusions and detect magical deceptions
 
 ### Information Network
-**Informants**: 200+ agents throughout [[Aquabyssos and beyond  
-**Memory Banks**: Vast collection of stolen experiences organized by subject  
-**Blackmail Files**: Compromising information on dozens of powerful figures  
+**Informants**: 200+ agents throughout [[Aquabyssos and beyond
+**Memory Banks**: Vast collection of stolen experiences organized by subject
+**Blackmail Files**: Compromising information on dozens of powerful figures
 **Communication Network**: Crystal-based system for instant contact with agents
 
 ### Information Brokerage
-**Memory Trades**: Buying and selling extracted experiences  
-**Intelligence Gathering**: Surveillance and espionage services  
-**Identity Verification**: Confirming or exposing false identities  
+**Memory Trades**: Buying and selling extracted experiences
+**Intelligence Gathering**: Surveillance and espionage services
+**Identity Verification**: Confirming or exposing false identities
 **Political Intelligence**: Information about government activities and plans
 
 ### Criminal Services
-**Memory Laundering**: Cleaning stolen memories to make them untraceable  
-**Identity Forgery**: Creating complete false backgrounds and personalities  
-**Blackmail Operations**: Leveraging compromising information for profit  
+**Memory Laundering**: Cleaning stolen memories to make them untraceable
+**Identity Forgery**: Creating complete false backgrounds and personalities
+**Blackmail Operations**: Leveraging compromising information for profit
 **Contract Killing**: "Assassination" through complete memory erasure
 
 ### Clients and Contacts
-**Criminal Organizations**: Regular business with all major underworld groups  
-**Corrupt Officials**: Government figures who buy silence and favorable information  
-**Wealthy Patrons**: Rich individuals seeking embarrassing memories removed  
+**Criminal Organizations**: Regular business with all major underworld groups
+**Corrupt Officials**: Government figures who buy silence and favorable information
+**Wealthy Patrons**: Rich individuals seeking embarrassing memories removed
 **Foreign Agents**: Spies from other realms purchasing sensitive intelligence
 
 ### The Parliament Project
-**Goal**: Collect compromising memories from all [Parliament of Echoes]] members  
-**Method**: Infiltration through corrupted staff and staged "accidents"  
-**Purpose**: Ultimate political control through comprehensive blackmail  
+**Goal**: Collect compromising memories from all [Parliament of Echoes]] members
+**Method**: Infiltration through corrupted staff and staged "accidents"
+**Purpose**: Ultimate political control through comprehensive blackmail
 **Progress**: 60% complete, accelerating due to recent opportunities
 
 ### The Surface Connection
-**Goal**: Establish information trading network with [[Aethermoor  
-**Method**: Working through surface smugglers and diplomatic contacts  
-**Purpose**: Corner the market on inter-realm intelligence  
+**Goal**: Establish information trading network with [[Aethermoor
+**Method**: Working through surface smugglers and diplomatic contacts
+**Purpose**: Corner the market on inter-realm intelligence
 **Obstacles**: [Admiral Thorne Blackwater]]'s increased security measures
 
 ### The Memory Monopoly
-**Goal**: Control all memory-related criminal activities in [[Aquabyssos  
-**Method**: Systematically eliminating or absorbing rival operations  
-**Purpose**: Become the sole source of memory trafficking services  
+**Goal**: Control all memory-related criminal activities in [[Aquabyssos
+**Method**: Systematically eliminating or absorbing rival operations
+**Purpose**: Become the sole source of memory trafficking services
 **Current Target**: [Memory Farmers]] traditional operations
 
 ### Allies and Partners
-**[[Shadow Surgeons Collective**: Primary supplier of extracted memories  
-**[The Whisper Syndicate]]**: Information sharing and joint operations  
-**Corrupt Senator Marcus**: Government protection in exchange for services  
+**[[Shadow Surgeons Collective**: Primary supplier of extracted memories
+**[The Whisper Syndicate]]**: Information sharing and joint operations
+**Corrupt Senator Marcus**: Government protection in exchange for services
 **Agent Nightfall**: Personal bodyguard and enforcer with mysterious background
 
 ### Enemies and Rivals
-**[[Admiral Thorne Blackwater]]**: Active investigation threatens operations  
-**The Memory Detective**: Former client turned hunter seeking revenge  
-**Rival Broker "Echo"**: Competing information dealer trying to eliminate Riptide  
+**[[Admiral Thorne Blackwater]]**: Active investigation threatens operations
+**The Memory Detective**: Former client turned hunter seeking revenge
+**Rival Broker "Echo"**: Competing information dealer trying to eliminate Riptide
 **His Former Partner**: Someone he betrayed who now works against him
 
 ### Reputation in Different Circles
-**Criminal Underworld**: Respected and feared as the ultimate information source  
-**Government Officials**: Known as dangerous but sometimes necessary contact  
-**General Public**: Urban legend figure - most believe he doesn't really exist  
+**Criminal Underworld**: Respected and feared as the ultimate information source
+**Government Officials**: Known as dangerous but sometimes necessary contact
+**General Public**: Urban legend figure - most believe he doesn't really exist
 **Law Enforcement**: Priority target but untouchable due to political connections
 
 ### The Warlock Pact
-**Patron**: Entity known as "The Forgotten God" from the shadow realm  
-**Price**: Must feed his patron a certain number of memories each month  
-**Power**: Enhanced ability to manipulate and steal memories  
+**Patron**: Entity known as "The Forgotten God" from the shadow realm
+**Price**: Must feed his patron a certain number of memories each month
+**Power**: Enhanced ability to manipulate and steal memories
 **Consequence**: Slowly losing his own identity as patron consumes his memories
 
 ### Personal Vulnerabilities
-**Memory Fragmentation**: Can't remember his original name or early life  
-**Patron Dependency**: Without regular memory sacrifices, loses all supernatural abilities  
-**Trust Issues**: Paranoid behavior stems from accurate assessment of constant danger  
+**Memory Fragmentation**: Can't remember his original name or early life
+**Patron Dependency**: Without regular memory sacrifices, loses all supernatural abilities
+**Trust Issues**: Paranoid behavior stems from accurate assessment of constant danger
 **Hidden Conscience**: Still experiences guilt about his victims, buried deep in his psyche
 
 ### Key Locations
@@ -307,7 +307,7 @@ Mentioned in The Second Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

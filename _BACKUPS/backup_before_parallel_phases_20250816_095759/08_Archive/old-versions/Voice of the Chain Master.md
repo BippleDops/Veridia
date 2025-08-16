@@ -2,7 +2,7 @@
 
 title: Voice of the Chain Master
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

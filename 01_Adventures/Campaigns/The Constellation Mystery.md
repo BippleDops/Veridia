@@ -2,7 +2,7 @@
 
 title: The Constellation Mystery
 type: Location
-tags: 
+tags:
 - mystery
 - aquabyssos
 - ancient-knowledge

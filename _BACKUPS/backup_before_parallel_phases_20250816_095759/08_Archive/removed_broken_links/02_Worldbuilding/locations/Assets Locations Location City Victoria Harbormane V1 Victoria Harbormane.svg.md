@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Victoria Harbormane V1 Victoria Harbormane.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city victoria harbormane v1 victoria harbormanesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -174,7 +174,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

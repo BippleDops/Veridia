@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc master of currents poseidon master of currents poseidonsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Master of Currents Poseidon Master of Currents Poseidon.svg
 type: npc

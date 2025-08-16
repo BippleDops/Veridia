@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Admiral Thalassa Stormcurrent V1 Admiral Thalassa
   Stormcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city admiral thalassa stormcurrent v1 admiral
   thalassa stormcurrentsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

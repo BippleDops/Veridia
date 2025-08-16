@@ -2,7 +2,7 @@
 
 title: Living Librar
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[Npc]]

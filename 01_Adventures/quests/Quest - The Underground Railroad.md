@@ -65,7 +65,7 @@ publish: false
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
-- Moral dilemmas # Quest - The Underground Railroad 
+- Moral dilemmas # Quest - The Underground Railroad
 *The [texture] surface feels [description] to the touch.*---
 
 title: Quest The Underground Railroad

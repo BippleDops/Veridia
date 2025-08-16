@@ -2,7 +2,7 @@
 
 title: Environmental Challenge Guidelines
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

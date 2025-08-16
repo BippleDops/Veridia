@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Wandering Prophet Coral Stormrider V1 Wandering
   Prophet Coral Stormrider.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city wandering prophet coral stormrider v1
   wandering prophet coral stormridersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

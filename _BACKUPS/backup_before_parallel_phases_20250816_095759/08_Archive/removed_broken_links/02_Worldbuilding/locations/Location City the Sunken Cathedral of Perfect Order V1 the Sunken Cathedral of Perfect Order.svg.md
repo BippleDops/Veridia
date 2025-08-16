@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the sunken cathedral of perfect order v1 the sunken cathedral of perfect
   ordersvg
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Sunken Cathedral of Perfect Order V1 the Sunken Cathedral
   of Perfect Order.svg

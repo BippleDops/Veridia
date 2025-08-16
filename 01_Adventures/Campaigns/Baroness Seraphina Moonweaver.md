@@ -2,7 +2,7 @@
 
 title: Baroness Seraphina Moonweaver
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

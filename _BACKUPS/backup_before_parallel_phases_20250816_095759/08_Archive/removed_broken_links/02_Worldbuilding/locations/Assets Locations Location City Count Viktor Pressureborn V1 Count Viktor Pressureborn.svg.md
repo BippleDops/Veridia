@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Count Viktor Pressureborn V1 Count Viktor Pressureborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city count viktor pressureborn v1 count viktor
   pressurebornsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

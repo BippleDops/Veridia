@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Services/Dimensional Stability Analysis
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

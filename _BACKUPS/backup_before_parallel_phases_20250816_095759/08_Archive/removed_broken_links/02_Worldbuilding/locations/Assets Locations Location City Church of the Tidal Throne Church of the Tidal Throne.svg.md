@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Church of the Tidal Throne Church of the Tidal
   Throne.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city church of the tidal throne church of
   the tidal thronesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: pat
 type: Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

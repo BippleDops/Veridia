@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city quest the truth unveiled v1 quest the truth unveiledsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Quest the Truth Unveiled V1 Quest the Truth Unveiled.svg
 type: location

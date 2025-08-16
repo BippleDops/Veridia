@@ -2,7 +2,7 @@
 
 title: [[Aquabyssos Shadow Pools
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - active

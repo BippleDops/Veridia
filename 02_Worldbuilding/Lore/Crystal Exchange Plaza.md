@@ -2,7 +2,7 @@
 
 title: Crystal Exchange Plaza
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

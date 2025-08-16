@@ -2,7 +2,7 @@
 
 title: gith-tables-githzerai-names-male-mtf (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

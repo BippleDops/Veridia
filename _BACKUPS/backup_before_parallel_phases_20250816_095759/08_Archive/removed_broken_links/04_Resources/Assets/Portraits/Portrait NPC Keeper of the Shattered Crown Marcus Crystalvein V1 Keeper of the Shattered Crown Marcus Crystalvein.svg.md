@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc keeper of the shattered crown marcus crystalvein v1 keeper of the shattered
   crown marcus crystalveinsvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V1 Keeper of
   the Shattered Crown Marcus Crystalvein.svg

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memoriam Keeper Marcus Remembrance V1 Memoriam
   Keeper Marcus Remembrance.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memoriam keeper marcus remembrance v1
   memoriam keeper marcus remembrancesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

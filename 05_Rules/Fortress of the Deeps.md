@@ -2,7 +2,7 @@
 
 title: Fortress of the Deeps
 type: [[location
-tags: 
+tags:
 - [Lore]]
 - aquabyssos
 - military-base
@@ -25,7 +25,7 @@ population: 5000
 access: Military Personnel Only
 architecture: Reinforced Deep-Ocean Construction
 commander: '[[Commander Typhoon Blackheart'
-connected_locations: 
+connected_locations:
 - '[Abyssos Prime]]'
 - '[[The Cerulean Trench'
 - '[[Krake|[[[Krake]]n]] Territories]]'
@@ -35,7 +35,7 @@ current_state: Full operational readiness
 danger_level: 5
 depth: 8000-12000 feet
 discovered: false
-factions: 
+factions:
 - '[[Depth Warden|The [Depth Wardens]]'
 - '[[Deep Strike Forces'
 - '[Abyssal Intelligence Corps]]'
@@ -43,7 +43,7 @@ factions:
 government: [Military Command]] Structure
 location_name: Fortress of the Deeps
 location_type: Military Fortress and Command Center
-notable_[[Npcs: 
+notable_[[Npcs:
 - '[Commander Typhoon Blackheart]]'
 - '[[Major Hadal Deepstrike'
 - '[Intelligence Chief Marina Shadowcurrent]]'
@@ -52,7 +52,7 @@ parent_location: '[The Abyssal Reaches]]'
 pressure_effects: Extreme - Specialized equipment required
 ruler: '[[Commander Typhoon Blackheart'
 security_level: Maximum
-services: 
+services:
 - Military Command and Control
 - Deep-Ocean Combat Training
 - [Emergency Response Coordination]]
@@ -60,7 +60,7 @@ services:
 - Advanced Weapons Testing
 shadow_density: High - Constantly monitored
 size: Massive Military Complex
-sub_locations: 
+sub_locations:
 - '[[Command Center Alpha'
 - '[The Pressure Training Grounds]]'
 - '[[Deep Strike Operations Center'
@@ -645,7 +645,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - **Aberration**: [Aboleth]]
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 8
-  
+
 ### [[Environmental Hazards
 - Pit trap
 - **DC 12** to detect
@@ -663,7 +663,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - **Recent History**: Plague 18 years ago
 - **Living Memory**: Miracle last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Election in 26 days
 - **Brewing Conflict**: Succession
 - **Prophecy Connection**: [[Link]]s to The First Prophecy of Depths
@@ -682,7 +682,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

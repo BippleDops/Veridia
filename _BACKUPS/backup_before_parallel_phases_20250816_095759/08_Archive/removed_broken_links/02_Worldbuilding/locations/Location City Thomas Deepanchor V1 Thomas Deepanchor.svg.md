@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city thomas deepanchor v1 thomas deepanchorsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Thomas Deepanchor V1 Thomas Deepanchor.svg
 type: location

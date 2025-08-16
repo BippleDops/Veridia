@@ -2,7 +2,7 @@
 
 title: The Void Breach
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

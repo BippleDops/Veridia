@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc coral empress scarletina v1 coral empress scarletinasvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Coral Empress Scarletina V1 Coral Empress Scarletina.svg
 type: npc

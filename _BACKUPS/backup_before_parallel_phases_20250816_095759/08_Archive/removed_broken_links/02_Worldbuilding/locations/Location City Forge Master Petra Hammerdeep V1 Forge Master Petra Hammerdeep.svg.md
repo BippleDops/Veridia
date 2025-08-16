@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city forge master petra hammerdeep v1 forge master petra hammerdeepsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Forge Master Petra Hammerdeep V1 Forge Master Petra Hammerdeep.svg
 type: location

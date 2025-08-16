@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location
@@ -34,7 +34,7 @@ Built around a naturally occurring convergence of ley lines that channel mystica
 ### The Crystal Throne Complex
 The room's centerpiece consists of a magnificent throne carved from a single massive crystal that seems to capture and amplify light from unknown sources. The throne appears to be grown rather than constructed, with organic curves and natural formations that suggest it developed through mystical rather than conventional processes. The crystal changes color and intensity based on the emotional state and political authority of whoever occupies it.
 
-### The Convergence Architecture  
+### The Convergence Architecture
 The chamber's design channels mystical energies through careful architectural arrangements that focus power toward the throne while creating an atmosphere of awe and reverence. Columns of living crystal support a vaulted ceiling that displays shifting patterns of light representing the current state of the kingdom's magical and political balance.
 
 ## Notable Features and Landmarks
@@ -67,7 +67,7 @@ Advanced magical systems that allow the throne room to serve as a command center
 **Goals**: Ensuring royal safety while maintaining the openness necessary for effective governance
 
 ### Court Wizard Sage Crystal Channelflow
-**Role**: Master of Royal Magic and Mystical Affairs Advisor  
+**Role**: Master of Royal Magic and Mystical Affairs Advisor
 **Personality**: Scholarly expert in the magical systems that support royal authority
 **Goals**: Maintaining the mystical foundations of royal power while advising on supernatural threats
 
@@ -92,7 +92,7 @@ Competing claims to the throne require formal adjudication in the throne room, c
 ### The Diplomatic Hostage Situation
 Foreign representatives are taken hostage during a formal audience, trapping important political figures in the throne room and requiring delicate negotiation to resolve.
 
-### The Royal Assassination Attempt  
+### The Royal Assassination Attempt
 Intelligence suggests that enemies plan to strike during a major ceremonial event, requiring characters to provide security while maintaining the dignity and openness of royal functions.
 
 ### The Mystical Authority Theft
@@ -163,7 +163,7 @@ Permission to wear or use items associated with court ceremony.
 
 ### Skill Checks and DCs
 **Court Protocol**: Intelligence (History) or Charisma (Persuasion) **DC 15** to navigate complex court customs appropriately.
-**Royal Audience**: Charisma (Performance) **DC 16** to make effective presentations to royal court.  
+**Royal Audience**: Charisma (Performance) **DC 16** to make effective presentations to royal court.
 **Political Negotiation**: Various social skills **DC 14**-20 depending on the complexity and stakes of political discussions.
 **Mystical Systems**: Intelligence (Arcana) **DC 18** to understand or interact with the throne room's magical infrastructure.
 

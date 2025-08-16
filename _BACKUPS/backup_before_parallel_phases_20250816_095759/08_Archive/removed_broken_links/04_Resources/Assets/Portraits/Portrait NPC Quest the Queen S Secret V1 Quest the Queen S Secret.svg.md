@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the queen s secret v1 quest the queen s secretsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Queen S Secret V1 Quest the Queen S Secret.svg
 type: npc

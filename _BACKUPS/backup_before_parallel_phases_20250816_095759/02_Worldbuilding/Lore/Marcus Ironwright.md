@@ -2,7 +2,7 @@
 
 title: Marcus Ironwright
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

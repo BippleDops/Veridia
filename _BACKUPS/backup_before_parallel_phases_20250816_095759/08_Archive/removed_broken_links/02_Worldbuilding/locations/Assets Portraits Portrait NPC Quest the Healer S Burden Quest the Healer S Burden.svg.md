@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Healer S Burden Quest the Healer S
   Burden.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the healer s burden quest the healer
   s burdensvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: The Soul Forge
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

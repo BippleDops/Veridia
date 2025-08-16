@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Crystal Garden
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

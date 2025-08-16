@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Living Quarters the Living Quarters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the living quarters the living quarterssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

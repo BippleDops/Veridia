@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Pressure Suit Malfunction Pressure Suit Malfunction.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure suit malfunction pressure suit
   malfunctionsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

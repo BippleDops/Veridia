@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Memorial Wall of Names V1 Memorial Wall of Names.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memorial wall of names v1 memorial wall
   of namespng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Pressure Portals
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location
@@ -156,7 +156,7 @@ Ongoing situations affecting Pressure Portals:
 - **Undead**: skeleton
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 20
-  
+
 ### [[Environmental Hazards
 - Pit trap
 - **DC 15** to detect

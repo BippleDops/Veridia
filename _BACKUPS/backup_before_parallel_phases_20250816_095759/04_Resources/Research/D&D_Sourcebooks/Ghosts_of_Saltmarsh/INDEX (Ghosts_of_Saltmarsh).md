@@ -2,7 +2,7 @@
 
 title: INDEX (Ghosts_of_Saltmarsh)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

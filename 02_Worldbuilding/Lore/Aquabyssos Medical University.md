@@ -2,7 +2,7 @@
 
 title: [[Aquabyssos Medical University
 type: [Lore]]
-tags: 
+tags:
 - lore
 - aquabyssos
 - world/aquabyssos

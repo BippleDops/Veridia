@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Sunken Senate the Sunken Senate.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sunken senate the sunken senatesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

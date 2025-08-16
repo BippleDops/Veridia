@@ -2,7 +2,7 @@
 
 title: The Convergence Laboratory
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

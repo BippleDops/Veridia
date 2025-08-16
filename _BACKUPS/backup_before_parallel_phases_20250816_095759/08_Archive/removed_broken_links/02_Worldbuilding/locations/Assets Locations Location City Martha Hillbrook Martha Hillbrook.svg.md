@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Martha Hillbrook Martha Hillbrook.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city martha hillbrook martha hillbrooksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

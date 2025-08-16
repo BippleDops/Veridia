@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Forge of War Forge of War.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city forge of war forge of warsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

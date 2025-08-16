@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aethermoor
 - complete
 - content/location

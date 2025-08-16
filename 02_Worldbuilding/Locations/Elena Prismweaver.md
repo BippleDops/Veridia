@@ -2,7 +2,7 @@
 
 title: Elena Prismweaver
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

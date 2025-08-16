@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the foundation depths v1 the foundation depthssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Foundation Depths V1 the Foundation Depths.svg
 type: location

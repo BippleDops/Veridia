@@ -2,7 +2,7 @@
 
 title: potion-of-frost-giant-strength-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

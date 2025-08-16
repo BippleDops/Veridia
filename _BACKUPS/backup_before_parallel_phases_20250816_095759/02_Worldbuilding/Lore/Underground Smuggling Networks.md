@@ -2,7 +2,7 @@
 
 title: Underground Smuggling Networks
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - underground
@@ -91,10 +91,10 @@ The Crystal Plague crisis has created a complex underground economy built around
 
 ### The Harbor Liberation Front
 
-**Leadership:** "Captain Freewind" (identity unknown, suspected former naval officer)  
-**Membership:** 40-60 active operatives, 200+ sym[path]]izers and support network  
-**Territory:** [[Port Meridian Harbor district and surrounding coastal areas  
-**Specialty:** Evacuating quarantine violators and transporting them to safe havens  
+**Leadership:** "Captain Freewind" (identity unknown, suspected former naval officer)
+**Membership:** 40-60 active operatives, 200+ sym[path]]izers and support network
+**Territory:** [[Port Meridian Harbor district and surrounding coastal areas
+**Specialty:** Evacuating quarantine violators and transporting them to safe havens
 **Ideology:** Government quarantine policies violate fundamental human rights
 
 #### Operational Methods
@@ -114,7 +114,7 @@ Underground railroad network that moves [People]] through a series of safe house
 - Transportation: Pack animals and underground cave networks
 - Destination: Remote mountain communities practicing traditional healing methods
 
-*Route 3 - The Foreign Connection:*  
+*Route 3 - The Foreign Connection:*
 - Starting Point: Any major population center
 - Safe Houses: [[Embassy District|[Embassy District]]s]] and diplomatic safe houses
 - Transportation: Diplomatic pouches and foreign [[Merchant vessels
@@ -123,23 +123,23 @@ Underground railroad network that moves [People]] through a series of safe house
 #### Notable Operations
 
 **Operation Family Reunion**
-*Scale:* Successfully evacuated 47 individuals from Port Meridian Level 3 quarantine zone  
-*Method:* Coordinated distraction involving fake fire emergency while extraction teams moved families through sewer tunnels  
-*Outcome:* 23 people relocated to mountain communities, 24 transported to foreign safe havens  
+*Scale:* Successfully evacuated 47 individuals from Port Meridian Level 3 quarantine zone
+*Method:* Coordinated distraction involving fake fire emergency while extraction teams moved families through sewer tunnels
+*Outcome:* 23 people relocated to mountain communities, 24 transported to foreign safe havens
 *Government Response:* Complete review of quarantine zone security, 15 enforcement officers reassigned
 
-**The Children's Exodus**  
-*Scale:* Relocated 12 infected children from government [Crystal Plague Wards]] to [[Crystal Cult Temples sanctuary  
-*Controversy:* Parents consented to removal but legal guardianship questions remain unresolved  
-*Method:* Corrupt medical staff provided access and distraction while transport team removed children during shift change  
+**The Children's Exodus**
+*Scale:* Relocated 12 infected children from government [Crystal Plague Wards]] to [[Crystal Cult Temples sanctuary
+*Controversy:* Parents consented to removal but legal guardianship questions remain unresolved
+*Method:* Corrupt medical staff provided access and distraction while transport team removed children during shift change
 *Impact:* Major security overhaul at all medical facilities, investigation of medical staff loyalties
 
 ### The Mercy Runners
 
-**Leadership:** Dr. Elena Compassion (expelled medical researcher, operates under multiple aliases)  
-**Membership:** 25 active medical personnel, 15 transport specialists  
-**Territory:** Entire kingdom through mobile operations  
-**Specialty:** Delivering medical supplies and treatments to quarantine zones and unofficial medical facilities  
+**Leadership:** Dr. Elena Compassion (expelled medical researcher, operates under multiple aliases)
+**Membership:** 25 active medical personnel, 15 transport specialists
+**Territory:** Entire kingdom through mobile operations
+**Specialty:** Delivering medical supplies and treatments to quarantine zones and unofficial medical facilities
 **Funding:** Combination of donations, [Black Market Crystal Trade]] sales, and foreign support
 
 #### Supply Chain Operations
@@ -183,10 +183,10 @@ Provides access to experimental treatments and cures not available through offic
 
 ### The Identity Underground
 
-**Leadership:** "The Scribe" (master forger, possibly multiple individuals)  
-**Membership:** 15 document specialists, 30+ support personnel  
-**Territory:** Major urban centers with focus on Port Meridian  
-**Specialty:** Creating false identities for plague victims seeking to escape quarantine or discrimination  
+**Leadership:** "The Scribe" (master forger, possibly multiple individuals)
+**Membership:** 15 document specialists, 30+ support personnel
+**Territory:** Major urban centers with focus on Port Meridian
+**Specialty:** Creating false identities for plague victims seeking to escape quarantine or discrimination
 **Client Base:** Stage 3-4 patients, quarantine violators, families of infected individuals
 
 #### Document Services
@@ -196,7 +196,7 @@ Professional-quality false documents certifying individuals as plague-free, allo
 
 *Document Types:*
 - Official health certificates with genuine magical verification seals
-- Medical examination records showing negative plague test results  
+- Medical examination records showing negative plague test results
 - Treatment completion certificates indicating successful cure
 - Professional medical opinions from fictitious or corrupted medical authorities
 
@@ -215,7 +215,7 @@ Specialized service creating credentials for operatives seeking to infiltrate go
 *Infiltration Support:*
 - Professional qualifications and certification documents
 - Employment history and reference verification systems
-- Security clearance documentation and background investigation records  
+- Security clearance documentation and background investigation records
 - Ongoing identity maintece and support systems
 
 #### Security and Counter-Intelligence
@@ -236,9 +236,9 @@ Network maintains active counter-intelligence operations to identify government 
 
 ### The Crystal Web
 
-**System Type:** Magical communication network utilizing modified crystal plague detection equipment  
-**Coverage:** Kingdom-wide network with major nodes in population centers  
-**Security:** Encrypted communication protocols that appear as random crystal resoce to official monitoring  
+**System Type:** Magical communication network utilizing modified crystal plague detection equipment
+**Coverage:** Kingdom-wide network with major nodes in population centers
+**Security:** Encrypted communication protocols that appear as random crystal resoce to official monitoring
 **Maintece:** Network of sympathetic magical practitioners and corrupt telecommunications workers
 
 #### Communication Protocols
@@ -257,22 +257,22 @@ Network maintains active counter-intelligence operations to identify government 
 
 #### Tier 1 - Emergency Shelters
 
-**Capacity:** 5-10 people for 24-48 hours  
-**Number:** 25+ locations throughout Port Meridian area  
-**Purpose:** Immediate refuge for people escaping quarantine enforcement  
+**Capacity:** 5-10 people for 24-48 hours
+**Number:** 25+ locations throughout Port Meridian area
+**Purpose:** Immediate refuge for people escaping quarantine enforcement
 **Security:** Basic concealment, emergency supplies, communication access
 
 *Typical Locations:*
 - Basement rooms in sympathetic businesses
-- Abandoned buildings with concealed entrances  
+- Abandoned buildings with concealed entrances
 - Private residences with hidden compartments
 - Religious facilities offering sanctuary
 
-#### Tier 2 - Transit Houses  
+#### Tier 2 - Transit Houses
 
-**Capacity:** 15-20 people for 1-2 weeks  
-**Number:** 12 locations in strategic transportation corridors  
-**Purpose:** Intermediate stops for people being relocated to permanent safe havens  
+**Capacity:** 15-20 people for 1-2 weeks
+**Number:** 12 locations in strategic transportation corridors
+**Purpose:** Intermediate stops for people being relocated to permanent safe havens
 **Security:** Enhanced concealment, medical supplies, identity documentation services
 
 *Enhanced Features:*
@@ -283,15 +283,15 @@ Network maintains active counter-intelligence operations to identify government 
 
 #### Tier 3 - Long-term Sanctuaries
 
-**Capacity:** 50+ people for indefinite periods  
-**Number:** 6 major facilities in remote or sympathetic communities  
-**Purpose:** Permanent relocation for people who cannot return to normal society  
+**Capacity:** 50+ people for indefinite periods
+**Number:** 6 major facilities in remote or sympathetic communities
+**Purpose:** Permanent relocation for people who cannot return to normal society
 **Security:** Self-sufficient communities with agricultural and medical capabilities
 
 *Community Features:*
 - Agricultural and craft production for economic self-sufficiency
 - Educational systems for children of relocated families
-- Medical facilities staffed by network-affiliated practitioners  
+- Medical facilities staffed by network-affiliated practitioners
 - Democratic goverce systems adapted to security requirements
 
 ### Crystal Cult Temple Cooperation
@@ -341,23 +341,23 @@ Estimated 10-15% of network personnel are [Government Informants]] or double age
 
 #### Donation Networks
 
-**Individual Donors:** 500+ regular contributors providing estimated 30,000 gold annually  
-**Institutional Support:** Religious organizations, merchant guilds, and [Foreign Governments]]  
-**Fundraising Events:** Disguised as legitimate charitable activities for plague relief  
+**Individual Donors:** 500+ regular contributors providing estimated 30,000 gold annually
+**Institutional Support:** Religious organizations, merchant guilds, and [Foreign Governments]]
+**Fundraising Events:** Disguised as legitimate charitable activities for plague relief
 **Corporate Sponsors:** Businesses that benefit from reduced government control or have ideological alignment
 
 #### Revenue-Generating Activities
 
-**Transportation Services:** Legitimate cargo and passenger transport with hidden smuggling operations  
-**Medical Services:** Fee-for-service medical care in underserved areas  
-**Information Brokerage:** Intelligence about government activities sold to various interested parties  
+**Transportation Services:** Legitimate cargo and passenger transport with hidden smuggling operations
+**Medical Services:** Fee-for-service medical care in underserved areas
+**Information Brokerage:** Intelligence about government activities sold to various interested parties
 **Document Services:** Identity and certification documents for non-network clients
 
 #### Ficial Management
 
-**[[Annual Budget:** Estimated 150,000 gold pieces across all network operations  
-**Major Expenses:** Transportation (30%), Safe Houses (25%), Medical Supplies (20%), Personnel (15%), Security (10%)  
-**Ficial Security:** Distributed treasury across multiple hidden accounts and physical caches  
+**[[Annual Budget:** Estimated 150,000 gold pieces across all network operations
+**Major Expenses:** Transportation (30%), Safe Houses (25%), Medical Supplies (20%), Personnel (15%), Security (10%)
+**Ficial Security:** Distributed treasury across multiple hidden accounts and physical caches
 **Money Laundering:** Legitimate businesses used to process funds and provide operational cover
 
 #### Family Reunification Programs
@@ -370,7 +370,7 @@ Networks provide specialized services to reunite families separated by quarantin
 - Coordinated medical care for family members in different quarantine zones
 - Provided emotional support and counseling for families dealing with separation trauma
 
-#### Community Healthcare Programs  
+#### Community Healthcare Programs
 
 Mobile medical services provide healthcare to communities with limited official medical access, particularly remote areas and communities with high infection rates.
 
@@ -392,10 +392,10 @@ Networks operate informal educational programs for children in safe houses and r
 
 #### The Underground Crimes Division
 
-**Commander:** Inspector Victoria Networkbreaker  
-**Personnel:** 30 specialized investigators  
-**Budget:** 50,000 gold annually  
-**Mission:** Identify and disrupt underground smuggling and resistance networks  
+**Commander:** Inspector Victoria Networkbreaker
+**Personnel:** 30 specialized investigators
+**Budget:** 50,000 gold annually
+**Mission:** Identify and disrupt underground smuggling and resistance networks
 **Methods:** Infiltration, surveillance, informant networks, ficial investigation
 
 *Major Operations:*
@@ -405,9 +405,9 @@ Networks operate informal educational programs for children in safe houses and r
 
 #### Legal Framework and Penalties
 
-**Smuggling Charges:** 2-10 years imprisonment depending on scale and danger to public health  
-**Document Fraud:** 1-5 years imprisonment plus fines equal to service fees charged  
-**Quarantine Interference:** 6 months to 3 years depending on public health impact  
+**Smuggling Charges:** 2-10 years imprisonment depending on scale and danger to public health
+**Document Fraud:** 1-5 years imprisonment plus fines equal to service fees charged
+**Quarantine Interference:** 6 months to 3 years depending on public health impact
 **Organized Criminal Activity:** 5-15 years imprisonment for network leadership roles
 
 #### Government Limitations
@@ -435,14 +435,14 @@ Networks operate in moral gray area where humanitarian impulses conflict with [P
 
 #### Support Base
 
-**Demographics:** Working-class families, [[Religious Communities, rural populations, plague victims and their families  
-**Motivations:** Personal experience with quarantine separation, distrust of government efficiency, religious obligation to help suffering individuals  
+**Demographics:** Working-class families, [[Religious Communities, rural populations, plague victims and their families
+**Motivations:** Personal experience with quarantine separation, distrust of government efficiency, religious obligation to help suffering individuals
 **Support Activities:** Ficial donations, safe house provision, information sharing, passive resistance to enforcement
 
-#### Opposition Base  
+#### Opposition Base
 
-**Demographics:** Middle-class urban residents, government employees, medical professionals, elderly populations  
-**Concerns:** Public health risks, law and order, government authority, social stability during crisis  
+**Demographics:** Middle-class urban residents, government employees, medical professionals, elderly populations
+**Concerns:** Public health risks, law and order, government authority, social stability during crisis
 **Opposition Activities:** Informing on network activities, supporting enhanced enforcement, political pressure for stricter penalties
 
 #### Community Division

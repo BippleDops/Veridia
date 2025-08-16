@@ -2,7 +2,7 @@
 
 title: The Crown
 type: Faction
-tags: 
+tags:
 - status/complete
 - royalty
 - content/faction
@@ -216,7 +216,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

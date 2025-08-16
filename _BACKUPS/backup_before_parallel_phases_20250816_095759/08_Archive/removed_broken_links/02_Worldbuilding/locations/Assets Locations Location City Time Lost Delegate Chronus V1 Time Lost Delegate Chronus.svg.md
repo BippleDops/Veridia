@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Time Lost Delegate Chronus V1 Time Lost Delegate
   Chronus.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city time lost delegate chronus v1 time lost
   delegate chronussvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -186,7 +186,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

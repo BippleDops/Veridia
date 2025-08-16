@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc defense captain ironguard v1 defense captain ironguardsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Defense Captain Ironguard V1 Defense Captain Ironguard.svg
 type: npc

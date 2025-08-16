@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sage currentknow v1 sage currentknowsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Sage Currentknow V1 Sage Currentknow.svg
 type: location

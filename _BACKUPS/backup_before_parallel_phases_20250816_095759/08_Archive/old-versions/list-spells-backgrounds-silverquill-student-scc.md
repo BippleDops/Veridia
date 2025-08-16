@@ -2,7 +2,7 @@
 
 title: list-spells-backgrounds-silverquill-student-scc
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

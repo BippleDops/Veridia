@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Sage Lysander Deepthought Sage Lysander Deepthought.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc sage lysander deepthought sage lysander
   deepthoughtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

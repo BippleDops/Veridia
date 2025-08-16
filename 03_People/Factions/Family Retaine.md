@@ -2,7 +2,7 @@
 
 title: Family Retaine
 type: Faction
-tags: 
+tags:
 - content/faction
 - faction
 - organization

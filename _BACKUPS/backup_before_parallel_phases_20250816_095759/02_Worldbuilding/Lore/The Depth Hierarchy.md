@@ -2,7 +2,7 @@
 
 title: The Depth Hierarchy
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

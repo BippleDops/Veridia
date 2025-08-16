@@ -2,7 +2,7 @@
 
 title: City Council of [[Aquabyssos
 type: [location]]
-tags: 
+tags:
 - aquabyssos
 - both
 - world/both
@@ -178,7 +178,7 @@ Ongoing situations affecting City Council of Aquabyssos:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

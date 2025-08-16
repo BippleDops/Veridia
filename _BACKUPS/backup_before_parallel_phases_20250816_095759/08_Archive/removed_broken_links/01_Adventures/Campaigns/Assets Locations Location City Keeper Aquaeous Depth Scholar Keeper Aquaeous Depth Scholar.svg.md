@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Keeper Aquaeous Depth Scholar Keeper Aquaeous
   Depth Scholar.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper aquaeous depth scholar keeper
   aquaeous depth scholarsvg
 type: location
-tags: 
+tags:
 - aquabyssos
 - place
 - active

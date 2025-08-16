@@ -2,7 +2,7 @@
 
 title: List Spells Backgrounds Lorehold Student Scc
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

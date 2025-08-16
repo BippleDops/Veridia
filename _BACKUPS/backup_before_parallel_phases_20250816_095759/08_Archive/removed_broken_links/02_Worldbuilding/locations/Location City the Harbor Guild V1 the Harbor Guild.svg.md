@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the harbor guild v1 the harbor guildsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Harbor Guild V1 the Harbor Guild.svg
 type: location

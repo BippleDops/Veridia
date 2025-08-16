@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc nerissa deepcurrent nerissa deepcurrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

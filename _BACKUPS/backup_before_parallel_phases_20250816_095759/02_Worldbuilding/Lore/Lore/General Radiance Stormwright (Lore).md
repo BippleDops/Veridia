@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/General Radiance Stormwright
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

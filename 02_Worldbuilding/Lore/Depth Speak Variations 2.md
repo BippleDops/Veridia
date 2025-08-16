@@ -2,7 +2,7 @@
 created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - aquabyssos
 - communication
 - complete

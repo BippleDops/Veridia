@@ -2,7 +2,7 @@
 
 title: Crystal Caves of Luminar
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC High King Aurelius Skyborn High King Aurelius
   Skyborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc high king aurelius skyborn high king
   aurelius skybornsvg
 type: location
-tags: 
+tags:
 - active
 - place
 - aethermoor

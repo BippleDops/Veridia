@@ -3,7 +3,7 @@ enhanced: true
 
 title: Mechanics Vehicles
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 

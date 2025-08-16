@@ -2,7 +2,7 @@
 
 title: "02_Worldbuilding/Lore/\u03A9_System-CLI-spells-school-evocation"
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

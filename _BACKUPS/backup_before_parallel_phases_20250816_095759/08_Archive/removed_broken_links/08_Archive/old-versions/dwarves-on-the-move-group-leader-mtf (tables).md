@@ -2,7 +2,7 @@
 
 title: dwarves-on-the-move-group-leader-mtf (tables)
 type: organization
-tags: 
+tags:
 - organization
 
 created: '2025-01-15'

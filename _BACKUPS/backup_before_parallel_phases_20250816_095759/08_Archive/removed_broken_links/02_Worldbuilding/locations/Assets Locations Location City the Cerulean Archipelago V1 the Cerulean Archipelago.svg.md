@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Cerulean Archipelago V1 the Cerulean Archipelago.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the cerulean archipelago v1 the cerulean
   archipelagosvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -184,7 +184,7 @@ Key locations marked:
 - **Aberration**: mind flayer
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 2
-  
+
 ### Environmental Hazards
 - Pit trap
 - **DC 14** to detect
@@ -215,7 +215,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

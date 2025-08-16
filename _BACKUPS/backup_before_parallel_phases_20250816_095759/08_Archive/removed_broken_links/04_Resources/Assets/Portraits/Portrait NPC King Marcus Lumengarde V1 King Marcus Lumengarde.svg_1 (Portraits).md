@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc king marcus lumengarde v1 king marcus lumengardesvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC King Marcus Lumengarde V1 King Marcus Lumengarde.svg
 type: npc

@@ -2,7 +2,7 @@
 
 title: The Aether Works
 type: [[location
-tags: 
+tags:
 - both
 - aerial
 - world/both

@@ -2,7 +2,7 @@
 
 title: Session 06
 type: adventure
-tags: 
+tags:
 - adventure
 - session-notes
 - quest

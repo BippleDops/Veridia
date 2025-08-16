@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Gravity Anomaly Mechanics V1 Gravity Anomaly
   Mechanics.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city gravity anomaly mechanics v1 gravity
   anomaly mechanicssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

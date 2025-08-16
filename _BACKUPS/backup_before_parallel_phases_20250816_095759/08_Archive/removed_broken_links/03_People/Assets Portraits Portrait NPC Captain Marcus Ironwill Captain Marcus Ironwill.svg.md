@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain marcus ironwill captain marcus
   ironwillsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

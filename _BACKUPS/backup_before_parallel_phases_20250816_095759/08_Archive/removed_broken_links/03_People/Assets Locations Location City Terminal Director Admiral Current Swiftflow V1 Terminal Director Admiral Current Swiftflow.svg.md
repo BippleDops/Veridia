@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Terminal Director Admiral Current Swiftflow
   V1 Terminal Director Admiral Current Swiftflow.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city terminal director admiral current swiftflow
   v1 terminal director admiral current swiftflowsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -209,7 +209,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

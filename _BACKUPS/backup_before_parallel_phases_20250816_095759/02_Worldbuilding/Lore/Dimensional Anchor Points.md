@@ -2,7 +2,7 @@
 
 title: Dimensional Anchor Points
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - content/lore

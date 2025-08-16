@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Black Market Deal V1 Black Market Deal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city black market deal v1 black market dealsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

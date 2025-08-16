@@ -1,7 +1,7 @@
 ---
 MyCategory: Ancient Civilization - Category/Group
 MyContainer: Aquabyssos
-aliases: 
+aliases:
 - The Deep Kingdom
 - Aeridor Empire
 - Children of the Abyss
@@ -13,7 +13,7 @@ modified: 2025-08-10
 obsidianUIMode: preview
 power_level: Ancient Major Power
 status: complete
-tags: 
+tags:
 - aquabyssos
 - aquatic-empire
 - complete

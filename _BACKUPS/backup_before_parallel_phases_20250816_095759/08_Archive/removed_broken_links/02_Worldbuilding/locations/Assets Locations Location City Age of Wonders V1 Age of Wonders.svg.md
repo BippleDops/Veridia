@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Age of Wonders V1 Age of Wonders.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city age of wonders v1 age of wonderssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Factional Conflicts Factional Conflicts.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry factional conflicts factional conflictssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -207,7 +207,7 @@ Mentioned in The Second Prophecy of Stars
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

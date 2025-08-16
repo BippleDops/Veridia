@@ -2,7 +2,7 @@
 
 title: Building Your Own Traps Building a Trap Xdmg
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

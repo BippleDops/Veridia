@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Memory Merchants Memory Merchants.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc memory merchants memory merchantssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

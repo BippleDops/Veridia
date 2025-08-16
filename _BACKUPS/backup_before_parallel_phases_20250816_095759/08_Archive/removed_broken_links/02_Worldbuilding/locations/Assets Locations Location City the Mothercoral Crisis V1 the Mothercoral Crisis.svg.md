@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Mothercoral Crisis V1 the Mothercoral Crisis.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the mothercoral crisis v1 the mothercoral
   crisissvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -191,7 +191,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

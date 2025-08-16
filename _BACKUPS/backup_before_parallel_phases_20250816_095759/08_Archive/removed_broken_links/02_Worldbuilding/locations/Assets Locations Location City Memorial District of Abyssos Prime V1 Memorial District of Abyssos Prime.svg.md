@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Memorial District of Abyssos Prime V1 Memorial
   District of Abyssos Prime.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memorial district of abyssos prime v1
   memorial district of abyssos primesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

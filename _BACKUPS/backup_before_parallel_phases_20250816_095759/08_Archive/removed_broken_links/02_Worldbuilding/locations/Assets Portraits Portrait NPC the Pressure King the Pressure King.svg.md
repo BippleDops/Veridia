@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC the Pressure King the Pressure King.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the pressure king the pressure kingsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

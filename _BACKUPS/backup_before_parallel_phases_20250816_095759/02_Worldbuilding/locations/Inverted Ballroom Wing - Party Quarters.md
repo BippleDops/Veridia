@@ -1,7 +1,7 @@
 ---
 title: Inverted Ballroom Wing   Party Quarters
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - luxury

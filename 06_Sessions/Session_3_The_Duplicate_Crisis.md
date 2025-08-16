@@ -1,7 +1,7 @@
 ---
 title: Session_3_The_Duplicate_Crisis
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

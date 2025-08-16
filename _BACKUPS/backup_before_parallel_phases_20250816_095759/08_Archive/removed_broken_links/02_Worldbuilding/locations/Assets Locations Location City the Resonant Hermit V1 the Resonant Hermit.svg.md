@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Resot Hermit V1 the Resot Hermit.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the resot hermit v1 the resot hermitsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -186,7 +186,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

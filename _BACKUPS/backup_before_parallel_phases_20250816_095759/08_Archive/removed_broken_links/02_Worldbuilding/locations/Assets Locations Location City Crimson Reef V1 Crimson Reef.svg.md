@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Crimson Reef V1 Crimson Reef.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city crimson reef v1 crimson reefsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -194,7 +194,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Depth Supremacy Movement Depth Supremacy Movement.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city depth supremacy movement depth supremacy
   movementsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

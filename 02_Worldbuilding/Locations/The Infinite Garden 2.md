@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location
@@ -40,7 +40,7 @@ The "outermost" layer spans roughly three square miles of seafloor, though measu
 ### The Fruit Worlds
 Each crystalline fruit is a portal to a smaller but complete version of the garden. Time moves faster in deeper recursions:
 - **Level 1**: 1 hour = 1 hour
-- **Level 2**: 1 hour = 10 hours  
+- **Level 2**: 1 hour = 10 hours
 - **Level 3**: 1 hour = 100 hours
 - **Level 4**: 1 hour = 1,000 hours
 - **Level 5+**: Time becomes non-linear
@@ -140,7 +140,7 @@ A market that exists in all recursions simultaneously. Traders can buy from thei
 ### Recursion Sickness
 Spending too long jumping between levels causes existential vertigo:
 - **Stage 1**: Confusion about current size/level
-- **Stage 2**: Seeing multiple recursions simultaneously  
+- **Stage 2**: Seeing multiple recursions simultaneously
 - **Stage 3**: Consciousness splits across levels
 - **Stage 4**: Become part of the garden's recursive loop
 

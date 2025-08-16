@@ -2,7 +2,7 @@
 
 title: Pressure Responsive Fabrics
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

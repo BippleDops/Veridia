@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city clerk supreme marcus filekeeper v1 clerk supreme marcus filekeepersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Clerk Supreme Marcus Filekeeper V1 Clerk Supreme Marcus Filekeeper.svg
 type: location

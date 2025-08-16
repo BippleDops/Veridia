@@ -2,7 +2,7 @@
 
 title: [[Market Prophets
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

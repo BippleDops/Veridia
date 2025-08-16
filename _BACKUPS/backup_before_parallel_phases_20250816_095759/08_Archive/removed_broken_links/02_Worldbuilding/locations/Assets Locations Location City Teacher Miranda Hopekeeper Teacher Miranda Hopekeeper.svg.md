@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Teacher Miranda Hopekeeper Teacher Miranda Hopekeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city teacher miranda hopekeeper teacher miranda
   hopekeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

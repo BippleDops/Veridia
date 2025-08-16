@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc lady seraphina goldleaf v2 lady seraphina goldleafsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Lady Seraphina Goldleaf V2 Lady Seraphina Goldleaf.svg
 type: npc

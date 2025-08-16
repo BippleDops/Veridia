@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city keeper of the past elderly morgan v1 keeper of the past elderly morgansvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Keeper of the Past Elderly Morgan V1 Keeper of the Past Elderly
   Morgan.svg

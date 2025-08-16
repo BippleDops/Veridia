@@ -2,7 +2,7 @@
 enhanced: true
 title: 13_Performance/Indexes/[[[[[Item_Catalog_Complete.md|Item_Catalog_Complete.md|Item_Catalog_Complete]].md|Item_Catalog_Complete]].md
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

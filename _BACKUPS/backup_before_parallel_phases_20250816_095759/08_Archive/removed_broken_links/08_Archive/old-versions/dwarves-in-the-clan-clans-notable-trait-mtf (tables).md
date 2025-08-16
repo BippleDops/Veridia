@@ -2,7 +2,7 @@
 
 title: dwarves-in-the-clan-clans-notable-trait-mtf (tables)
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

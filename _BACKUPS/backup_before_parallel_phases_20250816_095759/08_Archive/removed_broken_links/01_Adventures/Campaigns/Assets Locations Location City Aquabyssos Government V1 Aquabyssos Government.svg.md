@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Aquabyssos Government V1 Aquabyssos Government.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city aquabyssos government v1 aquabyssos
   governmentsvg
 type: location
-tags: 
+tags:
 - aquabyssos
 - place
 - active

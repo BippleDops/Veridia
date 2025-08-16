@@ -2,7 +2,7 @@
 
 title: Resistance Leader Thane Freeheart
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - world/[Aethermoor]]

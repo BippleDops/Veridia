@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Abyssal Crystals V1 Abyssal Crystals.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city abyssal crystals v1 abyssal crystalssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

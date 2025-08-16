@@ -2,7 +2,7 @@
 
 title: Crystal Resoce Theory
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

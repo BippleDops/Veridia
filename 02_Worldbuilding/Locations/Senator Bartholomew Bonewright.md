@@ -2,7 +2,7 @@
 
 title: [[Senator Bartholomew Bonewright
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

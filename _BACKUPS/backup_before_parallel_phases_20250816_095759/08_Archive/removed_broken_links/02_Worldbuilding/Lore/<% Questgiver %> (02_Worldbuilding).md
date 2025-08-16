@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/[[Lore/
 type: adventure
-tags: 
+tags:
 - adventure
 - quest
 - bloodline

@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC High Priestess Celeste Dawnbringer High Priestess
   Celeste Dawnbringer.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc high priestess celeste dawnbringer high
   priestess celeste dawnbringersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

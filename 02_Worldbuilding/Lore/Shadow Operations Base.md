@@ -2,7 +2,7 @@
 
 title: Shadow Operations Base
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

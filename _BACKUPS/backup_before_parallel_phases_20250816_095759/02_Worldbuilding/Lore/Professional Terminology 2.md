@@ -2,7 +2,7 @@
 created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/faction
@@ -102,7 +102,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Void-silent"** - Communication blackout procedures near dangerous areas
 - **"Emergency-beacon"** - Distress signals for rescue operations
 
-### **Shadow Surgeon Collective** 
+### **Shadow Surgeon Collective**
 
 **Medical Procedures:**
 - **"Shadow-separation"** - Surgical removal of autonomous shadow entities
@@ -325,7 +325,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 
 - Common Idioms And Sayings
 - [[02_Worldbuilding/Lore/Depth Speak Variations
-- [02_Worldbuilding/Lore/Wind Song Linguistic Guide]]  
+- [02_Worldbuilding/Lore/Wind Song Linguistic Guide]]
 - Swear Words And Curses
 - [[02_Worldbuilding/Groups/Guilds/The Traders Guild]]
 - Crystal Engineering Guild

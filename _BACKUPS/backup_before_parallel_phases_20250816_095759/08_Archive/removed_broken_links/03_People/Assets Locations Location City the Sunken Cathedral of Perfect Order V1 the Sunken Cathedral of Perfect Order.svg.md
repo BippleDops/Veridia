@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Sunken Cathedral of Perfect Order V1 the
   Sunken Cathedral of Perfect Order.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the sunken cathedral of perfect order
   v1 the sunken cathedral of perfect ordersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

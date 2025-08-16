@@ -3,7 +3,7 @@ enhanced: true
 
 title: Mechanics Shadow Surgery
 type: mechanics
-tags: 
+tags:
 - mechanics
 - active
 - prophecy
@@ -29,7 +29,7 @@ publish: false
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ## Description
 
-**Details**: Rich sensory elements bring this to life. 03_Mechanics/Shadow_Surgery provides a structured approach to handling specific game situations that benefit from additional mechanical depth. 
+**Details**: Rich sensory elements bring this to life. 03_Mechanics/Shadow_Surgery provides a structured approach to handling specific game situations that benefit from additional mechanical depth.
 *Sounds of [relevant sounds] echo in the distance.*This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic

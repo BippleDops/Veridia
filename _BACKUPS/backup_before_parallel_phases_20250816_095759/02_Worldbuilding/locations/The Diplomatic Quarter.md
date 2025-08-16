@@ -2,7 +2,7 @@
 
 title: The Diplomatic Quarter
 type: [[location
-tags: 
+tags:
 - quest
 - content/location
 - place

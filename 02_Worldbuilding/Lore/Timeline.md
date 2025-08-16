@@ -2,7 +2,7 @@
 
 title: [[Timeline
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'
@@ -469,8 +469,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - [Unity Crown Fragment]]
 - [[Unknown Contact
 - [Update Indexes]]
-- 
-- 
+-
+-
 - [[Weather_Warden_Storm_Wisdom (02_Worldbuilding)
 - [Whisper-Touched Elena]]
 - [[Wind Song Linguistic Guide

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/People/Brother Marcus Steelbane
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy
@@ -136,7 +136,7 @@ Mentioned in The First Prophecy of Depths
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

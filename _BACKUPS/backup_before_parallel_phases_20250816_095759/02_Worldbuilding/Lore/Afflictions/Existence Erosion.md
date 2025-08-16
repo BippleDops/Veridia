@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Afflictions/Existence Erosion
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

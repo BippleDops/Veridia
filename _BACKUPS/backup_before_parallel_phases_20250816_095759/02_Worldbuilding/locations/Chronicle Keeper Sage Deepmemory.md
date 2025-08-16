@@ -2,7 +2,7 @@
 
 title: Chronicle Keeper Sage Deepmemory
 type: [[location
-tags: 
+tags:
 - both worlds
 - world/both
 - content/location

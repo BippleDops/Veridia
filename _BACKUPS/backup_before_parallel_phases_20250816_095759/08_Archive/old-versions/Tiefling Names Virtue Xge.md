@@ -2,7 +2,7 @@
 
 title: Tiefling Names Virtue Xge
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

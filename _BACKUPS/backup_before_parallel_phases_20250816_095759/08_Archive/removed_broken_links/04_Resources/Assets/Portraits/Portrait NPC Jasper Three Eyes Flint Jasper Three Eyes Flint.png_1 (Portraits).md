@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc jasper three eyes flint jasper three eyes flintpng
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png
 type: npc

@@ -8,7 +8,7 @@ current_location: '[02_Worldbuilding/Places/Port Meridian]] - Financial District
 level: 14
 occupation: Senior Partner, Goldwave Financial Consortium
 race: Merfolk
-related_entities: 
+related_entities:
 - '[[02_Worldbuilding/Groups/Silverscale Banking House|02 Worldbuilding/Groups/Silverscale
   Banking House'
 - '[02_Worldbuilding/Lore/The Seven Shards]]'
@@ -16,7 +16,7 @@ related_entities:
 - '[02_Worldbuilding/Lore/Marina''s Identity Crisis|02 Worldbuilding/Lore/Marina''s
   Identity Crisis]]'
 status: complete
-tags: 
+tags:
 - aquabyssos
 - banking
 - complete
@@ -182,7 +182,7 @@ Aurelius represents a unique vector for shadow corruption—rather than being di
 
 The corruption he spreads is subtle but pervasive:
 - Clients gradually become more greedy, callous, and manipulative
-- Economic systems become increasingly unstable and exploitative  
+- Economic systems become increasingly unstable and exploitative
 - Traditional values of community and cooperation erode in favor of pure self-interest
 - The boundary between legitimate business and supernatural manipulation dissolves
 
@@ -213,7 +213,7 @@ During [[02_Worldbuilding/Lore/The Convergence Crisis, Aurelius's otherworldly c
 
 Potential roles during the crisis:
 - Information broker selling intelligence about dimensional threats
-- Saboteur working to destabilize reality for his patron's benefit  
+- Saboteur working to destabilize reality for his patron's benefit
 - Refugee seeking protection from entities pursuing him across dimensions
 - Key figure whose corruption must be cleansed to stabilize reality
 
@@ -224,7 +224,7 @@ Potential roles during the crisis:
 Characters discover that several prominent citizens have had their memories stolen and sold, leaving them with gaps in their knowledge that are being exploited by mysterious financial advisors. Investigation leads to Aurelius's operation and a race to recover the stolen memories before they're permanently lost.
 
 ### The Surface Market Manipulation
-**Level**: 8-12  
+**Level**: 8-12
 [02_Worldbuilding/Places/Aethermoor]] merchants report impossible economic conditions that seem designed to benefit unknown [[02_Worldbuilding/Places/Aquabyssos interests. Characters must investigate the cross-realm financial manipulation while avoiding Aurelius's attempts to corrupt or eliminate them.
 
 ### The Memory Auction

@@ -2,7 +2,7 @@
 
 title: The Void Seekers
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

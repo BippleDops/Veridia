@@ -31,7 +31,7 @@ class NPCScheduler:
             "21:00": "Return home",
             "22:00": "Sleep"
         }
-    
+
     def current_location(self, time):
         for scheduled_time, activity in self.schedule.items():
             if time >= scheduled_time:

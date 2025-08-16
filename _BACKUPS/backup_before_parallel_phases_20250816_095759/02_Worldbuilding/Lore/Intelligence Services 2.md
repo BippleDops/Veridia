@@ -2,7 +2,7 @@
 
 title: [[Intelligence Services 2
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

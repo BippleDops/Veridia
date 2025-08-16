@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city siren maeve echoborn v1 siren maeve echobornsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Siren Maeve Echoborn V1 Siren Maeve Echoborn.svg
 type: location

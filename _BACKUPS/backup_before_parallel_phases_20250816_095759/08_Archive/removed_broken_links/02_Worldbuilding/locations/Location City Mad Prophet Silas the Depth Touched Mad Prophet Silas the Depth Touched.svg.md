@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city mad prophet silas the depth touched mad prophet silas the depth touchedsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Mad Prophet Silas the Depth Touched Mad Prophet Silas the Depth
   Touched.svg

@@ -2,7 +2,7 @@
 
 title: The Phosphor Markets
 type: [[location
-tags: 
+tags:
 - both
 - aquatic
 - quest
@@ -449,7 +449,7 @@ Secret level where illegal goods are processed and distributed:
 **Event**: The markets begin receiving visitors from impossible depths claiming divine mandate
 **Phenomenon**: These "Deep Traders" offer items that shouldn't exist
 - Sunlight captured in crystalline form
-- Memories from before the world's creation  
+- Memories from before the world's creation
 - Music that can resurrect the dead
 **Reality**: The Deep Mother's dreams are bleeding into the waking world through the markets
 **Consequences**: Reality becomes increasingly fluid around market locations

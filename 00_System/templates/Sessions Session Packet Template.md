@@ -29,9 +29,9 @@ audience: dm
 updated: '2025-08-13T01:18:31.201928+00:00'
 world: Both
 
---- # Session Packet —  Session: 
+--- # Session Packet —  Session:
 
-Date: 
+Date:
 
 Campaign:  handouts: - [[D_005_Shadow_Bloom_Player|04 Resources/Handouts/Encounters/D 005 Shadow Bloom Player - [Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]] gm_sheets: - [[D_005_Shadow_Bloom|06 GM Resources/Travel/Encounter Sheets/D 005 Shadow Bloom - [M-L-01_The_Great_Convergence|06 GM Resources/Travel/Encounter Sheets/M L 01 The Great Convergence]] assets: - [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]] --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player Handouts```dataviewjs
 

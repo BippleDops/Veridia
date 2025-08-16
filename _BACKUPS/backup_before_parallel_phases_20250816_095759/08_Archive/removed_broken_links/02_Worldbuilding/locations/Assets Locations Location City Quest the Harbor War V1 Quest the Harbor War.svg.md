@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Quest the Harbor War V1 Quest the Harbor War.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city quest the harbor war v1 quest the harbor
   warsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Scroll of Protection Monstrosities Xdmg
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

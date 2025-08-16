@@ -2,7 +2,7 @@
 
 title: Mother Superior Cordelia Mercyheart
 type: [[Lore
-tags: 
+tags:
 - lore
 - grand-cathedral
 - content/lore

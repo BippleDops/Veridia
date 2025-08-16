@@ -2,7 +2,7 @@
 
 title: [[Living Alliance
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/lore
 - content/[[location

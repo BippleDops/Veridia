@@ -2,7 +2,7 @@
 
 title: Law Enforcement 2
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

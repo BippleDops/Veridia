@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city crystallization process v1 crystallization processpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Crystallization Process V1 Crystallization Process.png
 type: location

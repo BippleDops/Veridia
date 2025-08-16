@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Abyssos Prime Docks V1 Abyssos Prime Docks.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city abyssos prime docks v1 abyssos prime
   dockssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

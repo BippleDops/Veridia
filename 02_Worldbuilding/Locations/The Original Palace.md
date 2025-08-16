@@ -2,7 +2,7 @@
 
 title: The Original Palace
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - royal
@@ -240,7 +240,7 @@ The palace serves as the hub for an ancient communication system that connects t
 - Used for diplomatic correspondence and intelligence gathering
 
 ### The Missing Heir
-**Level Range:** 5-8  
+**Level Range:** 5-8
 **Type:** Investigation & Exploration
 
 Rumors suggest that the rightful heir to the throne—thought lost centuries ago—may still be alive, hidden somewhere within the palace's deepest chambers. Characters are hired to investigate these claims and either confirm or debunk them. The investigation leads through forgotten passages, ancient family crypts, and chambers that haven't been opened in hundreds of years.
@@ -252,7 +252,7 @@ Rumors suggest that the rightful heir to the throne—thought lost centuries ago
 - Multiple legitimate claimants with competing claims
 
 ### The Coral Plague
-**Level Range:** 6-10  
+**Level Range:** 6-10
 **Type:** Mystery & Dungeon Crawl
 
 The living coral that forms the palace's foundation has begun showing signs of a mysterious blight that threatens to destroy the entire structure. Characters must dive deeper than any have gone before, into the palace's root systems, to discover the source of the corruption and find a cure before the architectural marvel collapses.
@@ -264,7 +264,7 @@ The living coral that forms the palace's foundation has begun showing signs of a
 - Encounters with creatures that may be causing or affected by the blight
 
 ### The Diplomatic Crisis
-**Level Range:** 7-11  
+**Level Range:** 7-11
 **Type:** Social Encounters & Intrigue
 
 Representatives from multiple surface kingdoms arrive simultaneously at the palace, each claiming to have the authority to negotiate new treaties with the [Abyssal Courts]]. Characters must navigate the complex web of underwater politics while uncovering which delegation, if any, is legitimate—and which may be working to sabotage the negotiations.
@@ -276,7 +276,7 @@ Representatives from multiple surface kingdoms arrive simultaneously at the pala
 - Preventing diplomatic incidents that could lead to war
 
 ### The Ancient Awakening
-**Level Range:** 9-14  
+**Level Range:** 9-14
 **Type:** Epic Adventure
 
 Something stirs in the deepest chambers of the palace—chambers that have been sealed since its construction. Ancient guardians that were thought to be decorative have begun to move, and voices speaking in the [[Old Tongue echo through the halls. Characters must uncover what ancient power is awakening and whether it represents salvation or doom for the palace and its inhabitants.
@@ -288,7 +288,7 @@ Something stirs in the deepest chambers of the palace—chambers that have been 
 - Potential connection to other planes or realities
 
 ### The Treasure Hunt
-**Level Range:** 4-7  
+**Level Range:** 4-7
 **Type:** Exploration & Problem-Solving
 
 A coded map has been discovered that allegedly leads to a hidden treasure vault within the palace—one that even [Regent Thalassa]] doesn't know about. Characters must decipher the ancient clues while avoiding the palace's security systems and discovering whether the treasure is worth the risks involved.

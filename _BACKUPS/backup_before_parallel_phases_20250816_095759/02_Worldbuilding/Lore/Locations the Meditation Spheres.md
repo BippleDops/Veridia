@@ -2,7 +2,7 @@
 
 title: [[locations the Meditation Spheres
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - bloodline

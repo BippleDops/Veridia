@@ -1,10 +1,10 @@
 ---
 
 title: Assets Art Merchant Lord Silas Copperfield.png
-aliases: 
+aliases:
 - 04 Resources Assets Art Places Merchant Lord Silas Copperfieldpng
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

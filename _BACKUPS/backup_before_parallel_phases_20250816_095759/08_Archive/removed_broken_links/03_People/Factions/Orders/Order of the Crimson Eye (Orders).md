@@ -2,7 +2,7 @@
 
 title: Order of the Crimson Eye
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

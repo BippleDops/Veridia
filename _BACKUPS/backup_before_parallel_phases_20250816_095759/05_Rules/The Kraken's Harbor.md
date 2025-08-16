@@ -2,7 +2,7 @@
 
 title: The [[Krake|[Kraken]]'s Harbor
 type: [[location
-tags: 
+tags:
 - both
 - aquatic
 - world/both

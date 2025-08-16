@@ -2,7 +2,7 @@
 
 title: Project Seven Laboratory
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

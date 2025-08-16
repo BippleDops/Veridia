@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Captain Marlowe Tidecrest V1 Captain Marlowe
   Tidecrest.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city captain marlowe tidecrest v1 captain
   marlowe tidecrestsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -215,7 +215,7 @@ This NPC can serve multiple roles:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

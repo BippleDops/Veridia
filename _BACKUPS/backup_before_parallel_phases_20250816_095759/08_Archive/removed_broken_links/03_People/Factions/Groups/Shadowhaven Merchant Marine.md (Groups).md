@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - Shadowhaven Merchant Marinemd
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ headquarters: Unknown
 improvements: 20
 membership: Unknown
 modified: '2025-08-14'
-tags: 
+tags:
 - organization
 title: Shadowhaven Merchant Marine.md
 type: faction

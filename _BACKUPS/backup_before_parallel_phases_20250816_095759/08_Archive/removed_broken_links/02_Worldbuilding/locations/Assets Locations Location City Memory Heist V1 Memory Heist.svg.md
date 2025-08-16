@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Memory Heist V1 Memory Heist.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memory heist v1 memory heistsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -177,7 +177,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

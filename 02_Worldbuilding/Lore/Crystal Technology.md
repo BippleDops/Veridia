@@ -2,7 +2,7 @@
 
 title: Crystal Technology
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - active

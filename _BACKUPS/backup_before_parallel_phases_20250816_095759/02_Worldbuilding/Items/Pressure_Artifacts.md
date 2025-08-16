@@ -2,7 +2,7 @@
 
 title: Pressure_Artifacts
 type: item
-tags: 
+tags:
 - item
 - armor
 - legendary
@@ -97,7 +97,7 @@ Pressure_Artifacts is a blessed armor that radiates unknown energy.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

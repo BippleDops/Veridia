@@ -2,7 +2,7 @@
 
 title: Campaign Overview
 type: Campaign
-tags: 
+tags:
 - adventure
 - session-notes
 - campaign/crystal-plague
@@ -196,7 +196,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 
 *Gathering scientific resources and knowledge*
 
-**Locations**: 
+**Locations**:
 - Royal Medical Academy
 - Ancient Library of Plagues
 - Alchemist Underground Market
@@ -371,7 +371,7 @@ Child has natural immunity in their blood:
 
 ### Dataview Tracking
 ```dataview
-TABLE 
+TABLE
   infection-stage as "Stage",
   days-infected as "Days",
   treatment-status as "Treatment",

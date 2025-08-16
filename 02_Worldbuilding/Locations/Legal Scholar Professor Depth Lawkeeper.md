@@ -2,7 +2,7 @@
 
 title: Legal Scholar Professor Depth Lawkeeper
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

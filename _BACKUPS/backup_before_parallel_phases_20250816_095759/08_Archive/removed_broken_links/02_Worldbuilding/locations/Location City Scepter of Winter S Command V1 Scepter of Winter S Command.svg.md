@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city scepter of winter s command v1 scepter of winter s commandsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Scepter of Winter S Command V1 Scepter of Winter S Command.svg
 type: location

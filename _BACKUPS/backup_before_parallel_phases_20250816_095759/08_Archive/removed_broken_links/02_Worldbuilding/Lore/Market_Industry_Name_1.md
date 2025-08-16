@@ -2,7 +2,7 @@
 
 title: Market Industry Name 1
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

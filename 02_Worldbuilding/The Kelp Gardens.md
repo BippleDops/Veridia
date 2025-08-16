@@ -2,7 +2,7 @@
 
 title: The Kelp Gardens
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

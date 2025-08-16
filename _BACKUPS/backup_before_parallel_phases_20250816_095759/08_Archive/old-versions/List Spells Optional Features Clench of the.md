@@ -2,7 +2,7 @@
 
 title: List Spells Optional Features Clench of the
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

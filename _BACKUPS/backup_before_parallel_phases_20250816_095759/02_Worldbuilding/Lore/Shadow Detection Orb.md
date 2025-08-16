@@ -2,7 +2,7 @@
 
 title: Shadow Detection Orb
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

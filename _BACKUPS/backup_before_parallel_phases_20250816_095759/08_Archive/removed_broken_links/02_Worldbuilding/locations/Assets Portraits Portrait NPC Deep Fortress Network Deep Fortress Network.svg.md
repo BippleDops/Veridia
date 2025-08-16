@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Deep Fortress Network Deep Fortress Network.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc deep fortress network deep fortress networksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -178,7 +178,7 @@ Key stop on magic items trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

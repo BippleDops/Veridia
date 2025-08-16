@@ -2,7 +2,7 @@
 
 title: Keeper Luminous Crystalbeam
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location
@@ -161,7 +161,7 @@ Ongoing situations affecting Keeper Luminous Crystalbeam:
 - **Dragon**: gem
   - Traits: standard
   - CR Range: 16
-  
+
 ### [[Environmental Hazards
 - Magical ward
 - **DC 16** to detect
@@ -179,7 +179,7 @@ Ongoing situations affecting Keeper Luminous Crystalbeam:
 - **Recent History**: Plague 4 years ago
 - **Living Memory**: Murder last season
 
-### Future Seeds  
+### Future Seeds
 - **Near Future**: Election in 16 days
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: [Link]]s to The Hidden Prophecy of Stars

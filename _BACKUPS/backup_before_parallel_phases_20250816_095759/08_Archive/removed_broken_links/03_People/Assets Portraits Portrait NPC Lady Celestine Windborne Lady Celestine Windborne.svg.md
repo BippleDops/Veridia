@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Lady Celestine Windborne Lady Celestine Windborne.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc lady celestine windborne lady celestine
   windbornesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

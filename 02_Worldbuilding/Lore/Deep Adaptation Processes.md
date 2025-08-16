@@ -2,7 +2,7 @@
 
 title: Deep Adaptation Processes
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

@@ -2,11 +2,11 @@
 
 title: Assets Symbols Symbol Heraldry the Artisans Collective of Master Crafters the
   Artisans Collective of Master Crafters.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry the artisans collective of master crafters
   the artisans collective of master crafterssvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

@@ -2,7 +2,7 @@
 
 title: Finn Worldwalker
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Dimensional Nexus]] (both realms)
 - content/lore

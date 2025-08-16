@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city high tide keeper nautilus primordial high tide keeper nautilus primordialsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City High Tide Keeper Nautilus Primordial High Tide Keeper Nautilus
   Primordial.svg

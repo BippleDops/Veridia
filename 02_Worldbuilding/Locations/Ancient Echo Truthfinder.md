@@ -2,7 +2,7 @@
 
 title: Ancient Echo Truthfinder
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

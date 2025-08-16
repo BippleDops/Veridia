@@ -2,7 +2,7 @@
 
 title: Void warded Cloak
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Reef Guard Captain Torrent Shellborn V1 Reef
   Guard Captain Torrent Shellborn.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reef guard captain torrent shellborn
   v1 reef guard captain torrent shellbornsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

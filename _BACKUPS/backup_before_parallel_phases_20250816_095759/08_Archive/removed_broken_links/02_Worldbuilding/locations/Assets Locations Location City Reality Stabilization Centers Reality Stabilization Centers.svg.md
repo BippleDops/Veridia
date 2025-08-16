@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Reality Stabilization Centers Reality Stabilization
   Centers.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reality stabilization centers reality
   stabilization centerssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

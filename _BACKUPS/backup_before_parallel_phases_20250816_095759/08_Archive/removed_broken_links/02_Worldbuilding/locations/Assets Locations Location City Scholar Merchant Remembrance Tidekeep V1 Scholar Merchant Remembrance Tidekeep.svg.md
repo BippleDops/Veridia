@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Scholar Merchant Remembrance Tidekeep V1 Scholar
   Merchant Remembrance Tidekeep.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scholar merchant remembrance tidekeep
   v1 scholar merchant remembrance tidekeepsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

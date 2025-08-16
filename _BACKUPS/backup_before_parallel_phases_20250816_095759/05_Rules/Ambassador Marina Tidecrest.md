@@ -2,7 +2,7 @@
 
 title: Ambassador [[Marina Tidecrest
 type: [Lore]]
-tags: 
+tags:
 - lore
 - content/lore
 - world/[[Aethermoor

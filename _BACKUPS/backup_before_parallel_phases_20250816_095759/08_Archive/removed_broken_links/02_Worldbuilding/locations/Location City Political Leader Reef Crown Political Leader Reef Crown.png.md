@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city political leader reef crown political leader reef crownpng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Political Leader Reef Crown Political Leader Reef Crown.png
 type: location

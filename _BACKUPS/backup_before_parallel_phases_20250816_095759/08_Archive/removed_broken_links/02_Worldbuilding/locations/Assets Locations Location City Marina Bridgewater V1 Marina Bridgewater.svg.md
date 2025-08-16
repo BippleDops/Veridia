@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Marina Bridgewater V1 Marina Bridgewater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marina bridgewater v1 marina bridgewatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

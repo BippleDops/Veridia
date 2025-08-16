@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Navigator Flux V1 Navigator Flux.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city navigator flux v1 navigator fluxsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -172,7 +172,7 @@ Key locations marked:
 - **Dragon**: chromatic
   - Traits: standard
   - CR Range: 13
-  
+
 ### Environmental Hazards
 - Pit trap
 - **DC 18** to detect
@@ -191,7 +191,7 @@ Key stop on textiles trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

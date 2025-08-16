@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc emperor pelagic the last emperor pelagic the lastsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Emperor Pelagic the Last Emperor Pelagic the Last.svg
 type: npc

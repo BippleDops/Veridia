@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Pressure Technology Pressure Technology.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city pressure technology pressure technologysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

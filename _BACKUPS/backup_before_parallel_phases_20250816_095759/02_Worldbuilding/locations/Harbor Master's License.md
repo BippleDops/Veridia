@@ -2,7 +2,7 @@
 
 title: Harbor Master's License
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

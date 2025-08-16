@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city sacred healing springs v1 sacred healing springssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Sacred Healing Springs V1 Sacred Healing Springs.svg
 type: location

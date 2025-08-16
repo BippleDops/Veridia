@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city heart of eternal vigilance v1 heart of eternal vigilancesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Heart of Eternal Vigilance V1 Heart of Eternal Vigilance.svg
 type: location

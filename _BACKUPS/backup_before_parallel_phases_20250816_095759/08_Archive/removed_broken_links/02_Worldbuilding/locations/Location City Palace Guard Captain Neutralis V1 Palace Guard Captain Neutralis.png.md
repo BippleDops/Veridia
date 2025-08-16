@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city palace guard captain neutralis v1 palace guard captain neutralispng
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Palace Guard Captain Neutralis V1 Palace Guard Captain Neutralis.png
 type: location

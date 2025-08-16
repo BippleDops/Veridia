@@ -1,12 +1,12 @@
 ---
-aliases: 
+aliases:
 - The Whispering Expansemd
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 level: 1-5
 modified: '2025-08-14'
-tags: 
+tags:
 - quest
 title: [[The Whispering Expanse.md
 type: quest

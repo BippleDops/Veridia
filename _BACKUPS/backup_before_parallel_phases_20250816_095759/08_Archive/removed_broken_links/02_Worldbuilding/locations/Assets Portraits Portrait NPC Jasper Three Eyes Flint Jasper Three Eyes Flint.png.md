@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc jasper three eyes flint jasper three
   eyes flintpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

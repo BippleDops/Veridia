@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Missing Diplomat V1 the Missing Diplomat.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the missing diplomat v1 the missing
   diplomatsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

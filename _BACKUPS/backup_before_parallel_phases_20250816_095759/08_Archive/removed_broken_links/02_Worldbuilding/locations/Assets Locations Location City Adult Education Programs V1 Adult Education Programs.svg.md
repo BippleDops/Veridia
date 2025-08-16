@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Adult Education Programs V1 Adult Education
   Programs.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city adult education programs v1 adult education
   programssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -189,7 +189,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

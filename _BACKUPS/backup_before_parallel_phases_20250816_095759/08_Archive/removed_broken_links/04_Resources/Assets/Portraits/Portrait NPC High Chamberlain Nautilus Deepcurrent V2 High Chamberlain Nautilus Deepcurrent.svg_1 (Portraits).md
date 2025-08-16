@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc high chamberlain nautilus deepcurrent v2 high chamberlain nautilus
   deepcurrentsvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC High Chamberlain Nautilus Deepcurrent V2 High Chamberlain Nautilus
   Deepcurrent.svg

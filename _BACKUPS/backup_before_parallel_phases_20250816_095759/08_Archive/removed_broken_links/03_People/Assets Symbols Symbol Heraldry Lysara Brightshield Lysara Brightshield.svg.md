@@ -1,10 +1,10 @@
 ---
 
 title: Assets Symbols Symbol Heraldry Lysara Brightshield Lysara Brightshield.svg
-aliases: 
+aliases:
 - 04 Resources Assets Symbols symbol heraldry lysara brightshield lysara brightshieldsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

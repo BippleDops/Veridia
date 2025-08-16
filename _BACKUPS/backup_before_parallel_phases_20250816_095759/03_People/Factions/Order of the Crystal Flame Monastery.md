@@ -2,7 +2,7 @@
 
 title: Order of the Crystal Flame Monastery
 type: organization
-tags: 
+tags:
 - faction
 - active
 - organization

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City the Guild of Reef Builders V1 the Guild of Reef
   Builders.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the guild of reef builders v1 the guild
   of reef builderssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

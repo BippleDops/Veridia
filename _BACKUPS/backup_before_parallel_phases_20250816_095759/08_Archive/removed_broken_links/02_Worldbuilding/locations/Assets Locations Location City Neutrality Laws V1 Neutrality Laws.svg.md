@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Neutrality Laws V1 Neutrality Laws.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city neutrality laws v1 neutrality lawssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

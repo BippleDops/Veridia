@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Scarlet Torrent Scarlet Torrent.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city scarlet torrent scarlet torrentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

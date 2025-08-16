@@ -2,7 +2,7 @@
 
 title: ./yuan-ti-anathema-mpmm
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

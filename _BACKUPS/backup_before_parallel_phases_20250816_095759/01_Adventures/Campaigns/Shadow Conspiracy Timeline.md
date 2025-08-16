@@ -1,7 +1,7 @@
 ---
 title: [[Shadow Conspiracy [[Time|[Time]]line]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - shadow-surgery

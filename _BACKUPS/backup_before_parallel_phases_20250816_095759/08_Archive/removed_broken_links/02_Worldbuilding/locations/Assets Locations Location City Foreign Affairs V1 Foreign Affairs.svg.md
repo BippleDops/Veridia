@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Foreign Affairs V1 Foreign Affairs.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city foreign affairs v1 foreign affairssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

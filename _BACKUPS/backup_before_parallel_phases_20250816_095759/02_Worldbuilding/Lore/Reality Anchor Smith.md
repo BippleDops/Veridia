@@ -2,7 +2,7 @@
 
 title: Reality Anchor Smith
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

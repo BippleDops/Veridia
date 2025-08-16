@@ -2,7 +2,7 @@
 
 title: Levels 1116 Masters of the Realm Levels 1116
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

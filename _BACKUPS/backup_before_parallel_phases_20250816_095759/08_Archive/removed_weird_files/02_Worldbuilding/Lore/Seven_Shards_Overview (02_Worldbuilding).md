@@ -2,7 +2,7 @@
 
 title: [[Seven Shards Overview]]
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 created: '2025-08-14'

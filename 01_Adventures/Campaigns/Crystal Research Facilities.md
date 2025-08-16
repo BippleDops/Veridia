@@ -2,7 +2,7 @@
 
 title: Crystal Research Facilities
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city artisan associations v1 artisan associationssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Artisan Associations V1 Artisan Associations.svg
 type: location

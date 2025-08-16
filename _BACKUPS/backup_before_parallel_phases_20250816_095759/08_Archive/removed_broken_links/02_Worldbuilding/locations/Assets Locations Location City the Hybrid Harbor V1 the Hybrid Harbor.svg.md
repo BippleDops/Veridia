@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Hybrid Harbor V1 the Hybrid Harbor.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the hybrid harbor v1 the hybrid harborsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

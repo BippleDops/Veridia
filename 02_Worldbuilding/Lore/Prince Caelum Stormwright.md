@@ -2,7 +2,7 @@
 
 title: Prince Caelum Stormwright
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

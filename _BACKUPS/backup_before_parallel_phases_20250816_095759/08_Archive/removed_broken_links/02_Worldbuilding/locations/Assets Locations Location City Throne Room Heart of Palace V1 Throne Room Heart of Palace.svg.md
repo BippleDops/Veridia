@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Throne Room Heart of Palace V1 Throne Room Heart
   of Palace.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city throne room heart of palace v1 throne
   room heart of palacesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

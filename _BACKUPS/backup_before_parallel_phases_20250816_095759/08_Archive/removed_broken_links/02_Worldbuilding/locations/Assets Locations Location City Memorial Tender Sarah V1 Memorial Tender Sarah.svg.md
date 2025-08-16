@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Memorial Tender Sarah V1 Memorial Tender Sarah.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city memorial tender sarah v1 memorial tender
   sarahsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -197,7 +197,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -2,7 +2,7 @@
 
 title: scroll-of-titan-summoning-empyrean-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

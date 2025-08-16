@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city dr vera spectrumseeker dr vera spectrumseekersvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

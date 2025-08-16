@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Sunlight Crystal V1 Sunlight Crystal.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sunlight crystal v1 sunlight crystalsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

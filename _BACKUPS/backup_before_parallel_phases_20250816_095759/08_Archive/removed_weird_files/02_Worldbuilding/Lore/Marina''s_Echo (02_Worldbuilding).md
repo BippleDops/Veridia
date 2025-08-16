@@ -2,7 +2,7 @@
 
 title: [[Marina''s Echo
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

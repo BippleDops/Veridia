@@ -2,7 +2,7 @@
 
 title: The Seven Shards Campaign Act Structure
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

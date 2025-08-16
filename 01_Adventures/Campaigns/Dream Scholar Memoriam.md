@@ -2,7 +2,7 @@
 
 title: Dream Scholar [[Memoriam
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - world/aquabyssos

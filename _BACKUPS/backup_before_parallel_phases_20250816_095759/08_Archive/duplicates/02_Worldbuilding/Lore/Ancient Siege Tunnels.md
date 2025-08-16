@@ -2,7 +2,7 @@
 
 title: Ancient Siege Tunnels
 type: [[Lore
-tags: 
+tags:
 - lore
 - underground
 - status/complete
@@ -27,7 +27,7 @@ builders: '[[Aquabyssos|Ancient [Aquabyssos Rulers]]'
 current_status: Partially Collapsed, Some Sections Active
 danger_level: 7
 era: The Continental Wars
-related_entities: 
+related_entities:
 - '[[Continental War'
 - '[Port Meridian]]'
 - '[[Crystalhaven'
@@ -203,7 +203,7 @@ The ancient engineers employed three distinct tunnel types:
 
 **Ancient Guardians**: Crystal golems and mechanical constructs still defending key areas
 **[[Organization|Criminal [Organizations]]**: [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild members and smuggling rings
-**Tunnel Rats**: Survivors who've adapted to permanent underground life  
+**Tunnel Rats**: Survivors who've adapted to permanent underground life
 **Undead Soldiers**: Spirits of those who died in the tunnels during the wars
 **Aberrant Creatures**: Things that have crept up from deeper caves
 **Rogue Archaeologists**: Scholars seeking forbidden military knowledge
@@ -233,7 +233,7 @@ The tunnel network remains strategically vital for:
 
 The Ancient Siege Tunnels serve as:
 - Highways for covert operations and intrigue
-- Repositories of ancient knowledge and artifacts  
+- Repositories of ancient knowledge and artifacts
 - Battlegrounds between competing factions
 - Links connecting separate story threads across multiple cities
 - Sources of historical context for current political tensions

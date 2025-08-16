@@ -2,7 +2,7 @@
 
 title: Deep Harbor Technology
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

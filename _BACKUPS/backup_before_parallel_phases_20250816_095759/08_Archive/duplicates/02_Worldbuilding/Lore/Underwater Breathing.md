@@ -2,7 +2,7 @@
 
 title: Underwater Breathing
 type: [[Lore
-tags: 
+tags:
 - lore
 - aquabyssos
 - technology

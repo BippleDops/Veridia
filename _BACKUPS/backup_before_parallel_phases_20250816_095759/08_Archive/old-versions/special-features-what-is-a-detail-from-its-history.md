@@ -2,7 +2,7 @@
 
 title: special-features-what-is-a-detail-from-its-history
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

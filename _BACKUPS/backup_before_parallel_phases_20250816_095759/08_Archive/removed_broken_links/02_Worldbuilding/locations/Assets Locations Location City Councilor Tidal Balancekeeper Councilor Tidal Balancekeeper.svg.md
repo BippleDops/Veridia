@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Councilor Tidal Balancekeeper Councilor Tidal
   Balancekeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city councilor tidal balancekeeper councilor
   tidal balancekeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

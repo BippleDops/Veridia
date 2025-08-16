@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Abyssos Prime Upper Districts V1 Abyssos Prime
   Upper Districts.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city abyssos prime upper districts v1 abyssos
   prime upper districtspng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

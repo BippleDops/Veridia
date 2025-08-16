@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Depth Cardinal Justice Currentkeeper V1 Depth
   Cardinal Justice Currentkeeper.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city depth cardinal justice currentkeeper
   v1 depth cardinal justice currentkeepersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -179,7 +179,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

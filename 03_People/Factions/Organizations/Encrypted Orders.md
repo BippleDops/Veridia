@@ -2,7 +2,7 @@
 
 title: Encrypted Orders
 type: organization
-tags: 
+tags:
 - organization
 - syndicate
 created: '2025-08-14'

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City the Banker Fish the Banker Fish.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the banker fish the banker fishsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

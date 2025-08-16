@@ -2,7 +2,7 @@
 
 title: The Audit Tower
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/faction
 - content/lore

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Tidal Memento Tidal Memento.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city tidal memento tidal mementosvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

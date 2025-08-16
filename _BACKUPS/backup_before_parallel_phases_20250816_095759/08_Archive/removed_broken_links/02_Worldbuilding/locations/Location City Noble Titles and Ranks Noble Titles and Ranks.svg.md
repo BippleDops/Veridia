@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city noble titles and ranks noble titles and rankssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Noble Titles and Ranks Noble Titles and Ranks.svg
 type: location

@@ -2,7 +2,7 @@
 
 title: [[Seven Shards|The [Seven Shards]] Prophecy
 type: [[Lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

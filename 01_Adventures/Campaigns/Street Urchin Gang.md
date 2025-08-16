@@ -2,7 +2,7 @@
 
 title: Street Urchin Gang
 type: Location
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - survival
@@ -213,7 +213,7 @@ Ongoing situations affecting Street Urchin Gang:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

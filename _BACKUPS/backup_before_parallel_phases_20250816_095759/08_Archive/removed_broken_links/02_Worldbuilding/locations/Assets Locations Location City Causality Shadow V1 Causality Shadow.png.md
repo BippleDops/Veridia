@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Causality Shadow V1 Causality Shadow.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city causality shadow v1 causality shadowpng
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -186,7 +186,7 @@ Key stop on metals trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

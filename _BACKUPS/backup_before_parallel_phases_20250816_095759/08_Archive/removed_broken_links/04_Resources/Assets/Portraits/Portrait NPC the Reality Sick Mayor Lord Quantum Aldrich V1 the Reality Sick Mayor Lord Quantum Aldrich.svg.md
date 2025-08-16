@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc the reality sick mayor lord quantum aldrich v1 the reality sick mayor
   lord quantum aldrichsvg
 class: Unknown
@@ -9,7 +9,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich V1 the Reality Sick
   Mayor Lord Quantum Aldrich.svg

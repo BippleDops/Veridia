@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city deep harbor technology v1 deep harbor technologysvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Deep Harbor Technology V1 Deep Harbor Technology.svg
 type: location

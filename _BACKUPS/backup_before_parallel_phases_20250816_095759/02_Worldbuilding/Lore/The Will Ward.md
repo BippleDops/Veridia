@@ -2,7 +2,7 @@
 
 title: The Will Ward
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

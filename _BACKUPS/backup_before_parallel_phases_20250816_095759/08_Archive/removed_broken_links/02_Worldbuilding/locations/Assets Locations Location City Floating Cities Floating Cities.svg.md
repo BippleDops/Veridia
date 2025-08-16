@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Floating Cities Floating Cities.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city floating cities floating citiessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

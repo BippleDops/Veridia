@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city expedition to the sunless depths expedition to the sunless depthssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Expedition to the Sunless Depths Expedition to the Sunless Depths.svg
 type: location

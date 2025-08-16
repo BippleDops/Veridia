@@ -2,7 +2,7 @@
 
 title: lorehold-student-scc (backgrounds)
 type: lore
-tags: 
+tags:
 - lore
 
 created: '2025-01-15'

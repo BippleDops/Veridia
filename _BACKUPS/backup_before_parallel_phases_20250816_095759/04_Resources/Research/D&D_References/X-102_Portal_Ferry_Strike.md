@@ -2,7 +2,7 @@
 
 title: X-102_Portal_Ferry_Strike
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

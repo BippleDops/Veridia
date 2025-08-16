@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city reality stabilization centers v1 reality stabilization centerssvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Reality Stabilization Centers V1 Reality Stabilization Centers.svg
 type: location

@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Envoy Blackwater Jr Envoy Blackwater Jr.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city envoy blackwater jr envoy blackwater
   jrsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

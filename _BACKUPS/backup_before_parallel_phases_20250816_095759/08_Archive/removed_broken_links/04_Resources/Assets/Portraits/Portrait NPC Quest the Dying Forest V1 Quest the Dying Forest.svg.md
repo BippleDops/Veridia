@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc quest the dying forest v1 quest the dying forestsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Quest the Dying Forest V1 Quest the Dying Forest.svg
 type: npc

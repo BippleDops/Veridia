@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Marina Clearwater Marina Clearwater.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city marina clearwater marina clearwatersvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

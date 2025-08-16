@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-reef-guard-captain-torrent-shellborn-v1-reef-guard-captain-torrent-shellborn.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Events/Reality Breach Incidents
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

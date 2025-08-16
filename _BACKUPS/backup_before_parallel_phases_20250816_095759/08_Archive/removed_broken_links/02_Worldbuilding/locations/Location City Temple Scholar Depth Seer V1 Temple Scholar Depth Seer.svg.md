@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city temple scholar depth seer v1 temple scholar depth seersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Temple Scholar Depth Seer V1 Temple Scholar Depth Seer.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Stormwind Supplies Stormwind Supplies.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city stormwind supplies stormwind suppliespng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

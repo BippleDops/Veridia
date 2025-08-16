@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City the Phosphor Markets V1 the Phosphor Markets.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city the phosphor markets v1 the phosphor
   marketspng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

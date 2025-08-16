@@ -2,7 +2,7 @@
 
 title: Tide_Monk_Way_of_Flowing_Current
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

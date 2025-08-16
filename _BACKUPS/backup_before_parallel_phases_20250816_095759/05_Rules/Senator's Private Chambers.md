@@ -1,7 +1,7 @@
 ---
 title: [[Senator's Private Chambers
 type: Location
-tags: 
+tags:
 - [Aquabyssos]]
 - secure-area
 - status/complete

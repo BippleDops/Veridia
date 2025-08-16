@@ -2,7 +2,7 @@
 
 title: "10 Combat#dropping to 0 Hit Points#monsters and Death"
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -32,7 +32,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -235,7 +235,7 @@ Member of House Serpentblood - Trait: curse
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

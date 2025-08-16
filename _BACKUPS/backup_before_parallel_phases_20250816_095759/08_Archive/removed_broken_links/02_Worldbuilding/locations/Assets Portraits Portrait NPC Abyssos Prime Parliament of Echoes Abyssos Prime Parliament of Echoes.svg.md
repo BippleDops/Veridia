@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Abyssos Prime Parliament of Echoes Abyssos Prime
   Parliament of Echoes.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc abyssos prime parliament of echoes abyssos
   prime parliament of echoessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

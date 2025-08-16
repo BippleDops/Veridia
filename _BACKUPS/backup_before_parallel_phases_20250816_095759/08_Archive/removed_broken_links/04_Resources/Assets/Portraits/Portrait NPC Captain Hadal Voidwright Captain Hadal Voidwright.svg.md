@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc captain hadal voidwright captain hadal voidwrightsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Captain Hadal Voidwright Captain Hadal Voidwright.svg
 type: npc

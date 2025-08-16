@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Engineer Cordelia Pressurewright V1 Master
   Engineer Cordelia Pressurewright.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master engineer cordelia pressurewright
   v1 master engineer cordelia pressurewrightsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

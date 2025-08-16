@@ -2,7 +2,7 @@
 
 title: Temple of the Healing Waters
 type: Location
-tags: 
+tags:
 - aquabyssos
 - world/aquabyssos
 - content/location

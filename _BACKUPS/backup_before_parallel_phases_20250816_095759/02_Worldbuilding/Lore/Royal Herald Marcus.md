@@ -2,7 +2,7 @@
 
 title: Royal Herald Marcus
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/adventure
 - quest

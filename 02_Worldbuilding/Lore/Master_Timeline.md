@@ -2,7 +2,7 @@
 
 title: Master [[Time|[Timeline]]
 type: chronology
-tags: 
+tags:
 - timeline
 - history
 - events
@@ -255,7 +255,7 @@ improvements: 20
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

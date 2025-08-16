@@ -2,7 +2,7 @@
 
 title: Intelligence Dealer Echo Whisperwave
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

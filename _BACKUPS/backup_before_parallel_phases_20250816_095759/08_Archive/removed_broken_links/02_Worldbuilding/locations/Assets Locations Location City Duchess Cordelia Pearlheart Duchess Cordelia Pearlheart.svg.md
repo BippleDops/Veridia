@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Duchess Cordelia Pearlheart Duchess Cordelia
   Pearlheart.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city duchess cordelia pearlheart duchess
   cordelia pearlheartsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

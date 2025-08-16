@@ -2,7 +2,7 @@
 
 title: Quartermaster Judith Steadfast
 type: Location
-tags: 
+tags:
 - supply-depot
 - aquabyssos
 - status/complete

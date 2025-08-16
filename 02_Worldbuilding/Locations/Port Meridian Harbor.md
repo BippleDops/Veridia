@@ -2,7 +2,7 @@
 
 title: Port Meridian Harbor
 type: [[location
-tags: 
+tags:
 - aquabyssos
 - trade
 - status/complete

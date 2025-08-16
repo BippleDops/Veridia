@@ -2,7 +2,7 @@
 
 title: Safe House Network
 type: [[Lore
-tags: 
+tags:
 - lore
 - quest
 - active

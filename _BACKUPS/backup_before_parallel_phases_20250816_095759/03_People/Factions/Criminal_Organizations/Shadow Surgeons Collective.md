@@ -2,7 +2,7 @@
 
 title: Shadow Surgeons Collective
 type: Faction
-tags: 
+tags:
 - aquabyssos
 - status/complete
 - mechanics/magic
@@ -35,11 +35,11 @@ improvements: 20
 
 # Shadow Surgeons Collective
 
-**Type:** Criminal/Medical Organization  
-**Alignment:** Chaotic Neutral (officially), Chaotic Evil (in practice)  
-**Size:** ~300 active members  
-**Territory:** [[Shadow Market Canals, hidden facilities throughout [Aquabyssos]]  
-**Leadership:** The Silhouette Surgeon Prime (identity unknown)  
+**Type:** Criminal/Medical Organization
+**Alignment:** Chaotic Neutral (officially), Chaotic Evil (in practice)
+**Size:** ~300 active members
+**Territory:** [[Shadow Market Canals, hidden facilities throughout [Aquabyssos]]
+**Leadership:** The Silhouette Surgeon Prime (identity unknown)
 **Goals:** Perfect memory manipulation, elimination of trauma and suffering
 
 ## 🔧 Deep Evaluation Improvements
@@ -103,54 +103,54 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 - **The Greater Darkness**: Sometimes creating small shadows prevents larger ones from forming
 
 ## History and Formation
-**Founded:** 20 years after the Great Drowning  
-**Origin:** Dr. Marina Voidwright's research into healing trauma survivors  
-**Corruption:** Gradual shift from healing to exploitation as demand increased  
+**Founded:** 20 years after the Great Drowning
+**Origin:** Dr. Marina Voidwright's research into healing trauma survivors
+**Corruption:** Gradual shift from healing to exploitation as demand increased
 **Current State:** Full criminal organization with legitimate medical front
 
 ### Leadership Hierarchy
-**The Silhouette Surgeon Prime**: Unknown leader who makes all major decisions  
-**Council of Scars**: 7 senior surgeons who oversee different operational divisions  
-**Field Surgeons**: 50+ trained memory manipulators working in the field  
-**Collectors**: Agents who acquire memories through theft, purchase, or force  
+**The Silhouette Surgeon Prime**: Unknown leader who makes all major decisions
+**Council of Scars**: 7 senior surgeons who oversee different operational divisions
+**Field Surgeons**: 50+ trained memory manipulators working in the field
+**Collectors**: Agents who acquire memories through theft, purchase, or force
 **Processors**: Technical specialists who prepare and modify extracted memories
 
 ### Operational Divisions
-**Therapeutic Services**: Legitimate trauma treatment (30% of operations)  
-**Memory Trading**: Black market in experiences and knowledge (40% of operations)  
-**Identity Revision**: Complete personality overhauls for criminals and fugitives (20% of operations)  
+**Therapeutic Services**: Legitimate trauma treatment (30% of operations)
+**Memory Trading**: Black market in experiences and knowledge (40% of operations)
+**Identity Revision**: Complete personality overhauls for criminals and fugitives (20% of operations)
 **Corporate Espionage**: Stealing trade secrets and confidential information (10% of operations)
 
 ### Memory Extraction Techniques
-**Surgical Removal**: Direct brain surgery to remove specific memory clusters  
-**Crystal Resoce**: Using [[Aether Crystals to draw out experiences  
-**Psychological Manipulation**: Convincing patients to voluntarily surrender memories  
-**Temporal Extraction**: Stealing memories from different time periods  
+**Surgical Removal**: Direct brain surgery to remove specific memory clusters
+**Crystal Resoce**: Using [[Aether Crystals to draw out experiences
+**Psychological Manipulation**: Convincing patients to voluntarily surrender memories
+**Temporal Extraction**: Stealing memories from different time periods
 **Dream Harvesting**: Collecting memories while subjects sleep
 
 ### Memory Modification Services
-**Trauma Deletion**: Removing painful experiences (legitimate service)  
-**Skill Installation**: Implanting abilities and knowledge  
-**False Memory Implantation**: Creating artificial experiences  
-**Identity Overlays**: Completely changing personality and history  
+**Trauma Deletion**: Removing painful experiences (legitimate service)
+**Skill Installation**: Implanting abilities and knowledge
+**False Memory Implantation**: Creating artificial experiences
+**Identity Overlays**: Completely changing personality and history
 **Selective Amnesia**: Strategic forgetting for legal or personal reasons
 
 ### Storage and Processing
-**Crystal Memory Banks**: Vast libraries of extracted experiences  
-**Classification Systems**: Organizing memories by type, intensity, and value  
-**Quality Control**: Ensuring implanted memories integrate properly  
+**Crystal Memory Banks**: Vast libraries of extracted experiences
+**Classification Systems**: Organizing memories by type, intensity, and value
+**Quality Control**: Ensuring implanted memories integrate properly
 **Custom Modifications**: Tailoring memories to specific client needs
 
 ### Legitimate Front Businesses
-**Deepmind Medical Centers**: Chain of trauma therapy clinics  
-**Memory Care Facilities**: Treatment for age-related memory loss  
-**Research Institutes**: Studying memory formation and storage  
+**Deepmind Medical Centers**: Chain of trauma therapy clinics
+**Memory Care Facilities**: Treatment for age-related memory loss
+**Research Institutes**: Studying memory formation and storage
 **Pharmaceutical Companies**: Developing memory-affecting drugs
 
 ### Criminal Enterprises
-**Memory Theft Rings**: Systematic harvesting from vulnerable populations  
-**Identity Laundering**: Helping criminals escape justice through personality changes  
-**Blackmail Operations**: Using stolen memories to coerce victims  
+**Memory Theft Rings**: Systematic harvesting from vulnerable populations
+**Identity Laundering**: Helping criminals escape justice through personality changes
+**Blackmail Operations**: Using stolen memories to coerce victims
 **Assassination Services**: "Killing" people by erasing their entire identity
 
 #### Dr. Void Nultis (Surgery Division Chief)
@@ -169,7 +169,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 **Shadow Surgery.** Can cast *inflict wounds*, *cure wounds*, and *greater restoration* as shadow-enhanced versions.
 **Pain Immunity.** Cannot be incapacitated by pain effects.
 
-#### Surgeon Echo (Processing Division Chief)  
+#### Surgeon Echo (Processing Division Chief)
 *Medium humanoid (half-elf), lawful evil*
 **AC** 14 (Natural Armor) **HP** 97 (`dice: 15d8` + 30) **Speed** 30 ft.
 **STR** 8 (-1) **DEX** 18 (+4) **CON** 14 (+2) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 15 (+2)
@@ -186,7 +186,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 **False Echo.** Can create perfect memory copies of herself in others' minds.
 
 #### The Memory Thief (Collection Division Chief)
-*Medium humanoid (variant human), chaotic evil*  
+*Medium humanoid (variant human), chaotic evil*
 **AC** 16 (Studded Leather +1) **HP** 127 (`dice: 15d8` + 60) **Speed** 40 ft.
 **STR** 12 (+1) **DEX** 20 (+5) **CON** 18 (+4) **INT** 16 (+3) **WIS** 18 (+4) **CHA** 14 (+2)
 **Saving Throws** Dex +11, Wis +10
@@ -203,9 +203,9 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 **Stolen Experience.** Has advantage on all skill checks due to vast stolen knowledge.
 
 ### Notable Operatives
-**Agent Amnesia**: Field operative who erases evidence of Collective activities  
-**The Living Library**: Human storage device containing thousands of stolen memories  
-**Surgeon Blade**: Combat medic specializing in battlefield memory extraction  
+**Agent Amnesia**: Field operative who erases evidence of Collective activities
+**The Living Library**: Human storage device containing thousands of stolen memories
+**Surgeon Blade**: Combat medic specializing in battlefield memory extraction
 **The Mirror**: Identity thief who can perfectly mimic anyone whose memories they've stolen
 
 ### Membership Requirements
@@ -218,7 +218,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 
 ### Ranks and Hierarchy
 1. **Shadow Acolytes**: Entry-level members learning basic shadow surgery (50+ members)
-2. **Umbral Surgeons**: Licensed shadow medical practitioners (100+ members)  
+2. **Umbral Surgeons**: Licensed shadow medical practitioners (100+ members)
 3. **Void Specialists**: Masters of specific shadow surgery disciplines (75 members)
 4. **Scar Wardens**: Regional commanders overseeing operations (15 members)
 5. **Council of Scars**: Seven division chiefs managing the organization
@@ -229,7 +229,7 @@ Hidden beneath the [[Shadow Market Canals in a pocket dimension partially existi
 
 **Layout:**
 - **The Shadow Operating Theater**: Massive surgical suite existing simultaneously in material and shadow planes
-- **Memory Vault**: Crystalline chambers storing thousands of extracted memories in [[Aether Crystal matrices  
+- **Memory Vault**: Crystalline chambers storing thousands of extracted memories in [[Aether Crystal matrices
 - **The Umbral Library**: Research archive containing shadow surgery techniques and forbidden knowledge
 - **Council Chambers**: Meeting space for the seven Scar Council members
 - **Prime's Sanctum**: Hidden quarters of the mysterious Silhouette Surgeon Prime
@@ -237,21 +237,21 @@ Hidden beneath the [[Shadow Market Canals in a pocket dimension partially existi
 - **Prisoner Cells**: Holding areas for unwilling "donors" and failed experiments
 
 ### Equipment and Technology
-**Crystal Memory Matrices**: Advanced storage for extracted experiences  
-**Surgical Instruments**: Precision tools for brain operations  
-**Psychological Conditioning Equipment**: Devices for mental manipulation  
+**Crystal Memory Matrices**: Advanced storage for extracted experiences
+**Surgical Instruments**: Precision tools for brain operations
+**Psychological Conditioning Equipment**: Devices for mental manipulation
 **Security Systems**: Protection against investigation and infiltration
 
 ### Ficial Resources
-**Annual Income**: ~2 million gold pieces from all operations  
-**Investment Portfolio**: Legitimate businesses providing cover and funding  
-**Client Base**: Wealthy individuals, criminals, and corrupt officials  
+**Annual Income**: ~2 million gold pieces from all operations
+**Investment Portfolio**: Legitimate businesses providing cover and funding
+**Client Base**: Wealthy individuals, criminals, and corrupt officials
 **Payment Methods**: Gold, favors, information, and memory trades
 
 ### Criminal Partnerships
-**[The Whisper Syndicate]]**: Information sharing and joint shadow operations  
-**[[Coral Throne Syndicate**: Money laundering through [Black Pearl Bank]] and resource trading  
-**[[Independent Smugglers**: Transport via [Submarine Networks]] and logistics support  
+**[The Whisper Syndicate]]**: Information sharing and joint shadow operations
+**[[Coral Throne Syndicate**: Money laundering through [Black Pearl Bank]] and resource trading
+**[[Independent Smugglers**: Transport via [Submarine Networks]] and logistics support
 **[[The Drowned Court**: Services to noble families seeking memory modification
 **[Thieves Guild]]**: Intelligence gathering through the [[Shadow Market Canals network
 **[Crimson Tide Pirates]]**: Maritime operations and protection for shadow surgery vessels
@@ -266,35 +266,35 @@ Hidden beneath the [[Shadow Market Canals in a pocket dimension partially existi
 ### Enemies and Rivals
 **[Depth Wardens]]**: Active investigation led by [[Admiral Thorne Blackwater
 **[The Lighthouse Keepers]]**: Moral opposition to shadow magic corruption
-**[[Memory Farmers**: Direct competition in memory-related criminal services  
+**[[Memory Farmers**: Direct competition in memory-related criminal services
 **[Groups]]**: Paladins dedicated to stopping shadow magic abuse
 **[[Reformed Surgeons Alliance**: Former members exposing operations and helping victims
 **[Citizens Protection Bureau]]**: Government agency investigating medical crimes
 
 ### Capabilities
-**Psychological Warfare**: Can destroy enemies by erasing their identity  
-**Intelligence Network**: Vast knowledge base from stolen memories  
-**Medical Expertise**: Advanced understanding of brain and consciousness  
-**Criminal Connections**: Alliance with other dangerous organizations  
+**Psychological Warfare**: Can destroy enemies by erasing their identity
+**Intelligence Network**: Vast knowledge base from stolen memories
+**Medical Expertise**: Advanced understanding of brain and consciousness
+**Criminal Connections**: Alliance with other dangerous organizations
 **Ficial Power**: Resources to corrupt officials and hire protection
 
 ### Weaknesses
-**Ethical Conflicts**: Internal disagreements about methods  
-**Evidence Trail**: Memory extraction leaves detectable traces  
-**Dependency**: Relies heavily on [[Aether Crystal]] technology  
-**Public Relations**: Negative reputation limits recruitment and operations  
+**Ethical Conflicts**: Internal disagreements about methods
+**Evidence Trail**: Memory extraction leaves detectable traces
+**Dependency**: Relies heavily on [[Aether Crystal]] technology
+**Public Relations**: Negative reputation limits recruitment and operations
 **Legal Vulnerability**: Legitimate operations subject to regulation and oversight
 
 ### Ongoing Threats
-**Memory Weapon Development**: Creating devices for mass memory manipulation  
-**Political Infiltration**: Placing modified agents in government positions  
-**Identity Network**: Building army of people with completely false histories  
+**Memory Weapon Development**: Creating devices for mass memory manipulation
+**Political Infiltration**: Placing modified agents in government positions
+**Identity Network**: Building army of people with completely false histories
 **Reality Revision**: Attempting to alter collective memory of historical events
 
 ### Potential Allies
-**Reformed Surgeons**: Ex-members seeking redemption through heroic action  
-**Victim Support Groups**: Organizations helping those harmed by memory theft  
-**Ethical Researchers**: Scientists studying legitimate therapeutic applications  
+**Reformed Surgeons**: Ex-members seeking redemption through heroic action
+**Victim Support Groups**: Organizations helping those harmed by memory theft
+**Ethical Researchers**: Scientists studying legitimate therapeutic applications
 **Religious Orders**: Groups believing memory is sacred and should not be altered
 
 ### Balancing the Threat
@@ -343,7 +343,7 @@ Things widely suspected
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

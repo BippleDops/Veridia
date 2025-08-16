@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Chronokeeper Tide Timestable V1 Chronokeeper
   Tide Timestable.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city chronokeeper tide timestable v1 chronokeeper
   tide timestablesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

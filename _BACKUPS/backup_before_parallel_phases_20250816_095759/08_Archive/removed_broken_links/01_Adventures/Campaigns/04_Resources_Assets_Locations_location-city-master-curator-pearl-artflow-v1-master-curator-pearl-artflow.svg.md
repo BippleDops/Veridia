@@ -1,7 +1,7 @@
 ---
 title: 04_Resources_Assets_Locations_location-city-master-curator-pearl-artflow-v1-master-curator-pearl-artflow.svg
 type: note
-tags: 
+tags:
 - auto-generated
 - linked
 created: '2025-01-15'

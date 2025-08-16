@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city divine communication studies v1 divine communication studiessvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Divine Communication Studies V1 Divine Communication Studies.svg
 type: location

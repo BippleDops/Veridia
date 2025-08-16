@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Risk Assessor Probability V1 Risk Assessor Probability.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city risk assessor probability v1 risk assessor
   probabilitysvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -182,7 +182,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

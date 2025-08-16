@@ -2,7 +2,7 @@
 
 title: Crystal Cult [[Organization
 type: organization
-tags: 
+tags:
 - organization
 - order
 - conspiracy
@@ -99,7 +99,7 @@ Crystal Cult Organization is a powerful order that threatens significant aspects
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

@@ -67,7 +67,7 @@ Detailed description pending.
 - Time pressure
 - Moral dilemmas # Quest - Patient Zero ---
 
-title: 
+title:
 *The [texture] surface feels [description] to the touch.*Quest Patient Zero
 type: Lore
 tags:

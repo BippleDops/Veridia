@@ -1,11 +1,11 @@
 ---
 
 title: Assets Portraits Portrait NPC the Emperor S Memories the Emperor S Memories.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc the emperor s memories the emperor s
   memoriessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

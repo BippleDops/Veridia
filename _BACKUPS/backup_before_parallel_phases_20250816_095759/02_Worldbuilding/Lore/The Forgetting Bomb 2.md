@@ -4,7 +4,7 @@ created: '2025-08-08'
 created_by: auto-stub
 significance: Strategic Threat
 status: complete
-tags: 
+tags:
 - aquabyssos
 - complete
 - content/item
@@ -42,7 +42,7 @@ The Forgetting Bomb represents the pinnacle of [[02_Worldbuilding/Lore/The Memor
 
 **Blast Characteristics:**
 - **Primary Radius**: Complete amnesia within 2-mile radius
-- **Secondary Radius**: Partial memory loss within 5-mile radius  
+- **Secondary Radius**: Partial memory loss within 5-mile radius
 - **Tertiary Effects**: Memory confusion and disorientation within 10-mile radius
 - **Duration**: Permanent memory loss, effects irreversible with current technology
 - **Activation**: Pressure-triggered detonation or remote crystalline resonance

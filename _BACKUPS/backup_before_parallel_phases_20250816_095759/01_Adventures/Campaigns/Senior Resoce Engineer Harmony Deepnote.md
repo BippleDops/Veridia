@@ -1,7 +1,7 @@
 ---
 title: Senior Resoce Engineer Harmony Deepnote
 type: note
-tags: 
+tags:
 - auto-generated
 - [[Linked
 created: '2025-01-15'

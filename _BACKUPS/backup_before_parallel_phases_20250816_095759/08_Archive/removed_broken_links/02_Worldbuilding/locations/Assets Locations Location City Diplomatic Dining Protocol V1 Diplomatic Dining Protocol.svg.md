@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Diplomatic Dining Protocol V1 Diplomatic Dining
   Protocol.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city diplomatic dining protocol v1 diplomatic
   dining protocolsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

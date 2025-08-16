@@ -2,7 +2,7 @@
 
 title: [[HP Tracker
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - prophecy

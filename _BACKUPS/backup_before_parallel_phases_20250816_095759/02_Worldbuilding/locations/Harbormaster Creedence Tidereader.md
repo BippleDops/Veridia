@@ -2,7 +2,7 @@
 
 title: Harbormaster Creedence Tidereader
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Lighthouse of Storms
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

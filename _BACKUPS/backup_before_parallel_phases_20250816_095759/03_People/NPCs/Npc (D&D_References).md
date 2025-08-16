@@ -2,7 +2,7 @@
 
 title: Npc
 type: Lore
-tags: 
+tags:
 - lore
 - both
 - complete

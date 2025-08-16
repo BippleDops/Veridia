@@ -2,7 +2,7 @@
 
 title: Reality Structure Analysis Group
 type: organization
-tags: 
+tags:
 - organization
 
 created: '2025-01-15'

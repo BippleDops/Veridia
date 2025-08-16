@@ -2,7 +2,7 @@
 
 title: [[Merchant Prince Aldric Goldcurrent
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

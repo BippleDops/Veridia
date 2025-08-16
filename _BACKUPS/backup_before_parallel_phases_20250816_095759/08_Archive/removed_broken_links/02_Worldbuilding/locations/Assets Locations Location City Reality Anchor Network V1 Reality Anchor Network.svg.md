@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Reality Anchor Network V1 Reality Anchor Network.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city reality anchor network v1 reality anchor
   networksvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

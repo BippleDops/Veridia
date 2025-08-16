@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Captain Rescue Captain Rescue.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc captain rescue captain rescuesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc
@@ -211,7 +211,7 @@ Member of House Dragonblood - Trait: magical affinity
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

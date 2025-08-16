@@ -2,7 +2,7 @@
 
 title: Crystal Caves of [[Aethermoor
 type: [Lore]]
-tags: 
+tags:
 - lore
 - [[Aquabyssos
 - aerial

@@ -2,7 +2,7 @@
 
 title: The Temporal Monks
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

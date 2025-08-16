@@ -1,10 +1,10 @@
 ---
 
 title: Assets Portraits Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc ancient king pelagios ancient king pelagiossvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

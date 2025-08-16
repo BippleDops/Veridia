@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Observation Tender Clara Observation Tender
   Clara.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city observation tender clara observation
   tender clarasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

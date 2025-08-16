@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC High Priestess Scylla Deepdream High Priestess
   Scylla Deepdream.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc high priestess scylla deepdream high
   priestess scylla deepdreamsvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

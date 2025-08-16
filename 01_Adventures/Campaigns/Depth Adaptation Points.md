@@ -3,7 +3,7 @@ enhanced: true
 
 title: Depth Adaptation Points
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

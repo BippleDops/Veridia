@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Quest the Corruption Files Quest the Corruption
   Files.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc quest the corruption files quest the
   corruption filessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

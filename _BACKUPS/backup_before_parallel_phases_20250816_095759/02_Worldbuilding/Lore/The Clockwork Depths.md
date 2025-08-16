@@ -2,7 +2,7 @@
 
 title: The Clockwork Depths
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - world/aquabyssos

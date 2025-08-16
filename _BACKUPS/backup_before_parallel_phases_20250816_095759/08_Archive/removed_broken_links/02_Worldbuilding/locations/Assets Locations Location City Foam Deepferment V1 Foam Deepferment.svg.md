@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Foam Deepferment V1 Foam Deepferment.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city foam deepferment v1 foam deepfermentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

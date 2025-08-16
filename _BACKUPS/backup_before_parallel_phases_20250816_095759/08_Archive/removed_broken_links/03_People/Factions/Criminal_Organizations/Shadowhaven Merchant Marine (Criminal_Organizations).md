@@ -2,7 +2,7 @@
 
 title: Shadowhaven Merchant Marine
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

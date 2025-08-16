@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Sacred Grief Protocols Sacred Grief Protocols.png
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city sacred grief protocols sacred grief
   protocolspng
 type: location
-tags: 
+tags:
 - place
 - active
 - location

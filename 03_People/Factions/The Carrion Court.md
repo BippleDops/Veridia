@@ -2,7 +2,7 @@
 
 title: The Carrion Court
 type: Faction
-tags: 
+tags:
 - both
 - content/faction
 - faction

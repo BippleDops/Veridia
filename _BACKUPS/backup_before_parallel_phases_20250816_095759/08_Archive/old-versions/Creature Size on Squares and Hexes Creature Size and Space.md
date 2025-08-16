@@ -2,7 +2,7 @@
 
 title: Creature Size on Squares and Hexes Creature Size and Space
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

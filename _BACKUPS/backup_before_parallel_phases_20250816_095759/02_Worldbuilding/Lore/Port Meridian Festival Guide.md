@@ -2,7 +2,7 @@
 
 title: [[Port Meridian Festival Guide
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - prophecy

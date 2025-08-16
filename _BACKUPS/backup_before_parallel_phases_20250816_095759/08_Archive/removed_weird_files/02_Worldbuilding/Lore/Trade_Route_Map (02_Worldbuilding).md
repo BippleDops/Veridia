@@ -2,7 +2,7 @@
 
 title: [[Trade Route Map
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

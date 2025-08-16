@@ -2,7 +2,7 @@
 
 title: '#Statblock'
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - bloodline

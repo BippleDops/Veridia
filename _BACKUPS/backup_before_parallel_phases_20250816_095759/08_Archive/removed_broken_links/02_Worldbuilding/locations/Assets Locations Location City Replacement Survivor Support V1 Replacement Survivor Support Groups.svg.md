@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Replacement Survivor Support V1 Replacement
   Survivor Support Groups.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city replacement survivor support groups
   v1 replacement survivor support groupssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

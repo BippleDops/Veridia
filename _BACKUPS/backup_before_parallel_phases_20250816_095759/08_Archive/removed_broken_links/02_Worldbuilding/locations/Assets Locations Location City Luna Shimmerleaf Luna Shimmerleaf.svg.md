@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Luna Shimmerleaf Luna Shimmerleaf.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city luna shimmerleaf luna shimmerleafsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

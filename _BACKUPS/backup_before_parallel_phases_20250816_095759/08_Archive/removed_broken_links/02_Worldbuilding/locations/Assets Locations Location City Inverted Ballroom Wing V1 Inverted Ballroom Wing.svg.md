@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Inverted Ballroom Wing V1 Inverted Ballroom
   Wing.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city inverted ballroom wing v1 inverted ballroom
   wingsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

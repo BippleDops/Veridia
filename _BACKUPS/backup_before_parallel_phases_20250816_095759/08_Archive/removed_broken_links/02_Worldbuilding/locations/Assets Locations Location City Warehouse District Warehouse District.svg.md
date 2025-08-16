@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Warehouse District Warehouse District.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city warehouse district warehouse districtsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -190,7 +190,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

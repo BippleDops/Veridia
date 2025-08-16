@@ -10,7 +10,7 @@ magical_phenomena: Temporal Overlap, Echo Persistence
 obsidianUIMode: preview
 population: ~500 (plus countless echoes)
 status: complete
-tags: 
+tags:
 - both
 - complete
 - content/location
@@ -50,7 +50,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
 
 #### Level 1: The Public Galleries
 - **Purpose**: Citizens observe (but cannot affect) proceedings
-- **Features**: 
+- **Features**:
   - Viewing pools showing past and future debates
   - Echo chambers where old speeches replay
   - The Complaint Choir (citizens' grievances in harmony)
@@ -84,7 +84,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
 
 #### Level 5: The Foundation Depths
 - **Purpose**: Unknown (sealed 200 years ago)
-- **Rumors**: 
+- **Rumors**:
   - Contains the original government in stasis
   - Portal to pre-flood surface world
   - The true Parliament that this echoes

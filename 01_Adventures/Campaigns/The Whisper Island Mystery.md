@@ -2,7 +2,7 @@
 
 title: The Whisper Island Mystery
 type: Location
-tags: 
+tags:
 - mystery
 - supernatural
 - content/adventure

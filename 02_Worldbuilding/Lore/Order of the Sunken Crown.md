@@ -2,7 +2,7 @@
 
 title: Order of the Sunken Crown
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - order

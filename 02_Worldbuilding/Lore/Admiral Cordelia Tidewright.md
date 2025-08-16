@@ -2,7 +2,7 @@
 
 title: Admiral Cordelia Tidewright
 type: [[Lore
-tags: 
+tags:
 - lore
 - [Aquabyssos]]
 - content/adventure

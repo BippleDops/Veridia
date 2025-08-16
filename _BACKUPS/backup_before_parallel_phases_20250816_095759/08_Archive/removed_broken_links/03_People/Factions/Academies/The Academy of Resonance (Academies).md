@@ -2,7 +2,7 @@
 
 title: The Academy of Resoce
 type: Faction
-tags: 
+tags:
 - dimensional nexus (both realms)
 - content/faction
 - faction

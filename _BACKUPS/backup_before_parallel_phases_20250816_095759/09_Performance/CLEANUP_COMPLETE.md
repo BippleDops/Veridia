@@ -31,7 +31,7 @@ modified: 2025-08-15
 
 ### 🗑️ Removed Bad Directories
 - `Audio` - Empty/unused
-- `Export` - Empty/unused  
+- `Export` - Empty/unused
 - `MASTER_GUIDES` - Duplicate (content is in 00_System/Guides)
 - `Player_Characters` - Duplicate of 05_Player_Characters
 - `reports` - Script output, not content

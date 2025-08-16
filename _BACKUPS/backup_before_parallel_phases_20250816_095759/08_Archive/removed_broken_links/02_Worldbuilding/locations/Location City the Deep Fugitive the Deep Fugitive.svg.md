@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the deep fugitive the deep fugitivesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Deep Fugitive the Deep Fugitive.svg
 type: location

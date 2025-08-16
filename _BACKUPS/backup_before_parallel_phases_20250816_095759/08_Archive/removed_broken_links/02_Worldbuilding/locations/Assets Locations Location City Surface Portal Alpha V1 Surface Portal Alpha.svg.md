@@ -1,11 +1,11 @@
 ---
 
 title: Assets Locations Location City Surface Portal Alpha V1 Surface Portal Alpha.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city surface portal alpha v1 surface portal
   alphasvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,7 +2,7 @@
 
 title: Terminal Master [[Hadrian Depthbridge
 type: [location]]
-tags: 
+tags:
 - both
 - world/both
 - content/location

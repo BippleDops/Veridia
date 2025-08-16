@@ -2,7 +2,7 @@
 
 title: Treasurer Mint Coinwise
 type: [[Lore
-tags: 
+tags:
 - lore
 - content/lore
 - content/[location]]

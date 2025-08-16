@@ -2,7 +2,7 @@
 
 title: Elf Tables Elf Non Drow Adventurer Story
 type: note
-tags: 
+tags:
 - note
 
 created: '2025-01-15'

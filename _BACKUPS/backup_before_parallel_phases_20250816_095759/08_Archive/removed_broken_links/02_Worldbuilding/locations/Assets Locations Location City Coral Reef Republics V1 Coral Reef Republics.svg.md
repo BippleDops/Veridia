@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Coral Reef Republics V1 Coral Reef Republics.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city coral reef republics v1 coral reef republicssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

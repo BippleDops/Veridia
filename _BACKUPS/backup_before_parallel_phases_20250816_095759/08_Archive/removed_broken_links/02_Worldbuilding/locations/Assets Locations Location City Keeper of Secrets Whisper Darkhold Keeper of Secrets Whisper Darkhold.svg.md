@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Keeper of Secrets Whisper Darkhold Keeper of
   Secrets Whisper Darkhold.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city keeper of secrets whisper darkhold keeper
   of secrets whisper darkholdsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

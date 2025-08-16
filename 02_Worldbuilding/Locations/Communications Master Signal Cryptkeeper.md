@@ -2,7 +2,7 @@
 
 title: Communications Master Signal Cryptkeeper
 type: [[location
-tags: 
+tags:
 - [Aquabyssos]]
 - world/aquabyssos
 - content/location

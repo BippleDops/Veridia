@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Magical Services V1 Magical Services.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city magical services v1 magical servicessvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

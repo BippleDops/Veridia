@@ -2,7 +2,7 @@
 
 title: Trader Compass Rose
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

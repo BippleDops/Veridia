@@ -2,7 +2,7 @@
 
 title: Void Integration Research
 type: [[location
-tags: 
+tags:
 - both
 - world/both
 - content/location

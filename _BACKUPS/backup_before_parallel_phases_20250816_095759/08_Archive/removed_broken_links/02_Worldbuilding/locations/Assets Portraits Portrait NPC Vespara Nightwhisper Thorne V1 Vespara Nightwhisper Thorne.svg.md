@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper
   Thorne.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc vespara nightwhisper thorne v1 vespara
   nightwhisper thornesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

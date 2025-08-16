@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Free Current Free Current.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city free current free currentsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

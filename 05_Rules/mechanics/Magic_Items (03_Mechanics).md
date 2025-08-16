@@ -2,7 +2,7 @@
 
 title: 03_Mechanics/Magic_Items
 type: item
-tags: 
+tags:
 - item
 - weapon
 - uncommon

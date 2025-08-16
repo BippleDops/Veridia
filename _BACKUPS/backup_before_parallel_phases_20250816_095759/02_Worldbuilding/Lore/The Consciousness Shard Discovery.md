@@ -2,7 +2,7 @@
 
 title: The [[Consciousness Shard Discovery
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 - conspiracy

@@ -2,7 +2,7 @@
 
 title: [[Deep Mother Resistance Traits
 type: [Lore]]
-tags: 
+tags:
 - lore
 - worldbuilding
 created: '2025-08-14'

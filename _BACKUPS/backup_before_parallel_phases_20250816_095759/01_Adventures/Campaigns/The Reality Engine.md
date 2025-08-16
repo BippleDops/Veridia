@@ -1,7 +1,7 @@
 ---
 title: The Reality Engine
 type: [[Lore
-tags: 
+tags:
 - lore
 - active
 - conspiracy

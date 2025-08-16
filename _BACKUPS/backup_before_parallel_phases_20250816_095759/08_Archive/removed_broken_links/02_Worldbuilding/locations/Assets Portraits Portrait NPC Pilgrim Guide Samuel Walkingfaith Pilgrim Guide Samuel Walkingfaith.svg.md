@@ -2,11 +2,11 @@
 
 title: Assets Portraits Portrait NPC Pilgrim Guide Samuel Walkingfaith Pilgrim Guide
   Samuel Walkingfaith.svg
-aliases: 
+aliases:
 - 04 Resources Assets Portraits portrait npc pilgrim guide samuel walkingfaith pilgrim
   guide samuel walkingfaithsvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

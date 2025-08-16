@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Trade Unions V1 Trade Unions.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city trade unions v1 trade unionssvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -200,7 +200,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

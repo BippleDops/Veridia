@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - portrait npc abyssal cathedral v2 abyssal cathedralsvg
 class: Unknown
 created: 2025-08-14
@@ -8,7 +8,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags: 
+tags:
 - npc
 title: Portrait NPC Abyssal Cathedral V2 Abyssal Cathedral.svg
 type: npc

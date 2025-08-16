@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city archivist stone memorykeeper v1 archivist stone memorykeepersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Archivist Stone Memorykeeper V1 Archivist Stone Memorykeeper.svg
 type: location

@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Liminal Constantinople V1 Liminal Constantinople.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city liminal constantinople v1 liminal constantinoplesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -195,7 +195,7 @@ Key locations marked:
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

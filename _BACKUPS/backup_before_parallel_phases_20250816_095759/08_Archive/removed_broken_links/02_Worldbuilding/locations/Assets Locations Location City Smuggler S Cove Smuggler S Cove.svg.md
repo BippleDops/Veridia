@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Smuggler S Cove Smuggler S Cove.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city smuggler s cove smuggler s covesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

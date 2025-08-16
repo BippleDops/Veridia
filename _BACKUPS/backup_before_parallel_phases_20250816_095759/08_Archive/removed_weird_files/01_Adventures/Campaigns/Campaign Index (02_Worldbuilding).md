@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/[[Lore/[Campaign_Index]]
 type: adventure
-tags: 
+tags:
 - adventure
 - quest
 - bloodline

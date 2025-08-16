@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Technology/Probability Monitors
 type: lore
-tags: 
+tags:
 - lore
 - worldbuilding
 - bloodline

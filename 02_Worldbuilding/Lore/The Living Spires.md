@@ -2,7 +2,7 @@
 
 title: The Living Spires
 type: [[Lore
-tags: 
+tags:
 - lore
 - both
 - content/lore

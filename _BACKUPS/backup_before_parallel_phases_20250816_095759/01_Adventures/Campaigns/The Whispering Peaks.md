@@ -1,7 +1,7 @@
 ---
 title: The Whispering Peaks
 type: Location
-tags: 
+tags:
 - aquabyssos
 - mountains
 - status/complete
@@ -28,7 +28,7 @@ elevation: Sea level to 12,000 feet above surface
 government: '[The Order of Azure Flame]]'
 leader: '[[Grand Master Tempest Windvoice]]'
 obsidianUIMode: preview
-specialties: 
+specialties:
 - Spirit Communication
 - Ancient Mysteries
 - Wind Magic

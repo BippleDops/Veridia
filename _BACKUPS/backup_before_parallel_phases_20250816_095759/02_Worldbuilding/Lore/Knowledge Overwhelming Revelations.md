@@ -2,7 +2,7 @@
 
 title: Knowledge [[Overwhelming Revelations
 type: [Lore]]
-tags: 
+tags:
 - lore
 - active
 - conspiracy

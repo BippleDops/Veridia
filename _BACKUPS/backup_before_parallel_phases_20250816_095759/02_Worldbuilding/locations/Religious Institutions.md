@@ -2,7 +2,7 @@
 
 title: Religious Institutions
 type: Location
-tags: 
+tags:
 - both
 - world/both
 - content/location

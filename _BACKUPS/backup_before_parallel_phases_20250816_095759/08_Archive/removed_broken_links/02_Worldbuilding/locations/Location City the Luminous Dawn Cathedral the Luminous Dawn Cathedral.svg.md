@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city the luminous dawn cathedral the luminous dawn cathedralsvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City the Luminous Dawn Cathedral the Luminous Dawn Cathedral.svg
 type: location

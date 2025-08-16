@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - location city abyssos prime inverse palace v1 abyssos prime inverse palacesvg
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -7,7 +7,7 @@ improvements: 20
 modified: '2025-08-14'
 population: Unknown
 region: Unknown
-tags: 
+tags:
 - location
 title: Location City Abyssos Prime Inverse Palace V1 Abyssos Prime Inverse Palace.svg
 type: location

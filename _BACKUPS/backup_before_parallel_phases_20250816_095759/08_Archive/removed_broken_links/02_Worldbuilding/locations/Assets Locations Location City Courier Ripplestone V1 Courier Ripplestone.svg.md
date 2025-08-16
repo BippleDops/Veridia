@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Courier Ripplestone V1 Courier Ripplestone.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city courier ripplestone v1 courier ripplestonesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location
@@ -212,7 +212,7 @@ Key stop on spices trade route
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 

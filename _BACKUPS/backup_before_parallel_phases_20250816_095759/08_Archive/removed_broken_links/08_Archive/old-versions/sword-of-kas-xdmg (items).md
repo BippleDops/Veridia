@@ -2,7 +2,7 @@
 
 title: sword-of-kas-xdmg (items)
 type: item
-tags: 
+tags:
 - item
 
 created: '2025-01-15'

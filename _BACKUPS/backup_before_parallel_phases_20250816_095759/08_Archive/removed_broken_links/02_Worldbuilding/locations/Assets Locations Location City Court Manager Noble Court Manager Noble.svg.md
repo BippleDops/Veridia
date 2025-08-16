@@ -1,10 +1,10 @@
 ---
 
 title: Assets Locations Location City Court Manager Noble Court Manager Noble.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city court manager noble court manager noblesvg
 type: location
-tags: 
+tags:
 - place
 - active
 - location

@@ -2,11 +2,11 @@
 
 title: Assets Locations Location City Master Cultivator Reef Growstone Master Cultivator
   Reef Growstone.svg
-aliases: 
+aliases:
 - 04 Resources Assets Locations location city master cultivator reef growstone master
   cultivator reef growstonesvg
 type: npc
-tags: 
+tags:
 - character
 - active
 - npc

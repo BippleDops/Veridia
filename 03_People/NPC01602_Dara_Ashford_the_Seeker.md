@@ -18,7 +18,6 @@ aliases: [NPC01602 Dara Ashford the Seeker]
 - [[#Jorah Nightfall the Swift (Personal - Best friend)|Jorah Nightfall the Swift (Personal - Best friend)]]
 - [[#Qadim Crystalbrook the Risen (Family - Cousin)|Qadim Crystalbrook the Risen (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Dara Ashford the Seeker", "dara ashford the seeker", "Dara Ashford Seeker", "Seeker the Ashford Dara"]
@@ -156,16 +155,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.290Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -212,11 +208,10 @@ Blackmails party into service
 - [[MOC_Lore]]
 - [[NPC01502_Urien_Underhill_the_Scholar]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -226,11 +221,10 @@ Blackmails party into service
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -265,7 +259,7 @@ Blackmails party into service
 - Requires [[step_093 (phase_060)]]
 - Parallels [[step_021 (phase_050)]]
 - See also: [[ENC00076_Social_Encounter_77]]
-- See also: [[step_010]]
+- See also:
 - Influences [[NPC00875_Zephyr_Proudmore_the_Fallen]]
 - Originates from [[Shadow Tide Syndicate]]
 - Leads to [[Pressure Suit Malfunction 2]]
@@ -291,12 +285,12 @@ Blackmails party into service
 - Leads to [[step_004 (phase_016)]]
 - Influences [[The Sunken Cathedral of Stars (D&D_References)]]
 - Requires [[Shadow Surgery Manual]]
-- Parallels [[step_038]]
+- Parallels
 - Originates from [[Stormwind Estate 2]]
 - See also: [[Wave Soothingtouch (D&D_References)]]
 - See also: [[The Spire of Healing]]
 - Related: [[step_075 (phase_063)]]
-- Parallels [[step_046]]
+- Parallels
 - Affected by [[ENC00200_Social_Encounter_201]]
 - See also: [[ITEM01047_Concentrated_Potion_of_Vigor]]
 - Related: [[FAC00011_Guilds_12]]
@@ -317,14 +311,14 @@ Blackmails party into service
 - Compare with [[Echo-Prime Cacophony Voidlungs]]
 - Originates from [[step_005 (phase_058)]]
 - Compare with [[Assets Locations Location City Maestro Finn Whirlstep V1 Maestro Finn Whirlstep.svg]]
-- See also: [[step_071]]
+- See also:
 - Parallels [[Dimensional Sensors]]
 - Parallels [[The Dimensional Hospital (D&D_References)]]
 - Affected by [[step_062 (phase_009)]]
 - Originates from [[Location City Culinary Critic Marina Tastebud V1 Culinary Critic Marina Tastebud.svg]]
 - Leads to [[Location City Banker Cornelius Goldflow Banker Cornelius Goldflow.svg]]
 - Leads to [[NPC00030_Urien_Winterborn]]
-- Related: [[step_046]]
+- Related:
 - Leads to [[LORE00278_Legends_Entry_279]]
 - Leads to [[step_021 (phase_054)]]
 - Parallels [[Seeds of the Past 2]]
@@ -339,7 +333,6 @@ Blackmails party into service
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01078 Felicia Oakenshield the Wise]
 - [[#Kaelen Moonshadow the Swift (Personal - Nemesis)|Kaelen Moonshadow the Swift (Personal - Nemesis)]]
 - [[#Delara Blackstone the Cunning (Family - Cousin)|Delara Blackstone the Cunning (Family - Cousin)]]
 
-
 ---
 aliases: ["Felicia Oakenshield the Wise", "felicia oakenshield the wise", "Felicia Oakenshield Wise", "Wise the Oakenshield Felicia"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.234Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -180,7 +175,7 @@ Has map to lost treasure
 - Leads to [[Character_Creation]]
 - Parallels [[survival-mantle-vgm (items)]]
 - Requires [[ITEM01436_Ornate_Map_Case_of_Quality]]
-- Influences [[step_073]]
+- Influences
 - Originates from [[ENC00091_Combat_Encounter_92]]
 - Affected by [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-innkeeper-marina-dreamwhisper.svg]]
 - Influences [[step_043 (phase_038)]]
@@ -196,7 +191,7 @@ Has map to lost treasure
 - Connects to [[The Sunken Conspiracy]]
 - See also: [[Portrait NPC Shadow Citizenship Act V2 Shadow Citizenship Act.svg]]
 - Affected by [[LOC00136_Planes_Location_137]]
-- Requires [[step_072]]
+- Requires
 - Compare with [[Item Artifact Spell Gem Lapis Lazuli Oota V3 Spell Gem Lapis Lazuli Oota.png]]
 - Requires [[Abyssal Pearls (D&D_References)]]
 - Related: [[The Merchant Princes]]
@@ -213,7 +208,7 @@ Has map to lost treasure
 - Originates from [[step_063 (phase_091)]]
 - Affected by [[LORE00052_Legends_Entry_53]]
 - Connects to [[step_001 (phase_047)]]
-- Connects to [[step_042]]
+- Connects to
 - Related: [[Assets Locations Location City the Forgotten Collective the Forgotten Collective.svg]]
 - Connects to [[step_067 (phase_079)]]
 - Parallels [[Biomancer Corvus Intestinal]]
@@ -225,7 +220,7 @@ Has map to lost treasure
 - Parallels [[EVENT00028_Natural_Event_29]]
 - See also: [[Weapons Master Kael Bladefury]]
 - See also: [[LOC00161_Wilderness_Location_162]]
-- Affected by [[step_005]]
+- Affected by
 - Originates from [[Senator Shadow-Glaucus 2]]
 - Parallels [[nonhuman-yondalla (deities)]]
 - Connects to [[Assets Locations Location City Ghost of Dr Thaddeus Brightwater V1 Ghost of Dr Thaddeus Brightwater.svg]]
@@ -242,22 +237,22 @@ Has map to lost treasure
 - Affected by [[Portrait NPC Foreign Trader Captain Hassan Al Rimal Foreign Trader Captain Hassan Al Rimal.svg]]
 - Parallels [[step_061 (phase_030)]]
 - Leads to [[Location City Emergency Management V1 Emergency Management.svg]]
-- Leads to [[step_070]]
+- Leads to
 - Compare with [[step_059 (phase_087)]]
 - See also: [[Portrait NPC Shadow Duchess Nyx Shadow Duchess Nyx.svg]]
 - Leads to [[step_052 (phase_067)]]
 - Connects to [[LORE00025_Prophecies_Entry_26]]
 - Compare with [[SHOP00008_General_Shop_9]]
 - See also: [[List Spells Classes Clockwork Sorcery Xphb]]
-- Connects to [[step_077]]
+- Connects to
 - Requires [[NPC01980_Zephyr_Darkwater_the_Scholar]]
 - Related: [[Military Medical Corps]]
 - Parallels [[SHOP00032_General_Shop_33]]
 - See also: [[LOC00181_Cities_Location_182]]
-- Requires [[step_031]]
+- Requires
 - Affected by [[step_044 (phase_007)]]
 - Requires [[step_084 (phase_042)]]
-- Compare with [[step_024]]
+- Compare with
 - Leads to [[Eberron the Blood of Vol]]
 - Connects to [[resurrection-xphb (spells)]]
 - Influences [[Portrait NPC Sunken Kingdom of Nereon V1 Sunken Kingdom of Nereon.svg_1 (Portraits)]]
@@ -276,7 +271,6 @@ Has map to lost treasure
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00493 Lyanna Proudmore the Wanderer]
 - [[#Jorah Ironwood (Professional - Partner)|Jorah Ironwood (Professional - Partner)]]
 - [[#Xander Darkwater the Scholar (Personal - Childhood friend)|Xander Darkwater the Scholar (Personal - Childhood friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Lyanna Proudmore the Wanderer", "lyanna proudmore the wanderer", "Lyanna Proudmore Wanderer", "Wanderer the Proudmore Lyanna"]
@@ -142,27 +141,23 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.169Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -171,11 +166,10 @@ Witnessed a crime
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -207,7 +201,7 @@ Witnessed a crime
 - Requires [[creature-creature-sphinx-xmm-v1-sphinx-xmm.png]]
 - Originates from [[Fear Farms (D&D_References)]]
 - See also: [[step_023 (phase_061)]]
-- Compare with [[step_023]]
+- Compare with
 - Parallels [[step_030 (phase_065)]]
 - Affected by [[Location City Memory Meadows Black Market V1 Memory Meadows Black Market.svg]]
 - Connects to [[Location City the Embassy Quarter V1 the Embassy Quarter.svg]]
@@ -233,7 +227,7 @@ Witnessed a crime
 - Compare with [[Portrait NPC the Verdant Accord the Verdant Accord.svg_1 (Portraits)]]
 - Leads to [[step_021 (phase_049)]]
 - Related: [[Crystal Technician Prisma Dataflow]]
-- Connects to [[step_045]]
+- Connects to
 - Related: [[Fire Giant Dreadnought Mpmm]]
 - See also: [[ITEM00526_Warded_Gauntlets_of_Protection]]
 - See also: [[step_042 (phase_010)]]
@@ -247,10 +241,10 @@ Witnessed a crime
 - Parallels [[DUN00176_Dungeon_177]]
 - Connects to [[ITEM00773_Celestial_Tome_of_Eternity]]
 - Connects to [[step_061 (phase_039)]]
-- Leads to [[step_078]]
+- Leads to
 - Parallels [[Lieutenant Shadow Truthseeker]]
-- See also: [[step_006]]
-- Originates from [[step_007]]
+- See also:
+- Originates from
 - Affected by [[Zaratan Mpmm]]
 - Connects to [[Symbol Heraldry the Liminal Trading Company the Liminal Trading Company.svg]]
 - Compare with [[LOC00270_Cities_Location_271]]
@@ -259,7 +253,7 @@ Witnessed a crime
 - Affected by [[New Thalassopolis]]
 - Connects to [[Chief Resonance Engineer Harmony Crystalstone (D&D_References)]]
 - Parallels [[Ring of Lightning Resistance Xdmg]]
-- Originates from [[step_056]]
+- Originates from
 - Parallels [[Temple Coalition]]
 - Influences [[step_018 (phase_012)]]
 - Affected by [[The Lost Shipment]]
@@ -269,7 +263,7 @@ Witnessed a crime
 - Compare with [[Underwater Medical Society]]
 - Leads to [[step_040 (phase_046)]]
 - Originates from [[The Great Cataloguing 2]]
-- Compare with [[step_018]]
+- Compare with
 - Related: [[Identity Preservation Crystal]]
 - See also: [[step_055 (phase_035)]]
 - Influences [[Assets Locations Location City the Memory Meadows Black Market V1 the Memory Meadows Black Market.svg]]
@@ -278,13 +272,12 @@ Witnessed a crime
 - See also: [[EVENT00020_Political_Event_21]]
 - Requires [[Scufflecup Teacup Scc]]
 - Related: [[The Convergent Seven]]
-- Connects to [[step_062]]
+- Connects to
 
 ## Visual References
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

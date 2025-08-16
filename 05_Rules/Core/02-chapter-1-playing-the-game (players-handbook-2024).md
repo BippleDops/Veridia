@@ -18,7 +18,6 @@ aliases: [02-chapter-1-playing-the-game (players-handbook-2024)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 02-chapter-1-playing-the-game (players-handbook-2024)
@@ -61,11 +60,9 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This NPC knows more than they let on
@@ -96,8 +93,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 Has information about the party's enemies
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -109,7 +105,6 @@ Has information about the party's enemies
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -136,7 +131,7 @@ Has information about the party's enemies
 - Requires [[Assets Locations Location City the Iron Pits of Malachar V1 the Iron Pits of Malachar.svg]]
 - Affected by [[QUEST00086_Main_Quest_87]]
 - Connects to [[Assets Locations Location City Emergency Management V1 Emergency Management.svg]]
-- See also: [[step_050]]
+- See also:
 - Influences [[step_081 (phase_049)]]
 - Leads to [[List Spells Optional Features Wave of]]
 - Connects to [[Sky_Lords_Worship]]
@@ -153,14 +148,14 @@ Has information about the party's enemies
 - Affected by [[LOC00034_Towns_Location_35]]
 - Leads to [[Theron Justcurrent (D&D_References)]]
 - Related: [[ITEM01216_Superior_Crystal_of_Clarity]]
-- Originates from [[step_020]]
+- Originates from
 - Affected by [[Parliamentary Infiltration List]]
 - See also: [[Identify_Magic]]
 - Related: [[Reality Anchor Maintenance]]
 - Parallels [[The First Zone Formation]]
 - See also: [[Chaos Bolt Xge]]
 - Originates from [[step_032 (phase_097)]]
-- Affected by [[step_096]]
+- Affected by
 - Related: [[Sphinx of Valor Xmm]]
 - Requires [[LOC00045_Towns_Location_46]]
 - Connects to [[Economic Intelligence 2]]
@@ -168,7 +163,7 @@ Has information about the party's enemies
 - Influences [[Fashion Guild]]
 - Connects to [[Assets Locations Location City Noble Quarter Salons V1 Noble Quarter Salons.svg]]
 - Affected by [[step_050 (phase_027)]]
-- Parallels [[step_071]]
+- Parallels
 - Compare with [[Portrait NPC Agent Whisper Voidheart V1 Agent Whisper Voidheart.svg]]
 - Related: [[hobgoblin-dmg (races)]]
 - Affected by [[Crystal Keepers (D&D_References)]]
@@ -178,16 +173,16 @@ Has information about the party's enemies
 - Influences [[book-of-ancient-secrets (optional-features)]]
 - Affected by [[Winter Wolf Xmm]]
 - Affected by [[step_003 (phase_060)]]
-- Leads to [[step_093]]
+- Leads to
 - Parallels [[step_010 (phase_019)]]
 - Originates from [[pseudodragon-xmm (dragon)]]
 - Compare with [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V2 Keeper of the Shattered Crown Marcus Crystalvein.svg]]
 - Connects to [[Smuggler's Den]]
 - Compare with [[Portrait NPC Commodity Queen Abundance Commodity Queen Abundance.svg]]
 - See also: [[INV 004]]
-- See also: [[step_095]]
+- See also:
 - Affected by [[Spiritual Healers]]
-- Connects to [[step_015]]
+- Connects to
 - Influences [[step_032 (phase_074)]]
 - Connects to [[Light Bearer (D&D_References)]]
 - Related: [[swarm-of-stirges-xmm (monstrosity)]]
@@ -195,7 +190,7 @@ Has information about the party's enemies
 - See also: [[step_061 (phase_094)]]
 - Compare with [[NPC01168_Faelyn_Ashford_the_Lost]]
 - Requires [[step_036 (phase_032)]]
-- See also: [[step_001]]
+- See also:
 - Requires [[DUN00047_Dungeon_48]]
 - Originates from [[Senator's Private Chambers]]
 - Originates from [[Depth Guardians]]

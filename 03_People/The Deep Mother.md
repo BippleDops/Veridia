@@ -9,7 +9,6 @@ aliases: [The Deep Mother]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-mother-s-truth-v2-quest-the-deep-mother-s-truth.svg]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Description|Description]]
@@ -21,7 +20,6 @@ aliases: [The Deep Mother]
 - [[#Actions|Actions]]
 - [[#Relationships|Relationships]]
 - [[#Plot Hooks|Plot Hooks]]
-
 
 ---
 tags: [npc, character]
@@ -86,30 +84,29 @@ The Deep Mother is a character encountered in the campaign world.
 - [[02_Worldbuilding/Locations/Town_Square]]
 - [[00_Indexes/MOCs/NPCs_MOC]]
 
-
 ## Connections
 
 - Requires [[The Broken Tower]]
 - Parallels [[step_014 (phase_080)]]
 - Affected by [[Location City Diplomatic Minister Reef V1 Diplomatic Minister Reef.svg]]
 - Connects to [[Cambion Xmm]]
-- Parallels [[step_085]]
+- Parallels
 - Related: [[Assets Item Artifact Enspelled Armor Level 7 Xdmg V3 Enspelled Armor Level 7 Xdmg.png]]
 - Influences [[NPC01327_Erasmus_Nightfall_the_Scholar]]
 - Requires [[SHOP00046_Specialty_Shop_47]]
-- See also: [[step_034]]
+- See also:
 - Related: [[ENC0001_Random_Encounter_2]]
 - Requires [[QUEST00102_Side_Quest_103]]
 - Leads to [[The Resonant Hermit 2]]
 - Parallels [[Intelligence Processing Center]]
 - See also: [[Eldritch Secrets]]
 - Parallels [[AUTONOMOUS_SYSTEM_ACTIVE]]
-- Parallels [[step_053]]
-- Connects to [[step_074]]
+- Parallels
+- Connects to
 - Related: [[Aetheric Wind Songs]]
 - Related: [[Surface Reconnection Coalition]]
 - See also: [[step_028 (phase_030)]]
-- Originates from [[step_046]]
+- Originates from
 - Leads to [[dueling-xphb (feats)]]
 - Requires [[Central Index]]
 - Affected by [[Royal Court (D&D_References)]]
@@ -121,7 +118,7 @@ The Deep Mother is a character encountered in the campaign world.
 - Leads to [[Factions the Order of the Veil]]
 - Related: [[step_002 (phase_045)]]
 - Leads to [[MON00001_Undead_Creature_2]]
-- Affected by [[step_077]]
+- Affected by
 - Originates from [[portrait-npc-siren-v2-siren.svg_1 (Portraits)]]
 - Originates from [[Crystal Goverce Model]]
 - Related: [[Island of Scream 2]]
@@ -138,14 +135,14 @@ The Deep Mother is a character encountered in the campaign world.
 - Influences [[Luna Shimmerleaf 2]]
 - See also: [[layers-of-mount-celestia-xdmg (tables)]]
 - Compare with [[Consciousness Ward Ring]]
-- Influences [[step_099]]
-- Affected by [[step_091]]
+- Influences
+- Affected by
 - Compare with [[Active Quests]]
 - Connects to [[Silent Guardian Marcus]]
 - Influences [[step_071 (phase_010)]]
 - Connects to [[Twilight Depth]]
 - See also: [[Depth Pulse 2]]
-- Affected by [[step_003]]
+- Affected by
 - Originates from [[Royal Palace of Meridian 2]]
 - Connects to [[list-spells-races-gith-githzerai-mtf (lists)]]
 - Influences [[Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master Depth Guide Melancholy.svg]]

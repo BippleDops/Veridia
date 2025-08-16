@@ -18,7 +18,6 @@ aliases: [NPC01410 Hilda Ashford the Bold]
 - [[#Elric Ironwood the Strong (Criminal - Handler)|Elric Ironwood the Strong (Criminal - Handler)]]
 - [[#Aeliana Emberfall the Guardian (Political - Opposition)|Aeliana Emberfall the Guardian (Political - Opposition)]]
 
-
 ---
 aliases: ["Hilda Ashford the Bold", "hilda ashford the bold", "Hilda Ashford Bold", "Bold the Ashford Hilda"]
 tags: [npc, character]
@@ -159,29 +158,25 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.270Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Connects to [[step_083]]
-- Requires [[step_020]]
+- Connects to
+- Requires
 - Parallels [[Truth Verification Magic 2]]
 - See also: [[step_064 (phase_036)]]
-- Related: [[step_084]]
+- Related:
 - Connects to [[Shadow Bazaar]]
 - Connects to [[The Unity Seekers 2]]
 - Compare with [[step_010 (phase_025)]]
@@ -233,7 +228,7 @@ Needs help with personal quest
 - Compare with [[The Sundered Vaults (D&D_References)]]
 - Affected by [[grick-ancient-xmm]]
 - Requires [[Assets Locations Location City Historical Analysis Historical Analysis.svg]]
-- See also: [[step_032]]
+- See also:
 - Originates from [[Banker Cornelius Goldflow 2]]
 - Requires [[The Healing Waters Chalice]]
 - See also: [[ITEM0081_Blessed_Crown_of_the_Dawn]]
@@ -245,7 +240,7 @@ Needs help with personal quest
 - Originates from [[step_015 (phase_018)]]
 - Parallels [[Symbol Heraldry Doc... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Leads to [[Portrait NPC Storm Empress Tempestas Maelstrom Storm Empress Tempestas Maelstrom.svg_1 (Portraits)]]
-- Related: [[step_019]]
+- Related:
 - Parallels [[ITEM00070_Blessed_Staff_of_Slaying]]
 - Related: [[Shadow Liberation Front (D&D_References)]]
 - Parallels [[step_035 (phase_019)]]
@@ -255,7 +250,7 @@ Needs help with personal quest
 - Parallels [[step_041 (phase_063)]]
 - See also: [[protection-from-evil-and-good-xphb (spells)]]
 - Connects to [[step_010 (phase_100)]]
-- See also: [[step_090]]
+- See also:
 - Leads to [[Divine Communication Specialists (D&D_References)]]
 - Originates from [[ENC00440_Combat_Encounter_441]]
 - Affected by [[FAC00079_Guilds_80]]
@@ -282,7 +277,6 @@ Needs help with personal quest
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00146 Xander Ashford]
 - [[#Pyria Emberfall (Personal - Best friend)|Pyria Emberfall (Personal - Best friend)]]
 - [[#Baelor Stormwind (Family - Cousin)|Baelor Stormwind (Family - Cousin)]]
 
-
 ---
 aliases: ["Xander Ashford", "xander ashford", "Ashford Xander"]
 tags: [npc, character]
@@ -153,32 +152,28 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.128Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Leads to [[LOC00194_Wilderness_Location_195]]
-- Affected by [[step_048]]
-- Affected by [[step_075]]
+- Affected by
+- Affected by
 - Parallels [[LORE00145_History_Entry_146]]
 - Affected by [[step_099 (phase_024)]]
 - Leads to [[Time''s Mercy]]
 - Requires [[The Convergence Crisis 2]]
-- Compare with [[step_065]]
+- Compare with
 - Affected by [[Assets Locations Location City Quill Precisequote V1 Quill Precisequote.svg]]
 - Originates from [[step_095 (phase_081)]]
 - Originates from [[step_048 (phase_062)]]
@@ -201,7 +196,7 @@ Wants rivals investigated
 - Compare with [[Next Town B]]
 - Affected by [[Royal Intelligence (D&D_References)]]
 - Leads to [[step_066 (phase_081)]]
-- Influences [[step_051]]
+- Influences
 - Leads to [[The Drowning Embrace (D&D_References)]]
 - Leads to [[Session 12 - Crystal Court Conspiracy]]
 - Connects to [[mummy-lord-xmm]]
@@ -235,7 +230,7 @@ Wants rivals investigated
 - Requires [[Economic Planning (D&D_References)]]
 - Influences [[Assets Locations Location City Merchant Prince Akula V1 Merchant Prince Akula.png]]
 - Related: [[Item Artifact Enspelled Armor Level 7 Xdmg V4 Enspelled Armor Level 7 Xdmg.png]]
-- Influences [[step_089]]
+- Influences
 - Compare with [[Assets Locations Location City Maritime Commerce V1 Maritime Commerce.svg]]
 - See also: [[step_039 (phase_019)]]
 - Related: [[lesser-restoration-xphb (spells)]]
@@ -254,14 +249,14 @@ Wants rivals investigated
 - Leads to [[The Cerulean Trench (D&D_References)]]
 - Originates from [[Silverquill Student Scc]]
 - Affected by [[ITEM00973_Concentrated_Powder_of_Swiftness]]
-- Parallels [[step_083]]
+- Parallels
 - Parallels [[QUEST00227_Side_Quest_228]]
 - Related: [[MON00097_Aberrations_Creature_98]]
 - Parallels [[skill-expert-xphb (feats)]]
 - Compare with [[skills#Medicine]]
 - Affected by [[step_052 (phase_010)]]
 - Parallels [[Assets Locations Location City Surface Traders V1 Surface Traders.svg]]
-- Connects to [[step_058]]
+- Connects to
 - Influences [[step_020 (phase_049)]]
 - Requires [[LOC00098_Cities_Location_99]]
 - Compare with [[02_Worldbuilding_Groups_Environmental_Engineers_Guild]]
@@ -276,7 +271,6 @@ Wants rivals investigated
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

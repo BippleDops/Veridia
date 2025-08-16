@@ -18,7 +18,6 @@ aliases: [NPC01227 Faelyn Ironforge the Strong]
 - [[#Rhiannon Frostwhisper the Strong (Family - Parent)|Rhiannon Frostwhisper the Strong (Family - Parent)]]
 - [[#Delara Thornweave the Seeker (Personal - Love interest)|Delara Thornweave the Seeker (Personal - Love interest)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Faelyn Ironforge the Strong", "faelyn ironforge the strong", "Faelyn Ironforge Strong", "Strong the Ironforge Faelyn"]
@@ -150,25 +149,20 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.250Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -188,7 +182,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.26
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -197,11 +191,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -212,16 +205,16 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[blood-spear-cos (items)]]
 - Originates from [[LOC00280_Planes_Location_281]]
 - Influences [[06-chapter-5-feats (players-handbook-2024)]]
-- Parallels [[step_044]]
+- Parallels
 - See also: [[Services Reality Protection]]
-- Originates from [[step_079]]
+- Originates from
 - Leads to [[step_083 (phase_042)]]
 - Originates from [[The Pearl Guard (D&D_References)]]
 - See also: [[Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg]]
 - Parallels [[Crystalhaven Envoy Lord Reginald Brightspire (D&D_References)]]
 - Connects to [[otyugh-xmm (aberration)]]
 - Affected by [[step_082 (phase_061)]]
-- Affected by [[step_057]]
+- Affected by
 - See also: [[Mule Xphb]]
 - Related: [[Portrait NPC Quest the Dying Forest V2 Quest the Dying Forest.svg]]
 - Related: [[NPC00589_Baelor_Ironforge]]
@@ -232,7 +225,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[MON00062_Aberrations_Creature_63]]
 - Originates from [[04_Resources_Assets_Locations_location-city-captain-echo-captain-echo.svg]]
 - Compare with [[NPC0091_Lyra_Goldleaf]]
-- Originates from [[step_004]]
+- Originates from
 - Influences [[step_031 (phase_018)]]
 - Requires [[Location City Community Leaders Community Leaders.svg]]
 - Parallels [[Prism Sword]]
@@ -273,13 +266,13 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[step_030 (phase_004)]]
 - Connects to [[Deities of Dragonlance Evil Phb]]
 - Requires [[step_047 (phase_062)]]
-- Parallels [[step_020]]
+- Parallels
 - Affected by [[DUN00190_Dungeon_191]]
 - Influences [[perfume-xphb (items)]]
 - Parallels [[Spell Sniper Xphb]]
 - Influences [[Spiked Pit Xdmg]]
 - Related: [[Council of Faiths 2]]
-- Parallels [[step_078]]
+- Parallels
 - Requires [[dragontooth-dagger-rot (items)]]
 - Related: [[step_029 (phase_082)]]
 - Originates from [[QUEST00293_Personal_Quest_294]]
@@ -310,7 +303,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

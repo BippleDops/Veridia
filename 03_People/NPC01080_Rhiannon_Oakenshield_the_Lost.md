@@ -18,7 +18,6 @@ aliases: [NPC01080 Rhiannon Oakenshield the Lost]
 - [[#Branwen Keenblade the Wanderer (Criminal - Handler)|Branwen Keenblade the Wanderer (Criminal - Handler)]]
 - [[#Faelyn Lightbringer the Risen (Criminal - Handler)|Faelyn Lightbringer the Risen (Criminal - Handler)]]
 
-
 ---
 aliases: ["Rhiannon Oakenshield the Lost", "rhiannon oakenshield the lost", "Rhiannon Oakenshield Lost", "Lost the Oakenshield Rhiannon"]
 tags: [npc, character]
@@ -156,21 +155,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.235Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -183,7 +178,7 @@ Competitor sabotaging business
 - Influences [[NPC00358_Vesper_Lightbringer]]
 - Influences [[rust-monster-xmm]]
 - Compare with [[enspelled-weapon-level-4-xdmg (items)]]
-- Influences [[step_005]]
+- Influences
 - Leads to [[step_012 (phase_068)]]
 - Compare with [[celtic-dunatis (deities)]]
 - Compare with [[Rope of Climbing Xdmg]]
@@ -197,8 +192,8 @@ Competitor sabotaging business
 - Connects to [[Venom Troll Mpmm]]
 - Connects to [[Councilor Depth Harmonizer]]
 - Influences [[earth-elemental-xmm (elemental)]]
-- Related: [[step_009]]
-- Influences [[step_092]]
+- Related:
+- Influences
 - Originates from [[SPELL00108_Nature_Spell_109]]
 - Originates from [[The Resistance Formation 2]]
 - Leads to [[Vehicle Ship Resonance Drive Yacht V2 Resonance Drive Yacht.svg]]
@@ -245,7 +240,7 @@ Competitor sabotaging business
 - Requires [[SPELL00063_Divine_Spell_64]]
 - Influences [[Dungeoneers Pack Xphb]]
 - Influences [[List Spells Optional Features Rush of the]]
-- Originates from [[step_055]]
+- Originates from
 - See also: [[All-Seeing Mirrors]]
 - See also: [[NPC01230_Kaelen_Proudmore_the_Fallen]]
 - Requires [[NPC01998_Solas_Silverleaf_the_Guardian]]
@@ -254,7 +249,7 @@ Competitor sabotaging business
 - Parallels [[LOC00103_Dungeons_Location_104]]
 - Requires [[Silverscale Emergency Bunker]]
 - Leads to [[Bio-Magical Integration Laboratory (D&D_References)]]
-- Influences [[step_054]]
+- Influences
 - See also: [[step_088 (phase_083)]]
 - Requires [[ITEM01310_Practical_Map_Case_of_Convenience]]
 - See also: [[Deep Lord Pelagios the Eternal]]
@@ -279,7 +274,6 @@ Competitor sabotaging business
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

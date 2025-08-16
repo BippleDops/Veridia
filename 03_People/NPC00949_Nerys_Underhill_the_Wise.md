@@ -18,7 +18,6 @@ aliases: [NPC00949 Nerys Underhill the Wise]
 - [[#Cedric Lightbringer the Scholar (Political - Spy)|Cedric Lightbringer the Scholar (Political - Spy)]]
 - [[#Rhiannon Ironforge the Risen (Criminal - Accomplice)|Rhiannon Ironforge the Risen (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Nerys Underhill the Wise", "nerys underhill the wise", "Nerys Underhill Wise", "Wise the Underhill Nerys"]
@@ -155,16 +154,13 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.221Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -180,11 +176,10 @@ Has map to lost treasure
 - [[Faction_Guide.md]]
 - [[Emergency_Evacuation_Map_Stormglass_Riot]]
 - [[10 Appendix B Creature Stat Blocks]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -193,11 +188,10 @@ Has map to lost treasure
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -207,19 +201,19 @@ Has map to lost treasure
 - Requires [[step_066 (phase_084)]]
 - See also: [[Scholar David Crossref]]
 - Leads to [[LORE00229_Prophecies_Entry_230]]
-- Related: [[step_067]]
+- Related:
 - Originates from [[LOC00122_Cities_Location_123]]
 - Parallels [[Wizard Xphb]]
 - Requires [[EVENT00039_Natural_Event_40]]
 - Connects to [[FAC00062_Orders_63]]
-- Related: [[step_021]]
+- Related:
 - Affected by [[LOC0035_Valestead]]
 - See also: [[item-artifact-whelm-xdmg-whelm-xdmg.png]]
 - Originates from [[Quest - Parliamentary Infiltratio]]
 - Influences [[Culinary Critic Marina Tastebud]]
 - Affected by [[QUEST0099_Wizard's_Folly]]
 - Connects to [[Airship Xphb]]
-- Connects to [[step_017]]
+- Connects to
 - Requires [[Void Whirlpools]]
 - Leads to [[List Spells Classes Paladin]]
 - Parallels [[ENC0078_Random_Encounter_79]]
@@ -242,7 +236,7 @@ Has map to lost treasure
 - Leads to [[fiendish-spirit-devil-xphb (fiend)]]
 - Parallels [[Location City Throne Room Heart of Palace Throne Room Heart of Palace.svg]]
 - Connects to [[NPC01931_Thalia_Lightbringer_the_Fallen]]
-- Compare with [[step_012]]
+- Compare with
 - Related: [[step_032 (phase_008)]]
 - Affected by [[Portrait NPC Pilgrim Guide Samuel Walkingfaith Pilgrim Guide Samuel Walkingfaith.svg]]
 - Requires [[Portrait NPC High Priestess Marina Oracleguard V2 High Priestess Marina Oracleguard.svg_1 (Portraits)]]
@@ -257,7 +251,7 @@ Has map to lost treasure
 - Affected by [[ITEM00827_Ancient_Amulet_of_the_Gods]]
 - Parallels [[The Eternal Sentinels]]
 - Requires [[Field Operations Chief Marcus Ironheart (D&D_References)]]
-- Compare with [[step_046]]
+- Compare with
 - Leads to [[QUEST00004_Side_Quest_5]]
 - See also: [[Deepmind Conspiracy (D&D_References)]]
 - Compare with [[Ice Devil Xmm]]
@@ -268,7 +262,7 @@ Has map to lost treasure
 - See also: [[step_051 (phase_083)]]
 - See also: [[Diplomatic Minister Reef 2]]
 - Originates from [[Location2]]
-- Compare with [[step_048]]
+- Compare with
 - Originates from [[location-city-regional-courts-regional-courts.svg]]
 - Originates from [[step_040 (phase_069)]]
 - Leads to [[NPC00460_Elric_Goldleaf_the_Wanderer]]
@@ -278,7 +272,7 @@ Has map to lost treasure
 - Connects to [[NPC00399_Vesper_Nightfall]]
 - Affected by [[The Final Confrontation (D&D_References)]]
 - See also: [[SPELL00086_Divine_Spell_87]]
-- Related: [[step_021]]
+- Related:
 - Leads to [[Location City Scribe Master Elena Truthkeeper Scribe Master Elena Truthkeeper.svg]]
 - See also: [[Madame Pearl Currentflow]]
 - Connects to [[Character_Development_Survey_Quick_Ref]]
@@ -286,7 +280,7 @@ Has map to lost treasure
 - Originates from [[S_201_Eclipse_Raid_Window_Player]]
 - Requires [[Location City Missing Persons of Port Meridian Missing Persons of Port Meridian.svg]]
 - Requires [[skills#Arcana]]
-- Connects to [[step_035]]
+- Connects to
 - See also: [[FAC00079_Guilds_80]]
 - Affected by [[step_066 (phase_068)]]
 - Influences [[Academy of Crystalline Art (Academies)]]
@@ -306,7 +300,6 @@ Has map to lost treasure
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

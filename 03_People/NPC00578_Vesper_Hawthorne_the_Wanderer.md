@@ -18,7 +18,6 @@ aliases: [NPC00578 Vesper Hawthorne the Wanderer]
 - [[#Caelum Underhill the Wise (Family - Sibling)|Caelum Underhill the Wise (Family - Sibling)]]
 - [[#Wynne Nightfall (Political - Patron)|Wynne Nightfall (Political - Patron)]]
 
-
 ---
 aliases: ["Vesper Hawthorne the Wanderer", "vesper hawthorne the wanderer", "Vesper Hawthorne Wanderer", "Wanderer the Hawthorne Vesper"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.179Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -166,7 +161,7 @@ Family member has gone missing
 - Connects to [[Portrait NPC the Silhouette Surgeon Prime V2 the Silhouette Surgeon Prime.svg]]
 - Compare with [[Determine Numbers and Challenge Ratings Solo Monster Challenge Rating Xge]]
 - Compare with [[Wind Fan Xdmg]]
-- Requires [[step_072]]
+- Requires
 - Compare with [[LORE00081_History_Entry_82]]
 - Originates from [[step_010 (phase_041)]]
 - See also: [[QUEST00246_Side_Quest_247]]
@@ -229,15 +224,15 @@ Family member has gone missing
 - Compare with [[QUEST00125_Personal_Quest_126]]
 - Compare with [[The Depth Plague (D&D_References)]]
 - Connects to [[Assets Locations Location City the Purification Temples the Purification Temples.svg]]
-- Related: [[step_060]]
+- Related:
 - Connects to [[FAC00011_Orders_12]]
 - Parallels [[LOC00101_Dungeons_Location_102]]
 - Originates from [[ITEM00295_Thunder_Sword_of_Power]]
-- See also: [[step_035]]
+- See also:
 - Affected by [[Disguise Kit Xphb]]
 - Parallels [[White Dragon Xmm]]
 - Connects to [[Shadow Nyx]]
-- See also: [[step_085]]
+- See also:
 - See also: [[Narzugon Mpmm]]
 - Requires [[step_067 (phase_088)]]
 - See also: [[LORE00141_Legends_Entry_142]]
@@ -246,18 +241,18 @@ Family member has gone missing
 - Parallels [[step_013 (phase_070)]]
 - Parallels [[NPC00386_Branwen_Emberfall_the_Seeker]]
 - Connects to [[Quest - Stop the Awakening]]
-- See also: [[step_099]]
+- See also:
 - Parallels [[Ancient Bronze Dragon Xmm]]
 - Parallels [[LORE00207_Legends_Entry_208]]
 - Affected by [[NPC00211_Brenna_Proudmore_the_Guardian]]
 - Parallels [[QUEST00293_Side_Quest_294]]
 - Related: [[Guild of Cross-Realm Navigators (02_Worldbuilding)]]
-- Compare with [[step_016]]
+- Compare with
 - Requires [[MON00087_Constructs_Creature_88]]
 - See also: [[Portrait NPC High Inquisitor Maltheos V1 High Inquisitor Maltheos.svg]]
 - Affected by [[step_093 (phase_092)]]
 - Compare with [[Assets Locations Location City Concierge Phillip Gracewater Concierge Phillip Gracewater.svg]]
-- Leads to [[step_016]]
+- Leads to
 - Related: [[Assets Portraits Portrait NPC Quest the Betrayers Truth Quest the Betrayers Truth.svg]]
 - Connects to [[Emergency Management Services]]
 - Influences [[Houses_and_Nobility___House_Brightshield]]
@@ -267,7 +262,6 @@ Family member has gone missing
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

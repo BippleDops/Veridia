@@ -9,7 +9,6 @@ aliases: [NPC01994 Orion Brightblade the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01994 Orion Brightblade the Risen]
 - [[#Branwen Crystalbrook the Lost (Personal - Ex-lover)|Branwen Crystalbrook the Lost (Personal - Ex-lover)]]
 - [[#Aeliana Frostwhisper the Risen (Professional - Partner)|Aeliana Frostwhisper the Risen (Professional - Partner)]]
 - [[#Thalia Ashford the Wanderer (Professional - Mentor)|Thalia Ashford the Wanderer (Professional - Mentor)]]
-
 
 ---
 created: 2025-08-15
@@ -145,16 +143,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.332Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -212,11 +207,10 @@ Modifications:
 - [[Faction_Relationship_Web]]
 - [[MASTER_MOC]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -226,11 +220,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -239,12 +232,12 @@ Modifications:
 - Originates from [[[[Community Organizations]] (D&D_References)]]
 - Related: [[The [[Tethyan Hegemony]]]]
 - Leads to [[QUEST00120_Side_Quest_121]]
-- Compare with [[step_097]]
+- Compare with
 - Influences [[Assets Locations Location City [[Void Prophet Nullus the Erased]] V1 Void Prophet Nullus the Erased.svg]]
 - Parallels [[Portrait_Prompts - NPCs]]
 - Affected by [[Cultural Studies Program]]
 - Leads to [[Lyre Xphb]]
-- Affected by [[step_073]]
+- Affected by
 - Leads to [[step_072 (phase_058)]]
 - Compare with [[Assets Locations [[Location City [[Grief Overwhelming Syndrome]] Grief Overwhelming Syndrome.svg]]]]
 - Parallels [[The First King's Diary (D&D_References)]]
@@ -299,7 +292,7 @@ Modifications:
 - Compare with [[Mind Flayer Arcanist Xmm]]
 - Originates from [[step_060 (phase_067)]]
 - Originates from [[NPC01647_Zephyr_Crystalbrook_the_Bold]]
-- Related: [[step_024]]
+- Related:
 - Leads to [[SHOP00065_Specialty_Shop_66]]
 - Related: [[ITEM00954_Lesser_Crystal_of_Healing]]
 - Connects to [[Greyhawk Syrul Xdmg]]
@@ -313,8 +306,8 @@ Modifications:
 - Requires [[vampire]]
 - See also: [[silk-xdmg (items)]]
 - Compare with [[Traditional Spy Networks]]
-- Connects to [[step_099]]
-- Compare with [[step_068]]
+- Connects to
+- Compare with
 - Compare with [[Assets Handouts Handout Handout Aged Treasure Map V2 Aged Treasure Map.png]]
 - Related: [[Assets Locations Location City [[Admiral Thalassa Stormcurrent]] V1 Admiral Thalassa Stormcurrent.svg]]
 - Requires [[step_056 (phase_027)]]

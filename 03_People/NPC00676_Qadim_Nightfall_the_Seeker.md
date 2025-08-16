@@ -18,7 +18,6 @@ aliases: [NPC00676 Qadim Nightfall the Seeker]
 - [[#Orion Nightfall the Wanderer (Criminal - Handler)|Orion Nightfall the Wanderer (Criminal - Handler)]]
 - [[#Thalia Underhill the Swift (Personal - Nemesis)|Thalia Underhill the Swift (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Qadim Nightfall the Seeker", "qadim nightfall the seeker", "Qadim Nightfall Seeker", "Seeker the Nightfall Qadim"]
 tags: [npc, character]
@@ -150,26 +149,22 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.190Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - See also: [[Great Preparation (D&D_References)]]
-- Requires [[step_095]]
+- Requires
 - Connects to [[gem-of-seeing-xdmg (items)]]
 - See also: [[The Question Council 2]]
 - Related: [[LOC00066_Towns_Location_67]]
@@ -194,7 +189,7 @@ Discovered something valuable
 - Requires [[NPC00413_Faelyn_Jadeclaw_the_Cunning]]
 - Influences [[Vehicle Ship Aethermoor Courier Class Airship V1 Aethermoor Courier Class Airship.png]]
 - See also: [[step_015 (phase_070)]]
-- See also: [[step_009]]
+- See also:
 - Leads to [[Junior Administrator Elena Efficient]]
 - See also: [[step_061 (phase_035)]]
 - Related: [[step_055 (phase_056)]]
@@ -214,23 +209,23 @@ Discovered something valuable
 - Related: [[step_036 (phase_010)]]
 - Affected by [[Box of Turquoise Animal Figurines Xdmg]]
 - Originates from [[step_014 (phase_007)]]
-- Parallels [[classes]]
+- Parallels [[05_Rules/Character Classes]]
 - Influences [[step_047 (phase_017)]]
 - Influences [[Foreign Merchants 2]]
 - Connects to [[portrait-npc-the-biomancers-the-biomancers.svg_1 (Portraits)]]
-- Parallels [[step_005]]
+- Parallels
 - Affected by [[DUN00124_Dungeon_125]]
 - Originates from [[The Crystal Forest]]
 - Requires [[Basil Prismtender 2]]
 - Affected by [[Location City Adventure Boldexplorer V1 Adventure Boldexplorer.svg]]
 - Originates from [[Crown Jewels (D&D_References)]]
 - Connects to [[step_015 (phase_059)]]
-- Requires [[step_028]]
+- Requires
 - Leads to [[Assets Locations Location City Geometric Tidepools V1 Geometric Tidepools.svg]]
-- See also: [[step_038]]
+- See also:
 - Leads to [[DUN00005_Dungeon_6]]
 - Connects to [[NPC01609_Corvus_Zephyrblade_the_Bold]]
-- Affected by [[step_092]]
+- Affected by
 - Compare with [[Average Results Mob Results Xdmg]]
 - Requires [[The Memory Weapon Arms Race 2]]
 - Affected by [[Post-Revolutionary Society Vision]]
@@ -241,21 +236,21 @@ Discovered something valuable
 - Related: [[Innovative Artisa]]
 - Parallels [[Location City Quest Harbor Security Quest Harbor Security.svg]]
 - Influences [[ENC00145_Social_Encounter_146]]
-- Related: [[step_070]]
+- Related:
 - Compare with [[Prime Minister Government Leader (D&D_References)]]
 - Affected by [[5 Credits]]
 - Compare with [[ITEM0074_Cursed_Shield_of_the_Dawn]]
 - See also: [[Emergency Protocol 2]]
 - Originates from [[step_088 (phase_027)]]
 - Requires [[List Spells Optional Features Pact of the Chain Xphb]]
-- Compare with [[step_090]]
+- Compare with
 - Compare with [[The Integration Institute (D&D_References)]]
 - Requires [[QUEST00362_Side_Quest_363]]
 - Influences [[Portrait NPC Quest the Ancient Compact Quest the Ancient Compact.svg]]
 - Requires [[MON00164_Constructs_Creature_165]]
-- Requires [[step_084]]
+- Requires
 - Influences [[portrait-npc-the-senator-v2-the-senator.svg]]
-- Influences [[step_055]]
+- Influences
 - Affected by [[Assets Portraits Portrait NPC Captain Marina Truewater Captain Marina Truewater.svg]]
 - Related: [[Scene Scene Merged Zone Reality Fracture V2 Merged Zone Reality Fracture.svg]]
 - Connects to [[QUEST00107_Side_Quest_108]]
@@ -273,7 +268,6 @@ Discovered something valuable
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

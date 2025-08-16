@@ -18,7 +18,6 @@ aliases: [NPC01427 Vesper Dawnstrider the Lost]
 - [[#Jorah Jadeclaw the Broken (Criminal - Target)|Jorah Jadeclaw the Broken (Criminal - Target)]]
 - [[#Urien Keenblade the Wanderer (Family - Spouse)|Urien Keenblade the Wanderer (Family - Spouse)]]
 
-
 ---
 aliases: ["Vesper Dawnstrider the Lost", "vesper dawnstrider the lost", "Vesper Dawnstrider Lost", "Lost the Dawnstrider Vesper"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.271Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -197,7 +192,7 @@ Has information about legendary item
 - Compare with [[step_039 (phase_052)]]
 - Affected by [[step_062 (phase_052)]]
 - Compare with [[Inter-Realm Communication Networks]]
-- Parallels [[step_011]]
+- Parallels
 - Influences [[Coral Seasweaver]]
 - See also: [[Korra Mindshield (D&D_References)]]
 - Parallels [[Economic Manipulation (D&D_References)]]
@@ -210,12 +205,12 @@ Has information about legendary item
 - Parallels [[step_089 (phase_057)]]
 - See also: [[Time (D&D_References)]]
 - Related: [[Palace Guardians (D&D_References)]]
-- Leads to [[step_057]]
+- Leads to
 - Affected by [[Windwright Academy (Academies)]]
 - Connects to [[Deep One]]
 - Originates from [[Basil Prismtender]]
 - See also: [[LORE00136_History_Entry_137]]
-- Originates from [[step_073]]
+- Originates from
 - Compare with [[hewards-handy-haversack-xdmg (items)]]
 - Influences [[Portrait NPC Quest Storm Lord S Challenge V2 Quest Storm Lord S Challenge.svg]]
 - Parallels [[ENC0070_Random_Encounter_71]]
@@ -231,7 +226,7 @@ Has information about legendary item
 - Related: [[ITEM00171_Thunder_Dagger_of_Wounding]]
 - Originates from [[Layers of Elysium Xdmg]]
 - See also: [[step_027 (phase_063)]]
-- Parallels [[step_038]]
+- Parallels
 - Related: [[SPELL00010_Divine_Spell_11]]
 - Related: [[Assets Locations Location City Crystal Master Prism Lightweaver V1 Crystal Master Prism Lightweaver.svg]]
 - Compare with [[Wave Traderwind]]
@@ -243,7 +238,7 @@ Has information about legendary item
 - Originates from [[Assets Locations Location City the Last Dance the Last Dance.svg]]
 - Requires [[mace-xphb (items)]]
 - Related: [[Shrieker Fungus Xmm]]
-- See also: [[step_044]]
+- See also:
 - Related: [[Equipment_Catalog (D&D_References)]]
 - Related: [[Portrait NPC Quest the Betrayers Truth V2 Quest the Betrayers Truth.svg]]
 - Compare with [[Assets Locations Location City Abyssos Prime Upper Districts V1 Abyssos Prime Upper Districts.png]]
@@ -267,7 +262,6 @@ Has information about legendary item
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

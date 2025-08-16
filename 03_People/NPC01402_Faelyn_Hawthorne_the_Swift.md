@@ -18,7 +18,6 @@ aliases: [NPC01402 Faelyn Hawthorne the Swift]
 - [[#Lyanna Quicksilver the Redeemed (Political - Puppet)|Lyanna Quicksilver the Redeemed (Political - Puppet)]]
 - [[#Xander Moonshadow the Seeker (Family - Cousin)|Xander Moonshadow the Seeker (Family - Cousin)]]
 
-
 ---
 aliases: ["Faelyn Hawthorne the Swift", "faelyn hawthorne the swift", "Faelyn Hawthorne Swift", "Swift the Hawthorne Faelyn"]
 tags: [npc, character]
@@ -147,21 +146,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.269Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -171,7 +166,7 @@ Forming expedition to dangerous location
 - Compare with [[boon-of-recovery-xphb (feats)]]
 - Originates from [[Smuggler's Cove]]
 - Compare with [[Captain Dara Ironwill (D&D_References)]]
-- Requires [[step_078]]
+- Requires
 - Leads to [[Portrait NPC Lord Magistrate Aldrich Thornwick V2 Lord Magistrate Aldrich Thornwick.svg]]
 - Influences [[Portrait NPC Pressure Angel Benthia V2 Pressure Angel Benthia.svg_1 (Portraits)]]
 - Requires [[step_055 (phase_049)]]
@@ -181,7 +176,7 @@ Forming expedition to dangerous location
 - Requires [[The Silence 2]]
 - Requires [[step_086 (phase_061)]]
 - Originates from [[Portrait NPC Emperor Abyssal the Deep Sighted V2 Emperor Abyssal the Deep Sighted.svg]]
-- Requires [[step_034]]
+- Requires
 - Compare with [[International Trade Agreements 2]]
 - See also: [[Finn Brightwater]]
 - Leads to [[Community Elder Mistweave]]
@@ -206,7 +201,7 @@ Forming expedition to dangerous location
 - Affected by [[NPC0083_Dara_Goldleaf]]
 - Influences [[Emergency Destruction]]
 - Related: [[Storyteller Memorykeeper (D&D_References)]]
-- Connects to [[step_030]]
+- Connects to
 - Connects to [[Assets Locations Location City Master Trader Abyss Currentbinder Master Trader Abyss Currentbinder.svg]]
 - Related: [[step_042 (phase_061)]]
 - Related: [[hobgoblin-warlord-xmm (fey)]]
@@ -217,14 +212,14 @@ Forming expedition to dangerous location
 - Requires [[Captain Dr. Bloodletting]]
 - Leads to [[Clues_Discovered (02_Worldbuilding)]]
 - Parallels [[step_067 (phase_072)]]
-- Parallels [[step_079]]
+- Parallels
 - Requires [[Memory Tide Pools (D&D_References)]]
 - Compare with [[step_010 (phase_082)]]
 - Parallels [[LORE00212_History_Entry_213]]
 - Affected by [[Glyph of Warding Xphb]]
-- Leads to [[step_007]]
+- Leads to
 - Parallels [[Cosmic Horror Conditioning]]
-- Leads to [[step_075]]
+- Leads to
 - Originates from [[Vehicle Ship Altitude Tuned Skiff Altitude Tuned Skiff.svg]]
 - Connects to [[step_034 (phase_036)]]
 - Connects to [[Private Arbitration 2]]
@@ -255,7 +250,7 @@ Forming expedition to dangerous location
 - Affected by [[Shadowhaven Merchant Marine]]
 - Parallels [[Fire Chief Michael Rescue]]
 - Connects to [[Bubble District 2]]
-- Compare with [[step_012]]
+- Compare with
 - Influences [[The Umbral Court]]
 - Connects to [[Pier 7]]
 - See also: [[16 Credits]]
@@ -270,7 +265,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

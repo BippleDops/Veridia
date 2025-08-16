@@ -18,7 +18,6 @@ aliases: [MOC Locations]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -33,11 +32,8 @@ created: 2025-08-15
 ## Content
 *Building index...*
 
-
-
 > [!dm] DM Note
 > This location connects to the main plot
-
 
 ## Recent NPCs
 ```dataview
@@ -107,12 +103,10 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[NPC01761_Idris_Moonshadow_the_Broken]]
 - [[NPC00058_Elric_Nightfall]]
 - [[MOC_Sessions]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -137,8 +131,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Related: [[Magister Voidheart]]
 - Leads to [[step_023 (phase_078)]]
 - Parallels [[Assets Locations Location City Pressure Brewing Technology Pressure Brewing Technology.svg]]
-- Compare with [[step_092]]
-- Connects to [[step_035]]
+- Compare with
+- Connects to
 - Originates from [[NPC00493_Lyanna_Proudmore_the_Wanderer]]
 - See also: [[LORE00164_Prophecies_Entry_165]]
 - See also: [[arcane-eye-xphb (spells)]]
@@ -207,12 +201,12 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Influences [[Duergar in the World Duergar Quirks Mtf]]
 - Influences [[Locations Abyssal Forges]]
 - Originates from [[step_008 (phase_066)]]
-- Compare with [[step_016]]
+- Compare with
 - Parallels [[Diplomatic Minister Reef (D&D_References)]]
 - See also: [[ENC00073_Combat_Encounter_74]]
 - Leads to [[LOC00011_Wilderness_Location_12]]
-- See also: [[step_027]]
-- Compare with [[step_079]]
+- See also:
+- Compare with
 - Originates from [[Voices from Below (D&D_References)]]
 - See also: [[ITEM00716_Ancient_Orb_of_Destiny]]
 - Parallels [[Abyssos Prime Upper Districts (D&D_References)]]
@@ -227,7 +221,6 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 ![[03_People/portrait_assets_locations_location_city_professor_marina_reefbuilder_professor_marina_reefbuilder_svg_standard.png]]
 ![[03_People/portrait_assets_locations_location_city_quartermaster_sterling_suppystone_quartermaster_sterling_suppystone_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_reef_guard_captain_torrent_shellborn_v1_reef_guard_captain_torrent_shellborn_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

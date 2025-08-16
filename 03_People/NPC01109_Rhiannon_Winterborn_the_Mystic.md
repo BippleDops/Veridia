@@ -18,7 +18,6 @@ aliases: [NPC01109 Rhiannon Winterborn the Mystic]
 - [[#Corvus Ironforge the Fallen (Criminal - Target)|Corvus Ironforge the Fallen (Criminal - Target)]]
 - [[#Faelyn Goldleaf the Seeker (Personal - Childhood friend)|Faelyn Goldleaf the Seeker (Personal - Childhood friend)]]
 
-
 ---
 aliases: ["Rhiannon Winterborn the Mystic", "rhiannon winterborn the mystic", "Rhiannon Winterborn Mystic", "Mystic the Winterborn Rhiannon"]
 tags: [npc, character]
@@ -152,27 +151,23 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.238Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Related: [[Crystal Garden]]
 - Affected by [[step_007 (phase_056)]]
-- Influences [[step_002]]
+- Influences
 - Affected by [[step_019 (phase_070)]]
 - Influences [[QUEST0009_Captain's_Request]]
 - Connects to [[ITEM00740_Infernal_Orb_of_the_Gods]]
@@ -187,7 +182,7 @@ Seeks rare merchandise
 - Compare with [[Interfaith Community Centers (D&D_References)]]
 - Affected by [[QUEST00069_Main_Quest_70]]
 - Connects to [[EVENT00084_Political_Event_85]]
-- Compare with [[step_061]]
+- Compare with
 - Affected by [[ITEM01009_Concentrated_Potion_of_Clarity]]
 - Parallels [[ENC00440_Combat_Encounter_441]]
 - Influences [[step_097 (phase_028)]]
@@ -201,7 +196,7 @@ Seeks rare merchandise
 - Parallels [[QUEST00316_Side_Quest_317]]
 - Originates from [[QUEST00115_Main_Quest_116]]
 - Affected by [[LORE00072_Prophecies_Entry_73]]
-- See also: [[step_046]]
+- See also:
 - Connects to [[list-spells-classes-oath-of-glory-xphb (lists)]]
 - Affected by [[Assets Locations Location City the Deepmost Current V1 the Deepmost Current.svg]]
 - See also: [[04_Resources_Assets_Locations_location-city-forge-master-korax-hammerdeep-forge-master-korax-hammerdeep.svg]]
@@ -216,12 +211,12 @@ Seeks rare merchandise
 - Related: [[Assets Locations Location City Portal Commander Marina Bridgewright Portal Commander Marina Bridgewright.png]]
 - Connects to [[QUEST00210_Personal_Quest_211]]
 - Affected by [[NPC00170_Zephyr_Quicksilver_the_Wise]]
-- Influences [[step_081]]
+- Influences
 - Related: [[LORE00177_Legends_Entry_178]]
 - See also: [[giant-insect-spider-xphb (beast)]]
 - Compare with [[step_088 (phase_019)]]
 - Parallels [[Parliament_of_Echoes (02_Worldbuilding)]]
-- Affected by [[step_042]]
+- Affected by
 - Leads to [[Shadow Bazaar]]
 - Originates from [[step_064 (phase_095)]]
 - Compare with [[Teacher Miranda Hopekeeper]]
@@ -260,13 +255,13 @@ Seeks rare merchandise
 - Originates from [[World_State]]
 - Parallels [[step_085 (phase_070)]]
 - Requires [[random-magic-items-armaments (tables)]]
-- Originates from [[step_059]]
-- Originates from [[step_015]]
+- Originates from
+- Originates from
 - See also: [[Entertainment Industry]]
 - Originates from [[Elder Things 2]]
 - Connects to [[QUEST00318_Side_Quest_319]]
 - Compare with [[NPC01128_Vesper_Jadeclaw_the_Swift]]
-- Compare with [[step_084]]
+- Compare with
 - Connects to [[Captain Cornelius Deepwater]]
 - See also: [[urban-encounters-levels-14-xge (tables)]]
 - See also: [[ITEM00310_Blessed_Bow_of_Accuracy]]
@@ -275,7 +270,6 @@ Seeks rare merchandise
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

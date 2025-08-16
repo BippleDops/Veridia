@@ -18,7 +18,6 @@ aliases: [NPC01989 Erasmus Xendar the Strong]
 - [[#Aldric Grimholt the Fallen (Family - Cousin)|Aldric Grimholt the Fallen (Family - Cousin)]]
 - [[#Xander Ironforge the Guardian (Personal - Ex-lover)|Xander Ironforge the Guardian (Personal - Ex-lover)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Erasmus Xendar the Strong", "erasmus xendar the strong", "Erasmus Xendar Strong", "Strong the Xendar Erasmustags: [npc, character, combat, magic, social, lore]er]
@@ -152,16 +151,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.331Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -175,11 +171,10 @@ Modifications:
 - Notable abilities: Varies by individual
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -189,11 +184,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -207,13 +201,13 @@ Modifications:
 - Influences [[step_012 (phase_077)]]
 - Affected by [[Magic Items Awarded by Rarity Major Xge]]
 - Affected by [[step_002 (phase_046)]]
-- See also: [[Quest   The Corruption Cure]]
+- See also: [[Quest The Corruption Cure]]
 - Originates from [[[[Depth Raider]] (D&D_References)]]
 - See also: [[Sister Astara the Ever-Watching 2]]
 - Requires [[Portrait NPC Weaponsmith [[Captain Marcus]] Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg]]
 - See also: [[[[Palace Courtyard - Crystal Garden]] (D&D_References)]]
-- Influences [[step_083]]
-- Originates from [[step_071]]
+- Influences
+- Originates from
 - Affected by [[Diamond Xdmg]]
 - Originates from [[Assets Locations [[Location City [[Cathedral of Light]] Cathedral of Light.png]]]]
 - Affected by [[Ω_System-CLI-spells-school-conjuration]]
@@ -227,24 +221,24 @@ Modifications:
 - Parallels [[Map Map Sky Whale Back Hunt V2 Sky Whale Back Hunt.svg]]
 - Connects to [[Location City [[Grief Harvester Melancholy]] Grief Harvester Melancholy.svg]]
 - Compare with [[step_090 (phase_062)]]
-- See also: [[step_004]]
+- See also:
 - Originates from [[Secondary Tables War Xge]]
 - Influences [[The Crystal Throne]]
-- See also: [[step_025]]
+- See also:
 - Related: [[Boon of Luck]]
 - Compare with [[item-artifact-ruby-xdmg-ruby-xdmg.png]]
 - Affected by [[Dark Gift of Seriach the Hell Hound]]
-- Related: [[step_032]]
+- Related:
 - Requires [[step_099 (phase_047)]]
 - Leads to [[The Memory Weapon Vault 2]]
 - Leads to [[step_091 (phase_044)]]
 - See also: [[LORE00261_Prophecies_Entry_262]]
-- See also: [[step_007]]
-- Leads to [[step_070]]
+- See also:
+- Leads to
 - Parallels [[Location City [[Council of Currents]] V1 Council of Currents.svg]]
 - Related: [[step_065 (phase_091)]]
 - Parallels [[step_003 (phase_055)]]
-- Originates from [[step_087]]
+- Originates from
 - Related: [[[[Triton]] (D&D_References)]]
 - Affected by [[step_017 (phase_035)]]
 - See also: [[Kobold Dmg]]
@@ -277,7 +271,7 @@ Modifications:
 - Influences [[step_069 (phase_093)]]
 - Connects to [[Battle Map Descriptions (Maps)]]
 - Connects to [[EVENT00006_Magical_Event_7]]
-- Requires [[step_094]]
+- Requires
 - Influences [[NPC00038_Kaelen_Nightfall]]
 - Connects to [[Underwater_Combat]]
 - Affected by [[The [[Embassy Quarter]]_1]]
@@ -302,7 +296,6 @@ Modifications:
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

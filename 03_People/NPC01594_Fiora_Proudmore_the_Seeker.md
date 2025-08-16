@@ -18,7 +18,6 @@ aliases: [NPC01594 Fiora Proudmore the Seeker]
 - [[#Baelor Zephyrblade the Cunning (Personal - Childhood friend)|Baelor Zephyrblade the Cunning (Personal - Childhood friend)]]
 - [[#Jorah Proudmore the Strong (Personal - Ex-lover)|Jorah Proudmore the Strong (Personal - Ex-lover)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Fiora Proudmore the Seeker", "fiora proudmore the seeker", "Fiora Proudmore Seeker", "Seeker the Proudmore Fiora"]
@@ -153,16 +152,13 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.289Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -211,11 +207,10 @@ Knows secret about major threat
 - [[NPC01476_Qadim_Stormwind_the_Wise]]
 - [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[Parliament of Shadows Player Guide.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -224,11 +219,10 @@ Knows secret about major threat
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -257,7 +251,7 @@ Knows secret about major threat
 - See also: [[Deep Initiation]]
 - Compare with [[The Guild of Reef Builders]]
 - Affected by [[Deep Mother Protocol 2]]
-- Compare with [[step_063]]
+- Compare with
 - Related: [[Umbros Shadowdrain 2]]
 - Compare with [[Assets Locations Location City Unity Hopecurrent Unity Hopecurrent.svg]]
 - Leads to [[step_071 (phase_063)]]
@@ -270,7 +264,7 @@ Knows secret about major threat
 - Leads to [[QUEST0082_In_Search_of_Redemption]]
 - Compare with [[step_004 (phase_033)]]
 - Parallels [[ITEM00911_Lesser_Potion_of_Vigor]]
-- Leads to [[step_016]]
+- Leads to
 - Affected by [[NPC00106_Gareth_Winterborn]]
 - Related: [[Assets Locations Location City Merchant Guild Headquarters V1 Merchant Guild Headquarters.svg]]
 - Affected by [[Ancient Mining Communities (D&D_References)]]
@@ -285,13 +279,13 @@ Knows secret about major threat
 - See also: [[step_082 (phase_019)]]
 - Influences [[Scene Scene Sky Whale Migration at Sunset V2 Sky Whale Migration at Sunset.svg]]
 - See also: [[LORE00037_Legends_Entry_38]]
-- Requires [[step_002]]
+- Requires
 - Connects to [[Portrait NPC the Great Trade Routes V2 the Great Trade Routes.svg_1 (Portraits)]]
 - Connects to [[ITEM00718_Void-touched_Mirror_of_Destiny]]
 - Connects to [[step_097 (phase_030)]]
 - Related: [[Undead Spirit Skeletal Xphb]]
 - Leads to [[Portrait NPC Sister Morwyn Veilkeeper V1 Sister Morwyn Veilkeeper.svg]]
-- Leads to [[step_016]]
+- Leads to
 - Related: [[Cross-Cultural_Legal_Association]]
 - Originates from [[NPC00182_Urien_Emberfall]]
 - Related: [[DUN00037_Dungeon_38]]
@@ -314,9 +308,9 @@ Knows secret about major threat
 - Originates from [[step_034 (phase_021)]]
 - Leads to [[step_028 (phase_066)]]
 - Leads to [[15 the Planes of Existence]]
-- Affected by [[step_001]]
+- Affected by
 - Originates from [[step_055 (phase_027)]]
-- Related: [[step_091]]
+- Related:
 - Compare with [[outer-planes-xdmg (tables)]]
 - Influences [[SPELL0031_Primal_Blessing]]
 - Requires [[The Crystal Wardens 2]]
@@ -337,7 +331,6 @@ Knows secret about major threat
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

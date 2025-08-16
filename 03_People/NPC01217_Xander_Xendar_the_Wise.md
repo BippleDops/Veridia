@@ -18,7 +18,6 @@ aliases: [NPC01217 Xander Xendar the Wise]
 - [[#Dara Brightblade the Lost (Criminal - Accomplice)|Dara Brightblade the Lost (Criminal - Accomplice)]]
 - [[#Idris Goldleaf the Guardian (Family - Parent)|Idris Goldleaf the Guardian (Family - Parent)]]
 
-
 ---
 aliases: ["Xander Xendar the Wise", "xander xendar the wise", "Xander Xendar Wise", "Wise the Xendar Xander"]
 tags: [npc, character]
@@ -147,21 +146,17 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.249Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,17 +177,17 @@ Knows secret about major threat
 - Connects to [[step_001 (phase_018)]]
 - Leads to [[ITEM00235_Frost_Crossbow_of_Wounding]]
 - Connects to [[NPC00552_Malakai_Stormwind_the_Seeker]]
-- Originates from [[step_057]]
+- Originates from
 - See also: [[Geometric Tidepools (D&D_References)]]
 - Influences [[LOC00278_Cities_Location_279]]
 - Leads to [[Portrait NPC the King S Ears V1 the King S Ears.svg_1 (Portraits)]]
 - See also: [[QUEST00184_Personal_Quest_185]]
-- Compare with [[step_091]]
+- Compare with
 - Compare with [[Absolute Reality Factio 2]]
 - Influences [[Merchants Guild.md]]
-- See also: [[step_021]]
+- See also:
 - Originates from [[LOC0149_Grovehollow]]
-- Leads to [[step_064]]
+- Leads to
 - Requires [[More Difficult Identification]]
 - See also: [[step_065 (phase_080)]]
 - Affected by [[Memorial Guardians]]
@@ -250,7 +245,7 @@ Knows secret about major threat
 - See also: [[Corruption Detectors]]
 - Leads to [[DUN00037_Dungeon_38]]
 - Connects to [[step_095 (phase_086)]]
-- Compare with [[step_033]]
+- Compare with
 - See also: [[Dice Roller]]
 - Compare with [[NPC00722_Ysara_Frostwhisper_the_Scholar]]
 - Related: [[Assets Locations Location City Divine Magic Divine Magic.svg]]
@@ -261,7 +256,7 @@ Knows secret about major threat
 - Leads to [[Portrait NPC the Pressure King V1 the Pressure King.svg]]
 - Requires [[FAC00024_Cults_25]]
 - Requires [[human-names-greek-male-xge (tables)]]
-- Parallels [[step_041]]
+- Parallels
 - Connects to [[Portrait NPC Captain Dimensional V1 Captain Dimensional.svg]]
 - Connects to [[LOC00191_Wilderness_Location_192]]
 - Influences [[Chief Surgeon Nerissa Tideheart]]
@@ -270,7 +265,6 @@ Knows secret about major threat
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01984 Ewan Frostwhisper the Seeker]
 - [[#Erasmus Crystalbrook the Swift (Criminal - Informant)|Erasmus Crystalbrook the Swift (Criminal - Informant)]]
 - [[#Dara Xendar the Seeker (Criminal - Fence)|Dara Xendar the Seeker (Criminal - Fence)]]
 
-
 ---
 aliases: ["Ewan Frostwhisper the Seeker", "ewan frostwhisper the seeker", "Ewan Frostwhisper Seeker", "Seeker the Frostwhisper Ewan"]
 tags: [npc, character]
@@ -147,21 +146,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.331Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -180,7 +175,7 @@ Blackmails party into service
 - Originates from [[step_088 (phase_022)]]
 - Connects to [[Instrument of the Bards Fochlucan Bandore]]
 - Influences [[Communication_Systems]]
-- See also: [[step_016]]
+- See also:
 - Related: [[mire-the-mind (optional-features)]]
 - Requires [[The Convergence Laboratory 2]]
 - Originates from [[Quest - Crystal Innovation]]
@@ -195,14 +190,14 @@ Blackmails party into service
 - Parallels [[Dragonborn Xphb]]
 - Compare with [[Memory Merchant]]
 - Originates from [[Symbol Heraldry Commander Void Tactician Commander Void Tactician.svg]]
-- Parallels [[step_023]]
+- Parallels
 - Leads to [[Suggestion Xphb]]
 - Leads to [[step_054 (phase_073)]]
-- See also: [[step_023]]
+- See also:
 - Originates from [[Kuo Toa Dmg]]
 - Parallels [[Quest - Moral Choices 2]]
 - Related: [[ENC00343_Combat_Encounter_344]]
-- Influences [[step_071]]
+- Influences
 - See also: [[Portrait NPC the Crimson Shard Guardian V1 the Crimson Shard Guardian.svg]]
 - Requires [[README]]
 - See also: [[Void Realm Treaties]]
@@ -220,7 +215,7 @@ Blackmails party into service
 - See also: [[Assets Item Artifact Enspelled Armor Level 7 Xdmg V3 Enspelled Armor Level 7 Xdmg.png]]
 - Connects to [[step_020 (phase_089)]]
 - Originates from [[Consortium Credit 2]]
-- Originates from [[step_061]]
+- Originates from
 - Compare with [[underdark-encounters-levels-1116-xge (tables)]]
 - Connects to [[Security Chief Valdris Watchful]]
 - Connects to [[step_023 (phase_087)]]
@@ -238,7 +233,7 @@ Blackmails party into service
 - Parallels [[Captain Marrow Drinker (D&D_References)]]
 - See also: [[step_089 (phase_093)]]
 - Originates from [[World_Map_Layers (D&D_References)]]
-- Related: [[step_080]]
+- Related:
 - Influences [[LORE0059_Secret_of_the_Lost_City]]
 - Affected by [[prismari-student-scc (backgrounds)]]
 - Affected by [[Grandmother Nightcomfor (D&D_References)]]
@@ -246,7 +241,7 @@ Blackmails party into service
 - Leads to [[ENC00187_Combat_Encounter_188]]
 - Affected by [[02_Worldbuilding_Places_The_Crystal_Palace]]
 - Connects to [[NPC01653_Lyanna_Winterborn_the_Scholar]]
-- Leads to [[step_010]]
+- Leads to
 - Compare with [[Conquered Territory]]
 - Compare with [[Portrait NPC Pearl Empress Lustrous V2 Pearl Empress Lustrous.svg]]
 - Parallels [[step_048 (phase_048)]]
@@ -270,7 +265,6 @@ Blackmails party into service
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

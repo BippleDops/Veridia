@@ -18,7 +18,6 @@ aliases: [NPC01937 Felicia Silverleaf the Wanderer]
 - [[#Fiora Blackstone the Guardian (Criminal - Informant)|Fiora Blackstone the Guardian (Criminal - Informant)]]
 - [[#Wynne Emberfall the Guardian (Criminal - Target)|Wynne Emberfall the Guardian (Criminal - Target)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Felicia Silverleaf the Wanderer", "felicia silverleaf the wanderer", "Felicia Silverleaf Wanderer", "Wanderer the Silverleaf Feliciatags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -144,16 +143,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.326Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -185,11 +181,10 @@ Modifications:
 - [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
 - [[NPC01943_Xander_Proudmore_the_Fallen]]
 - [[NPC00860_Gavril_Winterborn_the_Swift]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -198,16 +193,15 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Compare with [[NPC01838_Cedric_Brightblade_the_Swift]]
-- See also: [[step_083]]
+- See also:
 - Requires [[Marcus Depthwar (D&D_References)]]
 - Related: [[Captain Storm Tideguard (D&D_References)]]
 - See also: [[Revenant Xmm]]
@@ -225,15 +219,15 @@ Modifications:
 - Originates from [[allosaurus]]
 - See also: [[Template_StarSystem_Placeholder.png_2 (09_Templates)]]
 - Originates from [[LOC00114_Dungeons_Location_115]]
-- Parallels [[step_006]]
-- Related: [[step_080]]
+- Parallels
+- Related:
 - Requires [[step_043 (phase_054)]]
 - Compare with [[[[Harbor Patrol]] (D&D_References)]]
 - Requires [[step_002 (phase_073)]]
 - Affected by [[Assets Portraits Portrait NPC Elder Whisper in the Dark Elder Whisper in the Dark.svg]]
 - Related: [[location-city-smuggler-s-cove-smuggler-s-cove.svg]]
 - Parallels [[Portrait NPC [[Merchant]] Captain Trade V1 Merchant Captain Trade.svg]]
-- Leads to [[step_023]]
+- Leads to
 - Connects to [[NPC00542_Corvus_Oakenshield_the_Strong]]
 - Compare with [[Portrait NPC Duke Theron Depthguard V1 Duke Theron Depthguard.svg]]
 - Compare with [[Assets Locations Location City [[Experimental Medical Ethics]] V1 Experimental Medical Ethics.svg]]
@@ -266,7 +260,7 @@ Modifications:
 - Related: [[ring-of-animal-influence-xdmg (items)]]
 - Influences [[NPC00367_Jorah_Brightblade_the_Fallen]]
 - Connects to [[Commercial Navigation Services]]
-- Influences [[step_092]]
+- Influences
 - Parallels [[List Spells Races Gnome Deep Dmg]]
 - See also: [[Location City [[Temporal Viewing Chambers]] Temporal Viewing Chambers.svg]]
 - Parallels [[step_063 (phase_096)]]
@@ -277,13 +271,13 @@ Modifications:
 - Related: [[DUN00120_Dungeon_121]]
 - Influences [[clockwork-stone-defender-mpmm (construct)]]
 - Leads to [[Pressure Engineering Guild]]
-- Leads to [[step_015]]
+- Leads to
 - Affected by [[International Crystal Trade Associatio]]
 - Compare with [[NPC00560_Delara_Winterborn_the_Wanderer]]
 - Affected by [[step_039 (phase_012)]]
 - Requires [[Crafter Xphb]]
 - Originates from [[LOC00220_Towns_Location_221]]
-- Related: [[step_094]]
+- Related:
 - See also: [[step_029 (phase_009)]]
 - Affected by [[Location City [[Deep Watchfulrest]] Deep Watchfulrest.svg]]
 - Related: [[Physical Variations Yuan Ti Eye Color Vgm]]
@@ -292,9 +286,9 @@ Modifications:
 - Originates from [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
 - Related: [[step_100 (phase_022)]]
 - Parallels [[Dungeon Dressing General Furnishings and]]
-- Affected by [[step_037]]
+- Affected by
 - Parallels [[step_014 (phase_056)]]
-- Requires [[step_090]]
+- Requires
 - Originates from [[dawn-war-moradin-dmg (deities)]]
 - Leads to [[step_097 (phase_011)]]
 - Connects to [[Location City [[Goldspire Confederacy]] Goldspire Confederacy.svg]]
@@ -302,7 +296,7 @@ Modifications:
 - Requires [[The Void Conspiracy (D&D_References)]]
 - Parallels [[celestial]]
 - Influences [[LOC00235_Cities_Location_236]]
-- Requires [[step_040]]
+- Requires
 - Parallels [[Portrait NPC Weaponsmith [[Captain Marcus]] Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]
 - Requires [[LOC00205_Wilderness_Location_206]]
 - See also: [[Brass Dragon Xmm]]
@@ -311,7 +305,6 @@ Modifications:
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

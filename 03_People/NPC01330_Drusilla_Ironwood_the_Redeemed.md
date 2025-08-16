@@ -18,7 +18,6 @@ aliases: [NPC01330 Drusilla Ironwood the Redeemed]
 - [[#Branwen Moonshadow the Bold (Personal - Ex-lover)|Branwen Moonshadow the Bold (Personal - Ex-lover)]]
 - [[#Kaelen Emberfall the Bold (Political - Opposition)|Kaelen Emberfall the Bold (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Drusilla Ironwood the Redeemed", "drusilla ironwood the redeemed", "Drusilla Ironwood Redeemed", "Redeemed the Ironwood Drusilla"]
@@ -143,27 +142,23 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.261Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -172,11 +167,10 @@ Forming expedition to dangerous location
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -186,18 +180,18 @@ Forming expedition to dangerous location
 - Affected by [[Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent V1 the Depth Blessed Fisherman Captain Sal Deepcurrent.svg]]
 - Parallels [[EVENT00017_Magical_Event_18]]
 - Related: [[Assets Handouts Handout Handout Docking Permit Docking Permit.png]]
-- Leads to [[step_018]]
-- Connects to [[step_001]]
+- Leads to
+- Connects to
 - Compare with [[location-city-indigo-deepdye-indigo-deepdye.svg]]
 - Originates from [[Symbol Heraldry Mob... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Requires [[The Depth Sounders (D&D_References)]]
-- Connects to [[step_092]]
+- Connects to
 - Requires [[The Cultural Exchange Center]]
 - See also: [[5 Credits]]
 - Compare with [[vicious-mockery-xphb (spells)]]
 - Parallels [[step_063 (phase_024)]]
 - Related: [[fighter-xphb-battle-master-xphb (classes)]]
-- Requires [[step_071]]
+- Requires
 - Connects to [[21-appendix-d-demon-lords (out-of-the-abyss)]]
 - Requires [[The Dreamwhisper Inn 2]]
 - Requires [[step_002 (phase_097)]]
@@ -212,8 +206,8 @@ Forming expedition to dangerous location
 - Leads to [[Economic Planning]]
 - Requires [[step_081 (phase_028)]]
 - Parallels [[Merchant Prince Aldric Goldcurrent]]
-- Leads to [[step_083]]
-- Leads to [[step_029]]
+- Leads to
+- Leads to
 - Influences [[Golden Ballroom 2]]
 - See also: [[Customer Relations Director Seraphina Calmcurrent]]
 - Requires [[QUEST00241_Side_Quest_242]]
@@ -232,7 +226,7 @@ Forming expedition to dangerous location
 - Leads to [[Church of the Tidal Throne 2]]
 - Compare with [[step_089 (phase_007)]]
 - Related: [[location-city-crimson-reef-v1-crimson-reef.svg]]
-- Compare with [[step_033]]
+- Compare with
 - Compare with [[Torch Xphb]]
 - Related: [[Location City Pressure Crystals V1 Pressure Crystals.svg]]
 - Connects to [[ITEM01042_Pure_Herb_of_Swiftness]]
@@ -247,7 +241,7 @@ Forming expedition to dangerous location
 - Originates from [[ITEM01103_Lesser_Crystal_of_Vigor]]
 - Originates from [[Librarian Scholar Reef Documentcurrent 2]]
 - Influences [[Evidence Collection Guide]]
-- Compare with [[step_060]]
+- Compare with
 - Related: [[Location Tracker (D&D_References)]]
 - Originates from [[step_061 (phase_081)]]
 - Related: [[step_037 (phase_014)]]
@@ -285,7 +279,6 @@ Forming expedition to dangerous location
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

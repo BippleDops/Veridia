@@ -18,7 +18,6 @@ aliases: [NPC00867 Felicia Quicksilver the Wanderer]
 - [[#Orion Winterborn the Mystic (Criminal - Informant)|Orion Winterborn the Mystic (Criminal - Informant)]]
 - [[#Gavril Emberfall the Seeker (Criminal - Accomplice)|Gavril Emberfall the Seeker (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Felicia Quicksilver the Wanderer", "felicia quicksilver the wanderer", "Felicia Quicksilver Wanderer", "Wanderer the Quicksilver Felicia"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.211Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -173,13 +168,13 @@ Has map to lost treasure
 - See also: [[Assets Locations Location City Elena Recordkeeper Elena Recordkeeper.svg]]
 - Parallels [[portrait-npc-the-schooling-v2-the-schooling.svg_1 (Portraits)]]
 - Parallels [[ENC00083_Social_Encounter_84]]
-- Connects to [[step_002]]
+- Connects to
 - Connects to [[Order of the Azure Flame Sanctuary]]
 - Compare with [[mountain-encounters-levels-1116-xge (tables)]]
 - Parallels [[ENC00046_Environmental_Encounter_47]]
 - Connects to [[The Recursion Nexus (Places)]]
 - Leads to [[Swarm of Insects Xmm]]
-- Requires [[step_012]]
+- Requires
 - Affected by [[Portrait NPC Quest the Deep Cartographer Quest the Deep Cartographer.svg]]
 - Influences [[LOC00022_Wilderness_Location_23]]
 - Parallels [[step_100 (phase_025)]]
@@ -206,7 +201,7 @@ Has map to lost treasure
 - Parallels [[Crystal Plague]]
 - Parallels [[The Crystal Throne]]
 - Leads to [[LOC00137_Cities_Location_138]]
-- Requires [[step_078]]
+- Requires
 - Influences [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg]]
 - Related: [[norse-loki (deities)]]
 - Related: [[The Architects of Depths (D&D_References)]]
@@ -221,7 +216,7 @@ Has map to lost treasure
 - Originates from [[step_099 (phase_045)]]
 - Connects to [[The Sunken Bazaar (D&D_References)]]
 - Compare with [[Professional Terminology (Lore)]]
-- Parallels [[step_025]]
+- Parallels
 - Parallels [[NPC00829_Orion_Emberfall_the_Bold]]
 - Originates from [[step_067 (phase_023)]]
 - Parallels [[Sunset Bay 2]]
@@ -231,7 +226,7 @@ Has map to lost treasure
 - Connects to [[plant]]
 - Affected by [[SPELL00125_Arcane_Spell_126]]
 - Influences [[actions#Dodge]]
-- Leads to [[step_095]]
+- Leads to
 - Parallels [[location-city-royal-vault-royal-vault.svg]]
 - Parallels [[step_015 (phase_099)]]
 - Influences [[LORE0071_Legend_of_the_Ancient_Pact]]
@@ -241,7 +236,7 @@ Has map to lost treasure
 - Leads to [[Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg]]
 - Originates from [[step_010 (phase_023)]]
 - Leads to [[Quest - Rescue the Originals]]
-- Influences [[step_042]]
+- Influences
 - See also: [[step_003 (phase_058)]]
 - Connects to [[Foreign Merchants]]
 - Affected by [[QUEST0014_Champion's_Request]]
@@ -256,7 +251,7 @@ Has map to lost treasure
 - Originates from [[Location City Marina Oracleguard Marina Oracleguard.svg]]
 - Compare with [[QUEST00213_Side_Quest_214]]
 - Parallels [[step_019 (phase_092)]]
-- See also: [[step_043]]
+- See also:
 - Influences [[item properties#Finesse]]
 - Leads to [[LORE00006_History_Entry_7]]
 - Connects to [[List Optfeaturetype Ei]]
@@ -269,7 +264,6 @@ Has map to lost treasure
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

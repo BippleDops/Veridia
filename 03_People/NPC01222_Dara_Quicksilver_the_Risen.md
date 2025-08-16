@@ -18,7 +18,6 @@ aliases: [NPC01222 Dara Quicksilver the Risen]
 - [[#Malakai Blackstone the Redeemed (Professional - Partner)|Malakai Blackstone the Redeemed (Professional - Partner)]]
 - [[#Malakai Ravenheart the Fallen (Political - Patron)|Malakai Ravenheart the Fallen (Political - Patron)]]
 
-
 ---
 aliases: ["Dara Quicksilver the Risen", "dara quicksilver the risen", "Dara Quicksilver Risen", "Risen the Quicksilver Dara"]
 tags: [npc, character]
@@ -141,21 +140,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.250Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -187,7 +182,7 @@ Has information about legendary item
 - Parallels [[step_026 (phase_007)]]
 - Requires [[Portrait NPC the Shadow Warren the Shadow Warren.svg]]
 - Compare with [[list-spells-races-aasimar-xphb (lists)]]
-- Parallels [[step_092]]
+- Parallels
 - Affected by [[step_098 (phase_007)]]
 - Originates from [[Deep Oracle]]
 - Influences [[step_059 (phase_056)]]
@@ -225,7 +220,7 @@ Has information about legendary item
 - Connects to [[Economic Manipulation (D&D_References)]]
 - Related: [[Professor Reef Growthseeker]]
 - Affected by [[DUN00062_Dungeon_63]]
-- Parallels [[step_016]]
+- Parallels
 - Parallels [[VAULT_UPDATES]]
 - Parallels [[Reality Anchor Overrides]]
 - Parallels [[NPC01143_Orion_Ravenheart_the_Risen]]
@@ -236,7 +231,7 @@ Has information about legendary item
 - Requires [[step_028 (phase_084)]]
 - See also: [[ITEM00529_Dragon_Scale_Cloak_of_Grace]]
 - Leads to [[Assets Locations Location City Song Merrytide Song Merrytide.svg]]
-- Requires [[step_093]]
+- Requires
 - Affected by [[vine-blight-xmm]]
 - Parallels [[LORE00142_Prophecies_Entry_143]]
 - See also: [[step_053 (phase_014)]]
@@ -254,7 +249,7 @@ Has information about legendary item
 - Requires [[step_086 (phase_077)]]
 - Requires [[Assets Handouts Handout Handout Guild License Certificate V3 Guild License Certificate.png]]
 - Requires [[Deep Prophecy 2]]
-- Compare with [[step_056]]
+- Compare with
 - Influences [[The Foreclosure Squad]]
 - Influences [[Marcus Clausewright (D&D_References)]]
 - Originates from [[Animate Dead Xphb]]
@@ -264,7 +259,6 @@ Has information about legendary item
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

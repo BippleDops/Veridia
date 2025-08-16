@@ -18,7 +18,6 @@ aliases: [NPC00969 Zephyr Keenblade the Wise]
 - [[#Aldric Xendar the Risen (Political - Ally)|Aldric Xendar the Risen (Political - Ally)]]
 - [[#Hestara Lightbringer the Bold (Criminal - Fence)|Hestara Lightbringer the Bold (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Zephyr Keenblade the Wise", "zephyr keenblade the wise", "Zephyr Keenblade Wise", "Wise the Keenblade Zephyr"]
@@ -147,16 +146,13 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.224Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -221,11 +217,10 @@ Has map to lost treasure
 - [[NPC00582_Cedric_Dawnstrider]]
 - [[Quarantine_Notice_Crystal_Plagu]]
 - [[NPC01599_Gavril_Keenblade_the_Strong]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -234,11 +229,10 @@ Has map to lost treasure
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -263,13 +257,13 @@ Has map to lost treasure
 - Parallels [[ENC00013_Combat_Encounter_14]]
 - Influences [[step_035 (phase_046)]]
 - Requires [[roleplaying-a-yuan-ti-yuan-ti-ideals-vgm (tables)]]
-- Compare with [[step_085]]
-- Connects to [[step_024]]
+- Compare with
+- Connects to
 - Affected by [[step_080 (phase_025)]]
 - Compare with [[ITEM0081_Blessed_Crown_of_the_Dawn]]
 - Leads to [[Temporal Engineering Guil 2]]
 - Affected by [[Fireball Xphb]]
-- Requires [[step_078]]
+- Requires
 - Affected by [[The Concordat Seal]]
 - Originates from [[LORE00023_Legends_Entry_24]]
 - Related: [[[[Artificer]]s' Consortium (D&D_References)]]
@@ -279,7 +273,7 @@ Has map to lost treasure
 - Originates from [[step_089 (phase_048)]]
 - Requires [[Investigator Supreme Lucian Brightwater]]
 - Affected by [[step_089 (phase_066)]]
-- Parallels [[step_018]]
+- Parallels
 - Originates from [[Dwarven Thrower Xdmg]]
 - Leads to [[Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg]]
 - See also: [[04_Resources_Assets_Locations_location-city-professor-reef-growthseeker-v1-professor-reef-growthseeker.svg]]
@@ -318,13 +312,13 @@ Has map to lost treasure
 - See also: [[Quest - The Deep Mother's Truth]]
 - Originates from [[Anti-Corruption Research Institute]]
 - Leads to [[step_025 (phase_031)]]
-- Related: [[step_094]]
+- Related:
 - Influences [[step_048 (phase_064)]]
-- Influences [[step_014]]
+- Influences
 - Leads to [[NPC00444_Elric_Oakenshield_the_Scholar]]
 - Connects to [[random-buildings-shop (tables)]]
 - Leads to [[firearm-bullet-xphb (items)]]
-- Influences [[step_007]]
+- Influences
 - Influences [[step_057 (phase_078)]]
 - Leads to [[04_Resources_Handouts_Ships_Player_Handout_[[Aethermoor]]_Airships]]
 - Leads to [[Brave Depthfixer]]
@@ -334,7 +328,7 @@ Has map to lost treasure
 - Requires [[step_010 (phase_060)]]
 - Requires [[step_019 (phase_008)]]
 - Influences [[ITEM00896_Primordial_Scepter_of_Destiny]]
-- Leads to [[step_091]]
+- Leads to
 - Connects to [[Portrait NPC Quest the Seventh Song Quest the Seventh Song.svg]]
 - Requires [[Symbol Heraldry Arcane Master Voidweav Arcane Master Voidweav.svg]]
 - Compare with [[QUEST0063_The_Sunken_Temple_War]]
@@ -347,7 +341,6 @@ Has map to lost treasure
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

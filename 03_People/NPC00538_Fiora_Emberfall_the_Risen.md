@@ -9,7 +9,6 @@ aliases: [NPC00538 Fiora Emberfall the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00538 Fiora Emberfall the Risen]
 - [[#Solas Keenblade the Lost (Family - Sibling)|Solas Keenblade the Lost (Family - Sibling)]]
 - [[#Dara Dawnstrider the Scholar (Political - Opposition)|Dara Dawnstrider the Scholar (Political - Opposition)]]
 - [[#Delara Keenblade the Risen (Criminal - Handler)|Delara Keenblade the Risen (Criminal - Handler)]]
-
 
 ---
 created: 2025-08-15
@@ -160,27 +158,23 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.174Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -190,11 +184,10 @@ Being extorted by criminals
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -217,7 +210,7 @@ Being extorted by criminals
 - Requires [[Location City the Trencher Folk the Trencher Folk.svg]]
 - Compare with [[Location City Ancient Crystal Technology Ancient Crystal Technology.svg]]
 - Connects to [[Portrait NPC Jasper Three Eyes Flint V2 Jasper Three Eyes Flint.png]]
-- Requires [[step_033]]
+- Requires
 - Influences [[step_001 (phase_029)]]
 - Influences [[Winds of Rebellion]]
 - Leads to [[necklace-of-prayer-beads-xdmg (items)]]
@@ -227,7 +220,7 @@ Being extorted by criminals
 - See also: [[step_047 (phase_075)]]
 - See also: [[Ring of Warmth Xdmg]]
 - Compare with [[Assets Portraits Portrait NPC Captain Shadowsail Captain Shadowsail.svg]]
-- Connects to [[step_048]]
+- Connects to
 - Related: [[ENC0080_Random_Encounter_81]]
 - Compare with [[Master Archivist Valdric Stonewhisper 2]]
 - Influences [[Dimensional Fabric 2]]
@@ -272,14 +265,14 @@ Being extorted by criminals
 - Connects to [[King Torrhen Lumengarde (D&D_References)]]
 - Connects to [[step_006 (phase_075)]]
 - See also: [[step_018 (phase_100)]]
-- Originates from [[step_025]]
+- Originates from
 - Parallels [[Assets Locations Location City Intelligence Dealer Echo Whisperwave V1 Intelligence Dealer Echo Whisperwave.svg]]
 - Compare with [[greyhawk-erythnul-xdmg (deities)]]
 - Compare with [[13 Chapter 13 the Wormwrithings]]
 - Affected by [[Boon of Quick Casting]]
 - Originates from [[spell-gem-amber-oota (items)]]
 - Related: [[LOC00024_Wilderness_Location_25]]
-- Requires [[step_037]]
+- Requires
 - Requires [[ITEM01351_Ornate_Lantern_of_Reliability]]
 - Requires [[NPC01934_Gareth_Frostwhisper_the_Guardian]]
 - Influences [[ITEM00160_Thunder_Sword_of_the_Ancients]]

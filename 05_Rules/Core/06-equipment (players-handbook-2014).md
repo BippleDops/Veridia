@@ -18,7 +18,6 @@ aliases: [06-equipment (players-handbook-2014)]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 ---
 
 title: 06-equipment (players-handbook-2014)
@@ -95,19 +94,15 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This NPC knows more than they let on
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -127,7 +122,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.182
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -137,7 +132,6 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -175,16 +169,16 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[The Memory Pool]]
 - Parallels [[12 Credits (players-handbook-2024)]]
 - Influences [[ENC00109_Social_Encounter_110]]
-- Originates from [[step_100]]
+- Originates from
 - Originates from [[ioun-stone-sustenance-xdmg (items)]]
 - Influences [[ITEM00178_Shadow_Bow_of_Slaying]]
 - Connects to [[NPC01030_Erasmus_Nightfall_the_Strong]]
-- Parallels [[step_086]]
+- Parallels
 - Influences [[Portrait NPC Ques... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[potion-of-invulnerability-xdmg (items)]]
 - Connects to [[elemental-cataclysm-xmm (elemental)]]
 - Related: [[Distant Spell Xphb]]
-- Requires [[step_085]]
+- Requires
 - Parallels [[step_013 (phase_092)]]
 - Requires [[Assets Locations Location City Port Meridian Merchant Quarter V1 Port Meridian Merchant Quarter.svg]]
 - Connects to [[Quest - Crystal Core Sabotage]]
@@ -204,14 +198,14 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[step_017 (phase_089)]]
 - See also: [[Character_Creation_Guide]]
 - Influences [[Deep_Current_Academy (Places)]]
-- Affected by [[step_020]]
+- Affected by
 - Parallels [[narzugon-mpmm (fiend)]]
 - Parallels [[Location_Network_Graph.md]]
 - Related: [[Reality Stabilization Corps]]
 - Parallels [[step_066 (phase_100)]]
 - Compare with [[grell-xmm (aberration)]]
 - Connects to [[Mirror Image Xphb]]
-- Requires [[step_057]]
+- Requires
 - Compare with [[Portrait NPC Quest the Pretender V2 Quest the Pretender.svg]]
 - Requires [[Battle Maps Gallery]]
 - Originates from [[LOC00271_Wilderness_Location_272]]
@@ -231,11 +225,11 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Periapt of Wound Closure Xdmg]]
 - See also: [[location-city-trade-war-trade-war.svg]]
 - Requires [[step_025 (phase_036)]]
-- Requires [[step_084]]
+- Requires
 - See also: [[NPC00789_Caelum_Ravenheart_the_Scholar]]
-- Affected by [[step_089]]
-- Related: [[step_099]]
-- Related: [[step_099]]
+- Affected by
+- Related:
+- Related:
 - Connects to [[step_037 (phase_032)]]
 - See also: [[step_087 (phase_007)]]
 - Requires [[Extra-Dimensional Invasions]]
@@ -245,8 +239,8 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[EVENT00019_Political_Event_20]]
 - Connects to [[The Sorrow Gardens (D&D_References)]]
 - See also: [[Forgotten Realms Auril]]
-- See also: [[step_072]]
-- Originates from [[step_068]]
+- See also:
+- Originates from
 - Compare with [[Portrait NPC the Azure Prophet Nerissa the Azure Prophet Nerissa.svg_1 (Portraits)]]
 - Connects to [[step_032 (phase_061)]]
 - Influences [[Dungeon Dressing General Features]]

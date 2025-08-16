@@ -18,7 +18,6 @@ aliases: [NPC01264 Ysara Stormwind the Scholar]
 - [[#Corvus Ravenheart the Broken (Family - Sibling)|Corvus Ravenheart the Broken (Family - Sibling)]]
 - [[#Thalia Keenblade the Seeker (Professional - Mentor)|Thalia Keenblade the Seeker (Professional - Mentor)]]
 
-
 ---
 aliases: ["Ysara Stormwind the Scholar", "ysara stormwind the scholar", "Ysara Stormwind Scholar", "Scholar the Stormwind Ysara"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.254Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,7 +171,7 @@ Forming expedition to dangerous location
 - Originates from [[Garden of Shadows 2]]
 - Leads to [[NPC01198_Jorah_Emberfall_the_Guardian]]
 - Compare with [[step_096 (phase_022)]]
-- Leads to [[step_073]]
+- Leads to
 - Parallels [[skills#Arcana]]
 - Requires [[ITEM00272_Cursed_Staff_of_the_Ancients]]
 - Connects to [[Location City Pressure Responsive Fabrics Pressure Responsive Fabrics.svg]]
@@ -206,7 +201,7 @@ Forming expedition to dangerous location
 - Originates from [[ENC00412_Combat_Encounter_413]]
 - Parallels [[Mediator Supreme Cora Peaceweaver]]
 - Compare with [[FAC00042_Orders_43]]
-- Influences [[step_087]]
+- Influences
 - Influences [[step_060 (phase_060)]]
 - Connects to [[Moon Touched Sword Xdmg]]
 - Influences [[Assets Locations Location City the First Truth the First Truth.svg]]
@@ -216,7 +211,7 @@ Forming expedition to dangerous location
 - Parallels [[ENC00073_Social_Encounter_74]]
 - Influences [[shadow-of-moil-xge (spells)]]
 - Compare with [[step_004 (phase_075)]]
-- See also: [[step_078]]
+- See also:
 - See also: [[Maritime Commerce 2]]
 - Leads to [[Location City Concierge Phillip Gracewater Concierge Phillip Gracewater.svg]]
 - See also: [[MON00145_Constructs_Creature_146]]
@@ -225,7 +220,7 @@ Forming expedition to dangerous location
 - Leads to [[The Spire of Unity]]
 - Parallels [[Assets Locations Location City Giant Sea Horse V1 Giant Sea Horse.svg]]
 - Related: [[Calm Emotions Xphb]]
-- See also: [[step_060]]
+- See also:
 - Leads to [[step_032 (phase_045)]]
 - Compare with [[NPC00893_Aldric_Lightbringer_the_Guardian]]
 - Affected by [[NPC01944_Xander_Stormwind_the_Redeemed]]
@@ -244,7 +239,7 @@ Forming expedition to dangerous location
 - Originates from [[Quest - Memory Restoration_1 (01_Adventures)]]
 - Connects to [[step_011 (phase_051)]]
 - Parallels [[Currency Stabilization]]
-- Originates from [[step_048]]
+- Originates from
 - Compare with [[The Wind Shrine Archipelago 2]]
 - Affected by [[LOC00133_Wilderness_Location_134]]
 - Originates from [[Lady Jade Clawgrip (D&D_Statblocks)]]
@@ -259,7 +254,7 @@ Forming expedition to dangerous location
 - See also: [[LOC00179_Dungeons_Location_180]]
 - See also: [[Greyhawk Ehlonna Xdmg]]
 - Originates from [[Symbol Heraldry the Anonymous Inquisitor the Anonymous Inquisitor.svg]]
-- Originates from [[step_075]]
+- Originates from
 - Leads to [[ochre-jelly-xmm (ooze)]]
 - Compare with [[bheur-hag-vgm (legendary-group)]]
 - Compare with [[Pressure-Lock Systems (D&D_References)]]
@@ -275,7 +270,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
 
-
 ## Realm Connections
 
 ### Connection to Aethermoor
@@ -287,9 +281,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

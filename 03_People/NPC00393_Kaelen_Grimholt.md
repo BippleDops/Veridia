@@ -9,7 +9,6 @@ aliases: [NPC00393 Kaelen Grimholt]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00393 Kaelen Grimholt]
 - [[#Lyanna Ironwood the Wanderer (Family - Parent)|Lyanna Ironwood the Wanderer (Family - Parent)]]
 - [[#Nerys Stormwind (Professional - Employer)|Nerys Stormwind (Professional - Employer)]]
 - [[#Malakai Blackstone the Guardian (Political - Ally)|Malakai Blackstone the Guardian (Political - Ally)]]
-
 
 ---
 created: 2025-08-15
@@ -146,16 +144,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.157Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -199,11 +194,10 @@ Seeks bodyguards for dangerous journey
 - [[NPC00058_Elric_Nightfall]]
 - [[MOC_NPCs]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -211,18 +205,17 @@ Seeks bodyguards for dangerous journey
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Related: [[Witness Protection Protocols 2]]
 - Originates from [[[[Noble District]] 2]]
-- Requires [[step_059]]
-- Influences [[step_039]]
+- Requires
+- Influences
 - Influences [[step_003 (phase_038)]]
 - Affected by [[LOC0134_Hillstead]]
 - Originates from [[major-image-xphb (spells)]]
@@ -237,10 +230,10 @@ Seeks bodyguards for dangerous journey
 - Influences [[INV-002 2]]
 - Affected by [[Reality Breach Event Compiler]]
 - Compare with [[step_075 (phase_097)]]
-- Influences [[step_070]]
+- Influences
 - Requires [[NPC01651_Cedric_Winterborn_the_Seeker]]
 - Influences [[Assets Locations [[Location City [[The Lighthouse Keepers]] the Lighthouse Keepers.svg]]]]
-- Leads to [[step_043]]
+- Leads to
 - Leads to [[Determine Numbers and Challenge Ratings Solo Monster Challenge Rating Xge]]
 - Originates from [[QUEST00033_Side_Quest_34]]
 - Influences [[Fifth Shard of Ascension]]
@@ -251,7 +244,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[Quest - The Merged Reality]]
 - Related: [[The Memory Wars]]
 - Originates from [[Location City [[The Temple of Eternal Tides]] the Temple of Eternal Tides.svg]]
-- Connects to [[step_020]]
+- Connects to
 - Parallels [[LOC00296_Towns_Location_297]]
 - Originates from [[Cultural Advisor Coral Bridgebuilde]]
 - Influences [[hill-encounters-levels-1116-xge (tables)]]
@@ -259,7 +252,7 @@ Seeks bodyguards for dangerous journey
 - Requires [[step_070 (phase_061)]]
 - Leads to [[ITEM0070_Glorious_Blade_of_the_Dawn]]
 - Affected by [[Reality Anchor Monitoring]]
-- Affected by [[step_051]]
+- Affected by
 - Affected by [[[[The Shadow Markets]] (D&D_References)]]
 - Compare with [[giant-centipede-xmm]]
 - Connects to [[ITEM00571_Dragon_Scale_Helm_of_Protection]]
@@ -269,23 +262,23 @@ Seeks bodyguards for dangerous journey
 - Influences [[Engineer Shadowbuil]]
 - Originates from [[The Shadow Merchant Prim]]
 - Originates from [[step_022 (phase_004)]]
-- Affected by [[step_082]]
+- Affected by
 - Compare with [[Otherworldly Pacts (D&D_References)]]
 - Originates from [[[[Great Crystal Lens]] 2]]
-- See also: [[step_047]]
+- See also:
 - Affected by [[Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
 - Requires [[Session 10 - New Horizons]]
 - Influences [[Assets Portraits Portrait NPC Shadow Binding Sanctum Shadow Binding Sanctum.svg]]
 - Originates from [[Portrait NPC High Priest Absence V1 High Priest Absence.svg]]
-- See also: [[step_038]]
-- Affected by [[step_091]]
+- See also:
+- Affected by
 - Connects to [[step_002 (phase_035)]]
-- Originates from [[step_023]]
+- Originates from
 - Originates from [[Portrait NPC the Ancient Nobility V1 the Ancient Nobility.svg]]
 - Originates from [[Anti-Corruption Task Force (D&D_References)]]
-- Affected by [[step_034]]
-- Connects to [[step_039]]
-- Compare with [[step_053]]
+- Affected by
+- Connects to
+- Compare with
 - Parallels [[LORE00176_Legends_Entry_177]]
 - Influences [[Whelm Xdmg]]
 - Requires [[Assets Locations Location City [[Experimental Medical Ethics]] Experimental Medical Ethics.svg]]
@@ -297,7 +290,7 @@ Seeks bodyguards for dangerous journey
 - Connects to [[Character_Bonds_Quick_Ref]]
 - Compare with [[step_078 (phase_013)]]
 - Affected by [[couatl-xmm (celestial)]]
-- Connects to [[step_045]]
+- Connects to
 - Compare with [[LOC00201_Towns_Location_202]]
 - Leads to [[ENC0088_Random_Encounter_89]]
 - Leads to [[ITEM01465_Simple_Rope_of_Durability]]
@@ -311,7 +304,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[Reality Anchor Points 2]]
 - See also: [[The [[Time]] Keeper]]
 - Influences [[Downtime Activity Sowing Rumors]]
-- Parallels [[step_077]]
+- Parallels
 - Originates from [[LORE00269_Legends_Entry_270]]
 - Requires [[Crystal Engineering Guild]]
 - See also: [[Royal Academy of Arcane Arts]]

@@ -18,7 +18,6 @@ aliases: [NPC01192 Idris Moonshadow the Seeker]
 - [[#Zephyr Hawthorne the Lost (Personal - Childhood friend)|Zephyr Hawthorne the Lost (Personal - Childhood friend)]]
 - [[#Gareth Lightbringer the Scholar (Political - Patron)|Gareth Lightbringer the Scholar (Political - Patron)]]
 
-
 ---
 aliases: ["Idris Moonshadow the Seeker", "idris moonshadow the seeker", "Idris Moonshadow Seeker", "Seeker the Moonshadow Idris"]
 tags: [npc, character]
@@ -142,28 +141,24 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.246Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Leads to [[04_Resources_Assets_Symbols_symbol-heraldry-the-deep-expansion-the-deep-expansion.svg]]
 - Leads to [[step_085 (phase_024)]]
 - Influences [[Spell Scroll Level 4 Xdmg]]
-- See also: [[step_016]]
+- See also:
 - Affected by [[location-city-pip-goldleaf-v1-pip-goldleaf.svg]]
 - Compare with [[elder-oblex-mpmm (ooze)]]
 - See also: [[Staff of Defense Lmop]]
@@ -173,7 +168,7 @@ Caravan needs guards
 - Leads to [[EVENT00088_Political_Event_89]]
 - See also: [[Shadow Faction Representative 2]]
 - See also: [[step_012 (phase_073)]]
-- Leads to [[step_017]]
+- Leads to
 - Requires [[Dual Wielder Xphb]]
 - See also: [[Cross-Cultural Adaptation Technique]]
 - Requires [[step_095 (phase_063)]]
@@ -194,7 +189,7 @@ Caravan needs guards
 - Influences [[LOC00220_Cities_Location_221]]
 - Related: [[The Great Tidal Amphitheater (D&D_References)]]
 - See also: [[Purification Order]]
-- Requires [[step_080]]
+- Requires
 - Connects to [[Assets Locations Location City Market Heist Market Heist.svg]]
 - Affected by [[item properties#Finesse]]
 - Affected by [[step_021 (phase_057)]]
@@ -204,7 +199,7 @@ Caravan needs guards
 - Compare with [[ITEM00027_Radiant_Axe_of_Power]]
 - See also: [[step_014 (phase_070)]]
 - Requires [[special-purpose-sentient-items-communication-xdmg]]
-- Related: [[step_065]]
+- Related:
 - Compare with [[04_Resources_Assets_Portraits_portrait-npc-quest-storm-lord-s-challenge-quest-storm-lord-s-challenge.svg_Quick_Ref]]
 - Compare with [[step_065 (phase_089)]]
 - Requires [[step_059 (phase_046)]]
@@ -221,13 +216,13 @@ Caravan needs guards
 - Leads to [[QUEST00437_Side_Quest_438]]
 - Related: [[step_057 (phase_053)]]
 - Compare with [[The Phantom Fence (D&D_References)]]
-- Influences [[step_005]]
+- Influences
 - Related: [[step_018 (phase_034)]]
 - Parallels [[The Oracle]]
 - Compare with [[Symbol Heraldry Border Patrol Unit Border Patrol Unit.svg]]
 - Originates from [[Second Chance Xge]]
 - Parallels [[The Shadow Warren]]
-- Affected by [[step_063]]
+- Affected by
 - See also: [[step_023 (phase_068)]]
 - Compare with [[Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent V1 the Depth Blessed Fisherman Captain Sal Deepcurrent.svg]]
 - Requires [[step_048 (phase_062)]]
@@ -244,12 +239,12 @@ Caravan needs guards
 - See also: [[step_089 (phase_027)]]
 - Related: [[EVENT00098_Magical_Event_99]]
 - Influences [[Location City War Machine Assembly Halls V1 War Machine Assembly Halls.svg]]
-- Originates from [[step_075]]
+- Originates from
 - Originates from [[LORE00131_Prophecies_Entry_132]]
 - See also: [[step_022 (phase_014)]]
 - Influences [[Archkeeper Nereon (D&D_References)]]
 - Leads to [[step_028 (phase_092)]]
-- Affected by [[step_039]]
+- Affected by
 - Related: [[The Living Spires (D&D_References)]]
 - Requires [[Marina-Red-Tide-Coralheart (D&D_References)]]
 - Leads to [[City Development Plan]]
@@ -265,7 +260,6 @@ Caravan needs guards
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

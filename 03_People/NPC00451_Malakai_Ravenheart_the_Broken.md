@@ -9,7 +9,6 @@ aliases: [NPC00451 Malakai Ravenheart the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00451 Malakai Ravenheart the Broken]
 - [[#Ysara Proudmore the Wise (Personal - Ex-lover)|Ysara Proudmore the Wise (Personal - Ex-lover)]]
 - [[#Alaric Proudmore the Risen (Family - Spouse)|Alaric Proudmore the Risen (Family - Spouse)]]
 - [[#Xander Stormwind (Personal - Ex-lover)|Xander Stormwind (Personal - Ex-lover)]]
-
 
 ---
 created: 2025-08-15
@@ -152,16 +150,13 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.164Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -184,11 +179,10 @@ Being extorted by criminals
 - [[NPC00260_Wynne_Underhill_the_Fallen]]
 - [[MOC_Items]]
 - [[09 Adventuring]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -196,11 +190,10 @@ Being extorted by criminals
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -224,9 +217,9 @@ Being extorted by criminals
 - See also: [[arcane-focus-xphb (items)]]
 - Leads to [[step_022 (phase_084)]]
 - Compare with [[University Philosophy Departments 2]]
-- Leads to [[step_035]]
+- Leads to
 - Originates from [[QUEST00121_Side_Quest_122]]
-- Related: [[step_082]]
+- Related:
 - Connects to [[Fire Bolt]]
 - Compare with [[tensers-floating-disk-xphb (spells)]]
 - Originates from [[Map Map Abyssal Trench Ledge Abyssal Trench Ledge.svg]]
@@ -235,12 +228,12 @@ Being extorted by criminals
 - Originates from [[Session_10_New_Horizons]]
 - Originates from [[arcane-study (bastions)]]
 - Leads to [[ITEM01059_Lesser_Elixir_of_Vigor]]
-- Affected by [[step_059]]
-- Related: [[step_020]]
-- Connects to [[step_069]]
+- Affected by
+- Related:
+- Connects to
 - See also: [[vault_consistency_report_20250814_173035]]
 - Influences [[stone-warrior-pota (construct)]]
-- Connects to [[step_079]]
+- Connects to
 - Connects to [[LOC00140_Dungeons_Location_141]]
 - Connects to [[ENC00474_Combat_Encounter_475]]
 - Influences [[step_095 (phase_063)]]
@@ -253,7 +246,7 @@ Being extorted by criminals
 - Requires [[Halfling Tables Halfling Ideals Mtf]]
 - Influences [[ITEM01279_Superior_Elixir_of_Healing]]
 - Compare with [[The Forbidden Archives]]
-- Leads to [[step_066]]
+- Leads to
 - Parallels [[MOC_Lore]]
 - Originates from [[LOC00082_Dungeons_Location_83]]
 - Originates from [[Whisper Jack 2]]
@@ -273,13 +266,13 @@ Being extorted by criminals
 - Influences [[Location City Crystal Powered Vessels Crystal Powered Vessels.svg]]
 - See also: [[step_074 (phase_063)]]
 - Related: [[Assets Locations Location City Living Supremacist Enclaves V1 Living Supremacist Enclaves.svg]]
-- See also: [[step_097]]
+- See also:
 - Parallels [[step_072 (phase_017)]]
 - Requires [[step_058 (phase_054)]]
-- Related: [[step_049]]
+- Related:
 - Affected by [[Crisis Communication Array]]
 - Parallels [[ability-checks-typical-difficulty-classes-phb (tables)]]
-- Requires [[step_041]]
+- Requires
 - Affected by [[Dockworkers Union 2]]
 - Affected by [[Sister Morwyn Veilkeeper (D&D_References)]]
 - Parallels [[LORE0042_Prophecy_of_the_Sundering]]
@@ -289,7 +282,7 @@ Being extorted by criminals
 - Influences [[NPC00170_Zephyr_Quicksilver_the_Wise]]
 - Requires [[ENC00124_Combat_Encounter_125]]
 - Connects to [[chain-lightning-xphb (spells)]]
-- Compare with [[step_085]]
+- Compare with
 - Influences [[Ancient Skyforge Complex 2]]
 - Affected by [[Portrait NPC Quest Faith and Doubt V1 Quest Faith and Doubt.svg]]
 - Influences [[Shadow Resonance Medical Scanner]]

@@ -18,7 +18,6 @@ aliases: [03 Chapter 2 Creating a Character]
 - [[#Npcs Needed|Npcs Needed]]
 - [[#Locations|Locations]]
 
-
 ---
 
 title: 03 Chapter 2 Creating a Character
@@ -61,36 +60,29 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Notes
 
 *Additional notes*
-
 
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 > [!dm] DM Note
 > This NPC knows more than they let on
@@ -121,8 +113,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 Has information about the party's enemies
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -135,11 +126,10 @@ Has information about the party's enemies
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -155,7 +145,7 @@ Has information about the party's enemies
 
 ## Connections
 
-- See also: [[step_099]]
+- See also:
 - Compare with [[step_006 (phase_023)]]
 - Related: [[Portrait NPC Emperor Abyssal the Deep Sighted V1 Emperor Abyssal the Deep Sighted.svg]]
 - Leads to [[Campaign_Calendar]]
@@ -185,7 +175,7 @@ Has information about the party's enemies
 - Requires [[Teacher Miranda Hopekeeper]]
 - Influences [[step_040 (phase_048)]]
 - Leads to [[wall-of-thorns-xphb (spells)]]
-- Leads to [[step_014]]
+- Leads to
 - Requires [[System Operator Tide Watchwright 2]]
 - Related: [[Orb of Dragonkind Xdmg]]
 - Originates from [[DUN00022_Dungeon_23]]
@@ -202,13 +192,13 @@ Has information about the party's enemies
 - Related: [[Ki Rin Mpmm]]
 - Parallels [[Assets Locations Location City the Shadow Markets the Shadow Markets.svg]]
 - Influences [[QUEST00075_Personal_Quest_76]]
-- Connects to [[Quest   The Corruption Cure]]
+- Connects to [[Quest The Corruption Cure]]
 - Requires [[The Deep Settlements]]
-- Parallels [[step_088]]
-- Related: [[step_002]]
+- Parallels
+- Related:
 - Compare with [[Quest - The Deep Alliance_1 (01_Adventures)]]
 - Connects to [[QUEST00071_Personal_Quest_72]]
-- Influences [[step_087]]
+- Influences
 - Affected by [[Dining Room]]
 - Originates from [[The Cargo Inspection Station 2]]
 - Compare with [[Grand Marshal Radiance Thorn]]
@@ -216,13 +206,13 @@ Has information about the party's enemies
 - Connects to [[step_081 (phase_019)]]
 - Affected by [[ITEM01492_Ornate_Journal_of_Convenience]]
 - Requires [[NPC01034_Erasmus_Thornweave_the_Scholar]]
-- Affected by [[step_040]]
+- Affected by
 - Connects to [[sphere-of-annihilation (traps-hazards)]]
 - Compare with [[step_085 (phase_078)]]
-- Influences [[step_078]]
+- Influences
 - Parallels [[step_050 (phase_040)]]
 - Parallels [[step_064 (phase_012)]]
-- Related: [[step_018]]
+- Related:
 - Requires [[NPC01764_Baelor_Brightblade_the_Lost]]
 - Related: [[step_034 (phase_058)]]
 - Connects to [[Portrait NPC Shadow Binding Sanctum Shadow Binding Sanctum.svg_1 (Portraits)]]
@@ -247,7 +237,7 @@ Has information about the party's enemies
 - Leads to [[Assets Locations Location City Victoria Harbormane Victoria Harbormane.svg]]
 - Leads to [[Safe Passage Guild]]
 - Affected by [[visibility-underwater-underwater-encounter-distance-xdmg]]
-- Related: [[step_010]]
+- Related:
 - Connects to [[Location City Temple Guardian Marcus the Drowned V1 Temple Guardian Marcus the Drowned.svg]]
 - Related: [[Field Strategist Marcus Battlewise]]
 - Parallels [[hobgoblin-iron-shadow-mpmm (fey)]]

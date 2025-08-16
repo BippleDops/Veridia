@@ -18,7 +18,6 @@ aliases: [NPC00944 Felicia Silverleaf the Scholar]
 - [[#Vesper Blackstone the Lost (Professional - Employee)|Vesper Blackstone the Lost (Professional - Employee)]]
 - [[#Brenna Nightfall the Mystic (Family - Spouse)|Brenna Nightfall the Mystic (Family - Spouse)]]
 
-
 ---
 aliases: ["Felicia Silverleaf the Scholar", "felicia silverleaf the scholar", "Felicia Silverleaf Scholar", "Scholar the Silverleaf Felicia"]
 tags: [npc, character]
@@ -144,28 +143,24 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.221Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Parallels [[Location City Voluntary Taxation V1 Voluntary Taxation.svg]]
 - Parallels [[Produce Flame Xphb]]
 - Affected by [[ITEM0020_Eldritch_Crown_of_Power]]
-- Influences [[step_050]]
+- Influences
 - Connects to [[04_Resources_Assets_Locations_location-city-crystal-master-prism-lightweaver-crystal-master-prism-lightweaver.svg]]
 - Influences [[ITEM00162_Shadow_Bow_of_Wounding]]
 - Related: [[step_076 (phase_011)]]
@@ -186,7 +181,7 @@ Competitor sabotaging business
 - See also: [[Convergence_Crisis_Scenarios_Index (D&D_Sourcebooks)]]
 - Influences [[ITEM00362_Venomous_Bow_of_Slaying]]
 - Influences [[13 Performance]]
-- Connects to [[step_027]]
+- Connects to
 - Influences [[Portrait NPC Quest the Pressure Cure V1 Quest the Pressure Cure.svg]]
 - Originates from [[black-dragon-mask-hotdq (items)]]
 - Leads to [[Symbol Heraldry Theron Crystalward V1 Theron Crystalward.svg]]
@@ -205,7 +200,7 @@ Competitor sabotaging business
 - Leads to [[NPC01923_Aeliana_Darkwater_the_Cunning]]
 - Parallels [[step_100 (phase_058)]]
 - Requires [[Thunderclap Xphb]]
-- Influences [[step_046]]
+- Influences
 - See also: [[SPELL00135_Nature_Spell_136]]
 - Leads to [[Ulitharid Mpmm]]
 - See also: [[Pass Without Trace Xphb]]
@@ -222,7 +217,7 @@ Competitor sabotaging business
 - Influences [[Inquisitor Mordecai Truthseeker (D&D_References)]]
 - Affected by [[human-names-indian-male-xge (tables)]]
 - Leads to [[female-steeder-mpmm (monstrosity)]]
-- Leads to [[step_088]]
+- Leads to
 - Parallels [[standard-languages-phb (tables)]]
 - Originates from [[Helm of Teleportation Xdmg]]
 - Affected by [[Raven Xmm]]
@@ -252,7 +247,7 @@ Competitor sabotaging business
 - Affected by [[nilbog-mpmm (fey)]]
 - Leads to [[step_043 (phase_064)]]
 - Connects to [[Trade Specialist Commerce 2]]
-- Requires [[step_066]]
+- Requires
 - Requires [[Daerns Instant Fortress Xdmg]]
 - Requires [[step_026 (phase_088)]]
 - See also: [[step_004 (phase_087)]]
@@ -267,7 +262,6 @@ Competitor sabotaging business
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00992 Branwen Ashford the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00992 Branwen Ashford the Cunning]
 - [[#Fiora Moonshadow the Risen (Criminal - Informant)|Fiora Moonshadow the Risen (Criminal - Informant)]]
 - [[#Delara Stormwind the Risen (Family - Sibling)|Delara Stormwind the Risen (Family - Sibling)]]
 - [[#Felicia Nightfall the Cunning (Criminal - Fence)|Felicia Nightfall the Cunning (Criminal - Fence)]]
-
 
 ---
 aliases: ["Branwen Ashford the Cunning", "branwen ashford the cunning", "Branwen Ashford Cunning", "Cunning the Ashford Branwen"]
@@ -155,37 +153,33 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.226Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Parallels [[actions#Tumble]]
 - Influences [[Portrait NPC Investigator Supreme Lucian Brightwater V2 Investigator Supreme Lucian Brightwater.svg_1 (Portraits)]]
-- Compare with [[step_088]]
+- Compare with
 - Related: [[Border Patrol Unit 2]]
 - Compare with [[step_037 (phase_071)]]
 - Connects to [[EVENT00066_Magical_Event_67]]
-- Originates from [[step_090]]
+- Originates from
 - Connects to [[Location City Military Intelligence V1 Military Intelligence.svg]]
 - Originates from [[LOC00091_Cities_Location_92]]
 - Connects to [[Dark Gift of Shami Amourae the Lady of Delights Cos]]
 - Parallels [[Corporate Justice Codex 2]]
 - Affected by [[Fear Effects Sample Fear Dcs Xdmg]]
-- Leads to [[step_099]]
+- Leads to
 - Influences [[step_002 (phase_023)]]
 - See also: [[three-dragon-ante-set-xphb (items)]]
 - Connects to [[Portrait NPC Ice Kingdom Magic Ice Kingdom Magic.svg]]
@@ -250,13 +244,13 @@ Caravan needs guards
 - Compare with [[LOC00181_Dungeons_Location_182]]
 - Connects to [[step_048 (phase_067)]]
 - Affected by [[Assets Locations Location City Feast Saltyflavor Feast Saltyflavor.svg]]
-- Affected by [[step_033]]
+- Affected by
 - Influences [[The Kraken's Harbor]]
 - Parallels [[Assets Locations Location City Spy Games V1 Spy Games.svg]]
 - Connects to [[The Observatory]]
 - Connects to [[Location City Luxury Goods Market V1 Luxury Goods Market.svg]]
 - See also: [[step_014 (phase_043)]]
-- Leads to [[step_024]]
+- Leads to
 - Influences [[The Identity Mirror (D&D_References)]]
 - Compare with [[step_067 (phase_005)]]
 - Leads to [[Ranger Xphb Gloom Stalker Xphb]]

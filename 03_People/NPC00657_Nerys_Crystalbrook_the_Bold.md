@@ -18,7 +18,6 @@ aliases: [NPC00657 Nerys Crystalbrook the Bold]
 - [[#Aeliana Crystalbrook the Fallen (Family - Spouse)|Aeliana Crystalbrook the Fallen (Family - Spouse)]]
 - [[#Brenna Ravenheart the Strong (Family - Child)|Brenna Ravenheart the Strong (Family - Child)]]
 
-
 ---
 aliases: ["Nerys Crystalbrook the Bold", "nerys crystalbrook the bold", "Nerys Crystalbrook Bold", "Bold the Crystalbrook Nerys"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.187Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -180,17 +175,17 @@ Discovered something valuable
 - Connects to [[step_008 (phase_062)]]
 - Influences [[NPC00085_Pyria_Xendar_the_Seeker]]
 - Connects to [[QUEST00049_Side_Quest_50]]
-- Parallels [[step_076]]
+- Parallels
 - Influences [[step_002 (phase_062)]]
 - Compare with [[monk-xphb-warrior-of-shadow-xphb (classes)]]
 - Originates from [[step_081 (phase_024)]]
 - See also: [[High Diplomat Coral Bridgewater (Lore)]]
 - Requires [[Location City Theological Education Theological Education.svg]]
-- Leads to [[step_048]]
+- Leads to
 - Related: [[saddlebags]]
 - Originates from [[ITEM01325_Practical_Lantern_of_Durability]]
 - Connects to [[Location City Sunlight Crystal V1 Sunlight Crystal.svg]]
-- Originates from [[step_054]]
+- Originates from
 - Parallels [[Temple of Divine Order]]
 - Requires [[Symbols - Faction_Heraldry (D&D_References)]]
 - Originates from [[perception-and-encounters-audible-distance-xdmg]]
@@ -214,19 +209,19 @@ Discovered something valuable
 - Affected by [[sorcerer-xphb-clockwork-sorcery-xphb (classes)]]
 - Parallels [[Noble Titles and Ranks (D&D_References)]]
 - Related: [[LORE00195_History_Entry_196]]
-- Connects to [[step_049]]
+- Connects to
 - Influences [[Assets Locations Location City Keeper Luminous Crystalbeam V1 Keeper Luminous Crystalbeam.svg]]
 - Parallels [[step_073 (phase_044)]]
-- Influences [[step_032]]
+- Influences
 - Parallels [[giant-slayer-xdmg (items)]]
 - Connects to [[Port Sorrow Trading Company 2]]
 - Compare with [[step_009 (phase_060)]]
 - Connects to [[Deepwater Gold]]
-- Related: [[step_068]]
+- Related:
 - Originates from [[04_Resources_Assets_Locations_location-city-living-stone-v1-living-stone.svg]]
 - Affected by [[DUN00015_Dungeon_16]]
 - Parallels [[QUEST00330_Side_Quest_331]]
-- Related: [[step_027]]
+- Related:
 - Requires [[Deep Mother Protocol (D&D_References)]]
 - Affected by [[Tower of Echoes 2]]
 - Parallels [[step_094 (phase_009)]]
@@ -241,9 +236,9 @@ Discovered something valuable
 - Requires [[Symbol Heraldry Transformation Assistance Transformation Assistance.svg]]
 - Related: [[step_077 (phase_077)]]
 - Connects to [[creature-creature-sphinx-xmm-v4-sphinx-xmm.png]]
-- Leads to [[step_047]]
+- Leads to
 - Related: [[Communications Director Whisper (D&D_References)]]
-- Parallels [[step_039]]
+- Parallels
 - Compare with [[Abyssal Flora (D&D_References)]]
 - Parallels [[Generic Object]]
 - Influences [[location-city-royal-ports-royal-ports.svg]]
@@ -254,7 +249,7 @@ Discovered something valuable
 - See also: [[step_063 (phase_097)]]
 - See also: [[Assets Locations Location City the Noble Quarter Market the Noble Quarter Market.svg]]
 - Compare with [[monk-xphb-warrior-of-the-elements-xphb (classes)]]
-- See also: [[step_096]]
+- See also:
 - Leads to [[step_042 (phase_074)]]
 - Connects to [[The Great Shattering 2]]
 - Compare with [[Assets Locations Location City Maritime Security Chief Reef Maritime Security Chief Reef.svg]]
@@ -262,7 +257,7 @@ Discovered something valuable
 - Affected by [[Parliament Building Map]]
 - Requires [[Location City Tide Welcomeheart Tide Welcomeheart.svg]]
 - See also: [[Githzerai Monk Xmm]]
-- Affected by [[step_053]]
+- Affected by
 - Originates from [[DUN00006_Dungeon_7]]
 - Parallels [[NPC01109_Rhiannon_Winterborn_the_Mystic]]
 - Leads to [[Subtle Spell Xphb]]
@@ -277,7 +272,6 @@ Discovered something valuable
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

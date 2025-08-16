@@ -18,7 +18,6 @@ aliases: [NPC00004 Wynne Moonshadow the Guardian]
 - [[#Elric Ashford (Professional - Employer)|Elric Ashford (Professional - Employer)]]
 - [[#Corvus Thornweave (Personal - Childhood friend)|Corvus Thornweave (Personal - Childhood friend)]]
 
-
 ---
 aliases: ["Wynne Moonshadow the Guardian", "wynne moonshadow the guardian", "Wynne Moonshadow Guardian", "Guardian the Moonshadow Wynne"]
 tags: [npc, character]
@@ -155,21 +154,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.110Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -183,22 +178,22 @@ Needs discrete help with family scandal
 - See also: [[Location City Stormwind Supplies V1 Stormwind Supplies.png]]
 - Influences [[Spell_Compendiums (D&D_References)]]
 - Influences [[Dr. Tidal Depthhealer]]
-- Leads to [[step_012]]
+- Leads to
 - Compare with [[Free Current]]
 - Related: [[halfling-xphb (races)]]
-- Related: [[step_080]]
+- Related:
 - Affected by [[Assets Locations Location City Mediator Serenity Stillwater V1 Mediator Serenity Stillwater.svg]]
 - Connects to [[The Neural Clusters 2]]
 - Leads to [[LOC00293_Towns_Location_294]]
 - Influences [[Location City Angels and Depths Angels and Depths.svg]]
 - Originates from [[step_042 (phase_063)]]
-- See also: [[step_032]]
+- See also:
 - Parallels [[Chancellor Marcus Provinces 2]]
 - See also: [[The Scrying Master]]
 - Parallels [[Truth Verification Serum]]
 - Connects to [[Assets Locations Location City the Screaming Battleground the Screaming Battleground.svg]]
 - Connects to [[The Thirteen Keys]]
-- Originates from [[step_014]]
+- Originates from
 - Requires [[step_086 (phase_004)]]
 - Influences [[Dual Integration Therapy]]
 - Requires [[Ambassador Elena Diplomatic (D&D_References)]]
@@ -208,17 +203,17 @@ Needs discrete help with family scandal
 - Connects to [[step_040 (phase_083)]]
 - See also: [[Location City Temple Districts V1 Temple Districts.svg]]
 - See also: [[Portrait NPC Priest Faith Crystalsong Priest Faith Crystalsong.svg_1 (Portraits)]]
-- Related: [[step_051]]
-- Parallels [[step_002]]
+- Related:
+- Parallels
 - Related: [[SPELL00017_Nature_Spell_18]]
 - Connects to [[Sea Hag Xmm]]
 - Requires [[Community Mediator Balance Wright (D&D_References)]]
 - Connects to [[The Question Council 2]]
-- Influences [[step_079]]
+- Influences
 - Leads to [[step_053 (phase_047)]]
-- Compare with [[step_097]]
+- Compare with
 - Parallels [[Assets Portraits Portrait NPC Merchant Captain Trade Merchant Captain Trade.svg]]
-- Related: [[step_087]]
+- Related:
 - Parallels [[Crystal Forest (Lore)]]
 - Requires [[Diplomatic Architecture (D&D_References)]]
 - Related: [[Current Junction Points]]
@@ -232,7 +227,7 @@ Needs discrete help with family scandal
 - Originates from [[step_081 (phase_019)]]
 - Influences [[NPC00342_Ysara_Hawthorne_the_Wanderer]]
 - Related: [[chasme-xmm (fiend)]]
-- Originates from [[step_017]]
+- Originates from
 - Connects to [[The Senator (D&D_References)]]
 - Requires [[Assets Locations Location City Medical Research Facilities Medical Research Facilities.svg]]
 - Related: [[step_040 (phase_032)]]
@@ -278,7 +273,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

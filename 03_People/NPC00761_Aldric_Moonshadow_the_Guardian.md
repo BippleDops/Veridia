@@ -18,7 +18,6 @@ aliases: [NPC00761 Aldric Moonshadow the Guardian]
 - [[#Felicia Brightblade the Mystic (Personal - Love interest)|Felicia Brightblade the Mystic (Personal - Love interest)]]
 - [[#Elric Ironforge the Guardian (Family - Sibling)|Elric Ironforge the Guardian (Family - Sibling)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aldric Moonshadow the Guardian", "aldric moonshadow the guardian", "Aldric Moonshadow Guardian", "Guardian the Moonshadow Aldric"]
@@ -145,16 +144,13 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.199Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -174,11 +170,10 @@ Discovered something valuable
 - [[MOC_Lore]]
 - [[MOC_Items]]
 - [[09 Appendix a the Multiverse]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -186,17 +181,16 @@ Discovered something valuable
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Leads to [[Beast Speech]]
 - Related: [[10 Appendix a Backgrounds]]
-- Originates from [[step_002]]
+- Originates from
 - Compare with [[Hew Lmop]]
 - See also: [[QUEST0002_In_Search_of_Glory]]
 - Originates from [[Candle of Invocation Xdmg]]
@@ -205,7 +199,7 @@ Discovered something valuable
 - Related: [[step_020 (phase_057)]]
 - Compare with [[step_084 (phase_089)]]
 - Leads to [[LORE00280_Legends_Entry_281]]
-- Affected by [[step_075]]
+- Affected by
 - Affected by [[mage-armor-xphb (spells)]]
 - Affected by [[step_083 (phase_078)]]
 - See also: [[Template-Hub]]
@@ -214,10 +208,10 @@ Discovered something valuable
 - Connects to [[Twilight Depths 2]]
 - Connects to [[step_037 (phase_096)]]
 - Leads to [[The_Resoce_Workshop]]
-- Related: [[step_078]]
+- Related:
 - Connects to [[EVENT00009_Magical_Event_10]]
 - Influences [[The Unremembered Parliament]]
-- Connects to [[step_060]]
+- Connects to
 - Affected by [[Banishing Smite Xphb]]
 - Influences [[wingwear-pota (items)]]
 - Parallels [[Location City the Sunken Senate V1 the Sunken Senate.svg]]
@@ -237,7 +231,7 @@ Discovered something valuable
 - Leads to [[D-102_Silt_Avalanche]]
 - Compare with [[Session 18 Horror Corruption]]
 - Affected by [[step_091 (phase_022)]]
-- Compare with [[step_012]]
+- Compare with
 - See also: [[star-ruby-xdmg (items)]]
 - Related: [[6 Character Names]]
 - Requires [[Tavern Keeper Finn Splitlung (D&D_References)]]
@@ -249,7 +243,7 @@ Discovered something valuable
 - See also: [[ENC00442_Combat_Encounter_443]]
 - Affected by [[LOC00268_Wilderness_Location_269]]
 - Requires [[Student Engineer Bronze 2]]
-- Parallels [[Lighthouse Peak   Resoce Chamber]]
+- Parallels [[Lighthouse Peak Resoce Chamber]]
 - Parallels [[Shadow Energy Medical Meter]]
 - Originates from [[Ship_Blueprints 2]]
 - Parallels [[ITEM00169_Shadow_Bow_of_Power]]
@@ -278,7 +272,7 @@ Discovered something valuable
 - Affected by [[step_010 (phase_094)]]
 - Compare with [[Community Health Workers]]
 - Parallels [[Market Heist]]
-- Influences [[step_082]]
+- Influences
 - Originates from [[NPC00247_Kaelen_Goldleaf]]
 - Compare with [[ITEM00365_Cursed_Bow_of_the_Ancients]]
 - Related: [[step_039 (phase_060)]]
@@ -291,15 +285,14 @@ Discovered something valuable
 - Compare with [[Assets Locations Location City the Time Keeper V1 the Time Keeper.svg]]
 - Parallels [[step_025 (phase_076)]]
 - Compare with [[Forge Master Korax Hammerdeep 2]]
-- Connects to [[step_091]]
-- Requires [[step_093]]
+- Connects to
+- Requires
 - Requires [[step_069 (phase_045)]]
 
 ## Visual References
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

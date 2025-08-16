@@ -18,7 +18,6 @@ aliases: [NPC00593 Felicia Darkwater the Broken]
 - [[#Felicia Proudmore the Mystic (Personal - Best friend)|Felicia Proudmore the Mystic (Personal - Best friend)]]
 - [[#Vesper Blackstone the Seeker (Family - Spouse)|Vesper Blackstone the Seeker (Family - Spouse)]]
 
-
 ---
 aliases: ["Felicia Darkwater the Broken", "felicia darkwater the broken", "Felicia Darkwater Broken", "Broken the Darkwater Felicia"]
 tags: [npc, character]
@@ -156,21 +155,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.180Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -194,7 +189,7 @@ Being extorted by criminals
 - Parallels [[step_095 (phase_053)]]
 - See also: [[Downtime Activity Work Xge]]
 - Leads to [[step_091 (phase_018)]]
-- Compare with [[step_057]]
+- Compare with
 - Influences [[duergar-deities-mtf (tables)]]
 - See also: [[step_054 (phase_072)]]
 - Requires [[step_030 (phase_098)]]
@@ -239,7 +234,7 @@ Being extorted by criminals
 - See also: [[Portrait NPC Working Class Citizens V2 Working Class Citizens.svg]]
 - Related: [[Initiative Tracker (D&D_References)]]
 - Parallels [[obsidian-xdmg (items)]]
-- Parallels [[step_068]]
+- Parallels
 - Leads to [[The Verdant Accord (D&D_References)]]
 - Related: [[step_007 (phase_076)]]
 - Influences [[ITEM00772_Divine_Scepter_of_Truth]]
@@ -268,7 +263,7 @@ Being extorted by criminals
 - Originates from [[Emanation Area of Effect Xphb]]
 - Leads to [[Hazards Crystal Plague]]
 - Originates from [[Shadow Magistrate Umbrian Darkwise 2]]
-- Influences [[step_033]]
+- Influences
 - Influences [[Assets Locations Location City Historical Research Institute V1 Historical Research Institute.svg]]
 - Related: [[cloudkill-xphb (spells)]]
 - Connects to [[NPC00486_Caelum_Stormwind_the_Scholar]]
@@ -279,7 +274,6 @@ Being extorted by criminals
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

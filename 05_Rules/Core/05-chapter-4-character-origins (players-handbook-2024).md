@@ -18,7 +18,6 @@ aliases: [05-chapter-4-character-origins (players-handbook-2024)]
 - [[#Prep Checklist|Prep Checklist]]
 - [[#Npcs Needed|Npcs Needed]]
 
-
 ---
 
 title: 05-chapter-4-character-origins (players-handbook-2024)
@@ -131,36 +130,29 @@ world: Both
 - **Reddit r/Unearthed Arcana**: Community discussions
 - **One D&D Playtest**: D&D Beyond exclusive
 
-
 ## Notes
 
 *Additional notes*
-
 
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 > [!dm] DM Note
 > This location connects to the main plot
@@ -191,9 +183,7 @@ world: Both
 Knows the location of a key artifact
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -221,11 +211,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -258,7 +247,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[SPELL00003_Divine_Spell_4]]
 - Affected by [[yew-wand-xphb (items)]]
 - Parallels [[ancient-gold-dragon-xmm (dragon)]]
-- Compare with [[step_064]]
+- Compare with
 - See also: [[NPC00571_Branwen_Ironwood_the_Guardian]]
 - Originates from [[step_062 (phase_055)]]
 - Connects to [[The Exotic Wharf]]
@@ -277,11 +266,11 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[step_032 (phase_019)]]
 - See also: [[ITEM00219_Shadow_Crossbow_of_the_Ancients]]
 - Requires [[Fighter Xphb]]
-- See also: [[step_017]]
+- See also:
 - Connects to [[goblin-minion-xmm (fey)]]
 - Requires [[vegepygmy-chief-mpmm (plant)]]
 - Parallels [[forgotten-realms-sune (deities)]]
-- Related: [[step_054]]
+- Related:
 - Requires [[location-city-neutrality-laws-neutrality-laws.svg]]
 - Related: [[Crystal Addiction Victims (D&D_References)]]
 - Compare with [[Intervention Windows (D&D_References)]]
@@ -292,12 +281,12 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[step_089 (phase_091)]]
 - Requires [[04_Resources_Assets_Portraits_portrait-npc-deep-lords-deep-lords.svg_Quick_Ref]]
 - Connects to [[step_022 (phase_053)]]
-- Leads to [[step_086]]
+- Leads to
 - Parallels [[NPC01848_Kaelen_Dawnstrider_the_Strong]]
 - Parallels [[Saving Throw Xphb]]
 - Influences [[step_020 (phase_085)]]
 - See also: [[conditions#Incapacitated]]
-- Related: [[step_099]]
+- Related:
 - Related: [[Quest - Hadal Expedition]]
 - Affected by [[QUEST00187_Side_Quest_188]]
 - Influences [[Assets Symbols Symbol Heraldry Stellar Commander Nereus Voidcaller Stellar Commander Nereus Voidcaller.svg]]
@@ -325,7 +314,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[ENC00365_Combat_Encounter_366]]
 - Originates from [[QUEST0054_Baron's_Folly]]
 - Compare with [[LOC00225_Wilderness_Location_226]]
-- Related: [[step_046]]
+- Related:
 - Connects to [[Assets Locations Location City Memory Merchant Zephyr Mindweaver Memory Merchant Zephyr Mindweaver.svg]]
 - Leads to [[Aether Crystals 2]]
 - Parallels [[step_077 (phase_095)]]
@@ -342,9 +331,9 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Portrait NPC Trade Captain Sterling V1 Trade Captain Sterling.svg]]
 - Originates from [[step_039 (phase_034)]]
 - Originates from [[Shadow Liberation Front 2]]
-- Influences [[step_021]]
+- Influences
 - Connects to [[portrait-npc-the-tidecaller-v2-the-tidecaller.svg_1 (Portraits)]]
-- See also: [[step_007]]
+- See also:
 - Originates from [[ENC00392_Combat_Encounter_393]]
 - Leads to [[Queen Glacialis]]
 

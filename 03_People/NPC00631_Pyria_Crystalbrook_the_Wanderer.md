@@ -18,7 +18,6 @@ aliases: [NPC00631 Pyria Crystalbrook the Wanderer]
 - [[#Zephyr Dawnstrider the Wanderer (Family - Spouse)|Zephyr Dawnstrider the Wanderer (Family - Spouse)]]
 - [[#Corvus Youngblood the Wanderer (Professional - Employee)|Corvus Youngblood the Wanderer (Professional - Employee)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Pyria Crystalbrook the Wanderer", "pyria crystalbrook the wanderer", "Pyria Crystalbrook Wanderer", "Wanderer the Crystalbrook Pyria"]
@@ -138,27 +137,23 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.184Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -166,11 +161,10 @@ Being extorted by criminals
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -201,7 +195,7 @@ Being extorted by criminals
 - Compare with [[DUN00048_Dungeon_49]]
 - Parallels [[tiefling-zariel-mtf (races)]]
 - Parallels [[Norse Hermod]]
-- Affected by [[step_056]]
+- Affected by
 - Requires [[SPELL00054_Nature_Spell_55]]
 - Connects to [[Assets Locations Location City Reality Stabilization Centers Reality Stabilization Centers.svg]]
 - Connects to [[yuan-ti-malison-type-3-xmm]]
@@ -240,24 +234,24 @@ Being extorted by criminals
 - Compare with [[The Last Seeds]]
 - Requires [[Location City University System V1 University System.svg]]
 - Leads to [[Half Dragon Xmm]]
-- See also: [[step_095]]
+- See also:
 - Influences [[downtime-activity-religious-service-xge (variant-rules)]]
-- Related: [[step_029]]
+- Related:
 - Parallels [[step_069 (phase_061)]]
-- Related: [[step_059]]
+- Related:
 - Influences [[#Cross-Campaign Locations]]
 - Influences [[step_071 (phase_010)]]
 - Compare with [[Portrait NPC Lord Chancellor Prism Lord Chancellor Prism.svg]]
 - Parallels [[Arch Hag Xmm]]
 - Leads to [[NPC01131_Hilda_Voidwalker_the_Redeemed]]
-- Affected by [[step_055]]
-- Related: [[step_085]]
+- Affected by
+- Related:
 - Leads to [[enspelled-weapon-level-6-xdmg (items)]]
 - See also: [[Assets Locations Location City the Constellation Mystery V1 the Constellation Mystery.png]]
 - Originates from [[Shadow Detection Crystals (D&D_References)]]
 - See also: [[Portrait NPC Quest the Successor S Burden Quest the Successor S Burden.svg]]
 - Originates from [[Roleplaying a Beholder Beholder Bonds Vgm]]
-- Affected by [[step_076]]
+- Affected by
 - Influences [[NPC00563_Qadim_Darkwater_the_Seeker]]
 - Connects to [[Portrait NPC Duke Gale Vortex V1 Duke Gale Vortex.svg_1 (Portraits)]]
 - Connects to [[Ambassador Kael Windweaver]]
@@ -279,7 +273,6 @@ Being extorted by criminals
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

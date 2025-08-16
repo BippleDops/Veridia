@@ -18,7 +18,6 @@ aliases: [NPC00133 Lyanna Oakenshield the Seeker]
 - [[#Elric Keenblade (Professional - Partner)|Elric Keenblade (Professional - Partner)]]
 - [[#Faelyn Frostwhisper (Professional - Partner)|Faelyn Frostwhisper (Professional - Partner)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Lyanna Oakenshield the Seeker", "lyanna oakenshield the seeker", "Lyanna Oakenshield Seeker", "Seeker the Oakenshield Lyanna"]
@@ -151,16 +150,13 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.127Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -182,11 +178,10 @@ Requires champions for trial by combat
 - [[NPC00415_Gareth_Winterborn_the_Bold]]
 - [[10 Combat]]
 - [[Measurement_Guide_Depth_and_Pressur]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -196,11 +191,10 @@ Requires champions for trial by combat
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -215,7 +209,7 @@ Requires champions for trial by combat
 - Influences [[NPC00569_Ysara_Emberfall]]
 - Parallels [[automatic-rifle-xdmg (items)]]
 - Compare with [[Umbral Crystal Miners (D&D_References)]]
-- Leads to [[step_062]]
+- Leads to
 - Affected by [[LOC00064_Towns_Location_65]]
 - Originates from [[Portrait NPC Salvage Queen Nerissa Deepfinder V2 Salvage Queen Nerissa Deepfinder.svg_1 (Portraits)]]
 - Originates from [[Assets Locations Location City Coral Reef Sanctuaries V1 Coral Reef Sanctuaries.svg]]
@@ -229,20 +223,20 @@ Requires champions for trial by combat
 - Originates from [[actions#Improvising%20an%20Action]]
 - Parallels [[ITEM00637_Ethereal_Boots_of_Grace]]
 - Connects to [[Aethermoor Trade Commission 2]]
-- Parallels [[step_044]]
+- Parallels
 - Requires [[MON00033_Constructs_Creature_34]]
 - Parallels [[sword-of-answering-answerer (items)]]
 - Compare with [[QUEST00250_Personal_Quest_251]]
 - Originates from [[step_064 (phase_087)]]
-- Related: [[step_051]]
+- Related:
 - Affected by [[The Void Refineries (D&D_References)]]
-- See also: [[step_059]]
+- See also:
 - Parallels [[greek-pan (deities)]]
 - Compare with [[dust-mephit-xmm]]
 - Affected by [[step_043 (phase_020)]]
 - Influences [[invulnerability-xge (spells)]]
 - Originates from [[NPC00427_Urien_Xendar]]
-- Related: [[step_089]]
+- Related:
 - Affected by [[NPC00142_Cedric_Frostwhisper]]
 - Compare with [[location-city-inverse-palace-v1-inverse-palace.svg]]
 - Leads to [[All-Seeing Mirrors]]
@@ -299,7 +293,7 @@ Requires champions for trial by combat
 - Affected by [[Bio-Luminescent Threading]]
 - Requires [[Brother Matthias Inkdrinker 2]]
 - See also: [[LORE00184_Legends_Entry_185]]
-- Compare with [[step_043]]
+- Compare with
 - Related: [[NPC00892_Brenna_Oakenshield_the_Mystic]]
 - Influences [[Portrait NPC the Seven Seals V2 the Seven Seals.svg_1 (Portraits)]]
 - Originates from [[Crimson Velocity]]
@@ -309,7 +303,6 @@ Requires champions for trial by combat
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

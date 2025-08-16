@@ -18,7 +18,6 @@ aliases: [NPC01625 Qadim Lightbringer the Swift]
 - [[#Fiora Brightblade the Fallen (Professional - Mentor)|Fiora Brightblade the Fallen (Professional - Mentor)]]
 - [[#Delara Silverleaf the Lost (Personal - Childhood friend)|Delara Silverleaf the Lost (Personal - Childhood friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Qadim Lightbringer the Swift", "qadim lightbringer the swift", "Qadim Lightbringer Swift", "Swift the Lightbringer Qadimtags: [npc, character, combat, magic, lore]er]
@@ -144,16 +143,13 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.293Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -165,7 +161,6 @@ Modifications:
 - HP: 45
 - AC: 12
 - Notable abilities: Varies by individual
-
 
 > [!quote] 💬 Quote
 > Notable saying or prophecy
@@ -204,9 +199,7 @@ Modifications:
 - [[NPC01911_Alaric_Oakenshield_the_Mystic]]
 - [[Smuggler_Route_Tally_Shee]]
 - [[05 Personality and Background]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -226,7 +219,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.163
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -235,11 +228,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -262,7 +254,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[step_062 (phase_085)]]
 - Parallels [[High Judge Moira Truthseeke (D&D_References)]]
 - Related: [[[[Adventure Boldexplorer]] (D&D_Sourcebooks)]]
-- Influences [[step_025]]
+- Influences
 - Affected by [[Depth's End Cathedral]]
 - Originates from [[location-city-pressure-polyps-pressure-polyps.svg]]
 - Related: [[The Archive of Unremembered Things]]
@@ -286,7 +278,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_043 (phase_070)]]
 - Related: [[Assets Locations Location City [[Harbor Pilot Guild]] Harbor Pilot Guild.svg]]
 - Connects to [[step_030 (phase_010)]]
-- Originates from [[step_065]]
+- Originates from
 - See also: [[fey-touched-xphb (feats)]]
 - Affected by [[Location City [[The Evolution District]] the Evolution District.svg]]
 - Leads to [[Quest - The Seventh Song]]
@@ -299,7 +291,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[ITEM00420_Fortified_Boots_of_Grace]]
 - Connects to [[Portrait NPC Economic Manipulation V1 Economic Manipulation.svg_1 (Portraits)]]
 - Originates from [[Cosmic Awareness (D&D_References)]]
-- Influences [[step_032]]
+- Influences
 - Originates from [[QUEST00145_Personal_Quest_146]]
 - Connects to [[step_029 (phase_007)]]
 - Affected by [[Locations [[Sunken Palace]]]]
@@ -320,7 +312,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[[[Diplomatic Protocol Center]] (D&D_References)]]
 - Connects to [[step_051 (phase_099)]]
 - Compare with [[ITEM00115_Radiant_Axe_of_Slaying]]
-- Parallels [[step_021]]
+- Parallels
 - Requires [[location-city-golden-coral-golden-coral.svg]]
 - Related: [[Lizardfolk Sovereign Xmm]]
 - Compare with [[[[[[Memoriam]] Keeper Marcus Remembrance]] 2]]
@@ -354,7 +346,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Tidal Engineering]]
 - Compare with [[Portrait NPC Captain Henrik Proudbanner V1 Captain Henrik Proudbanner.svg]]
 - Requires [[DUN00086_Dungeon_87]]
-- Connects to [[step_037]]
+- Connects to
 - Originates from [[step_025 (phase_024)]]
 - Leads to [[chamber-purpose-dungeon-death-trap (tables)]]
 - Compare with [[FAC00083_Orders_84]]
@@ -363,7 +355,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

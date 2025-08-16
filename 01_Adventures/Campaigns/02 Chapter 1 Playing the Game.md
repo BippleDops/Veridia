@@ -18,7 +18,6 @@ aliases: [02 Chapter 1 Playing the Game]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 02 Chapter 1 Playing the Game
@@ -67,11 +66,9 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)]]
 - [[Aurelius Goldwave (D&D_Statblocks)]]
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -102,8 +99,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 Connected to the main villain's plan
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -115,7 +111,6 @@ Connected to the main villain's plan
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -141,7 +136,7 @@ Connected to the main villain's plan
 - Compare with [[The Verdant Vision]]
 - Originates from [[Barkeep Mira Algaebrew]]
 - See also: [[Scene Scene Void Tear Over Harbor V1 Void Tear Over Harbor.svg]]
-- Affected by [[step_016]]
+- Affected by
 - Related: [[hypnotic-pattern-xphb (spells)]]
 - Requires [[Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg]]
 - Leads to [[Find the Ideal Introduction Adventure]]
@@ -158,7 +153,7 @@ Connected to the main villain's plan
 - Originates from [[step_072 (phase_066)]]
 - Leads to [[04_Resources_Assets_Symbols_symbol-heraldry-family-retaine-family-retaine.svg]]
 - Affected by [[Assets Locations Location City Temporal Navigation Temporal Navigation.svg]]
-- Connects to [[step_096]]
+- Connects to
 - Parallels [[Potions of Healing Xdmg]]
 - Leads to [[ITEM01140_Superior_Salve_of_Healing]]
 - Parallels [[step_076 (phase_065)]]

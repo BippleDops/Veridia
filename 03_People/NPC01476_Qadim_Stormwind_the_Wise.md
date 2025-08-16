@@ -18,7 +18,6 @@ aliases: [NPC01476 Qadim Stormwind the Wise]
 - [[#Orion Ashford the Redeemed (Personal - Childhood friend)|Orion Ashford the Redeemed (Personal - Childhood friend)]]
 - [[#Caelum Frostwhisper the Cunning (Political - Patron)|Caelum Frostwhisper the Cunning (Political - Patron)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Qadim Stormwind the Wise", "qadim stormwind the wise", "Qadim Stormwind Wise", "Wise the Stormwind Qadimtags: [npc, character, combat, magic, exploration, lore]er]
@@ -149,16 +148,13 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.276Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -170,7 +166,6 @@ Modifications:
 - HP: 13
 - AC: 12
 - Notable abilities: Varies by individual
-
 
 > [!quote] 💬 Quote
 > Notable saying or prophecy
@@ -205,11 +200,10 @@ Modifications:
 - [[MOC_Items]]
 - [[NPC00259_Delara_Proudmore]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -217,11 +211,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -282,9 +275,9 @@ Modifications:
 - Parallels [[[[Crystal Keepers]] 2]]
 - Influences [[Assets Item Artifact Ruby Xdmg Ruby Xdmg.png]]
 - Compare with [[LOC0067_Peakmoor]]
-- Affected by [[step_094]]
+- Affected by
 - Requires [[LORE00230_Legends_Entry_231]]
-- Connects to [[step_001]]
+- Connects to
 - Parallels [[firearm-bullets-10-xphb (items)]]
 - Requires [[Quest - The Deep Cartographer_1 (01_Adventures)]]
 - Affected by [[[[The Lighthouse Keepers]] 2]]
@@ -310,7 +303,7 @@ Modifications:
 - Parallels [[step_035 (phase_040)]]
 - Requires [[Scene Scene Drowned Cathedral Vigil V2 Drowned Cathedral Vigil.png]]
 - Leads to [[ITEM01328_Masterwork_Lock_of_Reliability]]
-- Originates from [[step_029]]
+- Originates from
 - Influences [[Seeking Arrow Xge]]
 - See also: [[location-city-compass-quest-compass-quest.svg]]
 - Related: [[Organization]]
@@ -322,7 +315,7 @@ Modifications:
 - Originates from [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png]]
 - Compare with [[[[Shadow Trackhound]] 2]]
 - See also: [[Quest - Breaking the Scales]]
-- Requires [[step_073]]
+- Requires
 - Connects to [[Scene Scene Deep Mother S Tentacles Rising V1 Deep Mother S Tentacles Rising.svg]]
 - Related: [[[[[[Comparative Religion]] Experts]] (D&D_References)]]
 - See also: [[step_079 (phase_019)]]
@@ -339,7 +332,7 @@ Modifications:
 - Influences [[ENC0024_Random_Encounter_25]]
 - Related: [[Assets Portraits Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg]]
 - Requires [[MON00033_Aberrations_Creature_34]]
-- Compare with [[step_033]]
+- Compare with
 - Compare with [[Paladin Xphb Oathbreaker Dmg]]
 - Originates from [[merrow-xmm (monstrosity)]]
 - See also: [[Assets Locations [[Location City [[Undead Rights Organization HQ]] Undead Rights Organization Hq.svg]]]]
@@ -348,7 +341,6 @@ Modifications:
 ![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
-
 
 ## Realm Connections
 
@@ -361,9 +353,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

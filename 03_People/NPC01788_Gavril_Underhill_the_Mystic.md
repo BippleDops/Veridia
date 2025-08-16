@@ -18,7 +18,6 @@ aliases: [NPC01788 Gavril Underhill the Mystic]
 - [[#Elric Thornweave the Broken (Family - Parent)|Elric Thornweave the Broken (Family - Parent)]]
 - [[#Xander Hawthorne the Risen (Criminal - Informant)|Xander Hawthorne the Risen (Criminal - Informant)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gavril Underhill the Mystic", "gavril underhill the mystic", "Gavril Underhill Mystic", "Mystic the Underhill Gavril"]
@@ -152,27 +151,23 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.310Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -181,11 +176,10 @@ Blackmails party into service
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -193,26 +187,26 @@ Blackmails party into service
 - Connects to [[Explorers Pack Xphb]]
 - Originates from [[step_052 (phase_013)]]
 - Influences [[step_009 (phase_045)]]
-- Leads to [[step_074]]
+- Leads to
 - Originates from [[LOC00152_Planes_Location_153]]
 - Parallels [[NPC01310_Ysara_Silverleaf_the_Risen]]
 - Leads to [[step_095 (phase_032)]]
-- See also: [[step_063]]
+- See also:
 - Related: [[Location City Merchant Lord Silas Copperfield V1 Merchant Lord Silas Copperfield.svg]]
 - Connects to [[Flask Xphb]]
 - Related: [[Portrait NPC the Depth Wardens V1 the Depth Wardens.svg_1 (Portraits)]]
 - Affected by [[Field Worker Communities]]
 - Compare with [[The Children's Chorus]]
-- Influences [[step_001]]
+- Influences
 - Compare with [[ENC00144_Social_Encounter_145]]
 - Affected by [[step_079 (phase_061)]]
 - Compare with [[Symbol Heraldry Witness Protection Protocols V1 Witness Protection Protocols.svg]]
 - Parallels [[step_063 (phase_089)]]
-- Originates from [[step_037]]
+- Originates from
 - Influences [[FAC00015_Orders_16]]
 - Affected by [[step_031 (phase_094)]]
 - Connects to [[step_094 (phase_038)]]
-- Affected by [[step_021]]
+- Affected by
 - Leads to [[downtime-activity-researching-phb (variant-rules)]]
 - See also: [[step_084 (phase_058)]]
 - Affected by [[Map Map Airship Deck Melee V2 Airship Deck Melee.svg]]
@@ -250,14 +244,14 @@ Blackmails party into service
 - Affected by [[Random Buildings Warehouse]]
 - Affected by [[mirage-arcane-xphb (spells)]]
 - Originates from [[Environmental Engineering Authority]]
-- Originates from [[step_099]]
-- Affected by [[step_051]]
+- Originates from
+- Affected by
 - Connects to [[The Memory Wars (D&D_References)]]
 - Affected by [[Sister Astara the Ever-Watching]]
-- Related: [[step_012]]
-- Influences [[step_005]]
+- Related:
+- Influences
 - Compare with [[Temporal Diving Equipment]]
-- Influences [[step_029]]
+- Influences
 - Parallels [[ITEM01318_Practical_Spyglass_of_Reliability]]
 - Originates from [[Assets Locations Location City Council of Faiths Council of Faiths.svg]]
 - Leads to [[Shadow Cultist (Cults_and_Movements)]]
@@ -294,7 +288,6 @@ Blackmails party into service
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

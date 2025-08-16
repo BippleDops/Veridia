@@ -18,7 +18,6 @@ aliases: [NPC00550 Xander Stormwind the Cunning]
 - [[#Solas Emberfall the Mystic (Political - Puppet)|Solas Emberfall the Mystic (Political - Puppet)]]
 - [[#Zephyr Zephyrblade the Mystic (Professional - Employer)|Zephyr Zephyrblade the Mystic (Professional - Employer)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Stormwind the Cunning", "xander stormwind the cunning", "Xander Stormwind Cunning", "Cunning the Stormwind Xandertags: [npc, character, combat, magic, lore]er]
@@ -147,16 +146,13 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.176Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -192,11 +188,10 @@ Modifications:
 - [[Quick_Start_Guide.md]]
 - [[MOC_Sessions]]
 - [[NPC00300_Urien_Zephyrblade]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -206,11 +201,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -224,7 +218,7 @@ Modifications:
 - Influences [[Map World Layer Trade Routes and Corridors V1 Trade Routes and Corridors.svg]]
 - Affected by [[Luck Spirit]]
 - Parallels [[NPC00562_Branwen_Voidwalker]]
-- Influences [[step_082]]
+- Influences
 - Influences [[step_072 (phase_074)]]
 - Affected by [[step_081 (phase_074)]]
 - Leads to [[step_041 (phase_029)]]
@@ -255,7 +249,7 @@ Modifications:
 - Requires [[step_048 (phase_037)]]
 - Originates from [[Assets Item Artifact Warhammer Xphb V3 Warhammer Xphb.png]]
 - Influences [[Item Artifact Dagger of Venom Xdmg Dagger of Venom Xdmg.png]]
-- Parallels [[step_013]]
+- Parallels
 - Related: [[ENC00153_Combat_Encounter_154]]
 - Influences [[The Final Forgetting (D&D_References)]]
 - Related: [[step_086 (phase_096)]]
@@ -268,10 +262,10 @@ Modifications:
 - Related: [[step_085 (phase_094)]]
 - Leads to [[04_Resources_Assets_Art_Places_[[Captain_Trawl_Netcaster.png]]]]
 - Influences [[ring-of-necrotic-resistance-xdmg (items)]]
-- Related: [[step_033]]
+- Related:
 - Requires [[Location City [[Administrative Wing]] V1 Administrative Wing.svg]]
 - Influences [[QUEST00048_Main_Quest_49]]
-- Connects to [[step_023]]
+- Connects to
 - Originates from [[Fiendish Giant Spider Oota]]
 - Related: [[oil-of-sharpness-xdmg (items)]]
 - Parallels [[ITEM00556_Adamantine_Chain_Mail_of_the_Guardian]]
@@ -319,7 +313,6 @@ Modifications:
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [Trade Route Chart Port Meridia]
 - [[#Evolution Improvements|Evolution Improvements]]
 - [[#Hospitality Improvements|Hospitality Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Trade_Route_Chart_Port_Meridia
@@ -105,7 +104,6 @@ tags: [combat, lore]
 
 Mentioned in The Hidden Prophecy of Shadows
 
-
 > [!dm] DM Note
 > This character is not who they seem
 
@@ -144,8 +142,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Ritual_Timing_Wheel_Convergenc]]
 - [[What You Know - Abyssos Prime.md]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -155,7 +152,6 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -179,7 +175,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - Connects to [[Player_Notes]]
 - Influences [[Assets Portraits Portrait NPC Sister Morwyn Veilkeeper Sister Morwyn Veilkeeper.svg]]
 - Affected by [[The Shadow Merchant Prim]]
-- Influences [[step_057]]
+- Influences
 - Compare with [[02_Worldbuilding_Locations_Floating_Arsenal]]
 - Leads to [[step_042 (phase_040)]]
 - Related: [[Assets Locations Location City Acolyte Sister Tidal Deepfaith Acolyte Sister Tidal Deepfaith.svg]]
@@ -222,7 +218,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - Connects to [[NPC01652_Nerys_Winterborn_the_Fallen]]
 - Compare with [[NPC01699_Orion_Oakenshield_the_Broken]]
 - Affected by [[LORE00229_Legends_Entry_230]]
-- Compare with [[step_087]]
+- Compare with
 - Compare with [[The Wild Hunt]]
 - Requires [[ITEM01119_Lesser_Potion_of_Swiftness]]
 - Parallels [[LORE00044_Legends_Entry_45]]
@@ -244,13 +240,13 @@ Mentioned in The Hidden Prophecy of Shadows
 - Requires [[location-city-void-currents-void-currents.svg]]
 - Compare with [[LORE0000_History_of_the_First_King]]
 - Related: [[enthrall-xphb (spells)]]
-- See also: [[step_016]]
+- See also:
 - Related: [[carved-bone-statuette-xdmg (items)]]
 - Leads to [[Factions the Tide Singers]]
 - Compare with [[step_022 (phase_087)]]
 - Originates from [[LOC00180_Cities_Location_181]]
 - Related: [[step_014 (phase_086)]]
-- Influences [[step_088]]
+- Influences
 - Influences [[spell-scroll-level-2-xdmg (items)]]
 - Requires [[Quest - The Great Integration 2]]
 - Related: [[Shadow Shard]]

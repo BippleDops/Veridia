@@ -18,7 +18,6 @@ aliases: [NPC00667 Felicia Goldleaf the Strong]
 - [[#Aldric Quicksilver the Mystic (Political - Opposition)|Aldric Quicksilver the Mystic (Political - Opposition)]]
 - [[#Jorah Grimholt the Risen (Political - Opposition)|Jorah Grimholt the Risen (Political - Opposition)]]
 
-
 ---
 aliases: ["Felicia Goldleaf the Strong", "felicia goldleaf the strong", "Felicia Goldleaf Strong", "Strong the Goldleaf Felicia"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.189Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -200,10 +195,10 @@ Witnessed a crime
 - Related: [[Assets Locations Location City Time Lost Delegate Chronus Time Lost Delegate Chronus.svg]]
 - Influences [[coastal-encounters-levels-1116-xge (tables)]]
 - Leads to [[ITEM0015_Hidden_Shield_of_Power]]
-- Affected by [[step_067]]
+- Affected by
 - Requires [[Working Class Citizens]]
 - See also: [[step_053 (phase_064)]]
-- Influences [[step_063]]
+- Influences
 - Requires [[Magical Services (D&D_References)]]
 - Originates from [[step_017 (phase_068)]]
 - See also: [[step_031 (phase_064)]]
@@ -217,13 +212,13 @@ Witnessed a crime
 - Connects to [[Demon Customization Tables Demon Flaws Mtf]]
 - Leads to [[step_032 (phase_008)]]
 - Connects to [[Sprite Xmm]]
-- Related: [[step_060]]
+- Related:
 - Leads to [[Religious Groups (D&D_References)]]
 - Compare with [[fiendish-spirit-xphb (fiend)]]
 - Requires [[grick-ancient-xmm]]
 - See also: [[Embroidered Glove Set With Jewel Chips Xdmg]]
 - See also: [[Handout Handout Docking Permit V1 Docking Permit.png]]
-- See also: [[step_049]]
+- See also:
 - Compare with [[step_067 (phase_048)]]
 - Originates from [[Kelp Highway (D&D_References)]]
 - Related: [[step_044 (phase_031)]]
@@ -234,7 +229,7 @@ Witnessed a crime
 - Parallels [[Silence-Keeper Mute (D&D_References)]]
 - Originates from [[Terminal Master Hadrian Depthbridge (D&D_References)]]
 - Compare with [[NPC00096_Idris_Youngblood_the_Bold]]
-- Influences [[step_048]]
+- Influences
 - See also: [[The Ossuary Temple (D&D_References)]]
 - Originates from [[step_027 (phase_081)]]
 - Compare with [[Naia Deepcurrent 2]]
@@ -247,11 +242,11 @@ Witnessed a crime
 - See also: [[improvised-weapons-xphb (variant-rules)]]
 - Related: [[NPC01543_Delara_Crystalbrook_the_Risen]]
 - Related: [[Aquabyssos World Overview#The Great Drowning]]
-- Connects to [[step_034]]
+- Connects to
 - Affected by [[ITEM01222_Distilled_Elixir_of_Healing]]
 - Related: [[erupting-earth-xge (spells)]]
 - Affected by [[ENC00019_Environmental_Encounter_20]]
-- Influences [[step_022]]
+- Influences
 - Parallels [[ITEM01201_Concentrated_Salve_of_Swiftness]]
 - Leads to [[Coverage_Dashboard (D&D_References)]]
 - Requires [[Poisoned Needle Xdmg]]
@@ -276,7 +271,6 @@ Witnessed a crime
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
 ![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

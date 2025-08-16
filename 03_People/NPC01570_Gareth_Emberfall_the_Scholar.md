@@ -18,7 +18,6 @@ aliases: [NPC01570 Gareth Emberfall the Scholar]
 - [[#Drusilla Stormwind the Seeker (Family - Child)|Drusilla Stormwind the Seeker (Family - Child)]]
 - [[#Delara Keenblade the Fallen (Personal - Best friend)|Delara Keenblade the Fallen (Personal - Best friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gareth Emberfall the Scholar", "gareth emberfall the scholar", "Gareth Emberfall Scholar", "Scholar the Emberfall Gareth"]
@@ -159,25 +158,20 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.286Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -197,7 +191,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.291
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -207,18 +201,17 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Affected by [[The Current Maps]]
 - See also: [[step_092 (phase_004)]]
 - Compare with [[FAC00082_Orders_83]]
-- Leads to [[step_075]]
+- Leads to
 - Parallels [[Interrogation Techniques]]
 - Affected by [[ITEM00478_Dragon_Scale_Boots_of_Protection]]
 - Influences [[05-chapter-5-neverlight-grove (out-of-the-abyss)]]
@@ -238,9 +231,9 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Location City Wisdom Futureseer Wisdom Futureseer.svg]]
 - Affected by [[ITEM00059_Cursed_Hammer_of_Slaying]]
 - Affected by [[The Last Acorn 2]]
-- See also: [[step_075]]
+- See also:
 - Requires [[step_087 (phase_083)]]
-- Connects to [[step_054]]
+- Connects to
 - Influences [[step_025 (phase_076)]]
 - Leads to [[SPELL0026_Eldritch_Blessing]]
 - Originates from [[Amnesia Gallery]]
@@ -264,11 +257,11 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[LOC00199_Towns_Location_200]]
 - Connects to [[Assets Locations Location City Memorial Mason Kane V1 Memorial Mason Kane.svg]]
 - Influences [[belt-of-giant-strength-xdmg (items)]]
-- Leads to [[step_011]]
+- Leads to
 - Related: [[flames-of-the-phoenix (optional-features)]]
 - See also: [[list-spells-optional-features-shroud-of-shadow-xge]]
 - Related: [[Quality Inspector Reef Perfectwright 2]]
-- Parallels [[step_094]]
+- Parallels
 - Connects to [[Archivist Spectrum Memorykeeper]]
 - Parallels [[ENC00037_Combat_Encounter_38]]
 - Related: [[step_088 (phase_039)]]
@@ -279,7 +272,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[ITEM01233_Refined_Oil_of_Clarity]]
 - Affected by [[prismatic-spray-xphb (spells)]]
 - Affected by [[ITEM00226_Venomous_Spear_of_the_Ancients]]
-- Influences [[step_073]]
+- Influences
 - Compare with [[The_Wind-Rider_Cultural_Society]]
 - See also: [[ITEM00250_Radiant_Dagger_of_Power]]
 - Related: [[storage]]
@@ -287,7 +280,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[fighter-xphb-psi-warrior-xphb (classes)]]
 - Related: [[Aquabyssos Royal Navy (D&D_References)]]
 - Requires [[Monster Xphb]]
-- Requires [[step_089]]
+- Requires
 - Connects to [[Location City Coral Vortextrader Coral Vortextrader.svg]]
 - Related: [[step_022 (phase_039)]]
 - Leads to [[LORE00175_Legends_Entry_176]]
@@ -307,7 +300,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[QUEST0077_In_Search_of_Justice]]
 - Connects to [[Comprehensive-World-Connection-Guide (D&D_References)]]
 - See also: [[Quest - The Corruption Cleansing_1 (01_Adventures)]]
-- Related: [[step_073]]
+- Related:
 - Connects to [[Shadow Behavior Guidelines]]
 - Connects to [[LOC00299_Wilderness_Location_300]]
 - See also: [[step_052 (phase_080)]]
@@ -320,7 +313,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

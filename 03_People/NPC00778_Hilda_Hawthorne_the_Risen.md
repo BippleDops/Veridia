@@ -9,7 +9,6 @@ aliases: [NPC00778 Hilda Hawthorne the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00778 Hilda Hawthorne the Risen]
 - [[#Lyanna Zephyrblade the Risen (Professional - Rival)|Lyanna Zephyrblade the Risen (Professional - Rival)]]
 - [[#Solas Blackstone the Wanderer (Family - Child)|Solas Blackstone the Wanderer (Family - Child)]]
 - [[#Hestara Darkwater the Guardian (Family - Sibling)|Hestara Darkwater the Guardian (Family - Sibling)]]
-
 
 ---
 aliases: ["Hilda Hawthorne the Risen", "hilda hawthorne the risen", "Hilda Hawthorne Risen", "Risen the Hawthorne Hilda"]
@@ -150,30 +148,26 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.201Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Parallels [[step_042]]
-- Related: [[step_094]]
+- Parallels
+- Related:
 - Compare with [[Boon of the Stormborn]]
 - Leads to [[The Maw of Darkness (D&D_Statblocks)]]
-- Leads to [[step_027]]
-- Related: [[step_030]]
+- Leads to
+- Related:
 - Originates from [[The Void Watchers' Shrines (D&D_References)]]
 - Leads to [[step_072 (phase_081)]]
 - Requires [[awakened-shrub-xmm (plant)]]
@@ -184,19 +178,19 @@ Discovered something valuable
 - Connects to [[The Shadow Markets (D&D_References)]]
 - Affected by [[Captain Torrent Freewater]]
 - Affected by [[Catoblepas Mpmm]]
-- Requires [[step_008]]
+- Requires
 - Related: [[step_051 (phase_096)]]
 - Affected by [[Equipment Catalogs]]
 - Related: [[Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg]]
 - Requires [[step_044 (phase_098)]]
-- See also: [[step_014]]
+- See also:
 - Affected by [[Location City Deep Oracle Bathys Deep Oracle Bathys.png]]
 - Influences [[LOC00121_Planes_Location_122]]
 - See also: [[Assets Locations Location City Sage Prism Lightweaver V1 Sage Prism Lightweaver.svg]]
-- Connects to [[step_079]]
+- Connects to
 - Affected by [[Portrait NPC the Royal Treasury Depths V2 the Royal Treasury Depths.svg_1 (Portraits)]]
 - Related: [[step_085 (phase_044)]]
-- Related: [[step_059]]
+- Related:
 - Connects to [[SPELL00040_Nature_Spell_41]]
 - Affected by [[LOC00088_Cities_Location_89]]
 - Compare with [[step_049 (phase_071)]]
@@ -205,7 +199,7 @@ Discovered something valuable
 - Affected by [[Otilukes Freezing Sphere Xphb]]
 - Originates from [[ITEM00078_Thunder_Sword_of_Accuracy]]
 - Requires [[step_060 (phase_004)]]
-- Leads to [[step_054]]
+- Leads to
 - Parallels [[step_050 (phase_053)]]
 - Related: [[Location City Memorial Tender Sarah V1 Memorial Tender Sarah.svg]]
 - Connects to [[step_038 (phase_100)]]
@@ -218,20 +212,20 @@ Discovered something valuable
 - Requires [[Supply Master Cargo Deephaul]]
 - Compare with [[step_001 (phase_084)]]
 - Parallels [[Communication Encrypters]]
-- See also: [[step_035]]
-- Leads to [[step_064]]
+- See also:
+- Leads to
 - Compare with [[step_014 (phase_073)]]
 - Originates from [[Ecological Balance Protocols 2]]
-- Parallels [[step_002]]
+- Parallels
 - Influences [[Water Elemental Myrmidon Mpmm]]
-- Originates from [[step_075]]
+- Originates from
 - Affected by [[Umberlee (D&D_References)]]
 - See also: [[QUEST00293_Personal_Quest_294]]
 - Originates from [[blade-ward-xphb (spells)]]
-- Affected by [[step_002]]
+- Affected by
 - Compare with [[False Breather 2]]
 - Related: [[portrait-npc-emperor-emperor.svg]]
-- Compare with [[step_089]]
+- Compare with
 - Leads to [[The Iron Company]]
 - Originates from [[step_092 (phase_046)]]
 - Leads to [[SHOP00011_Magical_Shop_12]]
@@ -259,7 +253,7 @@ Discovered something valuable
 - Compare with [[step_090 (phase_026)]]
 - Influences [[SPELL00009_Divine_Spell_10]]
 - Affected by [[LORE00145_History_Entry_146]]
-- Leads to [[step_090]]
+- Leads to
 - Influences [[step_043 (phase_018)]]
 - See also: [[Session 2 the Shadow Surgery]]
 - Compare with [[The Resonance Cathedral (D&D_References)]]

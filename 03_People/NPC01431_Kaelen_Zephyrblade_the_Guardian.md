@@ -18,7 +18,6 @@ aliases: [NPC01431 Kaelen Zephyrblade the Guardian]
 - [[#Aeliana Thornweave the Redeemed (Professional - Employer)|Aeliana Thornweave the Redeemed (Professional - Employer)]]
 - [[#Ysara Zephyrblade the Bold (Criminal - Accomplice)|Ysara Zephyrblade the Bold (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Kaelen Zephyrblade the Guardian", "kaelen zephyrblade the guardian", "Kaelen Zephyrblade Guardian", "Guardian the Zephyrblade Kaelen"]
@@ -152,16 +151,13 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.272Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -201,9 +197,7 @@ Knows secret about major threat
 - [[11 Spellcasting]]
 - [[16 Credits]]
 - [[10 Combat]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -220,7 +214,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Source References
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -228,11 +222,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -250,7 +243,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Cover Identity Coordinator]]
 - Influences [[location-city-crystal-palace-crystal-palace.svg]]
 - Originates from [[Divination Xphb]]
-- Connects to [[step_045]]
+- Connects to
 - Parallels [[Extreme Cold Xdmg]]
 - Connects to [[Quest_[[INDEX]].png]]
 - Connects to [[Assets Locations [[Location City Medical Research Facilities Medical Research Facilities.svg]]]]
@@ -261,7 +254,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_033 (phase_092)]]
 - Affected by [[Location City [[Luminar the Builder]] V1 Luminar the Builder.svg]]
 - Affected by [[robe-of-useful-items-xdmg (items)]]
-- Parallels [[step_077]]
+- Parallels
 - Compare with [[Master Engineer Coral Pressureforge (People)]]
 - Connects to [[piwafwi-cloak-of-elvenkind-oota (items)]]
 - Originates from [[Submarine Networks]]
@@ -295,7 +288,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[LOC00299_Planes_Location_300]]
 - See also: [[step_062 (phase_076)]]
 - Leads to [[NPC00211_Brenna_Proudmore_the_Guardian]]
-- Influences [[step_091]]
+- Influences
 - Parallels [[ENC00157_Social_Encounter_158]]
 - Requires [[ITEM00304_Blessed_Staff_of_Accuracy]]
 - Leads to [[Engineer Brass Gearspin]]
@@ -318,17 +311,17 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Chief Engineer Vera Steamheart]]
 - See also: [[Greyhawk Iuz Xdmg]]
 - Leads to [[dawn-war-bane-dmg (deities)]]
-- See also: [[step_061]]
+- See also:
 - See also: [[Keeper of Contracts Minerva Bindingword]]
 - Leads to [[MON00091_Undead_Creature_92]]
-- See also: [[step_012]]
+- See also:
 - Parallels [[Levels 14 Local Heroes Levels 14 Adventure Situations Xdmg]]
 - Related: [[LOC00175_Dungeons_Location_176]]
 - Related: [[Location City [[[[International Trade]] Routes]] International Trade Routes.svg]]
 - Parallels [[LOC00213_Towns_Location_214]]
 - Affected by [[step_001 (phase_076)]]
 - See also: [[ENC00211_Combat_Encounter_212]]
-- Influences [[step_064]]
+- Influences
 - Requires [[NPC00000_Drusilla_Brightblade]]
 - Leads to [[SPELL00084_Divine_Spell_85]]
 - Leads to [[quetzalcoatlus-mpmm (beast)]]
@@ -341,7 +334,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

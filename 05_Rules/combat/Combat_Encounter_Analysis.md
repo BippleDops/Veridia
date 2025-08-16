@@ -18,7 +18,6 @@ aliases: [Combat Encounter Analysis]
 - [[#Enhancement Improvements|Enhancement Improvements]]
 - [[#Related|Related]]
 
-
 ---
 title: Combat_Encounter_Analysis
 type: note
@@ -56,11 +55,11 @@ Encounter Duration: ________________________
 Party Level: _______________________________
 
 Overall Encounter Rating:
-★☆☆☆☆  Poor
-★★☆☆☆  Fair  
-★★★☆☆  Good
-★★★★☆  Great
-★★★★★  Excellent
+★☆☆☆☆ Poor
+★★☆☆☆ Fair
+★★★☆☆ Good
+★★★★☆ Great
+★★★★★ Excellent
 
 ### Difficulty Assessment
 
@@ -224,13 +223,11 @@ Contextual improvement based on 07_Player_Resources
 > This location connects to the main plot
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Resting**: See ACX p.186
-
 
 ## Thematic Connections
 - Tactical combat using [[Combat Maneuvers]]
@@ -260,7 +257,7 @@ Contextual improvement based on 07_Player_Resources
 - Influences [[LOC00006_Dungeons_Location_7]]
 - Parallels [[LOC0109_Groveton]]
 - Requires [[Arcane Master Voidweav 2]]
-- Leads to [[step_047]]
+- Leads to
 - Compare with [[Floating Cities (D&D_References)]]
 - Connects to [[step_064 (phase_053)]]
 - Related: [[NPC00014_Alaric_Lightbringer]]
@@ -275,7 +272,7 @@ Contextual improvement based on 07_Player_Resources
 - Influences [[ENC00219_Social_Encounter_220]]
 - Originates from [[step_070 (phase_076)]]
 - Affected by [[Item Artifact Weird Tank Pota V7 Weird Tank Pota.png]]
-- Affected by [[step_013]]
+- Affected by
 - Leads to [[step_096 (phase_068)]]
 - Originates from [[Relationship Web Nuances 2]]
 - Influences [[Location City Surface Loyalist Safe Houses V1 Surface Loyalist Safe Houses.svg]]
@@ -313,7 +310,7 @@ Contextual improvement based on 07_Player_Resources
 - Connects to [[Wizard Xphb School of Transmutation]]
 - Influences [[step_046 (phase_088)]]
 - Originates from [[Windvane Pota]]
-- Influences [[step_100]]
+- Influences
 - See also: [[Archbishop Mordecai Stormwright (D&D_References)]]
 - Requires [[Customs House 2]]
 - Originates from [[Illusory Dragon Xge]]
@@ -329,7 +326,7 @@ Contextual improvement based on 07_Player_Resources
 - Leads to [[portrait-npc-assassin-assassin.svg_1 (Portraits)]]
 - See also: [[step_091 (phase_085)]]
 - Related: [[EVENT00090_Natural_Event_91]]
-- Requires [[step_072]]
+- Requires
 - Requires [[step_060 (phase_076)]]
 - Originates from [[location-city-royal-vault-v1-royal-vault.svg]]
 - Leads to [[The Exotic Emporium]]

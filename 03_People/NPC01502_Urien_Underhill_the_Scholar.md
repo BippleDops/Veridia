@@ -18,7 +18,6 @@ aliases: [NPC01502 Urien Underhill the Scholar]
 - [[#Hestara Emberfall the Mystic (Criminal - Target)|Hestara Emberfall the Mystic (Criminal - Target)]]
 - [[#Xander Stormwind the Lost (Criminal - Handler)|Xander Stormwind the Lost (Criminal - Handler)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Urien Underhill the Scholar", "urien underhill the scholar", "Urien Underhill Scholar", "Scholar the Underhill Urientags: [npc, character, combat, magic, exploration, puzzle, lore]er]
@@ -154,16 +153,13 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.279Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -221,9 +217,7 @@ Modifications:
 - [[NPC00300_Urien_Zephyrblade]]
 - [[NPC00599_Cedric_Lightbringer_the_Wise]]
 - [[MOC_Quests]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -242,7 +236,7 @@ Following magic item guidelines (WWT p.135-136):
 - Tasha's Mystical Formulae of Everything (TMF) p.139
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -250,11 +244,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -289,7 +282,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[FAC00006_Cults_7]]
 - Originates from [[EVENT00066_Magical_Event_67]]
 - Leads to [[NPC01010_Ysara_Frostwhisper_the_Redeemed]]
-- Connects to [[step_046]]
+- Connects to
 - See also: [[Crystal_Singer_Bard]]
 - Compare with [[Location City [[The Pressure Crown]] V1 the Pressure Crown.svg]]
 - Originates from [[step_050 (phase_042)]]
@@ -306,12 +299,12 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[NPC01773_Drusilla_Silverleaf_the_Wanderer]]
 - Compare with [[Trade Union]]
 - Influences [[Assets Locations Location City [[Seeds of the Past]] V1 Seeds of the Past.svg]]
-- Parallels [[step_061]]
+- Parallels
 - Leads to [[Portrait NPC Marcus Shardbreaker Grimm Marcus Shardbreaker Grimm.svg]]
 - See also: [[Ring of Elemental Command Water Xdmg]]
 - Influences [[Crafter Xphb]]
 - Parallels [[QUEST00169_Personal_Quest_170]]
-- Affected by [[step_006]]
+- Affected by
 - Influences [[step_060 (phase_041)]]
 - Originates from [[Corallion (D&D_References)]]
 - Related: [[Professor Euclid Mindmaze]]
@@ -324,7 +317,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[step_035 (phase_059)]]
 - Related: [[step_084 (phase_012)]]
 - See also: [[step_025 (phase_096)]]
-- Related: [[step_040]]
+- Related:
 - Compare with [[The Forgotten Archive]]
 - Parallels [[sling-bullets-20-xphb (items)]]
 - Related: [[Location City [[The Sundered Vaults]] V1 the Sundered Vaults.svg]]
@@ -353,17 +346,16 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Symbol Heraldry Chaplain Abyssos the Deepseeke Chaplain Abyssos the Deepseeke.svg]]
 - Influences [[NPC00010_Lyanna_Grimholt]]
 - See also: [[step_077 (phase_018)]]
-- Affected by [[step_024]]
+- Affected by
 - Leads to [[Assets Locations Location City [[Crystal Master Prism Lightweaver]] V1 Crystal Master Prism Lightweaver.svg]]
 - Parallels [[step_072 (phase_060)]]
-- Parallels [[step_048]]
+- Parallels
 - Originates from [[Locations [[The Probability Engine]]]]
 
 ## Visual References
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

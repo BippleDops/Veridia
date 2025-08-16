@@ -18,7 +18,6 @@ aliases: [NPC01615 Gavril Ironforge the Mystic]
 - [[#Rhiannon Zephyrblade the Swift (Political - Ally)|Rhiannon Zephyrblade the Swift (Political - Ally)]]
 - [[#Wynne Crystalbrook the Seeker (Family - Cousin)|Wynne Crystalbrook the Seeker (Family - Cousin)]]
 
-
 ---
 aliases: ["Gavril Ironforge the Mystic", "gavril ironforge the mystic", "Gavril Ironforge Mystic", "Mystic the Ironforge Gavril"]
 tags: [npc, character]
@@ -143,21 +142,17 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.292Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -179,11 +174,11 @@ Is secretly testing the party
 - Connects to [[Assets Locations Location City Emergency Life Support Research Foundation Emergency Life Support Research Foundation.svg]]
 - Requires [[step_071 (phase_038)]]
 - Connects to [[LOC00029_Towns_Location_30]]
-- Originates from [[step_061]]
+- Originates from
 - Connects to [[location-city-song-merrytide-song-merrytide.svg]]
 - Requires [[Travel Calculator (D&D_References)]]
 - Connects to [[Location City Archaeological Society V1 Archaeological Society.svg]]
-- Originates from [[step_082]]
+- Originates from
 - Influences [[step_044 (phase_027)]]
 - Compare with [[Greyhawk Kord Xdmg]]
 - Compare with [[Quest - Medical Breakthrough]]
@@ -214,18 +209,18 @@ Is secretly testing the party
 - Compare with [[The Schism Bridges]]
 - Connects to [[thri-kreen-marauder-xmm]]
 - Compare with [[Family Portrait (D&D_References)]]
-- Parallels [[step_043]]
+- Parallels
 - Related: [[The Deep Prophets (D&D_References)]]
 - Parallels [[Cultural Exchanges]]
 - See also: [[M-001_Physics_Denial]]
-- Influences [[step_016]]
+- Influences
 - Requires [[12_Research_D&D_Statblocks_The_Synthesis_Gardens]]
 - Compare with [[Ox Xdmg]]
 - Affected by [[Memorial Stones 2]]
 - Related: [[QUEST00170_Personal_Quest_171]]
-- Compare with [[step_095]]
+- Compare with
 - Related: [[Quick_Reference_and_Handouts]]
-- Affected by [[step_031]]
+- Affected by
 - Leads to [[LOC00201_Towns_Location_202]]
 - Affected by [[Harbormaster Tidal Stormcrest 2]]
 - See also: [[Portrait NPC the Soul Market V2 the Soul Market.svg_1 (Portraits)]]
@@ -248,10 +243,10 @@ Is secretly testing the party
 - Related: [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]]
 - Parallels [[step_094 (phase_016)]]
 - Originates from [[step_100 (phase_033)]]
-- Affected by [[step_027]]
+- Affected by
 - Originates from [[Savage Attacker Xphb]]
 - Leads to [[ENC00149_Social_Encounter_150]]
-- Connects to [[step_095]]
+- Connects to
 - Connects to [[Artifacts Shard of Empathy]]
 - Requires [[item mastery#Topple]]
 - Connects to [[step_018 (phase_025)]]
@@ -266,7 +261,6 @@ Is secretly testing the party
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

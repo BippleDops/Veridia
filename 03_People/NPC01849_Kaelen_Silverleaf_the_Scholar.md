@@ -18,7 +18,6 @@ aliases: [NPC01849 Kaelen Silverleaf the Scholar]
 - [[#Aldric Darkwater the Lost (Professional - Employer)|Aldric Darkwater the Lost (Professional - Employer)]]
 - [[#Rhiannon Proudmore the Seeker (Personal - Nemesis)|Rhiannon Proudmore the Seeker (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Kaelen Silverleaf the Scholar", "kaelen silverleaf the scholar", "Kaelen Silverleaf Scholar", "Scholar the Silverleaf Kaelen"]
@@ -159,16 +158,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.317Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -207,11 +203,10 @@ Is secretly testing the party
 - [[10 Combat]]
 - [[Character_Journal_Template]]
 - [[13 Conditions]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -221,11 +216,10 @@ Is secretly testing the party
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -261,7 +255,7 @@ Is secretly testing the party
 - Affected by [[step_016 (phase_053)]]
 - Compare with [[Major_NPCs (02_Worldbuilding)]]
 - Compare with [[SPELL00034_Arcane_Spell_35]]
-- Parallels [[step_086]]
+- Parallels
 - Originates from [[Location City Sommelier Bacchus Deepbottle Sommelier Bacchus Deepbottle.svg]]
 - Requires [[human-names-niger-congo-male-xge (tables)]]
 - Influences [[04_Resources_Assets_Portraits_portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg_Quick_Ref]]
@@ -274,12 +268,12 @@ Is secretly testing the party
 - Related: [[Assets Locations Location City Cora Peaceweaver V1 Cora Peaceweaver.svg]]
 - Requires [[NPC01353_Drusilla_Ironwood_the_Fallen]]
 - See also: [[NPC00231_Hilda_Quicksilver_the_Scholar]]
-- Leads to [[step_091]]
+- Leads to
 - Requires [[step_057 (phase_090)]]
 - Parallels [[forgotten-realms-talona (deities)]]
 - Parallels [[List Spells Backgrounds Prismari Student Scc]]
 - See also: [[Balhannoth Mpmm]]
-- Compare with [[step_069]]
+- Compare with
 - Parallels [[Location City Pilgrim Guide Nautilus Pathfinder V1 Pilgrim Guide Nautilus Pathfinder.svg]]
 - Affected by [[Assets Locations Location City Archive Kelpmere V1 Archive Kelpmere.svg]]
 - Compare with [[elemental-gem-yellow-diamond-xdmg (items)]]
@@ -296,7 +290,7 @@ Is secretly testing the party
 - Influences [[The Catastrophe: Hour by Hour]]
 - Parallels [[Portrait NPC Captain Nerion Deepward V2 Captain Nerion Deepward.svg]]
 - Originates from [[Branching Campaign Paths]]
-- Originates from [[step_051]]
+- Originates from
 - Compare with [[step_050 (phase_082)]]
 - See also: [[ENC00294_Social_Encounter_295]]
 - Influences [[Seven_Shards_Publishing_Package]]
@@ -304,7 +298,7 @@ Is secretly testing the party
 - Compare with [[Cloak of the Manta Ray Xdmg]]
 - Leads to [[Elder Scribe Marcus the Lost (D&D_References)]]
 - Influences [[step_072 (phase_070)]]
-- Connects to [[step_060]]
+- Connects to
 - Leads to [[Portrait NPC the Current Merchants the Current Merchants.svg_1 (Portraits)]]
 - Related: [[conditions#frightened]]
 - Connects to [[step_024 (phase_044)]]
@@ -317,24 +311,23 @@ Is secretly testing the party
 - Originates from [[dungeon-creator-npc-alignment (tables)]]
 - Influences [[Noble Leisure Schedules]]
 - Compare with [[LORE00108_History_Entry_109]]
-- Compare with [[step_036]]
+- Compare with
 - See also: [[portrait-npc-the-seven-seals-the-seven-seals.svg_1 (Portraits)]]
 - Requires [[warhorse-skeleton-xmm (undead)]]
 - Related: [[Skyship Technology (D&D_References)]]
 - Compare with [[step_050 (phase_043)]]
-- Leads to [[step_011]]
+- Leads to
 - Influences [[Marcus the Jus]]
 - Affected by [[Religious Privacy Advocates 2]]
 - Influences [[lacedon-ghoul-xmm (undead)]]
 - Leads to [[ITEM00968_Superior_Incense_of_Vigor]]
-- Related: [[step_011]]
+- Related:
 - Related: [[10-combat#Being Prone]]
 
 ## Visual References
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00460 Elric Goldleaf the Wanderer]
 - [[#Pyria Zephyrblade the Redeemed (Criminal - Accomplice)|Pyria Zephyrblade the Redeemed (Criminal - Accomplice)]]
 - [[#Aldric Ravenheart the Redeemed (Political - Ally)|Aldric Ravenheart the Redeemed (Political - Ally)]]
 
-
 ---
 aliases: ["Elric Goldleaf the Wanderer", "elric goldleaf the wanderer", "Elric Goldleaf Wanderer", "Wanderer the Goldleaf Elric"]
 tags: [npc, character]
@@ -155,31 +154,27 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.165Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Compare with [[ITEM00539_Adamantine_Chain_Mail_of_Grace]]
-- Parallels [[step_060]]
+- Parallels
 - Parallels [[Portrait NPC Jasper Three Eyes Flint V1 Jasper Three Eyes Flint.png_1 (Portraits)]]
 - Connects to [[prismari-student-scc (backgrounds)]]
 - Parallels [[Sending Stones Xdmg]]
 - Compare with [[Assets Locations Location City Silent Guardian Marcus Silent Guardian Marcus.svg]]
-- Connects to [[step_091]]
+- Connects to
 - See also: [[Analytics_Dashboard]]
 - Compare with [[Location City Scholar Merchant Remembrance Tidekeep Scholar Merchant Remembrance Tidekeep.svg]]
 - Related: [[ITEM00371_Shadow_Axe_of_Accuracy]]
@@ -197,14 +192,14 @@ Being extorted by criminals
 - Requires [[NPC00395_Aeliana_Thornweave]]
 - Compare with [[step_074 (phase_049)]]
 - Compare with [[LOC00031_Wilderness_Location_32]]
-- Requires [[step_014]]
+- Requires
 - Compare with [[rope-xphb (items)]]
 - Originates from [[Session 18 Horror Corruption]]
-- Affected by [[step_061]]
+- Affected by
 - Related: [[Portrait NPC the Current Merchants the Current Merchants.svg_1 (Portraits)]]
 - Leads to [[MON00128_Undead_Creature_129]]
 - Parallels [[EVENT00028_Magical_Event_29]]
-- Originates from [[step_096]]
+- Originates from
 - Related: [[Assets Locations Location City Surface Expert Grainwise Surface Expert Grainwise.svg]]
 - Leads to [[potion-of-diminution-xdmg (items)]]
 - Influences [[step_064 (phase_099)]]
@@ -235,7 +230,7 @@ Being extorted by criminals
 - Influences [[Assets Locations Location City Ambassador Reed Treatymaker Ambassador Reed Treatymaker.svg]]
 - Compare with [[assassins-blood-xdmg (items)]]
 - Affected by [[Assets Vehicles Vehicle Ship Trench Lantern Surveyor V1 Trench Lantern Surveyor.svg]]
-- Affected by [[step_086]]
+- Affected by
 - Related: [[The Light Preservation Society]]
 - Compare with [[LOC00099_Planes_Location_100]]
 - See also: [[Portrait NPC Blood in the Water Blood in the Water.svg_1 (Portraits)]]
@@ -243,7 +238,7 @@ Being extorted by criminals
 - Affected by [[shield-of-faith-xphb (spells)]]
 - Compare with [[LOC00051_Cities_Location_52]]
 - Requires [[step_045 (phase_063)]]
-- See also: [[step_023]]
+- See also:
 - Compare with [[tanarukk-mpmm (fiend)]]
 - Related: [[location-city-portal-network-v1-portal-network.svg]]
 - See also: [[Technical Director Jasper Lightforge (D&D_References)]]
@@ -258,9 +253,9 @@ Being extorted by criminals
 - Related: [[Void Touched Sanctum]]
 - Parallels [[step_051 (phase_089)]]
 - Compare with [[Random_Location_Generator (D&D_References)]]
-- Influences [[step_015]]
-- Compare with [[step_071]]
-- Affected by [[step_072]]
+- Influences
+- Compare with
+- Affected by
 - Parallels [[Stone of Controlling Earth Elementals Xdmg]]
 - See also: [[Item Artifact Enspelled Armor Level 7 Xdmg V3 Enspelled Armor Level 7 Xdmg.png]]
 - Influences [[Deep Archives]]
@@ -278,7 +273,6 @@ Being extorted by criminals
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
 ![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

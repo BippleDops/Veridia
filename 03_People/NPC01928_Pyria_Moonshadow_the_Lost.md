@@ -18,7 +18,6 @@ aliases: [NPC01928 Pyria Moonshadow the Lost]
 - [[#Xander Ashford the Guardian (Professional - Rival)|Xander Ashford the Guardian (Professional - Rival)]]
 - [[#Xander Ironwood the Mystic (Family - Child)|Xander Ironwood the Mystic (Family - Child)]]
 
-
 ---
 aliases: ["Pyria Moonshadow the Lost", "pyria moonshadow the lost", "Pyria Moonshadow Lost", "Lost the Moonshadow Pyria"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.325Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -201,7 +196,7 @@ Blackmails party into service
 - Connects to [[The_Forgotten_Archive.png]]
 - Leads to [[step_011 (phase_014)]]
 - Compare with [[Crystal Agricultural Research Institute (Groups)]]
-- Parallels [[step_096]]
+- Parallels
 - Influences [[LORE00244_Prophecies_Entry_245]]
 - See also: [[step_005 (phase_098)]]
 - Affected by [[location-city-pip-goldleaf-pip-goldleaf.svg]]
@@ -222,12 +217,12 @@ Blackmails party into service
 - Affected by [[ITEM00239_Shadow_Sword_of_the_Ancients]]
 - Leads to [[step_049 (phase_022)]]
 - Leads to [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets M L 05 the Dream Sovereign (People)]]
-- Influences [[step_030]]
+- Influences
 - Influences [[Portrait NPC Lord Flux the Inconsistent Lord Flux the Inconsistent.svg]]
 - Related: [[location-city-noble-council-noble-council.png]]
 - Related: [[Resonance Peaks 2]]
 - Influences [[step_003 (phase_056)]]
-- See also: [[step_072]]
+- See also:
 - Parallels [[Sorcerer Xphb Storm Sorcery Xge]]
 - Related: [[step_029 (phase_037)]]
 - Leads to [[NPC01692_Cedric_Lightbringer_the_Cunning]]
@@ -269,7 +264,6 @@ Blackmails party into service
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

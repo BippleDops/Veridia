@@ -18,7 +18,6 @@ aliases: [14-gods-of-the-multiverse (players-handbook-2014)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 14-gods-of-the-multiverse (players-handbook-2014)
@@ -56,11 +55,9 @@ world: Both
 - Someone is blackmailing information for love
 - A shipment has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -91,9 +88,7 @@ world: Both
 Knows the location of a key artifact
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -119,7 +114,6 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -147,7 +141,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Historical Preservation Society]]
 - Originates from [[ITEM00857_Void-touched_Mirror_of_the_Gods]]
 - Related: [[step_012 (phase_063)]]
-- Requires [[step_064]]
+- Requires
 - See also: [[gold-dragon-xmm (legendary-group)]]
 - Leads to [[ranger-xphb-hunter-xphb (classes)]]
 - Connects to [[ENC00051_Combat_Encounter_52]]
@@ -168,10 +162,10 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_005 (phase_021)]]
 - Related: [[step_086 (phase_054)]]
 - Leads to [[ENC00038_Environmental_Encounter_39]]
-- Leads to [[step_032]]
+- Leads to
 - Connects to [[step_016 (phase_061)]]
 - Compare with [[More Difficult Identification]]
-- Compare with [[step_001]]
+- Compare with
 - Influences [[Medical Arsenal]]
 - Originates from [[NPC01091_Thalia_Brightblade_the_Risen]]
 - Parallels [[Organizations the Eternal Sentinels]]
@@ -180,25 +174,25 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Assets Locations Location City Crisis Management Crisis Management.svg]]
 - Related: [[Assets Locations Location City Coral Throne Syndicate Hq Coral Throne Syndicate Hq.svg]]
 - Affected by [[step_048 (phase_031)]]
-- Connects to [[step_004]]
+- Connects to
 - See also: [[Aquabyssos_Depth_Encounters]]
-- Affected by [[step_030]]
+- Affected by
 - Requires [[rothe-vgm (beast)]]
 - See also: [[Quest Campaign Tracker_1 (01_Adventures)]]
 - Leads to [[NPC00818_Nerys_Lightbringer_the_Redeemed]]
-- Originates from [[step_010]]
+- Originates from
 - See also: [[step_007 (phase_042)]]
 - See also: [[Portrait NPC Lord Marcus Shadowbane V2 Lord Marcus Shadowbane.svg]]
-- Compare with [[step_003]]
-- Leads to [[step_065]]
+- Compare with
+- Leads to
 - Leads to [[step_077 (phase_052)]]
-- Related: [[step_043]]
+- Related:
 - See also: [[Quartermaster Judith Steadyhold]]
 - Influences [[Initial Location]]
 - Affected by [[step_042 (phase_099)]]
-- Influences [[step_094]]
+- Influences
 - Originates from [[step_011 (phase_092)]]
-- Requires [[step_069]]
+- Requires
 - Connects to [[SPELL0021_Celestial_Curse]]
 - Leads to [[location-city-artificer-v1-artificer.svg]]
 - Requires [[Portrait NPC the Deepmind Conspiracy the Deepmind Conspiracy.svg_1 (Portraits)]]
@@ -226,12 +220,12 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[step_084 (phase_020)]]
 - Leads to [[Other_Actual_Plays]]
 - Parallels [[ENC00224_Combat_Encounter_225]]
-- Requires [[step_007]]
+- Requires
 - Influences [[enspelled-armor-level-7-xdmg (items)]]
 - Compare with [[Inter-Species_Relations_Division (02_Worldbuilding)]]
 - Originates from [[Interfaith Community Centers (D&D_References)]]
-- Connects to [[step_025]]
+- Connects to
 - Related: [[Assets Locations Location City Storyteller Memorykeeper Storyteller Memorykeeper.svg]]
 - Affected by [[step_001 (phase_073)]]
-- Requires [[step_001]]
+- Requires
 - Related: [[Half Orc Names Female Xge]]

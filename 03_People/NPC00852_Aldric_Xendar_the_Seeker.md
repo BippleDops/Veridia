@@ -18,7 +18,6 @@ aliases: [NPC00852 Aldric Xendar the Seeker]
 - [[#Ysara Voidwalker the Mystic (Professional - Mentor)|Ysara Voidwalker the Mystic (Professional - Mentor)]]
 - [[#Malakai Quicksilver the Scholar (Criminal - Informant)|Malakai Quicksilver the Scholar (Criminal - Informant)]]
 
-
 ---
 aliases: ["Aldric Xendar the Seeker", "aldric xendar the seeker", "Aldric Xendar Seeker", "Seeker the Xendar Aldric"]
 tags: [npc, character]
@@ -147,21 +146,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.209Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -179,7 +174,7 @@ Seeks rare merchandise
 - See also: [[Human Names Greek Female Xge]]
 - Influences [[step_081 (phase_019)]]
 - See also: [[Location City the Shadow Markets New the Shadow Markets New.svg]]
-- Requires [[step_014]]
+- Requires
 - Parallels [[sacred-statue-mpmm (construct)]]
 - Related: [[LORE00090_Legends_Entry_91]]
 - Leads to [[deities-of-the-forgotten-realms-phb (tables)]]
@@ -199,19 +194,19 @@ Seeks rare merchandise
 - Leads to [[Royal Academy of Ethical Commerce]]
 - Originates from [[Location City Inverted Ballroom Wing Inverted Ballroom Wing.svg]]
 - Affected by [[potion-of-fire-giant-strength-xdmg (items)]]
-- Connects to [[step_032]]
+- Connects to
 - Leads to [[Lady Venetia Shadowmere]]
 - Parallels [[step_008 (phase_087)]]
 - Influences [[Assets Symbols Symbol Heraldry the Code Wars the Code Wars.svg]]
 - See also: [[step_023 (phase_054)]]
 - Leads to [[Location City the Eternal Senate V1 the Eternal Senate.svg]]
-- Leads to [[step_006]]
+- Leads to
 - Leads to [[Green Dragon Scale Mail Xdmg]]
 - Connects to [[Chef Gastropod (D&D_References)]]
 - Influences [[Determine Your XP Budget XP Budget Per Character Xdmg]]
 - Compare with [[Sorcerer Xphb Aberrant Sorcery Xphb]]
 - Connects to [[Bowl of Commanding Water Elementals Xdmg]]
-- Parallels [[step_056]]
+- Parallels
 - Affected by [[Assets Portraits Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg]]
 - Related: [[scroll-of-titan-summoning-animal-lord-xdmg (items)]]
 - Affected by [[Portrait NPC Lady Celestine Windborne V1 Lady Celestine Windborne.svg]]
@@ -250,7 +245,7 @@ Seeks rare merchandise
 - Connects to [[NPC01978_Baelor_Crystalbrook_the_Strong]]
 - Leads to [[05_Templates]]
 - Related: [[Training Director Cassius Newlight (D&D_References)]]
-- Requires [[step_072]]
+- Requires
 - Connects to [[step_029 (phase_010)]]
 - See also: [[Book of Vile Darkness Xdmg]]
 - Originates from [[Depth Merchant's Consortium (D&D_References)]]
@@ -270,7 +265,6 @@ Seeks rare merchandise
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

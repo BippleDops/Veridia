@@ -18,7 +18,6 @@ aliases: [NPC01371 Xander Stormwind the Guardian]
 - [[#Nerys Silverleaf the Wise (Professional - Employer)|Nerys Silverleaf the Wise (Professional - Employer)]]
 - [[#Brenna Brightblade the Risen (Criminal - Accomplice)|Brenna Brightblade the Risen (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Stormwind the Guardian", "xander stormwind the guardian", "Xander Stormwind Guardian", "Guardian the Stormwind Xandertags: [npc, character, combat, magic, exploration, lore]er]
@@ -154,16 +153,13 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.266Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -202,9 +198,7 @@ Modifications:
 - [[NPC01695_Ewan_Ashford_the_Fallen]]
 - [[MOC_Lore]]
 - [[MOC_Items]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -224,7 +218,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.254
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -232,11 +226,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -258,7 +251,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Deep Prophecy (D&D_References)]]
 - Affected by [[NPC01247_Xander_Zephyrblade_the_Risen]]
 - Connects to [[step_044 (phase_061)]]
-- Related: [[step_052]]
+- Related:
 - See also: [[Royal Bloodline Codex (D&D_References)]]
 - Related: [[LORE00052_Prophecies_Entry_53]]
 - Compare with [[step_031 (phase_077)]]
@@ -291,7 +284,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[step_087 (phase_026)]]
 - Originates from [[The Seahawk 2]]
 - Connects to [[Pressure Cult]]
-- See also: [[step_078]]
+- See also:
 - Parallels [[SPELL00149_Arcane_Spell_150]]
 - Leads to [[Assets Locations [[Location City Alternative Path Fled City Alternative Path Fled City.svg]]]]
 - Requires [[EVENT00000_Natural_Event_1]]
@@ -301,7 +294,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[LOC00171_Towns_Location_172]]
 - Parallels [[Fighter Xphb Psi Warrior Xphb]]
 - Influences [[Assets Locations Location City [[The Void Tears]] the Void Tears.png]]
-- See also: [[step_093]]
+- See also:
 - Originates from [[README]]
 - See also: [[ITEM00267_Radiant_Crossbow_of_Speed]]
 - Affected by [[Concepts Cosmic Truth]]
@@ -311,7 +304,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[enspelled-staff-level-8-xdmg (items)]]
 - Connects to [[step_070 (phase_084)]]
 - Parallels [[Temporal Control (D&D_References)]]
-- Leads to [[step_019]]
+- Leads to
 - Related: [[step_093 (phase_019)]]
 - Requires [[step_087 (phase_085)]]
 - Influences [[Archive_[[INDEX]] (D&D_References)]]
@@ -323,7 +316,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Old Tongue]]
 - Related: [[Portrait NPC Orac... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Originates from [[Political Intrigue of Meridian]]
-- Influences [[step_014]]
+- Influences
 - Influences [[The Crying Stones (D&D_References)]]
 - Leads to [[step_074 (phase_017)]]
 - See also: [[NPC_Voices_Quick_Ref]]
@@ -331,7 +324,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Barkskin Xphb]]
 - Compare with [[[[Manta Ray]] (D&D_References)]]
 - Originates from [[Location City [[The Umbral Nexus]] the Umbral Nexus.svg]]
-- Influences [[step_095]]
+- Influences
 - Requires [[LOC00153_Dungeons_Location_154]]
 - Affected by [[EVENT00053_Political_Event_54]]
 - Compare with [[Princess Lyralei (D&D_References)]]
@@ -346,7 +339,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
 
-
 ## Realm Connections
 
 ### Connection to [[Aethermoor]]
@@ -358,9 +350,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

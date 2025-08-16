@@ -18,7 +18,6 @@ aliases: [NPC00540 Baelor Frostwhisper the Swift]
 - [[#Fiora Emberfall (Family - Sibling)|Fiora Emberfall (Family - Sibling)]]
 - [[#Brenna Jadeclaw the Bold (Professional - Employer)|Brenna Jadeclaw the Bold (Professional - Employer)]]
 
-
 ---
 aliases: ["Baelor Frostwhisper the Swift", "baelor frostwhisper the swift", "Baelor Frostwhisper Swift", "Swift the Frostwhisper Baelor"]
 tags: [npc, character]
@@ -152,21 +151,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.175Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,7 +170,7 @@ Being extorted by criminals
 - Compare with [[step_036 (phase_016)]]
 - Influences [[step_085 (phase_039)]]
 - Influences [[step_047 (phase_016)]]
-- Influences [[step_088]]
+- Influences
 - Leads to [[Safety Coordinator Reef Safeguard]]
 - Influences [[step_029 (phase_075)]]
 - Originates from [[Treasury Department (D&D_References)]]
@@ -186,7 +181,7 @@ Being extorted by criminals
 - See also: [[Teleport Xphb]]
 - Affected by [[Crown Jewels]]
 - Requires [[list-spells-races-tiefling-mammon-mtf (lists)]]
-- Requires [[step_028]]
+- Requires
 - Parallels [[City Watch]]
 - Leads to [[Armor of Resistance Xdmg]]
 - See also: [[Location City Sacred Grief Protocols Sacred Grief Protocols.png]]
@@ -194,7 +189,7 @@ Being extorted by criminals
 - Compare with [[portrait-npc-mayor-thompson-mayor-thompson.svg]]
 - Parallels [[Cloak of the Bat Xdmg]]
 - Compare with [[staff-of-power-xdmg (items)]]
-- Requires [[step_062]]
+- Requires
 - Affected by [[Royal Treasurer 2]]
 - Connects to [[noble-retainers-variant (backgrounds)]]
 - Related: [[QUEST00051_Main_Quest_52]]
@@ -205,7 +200,7 @@ Being extorted by criminals
 - Compare with [[NPC01449_Drusilla_Ashford_the_Wanderer]]
 - Originates from [[ITEM00725_Primordial_Crown_of_Truth]]
 - Originates from [[step_013 (phase_015)]]
-- Compare with [[step_088]]
+- Compare with
 - Requires [[04_Resources_Assets_Locations_location-city-astrologer-prime-cassandra-starweaver-astrologer-prime-cassandra-starweaver.svg]]
 - See also: [[FAC00089_Cults_90]]
 - Influences [[vicious-mockery-xphb (spells)]]
@@ -230,7 +225,7 @@ Being extorted by criminals
 - Compare with [[step_068 (phase_089)]]
 - Parallels [[Adaptation Medical Society (Groups)]]
 - Parallels [[Natural Order Movemen (Groups)]]
-- Connects to [[step_026]]
+- Connects to
 - Affected by [[02_Worldbuilding_People_Dimensional_Security_Chief_Echo_Gatekeeper]]
 - Leads to [[Enspelled Weapon Cantrip Xdmg]]
 - Requires [[step_025 (phase_042)]]
@@ -257,7 +252,7 @@ Being extorted by criminals
 - Influences [[NPC01784_Erasmus_Ravenheart_the_Wanderer]]
 - Connects to [[Shadow Timeline Lysara]]
 - Originates from [[dire-troll-mpmm (giant)]]
-- Affected by [[step_092]]
+- Affected by
 - Compare with [[ITEM00431_Fortified_Plate_of_Grace]]
 - Related: [[The Neutral Current Tavern 2]]
 - Influences [[Assets Locations Location City Private Arbitration Private Arbitration.svg]]
@@ -269,13 +264,12 @@ Being extorted by criminals
 - Compare with [[step_017 (phase_040)]]
 - Requires [[step_097 (phase_069)]]
 - Affected by [[Random Encounter Tables - Aquabyssos]]
-- Compare with [[step_057]]
+- Compare with
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

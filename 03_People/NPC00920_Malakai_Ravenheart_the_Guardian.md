@@ -18,7 +18,6 @@ aliases: [NPC00920 Malakai Ravenheart the Guardian]
 - [[#Gavril Ravenheart the Cunning (Family - Parent)|Gavril Ravenheart the Cunning (Family - Parent)]]
 - [[#Vesper Silverleaf the Fallen (Professional - Employee)|Vesper Silverleaf the Fallen (Professional - Employee)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Malakai Ravenheart the Guardian", "malakai ravenheart the guardian", "Malakai Ravenheart Guardian", "Guardian the Ravenheart Malakai"]
@@ -154,16 +153,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.218Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -184,11 +180,10 @@ Seeks rare merchandise
 - [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[NPC01761_Idris_Moonshadow_the_Broken]]
 - [[Reputation_Tracker]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -197,11 +192,10 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -209,13 +203,13 @@ Seeks rare merchandise
 - Requires [[Map Map Gloom Gardens Paths Gloom Gardens Paths.svg]]
 - Leads to [[Location City [[Master Cultivator Reef Growstone]] V1 Master Cultivator Reef Growstone.svg]]
 - See also: [[SHOP00047_Magical_Shop_48]]
-- Connects to [[step_066]]
+- Connects to
 - Influences [[Phase Transition Special Effects]]
 - Compare with [[step_049 (phase_005)]]
 - Originates from [[ITEM00629_Fortified_Helm_of_Resistance]]
 - Connects to [[Assets Locations Location City [[Pelagic Cup]] Pelagic Cup.svg]]
 - See also: [[[[Doctor Silas Voidtouch]] (D&D_References)]]
-- Parallels [[step_029]]
+- Parallels
 - Connects to [[ENC0061_Random_Encounter_62]]
 - Originates from [[step_069 (phase_036)]]
 - See also: [[List Spells Classes Way of the Sun Soul Xge]]
@@ -235,7 +229,7 @@ Seeks rare merchandise
 - Requires [[step_088 (phase_024)]]
 - Influences [[[[Market Mystery]] 2]]
 - See also: [[SPELL00069_Nature_Spell_70]]
-- Leads to [[step_079]]
+- Leads to
 - Parallels [[Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg_1 (Portraits)]]
 - Influences [[Finn Deepmarket]]
 - Parallels [[Harm Xphb]]
@@ -273,14 +267,14 @@ Seeks rare merchandise
 - Requires [[step_059 (phase_079)]]
 - Influences [[Handout Handout Merchant Contract with Fine Print V1 Merchant Contract with Fine Print.png]]
 - Influences [[02_Worldbuilding_Lore_Philosophy_of_Truth]]
-- Requires [[step_045]]
+- Requires
 - Affected by [[step_100 (phase_051)]]
 - Requires [[Portrait NPC Shadow Citizenship Act V1 Shadow Citizenship Act.svg]]
 - Influences [[[[Theological Seminaries]] 2]]
 - Influences [[step_075 (phase_008)]]
 - Influences [[step_097 (phase_076)]]
 - Leads to [[NPC00697_Jorah_Stormwind_the_Mystic]]
-- Connects to [[step_043]]
+- Connects to
 - Originates from [[Void-Echo Silence Deafmake 2]]
 - Related: [[ITEM00963_Greater_Crystal_of_Fortune]]
 - See also: [[LORE00076_History_Entry_77]]
@@ -294,7 +288,7 @@ Seeks rare merchandise
 - See also: [[LOC00259_Dungeons_Location_260]]
 - Influences [[Mobile Terror Platform]]
 - Leads to [[List Spells Optional Features Minions of]]
-- Leads to [[step_019]]
+- Leads to
 - Parallels [[step_046 (phase_025)]]
 - Leads to [[step_004 (phase_071)]]
 - Leads to [[ITEM0059_Divine_Circlet_of_Power]]
@@ -310,7 +304,6 @@ Seeks rare merchandise
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

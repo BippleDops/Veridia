@@ -18,7 +18,6 @@ aliases: [NPC01566 Lyanna Underhill the Redeemed]
 - [[#Rhiannon Quicksilver the Broken (Professional - Mentor)|Rhiannon Quicksilver the Broken (Professional - Mentor)]]
 - [[#Alaric Proudmore the Cunning (Professional - Partner)|Alaric Proudmore the Cunning (Professional - Partner)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Lyanna Underhill the Redeemed", "lyanna underhill the redeemed", "Lyanna Underhill Redeemed", "Redeemed the Underhill Lyannatags: [npc, character, combat, magic, exploration, lore]er]
@@ -156,16 +155,13 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.286Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -177,7 +173,6 @@ Modifications:
 - HP: 24
 - AC: 11
 - Notable abilities: Varies by individual
-
 
 > [!tip] 💡 Tip
 > Useful information for players
@@ -257,9 +252,7 @@ Modifications:
 - [[NPC01931_Thalia_Lightbringer_the_Fallen]]
 - [[10 Combat]]
 - [[NPC00707_Fiora_Oakenshield_the_Seeker]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -279,7 +272,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.225
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -289,11 +282,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -340,20 +332,20 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[High Inquisitor Maltheos]]
 - Compare with [[step_061 (phase_013)]]
 - Connects to [[Deep Priest Covet]]
-- Requires [[step_027]]
+- Requires
 - Parallels [[ITEM00570_Dragon_Scale_Cloak_of_Resistance]]
 - Related: [[Medium Armor Master Xphb]]
 - Requires [[Temple of Divine Order]]
-- Related: [[step_034]]
+- Related:
 - Affected by [[Iron Bands of Bilarro Xdmg]]
 - Influences [[Peace of Singing Stones (D&D_References)]]
 - Related: [[step_005 (phase_097)]]
-- Connects to [[step_075]]
+- Connects to
 - Influences [[Assets Locations Location City Religious [[Religious Groups]].svg]]
 - Parallels [[step_095 (phase_061)]]
 - Parallels [[ITEM00359_Venomous_Sword_of_Wounding]]
 - Originates from [[Atmospheric Research Society (D&D_References)]]
-- Connects to [[step_056]]
+- Connects to
 - Related: [[ENC00262_Social_Encounter_263]]
 - Connects to [[step_012 (phase_100)]]
 - Originates from [[Resistance Leader Thane Freeheart 2]]
@@ -367,16 +359,16 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Location City [[Thalassa Lightbringer]] Thalassa Lightbringer.png]]
 - Influences [[Crystal Pirate Crew 2]]
 - Connects to [[step_003 (phase_099)]]
-- Influences [[step_080]]
+- Influences
 - Originates from [[ITEM01480_Decorated_Map_Case_of_Durability]]
 - See also: [[portrait-npc-verdant-shard-verdant-shard.svg]]
-- Requires [[step_069]]
+- Requires
 - Leads to [[Environmental_Engineers]]
 - Influences [[Dimensional Fabric]]
 - Compare with [[step_056 (phase_078)]]
 - Connects to [[Goggles of Night Xdmg]]
 - See also: [[step_042 (phase_052)]]
-- Affected by [[step_100]]
+- Affected by
 - Requires [[shining-smite-xphb (spells)]]
 - Leads to [[step_032 (phase_059)]]
 - Affected by [[step_030 (phase_088)]]
@@ -389,13 +381,13 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[beholder-names-vgm (tables)]]
 - Parallels [[Whispering Wildlands]]
 - Requires [[Drow Lolth Mtf]]
-- Influences [[step_061]]
+- Influences
 - Requires [[Guildmaster Victoria Silvertongue]]
 - Parallels [[DUN00007_Dungeon_8]]
 - Requires [[step_082 (phase_089)]]
 - Influences [[Crystal Magic Theory]]
 - Affected by [[QUEST00223_Personal_Quest_224]]
-- Parallels [[step_058]]
+- Parallels
 - Compare with [[NPC01925_Elric_Frostwhisper_the_Redeemed]]
 - Compare with [[NPC01444_Pyria_Brightblade_the_Seeker]]
 - Parallels [[poisoners-kit-xphb (items)]]
@@ -420,7 +412,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

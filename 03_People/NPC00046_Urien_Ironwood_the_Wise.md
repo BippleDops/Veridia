@@ -18,7 +18,6 @@ aliases: [NPC00046 Urien Ironwood the Wise]
 - [[#Lyanna Nightfall (Personal - Love interest)|Lyanna Nightfall (Personal - Love interest)]]
 - [[#Hestara Crystalbrook (Professional - Employee)|Hestara Crystalbrook (Professional - Employee)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Urien Ironwood the Wise", "urien ironwood the wise", "Urien Ironwood Wise", "Wise the Ironwood Urien"]
@@ -144,16 +143,13 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.116Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -179,11 +175,10 @@ Requires champions for trial by combat
 - [[NPC01151_Orion_Stormwind_the_Seeker]]
 - [[10 Appendix B Creature Stat Blocks]]
 - [[MOC_Items]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -193,11 +188,10 @@ Requires champions for trial by combat
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -210,14 +204,14 @@ Requires champions for trial by combat
 - Requires [[step_074 (phase_012)]]
 - Originates from [[Quest - The Service Expansion]]
 - Affected by [[step_032 (phase_098)]]
-- Affected by [[step_066]]
+- Affected by
 - Originates from [[step_093 (phase_038)]]
 - Related: [[Location City Secondary Education Secondary Education.svg]]
 - Requires [[step_042 (phase_093)]]
 - Originates from [[step_020 (phase_050)]]
 - Related: [[step_085 (phase_015)]]
 - Originates from [[Detect Thoughts Xphb]]
-- Compare with [[step_092]]
+- Compare with
 - Influences [[Random Encounters (D&D_Statblocks)]]
 - Compare with [[Location City Innkeeper Marcus Thorne V1 Innkeeper Marcus Thorne.svg]]
 - Parallels [[Port Meridian Harbor District (D&D_References)]]
@@ -242,7 +236,7 @@ Requires champions for trial by combat
 - Originates from [[step_072 (phase_061)]]
 - Leads to [[step_035 (phase_071)]]
 - Compare with [[step_009 (phase_065)]]
-- Influences [[step_020]]
+- Influences
 - Requires [[Symbol Heraldry Treasurer Goldenshadow Treasurer Goldenshadow.svg]]
 - Connects to [[ENC00079_Environmental_Encounter_80]]
 - Compare with [[SPELL00165_Nature_Spell_166]]
@@ -253,14 +247,14 @@ Requires champions for trial by combat
 - Related: [[Assets Item Artifact Boots of Striding and Springing Xdmg V2 Boots of Striding and Springing Xdmg.png]]
 - Requires [[The Kelp Highways]]
 - Parallels [[riding-horse-xmm]]
-- Connects to [[step_009]]
+- Connects to
 - Leads to [[LOC00220_Cities_Location_221]]
 - Influences [[Golden Ballroom]]
 - See also: [[step_099 (phase_018)]]
 - Originates from [[Parasite_Boarding_&_Biohazards (02_Worldbuilding)]]
 - Influences [[mariners-armor-xdmg (items)]]
 - Leads to [[shadowfell-despair-xdmg (tables)]]
-- Requires [[step_020]]
+- Requires
 - Leads to [[MON00060_Aberrations_Creature_61]]
 - Parallels [[The Shadow Duchess Duel (Criminal_Organizations)]]
 - Originates from [[LOC00194_Planes_Location_195]]
@@ -278,7 +272,7 @@ Requires champions for trial by combat
 - Influences [[Portrait NPC Duke Lysander Crystalvein V2 Duke Lysander Crystalvein.svg]]
 - Compare with [[step_042 (phase_007)]]
 - Leads to [[Entities the Living Paradox]]
-- Parallels [[step_030]]
+- Parallels
 - Related: [[LOC00238_Wilderness_Location_239]]
 - Parallels [[Common Wine Bottle Xphb]]
 - Parallels [[Location City Warehouse District V1 Warehouse District.svg]]
@@ -294,8 +288,8 @@ Requires champions for trial by combat
 - Affected by [[Portrait NPC Archbishop Matthias Lightbringer Archbishop Matthias Lightbringer.svg]]
 - Affected by [[04_Resources_Assets_Locations_location-city-master-elena-preserver-master-elena-preserver.svg]]
 - Originates from [[02_Worldbuilding_People_Portal_Engineer_Shade_Linkwright]]
-- Leads to [[step_023]]
-- Originates from [[step_056]]
+- Leads to
+- Originates from
 - Connects to [[ITEM0095_Hidden_Orb_of_the_Dawn]]
 - Compare with [[Portrait NPC Investigator Supreme Lucian Brightwater Investigator Supreme Lucian Brightwater.svg]]
 - Compare with [[step_086 (phase_087)]]
@@ -306,7 +300,6 @@ Requires champions for trial by combat
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

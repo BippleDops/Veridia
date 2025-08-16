@@ -18,7 +18,6 @@ aliases: [NPC01934 Gareth Frostwhisper the Guardian]
 - [[#Branwen Stormwind the Guardian (Criminal - Informant)|Branwen Stormwind the Guardian (Criminal - Informant)]]
 - [[#Fiora Lightbringer the Redeemed (Criminal - Fence)|Fiora Lightbringer the Redeemed (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gareth Frostwhisper the Guardian", "gareth frostwhisper the guardian", "Gareth Frostwhisper Guardian", "Guardian the Frostwhisper Gareth"]
@@ -147,25 +146,20 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.325Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -184,7 +178,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.26
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -194,11 +188,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -207,11 +200,11 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Assets Locations Location City Royal Palace of Meridian Royal Palace of Meridian.svg]]
 - Requires [[step_046 (phase_089)]]
 - Leads to [[lightly-armored-xphb (feats)]]
-- Connects to [[step_030]]
+- Connects to
 - See also: [[step_074 (phase_053)]]
 - Related: [[list-spells-races-tiefling-xphb (lists)]]
 - Compare with [[Battleaxe Xphb]]
-- Requires [[step_020]]
+- Requires
 - See also: [[demilich]]
 - Affected by [[downtime-activity-crafting-a-magic-item (variant-rules)]]
 - See also: [[Identity Preservation]]
@@ -228,7 +221,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Intel Master Raven Shadowsigh 2]]
 - Affected by [[Basket Xphb]]
 - Leads to [[step_075 (phase_056)]]
-- Parallels [[step_037]]
+- Parallels
 - Related: [[step_073 (phase_026)]]
 - Leads to [[Assets Locations Location City Floating Cities V1 Floating Cities.svg]]
 - Related: [[step_011 (phase_057)]]
@@ -240,7 +233,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Darkquill's Rare Books 2]]
 - Related: [[Secondary Tables Tragedies Xge]]
 - Parallels [[Assets Locations Location City Mad Oracle Thessaly Mad Oracle Thessaly.svg]]
-- Influences [[step_026]]
+- Influences
 - Influences [[step_052 (phase_054)]]
 - Parallels [[Winter Wolf Xmm]]
 - See also: [[MON00158_Constructs_Creature_159]]
@@ -250,7 +243,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[bonus-action-xphb (variant-rules)]]
 - Requires [[Shadow Cultis]]
 - Parallels [[Creature Creature Violet Fungus Xmm Violet Fungus Xmm.png]]
-- Leads to [[step_080]]
+- Leads to
 - Affected by [[ENC00332_Combat_Encounter_333]]
 - Affected by [[Information Systems Alliance 2]]
 - Affected by [[Pearl_Harbor_City 2]]
@@ -263,8 +256,8 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Location City Historical Preservation Society Historical Preservation Society.svg]]
 - Leads to [[Needle Blight Xmm]]
 - Influences [[Echo Resident Sam]]
-- Related: [[step_002]]
-- Influences [[step_035]]
+- Related:
+- Influences
 - Leads to [[step_098 (phase_092)]]
 - Affected by [[LORE00182_Legends_Entry_183]]
 - Requires [[Assets Portraits Portrait NPC the Scattered Emperor the Scattered Emperor.svg]]
@@ -287,13 +280,13 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[step_056 (phase_065)]]
 - See also: [[D20 Test Xphb]]
 - Parallels [[Queen Glacialis]]
-- Related: [[step_074]]
+- Related:
 - Originates from [[step_043 (phase_062)]]
 - Related: [[MON00056_Constructs_Creature_57]]
 - Connects to [[step_064 (phase_014)]]
 - Affected by [[vrock-xmm (fiend)]]
 - Affected by [[ENC00065_Combat_Encounter_66]]
-- Parallels [[step_060]]
+- Parallels
 - Related: [[Assets Locations Location City Marquis Aldwin Goldcurrent Marquis Aldwin Goldcurrent.svg]]
 - Connects to [[step_041 (phase_029)]]
 - Parallels [[step_053 (phase_031)]]
@@ -307,7 +300,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

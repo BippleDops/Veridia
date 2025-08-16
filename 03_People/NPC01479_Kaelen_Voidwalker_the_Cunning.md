@@ -18,7 +18,6 @@ aliases: [NPC01479 Kaelen Voidwalker the Cunning]
 - [[#Aeliana Ravenheart the Wise (Political - Patron)|Aeliana Ravenheart the Wise (Political - Patron)]]
 - [[#Nerys Stormwind the Broken (Personal - Nemesis)|Nerys Stormwind the Broken (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Kaelen Voidwalker the Cunning", "kaelen voidwalker the cunning", "Kaelen Voidwalker Cunning", "Cunning the Voidwalker Kaelen"]
@@ -154,25 +153,20 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.277Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -192,7 +186,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.1
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -201,11 +195,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -226,11 +219,11 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_039 (phase_011)]]
 - Parallels [[Assets Locations Location City Registry Keeper Mordecai Truthbane Registry Keeper Mordecai Truthbane.svg]]
 - Affected by [[Scene Scene Storm Approaching the Airship Storm Approaching the Airship.png]]
-- Compare with [[step_071]]
+- Compare with
 - Related: [[Elven Tethrin Veralde Mtf]]
 - Influences [[NPC00671_Cedric_Goldleaf_the_Mystic]]
 - Influences [[Language Evolution Tracker]]
-- Connects to [[step_017]]
+- Connects to
 - Influences [[sled-dog-rot (beast)]]
 - See also: [[step_034 (phase_048)]]
 - Requires [[The Last Seeds]]
@@ -268,7 +261,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[International Crystal Trade Associatio]]
 - Influences [[egyptian-re-horakhty (deities)]]
 - Connects to [[LOC00226_Cities_Location_227]]
-- Connects to [[step_055]]
+- Connects to
 - Leads to [[FAC00072_Cults_73]]
 - Compare with [[Identify the Partys Goals Other Goals]]
 - Related: [[SPELL00101_Arcane_Spell_102]]
@@ -278,25 +271,25 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[step_069 (phase_044)]]
 - Requires [[magma-mephit-xmm (elemental)]]
 - Influences [[step_092 (phase_058)]]
-- Related: [[step_047]]
+- Related:
 - Leads to [[downtime-activity-carousing-xge (variant-rules)]]
 - Requires [[Assets Locations Location City Symphony of the Abyss Recipe Symphony of the Abyss Recipe.svg]]
 - Parallels [[Portrait NPC Pirate Captain Blacktide V2 Pirate Captain Blacktide.svg]]
 - Connects to [[Timeline of Crimes (D&D_References)]]
 - Originates from [[Symbol Heraldry Foreman Prime Salvage Maste Foreman Prime Salvage Maste.svg]]
 - Leads to [[step_062 (phase_017)]]
-- See also: [[step_062]]
+- See also:
 - Affected by [[step_029 (phase_020)]]
 - Requires [[step_064 (phase_025)]]
 - Parallels [[step_061 (phase_025)]]
 - Connects to [[Assets Locations Location City Shadow Portal Nexus V1 Shadow Portal Nexus.svg]]
 - Related: [[ITEM00249_Blazing_Hammer_of_Wounding]]
-- Originates from [[step_051]]
+- Originates from
 - Originates from [[QUEST00115_Side_Quest_116]]
 - Originates from [[Coverage Dashboard]]
 - Leads to [[Market Squar]]
 - Affected by [[Ironhold Dock]]
-- Connects to [[step_090]]
+- Connects to
 - See also: [[LOC00058_Planes_Location_59]]
 - Affected by [[LORE00219_Legends_Entry_220]]
 - Related: [[Serenity Stillwater (D&D_References)]]
@@ -314,7 +307,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

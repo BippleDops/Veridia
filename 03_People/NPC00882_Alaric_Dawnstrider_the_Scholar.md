@@ -18,7 +18,6 @@ aliases: [NPC00882 Alaric Dawnstrider the Scholar]
 - [[#Drusilla Goldleaf the Lost (Political - Ally)|Drusilla Goldleaf the Lost (Political - Ally)]]
 - [[#Qadim Oakenshield the Broken (Criminal - Accomplice)|Qadim Oakenshield the Broken (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Alaric Dawnstrider the Scholar", "alaric dawnstrider the scholar", "Alaric Dawnstrider Scholar", "Scholar the Dawnstrider Alaric"]
 tags: [npc, character]
@@ -152,21 +151,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.213Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,11 +171,11 @@ Seeks rare merchandise
 - Compare with [[Pilgrimage Master Depth Guide Melancholy (D&D_References)]]
 - Originates from [[Cover Identity Coordinator (D&D_References)]]
 - Leads to [[step_005 (phase_031)]]
-- Compare with [[step_060]]
+- Compare with
 - Requires [[step_023 (phase_043)]]
 - Compare with [[LORE00067_Prophecies_Entry_68]]
 - Requires [[LORE00009_Legends_Entry_10]]
-- Compare with [[step_075]]
+- Compare with
 - Influences [[ITEM0121_Blessed_Circlet_of_the_Dawn]]
 - Connects to [[Princess Luminara 2]]
 - Affected by [[QUEST00117_Personal_Quest_118]]
@@ -217,7 +212,7 @@ Seeks rare merchandise
 - Related: [[step_086 (phase_100)]]
 - Requires [[Assets Locations Location City the Seven Shards Mystery V1 the Seven Shards Mystery.svg]]
 - Requires [[demon-customization-tables-demon-ideals-mtf (tables)]]
-- Related: [[step_091]]
+- Related:
 - Affected by [[Nonhuman Corellon Larethian]]
 - Compare with [[ENC00235_Social_Encounter_236]]
 - Affected by [[Dockworkers' Union (D&D_References)]]
@@ -249,7 +244,7 @@ Seeks rare merchandise
 - Connects to [[Shadow Conspiracy Timeline 2]]
 - Requires [[LORE00238_Prophecies_Entry_239]]
 - Affected by [[Supplier Erikson Tidecaller]]
-- Leads to [[step_042]]
+- Leads to
 - Leads to [[EVENT00036_Political_Event_37]]
 - Compare with [[Nonhuman Grolantor]]
 - Originates from [[Assets Symbols Symbol Heraldry the Great Resonance the Great Resonance.svg]]
@@ -263,7 +258,7 @@ Seeks rare merchandise
 - Originates from [[Divine Intervention]]
 - Compare with [[Location City Void Prophet Nullus the Erased V1 Void Prophet Nullus the Erased.svg]]
 - Originates from [[Rowboat Xphb]]
-- Related: [[step_052]]
+- Related:
 - Parallels [[Deep Initiation (D&D_References)]]
 - Leads to [[step_067 (phase_095)]]
 - Affected by [[step_033 (phase_013)]]
@@ -275,7 +270,6 @@ Seeks rare merchandise
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

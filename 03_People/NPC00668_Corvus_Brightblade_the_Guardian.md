@@ -18,7 +18,6 @@ aliases: [NPC00668 Corvus Brightblade the Guardian]
 - [[#Felicia Hawthorne the Seeker (Family - Spouse)|Felicia Hawthorne the Seeker (Family - Spouse)]]
 - [[#Xander Ashford the Cunning (Professional - Partner)|Xander Ashford the Cunning (Professional - Partner)]]
 
-
 ---
 aliases: ["Corvus Brightblade the Guardian", "corvus brightblade the guardian", "Corvus Brightblade Guardian", "Guardian the Brightblade Corvus"]
 tags: [npc, character]
@@ -152,21 +151,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.189Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,7 +170,7 @@ Being extorted by criminals
 - Parallels [[ITEM01012_Superior_Powder_of_Swiftness]]
 - Affected by [[EVENT00049_Magical_Event_50]]
 - Compare with [[Yeth Hound Mpmm]]
-- Influences [[step_004]]
+- Influences
 - Compare with [[02_Worldbuilding_Spells_Future_Glimpse]]
 - Affected by [[Assets Locations Location City Temple Hierarchies V1 Temple Hierarchies.png]]
 - Parallels [[list-spells-optional-features-beast-speech (lists)]]
@@ -187,7 +182,7 @@ Being extorted by criminals
 - See also: [[Portrait NPC High Techno Priest Lumina Skyweaver V2 High Techno Priest Lumina Skyweaver.svg]]
 - Originates from [[portrait-npc-assassin-v1-assassin.svg]]
 - Compare with [[Advanced Shadow Detection]]
-- Compare with [[step_065]]
+- Compare with
 - Requires [[Master Merchant Luna Fairweigh]]
 - Related: [[Portrait NPC High Cultivist Jasper Lifebinder V2 High Cultivist Jasper Lifebinder.svg]]
 - Affected by [[Location City Palace Guardians V1 Palace Guardians.svg]]
@@ -195,7 +190,7 @@ Being extorted by criminals
 - Leads to [[Portrait NPC Gallery Guide Captain Marina Civicvoice V1 Gallery Guide Captain Marina Civicvoice.svg]]
 - Leads to [[step_031 (phase_051)]]
 - Compare with [[LORE0079_Secret_of_the_Ancient_Pact]]
-- Related: [[step_059]]
+- Related:
 - Affected by [[step_087 (phase_015)]]
 - Related: [[Memory Farmers (D&D_References)]]
 - Influences [[Guildmaster Harwick (D&D_References)]]
@@ -215,7 +210,7 @@ Being extorted by criminals
 - Leads to [[Shadow Information Brokers]]
 - Leads to [[LOC00016_Dungeons_Location_17]]
 - Requires [[Pier 8 (D&D_References)]]
-- Related: [[step_063]]
+- Related:
 - Leads to [[Gnome Tables Gnome Flaws Mtf]]
 - Influences [[Captain Storm Ambushmaster (D&D_References)]]
 - See also: [[giant-centipede-xmm (beast)]]
@@ -228,7 +223,7 @@ Being extorted by criminals
 - Requires [[Sacred Grottos (D&D_References)]]
 - Connects to [[Royal Doubles]]
 - Leads to [[Lady Vivienne the Unfrozen]]
-- Related: [[step_039]]
+- Related:
 - Related: [[Sharpshooter Xphb]]
 - Leads to [[Gideon Quickstep]]
 - Requires [[Cliffhangers]]
@@ -237,8 +232,8 @@ Being extorted by criminals
 - Connects to [[copper-dragon-scale-mail-xdmg (items)]]
 - Requires [[NPC01507_Branwen_Goldleaf_the_Swift]]
 - Connects to [[step_018 (phase_021)]]
-- See also: [[step_045]]
-- Parallels [[step_010]]
+- See also:
+- Parallels
 - Compare with [[Compass Quest (D&D_References)]]
 - See also: [[Symbol Heraldry the Liminal Trading Company the Liminal Trading Company.svg]]
 - Parallels [[step_007 (phase_025)]]
@@ -252,7 +247,7 @@ Being extorted by criminals
 - Parallels [[NPC01007_Dara_Frostwhisper_the_Wanderer]]
 - See also: [[blink-xphb (spells)]]
 - Leads to [[Basalt Depthwright (D&D_References)]]
-- Parallels [[step_045]]
+- Parallels
 - Leads to [[Location City Deep Harbor Technology Deep Harbor Technology.svg]]
 - Leads to [[Location City Lord Reginald Seaworthy Lord Reginald Seaworthy.svg]]
 - Compare with [[Paradox Legal Counsel (D&D_References)]]
@@ -264,7 +259,7 @@ Being extorted by criminals
 - Parallels [[LOC00123_Cities_Location_124]]
 - Affected by [[Thieves Guild (Guilds)]]
 - Originates from [[The Reef Communities 2]]
-- Requires [[step_029]]
+- Requires
 - Affected by [[Portrait NPC Captain Hadal Voidwright V1 Captain Hadal Voidwright.svg]]
 - Affected by [[Incubus Xmm]]
 - Affected by [[dragonlance-sargonnas-phb (deities)]]
@@ -275,7 +270,6 @@ Being extorted by criminals
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

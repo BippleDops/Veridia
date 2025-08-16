@@ -18,7 +18,6 @@ aliases: [NPC00669 Zephyr Youngblood the Lost]
 - [[#Gavril Frostwhisper the Wanderer (Family - Cousin)|Gavril Frostwhisper the Wanderer (Family - Cousin)]]
 - [[#Gareth Hawthorne the Risen (Personal - Nemesis)|Gareth Hawthorne the Risen (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Zephyr Youngblood the Lost", "zephyr youngblood the lost", "Zephyr Youngblood Lost", "Lost the Youngblood Zephyrtags: [npc, character, combat, magic, lore]er]
@@ -147,16 +146,13 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.189Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -181,11 +177,10 @@ Modifications:
 - [[NPC00362_Pyria_Stormwind_the_Wise]]
 - [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
 - [[NPC00719_Orion_Hawthorne_the_Cunning]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -195,11 +190,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -215,23 +209,23 @@ Modifications:
 - Originates from [[NPC01111_Ysara_Crystalbrook_the_Strong]]
 - Influences [[step_029 (phase_040)]]
 - Affected by [[ITEM00396_Blessed_Staff_of_the_Ancients]]
-- Affected by [[step_079]]
+- Affected by
 - Parallels [[Hill Giant Xmm]]
-- Influences [[step_039]]
+- Influences
 - Connects to [[Imperial Vaults 2]]
 - Related: [[NPC00439_Thalia_Silverleaf]]
-- Leads to [[step_009]]
+- Leads to
 - Leads to [[Location City [[The Transition Centers]] V1 the Transition Centers.svg]]
 - Parallels [[Assets Locations Location City [[The Purification Temples]] the Purification Temples.svg]]
 - Connects to [[Portrait NPC Emperor Abyssal the Deep Sighted V2 Emperor Abyssal the Deep Sighted.svg_1 (Portraits)]]
 - Leads to [[[[Memory Crystal Archivist Nautilus Storykeeper]] (D&D_References)]]
 - Requires [[QUEST00257_Side_Quest_258]]
 - Leads to [[08-chapter-7-spells (players-handbook-2024)]]
-- Influences [[step_024]]
+- Influences
 - Influences [[The Senator's Office]]
 - Originates from [[Assets Locations Location City [[Undead Services Bureau]] Undead Services Bureau.svg]]
 - Parallels [[Symbol Heraldry the Liminal Trading Company V1 the Liminal Trading Company.svg]]
-- See also: [[step_019]]
+- See also:
 - Related: [[step_035 (phase_048)]]
 - Related: [[pixie-wonderbringer-xmm (fey)]]
 - See also: [[human-names-celtic-female-xge (tables)]]
@@ -250,7 +244,7 @@ Modifications:
 - Parallels [[celtic-dunatis (deities)]]
 - Related: [[Assets Locations Location City [[Ambassador Silk Bridgewater]] V1 Ambassador Silk Bridgewater.svg]]
 - Leads to [[Mirror Window]]
-- Connects to [[step_015]]
+- Connects to
 - Compare with [[location-city-[[Crystalhaven]]-crystalhaven.svg]]
 - Related: [[SPELL00153_Arcane_Spell_154]]
 - Originates from [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg_Quick_Ref]]
@@ -308,7 +302,6 @@ Modifications:
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

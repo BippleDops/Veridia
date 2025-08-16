@@ -9,7 +9,6 @@ aliases: [NPC01110 Wynne Hawthorne the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01110 Wynne Hawthorne the Redeemed]
 - [[#Fiora Thornweave the Scholar (Family - Child)|Fiora Thornweave the Scholar (Family - Child)]]
 - [[#Faelyn Lightbringer the Redeemed (Criminal - Fence)|Faelyn Lightbringer the Redeemed (Criminal - Fence)]]
 - [[#Erasmus Darkwater the Seeker (Personal - Best friend)|Erasmus Darkwater the Seeker (Personal - Best friend)]]
-
 
 ---
 created: 2025-08-15
@@ -149,27 +147,23 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.238Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -178,17 +172,16 @@ Has map to lost treasure
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Originates from [[Mezzoloth Xmm]]
 - Related: [[Senior Investigator Shadow Trackhound]]
-- See also: [[step_030]]
+- See also:
 - Requires [[Symbol Heraldry Elara Crystalline Elara Crystalline.svg]]
 - Leads to [[The Deep Sentinel]]
 - Requires [[Location City Flow Circlemaker Flow Circlemaker.svg]]
@@ -204,14 +197,14 @@ Has map to lost treasure
 - Originates from [[Surface Tensions 2]]
 - See also: [[10 combat#Dropping_to_0_Hit_Points#Monsters_and_Death]]
 - Leads to [[The Shadow Merchants]]
-- Influences [[step_057]]
+- Influences
 - Connects to [[LOC00142_Dungeons_Location_143]]
 - Influences [[step_020 (phase_083)]]
 - Influences [[Deep Pearls]]
 - Originates from [[LORE00040_Legends_Entry_41]]
 - Connects to [[step_073 (phase_090)]]
 - Compare with [[Chaplain Abyssos the Deepseeke]]
-- Parallels [[step_049]]
+- Parallels
 - Connects to [[Councilor Marina Deepbridge]]
 - Related: [[buying-a-magic-item-magic-item-price-xge (tables)]]
 - Compare with [[The Grand Exchange]]
@@ -220,16 +213,16 @@ Has map to lost treasure
 - Affected by [[special-purpose-sentient-items-communication-xdmg]]
 - Requires [[step_077 (phase_054)]]
 - See also: [[The Great Sky Harbor 2]]
-- Leads to [[step_026]]
+- Leads to
 - Parallels [[Ivan_Fireborn]]
 - Affected by [[arcana-rare-xdmg (tables)]]
-- Leads to [[step_060]]
+- Leads to
 - See also: [[spiritual-weapon-xphb (spells)]]
 - Affected by [[Assets Locations Location City Floating Cities V1 Floating Cities.svg]]
 - Compare with [[step_018 (phase_029)]]
 - See also: [[Temporal Harvest]]
-- Influences [[step_050]]
-- Connects to [[step_051]]
+- Influences
+- Connects to
 - Connects to [[step_003 (phase_097)]]
 - Requires [[EVENT00050_Magical_Event_51]]
 - See also: [[step_084 (phase_080)]]
@@ -267,8 +260,8 @@ Has map to lost treasure
 - See also: [[portrait-npc-seventh-shard-seventh-shard.svg]]
 - Leads to [[ENC00138_Environmental_Encounter_139]]
 - Leads to [[Progressive Policy Portfolio]]
-- Related: [[step_038]]
-- Affected by [[step_028]]
+- Related:
+- Affected by
 - Leads to [[04_Resources_Assets_Symbols_symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg]]
 - Influences [[The Origin War]]
 - Leads to [[LOC00028_Dungeons_Location_29]]
@@ -278,9 +271,9 @@ Has map to lost treasure
 - Influences [[Memory Trading Economy System]]
 - Affected by [[NPC00541_Baelor_Oakenshield_the_Strong]]
 - Originates from [[LOC00192_Cities_Location_193]]
-- See also: [[step_084]]
+- See also:
 - Affected by [[step_027 (phase_024)]]
-- See also: [[step_093]]
+- See also:
 - Compare with [[Scholars of Lorehold Lorehold Scholars Scc]]
 - Originates from [[Emergency Response Coordinator Time Guardia]]
 - Connects to [[Pressure Suit Malfunction]]

@@ -18,7 +18,6 @@ aliases: [NPC00610 Nerys Oakenshield the Seeker]
 - [[#Elric Underhill the Wise (Family - Child)|Elric Underhill the Wise (Family - Child)]]
 - [[#Pyria Thornweave the Redeemed (Professional - Rival)|Pyria Thornweave the Redeemed (Professional - Rival)]]
 
-
 ---
 aliases: ["Nerys Oakenshield the Seeker", "nerys oakenshield the seeker", "Nerys Oakenshield Seeker", "Seeker the Oakenshield Nerys"]
 tags: [npc, character]
@@ -155,21 +154,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.182Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -179,7 +174,7 @@ Being extorted by criminals
 - See also: [[LOC00196_Dungeons_Location_197]]
 - Requires [[Unite_the_Two_Worlds.png]]
 - See also: [[Pressure-Responsive Fabrics (D&D_References)]]
-- Connects to [[step_052]]
+- Connects to
 - Leads to [[ITEM01402_Practical_Spyglass_of_Durability]]
 - Related: [[Assets Locations Location City Shadow Market Canals Shadow Market Canals.svg]]
 - Connects to [[Commander Drake Pressureborn]]
@@ -216,7 +211,7 @@ Being extorted by criminals
 - Originates from [[Portrait NPC Queen Morwyn Lumengarde V1 Queen Morwyn Lumengarde.svg_1 (Portraits)]]
 - Influences [[Working Class Routines (Lore)]]
 - Parallels [[MON0046_Bone_Wraith]]
-- See also: [[step_002]]
+- See also:
 - Influences [[Location City Merchant Prince Akula Merchant Prince Akula.png]]
 - Leads to [[The Opposition Leader (D&D_References)]]
 - Leads to [[The Observatory 2]]
@@ -251,7 +246,7 @@ Being extorted by criminals
 - Connects to [[step_085 (phase_082)]]
 - Related: [[Create New NPC]]
 - Affected by [[The Frozen Throne]]
-- Affected by [[step_031]]
+- Affected by
 - See also: [[Location City Reality Breach Locations V1 Reality Breach Locations.svg]]
 - Originates from [[adult-black-dragon-xmm]]
 - Affected by [[QUEST0075_The_Cursed_Alliance]]
@@ -278,7 +273,6 @@ Being extorted by criminals
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

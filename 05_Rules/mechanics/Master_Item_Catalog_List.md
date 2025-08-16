@@ -1,9 +1,9 @@
 ---
 tags:
-  - items
-  - catalog
-  - equipment
-  - index
+ - items
+ - catalog
+ - equipment
+ - index
 type: catalog
 ---
 
@@ -2822,7 +2822,7 @@ The origins and notable events involving this item.
 - [[Statuette of Saint Markovia Cos]] - 0 gp
 - [[Statuette of Saint Markovia Cos]] - 0 gp
 - [[Statuette of Saint Markovia Cos]] - 0 gp
-- [[step_010]] - 0 gp
+- - 0 gp
 - [[elemental]] - 0 gp
 - [[elemental]] - 0 gp
 - [[elemental]] - 0 gp

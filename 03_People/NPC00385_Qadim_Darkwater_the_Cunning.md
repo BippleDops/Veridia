@@ -18,7 +18,6 @@ aliases: [NPC00385 Qadim Darkwater the Cunning]
 - [[#Nerys Dawnstrider the Seeker (Criminal - Handler)|Nerys Dawnstrider the Seeker (Criminal - Handler)]]
 - [[#Faelyn Proudmore the Wanderer (Criminal - Informant)|Faelyn Proudmore the Wanderer (Criminal - Informant)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Qadim Darkwater the Cunning", "qadim darkwater the cunning", "Qadim Darkwater Cunning", "Cunning the Darkwater Qadimtags: [npc, character, combat, magic, social, lore]er]
@@ -143,16 +142,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.156Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -187,11 +183,10 @@ Modifications:
 - [[07 Customization Options]]
 - [[NPC01082_Fiora_Ashford_the_Fallen]]
 - [[MOC_Items]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -199,11 +194,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -216,7 +210,7 @@ Modifications:
 - Compare with [[Duergar in the World Duergar Adventurer Story Hooks Mtf]]
 - Connects to [[Assets Locations [[Location City [[High Vigil Keeper Thalassa Depthmind]] High Vigil Keeper Thalassa Depthmind.svg]]]]
 - Related: [[ENC0040_Random_Encounter_41]]
-- Affected by [[step_044]]
+- Affected by
 - See also: [[NPC01055_Cedric_Voidwalker_the_Wanderer]]
 - See also: [[step_035 (phase_071)]]
 - Related: [[SHOP00058_General_Shop_59]]
@@ -244,12 +238,12 @@ Modifications:
 - Parallels [[step_044 (phase_028)]]
 - Parallels [[step_086 (phase_067)]]
 - Leads to [[ENC00063_Social_Encounter_64]]
-- Influences [[step_033]]
+- Influences
 - Affected by [[step_096 (phase_029)]]
 - Compare with [[04_Places_The_Grinding_Workshop]]
 - Originates from [[LOC00092_Planes_Location_93]]
 - Influences [[step_087 (phase_059)]]
-- Compare with [[step_018]]
+- Compare with
 - Compare with [[step_066 (phase_069)]]
 - Compare with [[Assets Locations Location City [[Trader Compass Rose]] Trader Compass Rose.svg]]
 - Compare with [[[[The Sinking Atoll]] 2]]
@@ -258,7 +252,7 @@ Modifications:
 - Connects to [[Tides of Destiny Introduction]]
 - Compare with [[ITEM01225_Pure_Herb_of_Swiftness]]
 - Connects to [[step_075 (phase_027)]]
-- Related: [[step_016]]
+- Related:
 - Parallels [[LORE00183_Prophecies_Entry_184]]
 - Connects to [[ENC0093_Random_Encounter_94]]
 - Requires [[LOC00203_Dungeons_Location_204]]
@@ -272,7 +266,7 @@ Modifications:
 - See also: [[S L-08 Gravity Inversion Storm Player (Encounters)]]
 - Parallels [[Captain Nerida Stormcrest (D&D_References)]]
 - Related: [[QUEST00095_Personal_Quest_96]]
-- Leads to [[step_093]]
+- Leads to
 - Affected by [[step_017 (phase_091)]]
 - Related: [[LOC0050_NorthVale]]
 - Related: [[NPC01780_Solas_Hawthorne_the_Strong]]
@@ -284,7 +278,7 @@ Modifications:
 - Leads to [[step_014 (phase_061)]]
 - Affected by [[step_096 (phase_071)]]
 - Originates from [[MON00154_Undead_Creature_155]]
-- Influences [[step_022]]
+- Influences
 - See also: [[Far Realm Incursions]]
 - See also: [[step_007 (phase_058)]]
 - Parallels [[DUN00135_Dungeon_136]]
@@ -312,7 +306,6 @@ Modifications:
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

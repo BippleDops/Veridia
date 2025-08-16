@@ -9,7 +9,6 @@ aliases: [NPC01581 Faelyn Hawthorne the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01581 Faelyn Hawthorne the Risen]
 - [[#Alaric Ashford the Cunning (Professional - Rival)|Alaric Ashford the Cunning (Professional - Rival)]]
 - [[#Thalia Goldleaf the Risen (Family - Sibling)|Thalia Goldleaf the Risen (Family - Sibling)]]
 - [[#Erasmus Youngblood the Cunning (Personal - Love interest)|Erasmus Youngblood the Cunning (Personal - Love interest)]]
-
 
 ---
 aliases: ["Faelyn Hawthorne the Risen", "faelyn hawthorne the risen", "Faelyn Hawthorne Risen", "Risen the Hawthorne Faelyn"]
@@ -148,21 +146,17 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.288Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -184,14 +178,14 @@ Knows secret about major threat
 - Compare with [[step_003 (phase_082)]]
 - Affected by [[Portrait NPC Captain Thalia Stormguard Captain Thalia Stormguard.svg]]
 - Requires [[Portrait NPC Captain Dara Ironwill V2 Captain Dara Ironwill.svg]]
-- Originates from [[step_072]]
+- Originates from
 - Compare with [[Pearl Divers 2]]
 - Influences [[Current Harvestsage]]
 - Parallels [[mire-the-mind (optional-features)]]
 - Influences [[Assassins Blood Xdmg]]
 - Related: [[Encrypted Orders]]
 - Requires [[step_046 (phase_093)]]
-- Affected by [[step_088]]
+- Affected by
 - Related: [[Spell Gem Amber Oota]]
 - Affected by [[The Memory Vaults (D&D_References)]]
 - Leads to [[The Memory Mirror]]
@@ -241,15 +235,15 @@ Knows secret about major threat
 - See also: [[wraith-xmm (undead)]]
 - Leads to [[Assets Locations Location City Chancellor Octavius V1 Chancellor Octavius.svg]]
 - Affected by [[step_095 (phase_056)]]
-- Originates from [[step_002]]
+- Originates from
 - Compare with [[Map World Layer World Political Boundaries V2 World Political Boundaries.svg]]
 - Leads to [[Elemental Courts]]
 - Compare with [[Symbol Heraldry Supernatural Mysterie Supernatural Mysterie.svg]]
-- Affected by [[step_005]]
-- Affected by [[step_046]]
+- Affected by
+- Affected by
 - Related: [[Create Homunculus Xge]]
 - Compare with [[bard-xphb (classes)]]
-- Originates from [[step_046]]
+- Originates from
 - Compare with [[entertainer-gladiator-variant (backgrounds)]]
 - Related: [[LOC00027_Wilderness_Location_28]]
 - Affected by [[Astrologer Prime Cassandra Starweaver 2]]
@@ -257,7 +251,7 @@ Knows secret about major threat
 - Originates from [[LORE00013_History_Entry_14]]
 - Related: [[ITEM01491_Elegant_Compass_of_Quality]]
 - Influences [[step_008 (phase_051)]]
-- See also: [[step_033]]
+- See also:
 - Requires [[step_014 (phase_092)]]
 - Originates from [[Deep-Sea Agricultural Research Institut]]
 - Requires [[Skill Xphb]]

@@ -18,7 +18,6 @@ aliases: [NPC00735 Aldric Xendar the Cunning]
 - [[#Thalia Emberfall the Bold (Criminal - Handler)|Thalia Emberfall the Bold (Criminal - Handler)]]
 - [[#Hilda Quicksilver the Redeemed (Professional - Partner)|Hilda Quicksilver the Redeemed (Professional - Partner)]]
 
-
 ---
 aliases: ["Aldric Xendar the Cunning", "aldric xendar the cunning", "Aldric Xendar Cunning", "Cunning the Xendar Aldric"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.196Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -189,16 +184,16 @@ Family member has gone missing
 - Connects to [[LORE00087_Prophecies_Entry_88]]
 - Influences [[step_001 (phase_077)]]
 - Parallels [[Ambassador Coral 2]]
-- Compare with [[step_045]]
+- Compare with
 - Compare with [[Assets Locations Location City Tribune Cassia Tribune Cassia.svg]]
 - Originates from [[ENC00208_Combat_Encounter_209]]
 - Leads to [[Portrait NPC Deep... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Parallels [[04_Resources_Assets_Symbols_symbol-heraldry-divine-transformation-theolog-divine-transformation-theolog.svg]]
 - Leads to [[step_001 (phase_034)]]
 - Influences [[Arcane Study Charm Xdmg]]
-- See also: [[step_075]]
+- See also:
 - Affected by [[Portrait NPC Sir Marcus Dawnforge V1 Sir Marcus Dawnforge.svg]]
-- Related: [[step_015]]
+- Related:
 - Originates from [[Lord Flux the Inconsistent]]
 - Leads to [[Arcturus Lumenblade 2]]
 - Related: [[MON00135_Undead_Creature_136]]
@@ -265,7 +260,7 @@ Family member has gone missing
 - Parallels [[spell-sniper-xphb (feats)]]
 - See also: [[step_081 (phase_023)]]
 - Influences [[QUEST00108_Personal_Quest_109]]
-- Originates from [[step_084]]
+- Originates from
 - Connects to [[Bioluminescent Processing Centers]]
 - Related: [[Wind Song Linguistic Guide (D&D_References)]]
 - Connects to [[The Vigil Gardens]]
@@ -277,7 +272,6 @@ Family member has gone missing
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

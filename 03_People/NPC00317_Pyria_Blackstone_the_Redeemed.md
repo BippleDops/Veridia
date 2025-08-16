@@ -9,7 +9,6 @@ aliases: [NPC00317 Pyria Blackstone the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00317 Pyria Blackstone the Redeemed]
 - [[#Fiora Darkwater the Wise (Family - Spouse)|Fiora Darkwater the Wise (Family - Spouse)]]
 - [[#Urien Crystalbrook the Guardian (Family - Spouse)|Urien Crystalbrook the Guardian (Family - Spouse)]]
 - [[#Orion Xendar the Wanderer (Professional - Mentor)|Orion Xendar the Wanderer (Professional - Mentor)]]
-
 
 ---
 created: 2025-08-15
@@ -149,16 +147,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.148Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -177,11 +172,10 @@ Seeks bodyguards for dangerous journey
 - [[11 Rules Glossary]]
 - [[NPC01894_Aldric_Lightbringer_the_Bold]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -191,18 +185,17 @@ Seeks bodyguards for dangerous journey
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- Affected by [[step_096]]
+- Affected by
 - Related: [[Location City Clerk Supreme Marcus Filekeeper Clerk Supreme Marcus Filekeeper.svg]]
 - Parallels [[blowgun-xphb (items)]]
-- Parallels [[step_015]]
+- Parallels
 - Compare with [[Military Saddle Xphb]]
 - See also: [[step_068 (phase_089)]]
 - Requires [[Torpor Xdmg]]
@@ -212,10 +205,10 @@ Seeks bodyguards for dangerous journey
 - Requires [[Portrait NPC Blackwater Estate V2 Blackwater Estate.svg]]
 - Connects to [[step_008 (phase_038)]]
 - Connects to [[Artifact_Visuals (Assets)]]
-- Affected by [[step_098]]
+- Affected by
 - See also: [[step_002 (phase_048)]]
 - Requires [[step_038 (phase_091)]]
-- Related: [[step_018]]
+- Related:
 - Affected by [[step_018 (phase_095)]]
 - Originates from [[giant-vulture-xmm]]
 - Connects to [[QUEST00237_Side_Quest_238]]
@@ -246,7 +239,7 @@ Seeks bodyguards for dangerous journey
 - Influences [[03_Mechanics_Communication_Systems_Quick_Ref]]
 - Requires [[step_034 (phase_059)]]
 - Influences [[Mind Carapace Armor Vgm]]
-- Originates from [[step_075]]
+- Originates from
 - Connects to [[location-city-trade-union-trade-union.svg]]
 - See also: [[LOC00207_Wilderness_Location_208]]
 - Connects to [[Half Orc Parents Xge]]
@@ -259,7 +252,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [[Operations Manager Current Harvestwright]]
 - Requires [[step_091 (phase_054)]]
 - Influences [[ENC00255_Social_Encounter_256]]
-- Parallels [[step_025]]
+- Parallels
 - Compare with [[NPC00565_Qadim_Blackstone_the_Redeemed]]
 - Parallels [[NPC Directory.base (People)]]
 - Compare with [[Lieutenant Loyalt 2]]
@@ -268,7 +261,7 @@ Seeks bodyguards for dangerous journey
 - Leads to [[initial-attitudes-initial-attitude-xdmg (tables)]]
 - See also: [[ox-mpmm (beast)]]
 - Connects to [[Faction_Tracker (D&D_References)]]
-- Originates from [[step_073]]
+- Originates from
 - Leads to [[Diplomat Supreme International 2]]
 - Related: [[step_063 (phase_033)]]
 - Requires [[Potion of Fire Giant Strength Xdmg]]
@@ -281,14 +274,14 @@ Seeks bodyguards for dangerous journey
 - Requires [[step_047 (phase_091)]]
 - Compare with [[step_009 (phase_071)]]
 - Influences [[Location City the Transition Centers V1 the Transition Centers.svg]]
-- Related: [[step_021]]
+- Related:
 - Related: [[Information Broker Selan]]
 - See also: [[Creating a Gnoll War Band Gnoll War Band Composition Vgm]]
 - Affected by [[The Siren (D&D_References)]]
 - Influences [[step_045 (phase_069)]]
 - Related: [[Consequence Chain 5 - Marina Identity Revelation (D&D_References)]]
-- Compare with [[step_023]]
-- Parallels [[step_097]]
+- Compare with
+- Parallels
 - Influences [[Darkquill's Safe House]]
 - Parallels [[The Debt Collectors]]
 - Requires [[NPC4 (People)]]

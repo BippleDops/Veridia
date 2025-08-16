@@ -18,7 +18,6 @@ aliases: [NPC01149 Aeliana Crystalbrook the Bold]
 - [[#Brenna Jadeclaw the Seeker (Professional - Partner)|Brenna Jadeclaw the Seeker (Professional - Partner)]]
 - [[#Erasmus Crystalbrook the Guardian (Professional - Employee)|Erasmus Crystalbrook the Guardian (Professional - Employee)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aeliana Crystalbrook the Bold", "aeliana crystalbrook the bold", "Aeliana Crystalbrook Bold", "Bold the Crystalbrook Aeliana"]
@@ -151,27 +150,23 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.242Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -180,11 +175,10 @@ Competitor sabotaging business
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -195,18 +189,18 @@ Competitor sabotaging business
 - Compare with [[step_039 (phase_080)]]
 - Affected by [[Shadow Magistrate Umbrian Darkwise (D&D_References)]]
 - Leads to [[Cultural Exchange Cente]]
-- Compare with [[step_083]]
+- Compare with
 - Originates from [[step_001 (phase_060)]]
 - Connects to [[step_098 (phase_052)]]
 - Requires [[portrait-npc-aether-crystal-v2-aether-crystal.svg_1 (Portraits)]]
-- Connects to [[step_037]]
+- Connects to
 - Affected by [[Troglodyte Xmm]]
 - Affected by [[Underwater Encounters Levels 510 Xge]]
 - Connects to [[step_095 (phase_033)]]
 - Leads to [[The Community Awakening 2]]
 - Affected by [[deck-of-many-things-xdmg (items)]]
 - Related: [[The Depth Oracles]]
-- Requires [[step_004]]
+- Requires
 - Connects to [[02_Worldbuilding_Places_The_Crimson_Reef]]
 - Influences [[Multiclassing Proficiencies Phb]]
 - Related: [[The Great Sky Harbor]]
@@ -225,7 +219,7 @@ Competitor sabotaging business
 - Connects to [[Lumengarde]]
 - Affected by [[Master Builder Caelum Vortexwright]]
 - Influences [[portrait-npc-the-emperor-v2-the-emperor.svg_1 (Portraits)]]
-- Related: [[step_049]]
+- Related:
 - Related: [[portrait-npc-oracle-v2-oracle.svg]]
 - Related: [[04_Resources_Assets_Locations_location-city-cathedral-of-light-cathedral-of-light.png]]
 - Parallels [[LORE00161_History_Entry_162]]
@@ -237,12 +231,12 @@ Competitor sabotaging business
 - Originates from [[Black Market Deal]]
 - Influences [[Average Results Mob Results Xdmg]]
 - Requires [[Border Reality Zones]]
-- Requires [[step_007]]
+- Requires
 - Originates from [[Crisis Communication Array]]
-- Originates from [[step_076]]
+- Originates from
 - Parallels [[Unity Shard]]
 - Influences [[location-city-pristine-pearl-pristine-pearl.svg]]
-- See also: [[step_049]]
+- See also:
 - Affected by [[The Addicted Nobles (D&D_References)]]
 - Leads to [[Shadow Reflection Sage]]
 - Connects to [[step_029 (phase_030)]]
@@ -284,7 +278,7 @@ Competitor sabotaging business
 - Requires [[Duchess Marina Ever-Drowning (D&D_References)]]
 - Influences [[The Professional Standards Authority]]
 - Connects to [[SHOP00006_General_Shop_7]]
-- Requires [[step_011]]
+- Requires
 - Influences [[otyugh-xmm (aberration)]]
 - Compare with [[step_026 (phase_092)]]
 - Connects to [[Memory Eternal Keeper]]
@@ -293,7 +287,6 @@ Competitor sabotaging business
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

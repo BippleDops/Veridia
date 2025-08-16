@@ -18,7 +18,6 @@ aliases: [07-chapter-6-equipment (players-handbook-2024)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 07-chapter-6-equipment (players-handbook-2024)
@@ -77,11 +76,9 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This character is not who they seem
@@ -112,9 +109,7 @@ world: Both
 Connected to the main villain's plan
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -131,7 +126,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Source References
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -141,7 +136,6 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Movement**: See ACX p.190-192
-
 
 ## D&D 5e References
 
@@ -215,13 +209,13 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Quarterstaff of the Acrobat Xdmg]]
 - Related: [[burning-xphb (traps-hazards)]]
 - Affected by [[Military Bases (D&D_References)]]
-- Parallels [[step_048]]
+- Parallels
 - See also: [[Captain Rodrigo Ironanchor]]
 - Affected by [[Location City Quieting the Depths Quieting the Depths.svg]]
 - Compare with [[gold-ring-set-with-bloodstones-xdmg (items)]]
 - Connects to [[ENC00176_Social_Encounter_177]]
 - Leads to [[Troll Limb Xmm]]
-- Connects to [[step_053]]
+- Connects to
 - Related: [[Medic Captain Truewater (D&D_References)]]
 - Requires [[step_083 (phase_047)]]
 - Influences [[Create_New_Session.png_1 (Art)]]
@@ -240,7 +234,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Giant Seahorses]]
 - Connects to [[Deep_Mother_Corruption_Warning]]
 - Connects to [[Master Chef Umami Deepfeast]]
-- Affected by [[step_090]]
+- Affected by
 - Connects to [[Assets Locations Location City Depth Merchants Depth Merchants.svg]]
 - Connects to [[NPC0060_Ulric_Ironforge]]
 - Parallels [[step_058 (phase_087)]]
@@ -258,7 +252,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Crystal Magic 2]]
 - Parallels [[The Evolution District]]
 - See also: [[merrenoloth-mpmm (fiend)]]
-- Leads to [[step_042]]
+- Leads to
 - Requires [[Crystal Architecture Philosophy]]
 - Leads to [[Location City Crown of Eternal Ice V1 Crown of Eternal Ice.svg]]
 - Compare with [[Portrait NPC Abyssos Prime Government V2 Abyssos Prime Government.svg]]

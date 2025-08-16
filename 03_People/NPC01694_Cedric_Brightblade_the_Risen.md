@@ -9,7 +9,6 @@ aliases: [NPC01694 Cedric Brightblade the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01694 Cedric Brightblade the Risen]
 - [[#Caelum Ironforge the Lost (Criminal - Fence)|Caelum Ironforge the Lost (Criminal - Fence)]]
 - [[#Rhiannon Underhill the Risen (Family - Spouse)|Rhiannon Underhill the Risen (Family - Spouse)]]
 - [[#Gavril Grimholt the Lost (Political - Puppet)|Gavril Grimholt the Lost (Political - Puppet)]]
-
 
 ---
 aliases: ["Cedric Brightblade the Risen", "cedric brightblade the risen", "Cedric Brightblade Risen", "Risen the Brightblade Cedric"]
@@ -148,21 +146,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.300Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -183,12 +177,12 @@ Blackmails party into service
 - Originates from [[deck-of-many-things#Rogue]]
 - Influences [[QUEST00184_Main_Quest_185]]
 - Related: [[ITEM01183_Pure_Incense_of_Fortune]]
-- Affected by [[step_059]]
+- Affected by
 - Originates from [[LOC00212_Dungeons_Location_213]]
 - Requires [[Deinonychus Mpmm]]
-- Originates from [[step_095]]
+- Originates from
 - See also: [[portrait-npc-queen-nerida-v1-queen-nerida.svg]]
-- Originates from [[step_097]]
+- Originates from
 - Related: [[standard-languages-phb (tables)]]
 - Connects to [[wilderness-chase-complications (tables)]]
 - Related: [[Princess Nerida Deepcurrent]]
@@ -222,7 +216,7 @@ Blackmails party into service
 - Connects to [[Psychological Studies]]
 - Influences [[Portrait NPC Captain Storm Ambushmaster V2 Captain Storm Ambushmaster.svg]]
 - Leads to [[LORE00129_Prophecies_Entry_130]]
-- Connects to [[Quest   The Seventh Song]]
+- Connects to [[Quest The Seventh Song]]
 - Affected by [[Assets Locations Location City Spy Games Spy Games.svg]]
 - Leads to [[step_053 (phase_081)]]
 - Affected by [[Political Alliances (D&D_References)]]
@@ -237,7 +231,7 @@ Blackmails party into service
 - See also: [[Assets Locations Location City Pelagic Cup Pelagic Cup.svg]]
 - Originates from [[LOC00216_Planes_Location_217]]
 - Parallels [[The Concordat Seal]]
-- Originates from [[step_051]]
+- Originates from
 - Parallels [[step_058 (phase_088)]]
 - Requires [[List Spells Optional Features Sweeping]]
 - See also: [[Walloping Ammunition Xdmg]]
@@ -246,7 +240,7 @@ Blackmails party into service
 - Compare with [[Assets Locations Location City the Facilitator the Facilitator.svg]]
 - Affected by [[The Crystal Networks]]
 - Leads to [[step_045 (phase_013)]]
-- Affected by [[step_031]]
+- Affected by
 - Compare with [[Security Quarters 2]]
 - Requires [[ENC00248_Combat_Encounter_249]]
 - Connects to [[Halls of Eternal Memory (Lore)]]

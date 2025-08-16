@@ -9,7 +9,6 @@ aliases: [NPC01624 Corvus Silverleaf the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01624 Corvus Silverleaf the Redeemed]
 - [[#Gavril Lightbringer the Redeemed (Professional - Employer)|Gavril Lightbringer the Redeemed (Professional - Employer)]]
 - [[#Aldric Underhill the Lost (Criminal - Informant)|Aldric Underhill the Lost (Criminal - Informant)]]
 - [[#Urien Jadeclaw the Fallen (Personal - Love interest)|Urien Jadeclaw the Fallen (Personal - Love interest)]]
-
 
 ---
 created: 2025-08-15
@@ -155,16 +153,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.292Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -185,11 +180,10 @@ Blackmails party into service
 - [[NPC00437_Hilda_Stormwind_the_Mystic]]
 - [[09 Adventuring]]
 - [[10 Appendix B Creature Stat Blocks]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -198,11 +192,10 @@ Blackmails party into service
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -212,12 +205,12 @@ Blackmails party into service
 - Influences [[Memory Trader]]
 - See also: [[The Shadow Nexus]]
 - Compare with [[Wave Traderwind]]
-- Affected by [[step_016]]
+- Affected by
 - Requires [[Goldspire Expedition]]
 - Influences [[step_010 (phase_031)]]
 - Compare with [[Portrait NPC the Smuggler S Den the Smuggler S Den.svg]]
 - Related: [[Succession Documents]]
-- Compare with [[step_086]]
+- Compare with
 - Influences [[LOC00004_Planes_Location_5]]
 - Parallels [[blade-ward-xphb (spells)]]
 - Leads to [[Marine Protection Guild]]
@@ -228,13 +221,13 @@ Blackmails party into service
 - Affected by [[winter-wolf-xmm (monstrosity)]]
 - Parallels [[salamander-inferno-master-xmm (elemental)]]
 - Affected by [[Location City [[Transformation Medicine Techniques]] V1 Transformation Medicine Techniques.svg]]
-- See also: [[step_044]]
+- See also:
 - Influences [[frog-xmm (beast)]]
 - Related: [[LORE00229_Legends_Entry_230]]
 - See also: [[[[Lumengarde]] City]]
 - Requires [[step_067 (phase_033)]]
 - See also: [[step_052 (phase_023)]]
-- Parallels [[step_025]]
+- Parallels
 - Requires [[Training Supervisor Learning Moment (D&D_References)]]
 - Connects to [[MON00017_Constructs_Creature_18]]
 - Affected by [[LOC00012_Planes_Location_13]]
@@ -243,7 +236,7 @@ Blackmails party into service
 - Connects to [[SPELL00060_Divine_Spell_61]]
 - Compare with [[Location City [[Underwater Fermentation]] V1 Underwater Fermentation.svg]]
 - Affected by [[step_069 (phase_100)]]
-- Compare with [[step_024]]
+- Compare with
 - Influences [[The Emperor's Gambit (D&D_References)]]
 - Influences [[Detection Technology Laboratory (D&D_References)]]
 - Parallels [[step_041 (phase_041)]]
@@ -254,7 +247,7 @@ Blackmails party into service
 - Leads to [[NPC00019_Delara_Hawthorne_the_Swift]]
 - Leads to [[secondary-tables-arcane-matters-xge (tables)]]
 - Influences [[ENC00188_Combat_Encounter_189]]
-- Leads to [[step_021]]
+- Leads to
 - Compare with [[Queen Seraphina 2]]
 - Related: [[Mending Xphb]]
 - Influences [[Quest - The Haunted Depths]]
@@ -282,7 +275,7 @@ Blackmails party into service
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-captain-marina-shieldcurrent-captain-marina-shieldcurrent.svg_Quick_Ref]]
 - Influences [[Assets Locations Location City [[Interfaith Councils]] V1 Interfaith Councils.svg]]
 - Influences [[QUEST0016_Negotiate_with_the_Dragon]]
-- Related: [[step_044]]
+- Related:
 - Originates from [[Smuggler's Den]]
 - Requires [[step_061 (phase_050)]]
 - Influences [[QUEST00357_Side_Quest_358]]
@@ -298,8 +291,8 @@ Blackmails party into service
 - Connects to [[Cultural Studies Program]]
 - Parallels [[Inventor Chief Adaptatio (D&D_References)]]
 - See also: [[young-brass-dragon-xmm]]
-- See also: [[step_044]]
-- See also: [[step_093]]
+- See also:
+- See also:
 - Requires [[level-advancement-without-xp (variant-rules)]]
 - See also: [[step_028 (phase_078)]]
 - Originates from [[Assets Locations Location City [[The Threshold Chambers]] the Threshold Chambers.svg]]

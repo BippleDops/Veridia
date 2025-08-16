@@ -9,7 +9,6 @@ aliases: [NPC01113 Solas Ravenheart the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01113 Solas Ravenheart the Cunning]
 - [[#Idris Emberfall the Cunning (Political - Patron)|Idris Emberfall the Cunning (Political - Patron)]]
 - [[#Fiora Keenblade the Wise (Criminal - Informant)|Fiora Keenblade the Wise (Criminal - Informant)]]
 - [[#Branwen Stormwind the Mystic (Family - Child)|Branwen Stormwind the Mystic (Family - Child)]]
-
 
 ---
 created: 2025-08-15
@@ -157,16 +155,13 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.238Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -191,11 +186,10 @@ Has map to lost treasure
 - [[Sanity_Quick_Reference.md]]
 - [[Sanity Quick Reference]]
 - [[10 Combat]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -204,11 +198,10 @@ Has map to lost treasure
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -217,7 +210,7 @@ Has map to lost treasure
 - Leads to [[NPC00870_Xander_Winterborn_the_Bold]]
 - Compare with [[Philosopher-Reformer Unity Bridgewright (D&D_References)]]
 - Originates from [[Shadow Liberation Front 2]]
-- Compare with [[step_019]]
+- Compare with
 - See also: [[Assets Item Artifact Weird Tank Pota V4 Weird Tank Pota.png]]
 - Influences [[ITEM00416_Mithril_Cloak_of_Fortitude]]
 - Connects to [[QUEST0051_Infiltrate_the_Demons]]
@@ -236,24 +229,24 @@ Has map to lost treasure
 - Requires [[step_016 (phase_081)]]
 - See also: [[Portrait NPC Quest Seeds of the Deep V1 Quest Seeds of the Deep.svg]]
 - See also: [[Assets Locations Location City Quest the Missing Fleet Quest the Missing Fleet.svg]]
-- Connects to [[step_069]]
+- Connects to
 - Originates from [[Sphinx of Valor Xmm]]
 - Parallels [[Arcane Assembly]]
 - Related: [[The Silver Seal (D&D_References)]]
 - See also: [[LORE00288_History_Entry_289]]
 - Parallels [[location-city-aquabyssos-v1-aquabyssos.svg]]
 - Affected by [[FAC00016_Cults_17]]
-- Compare with [[step_088]]
+- Compare with
 - Parallels [[Protocol Master Elena Etiquette 2]]
 - Compare with [[NPC00128_Felicia_Youngblood]]
-- Requires [[step_072]]
+- Requires
 - See also: [[storage]]
 - Originates from [[Academic Lineages]]
 - Parallels [[encumbrance-phb (variant-rules)]]
-- Connects to [[step_055]]
+- Connects to
 - See also: [[Shadow-Touched Mine Foreman Brokk (D&D_References)]]
 - Influences [[step_056 (phase_064)]]
-- Leads to [[step_059]]
+- Leads to
 - Affected by [[ITEM0005_Forgotten_Blade_of_Power]]
 - Connects to [[Template-Group]]
 - Requires [[NPC01622_Lyanna_Emberfall_the_Seeker]]
@@ -272,7 +265,7 @@ Has map to lost treasure
 - Parallels [[The Consciousness Archive (D&D_References)]]
 - Affected by [[Senator Morticia Graveheart (D&D_References)]]
 - Related: [[Symbol Heraldry Cross Realm Agricultural Exchang V1 Cross Realm Agricultural Exchang.svg]]
-- Affected by [[step_091]]
+- Affected by
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-salvage-master-ironwork-salvage-master-ironwork.svg]]
 - Affected by [[Prismatic Falls]]
 - Influences [[Portrait NPC Sorrow Root Nightbloom V1 Sorrow Root Nightbloom.svg]]
@@ -282,7 +275,7 @@ Has map to lost treasure
 - Affected by [[step_032 (phase_037)]]
 - Connects to [[Registrar Cornelius Scrollkeeper]]
 - Influences [[The Reflection Pools 2]]
-- See also: [[step_061]]
+- See also:
 - See also: [[step_097 (phase_098)]]
 - See also: [[Detailed Life Sized Dragonborn Skull Cast in Electrum Xdmg]]
 - Parallels [[rhodochrosite-xdmg (items)]]
@@ -291,7 +284,7 @@ Has map to lost treasure
 - Connects to [[LOC00118_Towns_Location_119]]
 - Originates from [[Assets Locations Location City Countess Marina Stormcrest V1 Countess Marina Stormcrest.svg]]
 - See also: [[Quartermaster Judith Steadfast]]
-- Influences [[step_027]]
+- Influences
 - Leads to [[Armor of Acid Resistance Xdmg]]
 - See also: [[04_Resources_Assets_Portraits_portrait-npc-captain-nerida-stormcrest-captain-nerida-stormcrest.svg_Quick_Ref]]
 - Originates from [[Four Armed Statue Oota]]
@@ -299,7 +292,7 @@ Has map to lost treasure
 - See also: [[step_042 (phase_030)]]
 - Connects to [[protection-xphb (feats)]]
 - Leads to [[Master_People_Index]]
-- See also: [[step_017]]
+- See also:
 - Requires [[Banker Cornelius Goldflow]]
 - Originates from [[02_Worldbuilding_Groups_Surface_Reconnection_Coalition]]
 - Related: [[Greek Zeus]]

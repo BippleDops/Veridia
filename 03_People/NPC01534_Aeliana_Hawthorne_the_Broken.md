@@ -9,7 +9,6 @@ aliases: [NPC01534 Aeliana Hawthorne the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01534 Aeliana Hawthorne the Broken]
 - [[#Pyria Keenblade the Mystic (Professional - Mentor)|Pyria Keenblade the Mystic (Professional - Mentor)]]
 - [[#Orion Blackstone the Bold (Criminal - Accomplice)|Orion Blackstone the Bold (Criminal - Accomplice)]]
 - [[#Jorah Darkwater the Bold (Personal - Ex-lover)|Jorah Darkwater the Bold (Personal - Ex-lover)]]
-
 
 ---
 created: 2025-08-15
@@ -158,25 +156,20 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.283Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -194,7 +187,7 @@ Following magic item guidelines (WWT p.135-136):
 - Worldweaver's Tome (WWT) p.264
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -203,16 +196,15 @@ Following magic item guidelines (WWT p.135-136):
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Originates from [[step_050 (phase_021)]]
-- Influences [[step_076]]
+- Influences
 - Requires [[Cordelia Truthseeker]]
 - Related: [[Activate the Grief Bomb]]
 - Related: [[NPC00583_Malakai_Proudmore_the_Strong]]
@@ -220,13 +212,13 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[step_032 (phase_004)]]
 - Influences [[step_060 (phase_058)]]
 - Related: [[Truth-seeker's Lens]]
-- Compare with [[step_071]]
+- Compare with
 - Originates from [[step_069 (phase_010)]]
 - Parallels [[LORE00067_Prophecies_Entry_68]]
 - Influences [[Keepers of Memory (D&D_References)]]
 - Influences [[List Spells School Abjuration]]
 - Parallels [[Seal Vault Complex (D&D_References)]]
-- Parallels [[step_075]]
+- Parallels
 - Related: [[Military Moral Quandaries 2]]
 - Related: [[pot-of-awakening-xdmg (items)]]
 - Requires [[step_051 (phase_063)]]
@@ -250,7 +242,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[02_Worldbuilding_People_Brother_Marcus_the_Willing]]
 - See also: [[The Observers]]
 - Related: [[Amnesia Gallery]]
-- Originates from [[step_011]]
+- Originates from
 - Affected by [[step_045 (phase_034)]]
 - Originates from [[Location City the Infinite Garden the Infinite Garden.svg]]
 - Originates from [[step_025 (phase_038)]]
@@ -279,12 +271,12 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Portrait NPC Quest the Corruption Cure V2 Quest the Corruption Cure.svg]]
 - Affected by [[LORE00035_History_Entry_36]]
 - Leads to [[Minister Truth Darknes 2]]
-- Originates from [[step_007]]
+- Originates from
 - Leads to [[step_001 (phase_085)]]
 - Connects to [[location-city-crimson-reef-v1-crimson-reef.svg]]
 - Leads to [[The Memory Garden 2]]
 - Related: [[Royal Palace of Meridian 2]]
-- Leads to [[step_078]]
+- Leads to
 - Parallels [[pixie-xmm (fey)]]
 - Related: [[Portrait NPC Economic Manipulation V1 Economic Manipulation.svg_1 (Portraits)]]
 - Influences [[Depth Safety Authorit (D&D_References)]]

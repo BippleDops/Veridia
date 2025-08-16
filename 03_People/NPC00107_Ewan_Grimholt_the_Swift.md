@@ -18,7 +18,6 @@ aliases: [NPC00107 Ewan Grimholt the Swift]
 - [[#Erasmus Ashford (Family - Child)|Erasmus Ashford (Family - Child)]]
 - [[#Aeliana Moonshadow the Wise (Personal - Nemesis)|Aeliana Moonshadow the Wise (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ewan Grimholt the Swift", "ewan grimholt the swift", "Ewan Grimholt Swift", "Swift the Grimholt Ewan"]
@@ -153,27 +152,23 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.123Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -182,11 +177,10 @@ Wants rivals investigated
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -215,7 +209,7 @@ Wants rivals investigated
 - Affected by [[step_074 (phase_022)]]
 - See also: [[Market Squar 2]]
 - Originates from [[ITEM01176_Concentrated_Potion_of_Swiftness]]
-- Originates from [[step_069]]
+- Originates from
 - See also: [[location-city-sea-sprite-v1-sea-sprite.svg]]
 - Influences [[Conservatory of Memory (D&D_References)]]
 - Requires [[ENC00151_Social_Encounter_152]]
@@ -242,10 +236,10 @@ Wants rivals investigated
 - Originates from [[Portrait NPC Captain Torrent Freewater Captain Torrent Freewater.svg]]
 - Leads to [[step_085 (phase_095)]]
 - Influences [[Cambion Xmm]]
-- Leads to [[step_094]]
+- Leads to
 - Parallels [[Scale Mail Xphb]]
 - Requires [[Financial Institutions 2]]
-- Influences [[step_017]]
+- Influences
 - Leads to [[step_032 (phase_044)]]
 - Connects to [[step_023 (phase_024)]]
 - Influences [[Battle_Maps_Gallery 2 (Galleries)]]
@@ -262,7 +256,7 @@ Wants rivals investigated
 - Connects to [[The Crystal Concordance]]
 - Leads to [[ENC00187_Social_Encounter_188]]
 - Connects to [[hippopotamus-xmm (beast)]]
-- Affected by [[step_097]]
+- Affected by
 - Compare with [[Assets Locations Location City Depth Merchant S Consortium V1 Depth Merchant S Consortium.svg]]
 - See also: [[step_057 (phase_043)]]
 - Compare with [[Assets Art the Lost Shipment.png]]
@@ -276,7 +270,7 @@ Wants rivals investigated
 - Requires [[Shard Powers and Effects]]
 - Connects to [[LOC00013_Wilderness_Location_14]]
 - Affected by [[Spell Scroll Cantrip Xdmg]]
-- Related: [[step_038]]
+- Related:
 - Related: [[sovereign-glue-xdmg (items)]]
 - Leads to [[ITEM00335_Radiant_Crossbow_of_Power]]
 - Originates from [[Linguistic Quick Reference]]
@@ -295,7 +289,6 @@ Wants rivals investigated
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01529 Brenna Darkwater the Scholar]
 - [[#Malakai Keenblade the Broken (Political - Puppet)|Malakai Keenblade the Broken (Political - Puppet)]]
 - [[#Erasmus Jadeclaw the Wanderer (Criminal - Handler)|Erasmus Jadeclaw the Wanderer (Criminal - Handler)]]
 
-
 ---
 aliases: ["Brenna Darkwater the Scholar", "brenna darkwater the scholar", "Brenna Darkwater Scholar", "Scholar the Darkwater Brenna"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.282Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -215,7 +210,7 @@ Needs help with personal quest
 - See also: [[Tidal Priest Marina Deepcurrent]]
 - Requires [[QUEST00296_Side_Quest_297]]
 - Connects to [[step_041 (phase_062)]]
-- Affected by [[step_093]]
+- Affected by
 - Related: [[Molten Magma Roper Pota]]
 - Related: [[LORE0060_History_of_the_Dark_Times]]
 - Influences [[step_090 (phase_046)]]
@@ -234,7 +229,7 @@ Needs help with personal quest
 - Influences [[step_049 (phase_021)]]
 - Leads to [[ENC0073_Random_Encounter_74]]
 - Leads to [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-sterling-trade-captain-sterling.svg_Quick_Ref]]
-- See also: [[step_064]]
+- See also:
 - Compare with [[Lieutenant Memory Probe]]
 - Leads to [[step_034 (phase_071)]]
 - Compare with [[step_031 (phase_092)]]
@@ -248,7 +243,7 @@ Needs help with personal quest
 - Compare with [[step_079 (phase_068)]]
 - Connects to [[Assets Locations Location City the Living Quarters V1 the Living Quarters.svg]]
 - Originates from [[NPC00714_Idris_Thornweave_the_Fallen]]
-- Requires [[step_012]]
+- Requires
 - Related: [[location-city-plague-crisis-plague-crisis.png]]
 - See also: [[Financial Corruption]]
 - See also: [[Session 02 (Seven_Shards_Campaign)]]
@@ -262,7 +257,7 @@ Needs help with personal quest
 - Requires [[Portrait NPC High Priestess Scylla Deepdream V2 High Priestess Scylla Deepdream.svg]]
 - Influences [[Commander Eastwind Stormbreak 2]]
 - Connects to [[dust-devil-xge (spells)]]
-- See also: [[step_012]]
+- See also:
 - Originates from [[NPC00320_Malakai_Hawthorne_the_Redeemed]]
 - Connects to [[SPELL00046_Arcane_Spell_47]]
 - Affected by [[SPELL00039_Nature_Spell_40]]
@@ -272,7 +267,6 @@ Needs help with personal quest
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

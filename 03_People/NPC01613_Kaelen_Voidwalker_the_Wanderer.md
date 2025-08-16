@@ -18,7 +18,6 @@ aliases: [NPC01613 Kaelen Voidwalker the Wanderer]
 - [[#Fiora Voidwalker the Swift (Personal - Childhood friend)|Fiora Voidwalker the Swift (Personal - Childhood friend)]]
 - [[#Gareth Emberfall the Bold (Family - Child)|Gareth Emberfall the Bold (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Kaelen Voidwalker the Wanderer", "kaelen voidwalker the wanderer", "Kaelen Voidwalker Wanderer", "Wanderer the Voidwalker Kaelentags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -153,16 +152,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.291Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -205,9 +201,7 @@ Blackmails party into service
 - [[MOC_Quests]]
 - [[Master_Narrative_Web.md]]
 - [[Complete_NPC_Matrix.md]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -225,7 +219,7 @@ Following magic item guidelines (WWT p.135-136):
 - Adventurer's Codex (ACX) p.297
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -235,11 +229,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -252,7 +245,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_022 (phase_015)]]
 - Leads to [[Location City [[Deep Watchfulrest]] V1 Deep Watchfulrest.svg]]
 - Originates from [[Assets Locations Location City [[High Chancellor Nerissa Deepcurrent]] V1 High Chancellor Nerissa Deepcurrent.svg]]
-- Compare with [[step_014]]
+- Compare with
 - Compare with [[LORE00144_Prophecies_Entry_145]]
 - Influences [[Holy Symbol Varies Holy Symbols Xphb]]
 - Requires [[Produce Flame Xphb]]
@@ -273,7 +266,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[enspelled-weapon-level-5-xdmg (items)]]
 - Requires [[Quest - Neural Revolution_1 (01_Adventures)]]
 - Originates from [[Investigation Log INV-000 (D&D_References)]]
-- Leads to [[step_091]]
+- Leads to
 - Affected by [[House Crimsontiide]]
 - Connects to [[Assets Locations Location City [[The Aether Works]] V1 the Aether Works.svg]]
 - Connects to [[FAC00052_Orders_53]]
@@ -288,7 +281,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[step_057 (phase_025)]]
 - Parallels [[NPC00601_Vesper_Ironwood_the_Guardian]]
 - See also: [[SPELL00100_Nature_Spell_101]]
-- Requires [[step_049]]
+- Requires
 - See also: [[The Seventh Shard]]
 - Affected by [[Portrait NPC Captain Garrett Stormcutter V1 Captain Garrett Stormcutter.svg]]
 - Originates from [[NPC_Name_Generator.png_1 (03_People)]]
@@ -315,7 +308,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[step_094 (phase_008)]]
 - Leads to [[ITEM01226_Lesser_Herb_of_Vigor]]
 - Leads to [[Assets Item Artifact Whelm Xdmg V1 Whelm Xdmg.png]]
-- Related: [[step_082]]
+- Related:
 - Parallels [[Shadow Embassy]]
 - Requires [[QUEST00040_Personal_Quest_41]]
 - Affected by [[ENC00037_Social_Encounter_38]]
@@ -348,7 +341,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

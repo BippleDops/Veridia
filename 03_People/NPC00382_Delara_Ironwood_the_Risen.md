@@ -18,7 +18,6 @@ aliases: [NPC00382 Delara Ironwood the Risen]
 - [[#Malakai Crystalbrook the Mystic (Personal - Love interest)|Malakai Crystalbrook the Mystic (Personal - Love interest)]]
 - [[#Xander Frostwhisper (Professional - Partner)|Xander Frostwhisper (Professional - Partner)]]
 
-
 ---
 aliases: ["Delara Ironwood the Risen", "delara ironwood the risen", "Delara Ironwood Risen", "Risen the Ironwood Delara"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.156Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -196,9 +191,9 @@ Requires champions for trial by combat
 - Influences [[Unite the Two Worlds]]
 - Affected by [[LOC00057_Towns_Location_58]]
 - Influences [[step_033 (phase_058)]]
-- Originates from [[step_014]]
+- Originates from
 - Originates from [[Shadow-Child Advisory]]
-- Requires [[step_004]]
+- Requires
 - Influences [[Assets Locations Location City the Whispering Depths V1 the Whispering Depths.svg]]
 - Parallels [[step_093 (phase_038)]]
 - Leads to [[QUEST00169_Main_Quest_170]]
@@ -218,7 +213,7 @@ Requires champions for trial by combat
 - Related: [[SPELL0020_Shadow_Curse]]
 - Connects to [[ENC00395_Combat_Encounter_396]]
 - Influences [[Life Events by Age Xge]]
-- Requires [[step_073]]
+- Requires
 - Leads to [[QUEST00062_Side_Quest_63]]
 - Parallels [[Goldspire Confederacy (D&D_Statblocks)]]
 - Requires [[LORE00161_History_Entry_162]]
@@ -256,7 +251,7 @@ Requires champions for trial by combat
 - Requires [[Scufflecup Teacup Scc]]
 - Requires [[The Restoration Movement (D&D_References)]]
 - See also: [[Scroll of Titan Summoning Blob of Annihilation Xdmg]]
-- See also: [[step_032]]
+- See also:
 - Requires [[Portrait NPC the First Queen S Shade the First Queen S Shade.svg]]
 - See also: [[Scene Scene Whisper Island Fog Dawn V1 Whisper Island Fog Dawn.svg]]
 - Originates from [[The Nameless Auditor (D&D_Statblocks)]]
@@ -277,7 +272,6 @@ Requires champions for trial by combat
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00164 Solas Thornweave]
 - [[#Idris Hawthorne the Scholar (Professional - Mentor)|Idris Hawthorne the Scholar (Professional - Mentor)]]
 - [[#Felicia Dawnstrider (Family - Parent)|Felicia Dawnstrider (Family - Parent)]]
 
-
 ---
 aliases: ["Solas Thornweave", "solas thornweave", "Thornweave Solas"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.130Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -180,7 +175,7 @@ Requires champions for trial by combat
 - See also: [[ITEM00293_Blazing_Bow_of_Wounding]]
 - Affected by [[Healer Tide-Touch]]
 - Parallels [[Factions Abyssal Courts]]
-- Related: [[step_077]]
+- Related:
 - Leads to [[Location City the Lighthouse Keeper S Ghost the Lighthouse Keeper S Ghost.png]]
 - See also: [[Assets Locations Location City Underwater Cuisine Techniques Underwater Cuisine Techniques.svg]]
 - Requires [[the-norse-pantheon-norse-deities-phb (tables)]]
@@ -193,7 +188,7 @@ Requires champions for trial by combat
 - Related: [[ITEM01019_Concentrated_Oil_of_Clarity]]
 - Parallels [[The Tidal Shard of Memory 2]]
 - Leads to [[ITEM01103_Lesser_Crystal_of_Vigor]]
-- Influences [[step_087]]
+- Influences
 - Compare with [[FAC00034_Cults_35]]
 - See also: [[portrait-npc-senator-marius-senator-marius.svg_1 (Portraits)]]
 - Originates from [[step_042 (phase_050)]]
@@ -227,16 +222,16 @@ Requires champions for trial by combat
 - Requires [[portrait-npc-the-king-s-ears-the-king-s-ears.svg_1 (Portraits)]]
 - Influences [[Embassy of Eternal Shadows]]
 - See also: [[LOC00033_Dungeons_Location_34]]
-- Connects to [[step_074]]
+- Connects to
 - Related: [[FAC00084_Orders_85]]
 - See also: [[Assets Locations Location City Echo Truthseer V1 Echo Truthseer.svg]]
-- Originates from [[step_044]]
+- Originates from
 - Affected by [[flame-strike-xphb (spells)]]
 - Related: [[LORE00042_Legends_Entry_43]]
 - Connects to [[physical-characteristics-beholder-iris-shape-vgm]]
 - Related: [[EVENT00036_Magical_Event_37]]
-- See also: [[step_080]]
-- Originates from [[step_015]]
+- See also:
+- Originates from
 - Parallels [[Session 5 the Wind Singer_1 (06_Sessions)]]
 - Related: [[step_087 (phase_036)]]
 - Affected by [[07 Between Adventures]]
@@ -247,7 +242,7 @@ Requires champions for trial by combat
 - Affected by [[step_033 (phase_032)]]
 - See also: [[LOC00246_Dungeons_Location_247]]
 - Parallels [[Human Names Indian Male Xge]]
-- Compare with [[step_025]]
+- Compare with
 - Compare with [[Quest - The Blackmail Papers 2]]
 - See also: [[Creature Creature Aerisi Kalinoth Pota Aerisi Kalinoth Pota.png]]
 - Related: [[Assets Locations Location City Void Krakens V1 Void Krakens.svg]]
@@ -256,23 +251,22 @@ Requires champions for trial by combat
 - Originates from [[Whisper Island Docks (D&D_References)]]
 - See also: [[step_013 (phase_071)]]
 - Affected by [[Quartermaster David Simpleton]]
-- See also: [[step_084]]
+- See also:
 - Requires [[LORE0016_Legend_of_the_First_King]]
 - Affected by [[NPC00836_Brenna_Ironwood_the_Broken]]
 - Influences [[Marina the Unifie 2]]
 - See also: [[Assets Item Artifact Boots of Striding and Springing Xdmg V3 Boots of Striding and Springing Xdmg.png]]
 - Affected by [[SPELL00032_Divine_Spell_33]]
-- Affected by [[step_009]]
+- Affected by
 - Connects to [[creature-creature-dragon-v1-dragon.png]]
 - Originates from [[SPELL00105_Divine_Spell_106]]
-- Affected by [[step_091]]
+- Affected by
 - See also: [[step_023 (phase_033)]]
 
 ## Visual References
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01834 Fiora Voidwalker the Strong]
 - [[#Gareth Jadeclaw the Risen (Personal - Childhood friend)|Gareth Jadeclaw the Risen (Personal - Childhood friend)]]
 - [[#Zephyr Youngblood the Scholar (Criminal - Accomplice)|Zephyr Youngblood the Scholar (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Fiora Voidwalker the Strong", "fiora voidwalker the strong", "Fiora Voidwalker Strong", "Strong the Voidwalker Fiora"]
 tags: [npc, character]
@@ -142,21 +141,17 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.315Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -165,16 +160,16 @@ Is secretly testing the party
 - Related: [[step_020 (phase_006)]]
 - Related: [[step_006 (phase_028)]]
 - See also: [[giant-centipede-xmm]]
-- Influences [[step_061]]
-- See also: [[step_036]]
+- Influences
+- See also:
 - Related: [[Assets Locations Location City Vault Breach V1 Vault Breach.svg]]
-- Leads to [[step_056]]
+- Leads to
 - Compare with [[Great Crystal Lens]]
 - Parallels [[Boots of Speed Xdmg]]
 - Related: [[step_034 (phase_047)]]
 - Compare with [[The Singing Trenches (D&D_References)]]
 - Influences [[Location City Deep Oracle Bathys V1 Deep Oracle Bathys.png]]
-- Influences [[step_016]]
+- Influences
 - Requires [[greyhawk-boccob-xdmg (deities)]]
 - Requires [[Bleakmoore Estates 2]]
 - Related: [[NPC01337_Elric_Dawnstrider_the_Scholar]]
@@ -184,7 +179,7 @@ Is secretly testing the party
 - Compare with [[step_083 (phase_063)]]
 - Affected by [[ITEM00752_Time-worn_Tome_of_Destiny]]
 - Leads to [[Ice Troll Rot]]
-- Leads to [[step_044]]
+- Leads to
 - See also: [[The Ghost Walker (D&D_References)]]
 - See also: [[Transformation Specialist Doctor Prism-Current]]
 - Parallels [[step_095 (phase_087)]]
@@ -202,7 +197,7 @@ Is secretly testing the party
 - Influences [[Original Glaucus (People)]]
 - Connects to [[The Deep Mother's Temple]]
 - Affected by [[ENC00051_Combat_Encounter_52]]
-- Leads to [[step_004]]
+- Leads to
 - Affected by [[step_085 (phase_075)]]
 - Leads to [[04_Resources_Assets_Portraits_portrait-npc-current-lord-triton-of-house-pelagios-current-lord-triton-of-house-pelagios.svg_Quick_Ref]]
 - Originates from [[Black Pudding Xmm]]
@@ -217,10 +212,10 @@ Is secretly testing the party
 - Influences [[step_019 (phase_095)]]
 - Related: [[Location City Current Peacefulflow V1 Current Peacefulflow.svg]]
 - Affected by [[Triceratops Xmm]]
-- Compare with [[step_029]]
+- Compare with
 - Originates from [[The Whispered Voice (D&D_References)]]
 - Requires [[LOC00212_Cities_Location_213]]
-- Compare with [[step_083]]
+- Compare with
 - Related: [[dwarven-thard-harr-mtf (deities)]]
 - Connects to [[raise-dead-xphb (spells)]]
 - Influences [[NPC00389_Branwen_Stormwind_the_Broken]]
@@ -255,7 +250,7 @@ Is secretly testing the party
 - Leads to [[The Spire of Courage 2]]
 - See also: [[Marcus Goldleaf (D&D_References)]]
 - Leads to [[ITEM0106_Cursed_Gauntlet_of_the_Dawn]]
-- See also: [[step_029]]
+- See also:
 - Related: [[step_057 (phase_075)]]
 - See also: [[NPC01964_Zephyr_Oakenshield_the_Fallen]]
 - Originates from [[step_087 (phase_021)]]
@@ -265,7 +260,6 @@ Is secretly testing the party
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

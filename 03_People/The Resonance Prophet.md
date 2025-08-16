@@ -9,7 +9,6 @@ aliases: [The Resonance Prophet]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_the_resonance_prophet_dramatic.png]]
 
-
 ## Table of Contents
 - [[#Stats|Stats]]
 - [[#Relationships|Relationships]]
@@ -21,7 +20,6 @@ aliases: [The Resonance Prophet]
 - [[#Lifestyle Improvements|Lifestyle Improvements]]
 - [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
 - [[#Superstitions Improvements|Superstitions Improvements]]
-
 
 ---
 
@@ -78,7 +76,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -146,9 +144,9 @@ improvements: 20
 A humanoid figure made entirely of living crystal that constantly shifts between different formations. Their body refracts light into rainbow patterns, and when they move, they create harmonic tones. Their face is a smooth crystal surface that shows reflections of whoever looks at them, but distorted to show their "true harmonic nature."
 
 ## ⚔️ Statistics
-**AC**: 19 (Crystalline Form)  
-**HP**: 150 (14d8 + 70)  
-**Speed**: 30 ft, can phase through crystal at full speed  
+**AC**: 19 (Crystalline Form)
+**HP**: 150 (14d8 + 70)
+**Speed**: 30 ft, can phase through crystal at full speed
 **Proficiency Bonus**: +5
 
 ### Multiattack
@@ -373,7 +371,7 @@ Member of House Lionblood - Trait: divine blood
 - See also: [[Assets Locations Location City Flame Keeper Brother Ignatius Flame Keeper Brother Ignatius.svg]]
 - Related: [[githyanki-dracomancer-xmm (aberration)]]
 - Influences [[Ritual Redirection Options]]
-- Requires [[step_012]]
+- Requires
 - Requires [[Assets Locations Location City Whisper Touched William V1 Whisper Touched William.svg]]
 - Originates from [[Session Prep]]
 - Leads to [[Deer Xmm]]
@@ -382,9 +380,9 @@ Member of House Lionblood - Trait: divine blood
 - Influences [[Transformation Assistance]]
 - Affected by [[Dr. Thaddeus Vain]]
 - Connects to [[The Seekers' Guild]]
-- Originates from [[step_036]]
+- Originates from
 - Originates from [[step_003 (phase_040)]]
-- Requires [[step_009]]
+- Requires
 - Originates from [[Duergar Raiding Parties Duergar Group Leader]]
 - Parallels [[step_085 (phase_097)]]
 - Connects to [[Assets Handouts Handout Handout Noble Writ with Wax Seal V1 Noble Writ with Wax Seal.png]]

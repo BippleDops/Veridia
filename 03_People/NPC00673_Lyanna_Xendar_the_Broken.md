@@ -18,7 +18,6 @@ aliases: [NPC00673 Lyanna Xendar the Broken]
 - [[#Gareth Ravenheart the Guardian (Political - Opposition)|Gareth Ravenheart the Guardian (Political - Opposition)]]
 - [[#Faelyn Nightfall the Scholar (Family - Spouse)|Faelyn Nightfall the Scholar (Family - Spouse)]]
 
-
 ---
 aliases: ["Lyanna Xendar the Broken", "lyanna xendar the broken", "Lyanna Xendar Broken", "Broken the Xendar Lyanna"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.190Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,14 +170,14 @@ Discovered something valuable
 - See also: [[NPC01361_Erasmus_Moonshadow_the_Seeker]]
 - Affected by [[layers-of-arborea-xdmg (tables)]]
 - Requires [[Assets Locations Location City Echo Keeper Selin Echo Keeper Selin.svg]]
-- Connects to [[step_029]]
+- Connects to
 - Connects to [[04_Resources_Assets_Locations_location-city-keeper-valdris-goldvault-keeper-valdris-goldvault.svg]]
 - Influences [[Emperor_Thalassius (People)]]
 - Related: [[remove-curse-xphb (spells)]]
 - Originates from [[X-L-02_The_Sky_Sea_Bridge]]
-- Leads to [[step_003]]
+- Leads to
 - Requires [[Eye Patch Decorated with Tiny Blue Sapphires and Moonstones Xdmg]]
-- Requires [[step_059]]
+- Requires
 - Originates from [[illusory-dragon-xge (spells)]]
 - Related: [[04_Resources]]
 - Leads to [[SPELL0039_Primal_Storm]]
@@ -195,19 +190,19 @@ Discovered something valuable
 - Requires [[step_033 (phase_045)]]
 - See also: [[dolphin-mpmm (beast)]]
 - Influences [[mace-xphb (items)]]
-- Affected by [[step_084]]
+- Affected by
 - Affected by [[Marcus Shardbreaker Grimm_1]]
 - Affected by [[Duchess Cordelia Pearlheart]]
 - Leads to [[ENC00055_Social_Encounter_56]]
 - Parallels [[The Deep Republic]]
-- Connects to [[step_030]]
+- Connects to
 - Compare with [[Community Temple Network]]
 - Compare with [[Aquabyssos Kelp Wine 2]]
 - Influences [[step_091 (phase_096)]]
 - Originates from [[Individual Treasure Challenge 17 (tables)]]
 - Connects to [[Assets Locations Location City Temporal Rescue V1 Temporal Rescue.svg]]
 - Compare with [[step_026 (phase_076)]]
-- Parallels [[step_078]]
+- Parallels
 - Leads to [[step_038 (phase_038)]]
 - Parallels [[Location City Breaking the Deep Breaking the Deep.svg]]
 - Leads to [[Assets Vehicles Vehicle Ship Sky Cutter Interceptor V1 Sky Cutter Interceptor.svg]]
@@ -220,7 +215,7 @@ Discovered something valuable
 - Affected by [[Assets Locations Location City the Facilitator V1 the Facilitator.svg]]
 - See also: [[Admiral Thalassa Stormcurrent 2]]
 - Related: [[SPELL0040_Arcane_Wave]]
-- Affected by [[step_007]]
+- Affected by
 - Compare with [[Ancient Bronze Dragon Xmm]]
 - Influences [[Crystallization Process]]
 - Compare with [[Multi-Realm Banking]]
@@ -268,7 +263,6 @@ Discovered something valuable
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

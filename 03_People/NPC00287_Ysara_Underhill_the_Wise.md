@@ -18,7 +18,6 @@ aliases: [NPC00287 Ysara Underhill the Wise]
 - [[#Gavril Winterborn (Professional - Partner)|Gavril Winterborn (Professional - Partner)]]
 - [[#Thalia Quicksilver the Redeemed (Family - Cousin)|Thalia Quicksilver the Redeemed (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ysara Underhill the Wise", "ysara underhill the wise", "Ysara Underhill Wise", "Wise the Underhill Ysaratags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -146,16 +145,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.144Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -194,11 +190,10 @@ Seeks bodyguards for dangerous journey
 - [[03 Races]]
 - [[NPC01476_Qadim_Stormwind_the_Wise]]
 - [[MOC_Quests]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -209,11 +204,10 @@ Seeks bodyguards for dangerous journey
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -262,7 +256,7 @@ Seeks bodyguards for dangerous journey
 - Parallels [[step_069 (phase_081)]]
 - Connects to [[[[Legal Profession]] 2]]
 - Requires [[Portrait NPC Scholar Priest Tidal Memory V2 Scholar Priest Tidal Memory.svg_1 (Portraits)]]
-- Influences [[step_007]]
+- Influences
 - See also: [[SHOP00065_General_Shop_66]]
 - Requires [[Egyptian Anubis]]
 - Originates from [[LOC00073_Cities_Location_74]]
@@ -289,20 +283,20 @@ Seeks bodyguards for dangerous journey
 - Related: [[FAC00081_Orders_82]]
 - Parallels [[Portrait NPC Salvage Queen Nerissa Deepfinder Salvage Queen Nerissa Deepfinder.svg]]
 - Affected by [[General Truthseeker Vale 2]]
-- Parallels [[step_064]]
+- Parallels
 - Requires [[Location City [[Quieting the Depths]] V1 Quieting the Depths.svg]]
 - See also: [[Portrait NPC Mili... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Related: [[Assets Portraits Portrait NPC Tidal Priest [[Marina Deepcurrent]] Tidal Priest Marina Deepcurrent.svg]]
 - Affected by [[LORE0095_History_of_the_Ancient_Pact]]
 - Connects to [[Location City [[Keeper Thundercall]] Keeper Thundercall.svg]]
 - Related: [[Void Cultists]]
-- Related: [[step_080]]
+- Related:
 - See also: [[Gold Birdcage With Electrum Filigree Xdmg]]
 - Leads to [[The Preservation Chamber]]
-- Related: [[step_015]]
+- Related:
 - Originates from [[Blowgun Xphb]]
 - Influences [[ITEM00786_Celestial_Ring_of_Destiny]]
-- Originates from [[step_020]]
+- Originates from
 - Connects to [[04-creating-adventures (dungeon-masters-guide-2014)]]
 - Affected by [[LOC00247_Cities_Location_248]]
 - Connects to [[step_037 (phase_037)]]
@@ -322,7 +316,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

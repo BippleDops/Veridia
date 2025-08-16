@@ -9,7 +9,6 @@ aliases: [NPC00095 Fiora Nightfall]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00095 Fiora Nightfall]
 - [[#Cedric Darkwater the Strong (Criminal - Accomplice)|Cedric Darkwater the Strong (Criminal - Accomplice)]]
 - [[#Solas Thornweave the Redeemed (Personal - Nemesis)|Solas Thornweave the Redeemed (Personal - Nemesis)]]
 - [[#Lyanna Winterborn (Political - Spy)|Lyanna Winterborn (Political - Spy)]]
-
 
 ---
 created: 2025-08-15
@@ -150,16 +148,13 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.122Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -176,11 +171,10 @@ Requires champions for trial by combat
 - [[Parliamentary_Voting_Guide]]
 - [[NPC00703_Elric_Dawnstrider_the_Swift]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -190,11 +184,10 @@ Requires champions for trial by combat
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -213,17 +206,17 @@ Requires champions for trial by combat
 - Affected by [[step_068 (phase_080)]]
 - Influences [[LORE00215_Legends_Entry_216]]
 - Requires [[Location City [[Emergency Management]] Emergency Management.svg]]
-- Connects to [[step_099]]
+- Connects to
 - Connects to [[Void Shepherds]]
 - Requires [[step_064 (phase_085)]]
 - See also: [[Portrait NPC Memory Harvester Kythara V1 Memory Harvester Kythara.svg_1 (Portraits)]]
-- Leads to [[step_100]]
+- Leads to
 - Compare with [[Portrait NPC Shadow Duchess Nyx Shadow Duchess Nyx.svg]]
 - Originates from [[Portrait NPC High Cultivist Jasper Lifebinder V1 High Cultivist Jasper Lifebinder.svg]]
 - Originates from [[LOC00045_Cities_Location_46]]
 - See also: [[step_091 (phase_050)]]
 - Compare with [[Ships - Player_Handout_[[Aethermoor]]_Airships]]
-- Influences [[step_078]]
+- Influences
 - Connects to [[Wand Xphb]]
 - Leads to [[step_091 (phase_037)]]
 - Originates from [[step_067 (phase_085)]]
@@ -234,8 +227,8 @@ Requires champions for trial by combat
 - Connects to [[Quest - The Great Integration]]
 - Requires [[NPC01662_Ewan_Stormwind_the_Strong]]
 - Leads to [[NPC01053_Delara_Dawnstrider_the_Seeker]]
-- Connects to [[step_048]]
-- Related: [[step_087]]
+- Connects to
+- Related:
 - Parallels [[Crystal Jellies (D&D_References)]]
 - Affected by [[Assets Locations [[Location City [[Banker Cornelius Goldflow]] Banker Cornelius Goldflow.svg]]]]
 - Requires [[step_029 (phase_053)]]
@@ -251,13 +244,13 @@ Requires champions for trial by combat
 - Influences [[Chancellor Squall Deepcurrent 2]]
 - Leads to [[step_021 (phase_004)]]
 - Parallels [[kitchen]]
-- Affected by [[step_069]]
+- Affected by
 - Parallels [[step_032 (phase_026)]]
 - Compare with [[ITEM00297_Thunder_Staff_of_Wounding]]
 - Related: [[step_044 (phase_031)]]
 - Compare with [[ITEM01101_Refined_Incense_of_Clarity]]
 - See also: [[D_201_Abyss_Mirror_Lake_Player]]
-- Requires [[step_094]]
+- Requires
 - Requires [[Location City [[The Sunken Library of Thalassius]] V1 the Sunken Library of Thalassius.svg]]
 - Leads to [[Shadow Vale (Criminal_Organizations)]]
 - Originates from [[step_071 (phase_038)]]
@@ -282,10 +275,10 @@ Requires champions for trial by combat
 - Compare with [[step_001 (phase_023)]]
 - Leads to [[step_033 (phase_092)]]
 - Leads to [[Master of the Gallery Cornelius Publicvoice (D&D_References)]]
-- Affected by [[step_013]]
+- Affected by
 - Related: [[Corruption Mystic Serafina Shadowheart 2]]
 - See also: [[step_030 (phase_075)]]
-- Related: [[step_068]]
+- Related:
 - See also: [[ITEM0142_Glorious_Shield_of_Shadows]]
 - Leads to [[QUEST0024_Champion's_Gambit]]
 - Parallels [[The Unknown Original 2]]

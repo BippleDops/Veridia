@@ -18,7 +18,6 @@ aliases: [NPC01297 Erasmus Brightblade the Bold]
 - [[#Solas Xendar the Seeker (Political - Opposition)|Solas Xendar the Seeker (Political - Opposition)]]
 - [[#Caelum Thornweave the Cunning (Professional - Partner)|Caelum Thornweave the Cunning (Professional - Partner)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Erasmus Brightblade the Bold", "erasmus brightblade the bold", "Erasmus Brightblade Bold", "Bold the Brightblade Erasmus"]
@@ -143,25 +142,20 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.258Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -180,7 +174,7 @@ Following magic item guidelines (WWT p.135-136):
 - Bestiary Compendium (BC) p.265
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -188,11 +182,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -204,7 +197,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[step_025 (phase_034)]]
 - Connects to [[Location City Screaming Gardens Screaming Gardens.svg]]
 - Parallels [[Gamma Leader Swift Currentrider]]
-- Parallels [[step_073]]
+- Parallels
 - Requires [[step_015 (phase_029)]]
 - Parallels [[Portrait NPC Zephyr Goldwhisper Zephyr Goldwhisper.svg_1 (Portraits)]]
 - Compare with [[The Memory-Gifted Historian, Scholar Echo-Thought]]
@@ -235,7 +228,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[The Shadow Warren]]
 - Leads to [[MON00134_Aberrations_Creature_135]]
 - Compare with [[location-city-sister-mourne-v1-sister-mourne.svg]]
-- Compare with [[step_040]]
+- Compare with
 - See also: [[The Drowning Truth 2]]
 - See also: [[step_078 (phase_050)]]
 - Compare with [[Portrait NPC Vespara Nightwhisper Thorne V2 Vespara Nightwhisper Thorne.svg]]
@@ -289,7 +282,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[QUEST00257_Side_Quest_258]]
 - Parallels [[step_029 (phase_016)]]
 - Affected by [[step_090 (phase_020)]]
-- Compare with [[step_002]]
+- Compare with
 - Affected by [[Location City the Order of the Shattered Crown V1 the Order of the Shattered Crown.svg]]
 - Parallels [[goblin-minion-xmm (fey)]]
 - Requires [[location-city-the-collector-v1-the-collector.svg]]
@@ -301,7 +294,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

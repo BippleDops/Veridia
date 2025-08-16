@@ -18,7 +18,6 @@ aliases: [11-spellcasting (players-handbook-2014)]
 - [[#See Also|See Also]]
 - [[#Related Content|Related Content]]
 
-
 ---
 
 title: 11-spellcasting (players-handbook-2014)
@@ -36,7 +35,7 @@ This document contains important information regarding 11-spellcasting and its r
 
 11-spellcasting represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
-- **Primary Purpose**: Serves specific 
+- **Primary Purpose**: Serves specific
 *The [texture] surface feels [description] to the touch.*function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details
@@ -71,11 +70,9 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - How to counter
 - Difficulty class ## References - [[Master_Spell_Compendium]]
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This character is not who they seem
@@ -103,8 +100,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - [ ] Prepare quick reference
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -115,7 +111,6 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - **Combat**: See ACX p.189-198
 - **Movement**: See ACX p.190-192
 - **Spellcasting**: See ACX p.201-205
-
 
 ## Thematic Connections
 - Magical theory from [[Schools of Magic]]
@@ -153,19 +148,19 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Connects to [[Infinite Dungeon Generator]]
 - Compare with [[location-city-fire-crystals-v1-fire-crystals.svg]]
 - Related: [[NPC01665_Malakai_Ravenheart_the_Strong]]
-- Related: [[step_024]]
+- Related:
 - Requires [[Doctor Emma Herbalist]]
 - Leads to [[ENC00252_Social_Encounter_253]]
 - Affected by [[Temple Ward (D&D_Statblocks)]]
 - Compare with [[totem]]
-- Requires [[step_047]]
+- Requires
 - Related: [[Scroll of Protection Aberrations Xdmg]]
 - Requires [[Assets Locations Location City Lord Reginald Seaworthy V1 Lord Reginald Seaworthy.svg]]
 - Affected by [[The Memory Merchants Guild (Groups)]]
 - Connects to [[step_011 (phase_011)]]
 - Connects to [[scroll-of-titan-summoning-animal-lord-xdmg (items)]]
 - Affected by [[Seven Shards Campaign Overview]]
-- Compare with [[step_085]]
+- Compare with
 - Originates from [[boon-of-invincibility (rewards)]]
 - See also: [[04_Resources_Assets_Locations_location-city-master-engineer-cordelia-pressurewright-master-engineer-cordelia-pressurewright.svg]]
 - Affected by [[LOC00064_Wilderness_Location_65]]
@@ -176,10 +171,10 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - See also: [[ENC00119_Combat_Encounter_120]]
 - Parallels [[EVENT00049_Natural_Event_50]]
 - Connects to [[LORE00328_History_Entry_329]]
-- Requires [[step_065]]
+- Requires
 - Compare with [[Location City Echo Translator Vera V1 Echo Translator Vera.svg]]
 - Originates from [[Trade Council Representative Nerissa Pearlsong (D&D_References)]]
-- Requires [[step_005]]
+- Requires
 - Parallels [[04_Resources_Assets_Locations_location-city-quartermaster-sterling-suppystone-v1-quartermaster-sterling-suppystone.svg]]
 - Affected by [[step_012 (phase_008)]]
 - Originates from [[Magnus Ledgerkeep (D&D_References)]]
@@ -207,7 +202,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Parallels [[DUN00040_Dungeon_41]]
 - See also: [[step_029 (phase_068)]]
 - Influences [[Portrait NPC Underground Testing Facility V1 Underground Testing Facility.svg]]
-- See also: [[step_001]]
+- See also:
 - Requires [[extreme-cold-xdmg (traps-hazards)]]
 - Parallels [[Creature Creature Salamander Xmm V4 Salamander Xmm.png]]
 - Compare with [[Scatter Xge]]
@@ -218,7 +213,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Requires [[Lyre Xphb]]
 - Compare with [[LORE00162_History_Entry_163]]
 - Related: [[LOC00120_Wilderness_Location_121]]
-- Parallels [[step_073]]
+- Parallels
 - Leads to [[Master Crystallographer Aurora Prismheart]]
 - Originates from [[ENC00135_Social_Encounter_136]]
 - Affected by [[QUEST00437_Side_Quest_438]]
@@ -228,12 +223,12 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Connects to [[Whisper Ward Amulet (D&D_References)]]
 - Requires [[step_025 (phase_084)]]
 - Compare with [[Ambassador Foreign-Relations Valdris]]
-- Parallels [[step_019]]
+- Parallels
 - Related: [[Location City Legal Profession V1 Legal Profession.svg]]
 - Influences [[NPC01987_Aeliana_Goldleaf_the_Guardian]]
 - Influences [[step_095 (phase_098)]]
 - Parallels [[step_032 (phase_098)]]
-- Influences [[step_063]]
+- Influences
 - Requires [[step_074 (phase_074)]]
 - Leads to [[Banker Cornelius Goldflow]]
 - Requires [[Current Innovator 2]]

@@ -18,7 +18,6 @@ aliases: [NPC00290 Aldric Underhill the Seeker]
 - [[#Dara Ravenheart (Personal - Love interest)|Dara Ravenheart (Personal - Love interest)]]
 - [[#Aeliana Hawthorne (Professional - Mentor)|Aeliana Hawthorne (Professional - Mentor)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aldric Underhill the Seeker", "aldric underhill the seeker", "Aldric Underhill Seeker", "Seeker the Underhill Aldric"]
@@ -144,27 +143,23 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.145Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -174,11 +169,10 @@ Wants rivals investigated
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -191,12 +185,12 @@ Wants rivals investigated
 - Compare with [[Pressure Tube Terminal]]
 - See also: [[ENC00031_Environmental_Encounter_32]]
 - Related: [[Madame Whisper (D&D_References)]]
-- Influences [[step_098]]
+- Influences
 - Requires [[ITEM00658_Fortified_Cloak_of_Grace]]
 - Parallels [[step_016 (phase_040)]]
 - Originates from [[LOC00046_Cities_Location_47]]
 - Originates from [[step_037 (phase_024)]]
-- See also: [[step_043]]
+- See also:
 - Connects to [[NPC01771_Malakai_Ironwood_the_Redeemed]]
 - Compare with [[step_024 (phase_040)]]
 - Related: [[Shadow Prison]]
@@ -226,7 +220,7 @@ Wants rivals investigated
 - Requires [[Avatar Manifestations]]
 - Requires [[Location City Nautilus Threadmender Nautilus Threadmender.svg]]
 - See also: [[The First Truth 2]]
-- Connects to [[step_026]]
+- Connects to
 - Affected by [[mass-cure-wounds-xphb (spells)]]
 - Connects to [[FAC00061_Cults_62]]
 - See also: [[Shadow Civil Rights Movement]]
@@ -235,13 +229,13 @@ Wants rivals investigated
 - Influences [[LOC00163_Cities_Location_164]]
 - Compare with [[step_025 (phase_095)]]
 - Requires [[Assets Locations Location City Elena Recordkeeper V1 Elena Recordkeeper.svg]]
-- Leads to [[step_091]]
+- Leads to
 - Parallels [[step_002 (phase_068)]]
 - Leads to [[Portrait NPC the Parasite Priests the Parasite Priests.svg]]
 - Compare with [[ENC0080_Random_Encounter_81]]
 - Compare with [[NPC01321_Ewan_Ashford_the_Seeker]]
 - Parallels [[animal-lord-forager-xmm (celestial)]]
-- Influences [[step_019]]
+- Influences
 - Affected by [[ITEM00442_Warded_Gauntlets_of_Fortitude]]
 - Parallels [[The Neutral Current 2]]
 - Connects to [[ITEM00125_Blazing_Spear_of_the_Ancients]]
@@ -265,14 +259,14 @@ Wants rivals investigated
 - Related: [[EVENT00056_Natural_Event_57]]
 - Affected by [[Location City Harbor Master S Tower V1 Harbor Master S Tower.png]]
 - Influences [[ITEM01040_Greater_Powder_of_Vigor]]
-- Requires [[step_046]]
+- Requires
 - Originates from [[Social Navigation Protocols]]
 - Originates from [[step_085 (phase_014)]]
 - Leads to [[Assets Locations Location City the Tidecaller the Tidecaller.svg]]
 - Originates from [[Portrait NPC Gall... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Player Handbook]]
 - Parallels [[step_063 (phase_027)]]
-- Leads to [[step_079]]
+- Leads to
 - Affected by [[step_016 (phase_067)]]
 - Parallels [[step_077 (phase_049)]]
 - Influences [[step_006 (phase_049)]]
@@ -287,7 +281,6 @@ Wants rivals investigated
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

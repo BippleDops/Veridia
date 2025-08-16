@@ -9,7 +9,6 @@ aliases: [NPC00565 Qadim Blackstone the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00565 Qadim Blackstone the Redeemed]
 - [[#Rhiannon Silverleaf the Swift (Personal - Best friend)|Rhiannon Silverleaf the Swift (Personal - Best friend)]]
 - [[#Qadim Emberfall the Scholar (Political - Ally)|Qadim Emberfall the Scholar (Political - Ally)]]
 - [[#Erasmus Emberfall the Broken (Criminal - Target)|Erasmus Emberfall the Broken (Criminal - Target)]]
-
 
 ---
 aliases: ["Qadim Blackstone the Redeemed", "qadim blackstone the redeemed", "Qadim Blackstone Redeemed", "Redeemed the Blackstone Qadim"]
@@ -149,21 +147,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.177Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -211,7 +205,7 @@ Being extorted by criminals
 - Influences [[Restorative Justice]]
 - Compare with [[step_035 (phase_072)]]
 - Requires [[LORE00137_Prophecies_Entry_138]]
-- Originates from [[step_009]]
+- Originates from
 - Related: [[DUN00157_Dungeon_158]]
 - Parallels [[Wilderness Chase Complications]]
 - Related: [[NPC01921_Erasmus_Youngblood_the_Seeker]]
@@ -224,7 +218,7 @@ Being extorted by criminals
 - Related: [[LOC0080_Havenwick]]
 - Influences [[QUEST00204_Personal_Quest_205]]
 - Originates from [[dragonlance-takhisis-phb (deities)]]
-- Parallels [[step_065]]
+- Parallels
 - See also: [[Emergency Combat Procedures]]
 - Related: [[Portrait NPC Deep Mother Cultist Profiles V2 Deep Mother Cultist Profiles.svg]]
 - Compare with [[Location City Noble Titles and Ranks Noble Titles and Ranks.svg]]
@@ -241,7 +235,7 @@ Being extorted by criminals
 - Requires [[Saving Throws Proficiency Bonus by Challenge Rating Mm]]
 - Influences [[Commander Reef Shadowstrike 2]]
 - Requires [[create-or-destroy-water-xphb (spells)]]
-- Requires [[step_093]]
+- Requires
 - Related: [[The Paradox Engine]]
 - Influences [[Dr Coral Mindmend]]
 - Requires [[erinyes-xmm (fiend)]]
@@ -256,17 +250,17 @@ Being extorted by criminals
 - Parallels [[Independent Merchant]]
 - Leads to [[The Memory Wardens (D&D_References)]]
 - Leads to [[Truth-Seeker Cornelius]]
-- Compare with [[step_068]]
+- Compare with
 - Connects to [[MON0036_Void_Guardian]]
 - Leads to [[Blessing of Valhalla Xdmg]]
 - Originates from [[step_090 (phase_079)]]
 - See also: [[step_010 (phase_019)]]
 - Leads to [[inferno-xdmg (traps-hazards)]]
 - Parallels [[04_Resources_Assets_Locations_location-city-ghost-of-dr-thaddeus-brightwater-ghost-of-dr-thaddeus-brightwater.svg]]
-- Parallels [[step_084]]
+- Parallels
 - Originates from [[Shard Powers and Effects]]
 - Related: [[Trade Networks 2]]
-- See also: [[step_058]]
+- See also:
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

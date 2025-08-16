@@ -18,7 +18,6 @@ aliases: [NPC01667 Jorah Jadeclaw the Mystic]
 - [[#Gavril Silverleaf the Risen (Political - Puppet)|Gavril Silverleaf the Risen (Political - Puppet)]]
 - [[#Caelum Ravenheart the Risen (Personal - Nemesis)|Caelum Ravenheart the Risen (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Jorah Jadeclaw the Mystic", "jorah jadeclaw the mystic", "Jorah Jadeclaw Mystic", "Mystic the Jadeclaw Jorah"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.297Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -174,7 +169,7 @@ Blackmails party into service
 - Leads to [[FAC00023_Guilds_24]]
 - See also: [[boon-of-undetectability (rewards)]]
 - Parallels [[step_054 (phase_041)]]
-- Requires [[step_008]]
+- Requires
 - Affected by [[Heritage Archive (D&D_References)]]
 - Originates from [[step_005 (phase_094)]]
 - Influences [[Crystal-Corruption-Tracking-Sheet (Lore)]]
@@ -199,7 +194,7 @@ Blackmails party into service
 - Leads to [[step_010 (phase_046)]]
 - Requires [[step_058 (phase_011)]]
 - Related: [[Purification Chambers]]
-- Parallels [[step_027]]
+- Parallels
 - See also: [[Instrument of the Bards Anstruth Harp Xdmg]]
 - Compare with [[step_016 (phase_082)]]
 - Influences [[The Scholars of Divine Lore 2]]
@@ -211,7 +206,7 @@ Blackmails party into service
 - Compare with [[NPC0033_Helena_Stormwind]]
 - Influences [[Cosmic Horror Trials]]
 - Parallels [[ITEM00179_Blazing_Staff_of_Wounding]]
-- Requires [[step_057]]
+- Requires
 - Parallels [[Location City Diplomatic Service Diplomatic Service.svg]]
 - Compare with [[Commercial District (D&D_References)]]
 - See also: [[Weretiger Xmm]]
@@ -254,13 +249,13 @@ Blackmails party into service
 - See also: [[Portrait NPC Harbor Master Luna Freedrift V1 Harbor Master Luna Freedrift.svg]]
 - Requires [[Box of Turquoise Animal Figurines Xdmg]]
 - See also: [[The Cipher Current (D&D_References)]]
-- Affected by [[step_024]]
+- Affected by
 - Parallels [[step_009 (phase_039)]]
 - Leads to [[Damage Threshold Xphb]]
 - Requires [[elemental-spirit-fire-xphb (elemental)]]
 - Requires [[6 Bestiary]]
 - Compare with [[5 Halflings and Gnomes]]
-- See also: [[step_009]]
+- See also:
 - Affected by [[1-introduction (monster-manual-2014)]]
 - Parallels [[Manual of Golems Xdmg]]
 - Compare with [[The Purification Gardens (D&D_References)]]
@@ -273,7 +268,6 @@ Blackmails party into service
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

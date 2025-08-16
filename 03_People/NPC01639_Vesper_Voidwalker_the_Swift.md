@@ -18,7 +18,6 @@ aliases: [NPC01639 Vesper Voidwalker the Swift]
 - [[#Zephyr Goldleaf the Fallen (Political - Puppet)|Zephyr Goldleaf the Fallen (Political - Puppet)]]
 - [[#Caelum Youngblood the Fallen (Professional - Employer)|Caelum Youngblood the Fallen (Professional - Employer)]]
 
-
 ---
 aliases: ["Vesper Voidwalker the Swift", "vesper voidwalker the swift", "Vesper Voidwalker Swift", "Swift the Voidwalker Vesper"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.294Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -188,7 +183,7 @@ Blackmails party into service
 - Originates from [[bewitching-whispers (optional-features)]]
 - Parallels [[LOC00110_Towns_Location_111]]
 - Originates from [[Firearms Xdmg]]
-- Influences [[step_038]]
+- Influences
 - Requires [[Assets Locations Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg]]
 - Requires [[Pony Xmm]]
 - Influences [[Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg]]
@@ -223,7 +218,7 @@ Blackmails party into service
 - Connects to [[Deepwatch Guard 2]]
 - Influences [[map-map-sunken-crown-crypt-sunken-crown-crypt.svg]]
 - Leads to [[Quest - The Haunted Depths]]
-- Leads to [[step_057]]
+- Leads to
 - Originates from [[04_Resources_Assets_Symbols_symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png]]
 - Connects to [[Human Names Spanish Female Xge]]
 - Compare with [[LORE00090_Prophecies_Entry_91]]
@@ -237,7 +232,7 @@ Blackmails party into service
 - Requires [[Creature Size and Space Xdmg]]
 - Connects to [[Princess Celestia (D&D_References)]]
 - Affected by [[step_080 (phase_077)]]
-- Compare with [[step_094]]
+- Compare with
 - Requires [[Culinary Dreamweaver Sage Gentlespice (D&D_References)]]
 - Connects to [[Assets Portraits Portrait NPC Deep Lords Deep Lords.svg]]
 - Originates from [[step_072 (phase_089)]]
@@ -260,19 +255,18 @@ Blackmails party into service
 - Compare with [[step_083 (phase_049)]]
 - Compare with [[globe-of-invulnerability-xphb (spells)]]
 - Influences [[Assets Locations Location City Dream Enhancement Techniques V1 Dream Enhancement Techniques.svg]]
-- Parallels [[step_060]]
+- Parallels
 - Requires [[step_034 (phase_010)]]
 - Leads to [[Captain Marcus Voidward (D&D_References)]]
 - Requires [[Downtime Activity Gaining Renown]]
-- Parallels [[step_084]]
-- Related: [[step_048]]
+- Parallels
+- Related:
 - Requires [[LOC00232_Towns_Location_233]]
 
 ## Visual References
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

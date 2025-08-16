@@ -18,7 +18,6 @@ aliases: [NPC00388 Ysara Goldleaf]
 - [[#Caelum Emberfall (Family - Child)|Caelum Emberfall (Family - Child)]]
 - [[#Gavril Quicksilver the Cunning (Personal - Nemesis)|Gavril Quicksilver the Cunning (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ysara Goldleaf", "ysara goldleaf", "Goldleaf Ysaratags: [npc, character, combat, magic, social, puzzle, lore]er]
@@ -154,16 +153,13 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.156Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -184,11 +180,10 @@ Modifications:
 - [[NPC00069_Thalia_Brightblade_the_Guardian]]
 - [[NPC00437_Hilda_Stormwind_the_Mystic]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -199,11 +194,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -214,7 +208,7 @@ Modifications:
 - Affected by [[portrait-npc-the-biomancers-v1-the-biomancers.svg_1 (Portraits)]]
 - Parallels [[step_052 (phase_034)]]
 - Originates from [[Assets Handouts Handout Handout Wanted Poster with Reward V3 Wanted Poster with Reward.png]]
-- Leads to [[step_030]]
+- Leads to
 - Compare with [[Zircon Xdmg]]
 - Affected by [[Sphinx of Valor Xmm]]
 - Requires [[The Silent Watcher]]
@@ -234,17 +228,17 @@ Modifications:
 - Influences [[Craftmaster Engineer Gearwhispe (D&D_References)]]
 - Related: [[step_011 (phase_055)]]
 - Requires [[Hirelings Xphb]]
-- Requires [[step_049]]
+- Requires
 - Influences [[step_011 (phase_064)]]
 - See also: [[` to search for existing notes to link]]
 - Affected by [[step_047 (phase_051)]]
 - Leads to [[portrait-npc-the-emergence-v1-the-emergence.svg]]
 - Leads to [[Conditions_Reference (02_Worldbuilding)]]
-- Connects to [[step_054]]
+- Connects to
 - Requires [[Current_Location]]
-- Related: [[step_083]]
+- Related:
 - See also: [[LORE00212_Legends_Entry_213]]
-- Requires [[step_053]]
+- Requires
 - Requires [[Quest - Neural Revolution]]
 - Influences [[Archmage Deflector Windturner]]
 - Parallels [[EVENT00002_Political_Event_3]]
@@ -253,9 +247,9 @@ Modifications:
 - See also: [[step_055 (phase_059)]]
 - Connects to [[LORE0082_Prophecy_of_the_Sundering]]
 - Related: [[The Audit Tower (D&D_References)]]
-- Influences [[step_089]]
+- Influences
 - Leads to [[Theological Seminaries]]
-- Leads to [[step_025]]
+- Leads to
 - Affected by [[[[Time]]line of the Drowning]]
 - Compare with [[Religious Communities 2]]
 - Influences [[Item Artifact Poisoners Kit Xphb V7 Poisoners Kit Xphb.png]]
@@ -272,7 +266,7 @@ Modifications:
 - Connects to [[Portrait NPC Quest the Divine Test V2 Quest the Divine Test.svg]]
 - Originates from [[Whisper Jack (D&D_References)]]
 - Influences [[The Boundary Accords]]
-- Connects to [[step_095]]
+- Connects to
 - Influences [[Vault Prime (D&D_References)]]
 - Parallels [[Blackmarket Betty 2]]
 - See also: [[LORE00213_Prophecies_Entry_214]]
@@ -290,14 +284,14 @@ Modifications:
 - Influences [[archelon-xmm (beast)]]
 - Leads to [[NPC01023_Delara_Stormwind_the_Guardian]]
 - Related: [[Assets Handouts Handout Handout Smuggler Ledger Page V3 Smuggler Ledger Page.png]]
-- Connects to [[step_072]]
+- Connects to
 - Parallels [[step_084 (phase_050)]]
 - Parallels [[Session 4]]
-- Connects to [[step_046]]
+- Connects to
 - Originates from [[02_Worldbuilding_Groups_The_Reunification_Coalition]]
 - Influences [[waterskin-xphb (items)]]
 - Affected by [[Bless]]
-- Requires [[step_058]]
+- Requires
 - Related: [[Quest - Mother's Mercy]]
 - Parallels [[mirror-of-life-trapping-xdmg (items)]]
 - Affected by [[step_057 (phase_081)]]
@@ -312,7 +306,6 @@ Modifications:
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea6c15f7fb617cec",
+        "id": "a2043beab933cceb",
         "type": "tabs",
         "children": [
           {
-            "id": "fa5c4d6e2915788c",
+            "id": "8f087303df721b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_People/02 Chapter 1 Playing the Game#stabilizing a Character.md",
+                "file": "01_Adventures/Campaigns/{{campaign}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Chapter 1 Playing the Game#stabilizing a Character"
+              "title": "{{campaign}}"
             }
           }
         ]
@@ -202,8 +202,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -212,8 +212,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -348,12 +348,32 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "13b5efccf6de0376",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "896037b4f1ba4c1b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "13b5efccf6de0376",
+            "id": "0f5a754e616cfef0",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -363,7 +383,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "1daf628a52fe86ef",
@@ -384,7 +404,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -409,7 +429,7 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "fa5c4d6e2915788c",
+  "active": "8f087303df721b9d",
   "lastOpenFiles": [
     "_SCRIPTS/targeted_fake_file_remover.py",
     "09_Performance/comprehensive_clean_report.md",

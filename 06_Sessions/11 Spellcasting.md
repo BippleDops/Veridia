@@ -16,7 +16,6 @@ aliases: [11 Spellcasting]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 ---
 
 title: 11 Spellcasting
@@ -34,7 +33,7 @@ This document contains important information regarding 11 Spellcasting and its r
 
 11 Spellcasting represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
-- **Primary Purpose**: Serves specific 
+- **Primary Purpose**: Serves specific
 *The [texture] surface feels [description] to the touch.*function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details
@@ -59,11 +58,9 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This NPC knows more than they let on
@@ -79,8 +76,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - [[03 Races]]
 - [[Item_Catalog_Complete.md]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -90,7 +86,6 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Spellcasting**: See ACX p.201-205
-
 
 ## Thematic Connections
 - Magical theory from [[Schools of Magic]]
@@ -129,7 +124,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Originates from [[LOC00013_Towns_Location_14]]
 - Compare with [[Depth Speak Variations (D&D_References)]]
 - Affected by [[Speak With Animals Xphb]]
-- Compare with [[step_049]]
+- Compare with
 - Related: [[Omega-Protocol]]
 - Connects to [[step_091 (phase_089)]]
 - See also: [[Portrait NPC the Scattered Emperor V1 the Scattered Emperor.svg]]
@@ -143,7 +138,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Influences [[giant-octopus-xmm (beast)]]
 - Compare with [[Portrait NPC the Nameless Auditor the Nameless Auditor.svg_1 (Portraits)]]
 - Parallels [[Void Between Pressures (D&D_References)]]
-- Influences [[step_085]]
+- Influences
 - Leads to [[step_055 (phase_025)]]
 - Requires [[Assets Locations Location City Coral Gardens District Coral Gardens District.svg]]
 - Related: [[step_082 (phase_051)]]
@@ -153,7 +148,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Affected by [[step_034 (phase_097)]]
 - Compare with [[LORE00005_Prophecies_Entry_6]]
 - Parallels [[The Lost Shipment (D&D_References)]]
-- Related: [[step_017]]
+- Related:
 - Originates from [[injuries]]
 - Influences [[Portrait NPC the Smuggler S Den V1 the Smuggler S Den.svg_1 (Portraits)]]
 - Requires [[NPC00869_Alaric_Jadeclaw_the_Broken]]
@@ -166,14 +161,14 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Parallels [[step_082 (phase_042)]]
 - Influences [[Location City Environmental Monitor Reef Ecowatch V1 Environmental Monitor Reef Ecowatch.svg]]
 - Affected by [[District Economic Profiles (Lore)]]
-- Compare with [[step_060]]
+- Compare with
 - Connects to [[Portrait NPC Emperor Thalassius Emperor Thalassius.svg]]
 - Requires [[step_004 (phase_037)]]
 - Parallels [[ITEM00537_Fortified_Chain_Mail_of_Fortitude]]
 - Parallels [[Portrait NPC Abyssos Prime Throne of Bubbles V1 Abyssos Prime Throne of Bubbles.svg_1 (Portraits)]]
 - Affected by [[step_003 (phase_010)]]
 - See also: [[Assets Locations Location City Age of Wonders Age of Wonders.svg]]
-- Requires [[step_004]]
+- Requires
 - Originates from [[FAC00055_Cults_56]]
 - Parallels [[dwarven-plate-xdmg (items)]]
 - Leads to [[Assets Locations Location City the Harbor Guild the Harbor Guild.svg]]
@@ -184,7 +179,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Parallels [[step_028 (phase_085)]]
 - Leads to [[step_026 (phase_066)]]
 - Leads to [[step_037 (phase_009)]]
-- Parallels [[step_034]]
+- Parallels
 - Influences [[Memory Pearls]]
 - Leads to [[step_039 (phase_065)]]
 - Compare with [[Luminous Hollow 2]]

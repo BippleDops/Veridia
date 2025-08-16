@@ -9,7 +9,6 @@ aliases: [Captain Storm]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_captain_storm_tideguard_friendly.png]]
 
-
 ## Table of Contents
 - [[#Overview|Overview]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [Captain Storm]
 - [[#Plot Hooks|Plot Hooks]]
 - [[#DM Notes|DM Notes]]
 - [[#Voice & Mannerisms|Voice & Mannerisms]]
-
 
 ---
 title: Captain Storm
@@ -82,31 +80,25 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Possessions
 - Personal items
 - Valuable objects
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 ## Connections
 
@@ -125,14 +117,14 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - See also: [[step_048 (phase_017)]]
 - Requires [[Other_Actual_Plays]]
 - Related: [[Assets Locations Location City Victoria Harbormane V1 Victoria Harbormane.svg]]
-- Parallels [[step_067]]
-- Requires [[step_080]]
+- Parallels
+- Requires
 - Influences [[NPC00078_Qadim_Goldleaf]]
 - Affected by [[potion-of-giant-strength-xdmg (items)]]
 - Influences [[NPC00169_Aldric_Zephyrblade_the_Wise]]
 - Affected by [[step_051 (phase_004)]]
 - Originates from [[The Future Market 2]]
-- Originates from [[step_047]]
+- Originates from
 - Requires [[List Spells Optional Features Wave of Rolling Earth]]
 - Originates from [[NPC00297_Gavril_Stormwind_the_Cunning]]
 - Compare with [[quaals-feather-token-whip-xdmg (items)]]
@@ -172,19 +164,19 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Related: [[Location City Knowledge Truthseeker V1 Knowledge Truthseeker.svg]]
 - Affected by [[The Godhead Ritual (D&D_References)]]
 - Parallels [[step_082 (phase_064)]]
-- Influences [[step_057]]
+- Influences
 - Requires [[human-names-niger-congo-female-xge (tables)]]
-- Leads to [[step_098]]
+- Leads to
 - Influences [[The Crimson Tide Pirates.md]]
 - Affected by [[Horseshoes of Speed Xdmg]]
 - Affected by [[step_015 (phase_046)]]
-- Originates from [[step_038]]
+- Originates from
 - Influences [[NPC01213_Drusilla_Underhill_the_Scholar]]
 - See also: [[Unite_or_Divide.png]]
 - Compare with [[NPC00684_Erasmus_Frostwhisper_the_Redeemed]]
 - Influences [[Location City Ancient Echo Truthfinder V1 Ancient Echo Truthfinder.svg]]
 - Related: [[step_038 (phase_040)]]
-- Requires [[step_017]]
+- Requires
 - Influences [[Assets Locations Location City the Trencher Folk the Trencher Folk.svg]]
 - Originates from [[step_021 (phase_058)]]
 - Compare with [[step_052 (phase_059)]]
@@ -192,7 +184,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Connects to [[step_068 (phase_023)]]
 - Affected by [[step_080 (phase_069)]]
 - Leads to [[step_056 (phase_038)]]
-- Connects to [[step_053]]
+- Connects to
 - Connects to [[ITEM00969_Lesser_Incense_of_Vigor]]
 - Originates from [[Assets Locations Location City Finn Deepmarket Finn Deepmarket.svg]]
 - Influences [[The Vote Vault Mystery]]
@@ -203,7 +195,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Originates from [[LOC00263_Planes_Location_264]]
 - Parallels [[control-water-xphb (spells)]]
 - Connects to [[Ecological Balance Protocols]]
-- Compare with [[step_037]]
+- Compare with
 - Requires [[ram-xdmg (objects)]]
 - See also: [[step_049 (phase_015)]]
 - Originates from [[04_Resources_Assets_Locations_location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg]]

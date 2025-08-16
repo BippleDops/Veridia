@@ -18,7 +18,6 @@ aliases: [NPC01151 Orion Stormwind the Seeker]
 - [[#Elric Zephyrblade the Wise (Personal - Nemesis)|Elric Zephyrblade the Wise (Personal - Nemesis)]]
 - [[#Erasmus Ashford the Wise (Professional - Rival)|Erasmus Ashford the Wise (Professional - Rival)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Orion Stormwind the Seeker", "orion stormwind the seeker", "Orion Stormwind Seeker", "Seeker the Stormwind Oriontags: [npc, character, combat, magic, social, lore]er]
@@ -140,16 +139,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.242Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -161,7 +157,6 @@ Modifications:
 - HP: 28
 - AC: 16
 - Notable abilities: Varies by individual
-
 
 > [!quote] 💬 Quote
 > Notable saying or prophecy
@@ -212,11 +207,10 @@ Modifications:
 - [[03 Races]]
 - [[11 Spellcasting]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -227,11 +221,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -241,7 +234,7 @@ Modifications:
 - Affected by [[LOC00131_Planes_Location_132]]
 - Influences [[norse-thrym (deities)]]
 - Parallels [[unoccupied-space-xphb (variant-rules)]]
-- Connects to [[step_002]]
+- Connects to
 - Originates from [[The Resistance Formation 2]]
 - Related: [[Shadow Legislative Records]]
 - Affected by [[step_028 (phase_070)]]
@@ -251,15 +244,15 @@ Modifications:
 - Affected by [[dragonlance-branchala-phb (deities)]]
 - Connects to [[step_007 (phase_071)]]
 - See also: [[pale-tincture-xdmg (items)]]
-- Parallels [[step_088]]
-- Affected by [[step_041]]
+- Parallels
+- Affected by
 - Originates from [[jeweled-gold-crown-xdmg (items)]]
 - Affected by [[Portrait NPC Shadow Broker Mist Shadow Broker Mist.svg]]
 - Affected by [[SPELL00162_Nature_Spell_163]]
 - Influences [[LORE00313_Legends_Entry_314]]
 - Parallels [[modron-monodrone-xmm (construct)]]
 - Originates from [[Assets Locations Location City [[The Depth Market]] the Depth Market.svg]]
-- Connects to [[step_073]]
+- Connects to
 - Requires [[EVENT00072_Political_Event_73]]
 - Parallels [[ITEM01019_Concentrated_Oil_of_Clarity]]
 - Affected by [[step_037 (phase_100)]]
@@ -272,7 +265,7 @@ Modifications:
 - Affected by [[Healing Ministries]]
 - Related: [[step_077 (phase_044)]]
 - Leads to [[The Convergence Point]]
-- Related: [[step_063]]
+- Related:
 - Compare with [[Location City [[Surgeon Coral Seamender]] Surgeon Coral Seamender.svg]]
 - Influences [[ENC00373_Combat_Encounter_374]]
 - Requires [[step_037 (phase_014)]]
@@ -280,7 +273,7 @@ Modifications:
 - Influences [[NPC00934_Jorah_Ravenheart_the_Swift]]
 - See also: [[Luck Spirits Allianc]]
 - Connects to [[QUEST00035_Personal_Quest_36]]
-- Leads to [[step_030]]
+- Leads to
 - Connects to [[Assets Locations Location City [[The Kelp Highway]] V1 the Kelp Highway.svg]]
 - Leads to [[NPC00763_Urien_Brightblade_the_Broken]]
 - Influences [[[[War Machine Engineers]] (D&D_References)]]
@@ -291,7 +284,7 @@ Modifications:
 - Affected by [[Military Families Support Groups]]
 - Influences [[Generate Campaign NPCs (Text Generator Templates)]]
 - Influences [[Assets Portraits Portrait NPC High Priest Nereon High Priest Nereon.svg]]
-- Leads to [[step_044]]
+- Leads to
 - Affected by [[step_049 (phase_083)]]
 - Related: [[Deep Mother Resistance Traits]]
 - See also: [[Location City [[Elena Prismweaver]] Elena Prismweaver.svg]]
@@ -305,7 +298,7 @@ Modifications:
 - See also: [[bard-xphb (classes)]]
 - Compare with [[[[Scholar Thomas Precedent]] (D&D_References)]]
 - Compare with [[Police Chief Sarah Lawkeeper]]
-- See also: [[step_059]]
+- See also:
 - Compare with [[Assets Locations Location City [[The Crystal Cathedral]] of Pure Light [[The Crystal Cathedral of Pure Light]].svg]]
 - Affected by [[10K_GENERATION_REPORT]]
 - Leads to [[step_045 (phase_015)]]
@@ -326,11 +319,11 @@ Modifications:
 - Related: [[step_021 (phase_011)]]
 - Related: [[step_042 (phase_004)]]
 - Requires [[Home Embeds#Recently Modifie 2]]
-- Connects to [[step_085]]
+- Connects to
 - Requires [[step_024 (phase_064)]]
 - Related: [[Crystal_Observatory]]
 - Originates from [[ITEM01041_Refined_Powder_of_Fortune]]
-- Requires [[step_071]]
+- Requires
 - Compare with [[Archmage Deflector Windturner 2]]
 - Requires [[Previous Session]]
 - Leads to [[Assets Locations [[Location City [[Tide Welcomeheart]] V1 Tide Welcomeheart.svg]]]]
@@ -340,7 +333,6 @@ Modifications:
 ![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

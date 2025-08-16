@@ -18,7 +18,6 @@ aliases: [NPC00343 Ysara Thornweave the Bold]
 - [[#Jorah Hawthorne the Seeker (Family - Parent)|Jorah Hawthorne the Seeker (Family - Parent)]]
 - [[#Rhiannon Ironforge the Bold (Personal - Best friend)|Rhiannon Ironforge the Bold (Personal - Best friend)]]
 
-
 ---
 aliases: ["Ysara Thornweave the Bold", "ysara thornweave the bold", "Ysara Thornweave Bold", "Bold the Thornweave Ysara"]
 tags: [npc, character]
@@ -157,21 +156,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.151Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -187,7 +182,7 @@ Needs discrete help with family scandal
 - Affected by [[LORE00275_History_Entry_276]]
 - Originates from [[adult-silver-dragon-xmm (dragon)]]
 - Connects to [[Artistic Communities (D&D_References)]]
-- See also: [[step_043]]
+- See also:
 - Compare with [[supplemental-tables-absent-parent-xge (tables)]]
 - Leads to [[LOC00271_Cities_Location_272]]
 - Originates from [[ENC00207_Combat_Encounter_208]]
@@ -237,8 +232,8 @@ Needs discrete help with family scandal
 - Originates from [[Location City Scholar Thalosseus Scholar Thalosseus.svg]]
 - Requires [[LOC00055_Wilderness_Location_56]]
 - Influences [[NPC00591_Brenna_Proudmore_the_Redeemed]]
-- See also: [[step_067]]
-- See also: [[step_050]]
+- See also:
+- See also:
 - Related: [[step_017 (phase_087)]]
 - Connects to [[02_Worldbuilding_Places_The_Gilded_Serpent]]
 - Influences [[step_031 (phase_060)]]
@@ -262,7 +257,7 @@ Needs discrete help with family scandal
 - Influences [[step_090 (phase_051)]]
 - Parallels [[Dwarven Thrower Xdmg]]
 - Parallels [[Mace of Disruption Xdmg]]
-- Influences [[step_012]]
+- Influences
 - Connects to [[LORE00206_Legends_Entry_207]]
 - See also: [[step_046 (phase_017)]]
 - See also: [[step_020 (phase_073)]]
@@ -280,7 +275,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

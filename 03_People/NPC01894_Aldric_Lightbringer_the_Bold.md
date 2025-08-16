@@ -18,7 +18,6 @@ aliases: [NPC01894 Aldric Lightbringer the Bold]
 - [[#Corvus Proudmore the Guardian (Criminal - Accomplice)|Corvus Proudmore the Guardian (Criminal - Accomplice)]]
 - [[#Drusilla Voidwalker the Fallen (Family - Cousin)|Drusilla Voidwalker the Fallen (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aldric Lightbringer the Bold", "aldric lightbringer the bold", "Aldric Lightbringer Bold", "Bold the Lightbringer Aldric"]
@@ -149,16 +148,13 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.321Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -224,11 +220,10 @@ Offers deal too good to refuse
 - [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
 - [[MASTER_MOC]]
 - [[NPC01566_Lyanna_Underhill_the_Redeemed]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -236,11 +231,10 @@ Offers deal too good to refuse
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -254,7 +248,7 @@ Offers deal too good to refuse
 - Parallels [[Coral Silkweaver 2]]
 - Compare with [[step_006 (phase_083)]]
 - Affected by [[NPC01835_Xander_Frostwhisper_the_Wise]]
-- Related: [[step_043]]
+- Related:
 - See also: [[LOC00136_Towns_Location_137]]
 - Compare with [[scroll-of-protection-elementals-xdmg (items)]]
 - Connects to [[step_079 (phase_045)]]
@@ -270,14 +264,14 @@ Offers deal too good to refuse
 - Compare with [[LORE00057_History_Entry_58]]
 - Requires [[Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master Depth Guide Melancholy.svg]]
 - Parallels [[Gnoll Dmg]]
-- Parallels [[step_018]]
+- Parallels
 - Requires [[Consequence Chain 5 Marina's Identity Revelation (02_Worldbuilding)]]
 - Related: [[Environmental Protection Specialist]]
 - Related: [[step_092 (phase_055)]]
-- Leads to [[step_043]]
+- Leads to
 - Compare with [[NPC00998_Idris_Ravenheart_the_Strong]]
-- Originates from [[step_089]]
-- Influences [[step_069]]
+- Originates from
+- Influences
 - Affected by [[step_017 (phase_042)]]
 - Parallels [[Prayer of Healing Xphb]]
 - Affected by [[Noble Opposition (D&D_References)]]
@@ -292,11 +286,11 @@ Offers deal too good to refuse
 - Influences [[step_072 (phase_093)]]
 - Affected by [[High Council]]
 - See also: [[Location City Legal Education V1 Legal Education.svg]]
-- Requires [[step_080]]
+- Requires
 - See also: [[Commander Elena Crystalbreaker]]
 - Parallels [[LORE00240_Legends_Entry_241]]
 - Leads to [[step_084 (phase_068)]]
-- Connects to [[step_027]]
+- Connects to
 - Leads to [[step_031 (phase_097)]]
 - Connects to [[step_042 (phase_026)]]
 - Related: [[Portrait NPC Deep Priest Covenant Deep Priest Covenant.svg_1 (Portraits)]]
@@ -327,18 +321,18 @@ Offers deal too good to refuse
 - Leads to [[Assets Vehicles Vehicle Ship Depth Piercer Research Sub V1 Depth Piercer Research Sub.svg]]
 - Affected by [[Horn of Valhalla Iron Xdmg]]
 - Affected by [[The Growth Gardens 2]]
-- Requires [[step_025]]
+- Requires
 - Related: [[12_Research_D&D_Statblocks_High_Priestess_Celeste_Dawnbringer]]
 - Parallels [[QUEST00013_Main_Quest_14]]
 - Leads to [[Merchant_and_Trader_Guide]]
 - Leads to [[location-city-fresh-cleanwave-fresh-cleanwave.svg]]
 - Affected by [[King Marcus Lumengarde (D&D_References)]]
-- Originates from [[step_030]]
+- Originates from
 - Requires [[vampire-spawn-xmm (undead)]]
 - See also: [[step_074 (phase_023)]]
 - See also: [[Customer Relations Director Seraphina Calmcurrent (D&D_References)]]
 - Influences [[ITEM01302_Simple_Lock_of_Durability]]
-- Connects to [[step_093]]
+- Connects to
 - Leads to [[ULTIMATE_SYSTEM_REPORT]]
 - Compare with [[Merger_Vessels_Catalog]]
 - Parallels [[Random Encounters 2]]
@@ -349,7 +343,6 @@ Offers deal too good to refuse
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

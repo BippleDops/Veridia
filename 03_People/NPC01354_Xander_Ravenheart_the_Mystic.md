@@ -18,7 +18,6 @@ aliases: [NPC01354 Xander Ravenheart the Mystic]
 - [[#Thalia Jadeclaw the Guardian (Criminal - Accomplice)|Thalia Jadeclaw the Guardian (Criminal - Accomplice)]]
 - [[#Drusilla Crystalbrook the Mystic (Criminal - Fence)|Drusilla Crystalbrook the Mystic (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Ravenheart the Mystic", "xander ravenheart the mystic", "Xander Ravenheart Mystic", "Mystic the Ravenheart Xander"]
@@ -148,25 +147,20 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.264Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -185,7 +179,7 @@ Following magic item guidelines (WWT p.135-136):
 - Xanathar's Secrets Revealed to Everything (XSR) p.172
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -194,11 +188,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -221,7 +214,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[QUEST00035_Personal_Quest_36]]
 - Requires [[step_095 (phase_008)]]
 - Compare with [[Sky Council Chambers]]
-- Influences [[step_085]]
+- Influences
 - Leads to [[DUN00096_Dungeon_97]]
 - Affected by [[Location City the Kraken S Harbor V1 the Kraken S Harbor.svg]]
 - Parallels [[Evasive Footwork Xphb]]
@@ -246,7 +239,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Location City the Listener S Code the Listener S Code.svg]]
 - Affected by [[LORE00248_Prophecies_Entry_249]]
 - See also: [[NPC00623_Dara_Oakenshield_the_Wanderer]]
-- Affected by [[step_088]]
+- Affected by
 - Parallels [[step_089 (phase_100)]]
 - Connects to [[stairs]]
 - Connects to [[strahd-zombie-cos (undead)]]
@@ -269,7 +262,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Councilor Elena Brightwind]]
 - Influences [[LOC00074_Towns_Location_75]]
 - Connects to [[Dr Silent Treatment]]
-- Connects to [[step_082]]
+- Connects to
 - Parallels [[Chef Xphb]]
 - Parallels [[Necromancer's Conclave]]
 - Affected by [[Memory Extraction Laboratory]]
@@ -281,8 +274,8 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Assets Locations Location City Church of the Tidal Throne Church of the Tidal Throne.svg]]
 - Originates from [[Festival Grounds - Underground]]
 - Parallels [[LOC00096_Wilderness_Location_97]]
-- Influences [[step_059]]
-- Affected by [[step_026]]
+- Influences
+- Affected by
 - Connects to [[Summoning Ritual]]
 - Leads to [[Template_Galaxy_Placeholder.png_2 (09_Templates)]]
 - Leads to [[MON0002_Fire_Stalker]]
@@ -297,7 +290,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[step_019 (phase_017)]]
 - Affected by [[Guard Drake Mpmm]]
 - Requires [[step_033 (phase_042)]]
-- Leads to [[step_042]]
+- Leads to
 - See also: [[Gareth Brightweav]]
 - Compare with [[The First Water]]
 - Originates from [[elixir-of-health-xdmg (items)]]
@@ -307,7 +300,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

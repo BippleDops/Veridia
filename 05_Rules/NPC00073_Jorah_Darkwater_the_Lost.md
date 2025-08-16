@@ -18,7 +18,6 @@ aliases: [NPC00073 Jorah Darkwater the Lost]
 - [[#Rhiannon Darkwater (Professional - Mentor)|Rhiannon Darkwater (Professional - Mentor)]]
 - [[#Hilda Oakenshield (Political - Patron)|Hilda Oakenshield (Political - Patron)]]
 
-
 ---
 aliases: ["Jorah Darkwater the Lost", "jorah darkwater the lost", "Jorah Darkwater Lost", "Lost the Darkwater Jorah"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.119Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,7 +173,7 @@ Wants rivals investigated
 - Parallels [[supplemental-tables-alignment-xge (tables)]]
 - Leads to [[Portrait NPC Captain Thaddeus Stormwright V1 Captain Thaddeus Stormwright.svg]]
 - Affected by [[Depth Warden (D&D_References)]]
-- See also: [[step_009]]
+- See also:
 - Requires [[Power Word Kill Xphb]]
 - Originates from [[step_034 (phase_100)]]
 - Influences [[NPC00372_Alaric_Grimholt]]
@@ -206,7 +201,7 @@ Wants rivals investigated
 - See also: [[forest-encounters-levels-1720-xge (tables)]]
 - Leads to [[step_097 (phase_010)]]
 - Compare with [[Assets Locations Location City the Deep Patrol V1 the Deep Patrol.svg]]
-- Originates from [[step_090]]
+- Originates from
 - Affected by [[Location City Merchant Quarter Merchant Quarter.svg]]
 - Parallels [[ITEM01076_Greater_Elixir_of_Clarity]]
 - Connects to [[Portrait NPC Parliament Loyalists V1 Parliament Loyalists.svg_1 (Portraits)]]
@@ -230,7 +225,7 @@ Wants rivals investigated
 - Requires [[Party_Members (02_Worldbuilding)]]
 - Related: [[Assets Portraits Portrait NPC the King S Ears the King S Ears.svg]]
 - Originates from [[Assets Locations Location City Crisis Management V1 Crisis Management.svg]]
-- Parallels [[step_032]]
+- Parallels
 - Leads to [[step_098 (phase_026)]]
 - Influences [[rhinoceros-xmm (beast)]]
 - Influences [[Agricultural Provinces 2]]
@@ -242,13 +237,13 @@ Wants rivals investigated
 - Connects to [[Sacred Texts of Transformatio 2]]
 - Parallels [[MON0012_Void_Reaper]]
 - Affected by [[The Emperor (D&D_References)]]
-- Compare with [[step_077]]
+- Compare with
 - Originates from [[Loot_Generator (02_Worldbuilding)]]
 - Affected by [[step_075 (phase_021)]]
 - Parallels [[SPELL00083_Nature_Spell_84]]
 - Affected by [[Coral Throne Syndicate HQ (D&D_References)]]
 - Connects to [[Portrait NPC Investigator Supreme Lucian Brightwater V2 Investigator Supreme Lucian Brightwater.svg_1 (Portraits)]]
-- Requires [[step_024]]
+- Requires
 - See also: [[step_055 (phase_045)]]
 - Connects to [[Location City House Pressureborn House Pressureborn.svg]]
 - Affected by [[Vortex Warp Scc]]
@@ -256,7 +251,7 @@ Wants rivals investigated
 - Affected by [[Assets Portraits Portrait NPC the Resonance Prophet the Resonance Prophet.svg]]
 - Affected by [[Buying a Magic Item Buying Magic Items Xge]]
 - Connects to [[step_073 (phase_041)]]
-- See also: [[step_040]]
+- See also:
 - Related: [[ITEM00249_Blazing_Hammer_of_Wounding]]
 - Originates from [[EVENT00060_Political_Event_61]]
 - Leads to [[NPC0047_Hilda_Ironforge_the_Merciful]]
@@ -267,7 +262,6 @@ Wants rivals investigated
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

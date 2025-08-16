@@ -18,7 +18,6 @@ aliases: [NPC01037 Baelor Quicksilver the Mystic]
 - [[#Gareth Dawnstrider the Guardian (Professional - Rival)|Gareth Dawnstrider the Guardian (Professional - Rival)]]
 - [[#Baelor Oakenshield the Swift (Political - Ally)|Baelor Oakenshield the Swift (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Baelor Quicksilver the Mystic", "baelor quicksilver the mystic", "Baelor Quicksilver Mystic", "Mystic the Quicksilver Baelor"]
@@ -140,27 +139,23 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.230Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -170,11 +165,10 @@ Competitor sabotaging business
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -192,8 +186,8 @@ Competitor sabotaging business
 - Related: [[whetstone]]
 - Connects to [[Symbol Heraldry Elara Crystalline V1 Elara Crystalline.svg]]
 - Leads to [[LOC00292_Planes_Location_293]]
-- Requires [[step_020]]
-- Leads to [[step_068]]
+- Requires
+- Leads to
 - Parallels [[visions-of-distant-realms-xphb (optional-features)]]
 - Originates from [[Assets Item Artifact Weird Tank Pota V4 Weird Tank Pota.png]]
 - Leads to [[elven-fenmarel-mestarine-mtf (deities)]]
@@ -201,7 +195,7 @@ Competitor sabotaging business
 - Requires [[Location City Culinary Critic Marina Tastebud V1 Culinary Critic Marina Tastebud.svg]]
 - Related: [[NPC00124_Delara_Ravenheart_the_Redeemed]]
 - Related: [[Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg]]
-- Leads to [[step_034]]
+- Leads to
 - Leads to [[Pre-Submersion Ruins (D&D_References)]]
 - Compare with [[step_059 (phase_054)]]
 - Leads to [[Horn of Silent Alarm Xdmg]]
@@ -214,16 +208,16 @@ Competitor sabotaging business
 - Leads to [[Resistance Xphb]]
 - Requires [[NPC00277_Dara_Frostwhisper]]
 - Compare with [[human-names-spanish-female-xge (tables)]]
-- Related: [[step_018]]
+- Related:
 - Affected by [[Festival Grounds]]
 - Connects to [[Assets Locations Location City Novelist Current Stories V1 Novelist Current Stories.svg]]
 - Leads to [[rot-troll-mpmm (giant)]]
 - Parallels [[Chaplain Abyssos the Deepseeke 2]]
-- Related: [[step_045]]
+- Related:
 - Requires [[ITEM01349_Ornate_Journal_of_Reliability]]
 - Parallels [[bearded-devil-xmm (fiend)]]
 - Affected by [[Cave Badger Oota]]
-- Influences [[step_080]]
+- Influences
 - Leads to [[The Deep Fugitive (D&D_References)]]
 - Requires [[Location City Shadow Noble Districts V1 Shadow Noble Districts.svg]]
 - See also: [[The Primordial Vaults 2]]
@@ -234,7 +228,7 @@ Competitor sabotaging business
 - Originates from [[step_087 (phase_009)]]
 - Compare with [[location-city-trade-unions-v1-trade-unions.svg]]
 - Connects to [[step_093 (phase_054)]]
-- Requires [[step_090]]
+- Requires
 - Related: [[Portrait NPC Shadow Binding Sanctum V2 Shadow Binding Sanctum.svg_1 (Portraits)]]
 - Connects to [[The Southern Trading Companies 2]]
 - Originates from [[buying-a-magic-item-magic-item-price-xge (tables)]]
@@ -259,7 +253,7 @@ Competitor sabotaging business
 - Requires [[ITEM01311_Elegant_Rope_of_Quality]]
 - Parallels [[ITEM00064_Shadow_Spear_of_the_Ancients]]
 - Requires [[MON00012_Undead_Creature_13]]
-- Affected by [[step_073]]
+- Affected by
 - Leads to [[step_012 (phase_007)]]
 - Leads to [[step_051 (phase_008)]]
 - Compare with [[Scene Scene Submarine Chase Through Kelp V1 Submarine Chase Through Kelp.svg]]
@@ -283,7 +277,6 @@ Competitor sabotaging business
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

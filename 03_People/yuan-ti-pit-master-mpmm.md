@@ -9,7 +9,6 @@ aliases: [yuan-ti-pit-master-mpmm]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Overview|Overview]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [yuan-ti-pit-master-mpmm]
 - [[#Plot Hooks|Plot Hooks]]
 - [[#DM Notes|DM Notes]]
 - [[#References|References]]
-
 
 ---
 title: ./yuan-ti-pit-master-mpmm
@@ -88,26 +86,21 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - [[3 Bestiary]]
 - [[3-bestiary (volos-guide-to-monsters)]]
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Secrets
 - Hidden knowledge
@@ -154,8 +147,7 @@ Modifications:
 - [[Depth_Adapted_Background.md]]
 - [[Archdruid Thornweaver]]
 - [[Sage Elara]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -168,7 +160,6 @@ Modifications:
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
-
 
 ## Connections
 
@@ -186,7 +177,7 @@ Modifications:
 - Requires [[SPELL00079_Arcane_Spell_80]]
 - Influences [[Symbol Heraldry Har... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Leads to [[Assets Locations Location City [[The Sinking Atoll]] the Sinking Atoll.svg]]
-- Compare with [[step_056]]
+- Compare with
 - Related: [[ENC00147_Environmental_Encounter_148]]
 - Leads to [[[[Quartermaster David Simpleton]] 2]]
 - Compare with [[NPC3 (People)]]
@@ -227,7 +218,7 @@ Modifications:
 - Affected by [[Art Elemental Mascot Scc]]
 - Connects to [[The Sunken Cities 3 (D&D_References)]]
 - Parallels [[gray-slaad-xmm (aberration)]]
-- Leads to [[step_023]]
+- Leads to
 - See also: [[Searing Smite Xphb]]
 - Requires [[step_002 (phase_083)]]
 - Related: [[illithilich-vgm (undead)]]

@@ -18,7 +18,6 @@ aliases: [NPC01460 Zephyr Jadeclaw the Bold]
 - [[#Hilda Frostwhisper the Swift (Professional - Partner)|Hilda Frostwhisper the Swift (Professional - Partner)]]
 - [[#Thalia Ironforge the Lost (Professional - Partner)|Thalia Ironforge the Lost (Professional - Partner)]]
 
-
 ---
 aliases: ["Zephyr Jadeclaw the Bold", "zephyr jadeclaw the bold", "Zephyr Jadeclaw Bold", "Bold the Jadeclaw Zephyr"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.275Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,7 +176,7 @@ Forming expedition to dangerous location
 - See also: [[02_Worldbuilding_Lore_Quantum_Magic_Theory]]
 - Parallels [[Special Features What Is a Detail From Its]]
 - Affected by [[list-spells-feats-fey-touched-xphb (lists)]]
-- Leads to [[step_086]]
+- Leads to
 - See also: [[Portrait NPC Financial Corruption V2 Financial Corruption.svg_1 (Portraits)]]
 - Connects to [[ENC00181_Environmental_Encounter_182]]
 - Connects to [[Living Democracy]]
@@ -191,7 +186,7 @@ Forming expedition to dangerous location
 - Compare with [[step_078 (phase_061)]]
 - Requires [[Ancient Leviathan Spirit]]
 - Compare with [[ITEM0024_Ancient_Orb_of_Power]]
-- See also: [[step_076]]
+- See also:
 - Connects to [[Sunken Citadel of Remembrance (Places)]]
 - Requires [[Boots of Striding and Springing Xdmg]]
 - Related: [[The Seven Deep Truths 2]]
@@ -199,7 +194,7 @@ Forming expedition to dangerous location
 - Compare with [[Location City Quest Harbor Security Quest Harbor Security.svg]]
 - Compare with [[Cultural Bridges]]
 - Affected by [[NPC01547_Branwen_Frostwhisper_the_Mystic]]
-- Connects to [[step_065]]
+- Connects to
 - Requires [[ITEM01263_Greater_Powder_of_Clarity]]
 - See also: [[NPC00160_Aldric_Ironforge_the_Swift]]
 - Connects to [[Progressive Tide Movement 2]]
@@ -208,7 +203,7 @@ Forming expedition to dangerous location
 - Requires [[ITEM01417_Ornate_Compass_of_Reliability]]
 - Influences [[NPC00322_Qadim_Quicksilver_the_Redeemed]]
 - Compare with [[The_Coral_Courts.png]]
-- Affected by [[step_075]]
+- Affected by
 - Parallels [[Assets Locations Location City High Chancellor Nerissa Deepcurrent High Chancellor Nerissa Deepcurrent.svg]]
 - Parallels [[Parallel Realities]]
 - Leads to [[Pressure Adaptation System (Lore)]]
@@ -216,7 +211,7 @@ Forming expedition to dangerous location
 - See also: [[step_051 (phase_017)]]
 - Originates from [[04_Resources_Assets_Symbols_symbol-heraldry-commerce-manager-fairdealin-commerce-manager-fairdealin.svg]]
 - Influences [[Assets Locations Location City the Diplomatic Quarter V1 the Diplomatic Quarter.svg]]
-- Compare with [[step_040]]
+- Compare with
 - Connects to [[ITEM00559_Fortified_Plate_of_Protection]]
 - Related: [[MON0022_Bone_Howler]]
 - Connects to [[stinking-cloud-xphb (spells)]]
@@ -234,7 +229,7 @@ Forming expedition to dangerous location
 - Leads to [[LOC00275_Planes_Location_276]]
 - Originates from [[Quest - The Shard-Shadow Resonance]]
 - Compare with [[Purifier Marcus Steelbane (D&D_References)]]
-- Leads to [[step_023]]
+- Leads to
 - Requires [[step_046 (phase_054)]]
 - Connects to [[NPC01525_Rhiannon_Emberfall_the_Scholar]]
 - Leads to [[Divine Preservation Magic 2]]
@@ -244,7 +239,7 @@ Forming expedition to dangerous location
 - Connects to [[Portrait NPC Senator Cordelia Deepcurrent V1 Senator Cordelia Deepcurrent.svg_1 (Portraits)]]
 - Compare with [[LORE00123_Legends_Entry_124]]
 - Compare with [[Dr Erasmus Voidpage]]
-- Affected by [[step_059]]
+- Affected by
 - Parallels [[Silver Dragon Scale Mail Xdmg]]
 - Influences [[Gnoll Fang of Yeenoghu Xmm]]
 - Influences [[Assets Item Artifact Explorers Pack Xphb V2 Explorers Pack Xphb.png]]
@@ -277,7 +272,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

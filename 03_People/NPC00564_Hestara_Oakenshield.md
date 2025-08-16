@@ -9,7 +9,6 @@ aliases: [NPC00564 Hestara Oakenshield]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00564 Hestara Oakenshield]
 - [[#Malakai Hawthorne the Lost (Professional - Employer)|Malakai Hawthorne the Lost (Professional - Employer)]]
 - [[#Alaric Crystalbrook the Risen (Professional - Rival)|Alaric Crystalbrook the Risen (Professional - Rival)]]
 - [[#Corvus Goldleaf the Wise (Family - Child)|Corvus Goldleaf the Wise (Family - Child)]]
-
 
 ---
 created: 2025-08-15
@@ -155,27 +153,23 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.177Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -185,11 +179,10 @@ Family member has gone missing
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -226,14 +219,14 @@ Family member has gone missing
 - Parallels [[creature-creature-sphinx-xmm-v2-sphinx-xmm.png]]
 - Leads to [[step_063 (phase_094)]]
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-witness-protection-protocols-v1-witness-protection-protocols.svg]]
-- Originates from [[step_084]]
+- Originates from
 - Parallels [[Madame Pearl Currentflow]]
-- Compare with [[step_097]]
+- Compare with
 - See also: [[QUEST00069_Main_Quest_70]]
 - Parallels [[Assets Item Artifact Dagger of Venom Xdmg V1 Dagger of Venom Xdmg.png]]
 - Influences [[SHOP00007_Specialty_Shop_8]]
 - Parallels [[step_032 (phase_057)]]
-- Requires [[step_033]]
+- Requires
 - Parallels [[DUN00143_Dungeon_144]]
 - Compare with [[ITEM00700_Primordial_Chalice_of_Eternity]]
 - Leads to [[Mounted Combatant Xphb]]
@@ -244,16 +237,16 @@ Family member has gone missing
 - Leads to [[Vehicle Core Rules#2) Piloting & Adaptation Requirements]]
 - Compare with [[orcus-mtf (legendary-group)]]
 - Parallels [[NPC0027_Beatrix_Stormwind]]
-- Parallels [[step_019]]
+- Parallels
 - Connects to [[ITEM00624_Enchanted_Gauntlets_of_Protection]]
 - Requires [[QUEST00164_Side_Quest_165]]
 - Affected by [[Assets Locations Location City Temple Ward Temple Ward.svg]]
 - Leads to [[step_085 (phase_043)]]
 - Affected by [[greatsword-xphb (items)]]
-- Influences [[step_007]]
+- Influences
 - Compare with [[Random Buildings Tavern Name Generator]]
 - Connects to [[Nilbog Mpmm]]
-- Influences [[step_046]]
+- Influences
 - Connects to [[step_063 (phase_033)]]
 - Parallels [[Professional Terminology 2]]
 - Originates from [[Teacher-Administrator Shadowlearn (D&D_References)]]
@@ -262,7 +255,7 @@ Family member has gone missing
 - Originates from [[List Spells Classes Path of the Wild Heart]]
 - Compare with [[step_039 (phase_023)]]
 - Parallels [[step_029 (phase_059)]]
-- See also: [[step_010]]
+- See also:
 - Affected by [[Location City Syncretist Mediators V1 Syncretist Mediators.svg]]
 - Related: [[Throne Room - Heart of Palace (D&D_References)]]
 - Leads to [[QUEST00311_Side_Quest_312]]
@@ -279,13 +272,13 @@ Family member has gone missing
 - Related: [[Assets Locations Location City Primary Schools Primary Schools.svg]]
 - Requires [[Banker Titus Goldcurrent (People)]]
 - Parallels [[step_035 (phase_009)]]
-- Requires [[step_038]]
+- Requires
 - Related: [[Assets Locations Location City Circle of Mourners Circle of Mourners.svg]]
-- Related: [[step_075]]
+- Related:
 - See also: [[Harbor Facilities (D&D_References)]]
 - Connects to [[The Scholar's Guild (Guilds)]]
 - Related: [[The Deep Sovereign (D&D_References)]]
-- Affected by [[step_023]]
+- Affected by
 - Originates from [[NPC_Portraits_Gallery 2]]
 - Requires [[step_084 (phase_012)]]
 - Requires [[Merged Reality Zones (Lore)]]

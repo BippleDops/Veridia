@@ -18,7 +18,6 @@ aliases: [NPC00835 Urien Jadeclaw the Wanderer]
 - [[#Rhiannon Blackstone the Fallen (Political - Opposition)|Rhiannon Blackstone the Fallen (Political - Opposition)]]
 - [[#Qadim Proudmore the Guardian (Personal - Nemesis)|Qadim Proudmore the Guardian (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Urien Jadeclaw the Wanderer", "urien jadeclaw the wanderer", "Urien Jadeclaw Wanderer", "Wanderer the Jadeclaw Urien"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.207Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -191,7 +186,7 @@ Caravan needs guards
 - Parallels [[MON00107_Aberrations_Creature_108]]
 - Influences [[step_051 (phase_059)]]
 - Affected by [[Location City the Crystal Hive Collective the Crystal Hive Collective.svg]]
-- Parallels [[step_014]]
+- Parallels
 - Requires [[QUEST00067_Main_Quest_68]]
 - Influences [[LORE00092_Prophecies_Entry_93]]
 - Connects to [[step_012 (phase_031)]]
@@ -227,15 +222,15 @@ Caravan needs guards
 - Affected by [[step_043 (phase_012)]]
 - Leads to [[Assets Locations Location City Sacred Grief Protocols Sacred Grief Protocols.png]]
 - Related: [[The Unshadowed 2]]
-- See also: [[step_032]]
+- See also:
 - Leads to [[location-city-lumengarde-lumengarde.svg]]
 - Leads to [[portrait-npc-the-cure-v1-the-cure.svg]]
-- Related: [[step_025]]
+- Related:
 - Leads to [[Boots of Speed Xdmg]]
 - Influences [[02_Worldbuilding_Groups_The_Signal_Keepers]]
 - Related: [[step_002 (phase_019)]]
 - Related: [[Aquabyssos (D&D_References)]]
-- Affected by [[step_096]]
+- Affected by
 - Connects to [[step_052 (phase_055)]]
 - Requires [[step_002 (phase_057)]]
 - Affected by [[Dimensional Instabilities]]
@@ -245,7 +240,7 @@ Caravan needs guards
 - Originates from [[Thugs (Lore)]]
 - Related: [[ENC00086_Combat_Encounter_87]]
 - Leads to [[04_Resources_Assets_Locations_location-city-cathedral-of-light-v1-cathedral-of-light.png]]
-- Compare with [[step_022]]
+- Compare with
 - Requires [[step_042 (phase_006)]]
 - Leads to [[step_089 (phase_048)]]
 - Influences [[Shadow Market Canals]]
@@ -258,8 +253,8 @@ Caravan needs guards
 - Parallels [[04_Resources_Assets_Locations_location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png]]
 - Leads to [[Leviathan Prophet Thalassa]]
 - Connects to [[Quest - The Kingpin's Fall_1 (01_Adventures)]]
-- See also: [[step_027]]
-- Connects to [[step_051]]
+- See also:
+- Connects to
 - Requires [[step_046 (phase_086)]]
 - Affected by [[weapons-xphb (tables)]]
 - Connects to [[step_088 (phase_050)]]
@@ -271,7 +266,6 @@ Caravan needs guards
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

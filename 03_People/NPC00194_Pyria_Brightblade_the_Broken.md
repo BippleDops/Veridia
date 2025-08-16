@@ -9,7 +9,6 @@ aliases: [NPC00194 Pyria Brightblade the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00194 Pyria Brightblade the Broken]
 - [[#Wynne Voidwalker the Mystic (Political - Opposition)|Wynne Voidwalker the Mystic (Political - Opposition)]]
 - [[#Brenna Grimholt (Criminal - Fence)|Brenna Grimholt (Criminal - Fence)]]
 - [[#Faelyn Voidwalker (Political - Opposition)|Faelyn Voidwalker (Political - Opposition)]]
-
 
 ---
 aliases: ["Pyria Brightblade the Broken", "pyria brightblade the broken", "Pyria Brightblade Broken", "Broken the Brightblade Pyria"]
@@ -155,21 +153,17 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.134Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,14 +176,14 @@ Seeks bodyguards for dangerous journey
 - Affected by [[step_049 (phase_072)]]
 - Affected by [[ITEM00951_Distilled_Crystal_of_Healing]]
 - Parallels [[SPELL00082_Arcane_Spell_83]]
-- Originates from [[step_048]]
+- Originates from
 - Parallels [[Completed_Content (02_Worldbuilding)]]
 - Requires [[step_070 (phase_084)]]
 - Affected by [[step_094 (phase_069)]]
 - See also: [[NPC00726_Caelum_Lightbringer_the_Broken]]
 - Originates from [[README]]
 - Leads to [[Emergency Response Networks]]
-- Leads to [[step_004]]
+- Leads to
 - Affected by [[LORE00137_History_Entry_138]]
 - Originates from [[EVENT00046_Magical_Event_47]]
 - Related: [[The Neural Clusters (D&D_References)]]
@@ -222,7 +216,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [[Portrait NPC Militant Priest Abyssal V1 Militant Priest Abyssal.svg_1 (Portraits)]]
 - Leads to [[Ending a Chase Escape Factors Xdmg]]
 - Connects to [[step_082 (phase_067)]]
-- See also: [[step_042]]
+- See also:
 - Compare with [[QUEST00070_Main_Quest_71]]
 - Parallels [[step_024 (phase_090)]]
 - Connects to [[ENC00001_Combat_Encounter_2]]
@@ -247,7 +241,7 @@ Seeks bodyguards for dangerous journey
 - Influences [[Session 09 the Shard Convergence]]
 - Originates from [[List Spells Optional Features River of Hungry Flame]]
 - Leads to [[War Machine Engineers 2]]
-- Requires [[step_046]]
+- Requires
 - Compare with [[Assets Locations Location City Into the Blue V1 Into the Blue.svg]]
 - Parallels [[Complete_Reality_Merger_System (D&D_References)]]
 - Influences [[Location City Grief Overwhelming Syndrome Grief Overwhelming Syndrome.svg]]
@@ -266,7 +260,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[step_025 (phase_076)]]
 - Compare with [[Mid-Echo Shriek Nerveshatter]]
 - Influences [[ITEM00797_Infernal_Ring_of_the_Gods]]
-- Affected by [[step_085]]
+- Affected by
 - Compare with [[04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-v1-the-crystal-cathedral-of-pure-light.svg]]
 - Originates from [[bag-of-tricks-gray-xdmg (items)]]
 - Parallels [[Reality_Anchor_Paladin]]

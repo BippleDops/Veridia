@@ -18,7 +18,6 @@ aliases: [NPC01829 Ewan Lightbringer the Risen]
 - [[#Baelor Underhill the Redeemed (Political - Puppet)|Baelor Underhill the Redeemed (Political - Puppet)]]
 - [[#Cedric Blackstone the Broken (Family - Parent)|Cedric Blackstone the Broken (Family - Parent)]]
 
-
 ---
 aliases: ["Ewan Lightbringer the Risen", "ewan lightbringer the risen", "Ewan Lightbringer Risen", "Risen the Lightbringer Ewan"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.315Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -172,11 +167,11 @@ Offers deal too good to refuse
 - Connects to [[Ambush Drake Hotdq]]
 - Leads to [[Greyhawk Hextor Xdmg]]
 - See also: [[ENC00055_Social_Encounter_56]]
-- Parallels [[step_082]]
+- Parallels
 - Originates from [[Storm Giant Quintessent Vgm]]
 - Leads to [[step_060 (phase_036)]]
 - Compare with [[Storm-Caller Staff]]
-- Related: [[step_071]]
+- Related:
 - Influences [[step_032 (phase_041)]]
 - Originates from [[Portrait NPC Trade Captain Current V2 Trade Captain Current.svg]]
 - Affected by [[ENC00282_Social_Encounter_283]]
@@ -226,7 +221,7 @@ Offers deal too good to refuse
 - Connects to [[Location City the Plague Ward V1 the Plague Ward.svg]]
 - Leads to [[LOC00092_Planes_Location_93]]
 - Parallels [[step_016 (phase_013)]]
-- Influences [[step_084]]
+- Influences
 - Affected by [[step_008 (phase_038)]]
 - Compare with [[Location City Geometric Tidepools V1 Geometric Tidepools.svg]]
 - Parallels [[wretched-sorrowsworn-mpmm (monstrosity)]]
@@ -273,7 +268,6 @@ Offers deal too good to refuse
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

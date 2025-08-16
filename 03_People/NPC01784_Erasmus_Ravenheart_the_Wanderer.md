@@ -18,7 +18,6 @@ aliases: [NPC01784 Erasmus Ravenheart the Wanderer]
 - [[#Jorah Lightbringer the Bold (Professional - Rival)|Jorah Lightbringer the Bold (Professional - Rival)]]
 - [[#Drusilla Moonshadow the Broken (Political - Patron)|Drusilla Moonshadow the Broken (Political - Patron)]]
 
-
 ---
 aliases: ["Erasmus Ravenheart the Wanderer", "erasmus ravenheart the wanderer", "Erasmus Ravenheart Wanderer", "Wanderer the Ravenheart Erasmus"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.309Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,11 +171,11 @@ Offers deal too good to refuse
 - Parallels [[Assets Locations Location City Sacred Historian Coral Deepscribe V1 Sacred Historian Coral Deepscribe.svg]]
 - Compare with [[Corrupted Crystal Guards]]
 - See also: [[SPELL00015_Divine_Spell_16]]
-- Leads to [[step_043]]
+- Leads to
 - Requires [[Sea Sprite 2]]
-- Affected by [[step_041]]
+- Affected by
 - Connects to [[step_075 (phase_057)]]
-- Parallels [[step_089]]
+- Parallels
 - See also: [[LOC00168_Cities_Location_169]]
 - Compare with [[Baker's Daughter Crysa]]
 - Requires [[Stellar Commander Nereus Voidcaller]]
@@ -209,14 +204,14 @@ Offers deal too good to refuse
 - Parallels [[Captain Sterling Lightshield]]
 - Affected by [[Assets Locations Location City Keeper Elara Mindwell V1 Keeper Elara Mindwell.svg]]
 - Related: [[ITEM00660_Mithril_Leather_of_Protection]]
-- Related: [[step_050]]
+- Related:
 - Leads to [[Sky_Sailor_Fighter]]
 - See also: [[NPC01964_Zephyr_Oakenshield_the_Fallen]]
-- Connects to [[step_001]]
-- Requires [[step_003]]
+- Connects to
+- Requires
 - Originates from [[02_Worldbuilding_Equipment_Identity_Verification_Systems_Quick_Ref]]
-- Affected by [[step_018]]
-- Originates from [[step_022]]
+- Affected by
+- Originates from
 - Leads to [[Assets Locations Location City Ambassador Marina Bridgewater V1 Ambassador Marina Bridgewater.svg]]
 - Connects to [[DUN00011_Dungeon_12]]
 - Requires [[Portrait NPC Pearl Empress Lustrous V1 Pearl Empress Lustrous.svg]]
@@ -226,8 +221,8 @@ Offers deal too good to refuse
 - Parallels [[step_075 (phase_023)]]
 - Influences [[QUEST00216_Side_Quest_217]]
 - Leads to [[scroll-of-protection-beasts-xdmg (items)]]
-- Connects to [[step_068]]
-- Compare with [[step_053]]
+- Connects to
+- Compare with
 - Parallels [[Diplomatic Immunity Systems 2]]
 - Originates from [[Investigator Lucian Brightwater]]
 - Influences [[ITEM00465_Adamantine_Boots_of_the_Guardian]]
@@ -269,7 +264,6 @@ Offers deal too good to refuse
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

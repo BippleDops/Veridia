@@ -18,7 +18,6 @@ aliases: [NPC01394 Brenna Darkwater the Mystic]
 - [[#Aldric Grimholt the Strong (Professional - Partner)|Aldric Grimholt the Strong (Professional - Partner)]]
 - [[#Brenna Frostwhisper the Fallen (Family - Spouse)|Brenna Frostwhisper the Fallen (Family - Spouse)]]
 
-
 ---
 aliases: ["Brenna Darkwater the Mystic", "brenna darkwater the mystic", "Brenna Darkwater Mystic", "Mystic the Darkwater Brenna"]
 tags: [npc, character]
@@ -157,21 +156,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.268Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -184,12 +179,12 @@ Needs help with personal quest
 - Requires [[step_035 (phase_042)]]
 - See also: [[elf-eladrin-dmg (races)]]
 - Parallels [[Location City Healer Tide Touch Healer Tide Touch.svg]]
-- Parallels [[step_043]]
+- Parallels
 - Originates from [[Captain Echo]]
 - Leads to [[README (D&D_References)]]
-- Leads to [[step_050]]
+- Leads to
 - Influences [[Reality Structure Analysis Group]]
-- Connects to [[step_084]]
+- Connects to
 - Influences [[Message Delivery Missions]]
 - Requires [[Portrait NPC Scholar Priest Tidal Memory Scholar Priest Tidal Memory.svg]]
 - Affected by [[LOC00000_Dungeons_Location_1]]
@@ -201,14 +196,14 @@ Needs help with personal quest
 - Originates from [[Archive Index]]
 - Related: [[The__Cathedral]]
 - Requires [[Death Slaad Xmm]]
-- Originates from [[step_094]]
+- Originates from
 - Connects to [[05 Personality and Background]]
 - Compare with [[step_044 (phase_012)]]
 - Compare with [[Location City Representative Coral Youngcurrent V1 Representative Coral Youngcurrent.svg]]
 - Connects to [[brazen-gorgon-xmm (construct)]]
 - Connects to [[chamber-purpose-dungeon-tomb (tables)]]
 - See also: [[Assets Locations Location City the Crystalline Wastes the Crystalline Wastes.svg]]
-- Requires [[step_019]]
+- Requires
 - Affected by [[Keoghtoms Ointment Xdmg]]
 - Requires [[NPC00787_Cedric_Voidwalker_the_Scholar]]
 - Leads to [[Assets Locations Location City the Archive Keepers V1 the Archive Keepers.svg]]
@@ -217,19 +212,19 @@ Needs help with personal quest
 - Affected by [[Location City Artisan Felix Reefwright Artisan Felix Reefwright.svg]]
 - Originates from [[MON00081_Aberrations_Creature_82]]
 - Compare with [[Location City Shadow Noble Districts V1 Shadow Noble Districts.svg]]
-- Connects to [[step_018]]
+- Connects to
 - Leads to [[step_003 (phase_026)]]
 - Connects to [[02_Worldbuilding_Places_The_Crystal_Palace]]
 - Affected by [[step_047 (phase_095)]]
 - Connects to [[Natural Weapons]]
-- Originates from [[step_083]]
+- Originates from
 - Influences [[Dwarves in the World Dwarf Adventurer Story]]
 - Affected by [[Greyhawk Ralishaz Xdmg]]
 - Affected by [[Marcus Tidecalle]]
 - Parallels [[Mobile Terror Platform 2]]
 - See also: [[Quest - Hunt the Shadows_1 (01_Adventures)]]
 - Related: [[Assets Locations Location City Church of the Tidal Throne Church of the Tidal Throne.svg]]
-- Leads to [[step_095]]
+- Leads to
 - Related: [[step_076 (phase_076)]]
 - Requires [[Portrait NPC Quest the Bio Adaptation Crisis V1 Quest the Bio Adaptation Crisis.svg]]
 - Requires [[Tethyan Hegemony]]
@@ -238,7 +233,7 @@ Needs help with personal quest
 - Originates from [[08-using-ability-scores#Constitution]]
 - Related: [[QUEST00246_Side_Quest_247]]
 - Leads to [[ITEM00728_Infernal_Orb_of_Truth]]
-- Related: [[step_432]]
+- Related:
 - Leads to [[Camel Xphb]]
 - Compare with [[step_069 (phase_022)]]
 - Originates from [[step_073 (phase_061)]]
@@ -280,7 +275,6 @@ Needs help with personal quest
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

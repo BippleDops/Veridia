@@ -18,7 +18,6 @@ aliases: [NPC01836 Lyanna Jadeclaw the Strong]
 - [[#Gareth Goldleaf the Broken (Personal - Childhood friend)|Gareth Goldleaf the Broken (Personal - Childhood friend)]]
 - [[#Qadim Crystalbrook the Scholar (Political - Ally)|Qadim Crystalbrook the Scholar (Political - Ally)]]
 
-
 ---
 aliases: ["Lyanna Jadeclaw the Strong", "lyanna jadeclaw the strong", "Lyanna Jadeclaw Strong", "Strong the Jadeclaw Lyanna"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.315Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -170,14 +165,14 @@ Provides information for a price
 - Connects to [[Ring of Feather Falling Xdmg]]
 - Influences [[step_064 (phase_087)]]
 - Compare with [[Merchant Quarter Guildhalls (D&D_References)]]
-- Parallels [[step_049]]
+- Parallels
 - Requires [[Original Trackers]]
-- Affected by [[step_062]]
+- Affected by
 - Compare with [[step_096 (phase_081)]]
 - Affected by [[QUEST00427_Side_Quest_428]]
 - See also: [[3 Bestiary]]
 - Related: [[LOC00133_Towns_Location_134]]
-- Leads to [[step_043]]
+- Leads to
 - Parallels [[Marcus Truthseeker]]
 - Requires [[step_058 (phase_064)]]
 - Requires [[The Crying Stones]]
@@ -198,7 +193,7 @@ Provides information for a price
 - Originates from [[Pressure-Tube System (D&D_References)]]
 - Parallels [[The Memory Nexus]]
 - Compare with [[Assets Portraits Portrait NPC Mayor S Manor Mayor S Manor.svg]]
-- Connects to [[step_067]]
+- Connects to
 - Affected by [[greek-apollo (deities)]]
 - Leads to [[Grenade Launcher Xdmg]]
 - Parallels [[step_040 (phase_089)]]
@@ -206,7 +201,7 @@ Provides information for a price
 - Leads to [[05-chapter-5-neverlight-grove (out-of-the-abyss)]]
 - Leads to [[location-city-depth-raiders-depth-raiders.svg]]
 - Compare with [[Assets Locations Location City Depth Cardinal Justice Currentkeeper V1 Depth Cardinal Justice Currentkeeper.svg]]
-- Requires [[step_031]]
+- Requires
 - Leads to [[Light Bearer (D&D_References)]]
 - Compare with [[blindness-deafness-xphb (spells)]]
 - See also: [[Conflict Resolution Division]]
@@ -217,7 +212,7 @@ Provides information for a price
 - Parallels [[Sacred Grief Protocols (D&D_References)]]
 - Influences [[step_010 (phase_086)]]
 - Parallels [[EVENT00017_Magical_Event_18]]
-- Requires [[step_050]]
+- Requires
 - Requires [[Location City Embassy District Embassy District.svg]]
 - Parallels [[NPC01923_Aeliana_Darkwater_the_Cunning]]
 - Influences [[Assets Locations Location City Royal Guard Royal Guard.svg]]
@@ -232,7 +227,7 @@ Provides information for a price
 - Compare with [[portrait-npc-the-emergence-v2-the-emergence.svg_1 (Portraits)]]
 - Affected by [[step_089 (phase_090)]]
 - Originates from [[portrait-npc-siren-v2-siren.svg_1 (Portraits)]]
-- Affected by [[step_039]]
+- Affected by
 - Compare with [[step_051 (phase_065)]]
 - Requires [[Assets Locations Location City Traditional Elder Wisdom Keeper Traditional Elder Wisdom Keeper.svg]]
 - Related: [[paladin-xphb (classes)]]
@@ -259,7 +254,7 @@ Provides information for a price
 - Leads to [[The Listener's Code]]
 - Influences [[LOC00292_Wilderness_Location_293]]
 - Originates from [[tensers-floating-disk-xphb (spells)]]
-- Connects to [[step_100]]
+- Connects to
 - Originates from [[Thalassa the Pathfinder 2]]
 - Affected by [[greyhawk-nerull-xdmg (deities)]]
 - Originates from [[Abyssal Plains]]
@@ -271,7 +266,6 @@ Provides information for a price
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC01702 Vesper Winterborn the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01702 Vesper Winterborn the Cunning]
 - [[#Rhiannon Stormwind the Wanderer (Family - Child)|Rhiannon Stormwind the Wanderer (Family - Child)]]
 - [[#Idris Keenblade the Bold (Criminal - Target)|Idris Keenblade the Bold (Criminal - Target)]]
 - [[#Idris Ravenheart the Scholar (Personal - Best friend)|Idris Ravenheart the Scholar (Personal - Best friend)]]
-
 
 ---
 created: 2025-08-15
@@ -148,27 +146,23 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.301Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -177,16 +171,15 @@ Provides information for a price
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Compare with [[Professor Euclid Mindmaze 2]]
-- Requires [[step_100]]
+- Requires
 - See also: [[NPC01136_Nerys_Blackstone_the_Lost]]
 - Leads to [[Faction2]]
 - Parallels [[High Jump Xphb]]
@@ -195,7 +188,7 @@ Provides information for a price
 - See also: [[Assets Locations Location City Interfaith Councils V1 Interfaith Councils.svg]]
 - Requires [[step_084 (phase_019)]]
 - Parallels [[LOC00252_Wilderness_Location_253]]
-- Connects to [[step_002]]
+- Connects to
 - Compare with [[The Kelp Highways 2]]
 - Related: [[Assets Portraits Portrait NPC Sage Lysander Deepthought Sage Lysander Deepthought.svg]]
 - Compare with [[step_066 (phase_011)]]
@@ -207,7 +200,7 @@ Provides information for a price
 - Related: [[Services Void Resistance Training]]
 - Leads to [[NPC00847_Caelum_Goldleaf_the_Mystic]]
 - Compare with [[step_066 (phase_004)]]
-- Affected by [[step_027]]
+- Affected by
 - Connects to [[spell-xphb (variant-rules)]]
 - Parallels [[Portrait NPC Blood in the Water Blood in the Water.svg]]
 - Compare with [[otherworldly-steed-celestial-xphb (celestial)]]
@@ -220,7 +213,7 @@ Provides information for a price
 - Connects to [[MON0010_Fire_Reaper]]
 - Parallels [[ENC00149_Environmental_Encounter_150]]
 - Originates from [[ITEM00253_Blazing_Axe_of_Slaying]]
-- Originates from [[step_088]]
+- Originates from
 - Compare with [[step_048 (phase_060)]]
 - Leads to [[devastation-orb-of-water-pota (items)]]
 - Related: [[synaptic-static-xphb (spells)]]
@@ -280,7 +273,7 @@ Provides information for a price
 - Related: [[Portrait NPC the Great Trade Routes V1 the Great Trade Routes.svg]]
 - Originates from [[The Code Wars 2]]
 - Influences [[step_098 (phase_026)]]
-- Compare with [[step_017]]
+- Compare with
 - Compare with [[shape-water-xge (spells)]]
 - Requires [[step_044 (phase_073)]]
 - Affected by [[The Cleaner (D&D_References)]]

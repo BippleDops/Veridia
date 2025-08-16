@@ -18,7 +18,6 @@ aliases: [Basic Rules]
 - [[#References|References]]
 - [[#See Also|See Also]]
 
-
 ---
 title: Basic_Rules
 type: note
@@ -82,7 +81,6 @@ Contextual improvement based on 07_Player_Resources
 
 - [[caltrop]]
 
-
 > [!dm] DM Note
 > The villain has agents watching this place
 
@@ -114,12 +112,10 @@ Contextual improvement based on 07_Player_Resources
 - [[Parliament of Shadows Player Guide.md]]
 - [[MOC_Rules]]
 - [[NPC00525_Fiora_Proudmore_the_Wanderer]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -145,7 +141,7 @@ Contextual improvement based on 07_Player_Resources
 - Connects to [[step_024 (phase_015)]]
 - Affected by [[International Trade]]
 - Leads to [[Ability Modifier Ability Check Examples Xphb]]
-- Affected by [[step_003]]
+- Affected by
 - Originates from [[The Consortium of Five]]
 - Related: [[09 Running the Game]]
 - See also: [[step_042 (phase_031)]]
@@ -188,22 +184,22 @@ Contextual improvement based on 07_Player_Resources
 - Connects to [[EVENT00075_Natural_Event_76]]
 - Affected by [[Courier Chief Swift Currentrider (D&D_References)]]
 - Affected by [[Prismatic Plankton]]
-- Leads to [[step_052]]
+- Leads to
 - Parallels [[find-the-ideal-introduction-adventure-introduction]]
 - Requires [[Pressure Terminal (D&D_Statblocks)]]
 - Leads to [[step_083 (phase_083)]]
 - Connects to [[QUEST00180_Side_Quest_181]]
 - Compare with [[LOC00170_Dungeons_Location_171]]
 - Related: [[Friends Xphb]]
-- See also: [[step_042]]
+- See also:
 - Compare with [[Bonus Action Xphb]]
 - Compare with [[step_057 (phase_051)]]
 - Connects to [[Portrait NPC Lich Queen Morwyn the Deathless Lich Queen Morwyn the Deathless.svg]]
 - Leads to [[Vehicle Ship Abyssal Scout Submarine V2 Abyssal Scout Submarine.png]]
 - Influences [[QUEST00200_Side_Quest_201]]
-- Requires [[step_080]]
+- Requires
 - Originates from [[Wisdom of the Avatars]]
-- Requires [[step_033]]
+- Requires
 - Related: [[druid-xphb-circle-of-the-moon-xphb (classes)]]
 - Related: [[NPC01890_Branwen_Frostwhisper_the_Wanderer]]
 - Leads to [[step_080 (phase_083)]]

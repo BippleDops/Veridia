@@ -14,7 +14,6 @@ aliases: [NPC2]
 - [[#Game Mechanics|Game Mechanics]]
 - [[#Thematic Connections|Thematic Connections]]
 
-
 ---
 enhanced: trtags: [enhanced, 03_people, combat, exploration, lore]le]
 created: 2025-08-15T12:24:41.182434
@@ -85,7 +84,6 @@ tags:
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 ## DM Guidance
 - **Usage**: How to best utilize this in your campaign
@@ -98,14 +96,12 @@ tags:
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated [[Time]]**: How long this typically takes to run
 
-
 *The dice will decide the fate.*
 
 ## Visual References
 ![[04_Resources/Assets/Portraits/NPCs/portrait_npc2.png]]
 ![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc2_people_friendly.png]]
 ![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc2_people_dramatic.png]]
-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -119,8 +115,7 @@ tags:
 - **Movement**: See ACX p.190-192
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with 

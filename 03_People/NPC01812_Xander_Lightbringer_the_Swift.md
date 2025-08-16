@@ -18,7 +18,6 @@ aliases: [NPC01812 Xander Lightbringer the Swift]
 - [[#Elric Goldleaf the Bold (Political - Spy)|Elric Goldleaf the Bold (Political - Spy)]]
 - [[#Faelyn Oakenshield the Lost (Personal - Nemesis)|Faelyn Oakenshield the Lost (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Lightbringer the Swift", "xander lightbringer the swift", "Xander Lightbringer Swift", "Swift the Lightbringer Xandertags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
@@ -151,16 +150,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.313Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -196,11 +192,10 @@ Blackmails party into service
 - [[Ritual_Timing_Wheel_Convergenc]]
 - [[What You Know - Abyssos Prime.md]]
 - [[Trade_Route_Chart_Port_Meridia]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -210,11 +205,10 @@ Blackmails party into service
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -244,7 +238,7 @@ Blackmails party into service
 - Originates from [[step_019 (phase_004)]]
 - See also: [[Assets Locations Location City [[The [[Inverse Palace]]]] V1 the Inverse Palace.svg]]
 - Compare with [[step_043 (phase_091)]]
-- Affected by [[step_080]]
+- Affected by
 - Originates from [[Location City [[Archkeeper Nereon]] Archkeeper Nereon.svg]]
 - Requires [[ITEM00287_Radiant_Staff_of_the_Ancients]]
 - Affected by [[MON00146_Undead_Creature_147]]
@@ -269,7 +263,7 @@ Blackmails party into service
 - Related: [[step_053 (phase_007)]]
 - Requires [[step_034 (phase_010)]]
 - See also: [[Location City [[Foreign Intelligence]] Foreign Intelligence.svg]]
-- Influences [[step_083]]
+- Influences
 - Affected by [[[[Surface Tensions]] 2]]
 - Related: [[LOC0049_Grovehollow]]
 - Compare with [[Assets Locations [[Location City Quest Harbor Security Quest Harbor Security.svg]]]]
@@ -290,14 +284,14 @@ Blackmails party into service
 - See also: [[5-wave-echo-cave (lost-mine-of-phandelver)]]
 - Influences [[step_056 (phase_015)]]
 - Parallels [[List Spells School Abjuration]]
-- Connects to [[step_075]]
+- Connects to
 - Affected by [[Coral]]
 - Requires [[Commercial Dispute Resolution Procedures]]
 - Affected by [[Doctor Silas Voidtouch]]
 - Affected by [[step_055 (phase_036)]]
 - Parallels [[Independent Contractor]]
 - Related: [[mind-flayer-xmm]]
-- Connects to [[step_063]]
+- Connects to
 - Compare with [[banishing-arrow-xge (optional-features)]]
 - Influences [[ITEM01148_Superior_Elixir_of_Swiftness]]
 - Leads to [[Combat Training Facilities]]
@@ -308,10 +302,10 @@ Blackmails party into service
 - Connects to [[[[Basil Prismtender]] (D&D_References)]]
 - Influences [[High Altitude Xdmg]]
 - Affected by [[step_097 (phase_086)]]
-- Influences [[step_035]]
+- Influences
 - See also: [[EVENT00038_Political_Event_39]]
 - Compare with [[The Free Traders Alliance]]
-- Originates from [[step_054]]
+- Originates from
 - See also: [[step_095 (phase_071)]]
 - Parallels [[The Oracle of Bathyal Palace]]
 - Compare with [[Portrait NPC King Marcus [[Lumengarde]] King Marcus Lumengarde.svg_1 (Portraits)]]
@@ -323,7 +317,6 @@ Blackmails party into service
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

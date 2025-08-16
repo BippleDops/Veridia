@@ -9,7 +9,6 @@ aliases: [Memory Merchant Valeria Siltweave]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_memory_merchant_valeria_siltweave.png]]
 
-
 ## Table of Contents
 - [[#Stats|Stats]]
 - [[#Relationships|Relationships]]
@@ -21,7 +20,6 @@ aliases: [Memory Merchant Valeria Siltweave]
 - [[#Religion Improvements|Religion Improvements]]
 - [[#Lifestyle Improvements|Lifestyle Improvements]]
 - [[#Contradictions Improvements|Contradictions Improvements]]
-
 
 ---
 
@@ -76,7 +74,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -152,22 +150,22 @@ Valeria Siltweave represents the reformed wing of the [[Memory Farmers]] movemen
 ### Valeria Siltweave
 *Medium humanoid (human), lawful good*
 
-**Armor Class** 16 (Mage Armor + Natural)  
-**Hit Points** 165 (22d10 + 44)  
+**Armor Class** 16 (Mage Armor + Natural)
+**Hit Points** 165 (22d10 + 44)
 **Speed** 30 ft., swim 40 ft. (while in [[Memory Meadows]])
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
 12 (+1) | 16 (+3) | 14 (+2) | 20 (+5) | 18 (+4) | 17 (+3)
 
-**Saving Throws** Int +11, Wis +10, Cha +9  
-**Skills** Deception +9, Insight +16, Investigation +11, Medicine +10, Perception +10, Persuasion +15  
-**Damage Resistances** Psychic  
-**Damage Immunities** Charm effects from memory manipulation  
-**Condition Immunities** Charmed (by memory effects)  
-**Senses** Detect thoughts (at will), passive Perception 20  
-**Languages** Common, Deep Speech, telepathy 60 ft.  
-**Challenge Rating** 12 (8,400 XP)  
+**Saving Throws** Int +11, Wis +10, Cha +9
+**Skills** Deception +9, Insight +16, Investigation +11, Medicine +10, Perception +10, Persuasion +15
+**Damage Resistances** Psychic
+**Damage Immunities** Charm effects from memory manipulation
+**Condition Immunities** Charmed (by memory effects)
+**Senses** Detect thoughts (at will), passive Perception 20
+**Languages** Common, Deep Speech, telepathy 60 ft.
+**Challenge Rating** 12 (8,400 XP)
 **Proficiency Bonus** +4
 
 ### Special Abilities
@@ -267,7 +265,7 @@ Recent developments have revealed mystical elements to her work:
 - Provides comfort memories from others who've experienced similar loss
 - Often combined with memory preservation of the deceased
 
-### Educational Memory Programs  
+### Educational Memory Programs
 **Master Craftsman Experience**: 1,500-5,000gp
 - Temporarily grants proficiency in artisan tools
 - Shares decades of expertise from master craftsmen
@@ -283,7 +281,7 @@ Recent developments have revealed mystical elements to her work:
 ### The Inheritance Project
 **Elder Wisdom Preservation**: Varies by family wealth
 - Records life experiences from aging family members
-- Preserves family traditions and cultural knowledge  
+- Preserves family traditions and cultural knowledge
 - Creates memory legacies for future generations
 - Includes historical testimony and personal wisdom
 
@@ -301,7 +299,7 @@ A mysterious ailment is causing people to lose treasured memories. Valeria suspe
 - **Rewards**: 5,000gp, Memory protection charms, Faction reputation
 - **Complications**: The plague may be side effect of [[Memory Farmer Thane]]'s new extraction techniques
 
-### 2. The Ethical Crusade (Level 6-10)  
+### 2. The Ethical Crusade (Level 6-10)
 Valeria asks the party to help her establish ethical memory exchanges in three major cities, facing opposition from entrenched exploitation networks.
 - **Rewards**: 3,000gp per city, Discounted memory services, Business partnership opportunities
 - **Complications**: Local crime syndicates profit from memory trafficking
@@ -501,13 +499,12 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - [[His Own Shadow (D&D_Statblocks)]]
 - [[The Sorrowmaster (D&D_Statblocks)]]
 
-
 ## Connections
 
 - Parallels [[Portal Commander Marina Bridgewright (D&D_References)]]
 - Influences [[NPC00490_Corvus_Xendar_the_Lost]]
 - Leads to [[Portrait NPC Marina Red Tide Coralheart V2 Marina Red Tide Coralheart.svg]]
-- Connects to [[step_074]]
+- Connects to
 - Requires [[ITEM0116_Eldritch_Pendant_of_the_Dawn]]
 - Originates from [[EVENT00018_Magical_Event_19]]
 - Requires [[step_089 (phase_057)]]
@@ -515,10 +512,10 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - See also: [[Portrait NPC Captain Guard Peacehold Captain Guard Peacehold.svg]]
 - Influences [[step_076 (phase_068)]]
 - Parallels [[ITEM01000_Greater_Herb_of_Clarity]]
-- Leads to [[step_057]]
+- Leads to
 - Parallels [[QUEST00158_Personal_Quest_159]]
 - Originates from [[LOC00018_Dungeons_Location_19]]
-- Requires [[step_074]]
+- Requires
 - Affected by [[step_018 (phase_011)]]
 - Related: [[Synthesis Consciousness Transfer]]
 - Originates from [[Portrait NPC Quest the Deepmind Weapon Quest the Deepmind Weapon.svg]]
@@ -558,7 +555,7 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - Leads to [[LOC0001_SouthHaven]]
 - Requires [[NPC00417_Cedric_Ashford]]
 - Leads to [[ENC00418_Combat_Encounter_419]]
-- See also: [[step_081]]
+- See also:
 - Compare with [[NPC01675_Pyria_Stormwind_the_Strong]]
 - Requires [[ENC00467_Combat_Encounter_468]]
 - Parallels [[Symbols - Faction_Heraldry (D&D_References)]]
@@ -575,7 +572,7 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - Related: [[step_003 (phase_024)]]
 - Connects to [[ENC00088_Social_Encounter_89]]
 - Related: [[Portrait NPC Reflection Captain Vantage V2 Reflection Captain Vantage.svg]]
-- Affected by [[step_015]]
+- Affected by
 - Requires [[Molten Magma Roper Pota]]
 - Requires [[Portrait NPC the Emerald Sage Willowbark V1 the Emerald Sage Willowbark.svg]]
 - See also: [[secondary-tables-boons-xge (tables)]]
@@ -587,11 +584,11 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - Originates from [[Assets Locations Location City Quest Harbor Security V1 Quest Harbor Security.svg]]
 - Requires [[The Leviathan Prophets (D&D_References)]]
 - Connects to [[Multiclassing Xphb]]
-- See also: [[step_022]]
+- See also:
 - Affected by [[Citizens Against Shadows (D&D_References)]]
 - Compare with [[step_030 (phase_024)]]
 - Compare with [[NPC01360_Ewan_Blackstone_the_Strong]]
-- Leads to [[step_100]]
+- Leads to
 - Influences [[ENC00290_Combat_Encounter_291]]
 - See also: [[step_100 (phase_019)]]
 - Originates from [[ENC00124_Social_Encounter_125]]

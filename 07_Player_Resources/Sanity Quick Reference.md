@@ -18,7 +18,6 @@ aliases: [Sanity Quick Reference]
 - [[#Superstitions Improvements|Superstitions Improvements]]
 - [[#Hospitality Improvements|Hospitality Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Handouts/Sanity Quick Reference
@@ -160,7 +159,6 @@ tags: [combat, magic, exploration, lore]
 
 - [[Player Portal]]
 
-
 > [!dm] DM Note
 > This location connects to the main plot
 
@@ -187,8 +185,7 @@ tags: [combat, magic, exploration, lore]
 - [[What You Know - Abyssos Prime.md]]
 - [[NPC01781_Urien_Keenblade_the_Cunning]]
 - [[MOC_Lore]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -198,7 +195,6 @@ tags: [combat, magic, exploration, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -226,7 +222,7 @@ tags: [combat, magic, exploration, lore]
 - Originates from [[16 Chapter 16 the Fetid Wedding]]
 - Related: [[FAC00014_Orders_15]]
 - Requires [[charger-xphb (feats)]]
-- Influences [[step_049]]
+- Influences
 - Originates from [[5 Halflings and Gnomes]]
 - Affected by [[Scene Scene Deep Mother S Tentacles Rising V2 Deep Mother S Tentacles Rising.svg]]
 - Parallels [[Assets Locations Location City Phantom Harbor Charter V1 Phantom Harbor Charter.svg]]
@@ -242,7 +238,7 @@ tags: [combat, magic, exploration, lore]
 - Compare with [[Senator Cornelius Depthwalker (D&D_References)]]
 - Compare with [[Current Rider Captain Crimson Velocity]]
 - Parallels [[SPELL00116_Divine_Spell_117]]
-- Originates from [[step_054]]
+- Originates from
 - Requires [[LORE00042_History_Entry_43]]
 - Affected by [[ITEM00049_Thunder_Hammer_of_Wounding]]
 - Connects to [[NPC00285_Xander_Goldleaf_the_Mystic]]
@@ -254,13 +250,13 @@ tags: [combat, magic, exploration, lore]
 - Parallels [[02_Worldbuilding_Lore_The_Emperor''s_Gambit]]
 - Influences [[befuddlement-xphb (spells)]]
 - Leads to [[Battle_Maps.md]]
-- Connects to [[step_056]]
+- Connects to
 - Leads to [[Commander Transparent (D&D_References)]]
 - Connects to [[Crystal Preservation Society (Groups)]]
 - See also: [[Depth Supremacist Movement]]
 - Influences [[flask-xphb (items)]]
 - Compare with [[Dr Nereon Deepcurrent]]
-- Compare with [[step_047]]
+- Compare with
 - Leads to [[step_078 (phase_015)]]
 - Related: [[Reflection Captain Vantage (D&D_References)]]
 - Connects to [[step_095 (phase_046)]]
@@ -275,7 +271,7 @@ tags: [combat, magic, exploration, lore]
 - Parallels [[Location City the Inverse Palace V1 the Inverse Palace.svg]]
 - See also: [[symbol-heraldry-bexley-v1-bexley.svg]]
 - Affected by [[Location City the Exotic Emporium the Exotic Emporium.svg]]
-- Requires [[step_069]]
+- Requires
 - Compare with [[LOC00268_Dungeons_Location_269]]
 - Related: [[FAC00052_Cults_53]]
 - Connects to [[Skywind Cloak (D&D_References)]]
@@ -302,7 +298,7 @@ tags: [combat, magic, exploration, lore]
 - Leads to [[portrait-npc-the-schooling-v2-the-schooling.svg]]
 - Influences [[The Shadow-Crystal Synthesis]]
 - Affected by [[Underwater Breathing 2]]
-- See also: [[step_009]]
+- See also:
 - Related: [[Meta Bind Examples (D&D_References)]]
 - Parallels [[The Deepmind Conspiracy (D&D_References)]]
 - Requires [[Assets Vehicles Vehicle Ship Aethermoor Courier Class Airship V2 Aethermoor Courier Class Airship.png]]

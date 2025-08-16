@@ -10,7 +10,6 @@ aliases: [Character Creation]
 
 > *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 Comprehensive overview of this content.
@@ -80,14 +79,12 @@ modified: '2025-08-14'
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 ## Session Prep
 - **Read Aloud Text**: Prepared descriptions for key moments
 - **Key NPCs**: Important characters for this content
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated Time**: How long this typically takes to run
-
 
 *The dice will decide the fate.*
 
@@ -97,8 +94,7 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v2-character-sheet-layout.png]]
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[FINAL_1000_IMPROVEMENTS_SUMMARY]]
@@ -112,11 +108,10 @@ modified: '2025-08-14'
 - **Movement**: See PHB p.190-192
 - **Skills**: See PHB p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -155,7 +150,7 @@ modified: '2025-08-14'
 - Related: [[LOC00023_Wilderness_Location_24]]
 - See also: [[EVENT00099_Natural_Event_100]]
 - Compare with [[Cellular Corruption Microscope]]
-- Requires [[step_049]]
+- Requires
 - Influences [[Portrait NPC the Verdant Accord V2 the Verdant Accord.svg_1 (Portraits)]]
 - Originates from [[step_041 (phase_049)]]
 - Connects to [[Potion of Psychic Resistance Xdmg]]
@@ -163,10 +158,10 @@ modified: '2025-08-14'
 - Connects to [[mummy-lord-xmm (legendary-group)]]
 - Compare with [[Senior Temporal Engineer Chronos Fieldwright]]
 - Compare with [[Greataxe Xphb]]
-- See also: [[step_067]]
-- Related: [[step_057]]
+- See also:
+- Related:
 - Parallels [[step_064 (phase_091)]]
-- Originates from [[step_023]]
+- Originates from
 - Affected by [[Portrait NPC Lord Aldric Thornwhisper Lord Aldric Thornwhisper.svg]]
 - Leads to [[ENC00157_Combat_Encounter_158]]
 - Requires [[Cargo Master Holdspace (D&D_References)]]
@@ -176,7 +171,7 @@ modified: '2025-08-14'
 - Parallels [[Assets Locations Location City Pressure Guard Steelwall Pressure Guard Steelwall.svg]]
 - Affected by [[Enlarge Reduce Xphb]]
 - Originates from [[step_020 (phase_088)]]
-- Influences [[step_008]]
+- Influences
 - See also: [[step_036 (phase_010)]]
 - Connects to [[The Azure Ports]]
 - See also: [[NPC01679_Solas_Hawthorne_the_Bold]]
@@ -204,7 +199,7 @@ modified: '2025-08-14'
 - Originates from [[Elementalism Xphb]]
 - Originates from [[step_085 (phase_007)]]
 - Connects to [[step_081 (phase_022)]]
-- Leads to [[Quest   The Pressure Cure]]
+- Leads to [[Quest The Pressure Cure]]
 - Requires [[04_Resources_Assets_Locations_location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
 - Originates from [[step_047 (phase_082)]]
 - Compare with [[Consciousness Manipulation Technology]]

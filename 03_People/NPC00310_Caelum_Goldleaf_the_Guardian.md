@@ -18,7 +18,6 @@ aliases: [NPC00310 Caelum Goldleaf the Guardian]
 - [[#Alaric Ashford (Criminal - Accomplice)|Alaric Ashford (Criminal - Accomplice)]]
 - [[#Gavril Lightbringer the Bold (Professional - Rival)|Gavril Lightbringer the Bold (Professional - Rival)]]
 
-
 ---
 aliases: ["Caelum Goldleaf the Guardian", "caelum goldleaf the guardian", "Caelum Goldleaf Guardian", "Guardian the Goldleaf Caelum"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.147Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,7 +177,7 @@ Wants rivals investigated
 - Leads to [[step_033 (phase_015)]]
 - Parallels [[Original Glaucus (People)]]
 - Originates from [[QUEST0038_The_Frozen_Fortress_Disappearances]]
-- Affected by [[step_010]]
+- Affected by
 - Related: [[step_046 (phase_030)]]
 - Parallels [[Human Names Roman Female Xge]]
 - Affected by [[ENC00254_Social_Encounter_255]]
@@ -209,7 +204,7 @@ Wants rivals investigated
 - See also: [[step_057 (phase_057)]]
 - Leads to [[step_001 (phase_060)]]
 - Compare with [[LOC00177_Planes_Location_178]]
-- See also: [[step_014]]
+- See also:
 - Related: [[FAC00099_Guilds_100]]
 - Compare with [[NPC01846_Lyanna_Brightblade_the_Scholar]]
 - Parallels [[Tribune Cassia (D&D_References)]]
@@ -229,14 +224,14 @@ Wants rivals investigated
 - Originates from [[Spymaster Echo]]
 - Parallels [[ITEM0030_Glorious_Orb_of_Power]]
 - Compare with [[step_056 (phase_062)]]
-- Leads to [[step_006]]
+- Leads to
 - Influences [[Assets Locations Location City Depth Warden Patrol V1 Depth Warden Patrol.svg]]
 - See also: [[Cause Fear Xge]]
 - Requires [[LOC00236_Towns_Location_237]]
 - Originates from [[step_047 (phase_073)]]
 - Requires [[LOC00229_Towns_Location_230]]
 - Requires [[Voidwhisper Diplomat Seraphina Darkgrace]]
-- Connects to [[step_062]]
+- Connects to
 - Requires [[Assets Portraits Portrait NPC Archbishop Matthias Lightbringer Archbishop Matthias Lightbringer.svg]]
 - Influences [[LOC00270_Planes_Location_271]]
 - Connects to [[step_100 (phase_048)]]
@@ -268,7 +263,6 @@ Wants rivals investigated
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01403 Rhiannon Ironwood the Broken]
 - [[#Aeliana Crystalbrook the Broken (Criminal - Handler)|Aeliana Crystalbrook the Broken (Criminal - Handler)]]
 - [[#Wynne Hawthorne the Cunning (Criminal - Accomplice)|Wynne Hawthorne the Cunning (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Rhiannon Ironwood the Broken", "rhiannon ironwood the broken", "Rhiannon Ironwood Broken", "Broken the Ironwood Rhiannon"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.269Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -170,16 +165,16 @@ Has information about legendary item
 - Parallels [[monk-xphb-warrior-of-the-elements-xphb (classes)]]
 - Related: [[Assets Locations Location City Port Meridian Market District Port Meridian Market District.svg]]
 - Connects to [[location-city-depth-raiders-depth-raiders.svg]]
-- See also: [[step_078]]
+- See also:
 - Compare with [[Journey Board (Lore)]]
 - Connects to [[step_035 (phase_093)]]
 - Leads to [[The Traders Guild]]
-- Affected by [[step_038]]
+- Affected by
 - Parallels [[QUEST00427_Side_Quest_428]]
 - See also: [[Master Cultivators Guild]]
 - Connects to [[step_027 (phase_079)]]
 - Affected by [[Depths Alliance (D&D_References)]]
-- Requires [[step_023]]
+- Requires
 - Connects to [[Shadow Cultis]]
 - Compare with [[step_028 (phase_010)]]
 - Influences [[bronze-dragon (legendary-group)]]
@@ -205,7 +200,7 @@ Has information about legendary item
 - Compare with [[EVENT00097_Magical_Event_98]]
 - Parallels [[Seeds of the Past]]
 - Originates from [[FAC00043_Cults_44]]
-- Leads to [[step_068]]
+- Leads to
 - Originates from [[Aboleth Xmm (legendary-group)]]
 - Related: [[step_070 (phase_035)]]
 - Parallels [[step_097 (phase_067)]]
@@ -216,14 +211,14 @@ Has information about legendary item
 - Requires [[step_022 (phase_066)]]
 - Originates from [[step_057 (phase_092)]]
 - Parallels [[tyrannosaurus-rex-xmm]]
-- Compare with [[step_040]]
+- Compare with
 - Parallels [[Cooks Utensils Xphb]]
 - Compare with [[Elder Stormcaller]]
 - Parallels [[Cultural Studies Programs]]
 - Requires [[NPC00139_Pyria_Proudmore]]
 - Related: [[true-strike-xphb (spells)]]
 - Connects to [[step_044 (phase_025)]]
-- Requires [[step_087]]
+- Requires
 - Requires [[White Dragon Wyrmling Xmm]]
 - Related: [[portrait-npc-gareth-ironforge-gareth-ironforge.svg]]
 - Compare with [[step_012 (phase_022)]]
@@ -239,18 +234,18 @@ Has information about legendary item
 - Influences [[Mind Shield Helm]]
 - See also: [[Assets Locations Location City Lady Vivienne the Unfrozen Lady Vivienne the Unfrozen.svg]]
 - Originates from [[LORE00105_History_Entry_106]]
-- Parallels [[step_032]]
+- Parallels
 - Compare with [[Choker Mpmm]]
 - Leads to [[Truth Verification Magic 2]]
 - Affected by [[Embassy District]]
 - Affected by [[Depth Effect Quick Reference (Lore)]]
-- Leads to [[step_017]]
+- Leads to
 - Connects to [[step_077 (phase_069)]]
 - Leads to [[Location City Marina Deepcurrent Marina Deepcurrent.svg]]
 - See also: [[human-names-french-male-xge (tables)]]
 - Parallels [[step_038 (phase_030)]]
 - Influences [[location-city-the-observatory-the-observatory.svg]]
-- Originates from [[step_071]]
+- Originates from
 - Connects to [[Captain Marcus Voidward (D&D_References)]]
 - Leads to [[Quest - Precision Strike 2]]
 - Influences [[Portrait NPC High Priest Absence High Priest Absence.svg_1 (Portraits)]]
@@ -269,7 +264,6 @@ Has information about legendary item
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC01020 Wynne Oakenshield the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01020 Wynne Oakenshield the Redeemed]
 - [[#Dara Youngblood the Wanderer (Personal - Nemesis)|Dara Youngblood the Wanderer (Personal - Nemesis)]]
 - [[#Erasmus Brightblade the Risen (Criminal - Accomplice)|Erasmus Brightblade the Risen (Criminal - Accomplice)]]
 - [[#Delara Xendar the Broken (Criminal - Target)|Delara Xendar the Broken (Criminal - Target)]]
-
 
 ---
 aliases: ["Wynne Oakenshield the Redeemed", "wynne oakenshield the redeemed", "Wynne Oakenshield Redeemed", "Redeemed the Oakenshield Wynne"]
@@ -143,21 +141,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.228Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -209,7 +203,7 @@ Competitor sabotaging business
 - Influences [[list-spells-classes-illusionist-xphb (lists)]]
 - Influences [[New Location]]
 - Requires [[secondary-tables-supernatural-events-xge (tables)]]
-- Connects to [[step_055]]
+- Connects to
 - See also: [[Agent Whisper Voidheart (People)]]
 - Leads to [[LOC00061_Towns_Location_62]]
 - Influences [[Trader Grimm Voidheart (D&D_References)]]
@@ -223,7 +217,7 @@ Competitor sabotaging business
 - Compare with [[list-spells-classes-eldritch-knight-xphb (lists)]]
 - Parallels [[ITEM0134_Glorious_Blade_of_Shadows]]
 - Influences [[NPC01546_Delara_Thornweave_the_Fallen]]
-- Related: [[step_054]]
+- Related:
 - Connects to [[Current Innovator (D&D_References)]]
 - Influences [[mage-slayer-xphb (feats)]]
 - Related: [[NPC00743_Ysara_Lightbringer_the_Broken]]
@@ -238,7 +232,7 @@ Competitor sabotaging business
 - See also: [[step_047 (phase_064)]]
 - Related: [[step_057 (phase_016)]]
 - Compare with [[step_041 (phase_024)]]
-- Requires [[step_018]]
+- Requires
 - Affected by [[NPC01899_Pyria_Emberfall_the_Swift]]
 - Requires [[step_033 (phase_033)]]
 - Affected by [[The Corrupted Current 2]]
@@ -254,7 +248,7 @@ Competitor sabotaging business
 - Influences [[Assets Handouts Handout Handout Tavern Bill of Fare V1 Tavern Bill of Fare.png]]
 - Connects to [[step_024 (phase_097)]]
 - Leads to [[LOC00015_Cities_Location_16]]
-- Related: [[step_061]]
+- Related:
 - Related: [[Royal Vault 2]]
 - Affected by [[step_082 (phase_008)]]
 - Affected by [[step_007 (phase_030)]]

@@ -17,7 +17,6 @@ aliases: [README]
 - [[#Connections|Connections]]
 - [[#Visual References|Visual References]]
 
-
 -tags: ['type/note', 'status/active', combat]e']
 created: 2025-08-15
 modified: 2025-08-15
@@ -27,7 +26,6 @@ aliases: []
 # _INDEXES
 
 Directory for vault optimization.
-
 
 ## Recent NPCs
 ```dataview
@@ -100,12 +98,10 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[Player_Feedback_Form.md]]
 - [[MASTER_MOC]]
 - [[MOC_Locations]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -120,7 +116,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Requires [[LOC00249_Planes_Location_250]]
 - See also: [[Assets Locations Location City Coral Vortextrader V1 Coral Vortextrader.svg]]
 - Affected by [[step_034 (phase_030)]]
-- Affected by [[step_007]]
+- Affected by
 - Compare with [[Assets Locations Location City Underwater Religious Practices Underwater Religious Practices.svg]]
 - Compare with [[LOC00213_Wilderness_Location_214]]
 - See also: [[The Anonymous Accords 2]]
@@ -134,7 +130,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Related: [[step_096 (phase_052)]]
 - Connects to [[step_078 (phase_035)]]
 - Parallels [[physical-variations-yuan-ti-scale-color-vgm (tables)]]
-- Connects to [[step_044]]
+- Connects to
 - Affected by [[step_051 (phase_010)]]
 - Requires [[Wind Song Linguistic Guide (Lore)]]
 - Leads to [[Void-Echo Silence Deafmake]]
@@ -148,7 +144,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Related: [[2-monsters-a-to-z (monster-manual-2025)]]
 - Requires [[The Infinite Spiral]]
 - Affected by [[LOC00146_Dungeons_Location_147]]
-- Connects to [[step_082]]
+- Connects to
 - Affected by [[Portrait NPC Lady Cordelia Windham V2 Lady Cordelia Windham.svg]]
 - Connects to [[Echo Resident Sam]]
 - Requires [[Eastern Kingdom]]
@@ -158,7 +154,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Related: [[legend-lore-xphb (spells)]]
 - Parallels [[NPC01969_Cedric_Ironforge_the_Lost]]
 - Originates from [[Funeral Directors Guild (Guilds)]]
-- Requires [[step_040]]
+- Requires
 - Parallels [[Democratic Erosion]]
 - Leads to [[#People]]
 - Related: [[The Memory Synthesis]]
@@ -168,7 +164,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Compare with [[Quandrix Student Scc]]
 - Connects to [[Age of Skybound Empires]]
 - See also: [[ENC00267_Social_Encounter_268]]
-- Connects to [[step_046]]
+- Connects to
 - Affected by [[Assets Handouts Handout Handout Guild License Certificate Guild License Certificate.png]]
 - Influences [[woodcarvers-tools-xphb (items)]]
 - Compare with [[comprehensive_npc_network_analysis]]
@@ -200,7 +196,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Related: [[LORE00287_Prophecies_Entry_288]]
 - Originates from [[step_025 (phase_017)]]
 - Compare with [[step_067 (phase_014)]]
-- Compare with [[step_096]]
+- Compare with
 - Leads to [[LOC00078_Cities_Location_79]]
 - Originates from [[Faction Balance Maintenance (Operations)]]
 - Parallels [[International Academic Exchange 2]]

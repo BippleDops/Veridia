@@ -18,7 +18,6 @@ aliases: [NPC00409 Solas Underhill the Lost]
 - [[#Gareth Zephyrblade (Personal - Childhood friend)|Gareth Zephyrblade (Personal - Childhood friend)]]
 - [[#Delara Underhill (Political - Puppet)|Delara Underhill (Political - Puppet)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Solas Underhill the Lost", "solas underhill the lost", "Solas Underhill Lost", "Lost the Underhill Solas"]
@@ -139,27 +138,23 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.159Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -167,11 +162,10 @@ Family member has gone missing
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -197,14 +191,14 @@ Family member has gone missing
 - Compare with [[The Convergence Seekers]]
 - Parallels [[NPC00215_Solas_Dawnstrider_the_Wise]]
 - Parallels [[step_007 (phase_011)]]
-- Originates from [[step_032]]
+- Originates from
 - Requires [[step_083 (phase_054)]]
 - Leads to [[Assets Vehicles Vehicle Ship Kelp Weave Patrol Boat V1 Kelp Weave Patrol Boat.svg]]
 - Influences [[NPC01351_Gavril_Keenblade_the_Risen]]
 - Originates from [[Pathfinders Greataxe Pota]]
 - Compare with [[The Current Maps (D&D_References)]]
 - Related: [[NPC00365_Xander_Dawnstrider_the_Wise]]
-- Influences [[step_069]]
+- Influences
 - Requires [[step_027 (phase_078)]]
 - Originates from [[ENC00081_Social_Encounter_82]]
 - Originates from [[FAC00047_Cults_48]]
@@ -221,11 +215,11 @@ Family member has gone missing
 - Affected by [[step_062 (phase_036)]]
 - See also: [[Location City Unity Hopecurrent Unity Hopecurrent.svg]]
 - Affected by [[Seven Fleets System (D&D_References)]]
-- Originates from [[step_070]]
+- Originates from
 - Connects to [[step_080 (phase_060)]]
 - Related: [[step_036 (phase_028)]]
 - Affected by [[Nalfeshnee Xmm]]
-- See also: [[step_048]]
+- See also:
 - See also: [[ITEM00782_Infernal_Mirror_of_the_Gods]]
 - See also: [[LOC00019_Wilderness_Location_20]]
 - Affected by [[step_001 (phase_051)]]
@@ -246,7 +240,7 @@ Family member has gone missing
 - Compare with [[step_076 (phase_033)]]
 - See also: [[Portrait NPC Ancient King Pelagios V1 Ancient King Pelagios.svg_1 (Portraits)]]
 - See also: [[Shadow Animation Chamber 2]]
-- Leads to [[step_013]]
+- Leads to
 - Leads to [[location-city-pelagic-cup-v1-pelagic-cup.svg]]
 - Parallels [[Umbral Scholar Valentina Depthlore 2]]
 - Requires [[Githzerai Monk Xmm]]
@@ -260,7 +254,7 @@ Family member has gone missing
 - Affected by [[Assets Locations Location City Scholar Thomas Precedent V1 Scholar Thomas Precedent.svg]]
 - Compare with [[step_076 (phase_023)]]
 - Leads to [[LORE0016_Legend_of_the_First_King]]
-- Parallels [[step_092]]
+- Parallels
 - Leads to [[step_059 (phase_042)]]
 - Affected by [[Location City Abyssos Prime Upper Districts Abyssos Prime Upper Districts.png]]
 - Influences [[QUEST00217_Side_Quest_218]]
@@ -280,7 +274,6 @@ Family member has gone missing
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC01483 Gavril Zephyrblade the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01483 Gavril Zephyrblade the Fallen]
 - [[#Zephyr Darkwater the Mystic (Family - Child)|Zephyr Darkwater the Mystic (Family - Child)]]
 - [[#Delara Xendar the Wanderer (Family - Child)|Delara Xendar the Wanderer (Family - Child)]]
 - [[#Thalia Ironwood the Seeker (Professional - Mentor)|Thalia Ironwood the Seeker (Professional - Mentor)]]
-
 
 ---
 created: 2025-08-15
@@ -152,16 +150,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.277Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -183,9 +178,7 @@ Forming expedition to dangerous location
 - [[NPC01745_Felicia_Oakenshield_the_Scholar]]
 - [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
 - [[Count_Strahd_von_Zarovich]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -205,7 +198,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.71
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -213,11 +206,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -248,7 +240,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Heritage Keeper Memoryshade]]
 - Requires [[step_001 (phase_014)]]
 - Leads to [[brontosaurus-mpmm (beast)]]
-- Influences [[step_094]]
+- Influences
 - Leads to [[Mule Xphb]]
 - Affected by [[Location City Tavern Keep Lucky Jack Goldpouch V1 Tavern Keep Lucky Jack Goldpouch.svg]]
 - Requires [[list-spells-classes-draconic-sorcery-xphb (lists)]]
@@ -277,7 +269,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Data Analyst Current Patternweave 2]]
 - Leads to [[step_066 (phase_098)]]
 - See also: [[step_059 (phase_087)]]
-- Leads to [[step_077]]
+- Leads to
 - Influences [[armaments-legendary-xdmg (tables)]]
 - See also: [[Quest - Ascension]]
 - Influences [[Portrait NPC the Emperor S Memories V1 the Emperor S Memories.svg]]
@@ -309,9 +301,9 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[SHOP00052_Magical_Shop_53]]
 - Originates from [[step_097 (phase_080)]]
 - Originates from [[step_059 (phase_064)]]
-- Related: [[step_036]]
+- Related:
 - Connects to [[LORE00178_Prophecies_Entry_179]]
-- Influences [[step_026]]
+- Influences
 - Requires [[The Reality Storm Crisis (D&D_References)]]
 - Influences [[LORE00165_Prophecies_Entry_166]]
 - Originates from [[Crystal Agricultural Research Institute]]

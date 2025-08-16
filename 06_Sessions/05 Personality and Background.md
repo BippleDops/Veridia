@@ -18,7 +18,6 @@ aliases: [05 Personality and Background]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 05 Personality and Background
@@ -55,11 +54,9 @@ world: Both
 
 - A merchant needs help delivering before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This NPC knows more than they let on
@@ -98,8 +95,7 @@ Connected to the main villain's plan
 - [[Count_Strahd_von_Zarovich]]
 - [[MOC_Rules]]
 - [[NPC01463_Aeliana_Zephyrblade_the_Fallen]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -111,7 +107,6 @@ Connected to the main villain's plan
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -147,7 +142,7 @@ Connected to the main villain's plan
 - Connects to [[step_027 (phase_046)]]
 - Compare with [[commanders-strike-xphb (optional-features)]]
 - See also: [[Quest - The Shadow-Water Accords_1 (01_Adventures)]]
-- Related: [[step_095]]
+- Related:
 - Parallels [[Portrait NPC High Priestess Celeste High Priestess Celeste.svg_1 (Portraits)]]
 - Related: [[step_053 (phase_008)]]
 - See also: [[LORE00144_Legends_Entry_145]]
@@ -193,7 +188,7 @@ Connected to the main villain's plan
 - Influences [[The Architects of Depths (D&D_References)]]
 - Compare with [[step_019 (phase_047)]]
 - Affected by [[Crystal Plague]]
-- Compare with [[step_074]]
+- Compare with
 - Originates from [[Creature Creature Undead Spirit Xphb V4 Undead Spirit Xphb.png]]
 - Requires [[LOC00146_Dungeons_Location_147]]
 - Related: [[Winged Boots Xdmg]]
@@ -209,9 +204,9 @@ Connected to the main villain's plan
 - Leads to [[FAC00031_Orders_32]]
 - Influences [[Crystal Communication Center]]
 - Parallels [[Skyship Technology]]
-- Influences [[step_050]]
+- Influences
 - Leads to [[Observatory Codex 2]]
-- Parallels [[step_077]]
+- Parallels
 - Related: [[NPC0185_Zara_Brightblade]]
 - See also: [[forgotten-realms-beshaba (deities)]]
 - Affected by [[step_067 (phase_017)]]

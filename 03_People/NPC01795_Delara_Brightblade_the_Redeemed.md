@@ -9,7 +9,6 @@ aliases: [NPC01795 Delara Brightblade the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01795 Delara Brightblade the Redeemed]
 - [[#Thalia Blackstone the Scholar (Family - Child)|Thalia Blackstone the Scholar (Family - Child)]]
 - [[#Jorah Emberfall the Fallen (Political - Puppet)|Jorah Emberfall the Fallen (Political - Puppet)]]
 - [[#Elric Stormwind the Guardian (Political - Opposition)|Elric Stormwind the Guardian (Political - Opposition)]]
-
 
 ---
 aliases: ["Delara Brightblade the Redeemed", "delara brightblade the redeemed", "Delara Brightblade Redeemed", "Redeemed the Brightblade Delara"]
@@ -151,35 +149,31 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.311Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Compare with [[SPELL00082_Arcane_Spell_83]]
 - Requires [[LOC00012_Cities_Location_13]]
 - Affected by [[Counter-Intelligence Operations]]
-- Requires [[step_058]]
+- Requires
 - Affected by [[Deep Chemical Works]]
 - Influences [[step_082 (phase_095)]]
 - Requires [[The Memory Wars 2]]
 - Related: [[MON00032_Aberrations_Creature_33]]
 - Connects to [[step_008 (phase_023)]]
 - Originates from [[Spymaster Echo]]
-- See also: [[step_070]]
+- See also:
 - Connects to [[Cleaning Fish]]
 - Affected by [[The Maritime Alliance]]
 - Influences [[step_092 (phase_049)]]
@@ -195,7 +189,7 @@ Is secretly testing the party
 - Influences [[step_014 (phase_007)]]
 - Affected by [[God-King Aetheron (D&D_References)]]
 - Parallels [[step_056 (phase_022)]]
-- Connects to [[step_063]]
+- Connects to
 - Requires [[step_085 (phase_061)]]
 - Parallels [[Reference_Cards - Aquabyssos_Quick_Reference_Cards (D&D_References)]]
 - Parallels [[step_063 (phase_060)]]
@@ -210,7 +204,7 @@ Is secretly testing the party
 - Affected by [[Assets Locations Location City Foreign Affairs V1 Foreign Affairs.svg]]
 - Compare with [[Symbol Heraldry Temporal Engineering Guil Temporal Engineering Guil.svg]]
 - Originates from [[ioun-stone-sustenance-xdmg (items)]]
-- Originates from [[step_093]]
+- Originates from
 - Requires [[draft-horse-xmm (beast)]]
 - Leads to [[Crafting Magic Items Magic Item Crafting]]
 - Originates from [[Location City the Probability Merchant the Probability Merchant.svg]]
@@ -232,21 +226,21 @@ Is secretly testing the party
 - Parallels [[Creature Creature Ancient Brass Dragon Xmm V1 Ancient Brass Dragon Xmm.png]]
 - Influences [[Duergar Hammerer Mpmm]]
 - Originates from [[The Singing Trenches_1]]
-- Related: [[step_007]]
-- Originates from [[step_046]]
+- Related:
+- Originates from
 - Influences [[Semiautomatic Pistol Xdmg]]
 - Affected by [[QUEST00157_Personal_Quest_158]]
 - Originates from [[SPELL00109_Divine_Spell_110]]
 - Leads to [[QUEST00430_Side_Quest_431]]
 - Affected by [[NPC00687_Brenna_Proudmore_the_Fallen]]
 - Parallels [[Sentinel Xphb]]
-- Originates from [[step_013]]
+- Originates from
 - Related: [[DUN00102_Dungeon_103]]
 - Compare with [[Gideon Quickstep]]
 - Parallels [[Lord Flux the Inconsistent (D&D_References)]]
 - See also: [[The Shadow Markets New]]
 - Originates from [[Shadowport 2]]
-- Connects to [[step_026]]
+- Connects to
 - Compare with [[step_090 (phase_024)]]
 - Originates from [[step_044 (phase_031)]]
 - Influences [[step_076 (phase_006)]]
@@ -262,7 +256,7 @@ Is secretly testing the party
 - Parallels [[High Hierophant Meridius 2]]
 - Originates from [[Dire Wolf Xmm]]
 - See also: [[The Great Shattering]]
-- Parallels [[step_049]]
+- Parallels
 - Parallels [[Waterskin Xphb]]
 - Parallels [[step_012 (phase_100)]]
 - See also: [[list-spells-classes-circle-of-the-moon-xphb (lists)]]

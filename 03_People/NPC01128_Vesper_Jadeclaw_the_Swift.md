@@ -18,7 +18,6 @@ aliases: [NPC01128 Vesper Jadeclaw the Swift]
 - [[#Delara Silverleaf the Swift (Professional - Partner)|Delara Silverleaf the Swift (Professional - Partner)]]
 - [[#Delara Brightblade the Bold (Professional - Employee)|Delara Brightblade the Bold (Professional - Employee)]]
 
-
 ---
 aliases: ["Vesper Jadeclaw the Swift", "vesper jadeclaw the swift", "Vesper Jadeclaw Swift", "Swift the Jadeclaw Vesper"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.240Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -213,7 +208,7 @@ Competitor sabotaging business
 - Affected by [[Player_Absence]]
 - Influences [[Assets Locations Location City Deep Mother Zealots Deep Mother Zealots.svg]]
 - Related: [[eberron-the-shadow (deities)]]
-- Leads to [[step_085]]
+- Leads to
 - Parallels [[CLAUDE]]
 - Influences [[NPC01750_Ysara_Hawthorne_the_Redeemed]]
 - Parallels [[Dwarven Roknar Mtf]]
@@ -237,27 +232,27 @@ Competitor sabotaging business
 - Compare with [[Party_Inventory]]
 - Originates from [[His Eternal Majesty Keeper of the Throne of]]
 - Related: [[LOC00081_Cities_Location_82]]
-- Originates from [[step_091]]
+- Originates from
 - Compare with [[Assets Locations Location City Guardian Neutralwatch Guardian Neutralwatch.svg]]
 - See also: [[step_039 (phase_080)]]
 - Parallels [[Assets Locations Location City Temple of the Healing Waters Temple of the Healing Waters.svg]]
 - Requires [[step_093 (phase_070)]]
 - Related: [[portrait-npc-the-barnacle-v1-the-barnacle.svg]]
 - Related: [[ENC00412_Combat_Encounter_413]]
-- Related: [[step_063]]
+- Related:
 - Leads to [[step_052 (phase_022)]]
 - Related: [[Inspiration Phb]]
-- Originates from [[step_097]]
+- Originates from
 - Requires [[The Conductor]]
 - Parallels [[life-events-xge (tables)]]
 - See also: [[Marina Stormwright]]
 - Requires [[The Sundered Peaks (D&D_References)]]
 - See also: [[step_057 (phase_010)]]
-- See also: [[step_066]]
+- See also:
 - Related: [[Intelligence Services 2]]
 - Leads to [[The Singer Beyond (D&D_References)]]
 - Parallels [[step_060 (phase_043)]]
-- Compare with [[step_077]]
+- Compare with
 - Leads to [[Pilgrim_Pass_Prayer_Sli]]
 - Originates from [[LORE0030_History_of_the_Fallen_Star]]
 - Parallels [[Prestidigitation Xphb]]
@@ -268,7 +263,7 @@ Competitor sabotaging business
 - Originates from [[ENC00147_Environmental_Encounter_148]]
 - Parallels [[step_083 (phase_031)]]
 - Affected by [[step_077 (phase_019)]]
-- Affected by [[step_030]]
+- Affected by
 - Originates from [[step_005 (phase_080)]]
 - See also: [[QUEST00014_Side_Quest_15]]
 
@@ -276,7 +271,6 @@ Competitor sabotaging business
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

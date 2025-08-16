@@ -9,7 +9,6 @@ aliases: [Professor Aldric Crystalweaver]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_professor_aldric_crystalweaver_dramatic.png]]
 
-
 ## Table of Contents
 - [[#Overview|Overview]]
 - [[#Description|Description]]
@@ -21,7 +20,6 @@ aliases: [Professor Aldric Crystalweaver]
 - [[#Key Information|Key Information]]
 - [[#Details|Details]]
 - [[#Background|Background]]
-
 
 ---
 title: Professor Aldric Crystalweaver
@@ -203,14 +201,13 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[The Barnacle (D&D_Statblocks)]]
 - [[The Bloodline Carrier (D&D_Statblocks)]]
 
-
 ## Connections
 
 - Connects to [[LORE00111_History_Entry_112]]
 - See also: [[step_069 (phase_053)]]
 - Compare with [[Tiefling Xphb]]
 - Connects to [[DUN00149_Dungeon_150]]
-- Related: [[Quest   The Democratic Balance]]
+- Related: [[Quest The Democratic Balance]]
 - Compare with [[NPC01261_Wynne_Keenblade_the_Wanderer]]
 - Related: [[Portrait NPC Ice Kingdom Magic V1 Ice Kingdom Magic.svg_1 (Portraits)]]
 - Influences [[QUEST0008_The_Lost_City_Conspiracy]]
@@ -252,8 +249,8 @@ This content can be adapted and expanded based on specific campaign needs.
 - Leads to [[QUEST0082_In_Search_of_Redemption]]
 - Leads to [[portrait-npc-the-cure-v1-the-cure.svg]]
 - Compare with [[Pressure's End (D&D_References)]]
-- See also: [[step_059]]
-- Affected by [[step_100]]
+- See also:
+- Affected by
 - See also: [[Marina''s_Echo (02_Worldbuilding)]]
 - Requires [[Assets Locations Location City Sky Trader Zephyr Windcatcher Sky Trader Zephyr Windcatcher.svg]]
 - Leads to [[Assets Locations Location City Ancient Tunnels Beneath Palace V1 Ancient Tunnels Beneath Palace.svg]]
@@ -261,7 +258,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - Leads to [[Foam Deepferment]]
 - Connects to [[Portrait NPC Madame Crystal Eye V2 Madame Crystal Eye.svg]]
 - Compare with [[step_042 (phase_079)]]
-- Originates from [[step_005]]
+- Originates from
 - Parallels [[step_036 (phase_050)]]
 - Compare with [[Prophet Miralyn Surfacer]]
 - Leads to [[MON00042_Constructs_Creature_43]]
@@ -304,5 +301,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - See also: [[Handout Handout Ship Manifests with Stamps Ship Manifests with Stamps.png]]
 - Compare with [[Multiclassing Xphb]]
 - Leads to [[step_026 (phase_023)]]
-- Compare with [[step_006]]
+- Compare with
 - Requires [[improvising-damage (tables)]]

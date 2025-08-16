@@ -18,7 +18,6 @@ aliases: [NPC01286 Xander Proudmore the Bold]
 - [[#Drusilla Winterborn the Lost (Political - Patron)|Drusilla Winterborn the Lost (Political - Patron)]]
 - [[#Thalia Darkwater the Seeker (Political - Ally)|Thalia Darkwater the Seeker (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Proudmore the Bold", "xander proudmore the bold", "Xander Proudmore Bold", "Bold the Proudmore Xandertags: [npc, character, combat, magic, exploration, lore]er]
@@ -141,16 +140,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.256Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -247,9 +243,7 @@ Modifications:
 - [[NPC01599_Gavril_Keenblade_the_Strong]]
 - [[NPC01931_Thalia_Lightbringer_the_Fallen]]
 - [[11 Spellcasting]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -269,7 +263,7 @@ Following magic item guidelines (WWT p.135-136):
 - Tasha's Mystical Formulae of Everything (TMF) p.40
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -277,22 +271,21 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- Leads to [[step_076]]
+- Leads to
 - Leads to [[[[The Null Cathedral]] (D&D_References)]]
 - See also: [[step_046 (phase_036)]]
 - Influences [[step_099 (phase_038)]]
 - Leads to [[Intelligence Analyst Mindreader]]
 - Connects to [[step_053 (phase_092)]]
 - Influences [[ITEM01383_Masterwork_Lantern_of_Quality]]
-- Parallels [[step_094]]
+- Parallels
 - Requires [[Oracle Pelagic Deepgaze]]
 - Influences [[MON00092_Constructs_Creature_93]]
 - Affected by [[LOC00282_Planes_Location_283]]
@@ -301,20 +294,20 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[greyhawk-berei-xdmg (deities)]]
 - Requires [[Half Plate Armor of Etherealness Xdmg]]
 - Influences [[Symbol Heraldry the Unnamed Watcher the Unnamed Watcher.svg]]
-- Affected by [[step_080]]
+- Affected by
 - Related: [[LOC0050_Havenridge]]
 - Requires [[QUEST00222_Personal_Quest_223]]
 - Connects to [[Initiate Shadow-Walker (D&D_References)]]
-- Related: [[step_049]]
+- Related:
 - Originates from [[NPC00293_Qadim_Emberfall_the_Lost]]
 - Connects to [[Location City [[Senator Marina Tidecaller]] V1 Senator Marina Tidecaller.svg]]
-- Originates from [[step_007]]
+- Originates from
 - Influences [[step_061 (phase_004)]]
 - Connects to [[Master_Lore_[[INDEX]]]]
-- Connects to [[step_040]]
+- Connects to
 - Connects to [[ENC00153_Combat_Encounter_154]]
 - Leads to [[Floating Markets]]
-- See also: [[step_084]]
+- See also:
 - Affected by [[NPC01465_Ewan_Goldleaf_the_Redeemed]]
 - Compare with [[step_030 (phase_005)]]
 - Connects to [[step_086 (phase_085)]]
@@ -322,19 +315,19 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[[[Builder Coral Architect]] (D&D_References)]]
 - Related: [[Mayor Cornelius Tidecrest]]
 - Parallels [[step_056 (phase_086)]]
-- Related: [[step_031]]
+- Related:
 - Influences [[Pressure Palace]]
 - Related: [[Void Watchers 2]]
 - Requires [[Location City [[Temple of the Dawn]] Temple of the Dawn.svg]]
 - Requires [[Summon Construct Xphb]]
 - Related: [[ENC00217_Combat_Encounter_218]]
-- Requires [[step_095]]
+- Requires
 - Related: [[Crystal Caves of Luminar]]
 - See also: [[Assets Locations Location City [[Surface Expert Grainwise]] Surface Expert Grainwise.svg]]
 - Parallels [[NPC00579_Zephyr_Hawthorne_the_Broken]]
 - Compare with [[[[Port Meridian]] - Market Square 2]]
 - Parallels [[The Void Conspiracy 2]]
-- Connects to [[step_045]]
+- Connects to
 - See also: [[ENC00444_Combat_Encounter_445]]
 - Related: [[Unified Mechanics Guide (D&D_References)]]
 - Connects to [[Location City [[Legal Profession]] Legal Profession.svg]]
@@ -363,7 +356,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Symbol Heraldry the Artisans Collective of Master Crafters the Artisans Collective of Master Crafters.svg]]
 - Affected by [[Memory [[Merchant]] Valeria (Lore)]]
 - See also: [[step_031 (phase_074)]]
-- Influences [[step_060]]
+- Influences
 - Leads to [[[[Pressure Technology]] (D&D_References)]]
 - Compare with [[enemies-abound-xge (spells)]]
 - Compare with [[The Great Recognition 2]]
@@ -384,13 +377,12 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[QUEST00027_Main_Quest_28]]
 - Influences [[[[Progress Through Power Faction]] 2]]
 - Influences [[Portrait NPC King Torrhen [[Lumengarde]] V2 King Torrhen Lumengarde.svg_1 (Portraits)]]
-- Connects to [[step_055]]
+- Connects to
 
 ## Visual References
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

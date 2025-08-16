@@ -18,7 +18,6 @@ aliases: [NPC00706 Ewan Voidwalker the Wise]
 - [[#Dara Lightbringer the Fallen (Family - Cousin)|Dara Lightbringer the Fallen (Family - Cousin)]]
 - [[#Pyria Emberfall the Mystic (Political - Patron)|Pyria Emberfall the Mystic (Political - Patron)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ewan Voidwalker the Wise", "ewan voidwalker the wise", "Ewan Voidwalker Wise", "Wise the Voidwalker Ewan"]
@@ -145,27 +144,23 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.193Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -173,11 +168,10 @@ Witnessed a crime
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -195,7 +189,7 @@ Witnessed a crime
 - See also: [[step_007 (phase_033)]]
 - Compare with [[Transportation Pods (D&D_References)]]
 - See also: [[step_009 (phase_014)]]
-- See also: [[step_063]]
+- See also:
 - Affected by [[Dark Gift of Savnok the Inscrutable Cos]]
 - Compare with [[step_001 (phase_051)]]
 - Originates from [[Doors Xdmg]]
@@ -212,11 +206,11 @@ Witnessed a crime
 - Related: [[The Ancient Nobility (D&D_References)]]
 - Requires [[The Broken Tower (D&D_References)]]
 - Related: [[Community-Based Restorative Justice 2]]
-- Leads to [[step_063]]
+- Leads to
 - Originates from [[Vehicle Ship Coral Frame Diver Tender V1 Coral Frame Diver Tender.svg]]
 - Originates from [[step_020 (phase_071)]]
 - Related: [[Power Word Heal Xphb]]
-- Influences [[step_045]]
+- Influences
 - Connects to [[location-city-depth-warden-depth-warden.svg]]
 - Affected by [[High-Speed Transportation 2]]
 - Leads to [[elder-brain-vgm (legendary-group)]]
@@ -254,12 +248,12 @@ Witnessed a crime
 - See also: [[Quest - Hostage Rescue 2]]
 - Connects to [[scroll-of-protection-aberrations-xdmg (items)]]
 - Related: [[svirfneblin-magic-mtf (feats)]]
-- Compare with [[step_031]]
+- Compare with
 - Compare with [[The Nameless Librarians]]
 - Affected by [[step_054 (phase_044)]]
 - Requires [[04_Resources_Handouts_Ships_Player_Handout_Aquabyssos_Submarines]]
 - Related: [[Portrait NPC the Crimson Pearl V2 the Crimson Pearl.svg]]
-- Compare with [[step_010]]
+- Compare with
 - Related: [[Crystal-Powered Vessels]]
 - See also: [[QUEST00197_Personal_Quest_198]]
 - Compare with [[step_035 (phase_054)]]
@@ -273,20 +267,19 @@ Witnessed a crime
 - Related: [[Assets Locations Location City Scholar Thomas Precedent Scholar Thomas Precedent.svg]]
 - Compare with [[Tiefling Mammon Mtf]]
 - Related: [[Express Racers]]
-- Compare with [[step_039]]
+- Compare with
 - See also: [[Quest - The Final Tide_1 (01_Adventures)]]
-- Influences [[step_025]]
-- Connects to [[step_034]]
+- Influences
+- Connects to
 - Parallels [[Ancient Echo Truthfinder]]
 - Influences [[step_005 (phase_089)]]
 - Parallels [[NPC0123_Dara_Darkwater]]
-- Compare with [[step_009]]
+- Compare with
 
 ## Visual References
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [08-chapter-7-spells (players-handbook-2024)]
 - [[#See Also|See Also]]
 - [[#Related Content|Related Content]]
 
-
 ---
 
 title: 08-chapter-7-spells (players-handbook-2024)
@@ -62,11 +61,9 @@ world: Both
 - How to counter
 - Difficulty class ## References - [[Master_Spell_Compendium]]
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Ancient magic still lingers here
@@ -94,8 +91,7 @@ world: Both
 - [ ] Prepare quick reference
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -105,7 +101,6 @@ world: Both
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Movement**: See ACX p.190-192
-
 
 ## Thematic Connections
 - Magical theory from [[Schools of Magic]]
@@ -148,7 +143,7 @@ world: Both
 - Affected by [[Control Flames Xge]]
 - Connects to [[armored-saber-toothed-tiger-cos (beast)]]
 - Connects to [[step_054 (phase_029)]]
-- Affected by [[step_007]]
+- Affected by
 - Requires [[step_026 (phase_060)]]
 - Parallels [[location-city-harbor-wall-v1-harbor-wall.svg]]
 - Influences [[Parliament Naval Headquarters]]
@@ -192,7 +187,7 @@ world: Both
 - Originates from [[Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
 - Connects to [[Portrait NPC Captain Steelhart V2 Captain Steelhart.svg]]
 - Requires [[NPC Name 1]]
-- Connects to [[step_093]]
+- Connects to
 - Related: [[Maddening Darkness Xge]]
 - Affected by [[Portrait NPC High King Aurelius Skyborn V1 High King Aurelius Skyborn.svg]]
 - Originates from [[Manta Ray 2]]
@@ -213,7 +208,7 @@ world: Both
 - Related: [[step_041 (phase_041)]]
 - See also: [[step_046 (phase_028)]]
 - Parallels [[Assets Item Artifact Ioun Stone Greater Absorption Xdmg Ioun Stone Greater Absorption Xdmg.png]]
-- Parallels [[step_048]]
+- Parallels
 - Parallels [[location-city-deep-pearls-deep-pearls.svg]]
 - Requires [[Symbol Heraldry the Repository Barge V1 the Repository Barge.svg]]
 - Affected by [[list-optfeaturetype-ed (lists)]]

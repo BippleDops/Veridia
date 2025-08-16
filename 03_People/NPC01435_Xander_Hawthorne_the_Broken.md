@@ -18,7 +18,6 @@ aliases: [NPC01435 Xander Hawthorne the Broken]
 - [[#Elric Crystalbrook the Guardian (Political - Spy)|Elric Crystalbrook the Guardian (Political - Spy)]]
 - [[#Felicia Ravenheart the Seeker (Political - Opposition)|Felicia Ravenheart the Seeker (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Hawthorne the Broken", "xander hawthorne the broken", "Xander Hawthorne Broken", "Broken the Hawthorne Xander"]
@@ -151,27 +150,23 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.272Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -180,11 +175,10 @@ Needs help with personal quest
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -197,7 +191,7 @@ Needs help with personal quest
 - Connects to [[step_004 (phase_072)]]
 - Compare with [[Seven Shards Campaign Campaign Overview]]
 - Parallels [[Portrait NPC Archdruid Thornweaver Archdruid Thornweaver.svg_1 (Portraits)]]
-- Influences [[step_021]]
+- Influences
 - See also: [[Portrait NPC Sunken Kingdom of Nereon V2 Sunken Kingdom of Nereon.svg]]
 - Connects to [[International Exchange Program 2]]
 - Related: [[step_025 (phase_096)]]
@@ -206,7 +200,7 @@ Needs help with personal quest
 - Leads to [[The Fortress of the Deeps]]
 - Connects to [[ITEM01066_Greater_Incense_of_Swiftness]]
 - Requires [[Assets Portraits Portrait NPC Oracle Nerida the Tidereader Oracle Nerida the Tidereader.svg]]
-- Influences [[step_073]]
+- Influences
 - Affected by [[Creature Creature Young Green Dragon Xmm V1 Young Green Dragon Xmm.png]]
 - Related: [[Location City Keeper Elara Mindwell Keeper Elara Mindwell.svg]]
 - Connects to [[QUEST00438_Side_Quest_439]]
@@ -220,7 +214,7 @@ Needs help with personal quest
 - Related: [[step_042 (phase_061)]]
 - Leads to [[step_057 (phase_019)]]
 - Connects to [[LOC00268_Cities_Location_269]]
-- Compare with [[step_086]]
+- Compare with
 - Leads to [[step_070 (phase_046)]]
 - Leads to [[step_044 (phase_058)]]
 - Affected by [[LOC00069_Wilderness_Location_70]]
@@ -232,7 +226,7 @@ Needs help with personal quest
 - Influences [[Portrait NPC Memory Merchant Valeria Siltweave Memory Merchant Valeria Siltweave.svg]]
 - Connects to [[SPELL00140_Nature_Spell_141]]
 - Compare with [[location-city-depth-raiders-v1-depth-raiders.svg]]
-- Affected by [[step_088]]
+- Affected by
 - Parallels [[Cave Badger Oota]]
 - Connects to [[NPC00489_Zephyr_Emberfall_the_Broken]]
 - Related: [[location-city-tide-risktaker-tide-risktaker.svg]]
@@ -277,7 +271,7 @@ Needs help with personal quest
 - Parallels [[Cosmic Truth]]
 - Requires [[component-pouch-xphb (items)]]
 - Originates from [[Gods of Greyhawk Xdmg]]
-- Leads to [[step_081]]
+- Leads to
 - Affected by [[Assets Locations Location City Reality Stabilization Centers V1 Reality Stabilization Centers.svg]]
 - Related: [[MOC_Locations]]
 - Compare with [[SPELL00120_Divine_Spell_121]]
@@ -293,7 +287,6 @@ Needs help with personal quest
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00955 Malakai Hawthorne the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00955 Malakai Hawthorne the Cunning]
 - [[#Hestara Thornweave the Cunning (Professional - Mentor)|Hestara Thornweave the Cunning (Professional - Mentor)]]
 - [[#Gavril Keenblade the Seeker (Political - Patron)|Gavril Keenblade the Seeker (Political - Patron)]]
 - [[#Baelor Darkwater the Mystic (Political - Opposition)|Baelor Darkwater the Mystic (Political - Opposition)]]
-
 
 ---
 aliases: ["Malakai Hawthorne the Cunning", "malakai hawthorne the cunning", "Malakai Hawthorne Cunning", "Cunning the Hawthorne Malakai"]
@@ -145,21 +143,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.222Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -174,7 +168,7 @@ Competitor sabotaging business
 - Parallels [[ENC00176_Environmental_Encounter_177]]
 - Originates from [[frog-xmm (beast)]]
 - Influences [[ENC00044_Social_Encounter_45]]
-- Requires [[step_095]]
+- Requires
 - Requires [[carrion-crawler-xmm (monstrosity)]]
 - Influences [[Padded Armor Xphb]]
 - Leads to [[ITEM00568_Enchanted_Shield_of_Protection]]
@@ -222,8 +216,8 @@ Competitor sabotaging business
 - Leads to [[step_071 (phase_069)]]
 - Related: [[location-city-reef-shark-v1-reef-shark.svg]]
 - See also: [[Captain Torrent Swiftcurrent]]
-- Originates from [[step_072]]
-- Originates from [[step_033]]
+- Originates from
+- Originates from
 - Influences [[NPC3 (People)]]
 - Originates from [[Helm of Brilliance Xdmg]]
 - Compare with [[Vicious Weapon Xdmg]]
@@ -237,11 +231,11 @@ Competitor sabotaging business
 - Affected by [[NPC01560_Caelum_Youngblood_the_Mystic]]
 - Connects to [[Marina Deepcurrent]]
 - Influences [[ITEM0033_Blessed_Tome_of_Power]]
-- Parallels [[step_021]]
+- Parallels
 - Compare with [[Senior Tidal Engineer Marina Flowmaster 2]]
 - Parallels [[04_Resources_Assets_Locations_location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg]]
 - Parallels [[ENC00089_Environmental_Encounter_90]]
-- Related: [[step_008]]
+- Related:
 - Connects to [[step_095 (phase_039)]]
 - Compare with [[step_042 (phase_018)]]
 - Related: [[step_027 (phase_057)]]

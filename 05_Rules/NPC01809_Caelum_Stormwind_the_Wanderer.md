@@ -18,7 +18,6 @@ aliases: [NPC01809 Caelum Stormwind the Wanderer]
 - [[#Baelor Emberfall the Cunning (Criminal - Fence)|Baelor Emberfall the Cunning (Criminal - Fence)]]
 - [[#Urien Youngblood the Bold (Political - Patron)|Urien Youngblood the Bold (Political - Patron)]]
 
-
 ---
 aliases: ["Caelum Stormwind the Wanderer", "caelum stormwind the wanderer", "Caelum Stormwind Wanderer", "Wanderer the Stormwind Caelum"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.312Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -196,7 +191,7 @@ Is secretly testing the party
 - Affected by [[trophy-room (bastions)]]
 - Related: [[Assets Portraits Portrait NPC High Priestess Celeste Dawnbringer High Priestess Celeste Dawnbringer.svg]]
 - Requires [[step_018 (phase_047)]]
-- Leads to [[step_022]]
+- Leads to
 - Compare with [[Portrait NPC the Ancient Nobility V2 the Ancient Nobility.svg_1 (Portraits)]]
 - Connects to [[step_042 (phase_099)]]
 - See also: [[step_005 (phase_066)]]
@@ -224,7 +219,7 @@ Is secretly testing the party
 - Connects to [[creature-creature-bat-xmm-v4-bat-xmm.png]]
 - Parallels [[D-201_Abyss_Mirror_Lake_Player]]
 - Originates from [[Portrait NPC High Priestess Marina Oracleguard V1 High Priestess Marina Oracleguard.svg_1 (Portraits)]]
-- Leads to [[step_017]]
+- Leads to
 - Originates from [[step_076 (phase_087)]]
 - Originates from [[portrait-npc-the-emperor-v1-the-emperor.svg_1 (Portraits)]]
 - Requires [[NPC00447_Fiora_Nightfall_the_Broken]]
@@ -246,23 +241,23 @@ Is secretly testing the party
 - Connects to [[step_043 (phase_099)]]
 - Requires [[Community-Based Restorative Justice 2]]
 - Compare with [[sword-wraith-warrior-mpmm (undead)]]
-- Connects to [[step_063]]
+- Connects to
 - Compare with [[Portrait NPC Ethics Coordinator Elena Compassion V2 Ethics Coordinator Elena Compassion.svg_1 (Portraits)]]
 - Related: [[Blue Spinel Xdmg]]
-- Influences [[step_082]]
+- Influences
 - Influences [[Mediator's Pendant]]
 - See also: [[NPC01508_Baelor_Dawnstrider_the_Mystic]]
 - Connects to [[Fraz Urbluu Mtf]]
 - See also: [[step_089 (phase_034)]]
 - Parallels [[portrait-npc-the-biomancers-v2-the-biomancers.svg_1 (Portraits)]]
 - Leads to [[NPC00039_Drusilla_Lightbringer_the_Scholar]]
-- Connects to [[step_021]]
+- Connects to
 - Compare with [[04_Resources_Assets_Locations_location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
 - Affected by [[step_067 (phase_013)]]
 - See also: [[Lighthouse Peak]]
 - Influences [[Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg]]
 - Leads to [[Crystal-Powered Vessels 2]]
-- Parallels [[step_079]]
+- Parallels
 - Requires [[Assets Locations Location City Temple Guardian Marcus the Drowned Temple Guardian Marcus the Drowned.svg]]
 - Compare with [[Portrait NPC the Silhouette Surgeon Prime V1 the Silhouette Surgeon Prime.svg_1 (Portraits)]]
 - Requires [[The Memory Wellspring]]
@@ -273,7 +268,6 @@ Is secretly testing the party
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Realm Connections
 
@@ -286,9 +280,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

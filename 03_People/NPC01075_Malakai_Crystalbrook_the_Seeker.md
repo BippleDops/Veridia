@@ -18,7 +18,6 @@ aliases: [NPC01075 Malakai Crystalbrook the Seeker]
 - [[#Dara Voidwalker the Lost (Personal - Nemesis)|Dara Voidwalker the Lost (Personal - Nemesis)]]
 - [[#Delara Quicksilver the Wanderer (Criminal - Target)|Delara Quicksilver the Wanderer (Criminal - Target)]]
 
-
 ---
 aliases: ["Malakai Crystalbrook the Seeker", "malakai crystalbrook the seeker", "Malakai Crystalbrook Seeker", "Seeker the Crystalbrook Malakai"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.234Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -173,12 +168,12 @@ Caravan needs guards
 - Originates from [[Meenlock Mpmm]]
 - Originates from [[ITEM00692_Warded_Helm_of_Fortitude]]
 - Compare with [[M-L-01_The_Great_Convergence]]
-- See also: [[step_087]]
+- See also:
 - Related: [[Pit Fighting Complications Xge]]
 - Leads to [[Depth Accords]]
 - Connects to [[NPC00305_Urien_Nightfall_the_Strong]]
 - Influences [[zone-of-truth-xphb (spells)]]
-- Influences [[step_025]]
+- Influences
 - Influences [[Portrait NPC Scholar Vivienne the Chronicler V2 Scholar Vivienne the Chronicler.svg]]
 - Leads to [[Gate Towns of the Outlands Xdmg]]
 - Connects to [[Cultural Guide]]
@@ -205,7 +200,7 @@ Caravan needs guards
 - Originates from [[The Dead Zones]]
 - Influences [[step_068 (phase_081)]]
 - Connects to [[NPC00454_Alaric_Emberfall_the_Fallen]]
-- Compare with [[step_100]]
+- Compare with
 - Compare with [[The Forgetting Cult (Cults_and_Movements)]]
 - Affected by [[Shield Xphb]]
 - Requires [[step_028 (phase_024)]]
@@ -229,8 +224,8 @@ Caravan needs guards
 - Parallels [[guard-drake-green-mpmm (dragon)]]
 - See also: [[Symbol Heraldry Inventor Chief Adaptatio V1 Inventor Chief Adaptatio.svg]]
 - Connects to [[Maître d' Pelagia Smoothcurrent]]
-- Connects to [[step_069]]
-- Compare with [[step_064]]
+- Connects to
+- Compare with
 - Leads to [[Crystal Sanctum]]
 - Requires [[ITEM00941_Pure_Crystal_of_Healing]]
 - Requires [[speak-with-plants-xphb (spells)]]
@@ -268,7 +263,6 @@ Caravan needs guards
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

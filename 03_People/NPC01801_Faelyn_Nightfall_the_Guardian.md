@@ -18,7 +18,6 @@ aliases: [NPC01801 Faelyn Nightfall the Guardian]
 - [[#Nerys Quicksilver the Cunning (Criminal - Informant)|Nerys Quicksilver the Cunning (Criminal - Informant)]]
 - [[#Faelyn Hawthorne the Bold (Professional - Employer)|Faelyn Hawthorne the Bold (Professional - Employer)]]
 
-
 ---
 aliases: ["Faelyn Nightfall the Guardian", "faelyn nightfall the guardian", "Faelyn Nightfall Guardian", "Guardian the Nightfall Faelyn"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.311Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -212,12 +207,12 @@ Offers deal too good to refuse
 - Requires [[gate-xphb (spells)]]
 - Related: [[boon-of-the-fire-soul (rewards)]]
 - Originates from [[04_Resources_Assets_Locations_location-city-marina-dreamwhisper-v1-marina-dreamwhisper.svg]]
-- Connects to [[step_081]]
+- Connects to
 - Originates from [[SPELL00095_Arcane_Spell_96]]
 - See also: [[Reference Homebrew Where to Get Mechanics]]
-- Requires [[step_081]]
+- Requires
 - Influences [[Pressure Adaptation System]]
-- Compare with [[step_084]]
+- Compare with
 - Influences [[Emergency Council Chambers]]
 - Related: [[Memory Coral Reefs (D&D_References)]]
 - Requires [[ITEM01298_Superior_Potion_of_Clarity]]
@@ -247,7 +242,7 @@ Offers deal too good to refuse
 - Requires [[Creature Creature Thorny Vegepygmy Mpmm Thorny Vegepygmy Mpmm.png]]
 - Originates from [[Jungle of Screams]]
 - Requires [[Pressure_Adaptation_Emergency_Procedures]]
-- Affected by [[step_068]]
+- Affected by
 - Requires [[ENC00193_Combat_Encounter_194]]
 - See also: [[LORE00158_Legends_Entry_159]]
 - See also: [[04_Resources_Assets_Portraits_portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg_Quick_Ref]]
@@ -258,7 +253,7 @@ Offers deal too good to refuse
 - Affected by [[LORE00224_Prophecies_Entry_225]]
 - See also: [[Memory Bank Central (D&D_References)]]
 - Connects to [[The Deep Expansion (D&D_References)]]
-- Related: [[step_065]]
+- Related:
 - Affected by [[SHOP00051_Magical_Shop_52]]
 - Requires [[step_079 (phase_090)]]
 - Compare with [[Assets Locations Location City Titan Foundationbearer V1 Titan Foundationbearer.svg]]
@@ -272,7 +267,6 @@ Offers deal too good to refuse
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

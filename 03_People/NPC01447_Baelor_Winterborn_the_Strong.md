@@ -18,7 +18,6 @@ aliases: [NPC01447 Baelor Winterborn the Strong]
 - [[#Baelor Dawnstrider the Swift (Family - Parent)|Baelor Dawnstrider the Swift (Family - Parent)]]
 - [[#Kaelen Lightbringer the Fallen (Political - Opposition)|Kaelen Lightbringer the Fallen (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Baelor Winterborn the Strong", "baelor winterborn the strong", "Baelor Winterborn Strong", "Strong the Winterborn Baelortags: [npc, character, combat, magic, exploration, lore]er]
@@ -152,16 +151,13 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.274Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -173,7 +169,6 @@ Modifications:
 - HP: 43
 - AC: 10
 - Notable abilities: Varies by individual
-
 
 > [!quote] 💬 Quote
 > Notable saying or prophecy
@@ -191,9 +186,7 @@ Modifications:
 - [[Character_Journals]]
 - [[NPC00296_Elric_Jadeclaw_the_Bold]]
 - [[Submersible_Schematic_Pressure_Gate_Scou]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -211,7 +204,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.1
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -220,11 +213,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -262,7 +254,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[LORE00111_History_Entry_112]]
 - Related: [[NPC01424_Urien_Winterborn_the_Broken]]
 - Originates from [[Echo Resident Sam]]
-- Parallels [[step_076]]
+- Parallels
 - Connects to [[step_014 (phase_061)]]
 - Affected by [[ENC00060_Social_Encounter_61]]
 - Parallels [[Assets Vehicles Vehicle Ship Aether Sail Testbed V2 Aether Sail Testbed.svg]]
@@ -271,7 +263,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[The Shadow Nexus]]
 - Parallels [[NPC0099_Tara_Goldleaf]]
 - Compare with [[Oracle Sister Luna Visionseeker]]
-- Parallels [[step_037]]
+- Parallels
 - See also: [[QUEST00110_Side_Quest_111]]
 - Influences [[ENC00007_Environmental_Encounter_8]]
 - Influences [[[[Tymora]] 2]]
@@ -301,7 +293,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_045 (phase_019)]]
 - Leads to [[step_049 (phase_088)]]
 - Influences [[Ambassador Neutral 2]]
-- Influences [[step_061]]
+- Influences
 - Connects to [[step_072 (phase_005)]]
 - Connects to [[Port facilities]]
 - Parallels [[step_041 (phase_100)]]
@@ -325,7 +317,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Gith Tables Githyanki Ideals Mtf]]
 - Influences [[Location City [[Diplomatic Deepcurrent]] Diplomatic Deepcurrent.svg]]
 - Related: [[The Bloodline Carrier (D&D_Statblocks)]]
-- Requires [[step_078]]
+- Requires
 - Affected by [[Crystal Singers (D&D_References)]]
 - Connects to [[LORE00100_Prophecies_Entry_101]]
 - Leads to [[defense-xphb (feats)]]
@@ -337,8 +329,8 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[DUN00129_Dungeon_130]]
 - Compare with [[Symbol Heraldry the Brotherhood of the Black Anchor the Brotherhood of the Black Anchor.svg]]
 - Influences [[step_011 (phase_094)]]
-- Related: [[step_018]]
-- Parallels [[step_007]]
+- Related:
+- Parallels
 - Originates from [[Chime of Opening Xdmg]]
 - Parallels [[The Prime Reflection]]
 - Related: [[The Unknown Original (D&D_References)]]
@@ -351,7 +343,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

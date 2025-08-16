@@ -18,7 +18,6 @@ aliases: [NPC01360 Ewan Blackstone the Strong]
 - [[#Urien Ashford the Scholar (Political - Opposition)|Urien Ashford the Scholar (Political - Opposition)]]
 - [[#Ysara Ravenheart the Broken (Political - Patron)|Ysara Ravenheart the Broken (Political - Patron)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ewan Blackstone the Strong", "ewan blackstone the strong", "Ewan Blackstone Strong", "Strong the Blackstone Ewantags: [npc, character, combat, magic, exploration, lore]er]
@@ -148,16 +147,13 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.265Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -169,7 +165,6 @@ Modifications:
 - HP: 16
 - AC: 16
 - Notable abilities: Varies by individual
-
 
 > [!warning] ⚠️ Warning
 > Important safety or rule information
@@ -208,9 +203,7 @@ Modifications:
 - [[NPC01040_Zephyr_Lightbringer_the_Strong]]
 - [[NPC01348_Xander_Zephyrblade_the_Wise]]
 - [[10 Combat]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -229,7 +222,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.101
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -238,11 +231,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -273,14 +265,14 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Duke Lysander Crystalvein (D&D_References)]]
 - Influences [[LORE00019_Legends_Entry_20]]
 - Leads to [[NPC01763_Kaelen_Ironforge_the_Bold]]
-- See also: [[step_062]]
+- See also:
 - See also: [[Elena Truelight]]
 - Related: [[NPC01806_Felicia_Moonshadow_the_Broken]]
 - Requires [[Deep Spies]]
 - Parallels [[Crysthaven]]
 - Influences [[bestial-spirit-water-xphb (beast)]]
 - Parallels [[gnome-tables-gnome-bonds-mtf (tables)]]
-- Parallels [[step_001]]
+- Parallels
 - Originates from [[step_035 (phase_023)]]
 - Compare with [[02_Worldbuilding_Hazards_Crystal_Plague]]
 - Originates from [[step_033 (phase_044)]]
@@ -299,7 +291,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[catoblepas-mpmm (monstrosity)]]
 - Related: [[Session Logbase]]
 - Leads to [[ITEM00596_Dragon_Scale_Leather_of_Fortitude]]
-- Originates from [[step_097]]
+- Originates from
 - Originates from [[Solution Seekers]]
 - Leads to [[Assets Locations [[Location City [[The Pressure Conspiracy]] V1 the Pressure Conspiracy.svg]]]]
 - Affected by [[step_073 (phase_022)]]
@@ -321,14 +313,14 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[ITEM00759_Celestial_Mirror_of_the_Gods]]
 - Connects to [[LOC00196_Planes_Location_197]]
 - Parallels [[crystal-ball-legendary-version (items)]]
-- Leads to [[step_066]]
+- Leads to
 - Connects to [[LOC0050_Havenridge]]
 - Related: [[Assets Locations Location City [[Coral Reef Sanctuaries]] V1 Coral Reef Sanctuaries.svg]]
 - Leads to [[rogue-xphb-arcane-trickster-xphb (classes)]]
 - See also: [[Combat_Lookup]]
 - Parallels [[step_080 (phase_053)]]
 - See also: [[X-103_Leviathan_Mirror_Chase]]
-- Influences [[step_042]]
+- Influences
 - Compare with [[Festival Calendar Complete]]
 - See also: [[step_004 (phase_060)]]
 - Parallels [[gem-of-brightness-xdmg (items)]]
@@ -369,7 +361,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

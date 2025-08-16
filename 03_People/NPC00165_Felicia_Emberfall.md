@@ -9,7 +9,6 @@ aliases: [NPC00165 Felicia Emberfall]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00165 Felicia Emberfall]
 - [[#Cedric Winterborn the Cunning (Personal - Nemesis)|Cedric Winterborn the Cunning (Personal - Nemesis)]]
 - [[#Urien Underhill (Personal - Love interest)|Urien Underhill (Personal - Love interest)]]
 - [[#Nerys Frostwhisper (Family - Parent)|Nerys Frostwhisper (Family - Parent)]]
-
 
 ---
 aliases: ["Felicia Emberfall", "felicia emberfall", "Emberfall Felicia"]
@@ -151,21 +149,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.130Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,7 +172,7 @@ Requires champions for trial by combat
 - Parallels [[Foreign Merchant]]
 - Originates from [[The Citadel of Azure Flame]]
 - Influences [[Location City the Whispering Depths V1 the Whispering Depths.svg]]
-- Originates from [[step_049]]
+- Originates from
 - Leads to [[Benthic Commune 2]]
 - Requires [[Old Sally Seasprayer (D&D_References)]]
 - Parallels [[Meridian Trading Company]]
@@ -205,7 +199,7 @@ Requires champions for trial by combat
 - Compare with [[Assets Locations Location City Economic Planning V1 Economic Planning.png]]
 - Related: [[Gray Ooze Xmm]]
 - Influences [[ITEM00863_Ancient_Ring_of_Dominion]]
-- Compare with [[step_029]]
+- Compare with
 - Originates from [[Hungry Sorrowsworn Mpmm]]
 - Leads to [[Assets Locations Location City Trade Unions Trade Unions.svg]]
 - Related: [[step_087 (phase_012)]]
@@ -218,7 +212,7 @@ Requires champions for trial by combat
 - Leads to [[Assets Portraits Portrait NPC Aria Lumengarde Aria Lumengarde.svg]]
 - Parallels [[Action Options]]
 - Affected by [[Research Director Aquarius Brightwater]]
-- Originates from [[step_014]]
+- Originates from
 - Compare with [[Weapons Trader Gareth Steelmerchant (D&D_References)]]
 - See also: [[choose-languages-rare-languages-xphb (tables)]]
 - Leads to [[step_064 (phase_092)]]
@@ -239,10 +233,10 @@ Requires champions for trial by combat
 - Connects to [[downtime-activity-crime-xge (variant-rules)]]
 - Originates from [[Skill_DCs]]
 - Compare with [[LORE00097_Legends_Entry_98]]
-- Affected by [[step_078]]
+- Affected by
 - Influences [[ITEM00027_Radiant_Axe_of_Power]]
 - Parallels [[step_059 (phase_071)]]
-- Originates from [[step_082]]
+- Originates from
 - Connects to [[step_005 (phase_071)]]
 - Affected by [[The Depth Market (D&D_References)]]
 - Parallels [[Celtic Arawn]]
@@ -257,7 +251,7 @@ Requires champions for trial by combat
 - Affected by [[step_009 (phase_005)]]
 - Leads to [[Trader Cross-Current Jin 2]]
 - Originates from [[Port Meridian - Harbor District]]
-- See also: [[step_098]]
+- See also:
 - Leads to [[QUEST00465_Side_Quest_466]]
 - Originates from [[step_034 (phase_012)]]
 - Compare with [[step_080 (phase_035)]]

@@ -18,7 +18,6 @@ aliases: [NPC01544 Caelum Blackstone the Swift]
 - [[#Malakai Silverleaf the Cunning (Political - Patron)|Malakai Silverleaf the Cunning (Political - Patron)]]
 - [[#Aldric Ravenheart the Lost (Political - Puppet)|Aldric Ravenheart the Lost (Political - Puppet)]]
 
-
 ---
 aliases: ["Caelum Blackstone the Swift", "caelum blackstone the swift", "Caelum Blackstone Swift", "Swift the Blackstone Caelum"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.284Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -173,7 +168,7 @@ Needs help with personal quest
 - Parallels [[step_012 (phase_083)]]
 - Influences [[Thessaly the Illuminated]]
 - Related: [[TECHNICAL_DOCUMENTATION]]
-- Leads to [[step_004]]
+- Leads to
 - Connects to [[Symbol Heraldry High Oracle Serenity Deepcall High Oracle Serenity Deepcall.svg]]
 - Leads to [[Assets Locations Location City Dockworkers Union V1 Dockworkers Union.svg]]
 - Affected by [[Diplomatic Event Scenarios (D&D_References)]]
@@ -184,7 +179,7 @@ Needs help with personal quest
 - Influences [[Assets Locations Location City Council of Faiths Council of Faiths.svg]]
 - Influences [[lizardfolk-geomancer-xmm (elemental)]]
 - Affected by [[step_034 (phase_089)]]
-- Affected by [[step_006]]
+- Affected by
 - Parallels [[The Final Submersion]]
 - Related: [[Bioluminescence (D&D_References)]]
 - Related: [[deck-of-many-things#Star]]
@@ -206,20 +201,20 @@ Needs help with personal quest
 - Requires [[LOC00234_Towns_Location_235]]
 - Parallels [[step_028 (phase_028)]]
 - Leads to [[Temporal Engineering Institute]]
-- Compare with [[step_048]]
+- Compare with
 - Parallels [[Assets Portraits Portrait NPC High Techno Priest Lumina Skyweaver High Techno Priest Lumina Skyweaver.svg]]
 - Originates from [[step_024 (phase_054)]]
-- Connects to [[step_049]]
+- Connects to
 - Compare with [[08 Chapter 7 Spells]]
 - Parallels [[Ioun Stone Intellect Xdmg]]
 - Compare with [[step_098 (phase_042)]]
 - Influences [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein Keeper of the Shattered Crown Marcus Crystalvein.svg]]
-- See also: [[step_052]]
+- See also:
 - Originates from [[DUN00129_Dungeon_130]]
 - Related: [[NPC_Generator_Quick_Ref]]
 - Requires [[Assets Locations Location City the Shrinking Sanctuary V1 the Shrinking Sanctuary.svg]]
 - Related: [[Pain-Artist Cruelty Refined (D&D_References)]]
-- Requires [[step_018]]
+- Requires
 - Leads to [[step_056 (phase_043)]]
 - See also: [[ITEM00800_Void-touched_Ring_of_Dominion]]
 - Parallels [[step_040 (phase_088)]]
@@ -228,7 +223,7 @@ Needs help with personal quest
 - Connects to [[ITEM00801_Void-touched_Chalice_of_Destiny]]
 - Affected by [[Assets Locations Location City the Last Words V1 the Last Words.svg]]
 - Originates from [[LOC0014_Hillshire]]
-- Related: [[step_083]]
+- Related:
 - Compare with [[ENC00135_Combat_Encounter_136]]
 - Parallels [[ENC00426_Combat_Encounter_427]]
 - See also: [[Assets Item Artifact Whelm Xdmg Whelm Xdmg.png]]
@@ -253,7 +248,7 @@ Needs help with personal quest
 - Originates from [[Greek Hermes]]
 - Compare with [[Item Artifact Weird Tank Pota V3 Weird Tank Pota.png]]
 - Requires [[Reality Distortion]]
-- Affected by [[step_053]]
+- Affected by
 - Related: [[step_024 (phase_075)]]
 - Affected by [[step_013 (phase_061)]]
 - Influences [[step_093 (phase_018)]]
@@ -268,7 +263,6 @@ Needs help with personal quest
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,13 +18,12 @@ aliases: [NPC0137 Rhea Darkwater the Elder]
 - [[#Relationships|Relationships]]
 - [[#Roleplaying|Roleplaying]]
 
-
 ---
 aliases: ["Rhea Darkwater the Elder", "rhea darkwater the elder", "Rhea Darkwater Elder", "Elder the Darkwater Rhea"]
 tags: [, generated]
-  - npc
-  - character
-  - generated
+ - npc
+ - character
+ - generated
 type: npc
 ---
 
@@ -186,7 +185,7 @@ Perception, Persuasion, Arcana
 - Originates from [[The Herald's Hall]]
 - Compare with [[Adult Copper Dragon Xmm]]
 - Influences [[ITEM00472_Adamantine_Cloak_of_Grace]]
-- Leads to [[step_027]]
+- Leads to
 - Connects to [[Mastiff Xphb]]
 - Leads to [[ITEM00906_Pure_Elixir_of_Vigor]]
 - Connects to [[Dwarves in the Clan Clan Vocations Mtf]]
@@ -212,7 +211,7 @@ Perception, Persuasion, Arcana
 - Affected by [[Location City Banker Cornelius Goldflow V1 Banker Cornelius Goldflow.svg]]
 - Affected by [[step_020 (phase_086)]]
 - See also: [[step_060 (phase_083)]]
-- Affected by [[step_094]]
+- Affected by
 - Influences [[QUEST00142_Main_Quest_143]]
 - Related: [[SPELL00127_Nature_Spell_128]]
 - Compare with [[Reality Anchor Points (D&D_References)]]
@@ -236,7 +235,7 @@ Perception, Persuasion, Arcana
 - Related: [[NPC01923_Aeliana_Darkwater_the_Cunning]]
 - Related: [[Smoldering Armor Xdmg]]
 - Compare with [[step_100 (phase_007)]]
-- Related: [[step_077]]
+- Related:
 - Connects to [[Duergar Raiding Parties Duergar Purpose of Raid Mtf]]
 - Parallels [[Location City Historical Research V1 Historical Research.svg]]
 - See also: [[List Spells Classes Trickery Domain Xphb]]

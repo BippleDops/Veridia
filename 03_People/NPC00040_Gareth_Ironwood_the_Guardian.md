@@ -18,7 +18,6 @@ aliases: [NPC00040 Gareth Ironwood the Guardian]
 - [[#Hestara Underhill (Political - Patron)|Hestara Underhill (Political - Patron)]]
 - [[#Zephyr Stormwind the Seeker (Political - Opposition)|Zephyr Stormwind the Seeker (Political - Opposition)]]
 
-
 ---
 aliases: ["Gareth Ironwood the Guardian", "gareth ironwood the guardian", "Gareth Ironwood Guardian", "Guardian the Ironwood Gareth"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.115Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,7 +176,7 @@ Requires champions for trial by combat
 - Leads to [[ITEM00818_Ancient_Scepter_of_Truth]]
 - Affected by [[LORE00244_Legends_Entry_245]]
 - Related: [[Witness Protection Network]]
-- Connects to [[step_012]]
+- Connects to
 - Affected by [[step_080 (phase_067)]]
 - Related: [[Medical Cover Operations Center]]
 - Affected by [[Quest - The Deepest Current_1 (01_Adventures)]]
@@ -201,7 +196,7 @@ Requires champions for trial by combat
 - Originates from [[New Thalassopolis 2]]
 - Originates from [[step_041 (phase_074)]]
 - Requires [[barbarian-xphb-path-of-the-storm-herald-xge (classes)]]
-- Connects to [[step_008]]
+- Connects to
 - Originates from [[blood-hawk-xmm (beast)]]
 - Requires [[Location City the Banker Fish V1 the Banker Fish.svg]]
 - Influences [[Assets Locations Location City Sommelier Bacchus Deepbottle Sommelier Bacchus Deepbottle.svg]]
@@ -215,31 +210,31 @@ Requires champions for trial by combat
 - Connects to [[Aether Crystals 2]]
 - Requires [[Futures Master Economic-Sense (D&D_References)]]
 - Originates from [[Portrait NPC Quest the Void Conspiracy V2 Quest the Void Conspiracy.png]]
-- Requires [[step_050]]
+- Requires
 - Related: [[NPC01099_Felicia_Proudmore_the_Seeker]]
 - See also: [[step_026 (phase_057)]]
 - Affected by [[NPC00116_Branwen_Silverleaf]]
 - Leads to [[menacing-attack-xphb (optional-features)]]
 - Leads to [[Depth Corruption System]]
 - Requires [[Portrait NPC Sir Marcus Dawnforge Sir Marcus Dawnforge.svg]]
-- Leads to [[step_039]]
+- Leads to
 - See also: [[Potion of Greater Healing Xdmg]]
 - Connects to [[observant-xphb (feats)]]
-- Compare with [[step_010]]
+- Compare with
 - Influences [[Portrait NPC Elder Whisper in the Dark V1 Elder Whisper in the Dark.svg_1 (Portraits)]]
 - Related: [[step_017 (phase_005)]]
-- Leads to [[step_092]]
+- Leads to
 - See also: [[Rutterkin Mpmm]]
 - Originates from [[Sage Moonwhisper]]
 - Parallels [[Law Enforcement (Lore)]]
 - Compare with [[Assets Locations Location City Trade War V1 Trade War.svg]]
 - Connects to [[02_Worldbuilding_Places_The_Sunken_Library_of_Thalassius.md]]
-- Originates from [[step_083]]
+- Originates from
 - See also: [[Dimensional Anchor Technology]]
 - See also: [[Roleplaying a Beholder Beholder Bonds Vgm]]
 - Affected by [[The Consciousness Mirror]]
 - Compare with [[Locations the Meditation Spheres]]
-- Parallels [[step_085]]
+- Parallels
 - Parallels [[step_069 (phase_097)]]
 - Compare with [[step_020 (phase_095)]]
 - Originates from [[Razorvine Xdmg]]
@@ -255,19 +250,18 @@ Requires champions for trial by combat
 - Connects to [[step_040 (phase_065)]]
 - Related: [[Pressure Specialist Dr. Marina Deepcurrent]]
 - Leads to [[Institute of Living Sciences (Lore)]]
-- Parallels [[step_070]]
+- Parallels
 - Related: [[step_080 (phase_079)]]
 - Compare with [[Witherbloom Trinket Scc]]
 - Parallels [[The Golden Trade Route]]
 - Leads to [[Creatures_Gallery]]
 - Originates from [[Cargo Master Holdspace]]
-- Parallels [[step_094]]
+- Parallels
 
 ## Visual References
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

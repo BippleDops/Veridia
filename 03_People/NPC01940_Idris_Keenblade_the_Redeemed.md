@@ -9,7 +9,6 @@ aliases: [NPC01940 Idris Keenblade the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01940 Idris Keenblade the Redeemed]
 - [[#Gareth Thornweave the Swift (Personal - Best friend)|Gareth Thornweave the Swift (Personal - Best friend)]]
 - [[#Brenna Ironwood the Guardian (Professional - Partner)|Brenna Ironwood the Guardian (Professional - Partner)]]
 - [[#Aeliana Ravenheart the Mystic (Family - Sibling)|Aeliana Ravenheart the Mystic (Family - Sibling)]]
-
 
 ---
 aliases: ["Idris Keenblade the Redeemed", "idris keenblade the redeemed", "Idris Keenblade Redeemed", "Redeemed the Keenblade Idris"]
@@ -158,26 +156,22 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.326Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Related: [[Shadow Attache Void]]
-- Parallels [[step_082]]
+- Parallels
 - Related: [[Coral Reef Republics (D&D_References)]]
 - Parallels [[silk-rope-50-feet (items)]]
 - Affected by [[step_015 (phase_068)]]
@@ -197,7 +191,7 @@ Is secretly testing the party
 - Influences [[Commerce Manager Fairdealin]]
 - Leads to [[step_049 (phase_043)]]
 - Leads to [[Orthon Mpmm]]
-- Leads to [[step_030]]
+- Leads to
 - Parallels [[Luminous Hollow]]
 - Influences [[Lady Chamberlain Court Manager]]
 - Related: [[step_076 (phase_072)]]
@@ -211,7 +205,7 @@ Is secretly testing the party
 - Parallels [[ball-bearings-xphb (items)]]
 - Affected by [[Assets Locations Location City Illyana Glowstream V1 Illyana Glowstream.svg]]
 - Requires [[Variant Spell Points Spell Point Cost]]
-- Related: [[step_022]]
+- Related:
 - Related: [[manacles-xphb (items)]]
 - Affected by [[NPC0154_Jasper_Darkwater]]
 - Originates from [[Maritime Research Institute]]
@@ -229,7 +223,7 @@ Is secretly testing the party
 - Connects to [[ENC00058_Social_Encounter_59]]
 - Affected by [[SPELL00106_Divine_Spell_107]]
 - Related: [[Weather_And_Season (D&D_References)]]
-- Connects to [[step_092]]
+- Connects to
 - Parallels [[step_052 (phase_084)]]
 - Requires [[Security Chief Wade Peacekeep 2]]
 - Influences [[step_096 (phase_016)]]
@@ -238,7 +232,7 @@ Is secretly testing the party
 - Related: [[Sunset Bay 2]]
 - Influences [[step_032 (phase_097)]]
 - Compare with [[Depth Merchant's Consortium (D&D_References)]]
-- Influences [[Quest   The Dying Forest]]
+- Influences [[Quest The Dying Forest]]
 - See also: [[ENC0086_Random_Encounter_87]]
 - Leads to [[NPC0114_Jasper_Goldleaf]]
 - Related: [[ITEM00803_Celestial_Ring_of_the_Gods]]
@@ -248,13 +242,13 @@ Is secretly testing the party
 - Affected by [[racial-feats-xge (tables)]]
 - Influences [[smart_link_fix_20250814_211716]]
 - Originates from [[bullywug-warrior-xmm (fey)]]
-- Compare with [[step_054]]
+- Compare with
 - Affected by [[Portrait NPC Quest the Prophecy Fulfilled Quest the Prophecy Fulfilled.svg]]
 - Requires [[MON00082_Constructs_Creature_83]]
 - Affected by [[Assets Locations Location City Dr Siphon Gillwater V1 Dr Siphon Gillwater.png]]
 - Originates from [[Seven Fleets System]]
 - Requires [[step_072 (phase_043)]]
-- Connects to [[step_060]]
+- Connects to
 - Leads to [[Respiratory Sciences Research Institute (D&D_References)]]
 - Influences [[Hover Xphb]]
 - See also: [[Location City the Singing Trenches the Singing Trenches.svg]]
@@ -263,7 +257,7 @@ Is secretly testing the party
 - Related: [[Animated Object Medium or Smaller Xphb]]
 - Leads to [[step_053 (phase_052)]]
 - Originates from [[step_032 (phase_035)]]
-- Related: [[step_046]]
+- Related:
 - Related: [[Assets Locations Location City Memorial Wall of Names V1 Memorial Wall of Names.png]]
 - Connects to [[Detect Evil and Good Xphb]]
 - Related: [[Location City the Lost Shipment the Lost Shipment.svg]]

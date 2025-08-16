@@ -18,7 +18,6 @@ aliases: [MOC Combat]
 - [[#Thematic Connections|Thematic Connections]]
 - [[#D&D 5e References|D&D 5e References]]
 
-
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -32,8 +31,6 @@ created: 2025-08-15
 
 ## Content
 *Building index...*
-
-
 
 ## Recent NPCs
 ```dataview
@@ -119,12 +116,10 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[MOC_Locations]]
 - [[MOC_Lore]]
 - [[MOC_Quests]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## Thematic Connections
 - Tactical combat using [[Combat Maneuvers]]
@@ -144,7 +139,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Influences [[handout-handout-docking-permit-docking-permit.png]]
 - Related: [[02_Worldbuilding_Places_Thalassopolis_Ruins]]
 - Compare with [[Research Director Past Future (D&D_References)]]
-- See also: [[step_011]]
+- See also:
 - Affected by [[NARRATIVE_DEEPENING_MASTER_PROMPT]]
 - See also: [[Keeper of Secrets Whisper Darkhold]]
 - Affected by [[Pressure's End]]
@@ -161,7 +156,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Connects to [[Artificer (D&D_References)]]
 - Compare with [[QUEST00171_Personal_Quest_172]]
 - Related: [[MON00087_Constructs_Creature_88]]
-- Affected by [[step_005]]
+- Affected by
 - Connects to [[LORE0040_History_of_the_First_King]]
 - Connects to [[Shadow Surgeons Collective]]
 - Affected by [[NPC00369_Alaric_Goldleaf_the_Wanderer]]

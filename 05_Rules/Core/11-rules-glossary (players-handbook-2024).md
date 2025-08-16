@@ -18,7 +18,6 @@ aliases: [11-rules-glossary (players-handbook-2024)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 11-rules-glossary (players-handbook-2024)
@@ -221,11 +220,9 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This character is not who they seem
@@ -256,9 +253,7 @@ world: Both
 Knows the location of a key artifact
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -276,7 +271,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.232
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -286,7 +281,6 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -310,7 +304,7 @@ Following magic item guidelines (WWT p.135-136):
 
 - Originates from [[location-city-harbor-patrol-harbor-patrol.svg]]
 - See also: [[SPELL00040_Arcane_Spell_41]]
-- Originates from [[step_030]]
+- Originates from
 - See also: [[Ocean's_Balance_Circle (02_Worldbuilding)]]
 - Related: [[Supernatural Mysteries (D&D_References)]]
 - Influences [[Patrol Boundaryrider (D&D_References)]]
@@ -330,12 +324,12 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[LORE00301_Legends_Entry_302]]
 - Related: [[Trader Cross-Current Jin 2]]
 - Originates from [[Memory Traders]]
-- Connects to [[step_004]]
+- Connects to
 - Compare with [[step_072 (phase_030)]]
 - Originates from [[Shadowhaven Merchant Marine]]
 - Related: [[The Sinking Atoll]]
 - Related: [[Portrait NPC Merchant Captain Tobias Stormwind Merchant Captain Tobias Stormwind.svg]]
-- Affected by [[step_083]]
+- Affected by
 - Related: [[greek-apollo (deities)]]
 - Leads to [[Portrait NPC High Priest Nereon V2 High Priest Nereon.svg]]
 - Requires [[ally-xphb (variant-rules)]]
@@ -354,7 +348,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[EVENT00094_Natural_Event_95]]
 - Originates from [[Archive Index]]
 - Originates from [[Assets Locations Location City Port Abyssos Port Abyssos.svg]]
-- Requires [[step_091]]
+- Requires
 - See also: [[ITEM00500_Dragon_Scale_Chain_Mail_of_Protection]]
 - Connects to [[step_002 (phase_037)]]
 - Connects to [[Portrait NPC Captain Redbeard V2 Captain Redbeard.svg]]
@@ -372,10 +366,10 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_046 (phase_024)]]
 - Compare with [[Giant Crab Xmm]]
 - Connects to [[11-appendix-c-tracking-sheets (dungeon-masters-guide-2024)]]
-- See also: [[step_074]]
+- See also:
 - Influences [[step_087 (phase_085)]]
 - Leads to [[Portrait NPC House Guard Captains V2 House Guard Captains.svg]]
-- Parallels [[step_047]]
+- Parallels
 - Affected by [[Bright Light Xphb]]
 - Related: [[Quick_Reference_and_Handouts]]
 - Originates from [[Institute of Applied Respiration]]
@@ -401,7 +395,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Forbidden Tomes of Deep Mother 2]]
 - Connects to [[Forgotten Realms Eldath]]
 - Parallels [[Campaign_Relationship_Matrix]]
-- Influences [[step_033]]
+- Influences
 - Affected by [[step_049 (phase_100)]]
 - Compare with [[Archive Kelpmere]]
 - Compare with [[Scene Scene Sky Whale Migration at Sunset V1 Sky Whale Migration at Sunset.svg]]

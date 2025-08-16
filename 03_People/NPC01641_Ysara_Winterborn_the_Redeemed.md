@@ -18,7 +18,6 @@ aliases: [NPC01641 Ysara Winterborn the Redeemed]
 - [[#Gavril Ashford the Broken (Political - Puppet)|Gavril Ashford the Broken (Political - Puppet)]]
 - [[#Hilda Ravenheart the Fallen (Family - Spouse)|Hilda Ravenheart the Fallen (Family - Spouse)]]
 
-
 ---
 aliases: ["Ysara Winterborn the Redeemed", "ysara winterborn the redeemed", "Ysara Winterborn Redeemed", "Redeemed the Winterborn Ysara"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.294Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,7 +176,7 @@ Provides information for a price
 - Related: [[LOC00153_Wilderness_Location_154]]
 - Related: [[Assets Locations Location City the Progressive Coalition Headquarters the Progressive Coalition Headquarters.svg]]
 - Influences [[step_082 (phase_069)]]
-- Originates from [[step_010]]
+- Originates from
 - Connects to [[Duke Aldric Blackwater (D&D_References)]]
 - Compare with [[Portrait NPC Golden Scale Transformation Golden Scale Transformation.svg_1 (Portraits)]]
 - Related: [[step_043 (phase_091)]]
@@ -189,7 +184,7 @@ Provides information for a price
 - Compare with [[half-orc-parents-xge (tables)]]
 - See also: [[LORE00194_Prophecies_Entry_195]]
 - Influences [[NPC00784_Urien_Frostwhisper_the_Mystic]]
-- Compare with [[step_061]]
+- Compare with
 - Compare with [[Portrait NPC Quest Crystal Innovation V2 Quest Crystal Innovation.svg]]
 - Connects to [[component-pouch-xphb (items)]]
 - Related: [[NPC01393_Erasmus_Winterborn_the_Broken]]
@@ -206,7 +201,7 @@ Provides information for a price
 - See also: [[NPC01257_Jorah_Youngblood_the_Wise]]
 - Compare with [[Adjudicating Areas of Effect Targets in Area of Effect Xdmg]]
 - Originates from [[Steel Wind Strike Xphb]]
-- See also: [[step_095]]
+- See also:
 - Originates from [[NPC01770_Solas_Dawnstrider_the_Swift]]
 - Compare with [[step_057 (phase_054)]]
 - Requires [[power-word-stun-xphb (spells)]]
@@ -219,7 +214,7 @@ Provides information for a price
 - Originates from [[ITEM00303_Frost_Axe_of_Accuracy]]
 - Leads to [[Human Names Arabic Male Xge]]
 - Affected by [[Quest - Reflection Reality]]
-- Related: [[classes]]
+- Related: [[05_Rules/Character Classes]]
 - See also: [[Location City Abyssos Prime 2 V1 Abyssos Prime 2.svg]]
 - Connects to [[step_073 (phase_093)]]
 - Influences [[Portrait NPC Order of the Shattered Crown Order of the Shattered Crown.svg]]
@@ -253,7 +248,7 @@ Provides information for a price
 - Requires [[Portrait NPC Quest the Betrayers Truth Quest the Betrayers Truth.svg]]
 - Originates from [[ENC00060_Environmental_Encounter_61]]
 - Compare with [[The Kelp Highway (D&D_References)]]
-- Affected by [[step_057]]
+- Affected by
 - Affected by [[Belt of Dwarvenkind Xdmg]]
 - Connects to [[Assets Locations Location City Abyssal Territories Abyssal Territories.svg]]
 - Parallels [[NPC01890_Branwen_Frostwhisper_the_Wanderer]]
@@ -268,7 +263,6 @@ Provides information for a price
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

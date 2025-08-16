@@ -18,7 +18,6 @@ aliases: [NPC00908 Brenna Ashford the Strong]
 - [[#Corvus Emberfall the Cunning (Professional - Mentor)|Corvus Emberfall the Cunning (Professional - Mentor)]]
 - [[#Erasmus Crystalbrook the Fallen (Personal - Love interest)|Erasmus Crystalbrook the Fallen (Personal - Love interest)]]
 
-
 ---
 aliases: ["Brenna Ashford the Strong", "brenna ashford the strong", "Brenna Ashford Strong", "Strong the Ashford Brenna"]
 tags: [npc, character]
@@ -140,21 +139,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.217Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -165,7 +160,7 @@ Has map to lost treasure
 - Connects to [[Parliament Of Echoes]]
 - See also: [[Merchant Viktor Geargrind (D&D_Statblocks)]]
 - Connects to [[step_027 (phase_068)]]
-- See also: [[step_062]]
+- See also:
 - Originates from [[Admiral Thalassa Stormcurrent 2]]
 - Connects to [[Dungeon Location Exotic Location]]
 - Compare with [[step_006 (phase_043)]]
@@ -174,7 +169,7 @@ Has map to lost treasure
 - Connects to [[Heart Crysta (D&D_References)]]
 - Originates from [[step_025 (phase_092)]]
 - See also: [[Archshadow Voice Shadowspeak]]
-- Connects to [[step_050]]
+- Connects to
 - Connects to [[Surgeon General Darkness]]
 - Compare with [[frost-giant-xmm (giant)]]
 - Affected by [[Location City Archkeeper Nereon Archkeeper Nereon.svg]]
@@ -196,12 +191,12 @@ Has map to lost treasure
 - Connects to [[step_012 (phase_064)]]
 - Parallels [[step_045 (phase_028)]]
 - See also: [[Combat_Reference]]
-- Related: [[step_056]]
+- Related:
 - Parallels [[step_023 (phase_070)]]
 - See also: [[Portrait NPC Quest Crystal Innovation V2 Quest Crystal Innovation.svg]]
 - Requires [[step_062 (phase_074)]]
 - Compare with [[archelon-xmm (beast)]]
-- Influences [[step_034]]
+- Influences
 - Requires [[Portrait NPC the Silhouette Surgeon Prime the Silhouette Surgeon Prime.svg_1 (Portraits)]]
 - Originates from [[NPC01063_Xander_Keenblade_the_Bold]]
 - Related: [[step_063 (phase_052)]]
@@ -210,7 +205,7 @@ Has map to lost treasure
 - Influences [[step_016 (phase_074)]]
 - Connects to [[Temporal Wind Patterns]]
 - Influences [[Paradox Legal Counsel]]
-- Related: [[step_068]]
+- Related:
 - Related: [[Egyptian Re Horakhty]]
 - Parallels [[Downtime Activity Recuperating Phb]]
 - Compare with [[step_010 (phase_033)]]
@@ -233,8 +228,8 @@ Has map to lost treasure
 - See also: [[ITEM00004_Venomous_Crossbow_of_Wounding]]
 - See also: [[Vehicle Ship Aethermoor Courier Class Airship V2 Aethermoor Courier Class Airship.png]]
 - See also: [[step_036 (phase_090)]]
-- Requires [[step_026]]
-- See also: [[step_073]]
+- Requires
+- See also:
 - Affected by [[MON00138_Constructs_Creature_139]]
 - Leads to [[The Seven Deep Truths 2]]
 - Connects to [[Location City Vault Keeper Aurelia Crownguard Vault Keeper Aurelia Crownguard.svg]]
@@ -255,7 +250,7 @@ Has map to lost treasure
 - Affected by [[Assets Locations Location City Kelp Silk V1 Kelp Silk.svg]]
 - Parallels [[ENC00179_Environmental_Encounter_180]]
 - Influences [[Void Between Pressures]]
-- Influences [[step_058]]
+- Influences
 - Affected by [[step_011 (phase_074)]]
 - Affected by [[tiger-eye-xdmg (items)]]
 
@@ -263,7 +258,6 @@ Has map to lost treasure
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

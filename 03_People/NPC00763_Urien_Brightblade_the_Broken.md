@@ -9,7 +9,6 @@ aliases: [NPC00763 Urien Brightblade the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00763 Urien Brightblade the Broken]
 - [[#Pyria Grimholt the Swift (Criminal - Handler)|Pyria Grimholt the Swift (Criminal - Handler)]]
 - [[#Qadim Jadeclaw the Cunning (Personal - Best friend)|Qadim Jadeclaw the Cunning (Personal - Best friend)]]
 - [[#Urien Proudmore the Scholar (Family - Cousin)|Urien Proudmore the Scholar (Family - Cousin)]]
-
 
 ---
 created: 2025-08-15
@@ -157,16 +155,13 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.199Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -228,11 +223,10 @@ Modifications:
 - [[11 Rules Glossary]]
 - [[The_Corroded_Crown.png]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -242,11 +236,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -266,19 +259,19 @@ Modifications:
 - Compare with [[deck-of-illusions-xdmg (decks)]]
 - Related: [[Map World Layer World Political Boundaries V1 World Political Boundaries.svg]]
 - Connects to [[The Temporal War Battlefields]]
-- Connects to [[step_086]]
+- Connects to
 - Related: [[ENC00093_Social_Encounter_94]]
 - Originates from [[Quantum Compromise Protocols 2]]
 - Connects to [[LOC00177_Dungeons_Location_178]]
 - Leads to [[Assets Art Identity Crisis Resolution.png]]
 - Parallels [[Skyfall Observatory]]
-- Influences [[step_085]]
+- Influences
 - Affected by [[DUN00103_Dungeon_104]]
 - Related: [[Captain Sky Horizon]]
 - Related: [[feinting-attack-xphb (optional-features)]]
 - Originates from [[step_074 (phase_050)]]
 - Affected by [[[[Port Quarter]] 2]]
-- Influences [[step_087]]
+- Influences
 - Related: [[step_084 (phase_016)]]
 - Influences [[step_047 (phase_072)]]
 - Affected by [[step_075 (phase_009)]]
@@ -303,13 +296,13 @@ Modifications:
 - Leads to [[QUEST00014_Main_Quest_15]]
 - Originates from [[Nolzurs Marvelous Pigments Xdmg]]
 - Compare with [[step_025 (phase_023)]]
-- See also: [[step_021]]
+- See also:
 - Affected by [[Roleplaying a Beholder Beholder Bonds Vgm]]
 - Originates from [[Location City [[Temporal Viewing Chambers]] Temporal Viewing Chambers.svg]]
 - Parallels [[step_001 (phase_090)]]
 - Influences [[NPC00566_Dara_Darkwater_the_Wanderer]]
 - Affected by [[step_037 (phase_052)]]
-- Leads to [[step_049]]
+- Leads to
 - Related: [[step_056 (phase_054)]]
 - Parallels [[ENC00222_Combat_Encounter_223]]
 - Leads to [[Nightmare Protection]]
@@ -341,11 +334,11 @@ Modifications:
 - Influences [[Beast Bond Xge]]
 - Related: [[Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg_1 (Portraits)]]
 - Compare with [[LORE00252_Prophecies_Entry_253]]
-- Requires [[step_018]]
+- Requires
 - Originates from [[[[Merchant]] Council of [[Port Meridian]]]]
 - Originates from [[step_098 (phase_018)]]
 - See also: [[NPC00170_Zephyr_Quicksilver_the_Wise]]
-- Connects to [[step_055]]
+- Connects to
 - Influences [[Inspector Helena Truthseeker]]
 - Influences [[LOC00142_Towns_Location_143]]
 - Requires [[04_Resources_Assets_Symbols_symbol-heraldry-divine-transformation-theolog-divine-transformation-theolog.svg]]

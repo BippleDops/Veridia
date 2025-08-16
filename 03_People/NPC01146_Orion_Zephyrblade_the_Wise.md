@@ -18,7 +18,6 @@ aliases: [NPC01146 Orion Zephyrblade the Wise]
 - [[#Thalia Ironwood the Swift (Professional - Rival)|Thalia Ironwood the Swift (Professional - Rival)]]
 - [[#Pyria Grimholt the Cunning (Political - Puppet)|Pyria Grimholt the Cunning (Political - Puppet)]]
 
-
 ---
 aliases: ["Orion Zephyrblade the Wise", "orion zephyrblade the wise", "Orion Zephyrblade Wise", "Wise the Zephyrblade Orion"]
 tags: [npc, character]
@@ -141,21 +140,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.242Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -163,9 +158,9 @@ Competitor sabotaging business
 - See also: [[step_097 (phase_062)]]
 - Related: [[Location City Master Chronologist Temporal Truthkeeper V1 Master Chronologist Temporal Truthkeeper.svg]]
 - Related: [[Location City Leviathan Shrines Leviathan Shrines.svg]]
-- Originates from [[step_062]]
+- Originates from
 - Leads to [[Temporal Sentinels (D&D_References)]]
-- Affected by [[step_012]]
+- Affected by
 - Requires [[step_027 (phase_074)]]
 - Affected by [[step_038 (phase_016)]]
 - Leads to [[portrait-npc-deep-anarchists-deep-anarchists.svg]]
@@ -175,12 +170,12 @@ Competitor sabotaging business
 - Related: [[ENC00018_Environmental_Encounter_19]]
 - Compare with [[LOC00197_Planes_Location_198]]
 - Compare with [[riding-saddle-xphb (items)]]
-- Parallels [[step_044]]
+- Parallels
 - Related: [[Assets Portraits Portrait NPC Quest the Deepest Current Quest the Deepest Current.svg]]
 - Leads to [[ENC00000_Social_Encounter_1]]
 - See also: [[Emergency Response Procedures]]
 - Originates from [[step_011 (phase_027)]]
-- Parallels [[step_057]]
+- Parallels
 - Affected by [[Deep Harbor (D&D_References)]]
 - Connects to [[basilisk-xmm (monstrosity)]]
 - See also: [[step_091 (phase_045)]]
@@ -195,7 +190,7 @@ Competitor sabotaging business
 - Requires [[Harbor District Customs House 2]]
 - Requires [[step_052 (phase_092)]]
 - Parallels [[step_068 (phase_004)]]
-- Originates from [[step_062]]
+- Originates from
 - See also: [[Arts Communities]]
 - See also: [[Banker Cornelius Goldflow 2]]
 - Parallels [[SPELL00059_Divine_Spell_60]]
@@ -208,14 +203,14 @@ Competitor sabotaging business
 - Originates from [[Occupied Space Xphb]]
 - Leads to [[The Seven Seals (D&D_Statblocks)]]
 - See also: [[sword-of-answering-answerer (items)]]
-- Connects to [[step_091]]
+- Connects to
 - Affected by [[Madame Nightwhisper (D&D_References)]]
 - Related: [[Mirror-Breaking Crystals]]
 - See also: [[NPC00016_Ewan_Quicksilver]]
-- Requires [[step_058]]
+- Requires
 - Affected by [[Temporal Anomaly Resolution (Lore)]]
 - Leads to [[Goldhorn the Magnificen]]
-- Compare with [[step_039]]
+- Compare with
 - Leads to [[The Reunification Faction]]
 - Leads to [[Palace Courtyard - Crystal Garden]]
 - Originates from [[arms-of-hadar-xphb (spells)]]
@@ -237,7 +232,7 @@ Competitor sabotaging business
 - Originates from [[Queen Seraphina]]
 - Originates from [[LOC00107_Planes_Location_108]]
 - Requires [[DUN00193_Dungeon_194]]
-- Leads to [[step_053]]
+- Leads to
 - Related: [[step_047 (phase_039)]]
 - Compare with [[FAC00031_Orders_32]]
 - Connects to [[Portrait NPC the Emerald Sage Willowbark V1 the Emerald Sage Willowbark.svg]]
@@ -254,17 +249,16 @@ Competitor sabotaging business
 - Compare with [[conditions#Blinded]]
 - Affected by [[step_053 (phase_083)]]
 - Connects to [[Admiral Cordelia Tidewright 2]]
-- Affected by [[step_017]]
+- Affected by
 - Parallels [[NPC01212_Dara_Quicksilver_the_Guardian]]
 - Originates from [[Dimensional Researchers]]
 - Originates from [[Evidence Item Descriptions]]
-- See also: [[step_041]]
+- See also:
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

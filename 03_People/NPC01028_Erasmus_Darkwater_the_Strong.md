@@ -18,7 +18,6 @@ aliases: [NPC01028 Erasmus Darkwater the Strong]
 - [[#Cedric Ashford the Seeker (Political - Patron)|Cedric Ashford the Seeker (Political - Patron)]]
 - [[#Felicia Zephyrblade the Fallen (Criminal - Target)|Felicia Zephyrblade the Fallen (Criminal - Target)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Erasmus Darkwater the Strong", "erasmus darkwater the strong", "Erasmus Darkwater Strong", "Strong the Darkwater Erasmustags: [npc, character, combat, magic, social, lore]er]
@@ -144,16 +143,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.229Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -196,11 +192,10 @@ Seeks rare merchandise
 - [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
 - [[10 Appendix B Creature Stat Blocks]]
 - [[MASTER_NAVIGATION]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -209,11 +204,10 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -236,7 +230,7 @@ Seeks rare merchandise
 - Related: [[Portrait NPC the Seven Seals V1 the Seven Seals.svg]]
 - Connects to [[step_020 (phase_078)]]
 - Leads to [[Assets Locations Location City [[Crystal Storm Barriers]] Crystal Storm Barriers.svg]]
-- Compare with [[step_084]]
+- Compare with
 - See also: [[step_032 (phase_007)]]
 - Originates from [[Call Lightning Xphb]]
 - Influences [[The Abyssal [[Tavern]] (D&D_References)]]
@@ -255,26 +249,26 @@ Seeks rare merchandise
 - Influences [[LOC00280_Towns_Location_281]]
 - Affected by [[LOC00248_Dungeons_Location_249]]
 - Connects to [[heal-xphb (spells)]]
-- Connects to [[step_028]]
+- Connects to
 - Originates from [[step_040 (phase_012)]]
 - Compare with [[DUN00162_Dungeon_163]]
 - Originates from [[QUEST00143_Main_Quest_144]]
-- Parallels [[step_033]]
+- Parallels
 - Compare with [[Assets Locations [[Location City [[Seeds of the Past]] Seeds of the Past.svg]]]]
 - Affected by [[Memory Crystals 2]]
 - Parallels [[LORE00267_Prophecies_Entry_268]]
-- Connects to [[step_067]]
+- Connects to
 - Originates from [[Arcana Legendary Xdmg]]
 - Affected by [[shapechange-xphb (spells)]]
 - See also: [[NPC01090_Orion_Youngblood_the_Guardian]]
-- Leads to [[step_009]]
+- Leads to
 - Parallels [[[[Bubble District]] (D&D_References)]]
 - Requires [[Assets Locations Location City [[[[International Trade]] Routes]] V1 International Trade Routes.svg]]
 - Compare with [[LORE00171_History_Entry_172]]
 - Connects to [[step_042 (phase_089)]]
 - Compare with [[[[Progressive Tide Movement]] (D&D_References)]]
 - See also: [[NPC01956_Zephyr_Thornweave_the_Guardian]]
-- Influences [[step_083]]
+- Influences
 - Leads to [[Galley Xphb]]
 - Originates from [[Eastern Kingdom (D&D_References)]]
 - Compare with [[step_039 (phase_085)]]
@@ -303,13 +297,13 @@ Seeks rare merchandise
 - Connects to [[QUEST00392_Side_Quest_393]]
 - Connects to [[[[The Cleaner]] (D&D_References)]]
 - Originates from [[Assets Locations Location City [[Tide Welcomeheart]] Tide Welcomeheart.svg]]
-- Affected by [[step_084]]
+- Affected by
 - Leads to [[Coral Craftsman]]
 - Requires [[[[The Void Touched Depths]] 2]]
 - Requires [[preparing-spells-spell-preparation-by-class-xphb]]
-- Parallels [[step_006]]
-- Parallels [[step_018]]
-- Influences [[step_067]]
+- Parallels
+- Parallels
+- Influences
 - Influences [[LOC00264_Cities_Location_265]]
 - See also: [[Creating Npcs From Scratch NPC Features]]
 - Originates from [[Captain Steelhart (D&D_References)]]
@@ -322,7 +316,6 @@ Seeks rare merchandise
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

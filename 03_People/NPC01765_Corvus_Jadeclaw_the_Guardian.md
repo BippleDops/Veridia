@@ -18,7 +18,6 @@ aliases: [NPC01765 Corvus Jadeclaw the Guardian]
 - [[#Caelum Winterborn the Cunning (Professional - Employer)|Caelum Winterborn the Cunning (Professional - Employer)]]
 - [[#Felicia Keenblade the Wise (Personal - Best friend)|Felicia Keenblade the Wise (Personal - Best friend)]]
 
-
 ---
 aliases: ["Corvus Jadeclaw the Guardian", "corvus jadeclaw the guardian", "Corvus Jadeclaw Guardian", "Guardian the Jadeclaw Corvus"]
 tags: [npc, character]
@@ -144,26 +143,22 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.307Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Compare with [[step_100 (phase_084)]]
-- Connects to [[step_001]]
+- Connects to
 - Related: [[step_057 (phase_049)]]
 - Leads to [[Coral Vortextrader]]
 - Related: [[LOC00009_Towns_Location_10]]
@@ -173,7 +168,7 @@ Offers deal too good to refuse
 - Connects to [[cleric-xphb-life-domain-xphb 2 (classes)]]
 - Related: [[Assets Locations Location City Healing Temples Healing Temples.svg]]
 - Leads to [[step_046 (phase_020)]]
-- Affected by [[step_031]]
+- Affected by
 - Related: [[ring-of-shooting-stars-xdmg (items)]]
 - Affected by [[Dark Gift of Khirad the Star of Secrets Cos]]
 - Requires [[step_062 (phase_095)]]
@@ -197,7 +192,7 @@ Offers deal too good to refuse
 - Leads to [[The Inverse Palace]]
 - Requires [[Assets Locations Location City Marina Swiftfin V1 Marina Swiftfin.svg]]
 - Parallels [[step_089 (phase_038)]]
-- Related: [[step_032]]
+- Related:
 - Connects to [[gelatinous-cube-xmm (ooze)]]
 - Requires [[Player_Handout_Aethermoor_Airships]]
 - Leads to [[step_003 (phase_090)]]
@@ -223,7 +218,7 @@ Offers deal too good to refuse
 - Related: [[step_056 (phase_009)]]
 - Requires [[Luminous Sterling]]
 - Connects to [[Frigid Water Xdmg]]
-- Related: [[step_007]]
+- Related:
 - Affected by [[Traditional Spy Networks]]
 - Parallels [[Assets Locations Location City Abyssos Prime Docks Abyssos Prime Docks.svg]]
 - Parallels [[Ersatz Eye Xdmg]]
@@ -242,7 +237,7 @@ Offers deal too good to refuse
 - Affected by [[QUEST0025_The_Stolen_Artifact]]
 - Requires [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
 - Originates from [[Egyptian Re Horakhty]]
-- Leads to [[step_099]]
+- Leads to
 - Originates from [[Assets Locations Location City Harbor Master S Tower Harbor Master S Tower.png]]
 - Influences [[Doctor Silas Voidtouch]]
 - Originates from [[The Foreclosure Squad]]
@@ -267,7 +262,6 @@ Offers deal too good to refuse
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

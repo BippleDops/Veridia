@@ -18,7 +18,6 @@ aliases: [NPC01980 Zephyr Darkwater the Scholar]
 - [[#Branwen Jadeclaw the Swift (Personal - Childhood friend)|Branwen Jadeclaw the Swift (Personal - Childhood friend)]]
 - [[#Caelum Oakenshield the Mystic (Personal - Ex-lover)|Caelum Oakenshield the Mystic (Personal - Ex-lover)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Zephyr Darkwater the Scholar", "zephyr darkwater the scholar", "Zephyr Darkwater Scholar", "Scholar the Darkwater Zephyr"]
@@ -144,25 +143,20 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.330Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -181,7 +175,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.14
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -191,11 +185,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -211,7 +204,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Brother Marcus the Willing]]
 - See also: [[Assets Symbols Symbol Heraldry Navigation Geograph Navigation Geograph.svg]]
 - Related: [[step_030 (phase_067)]]
-- Compare with [[step_026]]
+- Compare with
 - Requires [[step_017 (phase_013)]]
 - Compare with [[scribing-spell-scrolls-spell-scroll-costs-xphb]]
 - Requires [[Session Notes Template_1 (09_Templates)]]
@@ -221,7 +214,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_044 (phase_077)]]
 - Related: [[SHOP00059_Magical_Shop_60]]
 - See also: [[Brother Matthias the Amber Bearer (D&D_Statblocks)]]
-- Originates from [[step_029]]
+- Originates from
 - Affected by [[LORE00102_Legends_Entry_103]]
 - Requires [[Assets Locations Location City the Transition Centers V1 the Transition Centers.svg]]
 - Connects to [[step_062 (phase_065)]]
@@ -236,7 +229,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Assets Locations Location City International Void Treaties International Void Treaties.svg]]
 - Compare with [[Assets Item Artifact Explorers Pack Xphb V3 Explorers Pack Xphb.png]]
 - Connects to [[Spymaster Crow]]
-- Connects to [[step_058]]
+- Connects to
 - Originates from [[halfling-tables-halfling-flaws-mtf (tables)]]
 - Related: [[Death Hunters Guild (Guilds)]]
 - Affected by [[Symbol Heraldry Financial Crime Investigatio V1 Financial Crime Investigatio.svg]]
@@ -245,7 +238,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Location City Cora Peaceweaver V1 Cora Peaceweaver.svg]]
 - Leads to [[Assets Locations Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
 - Affected by [[Merchant Prince Marcus Goldflow]]
-- Originates from [[step_003]]
+- Originates from
 - Connects to [[dwarven-hanseath-mtf (deities)]]
 - See also: [[Mirage Arcane Xphb]]
 - Influences [[Assets Locations Location City the Integration Temple V1 the Integration Temple.svg]]
@@ -253,7 +246,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Iron Rapids Fleetcurrent 2]]
 - Affected by [[LORE00169_History_Entry_170]]
 - Related: [[Assets Locations Location City Libraries Libraries.svg]]
-- Compare with [[step_069]]
+- Compare with
 - Parallels [[Quest - Parliamentary Corruptio]]
 - Parallels [[location-city-abyssos-prime-2-abyssos-prime-2.svg]]
 - Leads to [[Generate_Location]]
@@ -261,9 +254,9 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Independent Smugglers]]
 - Parallels [[SPELL00006_Nature_Spell_7]]
 - Related: [[NPC00822_Baelor_Lightbringer_the_Mystic]]
-- Leads to [[step_005]]
+- Leads to
 - Related: [[initiative-xphb (variant-rules)]]
-- Related: [[step_099]]
+- Related:
 - Originates from [[step_064 (phase_045)]]
 - See also: [[NPC01559_Kaelen_Moonshadow_the_Guardian]]
 - Compare with [[step_011 (phase_035)]]
@@ -273,12 +266,12 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[NPC00892_Brenna_Oakenshield_the_Mystic]]
 - Influences [[LOC00246_Planes_Location_247]]
 - Requires [[step_033 (phase_057)]]
-- Compare with [[step_024]]
+- Compare with
 - Parallels [[step_041 (phase_006)]]
 - Originates from [[Quest - Storm Lord's Challenge]]
 - Related: [[animated-object-huge-xphb (construct)]]
 - See also: [[ENC00004_Combat_Encounter_5]]
-- Related: [[step_064]]
+- Related:
 - Originates from [[step_079 (phase_080)]]
 - Originates from [[Noble Titles and Ranks (D&D_References)]]
 - See also: [[ITEM00288_Frost_Bow_of_the_Ancients]]
@@ -288,7 +281,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Location City the Whisper Island Mystery V1 the Whisper Island Mystery.png]]
 - Compare with [[ENC00155_Social_Encounter_156]]
 - Connects to [[step_007 (phase_013)]]
-- Connects to [[step_062]]
+- Connects to
 - Influences [[Assets Item Artifact Poisoners Kit Xphb V2 Poisoners Kit Xphb.png]]
 - Requires [[QUEST00374_Side_Quest_375]]
 - See also: [[ENC00025_Environmental_Encounter_26]]
@@ -304,7 +297,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

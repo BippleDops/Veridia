@@ -18,7 +18,6 @@ aliases: [NPC01012 Solas Darkwater the Strong]
 - [[#Elric Zephyrblade the Wanderer (Personal - Ex-lover)|Elric Zephyrblade the Wanderer (Personal - Ex-lover)]]
 - [[#Wynne Ashford the Fallen (Family - Parent)|Wynne Ashford the Fallen (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Solas Darkwater the Strong", "solas darkwater the strong", "Solas Darkwater Strong", "Strong the Darkwater Solastags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -150,16 +149,13 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.228Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -190,11 +186,10 @@ Modifications:
 - [[11 Rules Glossary]]
 - [[NPC01177_Thalia_Underhill_the_Fallen]]
 - [[NPC01290_Pyria_Ashford_the_Broken]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -203,11 +198,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -215,9 +209,9 @@ Modifications:
 - Requires [[QUEST00385_Side_Quest_386]]
 - Parallels [[[[Pressure Brewing Technology]] 2]]
 - Compare with [[NPC00902_Delara_Underhill_the_Seeker]]
-- Requires [[step_023]]
+- Requires
 - Influences [[step_009 (phase_038)]]
-- See also: [[step_092]]
+- See also:
 - Related: [[Living Democracy]]
 - Compare with [[list-spells-classes-grave-domain-xge (lists)]]
 - See also: [[step_038 (phase_056)]]
@@ -248,7 +242,7 @@ Modifications:
 - Related: [[Bartender Marina Dualborn]]
 - Influences [[ability-checks (tables)]]
 - Parallels [[Talking Doll Xdmg]]
-- See also: [[step_035]]
+- See also:
 - See also: [[Map Map [[Aethermoor]] Harbor Skirmish V1 Aethermoor Harbor Skirmish.png]]
 - Affected by [[Portrait NPC Ethics Coordinator Elena Compassion Ethics Coordinator Elena Compassion.svg_1 (Portraits)]]
 - Compare with [[Light Gardeners]]
@@ -268,17 +262,17 @@ Modifications:
 - Influences [[Symbol Heraldry the Scream Archives the Scream Archives.svg]]
 - Originates from [[list-optfeaturetype-mm#Metamagic]]
 - Related: [[Crown of Currents]]
-- Affected by [[step_036]]
+- Affected by
 - Connects to [[Cultural Centers]]
 - Connects to [[EVENT00084_Natural_Event_85]]
-- Connects to [[step_046]]
-- Compare with [[step_041]]
+- Connects to
+- Compare with
 - See also: [[location-city-the-tidecaller-the-tidecaller.svg]]
 - Related: [[Location City [[Pressure Point Settlement]] V1 Pressure Point Settlement.svg]]
 - Parallels [[step_030 (phase_071)]]
-- Influences [[step_047]]
+- Influences
 - Parallels [[MON00038_Constructs_Creature_39]]
-- See also: [[step_072]]
+- See also:
 - Requires [[[[Pressure Symbiont]] (D&D_References)]]
 - Requires [[QUEST00113_Side_Quest_114]]
 - Compare with [[ITEM00454_Warded_Cloak_of_the_Guardian]]
@@ -299,7 +293,7 @@ Modifications:
 - See also: [[location-city-plague-crisis-plague-crisis.png]]
 - Leads to [[Map Map Shadow Market Alley Shadow Market Alley.svg]]
 - Influences [[Unite or Divide (D&D_References)]]
-- Influences [[step_061]]
+- Influences
 - Influences [[Portrait NPC Golden Scale Transformation Golden Scale Transformation.svg]]
 - Originates from [[Random_Location_Generator (D&D_References)]]
 - Influences [[The Crystal Harmony Collective 2]]
@@ -316,7 +310,6 @@ Modifications:
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01524 Delara Ironforge the Wanderer]
 - [[#Delara Grimholt the Broken (Criminal - Target)|Delara Grimholt the Broken (Criminal - Target)]]
 - [[#Ysara Ironforge the Redeemed (Professional - Rival)|Ysara Ironforge the Redeemed (Professional - Rival)]]
 
-
 ---
 aliases: ["Delara Ironforge the Wanderer", "delara ironforge the wanderer", "Delara Ironforge Wanderer", "Wanderer the Ironforge Delara"]
 tags: [npc, character]
@@ -142,21 +141,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.282Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -167,7 +162,7 @@ Needs help with personal quest
 - See also: [[The Maritime Alliance (D&D_References)]]
 - Connects to [[Assets Locations Location City Keeper of Crowns Lydia Starfall Keeper of Crowns Lydia Starfall.svg]]
 - Connects to [[Master Cloud Shepherd Zephyr Stormcalle (D&D_References)]]
-- Requires [[step_071]]
+- Requires
 - Requires [[Corruption Broker Silver Currentfloat]]
 - Related: [[wight-xmm (undead)]]
 - Requires [[Belt of Frost Giant Strength Xdmg]]
@@ -185,7 +180,7 @@ Needs help with personal quest
 - Originates from [[norse-thor (deities)]]
 - Connects to [[LOC00061_Cities_Location_62]]
 - Compare with [[LOC00234_Planes_Location_235]]
-- See also: [[step_071]]
+- See also:
 - See also: [[The Deep Temple 2]]
 - Related: [[Bugbear Stalker Xmm]]
 - Influences [[The Grand Trade Routes (D&D_References)]]
@@ -196,14 +191,14 @@ Needs help with personal quest
 - Originates from [[Economic System Rules (02_Worldbuilding)]]
 - Requires [[Aquabyssos University]]
 - Affected by [[step_045 (phase_035)]]
-- Connects to [[step_022]]
+- Connects to
 - Related: [[step_082 (phase_035)]]
 - Requires [[step_001 (phase_009)]]
 - Parallels [[Location City Surface Trade Ports V1 Surface Trade Ports.svg]]
 - Parallels [[Assets Locations Location City Vault Keeper Aurelia Crownguard Vault Keeper Aurelia Crownguard.svg]]
 - Connects to [[SPELL00153_Nature_Spell_154]]
-- See also: [[step_016]]
-- Leads to [[step_037]]
+- See also:
+- Leads to
 - Originates from [[step_059 (phase_017)]]
 - Related: [[step_089 (phase_079)]]
 - Connects to [[Location City Keeper Deepcurrent Keeper Deepcurrent.svg]]
@@ -225,8 +220,8 @@ Needs help with personal quest
 - Leads to [[catapult-xge (spells)]]
 - Connects to [[Player Handbook]]
 - Affected by [[Location Name 2 (Places)]]
-- Leads to [[step_037]]
-- Requires [[step_088]]
+- Leads to
+- Requires
 - Parallels [[Quartermaster David Simpleton]]
 - Originates from [[Investigation Procedures 3 (D&D_References)]]
 - Compare with [[Deep Watchfulrest (D&D_References)]]
@@ -242,13 +237,13 @@ Needs help with personal quest
 - Compare with [[step_006 (phase_056)]]
 - Compare with [[02_Worldbuilding_People_Senator_Nereon_Tidecaller]]
 - Originates from [[LORE00035_Prophecies_Entry_36]]
-- Leads to [[step_001]]
+- Leads to
 - Parallels [[SHOP00032_General_Shop_33]]
-- See also: [[step_051]]
+- See also:
 - See also: [[Medical Cover Operations Center 2]]
 - See also: [[Captain Reef Shadowstrike]]
-- Parallels [[step_087]]
-- Influences [[step_097]]
+- Parallels
+- Influences
 - Influences [[ITEM00915_Greater_Powder_of_Swiftness]]
 - Affected by [[Portrait NPC Archon Meredith Saltweaver V1 Archon Meredith Saltweaver.svg]]
 - Related: [[forgotten-realms-leira (deities)]]
@@ -265,7 +260,6 @@ Needs help with personal quest
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

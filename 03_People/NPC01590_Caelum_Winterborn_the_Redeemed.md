@@ -18,7 +18,6 @@ aliases: [NPC01590 Caelum Winterborn the Redeemed]
 - [[#Baelor Emberfall the Bold (Criminal - Accomplice)|Baelor Emberfall the Bold (Criminal - Accomplice)]]
 - [[#Branwen Emberfall the Swift (Political - Spy)|Branwen Emberfall the Swift (Political - Spy)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Caelum Winterborn the Redeemed", "caelum winterborn the redeemed", "Caelum Winterborn Redeemed", "Redeemed the Winterborn Caelum"]
@@ -161,25 +160,20 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.289Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -197,7 +191,7 @@ Following magic item guidelines (WWT p.135-136):
 - Xanathar's Secrets Revealed to Everything (XSR) p.222
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -206,11 +200,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -223,14 +216,14 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Portrait NPC Queen Morwyn Lumengarde V1 Queen Morwyn Lumengarde.svg_1 (Portraits)]]
 - Compare with [[Noble Leisure Schedules]]
 - See also: [[Crisis Portal Procedures]]
-- Parallels [[step_094]]
+- Parallels
 - Parallels [[Brother Matthias the Amber Bearer]]
 - Connects to [[step_060 (phase_049)]]
 - Compare with [[Thalassa the Deepmother (D&D_References)]]
 - Requires [[QUEST00219_Side_Quest_220]]
 - Compare with [[ENC0098_Random_Encounter_99]]
 - Parallels [[Friendly Attitude Xphb]]
-- Leads to [[step_064]]
+- Leads to
 - Influences [[step_035 (phase_048)]]
 - Parallels [[NPC01066_Zephyr_Emberfall_the_Mystic]]
 - Leads to [[Ambassador Current 2]]
@@ -241,7 +234,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Traditional Elder Wisdom Keeper (D&D_References)]]
 - Originates from [[The Artisans' Collective]]
 - Parallels [[step_097 (phase_059)]]
-- Parallels [[step_073]]
+- Parallels
 - Requires [[step_018 (phase_072)]]
 - Originates from [[QUEST00096_Main_Quest_97]]
 - Parallels [[LORE00081_Prophecies_Entry_82]]
@@ -266,9 +259,9 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Sergeant Surveillance]]
 - Leads to [[arcane-gate-xphb (spells)]]
 - Influences [[ITEM01228_Lesser_Potion_of_Vigor]]
-- Influences [[step_096]]
+- Influences
 - See also: [[Assets Locations Location City Memory Meadows Black Market Memory Meadows Black Market.svg]]
-- Parallels [[step_055]]
+- Parallels
 - Parallels [[SPELL00138_Arcane_Spell_139]]
 - Originates from [[ITEM01391_Decorated_Tool_Kit_of_Durability]]
 - Affected by [[Lady Serena Goldwave]]
@@ -287,8 +280,8 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_058 (phase_072)]]
 - Influences [[Time's Mercy 2]]
 - Originates from [[jewelers-tools-xphb (items)]]
-- Connects to [[step_086]]
-- Originates from [[step_078]]
+- Connects to
+- Originates from
 - Related: [[Symbol Heraldry Craftmaster Engineer Gearwhispe Craftmaster Engineer Gearwhispe.svg]]
 - Parallels [[creature-creature-allip-mpmm-allip-mpmm.png]]
 - Connects to [[step_038 (phase_084)]]
@@ -299,9 +292,9 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[NPC00292_Jorah_Youngblood_the_Broken]]
 - Leads to [[Location City Veiled Hierophant V1 Veiled Hierophant.svg]]
 - Requires [[Marcus Tidecaller (D&D_References)]]
-- Connects to [[step_069]]
+- Connects to
 - Related: [[ITEM00479_Mithril_Plate_of_Resistance]]
-- Parallels [[step_074]]
+- Parallels
 - Requires [[Tarokka Deck Cos]]
 - Related: [[step_054 (phase_027)]]
 - See also: [[Wooden Staff Xphb]]
@@ -313,13 +306,12 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[step_084 (phase_051)]]
 - Related: [[step_074 (phase_093)]]
 - Affected by [[The Progressive Coalition]]
-- Related: [[step_086]]
+- Related:
 
 ## Visual References
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

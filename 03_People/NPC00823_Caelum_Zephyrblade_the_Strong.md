@@ -18,7 +18,6 @@ aliases: [NPC00823 Caelum Zephyrblade the Strong]
 - [[#Hilda Goldleaf the Swift (Political - Puppet)|Hilda Goldleaf the Swift (Political - Puppet)]]
 - [[#Felicia Underhill the Swift (Criminal - Informant)|Felicia Underhill the Swift (Criminal - Informant)]]
 
-
 ---
 aliases: ["Caelum Zephyrblade the Strong", "caelum zephyrblade the strong", "Caelum Zephyrblade Strong", "Strong the Zephyrblade Caelum"]
 tags: [npc, character]
@@ -155,21 +154,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.206Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,12 +176,12 @@ Competitor sabotaging business
 - Leads to [[Location City Historical Preservation Society Historical Preservation Society.svg]]
 - Parallels [[Portrait NPC the Resonance Prophet the Resonance Prophet.svg]]
 - Influences [[Wind Monks]]
-- Leads to [[step_018]]
+- Leads to
 - Compare with [[LOC00249_Planes_Location_250]]
 - See also: [[step_033 (phase_072)]]
 - Influences [[Defender Xdmg]]
 - Originates from [[Molydeus Mpmm]]
-- Compare with [[step_080]]
+- Compare with
 - Parallels [[Prestidigitation Xphb]]
 - Connects to [[Monster Hunters Pack Vrgr]]
 - Compare with [[Vanifer Pota]]
@@ -221,7 +216,7 @@ Competitor sabotaging business
 - Requires [[Lighthouse of Storms 2]]
 - See also: [[NPC01030_Erasmus_Nightfall_the_Strong]]
 - See also: [[LORE0023_Myth_of_the_Ancient_Pact]]
-- Leads to [[step_083]]
+- Leads to
 - Influences [[step_037 (phase_100)]]
 - Influences [[Portrait NPC the Golden Fishook Tavern V2 the Golden Fishook Tavern.svg]]
 - Parallels [[Assets Locations Location City Deep Mother Zealots Deep Mother Zealots.svg]]
@@ -240,12 +235,12 @@ Competitor sabotaging business
 - Connects to [[MON00084_Constructs_Creature_85]]
 - Related: [[Jeeves 2]]
 - Influences [[Location City Blood Current Express V1 Blood Current Express.svg]]
-- Compare with [[step_008]]
+- Compare with
 - Leads to [[QUEST00072_Main_Quest_73]]
 - Compare with [[LOC00228_Wilderness_Location_229]]
 - Influences [[step_095 (phase_032)]]
 - Leads to [[deities-of-dragonlance-neutral-phb (tables)]]
-- Compare with [[step_051]]
+- Compare with
 - Leads to [[ENC00079_Combat_Encounter_80]]
 - Requires [[Handout Handout Guild License Certificate V2 Guild License Certificate.png]]
 - Related: [[step_059 (phase_096)]]
@@ -255,13 +250,13 @@ Competitor sabotaging business
 - Related: [[graveyard-revet-xmm]]
 - See also: [[Mess Kit]]
 - Originates from [[step_047 (phase_077)]]
-- Originates from [[step_008]]
+- Originates from
 - Leads to [[grick-ancient-xmm (aberration)]]
 - Related: [[Necklace of Prayer Beads Xdmg]]
 - See also: [[SPELL00102_Nature_Spell_103]]
 - Originates from [[Wind_Rider_Orders]]
 - Originates from [[Redirection Syndrome]]
-- Requires [[step_073]]
+- Requires
 - Originates from [[step_005 (phase_031)]]
 - Requires [[Session 22 Heist Planning]]
 - Compare with [[step_014 (phase_082)]]
@@ -278,7 +273,6 @@ Competitor sabotaging business
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

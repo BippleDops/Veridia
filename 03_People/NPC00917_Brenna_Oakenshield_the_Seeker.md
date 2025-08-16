@@ -18,7 +18,6 @@ aliases: [NPC00917 Brenna Oakenshield the Seeker]
 - [[#Lyanna Proudmore the Mystic (Family - Child)|Lyanna Proudmore the Mystic (Family - Child)]]
 - [[#Urien Ironforge the Fallen (Personal - Best friend)|Urien Ironforge the Fallen (Personal - Best friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Brenna Oakenshield the Seeker", "brenna oakenshield the seeker", "Brenna Oakenshield Seeker", "Seeker the Oakenshield Brenna"]
@@ -148,16 +147,13 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.218Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -177,11 +173,10 @@ Competitor sabotaging business
 - [[Propaganda_Leaflet_Pearl_Guar]]
 - [[Quarantine_Notice_Crystal_Plagu]]
 - [[Player_Comfort_Check]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -190,16 +185,15 @@ Competitor sabotaging business
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Affected by [[tricksters-escape-xge (optional-features)]]
-- Originates from [[step_006]]
+- Originates from
 - See also: [[The Coral Estates]]
 - Connects to [[The Meridian Amnesia Zone]]
 - Requires [[Identity_Crisis_Resolution.png]]
@@ -211,7 +205,7 @@ Competitor sabotaging business
 - Connects to [[Red Abishai Mpmm]]
 - Affected by [[step_035 (phase_006)]]
 - Parallels [[Current Deepvoice (D&D_References)]]
-- Requires [[Quest   The Dying Forest]]
+- Requires [[Quest The Dying Forest]]
 - Related: [[LORE00310_History_Entry_311]]
 - Affected by [[Assets Locations Location City the Floating Markets of Nereidios the Floating Markets of Nereidios.svg]]
 - Leads to [[step_067 (phase_053)]]
@@ -245,7 +239,7 @@ Competitor sabotaging business
 - Related: [[The Windswept Heights]]
 - Connects to [[NPC01200_Alaric_Lightbringer_the_Broken]]
 - Requires [[ENC00190_Environmental_Encounter_191]]
-- Requires [[step_002]]
+- Requires
 - Affected by [[Confront the Possessed Queen (D&D_References)]]
 - Requires [[Difficulty Class Xphb]]
 - Originates from [[Adventure Companion]]
@@ -270,7 +264,7 @@ Competitor sabotaging business
 - Leads to [[Archive of Forgotten Depths (D&D_References)]]
 - Compare with [[QUEST0038_The_Frozen_Fortress_Disappearances]]
 - Related: [[The Unremembered Parliament (D&D_References)]]
-- Originates from [[step_095]]
+- Originates from
 - Compare with [[Fashion Guild (Guilds)]]
 - Leads to [[Professor Aldwin Cleartext 2]]
 - Affected by [[FAC00079_Cults_80]]
@@ -293,7 +287,7 @@ Competitor sabotaging business
 - Compare with [[Wall of Thorns Xphb]]
 - Originates from [[step_080 (phase_078)]]
 - Compare with [[step_100 (phase_084)]]
-- Originates from [[step_081]]
+- Originates from
 - See also: [[immovable-rod-xdmg (items)]]
 - Requires [[Pressure Effects]]
 - Originates from [[The Old Families]]
@@ -303,7 +297,6 @@ Competitor sabotaging business
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

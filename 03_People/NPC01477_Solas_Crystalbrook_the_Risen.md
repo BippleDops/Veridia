@@ -9,7 +9,6 @@ aliases: [NPC01477 Solas Crystalbrook the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01477 Solas Crystalbrook the Risen]
 - [[#Ewan Lightbringer the Broken (Family - Cousin)|Ewan Lightbringer the Broken (Family - Cousin)]]
 - [[#Delara Keenblade the Cunning (Personal - Ex-lover)|Delara Keenblade the Cunning (Personal - Ex-lover)]]
 - [[#Thalia Zephyrblade the Scholar (Personal - Love interest)|Thalia Zephyrblade the Scholar (Personal - Love interest)]]
-
 
 ---
 aliases: ["Solas Crystalbrook the Risen", "solas crystalbrook the risen", "Solas Crystalbrook Risen", "Risen the Crystalbrook Solas"]
@@ -151,32 +149,28 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.277Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Connects to [[Sage Gentlespice]]
 - Parallels [[Temple of Perpetual Tides 2]]
-- See also: [[step_037]]
+- See also:
 - Related: [[Pregenerated_Characters.md (The_Seven_Shards_Campaign)]]
 - Compare with [[Training Supervisor Learning Moment (D&D_References)]]
 - Requires [[step_039 (phase_094)]]
 - Leads to [[Guardian of Faith Xphb]]
-- Affected by [[step_041]]
+- Affected by
 - Parallels [[step_082 (phase_021)]]
 - Compare with [[Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg_1 (Portraits)]]
 - Compare with [[step_038 (phase_046)]]
@@ -236,7 +230,7 @@ Needs help with personal quest
 - Compare with [[step_040 (phase_068)]]
 - Parallels [[location-city-regional-courts-regional-courts.svg]]
 - Affected by [[step_016 (phase_050)]]
-- Connects to [[step_064]]
+- Connects to
 - Leads to [[NPC01365_Vesper_Zephyrblade_the_Redeemed]]
 - Affected by [[step_023 (phase_009)]]
 - Parallels [[Portrait NPC the Cerulean Breath V2 the Cerulean Breath.svg_1 (Portraits)]]
@@ -260,15 +254,15 @@ Needs help with personal quest
 - Compare with [[step_074 (phase_026)]]
 - Originates from [[Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
 - Requires [[step_012 (phase_027)]]
-- Connects to [[step_003]]
+- Connects to
 - Requires [[ITEM00802_Divine_Orb_of_the_Gods]]
 - Connects to [[ITEM00169_Shadow_Bow_of_Power]]
-- Affected by [[step_009]]
+- Affected by
 - Affected by [[Greyhawk Iuz Xdmg]]
 - Parallels [[step_025 (phase_099)]]
 - Leads to [[Crystal Caves of Aethermoor]]
 - Compare with [[urban-encounters-levels-1720-xge (tables)]]
-- Originates from [[step_016]]
+- Originates from
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

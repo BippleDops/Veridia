@@ -18,7 +18,6 @@ aliases: [NPC01081 Gavril Hawthorne the Mystic]
 - [[#Hestara Moonshadow the Cunning (Political - Patron)|Hestara Moonshadow the Cunning (Political - Patron)]]
 - [[#Kaelen Stormwind the Strong (Political - Spy)|Kaelen Stormwind the Strong (Political - Spy)]]
 
-
 ---
 aliases: ["Gavril Hawthorne the Mystic", "gavril hawthorne the mystic", "Gavril Hawthorne Mystic", "Mystic the Hawthorne Gavril"]
 tags: [npc, character]
@@ -148,34 +147,30 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.235Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Connects to [[step_100 (phase_080)]]
 - Requires [[ITEM00548_Mithril_Boots_of_Resistance]]
 - Influences [[Citizens Against Shadows]]
-- Leads to [[step_090]]
-- Connects to [[step_058]]
+- Leads to
+- Connects to
 - Requires [[NPC00851_Wynne_Quicksilver_the_Fallen]]
 - Parallels [[Spell Gem Amber Oota]]
 - Parallels [[Location City Master Jeweler Sapphire Delicatehand Master Jeweler Sapphire Delicatehand.svg]]
 - Compare with [[Assets Locations Location City the Shadow Markets New the Shadow Markets New.svg]]
-- Connects to [[step_062]]
+- Connects to
 - Connects to [[step_026 (phase_061)]]
 - Affected by [[item properties#Silvered%20Weapons]]
 - Affected by [[NPC01614_Felicia_Lightbringer_the_Mystic]]
@@ -212,7 +207,7 @@ Has map to lost treasure
 - Influences [[Speak With Plants Xphb]]
 - Requires [[Purifier Marcus Steelbane]]
 - See also: [[ENC00066_Environmental_Encounter_67]]
-- Affected by [[step_099]]
+- Affected by
 - Influences [[step_034 (phase_059)]]
 - See also: [[Location City the Twilight Gardens V1 the Twilight Gardens.svg]]
 - Related: [[Creature Creature Young Green Dragon Xmm V1 Young Green Dragon Xmm.png]]
@@ -223,7 +218,7 @@ Has map to lost treasure
 - Parallels [[Citizens Rights Advocacy Group]]
 - Connects to [[Assets Locations Location City Noble Council V1 Noble Council.png]]
 - Compare with [[Symbol Heraldry the Grand Abandonment Central Warehouse Comple the Grand Abandonment Central Warehouse Comple.svg]]
-- Affected by [[step_067]]
+- Affected by
 - Leads to [[step_049 (phase_043)]]
 - Parallels [[Guerrilla Fighters]]
 - Leads to [[iron-spike-xphb (items)]]
@@ -237,7 +232,7 @@ Has map to lost treasure
 - Related: [[Chain Shirt Xphb]]
 - Requires [[Assets Locations Location City Culinary Dreamweaver Sage Gentlespice Culinary Dreamweaver Sage Gentlespice.svg]]
 - Affected by [[ITEM00440_Ethereal_Gauntlets_of_Resistance]]
-- Related: [[step_004]]
+- Related:
 - See also: [[Symbol Heraldry Sister Benthos Scrollheart Sister Benthos Scrollheart.svg]]
 - Compare with [[Location City Harbor Master Nereid Deepcurrent V1 Harbor Master Nereid Deepcurrent.svg]]
 - Influences [[step_055 (phase_004)]]
@@ -263,7 +258,7 @@ Has map to lost treasure
 - Leads to [[skills-with-different-abilities-phb (variant-rules)]]
 - Affected by [[Void-Touched Equipment]]
 - Requires [[ITEM0135_Hidden_Blade_of_Shadows]]
-- Leads to [[step_100]]
+- Leads to
 - Requires [[Creature Creature Young Green Dragon Xmm V2 Young Green Dragon Xmm.png]]
 - Related: [[ENC00020_Social_Encounter_21]]
 
@@ -271,7 +266,6 @@ Has map to lost treasure
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

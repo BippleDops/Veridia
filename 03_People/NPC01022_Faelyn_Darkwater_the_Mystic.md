@@ -18,7 +18,6 @@ aliases: [NPC01022 Faelyn Darkwater the Mystic]
 - [[#Corvus Oakenshield the Guardian (Professional - Partner)|Corvus Oakenshield the Guardian (Professional - Partner)]]
 - [[#Elric Crystalbrook the Wise (Family - Child)|Elric Crystalbrook the Wise (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Faelyn Darkwater the Mystic", "faelyn darkwater the mystic", "Faelyn Darkwater Mystic", "Mystic the Darkwater Faelyn"]
@@ -151,27 +150,23 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.229Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -182,17 +177,16 @@ Caravan needs guards
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Parallels [[Equipment_Catalogs (D&D_References)]]
-- Affected by [[step_077]]
-- Compare with [[step_014]]
+- Affected by
+- Compare with
 - Compare with [[QUEST00398_Side_Quest_399]]
 - Requires [[step_079 (phase_026)]]
 - Parallels [[Drowning Omens 2]]
@@ -203,7 +197,7 @@ Caravan needs guards
 - Parallels [[step_063 (phase_069)]]
 - Related: [[Similar Topic 1]]
 - See also: [[Anti-Smuggling Operations 2]]
-- Related: [[step_056]]
+- Related:
 - Compare with [[Ixitxachitl Cleric Oota]]
 - Influences [[step_016 (phase_054)]]
 - Leads to [[Recurring Expenses Maintenance Costs]]
@@ -215,7 +209,7 @@ Caravan needs guards
 - Requires [[QUEST00362_Side_Quest_363]]
 - Requires [[NPC00091_Vesper_Darkwater]]
 - Originates from [[Deva Xmm]]
-- Affected by [[step_003]]
+- Affected by
 - Compare with [[Location City Diplomatic Dining Protocol V1 Diplomatic Dining Protocol.svg]]
 - Influences [[QUEST00299_Side_Quest_300]]
 - See also: [[Master Chen Wei (D&D_References)]]
@@ -224,22 +218,22 @@ Caravan needs guards
 - Related: [[Chaplain Father Blessing Hopekeeper (D&D_References)]]
 - Compare with [[Assets Art Forge Master Petra Hammerdeep.png]]
 - See also: [[ENC0021_Random_Encounter_22]]
-- Compare with [[step_038]]
+- Compare with
 - Related: [[Healer Marina Greenboug]]
 - Leads to [[NPC01021_Elric_Quicksilver_the_Bold]]
 - Parallels [[01-chapter-1-the-basics (dungeon-masters-guide-2024)]]
 - Originates from [[Location City the Phantom Current the Phantom Current.svg]]
-- See also: [[step_074]]
+- See also:
 - Connects to [[ITEM00767_Void-touched_Scepter_of_Eternity]]
 - Influences [[NPC00191_Orion_Darkwater_the_Wanderer]]
 - Originates from [[Trade Representatives 2]]
 - See also: [[NPC01629_Urien_Brightblade_the_Seeker]]
 - Affected by [[QUEST00082_Personal_Quest_83]]
-- Parallels [[step_086]]
+- Parallels
 - Compare with [[Location City the Mothercoral Crisis the Mothercoral Crisis.svg]]
 - Parallels [[step_082 (phase_086)]]
 - See also: [[FAC00010_Orders_11]]
-- Influences [[step_042]]
+- Influences
 - Influences [[step_040 (phase_022)]]
 - Parallels [[produce-flame-xphb (spells)]]
 - Requires [[Portrait NPC Duke Gale Vortex V1 Duke Gale Vortex.svg_1 (Portraits)]]
@@ -256,7 +250,7 @@ Caravan needs guards
 - Requires [[House Pressureborn 2]]
 - Affected by [[Assets Symbols Symbol Heraldry the Great Resonance the Great Resonance.svg]]
 - Leads to [[step_083 (phase_006)]]
-- Connects to [[step_037]]
+- Connects to
 - Affected by [[step_097 (phase_088)]]
 - Connects to [[ENC00126_Combat_Encounter_127]]
 - Affected by [[Assets Locations Location City Expedition to the Sunless Depths V1 Expedition to the Sunless Depths.svg]]
@@ -279,14 +273,14 @@ Caravan needs guards
 - See also: [[step_029 (phase_021)]]
 - Leads to [[QUEST00159_Personal_Quest_160]]
 - Leads to [[Assets Locations Location City Alternative Path Fled City Alternative Path Fled City.svg]]
-- Originates from [[step_028]]
-- Compare with [[step_002]]
+- Originates from
+- Compare with
 - Connects to [[Equipment Catalogs]]
 - See also: [[LOC00091_Towns_Location_92]]
 - Affected by [[LORE00196_Prophecies_Entry_197]]
 - Influences [[Agent Infiltrator (D&D_References)]]
 - Compare with [[step_077 (phase_007)]]
-- See also: [[step_024]]
+- See also:
 - Related: [[Skeleton Xmm]]
 - Related: [[step_086 (phase_080)]]
 - Affected by [[Session_Template]]
@@ -295,7 +289,6 @@ Caravan needs guards
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

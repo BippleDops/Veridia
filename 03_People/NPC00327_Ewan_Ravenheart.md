@@ -9,7 +9,6 @@ aliases: [NPC00327 Ewan Ravenheart]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00327 Ewan Ravenheart]
 - [[#Urien Winterborn the Guardian (Personal - Love interest)|Urien Winterborn the Guardian (Personal - Love interest)]]
 - [[#Lyanna Brightblade the Guardian (Family - Cousin)|Lyanna Brightblade the Guardian (Family - Cousin)]]
 - [[#Aldric Keenblade (Criminal - Fence)|Aldric Keenblade (Criminal - Fence)]]
-
 
 ---
 aliases: ["Ewan Ravenheart", "ewan ravenheart", "Ravenheart Ewan"]
@@ -159,21 +157,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.149Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -197,11 +191,11 @@ Wants rivals investigated
 - Related: [[lightbringer-lmop (items)]]
 - Compare with [[08_Archive]]
 - Connects to [[Fate Weavers 2]]
-- Related: [[step_009]]
+- Related:
 - Originates from [[step_008 (phase_081)]]
 - Compare with [[COMPLETE_SYSTEM_SUBCARY]]
 - Compare with [[Clerics of Thalassa]]
-- Compare with [[step_068]]
+- Compare with
 - Originates from [[NPC00680_Nerys_Keenblade_the_Wanderer]]
 - Compare with [[Secure Communication Arrays]]
 - Leads to [[step_069 (phase_054)]]
@@ -214,7 +208,7 @@ Wants rivals investigated
 - See also: [[Healer Tide-Touch 2]]
 - Influences [[6 Appendix a Magic Items]]
 - See also: [[step_054 (phase_057)]]
-- Parallels [[step_050]]
+- Parallels
 - Related: [[05-chapter-4-character-origins (players-handbook-2024)]]
 - Influences [[High Priestess Celeste (D&D_References)]]
 - Originates from [[02_Worldbuilding_Spells_Future_Glimpse]]
@@ -253,14 +247,14 @@ Wants rivals investigated
 - Influences [[LOC00093_Towns_Location_94]]
 - Connects to [[step_017 (phase_035)]]
 - Influences [[step_043 (phase_018)]]
-- Requires [[step_076]]
+- Requires
 - Leads to [[step_098 (phase_040)]]
 - Requires [[LOC00232_Dungeons_Location_233]]
 - Leads to [[Session 01 (Shadow_Conspiracy)]]
 - Connects to [[Portrait NPC Madame Crystal Eye V1 Madame Crystal Eye.svg]]
 - Influences [[04_Resources_Assets_Locations_location-city-the-sunken-cathedral-of-perfect-order-v1-the-sunken-cathedral-of-perfect-order.svg]]
 - Influences [[step_032 (phase_038)]]
-- Parallels [[step_078]]
+- Parallels
 - Connects to [[step_024 (phase_090)]]
 - Originates from [[Commander Ironprice 3 (D&D_References)]]
 - Influences [[step_009 (phase_045)]]

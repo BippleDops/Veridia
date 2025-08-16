@@ -17,7 +17,6 @@ aliases: [Portal Home]
 - [[#Related Content|Related Content]]
 - [[#Visual References|Visual References]]
 
-
 -tags: [generated, linked, combat, exploration]ed]
 created: 2025-08-15T12:34:11.168898
 ---
@@ -75,12 +74,10 @@ created: 2025-08-15T12:34:11.168898
 - [[06 Equipment]]
 - [[The_Corroded_Crown.png]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -97,7 +94,7 @@ created: 2025-08-15T12:34:11.168898
 ## Connections
 
 - Related: [[step_091 (phase_044)]]
-- Connects to [[step_041]]
+- Connects to
 - Requires [[02_Worldbuilding_Groups_The_Pearl_Divers_Guil]]
 - Connects to [[Assets Locations Location City Expedition to the Sunless Depths Expedition to the Sunless Depths.svg]]
 - Requires [[Dire Wolf Xmm]]
@@ -116,7 +113,7 @@ created: 2025-08-15T12:34:11.168898
 - Originates from [[NPC0176_Quinn_Brightblade]]
 - Affected by [[The Bone Palace of Sorrows (D&D_References)]]
 - Compare with [[step_099 (phase_057)]]
-- Connects to [[step_019]]
+- Connects to
 - See also: [[step_037 (phase_063)]]
 - See also: [[Random Buildings Residence]]
 - Connects to [[Gold Statuette Set With Rubies Xdmg]]
@@ -135,7 +132,7 @@ created: 2025-08-15T12:34:11.168898
 - Leads to [[LOC00189_Wilderness_Location_190]]
 - Compare with [[step_079 (phase_035)]]
 - See also: [[ITEM00547_Dragon_Scale_Plate_of_Grace]]
-- Compare with [[step_006]]
+- Compare with
 - Related: [[LOC00071_Wilderness_Location_72]]
 - Parallels [[The Seventh Shard]]
 - Leads to [[Reality Anchor Monitoring]]
@@ -164,12 +161,12 @@ created: 2025-08-15T12:34:11.168898
 - Connects to [[LORE00276_Prophecies_Entry_277]]
 - Leads to [[The Crystal Wardens (D&D_References)]]
 - Influences [[Portrait NPC Enforcer Chief Mako Ironjaw Enforcer Chief Mako Ironjaw.svg]]
-- Originates from [[step_018]]
+- Originates from
 - Originates from [[LORE00239_Prophecies_Entry_240]]
 - Compare with [[Portrait NPC Captain Thrace Deeprunner V2 Captain Thrace Deeprunner.svg]]
 - Requires [[step_069 (phase_076)]]
 - Requires [[Ettercap Xmm]]
-- Compare with [[step_087]]
+- Compare with
 - Influences [[Location City Surface Underwater Trade Surface Underwater Trade.svg]]
 - Parallels [[All Quests]]
 - Compare with [[step_056 (phase_024)]]
@@ -199,7 +196,6 @@ created: 2025-08-15T12:34:11.168898
 
 ## Related Content
 *Enhanced with 1 new connections*
-
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_portal_commander_marina_bridgewright_portal_commander_marina_bridgewright_png_standard.png]]

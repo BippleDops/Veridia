@@ -12,7 +12,7 @@ General information about Introduction Overview.
 Specific information and content.
 
 ## Connections
-- [[Related_Content]]
+-
 - [[00_Indexes/Master_Index]]
 
 ## Notes

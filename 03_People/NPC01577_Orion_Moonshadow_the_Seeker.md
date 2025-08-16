@@ -18,7 +18,6 @@ aliases: [NPC01577 Orion Moonshadow the Seeker]
 - [[#Malakai Youngblood the Scholar (Family - Spouse)|Malakai Youngblood the Scholar (Family - Spouse)]]
 - [[#Cedric Ironwood the Guardian (Professional - Partner)|Cedric Ironwood the Guardian (Professional - Partner)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Orion Moonshadow the Seeker", "orion moonshadow the seeker", "Orion Moonshadow Seeker", "Seeker the Moonshadow Orion"]
@@ -149,16 +148,13 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.287Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -198,9 +194,7 @@ Has information about legendary item
 - [[NPC00872_Thalia_Ironwood_the_Broken]]
 - [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -217,7 +211,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Source References
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -226,11 +220,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -296,7 +289,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Flames of the Phoenix]]
 - Related: [[location-city-spymaster-crow-spymaster-crow.svg]]
 - Originates from [[SPELL00052_Arcane_Spell_53]]
-- Connects to [[step_036]]
+- Connects to
 - Connects to [[Elena Thornwhispe]]
 - Related: [[The Living Spires (D&D_References)]]
 - Originates from [[Object Hit Points]]
@@ -309,11 +302,11 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Symbol Heraldry Mas... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[step_070 (phase_009)]]
 - Affected by [[step_016 (phase_045)]]
-- Affected by [[step_073]]
+- Affected by
 - Requires [[step_072 (phase_014)]]
 - Parallels [[step_092 (phase_021)]]
 - Related: [[step_002 (phase_083)]]
-- Parallels [[step_060]]
+- Parallels
 - Compare with [[step_026 (phase_050)]]
 - Parallels [[step_004 (phase_091)]]
 - Compare with [[arrows-20-xphb (items)]]
@@ -329,7 +322,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[[[Artificer]]'s Row 2]]
 - See also: [[SHOP00041_Specialty_Shop_42]]
 - Requires [[Assets Locations Location City [[Harbor Pilot Guild]] Harbor Pilot Guild.svg]]
-- Parallels [[step_067]]
+- Parallels
 - Influences [[Quiver of Ehlonna Xdmg]]
 - Leads to [[SHOP00001_Magical_Shop_2]]
 - Influences [[Crystal Cults (D&D_References)]]
@@ -339,7 +332,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

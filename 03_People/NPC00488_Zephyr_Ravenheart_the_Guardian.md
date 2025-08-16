@@ -18,7 +18,6 @@ aliases: [NPC00488 Zephyr Ravenheart the Guardian]
 - [[#Dara Hawthorne the Scholar (Professional - Mentor)|Dara Hawthorne the Scholar (Professional - Mentor)]]
 - [[#Thalia Blackstone the Broken (Family - Parent)|Thalia Blackstone the Broken (Family - Parent)]]
 
-
 ---
 aliases: ["Zephyr Ravenheart the Guardian", "zephyr ravenheart the guardian", "Zephyr Ravenheart Guardian", "Guardian the Ravenheart Zephyr"]
 tags: [npc, character]
@@ -141,21 +140,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.168Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -213,10 +208,10 @@ Being extorted by criminals
 - Leads to [[Thri Kreen Psion Xmm]]
 - Influences [[Location City the Harbor Guild the Harbor Guild.svg]]
 - Connects to [[step_063 (phase_084)]]
-- Related: [[step_075]]
+- Related:
 - Parallels [[Wand Xphb]]
 - See also: [[Quest - The Final Tide]]
-- Affected by [[step_048]]
+- Affected by
 - Leads to [[Smuggler (D&D_Statblocks)]]
 - Connects to [[LOC00254_Planes_Location_255]]
 - Influences [[ITEM01174_Pure_Herb_of_Fortune]]
@@ -224,11 +219,11 @@ Being extorted by criminals
 - Requires [[NPC01838_Cedric_Brightblade_the_Swift]]
 - Related: [[Hezrou Xmm]]
 - Parallels [[Quest - The Shattered Memories_1 (01_Adventures)]]
-- Influences [[Quest   The Democratic Balance]]
+- Influences [[Quest The Democratic Balance]]
 - Parallels [[Emergency Protocol 2]]
-- Influences [[step_040]]
+- Influences
 - See also: [[Blessing of Understanding Xdmg]]
-- Parallels [[step_055]]
+- Parallels
 - Originates from [[Equipment_Inventory]]
 - See also: [[Portrait NPC High Priestess Celeste V1 High Priestess Celeste.svg_1 (Portraits)]]
 - Affected by [[Foreign Trade Envoy Lysander Farreach]]
@@ -244,7 +239,7 @@ Being extorted by criminals
 - Related: [[step_042 (phase_004)]]
 - Parallels [[NPC01367_Lyanna_Xendar_the_Wise]]
 - See also: [[Assets Locations Location City Wealthy Goldcurrent Wealthy Goldcurrent.svg]]
-- Connects to [[step_010]]
+- Connects to
 - Affected by [[QUEST00091_Personal_Quest_92]]
 - Affected by [[portrait-npc-the-barnacle-v1-the-barnacle.svg_1 (Portraits)]]
 - Related: [[Market Mystery (D&D_References)]]
@@ -254,7 +249,7 @@ Being extorted by criminals
 - Leads to [[Corrupted Merrow 2]]
 - Related: [[step_023 (phase_042)]]
 - Affected by [[Random_Shop (02_Worldbuilding)]]
-- Leads to [[step_009]]
+- Leads to
 - Requires [[Portrait NPC Parliament Loyalists V1 Parliament Loyalists.svg_1 (Portraits)]]
 - Requires [[Assets Locations Location City the Hopekeeper Academy V1 the Hopekeeper Academy.svg]]
 - Connects to [[Guild Seal Document Silverscale Consortiu]]
@@ -264,7 +259,6 @@ Being extorted by criminals
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [MOC Sessions]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -32,8 +31,6 @@ created: 2025-08-15
 
 ## Content
 *Building index...*
-
-
 
 ## Recent NPCs
 ```dataview
@@ -106,12 +103,10 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[14 Gods of the Multiverse]]
 - [[NPC00649_Corvus_Zephyrblade_the_Broken]]
 - [[NPC00920_Malakai_Ravenheart_the_Guardian]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -141,12 +136,12 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Compare with [[Assets Locations Location City the Original Palace V1 the Original Palace.svg]]
 - Related: [[ITEM00169_Shadow_Bow_of_Power]]
 - See also: [[NPC0024_Yorick_Stormwind]]
-- Influences [[step_028]]
+- Influences
 - Parallels [[step_059 (phase_097)]]
 - Parallels [[elf-names-family-xge (tables)]]
 - Influences [[Seven_Shards_Overview (02_Worldbuilding)]]
 - Leads to [[Quest - Missing Shipments 2]]
-- Compare with [[step_018]]
+- Compare with
 - Compare with [[LOC00223_Towns_Location_224]]
 - Influences [[The Pressure Wars]]
 - Connects to [[ITEM01118_Distilled_Incense_of_Swiftness]]
@@ -156,7 +151,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Parallels [[will-o-wisp-xmm (undead)]]
 - Parallels [[Druid Xphb Circle of the Moon Xphb]]
 - Influences [[Portrait NPC the Deepmind Conspiracy the Deepmind Conspiracy.svg_1 (Portraits)]]
-- Connects to [[step_013]]
+- Connects to
 - See also: [[Observatory of Broken Stars]]
 - Parallels [[Quest - The Corruption Files]]
 - Parallels [[step_015 (phase_069)]]
@@ -171,7 +166,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Connects to [[Assets Locations Location City Weapon Master Dain Sharpedge V1 Weapon Master Dain Sharpedge.svg]]
 - See also: [[Portrait NPC Sir Marcus Dawnforge Sir Marcus Dawnforge.svg_1 (Portraits)]]
 - Affected by [[The Convergence Entity (D&D_References)]]
-- Related: [[step_060]]
+- Related:
 - Connects to [[step_006 (phase_054)]]
 - Originates from [[encumbrance-phb (variant-rules)]]
 - See also: [[The Shattered Sanctum (D&D_References)]]
@@ -211,13 +206,13 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Affected by [[SPELL00124_Arcane_Spell_125]]
 - Parallels [[Silver Xdmg]]
 - Compare with [[Assets Portraits Portrait NPC the Resonance Prophet the Resonance Prophet.svg]]
-- Related: [[step_011]]
-- Leads to [[step_066]]
+- Related:
+- Leads to
 - See also: [[step_019 (phase_057)]]
-- Originates from [[step_089]]
+- Originates from
 - Originates from [[MON00158_Constructs_Creature_159]]
 - Connects to [[List Spells Optional Features Sweeping Cinder Strike]]
 - Requires [[EVENT00012_Magical_Event_13]]
 - Compare with [[Unite or Divide 2]]
-- Parallels [[step_028]]
+- Parallels
 - Requires [[Skills Reality Anchor Deployment]]

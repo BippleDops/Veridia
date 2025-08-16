@@ -18,7 +18,6 @@ aliases: [NPC00834 Aldric Winterborn the Wanderer]
 - [[#Idris Lightbringer the Strong (Political - Puppet)|Idris Lightbringer the Strong (Political - Puppet)]]
 - [[#Corvus Jadeclaw the Fallen (Professional - Employee)|Corvus Jadeclaw the Fallen (Professional - Employee)]]
 
-
 ---
 aliases: ["Aldric Winterborn the Wanderer", "aldric winterborn the wanderer", "Aldric Winterborn Wanderer", "Wanderer the Winterborn Aldric"]
 tags: [npc, character]
@@ -158,34 +157,30 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.207Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Related: [[plant-growth-xphb (spells)]]
 - Compare with [[LOC00121_Cities_Location_122]]
 - Related: [[training-area (bastions)]]
-- Compare with [[step_067]]
+- Compare with
 - Parallels [[step_052 (phase_072)]]
 - Connects to [[Fortress of the Deeps]]
 - Parallels [[ITEM01135_Concentrated_Salve_of_Clarity]]
 - Parallels [[Environmental Challenge Guidelines]]
 - Originates from [[NPC00908_Brenna_Ashford_the_Strong]]
-- Affected by [[step_083]]
+- Affected by
 - Affected by [[Location City Current Navigation Techniques Current Navigation Techniques.svg]]
 - Affected by [[step_051 (phase_026)]]
 - Related: [[Warhorse Skeleton Xmm]]
@@ -194,9 +189,9 @@ Seeks rare merchandise
 - Related: [[step_028 (phase_056)]]
 - Compare with [[Location City Breaking the Deep V1 Breaking the Deep.svg]]
 - Affected by [[Project Iron Laboratory]]
-- Leads to [[step_089]]
+- Leads to
 - Affected by [[gaming-hall (bastions)]]
-- Compare with [[step_043]]
+- Compare with
 - See also: [[Symbol Heraldry the Navigation Post V1 the Navigation Post.svg]]
 - See also: [[Iron Jack Shadowhand]]
 - Leads to [[The Windcatchers Guild]]
@@ -206,14 +201,14 @@ Seeks rare merchandise
 - Requires [[NPC0104_Yorick_Goldleaf]]
 - Originates from [[02_Worldbuilding_Groups_Order_of_Mirrors]]
 - Connects to [[NPC01074_Felicia_Nightfall_the_Fallen]]
-- Requires [[step_016]]
+- Requires
 - Originates from [[armanite-mpmm (fiend)]]
 - Leads to [[Post-Merge Chronology 2]]
 - Parallels [[Location City Diplomatic Dining Protocol V1 Diplomatic Dining Protocol.svg]]
 - Requires [[Assets Art Npcs Quest the Root Network.png]]
 - Requires [[Symbol Heraldry the Architects of Depths the Architects of Depths.svg]]
 - Connects to [[Assets Locations Location City Beast Master Krell Chainbreaker Beast Master Krell Chainbreaker.svg]]
-- Affected by [[step_070]]
+- Affected by
 - Originates from [[step_018 (phase_019)]]
 - Requires [[Communication_Systems]]
 - Related: [[The Free Current Movement (D&D_References)]]
@@ -224,20 +219,20 @@ Seeks rare merchandise
 - Originates from [[prophets-gambit-cos (variant-rules)]]
 - Requires [[potion-of-acid-resistance-xdmg (items)]]
 - Affected by [[ITEM00874_Ancient_Ring_of_Destiny]]
-- Influences [[step_061]]
+- Influences
 - Affected by [[Quest - Crystal Corruption]]
 - See also: [[The Speaker of Silence (D&D_References)]]
 - Compare with [[goblin-minion-xmm (fey)]]
 - Leads to [[step_035 (phase_084)]]
 - Leads to [[QUEST00122_Main_Quest_123]]
 - Related: [[QUEST00243_Side_Quest_244]]
-- Affected by [[step_068]]
+- Affected by
 - Compare with [[location-city-marina-swiftfin-marina-swiftfin.svg]]
 - Parallels [[Cogwork Archivist Scc]]
-- Compare with [[step_099]]
+- Compare with
 - Compare with [[step_061 (phase_046)]]
 - Requires [[tome-of-leadership-and-influence-xdmg (items)]]
-- Parallels [[step_011]]
+- Parallels
 - Influences [[Mechanics Recursion Travel System]]
 - Connects to [[The Grand Abandonment - Central Warehouse Comple (D&D_References)]]
 - Affected by [[Gravity Anomaly Mechanics 2]]
@@ -245,9 +240,9 @@ Seeks rare merchandise
 - Originates from [[step_029 (phase_011)]]
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-captain-swift-cloudracer-captain-swift-cloudracer.svg_Quick_Ref]]
 - Originates from [[Royal Embassy]]
-- Affected by [[step_061]]
+- Affected by
 - Requires [[Deep Mystic Aurelius Glowseeker 2]]
-- See also: [[step_090]]
+- See also:
 - Affected by [[LOC00259_Wilderness_Location_260]]
 - Leads to [[Historical Prophetic Analysis]]
 - Originates from [[Commander Typhoon Blackheart (Places)]]
@@ -257,9 +252,9 @@ Seeks rare merchandise
 - Compare with [[Grief Harvester Melancholy (D&D_References)]]
 - Originates from [[Bear Trap Xge]]
 - Originates from [[SPELL00109_Divine_Spell_110]]
-- Requires [[step_049]]
+- Requires
 - Related: [[Encounter Tables]]
-- Requires [[step_032]]
+- Requires
 - Influences [[Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg]]
 - Affected by [[Student Prime Coral]]
 - Originates from [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
@@ -268,7 +263,7 @@ Seeks rare merchandise
 - Affected by [[ITEM00036_Thunder_Crossbow_of_Speed]]
 - Influences [[Location City Mourning Depths V1 Mourning Depths.svg]]
 - Connects to [[Goldhorn the Magnificen]]
-- Requires [[step_091]]
+- Requires
 - Influences [[Goading Attack Xphb]]
 - Connects to [[Neutrality Laws 2]]
 - See also: [[NPC00354_Caelum_Dawnstrider_the_Risen]]
@@ -281,7 +276,6 @@ Seeks rare merchandise
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

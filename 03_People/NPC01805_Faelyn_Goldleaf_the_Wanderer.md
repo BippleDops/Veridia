@@ -18,7 +18,6 @@ aliases: [NPC01805 Faelyn Goldleaf the Wanderer]
 - [[#Hilda Dawnstrider the Wanderer (Professional - Mentor)|Hilda Dawnstrider the Wanderer (Professional - Mentor)]]
 - [[#Drusilla Ravenheart the Mystic (Criminal - Accomplice)|Drusilla Ravenheart the Mystic (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Faelyn Goldleaf the Wanderer", "faelyn goldleaf the wanderer", "Faelyn Goldleaf Wanderer", "Wanderer the Goldleaf Faelyntags: [npc, character, combat, magic, social, lore]er]
@@ -150,16 +149,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.312Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -204,11 +200,10 @@ Modifications:
 - [[Character_Journal_Template]]
 - [[MOC_Combat]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -218,26 +213,25 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Parallels [[Portrait NPC Quest the Kingpin S Fall Quest the Kingpin S Fall.svg]]
-- Requires [[step_056]]
+- Requires
 - Related: [[greyhawk-hextor-xdmg (deities)]]
 - Influences [[Creature Creature Maw Demon Mpmm V3 Maw Demon Mpmm.png]]
-- Affected by [[step_076]]
+- Affected by
 - Compare with [[Portrait NPC Pirate Captain Blacktide V2 Pirate Captain Blacktide.svg]]
 - Parallels [[Pressure Currents]]
 - Parallels [[Fourth Shard of Binding]]
 - Leads to [[Event_Log]]
-- Compare with [[step_092]]
+- Compare with
 - See also: [[Seeds of Tomorrow 2]]
-- Parallels [[step_002]]
+- Parallels
 - Related: [[Quest_Template]]
 - Requires [[step_053 (phase_025)]]
 - Related: [[[[Quartermaster Shadow Supply]] (D&D_References)]]
@@ -250,7 +244,7 @@ Modifications:
 - Connects to [[step_044 (phase_066)]]
 - Connects to [[ENC00407_Combat_Encounter_408]]
 - Influences [[winged-kobold-xmm (dragon)]]
-- Affected by [[step_059]]
+- Affected by
 - Parallels [[ixitxachitl-cleric-oota (aberration)]]
 - Related: [[Temple of the First Tide (D&D_References)]]
 - Parallels [[Portrait NPC Quest the Pretender V2 Quest the Pretender.svg]]
@@ -275,7 +269,7 @@ Modifications:
 - Influences [[Character_Advancement]]
 - Compare with [[Assets Locations Location City [[Reality Breach Locations]] V1 Reality Breach Locations.svg]]
 - Related: [[Portrait NPC Weaponsmith [[Captain Marcus]] Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg]]
-- See also: [[step_067]]
+- See also:
 - Originates from [[chunk-of-meat (items)]]
 - Originates from [[ENC00163_Environmental_Encounter_164]]
 - Compare with [[step_003 (phase_009)]]
@@ -283,7 +277,7 @@ Modifications:
 - Parallels [[list-spells-classes-sorcerer (lists)]]
 - Related: [[QUEST00124_Main_Quest_125]]
 - Related: [[ITEM01235_Refined_Herb_of_Vigor]]
-- Compare with [[step_070]]
+- Compare with
 - Parallels [[chalcedony-xdmg (items)]]
 - Related: [[vehicle-ship-maelstrom-tug-v1-maelstrom-tug.svg]]
 - Related: [[NPC00878_Kaelen_Ironwood_the_Strong]]
@@ -296,7 +290,7 @@ Modifications:
 - Originates from [[Portrait NPC Agent Whisper Voidheart V2 Agent Whisper Voidheart.svg_1 (Portraits)]]
 - Originates from [[NPC01079_Faelyn_Oakenshield_the_Broken]]
 - Affected by [[ITEM00223_Blessed_Staff_of_Wounding]]
-- Influences [[step_036]]
+- Influences
 - Leads to [[NPC00218_Fiora_Youngblood]]
 - Compare with [[Shadow Vale (Criminal_Organizations)]]
 - Originates from [[Cultural Bridge Alliance]]
@@ -311,9 +305,9 @@ Modifications:
 - Compare with [[Quest - The Shadow Fleet_1 (01_Adventures)]]
 - Compare with [[Silvery Barbs Scc]]
 - See also: [[Assets Vehicles Vehicle Ship Sky Cutter Interceptor V2 Sky Cutter Interceptor.svg]]
-- Originates from [[step_098]]
+- Originates from
 - Requires [[Assets Locations [[Location City [[Observatory District]] Observatory District.svg]]]]
-- Affected by [[step_007]]
+- Affected by
 - Leads to [[step_020 (phase_091)]]
 - Compare with [[List Spells Classes Circle of the Stars Xphb]]
 - Leads to [[step_009 (phase_077)]]
@@ -325,13 +319,12 @@ Modifications:
 - Related: [[SHOP00002_General_Shop_3]]
 - See also: [[[[Port Meridian]] - Market Square (D&D_References)]]
 - Influences [[LORE00321_History_Entry_322]]
-- Parallels [[step_069]]
+- Parallels
 
 ## Visual References
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
 ![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

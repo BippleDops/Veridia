@@ -18,7 +18,6 @@ aliases: [NPC01420 Lyanna Blackstone the Guardian]
 - [[#Jorah Moonshadow the Mystic (Professional - Employee)|Jorah Moonshadow the Mystic (Professional - Employee)]]
 - [[#Baelor Nightfall the Lost (Professional - Rival)|Baelor Nightfall the Lost (Professional - Rival)]]
 
-
 ---
 aliases: ["Lyanna Blackstone the Guardian", "lyanna blackstone the guardian", "Lyanna Blackstone Guardian", "Guardian the Blackstone Lyanna"]
 tags: [npc, character]
@@ -155,21 +154,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.271Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,7 +176,7 @@ Has information about legendary item
 - Leads to [[Poet Laureate Tidal Wordsmith 2]]
 - Parallels [[LOC00032_Planes_Location_33]]
 - See also: [[Assets Portraits Portrait NPC Financial Corruption Financial Corruption.svg]]
-- Influences [[step_045]]
+- Influences
 - Leads to [[portrait-npc-sire-v2-sire.svg_1 (Portraits)]]
 - Influences [[ENC00062_Environmental_Encounter_63]]
 - Originates from [[step_019 (phase_057)]]
@@ -198,7 +193,7 @@ Has information about legendary item
 - Influences [[Player_Handout_Aethermoor_Airships (Ships)]]
 - Leads to [[SPELL00005_Divine_Spell_6]]
 - Related: [[Shadow Society Hierarchy 2]]
-- Influences [[step_086]]
+- Influences
 - Requires [[step_091 (phase_024)]]
 - See also: [[ITEM00481_Ethereal_Boots_of_Grace]]
 - Influences [[MON00127_Constructs_Creature_128]]
@@ -218,7 +213,7 @@ Has information about legendary item
 - Leads to [[step_017 (phase_043)]]
 - Affected by [[step_069 (phase_069)]]
 - See also: [[juiblex-mtf (legendary-group)]]
-- Leads to [[step_049]]
+- Leads to
 - Related: [[Forgotten Realms Bhaal]]
 - See also: [[Imperial Crown Fragment 2]]
 - See also: [[NPC00777_Qadim_Winterborn_the_Bold]]
@@ -262,11 +257,11 @@ Has information about legendary item
 - Connects to [[octopus-xmm (beast)]]
 - See also: [[SHOP00048_Magical_Shop_49]]
 - Leads to [[Barrel Xphb]]
-- Leads to [[step_097]]
+- Leads to
 - Originates from [[location-city-pristine-pearl-v1-pristine-pearl.svg]]
-- Affected by [[step_073]]
+- Affected by
 - Affected by [[Aetherite (D&D_References)]]
-- Requires [[step_047]]
+- Requires
 - Originates from [[Panther Xmm]]
 - Influences [[tiefling-names-female-xge (tables)]]
 - Related: [[Academy of Redirection (Academies)]]
@@ -278,7 +273,6 @@ Has information about legendary item
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

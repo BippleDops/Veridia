@@ -9,7 +9,6 @@ aliases: [NPC00337 Aeliana Dawnstrider]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00337 Aeliana Dawnstrider]
 - [[#Felicia Stormwind the Redeemed (Personal - Best friend)|Felicia Stormwind the Redeemed (Personal - Best friend)]]
 - [[#Thalia Brightblade the Scholar (Personal - Love interest)|Thalia Brightblade the Scholar (Personal - Love interest)]]
 - [[#Lyanna Moonshadow the Wise (Professional - Employer)|Lyanna Moonshadow the Wise (Professional - Employer)]]
-
 
 ---
 aliases: ["Aeliana Dawnstrider", "aeliana dawnstrider", "Dawnstrider Aeliana"]
@@ -159,21 +157,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.150Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -222,7 +216,7 @@ Needs discrete help with family scandal
 - Connects to [[ITEM00750_Divine_Chalice_of_Truth]]
 - Compare with [[Diplomatic Quarters]]
 - Originates from [[Greatsword Xphb]]
-- Influences [[step_007]]
+- Influences
 - Requires [[Pearl Merchant Tidal Goldflow 2]]
 - See also: [[Dr Nereus Thoughtweaver]]
 - Related: [[step_043 (phase_062)]]
@@ -238,7 +232,7 @@ Needs discrete help with family scandal
 - Related: [[NPC01459_Cedric_Youngblood_the_Seeker]]
 - Influences [[ITEM01446_Ornate_Spyglass_of_Durability]]
 - Parallels [[step_022 (phase_023)]]
-- Influences [[step_077]]
+- Influences
 - Compare with [[Assets Locations Location City Bridge Currentcrosser V1 Bridge Currentcrosser.svg]]
 - Influences [[Minister of Defense]]
 - Compare with [[collapsing-roof-xdmg (traps-hazards)]]
@@ -249,13 +243,13 @@ Needs discrete help with family scandal
 - Originates from [[step_013 (phase_083)]]
 - Compare with [[Resource Scarcity Prediction]]
 - Originates from [[Master Chronologist Temporal Truthkeeper 2]]
-- Connects to [[step_092]]
+- Connects to
 - Leads to [[Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg]]
 - Related: [[Portrait NPC the Depth Lords V1 the Depth Lords.svg]]
 - Connects to [[The Crimson Sage_1]]
 - Related: [[Assets Locations Location City Barkeep Mira Algaebrew Barkeep Mira Algaebrew.svg]]
 - Affected by [[NPC01601_Branwen_Thornweave_the_Lost]]
-- Leads to [[step_086]]
+- Leads to
 - Requires [[step_088 (phase_062)]]
 - Originates from [[LORE00188_History_Entry_189]]
 - Compare with [[Astral Projection Xphb]]
@@ -263,7 +257,7 @@ Needs discrete help with family scandal
 - See also: [[Chain Devil Xmm]]
 - Related: [[The Crystal Watchers]]
 - Originates from [[LOC00279_Cities_Location_280]]
-- Related: [[step_051]]
+- Related:
 - Affected by [[lute-of-thunderous-thumping-xdmg (items)]]
 - Compare with [[MON00077_Constructs_Creature_78]]
 - See also: [[Royal Embassy]]

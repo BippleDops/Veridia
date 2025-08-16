@@ -18,7 +18,6 @@ aliases: [NPC01522 Aldric Ravenheart the Guardian]
 - [[#Lyanna Xendar the Lost (Family - Sibling)|Lyanna Xendar the Lost (Family - Sibling)]]
 - [[#Erasmus Ashford the Mystic (Professional - Employer)|Erasmus Ashford the Mystic (Professional - Employer)]]
 
-
 ---
 aliases: ["Aldric Ravenheart the Guardian", "aldric ravenheart the guardian", "Aldric Ravenheart Guardian", "Guardian the Ravenheart Aldric"]
 tags: [npc, character]
@@ -140,21 +139,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.281Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -164,7 +159,7 @@ Forming expedition to dangerous location
 - Compare with [[Blade Barrier Xphb]]
 - Affected by [[NPC01418_Malakai_Darkwater_the_Broken]]
 - Related: [[Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
-- Connects to [[step_048]]
+- Connects to
 - Connects to [[step_063 (phase_024)]]
 - Compare with [[Downtime Activity Researching Phb]]
 - Affected by [[Assets Locations Location City the Crystal Wardens the Crystal Wardens.svg]]
@@ -186,7 +181,7 @@ Forming expedition to dangerous location
 - Connects to [[Ambassador Reed Treatymaker]]
 - Influences [[Portrait NPC Envoy Blackwater Jr V2 Envoy Blackwater Jr.svg]]
 - Affected by [[location-city-pip-goldleaf-v1-pip-goldleaf.svg]]
-- Connects to [[step_015]]
+- Connects to
 - Influences [[step_003 (phase_093)]]
 - Compare with [[Nurse Helena Brightcare]]
 - Related: [[The Neutral Current]]
@@ -209,10 +204,10 @@ Forming expedition to dangerous location
 - See also: [[ITEM01188_Lesser_Incense_of_Clarity]]
 - Affected by [[Location City Community Leaders Community Leaders.svg]]
 - Compare with [[The Resistance Network (D&D_References)]]
-- Affected by [[step_059]]
+- Affected by
 - Originates from [[Captain Marlowe Tidecrest]]
 - Related: [[Assets Locations Location City Kelp Forest V1 Kelp Forest.svg]]
-- Originates from [[step_092]]
+- Originates from
 - Affected by [[map-map-sunken-crown-crypt-sunken-crown-crypt.svg]]
 - See also: [[Marcus Goldleaf 2]]
 - Related: [[Assets Locations Location City Novelist Current Stories Novelist Current Stories.svg]]
@@ -235,11 +230,11 @@ Forming expedition to dangerous location
 - Influences [[Sorcerer Xphb]]
 - Connects to [[MON00087_Undead_Creature_88]]
 - Originates from [[random-traps-trap-damage-severity (tables)]]
-- Parallels [[step_003]]
+- Parallels
 - Related: [[ITEM00168_Blazing_Bow_of_Slaying]]
 - Connects to [[relic-sloth-scc]]
 - Influences [[Underground Smuggling Networks (D&D_References)]]
-- See also: [[step_016]]
+- See also:
 - Related: [[Pelagic the Current-Walker (D&D_References)]]
 - Connects to [[Handout Handout Ship Manifests with Stamps Ship Manifests with Stamps.png]]
 - Connects to [[Manta Ray (D&D_References)]]
@@ -253,7 +248,7 @@ Forming expedition to dangerous location
 - Influences [[ITEM01363_Sturdy_Rope_of_Reliability]]
 - Related: [[step_097 (phase_010)]]
 - See also: [[step_068 (phase_086)]]
-- Originates from [[step_045]]
+- Originates from
 - Connects to [[MON00165_Undead_Creature_166]]
 - Influences [[Assets Locations Location City the Archive Keepers V1 the Archive Keepers.svg]]
 - Parallels [[Assets Locations Location City Depth Merchant S Consortium V1 Depth Merchant S Consortium.svg]]
@@ -263,7 +258,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

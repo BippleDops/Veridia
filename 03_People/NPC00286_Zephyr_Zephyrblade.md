@@ -18,7 +18,6 @@ aliases: [NPC00286 Zephyr Zephyrblade]
 - [[#Idris Ashford the Mystic (Family - Cousin)|Idris Ashford the Mystic (Family - Cousin)]]
 - [[#Brenna Zephyrblade the Wise (Family - Parent)|Brenna Zephyrblade the Wise (Family - Parent)]]
 
-
 ---
 aliases: ["Zephyr Zephyrblade", "zephyr zephyrblade", "Zephyrblade Zephyr"]
 tags: [npc, character]
@@ -156,21 +155,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.144Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -215,7 +210,7 @@ Needs discrete help with family scandal
 - Connects to [[LORE00271_History_Entry_272]]
 - Affected by [[exotic-saddle-xphb (items)]]
 - Requires [[step_024 (phase_065)]]
-- Influences [[step_024]]
+- Influences
 - Compare with [[Memory Crystals 2]]
 - See also: [[demilich]]
 - Connects to [[Commercial District 2]]
@@ -269,7 +264,7 @@ Needs discrete help with family scandal
 - Compare with [[mind-blank-xphb (spells)]]
 - Influences [[Scroll of Titan Summoning Colossus Xdmg]]
 - Related: [[LOC00197_Dungeons_Location_198]]
-- Requires [[step_096]]
+- Requires
 - See also: [[The Deep Sovereign]]
 - Originates from [[forgotten-realms-mielikki (deities)]]
 - Affected by [[step_017 (phase_073)]]
@@ -279,7 +274,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

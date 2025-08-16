@@ -18,7 +18,6 @@ aliases: [NPC01273 Alaric Ironwood the Guardian]
 - [[#Cedric Quicksilver the Broken (Criminal - Target)|Cedric Quicksilver the Broken (Criminal - Target)]]
 - [[#Rhiannon Dawnstrider the Swift (Personal - Nemesis)|Rhiannon Dawnstrider the Swift (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Alaric Ironwood the Guardian", "alaric ironwood the guardian", "Alaric Ironwood Guardian", "Guardian the Ironwood Alaric"]
 tags: [npc, character]
@@ -153,28 +152,24 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.255Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Connects to [[Assets Item Artifact Ioun Stone Greater Absorption Xdmg V1 Ioun Stone Greater Absorption Xdmg.png]]
 - Influences [[step_095 (phase_037)]]
 - Related: [[Grand Master Tempest Windvoic]]
-- Affected by [[step_012]]
+- Affected by
 - Leads to [[Assets Locations Location City Vault Keeper Aurelia Crownguard Vault Keeper Aurelia Crownguard.svg]]
 - Parallels [[ENC00181_Combat_Encounter_182]]
 - Parallels [[Prince Aurelius Lumengarde 2]]
@@ -187,7 +182,7 @@ Has information about legendary item
 - Compare with [[Void Spaces 2]]
 - Originates from [[MUSIC_INDEX]]
 - See also: [[step_015 (phase_077)]]
-- Connects to [[step_041]]
+- Connects to
 - Connects to [[ram-xdmg (objects)]]
 - Influences [[parry-xphb (optional-features)]]
 - Leads to [[DUN00034_Dungeon_35]]
@@ -217,7 +212,7 @@ Has information about legendary item
 - Compare with [[Symbol Heraldry the Deepwatch Guard the Deepwatch Guard.svg]]
 - Connects to [[baphomet-mtf (legendary-group)]]
 - Requires [[SHOP00015_Specialty_Shop_16]]
-- Requires [[step_020]]
+- Requires
 - Influences [[Royal Physician Doctor Prism-Heart Matthias]]
 - Influences [[step_015 (phase_058)]]
 - Leads to [[LOC00104_Cities_Location_105]]
@@ -237,7 +232,7 @@ Has information about legendary item
 - Originates from [[High Court]]
 - Leads to [[Obsidian Xdmg]]
 - Connects to [[location-city-aethermoor-aethermoor.svg]]
-- Influences [[step_080]]
+- Influences
 - Affected by [[Great Plague of Ages Past 2]]
 - Related: [[ITEM01485_Elegant_Tool_Kit_of_Convenience]]
 - Related: [[step_083 (phase_052)]]
@@ -245,7 +240,7 @@ Has information about legendary item
 - Related: [[bag-of-tricks-xdmg (items)]]
 - See also: [[Portrait NPC High King Aurelius Skyborn High King Aurelius Skyborn.svg_1 (Portraits)]]
 - Influences [[step_005 (phase_077)]]
-- Leads to [[step_091]]
+- Leads to
 - Compare with [[Travel_and_Navigation_Reference]]
 - See also: [[10 Combat#dropping to 0 Hit Points#monsters and Death]]
 - Influences [[Magic Item Table F]]
@@ -258,7 +253,7 @@ Has information about legendary item
 - Requires [[MON00165_Undead_Creature_166]]
 - Influences [[step_077 (phase_058)]]
 - Related: [[Memory Coherence Analyzer]]
-- See also: [[step_013]]
+- See also:
 - Influences [[Staff of Charming Xdmg]]
 - Leads to [[01_Adventures_The_Annual_Renewal]]
 - Influences [[Portrait NPC Emperor Thalassius the Wise V2 Emperor Thalassius the Wise.svg_1 (Portraits)]]
@@ -276,7 +271,6 @@ Has information about legendary item
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

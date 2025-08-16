@@ -18,7 +18,6 @@ aliases: [Character Journals]
 - [[#Thematic Connections|Thematic Connections]]
 - [[#D&D 5e References|D&D 5e References]]
 
-
 -tags: [generated, linked, combat, magic]ed]
 created: 2025-08-15T12:34:11.169117
 ---
@@ -76,8 +75,7 @@ Divine guidance and healing records
 - [[MOC_NPCs]]
 - [[11 Spellcasting]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[11 Rules Glossary]]
@@ -87,11 +85,10 @@ Divine guidance and healing records
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -116,24 +113,24 @@ Divine guidance and healing records
 - Leads to [[The Temple of Eternal Tides]]
 - See also: [[Great Silence 2]]
 - Parallels [[Astral Skiff Mtf]]
-- Requires [[step_063]]
+- Requires
 - Related: [[QUEST00171_Personal_Quest_172]]
 - See also: [[Goldhorn the Magnificen 2]]
 - Compare with [[Quality Inspector Wave Purewater (D&D_References)]]
 - Parallels [[Sensory_Enhancement_Template]]
 - See also: [[step_036 (phase_037)]]
-- Leads to [[step_083]]
+- Leads to
 - Connects to [[step_005 (phase_027)]]
 - Leads to [[giant-owl-xmm (celestial)]]
 - Affected by [[LOC00092_Cities_Location_93]]
 - Originates from [[Swear Words and Curses]]
 - See also: [[QUEST0013_The_Crystal_Cave_Uprising]]
 - Parallels [[Location City War of the Sunless Depths War of the Sunless Depths.svg]]
-- Requires [[step_040]]
+- Requires
 - Originates from [[${chosenPath}]]
 - See also: [[The Grand Bazaar of Echoing Coins 2]]
 - Related: [[step_058 (phase_014)]]
-- Parallels [[step_081]]
+- Parallels
 - Originates from [[Handout Handout Smuggler Ledger Page V1 Smuggler Ledger Page.png]]
 - Requires [[Crisis Management]]
 - Related: [[Assets Item Artifact Poisoners Kit Xphb V1 Poisoners Kit Xphb.png]]
@@ -164,7 +161,7 @@ Divine guidance and healing records
 - Leads to [[Goldwave Manor]]
 - Parallels [[step_063 (phase_096)]]
 - Compare with [[DUN00037_Dungeon_38]]
-- Affected by [[step_095]]
+- Affected by
 - Influences [[The Unknown Original (D&D_References)]]
 - Parallels [[Harbor Wall (D&D_References)]]
 - See also: [[step_067 (phase_048)]]
@@ -179,11 +176,11 @@ Divine guidance and healing records
 - Affected by [[Timeline of the Drowning (Lore)]]
 - Originates from [[Portrait NPC Abyssos Prime Throne of Bubbles V1 Abyssos Prime Throne of Bubbles.svg]]
 - Parallels [[step_065 (phase_006)]]
-- See also: [[step_042]]
+- See also:
 - Leads to [[sword-of-answering-answerer (items)]]
 - See also: [[LOC00000_Cities_Location_1]]
 - Compare with [[location-city-crimson-reef-crimson-reef.svg]]
-- Related: [[step_049]]
+- Related:
 - Influences [[Handout Handout Ship Manifests with Stamps Ship Manifests with Stamps.png]]
 - Leads to [[Quest - Portal Conspiracy 2]]
 - Influences [[elven-solonor-thelandira-mtf (deities)]]
@@ -191,7 +188,7 @@ Divine guidance and healing records
 - Related: [[Item Artifact Enspelled Armor Level 7 Xdmg V4 Enspelled Armor Level 7 Xdmg.png]]
 - Requires [[ENC00398_Combat_Encounter_399]]
 - Leads to [[Assets Locations Location City Madame Rosalind Goldleaf V1 Madame Rosalind Goldleaf.svg]]
-- Requires [[step_024]]
+- Requires
 - See also: [[The Deepwater Terminal]]
 - Influences [[Scholar Thomas Precedent 2]]
 - Leads to [[Assets Locations Location City the Primordial Vaults the Primordial Vaults.svg]]
@@ -215,7 +212,6 @@ Divine guidance and healing records
 ![[03_People/portrait_character_sheet.png]]
 ![[03_People/portrait_cross_campaign_characters_dramatic.png]]
 ![[03_People/token_character_name_medium_bloodied.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

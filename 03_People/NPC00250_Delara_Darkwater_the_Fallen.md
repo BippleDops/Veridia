@@ -18,7 +18,6 @@ aliases: [NPC00250 Delara Darkwater the Fallen]
 - [[#Lyanna Voidwalker the Scholar (Professional - Employee)|Lyanna Voidwalker the Scholar (Professional - Employee)]]
 - [[#Delara Underhill the Mystic (Professional - Employer)|Delara Underhill the Mystic (Professional - Employer)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Delara Darkwater the Fallen", "delara darkwater the fallen", "Delara Darkwater Fallen", "Fallen the Darkwater Delara"]
@@ -148,16 +147,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.140Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -179,11 +175,10 @@ Seeks bodyguards for dangerous journey
 - [[NPC00703_Elric_Dawnstrider_the_Swift]]
 - [[NPC01201_Felicia_Ironwood_the_Bold]]
 - [[NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -192,11 +187,10 @@ Seeks bodyguards for dangerous journey
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -208,7 +202,7 @@ Seeks bodyguards for dangerous journey
 - Compare with [[NPC00534_Xander_Ironwood]]
 - Affected by [[step_038 (phase_026)]]
 - Leads to [[Temple of the Healing Waters]]
-- Compare with [[step_074]]
+- Compare with
 - Compare with [[MON00000_Undead_Creature_1]]
 - Compare with [[Session 02 the Crystal Fever]]
 - Related: [[Assets Locations Location City the Recursion Cult V1 the Recursion Cult.png]]
@@ -222,9 +216,9 @@ Seeks bodyguards for dangerous journey
 - Compare with [[step_072 (phase_090)]]
 - Leads to [[Key Officer]]
 - Related: [[NPC01396_Delara_Proudmore_the_Risen]]
-- Influences [[step_100]]
+- Influences
 - Related: [[03_Mechanics_Communication_Systems_Quick_Ref]]
-- Compare with [[step_074]]
+- Compare with
 - Parallels [[Assets Locations Location City Nightmare Protection V1 Nightmare Protection.svg]]
 - Leads to [[QUEST00412_Side_Quest_413]]
 - See also: [[speak-with-animals-xphb (spells)]]
@@ -234,7 +228,7 @@ Seeks bodyguards for dangerous journey
 - Leads to [[Quest - Medical Conspiracy]]
 - Influences [[EVENT00040_Political_Event_41]]
 - Originates from [[LOC0113_WestBridge]]
-- Compare with [[step_094]]
+- Compare with
 - Connects to [[aura-of-purity-xphb (spells)]]
 - Affected by [[Portrait NPC Quest the Prophecy Fulfilled Quest the Prophecy Fulfilled.svg]]
 - Affected by [[NPC00222_Hestara_Thornweave]]
@@ -249,7 +243,7 @@ Seeks bodyguards for dangerous journey
 - Connects to [[razorvine-xdmg (traps-hazards)]]
 - Influences [[Policy Analyst Shadowthink]]
 - Related: [[University System (D&D_References)]]
-- Originates from [[step_044]]
+- Originates from
 - Affected by [[Assets Locations Location City Palace Security Chief Palace Security Chief.svg]]
 - Influences [[Hand Crossbow Xphb]]
 - Compare with [[LORE00217_History_Entry_218]]
@@ -274,23 +268,23 @@ Seeks bodyguards for dangerous journey
 - See also: [[QUEST00036_Side_Quest_37]]
 - Affected by [[NPC00598_Idris_Brightblade]]
 - Related: [[step_004 (phase_009)]]
-- Related: [[step_090]]
+- Related:
 - Leads to [[step_057 (phase_054)]]
 - Connects to [[The Gilded Anchor (D&D_References)]]
 - Compare with [[ITEM00273_Shadow_Hammer_of_the_Ancients]]
-- Influences [[step_043]]
+- Influences
 - Originates from [[The Free Traders Alliance (D&D_References)]]
 - Influences [[list-spells-races-elf-eladrin-dmg (lists)]]
 - Related: [[halfling-urogalan-mtf (deities)]]
 - Connects to [[The Consciousness Shard Discovery]]
 - Originates from [[Portrait NPC Memory Harvester Kythara V2 Memory Harvester Kythara.svg]]
-- Related: [[step_006]]
+- Related:
 - Originates from [[Armor of Resistance Xdmg]]
 - Originates from [[vehicle-ship-maelstrom-tug-v1-maelstrom-tug.svg]]
 - Affected by [[Reality Bridge Construction]]
 - Related: [[djinni-xmm (elemental)]]
-- Compare with [[step_027]]
-- Originates from [[step_065]]
+- Compare with
+- Originates from
 - Affected by [[Assets Locations Location City the Cerulean Trench the Cerulean Trench.svg]]
 - Influences [[step_052 (phase_099)]]
 - See also: [[investiture-of-flame-xge (spells)]]
@@ -305,7 +299,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01521 Malakai Proudmore the Bold]
 - [[#Jorah Grimholt the Scholar (Criminal - Fence)|Jorah Grimholt the Scholar (Criminal - Fence)]]
 - [[#Corvus Quicksilver the Wanderer (Professional - Employer)|Corvus Quicksilver the Wanderer (Professional - Employer)]]
 
-
 ---
 aliases: ["Malakai Proudmore the Bold", "malakai proudmore the bold", "Malakai Proudmore Bold", "Bold the Proudmore Malakai"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.281Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,12 +177,12 @@ Knows secret about major threat
 - Parallels [[Ancestor's Pool 2]]
 - Originates from [[step_034 (phase_097)]]
 - Requires [[witherbloom-primer-scc (items)]]
-- Parallels [[step_064]]
+- Parallels
 - Leads to [[step_094 (phase_047)]]
 - Requires [[Assets Locations Location City Dr Reef Brightwater Dr Reef Brightwater.svg]]
 - Compare with [[step_075 (phase_060)]]
 - See also: [[Memory Merchant Valeria (D&D_References)]]
-- Connects to [[step_081]]
+- Connects to
 - Related: [[Bloodied Xphb]]
 - Affected by [[Portrait NPC the Nameless Auditor the Nameless Auditor.svg]]
 - Influences [[ENC0080_Random_Encounter_81]]
@@ -220,10 +215,10 @@ Knows secret about major threat
 - Requires [[elf-names-male-adult-xge (tables)]]
 - Parallels [[Assets Portraits Portrait NPC Duke Hadal Duke Hadal.svg]]
 - Leads to [[ritual-xphb (variant-rules)]]
-- Originates from [[step_099]]
+- Originates from
 - Affected by [[Dark Gift of Yog the Invincible Cos]]
 - Originates from [[yochlol-xmm (fiend)]]
-- Compare with [[step_063]]
+- Compare with
 - Connects to [[Sky_Trader_Zephyr_Windcatcher.png]]
 - Parallels [[MON00047_Constructs_Creature_48]]
 - Leads to [[ITEM01090_Superior_Potion_of_Vigor]]
@@ -247,7 +242,7 @@ Knows secret about major threat
 - Originates from [[Master Builder Caelum Vortexwright]]
 - Compare with [[step_096 (phase_064)]]
 - Requires [[dragon-turtle-xmm (dragon)]]
-- Requires [[step_040]]
+- Requires
 - Originates from [[vicious-weapon-xdmg (items)]]
 - Connects to [[Assets Locations Location City Reality Monitoring Specialists Reality Monitoring Specialists.svg]]
 - Connects to [[NPC00532_Urien_Silverleaf_the_Cunning]]
@@ -255,7 +250,7 @@ Knows secret about major threat
 - Connects to [[step_050 (phase_063)]]
 - Related: [[The Zone Consciousness Awakening]]
 - Parallels [[Assets Locations Location City the Plague Ward the Plague Ward.svg]]
-- Originates from [[step_010]]
+- Originates from
 - Influences [[Natural Order Movement (Orders)]]
 - Related: [[chambers-exit-location (tables)]]
 - See also: [[step_093 (phase_026)]]
@@ -273,7 +268,6 @@ Knows secret about major threat
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

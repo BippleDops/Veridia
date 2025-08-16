@@ -18,7 +18,6 @@ aliases: [NPC00605 Solas Goldleaf the Redeemed]
 - [[#Jorah Ironforge the Scholar (Political - Puppet)|Jorah Ironforge the Scholar (Political - Puppet)]]
 - [[#Rhiannon Keenblade the Wise (Political - Opposition)|Rhiannon Keenblade the Wise (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Solas Goldleaf the Redeemed", "solas goldleaf the redeemed", "Solas Goldleaf Redeemed", "Redeemed the Goldleaf Solas"]
@@ -142,27 +141,23 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.182Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -172,11 +167,10 @@ Discovered something valuable
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -200,10 +194,10 @@ Discovered something valuable
 - Compare with [[step_018 (phase_065)]]
 - Parallels [[Scholar Dr Vera Theological]]
 - Connects to [[Folk Hero]]
-- Leads to [[step_029]]
+- Leads to
 - Related: [[Boon of Recovery Xphb]]
 - Related: [[step_088 (phase_088)]]
-- Originates from [[step_080]]
+- Originates from
 - Originates from [[ENC00278_Combat_Encounter_279]]
 - See also: [[step_044 (phase_059)]]
 - Leads to [[step_023 (phase_098)]]
@@ -253,7 +247,7 @@ Discovered something valuable
 - Leads to [[Emergency Navigation Coordinator Storm Guidewright]]
 - Compare with [[psychic-gray-ooze-xmm (ooze)]]
 - Related: [[step_017 (phase_061)]]
-- Related: [[step_003]]
+- Related:
 - Compare with [[The Memory Weapon Vault (D&D_References)]]
 - Leads to [[QUEST00143_Personal_Quest_144]]
 - Compare with [[LOC00049_Planes_Location_50]]
@@ -262,9 +256,9 @@ Discovered something valuable
 - Related: [[The Scribes' Covenant 2]]
 - Leads to [[ENC0000_Random_Encounter_1]]
 - Leads to [[satyr-xmm (fey)]]
-- Connects to [[step_433]]
+- Connects to
 - Parallels [[Blue Dragon]]
-- Connects to [[step_025]]
+- Connects to
 - Related: [[step_025 (phase_072)]]
 - Parallels [[The Quantum Accountant (D&D_References)]]
 - Related: [[MON00166_Undead_Creature_167]]
@@ -285,7 +279,6 @@ Discovered something valuable
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
 ![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

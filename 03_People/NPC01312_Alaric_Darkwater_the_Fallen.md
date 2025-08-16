@@ -18,7 +18,6 @@ aliases: [NPC01312 Alaric Darkwater the Fallen]
 - [[#Solas Hawthorne the Guardian (Professional - Partner)|Solas Hawthorne the Guardian (Professional - Partner)]]
 - [[#Branwen Xendar the Mystic (Personal - Nemesis)|Branwen Xendar the Mystic (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Alaric Darkwater the Fallen", "alaric darkwater the fallen", "Alaric Darkwater Fallen", "Fallen the Darkwater Alarictags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -148,16 +147,13 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.259Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -185,11 +181,10 @@ Modifications:
 - [[MOC_Rules]]
 - [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
 - [[Combat_Encounter_Analysis]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -197,11 +192,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -219,24 +213,24 @@ Modifications:
 - Compare with [[step_007 (phase_084)]]
 - Related: [[Marcus Ironwrigh]]
 - Compare with [[portrait-npc-the-emperor-the-emperor.svg]]
-- Requires [[step_093]]
+- Requires
 - Compare with [[Mace of Smiting Xdmg]]
 - Influences [[Invisibility Cloaks]]
 - Affected by [[Supervisor Voidwharf]]
 - Connects to [[Convergence Engine 2]]
 - Influences [[NPC00676_Qadim_Nightfall_the_Seeker]]
 - Compare with [[step_039 (phase_005)]]
-- Compare with [[step_025]]
+- Compare with
 - Requires [[Merchant Lord Cornelius Generous (D&D_References)]]
 - Connects to [[step_028 (phase_039)]]
 - Influences [[Assets Locations [[Location City Pressure Tube System Pressure Tube System.svg]]]]
 - Connects to [[World_Map_Layers 2 (D&D_References)]]
-- Requires [[step_044]]
+- Requires
 - Originates from [[Quick_NPC (02_Worldbuilding)]]
 - Parallels [[The Tempest Faithful]]
 - Connects to [[step_006 (phase_019)]]
-- Parallels [[step_021]]
-- Originates from [[step_070]]
+- Parallels
+- Originates from
 - Parallels [[Map Map Pressure Dome Bazaar V2 Pressure Dome Bazaar.svg]]
 - Related: [[portrait-npc-deep-lords-v2-deep-lords.svg]]
 - Connects to [[step_008 (phase_050)]]
@@ -266,8 +260,8 @@ Modifications:
 - Influences [[flour-xdmg (items)]]
 - Requires [[Master Cartographer Current Deepmap]]
 - Connects to [[[[Retired Captain Bron Saltbeard]] 2]]
-- See also: [[step_004]]
-- See also: [[step_059]]
+- See also:
+- See also:
 - Leads to [[Determine [[Aquabyssos]] (Lore)]]
 - See also: [[README]]
 - Related: [[Location City [[Reality Anchoring Technology]] V1 Reality Anchoring Technology.svg]]
@@ -275,22 +269,22 @@ Modifications:
 - Originates from [[DUN00145_Dungeon_146]]
 - See also: [[giant-eagle-xmm]]
 - See also: [[Faerie Dragon Youth Xmm]]
-- Influences [[step_062]]
+- Influences
 - Related: [[giant-insect-xphb (spells)]]
 - Affected by [[Handout Handout Aged Treasure Map V2 Aged Treasure Map.png]]
-- Leads to [[step_066]]
+- Leads to
 - Affected by [[List Spells Optional Features Eternal]]
 - Affected by [[QUEST0070_The_Sacred_Heir]]
 - See also: [[gunpowder-keg-xdmg (items)]]
 - Leads to [[step_051 (phase_047)]]
-- Originates from [[step_037]]
-- Originates from [[step_017]]
-- Compare with [[step_023]]
+- Originates from
+- Originates from
+- Compare with
 - Related: [[Final Messages]]
 - Compare with [[02_Worldbuilding_Lore_Aboleth_Mind_Mazes]]
 - Leads to [[Portrait NPC Captain Dr Bloodletting Captain Dr Bloodletting.svg]]
 - Originates from [[NPC0116_Leopold_Goldleaf_the_Cunning]]
-- Leads to [[step_006]]
+- Leads to
 - Parallels [[ITEM01122_Concentrated_Crystal_of_Swiftness]]
 - Parallels [[Creature Creature Young Green Dragon Xmm Young Green Dragon Xmm.png]]
 - Leads to [[zaratan-mpmm (elemental)]]
@@ -310,7 +304,6 @@ Modifications:
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

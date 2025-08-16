@@ -18,7 +18,6 @@ aliases: [Measurement Guide Depth and Pressur]
 - [[#Contradictions Improvements|Contradictions Improvements]]
 - [[#Material_Culture Improvements|Material_Culture Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Measurement_Guide_Depth_and_Pressur
@@ -124,14 +123,12 @@ tags: [combat, lore]
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 > [!info] ℹ️ Info
 > Additional context or lore
 
 ## See Also
 - [[NPC00885_Kaelen_Xendar_the_Lost]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -140,7 +137,6 @@ tags: [combat, lore]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -194,19 +190,19 @@ tags: [combat, lore]
 - See also: [[step_024 (phase_080)]]
 - Influences [[Beta Leader Torres Coastalambush]]
 - Related: [[instrument-of-the-bards-canaith-mandolin-xdmg (items)]]
-- Affected by [[step_080]]
+- Affected by
 - Compare with [[Shadow Contamination Scanners]]
 - Connects to [[ITEM01323_Decorated_Lantern_of_Convenience]]
 - Requires [[Template Starsystem Placeholder.png]]
-- Affected by [[step_004]]
-- Parallels [[step_081]]
-- See also: [[step_068]]
+- Affected by
+- Parallels
+- See also:
 - Requires [[MON00033_Constructs_Creature_34]]
 - Parallels [[step_078 (phase_079)]]
 - Parallels [[ITEM00696_Warded_Shield_of_the_Guardian]]
 - Connects to [[step_070 (phase_044)]]
 - Affected by [[step_091 (phase_076)]]
-- Originates from [[step_027]]
+- Originates from
 - Originates from [[step_026 (phase_084)]]
 - Originates from [[High Priestess Celeste Dawnbringer]]
 - Requires [[Rod of the Pact Keeper Xdmg]]
@@ -247,7 +243,7 @@ tags: [combat, lore]
 - Requires [[quaals-feather-token-xdmg (items)]]
 - Connects to [[NPC00100_Faelyn_Ravenheart]]
 - Affected by [[NPC00766_Alaric_Grimholt_the_Seeker]]
-- Related: [[step_062]]
+- Related:
 - Influences [[step_012 (phase_094)]]
 - Parallels [[Location City the Exotic Emporium V1 the Exotic Emporium.svg]]
 

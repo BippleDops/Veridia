@@ -18,7 +18,6 @@ aliases: [NPC00115 Malakai Ironwood]
 - [[#Qadim Stormwind the Bold (Criminal - Informant)|Qadim Stormwind the Bold (Criminal - Informant)]]
 - [[#Wynne Moonshadow (Criminal - Accomplice)|Wynne Moonshadow (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Malakai Ironwood", "malakai ironwood", "Ironwood Malakai"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.124Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,7 +171,7 @@ Requires champions for trial by combat
 - See also: [[Harbormaster Tidal Stormcrest (D&D_References)]]
 - Originates from [[Location City the Null Cathedral V1 the Null Cathedral.svg]]
 - Influences [[step_074 (phase_021)]]
-- Influences [[step_058]]
+- Influences
 - Connects to [[12_Research_D&D_Statblocks_The_Synthesis_Gardens]]
 - Related: [[Vote Vaults 2]]
 - Related: [[green-copper-ewer-cos (items)]]
@@ -197,11 +192,11 @@ Requires champions for trial by combat
 - Compare with [[rust-monster-xmm]]
 - Parallels [[Cart Xphb]]
 - Related: [[dwarven-fortitude-xge (feats)]]
-- Affected by [[step_032]]
+- Affected by
 - Requires [[step_044 (phase_040)]]
 - Connects to [[Ring of Elemental Command Earth Xdmg]]
 - Related: [[04_Resources_Assets_Locations_location-city-the-drowning-truth-the-drowning-truth.svg]]
-- Leads to [[step_061]]
+- Leads to
 - See also: [[NPC01788_Gavril_Underhill_the_Mystic]]
 - Compare with [[Drow Spore Servant Oota]]
 - Influences [[The Wake]]
@@ -232,7 +227,7 @@ Requires champions for trial by combat
 - See also: [[step_028 (phase_037)]]
 - Influences [[Princess Celestia (D&D_References)]]
 - Related: [[step_029 (phase_027)]]
-- See also: [[step_016]]
+- See also:
 - See also: [[Slippery Ice Xdmg]]
 - Compare with [[step_049 (phase_097)]]
 - Connects to [[Magic Item Table F]]
@@ -248,11 +243,11 @@ Requires champions for trial by combat
 - Related: [[create-or-destroy-water-xphb (spells)]]
 - Requires [[NPC00670_Xander_Goldleaf_the_Scholar]]
 - Leads to [[Freedrift Network (D&D_References)]]
-- Requires [[step_049]]
+- Requires
 - Compare with [[Assets Locations Location City Aquabyssos V1 Aquabyssos.svg]]
 - Requires [[step_023 (phase_021)]]
 - Compare with [[Corruption Gardens 2]]
-- Affected by [[step_011]]
+- Affected by
 - Leads to [[elixir-of-health-xdmg (items)]]
 - Requires [[The Great Trade Routes (D&D_References)]]
 - Originates from [[LORE00265_Prophecies_Entry_266]]
@@ -260,7 +255,7 @@ Requires champions for trial by combat
 - Parallels [[Bead of Force Xdmg]]
 - Related: [[ITEM01328_Masterwork_Lock_of_Reliability]]
 - Affected by [[Location City International Trade Agreements International Trade Agreements.svg]]
-- Affected by [[step_090]]
+- Affected by
 - Compare with [[Map Map Singing Trenches Rift V1 Singing Trenches Rift.svg]]
 - Compare with [[step_044 (phase_016)]]
 - Affected by [[Portrait NPC Shadow Broker Mist V1 Shadow Broker Mist.svg_1 (Portraits)]]
@@ -271,7 +266,6 @@ Requires champions for trial by combat
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

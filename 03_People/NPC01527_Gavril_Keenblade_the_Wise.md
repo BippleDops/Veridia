@@ -18,7 +18,6 @@ aliases: [NPC01527 Gavril Keenblade the Wise]
 - [[#Idris Jadeclaw the Risen (Family - Parent)|Idris Jadeclaw the Risen (Family - Parent)]]
 - [[#Lyanna Zephyrblade the Cunning (Family - Cousin)|Lyanna Zephyrblade the Cunning (Family - Cousin)]]
 
-
 ---
 aliases: ["Gavril Keenblade the Wise", "gavril keenblade the wise", "Gavril Keenblade Wise", "Wise the Keenblade Gavril"]
 tags: [npc, character]
@@ -144,38 +143,34 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.282Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Originates from [[Assets Symbols Symbol Heraldry the Great Recognition the Great Recognition.svg]]
 - Originates from [[Assets Portraits Portrait NPC Crystal Plague Infected Npcs Crystal Plague Infected Npcs.svg]]
-- Related: [[step_020]]
+- Related:
 - Compare with [[EVENT00052_Natural_Event_53]]
 - Leads to [[step_064 (phase_013)]]
 - Influences [[step_086 (phase_054)]]
 - Compare with [[step_076 (phase_007)]]
 - Compare with [[Legal Profession 2]]
 - Originates from [[step_069 (phase_016)]]
-- Compare with [[step_016]]
+- Compare with
 - Compare with [[portrait-npc-the-siren-the-siren.svg_1 (Portraits)]]
 - See also: [[QUEST0062_In_Search_of_Peace]]
 - Influences [[Federation of Crystal Trader]]
-- Requires [[step_056]]
+- Requires
 - Affected by [[NPC00047_Branwen_Emberfall]]
 - Affected by [[DUN00182_Dungeon_183]]
 - Influences [[Assets Locations Location City the Pressure Forges the Pressure Forges.svg]]
@@ -200,7 +195,7 @@ Needs help with personal quest
 - Connects to [[Quest - The Corruption Cure]]
 - Parallels [[Portrait NPC the Scattered Emperor the Scattered Emperor.svg]]
 - Compare with [[NPC01597_Gavril_Nightfall_the_Swift]]
-- Leads to [[step_008]]
+- Leads to
 - Influences [[The Azure Shard]]
 - Requires [[Quest - The Silver Revolution_1 (01_Adventures)]]
 - Parallels [[The Convergence Crisis 2]]
@@ -218,17 +213,17 @@ Needs help with personal quest
 - Originates from [[step_036 (phase_089)]]
 - See also: [[Magic Users 2]]
 - See also: [[Customs Chief Marina Depthwatch]]
-- Compare with [[step_022]]
+- Compare with
 - Connects to [[step_005 (phase_021)]]
 - Requires [[ITEM00850_Infernal_Mirror_of_Eternity]]
-- Originates from [[step_060]]
+- Originates from
 - Leads to [[forgotten-realms-milil (deities)]]
 - Originates from [[LOC0079_PortPeak]]
 - Originates from [[Theological Education]]
 - Related: [[SPELL00038_Arcane_Spell_39]]
 - Compare with [[LOC00004_Towns_Location_5]]
 - Influences [[Royal Bloodline Powers 2]]
-- Originates from [[step_047]]
+- Originates from
 - Leads to [[Treasure_System - Pressure_Artifacts (D&D_References)]]
 - Parallels [[Seven Pillars of Redirection Theory]]
 - Connects to [[bronze-dragon-scale-mail-xdmg (items)]]
@@ -252,7 +247,7 @@ Needs help with personal quest
 - Compare with [[ITEM01150_Distilled_Potion_of_Clarity]]
 - Leads to [[Assets Item Artifact Whelm Xdmg Whelm Xdmg.png]]
 - Affected by [[boots-of-striding-and-springing-xdmg (items)]]
-- Requires [[step_053]]
+- Requires
 - Compare with [[Quest - Cultural Preservation]]
 - Compare with [[Assets Handouts Handout Handout Smuggler Ledger Page V2 Smuggler Ledger Page.png]]
 - Related: [[ENC00135_Social_Encounter_136]]
@@ -267,7 +262,6 @@ Needs help with personal quest
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

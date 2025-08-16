@@ -18,7 +18,6 @@ aliases: [Party Inventory]
 - [[#Game Mechanics|Game Mechanics]]
 - [[#D&D 5e References|D&D 5e References]]
 
-
 ---
 title: Party_Inventory
 type: note
@@ -74,7 +73,6 @@ modified: '2025-08-14'
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 > [!info] ℹ️ Info
 > Additional context or lore
 
@@ -107,12 +105,10 @@ modified: '2025-08-14'
 - [[05 Personality and Background]]
 - [[10 Combat]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -124,7 +120,7 @@ modified: '2025-08-14'
 
 - Requires [[location-city-the-tidecaller-v1-the-tidecaller.svg]]
 - Affected by [[Ring of Elemental Command Water Xdmg]]
-- Requires [[step_064]]
+- Requires
 - Compare with [[step_082 (phase_060)]]
 - Requires [[EVENT00026_Magical_Event_27]]
 - Requires [[NPC00334_Thalia_Moonshadow_the_Redeemed]]
@@ -143,7 +139,7 @@ modified: '2025-08-14'
 - Compare with [[NPC01428_Malakai_Ashford_the_Scholar]]
 - Compare with [[LOC00275_Towns_Location_276]]
 - Related: [[Revivify Xphb]]
-- Affected by [[step_060]]
+- Affected by
 - Connects to [[step_093 (phase_061)]]
 - Related: [[Pearlshell 2]]
 - Affected by [[SPELL00078_Nature_Spell_79]]
@@ -162,7 +158,7 @@ modified: '2025-08-14'
 - Requires [[Bubble District (D&D_References)]]
 - Originates from [[Assets Symbols Symbol Heraldry Welfare Director Caretake V1 Welfare Director Caretake.svg]]
 - Compare with [[Drow Lolth Mtf]]
-- Affected by [[step_061]]
+- Affected by
 - Affected by [[NPC01892_Gareth_Xendar_the_Scholar]]
 - Affected by [[Viscountess Helena Saltmere]]
 - Connects to [[Whispers & Memories Emporium]]
@@ -188,7 +184,7 @@ modified: '2025-08-14'
 - Connects to [[Elf Eladrin Dmg]]
 - Requires [[Assets Locations Location City Senator Morticia Graveheart V1 Senator Morticia Graveheart.svg]]
 - Originates from [[The Last Words]]
-- Connects to [[step_075]]
+- Connects to
 - Compare with [[Shadow Portal Nexus 2]]
 - Affected by [[NPC00537_Jorah_Youngblood_the_Cunning]]
 - Connects to [[step_061 (phase_090)]]
@@ -199,10 +195,10 @@ modified: '2025-08-14'
 - Requires [[Pressure Safety Authority]]
 - Compare with [[Senator Glaucus Brain 2]]
 - Parallels [[Portrait NPC Lord Commander Gareth Steelborn Lord Commander Gareth Steelborn.svg]]
-- Requires [[step_013]]
+- Requires
 - Affected by [[Councilor Nerida Constitutionalist]]
 - Affected by [[Deep Current Flowmaster (D&D_References)]]
-- Parallels [[step_050]]
+- Parallels
 - Parallels [[Temporal Anomaly Zones 2]]
 - Connects to [[Manual of Quickness of Action Xdmg]]
 - Requires [[ITEM0064_Ancient_Blade_of_the_Dawn]]
@@ -219,7 +215,7 @@ modified: '2025-08-14'
 - See also: [[ITEM01346_Simple_Map_Case_of_Convenience]]
 - Originates from [[Services Void Incursion Risk Assessment]]
 - Leads to [[step_059 (phase_100)]]
-- Affected by [[step_062]]
+- Affected by
 - See also: [[Realm Authorities]]
 - Related: [[LORE00266_History_Entry_267]]
 

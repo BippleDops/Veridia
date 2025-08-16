@@ -18,7 +18,6 @@ aliases: [NPC00418 Ysara Zephyrblade the Redeemed]
 - [[#Urien Jadeclaw the Guardian (Criminal - Informant)|Urien Jadeclaw the Guardian (Criminal - Informant)]]
 - [[#Wynne Goldleaf the Mystic (Family - Spouse)|Wynne Goldleaf the Mystic (Family - Spouse)]]
 
-
 ---
 aliases: ["Ysara Zephyrblade the Redeemed", "ysara zephyrblade the redeemed", "Ysara Zephyrblade Redeemed", "Redeemed the Zephyrblade Ysara"]
 tags: [npc, character]
@@ -152,31 +151,27 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.160Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Originates from [[Portrait NPC Professor Aldric Crystalweaver V1 Professor Aldric Crystalweaver.svg_1 (Portraits)]]
 - Leads to [[Secret Vault Beneath Throne (D&D_References)]]
-- Leads to [[step_008]]
+- Leads to
 - Requires [[Military Command 2]]
 - Related: [[creature-creature-griffon-xmm-griffon-xmm.png]]
-- Connects to [[step_050]]
-- See also: [[step_078]]
+- Connects to
+- See also:
 - See also: [[Npc Abilities]]
 - Related: [[Reef Shark]]
 - Influences [[Pressure Politics 2]]
@@ -219,7 +214,7 @@ Discovered something valuable
 - Leads to [[step_036 (phase_030)]]
 - Connects to [[Maddening Darkness Xge]]
 - See also: [[The Consciousness Shard]]
-- See also: [[step_024]]
+- See also:
 - Connects to [[control-weather-xphb (spells)]]
 - Requires [[dire-wolf-xmm (beast)]]
 - Connects to [[step_048 (phase_008)]]
@@ -237,7 +232,7 @@ Discovered something valuable
 - Related: [[step_078 (phase_014)]]
 - See also: [[Marcus Depthward]]
 - Requires [[SPELL0043_Mystic_Wave]]
-- Requires [[step_009]]
+- Requires
 - Influences [[location-city-aethermoor-aethermoor.svg]]
 - Requires [[VAULT_STRUCTURE_PLAN]]
 - Influences [[ENC00000_Environmental_Encounter_1]]
@@ -253,7 +248,7 @@ Discovered something valuable
 - Related: [[LOC00272_Towns_Location_273]]
 - Affected by [[Marcus Tidecalle]]
 - Affected by [[gunpowder-keg-xdmg (items)]]
-- Parallels [[step_050]]
+- Parallels
 - Related: [[Pure Essence Crystals (D&D_References)]]
 - Influences [[Harbor Master's License 2]]
 - Connects to [[ring-of-warmth-xdmg (items)]]
@@ -275,7 +270,6 @@ Discovered something valuable
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [04 Chapter 3 Character Classes]
 - [[#Npcs Needed|Npcs Needed]]
 - [[#Locations|Locations]]
 
-
 ---
 
 title: 04 Chapter 3 Character Classes
@@ -70,36 +69,29 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 > [!dm] DM Note
 > Ancient magic still lingers here
@@ -130,11 +122,10 @@ world: Both
 Former associate of the party's patron
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -142,11 +133,10 @@ Former associate of the party's patron
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -174,7 +164,7 @@ Former associate of the party's patron
 - Connects to [[NPC01072_Solas_Proudmore_the_Redeemed]]
 - See also: [[The Seven Seals]]
 - Influences [[LOC00286_Cities_Location_287]]
-- Leads to [[step_051]]
+- Leads to
 - Parallels [[FAC00088_Guilds_89]]
 - Leads to [[FAC00009_Cults_10]]
 - Related: [[step_040 (phase_004)]]
@@ -207,7 +197,7 @@ Former associate of the party's patron
 - Compare with [[SPELL00016_Arcane_Spell_17]]
 - Connects to [[NPC00553_Elric_Winterborn_the_Fallen]]
 - Influences [[Assets Item Artifact Dagger of Venom Xdmg Dagger of Venom Xdmg.png]]
-- Requires [[step_066]]
+- Requires
 - See also: [[Assets Locations Location City the Infinite Garden the Infinite Garden.svg]]
 - Parallels [[04_Resources_Assets_Symbols_symbol-heraldry-sister-astara-the-ever-watching-sister-astara-the-ever-watching.svg]]
 - Related: [[Adamantine Weapon Xdmg]]
@@ -227,7 +217,7 @@ Former associate of the party's patron
 - Originates from [[NPC01402_Faelyn_Hawthorne_the_Swift]]
 - Originates from [[Harmony Cores (Items)]]
 - Requires [[step_086 (phase_023)]]
-- Originates from [[step_038]]
+- Originates from
 - Connects to [[step_097 (phase_043)]]
 - Requires [[step_006 (phase_043)]]
 - Related: [[FAC00034_Guilds_35]]
@@ -255,7 +245,7 @@ Former associate of the party's patron
 - Parallels [[Deepwatch Guard (Lore)]]
 - Connects to [[riding-horse-xmm]]
 - See also: [[Quick Save]]
-- Affected by [[step_009]]
+- Affected by
 - Compare with [[LORE00182_History_Entry_183]]
 - Influences [[light-hammer-xphb (items)]]
 - Related: [[LOC00172_Dungeons_Location_173]]
@@ -267,4 +257,4 @@ Former associate of the party's patron
 - Requires [[3 Phandalin]]
 - Requires [[Crystal Navigation Tools (Items)]]
 - Related: [[portrait-npc-the-party-v2-the-party.svg_1 (Portraits)]]
-- See also: [[step_029]]
+- See also: 

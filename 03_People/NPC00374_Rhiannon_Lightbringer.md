@@ -18,7 +18,6 @@ aliases: [NPC00374 Rhiannon Lightbringer]
 - [[#Vesper Goldleaf (Political - Puppet)|Vesper Goldleaf (Political - Puppet)]]
 - [[#Malakai Frostwhisper the Bold (Criminal - Target)|Malakai Frostwhisper the Bold (Criminal - Target)]]
 
-
 ---
 aliases: ["Rhiannon Lightbringer", "rhiannon lightbringer", "Lightbringer Rhiannon"]
 tags: [npc, character]
@@ -155,26 +154,22 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.155Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Leads to [[step_092 (phase_073)]]
-- Connects to [[step_069]]
+- Connects to
 - Originates from [[Burning Xphb]]
 - Parallels [[List Spells Optional Features Sign of Ill]]
 - Connects to [[Tidal Runner Nerissa]]
@@ -191,7 +186,7 @@ Wants rivals investigated
 - Connects to [[Guardian Captain Marcus Shieldwall (D&D_References)]]
 - Leads to [[Shopping_List]]
 - Requires [[Malachar the Mindweaver]]
-- Originates from [[step_022]]
+- Originates from
 - Parallels [[LOC00150_Dungeons_Location_151]]
 - See also: [[Crown of Stars (D&D_References)]]
 - See also: [[The Silver Quill 2]]
@@ -199,7 +194,7 @@ Wants rivals investigated
 - Related: [[step_006 (phase_059)]]
 - Compare with [[Assets Locations Location City Surface Expert Grainwise Surface Expert Grainwise.svg]]
 - Affected by [[ITEM01293_Greater_Elixir_of_Clarity]]
-- Influences [[step_071]]
+- Influences
 - Compare with [[Journey Boar]]
 - Influences [[step_089 (phase_017)]]
 - Compare with [[Assets Locations Location City the Divine Trial the Divine Trial.svg]]
@@ -211,12 +206,12 @@ Wants rivals investigated
 - Influences [[Draakhorn Rot]]
 - Connects to [[step_099 (phase_088)]]
 - Connects to [[step_053 (phase_033)]]
-- Compare with [[step_090]]
+- Compare with
 - Influences [[FAC00007_Cults_8]]
 - Parallels [[Universal Translation]]
 - Requires [[Exhaustion (D&D_References)]]
 - Related: [[The_Vote_Vault_Mystery.png]]
-- Originates from [[step_075]]
+- Originates from
 - Connects to [[The Umbral Market Plaza 2]]
 - Affected by [[Lady Resistance Brightshield]]
 - Affected by [[step_012 (phase_100)]]
@@ -236,11 +231,11 @@ Wants rivals investigated
 - Requires [[Passwall Xphb]]
 - Parallels [[Temporal Navigator]]
 - Affected by [[Average Results Mob Results Xdmg]]
-- Compare with [[step_030]]
+- Compare with
 - See also: [[List Spells Races Tiefling Glasya Mtf]]
 - Originates from [[LOC00246_Towns_Location_247]]
 - Leads to [[The Ancient Compact (D&D_References)]]
-- Leads to [[step_097]]
+- Leads to
 - Influences [[Symbol Heraldry the Deepwater Trading Consortium V1 the Deepwater Trading Consortium.svg]]
 - Related: [[step_080 (phase_086)]]
 - Originates from [[Portrait NPC Banker Titus Goldcurrent V2 Banker Titus Goldcurrent.svg_1 (Portraits)]]
@@ -249,7 +244,7 @@ Wants rivals investigated
 - Originates from [[Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png_1 (Portraits)]]
 - Affected by [[LOC00287_Wilderness_Location_288]]
 - Related: [[The Shadow Merchant Prime]]
-- Compare with [[step_061]]
+- Compare with
 - Connects to [[Portrait NPC Sacred Healing Gardens V2 Sacred Healing Gardens.svg_1 (Portraits)]]
 - See also: [[Item Artifact Spell Gem Lapis Lazuli Oota V2 Spell Gem Lapis Lazuli Oota.png]]
 - Leads to [[step_094 (phase_048)]]
@@ -261,7 +256,7 @@ Wants rivals investigated
 - Affected by [[NPC00301_Wynne_Jadeclaw]]
 - Related: [[Saffron Xdmg]]
 - Influences [[LORE00017_Legends_Entry_18]]
-- Requires [[Quest   The Democratic Balance]]
+- Requires [[Quest The Democratic Balance]]
 - Compare with [[Portrait NPC the Throne Pretenders V1 the Throne Pretenders.svg]]
 - Leads to [[Government Seal of Authority]]
 - Affected by [[Location City Archivist Stone Memorykeeper Archivist Stone Memorykeeper.svg]]
@@ -269,7 +264,7 @@ Wants rivals investigated
 - Connects to [[LORE00061_History_Entry_62]]
 - Related: [[Keeper Sage Remembrance]]
 - Compare with [[Corruption Studies Research Institute]]
-- Parallels [[step_045]]
+- Parallels
 - Parallels [[dwarven-valkauna-mtf (deities)]]
 - Influences [[Assets Portraits Portrait NPC High Tide Environmental Effects High Tide Environmental Effects.svg]]
 - Leads to [[Cross-Cultural Legal Association (02_Worldbuilding)]]
@@ -278,7 +273,6 @@ Wants rivals investigated
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

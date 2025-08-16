@@ -18,7 +18,6 @@ aliases: [NPC00222 Hestara Thornweave]
 - [[#Delara Quicksilver (Personal - Ex-lover)|Delara Quicksilver (Personal - Ex-lover)]]
 - [[#Aeliana Underhill (Family - Spouse)|Aeliana Underhill (Family - Spouse)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Hestara Thornweave", "hestara thornweave", "Thornweave Hestara"]
@@ -153,27 +152,23 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.137Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -183,16 +178,15 @@ Seeks bodyguards for dangerous journey
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Requires [[FAC00025_Orders_26]]
-- Connects to [[step_053]]
+- Connects to
 - Compare with [[Assets Portraits Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg]]
 - Requires [[Location City Scout Captain Vera Deepwatch V1 Scout Captain Vera Deepwatch.svg]]
 - Parallels [[Seraphina the Beautiful 2]]
@@ -216,10 +210,10 @@ Seeks bodyguards for dangerous journey
 - Compare with [[step_046 (phase_067)]]
 - Parallels [[Captain Thaddeus Stormwright]]
 - Influences [[step_046 (phase_009)]]
-- Parallels [[step_087]]
+- Parallels
 - Requires [[War of Crushing Depths (D&D_References)]]
 - Leads to [[step_071 (phase_017)]]
-- Leads to [[step_058]]
+- Leads to
 - Influences [[Location City Patrol Boundaryrider Patrol Boundaryrider.svg]]
 - Parallels [[LORE00106_History_Entry_107]]
 - Originates from [[The Memory Disruptor Network]]
@@ -232,13 +226,13 @@ Seeks bodyguards for dangerous journey
 - Connects to [[Creating a Gnoll War Band Gnoll War Band]]
 - Requires [[portrait-npc-neutral-zone-v1-neutral-zone.svg]]
 - Affected by [[Constitutional Monarchy (D&D_References)]]
-- Parallels [[step_055]]
+- Parallels
 - Originates from [[Deep Initiation]]
 - Requires [[LOC00051_Cities_Location_52]]
 - Related: [[LOC00252_Dungeons_Location_253]]
 - Related: [[step_002 (phase_070)]]
 - Requires [[Assets Locations Location City Surface Loyalist Safe Houses V1 Surface Loyalist Safe Houses.svg]]
-- Originates from [[step_005]]
+- Originates from
 - Connects to [[step_072 (phase_035)]]
 - Leads to [[ENC00222_Combat_Encounter_223]]
 - Related: [[step_096 (phase_062)]]
@@ -255,12 +249,12 @@ Seeks bodyguards for dangerous journey
 - Influences [[Location City the Sunken Cathedral of Perfect Order V1 the Sunken Cathedral of Perfect Order.svg]]
 - Originates from [[QUEST00195_Main_Quest_196]]
 - See also: [[Deep Archives]]
-- Influences [[step_066]]
+- Influences
 - See also: [[Truth-seeker's Lens (D&D_References)]]
 - Originates from [[Session Timer]]
 - Affected by [[EVENT00086_Magical_Event_87]]
 - Affected by [[NPC00239_Hilda_Xendar_the_Bold]]
-- See also: [[step_025]]
+- See also:
 - Compare with [[The Seven Shards Campaign Overview]]
 - Affected by [[Portrait NPC Marina Red Tide Coralheart V1 Marina Red Tide Coralheart.svg]]
 - Affected by [[NPC01646_Hestara_Voidwalker_the_Seeker]]
@@ -269,12 +263,12 @@ Seeks bodyguards for dangerous journey
 - Affected by [[The Cerulean Archipelago 2]]
 - Influences [[ENC00299_Combat_Encounter_300]]
 - See also: [[Theoretical Physicist Marina Voidwright (D&D_References)]]
-- Requires [[step_045]]
+- Requires
 - Parallels [[Portrait NPC Captain Sarah Oathbound V2 Captain Sarah Oathbound.svg]]
 - Requires [[step_092 (phase_016)]]
 - Related: [[Void Touch]]
 - Leads to [[ITEM00181_Venomous_Axe_of_Accuracy]]
-- Originates from [[step_069]]
+- Originates from
 - Related: [[Fiendish Vigor Xphb]]
 - Affected by [[Systematic Governmental Reform]]
 - See also: [[ENC00196_Combat_Encounter_197]]
@@ -296,7 +290,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [Welcome to Aquabyssos]
 - [[#Diaspora Improvements|Diaspora Improvements]]
 - [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Handouts/Welcome to Aquabyssos
@@ -127,7 +126,6 @@ tags: [combat, lore]
 
 - [[Player Portal]]
 
-
 > [!dm] DM Note
 > This location connects to the main plot
 
@@ -180,8 +178,7 @@ tags: [combat, lore]
 - [[World_Primer.md]]
 - [[Player_Portal.md]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -190,7 +187,6 @@ tags: [combat, lore]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -202,7 +198,7 @@ tags: [combat, lore]
 
 - Requires [[step_070 (phase_031)]]
 - Requires [[Cultural Districts]]
-- Requires [[step_044]]
+- Requires
 - Related: [[step_071 (phase_043)]]
 - See also: [[The Starlight Chamber]]
 - Connects to [[The Last Priest 2]]
@@ -221,7 +217,7 @@ tags: [combat, lore]
 - Influences [[Lumengarde]]
 - Leads to [[LOC0121_Bridgeford]]
 - Connects to [[NPC0151_Freya_Darkwater]]
-- Leads to [[step_092]]
+- Leads to
 - Compare with [[Raise Dead Xphb]]
 - Influences [[Mordenkainens Sword Xphb]]
 - Leads to [[Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg]]
@@ -238,24 +234,24 @@ tags: [combat, lore]
 - Influences [[Coral Gardens District (D&D_References)]]
 - Influences [[step_029 (phase_007)]]
 - See also: [[Deep Sea Environmental Specialist]]
-- See also: [[step_024]]
+- See also:
 - See also: [[Deep Mother 3 (D&D_References)]]
 - Parallels [[The Whisper Keepers 2]]
 - Compare with [[SPELL00154_Arcane_Spell_155]]
 - See also: [[Saving Throws Proficiency Bonus by Challenge]]
 - Influences [[Wisdom Futureseer 2]]
 - Leads to [[Ability Scores Xphb]]
-- Affected by [[step_028]]
+- Affected by
 - Leads to [[Factions the Tide Singers]]
-- Originates from [[step_027]]
+- Originates from
 - Parallels [[FAC00013_Orders_14]]
 - Influences [[green-slime-xdmg (traps-hazards)]]
 - See also: [[LOC0009_Groveton]]
-- Requires [[step_083]]
+- Requires
 - Requires [[Portrait NPC Jasper Three Eyes Flint V1 Jasper Three Eyes Flint.png]]
 - See also: [[Dawn War Lolth Dmg]]
 - Requires [[The Deepwatch Guard]]
-- Influences [[step_017]]
+- Influences
 - Leads to [[step_005 (phase_091)]]
 - Requires [[Shadow Energy Processing Facilities]]
 - Connects to [[The Crystal Academy Council]]
@@ -280,16 +276,16 @@ tags: [combat, lore]
 - Leads to [[LORE00319_Legends_Entry_320]]
 - Affected by [[Shadow Cultis]]
 - See also: [[Symbols - Faction Heraldry]]
-- Leads to [[step_051]]
+- Leads to
 - Originates from [[step_052 (phase_030)]]
 - Connects to [[Emergency Navigation Coordinator Storm Guidewright]]
 - Related: [[step_075 (phase_099)]]
 - Compare with [[MON00020_Constructs_Creature_21]]
-- Requires [[step_092]]
-- Leads to [[step_092]]
+- Requires
+- Leads to
 - Parallels [[MOC_Locations]]
 - See also: [[Doctor Harmony Whisperfall 2]]
-- Originates from [[step_065]]
+- Originates from
 - Connects to [[step_039 (phase_017)]]
 - Originates from [[step_052 (phase_084)]]
 - Leads to [[MON00028_Constructs_Creature_29]]
@@ -298,5 +294,5 @@ tags: [combat, lore]
 - Affected by [[Map or Scroll Case Xphb]]
 - Connects to [[bullywug-dmg (races)]]
 - Connects to [[Northern Principalities 2]]
-- Leads to [[step_093]]
+- Leads to
 - Parallels [[Assets Symbols Symbol Heraldry the Cipher Current the Cipher Current.svg]]

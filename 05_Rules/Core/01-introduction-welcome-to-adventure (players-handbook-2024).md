@@ -18,7 +18,6 @@ aliases: [01-introduction-welcome-to-adventure (players-handbook-2024)]
 - [[#Npcs Needed|Npcs Needed]]
 - [[#Locations|Locations]]
 
-
 ---
 
 title: 01-introduction-welcome-to-adventure (players-handbook-2024)
@@ -61,36 +60,29 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Notes
 
 *Additional notes*
-
 
 ## Timeline
 - Key events
 - Deadlines
 
-
 ## NPCs Involved
 - Quest giver
 - Antagonists
-
 
 ## Locations
 - Starting point
 - Key locations
 
-
 ## Complications
 - Potential problems
 - Twists
 
-
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
-
 
 > [!dm] DM Note
 > This character is not who they seem
@@ -121,8 +113,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 Former associate of the party's patron
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -134,7 +125,6 @@ Former associate of the party's patron
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -166,7 +156,7 @@ Former associate of the party's patron
 - Related: [[LORE00010_Legends_Entry_11]]
 - Influences [[LORE00097_History_Entry_98]]
 - Affected by [[portrait-npc-senator-marius-v2-senator-marius.svg]]
-- Affected by [[step_076]]
+- Affected by
 - Connects to [[Portrait NPC Brother Marcus Steelbane V2 Brother Marcus Steelbane.svg]]
 - Originates from [[Portrait NPC Investigate the Crystal Plague V1 Investigate the Crystal Plague.svg_1 (Portraits)]]
 - Leads to [[LOC00297_Towns_Location_298]]
@@ -176,7 +166,7 @@ Former associate of the party's patron
 - Leads to [[step_080 (phase_097)]]
 - Parallels [[ENC00171_Social_Encounter_172]]
 - Connects to [[Depth Walker Zephys]]
-- Influences [[step_004]]
+- Influences
 - Connects to [[The Hidden Cove of Whispers (D&D_References)]]
 - Originates from [[Location City Lady Vivienne the Unfrozen V1 Lady Vivienne the Unfrozen.svg]]
 - Compare with [[sending-stones-xdmg (items)]]
@@ -208,7 +198,7 @@ Former associate of the party's patron
 - Originates from [[Shadow Market Canals (D&D_References)]]
 - Originates from [[Parliament-of-Shadows-Campaign]]
 - Connects to [[QUEST00149_Personal_Quest_150]]
-- Requires [[step_081]]
+- Requires
 - Affected by [[SPELL00071_Arcane_Spell_72]]
 - See also: [[Identity Restoration Console]]
 - Requires [[chambers-exit-location (tables)]]
@@ -220,11 +210,11 @@ Former associate of the party's patron
 - Connects to [[Alternative-Path-Fled-City (D&D_References)]]
 - Parallels [[Deep Mystic Aurelius Glowseeker 2]]
 - Parallels [[Castellan Ironledger III_1]]
-- Requires [[step_089]]
+- Requires
 - Compare with [[Underwater Cuisine Techniques]]
 - Parallels [[Generate Encounter]]
 - Connects to [[strixhaven-campus-guide-scc]]
-- See also: [[step_035]]
+- See also:
 - Originates from [[FAC00048_Guilds_49]]
 - Compare with [[step_040 (phase_043)]]
 - Parallels [[step_082 (phase_053)]]

@@ -18,7 +18,6 @@ aliases: [NPC00437 Hilda Stormwind the Mystic]
 - [[#Hestara Ironforge the Guardian (Professional - Partner)|Hestara Ironforge the Guardian (Professional - Partner)]]
 - [[#Cedric Goldleaf the Strong (Professional - Partner)|Cedric Goldleaf the Strong (Professional - Partner)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Hilda Stormwind the Mystic", "hilda stormwind the mystic", "Hilda Stormwind Mystic", "Mystic the Stormwind Hildatags: [npc, character, combat, magic, exploration, puzzle, lore]er]
@@ -142,16 +141,13 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.162Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -164,7 +160,6 @@ Modifications:
 - AC: 14
 - Notable abilities: Varies by individual
 
-
 > [!tip] 💡 Tip
 > Useful information for players
 
@@ -175,11 +170,10 @@ Modifications:
 - [[NPC00739_Gavril_Ashford_the_Bold]]
 - [[NPC00395_Aeliana_Thornweave]]
 - [[NPC00296_Elric_Jadeclaw_the_Bold]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -187,11 +181,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -213,7 +206,7 @@ Modifications:
 
 ## Connections
 
-- Connects to [[step_070]]
+- Connects to
 - Related: [[step_003 (phase_056)]]
 - Connects to [[Reincarnate Xphb]]
 - See also: [[02_Worldbuilding_Lore_The_Emperor''s_Gambit]]
@@ -270,7 +263,7 @@ Modifications:
 - Leads to [[Lamplight Alley]]
 - Originates from [[The Void Refineries (D&D_References)]]
 - Affected by [[Carpet of Flying 4 Ft 6 Ft Xdmg]]
-- Parallels [[step_035]]
+- Parallels
 - Affected by [[doppelganger-xmm (monstrosity)]]
 - Connects to [[Tide Turner]]
 - Influences [[NPC01669_Solas_Silverleaf_the_Bold]]
@@ -290,10 +283,10 @@ Modifications:
 - Requires [[The First Breath Relic]]
 - Originates from [[step_036 (phase_071)]]
 - Leads to [[LORE00063_History_Entry_64]]
-- Requires [[step_041]]
+- Requires
 - Requires [[Assets Locations [[Location City [[The Iron Pits of Malachar]] the Iron Pits of Malachar.svg]]]]
 - Originates from [[Sanctuary Xphb]]
-- Parallels [[step_029]]
+- Parallels
 - Affected by [[[[Dream Rails]] 2]]
 - Related: [[LOC00175_Dungeons_Location_176]]
 - Leads to [[dragonlance-lunitari-phb (deities)]]
@@ -312,13 +305,12 @@ Modifications:
 - Parallels [[step_095 (phase_091)]]
 - Compare with [[Temple Clergy]]
 - Related: [[Emperor Abyssal the Deep-Sighted (D&D_References)]]
-- Originates from [[step_087]]
+- Originates from
 
 ## Visual References
 ![[03_People/portrait_[[Merchant]]_captain_tobias_stormwind_dramatic.png]]
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
-
 
 ## Realm Connections
 
@@ -331,9 +323,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

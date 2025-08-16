@@ -9,7 +9,6 @@ aliases: [NPC00746 Gavril Winterborn the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00746 Gavril Winterborn the Risen]
 - [[#Baelor Darkwater the Swift (Personal - Best friend)|Baelor Darkwater the Swift (Personal - Best friend)]]
 - [[#Vesper Hawthorne the Cunning (Personal - Childhood friend)|Vesper Hawthorne the Cunning (Personal - Childhood friend)]]
 - [[#Faelyn Thornweave the Broken (Professional - Employer)|Faelyn Thornweave the Broken (Professional - Employer)]]
-
 
 ---
 aliases: ["Gavril Winterborn the Risen", "gavril winterborn the risen", "Gavril Winterborn Risen", "Risen the Winterborn Gavril"]
@@ -141,21 +139,17 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.197Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -177,7 +171,7 @@ Witnessed a crime
 - Connects to [[Location City Dream Enhancement Techniques V1 Dream Enhancement Techniques.svg]]
 - Related: [[LORE00328_Prophecies_Entry_329]]
 - Requires [[step_033 (phase_021)]]
-- Influences [[step_100]]
+- Influences
 - Parallels [[step_012 (phase_035)]]
 - Parallels [[ITEM01328_Masterwork_Lock_of_Reliability]]
 - Compare with [[ITEM00676_Enchanted_Helm_of_the_Guardian]]
@@ -189,7 +183,7 @@ Witnessed a crime
 - Compare with [[ENC00090_Combat_Encounter_91]]
 - Affected by [[FAC00031_Guilds_32]]
 - Related: [[Template-Item]]
-- Compare with [[step_099]]
+- Compare with
 - Leads to [[Assets Locations Location City Historical Prophetic Analysis Historical Prophetic Analysis.svg]]
 - Connects to [[Harbor Pilot Guild (D&D_References)]]
 - Related: [[ITEM01472_Elegant_Map_Case_of_Convenience]]
@@ -212,7 +206,7 @@ Witnessed a crime
 - Originates from [[step_067 (phase_075)]]
 - Parallels [[step_041 (phase_056)]]
 - See also: [[ending-a-chase-escape-factors-xdmg (tables)]]
-- Influences [[step_012]]
+- Influences
 - Influences [[Security Chief Razor Currentstorm (D&D_References)]]
 - Connects to [[Sending Stone]]
 - Originates from [[Rockslide Xdmg]]
@@ -228,23 +222,23 @@ Witnessed a crime
 - Originates from [[The Biomancers]]
 - Related: [[Director Marina Coralstudent (Lore)]]
 - Influences [[LOC00141_Planes_Location_142]]
-- Connects to [[step_055]]
+- Connects to
 - Affected by [[step_057 (phase_065)]]
 - Affected by [[MON00059_Constructs_Creature_60]]
 - Originates from [[Session 04 (06_Sessions)]]
 - Affected by [[ENC00022_Environmental_Encounter_23]]
 - Compare with [[Deep Harbor Technology (D&D_References)]]
 - Requires [[Portrait NPC the Bloodline Carrier V1 the Bloodline Carrier.svg_1 (Portraits)]]
-- Influences [[step_010]]
+- Influences
 - Originates from [[step_083 (phase_013)]]
 - Requires [[Tethyan Maritime Code]]
 - Originates from [[step_056 (phase_034)]]
 - Parallels [[Silver Mask (Lore)]]
-- Originates from [[step_094]]
+- Originates from
 - Leads to [[step_015 (phase_014)]]
 - Parallels [[LOC00157_Planes_Location_158]]
 - See also: [[step_055 (phase_031)]]
-- Originates from [[step_093]]
+- Originates from
 - Related: [[Assets Locations Location City Interfaith Councils Interfaith Councils.svg]]
 - Originates from [[Session 24 (06_Sessions)]]
 - Connects to [[step_052 (phase_006)]]

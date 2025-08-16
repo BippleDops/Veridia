@@ -9,7 +9,6 @@ aliases: [NPC00241 Urien Hawthorne]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00241 Urien Hawthorne]
 - [[#Wynne Emberfall (Political - Opposition)|Wynne Emberfall (Political - Opposition)]]
 - [[#Aldric Ravenheart the Bold (Family - Spouse)|Aldric Ravenheart the Bold (Family - Spouse)]]
 - [[#Malakai Ironforge (Political - Ally)|Malakai Ironforge (Political - Ally)]]
-
 
 ---
 aliases: ["Urien Hawthorne", "urien hawthorne", "Hawthorne Urien"]
@@ -145,28 +143,24 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.139Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Leads to [[warhammer-xphb (items)]]
 - Influences [[Crystal Palace Throne Room]]
 - Requires [[Underwater Encounters Levels 14 Xge]]
-- Parallels [[step_092]]
+- Parallels
 - Related: [[Reincarnate Xphb]]
 - Leads to [[The Integration Institute 2]]
 - Related: [[step_028 (phase_027)]]
@@ -175,7 +169,7 @@ Needs discrete help with family scandal
 - Requires [[death-kiss-mpmm (aberration)]]
 - See also: [[Location City Crystallium Embassy V1 Crystallium Embassy.svg]]
 - Leads to [[LOC00178_Wilderness_Location_179]]
-- Leads to [[step_037]]
+- Leads to
 - Requires [[step_016 (phase_051)]]
 - Influences [[MON0039_Blood_Guardian]]
 - Leads to [[Location City Leviathan Prophet Thalassa V1 Leviathan Prophet Thalassa.svg]]
@@ -199,8 +193,8 @@ Needs discrete help with family scandal
 - Affected by [[Commander Thrace Ironwood]]
 - See also: [[Abyssal Cartel]]
 - Related: [[Customs Chief Marina Depthwatch]]
-- Requires [[step_031]]
-- Requires [[step_042]]
+- Requires
+- Requires
 - See also: [[Ruin Grinder Scc]]
 - Related: [[Location City Marina Clearwater Marina Clearwater.svg]]
 - Affected by [[04_Resources_Assets_Locations_location-city-forge-master-korax-hammerdeep-v1-forge-master-korax-hammerdeep.svg]]
@@ -208,7 +202,7 @@ Needs discrete help with family scandal
 - Originates from [[Pregenerated_Characters.md (The_Seven_Shards_Campaign)]]
 - Compare with [[Memory Commerce]]
 - Connects to [[ENC00465_Combat_Encounter_466]]
-- Affected by [[step_040]]
+- Affected by
 - Leads to [[step_011 (phase_068)]]
 - Originates from [[NPC_Portraits_Gallery (03_People)_Quick_Ref]]
 - Originates from [[Law Enforcement 2]]
@@ -220,7 +214,7 @@ Needs discrete help with family scandal
 - Leads to [[City of Screams]]
 - Related: [[Assets Locations Location City Reality Anchoring Technology V1 Reality Anchoring Technology.svg]]
 - Affected by [[The Cold Houses 2]]
-- Parallels [[step_045]]
+- Parallels
 - Influences [[ceremonial-gold-armor-with-black-pearls-xdmg (items)]]
 - Originates from [[Unified Mechanics Guide (D&D_References)]]
 - Connects to [[QUEST00029_Main_Quest_30]]
@@ -245,7 +239,7 @@ Needs discrete help with family scandal
 - Requires [[step_081 (phase_082)]]
 - Compare with [[LOC00268_Planes_Location_269]]
 - Influences [[Thornwick Hall]]
-- Originates from [[step_059]]
+- Originates from
 - Leads to [[The Luminous Dawn Cathedral (D&D_References)]]
 - Connects to [[norse-skadi (deities)]]
 - Affected by [[Portrait NPC Duke Lysander Crystalvein V2 Duke Lysander Crystalvein.svg]]

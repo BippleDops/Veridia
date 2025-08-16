@@ -18,7 +18,6 @@ aliases: [NPC01568 Lyanna Winterborn the Strong]
 - [[#Kaelen Brightblade the Lost (Family - Child)|Kaelen Brightblade the Lost (Family - Child)]]
 - [[#Corvus Ironforge the Mystic (Personal - Childhood friend)|Corvus Ironforge the Mystic (Personal - Childhood friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Lyanna Winterborn the Strong", "lyanna winterborn the strong", "Lyanna Winterborn Strong", "Strong the Winterborn Lyannatags: [npc, character, combat, magic, exploration, lore]er]
@@ -151,16 +150,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.286Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -173,7 +169,6 @@ Modifications:
 - AC: 13
 - Notable abilities: Varies by individual
 
-
 > [!tip] 💡 Tip
 > Useful information for players
 
@@ -184,11 +179,10 @@ Modifications:
 - [[Reference.md]]
 - [[NPC00296_Elric_Jadeclaw_the_Bold]]
 - [[12 Spells]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -196,11 +190,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -235,19 +228,19 @@ Modifications:
 - Originates from [[portrait-npc-mayor-thompson-v1-mayor-thompson.svg_1 (Portraits)]]
 - Influences [[The Memory Garden 2]]
 - Affected by [[ENC00048_Social_Encounter_49]]
-- Compare with [[step_045]]
+- Compare with
 - Parallels [[QUEST00465_Side_Quest_466]]
 - Compare with [[step_002 (phase_029)]]
 - Compare with [[step_049 (phase_035)]]
 - See also: [[step_100 (phase_053)]]
 - Parallels [[step_096 (phase_098)]]
-- Requires [[step_082]]
+- Requires
 - Requires [[Bomb Xdmg]]
 - Requires [[step_025 (phase_045)]]
 - Influences [[guard-drake-white-mpmm (dragon)]]
 - Leads to [[The Convergence Prophecies 2]]
-- Compare with [[step_039]]
-- Originates from [[step_021]]
+- Compare with
+- Originates from
 - See also: [[Technology Transfer]]
 - Related: [[Dust of Sneezing and Choking Xdmg]]
 - Originates from [[NPC01224_Idris_Winterborn_the_Fallen]]
@@ -255,7 +248,7 @@ Modifications:
 - Parallels [[QUEST00008_Personal_Quest_9]]
 - Originates from [[[[Victoria Harbormane]] (D&D_References)]]
 - Connects to [[Portrait NPC Watch Captain Roderick Shieldbreaker V1 Watch Captain Roderick Shieldbreaker.svg]]
-- Requires [[step_098]]
+- Requires
 - Affected by [[SPELL00150_Arcane_Spell_151]]
 - See also: [[step_091 (phase_005)]]
 - Influences [[Anti-Corruption Task Force (D&D_References)]]
@@ -265,8 +258,8 @@ Modifications:
 - Parallels [[Planning Director Strategy Deepthink]]
 - Affected by [[The Cerulean Trench]]
 - Connects to [[Parliamentary_Voting_Guide]]
-- Originates from [[step_006]]
-- Parallels [[step_097]]
+- Originates from
+- Parallels
 - See also: [[Portrait NPC the Resonance Prophet V1 the Resonance Prophet.svg_1 (Portraits)]]
 - Compare with [[The Great Resonance (D&D_References)]]
 - Related: [[Current Innovator]]
@@ -283,13 +276,13 @@ Modifications:
 - Leads to [[Location City [[Courier Ripplestone]] V1 Courier Ripplestone.svg]]
 - Related: [[Assets Locations Location City [[Tribune Cassia]] V1 Tribune Cassia.svg]]
 - Parallels [[The Neutral Current [[Tavern]] 2]]
-- Parallels [[step_045]]
+- Parallels
 - Originates from [[NPC01357_Ysara_Ashford_the_Lost]]
 - Leads to [[Sacred Memory Gardens]]
 - Compare with [[NPC_Reactions_Quick_Ref]]
 - Parallels [[Crystal Singers (D&D_References)]]
 - Originates from [[Assets Locations [[Location City Crystals Curiosities V1 Crystals Curiosities.svg]]]]
-- Leads to [[step_059]]
+- Leads to
 - Parallels [[step_049 (phase_040)]]
 - Related: [[NPC01790_Zephyr_Lightbringer_the_Scholar]]
 - Requires [[step_011 (phase_030)]]
@@ -306,11 +299,11 @@ Modifications:
 - Compare with [[step_074 (phase_054)]]
 - Parallels [[Property Markets]]
 - Leads to [[ITEM00886_Divine_Amulet_of_Truth]]
-- Related: [[step_091]]
+- Related:
 - Compare with [[ITEM0110_Glorious_Gauntlet_of_the_Dawn]]
 - Parallels [[Prismatic Wall Xphb]]
 - Influences [[Royal Guard of Shadows]]
-- Affected by [[step_067]]
+- Affected by
 - Requires [[Reality Merge Zones (D&D_References)]]
 - See also: [[knocking-out-a-creature-xphb (variant-rules)]]
 - See also: [[QUEST00186_Main_Quest_187]]
@@ -318,7 +311,7 @@ Modifications:
 - Leads to [[House Mercurial]]
 - Requires [[Truth and Reconciliation Depths Commission]]
 - Originates from [[elemental-adept-xphb (feats)]]
-- Affected by [[step_053]]
+- Affected by
 - Affected by [[Shadow Community Political Power]]
 - Leads to [[SPELL00140_Divine_Spell_141]]
 - Requires [[Truth Serum Xdmg]]
@@ -327,7 +320,6 @@ Modifications:
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01422 Hilda Emberfall the Guardian]
 - [[#Delara Grimholt the Guardian (Professional - Mentor)|Delara Grimholt the Guardian (Professional - Mentor)]]
 - [[#Elric Ironforge the Redeemed (Family - Child)|Elric Ironforge the Redeemed (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Hilda Emberfall the Guardian", "hilda emberfall the guardian", "Hilda Emberfall Guardian", "Guardian the Emberfall Hilda"]
@@ -159,25 +158,20 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.271Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -195,7 +189,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.108
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -204,17 +198,16 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Leads to [[ITEM01024_Distilled_Salve_of_Fortune]]
 - Requires [[treasure-xdmg (tables)]]
-- Compare with [[step_036]]
+- Compare with
 - Connects to [[Template_Planet_Placeholder.png_2 (09_Templates)]]
 - Requires [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]
 - Influences [[Sacred Healing Springs (D&D_References)]]
@@ -230,18 +223,18 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Culinary Dreamweaver Sage Gentlespice 2]]
 - Connects to [[She-Who-Sees-Beyond 2]]
 - Influences [[Hobgoblin Devastator Mpmm]]
-- Parallels [[step_056]]
+- Parallels
 - Related: [[SPELL00101_Divine_Spell_102]]
 - Compare with [[NPC01722_Branwen_Oakenshield_the_Mystic]]
 - Parallels [[The Hopekeeper Academy]]
 - Connects to [[NPC00469_Delara_Oakenshield_the_Seeker]]
-- Leads to [[step_100]]
+- Leads to
 - Connects to [[step_048 (phase_037)]]
 - Affected by [[tankard-of-plenty-hotdq (items)]]
 - Parallels [[Assets Locations Location City Court Herald Master Proclamation Crownvoice Court Herald Master Proclamation Crownvoice.svg]]
 - Affected by [[Assets Portraits Portrait NPC Merchant Captain Tobias Stormwind Merchant Captain Tobias Stormwind.svg]]
 - Leads to [[Portrait NPC Vespara Nightwhisper Thorne Vespara Nightwhisper Thorne.svg_1 (Portraits)]]
-- Influences [[step_098]]
+- Influences
 - Connects to [[Atmospheric Research Society]]
 - Influences [[Bestiary - Aquabyssos Creature Compendium]]
 - Connects to [[QUEST0082_In_Search_of_Redemption]]
@@ -250,7 +243,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Unified Aquabyssos Legal Code]]
 - Originates from [[step_032 (phase_091)]]
 - See also: [[red-dragon-wyrmling-xmm (dragon)]]
-- Compare with [[step_033]]
+- Compare with
 - Originates from [[dual-wielder-xphb (feats)]]
 - See also: [[step_042 (phase_087)]]
 - See also: [[LOC00134_Dungeons_Location_135]]
@@ -260,7 +253,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Doctor_Silas_Voidtouch.png]]
 - See also: [[step_070 (phase_023)]]
 - Affected by [[location-city-high-court-high-court.svg]]
-- Influences [[step_031]]
+- Influences
 - Parallels [[Portrait NPC Captain Sterling Lightshield V2 Captain Sterling Lightshield.svg]]
 - Leads to [[Assets Locations Location City the Last Dance the Last Dance.svg]]
 - Leads to [[The Whisper Core Chamber]]
@@ -283,7 +276,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Phantom Metropolis]]
 - See also: [[NPC00433_Vesper_Emberfall_the_Fallen]]
 - Compare with [[step_004 (phase_034)]]
-- Affected by [[step_046]]
+- Affected by
 - Affected by [[ITEM00866_Ancient_Amulet_of_the_Gods]]
 - Requires [[Memory Extraction Laboratory]]
 - Parallels [[The Great Resonance]]
@@ -296,13 +289,13 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[02_Worldbuilding_Tactics_Pressure_Differential]]
 - Originates from [[The Listener's Code (D&D_References)]]
 - Related: [[SPELL00050_Divine_Spell_51]]
-- Originates from [[step_077]]
-- See also: [[step_032]]
+- Originates from
+- See also:
 - Influences [[Federation of Crystal Trader]]
 - Leads to [[NPC01791_Aeliana_Oakenshield_the_Bold]]
 - Influences [[Sacred Historian Coral Deepscribe 2]]
 - Leads to [[NPC01578_Faelyn_Brightblade_the_Lost]]
-- Originates from [[step_093]]
+- Originates from
 - Related: [[Stormwatch Keep 2]]
 - Influences [[ITEM00169_Shadow_Bow_of_Power]]
 - Requires [[Oni Xmm]]
@@ -317,7 +310,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

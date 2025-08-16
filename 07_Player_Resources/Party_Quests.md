@@ -18,7 +18,6 @@ aliases: [Party Quests]
 - [[#Timeline|Timeline]]
 - [[#NPCs Involved|NPCs Involved]]
 
-
 ---
 title: Party_Quests
 type: quest
@@ -77,31 +76,25 @@ modified: '2025-08-14'
 
 Contextual improvement based on 07_Player_Resources
 
-
 ## Timeline
 - Key events
 - Deadlines
-
 
 ## NPCs Involved
 - Quest giver
 - Antagonists
 
-
 ## Locations
 - Starting point
 - Key locations
-
 
 ## Complications
 - Potential problems
 - Twists
 
-
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
-
 
 > [!example] 📝 Example
 > How this works in play
@@ -114,12 +107,10 @@ Contextual improvement based on 07_Player_Resources
 - [[Combat_Encounter_Analysis]]
 - [[11 Spellcasting]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -139,8 +130,8 @@ Contextual improvement based on 07_Player_Resources
 - Influences [[control-winds-xge (spells)]]
 - See also: [[Heritage Archiv]]
 - Influences [[LOC00073_Towns_Location_74]]
-- Related: [[step_026]]
-- Parallels [[step_040]]
+- Related:
+- Parallels
 - Compare with [[Portrait NPC Gall... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - See also: [[step_064 (phase_006)]]
 - Leads to [[prismari-primer-scc (items)]]

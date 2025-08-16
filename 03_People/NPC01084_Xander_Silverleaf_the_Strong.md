@@ -18,7 +18,6 @@ aliases: [NPC01084 Xander Silverleaf the Strong]
 - [[#Aeliana Darkwater the Guardian (Personal - Love interest)|Aeliana Darkwater the Guardian (Personal - Love interest)]]
 - [[#Wynne Voidwalker the Strong (Family - Parent)|Wynne Voidwalker the Strong (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Silverleaf the Strong", "xander silverleaf the strong", "Xander Silverleaf Strong", "Strong the Silverleaf Xander"]
@@ -148,27 +147,23 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.235Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -179,11 +174,10 @@ Competitor sabotaging business
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -223,7 +217,7 @@ Competitor sabotaging business
 - Connects to [[LORE00227_Legends_Entry_228]]
 - Related: [[Assets Locations Location City Temple District Temple District.svg]]
 - Connects to [[MON00156_Undead_Creature_157]]
-- Connects to [[step_027]]
+- Connects to
 - Parallels [[menagerie]]
 - Influences [[Assets Locations Location City Ambassador Silk Bridgewater Ambassador Silk Bridgewater.svg]]
 - Connects to [[The Crystal Renaissance]]
@@ -234,7 +228,7 @@ Competitor sabotaging business
 - Related: [[Lament Architecture]]
 - Requires [[step_026 (phase_095)]]
 - Originates from [[Maelstrom Palace (D&D_References)]]
-- Influences [[step_023]]
+- Influences
 - See also: [[Crystal Corruption Timeline]]
 - Parallels [[location-city-the-tidecaller-the-tidecaller.svg]]
 - Affected by [[QUEST00050_Personal_Quest_51]]
@@ -247,7 +241,7 @@ Competitor sabotaging business
 - Originates from [[Deep Watchfulrest 2]]
 - Related: [[Goldhorn the Magnificen]]
 - Connects to [[Senator Glaucus]]
-- Parallels [[step_078]]
+- Parallels
 - Compare with [[location-city-chef-gastropod-chef-gastropod.svg]]
 - See also: [[Portrait NPC Shadow Duchess Nyx V1 Shadow Duchess Nyx.svg_1 (Portraits)]]
 - Connects to [[ENC00190_Combat_Encounter_191]]
@@ -269,7 +263,7 @@ Competitor sabotaging business
 - Connects to [[step_014 (phase_031)]]
 - Parallels [[list-spells-optional-features-gong-of-the-summit]]
 - Influences [[Assets Locations Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg]]
-- Influences [[step_036]]
+- Influences
 - Influences [[EVENT00018_Political_Event_19]]
 - Related: [[step_098 (phase_045)]]
 - Affected by [[LORE00055_History_Entry_56]]
@@ -280,19 +274,18 @@ Competitor sabotaging business
 - Compare with [[step_097 (phase_063)]]
 - Related: [[step_081 (phase_064)]]
 - Originates from [[Shadow Saints]]
-- Affected by [[step_004]]
-- Connects to [[step_087]]
-- Compare with [[step_031]]
+- Affected by
+- Connects to
+- Compare with
 - See also: [[ITEM0105_Blessed_Gauntlet_of_the_Dawn]]
 - Originates from [[step_079 (phase_099)]]
-- See also: [[step_083]]
+- See also:
 - Connects to [[Jasper Worldbridge]]
 
 ## Visual References
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

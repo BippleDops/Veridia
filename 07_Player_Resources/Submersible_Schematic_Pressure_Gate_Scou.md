@@ -18,7 +18,6 @@ aliases: [Submersible Schematic Pressure Gate Scou]
 - [[#Material_Culture Improvements|Material_Culture Improvements]]
 - [[#Diaspora Improvements|Diaspora Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Submersible_Schematic_Pressure_Gate_Scou
@@ -106,7 +105,7 @@ tags: [combat, lore]
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -119,7 +118,6 @@ tags: [combat, lore]
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 > [!info] ℹ️ Info
 > Additional context or lore
@@ -159,8 +157,7 @@ tags: [combat, lore]
 - [[10 Appendix B Creature Stat Blocks]]
 - [[11 Rules Glossary]]
 - [[Party_Inventory]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -170,7 +167,6 @@ tags: [combat, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## D&D 5e References
 
 *(Combat rules: ACX p.189-198)*
@@ -179,7 +175,7 @@ tags: [combat, lore]
 
 ## Connections
 
-- Influences [[step_064]]
+- Influences
 - See also: [[step_078 (phase_046)]]
 - Affected by [[elemental-bane-xge (spells)]]
 - Connects to [[Minister Truth Darknes 2]]
@@ -194,13 +190,13 @@ tags: [combat, lore]
 - Originates from [[Student Engineer Bronze 2]]
 - Originates from [[Frost Brand Xdmg]]
 - Parallels [[starting-at-higher-level-starting-equipment (tables)]]
-- Parallels [[step_020]]
+- Parallels
 - Affected by [[ENC00399_Combat_Encounter_400]]
 - Parallels [[NPC00210_Aeliana_Ironwood_the_Wise]]
 - Connects to [[step_020 (phase_045)]]
 - Influences [[Location Tracker (D&D_References)]]
 - Connects to [[LORE00308_Legends_Entry_309]]
-- Originates from [[step_095]]
+- Originates from
 - See also: [[LOC00020_Wilderness_Location_21]]
 - Originates from [[ENC00106_Environmental_Encounter_107]]
 - Originates from [[step_092 (phase_087)]]
@@ -219,7 +215,7 @@ tags: [combat, lore]
 - Related: [[Assets Locations Location City Memoriam Keeper Marcus Remembrance V1 Memoriam Keeper Marcus Remembrance.svg]]
 - Affected by [[Medical Ethics in Plague Crisis]]
 - Originates from [[Giant Goat Xmm]]
-- Related: [[step_010]]
+- Related:
 - Parallels [[step_074 (phase_075)]]
 - Connects to [[FAC00019_Cults_20]]
 - Requires [[Chancellor Octavius 2]]
@@ -229,14 +225,14 @@ tags: [combat, lore]
 - Compare with [[Locations the Memory Halls]]
 - Compare with [[Meta Bind Examples 2]]
 - Leads to [[LORE00098_Legends_Entry_99]]
-- Influences [[step_061]]
+- Influences
 - Affected by [[Quest - The Family Reunion_1 (01_Adventures)]]
 - Parallels [[Portrait NPC Duke Alexander Tidecrest V1 Duke Alexander Tidecrest.svg_1 (Portraits)]]
 - Originates from [[Quest - Cultural Preservation]]
 - Parallels [[Assets Locations Location City Maritime Security Chief Reef Maritime Security Chief Reef.svg]]
 - Parallels [[step_045 (phase_081)]]
 - Originates from [[LOC00158_Wilderness_Location_159]]
-- Parallels [[step_070]]
+- Parallels
 - Originates from [[step_066 (phase_083)]]
 - Related: [[step_032 (phase_091)]]
 - See also: [[LOC00025_Wilderness_Location_26]]
@@ -247,12 +243,12 @@ tags: [combat, lore]
 - Affected by [[Stormwind's Navigation Crystal 2]]
 - Affected by [[International Trade Routes (D&D_References)]]
 - Compare with [[Shield Xphb (spells)]]
-- Leads to [[step_047]]
+- Leads to
 - Compare with [[Market Prophets (D&D_References)]]
 - Originates from [[Fragment Territories]]
 - Compare with [[ITEM00214_Thunder_Sword_of_Power]]
 - Originates from [[elephant-xmm (beast)]]
-- Related: [[step_093]]
+- Related:
 - Requires [[International Exchange Program (D&D_References)]]
 - Requires [[step_060 (phase_092)]]
 - See also: [[deities-of-dragonlance-good-phb (tables)]]
@@ -270,9 +266,9 @@ tags: [combat, lore]
 - Parallels [[The Pressure Pirates (D&D_References)]]
 - Connects to [[Encounter_Builder (D&D_References)]]
 - Connects to [[QUEST00016_Main_Quest_17]]
-- See also: [[step_062]]
+- See also:
 - Originates from [[Circlet of Blasting Xdmg]]
-- Influences [[step_035]]
+- Influences
 - Originates from [[Keras Stormwind]]
 - Leads to [[LOC00213_Towns_Location_214]]
 - Related: [[Cosmic_Truth_Seekers (02_Worldbuilding)]]

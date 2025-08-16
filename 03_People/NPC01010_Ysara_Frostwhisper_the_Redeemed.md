@@ -18,7 +18,6 @@ aliases: [NPC01010 Ysara Frostwhisper the Redeemed]
 - [[#Dara Youngblood the Wise (Personal - Nemesis)|Dara Youngblood the Wise (Personal - Nemesis)]]
 - [[#Dara Stormwind the Fallen (Political - Ally)|Dara Stormwind the Fallen (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ysara Frostwhisper the Redeemed", "ysara frostwhisper the redeemed", "Ysara Frostwhisper Redeemed", "Redeemed the Frostwhisper Ysara"]
@@ -149,27 +148,23 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.228Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -178,15 +173,14 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- Affected by [[step_006]]
+- Affected by
 - Influences [[step_054 (phase_043)]]
 - Requires [[ENC0054_Random_Encounter_55]]
 - See also: [[shield-of-the-cavalier-xdmg (items)]]
@@ -246,7 +240,7 @@ Seeks rare merchandise
 - Influences [[Trade Captain Sterling (D&D_References)]]
 - Parallels [[Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg]]
 - Requires [[Grandmother Nightcomfor (D&D_References)]]
-- Connects to [[step_070]]
+- Connects to
 - Leads to [[step_047 (phase_016)]]
 - See also: [[LOC00061_Towns_Location_62]]
 - Related: [[The Convergence Maze]]
@@ -254,11 +248,11 @@ Seeks rare merchandise
 - Leads to [[Community Investment Fund]]
 - Originates from [[Institute of Adaptive Sciences]]
 - See also: [[LORE00303_History_Entry_304]]
-- Related: [[step_042]]
+- Related:
 - Connects to [[Resonance Roses]]
 - Related: [[portrait-npc-memory-merchants-memory-merchants.svg_1 (Portraits)]]
 - Leads to [[The Final Vault]]
-- Connects to [[step_084]]
+- Connects to
 - Influences [[ITEM00478_Dragon_Scale_Boots_of_Protection]]
 - Influences [[step_029 (phase_017)]]
 - Requires [[Leviathan Shrines 2]]
@@ -274,7 +268,7 @@ Seeks rare merchandise
 - See also: [[step_031 (phase_069)]]
 - Originates from [[LOC00104_Towns_Location_105]]
 - Leads to [[Purification Chambers (D&D_References)]]
-- Parallels [[step_071]]
+- Parallels
 - Compare with [[Astral Skiff Mtf]]
 - Leads to [[Gatekeeper Iron-Lung Boris]]
 - Connects to [[LORE0017_Prophecy_of_the_Dragon_Wars]]
@@ -291,7 +285,6 @@ Seeks rare merchandise
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

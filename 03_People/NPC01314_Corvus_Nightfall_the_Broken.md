@@ -9,7 +9,6 @@ aliases: [NPC01314 Corvus Nightfall the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01314 Corvus Nightfall the Broken]
 - [[#Felicia Goldleaf the Lost (Criminal - Accomplice)|Felicia Goldleaf the Lost (Criminal - Accomplice)]]
 - [[#Baelor Ashford the Broken (Family - Child)|Baelor Ashford the Broken (Family - Child)]]
 - [[#Elric Zephyrblade the Broken (Personal - Nemesis)|Elric Zephyrblade the Broken (Personal - Nemesis)]]
-
 
 ---
 aliases: ["Corvus Nightfall the Broken", "corvus nightfall the broken", "Corvus Nightfall Broken", "Broken the Nightfall Corvus"]
@@ -151,21 +149,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.259Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -189,7 +183,7 @@ Has information about legendary item
 - Affected by [[Assets Locations Location City Quartermaster Shadow Supply V1 Quartermaster Shadow Supply.svg]]
 - Parallels [[Archdruid Thornweaver]]
 - Influences [[Diplomat Cross-Current Thane 2]]
-- Related: [[step_016]]
+- Related:
 - Connects to [[Ammunition of Slaying Xdmg]]
 - Related: [[NPC0182_Willem_Brightblade]]
 - Leads to [[Wind Song Traditions (D&D_References)]]
@@ -215,11 +209,11 @@ Has information about legendary item
 - Affected by [[EVENT00036_Magical_Event_37]]
 - Requires [[NPC01399_Orion_Ashford_the_Bold]]
 - Influences [[Robe of the Archmagi Xdmg]]
-- Compare with [[step_076]]
+- Compare with
 - Influences [[Capital City]]
 - Leads to [[Bartender Marina Dualborn]]
 - Requires [[Location City Keeper of Secrets Whisper Darkhold Keeper of Secrets Whisper Darkhold.svg]]
-- Originates from [[step_048]]
+- Originates from
 - Influences [[Overmind Depth-Thought Eternal]]
 - Influences [[step_064 (phase_064)]]
 - Compare with [[ITEM00551_Adamantine_Plate_of_Fortitude]]
@@ -256,7 +250,7 @@ Has information about legendary item
 - Compare with [[Sword of Wounding Xdmg]]
 - Related: [[NPC01352_Lyanna_Winterborn_the_Guardian]]
 - Parallels [[egyptian-anubis (deities)]]
-- Affected by [[step_052]]
+- Affected by
 - Compare with [[Network Coordinator Wave Linkmaster]]
 - Requires [[SPELL00065_Nature_Spell_66]]
 - See also: [[Enterprise Director Duskwork 2]]
@@ -265,8 +259,8 @@ Has information about legendary item
 - See also: [[Portrait NPC Captain Thorne Darkwater V2 Captain Thorne Darkwater.svg]]
 - Related: [[Memoriam - The Forgotten Continent 2]]
 - Leads to [[Quest - The Plague of Crystals]]
-- Leads to [[step_075]]
-- Originates from [[step_032]]
+- Leads to
+- Originates from
 - Influences [[The Great Convergence Prophecies 2]]
 - Affected by [[step_083 (phase_067)]]
 

@@ -18,7 +18,6 @@ aliases: [NPC01228 Brenna Crystalbrook the Scholar]
 - [[#Dara Frostwhisper the Wise (Family - Parent)|Dara Frostwhisper the Wise (Family - Parent)]]
 - [[#Vesper Darkwater the Wanderer (Personal - Ex-lover)|Vesper Darkwater the Wanderer (Personal - Ex-lover)]]
 
-
 ---
 aliases: ["Brenna Crystalbrook the Scholar", "brenna crystalbrook the scholar", "Brenna Crystalbrook Scholar", "Scholar the Crystalbrook Brenna"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.250Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,7 +171,7 @@ Knows secret about major threat
 - Leads to [[QUEST00265_Side_Quest_266]]
 - Compare with [[Assets Item Artifact Weird Tank Pota V6 Weird Tank Pota.png]]
 - Parallels [[Void-touched Assassins (D&D_References)]]
-- Influences [[step_035]]
+- Influences
 - Requires [[pepper-xdmg (items)]]
 - Related: [[Location City Sage Rememberall Sage Rememberall.svg]]
 - Affected by [[Assets Locations Location City Clerk Supreme Marcus Filekeeper Clerk Supreme Marcus Filekeeper.svg]]
@@ -262,8 +257,8 @@ Knows secret about major threat
 - Originates from [[LORE00212_Legends_Entry_213]]
 - Leads to [[Assets Symbols Symbol Heraldry the Great Cacophony the Great Cacophony.svg]]
 - Related: [[Robe of the Archmagi Xdmg]]
-- Influences [[step_084]]
-- See also: [[step_007]]
+- Influences
+- See also:
 - Originates from [[Diplomatic Event Scenarios (D&D_References)]]
 - Requires [[portrait-npc-queen-nerida-v2-queen-nerida.svg]]
 - Originates from [[step_003 (phase_065)]]
@@ -274,7 +269,6 @@ Knows secret about major threat
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

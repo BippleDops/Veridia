@@ -18,7 +18,6 @@ aliases: [NPC01564 Faelyn Moonshadow the Wise]
 - [[#Brenna Brightblade the Lost (Personal - Best friend)|Brenna Brightblade the Lost (Personal - Best friend)]]
 - [[#Lyanna Lightbringer the Broken (Family - Sibling)|Lyanna Lightbringer the Broken (Family - Sibling)]]
 
-
 ---
 aliases: ["Faelyn Moonshadow the Wise", "faelyn moonshadow the wise", "Faelyn Moonshadow Wise", "Wise the Moonshadow Faelyn"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.286Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -179,20 +174,20 @@ Needs help with personal quest
 - Originates from [[Symbol Heraldry Major Trading Companies Major Trading Companies.svg]]
 - Compare with [[LOC00220_Towns_Location_221]]
 - Connects to [[LORE00300_History_Entry_301]]
-- Influences [[step_043]]
+- Influences
 - Affected by [[Vicious Weapon Xdmg]]
 - Originates from [[step_068 (phase_064)]]
-- Requires [[step_037]]
+- Requires
 - Related: [[Assets Locations Location City Depth Crystal Harvest V1 Depth Crystal Harvest.svg]]
 - See also: [[Portrait NPC Shadow Parliament V2 Shadow Parliament.svg_1 (Portraits)]]
 - Originates from [[step_088 (phase_066)]]
 - Related: [[step_047 (phase_049)]]
-- Parallels [[step_047]]
+- Parallels
 - See also: [[Portrait NPC the Throne Pretenders V2 the Throne Pretenders.svg]]
 - Influences [[Portrait NPC Shadow Binding Sanctum V1 Shadow Binding Sanctum.svg_1 (Portraits)]]
 - See also: [[Map Map Aethermoor Harbor Skirmish Aethermoor Harbor Skirmish.png]]
 - Connects to [[Assets Locations Location City Master Cultivator Reef Growstone Master Cultivator Reef Growstone.svg]]
-- Related: [[step_059]]
+- Related:
 - Compare with [[Spell Compendium]]
 - Compare with [[Blue Abishai Mpmm]]
 - Originates from [[step_046 (phase_011)]]
@@ -202,7 +197,7 @@ Needs help with personal quest
 - Parallels [[MON0013_Crystal_Reaper]]
 - Connects to [[Pressure Anomaly Regions (D&D_References)]]
 - Requires [[step_034 (phase_066)]]
-- Related: [[step_056]]
+- Related:
 - Parallels [[step_052 (phase_037)]]
 - Parallels [[Vex Shadowthorn]]
 - Affected by [[Deities of Dragonlance Evil Phb]]
@@ -225,27 +220,27 @@ Needs help with personal quest
 - Connects to [[4-assorted-beasts (volos-guide-to-monsters)]]
 - Related: [[ITEM01084_Lesser_Potion_of_Swiftness]]
 - Related: [[Keeper of Crowns Lydia Starfall 2]]
-- Parallels [[step_069]]
+- Parallels
 - Originates from [[Assets Locations Location City Registrar Cornelius Scrollkeeper V1 Registrar Cornelius Scrollkeeper.svg]]
 - Connects to [[step_038 (phase_065)]]
 - Affected by [[Location City the Singing Trenches V1 the Singing Trenches.svg]]
 - Affected by [[step_074 (phase_080)]]
 - Compare with [[Portrait NPC Queen Seraphina Lumengarde V2 Queen Seraphina Lumengarde.svg]]
-- Parallels [[step_026]]
+- Parallels
 - Compare with [[step_007 (phase_089)]]
 - Originates from [[The Great Tidal Amphitheater]]
 - Influences [[Location City Old Sally Seasprayer V1 Old Sally Seasprayer.svg]]
 - Related: [[QUEST00125_Personal_Quest_126]]
 - Compare with [[Assets Locations Location City Loop Walker Celia Loop Walker Celia.svg]]
-- Originates from [[step_050]]
+- Originates from
 - Originates from [[Holy Avenger Xdmg]]
 - Compare with [[Tidal Harmony 2]]
 - Related: [[LOC00051_Towns_Location_52]]
 - Related: [[FAC00082_Orders_83]]
 - Related: [[Assets Portraits Portrait NPC the Resonance Prophet the Resonance Prophet.svg]]
-- Related: [[step_077]]
+- Related:
 - Originates from [[Location City Transformation Medicine Techniques Transformation Medicine Techniques.svg]]
-- Parallels [[step_019]]
+- Parallels
 - Compare with [[Windwarden]]
 - See also: [[Lady Jade Clawgrip (D&D_Statblocks)]]
 - Influences [[step_053 (phase_014)]]
@@ -277,7 +272,6 @@ Needs help with personal quest
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

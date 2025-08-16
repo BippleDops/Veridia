@@ -18,7 +18,6 @@ aliases: [NPC00504 Qadim Darkwater the Redeemed]
 - [[#Elric Hawthorne the Fallen (Personal - Childhood friend)|Elric Hawthorne the Fallen (Personal - Childhood friend)]]
 - [[#Caelum Thornweave the Mystic (Personal - Best friend)|Caelum Thornweave the Mystic (Personal - Best friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Qadim Darkwater the Redeemed", "qadim darkwater the redeemed", "Qadim Darkwater Redeemed", "Redeemed the Darkwater Qadim"]
@@ -141,27 +140,23 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.170Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -170,11 +165,10 @@ Discovered something valuable
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -185,7 +179,7 @@ Discovered something valuable
 - Influences [[X-102_Portal_Ferry_Strike]]
 - Parallels [[Location City Surface Tensions Surface Tensions.svg]]
 - Compare with [[Gnome Urdlen Mtf]]
-- Affected by [[step_021]]
+- Affected by
 - Compare with [[step_096 (phase_006)]]
 - See also: [[step_019 (phase_050)]]
 - Affected by [[The Deep Academy]]
@@ -199,13 +193,13 @@ Discovered something valuable
 - Compare with [[Link Integrity Report]]
 - Leads to [[item-artifact-warhammer-xphb-v1-warhammer-xphb.png]]
 - Leads to [[step_010 (phase_016)]]
-- See also: [[step_062]]
+- See also:
 - See also: [[Map World Layer World Political Boundaries V1 World Political Boundaries.svg]]
 - Compare with [[SPELL00057_Nature_Spell_58]]
 - Originates from [[The Argument Amphitheater]]
 - Parallels [[step_001 (phase_051)]]
 - Parallels [[ITEM01328_Masterwork_Lock_of_Reliability]]
-- Parallels [[step_003]]
+- Parallels
 - Leads to [[The Ready Current]]
 - See also: [[The Cerulean Depths]]
 - Related: [[ITEM00055_Thunder_Spear_of_the_Ancients]]
@@ -228,13 +222,13 @@ Discovered something valuable
 - Originates from [[DUN00127_Dungeon_128]]
 - Requires [[NPC00257_Delara_Proudmore_the_Wise]]
 - Related: [[Portrait NPC Surface Supremacists V1 Surface Supremacists.svg_1 (Portraits)]]
-- Affected by [[step_086]]
+- Affected by
 - Requires [[Location City Circle of Mourners V1 Circle of Mourners.svg]]
 - Leads to [[chamberlain-of-zuggtmoy-oota (plant)]]
 - Compare with [[step_039 (phase_061)]]
 - Influences [[Assets Locations Location City Vote Vaults V1 Vote Vaults.svg]]
 - Requires [[step_004 (phase_007)]]
-- See also: [[step_032]]
+- See also:
 - Affected by [[Depth Cardinal Wisdom Voidseeke 2]]
 - Affected by [[step_019 (phase_065)]]
 - Compare with [[step_100 (phase_023)]]
@@ -283,7 +277,6 @@ Discovered something valuable
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

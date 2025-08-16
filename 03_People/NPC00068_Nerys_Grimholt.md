@@ -9,7 +9,6 @@ aliases: [NPC00068 Nerys Grimholt]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00068 Nerys Grimholt]
 - [[#Jorah Winterborn (Political - Patron)|Jorah Winterborn (Political - Patron)]]
 - [[#Rhiannon Brightblade the Wanderer (Criminal - Handler)|Rhiannon Brightblade the Wanderer (Criminal - Handler)]]
 - [[#Aeliana Ashford (Political - Puppet)|Aeliana Ashford (Political - Puppet)]]
-
 
 ---
 created: 2025-08-15
@@ -152,27 +150,23 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.119Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -180,11 +174,10 @@ Requires champions for trial by combat
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -209,7 +202,7 @@ Requires champions for trial by combat
 - Influences [[step_072 (phase_006)]]
 - Compare with [[step_067 (phase_025)]]
 - Leads to [[Chief Philosopher Marina Clearpool]]
-- Connects to [[step_027]]
+- Connects to
 - Originates from [[step_012 (phase_019)]]
 - Influences [[Ecosystem Simulation Engine]]
 - See also: [[step_095 (phase_100)]]
@@ -228,9 +221,9 @@ Requires champions for trial by combat
 - Affected by [[D-L-03_Deep_Mother_Dream_Tide]]
 - Compare with [[Master Banker Cornelius Coinwrigh]]
 - Requires [[Assets Locations Location City Shadow Wells V1 Shadow Wells.svg]]
-- Parallels [[step_004]]
+- Parallels
 - Originates from [[FAC00011_Orders_12]]
-- Affected by [[step_027]]
+- Affected by
 - Leads to [[The Reflection Pools]]
 - Influences [[Location City Quill Precisequote Quill Precisequote.svg]]
 - Connects to [[Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg]]
@@ -254,7 +247,7 @@ Requires champions for trial by combat
 - Originates from [[Mirror Merchant Marina]]
 - Compare with [[step_092 (phase_049)]]
 - Leads to [[Cone Area of Effect Xphb]]
-- Connects to [[step_059]]
+- Connects to
 - Requires [[ENC00142_Environmental_Encounter_143]]
 - Related: [[LOC00037_Towns_Location_38]]
 - Related: [[QUEST00442_Side_Quest_443]]
@@ -269,7 +262,7 @@ Requires champions for trial by combat
 - Requires [[Crying Peaks]]
 - Compare with [[ending-a-chase-escape-factors-xdmg (tables)]]
 - Originates from [[Quiver of Ehlonna Xdmg]]
-- See also: [[step_097]]
+- See also:
 - Compare with [[Market Mystery 2]]
 - Compare with [[step_082 (phase_015)]]
 - Affected by [[step_023 (phase_006)]]

@@ -18,7 +18,6 @@ aliases: [NPC00683 Cedric Underhill the Lost]
 - [[#Aeliana Blackstone the Swift (Political - Puppet)|Aeliana Blackstone the Swift (Political - Puppet)]]
 - [[#Brenna Quicksilver the Mystic (Political - Spy)|Brenna Quicksilver the Mystic (Political - Spy)]]
 
-
 ---
 aliases: ["Cedric Underhill the Lost", "cedric underhill the lost", "Cedric Underhill Lost", "Lost the Underhill Cedric"]
 tags: [npc, character]
@@ -147,21 +146,17 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.191Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -215,7 +210,7 @@ Witnessed a crime
 - Affected by [[Holy Weapon Xge]]
 - Affected by [[sleet-storm-xphb (spells)]]
 - Requires [[Portrait NPC Quest the Diplomatic Immunity Case Quest the Diplomatic Immunity Case.svg]]
-- Influences [[step_052]]
+- Influences
 - Connects to [[Location City Keeper of the Past Elderly Morgan Keeper of the Past Elderly Morgan.svg]]
 - Leads to [[LOC00017_Dungeons_Location_18]]
 - Originates from [[Aethermoor Culture and Society]]
@@ -223,14 +218,14 @@ Witnessed a crime
 - Parallels [[EVENT00008_Natural_Event_9]]
 - Parallels [[step_024 (phase_009)]]
 - Connects to [[Shadow Traders]]
-- Leads to [[step_080]]
+- Leads to
 - Related: [[horn-of-silent-alarm-xdmg (items)]]
 - Originates from [[LOC00216_Cities_Location_217]]
 - Affected by [[ITEM00797_Infernal_Ring_of_the_Gods]]
 - Connects to [[Surgeon Coral Precisehands (D&D_References)]]
 - Related: [[portrait-npc-the-cure-v2-the-cure.svg_1 (Portraits)]]
 - See also: [[Echo-Keeper Selin (D&D_References)]]
-- Influences [[step_053]]
+- Influences
 - Originates from [[The Loop Breaker 2]]
 - Connects to [[Order of the Silver Ancho]]
 - Affected by [[oil-of-etherealness-xdmg (items)]]
@@ -245,7 +240,7 @@ Witnessed a crime
 - Leads to [[Null Ambassador]]
 - Affected by [[Assets Locations Location City Vote Vaults V1 Vote Vaults.svg]]
 - Leads to [[Spy Games 2]]
-- Influences [[step_075]]
+- Influences
 - See also: [[Assets Locations Location City Foreign Affairs V1 Foreign Affairs.svg]]
 - See also: [[step_042 (phase_026)]]
 - Originates from [[22-afterword (out-of-the-abyss)]]
@@ -270,7 +265,6 @@ Witnessed a crime
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [Letter From the Pearl Guard Captai]
 - [[#Superstitions Improvements|Superstitions Improvements]]
 - [[#Sensory Improvements|Sensory Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Letter_From_the_Pearl_Guard_Captai
@@ -113,7 +112,7 @@ tags: [combat, lore]
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -142,7 +141,6 @@ tags: [combat, lore]
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 > [!warning] ⚠️ Warning
 > Important safety or rule information
@@ -190,8 +188,7 @@ tags: [combat, lore]
 - [[MOC_Sessions]]
 - [[Master_Narrative_Web.md]]
 - [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -201,7 +198,6 @@ tags: [combat, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -275,13 +271,13 @@ tags: [combat, lore]
 - Affected by [[The Deep Mother]]
 - Requires [[Portrait NPC King Torrhen Lumengarde V2 King Torrhen Lumengarde.svg_1 (Portraits)]]
 - Related: [[FAC00021_Cults_22]]
-- See also: [[step_060]]
+- See also:
 - See also: [[Dragonborn Names Male Xge]]
 - Related: [[step_060 (phase_034)]]
 - Leads to [[The Unnamed Chronicler]]
 - Affected by [[Aquabyssos World Guide]]
 - Requires [[Assets Locations Location City Count Viktor Pressureborn Count Viktor Pressureborn.svg]]
-- Related: [[step_001]]
+- Related:
 - Leads to [[The Pressure Storm Region]]
 - Parallels [[FAC00043_Guilds_44]]
 - Affected by [[Mixing Potions]]
@@ -296,12 +292,12 @@ tags: [combat, lore]
 - Requires [[step_010 (phase_051)]]
 - Connects to [[Colossus Xmm]]
 - See also: [[Location City Crystallium Embassy Crystallium Embassy.svg]]
-- Originates from [[step_023]]
+- Originates from
 - Related: [[NPC00541_Baelor_Oakenshield_the_Strong]]
 - Leads to [[step_024 (phase_012)]]
 - Originates from [[ITEM00169_Shadow_Bow_of_Power]]
 - Originates from [[step_035 (phase_058)]]
-- Compare with [[step_092]]
+- Compare with
 - Influences [[Council of Mages 2]]
 - Related: [[Deepcaster]]
 - Connects to [[Pressure Brewing Technology]]

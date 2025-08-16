@@ -18,7 +18,6 @@ aliases: [NPC00945 Wynne Voidwalker the Seeker]
 - [[#Dara Proudmore the Strong (Criminal - Fence)|Dara Proudmore the Strong (Criminal - Fence)]]
 - [[#Gareth Blackstone the Scholar (Criminal - Informant)|Gareth Blackstone the Scholar (Criminal - Informant)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Wynne Voidwalker the Seeker", "wynne voidwalker the seeker", "Wynne Voidwalker Seeker", "Seeker the Voidwalker Wynne"]
@@ -147,16 +146,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.221Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -212,11 +208,10 @@ Seeks rare merchandise
 - [[MOC_Lore]]
 - [[Player_Portal.md]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -227,11 +222,10 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -247,11 +241,11 @@ Seeks rare merchandise
 - Leads to [[Symbol Heraldry Vex Shadowthorn Boss Fight V1 Vex Shadowthorn Boss Fight.png]]
 - Originates from [[Campaign Calendar (D&D_References)]]
 - Influences [[step_098 (phase_038)]]
-- Influences [[step_045]]
+- Influences
 - Compare with [[Aetheric Wind Songs (D&D_References)]]
 - Related: [[MON00037_Constructs_Creature_38]]
 - Leads to [[Mediator Cardinal Harmony]]
-- Parallels [[step_019]]
+- Parallels
 - Connects to [[ENC00408_Combat_Encounter_409]]
 - See also: [[Dragonlance Takhisis Phb]]
 - Compare with [[Spymaster Goldwatch]]
@@ -268,7 +262,7 @@ Seeks rare merchandise
 - Parallels [[Elder Whisper-In-The-Dark (People)]]
 - Affected by [[Scimitar of Speed Xdmg]]
 - Influences [[step_013 (phase_061)]]
-- Originates from [[step_032]]
+- Originates from
 - Compare with [[[[Royal Court]] (D&D_References)]]
 - Requires [[elven-labelas-enoreth-mtf (deities)]]
 - See also: [[Assets Locations [[Location City [[Chief Philosopher Marina Clearpool]] V1 Chief Philosopher Marina Clearpool.svg]]]]
@@ -310,13 +304,13 @@ Seeks rare merchandise
 - Connects to [[Crystal Garden (D&D_References)]]
 - Affected by [[Clerk Supreme Marcus Filekeeper]]
 - See also: [[step_082 (phase_091)]]
-- Leads to [[step_042]]
+- Leads to
 - Parallels [[Depth-Aging Process]]
-- Affected by [[step_085]]
+- Affected by
 - Influences [[step_043 (phase_075)]]
 - See also: [[dwarves-on-the-move-purpose-of-travel-mtf (tables)]]
 - Parallels [[ENC00007_Environmental_Encounter_8]]
-- Affected by [[step_019]]
+- Affected by
 - Influences [[ENC00220_Combat_Encounter_221]]
 - Compare with [[NPC00180_Felicia_Thornweave]]
 - Connects to [[step_023 (phase_080)]]
@@ -326,21 +320,20 @@ Seeks rare merchandise
 - Leads to [[Reality Breach Incidents]]
 - Connects to [[Environmental Hazards 2]]
 - Leads to [[Memory Whales]]
-- Compare with [[step_006]]
+- Compare with
 - Influences [[block-and-tackle-xphb (items)]]
 - Compare with [[Crew_Relationship_Events]]
-- Influences [[step_003]]
+- Influences
 - Requires [[Cylinder Area of Effect Xphb]]
 - Influences [[LORE00298_History_Entry_299]]
 - Compare with [[Harbor Master Tideshade]]
-- Parallels [[step_083]]
+- Parallels
 - Connects to [[[[Wave Friendlyserve]] 2]]
 
 ## Visual References
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

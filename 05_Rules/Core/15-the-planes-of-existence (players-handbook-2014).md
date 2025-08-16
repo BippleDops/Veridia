@@ -18,7 +18,6 @@ aliases: [15-the-planes-of-existence (players-handbook-2014)]
 - [[#See Also|See Also]]
 - [[#Game Mechanics|Game Mechanics]]
 
-
 ---
 
 title: 15-the-planes-of-existence (players-handbook-2014)
@@ -54,11 +53,9 @@ world: Both
 
 - A noble needs help investigating before winter ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This location connects to the main plot
@@ -86,12 +83,10 @@ world: Both
 - [ ] Prepare quick reference
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -122,11 +117,11 @@ world: Both
 - Originates from [[step_080 (phase_007)]]
 - Leads to [[Depth Pressure Rings 2]]
 - Influences [[step_022 (phase_086)]]
-- Parallels [[step_093]]
+- Parallels
 - Affected by [[Manual of Gainful Exercise Xdmg]]
 - Parallels [[Demon Customization Tables Demon Ideals Mtf]]
 - Influences [[LORE00054_History_Entry_55]]
-- Related: [[step_023]]
+- Related:
 - Connects to [[3 Phandalin]]
 - Compare with [[Assets Locations Location City Memorial Tender Sarah V1 Memorial Tender Sarah.svg]]
 - Affected by [[step_039 (phase_099)]]
@@ -156,7 +151,7 @@ world: Both
 - Requires [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
 - Parallels [[Deep Dragons]]
 - Connects to [[step_041 (phase_025)]]
-- Parallels [[step_059]]
+- Parallels
 - Parallels [[Quandrix Student Scc]]
 - Related: [[Lighthouse Pea]]
 - Compare with [[Elder Whisper-In-The-Dark (D&D_Statblocks)]]
@@ -169,7 +164,7 @@ world: Both
 - Compare with [[The Neutral Current Tavern 2]]
 - Influences [[Imperial Navy]]
 - Originates from [[Shape Water Xge]]
-- Parallels [[step_039]]
+- Parallels
 - Leads to [[SPELL00003_Nature_Spell_4]]
 - See also: [[step_029 (phase_099)]]
 - Leads to [[Creative Visionweaver (D&D_References)]]
@@ -187,9 +182,9 @@ world: Both
 - Connects to [[step_099 (phase_011)]]
 - Leads to [[step_035 (phase_081)]]
 - Parallels [[step_004 (phase_012)]]
-- See also: [[step_021]]
-- Parallels [[step_031]]
-- Influences [[step_092]]
+- See also:
+- Parallels
+- Influences
 - Compare with [[Dehydration Xphb]]
 - Connects to [[Symbol Heraldry Quest the Family Reunion V1 Quest the Family Reunion.svg]]
 - Leads to [[NPC01219_Hilda_Zephyrblade_the_Guardian]]
@@ -197,7 +192,7 @@ world: Both
 - See also: [[twists]]
 - Originates from [[cleric-xphb-knowledge-domain (classes)]]
 - Leads to [[Zircon Xdmg]]
-- See also: [[step_061]]
+- See also:
 - Influences [[LOC00128_Cities_Location_129]]
 - Compare with [[Whelm Xdmg]]
 - Originates from [[Forgotten Realms Mask]]

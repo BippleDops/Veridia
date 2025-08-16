@@ -18,7 +18,6 @@ aliases: [NPC01687 Aldric Youngblood the Cunning]
 - [[#Aldric Hawthorne the Fallen (Political - Opposition)|Aldric Hawthorne the Fallen (Political - Opposition)]]
 - [[#Idris Jadeclaw the Bold (Personal - Nemesis)|Idris Jadeclaw the Bold (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aldric Youngblood the Cunning", "aldric youngblood the cunning", "Aldric Youngblood Cunning", "Cunning the Youngblood Aldrictags: [npc, character, combat, magic, social, lore]er]
@@ -148,16 +147,13 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.299Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -192,11 +188,10 @@ Modifications:
 - [[Ritual_Timing_Wheel_Convergenc]]
 - [[Count_Strahd_von_Zarovich]]
 - [[Complete_NPC_Matrix.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -206,11 +201,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -235,7 +229,7 @@ Modifications:
 - Originates from [[LORE00062_Prophecies_Entry_63]]
 - Compare with [[trident-of-fish-command-xdmg (items)]]
 - Influences [[[[Commercial District]] 2]]
-- Leads to [[step_001]]
+- Leads to
 - Compare with [[Boar Xmm]]
 - Related: [[interactions-with-others-npc-interaction-traits]]
 - Affected by [[Infiltrate Surgical Facilities]]
@@ -245,7 +239,7 @@ Modifications:
 - Related: [[Portrait NPC Hous... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[LOC00247_Wilderness_Location_248]]
 - Connects to [[step_084 (phase_051)]]
-- Requires [[step_075]]
+- Requires
 - Related: [[ITEM01466_Decorated_Compass_of_Reliability]]
 - Related: [[ENC00448_Combat_Encounter_449]]
 - Compare with [[Session 15 Exploration Discovery]]
@@ -256,7 +250,7 @@ Modifications:
 - See also: [[The Living Weapon]]
 - Affected by [[step_043 (phase_098)]]
 - Connects to [[Scroll of Protection Undead Xdmg]]
-- Requires [[step_084]]
+- Requires
 - See also: [[founder-dragons-scc (tables)]]
 - Connects to [[potion-of-acid-resistance-xdmg (items)]]
 - Connects to [[step_053 (phase_027)]]
@@ -268,7 +262,7 @@ Modifications:
 - Compare with [[The World Tree]]
 - Originates from [[Military Saddle Xphb]]
 - See also: [[LORE00306_History_Entry_307]]
-- Originates from [[step_053]]
+- Originates from
 - Compare with [[[[Market Master Cornelius Driftwood]] (D&D_References)]]
 - Related: [[step_027 (phase_007)]]
 - Requires [[NPC01408_Malakai_Winterborn_the_Mystic]]
@@ -277,7 +271,7 @@ Modifications:
 - Affected by [[ITEM01352_Masterwork_Tool_Kit_of_Convenience]]
 - Parallels [[Exhaustion (D&D_References)]]
 - Requires [[Brown Mold Xdmg]]
-- Parallels [[step_005]]
+- Parallels
 - Leads to [[step_077 (phase_005)]]
 - Affected by [[Location City Parliament of Echoes Public Gallery V1 Parliament of Echoes Public Gallery.png]]
 - Affected by [[[[The Crystal Caves]] (D&D_References)]]
@@ -293,7 +287,7 @@ Modifications:
 - Originates from [[belt-of-fire-giant-strength-xdmg (items)]]
 - Influences [[step_092 (phase_037)]]
 - Parallels [[step_083 (phase_049)]]
-- See also: [[step_085]]
+- See also:
 - See also: [[Location City [[Ambassador Lysandra Silvertonge]] Ambassador Lysandra Silvertonge.svg]]
 - Leads to [[Portrait NPC Lady Victoria Pennworth Lady Victoria Pennworth.svg]]
 - Influences [[GM_Improvement_Tracker]]
@@ -302,7 +296,7 @@ Modifications:
 - Leads to [[step_034 (phase_083)]]
 - Leads to [[unbreakable-arrow-xge (items)]]
 - Connects to [[Player_Handout_[[Aethermoor]]_Airships]]
-- Affected by [[step_011]]
+- Affected by
 - Compare with [[step_008 (phase_051)]]
 - Compare with [[QUEST00158_Personal_Quest_159]]
 - Affected by [[Crisis Exploitation]]
@@ -319,7 +313,6 @@ Modifications:
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01664 Pyria Lightbringer the Redeemed]
 - [[#Vesper Youngblood the Lost (Political - Opposition)|Vesper Youngblood the Lost (Political - Opposition)]]
 - [[#Ysara Ravenheart the Wise (Criminal - Handler)|Ysara Ravenheart the Wise (Criminal - Handler)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Pyria Lightbringer the Redeemed", "pyria lightbringer the redeemed", "Pyria Lightbringer Redeemed", "Redeemed the Lightbringer Pyria"]
@@ -157,16 +156,13 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.297Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -183,11 +179,10 @@ Provides information for a price
 - [[NPC00281_Hestara_Nightfall_the_Cunning]]
 - [[10 Combat]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -196,11 +191,10 @@ Provides information for a price
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -208,7 +202,7 @@ Provides information for a price
 - Influences [[Harmonic Mind Contro]]
 - Requires [[step_026 (phase_070)]]
 - Parallels [[02-chapter-1-playing-the-game#Skill List]]
-- Affected by [[step_045]]
+- Affected by
 - Affected by [[Trader Cross-Current Jin]]
 - Compare with [[Democratic Technology Development (D&D_References)]]
 - Connects to [[Suffocation Xphb]]
@@ -222,7 +216,7 @@ Provides information for a price
 - See also: [[Portrait NPC Gallery Guide Captain Marina Civicvoice V2 Gallery Guide Captain Marina Civicvoice.svg]]
 - Parallels [[step_081 (phase_008)]]
 - Related: [[NPC0045_Fiora_Ironforge]]
-- Compare with [[step_034]]
+- Compare with
 - Related: [[SHOP00011_General_Shop_12]]
 - See also: [[Satyr Revelmaster Xmm]]
 - Leads to [[QUEST00001_Side_Quest_2]]
@@ -234,9 +228,9 @@ Provides information for a price
 - Affected by [[Pressure-Wrought]]
 - Compare with [[Location City Abyssos Prime Docks V1 Abyssos Prime Docks.svg]]
 - Affected by [[portrait-npc-neutral-zone-v2-neutral-zone.svg]]
-- Requires [[step_010]]
+- Requires
 - Related: [[tough-xphb (feats)]]
-- Affected by [[step_040]]
+- Affected by
 - See also: [[The First Pearl]]
 - Connects to [[Crystal Magic 2]]
 - Originates from [[ENC00049_Combat_Encounter_50]]
@@ -288,10 +282,10 @@ Provides information for a price
 - See also: [[Portrait NPC the Corroded Crown V1 the Corroded Crown.svg]]
 - See also: [[Unified Aquabyssos Legal Code 2]]
 - Parallels [[black-velvet-mask-stitched-with-silver-thread-xdmg]]
-- Requires [[step_071]]
+- Requires
 - Connects to [[step_009 (phase_021)]]
 - Related: [[Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg]]
-- See also: [[step_096]]
+- See also:
 - See also: [[QUEST00372_Side_Quest_373]]
 - Related: [[Elf Deities the Seldarine Mtf]]
 - Leads to [[Proficiency Dice (variant-rules)]]
@@ -309,7 +303,6 @@ Provides information for a price
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

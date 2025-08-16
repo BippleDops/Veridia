@@ -18,7 +18,6 @@ aliases: [NPC00599 Cedric Lightbringer the Wise]
 - [[#Xander Ravenheart the Redeemed (Professional - Mentor)|Xander Ravenheart the Redeemed (Professional - Mentor)]]
 - [[#Delara Nightfall the Cunning (Family - Sibling)|Delara Nightfall the Cunning (Family - Sibling)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Cedric Lightbringer the Wise", "cedric lightbringer the wise", "Cedric Lightbringer Wise", "Wise the Lightbringer Cedrictags: [npc, character, combat, puzzle, lore]er]
@@ -149,16 +148,13 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.181Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -192,11 +188,10 @@ Modifications:
 - [[11 Rules Glossary]]
 - [[NPC01201_Felicia_Ironwood_the_Bold]]
 - [[NPC00300_Urien_Zephyrblade]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -206,11 +201,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -221,7 +215,7 @@ Modifications:
 - Affected by [[[[Shadow Wells]] (D&D_References)]]
 - Related: [[FAC00088_Cults_89]]
 - Connects to [[Portrait NPC Brother Marcus Steelbane V1 Brother Marcus Steelbane.svg_1 (Portraits)]]
-- Affected by [[step_060]]
+- Affected by
 - Compare with [[The [[Depth Plague]]]]
 - Originates from [[Location City [[Inverted Ballroom Wing]] Inverted Ballroom Wing.svg]]
 - Compare with [[Victoria Harbormane]]
@@ -234,7 +228,7 @@ Modifications:
 - Connects to [[Silverscale Emergency Bunker 3 (D&D_References)]]
 - Originates from [[step_057 (phase_096)]]
 - Related: [[Character Sheet Xphb]]
-- Affected by [[step_003]]
+- Affected by
 - Parallels [[cloak-of-displacement-xdmg (items)]]
 - Affected by [[list-spells-classes-oath-of-vengeance-xphb (lists)]]
 - Connects to [[LOC00150_Wilderness_Location_151]]
@@ -245,16 +239,16 @@ Modifications:
 - See also: [[Canal Master Typhoon Currentwise 2]]
 - Affected by [[Umbral Crystal Miners]]
 - See also: [[Thunderwave Xphb]]
-- Related: [[step_048]]
+- Related:
 - Related: [[QUEST0073_The_Frozen_Fortress_Uprising]]
 - Parallels [[Counter-Surveillance]]
 - Requires [[NPC01137_Urien_Frostwhisper_the_Lost]]
 - Compare with [[Chasme Xmm]]
 - Affected by [[Captain Zara Stormwind (D&D_References)]]
 - Leads to [[Kraken Spaw]]
-- Parallels [[step_078]]
+- Parallels
 - Connects to [[DUN00099_Dungeon_100]]
-- Related: [[step_084]]
+- Related:
 - Connects to [[[[Comparative Religion]] (D&D_References)]]
 - Parallels [[Portrait NPC the Shadow Singer Naia V1 the Shadow Singer Naia.svg]]
 - Affected by [[Assets Locations [[Location City Pressure Responsive Fabrics Pressure Responsive Fabrics.svg]]]]
@@ -262,19 +256,19 @@ Modifications:
 - Related: [[Location City [[House Depthguard]] V1 House Depthguard.svg]]
 - Requires [[Jumping Xphb]]
 - Related: [[step_087 (phase_018)]]
-- Connects to [[step_076]]
+- Connects to
 - Parallels [[ENC00401_Combat_Encounter_402]]
 - Requires [[[[Aquabyssos]] Contact Agent Coral]]
-- Connects to [[step_049]]
-- See also: [[step_033]]
+- Connects to
+- See also:
 - Influences [[Scholar Dr. Vera Theological]]
 - Originates from [[manes-vaporspawn-xmm (fiend)]]
-- Leads to [[step_097]]
+- Leads to
 - Influences [[Goldwave Family Ring]]
-- Requires [[step_052]]
+- Requires
 - Related: [[Portrait NPC Sea Spirit Priests V2 Sea Spirit Priests.svg]]
 - Requires [[Sky-Sailor Guilds]]
-- Influences [[step_064]]
+- Influences
 - Influences [[The Crushing Sanctuary]]
 - Compare with [[Maritime Technolog 2]]
 - See also: [[step_036 (phase_067)]]
@@ -285,9 +279,9 @@ Modifications:
 - Leads to [[Update Weather]]
 - Affected by [[Psychic Wind Location Effects Xdmg]]
 - Leads to [[step_008 (phase_020)]]
-- Originates from [[step_077]]
+- Originates from
 - Connects to [[[[The Diplomatic Quarter]] (D&D_References)]]
-- Influences [[step_077]]
+- Influences
 - Leads to [[ixitxachitl-oota (aberration)]]
 - Leads to [[pact-of-the-blade-xphb (optional-features)]]
 - Related: [[step_026 (phase_039)]]
@@ -302,10 +296,10 @@ Modifications:
 - Affected by [[Cultural Markets]]
 - Originates from [[Assets Portraits Portrait NPC Lady Catherine Mourning Lady Catherine Mourning.svg]]
 - Influences [[Assets Item Artifact Ioun Stone Greater Absorption Xdmg V3 Ioun Stone Greater Absorption Xdmg.png]]
-- Compare with [[step_069]]
+- Compare with
 - Related: [[step_048 (phase_087)]]
 - Related: [[Crystal Mines (Lore)]]
-- Connects to [[step_058]]
+- Connects to
 - Requires [[Map Map Golden Trade Route Toll V2 Golden Trade Route Toll.svg]]
 - Affected by [[Tidal District]]
 - Influences [[step_072 (phase_034)]]
@@ -319,7 +313,6 @@ Modifications:
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

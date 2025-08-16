@@ -18,7 +18,6 @@ aliases: [MASTER INDEX]
 - [[#📚 Lore (100)|📚 Lore (100)]]
 - [[#✨ Custom Spells (50)|✨ Custom Spells (50)]]
 
-
 ---
 created: 2025-08-15
 tags: [npc, character]
@@ -101,9 +100,7 @@ All content has been generated with:
 - [[VAULT_FINAL_STATUS]]
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Spell Design Notes
 Balanced against official spells (ACX p.207-289):
@@ -119,7 +116,6 @@ Balanced against official spells (ACX p.207-289):
 
 ## Source References
 - Volo's Creature Catalog to Monsters (VCC) p.23
-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -144,10 +140,9 @@ Following magic item guidelines (WWT p.135-136):
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## Connections
 
-- Related: [[step_097]]
+- Related:
 - Related: [[Prismatic Plankton 2]]
 - Originates from [[Locations Archive of Echoes]]
 - Parallels [[step_042 (phase_046)]]
@@ -165,7 +160,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[illusions-xphb (variant-rules)]]
 - Related: [[Emergency Response Units]]
 - Related: [[NPC01168_Faelyn_Ashford_the_Lost]]
-- Compare with [[step_040]]
+- Compare with
 - Leads to [[QUEST00213_Personal_Quest_214]]
 - Originates from [[ITEM00270_Blessed_Sword_of_Speed]]
 - Related: [[NPC01250_Rhiannon_Brightblade_the_Redeemed]]
@@ -197,7 +192,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[NPC0067_Beatrix_Ironforge]]
 - Related: [[LORE00246_Legends_Entry_247]]
 - Related: [[Creature Creature Nightwalker Mpmm V2 Nightwalker Mpmm.png]]
-- See also: [[step_037]]
+- See also:
 - Leads to [[step_045 (phase_046)]]
 - Compare with [[NPC00488_Zephyr_Ravenheart_the_Guardian]]
 - Leads to [[step_026 (phase_036)]]
@@ -211,7 +206,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[02_Worldbuilding_Places_Alternative-Path-Fled-City]]
 - Connects to [[step_091 (phase_054)]]
 - Influences [[Assets Locations Location City Master Goldwin Ledgerkeeper Master Goldwin Ledgerkeeper.svg]]
-- Affected by [[step_070]]
+- Affected by
 - See also: [[step_019 (phase_029)]]
 - Leads to [[elementalism-xphb (spells)]]
 - Leads to [[Ironhold Dock]]
@@ -230,14 +225,14 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Monsters]]
 - Parallels [[Location City Surface Portal Alpha V1 Surface Portal Alpha.svg]]
 - Originates from [[step_039 (phase_053)]]
-- Connects to [[step_052]]
-- Requires [[step_041]]
+- Connects to
+- Requires
 - Originates from [[bless-xphb (spells)]]
-- Affected by [[step_031]]
+- Affected by
 - Connects to [[ITEM01390_Decorated_Map_Case_of_Reliability]]
 - Originates from [[ITEM00991_Concentrated_Powder_of_Vigor]]
 - Influences [[Portrait NPC the Leviathan Prophets V2 the Leviathan Prophets.svg]]
-- Affected by [[step_009]]
+- Affected by
 - Influences [[step_006 (phase_081)]]
 - See also: [[Organizations the Chroniclers]]
 - Parallels [[Festival Ground (D&D_References)]]

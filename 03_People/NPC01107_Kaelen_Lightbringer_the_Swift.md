@@ -18,7 +18,6 @@ aliases: [NPC01107 Kaelen Lightbringer the Swift]
 - [[#Drusilla Ironwood the Scholar (Family - Parent)|Drusilla Ironwood the Scholar (Family - Parent)]]
 - [[#Faelyn Zephyrblade the Mystic (Criminal - Accomplice)|Faelyn Zephyrblade the Mystic (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Kaelen Lightbringer the Swift", "kaelen lightbringer the swift", "Kaelen Lightbringer Swift", "Swift the Lightbringer Kaelen"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.237Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -168,7 +163,7 @@ Has map to lost treasure
 - Requires [[Merchant Marine Shadowcargo]]
 - Compare with [[NPC01673_Malakai_Darkwater_the_Guardian]]
 - Connects to [[step_061 (phase_051)]]
-- Related: [[step_076]]
+- Related:
 - See also: [[urban-encounters-levels-1720-xge (tables)]]
 - Compare with [[Symbol Heraldry the Sunken Observatory V1 the Sunken Observatory.svg]]
 - Parallels [[Location City Treasury Department Treasury Department.svg]]
@@ -185,14 +180,14 @@ Has map to lost treasure
 - Connects to [[Enspelled Armor Level 2 Xdmg]]
 - Related: [[04_Resources_Assets_Portraits_portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg_Quick_Ref]]
 - Compare with [[dragonlance-lunitari-phb (deities)]]
-- Connects to [[step_080]]
-- See also: [[step_036]]
+- Connects to
+- See also:
 - Requires [[Brother Matthias the Amber Bearer (People)]]
 - Compare with [[NPC0135_Petra_Darkwater]]
 - Requires [[Portrait NPC High Inquisitor Maltheos V1 High Inquisitor Maltheos.svg_1 (Portraits)]]
 - Leads to [[Shadow Information Brokers 2]]
 - Connects to [[Template_Continent_Placeholder.png]]
-- Leads to [[step_095]]
+- Leads to
 - Compare with [[LOC00280_Cities_Location_281]]
 - See also: [[Handout Handout Embassy Invitation Embassy Invitation.png]]
 - Related: [[vine-blight-xmm (plant)]]
@@ -200,15 +195,15 @@ Has map to lost treasure
 - Requires [[Assets Handouts Handout Handout Wanted Poster with Reward V2 Wanted Poster with Reward.png]]
 - See also: [[Crimson Hand Apprentices]]
 - Related: [[04_Resources_Assets_Locations_location-city-ghost-of-dr-thaddeus-brightwater-ghost-of-dr-thaddeus-brightwater.svg]]
-- Compare with [[step_083]]
+- Compare with
 - Connects to [[NPC01888_Hestara_Ravenheart_the_Redeemed]]
 - See also: [[Ranger Captain Orin Swiftarrow (D&D_References)]]
 - Connects to [[Goldspire Confederacy (D&D_Statblocks)]]
 - Leads to [[Assets Symbols Symbol Heraldry Deputy Archmerchant Scroll Deepmin Deputy Archmerchant Scroll Deepmin.svg]]
-- Leads to [[step_030]]
+- Leads to
 - Originates from [[Location_Generator]]
 - Compare with [[EVENT00096_Magical_Event_97]]
-- Connects to [[step_020]]
+- Connects to
 - Compare with [[Silverquill Primer Scc]]
 - Affected by [[NPC0102_Willem_Goldleaf]]
 - See also: [[Symbol Heraldry Welfare Director Caretake Welfare Director Caretake.svg]]
@@ -246,29 +241,28 @@ Has map to lost treasure
 - Parallels [[QUEST00013_Main_Quest_14]]
 - Leads to [[step_046 (phase_093)]]
 - Affected by [[Portrait NPC Parliament Loyalists Parliament Loyalists.svg]]
-- Affected by [[step_024]]
+- Affected by
 - Originates from [[step_061 (phase_044)]]
 - Influences [[Clothes of Mending Xdmg]]
 - Influences [[Chain Shirt Xphb]]
 - Connects to [[Defense Captain Ironguard]]
 - Connects to [[step_061 (phase_053)]]
 - Requires [[Intellect Devourer Xmm]]
-- Parallels [[step_012]]
+- Parallels
 - Originates from [[LOC00026_Dungeons_Location_27]]
 - Related: [[Crying Peaks (D&D_References)]]
 - Affected by [[The Fishing Fleets 2]]
 - Affected by [[The Crown (D&D_References)]]
 - Originates from [[ITEM00177_Frost_Hammer_of_Accuracy]]
-- Requires [[step_060]]
+- Requires
 - Parallels [[Deep Harbor 2]]
 - Requires [[Assets Art Npcs the Verdant Accord.png]]
-- Connects to [[step_040]]
+- Connects to
 
 ## Visual References
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

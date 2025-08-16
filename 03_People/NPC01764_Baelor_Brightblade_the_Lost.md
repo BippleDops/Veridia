@@ -18,7 +18,6 @@ aliases: [NPC01764 Baelor Brightblade the Lost]
 - [[#Ysara Xendar the Wanderer (Criminal - Fence)|Ysara Xendar the Wanderer (Criminal - Fence)]]
 - [[#Kaelen Emberfall the Scholar (Family - Spouse)|Kaelen Emberfall the Scholar (Family - Spouse)]]
 
-
 ---
 aliases: ["Baelor Brightblade the Lost", "baelor brightblade the lost", "Baelor Brightblade Lost", "Lost the Brightblade Baelor"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.307Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -167,14 +162,14 @@ Provides information for a price
 - Connects to [[LOC0104_Hillton]]
 - Originates from [[NPC01987_Aeliana_Goldleaf_the_Guardian]]
 - Affected by [[Assets Portraits Portrait NPC Sage Lysander Deepthought Sage Lysander Deepthought.svg]]
-- Compare with [[step_011]]
+- Compare with
 - See also: [[Unbroken Air]]
 - Compare with [[step_093 (phase_064)]]
 - Influences [[step_061 (phase_100)]]
 - Originates from [[Intel Master Raven Shadowsigh]]
 - See also: [[step_098 (phase_028)]]
 - Affected by [[Location City Communications Master Signal Cryptkeeper V1 Communications Master Signal Cryptkeeper.svg]]
-- Influences [[step_065]]
+- Influences
 - See also: [[Pressure_Weather_Events]]
 - Originates from [[step_028 (phase_080)]]
 - See also: [[SHOP00036_Specialty_Shop_37]]
@@ -214,7 +209,7 @@ Provides information for a price
 - Requires [[ITEM00214_Thunder_Sword_of_Power]]
 - Connects to [[economic_warfare_simulation_theory]]
 - Requires [[step_093 (phase_023)]]
-- See also: [[step_005]]
+- See also:
 - Requires [[Brazier of Commanding Fire Elementals Xdmg]]
 - Compare with [[Admiral_Marina_Stormcrest (People)]]
 - Originates from [[Assets Portraits Portrait NPC the Siren the Siren.svg]]
@@ -267,7 +262,6 @@ Provides information for a price
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00278 Urien Hawthorne the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00278 Urien Hawthorne the Risen]
 - [[#Solas Darkwater (Family - Spouse)|Solas Darkwater (Family - Spouse)]]
 - [[#Gareth Underhill the Scholar (Family - Sibling)|Gareth Underhill the Scholar (Family - Sibling)]]
 - [[#Vesper Emberfall (Personal - Love interest)|Vesper Emberfall (Personal - Love interest)]]
-
 
 ---
 aliases: ["Urien Hawthorne the Risen", "urien hawthorne the risen", "Urien Hawthorne Risen", "Risen the Hawthorne Urien"]
@@ -145,21 +143,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.144Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -187,14 +181,14 @@ Wants rivals investigated
 - Compare with [[Meridian Docks]]
 - Parallels [[Elemental Crystals]]
 - Affected by [[water-whip (optional-features)]]
-- Originates from [[step_036]]
+- Originates from
 - Related: [[Shadow Market Canals]]
 - Requires [[QUEST00013_Side_Quest_14]]
 - Affected by [[LORE00023_Prophecies_Entry_24]]
 - Compare with [[LOC00186_Towns_Location_187]]
 - Compare with [[arcana-very-rare-xdmg (tables)]]
-- Connects to [[step_091]]
-- Affected by [[step_063]]
+- Connects to
+- Affected by
 - Related: [[step_035 (phase_005)]]
 - Leads to [[portrait-npc-neutral-zone-v1-neutral-zone.svg]]
 - Compare with [[Master Chef Coral Seasweaver]]
@@ -224,7 +218,7 @@ Wants rivals investigated
 - Requires [[step_049 (phase_038)]]
 - Influences [[step_030 (phase_032)]]
 - Leads to [[ENC00474_Combat_Encounter_475]]
-- Connects to [[step_009]]
+- Connects to
 - Originates from [[Young Merchant Guild]]
 - Leads to [[Deep-Root Caretaker Nereon 2]]
 - Related: [[ENC00087_Environmental_Encounter_88]]
@@ -245,7 +239,7 @@ Wants rivals investigated
 - Originates from [[04_Resources_Assets_Locations_location-city-transportation-guild-masters-v1-transportation-guild-masters.svg]]
 - Originates from [[List Spells School Transmutation]]
 - Requires [[QUEST00140_Side_Quest_141]]
-- Parallels [[step_049]]
+- Parallels
 - Compare with [[portrait-npc-assassin-assassin.svg]]
 - Compare with [[Faction Relationship Web (D&D_References)]]
 - Leads to [[NPC01330_Drusilla_Ironwood_the_Redeemed]]
@@ -257,7 +251,7 @@ Wants rivals investigated
 - Compare with [[step_047 (phase_048)]]
 - Related: [[Belt of Hill Giant Strength Xdmg]]
 - Related: [[eidolon-mpmm (undead)]]
-- See also: [[step_074]]
+- See also:
 - Originates from [[Independent Contractors]]
 - See also: [[step_043 (phase_051)]]
 - Influences [[step_080 (phase_032)]]

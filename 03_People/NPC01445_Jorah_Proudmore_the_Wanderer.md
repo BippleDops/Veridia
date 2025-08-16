@@ -18,7 +18,6 @@ aliases: [NPC01445 Jorah Proudmore the Wanderer]
 - [[#Wynne Keenblade the Cunning (Family - Spouse)|Wynne Keenblade the Cunning (Family - Spouse)]]
 - [[#Lyanna Emberfall the Strong (Personal - Best friend)|Lyanna Emberfall the Strong (Personal - Best friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Jorah Proudmore the Wanderer", "jorah proudmore the wanderer", "Jorah Proudmore Wanderer", "Wanderer the Proudmore Jorah"]
@@ -153,25 +152,20 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.274Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -191,7 +185,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.262
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -200,11 +194,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -217,27 +210,27 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[The Neutral Tavern]]
 - Requires [[step_081 (phase_072)]]
 - Compare with [[ENC00060_Combat_Encounter_61]]
-- Parallels [[step_036]]
-- Connects to [[step_054]]
+- Parallels
+- Connects to
 - Influences [[LOC00100_Dungeons_Location_101]]
-- Parallels [[step_017]]
+- Parallels
 - Originates from [[FAC00089_Cults_90]]
 - Originates from [[step_056 (phase_030)]]
-- Influences [[Quest   The Perfect Purifier]]
+- Influences [[Quest The Perfect Purifier]]
 - Leads to [[Armaments Uncommon Xdmg]]
 - See also: [[Deep Sea Cultist (Cults_and_Movements)]]
-- Related: [[step_090]]
+- Related:
 - Related: [[step_047 (phase_043)]]
 - Compare with [[LOC00206_Cities_Location_207]]
 - Originates from [[Democratic Erosion (D&D_References)]]
 - Compare with [[Merchant Princess Seren Goldwave]]
 - Requires [[NPC00085_Pyria_Xendar_the_Seeker]]
 - Affected by [[Assets Locations Location City Keeper Stormwall V1 Keeper Stormwall.svg]]
-- Parallels [[step_032]]
+- Parallels
 - Related: [[Innkeeper Marcus Thorne (D&D_References)]]
 - Connects to [[Leomunds Tiny Hut Xphb]]
 - Connects to [[Physical Characteristics Beholder Skin]]
-- Connects to [[step_040]]
+- Connects to
 - Parallels [[Diplomats Pack Xphb]]
 - Connects to [[Quest - Crystal Corruption]]
 - Connects to [[Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
@@ -251,9 +244,9 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Factional Conflicts]]
 - Compare with [[QUEST00262_Personal_Quest_263]]
 - Connects to [[Economic Pressure]]
-- Leads to [[step_049]]
+- Leads to
 - Related: [[11 Chapter 11 Gravenhollow]]
-- Influences [[step_041]]
+- Influences
 - Connects to [[Location City the Plague Ward V1 the Plague Ward.svg]]
 - Parallels [[The Growth Gardens 2]]
 - Leads to [[Actions in Combat Describing Actions Xdmg]]
@@ -291,7 +284,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Underwater Cuisine Techniques]]
 - Leads to [[Terminal Director Admiral Current Swiftflow (D&D_References)]]
 - Originates from [[Location City Quest Harbor Expansion Quest Harbor Expansion.svg]]
-- Originates from [[step_059]]
+- Originates from
 - Leads to [[Depth Warden Patrol 2]]
 - Requires [[linen-1-sq-yd-xdmg (items)]]
 - Influences [[Cinematic Sequences]]
@@ -305,7 +298,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[The Memory Anchor]]
 - Requires [[strahd-zombie-cos (undead)]]
 - Related: [[QUEST00061_Main_Quest_62]]
-- Parallels [[step_038]]
+- Parallels
 - Connects to [[NPC Reaction Matrix]]
 - Leads to [[Sylvan Talon Xdmg]]
 
@@ -313,7 +306,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

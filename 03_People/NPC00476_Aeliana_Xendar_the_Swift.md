@@ -18,7 +18,6 @@ aliases: [NPC00476 Aeliana Xendar the Swift]
 - [[#Fiora Zephyrblade the Fallen (Personal - Best friend)|Fiora Zephyrblade the Fallen (Personal - Best friend)]]
 - [[#Pyria Goldleaf the Broken (Family - Sibling)|Pyria Goldleaf the Broken (Family - Sibling)]]
 
-
 ---
 aliases: ["Aeliana Xendar the Swift", "aeliana xendar the swift", "Aeliana Xendar Swift", "Swift the Xendar Aeliana"]
 tags: [npc, character]
@@ -147,21 +146,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.167Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -184,7 +179,7 @@ Family member has gone missing
 - See also: [[Theological Seminaries (D&D_References)]]
 - Compare with [[University Heights 2]]
 - Affected by [[Symbol Heraldry the Stellar Confluence V1 the Stellar Confluence.svg]]
-- Influences [[step_097]]
+- Influences
 - Requires [[Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg]]
 - Compare with [[Mother Superior Cordelia Mercyheart (D&D_References)]]
 - Related: [[Temporal Healers 2]]
@@ -209,12 +204,12 @@ Family member has gone missing
 - Compare with [[NPC01121_Malakai_Thornweave_the_Scholar]]
 - Parallels [[step_019 (phase_046)]]
 - Parallels [[Ω_System-CLI-spells-school-transmutation (Lore)]]
-- Compare with [[step_083]]
+- Compare with
 - Influences [[Vehicle Ship Reson... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Assets Locations Location City the Crystal Palace Throne Room V1 the Crystal Palace Throne Room.svg]]
 - See also: [[Location City Great Plague of Ages Past V1 Great Plague of Ages Past.svg]]
 - Compare with [[Memory Farmers (D&D_References)]]
-- See also: [[step_096]]
+- See also:
 - Related: [[NPC01625_Qadim_Lightbringer_the_Swift]]
 - Affected by [[step_071 (phase_030)]]
 - Influences [[needles-50-xphb (items)]]
@@ -222,11 +217,11 @@ Family member has gone missing
 - Affected by [[Location City the Sunken Library of Thalassius the Sunken Library of Thalassius.svg]]
 - Leads to [[The Deep Fugitive (D&D_References)]]
 - Parallels [[#review-integration-progress]]
-- Connects to [[step_082]]
+- Connects to
 - Parallels [[Traditional Craftsmen Guil]]
 - Leads to [[High Administrator Cornelius Protocols 2]]
 - Connects to [[The Silence Patrol]]
-- Affected by [[step_015]]
+- Affected by
 - Connects to [[lance-xphb (items)]]
 - Parallels [[Knowledge Truthseeker (D&D_References)]]
 - Related: [[step_059 (phase_088)]]
@@ -260,7 +255,7 @@ Family member has gone missing
 - Leads to [[The Void Touched Oracle (D&D_References)]]
 - See also: [[Alchemy Jug Xdmg]]
 - Leads to [[step_002 (phase_019)]]
-- Influences [[step_042]]
+- Influences
 - Influences [[Convergence Point]]
 - Affected by [[Duchess Aurora Spirelight (D&D_References)]]
 - Connects to [[Crying Peaks 2]]
@@ -270,7 +265,6 @@ Family member has gone missing
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

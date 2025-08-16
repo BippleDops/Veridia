@@ -18,7 +18,6 @@ aliases: [NPC00783 Pyria Stormwind the Seeker]
 - [[#Urien Nightfall the Wise (Professional - Partner)|Urien Nightfall the Wise (Professional - Partner)]]
 - [[#Ysara Darkwater the Seeker (Political - Ally)|Ysara Darkwater the Seeker (Political - Ally)]]
 
-
 ---
 aliases: ["Pyria Stormwind the Seeker", "pyria stormwind the seeker", "Pyria Stormwind Seeker", "Seeker the Stormwind Pyria"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.201Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -183,11 +178,11 @@ Being extorted by criminals
 - Compare with [[Wind Fan Xdmg]]
 - Leads to [[step_008 (phase_056)]]
 - Influences [[ritual-xphb (variant-rules)]]
-- Requires [[step_035]]
+- Requires
 - See also: [[X-102_Portal_Ferry_Strike]]
 - Leads to [[ITEM01477_Practical_Map_Case_of_Reliability]]
 - Parallels [[conditions (CLI_Reference)]]
-- Requires [[step_099]]
+- Requires
 - Influences [[Calm Soothingwave (D&D_References)]]
 - See also: [[Assets Locations Location City Ambassador Silk Bridgewater Ambassador Silk Bridgewater.svg]]
 - Parallels [[Symbol Heraldry Mobile Terror Platform Mobile Terror Platform.svg]]
@@ -212,11 +207,11 @@ Being extorted by criminals
 - Affected by [[Assets Vehicles Vehicle Ship Coral Frame Diver Tender V2 Coral Frame Diver Tender.svg]]
 - Originates from [[aberrant-spirit-star-spawn-xphb (aberration)]]
 - Originates from [[ITEM00428_Dragon_Scale_Cloak_of_Fortitude]]
-- Affected by [[step_066]]
+- Affected by
 - Parallels [[step_082 (phase_059)]]
 - Related: [[Factions the Resonance Keepers]]
 - Compare with [[Location City Astrologer Prime Cassandra Starweaver Astrologer Prime Cassandra Starweaver.svg]]
-- Requires [[step_024]]
+- Requires
 - See also: [[step_042 (phase_038)]]
 - Leads to [[The Amnesia Rehabilitation Centers 2]]
 - Affected by [[step_075 (phase_011)]]
@@ -233,17 +228,17 @@ Being extorted by criminals
 - Compare with [[step_020 (phase_079)]]
 - Affected by [[Death Saving Throw Xphb]]
 - Compare with [[Assets Locations Location City the Cleaner V1 the Cleaner.svg]]
-- Requires [[step_009]]
+- Requires
 - Originates from [[FAC00073_Guilds_74]]
 - Requires [[step_043 (phase_028)]]
 - Leads to [[enspelled-armor-level-6-xdmg (items)]]
-- Related: [[step_014]]
+- Related:
 - Parallels [[LOC00136_Cities_Location_137]]
 - Leads to [[step_044 (phase_068)]]
 - Related: [[Crystal Laboratory 2]]
 - Affected by [[The Shadow Mint]]
 - Connects to [[ENC00399_Combat_Encounter_400]]
-- Compare with [[step_015]]
+- Compare with
 - See also: [[step_080 (phase_082)]]
 - Connects to [[ITEM01172_Pure_Potion_of_Healing]]
 - Requires [[sequester-xphb (spells)]]
@@ -252,7 +247,7 @@ Being extorted by criminals
 - Leads to [[NPC00624_Hestara_Stormwind_the_Wanderer]]
 - Compare with [[MON00135_Undead_Creature_136]]
 - Related: [[Portrait NPC Marcus the Shade Blackwood Marcus the Shade Blackwood.svg]]
-- Parallels [[step_020]]
+- Parallels
 - Influences [[LORE00323_Legends_Entry_324]]
 - Influences [[Location City Theological Warfare Theological Warfare.svg]]
 - Requires [[SPELL0047_Primal_Wave]]
@@ -264,14 +259,13 @@ Being extorted by criminals
 - Related: [[LORE00032_Prophecies_Entry_33]]
 - Parallels [[The Evolution District (D&D_References)]]
 - Parallels [[Transformation Specialist Anemone Flowshift 2]]
-- Influences [[step_058]]
+- Influences
 - Compare with [[Oracle Mistweaver (D&D_References)]]
 
 ## Visual References
 ![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
-
 
 ## Realm Connections
 
@@ -284,9 +278,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

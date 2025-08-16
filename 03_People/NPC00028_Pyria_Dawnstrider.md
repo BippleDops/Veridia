@@ -9,7 +9,6 @@ aliases: [NPC00028 Pyria Dawnstrider]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00028 Pyria Dawnstrider]
 - [[#Xander Keenblade the Guardian (Family - Child)|Xander Keenblade the Guardian (Family - Child)]]
 - [[#Corvus Ironforge (Criminal - Accomplice)|Corvus Ironforge (Criminal - Accomplice)]]
 - [[#Fiora Crystalbrook (Family - Sibling)|Fiora Crystalbrook (Family - Sibling)]]
-
 
 ---
 aliases: ["Pyria Dawnstrider", "pyria dawnstrider", "Dawnstrider Pyria"]
@@ -146,25 +144,21 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.113Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- See also: [[step_082]]
+- See also:
 - Requires [[Training Director Tide Teachwright]]
 - Compare with [[ENC00361_Combat_Encounter_362]]
 - Leads to [[Assets Locations Location City Quest the Missing Fleet V1 Quest the Missing Fleet.svg]]
@@ -179,7 +173,7 @@ Wants rivals investigated
 - See also: [[NPC00736_Vesper_Underhill_the_Scholar]]
 - Requires [[step_075 (phase_032)]]
 - Leads to [[step_094 (phase_092)]]
-- Requires [[step_007]]
+- Requires
 - Related: [[Sword of Vengeance Xdmg]]
 - Affected by [[bloodstone-xdmg (items)]]
 - Leads to [[Future Glimpse Glass]]
@@ -188,15 +182,15 @@ Wants rivals investigated
 - Leads to [[step_093 (phase_029)]]
 - Connects to [[Consider the Ideal Climax Adventure Climax]]
 - Requires [[Lumengarde Republic]]
-- Compare with [[step_042]]
+- Compare with
 - Influences [[Assets Locations Location City Reflection Pools Surgical Theater V1 Reflection Pools Surgical Theater.svg]]
 - Affected by [[Island of Scream 2]]
 - Originates from [[step_054 (phase_079)]]
 - Leads to [[Portrait NPC Captain Thaddeus Stormwright V2 Captain Thaddeus Stormwright.svg]]
 - Leads to [[step_061 (phase_006)]]
-- Connects to [[step_054]]
+- Connects to
 - Compare with [[06 Sessions]]
-- Affected by [[step_077]]
+- Affected by
 - See also: [[Assets Locations Location City Senator S Private Chambers V1 Senator S Private Chambers.svg]]
 - Leads to [[LOC00267_Dungeons_Location_268]]
 - Requires [[maddening-darkness-xge (spells)]]
@@ -221,11 +215,11 @@ Wants rivals investigated
 - Originates from [[Depth Moss 2]]
 - Connects to [[ITEM00749_Divine_Amulet_of_Destiny]]
 - Originates from [[step_086 (phase_049)]]
-- Related: [[step_062]]
+- Related:
 - Affected by [[Palace Staff Guild]]
-- See also: [[step_024]]
+- See also:
 - Compare with [[ITEM00825_Time-worn_Orb_of_the_Gods]]
-- Influences [[step_058]]
+- Influences
 - See also: [[NPC00450_Alaric_Goldleaf_the_Fallen]]
 - Affected by [[Pressure-Responsive Fabrics 2]]
 - Leads to [[step_064 (phase_047)]]
@@ -245,7 +239,7 @@ Wants rivals investigated
 - Related: [[LOC00278_Towns_Location_279]]
 - See also: [[Emperor Pelagic the Last (D&D_References)]]
 - See also: [[Fire Crystals (D&D_References)]]
-- Originates from [[step_019]]
+- Originates from
 - Affected by [[portrait-npc-the-senator-the-senator.svg]]
 - Affected by [[location-city-pearlshell-v1-pearlshell.svg]]
 - Parallels [[Quest - The Blackmail Papers_1 (01_Adventures)]]

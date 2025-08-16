@@ -18,7 +18,6 @@ aliases: [NPC01744 Idris Xendar the Mystic]
 - [[#Hestara Grimholt the Seeker (Personal - Best friend)|Hestara Grimholt the Seeker (Personal - Best friend)]]
 - [[#Urien Jadeclaw the Broken (Professional - Partner)|Urien Jadeclaw the Broken (Professional - Partner)]]
 
-
 ---
 aliases: ["Idris Xendar the Mystic", "idris xendar the mystic", "Idris Xendar Mystic", "Mystic the Xendar Idris"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.305Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -195,7 +190,7 @@ Provides information for a price
 - Related: [[LOC00040_Wilderness_Location_41]]
 - Related: [[maddening-darkness-xge]]
 - Parallels [[Portrait NPC the Coral Throne Syndicate V1 the Coral Throne Syndicate.svg]]
-- Requires [[step_020]]
+- Requires
 - Parallels [[Battle Map Descriptions_1]]
 - Parallels [[The Garden Heart Crystal]]
 - Connects to [[murgaxors-elixir-of-life-scc (items)]]
@@ -204,15 +199,15 @@ Provides information for a price
 - Originates from [[Armor of Poison Resistance Xdmg]]
 - See also: [[Kelp Cultivator Threnody]]
 - Leads to [[NPC01894_Aldric_Lightbringer_the_Bold]]
-- Affected by [[The  Chamber]]
+- Affected by [[The Chamber]]
 - Leads to [[Wild Magic Surge Xphb]]
-- Originates from [[step_036]]
+- Originates from
 - See also: [[ITEM00336_Blessed_Spear_of_Slaying]]
 - Parallels [[step_015 (phase_066)]]
 - Influences [[Assets Locations Location City Indigo Deepdye Indigo Deepdye.svg]]
 - Compare with [[LOC00245_Wilderness_Location_246]]
 - Compare with [[ITEM01256_Superior_Incense_of_Swiftness]]
-- Related: [[step_094]]
+- Related:
 - Compare with [[ITEM00992_Pure_Powder_of_Swiftness]]
 - Related: [[Underground Network]]
 - Compare with [[Item Artifact Dagger of Venom Xdmg V1 Dagger of Venom Xdmg.png]]
@@ -221,7 +216,7 @@ Provides information for a price
 - Influences [[step_082 (phase_066)]]
 - Affected by [[step_052 (phase_005)]]
 - Originates from [[The Silent Vote (D&D_References)]]
-- See also: [[step_057]]
+- See also:
 - Influences [[Dock Workers Guild]]
 - Requires [[08-treasure (dungeon-masters-guide-2014)]]
 - Compare with [[step_053 (phase_040)]]
@@ -253,7 +248,7 @@ Provides information for a price
 - Connects to [[step_022 (phase_091)]]
 - Requires [[Research Director Aquarius Brightwater]]
 - Affected by [[step_033 (phase_069)]]
-- Related: [[step_088]]
+- Related:
 - Originates from [[04_Resources_Assets_Locations_location-city-harbormaster-tidal-stormcrest-harbormaster-tidal-stormcrest.svg]]
 - Requires [[step_100 (phase_059)]]
 - Leads to [[Portrait NPC Memory Commerce V2 Memory Commerce.svg]]
@@ -263,7 +258,7 @@ Provides information for a price
 - Influences [[LORE00181_Legends_Entry_182]]
 - Requires [[step_100 (phase_043)]]
 - Compare with [[ENC00113_Combat_Encounter_114]]
-- See also: [[step_028]]
+- See also:
 - Requires [[Portrait NPC Quest the Prophecy Fulfilled Quest the Prophecy Fulfilled.svg]]
 - See also: [[step_046 (phase_057)]]
 - Parallels [[Memory Meadows (Lore)]]
@@ -272,7 +267,6 @@ Provides information for a price
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [08 Chapter 7 Spells]
 - [[#Thematic Connections|Thematic Connections]]
 - [[#D&D 5e References|D&D 5e References]]
 
-
 ---
 
 title: 08 Chapter 7 Spells
@@ -60,19 +59,15 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Ancient magic still lingers here
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -97,7 +92,6 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## Thematic Connections
 - Magical theory from [[Schools of Magic]]
@@ -126,11 +120,11 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[LOC00188_Dungeons_Location_189]]
 - Leads to [[Non-Existence Protocols]]
 - Affected by [[step_052 (phase_099)]]
-- Influences [[step_051]]
+- Influences
 - Compare with [[step_092 (phase_084)]]
-- Requires [[step_025]]
-- Compare with [[step_099]]
-- Compare with [[step_096]]
+- Requires
+- Compare with
+- Compare with
 - Connects to [[QUEST00127_Personal_Quest_128]]
 - Affected by [[Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg]]
 - Related: [[step_084 (phase_070)]]
@@ -163,7 +157,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Fortress Blueprints]]
 - Influences [[step_089 (phase_042)]]
 - Influences [[Cross-Realm Cooperation Authority]]
-- Parallels [[step_007]]
+- Parallels
 - Originates from [[step_031 (phase_074)]]
 - Affected by [[Confront the Possessed Queen (D&D_References)]]
 - Leads to [[LORE00286_Legends_Entry_287]]
@@ -205,7 +199,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[location-city-whisper-island-v1-whisper-island.svg]]
 - Leads to [[LOC00270_Dungeons_Location_271]]
 - Requires [[1-DM_Toolkit_DM_Board]]
-- See also: [[step_048]]
+- See also:
 - Influences [[step_043 (phase_016)]]
 - Parallels [[step_016 (phase_083)]]
 - Related: [[EVENT00060_Natural_Event_61]]

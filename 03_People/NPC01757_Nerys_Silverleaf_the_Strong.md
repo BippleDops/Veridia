@@ -18,7 +18,6 @@ aliases: [NPC01757 Nerys Silverleaf the Strong]
 - [[#Aldric Emberfall the Lost (Family - Spouse)|Aldric Emberfall the Lost (Family - Spouse)]]
 - [[#Faelyn Dawnstrider the Cunning (Professional - Mentor)|Faelyn Dawnstrider the Cunning (Professional - Mentor)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Nerys Silverleaf the Strong", "nerys silverleaf the strong", "Nerys Silverleaf Strong", "Strong the Silverleaf Nerys"]
@@ -143,16 +142,13 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.307Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -188,9 +184,7 @@ Offers deal too good to refuse
 - [[NPC00612_Thalia_Jadeclaw_the_Fallen]]
 - [[Session_Recaps]]
 - [[MOC_Lore]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -210,7 +204,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.30
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -219,11 +213,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -234,7 +227,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Public Works Director Boris Bridgewright]]
 - Compare with [[The Deep Prophecies 2]]
 - Compare with [[ENC00177_Social_Encounter_178]]
-- Leads to [[step_029]]
+- Leads to
 - See also: [[step_085 (phase_072)]]
 - Affected by [[witherbloom-primer-scc (items)]]
 - Parallels [[Template_Species_Placeholder.png_2 (09_Templates)]]
@@ -244,8 +237,8 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Thugs (D&D_References)]]
 - See also: [[forgotten-realms-waukeen (deities)]]
 - Requires [[step_052 (phase_012)]]
-- Originates from [[step_040]]
-- Connects to [[step_030]]
+- Originates from
+- Connects to
 - Influences [[Safe House Network]]
 - Affected by [[LOC00037_Planes_Location_38]]
 - Leads to [[SPELL00161_Nature_Spell_162]]
@@ -258,7 +251,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Location City Brother Thaddeus the Rememberer V1 Brother Thaddeus the Rememberer.svg]]
 - Related: [[Portrait NPC the Deepmind Conspiracy V1 the Deepmind Conspiracy.svg_1 (Portraits)]]
 - Related: [[Human Names Spanish Female Xge]]
-- Leads to [[step_029]]
+- Leads to
 - Originates from [[Lady Penelope Procedure (D&D_References)]]
 - See also: [[Pressure & Weather Events]]
 - Connects to [[step_060 (phase_063)]]
@@ -271,7 +264,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Surgery Master Dr Marcus Deptblade]]
 - Affected by [[step_035 (phase_054)]]
 - Affected by [[The Crystal Cathedral]]
-- Connects to [[step_044]]
+- Connects to
 - Parallels [[Bottled Breath Pota]]
 - See also: [[The Crystal Stock Exchange 2]]
 - Leads to [[Portrait NPC Queen Morwyn Lumengarde V2 Queen Morwyn Lumengarde.svg]]
@@ -286,7 +279,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[#GM Notes]]
 - Compare with [[Location City Current Navigation Techniques Current Navigation Techniques.svg]]
 - See also: [[ITEM00158_Venomous_Crossbow_of_Power]]
-- Compare with [[step_028]]
+- Compare with
 - Related: [[Sorcerer Xphb Storm Sorcery Xge]]
 - Requires [[QUEST00146_Main_Quest_147]]
 - See also: [[NPC00773_Urien_Blackstone_the_Bold]]
@@ -332,7 +325,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

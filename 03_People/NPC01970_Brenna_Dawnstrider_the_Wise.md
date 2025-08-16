@@ -18,7 +18,6 @@ aliases: [NPC01970 Brenna Dawnstrider the Wise]
 - [[#Dara Emberfall the Scholar (Personal - Nemesis)|Dara Emberfall the Scholar (Personal - Nemesis)]]
 - [[#Hilda Xendar the Strong (Political - Ally)|Hilda Xendar the Strong (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Brenna Dawnstrider the Wise", "brenna dawnstrider the wise", "Brenna Dawnstrider Wise", "Wise the Dawnstrider Brenna"]
@@ -158,16 +157,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.329Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -215,9 +211,7 @@ Blackmails party into service
 - [[NPC01301_Jorah_Underhill_the_Broken]]
 - [[Master_Narrative_Web.md]]
 - [[Complete_NPC_Matrix.md]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -235,7 +229,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.115
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -245,11 +239,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -281,7 +274,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[LORE00249_Prophecies_Entry_250]]
 - Connects to [[Assets Locations Location City Memorial Wall of Names Memorial Wall of Names.png]]
 - Originates from [[Portrait NPC Quest the Deepmind Weapon V1 Quest the Deepmind Weapon.svg]]
-- See also: [[step_100]]
+- See also:
 - Influences [[step_007 (phase_080)]]
 - Originates from [[Portrait NPC Parliament Loyalists V2 Parliament Loyalists.svg]]
 - Influences [[Myconid Adult Xmm]]
@@ -290,7 +283,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Assets Art Master Smith Coral Hammer.png]]
 - Connects to [[QUEST00247_Side_Quest_248]]
 - Parallels [[step_062 (phase_040)]]
-- Originates from [[step_004]]
+- Originates from
 - Originates from [[Item Artifact Dagger of Venom Xdmg V5 Dagger of Venom Xdmg.png]]
 - Leads to [[cleric-xphb-life-domain-xphb (classes)]]
 - Parallels [[Razorvine Xdmg]]
@@ -298,8 +291,8 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_065 (phase_085)]]
 - See also: [[ITEM00612_Warded_Shield_of_Grace]]
 - Compare with [[Potion of Invisibility Xdmg]]
-- See also: [[step_036]]
-- Originates from [[step_007]]
+- See also:
+- Originates from
 - Compare with [[NPC01254_Faelyn_Voidwalker_the_Risen]]
 - Requires [[step_067 (phase_051)]]
 - Influences [[ENC00033_Social_Encounter_34]]
@@ -316,8 +309,8 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[ITEM01069_Refined_Incense_of_Clarity]]
 - Connects to [[Noble Opposition]]
 - Affected by [[NPC00270_Kaelen_Stormwind_the_Wanderer]]
-- Affected by [[step_055]]
-- Leads to [[step_070]]
+- Affected by
+- Leads to
 - See also: [[Mounted Combatant Xphb]]
 - Compare with [[step_015 (phase_015)]]
 - Influences [[Throne Room]]
@@ -345,11 +338,11 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[step_020 (phase_021)]]
 - Influences [[ENC00153_Environmental_Encounter_154]]
 - Leads to [[step_077 (phase_049)]]
-- See also: [[step_080]]
+- See also:
 - Requires [[QUEST00114_Personal_Quest_115]]
 - See also: [[step_011 (phase_010)]]
 - See also: [[warding-wind-xge (spells)]]
-- Affected by [[step_035]]
+- Affected by
 - Leads to [[Cultural Specialists]]
 - Leads to [[Stage 2 Xdmg]]
 - Originates from [[LORE00204_Prophecies_Entry_205]]
@@ -358,7 +351,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

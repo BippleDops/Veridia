@@ -18,13 +18,12 @@ aliases: [NPC0086 Gareth Goldleaf]
 - [[#Relationships|Relationships]]
 - [[#Roleplaying|Roleplaying]]
 
-
 ---
 aliases: ["Gareth Goldleaf", "gareth goldleaf", "Goldleaf Gareth"]
 tags: [, generated]
-  - npc
-  - character
-  - generated
+ - npc
+ - character
+ - generated
 type: npc
 ---
 
@@ -150,7 +149,7 @@ Deception, Persuasion, Investigation, Perception
 - Connects to [[Location City Institute for Reality Studies Researchers Institute for Reality Studies Researchers.svg]]
 - Influences [[Shadow Surgery Network (D&D_References)]]
 - Leads to [[SPELL00120_Nature_Spell_121]]
-- Influences [[step_091]]
+- Influences
 - Related: [[Marquis Benedict Riversend 2]]
 - Parallels [[Harbor Master's License (D&D_References)]]
 - Leads to [[religious-service-xge (tables)]]
@@ -195,7 +194,7 @@ Deception, Persuasion, Investigation, Perception
 - Requires [[SHOP00028_Specialty_Shop_29]]
 - Requires [[The Spire of Knowledge]]
 - Parallels [[Assets Locations Location City Pressure Suit Malfunction V1 Pressure Suit Malfunction.svg]]
-- Originates from [[step_046]]
+- Originates from
 - Requires [[Blood Current Express (D&D_References)]]
 - Influences [[step_086 (phase_040)]]
 - See also: [[Temple of Perpetual Tides 2]]
@@ -203,12 +202,12 @@ Deception, Persuasion, Investigation, Perception
 - Parallels [[Unite_or_Divide.png]]
 - Compare with [[Temporal Anomaly Resolution]]
 - Requires [[Lumengarde Republi]]
-- Parallels [[step_093]]
+- Parallels
 - Affected by [[step_026 (phase_039)]]
 - Leads to [[step_076 (phase_039)]]
 - Connects to [[#Inventory]]
 - See also: [[step_087 (phase_099)]]
-- Leads to [[SYSTEM_STATUS]]
+- Leads to
 - Connects to [[The Map Room]]
 - Compare with [[step_056 (phase_067)]]
 - Requires [[step_075 (phase_009)]]
@@ -228,16 +227,16 @@ Deception, Persuasion, Investigation, Perception
 - Leads to [[step_020 (phase_084)]]
 - Originates from [[Magnus Ledgerkeep 2]]
 - Compare with [[LOC00271_Wilderness_Location_272]]
-- See also: [[step_051]]
+- See also:
 - Affected by [[LOC00063_Wilderness_Location_64]]
 - Originates from [[Map Map Crystal Cavern Bridge V2 Crystal Cavern Bridge.svg]]
-- Parallels [[step_066]]
+- Parallels
 - Parallels [[step_045 (phase_029)]]
 - Related: [[NPC01614_Felicia_Lightbringer_the_Mystic]]
 - Affected by [[SPELL00162_Arcane_Spell_163]]
 - Related: [[PHASES_2-6_COMPLETE]]
 - Originates from [[Royal Academy of Magical Science]]
-- Affected by [[step_075]]
+- Affected by
 - Originates from [[Adventure Xphb]]
 - See also: [[ITEM00259_Frost_Sword_of_Accuracy]]
 - Influences [[goblin-warrior-xmm]]

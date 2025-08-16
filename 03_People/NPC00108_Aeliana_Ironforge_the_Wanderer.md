@@ -18,7 +18,6 @@ aliases: [NPC00108 Aeliana Ironforge the Wanderer]
 - [[#Zephyr Crystalbrook (Criminal - Target)|Zephyr Crystalbrook (Criminal - Target)]]
 - [[#Ysara Ashford (Professional - Employee)|Ysara Ashford (Professional - Employee)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aeliana Ironforge the Wanderer", "aeliana ironforge the wanderer", "Aeliana Ironforge Wanderer", "Wanderer the Ironforge Aeliana"]
@@ -145,27 +144,23 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.123Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -174,11 +169,10 @@ Wants rivals investigated
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -204,16 +198,16 @@ Wants rivals investigated
 - Parallels [[The Corruption Saint Marina (D&D_References)]]
 - Influences [[Infernal Calling Xge]]
 - Connects to [[Assets Locations Location City Nightmare Protection Nightmare Protection.svg]]
-- Related: [[step_061]]
+- Related:
 - Compare with [[LOC00148_Planes_Location_149]]
-- Influences [[step_046]]
+- Influences
 - See also: [[Location City Senator Cornelius Depthwalker V1 Senator Cornelius Depthwalker.svg]]
 - Connects to [[Research Director Aquarius Brightwater 2]]
-- See also: [[step_025]]
+- See also:
 - Leads to [[ENC00076_Social_Encounter_77]]
 - Influences [[NPC01573_Aeliana_Zephyrblade_the_Guardian]]
 - See also: [[Assets Locations Location City Cultural Advisor Sarah Bridgekeeper Cultural Advisor Sarah Bridgekeeper.svg]]
-- Requires [[step_070]]
+- Requires
 - Parallels [[Reality Anchoring 2]]
 - Parallels [[St. Meridian's Cathedral]]
 - Originates from [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]]
@@ -234,39 +228,39 @@ Wants rivals investigated
 - Originates from [[Location Network Graph (Indexes)]]
 - Originates from [[The Memory Wars]]
 - Connects to [[Chalk 1 Piece]]
-- Affected by [[step_013]]
+- Affected by
 - Affected by [[SPELL00091_Arcane_Spell_92]]
 - Originates from [[step_044 (phase_006)]]
 - Influences [[step_043 (phase_057)]]
-- Connects to [[step_091]]
+- Connects to
 - Related: [[lorehold-student-scc (backgrounds)]]
 - Affected by [[Merchant's Consortium (D&D_References)]]
 - Influences [[bless-xphb (spells)]]
 - Leads to [[step_092 (phase_048)]]
 - Affected by [[MON00134_Undead_Creature_135]]
 - Compare with [[ITEM00567_Fortified_Plate_of_Fortitude]]
-- Originates from [[step_048]]
+- Originates from
 - Compare with [[Assets Locations Location City Marcus Evenscale Marcus Evenscale.svg]]
-- Requires [[step_072]]
+- Requires
 - Connects to [[The Crimson Reef]]
 - Connects to [[Shadow Portal Nexus (D&D_References)]]
 - See also: [[LOC00283_Towns_Location_284]]
 - Originates from [[EVENT00041_Natural_Event_42]]
-- Requires [[step_026]]
+- Requires
 - Parallels [[Quest - Identity Crisis]]
 - Originates from [[LOC00173_Planes_Location_174]]
-- Parallels [[step_028]]
+- Parallels
 - See also: [[step_083 (phase_024)]]
 - Originates from [[black-velvet-mask-stitched-with-silver-thread-xdmg]]
 - See also: [[step_085 (phase_054)]]
 - Affected by [[LOC0056_OldVale]]
 - Compare with [[Miranda Hopekeeper]]
-- Parallels [[step_071]]
+- Parallels
 - Influences [[Portrait NPC Blackwater Estate V1 Blackwater Estate.svg_1 (Portraits)]]
 - Influences [[QUEST00157_Side_Quest_158]]
 - Parallels [[The Parliament of Echoes]]
 - Originates from [[step_070 (phase_029)]]
-- Affected by [[step_021]]
+- Affected by
 - Parallels [[Map Map Wrecked Submarine Interior V1 Wrecked Submarine Interior.svg]]
 - Originates from [[Major Trading Companies (D&D_References)]]
 - Originates from [[QUEST00022_Personal_Quest_23]]
@@ -287,7 +281,6 @@ Wants rivals investigated
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01599 Gavril Keenblade the Strong]
 - [[#Delara Dawnstrider the Guardian (Professional - Employee)|Delara Dawnstrider the Guardian (Professional - Employee)]]
 - [[#Felicia Proudmore the Risen (Professional - Rival)|Felicia Proudmore the Risen (Professional - Rival)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gavril Keenblade the Strong", "gavril keenblade the strong", "Gavril Keenblade Strong", "Strong the Keenblade Gavriltags: [npc, character, combat, magic, exploration, lore]er]
@@ -156,16 +155,13 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.290Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -228,9 +224,7 @@ Modifications:
 - [[Concept_Map]]
 - [[NPC00582_Cedric_Dawnstrider]]
 - [[Quarantine_Notice_Crystal_Plagu]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -250,7 +244,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.52
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -258,11 +252,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -279,10 +272,10 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[The Seven Betrayers (D&D_References)]]
 - Requires [[Portrait NPC High Priest Nereon V1 High Priest Nereon.svg_1 (Portraits)]]
 - Parallels [[step_094 (phase_097)]]
-- Requires [[step_070]]
+- Requires
 - Connects to [[LORE00174_Legends_Entry_175]]
 - Connects to [[Memory Restoration Potion]]
-- Requires [[step_032]]
+- Requires
 - See also: [[LOC00079_Dungeons_Location_80]]
 - Affected by [[Ambassador Silk Bridgewater]]
 - Leads to [[LOC00008_Dungeons_Location_9]]
@@ -300,7 +293,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Iron Bands of Bilarro Xdmg]]
 - Leads to [[NPC00732_Felicia_Stormwind_the_Wanderer]]
 - See also: [[minotaur-of-baphomet-xmm]]
-- Leads to [[step_059]]
+- Leads to
 - Related: [[Drow 2 Armor Mm]]
 - Connects to [[step_085 (phase_041)]]
 - Influences [[Npc Abilities]]
@@ -309,7 +302,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_095 (phase_054)]]
 - Requires [[Pure Essence Crystals (D&D_References)]]
 - Leads to [[Potions for Sale Xge]]
-- Requires [[step_091]]
+- Requires
 - Related: [[Abyssal Pearls (D&D_References)]]
 - Compare with [[The Order of the Veil]]
 - Influences [[Fortress Blueprints]]
@@ -340,7 +333,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[step_032 (phase_045)]]
 - See also: [[[[The Harbor Depths]] (D&D_References)]]
 - Leads to [[ring-of-jumping-xdmg (items)]]
-- See also: [[step_044]]
+- See also:
 - Leads to [[Sleet Storm Xphb]]
 - Compare with [[ENC0007_Random_Encounter_8]]
 - Requires [[Portrait NPC Marcus Shardbreaker Grimm V2 Marcus Shardbreaker Grimm.svg_1 (Portraits)]]
@@ -357,21 +350,20 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Portrait NPC Madame Crystal Eye V1 Madame Crystal Eye.svg_1 (Portraits)]]
 - See also: [[[[The Null Cathedral]] 2]]
 - Originates from [[[[The Forgotten One]] (D&D_References)]]
-- Leads to [[step_091]]
+- Leads to
 - Influences [[ENC00084_Environmental_Encounter_85]]
 - Affected by [[Order of Preserved Knowledge (Orders)]]
-- See also: [[step_014]]
-- Parallels [[step_007]]
+- See also:
+- Parallels
 - Related: [[step_031 (phase_058)]]
 - Parallels [[step_039 (phase_061)]]
-- Compare with [[step_006]]
+- Compare with
 - Influences [[enspelled-weapon-cantrip-xdmg (items)]]
 
 ## Visual References
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01408 Malakai Winterborn the Mystic]
 - [[#Thalia Keenblade the Bold (Professional - Employer)|Thalia Keenblade the Bold (Professional - Employer)]]
 - [[#Hestara Darkwater the Strong (Family - Cousin)|Hestara Darkwater the Strong (Family - Cousin)]]
 
-
 ---
 aliases: ["Malakai Winterborn the Mystic", "malakai winterborn the mystic", "Malakai Winterborn Mystic", "Mystic the Winterborn Malakai"]
 tags: [npc, character]
@@ -157,21 +156,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.270Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,7 +176,7 @@ Needs help with personal quest
 - Leads to [[Captain Henrik Proudbanner (D&D_References)]]
 - Requires [[step_066 (phase_036)]]
 - Requires [[Portrait NPC the Shadow Surgeons the Shadow Surgeons.svg_1 (Portraits)]]
-- Compare with [[step_092]]
+- Compare with
 - Related: [[6 Credits]]
 - Connects to [[Assets Locations Location City the Umbral Nexus V1 the Umbral Nexus.svg]]
 - Requires [[step_025 (phase_069)]]
@@ -197,7 +192,7 @@ Needs help with personal quest
 - Compare with [[Investigator Cassandra Reynolds]]
 - See also: [[LOC00077_Dungeons_Location_78]]
 - Influences [[LORE00331_Prophecies_Entry_332]]
-- Compare with [[step_035]]
+- Compare with
 - Requires [[Assets Locations Location City Chef Amara Tastecurrent Chef Amara Tastecurrent.svg]]
 - Influences [[The Cloud Shepherd Guild]]
 - Leads to [[The Shrinking Sanctuary]]
@@ -218,17 +213,17 @@ Needs help with personal quest
 - Requires [[The Informant 2]]
 - Leads to [[tyrannosaurus-rex-xmm]]
 - Requires [[Marcus Clausewright 2]]
-- Leads to [[step_045]]
+- Leads to
 - Connects to [[Vehicle Ship Void Skimmer Cutter Void Skimmer Cutter.svg]]
-- Compare with [[step_039]]
+- Compare with
 - Requires [[Surface Loyalist Safe Houses 2]]
 - Influences [[scroll-of-protection-fiends-xdmg (items)]]
 - Affected by [[Navigator Stormwatch]]
 - Requires [[Location City Master Elena Preserver Master Elena Preserver.svg]]
 - Influences [[QUEST00073_Main_Quest_74]]
 - Leads to [[portrait-npc-the-party-v2-the-party.svg_1 (Portraits)]]
-- Leads to [[step_082]]
-- See also: [[step_052]]
+- Leads to
+- See also:
 - Requires [[ITEM01068_Greater_Herb_of_Swiftness]]
 - Requires [[The Growth Gardens 2]]
 - Connects to [[location-city-the-shadowmere-v1-the-shadowmere.png]]
@@ -264,7 +259,7 @@ Needs help with personal quest
 - Related: [[Scholar Wisdom Clearwater (D&D_References)]]
 - Related: [[QUEST00293_Personal_Quest_294]]
 - Connects to [[Frostbite Xge]]
-- Parallels [[step_014]]
+- Parallels
 - See also: [[step_029 (phase_026)]]
 - Affected by [[The Shadow Shepherds]]
 - Connects to [[ITEM00858_Primordial_Orb_of_Dominion]]
@@ -280,7 +275,6 @@ Needs help with personal quest
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01665 Malakai Ravenheart the Strong]
 - [[#Gavril Crystalbrook the Mystic (Political - Ally)|Gavril Crystalbrook the Mystic (Political - Ally)]]
 - [[#Malakai Youngblood the Strong (Criminal - Informant)|Malakai Youngblood the Strong (Criminal - Informant)]]
 
-
 ---
 aliases: ["Malakai Ravenheart the Strong", "malakai ravenheart the strong", "Malakai Ravenheart Strong", "Strong the Ravenheart Malakai"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.297Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -179,8 +174,8 @@ Offers deal too good to refuse
 - Leads to [[ITEM00367_Cursed_Crossbow_of_Speed]]
 - Requires [[Green Hag]]
 - Parallels [[The Dreaming Trench 2]]
-- Parallels [[step_055]]
-- Requires [[step_069]]
+- Parallels
+- Requires
 - Requires [[step_031 (phase_070)]]
 - See also: [[Beta Leader Torres Coastalambush]]
 - Leads to [[step_049 (phase_061)]]
@@ -205,7 +200,7 @@ Offers deal too good to refuse
 - Originates from [[step_058 (phase_034)]]
 - Parallels [[Temporal Harvest 2]]
 - Connects to [[MON00157_Aberrations_Creature_158]]
-- Related: [[step_079]]
+- Related:
 - Compare with [[Weapons Phb]]
 - Related: [[step_086 (phase_071)]]
 - Requires [[NPC01531_Pyria_Goldleaf_the_Wise]]
@@ -215,20 +210,20 @@ Offers deal too good to refuse
 - Requires [[location-city-crystal-singers-crystal-singers.svg]]
 - Connects to [[Emergency Protocol]]
 - Requires [[04_Resources_Assets_Symbols_symbol-heraldry-dockworkers-union-dockworkers-union.svg]]
-- Compare with [[step_018]]
+- Compare with
 - Influences [[QUEST00212_Personal_Quest_213]]
 - Compare with [[Deepsteel (D&D_References)]]
 - Connects to [[Equipment_Catalogs (D&D_References)]]
 - Originates from [[step_100 (phase_060)]]
 - Originates from [[LOC00231_Cities_Location_232]]
-- Requires [[step_007]]
+- Requires
 - Leads to [[LOC00234_Cities_Location_235]]
 - See also: [[Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg_1 (Portraits)]]
 - Compare with [[Portrait NPC the King S Ears V2 the King S Ears.svg_1 (Portraits)]]
 - Affected by [[step_071 (phase_089)]]
 - Parallels [[SPELL00107_Divine_Spell_108]]
 - Leads to [[Magical Component Manufacturers Guil 2]]
-- Requires [[step_088]]
+- Requires
 - Leads to [[NPC0130_Kael_Darkwater]]
 - Leads to [[QUEST00036_Side_Quest_37]]
 - Compare with [[step_093 (phase_029)]]
@@ -237,7 +232,7 @@ Offers deal too good to refuse
 - Originates from [[Major Image Xphb]]
 - See also: [[moonblade-xdmg (items)]]
 - Parallels [[arctic-encounters-levels-1720-xge (tables)]]
-- Originates from [[step_029]]
+- Originates from
 - Affected by [[Ring of Cold Resistance Xdmg]]
 - Related: [[Rod of Alertness Xdmg]]
 - Leads to [[QUEST0046_Infiltrate_the_Necromancer]]
@@ -248,7 +243,7 @@ Offers deal too good to refuse
 - See also: [[Stormwind Estate]]
 - Affected by [[Feinting Attack Xphb]]
 - Originates from [[Neutral Grounds]]
-- Parallels [[step_048]]
+- Parallels
 - Related: [[NPC00745_Urien_Ravenheart_the_Cunning]]
 - Influences [[Assets Locations Location City the Eel Keepers V1 the Eel Keepers.svg]]
 - Affected by [[International Training Exchanges]]
@@ -277,7 +272,6 @@ Offers deal too good to refuse
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

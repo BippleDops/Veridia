@@ -18,7 +18,6 @@ aliases: [NPC01210 Urien Stormwind the Scholar]
 - [[#Nerys Winterborn the Wise (Criminal - Handler)|Nerys Winterborn the Wise (Criminal - Handler)]]
 - [[#Drusilla Darkwater the Guardian (Criminal - Handler)|Drusilla Darkwater the Guardian (Criminal - Handler)]]
 
-
 ---
 aliases: ["Urien Stormwind the Scholar", "urien stormwind the scholar", "Urien Stormwind Scholar", "Scholar the Stormwind Urien"]
 tags: [npc, character]
@@ -143,21 +142,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.248Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -165,9 +160,9 @@ Needs help with personal quest
 - Affected by [[NPC01250_Rhiannon_Brightblade_the_Redeemed]]
 - Leads to [[EVENT00032_Political_Event_33]]
 - Related: [[step_032 (phase_092)]]
-- Compare with [[step_049]]
+- Compare with
 - Compare with [[step_036 (phase_083)]]
-- Parallels [[step_052]]
+- Parallels
 - Originates from [[Echo-Prime Cacophony Voidlungs 2]]
 - Affected by [[step_030 (phase_086)]]
 - Connects to [[Religious Groups 2]]
@@ -179,10 +174,10 @@ Needs help with personal quest
 - Affected by [[Pepper Xdmg]]
 - See also: [[Location City Sage Lyralei Starweaver V1 Sage Lyralei Starweaver.svg]]
 - Connects to [[LOC00118_Cities_Location_119]]
-- Compare with [[step_083]]
+- Compare with
 - Affected by [[Depth Crystals (D&D_References)]]
 - Compare with [[Nerissa Depthsong]]
-- Originates from [[step_087]]
+- Originates from
 - Influences [[step_038 (phase_073)]]
 - Compare with [[step_046 (phase_065)]]
 - Compare with [[Location City Port Meridian Medical Institute V1 Port Meridian Medical Institute.svg]]
@@ -200,7 +195,7 @@ Needs help with personal quest
 - Related: [[step_011 (phase_080)]]
 - Leads to [[The Administrative Palace]]
 - Originates from [[Perfume of Bewitching Xdmg]]
-- Affected by [[step_038]]
+- Affected by
 - Originates from [[Portrait NPC Lord Admiral Gaius Windcutter Lord Admiral Gaius Windcutter.svg]]
 - Related: [[LORE00332_History_Entry_333]]
 - See also: [[Memorial District of Abyssos Prime]]
@@ -229,16 +224,16 @@ Needs help with personal quest
 - Affected by [[Paladin Xphb Oath of Glory Xphb]]
 - Requires [[ENC00088_Environmental_Encounter_89]]
 - Requires [[step_026 (phase_019)]]
-- Connects to [[step_005]]
+- Connects to
 - Originates from [[Assets Locations Location City Observatory District V1 Observatory District.svg]]
 - Affected by [[Deep Prophecy 2]]
 - Parallels [[LOC00120_Dungeons_Location_121]]
 - Originates from [[step_022 (phase_083)]]
 - Affected by [[ICON_SYSTEM]]
-- Originates from [[step_028]]
+- Originates from
 - Affected by [[SPELL00005_Arcane_Spell_6]]
 - Leads to [[NPC01607_Branwen_Quicksilver_the_Swift]]
-- Influences [[step_089]]
+- Influences
 - Parallels [[MON00076_Aberrations_Creature_77]]
 - Connects to [[Chancellor Marcus Provinces]]
 - Leads to [[Dimensional Incursions]]
@@ -247,15 +242,15 @@ Needs help with personal quest
 - Connects to [[Cultural Markets]]
 - Influences [[NPC01098_Erasmus_Goldleaf_the_Fallen]]
 - Related: [[step_064 (phase_050)]]
-- Originates from [[step_053]]
-- Parallels [[step_083]]
+- Originates from
+- Parallels
 - Parallels [[step_013 (phase_043)]]
 - Affected by [[step_098 (phase_019)]]
 - Requires [[ITEM00725_Primordial_Crown_of_Truth]]
 - Originates from [[dawn-war-vecna-dmg (deities)]]
 - Originates from [[PHASE_1_COMPLETE]]
 - Originates from [[Hill Giant Xmm]]
-- Compare with [[step_078]]
+- Compare with
 - See also: [[Young Bronze Dragon Xmm]]
 - Parallels [[Assets Locations Location City Current Peaceweaver Current Peaceweaver.svg]]
 - Influences [[Diplomatic Immunity Tokens]]
@@ -266,7 +261,6 @@ Needs help with personal quest
 ![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
-
 
 ## Realm Connections
 
@@ -279,9 +273,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

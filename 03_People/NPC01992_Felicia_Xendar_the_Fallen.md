@@ -9,7 +9,6 @@ aliases: [NPC01992 Felicia Xendar the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01992 Felicia Xendar the Fallen]
 - [[#Dara Hawthorne the Wise (Criminal - Fence)|Dara Hawthorne the Wise (Criminal - Fence)]]
 - [[#Lyanna Grimholt the Broken (Personal - Ex-lover)|Lyanna Grimholt the Broken (Personal - Ex-lover)]]
 - [[#Fiora Winterborn the Swift (Criminal - Accomplice)|Fiora Winterborn the Swift (Criminal - Accomplice)]]
-
 
 ---
 created: 2025-08-15
@@ -150,27 +148,23 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.332Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -178,11 +172,10 @@ Blackmails party into service
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -224,7 +217,7 @@ Blackmails party into service
 - Compare with [[Assets Portraits Portrait NPC Captain Redbeard Captain Redbeard.svg]]
 - Affected by [[Quest - The Deep Mother Awakens]]
 - Affected by [[Portrait NPC Captain Henrik Proudbanner V1 Captain Henrik Proudbanner.svg]]
-- Requires [[step_033]]
+- Requires
 - Leads to [[The Spire of Courage (D&D_References)]]
 - Parallels [[step_065 (phase_099)]]
 - Compare with [[Unified Mechanics Guide (D&D_References)]]
@@ -242,7 +235,7 @@ Blackmails party into service
 - Compare with [[step_081 (phase_039)]]
 - Related: [[Copper Dragon]]
 - See also: [[Zelkor's Ferry.png]]
-- Originates from [[step_032]]
+- Originates from
 - Requires [[The Future Seer (D&D_References)]]
 - Influences [[Reflection Broker Mirrors (D&D_References)]]
 - See also: [[Assets Locations Location City Royal Court V1 Royal Court.svg]]
@@ -270,13 +263,13 @@ Blackmails party into service
 - Leads to [[Wraith Curator Ancient-Wisdom]]
 - See also: [[SPELL00095_Arcane_Spell_96]]
 - Affected by [[Trident of Fish Command Xdmg]]
-- Leads to [[step_082]]
+- Leads to
 - Influences [[LOC0025_Valeford]]
 - Affected by [[{{campaign}}]]
 - Originates from [[NPC00939_Thalia_Jadeclaw_the_Swift]]
 - Compare with [[ENC00345_Combat_Encounter_346]]
 - Leads to [[Midnight Reaches (D&D_References)]]
-- Compare with [[step_074]]
+- Compare with
 - Influences [[step_013 (phase_090)]]
 - Parallels [[The Abyss Beneath Aquabyssos (D&D_References)]]
 - Compare with [[step_070 (phase_037)]]

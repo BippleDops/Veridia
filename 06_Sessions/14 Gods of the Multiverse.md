@@ -18,7 +18,6 @@ aliases: [14 Gods of the Multiverse]
 - [[#See Also|See Also]]
 - [[#Game Mechanics|Game Mechanics]]
 
-
 ---
 
 title: 14 Gods of the Multiverse
@@ -53,11 +52,9 @@ world: Both
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 14 gods of the multiverse is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 14 gods of the multiverse as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 gods of the multiverse. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -111,12 +108,10 @@ world: Both
 - [[NPC00162_Xander_Thornweave]]
 - [[07 Customization Options]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -160,7 +155,7 @@ world: Both
 - Related: [[") + "]]
 - Leads to [[Magical Authenticatio]]
 - Compare with [[Inter-Realm Political Institutions]]
-- Affected by [[step_022]]
+- Affected by
 - Influences [[Family Retaine]]
 - Originates from [[step_074 (phase_087)]]
 - See also: [[location-city-fire-crystals-v1-fire-crystals.svg]]
@@ -197,7 +192,7 @@ world: Both
 - Compare with [[Audio Gallery]]
 - Requires [[Traditional Craftsmen Guild]]
 - Originates from [[Wings of Flying Xdmg]]
-- Related: [[step_067]]
+- Related:
 - Originates from [[Boots of Speed Xdmg]]
 - Requires [[QUEST00181_Main_Quest_182]]
 - Leads to [[Portrait NPC Banker Titus Goldcurrent V2 Banker Titus Goldcurrent.svg]]
@@ -216,9 +211,9 @@ world: Both
 - Related: [[Quick_Rules_Reference]]
 - Leads to [[High-Speed Transportation (D&D_References)]]
 - Originates from [[travelers-clothes-xphb (items)]]
-- Connects to [[step_083]]
-- Requires [[step_010]]
-- See also: [[step_028]]
+- Connects to
+- Requires
+- See also:
 - Compare with [[Location City the Hybrid Harbor V1 the Hybrid Harbor.svg]]
 - Compare with [[The Border Marches 2]]
 - Related: [[Counter-Mirror Task Force]]

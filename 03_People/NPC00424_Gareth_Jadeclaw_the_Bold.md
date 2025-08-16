@@ -18,7 +18,6 @@ aliases: [NPC00424 Gareth Jadeclaw the Bold]
 - [[#Erasmus Hawthorne the Guardian (Professional - Employee)|Erasmus Hawthorne the Guardian (Professional - Employee)]]
 - [[#Gavril Youngblood the Lost (Professional - Partner)|Gavril Youngblood the Lost (Professional - Partner)]]
 
-
 ---
 aliases: ["Gareth Jadeclaw the Bold", "gareth jadeclaw the bold", "Gareth Jadeclaw Bold", "Bold the Jadeclaw Gareth"]
 tags: [npc, character]
@@ -141,21 +140,17 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.161Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,11 +170,11 @@ Witnessed a crime
 - See also: [[Magic User Associations]]
 - See also: [[step_062 (phase_033)]]
 - Influences [[step_037 (phase_015)]]
-- Parallels [[step_047]]
+- Parallels
 - Influences [[The Observatory of Depths]]
 - Parallels [[Assets Locations Location City Temple Hierarchies Temple Hierarchies.png]]
-- Originates from [[step_041]]
-- See also: [[step_092]]
+- Originates from
+- See also:
 - Compare with [[The Crown's Burden (D&D_Statblocks)]]
 - Leads to [[Spell_Scroll_Creator]]
 - Originates from [[random-traps-trap-effects (tables)]]
@@ -217,7 +212,7 @@ Witnessed a crime
 - Requires [[NPC01139_Nerys_Proudmore_the_Broken]]
 - Originates from [[QUEST00234_Side_Quest_235]]
 - Leads to [[Merger_Events_Pack_D]]
-- Compare with [[step_028]]
+- Compare with
 - Originates from [[Skyfall Observatory 2]]
 - See also: [[Assets Locations Location City Bartender Marina Dualborn V1 Bartender Marina Dualborn.svg]]
 - Leads to [[Mer-Folk Honor Codes]]
@@ -226,7 +221,7 @@ Witnessed a crime
 - Related: [[Whisper-Touched William 2]]
 - Influences [[step_008 (phase_007)]]
 - Leads to [[Baroness Abyssal]]
-- See also: [[step_081]]
+- See also:
 - Parallels [[step_074 (phase_020)]]
 - Compare with [[ENC00437_Combat_Encounter_438]]
 - Related: [[QUEST00272_Side_Quest_273]]
@@ -238,7 +233,7 @@ Witnessed a crime
 - Affected by [[QUEST00258_Personal_Quest_259]]
 - Requires [[Succubus Xmm]]
 - Affected by [[Information Systems Alliance]]
-- Compare with [[step_096]]
+- Compare with
 - Affected by [[Location City House Voidwhisper House Voidwhisper.svg]]
 - Originates from [[04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier.svg]]
 - Leads to [[Crystal Agricultural Research Institute]]
@@ -253,10 +248,10 @@ Witnessed a crime
 - Requires [[scrying-xphb (spells)]]
 - Affected by [[step_081 (phase_011)]]
 - Affected by [[dhergoloth-mpmm (fiend)]]
-- Originates from [[step_084]]
+- Originates from
 - See also: [[vicious-weapon-xdmg (items)]]
 - Affected by [[Goldwave Financial Offices]]
-- Originates from [[step_092]]
+- Originates from
 - Related: [[The Shadow Merchant Prim (Groups)]]
 - Compare with [[Location City Wave Friendlyserve V1 Wave Friendlyserve.svg]]
 
@@ -264,7 +259,6 @@ Witnessed a crime
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

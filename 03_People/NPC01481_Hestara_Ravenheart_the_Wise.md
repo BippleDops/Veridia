@@ -18,7 +18,6 @@ aliases: [NPC01481 Hestara Ravenheart the Wise]
 - [[#Gareth Youngblood the Guardian (Professional - Mentor)|Gareth Youngblood the Guardian (Professional - Mentor)]]
 - [[#Caelum Darkwater the Broken (Family - Spouse)|Caelum Darkwater the Broken (Family - Spouse)]]
 
-
 ---
 aliases: ["Hestara Ravenheart the Wise", "hestara ravenheart the wise", "Hestara Ravenheart Wise", "Wise the Ravenheart Hestara"]
 tags: [npc, character]
@@ -142,27 +141,23 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.277Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Connects to [[NPC00085_Pyria_Xendar_the_Seeker]]
 - Connects to [[Location City Harbor District Customs House Harbor District Customs House.svg]]
-- Influences [[step_075]]
+- Influences
 - Requires [[vampire-spawn-xmm (undead)]]
 - Parallels [[Aquabyssos Embassy]]
 - Connects to [[dragon]]
@@ -174,11 +169,11 @@ Knows secret about major threat
 - Parallels [[LOC00115_Cities_Location_116]]
 - Affected by [[Assets Locations Location City Treasury Department V1 Treasury Department.svg]]
 - Influences [[Assets Locations Location City Restorative Justice V1 Restorative Justice.svg]]
-- Originates from [[step_024]]
+- Originates from
 - Requires [[step_020 (phase_040)]]
 - See also: [[Portrait NPC Commander Thrace Ironwood V1 Commander Thrace Ironwood.svg]]
 - Related: [[The Great Tidal Shrine]]
-- Requires [[step_013]]
+- Requires
 - Compare with [[step_093 (phase_016)]]
 - Affected by [[ENC00115_Social_Encounter_116]]
 - Compare with [[ENC00431_Combat_Encounter_432]]
@@ -190,15 +185,15 @@ Knows secret about major threat
 - Requires [[Discover Marina's Truth]]
 - Connects to [[step_091 (phase_064)]]
 - Requires [[step_008 (phase_031)]]
-- Compare with [[step_028]]
+- Compare with
 - Originates from [[NPC00767_Felicia_Grimholt_the_Wise]]
 - See also: [[The War Room Sanctuary 2]]
-- Compare with [[step_019]]
+- Compare with
 - Requires [[step_025 (phase_022)]]
 - Requires [[ITEM0051_Divine_Pendant_of_Power]]
 - Parallels [[Location City Current Bridgewater V1 Current Bridgewater.svg]]
 - Connects to [[aspect-of-the-moon-xge (optional-features)]]
-- Connects to [[step_022]]
+- Connects to
 - Parallels [[step_029 (phase_077)]]
 - Leads to [[Void Realm Territories (D&D_References)]]
 - Originates from [[ENC00163_Combat_Encounter_164]]
@@ -208,12 +203,12 @@ Knows secret about major threat
 - Related: [[step_017 (phase_089)]]
 - Leads to [[Portrait NPC Deep Priest Covenant Deep Priest Covenant.svg]]
 - Affected by [[Ethereal Anchors (D&D_References)]]
-- See also: [[step_057]]
+- See also:
 - Connects to [[step_098 (phase_011)]]
 - Compare with [[location-city-trade-unions-trade-unions.svg]]
 - Originates from [[Gith Names Githyanki Male Mtf]]
 - Parallels [[Bomb Xdmg]]
-- Influences [[step_086]]
+- Influences
 - See also: [[LOC00224_Planes_Location_225]]
 - Compare with [[Poison Spray Xphb]]
 - Affected by [[ITEM01243_Refined_Oil_of_Swiftness]]
@@ -250,9 +245,9 @@ Knows secret about major threat
 - Requires [[step_071 (phase_085)]]
 - Originates from [[step_034 (phase_024)]]
 - Affected by [[continual-flame-xphb (spells)]]
-- Influences [[step_039]]
+- Influences
 - See also: [[Fey Nobility]]
-- Connects to [[step_022]]
+- Connects to
 - Connects to [[Blink Dog Xmm]]
 - Compare with [[Count Erasmus Shadowmere]]
 - Influences [[Monster_Ecology_Web (Indexes)]]
@@ -265,7 +260,6 @@ Knows secret about major threat
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

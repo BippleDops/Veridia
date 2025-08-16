@@ -18,7 +18,6 @@ aliases: [10-combat (players-handbook-2014)]
 - [[#Rules|Rules]]
 - [[#Campaign Connection|Campaign Connection]]
 
-
 ---
 
 title: 10-combat (players-handbook-2014)
@@ -110,11 +109,9 @@ world: Both
 - Advantage to enemies: +50% to difficulty
 - Surprise round: Double difficulty
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -145,9 +142,7 @@ world: Both
 Connected to the main villain's plan
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -164,7 +159,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Source References
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -174,7 +169,6 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
-
 
 ## Thematic Connections
 - Tactical combat using [[Combat Maneuvers]]
@@ -218,7 +212,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[NPC00291_Orion_Hawthorne_the_Bold]]
 - Related: [[The Crystal Academies]]
 - See also: [[09 Adventuring#movement#climbing, Swimming, and Crawling]]
-- Compare with [[step_034]]
+- Compare with
 - Parallels [[NPC01780_Solas_Hawthorne_the_Strong]]
 - See also: [[Character Backstories_Quick_Ref]]
 - Compare with [[FINAL_DEPLOYMENT_STATUS]]
@@ -240,16 +234,16 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_023 (phase_006)]]
 - Requires [[Drill Sergeant Discipline (D&D_References)]]
 - Compare with [[saving-throws (tables)]]
-- Leads to [[step_039]]
+- Leads to
 - Affected by [[step_038 (phase_009)]]
 - Influences [[step_088 (phase_062)]]
 - Parallels [[Depth's End Cathedral]]
 - Originates from [[Marina's Identity Crisis]]
-- Affected by [[step_006]]
+- Affected by
 - See also: [[Assets Locations Location City Artisan Felix Reefwright V1 Artisan Felix Reefwright.svg]]
 - See also: [[Assets Locations Location City the Pressure Crown V1 the Pressure Crown.svg]]
 - Affected by [[step_020 (phase_012)]]
-- Related: [[step_024]]
+- Related:
 - Influences [[Admiral Diplomatic Envoy Thornwick 2]]
 - Originates from [[International Trade]]
 - Parallels [[Dragon Hide Xge]]
@@ -261,7 +255,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Central Crystal Processing Plant]]
 - See also: [[Afflictions Reality Madness]]
 - See also: [[Portrait NPC the Royal Treasury Depths V1 the Royal Treasury Depths.svg]]
-- Originates from [[step_098]]
+- Originates from
 - Leads to [[list-spells-classes-monk (lists)]]
 - Connects to [[step_059 (phase_007)]]
 - Connects to [[Assets Locations Location City the Evolution District V1 the Evolution District.svg]]
@@ -295,7 +289,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[gnoll-witherling-mpmm (undead)]]
 - Affected by [[Crystal Workers Union]]
 - Requires [[step_073 (phase_017)]]
-- Requires [[step_078]]
+- Requires
 - Compare with [[Ancient Historian Memento (D&D_References)]]
 - Related: [[LOC00054_Towns_Location_55]]
 - Affected by [[LOC00003_Dungeons_Location_4]]

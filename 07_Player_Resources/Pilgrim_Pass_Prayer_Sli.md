@@ -18,7 +18,6 @@ aliases: [Pilgrim Pass Prayer Sli]
 - [[#Sensory Improvements|Sensory Improvements]]
 - [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Pilgrim_Pass_Prayer_Sli
@@ -136,7 +135,6 @@ tags: [combat, lore]
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 > [!tip] 💡 Tip
 > Useful information for players
 
@@ -165,8 +163,7 @@ tags: [combat, lore]
 - [[NPC01632_Qadim_Darkwater_the_Guardian]]
 - [[Parliamentary_Voting_Guide]]
 - [[07 Customization Options]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -175,7 +172,6 @@ tags: [combat, lore]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -186,7 +182,7 @@ tags: [combat, lore]
 ## Connections
 
 - Affected by [[Assets Locations Location City Deepstone Deepstone.svg]]
-- Parallels [[step_079]]
+- Parallels
 - Requires [[NPC00174_Aldric_Silverleaf_the_Fallen]]
 - Affected by [[Assets Portraits Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg]]
 - Compare with [[Sage Analytical Mindweaver (D&D_References)]]
@@ -211,10 +207,10 @@ tags: [combat, lore]
 - Parallels [[Assets Locations Location City Chancellor S Advisory Council V1 Chancellor S Advisory Council.svg]]
 - Leads to [[NPC00455_Branwen_Nightfall]]
 - Leads to [[Assets Locations Location City Flame Keeper Brother Ignatius Flame Keeper Brother Ignatius.svg]]
-- Related: [[step_055]]
+- Related:
 - See also: [[LOC00057_Towns_Location_58]]
 - Connects to [[Thieves Guild (Guilds)]]
-- Originates from [[step_020]]
+- Originates from
 - Influences [[Dawn War Melora Dmg]]
 - Influences [[NPC01751_Pyria_Ravenheart_the_Strong]]
 - Compare with [[SPELL00054_Arcane_Spell_55]]
@@ -229,7 +225,7 @@ tags: [combat, lore]
 - Originates from [[Residential Districts]]
 - Related: [[gnoll-hunter-mpmm (monstrosity)]]
 - See also: [[location-city-age-of-wonders-age-of-wonders.svg]]
-- Connects to [[step_043]]
+- Connects to
 - Related: [[Reputation System (Lore)]]
 - Originates from [[Assets Locations Location City Surface Underwater Trade V1 Surface Underwater Trade.svg]]
 - Leads to [[Sister Marina Tidehealer]]
@@ -241,13 +237,13 @@ tags: [combat, lore]
 - Influences [[Contradiction Chamber (D&D_References)]]
 - Compare with [[Location City Pressure Terminal V1 Pressure Terminal.svg]]
 - Leads to [[List Spells Feats Strixhaven Mascot Scc]]
-- Parallels [[step_022]]
+- Parallels
 - Related: [[Armor of Radiant Resistance Xdmg]]
 - Requires [[Portrait NPC Trade Captain Current V2 Trade Captain Current.svg]]
 - Compare with [[creature-creature-griffon-xmm-griffon-xmm.png]]
 - Influences [[underwater-encounters-levels-14-xge (tables)]]
-- Related: [[step_096]]
-- Influences [[step_028]]
+- Related:
+- Influences
 - Connects to [[step_099 (phase_063)]]
 - Leads to [[INV-002.png]]
 - Influences [[Location City Pool of Sacred Drowning V1 Pool of Sacred Drowning.svg]]
@@ -258,15 +254,15 @@ tags: [combat, lore]
 - Originates from [[The Neutral Current (D&D_References)]]
 - Related: [[SPELL00119_Arcane_Spell_120]]
 - Originates from [[ITEM00672_Fortified_Gauntlets_of_Fortitude]]
-- Connects to [[step_077]]
+- Connects to
 - Related: [[step_031 (phase_043)]]
 - Leads to [[Location City Registrar Cornelius Scrollkeeper Registrar Cornelius Scrollkeeper.svg]]
 - Connects to [[Profit Crosscurrent 2]]
 - Connects to [[Final Messages]]
 - Affected by [[step_003 (phase_082)]]
-- Influences [[step_023]]
+- Influences
 - Requires [[Quest - Budget Crisis 2]]
-- Compare with [[step_086]]
+- Compare with
 - Compare with [[Korra Mindshield]]
 - Parallels [[Symbol Heraldry Crystal Pirate Crew Crystal Pirate Crew.svg]]
 - Connects to [[Assets Locations Location City Exotic Imports Market Exotic Imports Market.svg]]
@@ -283,7 +279,7 @@ tags: [combat, lore]
 - Affected by [[Novelist Current Stories]]
 - Connects to [[Aether Crystals]]
 - Originates from [[item-artifact-mess-kit-v3-mess-kit.png]]
-- See also: [[step_075]]
+- See also:
 - Originates from [[LOC00009_Planes_Location_10]]
 
 ## Visual References

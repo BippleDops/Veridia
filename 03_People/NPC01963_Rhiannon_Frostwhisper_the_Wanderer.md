@@ -18,7 +18,6 @@ aliases: [NPC01963 Rhiannon Frostwhisper the Wanderer]
 - [[#Ewan Voidwalker the Bold (Professional - Employer)|Ewan Voidwalker the Bold (Professional - Employer)]]
 - [[#Aldric Voidwalker the Broken (Personal - Best friend)|Aldric Voidwalker the Broken (Personal - Best friend)]]
 
-
 ---
 aliases: ["Rhiannon Frostwhisper the Wanderer", "rhiannon frostwhisper the wanderer", "Rhiannon Frostwhisper Wanderer", "Wanderer the Frostwhisper Rhiannon"]
 tags: [npc, character]
@@ -159,21 +158,17 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.328Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -199,7 +194,7 @@ Is secretly testing the party
 - Leads to [[step_022 (phase_057)]]
 - Requires [[Elf Names Family Xge]]
 - Related: [[Location City Diplomatic Dining Protocol Diplomatic Dining Protocol.svg]]
-- Leads to [[step_035]]
+- Leads to
 - Connects to [[NPC01397_Orion_Emberfall_the_Guardian]]
 - Originates from [[step_050 (phase_033)]]
 - See also: [[Frequency Manipulation]]
@@ -214,7 +209,7 @@ Is secretly testing the party
 - Parallels [[step_067 (phase_092)]]
 - Connects to [[step_065 (phase_006)]]
 - Connects to [[Portrait NPC Senator Glaucus Brain Senator Glaucus Brain.svg_1 (Portraits)]]
-- Related: [[step_058]]
+- Related:
 - Originates from [[Customer Relations Director Seraphina Calmcurrent]]
 - Requires [[Assets Locations Location City Drift Harbor District V1 Drift Harbor District.svg]]
 - Connects to [[Null Ambassador]]
@@ -232,13 +227,13 @@ Is secretly testing the party
 - See also: [[Quest Two Minds One Body]]
 - Originates from [[Location City the Harbor Guild V1 the Harbor Guild.svg]]
 - Connects to [[giant-lizard-xmm (beast)]]
-- Related: [[step_046]]
+- Related:
 - Connects to [[QUEST00179_Main_Quest_180]]
 - Originates from [[Public Relations Sarah Spokesperson]]
 - Parallels [[The Past Warden]]
 - Leads to [[location-city-crystallium-v1-crystallium.svg]]
 - Connects to [[Assets Locations Location City Veiled Hierophant Veiled Hierophant.svg]]
-- See also: [[step_008]]
+- See also:
 - Originates from [[Captain Repossession]]
 - Compare with [[Quest - The Null Constitution]]
 - Influences [[Captain Thornback (D&D_References)]]
@@ -252,7 +247,7 @@ Is secretly testing the party
 - Influences [[step_086 (phase_058)]]
 - Influences [[Location City Basil Prismtender V1 Basil Prismtender.svg]]
 - Originates from [[QUEST00103_Side_Quest_104]]
-- Originates from [[step_021]]
+- Originates from
 - Parallels [[ITEM01434_Ornate_Lantern_of_Quality]]
 - Compare with [[Assets Portraits Portrait NPC Underground Testing Facility Underground Testing Facility.svg]]
 - Affected by [[fire-shield-xphb (spells)]]
@@ -273,7 +268,7 @@ Is secretly testing the party
 - Originates from [[downtime-activity-research-xge (variant-rules)]]
 - Connects to [[NPC00343_Ysara_Thornweave_the_Bold]]
 - Parallels [[step_006 (phase_055)]]
-- Originates from [[step_078]]
+- Originates from
 - Related: [[Bead of Force Xdmg]]
 - Originates from [[Surface Contact Prohibition]]
 - Originates from [[02_Worldbuilding_Groups_The_Cloud_Shepherd_Guild]]
@@ -282,7 +277,6 @@ Is secretly testing the party
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

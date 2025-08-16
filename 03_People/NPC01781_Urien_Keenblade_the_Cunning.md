@@ -9,7 +9,6 @@ aliases: [NPC01781 Urien Keenblade the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01781 Urien Keenblade the Cunning]
 - [[#Fiora Winterborn the Redeemed (Personal - Nemesis)|Fiora Winterborn the Redeemed (Personal - Nemesis)]]
 - [[#Zephyr Blackstone the Fallen (Family - Cousin)|Zephyr Blackstone the Fallen (Family - Cousin)]]
 - [[#Rhiannon Brightblade the Wise (Family - Child)|Rhiannon Brightblade the Wise (Family - Child)]]
-
 
 ---
 created: 2025-08-15
@@ -148,16 +146,13 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.309Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -198,9 +193,7 @@ Provides information for a price
 - [[NPC01757_Nerys_Silverleaf_the_Strong]]
 - [[NPC01660_Thalia_Moonshadow_the_Fallen]]
 - [[NPC00207_Ysara_Ravenheart]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -218,7 +211,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.25
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -227,25 +220,24 @@ Following magic item guidelines (WWT p.135-136):
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - See also: [[NPC00171_Aldric_Winterborn_the_Mystic]]
 - Related: [[ITEM00408_Ethereal_Plate_of_Fortitude]]
 - Influences [[step_073 (phase_036)]]
-- Influences [[step_066]]
+- Influences
 - Leads to [[Heart Crystal (D&D_References)]]
 - See also: [[LORE00239_Legends_Entry_240]]
 - Originates from [[Shadow_Conspiracy_Infiltration_Signs]]
 - Requires [[step_079 (phase_077)]]
 - Parallels [[LORE00027_History_Entry_28]]
 - Originates from [[LOC00147_Wilderness_Location_148]]
-- Affected by [[step_041]]
+- Affected by
 - Affected by [[04_Resources_Assets_Symbols_symbol-heraldry-navigation-geography-navigation-geography.svg]]
 - Requires [[Wizard Xphb]]
 - Requires [[Chrysoprase Xdmg]]
@@ -269,7 +261,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[DUN00113_Dungeon_114]]
 - Influences [[Level and Lethality Trap Save Dcs and Attack]]
 - Influences [[NPC01617_Hilda_Goldleaf_the_Mystic]]
-- Compare with [[step_055]]
+- Compare with
 - Connects to [[step_002 (phase_018)]]
 - Affected by [[Portrait NPC the Shadow Warren V2 the Shadow Warren.svg_1 (Portraits)]]
 - Requires [[censer-of-controlling-air-elementals-xdmg (items)]]
@@ -281,7 +273,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[MON00157_Undead_Creature_158]]
 - Affected by [[LOC00004_Wilderness_Location_5]]
 - Requires [[Assets Locations Location City Crystal Mines V1 Crystal Mines.svg]]
-- Compare with [[step_036]]
+- Compare with
 - See also: [[Eldritch Smite Xphb]]
 - See also: [[Portrait NPC Shadow Parliament V2 Shadow Parliament.svg_1 (Portraits)]]
 - Affected by [[[[Deep Compressmaster]] (D&D_References)]]
@@ -297,7 +289,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Assets Locations Location City [[Depth Warden]]s [[Depth Wardens]].svg]]
 - See also: [[Aberrant Cults (Cults_and_Movements)]]
 - Leads to [[Aquabyssos - Session 01 - The Drowning Welcome]]
-- Affected by [[step_073]]
+- Affected by
 - Affected by [[Dancing Sword Xdmg]]
 - Influences [[1d8 (02_Worldbuilding)]]
 - Influences [[SPELL00013_Arcane_Spell_14]]
@@ -311,11 +303,11 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[sensory_immersion_techniques]]
 - Related: [[LORE00138_History_Entry_139]]
 - Leads to [[Assets Locations Location City [[Crystallization Process]] V1 Crystallization Process.png]]
-- Requires [[step_033]]
+- Requires
 - Leads to [[step_077 (phase_014)]]
 - Affected by [[alhoon-mpmm (undead)]]
 - Influences [[ITEM00685_Fortified_Plate_of_the_Guardian]]
-- Originates from [[step_009]]
+- Originates from
 - Connects to [[Coastal Encounters Levels 1720 Xge]]
 - Influences [[The Forgotten Archive (D&D_Statblocks)]]
 - Related: [[step_079 (phase_049)]]
@@ -330,7 +322,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_045 (phase_037)]]
 - Leads to [[[[Discover Shadow Market Location]] (D&D_References)]]
 - Influences [[supernatural-hooks-xdmg (tables)]]
-- Related: [[step_044]]
+- Related:
 - See also: [[LOC00287_Wilderness_Location_288]]
 - Requires [[Snake Horror Rot]]
 - See also: [[befuddlement-xphb (spells)]]

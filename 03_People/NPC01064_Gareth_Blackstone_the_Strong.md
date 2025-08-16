@@ -18,7 +18,6 @@ aliases: [NPC01064 Gareth Blackstone the Strong]
 - [[#Caelum Proudmore the Mystic (Personal - Nemesis)|Caelum Proudmore the Mystic (Personal - Nemesis)]]
 - [[#Kaelen Ashford the Seeker (Family - Sibling)|Kaelen Ashford the Seeker (Family - Sibling)]]
 
-
 ---
 aliases: ["Gareth Blackstone the Strong", "gareth blackstone the strong", "Gareth Blackstone Strong", "Strong the Blackstone Gareth"]
 tags: [npc, character]
@@ -149,36 +148,32 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.233Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Affected by [[greatsword-xphb (items)]]
 - Connects to [[step_089 (phase_039)]]
-- Parallels [[step_042]]
+- Parallels
 - Related: [[portrait-npc-memory-commerce-memory-commerce.svg_1 (Portraits)]]
 - See also: [[Assets Locations Location City the Portal Wars V1 the Portal Wars.svg]]
 - See also: [[Portrait NPC Gall... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Affected by [[step_039 (phase_012)]]
-- Leads to [[step_017]]
+- Leads to
 - Related: [[work-wages-xge (tables)]]
 - Originates from [[Major Trading Companies 2]]
 - Influences [[step_100 (phase_054)]]
-- Affected by [[step_009]]
+- Affected by
 - Related: [[ITEM00196_Blazing_Sword_of_Accuracy]]
 - Affected by [[Location City Fresh Cleanwave V1 Fresh Cleanwave.svg]]
 - Parallels [[Gnome Gelf Darkhearth Mtf]]
@@ -188,9 +183,9 @@ Has map to lost treasure
 - Compare with [[Campaign_Calendar]]
 - Affected by [[step_095 (phase_069)]]
 - Related: [[dark-gift-of-zrin-hala-the-howling-storm-cos (rewards)]]
-- Related: [[step_088]]
+- Related:
 - Leads to [[step_017 (phase_005)]]
-- See also: [[step_098]]
+- See also:
 - Affected by [[Chief Engineer Vera Steamheart (D&D_References)]]
 - Compare with [[The Echo Succession (D&D_References)]]
 - Originates from [[step_045 (phase_040)]]
@@ -199,7 +194,7 @@ Has map to lost treasure
 - Leads to [[QUEST00398_Side_Quest_399]]
 - Parallels [[bloodied-xphb (variant-rules)]]
 - Originates from [[Location City Scholar Merchant Remembrance Tidekeep V1 Scholar Merchant Remembrance Tidekeep.svg]]
-- See also: [[step_042]]
+- See also:
 - Leads to [[cape-of-the-mountebank-xdmg (items)]]
 - Requires [[mace-xphb (items)]]
 - Affected by [[Assets Locations Location City Goldspire Confederacy Goldspire Confederacy.svg]]
@@ -217,13 +212,13 @@ Has map to lost treasure
 - Related: [[step_009 (phase_039)]]
 - Connects to [[ITEM01168_Refined_Incense_of_Clarity]]
 - Related: [[Assets Locations Location City the Thornfield District V1 the Thornfield District.svg]]
-- Leads to [[step_014]]
+- Leads to
 - Influences [[step_072 (phase_041)]]
 - Influences [[Memory Privacy Devices]]
 - Connects to [[LORE00066_History_Entry_67]]
 - Compare with [[Assets Handouts Handout Handout Noble Writ with Wax Seal V2 Noble Writ with Wax Seal.png]]
 - Originates from [[step_070 (phase_077)]]
-- Influences [[step_058]]
+- Influences
 - Leads to [[Queen Seraphina 3]]
 - Requires [[Reflection Captain Vantage]]
 - Compare with [[step_036 (phase_007)]]
@@ -238,7 +233,7 @@ Has map to lost treasure
 - Leads to [[LOC00061_Planes_Location_62]]
 - Leads to [[NPC01579_Aldric_Proudmore_the_Broken]]
 - Compare with [[Map Map Gloom Gardens Paths V2 Gloom Gardens Paths.svg]]
-- Requires [[step_090]]
+- Requires
 - Influences [[MON00019_Aberrations_Creature_20]]
 - See also: [[fist-of-four-thunders (optional-features)]]
 - See also: [[ITEM00190_Radiant_Crossbow_of_Speed]]
@@ -257,7 +252,7 @@ Has map to lost treasure
 - Requires [[QUEST00109_Main_Quest_110]]
 - Parallels [[MON00163_Constructs_Creature_164]]
 - Connects to [[Identify the Partys Goals Other Goals]]
-- Parallels [[step_045]]
+- Parallels
 - Compare with [[Culture_Builder]]
 - Affected by [[Assets Locations Location City Kelp Silk V1 Kelp Silk.svg]]
 - Connects to [[location-city-spy-games-spy-games.svg]]
@@ -272,7 +267,6 @@ Has map to lost treasure
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

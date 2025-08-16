@@ -9,7 +9,6 @@ aliases: [NPC00131 Urien Frostwhisper]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00131 Urien Frostwhisper]
 - [[#Aeliana Voidwalker (Political - Opposition)|Aeliana Voidwalker (Political - Opposition)]]
 - [[#Urien Silverleaf the Guardian (Political - Opposition)|Urien Silverleaf the Guardian (Political - Opposition)]]
 - [[#Kaelen Keenblade (Family - Spouse)|Kaelen Keenblade (Family - Spouse)]]
-
 
 ---
 aliases: ["Urien Frostwhisper", "urien frostwhisper", "Frostwhisper Urien"]
@@ -153,21 +151,17 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.126Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -204,7 +198,7 @@ Seeks bodyguards for dangerous journey
 - Connects to [[tome-of-understanding-xdmg (items)]]
 - Influences [[step_030 (phase_065)]]
 - Requires [[location-city-seal-keepers-v1-seal-keepers.svg]]
-- Parallels [[step_054]]
+- Parallels
 - Influences [[DUN00046_Dungeon_47]]
 - Affected by [[NPC01615_Gavril_Ironforge_the_Mystic]]
 - Connects to [[SPELL0030_Infernal_Blessing]]
@@ -219,7 +213,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[QUEST00255_Personal_Quest_256]]
 - Connects to [[Stone Giant Xmm]]
 - Influences [[step_044 (phase_023)]]
-- Related: [[step_010]]
+- Related:
 - Parallels [[gnoll-dmg (races)]]
 - Influences [[step_032 (phase_071)]]
 - Related: [[04_Resources_Assets_Symbols_symbol-heraldry-the-carrion-court-the-carrion-court.svg]]
@@ -236,7 +230,7 @@ Seeks bodyguards for dangerous journey
 - Parallels [[Staff of Fire Xdmg]]
 - Affected by [[Frost Giant Everlasting One Mpmm]]
 - Compare with [[High Priestess Celeste Dawnbringer (D&D_Statblocks)]]
-- Parallels [[step_042]]
+- Parallels
 - Leads to [[ITEM00382_Frost_Hammer_of_Accuracy]]
 - Affected by [[Crystalhaven 2]]
 - Leads to [[LORE00150_Prophecies_Entry_151]]
@@ -247,7 +241,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [[Senator Nereon Tidecaller]]
 - Connects to [[decanter-of-endless-water-xdmg (items)]]
 - Related: [[ITEM00231_Radiant_Sword_of_Accuracy]]
-- Compare with [[step_019]]
+- Compare with
 - Influences [[Student Engineer Bronze]]
 - Originates from [[ENC00064_Social_Encounter_65]]
 - Compare with [[The Final Merger 2]]
@@ -257,7 +251,7 @@ Seeks bodyguards for dangerous journey
 - Connects to [[step_038 (phase_078)]]
 - See also: [[step_063 (phase_087)]]
 - Compare with [[step_053 (phase_053)]]
-- Related: [[step_087]]
+- Related:
 - Connects to [[Duergar in the Clan Duergar Clans Status Mtf]]
 - Leads to [[Social Movement Tracking]]
 - Parallels [[Thalassopolis Ruins]]

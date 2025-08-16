@@ -18,7 +18,6 @@ aliases: [NPC01603 Branwen Oakenshield the Wanderer]
 - [[#Zephyr Lightbringer the Risen (Professional - Partner)|Zephyr Lightbringer the Risen (Professional - Partner)]]
 - [[#Alaric Youngblood the Mystic (Family - Child)|Alaric Youngblood the Mystic (Family - Child)]]
 
-
 ---
 aliases: ["Branwen Oakenshield the Wanderer", "branwen oakenshield the wanderer", "Branwen Oakenshield Wanderer", "Wanderer the Oakenshield Branwen"]
 tags: [npc, character]
@@ -157,21 +156,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.290Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -183,7 +178,7 @@ Provides information for a price
 - Compare with [[Assets Locations Location City the Living Tide Temples V1 the Living Tide Temples.svg]]
 - Related: [[ENC00064_Combat_Encounter_65]]
 - Compare with [[Assets Locations Location City Memory Heist V1 Memory Heist.svg]]
-- Influences [[step_040]]
+- Influences
 - See also: [[The Deep Reaches]]
 - See also: [[02_Worldbuilding_Lore_Censorship_Magic]]
 - Originates from [[Tymora (D&D_References)]]
@@ -193,19 +188,19 @@ Provides information for a price
 - Affected by [[LORE00143_History_Entry_144]]
 - Related: [[location-city-spymaster-crow-v1-spymaster-crow.svg]]
 - Originates from [[Potion of Fire Resistance Xdmg]]
-- Compare with [[step_072]]
+- Compare with
 - Related: [[Healing Spirit Xge]]
 - Parallels [[NPC00098_Faelyn_Ironforge_the_Seeker]]
 - Originates from [[ITEM00934_Pure_Herb_of_Swiftness]]
 - Leads to [[Wealth_and_Treasure_Systems]]
 - Parallels [[dwarven-dumathoin-mtf (deities)]]
 - Leads to [[LOC00206_Planes_Location_207]]
-- Related: [[step_025]]
+- Related:
 - Parallels [[Assets Locations Location City Keeper of the Past Elderly Morgan V1 Keeper of the Past Elderly Morgan.svg]]
 - See also: [[step_024 (phase_049)]]
 - Related: [[Assets Locations Location City Maelstrom Palace Maelstrom Palace.svg]]
 - Influences [[NPC00987_Zephyr_Brightblade_the_Cunning]]
-- Requires [[step_006]]
+- Requires
 - Originates from [[Dockmaster Bruno Steadyanchor]]
 - Influences [[Watch Captain Roderick Shieldbreaker (D&D_References)]]
 - Requires [[step_010 (phase_100)]]
@@ -236,16 +231,16 @@ Provides information for a price
 - Originates from [[Balance Stones (D&D_References)]]
 - Requires [[Orcsplitter Pota]]
 - See also: [[NPC01927_Faelyn_Ashford_the_Fallen]]
-- Related: [[step_072]]
+- Related:
 - Connects to [[preparing-spells-spell-preparation-by-class-xphb]]
 - Influences [[Dimensional Monitoring Devices]]
-- Parallels [[step_035]]
+- Parallels
 - Compare with [[ITEM00836_Primordial_Orb_of_Eternity]]
 - Affected by [[ENC00002_Combat_Encounter_3]]
 - Related: [[step_091 (phase_046)]]
 - Requires [[Bestial Spirit Xphb]]
 - Parallels [[QUEST00094_Main_Quest_95]]
-- Parallels [[step_058]]
+- Parallels
 - Connects to [[Legal Coordinator Martha Lawbinder]]
 - Parallels [[NPC00877_Drusilla_Lightbringer_the_Lost]]
 - Compare with [[warlock-xphb-archfey-patron-xphb (classes)]]
@@ -255,7 +250,7 @@ Provides information for a price
 - Compare with [[step_080 (phase_015)]]
 - Influences [[step_076 (phase_057)]]
 - See also: [[Sorrow Pearls]]
-- Compare with [[step_005]]
+- Compare with
 - Related: [[Royal Archives]]
 - Originates from [[Condition Tracker]]
 - Affected by [[LOC00207_Planes_Location_208]]
@@ -270,7 +265,7 @@ Provides information for a price
 - See also: [[ring-of-three-wishes-xdmg (items)]]
 - Affected by [[QUEST00156_Side_Quest_157]]
 - Leads to [[hobgoblin-iron-shadow-mpmm (fey)]]
-- Leads to [[step_064]]
+- Leads to
 - Originates from [[NPC01303_Aldric_Zephyrblade_the_Guardian]]
 - See also: [[S-201 Eclipse Raid Window Player (Encounters)]]
 - Compare with [[Spell Gem Obsidian Oota]]
@@ -280,7 +275,6 @@ Provides information for a price
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

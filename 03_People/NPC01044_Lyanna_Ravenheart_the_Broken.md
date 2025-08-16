@@ -18,7 +18,6 @@ aliases: [NPC01044 Lyanna Ravenheart the Broken]
 - [[#Nerys Grimholt the Wanderer (Political - Patron)|Nerys Grimholt the Wanderer (Political - Patron)]]
 - [[#Caelum Hawthorne the Risen (Personal - Best friend)|Caelum Hawthorne the Risen (Personal - Best friend)]]
 
-
 ---
 aliases: ["Lyanna Ravenheart the Broken", "lyanna ravenheart the broken", "Lyanna Ravenheart Broken", "Broken the Ravenheart Lyanna"]
 tags: [npc, character]
@@ -143,21 +142,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.231Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,16 +170,16 @@ Has map to lost treasure
 - Originates from [[Elder Whisper-In-The-Dark (People)]]
 - Requires [[step_003 (phase_098)]]
 - Affected by [[Assets Locations Location City Serenity Stillwater V1 Serenity Stillwater.svg]]
-- See also: [[step_050]]
+- See also:
 - Connects to [[Assets Locations Location City Abyssos Prime Pressure Terminal Abyssos Prime Pressure Terminal.svg]]
 - Leads to [[Nystuls Magic Aura Xphb]]
-- See also: [[step_035]]
+- See also:
 - Influences [[step_088 (phase_068)]]
 - Originates from [[ITEM00227_Radiant_Staff_of_Power]]
 - Influences [[Relic Sloth Scc]]
 - Requires [[step_088 (phase_018)]]
 - Leads to [[step_073 (phase_037)]]
-- Compare with [[step_042]]
+- Compare with
 - Leads to [[Chimera Xmm]]
 - Connects to [[Random Encounter Tables - Aquabyssos (D&D_References)]]
 - Compare with [[Identity Crisis Resolution (Lore)]]
@@ -204,12 +199,12 @@ Has map to lost treasure
 - Parallels [[Downtime Activity Running a Business]]
 - Leads to [[Scepter of Winter's Command (D&D_References)]]
 - Connects to [[QUEST00132_Side_Quest_133]]
-- Originates from [[step_085]]
-- See also: [[step_021]]
+- Originates from
+- See also:
 - Compare with [[Assets Locations Location City the Banker Fish V1 the Banker Fish.svg]]
 - Parallels [[Ensnaring Strike Xphb]]
 - Leads to [[NPC01684_Idris_Emberfall_the_Broken]]
-- Originates from [[step_078]]
+- Originates from
 - Connects to [[Adult Oblex Mpmm]]
 - Affected by [[step_029 (phase_011)]]
 - Requires [[Handouts]]
@@ -229,16 +224,16 @@ Has map to lost treasure
 - Compare with [[SPELL00050_Divine_Spell_51]]
 - Leads to [[Quest - The Deep Cartographer]]
 - Parallels [[Sage Iris Crystalbloom (D&D_References)]]
-- Compare with [[step_081]]
+- Compare with
 - Connects to [[Storm Giant Quintessent Vgm]]
-- Requires [[step_029]]
+- Requires
 - Connects to [[step_030 (phase_092)]]
 - Compare with [[step_063 (phase_045)]]
 - Originates from [[Botanist Rose Sundrinker 2]]
 - Requires [[The Crystal Caverns (D&D_References)]]
 - Leads to [[04_Resources_Assets_Symbols_symbol-heraldry-divine-transformation-theolog-divine-transformation-theolog.svg]]
 - Parallels [[phase1_progress_tracker.py]]
-- Affected by [[step_064]]
+- Affected by
 - Leads to [[Template-Character]]
 - Related: [[magic-items-awarded-by-level-xdmg (tables)]]
 - Influences [[LOC00095_Cities_Location_96]]
@@ -248,8 +243,8 @@ Has map to lost treasure
 - See also: [[step_054 (phase_100)]]
 - Leads to [[2 Appendix a Miscellaneous Creatures]]
 - Originates from [[The Forbidden Descent]]
-- Influences [[step_016]]
-- See also: [[step_052]]
+- Influences
+- See also:
 - Influences [[Lore_1 (02_Worldbuilding)]]
 - Originates from [[step_062 (phase_028)]]
 - See also: [[step_026 (phase_029)]]
@@ -266,7 +261,6 @@ Has map to lost treasure
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

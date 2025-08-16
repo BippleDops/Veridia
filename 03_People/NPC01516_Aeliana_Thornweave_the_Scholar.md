@@ -18,7 +18,6 @@ aliases: [NPC01516 Aeliana Thornweave the Scholar]
 - [[#Faelyn Frostwhisper the Broken (Professional - Rival)|Faelyn Frostwhisper the Broken (Professional - Rival)]]
 - [[#Qadim Thornweave the Lost (Family - Parent)|Qadim Thornweave the Lost (Family - Parent)]]
 
-
 ---
 aliases: ["Aeliana Thornweave the Scholar", "aeliana thornweave the scholar", "Aeliana Thornweave Scholar", "Scholar the Thornweave Aeliana"]
 tags: [npc, character]
@@ -159,21 +158,17 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.281Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,10 +177,10 @@ Knows secret about major threat
 - Influences [[nolzurs-marvelous-pigments-xdmg (items)]]
 - Influences [[step_061 (phase_018)]]
 - Originates from [[Elven Labelas Enoreth Mtf]]
-- Compare with [[step_019]]
+- Compare with
 - Parallels [[Assets Locations Location City Market Mystery Market Mystery.svg]]
 - Parallels [[Lady Victoria Pennworth (D&D_References)]]
-- Connects to [[step_034]]
+- Connects to
 - Affected by [[Brother Matthias Inkdrinker (D&D_References)]]
 - Leads to [[QUEST00186_Personal_Quest_187]]
 - Leads to [[VAULT_STRUCTURE_PLAN]]
@@ -203,7 +198,7 @@ Knows secret about major threat
 - Parallels [[axe-beak-xmm (monstrosity)]]
 - Affected by [[LORE00184_Legends_Entry_185]]
 - Parallels [[Scholar Emperor Thalassius the Wise (D&D_References)]]
-- Parallels [[step_032]]
+- Parallels
 - Influences [[Annis Hag Vgm]]
 - Originates from [[Palace Guard Captain Neutralis]]
 - Connects to [[tome-of-leadership-and-influence-xdmg (items)]]
@@ -214,7 +209,7 @@ Knows secret about major threat
 - Requires [[Political Intrigue of Meridian (D&D_References)]]
 - Influences [[Emergency Backup]]
 - Influences [[Assets Item Artifact Poisoners Kit Xphb V7 Poisoners Kit Xphb.png]]
-- Parallels [[step_032]]
+- Parallels
 - Requires [[Faith Testing Grounds]]
 - Affected by [[monuments]]
 - Connects to [[Interactions With Others NPC Interaction]]
@@ -239,15 +234,15 @@ Knows secret about major threat
 - Requires [[ENC00090_Combat_Encounter_91]]
 - Influences [[step_051 (phase_092)]]
 - Affected by [[Harbor Master's License]]
-- Parallels [[step_045]]
-- Leads to [[step_090]]
+- Parallels
+- Leads to
 - Compare with [[step_055 (phase_019)]]
 - Connects to [[Vault Keeper Aurelia Crownguard]]
 - Related: [[LORE00291_Legends_Entry_292]]
 - Related: [[In-World_Handouts_Gallery]]
 - Connects to [[list-spells-school-abjuration (lists)]]
 - See also: [[step_034 (phase_015)]]
-- Affected by [[step_036]]
+- Affected by
 - Requires [[step_025 (phase_031)]]
 - Related: [[Mechanics Transformations Crystal Crystal Bloom]]
 - Originates from [[spell-xphb (variant-rules)]]
@@ -271,7 +266,7 @@ Knows secret about major threat
 - Originates from [[01 Chapter 1 the Basics]]
 - Requires [[Shadow Energy Addiction 2]]
 - See also: [[Assets Locations Location City Sage Prism Lightweaver V1 Sage Prism Lightweaver.svg]]
-- See also: [[step_094]]
+- See also:
 - Influences [[step_028 (phase_072)]]
 - Leads to [[Guild of Cross-Realm Navigators (Groups)]]
 - Compare with [[Random Shop]]
@@ -282,7 +277,6 @@ Knows secret about major threat
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

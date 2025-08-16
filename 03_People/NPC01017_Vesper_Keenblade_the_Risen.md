@@ -9,7 +9,6 @@ aliases: [NPC01017 Vesper Keenblade the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01017 Vesper Keenblade the Risen]
 - [[#Vesper Thornweave the Mystic (Professional - Employee)|Vesper Thornweave the Mystic (Professional - Employee)]]
 - [[#Aeliana Thornweave the Cunning (Family - Child)|Aeliana Thornweave the Cunning (Family - Child)]]
 - [[#Dara Quicksilver the Cunning (Political - Puppet)|Dara Quicksilver the Cunning (Political - Puppet)]]
-
 
 ---
 created: 2025-08-15
@@ -145,16 +143,13 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.228Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -202,11 +197,10 @@ Modifications:
 - [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[NPC00407_Hestara_Dawnstrider]]
 - [[Concept_Map]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -215,11 +209,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -243,7 +236,7 @@ Modifications:
 - Leads to [[glamoured-studded-leather-xdmg (items)]]
 - Influences [[ENC00045_Environmental_Encounter_46]]
 - See also: [[Grief Harvester Melancholy]]
-- Compare with [[step_022]]
+- Compare with
 - Affected by [[SHOP00032_Specialty_Shop_33]]
 - Leads to [[step_042 (phase_033)]]
 - Influences [[armaments-very-rare-xdmg (tables)]]
@@ -259,7 +252,7 @@ Modifications:
 - Leads to [[World Overview]]
 - Compare with [[step_058 (phase_020)]]
 - Connects to [[ITEM00287_Radiant_Staff_of_the_Ancients]]
-- Related: [[step_053]]
+- Related:
 - Influences [[" + join(map(slice(rows, 0, 3), (row) => row.file.name), "]]
 - Requires [[Location City [[Calm Soothingwave]] Calm Soothingwave.svg]]
 - Parallels [[Progressive Research Institutions (D&D_References)]]
@@ -273,7 +266,7 @@ Modifications:
 - Related: [[bucket-xphb (items)]]
 - Originates from [[javelin-of-lightning-xdmg (items)]]
 - See also: [[NPC01714_Brenna_Quicksilver_the_Swift]]
-- Requires [[step_080]]
+- Requires
 - Related: [[dust-of-disappearance-xdmg (items)]]
 - Compare with [[Human Names Indian Male Xge]]
 - Requires [[Symbol Heraldry Magical Component Manufacturers Guil V1 Magical Component Manufacturers Guil.svg]]
@@ -287,7 +280,7 @@ Modifications:
 - See also: [[Dwarven Dugmaren Brightmantle Mtf]]
 - Related: [[step_073 (phase_017)]]
 - See also: [[Enspelled Weapon Level 6 Xdmg]]
-- Compare with [[step_005]]
+- Compare with
 - Influences [[The Deep Mother Cult]]
 - Influences [[[[Aquabyssos]] - Session 07 - The Resonance Revelation]]
 - Compare with [[step_037 (phase_079)]]
@@ -307,8 +300,8 @@ Modifications:
 - See also: [[Marilith Xmm]]
 - Related: [[LORE00160_Prophecies_Entry_161]]
 - Leads to [[ITEM01020_Lesser_Powder_of_Fortune]]
-- Requires [[step_094]]
-- Originates from [[step_098]]
+- Requires
+- Originates from
 - Related: [[S_018_Choir_Pirates]]
 - Leads to [[ITEM00883_Primordial_Tome_of_Destiny]]
 - Connects to [[Breaking Objects Xphb]]

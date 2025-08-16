@@ -18,7 +18,6 @@ aliases: [NPC00655 Jorah Darkwater the Seeker]
 - [[#Felicia Silverleaf the Seeker (Personal - Ex-lover)|Felicia Silverleaf the Seeker (Personal - Ex-lover)]]
 - [[#Rhiannon Ravenheart the Risen (Personal - Ex-lover)|Rhiannon Ravenheart the Risen (Personal - Ex-lover)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Jorah Darkwater the Seeker", "jorah darkwater the seeker", "Jorah Darkwater Seeker", "Seeker the Darkwater Jorah"]
@@ -143,16 +142,13 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.187Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -200,11 +196,10 @@ Witnessed a crime
 - [[11 Rules Glossary]]
 - [[NPC01367_Lyanna_Xendar_the_Wise]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -214,11 +209,10 @@ Witnessed a crime
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -247,7 +241,7 @@ Witnessed a crime
 - Parallels [[step_098 (phase_067)]]
 - Leads to [[step_065 (phase_083)]]
 - Originates from [[Apprentice Bubbles]]
-- Leads to [[step_060]]
+- Leads to
 - Originates from [[LOC0104_UpperHaven]]
 - Originates from [[Glibness Xphb]]
 - Compare with [[step_005 (phase_014)]]
@@ -269,7 +263,7 @@ Witnessed a crime
 - Related: [[Sword of Vengeance Xdmg]]
 - Compare with [[Assets Locations Location City Free Current Charter V1 Free Current Charter.svg]]
 - Connects to [[Assets Portraits Portrait NPC Captain Harmony Tidereader Captain Harmony Tidereader.svg]]
-- Influences [[step_064]]
+- Influences
 - Affected by [[location-city-the-first-truth-the-first-truth.svg]]
 - Related: [[step_090 (phase_060)]]
 - Related: [[Chief Engineer Brass Voidwright 2]]
@@ -295,7 +289,7 @@ Witnessed a crime
 - See also: [[step_061 (phase_083)]]
 - Affected by [[armor-of-poison-resistance-xdmg (items)]]
 - Influences [[list-spells-school-divination (lists)]]
-- Compare with [[step_036]]
+- Compare with
 - See also: [[Legal Profession]]
 - Influences [[Blade Ward Xphb]]
 - Related: [[ITEM01032_Concentrated_Oil_of_Swiftness]]
@@ -316,7 +310,7 @@ Witnessed a crime
 - Originates from [[Mechanics Aerial Combat]]
 - Influences [[SPELL00156_Divine_Spell_157]]
 - Related: [[step_017 (phase_020)]]
-- Affected by [[step_057]]
+- Affected by
 - See also: [[item-types (CLI_Reference)]]
 - Related: [[pyrotechnics-xge (spells)]]
 - Affected by [[step_037 (phase_082)]]
@@ -327,7 +321,6 @@ Witnessed a crime
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00235 Idris Grimholt the Lost]
 - [[#Malakai Oakenshield the Mystic (Family - Child)|Malakai Oakenshield the Mystic (Family - Child)]]
 - [[#Erasmus Ironforge the Cunning (Criminal - Fence)|Erasmus Ironforge the Cunning (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Idris Grimholt the Lost", "idris grimholt the lost", "Idris Grimholt Lost", "Lost the Grimholt Idris"]
@@ -151,27 +150,23 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.139Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -181,11 +176,10 @@ Requires champions for trial by combat
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -196,7 +190,7 @@ Requires champions for trial by combat
 - Parallels [[tool-proficiencies-xge (variant-rules)]]
 - Requires [[Layers of Carceri Xdmg]]
 - Originates from [[step_001 (phase_075)]]
-- Originates from [[step_067]]
+- Originates from
 - Parallels [[The Silverscale Consortium 3 (D&D_References)]]
 - Connects to [[step_015 (phase_072)]]
 - Related: [[step_049 (phase_048)]]
@@ -205,13 +199,13 @@ Requires champions for trial by combat
 - See also: [[LOC00129_Planes_Location_130]]
 - Leads to [[MON00047_Constructs_Creature_48]]
 - Parallels [[Killer Whale Xmm]]
-- Related: [[step_027]]
+- Related:
 - Parallels [[Political Intrigue of Meridian (D&D_References)]]
 - Originates from [[step_016 (phase_052)]]
 - Influences [[LORE00325_Prophecies_Entry_326]]
 - Requires [[Portrait NPC Working Class Citizens Working Class Citizens.svg_1 (Portraits)]]
 - See also: [[Demilich Xmm]]
-- Compare with [[step_097]]
+- Compare with
 - Compare with [[demon-customization-tables-demon-bonds-mtf (tables)]]
 - Related: [[step_047 (phase_010)]]
 - Connects to [[Portrait NPC Lord Flux the Inconsistent V2 Lord Flux the Inconsistent.svg]]
@@ -224,7 +218,7 @@ Requires champions for trial by combat
 - See also: [[ITEM0017_Blessed_Crown_of_Power]]
 - Requires [[Portrait NPC Quest the Ancient Compact Quest the Ancient Compact.svg]]
 - Connects to [[Sister Benthos Scrollheart (D&D_References)]]
-- Requires [[step_058]]
+- Requires
 - Related: [[Dwarves in the Clan Clans Notable Trait Mtf]]
 - Connects to [[MON00142_Constructs_Creature_143]]
 - Originates from [[The Order of Silent Depths]]
@@ -252,7 +246,7 @@ Requires champions for trial by combat
 - Affected by [[Consequence Chain 3 Reality Merger Diplomatic Crisis (Lore)]]
 - Requires [[Lumina Crystal]]
 - Related: [[Location City Undead Rights Organization Hq V1 Undead Rights Organization Hq.svg]]
-- Parallels [[step_051]]
+- Parallels
 - Parallels [[Magic Item Table I]]
 - Originates from [[04_Resources_Assets_Locations_location-city-communications-master-signal-cryptkeeper-v1-communications-master-signal-cryptkeeper.svg]]
 - Connects to [[location-city-sister-morwyn-v1-sister-morwyn.svg]]
@@ -294,7 +288,6 @@ Requires champions for trial by combat
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

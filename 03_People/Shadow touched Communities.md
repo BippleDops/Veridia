@@ -9,7 +9,6 @@ aliases: [Shadow touched Communities]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_shadow_touched_communities_standard.png]]
 
-
 ## Table of Contents
 - [[#Description|Description]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [Shadow touched Communities]
 - [[#Notes|Notes]]
 - [[#References|References]]
 - [[#Connections|Connections]]
-
 
 ---
 tags: [npc, character]
@@ -75,7 +73,6 @@ Currently involved in the ongoing events of the campaign.
 - [[Assets Symbols Symbol Heraldry Factional Conflicts Factional Conflicts.svg]]
 - [[Assets Symbols Symbol Heraldry the Brotherhood of the Black Anchor the Brotherhood of the Black Anchor.svg]]
 
-
 ## Connections
 
 - Compare with [[Location City Inverted Ballroom Wing Inverted Ballroom Wing.svg]]
@@ -89,7 +86,7 @@ Currently involved in the ongoing events of the campaign.
 - Requires [[ITEM00637_Ethereal_Boots_of_Grace]]
 - See also: [[Assets Locations Location City Heart of Eternal Vigilance V1 Heart of Eternal Vigilance.svg]]
 - Influences [[step_038 (phase_022)]]
-- Influences [[step_100]]
+- Influences
 - Compare with [[2-monsters-a-to-z (monster-manual-2025)]]
 - Affected by [[The Convergence Cleansing]]
 - See also: [[FAC00012_Cults_13]]
@@ -109,7 +106,7 @@ Currently involved in the ongoing events of the campaign.
 - Influences [[Food and Water Needs]]
 - Influences [[step_029 (phase_080)]]
 - Leads to [[Enterprise Director Duskwork (D&D_References)]]
-- Influences [[step_039]]
+- Influences
 - See also: [[Aquabyssos Rumors 2]]
 - See also: [[step_058 (phase_074)]]
 - Originates from [[Reality Stabilization Anchors 2]]
@@ -145,8 +142,8 @@ Currently involved in the ongoing events of the campaign.
 - Affected by [[Location City Institute for Reality Studies Researchers Institute for Reality Studies Researchers.svg]]
 - Compare with [[Archshadow Steel Voidstrike]]
 - Requires [[Current Riders Guild]]
-- Leads to [[step_034]]
-- Influences [[step_088]]
+- Leads to
+- Influences
 - See also: [[ENC00189_Combat_Encounter_190]]
 - See also: [[step_088 (phase_031)]]
 - See also: [[Assets Locations Location City Quest the Truth Unveiled Quest the Truth Unveiled.svg]]
@@ -166,8 +163,8 @@ Currently involved in the ongoing events of the campaign.
 - Connects to [[step_095 (phase_090)]]
 - Compare with [[Azure Citadel]]
 - Leads to [[Captain_Trawl_Netcaster.png]]
-- Originates from [[step_022]]
-- See also: [[step_052]]
+- Originates from
+- See also:
 - Affected by [[Keeper Luminous Crystalbeam 2]]
 - Affected by [[step_023 (phase_030)]]
 - Parallels [[step_024 (phase_048)]]

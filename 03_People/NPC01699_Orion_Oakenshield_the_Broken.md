@@ -9,7 +9,6 @@ aliases: [NPC01699 Orion Oakenshield the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01699 Orion Oakenshield the Broken]
 - [[#Caelum Goldleaf the Seeker (Political - Spy)|Caelum Goldleaf the Seeker (Political - Spy)]]
 - [[#Wynne Keenblade the Wise (Personal - Ex-lover)|Wynne Keenblade the Wise (Personal - Ex-lover)]]
 - [[#Orion Ravenheart the Seeker (Political - Puppet)|Orion Ravenheart the Seeker (Political - Puppet)]]
-
 
 ---
 created: 2025-08-15
@@ -153,16 +151,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.300Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -221,9 +216,7 @@ Modifications:
 - [[NPC01348_Xander_Zephyrblade_the_Wise]]
 - [[NPC00124_Delara_Ravenheart_the_Redeemed]]
 - [[NPC00200_Faelyn_Winterborn_the_Guardian]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -241,7 +234,7 @@ Following magic item guidelines (WWT p.135-136):
 - Bestiary Compendium (BC) p.81
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -251,17 +244,16 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Related: [[ITEM00608_Warded_Cloak_of_Resistance]]
 - Compare with [[Portrait NPC Sunken Kingdom of Nereon V2 Sunken Kingdom of Nereon.svg]]
-- Influences [[step_065]]
+- Influences
 - Affected by [[Races (Homebrew)]]
 - Leads to [[scroll-of-titan-summoning-elemental-cataclysm-xdmg]]
 - Influences [[step_098 (phase_050)]]
@@ -273,18 +265,18 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[The Growth Gardens]]
 - See also: [[Master of Crystals Prism Multifacet]]
 - Compare with [[step_006 (phase_013)]]
-- Influences [[step_053]]
+- Influences
 - Affected by [[Ranger Captain Orin Swiftarrow (D&D_References)]]
 - Parallels [[step_067 (phase_082)]]
 - Leads to [[World_Primer.md]]
 - Requires [[QUEST00262_Side_Quest_263]]
 - Related: [[poisoned-tempest-xge (traps-hazards)]]
 - Originates from [[Current Peaceweaver]]
-- Parallels [[step_037]]
+- Parallels
 - Influences [[NPC01336_Ewan_Hawthorne_the_Strong]]
 - See also: [[[[High-Speed Transportation]] (D&D_References)]]
 - See also: [[ring-of-three-wishes-xdmg (items)]]
-- Affected by [[step_014]]
+- Affected by
 - Requires [[War Machine Engineers]]
 - Parallels [[[[Merchant]] Family Alliances (D&D_References)]]
 - See also: [[step_015 (phase_039)]]
@@ -292,12 +284,12 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[SPELL00156_Nature_Spell_157]]
 - Originates from [[Location City [[Memory Sharing Techniques]] Memory Sharing Techniques.svg]]
 - Influences [[step_065 (phase_006)]]
-- Leads to [[step_057]]
+- Leads to
 - Parallels [[QUEST00092_Main_Quest_93]]
 - Affected by [[NPC00322_Qadim_Quicksilver_the_Redeemed]]
 - Parallels [[step_019 (phase_014)]]
 - Leads to [[Shadow Currency]]
-- See also: [[step_066]]
+- See also:
 - See also: [[LOC00139_Towns_Location_140]]
 - Connects to [[Temple Ward]]
 - See also: [[ITEM00946_Distilled_Potion_of_Healing]]
@@ -311,13 +303,13 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[QUEST00087_Main_Quest_88]]
 - Related: [[step_013 (phase_052)]]
 - Affected by [[Roper Xmm]]
-- Requires [[step_090]]
+- Requires
 - Influences [[tiefling-zariel-mtf (races)]]
 - Affected by [[QUEST00159_Personal_Quest_160]]
 - Connects to [[S-L-11_Platform_Unmooring]]
 - Originates from [[Random Traps Trap Trigger]]
 - Parallels [[step_073 (phase_016)]]
-- Compare with [[step_022]]
+- Compare with
 - Parallels [[SHOP00045_Specialty_Shop_46]]
 - Affected by [[NPC01315_Cedric_Jadeclaw_the_Seeker]]
 - Originates from [[LOC00206_Planes_Location_207]]
@@ -339,8 +331,8 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[step_016 (phase_074)]]
 - Related: [[step_068 (phase_020)]]
 - See also: [[LOC00054_Towns_Location_55]]
-- Influences [[step_068]]
-- Compare with [[step_016]]
+- Influences
+- Compare with
 - Influences [[LOC00207_Wilderness_Location_208]]
 - Compare with [[Symbol Heraldry Merchant Family Tidewalker V1 Merchant Family Tidewalker.svg]]
 - Requires [[The Unity Seekers]]
@@ -348,10 +340,10 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Symbiotic Integration Specialists (D&D_References)]]
 - Connects to [[[[Mad Prophet Silas the Depth-Touched]] (D&D_References)]]
 - Connects to [[step_058 (phase_077)]]
-- Parallels [[step_086]]
+- Parallels
 - Parallels [[LOC00259_Towns_Location_260]]
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-border-fortresses-border-fortresses.svg]]
-- See also: [[step_028]]
+- See also:
 - Compare with [[Masons Tools Xphb]]
 - Affected by [[NPC00394_Fiora_Blackstone_the_Fallen]]
 - Connects to [[step_039 (phase_012)]]

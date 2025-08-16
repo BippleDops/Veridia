@@ -18,7 +18,6 @@ aliases: [NPC00129 Gareth Jadeclaw]
 - [[#Branwen Underhill (Personal - Childhood friend)|Branwen Underhill (Personal - Childhood friend)]]
 - [[#Malakai Stormwind (Personal - Love interest)|Malakai Stormwind (Personal - Love interest)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gareth Jadeclaw", "gareth jadeclaw", "Jadeclaw Gareth"]
@@ -153,16 +152,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.126Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -202,11 +198,10 @@ Seeks bodyguards for dangerous journey
 - [[Count_Strahd_von_Zarovich]]
 - [[Complete_NPC_Matrix.md]]
 - [[NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -214,18 +209,17 @@ Seeks bodyguards for dangerous journey
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Connects to [[Location City Tide Bondkeeper V1 Tide Bondkeeper.svg]]
 - Leads to [[QUEST00411_Side_Quest_412]]
 - Influences [[fire-elemental-myrmidon-mpmm (elemental)]]
-- Leads to [[step_019]]
+- Leads to
 - Affected by [[ENC00087_Combat_Encounter_88]]
 - Requires [[4d6kl1]]
 - Leads to [[Location City the Resonant Hermit V1 the Resonant Hermit.svg]]
@@ -237,7 +231,7 @@ Seeks bodyguards for dangerous journey
 - Requires [[Portrait NPC Pres... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[step_082 (phase_024)]]
 - Connects to [[Symbol Heraldry the Archive of Questions the Archive of Questions.svg]]
-- Connects to [[step_051]]
+- Connects to
 - Leads to [[list-spells-rewards-boon-of-the-stormborn (lists)]]
 - Connects to [[Mourning Depths]]
 - Compare with [[Colonel Dr. Vivisection]]
@@ -248,7 +242,7 @@ Seeks bodyguards for dangerous journey
 - Compare with [[Peace of Singing Stones 2]]
 - Originates from [[Assets Locations Location City Quest Harbor Expansion V1 Quest Harbor Expansion.svg]]
 - Compare with [[LOC00209_Towns_Location_210]]
-- Related: [[step_065]]
+- Related:
 - See also: [[Animal Messenger Xphb]]
 - Connects to [[Professional Monster Hunting]]
 - Originates from [[Community Demonstration Sites]]
@@ -310,7 +304,7 @@ Seeks bodyguards for dangerous journey
 - Influences [[step_082 (phase_006)]]
 - Requires [[step_040 (phase_051)]]
 - Originates from [[Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg_1 (Portraits)]]
-- Leads to [[step_054]]
+- Leads to
 - Parallels [[The Chronicler]]
 - Related: [[Warlock Xphb Great Old One Patron Xphb]]
 - Compare with [[Portrait NPC Captain Sterling Lightshield V2 Captain Sterling Lightshield.svg]]
@@ -327,7 +321,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

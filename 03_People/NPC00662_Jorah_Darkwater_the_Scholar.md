@@ -18,7 +18,6 @@ aliases: [NPC00662 Jorah Darkwater the Scholar]
 - [[#Urien Lightbringer the Guardian (Professional - Employer)|Urien Lightbringer the Guardian (Professional - Employer)]]
 - [[#Ysara Keenblade the Strong (Personal - Love interest)|Ysara Keenblade the Strong (Personal - Love interest)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Jorah Darkwater the Scholar", "jorah darkwater the scholar", "Jorah Darkwater Scholar", "Scholar the Darkwater Jorah"]
@@ -153,27 +152,23 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.188Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -183,11 +178,10 @@ Being extorted by criminals
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -203,14 +197,14 @@ Being extorted by criminals
 - Influences [[The Grand Abandonment - Central Warehouse Comple 2]]
 - Connects to [[LOC00296_Dungeons_Location_297]]
 - See also: [[#Planet Details]]
-- Originates from [[step_019]]
+- Originates from
 - Leads to [[freedom-of-movement-xphb (spells)]]
 - Parallels [[ITEM01483_Elegant_Tool_Kit_of_Durability]]
 - See also: [[DUN00016_Dungeon_17]]
-- Affected by [[step_085]]
+- Affected by
 - Influences [[step_093 (phase_059)]]
 - Originates from [[Cleric Xphb Tempest Domain]]
-- Compare with [[step_075]]
+- Compare with
 - Influences [[NPC00554_Hestara_Zephyrblade_the_Wanderer]]
 - Requires [[chicken-xdmg (items)]]
 - Originates from [[Archscholar Marina Voidseeker]]
@@ -218,14 +212,14 @@ Being extorted by criminals
 - Requires [[MON0042_Fire_Wraith]]
 - Parallels [[ENC00087_Social_Encounter_88]]
 - Influences [[Meditation Chamber]]
-- Influences [[step_092]]
+- Influences
 - Compare with [[step_064 (phase_069)]]
 - Originates from [[ITEM00401_Dragon_Scale_Gauntlets_of_Protection]]
 - Related: [[Prismari Primer Scc]]
 - See also: [[step_026 (phase_026)]]
 - Requires [[step_045 (phase_035)]]
 - Requires [[Location City Terminal Master Hadrian Depthbridge V1 Terminal Master Hadrian Depthbridge.svg]]
-- Connects to [[step_015]]
+- Connects to
 - Leads to [[step_092 (phase_061)]]
 - Affected by [[LORE00121_History_Entry_122]]
 - Related: [[ITEM00400_Fortified_Cloak_of_Resistance]]
@@ -241,10 +235,10 @@ Being extorted by criminals
 - Compare with [[04 Classes]]
 - Affected by [[LOC00035_Dungeons_Location_36]]
 - Requires [[sorcerer-xphb-shadow-magic-xge (classes)]]
-- Leads to [[step_010]]
+- Leads to
 - Related: [[magic-items-for-sale-scc (tables)]]
 - See also: [[ENC0083_Random_Encounter_84]]
-- Connects to [[step_044]]
+- Connects to
 - Compare with [[01 Chapter 1 the Basics]]
 - Compare with [[Treasure Themes Xdmg]]
 - Affected by [[LOC00296_Planes_Location_297]]
@@ -252,7 +246,7 @@ Being extorted by criminals
 - Compare with [[Portrait NPC Shadow Conspiracy Shadow Conspiracy.svg_1 (Portraits)]]
 - Parallels [[layers-of-hades-xdmg (tables)]]
 - Requires [[step_008 (phase_045)]]
-- Connects to [[step_068]]
+- Connects to
 - Compare with [[Terminal Master Hadrian Depthbridge 2]]
 - See also: [[Current Solidarity (D&D_References)]]
 - Compare with [[step_010 (phase_022)]]
@@ -273,7 +267,7 @@ Being extorted by criminals
 - Influences [[Courier Pelagic 2]]
 - Originates from [[step_055 (phase_008)]]
 - See also: [[Kraken]]
-- Related: [[step_058]]
+- Related:
 - Requires [[step_063 (phase_028)]]
 - Connects to [[Human Names Mesoamerican Female Xge]]
 - Leads to [[Vault Prime 2]]
@@ -286,7 +280,7 @@ Being extorted by criminals
 - Leads to [[Mirror Merchant Marina (D&D_References)]]
 - See also: [[step_032 (phase_059)]]
 - Compare with [[Morkoth Vgm]]
-- Influences [[step_029]]
+- Influences
 - Leads to [[LORE00166_History_Entry_167]]
 - Parallels [[Swarm of Ravens Xmm]]
 - Affected by [[QUEST00154_Main_Quest_155]]
@@ -296,7 +290,6 @@ Being extorted by criminals
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

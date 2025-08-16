@@ -18,7 +18,6 @@ aliases: [NPC01345 Pyria Oakenshield the Wise]
 - [[#Delara Ironforge the Swift (Personal - Nemesis)|Delara Ironforge the Swift (Personal - Nemesis)]]
 - [[#Pyria Darkwater the Risen (Political - Ally)|Pyria Darkwater the Risen (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Pyria Oakenshield the Wise", "pyria oakenshield the wise", "Pyria Oakenshield Wise", "Wise the Oakenshield Pyria"]
@@ -144,25 +143,20 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.263Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -183,7 +177,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.98
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -191,11 +185,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -211,7 +204,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Item Artifact Poisoners Kit Xphb V5 Poisoners Kit Xphb.png]]
 - Affected by [[QUEST00497_Side_Quest_498]]
 - See also: [[Shortbow Xphb]]
-- Leads to [[step_076]]
+- Leads to
 - Requires [[Harbor Defense Grid 2]]
 - Related: [[Portrait NPC Deep Lord Pelagios the Eternal Deep Lord Pelagios the Eternal.svg]]
 - Leads to [[NPC_Generator]]
@@ -227,8 +220,8 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[step_070 (phase_016)]]
 - Related: [[step_021 (phase_022)]]
 - Compare with [[Saltmarsh_Harbor]]
-- Originates from [[step_030]]
-- Parallels [[step_032]]
+- Originates from
+- Parallels
 - Related: [[EVENT00052_Political_Event_53]]
 - See also: [[Crystal Caves of Luminar 2]]
 - Parallels [[General Truthseeker Vale 2]]
@@ -237,18 +230,18 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[step_059 (phase_013)]]
 - Leads to [[step_099 (phase_048)]]
 - Requires [[step_056 (phase_005)]]
-- Connects to [[step_033]]
+- Connects to
 - Related: [[Location City Aboleth Adjunct Yzz V1 Aboleth Adjunct Yzz.svg]]
 - Compare with [[step_076 (phase_051)]]
 - Requires [[The Living Quarters 2]]
 - Affected by [[Playing Cards Xphb]]
 - Originates from [[Assets Locations Location City Adult Education Programs Adult Education Programs.svg]]
-- Leads to [[step_026]]
-- Connects to [[step_048]]
+- Leads to
+- Connects to
 - Connects to [[Memorial Wall of Names 2]]
 - Related: [[step_033 (phase_036)]]
 - Leads to [[step_044 (phase_087)]]
-- Requires [[step_028]]
+- Requires
 - See also: [[tiger-xmm (beast)]]
 - Connects to [[stirge-xmm (monstrosity)]]
 - Parallels [[Portrait NPC Lady Celestine Windborne V1 Lady Celestine Windborne.svg]]
@@ -285,7 +278,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[The Crystal Integration Festival]]
 - Leads to [[Dawn War Tiamat Dmg]]
 - Originates from [[Scholar Emperor Thalassius the Wise]]
-- Related: [[step_034]]
+- Related:
 - Related: [[step_055 (phase_009)]]
 - Compare with [[Portrait NPC Jasper Three Eyes Flint 2 Jasper Three Eyes Flint 2.svg]]
 - Related: [[Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg_1 (Portraits)]]
@@ -293,7 +286,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[The Whisper Survivors]]
 - Affected by [[QUEST00094_Side_Quest_95]]
 - Related: [[step_010 (phase_029)]]
-- Related: [[step_037]]
+- Related:
 - Requires [[poisoned-tempest-xge (traps-hazards)]]
 - Related: [[Assets Locations Location City Neutrality Laws V1 Neutrality Laws.svg]]
 - Related: [[step_002 (phase_078)]]
@@ -304,7 +297,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

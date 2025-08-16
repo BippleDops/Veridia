@@ -18,7 +18,6 @@ aliases: [NPC01789 Vesper Proudmore the Mystic]
 - [[#Dara Youngblood the Lost (Criminal - Informant)|Dara Youngblood the Lost (Criminal - Informant)]]
 - [[#Faelyn Silverleaf the Strong (Political - Ally)|Faelyn Silverleaf the Strong (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Vesper Proudmore the Mystic", "vesper proudmore the mystic", "Vesper Proudmore Mystic", "Mystic the Proudmore Vesper"]
@@ -150,16 +149,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.310Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -198,11 +194,10 @@ Is secretly testing the party
 - [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
 - [[Item_Catalog_Complete.md]]
 - [[NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -211,11 +206,10 @@ Is secretly testing the party
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -250,7 +244,7 @@ Is secretly testing the party
 - Related: [[Portrait NPC Duke Sterling Truecrystal V1 Duke Sterling Truecrystal.svg]]
 - Requires [[step_068 (phase_027)]]
 - Parallels [[Cliffside Manors (D&D_References)]]
-- Affected by [[step_050]]
+- Affected by
 - Compare with [[step_045 (phase_100)]]
 - Originates from [[portrait-npc-azure-shard-v2-azure-shard.svg_1 (Portraits)]]
 - Affected by [[eldritch-sight (optional-features)]]
@@ -258,7 +252,7 @@ Is secretly testing the party
 - Parallels [[1 DM Toolkit Home Dv]]
 - Parallels [[LORE00030_Legends_Entry_31]]
 - Originates from [[Captain Valeria (D&D_References)]]
-- Affected by [[step_082]]
+- Affected by
 - Requires [[Depth Merchant's Consortium (D&D_References)]]
 - Compare with [[International Exchange Program]]
 - Originates from [[The Bloom Fields]]
@@ -266,12 +260,12 @@ Is secretly testing the party
 - Requires [[LORE00321_Prophecies_Entry_322]]
 - Influences [[Assets Locations Location City Memory Meadows Black Market V1 Memory Meadows Black Market.svg]]
 - See also: [[Dockworker_Union_Flyer.md]]
-- Parallels [[step_032]]
+- Parallels
 - Connects to [[step_070 (phase_093)]]
 - Affected by [[NPC00844_Cedric_Blackstone_the_Fallen]]
 - Originates from [[Darkness Xphb (variant-rules)]]
 - Requires [[step_068 (phase_034)]]
-- Affected by [[step_069]]
+- Affected by
 - Influences [[ITEM0082_Cursed_Crown_of_the_Dawn]]
 - Related: [[General Shadowmarc]]
 - Requires [[QUEST00214_Personal_Quest_215]]
@@ -297,7 +291,7 @@ Is secretly testing the party
 - Connects to [[QUEST00044_Side_Quest_45]]
 - Leads to [[travel-terrain-xdmg (tables)]]
 - Originates from [[The Convergence Entity (D&D_References)]]
-- Leads to [[step_036]]
+- Leads to
 - Affected by [[Human Names Arabic Female Xge]]
 - Affected by [[Portrait NPC Pressure Angel Benthia Pressure Angel Benthia.png]]
 - Originates from [[Portrait NPC Captain Morgrim Lastvessel V2 Captain Morgrim Lastvessel.svg]]
@@ -314,9 +308,9 @@ Is secretly testing the party
 - Connects to [[Location City Throne Room Heart of Palace V1 Throne Room Heart of Palace.svg]]
 - Affected by [[NPC00645_Cedric_Moonshadow_the_Fallen]]
 - Requires [[LOC00130_Towns_Location_131]]
-- Originates from [[step_051]]
+- Originates from
 - Related: [[The Mourning Depths (D&D_References)]]
-- Compare with [[step_092]]
+- Compare with
 - Compare with [[roleplaying-a-giant-giant-personality-traits-vgm]]
 - Connects to [[NPC01657_Dara_Dawnstrider_the_Mystic]]
 
@@ -324,7 +318,6 @@ Is secretly testing the party
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00260 Wynne Underhill the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00260 Wynne Underhill the Fallen]
 - [[#Cedric Oakenshield the Scholar (Criminal - Fence)|Cedric Oakenshield the Scholar (Criminal - Fence)]]
 - [[#Idris Youngblood (Personal - Best friend)|Idris Youngblood (Personal - Best friend)]]
 - [[#Thalia Brightblade (Personal - Nemesis)|Thalia Brightblade (Personal - Nemesis)]]
-
 
 ---
 created: 2025-08-15
@@ -155,16 +153,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.141Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -176,7 +171,6 @@ Modifications:
 - HP: 33
 - AC: 15
 - Notable abilities: Varies by individual
-
 
 > [!quote] 💬 Quote
 > Notable saying or prophecy
@@ -217,11 +211,10 @@ Modifications:
 - [[NPC00838_Drusilla_Proudmore_the_Risen]]
 - [[MASTER_MOC]]
 - [[NPC01781_Urien_Keenblade_the_Cunning]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -232,11 +225,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -266,9 +258,9 @@ Modifications:
 - Compare with [[Portrait NPC Commodity Queen Abundance V2 Commodity Queen Abundance.svg_1 (Portraits)]]
 - Compare with [[ENC00137_Environmental_Encounter_138]]
 - Connects to [[Portrait NPC Character Relationship Web Core Npcs V1 Character Relationship Web Core Npcs.svg]]
-- Influences [[step_045]]
+- Influences
 - Originates from [[ITEM00058_Thunder_Sword_of_Slaying]]
-- Originates from [[step_067]]
+- Originates from
 - See also: [[Inverted Ballroom Wing]]
 - See also: [[iron-golem-xmm (construct)]]
 - Leads to [[Campaign [[INDEX]] 2]]
@@ -282,9 +274,9 @@ Modifications:
 - Compare with [[step_091 (phase_039)]]
 - Leads to [[Location City the Neutral Current [[Tavern]] [[The Neutral Current Tavern]].svg]]
 - Influences [[Consequence Chain 5 - Marina Identity Revelation]]
-- Leads to [[step_017]]
+- Leads to
 - Affected by [[Eldritch Smite Xphb]]
-- Connects to [[step_021]]
+- Connects to
 - Related: [[Kelp Highway (Lore)]]
 - Requires [[Ray of Frost Xphb]]
 - Requires [[Subjects Crystal Engineering]]
@@ -293,7 +285,7 @@ Modifications:
 - See also: [[Hewards Handy Spice Pouch Xdmg]]
 - Compare with [[crystal-ball-of-true-seeing-xdmg (items)]]
 - Compare with [[step_014 (phase_033)]]
-- Affected by [[step_019]]
+- Affected by
 - Related: [[Portrait NPC Aria [[Lumengarde]] V1 Aria Lumengarde.svg]]
 - Originates from [[SPELL0038_Infernal_Storm]]
 - Connects to [[Location City Harbor Master S License Harbor Master S License.svg]]
@@ -301,7 +293,7 @@ Modifications:
 - Parallels [[Assets Locations Location City [[The Observatory]] the Observatory.svg]]
 - Parallels [[step_074 (phase_055)]]
 - Parallels [[DUN00007_Dungeon_8]]
-- Parallels [[step_086]]
+- Parallels
 - Requires [[Dimensional Researchers (D&D_References)]]
 - Affected by [[LOC00017_Towns_Location_18]]
 - Compare with [[Portrait NPC Master Smith Priest Vulcan Depthforge V1 Master Smith Priest Vulcan Depthforge.svg]]
@@ -321,14 +313,14 @@ Modifications:
 - Originates from [[Velociraptor Mpmm]]
 - See also: [[MON00061_Aberrations_Creature_62]]
 - Affected by [[Lyra Voidweaver 2]]
-- See also: [[step_016]]
+- See also:
 - See also: [[Community Health Centers]]
 - Leads to [[saint-markovias-thighbone-cos (items)]]
 - Related: [[LOC00226_Towns_Location_227]]
 - Requires [[Horn of Valhalla Bronze Xdmg]]
 - Connects to [[step_041 (phase_062)]]
 - Affected by [[04_Resources_Assets_Portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg_Quick_Ref]]
-- Connects to [[step_037]]
+- Connects to
 - Related: [[step_088 (phase_008)]]
 - Affected by [[Portrait NPC Ice Kingdom Magic Ice Kingdom Magic.svg]]
 - Parallels [[Abandoned Lighthouse of Convergence]]

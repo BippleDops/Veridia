@@ -18,7 +18,6 @@ aliases: [NPC00594 Gareth Lightbringer the Fallen]
 - [[#Lyanna Nightfall the Lost (Family - Parent)|Lyanna Nightfall the Lost (Family - Parent)]]
 - [[#Urien Grimholt the Swift (Political - Puppet)|Urien Grimholt the Swift (Political - Puppet)]]
 
-
 ---
 aliases: ["Gareth Lightbringer the Fallen", "gareth lightbringer the fallen", "Gareth Lightbringer Fallen", "Fallen the Lightbringer Gareth"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.180Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -171,7 +166,7 @@ Discovered something valuable
 - Affected by [[Assets Locations Location City Ghost of Dr Thaddeus Brightwater V1 Ghost of Dr Thaddeus Brightwater.svg]]
 - Originates from [[EVENT00017_Natural_Event_18]]
 - See also: [[Mummy Xmm]]
-- Related: [[step_047]]
+- Related:
 - Compare with [[NPC01578_Faelyn_Brightblade_the_Lost]]
 - Connects to [[Scroll of Protection Aberrations Xdmg]]
 - See also: [[Librarian Sage Documented]]
@@ -199,7 +194,7 @@ Discovered something valuable
 - Connects to [[ITEM00353_Frost_Sword_of_Speed]]
 - Affected by [[ITEM00031_Venomous_Staff_of_Slaying]]
 - See also: [[Portrait NPC the Crystal Queen Mother the Crystal Queen Mother.svg_1 (Portraits)]]
-- Leads to [[step_088]]
+- Leads to
 - Influences [[LORE00018_Prophecies_Entry_19]]
 - Connects to [[step_084 (phase_065)]]
 - Originates from [[ITEM00517_Warded_Plate_of_Fortitude]]
@@ -230,12 +225,12 @@ Discovered something valuable
 - See also: [[Crystal Master Chorus Gemgrow]]
 - Influences [[Underwater Breathing]]
 - Leads to [[step_093 (phase_007)]]
-- Influences [[step_003]]
+- Influences
 - Influences [[QUEST00350_Side_Quest_351]]
 - Originates from [[step_071 (phase_082)]]
 - Originates from [[Interfaith Relations in Aquabyssos]]
-- Compare with [[step_073]]
-- Influences [[step_057]]
+- Compare with
+- Influences
 - Originates from [[Tactical Combat Options (D&D_References)]]
 - Parallels [[step_077 (phase_052)]]
 - Related: [[elder-oblex-mpmm (ooze)]]
@@ -246,11 +241,11 @@ Discovered something valuable
 - Compare with [[Teleportation Circle]]
 - Related: [[ENC00044_Social_Encounter_45]]
 - Influences [[step_086 (phase_034)]]
-- Requires [[step_009]]
+- Requires
 - Parallels [[fey-spirit-mirthful-xphb (fey)]]
 - See also: [[LORE00269_Prophecies_Entry_270]]
 - Compare with [[dwarven-muamman-duathal-mtf (deities)]]
-- Leads to [[step_012]]
+- Leads to
 - Originates from [[Queen Seraphina (Lore)]]
 - Parallels [[step_039 (phase_063)]]
 - Related: [[step_097 (phase_071)]]
@@ -271,7 +266,6 @@ Discovered something valuable
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

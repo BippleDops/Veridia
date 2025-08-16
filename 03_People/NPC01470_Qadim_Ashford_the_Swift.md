@@ -18,7 +18,6 @@ aliases: [NPC01470 Qadim Ashford the Swift]
 - [[#Vesper Underhill the Fallen (Professional - Partner)|Vesper Underhill the Fallen (Professional - Partner)]]
 - [[#Aldric Thornweave the Lost (Criminal - Accomplice)|Aldric Thornweave the Lost (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Qadim Ashford the Swift", "qadim ashford the swift", "Qadim Ashford Swift", "Swift the Ashford Qadim"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.276Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -184,7 +179,7 @@ Forming expedition to dangerous location
 - See also: [[LOC0102_Watchton]]
 - Requires [[Kobold Warrior Xmm]]
 - Influences [[Portrait NPC Envoy Blackwater Jr V2 Envoy Blackwater Jr.svg]]
-- Requires [[step_011]]
+- Requires
 - Related: [[Infinite Dungeon Generator]]
 - Affected by [[conditions#Unconscious]]
 - Requires [[Portrait NPC Abyssal Cathedral Abyssal Cathedral.svg_1 (Portraits)]]
@@ -201,8 +196,8 @@ Forming expedition to dangerous location
 - Influences [[step_074 (phase_015)]]
 - Influences [[ITEM00119_Blazing_Spear_of_Slaying]]
 - Influences [[LOC00042_Dungeons_Location_43]]
-- Originates from [[step_088]]
-- Affected by [[step_032]]
+- Originates from
+- Affected by
 - Influences [[Symbol Heraldry the Artisans Collective of Master Crafters the Artisans Collective of Master Crafters.svg]]
 - Parallels [[western-flanaess-locations-xdmg (tables)]]
 - Originates from [[step_056 (phase_067)]]
@@ -233,10 +228,10 @@ Forming expedition to dangerous location
 - Compare with [[Truth Serums]]
 - Compare with [[blue-abishai-mpmm (fiend)]]
 - Requires [[ITEM00659_Dragon_Scale_Boots_of_Fortitude]]
-- Connects to [[step_028]]
+- Connects to
 - See also: [[Hag Names Vgm]]
 - Originates from [[Assets Locations Location City the Memory Thief V1 the Memory Thief.svg]]
-- Leads to [[step_033]]
+- Leads to
 - Affected by [[LOC0118_FortBridge]]
 - Related: [[Symbol Heraldry Stellar Commander Nereus Voidcaller Stellar Commander Nereus Voidcaller.svg]]
 - Affected by [[ale-mug-xphb (items)]]
@@ -248,7 +243,7 @@ Forming expedition to dangerous location
 - Parallels [[Builder Coral Architect]]
 - Affected by [[Assets Portraits Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg]]
 - Originates from [[Symbol Heraldry Sup... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Originates from [[step_048]]
+- Originates from
 - Influences [[MON00099_Undead_Creature_100]]
 - Originates from [[Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.png]]
 - Influences [[step_042 (phase_100)]]
@@ -257,7 +252,7 @@ Forming expedition to dangerous location
 - Related: [[Trade Regulations]]
 - Connects to [[tome-of-leadership-and-influence-xdmg (items)]]
 - Influences [[Item Artifact Weird Tank Pota V6 Weird Tank Pota.png]]
-- Compare with [[step_012]]
+- Compare with
 - Parallels [[Community Resource Sharing (D&D_References)]]
 - Connects to [[step_032 (phase_027)]]
 - Related: [[Location City University System V1 University System.svg]]
@@ -276,7 +271,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

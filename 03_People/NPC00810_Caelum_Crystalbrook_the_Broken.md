@@ -18,7 +18,6 @@ aliases: [NPC00810 Caelum Crystalbrook the Broken]
 - [[#Qadim Crystalbrook the Mystic (Criminal - Informant)|Qadim Crystalbrook the Mystic (Criminal - Informant)]]
 - [[#Vesper Ravenheart the Wanderer (Professional - Partner)|Vesper Ravenheart the Wanderer (Professional - Partner)]]
 
-
 ---
 aliases: ["Caelum Crystalbrook the Broken", "caelum crystalbrook the broken", "Caelum Crystalbrook Broken", "Broken the Crystalbrook Caelum"]
 tags: [npc, character]
@@ -143,21 +142,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.205Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -172,7 +167,7 @@ Caravan needs guards
 - Related: [[Blood Coral]]
 - Influences [[step_035 (phase_094)]]
 - Parallels [[LOC0122_Watchford]]
-- Affected by [[step_069]]
+- Affected by
 - See also: [[supplemental-tables-status-xge (tables)]]
 - Connects to [[NPC00044_Hestara_Thornweave_the_Broken]]
 - Influences [[Location City Keeper Brinescale V1 Keeper Brinescale.svg]]
@@ -183,10 +178,10 @@ Caravan needs guards
 - Affected by [[step_030 (phase_021)]]
 - Connects to [[LORE00316_Prophecies_Entry_317]]
 - Affected by [[step_018 (phase_036)]]
-- Leads to [[step_068]]
-- Related: [[step_003]]
+- Leads to
+- Related:
 - Originates from [[step_003 (phase_080)]]
-- Related: [[step_046]]
+- Related:
 - Related: [[Dimensional Specialists 2]]
 - Connects to [[Assets Locations Location City the Hopekeeper Academy the Hopekeeper Academy.svg]]
 - Connects to [[Community Health Clinic]]
@@ -198,17 +193,17 @@ Caravan needs guards
 - Requires [[Master Banker Cornelius Coinwright 2]]
 - Related: [[Complete Reality Merger System#Merger Zone Classifications]]
 - Leads to [[horn-of-valhalla-iron-xdmg (items)]]
-- Compare with [[step_035]]
+- Compare with
 - Affected by [[Portrait NPC Lady Cordelia Windham V1 Lady Cordelia Windham.svg]]
 - Related: [[Military Training Academies]]
-- Originates from [[step_017]]
+- Originates from
 - See also: [[Symbol Heraldry the Architects of Depths the Architects of Depths.svg]]
 - Compare with [[Lord_Flux.png]]
 - See also: [[step_038 (phase_075)]]
 - Parallels [[Technology Time Stream Analyzers]]
 - Affected by [[Factions Abyssal Courts]]
 - Parallels [[Chronos Tidekeep]]
-- Compare with [[step_049]]
+- Compare with
 - Parallels [[Shadow Duchess Nyx_1]]
 - Originates from [[step_015 (phase_084)]]
 - Parallels [[The Shadow Surgeons (D&D_References)]]
@@ -217,14 +212,14 @@ Caravan needs guards
 - Affected by [[step_006 (phase_082)]]
 - See also: [[QUEST0056_Investigate_the_Demons]]
 - Affected by [[LORE0079_Secret_of_the_Ancient_Pact]]
-- Affected by [[step_025]]
+- Affected by
 - Related: [[LOC00287_Wilderness_Location_288]]
 - Influences [[Pearl Divers]]
 - Leads to [[Assets Locations Location City Legal Profession Legal Profession.svg]]
 - Affected by [[item-artifact-mess-kit-v4-mess-kit.png]]
 - Requires [[LORE00294_History_Entry_295]]
 - Compare with [[minotaur-skeleton-xmm (undead)]]
-- Related: [[step_079]]
+- Related:
 - Requires [[LORE00221_History_Entry_222]]
 - Originates from [[NPC00549_Orion_Darkwater_the_Guardian]]
 - Leads to [[step_059 (phase_057)]]
@@ -256,7 +251,7 @@ Caravan needs guards
 - Affected by [[Resonant_Crystals (Items)]]
 - Parallels [[Shadow Crystals 2]]
 - Parallels [[SHOP00005_Specialty_Shop_6]]
-- Related: [[step_085]]
+- Related:
 - Affected by [[step_020 (phase_072)]]
 - Influences [[Portrait NPC Sir Theron Crystalward V2 Sir Theron Crystalward.svg_1 (Portraits)]]
 - Requires [[LOC00223_Dungeons_Location_224]]
@@ -266,7 +261,6 @@ Caravan needs guards
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

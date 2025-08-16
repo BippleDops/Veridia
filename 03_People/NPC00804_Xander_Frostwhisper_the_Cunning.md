@@ -18,7 +18,6 @@ aliases: [NPC00804 Xander Frostwhisper the Cunning]
 - [[#Malakai Xendar the Strong (Criminal - Target)|Malakai Xendar the Strong (Criminal - Target)]]
 - [[#Fiora Ironforge the Wanderer (Personal - Childhood friend)|Fiora Ironforge the Wanderer (Personal - Childhood friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Frostwhisper the Cunning", "xander frostwhisper the cunning", "Xander Frostwhisper Cunning", "Cunning the Frostwhisper Xander"]
@@ -151,16 +150,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.204Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -203,11 +199,10 @@ Seeks rare merchandise
 - [[Concept_Map]]
 - [[NPC01599_Gavril_Keenblade_the_Strong]]
 - [[07 Customization Options]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -218,18 +213,17 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Leads to [[sea-hag-xmm]]
 - Leads to [[QUEST00051_Side_Quest_52]]
 - See also: [[step_001 (phase_022)]]
-- Influences [[step_011]]
+- Influences
 - Related: [[step_038 (phase_013)]]
 - Parallels [[ITEM00211_Venomous_Hammer_of_Slaying]]
 - Related: [[step_055 (phase_035)]]
@@ -253,11 +247,11 @@ Seeks rare merchandise
 - Compare with [[step_096 (phase_074)]]
 - See also: [[ITEM00479_Mithril_Plate_of_Resistance]]
 - Influences [[ITEM01060_Greater_Powder_of_Clarity]]
-- Originates from [[step_020]]
+- Originates from
 - Compare with [[LOC00080_Towns_Location_81]]
 - Originates from [[Border Territories 2]]
 - Affected by [[ENC00482_Combat_Encounter_483]]
-- See also: [[step_027]]
+- See also:
 - See also: [[step_051 (phase_034)]]
 - Affected by [[eberron-the-mockery (deities)]]
 - Influences [[Temporal Viewing Chambers]]
@@ -267,7 +261,7 @@ Seeks rare merchandise
 - See also: [[Ritual Xphb]]
 - Connects to [[step_097 (phase_089)]]
 - Connects to [[Portal Chambers (D&D_References)]]
-- Compare with [[spells]]
+- Compare with [[05_Rules/Spells]]
 - See also: [[Quest - The Democratic Crisis_1 (01_Adventures)]]
 - See also: [[SPELL00104_Arcane_Spell_105]]
 - Compare with [[QUEST00260_Personal_Quest_261]]
@@ -285,7 +279,7 @@ Seeks rare merchandise
 - See also: [[Map Map Aethermoor Harbor Skirmish V2 Aethermoor Harbor Skirmish.png]]
 - Originates from [[step_096 (phase_085)]]
 - Leads to [[ITEM00418_Mithril_Chain_Mail_of_Protection]]
-- Influences [[step_003]]
+- Influences
 - Related: [[NPC01739_Hilda_Xendar_the_Cunning]]
 - Leads to [[LOC00013_Wilderness_Location_14]]
 - Influences [[Archive_Optimizers]]
@@ -305,7 +299,7 @@ Seeks rare merchandise
 - Originates from [[step_013 (phase_031)]]
 - Influences [[step_037 (phase_047)]]
 - See also: [[Assets Locations Location City Community Support Networks V1 Community Support Networks.svg]]
-- Affected by [[step_014]]
+- Affected by
 - Related: [[step_084 (phase_026)]]
 - Affected by [[13 Conditions]]
 - Affected by [[Impossibility Crystals 2]]
@@ -324,14 +318,13 @@ Seeks rare merchandise
 - Leads to [[step_059 (phase_098)]]
 - Leads to [[step_079 (phase_058)]]
 - Compare with [[QUEST00032_Side_Quest_33]]
-- Related: [[step_060]]
+- Related:
 - Compare with [[LORE00263_History_Entry_264]]
 
 ## Visual References
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

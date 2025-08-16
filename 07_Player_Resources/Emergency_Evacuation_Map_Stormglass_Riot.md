@@ -18,7 +18,6 @@ aliases: [Emergency Evacuation Map Stormglass Riot]
 - [[#Contradictions Improvements|Contradictions Improvements]]
 - [[#Material_Culture Improvements|Material_Culture Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Emergency_Evacuation_Map_Stormglass_Riot
@@ -122,15 +121,13 @@ tags: [combat, exploration, lore]
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 > [!quote] 💬 Quote
 > Notable saying or prophecy
 
 ## See Also
 - [[Parliamentary_Voting_Guide]]
 - [[Combat_Encounter_Analysis]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -140,7 +137,6 @@ tags: [combat, exploration, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -165,7 +161,7 @@ tags: [combat, exploration, lore]
 - Affected by [[step_071 (phase_004)]]
 - Requires [[neogi-hatchling-mpmm (aberration)]]
 - Affected by [[NPC00606_Dara_Lightbringer_the_Strong]]
-- Originates from [[step_018]]
+- Originates from
 - Parallels [[Assets Locations Location City Transformation Specialist Anemone Flowshift Transformation Specialist Anemone Flowshift.svg]]
 - Requires [[step_045 (phase_081)]]
 - Affected by [[Portrait NPC the Current Merchants V1 the Current Merchants.svg_1 (Portraits)]]
@@ -199,7 +195,7 @@ tags: [combat, exploration, lore]
 - Affected by [[LOC00035_Wilderness_Location_36]]
 - Leads to [[step_071 (phase_014)]]
 - Related: [[step_077 (phase_063)]]
-- Leads to [[step_032]]
+- Leads to
 - Influences [[QUEST00165_Side_Quest_166]]
 - See also: [[step_056 (phase_061)]]
 - Connects to [[step_020 (phase_086)]]
@@ -226,7 +222,7 @@ tags: [combat, exploration, lore]
 - Originates from [[02_Worldbuilding_Places_The_Twilight_Depths]]
 - Influences [[step_045 (phase_047)]]
 - Affected by [[human-names-polynesian-male-xge (tables)]]
-- Influences [[step_021]]
+- Influences
 - Compare with [[LORE00317_Prophecies_Entry_318]]
 - Affected by [[step_032 (phase_084)]]
 - Compare with [[step_087 (phase_059)]]

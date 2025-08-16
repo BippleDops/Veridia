@@ -18,7 +18,6 @@ aliases: [NPC01186 Urien Oakenshield the Wise]
 - [[#Thalia Voidwalker the Seeker (Political - Spy)|Thalia Voidwalker the Seeker (Political - Spy)]]
 - [[#Pyria Lightbringer the Mystic (Personal - Love interest)|Pyria Lightbringer the Mystic (Personal - Love interest)]]
 
-
 ---
 aliases: ["Urien Oakenshield the Wise", "urien oakenshield the wise", "Urien Oakenshield Wise", "Wise the Oakenshield Urien"]
 tags: [npc, character]
@@ -146,28 +145,24 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.246Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Requires [[step_021]]
+- Requires
 - Requires [[The Forgotten Mourner (D&D_References)]]
 - Originates from [[The Consciousness Vault]]
-- Requires [[step_024]]
+- Requires
 - Connects to [[Portrait NPC Surface Supremacists V1 Surface Supremacists.svg_1 (Portraits)]]
 - Compare with [[Commander Transparent]]
 - Related: [[step_093 (phase_084)]]
@@ -176,12 +171,12 @@ Seeks rare merchandise
 - Parallels [[step_063 (phase_085)]]
 - Originates from [[location-city-sea-horse-v1-sea-horse.svg]]
 - Compare with [[location-city-deepstone-v1-deepstone.svg]]
-- Leads to [[step_076]]
+- Leads to
 - Leads to [[Quest - The Deep Mother Awakens_1 (01_Adventures)]]
 - Related: [[Synaptic Static Xphb]]
 - Leads to [[Barkeep Mira Algaebrew]]
 - Related: [[Portrait NPC the Depth Wardens V2 the Depth Wardens.svg]]
-- Leads to [[step_082]]
+- Leads to
 - Compare with [[The Void Conspiracy]]
 - Related: [[step_075 (phase_070)]]
 - Compare with [[Reality Distortion Effects (D&D_References)]]
@@ -207,11 +202,11 @@ Seeks rare merchandise
 - Influences [[List Spells Classes Grave Domain Xge]]
 - See also: [[step_046 (phase_081)]]
 - Requires [[ranger-xphb (classes)]]
-- See also: [[step_087]]
+- See also:
 - Compare with [[04_Resources_Assets_Locations_location-city-master-smith-vulcan-deepforge-v1-master-smith-vulcan-deepforge.svg]]
 - Originates from [[step_007 (phase_086)]]
 - See also: [[step_031 (phase_005)]]
-- Compare with [[step_073]]
+- Compare with
 - Influences [[step_038 (phase_018)]]
 - Parallels [[step_084 (phase_064)]]
 - Influences [[human-names-norse-female-xge 2 (tables)]]
@@ -234,11 +229,11 @@ Seeks rare merchandise
 - Parallels [[Location_Prompts]]
 - Leads to [[Deep Water Rescue Service]]
 - See also: [[Emerald Xdmg]]
-- Connects to [[step_065]]
+- Connects to
 - Related: [[Dream Enhancement Techniques]]
 - Affected by [[Bio-Magical Integration Laboratory]]
 - Compare with [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg]]
-- Leads to [[step_022]]
+- Leads to
 - Connects to [[step_017 (phase_042)]]
 - Originates from [[ITEM0021_Forgotten_Crown_of_Power]]
 - Influences [[QUEST00116_Main_Quest_117]]
@@ -256,7 +251,7 @@ Seeks rare merchandise
 - Compare with [[warlock-xphb-the-hexblade-xge (classes)]]
 - Affected by [[Map Map Sunken Library Stacks V2 Sunken Library Stacks.svg]]
 - Related: [[Location_Template_1]]
-- Originates from [[step_100]]
+- Originates from
 - See also: [[MON00016_Constructs_Creature_17]]
 - Related: [[The Deserter (D&D_References)]]
 - Connects to [[Crystal Garden]]
@@ -269,7 +264,6 @@ Seeks rare merchandise
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

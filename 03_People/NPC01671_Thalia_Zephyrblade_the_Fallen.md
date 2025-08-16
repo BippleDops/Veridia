@@ -18,7 +18,6 @@ aliases: [NPC01671 Thalia Zephyrblade the Fallen]
 - [[#Ysara Ironforge the Lost (Criminal - Handler)|Ysara Ironforge the Lost (Criminal - Handler)]]
 - [[#Baelor Ironwood the Swift (Criminal - Accomplice)|Baelor Ironwood the Swift (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Thalia Zephyrblade the Fallen", "thalia zephyrblade the fallen", "Thalia Zephyrblade Fallen", "Fallen the Zephyrblade Thalia"]
 tags: [npc, character]
@@ -152,36 +151,32 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.298Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - See also: [[Assets Locations Location City Crystal Engineer Spark Gemwright V1 Crystal Engineer Spark Gemwright.svg]]
 - Leads to [[LOC00068_Wilderness_Location_69]]
-- Compare with [[step_073]]
+- Compare with
 - Influences [[step_098 (phase_028)]]
 - Originates from [[step_064 (phase_023)]]
 - Parallels [[Madame Nightwhisper (D&D_References)]]
 - Leads to [[ENC00072_Environmental_Encounter_73]]
 - Influences [[QUEST00072_Side_Quest_73]]
-- Related: [[step_092]]
+- Related:
 - Parallels [[javelin-xphb (items)]]
 - Affected by [[04_Resources_Assets_Locations_location-city-marine-druids-v1-marine-druids.svg]]
-- Related: [[step_052]]
+- Related:
 - Leads to [[Race Against the Festival 2]]
 - Leads to [[Assets Locations Location City the Hybrid Harbor the Hybrid Harbor.svg]]
 - Related: [[construct]]
@@ -193,7 +188,7 @@ Offers deal too good to refuse
 - Influences [[Mage Hunter Scc]]
 - Originates from [[underwater-encounters-levels-14-xge (tables)]]
 - Influences [[Umbral Crystal Miners (D&D_References)]]
-- Related: [[step_076]]
+- Related:
 - Affected by [[MON00127_Constructs_Creature_128]]
 - See also: [[Maelstrom Palace (D&D_References)]]
 - Connects to [[Handout Handout Guild License Certificate V2 Guild License Certificate.png]]
@@ -231,7 +226,7 @@ Offers deal too good to refuse
 - Requires [[Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg_1 (Portraits)]]
 - Leads to [[Assets Locations Location City Gatekeeper Iron Lung Boris Gatekeeper Iron Lung Boris.svg]]
 - Compare with [[step_062 (phase_006)]]
-- Influences [[step_095]]
+- Influences
 - See also: [[Assets Locations Location City the Constellation Mystery V1 the Constellation Mystery.png]]
 - Parallels [[step_082 (phase_007)]]
 - Related: [[Equipment_Inventory]]
@@ -242,17 +237,17 @@ Offers deal too good to refuse
 - Requires [[Crystal Dampening Stones (D&D_References)]]
 - Affected by [[snare-xge (spells)]]
 - Originates from [[The Forgotten One 2]]
-- Leads to [[step_096]]
+- Leads to
 - Leads to [[NPC0033_Helena_Stormwind_the_Strong]]
 - Related: [[LOC00095_Wilderness_Location_96]]
 - Related: [[Portal Engineer Shade Linkwright]]
 - See also: [[Portal Terminals]]
-- Connects to [[step_015]]
+- Connects to
 - Affected by [[step_095 (phase_079)]]
 - Parallels [[secondary-tables-adventures-xge (tables)]]
 - Affected by [[Location City Forge Master Petra Hammerdeep V1 Forge Master Petra Hammerdeep.svg]]
 - Requires [[Experimental Medical Ethics (D&D_References)]]
-- See also: [[step_011]]
+- See also:
 - Requires [[The Bathyal Succession 2]]
 - See also: [[Whisper-Witch_Naia_Softcurrent.png]]
 - See also: [[ITEM01300_Sturdy_Lantern_of_Reliability]]
@@ -275,7 +270,6 @@ Offers deal too good to refuse
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

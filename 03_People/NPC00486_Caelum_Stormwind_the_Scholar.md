@@ -18,7 +18,6 @@ aliases: [NPC00486 Caelum Stormwind the Scholar]
 - [[#Caelum Nightfall the Wise (Professional - Employer)|Caelum Nightfall the Wise (Professional - Employer)]]
 - [[#Gavril Hawthorne the Redeemed (Criminal - Informant)|Gavril Hawthorne the Redeemed (Criminal - Informant)]]
 
-
 ---
 aliases: ["Caelum Stormwind the Scholar", "caelum stormwind the scholar", "Caelum Stormwind Scholar", "Scholar the Stormwind Caelum"]
 tags: [npc, character]
@@ -143,21 +142,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.168Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -168,7 +163,7 @@ Discovered something valuable
 - Originates from [[LORE00074_Legends_Entry_75]]
 - Compare with [[04_Resources_Assets_Art_Places_Master_Smith_Coral Hammer.png]]
 - Related: [[step_089 (phase_010)]]
-- Requires [[step_067]]
+- Requires
 - Leads to [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-v1-merchant-prince-aldric-goldcurrent.svg]]
 - Requires [[The Tide Pools 2]]
 - Influences [[cloak-of-protection-xdmg (items)]]
@@ -183,13 +178,13 @@ Discovered something valuable
 - Affected by [[Dr Torres Investigation]]
 - Compare with [[step_055 (phase_081)]]
 - Related: [[step_063 (phase_057)]]
-- See also: [[step_070]]
+- See also:
 - Influences [[step_074 (phase_099)]]
 - Related: [[step_091 (phase_050)]]
 - Originates from [[Portrait NPC Lady Cordelia Windham V1 Lady Cordelia Windham.svg]]
 - Connects to [[one-of-a-kind-objects-hag-objects-vgm (tables)]]
 - Originates from [[Foreign Merchant]]
-- Parallels [[step_013]]
+- Parallels
 - Affected by [[Boon of Combat Prowess Xphb]]
 - Compare with [[NPC01687_Aldric_Youngblood_the_Cunning]]
 - Parallels [[control-winds-xge (spells)]]
@@ -198,7 +193,7 @@ Discovered something valuable
 - Parallels [[Assets Locations Location City Reef Shark Reef Shark.svg]]
 - Related: [[Quest - Economic Development_1 (01_Adventures)]]
 - Influences [[Gnome Gods Gnome Deities Mtf]]
-- Related: [[step_055]]
+- Related:
 - Originates from [[Possessed Noble Coterie 3 (D&D_References)]]
 - Requires [[LORE00053_Legends_Entry_54]]
 - Leads to [[MON00001_Undead_Creature_2]]
@@ -211,7 +206,7 @@ Discovered something valuable
 - Originates from [[NPC01435_Xander_Hawthorne_the_Broken]]
 - Related: [[Hold Monster Xphb]]
 - Compare with [[Artisan Glow-Finger Nerida]]
-- Affected by [[step_076]]
+- Affected by
 - Connects to [[Average Results Mob Results Xdmg]]
 - Influences [[Portrait NPC Captain Navigator V1 Captain Navigator.svg]]
 - Originates from [[stone-cursed-mpmm (construct)]]
@@ -224,8 +219,8 @@ Discovered something valuable
 - Requires [[ITEM00476_Dragon_Scale_Leather_of_Protection]]
 - Originates from [[ENC00212_Social_Encounter_213]]
 - Originates from [[Comparative Mythology 2]]
-- Leads to [[step_013]]
-- Affected by [[step_087]]
+- Leads to
+- Affected by
 - Leads to [[relic-sloth-scc]]
 - Influences [[Necklace String of Small Pink Pearls Xdmg]]
 - Influences [[Assets Locations Location City Treasury Department Treasury Department.svg]]
@@ -233,11 +228,11 @@ Discovered something valuable
 - Originates from [[ITEM01424_Sturdy_Map_Case_of_Reliability]]
 - Originates from [[QUEST00216_Side_Quest_217]]
 - Affected by [[step_054 (phase_035)]]
-- Affected by [[step_043]]
+- Affected by
 - Influences [[step_013 (phase_068)]]
 - Influences [[NPC Development Timeline]]
 - Requires [[Assets Portraits Portrait NPC the Royal Treasury Depths the Royal Treasury Depths.svg]]
-- Compare with [[step_064]]
+- Compare with
 - Parallels [[The Deep Intelligence Agency Director]]
 - Connects to [[Bio-Magical Integration Laboratory (D&D_References)]]
 - See also: [[Human Names Norse Male Xge]]
@@ -251,7 +246,7 @@ Discovered something valuable
 - Originates from [[step_029 (phase_025)]]
 - Affected by [[step_015 (phase_048)]]
 - See also: [[Bottle Stopper Cork Embossed With Gold Leaf]]
-- Affected by [[step_022]]
+- Affected by
 - Affected by [[NPC00146_Xander_Ashford]]
 - Related: [[LOC00191_Dungeons_Location_192]]
 - Originates from [[Roleplaying a Beholder Beholder Ideals Vgm]]
@@ -267,7 +262,6 @@ Discovered something valuable
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
 
-
 ## Realm Connections
 
 ### Connection to Aethermoor
@@ -279,9 +273,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

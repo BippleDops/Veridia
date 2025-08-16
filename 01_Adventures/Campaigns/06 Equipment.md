@@ -18,7 +18,6 @@ aliases: [06 Equipment]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 06 Equipment
@@ -91,11 +90,9 @@ world: Both
 - A stranger needs help finding before dawn
 - Someone is protecting information for power ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This NPC knows more than they let on
@@ -126,9 +123,7 @@ world: Both
 Holds a clue about the ancient prophecy
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -148,7 +143,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.75
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 
 ## Game Mechanics
@@ -157,7 +152,6 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -182,16 +176,16 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[LORE0022_Prophecy_of_the_Fallen_Star]]
 - Originates from [[ITEM00572_Ethereal_Leather_of_Grace]]
 - Related: [[LOC00155_Wilderness_Location_156]]
-- Connects to [[step_075]]
+- Connects to
 - Related: [[item properties#Loading]]
-- Related: [[step_087]]
+- Related:
 - Parallels [[LOC00087_Dungeons_Location_88]]
 - Originates from [[location-city-shadow-current-shadow-current.svg]]
 - Related: [[lessons-of-the-first-ones-xphb (optional-features)]]
 - Leads to [[Location City Abyssos Prime Upper Districts V1 Abyssos Prime Upper Districts.png]]
 - Affected by [[Prophecy Translation Center]]
 - Connects to [[step_058 (phase_068)]]
-- Leads to [[step_097]]
+- Leads to
 - Influences [[QUEST00282_Personal_Quest_283]]
 - Originates from [[LOC0082_Watchwick]]
 - Requires [[Marquis Benedict Riversen (D&D_References)]]
@@ -224,12 +218,12 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[FAC00063_Cults_64]]
 - Connects to [[FAC00085_Guilds_86]]
 - Parallels [[Assets Handouts Handout Handout Aged Treasure Map Aged Treasure Map.png]]
-- Connects to [[step_089]]
+- Connects to
 - Connects to [[step_064 (phase_096)]]
 - Originates from [[QUEST0005_The_Lost_Artifact]]
 - Requires [[step_083 (phase_051)]]
 - See also: [[step_088 (phase_060)]]
-- Requires [[step_067]]
+- Requires
 - Leads to [[Assets Locations Location City Sea Sprite V1 Sea Sprite.svg]]
 - Compare with [[3d6]]
 - Parallels [[DUN00161_Dungeon_162]]
@@ -242,7 +236,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[hide-armor-xphb (items)]]
 - Influences [[gnome-sheyanna-flaxenstrand-mtf (deities)]]
 - Parallels [[Portrait NPC Captain Finn Crosscurrent V1 Captain Finn Crosscurrent.svg]]
-- Related: [[step_029]]
+- Related:
 - Leads to [[Quest - The Deep Mother Awakens]]
 - Connects to [[Supernatural Mysterie (D&D_References)]]
 - Influences [[downtime-revisited-xge (variant-rules)]]
@@ -260,7 +254,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Potion of Storm Giant Strength Xdmg]]
 - Parallels [[The Forbidden Section]]
 - Affected by [[Assets Portraits Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg]]
-- Requires [[step_032]]
+- Requires
 - Originates from [[SPELL00052_Arcane_Spell_53]]
 - See also: [[Quest - Medical Breakthrough]]
 - Originates from [[Location City the Spectral Gallery V1 the Spectral Gallery.svg]]

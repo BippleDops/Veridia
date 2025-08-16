@@ -18,7 +18,6 @@ aliases: [NPC00784 Urien Frostwhisper the Mystic]
 - [[#Ewan Grimholt the Guardian (Professional - Employer)|Ewan Grimholt the Guardian (Professional - Employer)]]
 - [[#Delara Ironwood the Fallen (Political - Ally)|Delara Ironwood the Fallen (Political - Ally)]]
 
-
 ---
 aliases: ["Urien Frostwhisper the Mystic", "urien frostwhisper the mystic", "Urien Frostwhisper Mystic", "Mystic the Frostwhisper Urien"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.201Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,7 +170,7 @@ Being extorted by criminals
 - Influences [[Depth Moss 2]]
 - Requires [[step_065 (phase_065)]]
 - Leads to [[antimatter-rifle-xdmg (items)]]
-- Requires [[step_073]]
+- Requires
 - Parallels [[Crown of Endless Moments]]
 - Requires [[NPC00968_Elric_Youngblood_the_Wanderer]]
 - Influences [[S-201_Eclipse_Raid_Window_Player]]
@@ -191,13 +186,13 @@ Being extorted by criminals
 - Originates from [[step_094 (phase_038)]]
 - Parallels [[step_009 (phase_087)]]
 - Leads to [[Location City Restorative Justice V1 Restorative Justice.svg]]
-- Connects to [[step_058]]
+- Connects to
 - Originates from [[Handout Handout Ship Manifests with Stamps V2 Ship Manifests with Stamps.png]]
 - See also: [[04_Resources_Assets_Locations_location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png]]
 - Requires [[halfling-sheela-peryroyl-mtf (deities)]]
 - Connects to [[High Crystallographer Magnus]]
 - Compare with [[Organizations the Void Seals]]
-- Affected by [[step_034]]
+- Affected by
 - Requires [[NPC00143_Fiora_Youngblood_the_Broken]]
 - Influences [[ENC00086_Social_Encounter_87]]
 - Requires [[step_100 (phase_090)]]
@@ -210,13 +205,13 @@ Being extorted by criminals
 - Related: [[EVENT00012_Magical_Event_13]]
 - Affected by [[NPC01016_Malakai_Ravenheart_the_Redeemed]]
 - Leads to [[Portrait NPC Lord Chancellor Prism V2 Lord Chancellor Prism.svg]]
-- Requires [[step_008]]
+- Requires
 - Connects to [[House Deepforge (D&D_References)]]
 - Influences [[QUEST00295_Side_Quest_296]]
 - Influences [[Quest - The Drowned Prophecy_1 (01_Adventures)]]
 - Originates from [[Jug Xphb]]
 - Leads to [[ITEM01111_Lesser_Salve_of_Vigor]]
-- Affected by [[step_046]]
+- Affected by
 - Compare with [[Future Aquabyssos]]
 - See also: [[Lady Pelagic (D&D_References)]]
 - Compare with [[Quest - The Shadow Fleet]]
@@ -225,7 +220,7 @@ Being extorted by criminals
 - Influences [[SHOP00026_General_Shop_27]]
 - Originates from [[LORE00128_Prophecies_Entry_129]]
 - Originates from [[Assets Locations Location City Wave Healingbringer V1 Wave Healingbringer.svg]]
-- Connects to [[step_094]]
+- Connects to
 - Leads to [[Assets Locations Location City the Kraken S Harbor V1 the Kraken S Harbor.svg]]
 - See also: [[LOC00230_Wilderness_Location_231]]
 - Compare with [[Dock Master Voidpilings]]
@@ -235,7 +230,7 @@ Being extorted by criminals
 - Originates from [[step_006 (phase_005)]]
 - Requires [[Greyhawk Trithereon Xdmg]]
 - Affected by [[step_028 (phase_092)]]
-- Related: [[step_030]]
+- Related:
 - Related: [[System Operator Tide Watchwright (D&D_References)]]
 - Influences [[Alpha-Prime]]
 - Affected by [[ITEM01201_Concentrated_Salve_of_Swiftness]]
@@ -253,7 +248,7 @@ Being extorted by criminals
 - Affected by [[skills#Animal Handling]]
 - Requires [[ENC00260_Social_Encounter_261]]
 - Leads to [[purify-food-and-drink-xphb (spells)]]
-- Influences [[step_017]]
+- Influences
 - Leads to [[Assets Locations Location City Smuggler S Cove Smuggler S Cove.svg]]
 - Compare with [[ENC0086_Random_Encounter_87]]
 - Compare with [[Repelling Blast Xphb]]
@@ -269,7 +264,6 @@ Being extorted by criminals
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

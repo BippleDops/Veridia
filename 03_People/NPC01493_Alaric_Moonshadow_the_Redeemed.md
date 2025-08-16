@@ -18,7 +18,6 @@ aliases: [NPC01493 Alaric Moonshadow the Redeemed]
 - [[#Aeliana Silverleaf the Wise (Criminal - Fence)|Aeliana Silverleaf the Wise (Criminal - Fence)]]
 - [[#Xander Oakenshield the Mystic (Professional - Partner)|Xander Oakenshield the Mystic (Professional - Partner)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Alaric Moonshadow the Redeemed", "alaric moonshadow the redeemed", "Alaric Moonshadow Redeemed", "Redeemed the Moonshadow Alaric"]
@@ -142,25 +141,20 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.278Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -181,7 +175,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.112
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -189,11 +183,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -208,20 +201,20 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[ITEM00657_Warded_Plate_of_Fortitude]]
 - Parallels [[Assets Locations Location City Palace Artificers V1 Palace Artificers.svg]]
 - Related: [[Lord Magnus Goldspire (D&D_References)]]
-- Compare with [[step_019]]
+- Compare with
 - Leads to [[step_057 (phase_077)]]
 - Originates from [[Scenes - Atmospheric_Art (D&D_References)]]
 - Requires [[The Storm of Convergence]]
 - Requires [[NPC01871_Nerys_Underhill_the_Lost]]
 - Parallels [[Assets Locations Location City Undead Services Bureau Undead Services Bureau.svg]]
 - Parallels [[The Embassy Quarter]]
-- Related: [[step_037]]
+- Related:
 - Affected by [[secondary-tables-war-xge (tables)]]
 - Connects to [[ITEM01392_Simple_Lock_of_Reliability]]
 - Influences [[step_058 (phase_042)]]
-- Connects to [[step_055]]
+- Connects to
 - Affected by [[ITEM00067_Venomous_Sword_of_Wounding]]
-- Affected by [[step_062]]
+- Affected by
 - Originates from [[Elder Thing]]
 - Influences [[#Planet Details]]
 - Related: [[Portrait NPC High Tide Environmental Effects V1 High Tide Environmental Effects.svg]]
@@ -237,7 +230,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Merchant Prince Shadowgold]]
 - Connects to [[SHOP00040_General_Shop_41]]
 - Originates from [[The Hybrid Settlements (D&D_References)]]
-- Influences [[step_093]]
+- Influences
 - Related: [[NPC00793_Qadim_Underhill_the_Risen]]
 - Connects to [[Underground Training Facilities (D&D_References)]]
 - Originates from [[step_082 (phase_033)]]
@@ -300,7 +293,6 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Visual References
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

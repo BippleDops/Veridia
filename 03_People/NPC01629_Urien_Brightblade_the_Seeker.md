@@ -18,7 +18,6 @@ aliases: [NPC01629 Urien Brightblade the Seeker]
 - [[#Xander Xendar the Fallen (Criminal - Fence)|Xander Xendar the Fallen (Criminal - Fence)]]
 - [[#Faelyn Silverleaf the Fallen (Political - Opposition)|Faelyn Silverleaf the Fallen (Political - Opposition)]]
 
-
 ---
 aliases: ["Urien Brightblade the Seeker", "urien brightblade the seeker", "Urien Brightblade Seeker", "Seeker the Brightblade Urien"]
 tags: [npc, character]
@@ -147,26 +146,22 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.293Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Compare with [[ITEM00977_Superior_Potion_of_Swiftness]]
-- Parallels [[step_003]]
+- Parallels
 - Related: [[QUEST0088_The_Sunken_Temple_Disappearances]]
 - Connects to [[Liches]]
 - Influences [[Location City the Sunken Senate the Sunken Senate.svg]]
@@ -202,7 +197,7 @@ Is secretly testing the party
 - Related: [[Paladin Xphb Oath of Conquest Xge]]
 - See also: [[Shadow Attache Void 2]]
 - Related: [[Marcus "The Shade" Blackwood]]
-- Originates from [[step_023]]
+- Originates from
 - Influences [[step_025 (phase_068)]]
 - Leads to [[ITEM00238_Blessed_Crossbow_of_the_Ancients]]
 - Compare with [[Assets Portraits Portrait NPC Abyssos Prime Parliament of Echoes Abyssos Prime Parliament of Echoes.svg]]
@@ -216,24 +211,24 @@ Is secretly testing the party
 - Leads to [[observatory-charm-xdmg (rewards)]]
 - Leads to [[LOC00050_Towns_Location_51]]
 - Leads to [[step_094 (phase_033)]]
-- Parallels [[step_039]]
+- Parallels
 - Compare with [[NPC00950_Rhiannon_Moonshadow_the_Swift]]
 - Influences [[SHOP00050_General_Shop_51]]
 - Influences [[The Awakened Grove Council 2]]
 - Compare with [[Public Safety Complex]]
 - Related: [[cleaving-through-creatures (variant-rules)]]
-- Originates from [[step_021]]
+- Originates from
 - Originates from [[Dwarven Muamman Duathal Mtf]]
 - Leads to [[NPC00546_Wynne_Lightbringer_the_Seeker]]
 - Originates from [[The Carrion Court (D&D_References)]]
-- Parallels [[step_036]]
+- Parallels
 - See also: [[MON00037_Undead_Creature_38]]
 - Originates from [[ITEM00887_Void-touched_Mirror_of_Eternity]]
 - Connects to [[Storm Sphere Xge]]
 - Connects to [[Iron Rapids Fleetcurrent (D&D_References)]]
 - Related: [[step_029 (phase_028)]]
 - Originates from [[Quest Campaign Tracker.base]]
-- Affected by [[step_082]]
+- Affected by
 - Influences [[Portrait NPC Shadow Binding Sanctum V2 Shadow Binding Sanctum.svg]]
 - Affected by [[Architect Temporal Wisdom (D&D_References)]]
 - Leads to [[step_068 (phase_066)]]
@@ -253,7 +248,7 @@ Is secretly testing the party
 - Compare with [[mystery-key-xdmg (items)]]
 - Compare with [[ITEM01466_Decorated_Compass_of_Reliability]]
 - Requires [[step_093 (phase_008)]]
-- Parallels [[step_018]]
+- Parallels
 - Affected by [[Kelp Highway (D&D_References)]]
 - Compare with [[Scholars of Witherbloom Witherbloom Scholars]]
 - Compare with [[hill-encounters-levels-14-xge (tables)]]
@@ -270,7 +265,6 @@ Is secretly testing the party
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

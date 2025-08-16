@@ -18,7 +18,6 @@ aliases: [NPC01419 Ewan Moonshadow the Strong]
 - [[#Gavril Frostwhisper the Seeker (Family - Parent)|Gavril Frostwhisper the Seeker (Family - Parent)]]
 - [[#Ewan Oakenshield the Risen (Professional - Partner)|Ewan Oakenshield the Risen (Professional - Partner)]]
 
-
 ---
 aliases: ["Ewan Moonshadow the Strong", "ewan moonshadow the strong", "Ewan Moonshadow Strong", "Strong the Moonshadow Ewan"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.271Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -189,7 +184,7 @@ Forming expedition to dangerous location
 - Related: [[step_047 (phase_086)]]
 - Originates from [[SPELL00037_Arcane_Spell_38]]
 - Related: [[step_040 (phase_099)]]
-- Compare with [[step_045]]
+- Compare with
 - Leads to [[Druidic Focus Xphb]]
 - See also: [[Lock Xphb]]
 - Affected by [[Royal Academy of Arcane Art (Academies)]]
@@ -215,7 +210,7 @@ Forming expedition to dangerous location
 - Connects to [[Singer Consciousness]]
 - Requires [[step_003 (phase_082)]]
 - See also: [[MON00065_Constructs_Creature_66]]
-- Parallels [[step_083]]
+- Parallels
 - Affected by [[Keeper Healer Restoration]]
 - Affected by [[Grief Overwhelming Syndrome]]
 - Compare with [[ITEM0035_Divine_Tome_of_Power]]
@@ -224,10 +219,10 @@ Forming expedition to dangerous location
 - Connects to [[step_048 (phase_055)]]
 - Originates from [[Goblin Hexer Xmm]]
 - See also: [[Assets Locations Location City the Embassy Quarter V1 the Embassy Quarter.svg]]
-- Related: [[step_085]]
+- Related:
 - Connects to [[step_014 (phase_089)]]
 - Originates from [[Shadow Merchants Guild]]
-- Parallels [[step_054]]
+- Parallels
 - Requires [[Portrait NPC Quest Storm Lord S Challenge V1 Quest Storm Lord S Challenge.svg]]
 - Influences [[step_051 (phase_018)]]
 - Parallels [[Portrait NPC Empress Tethys the Ever Drowning V1 Empress Tethys the Ever Drowning.svg_1 (Portraits)]]
@@ -252,8 +247,8 @@ Forming expedition to dangerous location
 - Requires [[LORE00273_Legends_Entry_274]]
 - Originates from [[Absolute Reality Faction]]
 - Connects to [[location-city-memory-farmers-memory-farmers.svg]]
-- Parallels [[step_013]]
-- Originates from [[step_038]]
+- Parallels
+- Originates from
 - Parallels [[downtime-activity-scribing-a-spell-scroll-xge (variant-rules)]]
 - Requires [[Portrait NPC Marina Red Tide Coralheart Aquabyssos V1 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)]]
 - Requires [[Resonance Networks]]
@@ -261,7 +256,7 @@ Forming expedition to dangerous location
 - Leads to [[Assets Locations Location City the Umbral Nexus the Umbral Nexus.svg]]
 - Influences [[Assets Locations Location City Count Viktor Pressureborn Count Viktor Pressureborn.svg]]
 - Leads to [[step_045 (phase_042)]]
-- See also: [[step_091]]
+- See also:
 - See also: [[step_096 (phase_056)]]
 - Compare with [[step_020 (phase_069)]]
 
@@ -269,7 +264,6 @@ Forming expedition to dangerous location
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

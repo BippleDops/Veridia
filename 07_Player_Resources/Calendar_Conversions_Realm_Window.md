@@ -18,7 +18,6 @@ aliases: [Calendar Conversions Realm Window]
 - [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
 - [[#Material_Culture Improvements|Material_Culture Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Calendar_Conversions_Realm_Window
@@ -137,8 +136,7 @@ tags: [combat, magic, lore]
 - [[07 Customization Options]]
 - [[NPC00272_Rhiannon_Brightblade]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -148,7 +146,6 @@ tags: [combat, magic, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -164,7 +161,7 @@ tags: [combat, magic, lore]
 - Connects to [[step_069 (phase_076)]]
 - Influences [[QUEST00470_Side_Quest_471]]
 - Leads to [[Rothe Vgm]]
-- Originates from [[step_013]]
+- Originates from
 - See also: [[NPC00060_Gareth_Ironforge]]
 - Requires [[Portrait NPC the Ancient Nobility the Ancient Nobility.svg_1 (Portraits)]]
 - Connects to [[Handaxe Xphb]]
@@ -186,8 +183,8 @@ tags: [combat, magic, lore]
 - Parallels [[Candle of Invocation Xdmg]]
 - Leads to [[ENC00236_Combat_Encounter_237]]
 - Affected by [[step_053 (phase_058)]]
-- Requires [[spells]]
-- Parallels [[step_088]]
+- Requires [[05_Rules/Spells]]
+- Parallels
 - Requires [[Garden_Keeper_Zen_Currentdancer.png]]
 - Leads to [[Assets Locations Location City Chronomancer Paradox Chronomancer Paradox.svg]]
 - Originates from [[step_037 (phase_091)]]
@@ -206,7 +203,7 @@ tags: [combat, magic, lore]
 - Connects to [[Nonhuman Deep Sashelas]]
 - Compare with [[Whisper Jack (Lore)]]
 - Leads to [[LOC00066_Wilderness_Location_67]]
-- Connects to [[step_014]]
+- Connects to
 - Leads to [[step_052 (phase_094)]]
 - Leads to [[Conductor Morpheus Mindbridge 2]]
 - Compare with [[step_052 (phase_087)]]
@@ -243,7 +240,7 @@ tags: [combat, magic, lore]
 - Compare with [[Portrait NPC Ambassador Nerida Deepcurrent V2 Ambassador Nerida Deepcurrent.svg_1 (Portraits)]]
 - Influences [[NPC01962_Corvus_Underhill_the_Lost]]
 - See also: [[Control Flames Xge]]
-- Leads to [[step_022]]
+- Leads to
 - Affected by [[ENC00269_Combat_Encounter_270]]
 - Requires [[Project Mindbridge 2]]
 - Parallels [[step_031 (phase_022)]]
@@ -267,7 +264,6 @@ tags: [combat, magic, lore]
 ![[04_Resources/maps/world_assets_locations_location_city_inter_realm_relations_inter_realm_relations_svg_gm.png]]
 ![[04_Resources/maps/world_inter_realm_relations_physical.png]]
 
-
 ## Realm Connections
 
 ### Connection to Aethermoor
@@ -279,5 +275,5 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.

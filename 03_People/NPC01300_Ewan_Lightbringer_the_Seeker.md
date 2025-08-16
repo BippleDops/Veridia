@@ -18,7 +18,6 @@ aliases: [NPC01300 Ewan Lightbringer the Seeker]
 - [[#Dara Winterborn the Swift (Family - Child)|Dara Winterborn the Swift (Family - Child)]]
 - [[#Kaelen Underhill the Wise (Criminal - Accomplice)|Kaelen Underhill the Wise (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Ewan Lightbringer the Seeker", "ewan lightbringer the seeker", "Ewan Lightbringer Seeker", "Seeker the Lightbringer Ewan"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.258Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -174,10 +169,10 @@ Knows secret about major threat
 - Requires [[Assets Locations Location City Elder Matthias Stoneward Elder Matthias Stoneward.svg]]
 - Affected by [[Truth Reflection]]
 - Influences [[EVENT00029_Political_Event_30]]
-- Parallels [[step_010]]
-- See also: [[step_038]]
+- Parallels
+- See also:
 - Related: [[LOC0106_Marshton]]
-- Requires [[step_092]]
+- Requires
 - Requires [[Palace Guardians (D&D_References)]]
 - Leads to [[ITEM00625_Mithril_Gauntlets_of_Fortitude]]
 - Originates from [[dungeon-history (tables)]]
@@ -193,7 +188,7 @@ Knows secret about major threat
 - Originates from [[step_049 (phase_034)]]
 - Requires [[Portrait NPC Admiral Cassandra Stormwind V2 Admiral Cassandra Stormwind.svg]]
 - Affected by [[step_040 (phase_097)]]
-- Requires [[step_080]]
+- Requires
 - Originates from [[Warrior Scarredheart 2]]
 - Compare with [[Assets Locations Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg]]
 - Related: [[maddening-darkness-xge (spells)]]
@@ -210,17 +205,17 @@ Knows secret about major threat
 - Related: [[FAC00072_Cults_73]]
 - Connects to [[Cultural Integration]]
 - Related: [[Government Crystal Programs]]
-- Originates from [[step_039]]
+- Originates from
 - See also: [[step_052 (phase_088)]]
 - Leads to [[Quick_Reference - DnD5e-DM Screen-2014]]
 - Originates from [[Assets Portraits Portrait NPC Otherworldly Patron Otherworldly Patron.svg]]
 - See also: [[step_083 (phase_080)]]
 - Compare with [[Assets Locations Location City Historical Analysis Historical Analysis.svg]]
-- See also: [[step_008]]
+- See also:
 - Related: [[secondary-tables-war-xge (tables)]]
 - See also: [[step_046 (phase_019)]]
 - See also: [[decks]]
-- See also: [[step_091]]
+- See also:
 - See also: [[Location City Stormwatch Keep V1 Stormwatch Keep.svg]]
 - Compare with [[step_020 (phase_084)]]
 - Related: [[Lorehold Student Scc]]
@@ -250,12 +245,12 @@ Knows secret about major threat
 - Originates from [[Assets Locations Location City Mad Bell Ringer Thomas V1 Mad Bell Ringer Thomas.svg]]
 - Compare with [[Ring of Elemental Command Fire Xdmg]]
 - Parallels [[INDEX]]
-- Related: [[step_012]]
+- Related:
 - Influences [[NPC0129_Jora_Darkwater]]
 - Related: [[step_030 (phase_078)]]
 - Leads to [[ITEM01152_Pure_Salve_of_Clarity]]
 - Affected by [[doors-door-type (tables)]]
-- Affected by [[step_018]]
+- Affected by
 - Originates from [[EVENT00083_Natural_Event_84]]
 - Affected by [[NPC01162_Hilda_Nightfall_the_Fallen]]
 - Influences [[Assets Locations Location City Crystallium V1 Crystallium.svg]]
@@ -271,7 +266,6 @@ Knows secret about major threat
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [Currency Guide Scrip and Shard]
 - [[#Sensory Improvements|Sensory Improvements]]
 - [[#Hospitality Improvements|Hospitality Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Currency_Guide_Scrip_and_Shard
@@ -129,7 +128,7 @@ tags: [combat, magic, exploration, lore]
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -158,7 +157,6 @@ tags: [combat, magic, exploration, lore]
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 > [!dm] DM Note
 > Ancient magic still lingers here
@@ -205,8 +203,7 @@ tags: [combat, magic, exploration, lore]
 - [[Propaganda_Broadsheet_Syndicate.md]]
 - [[06 Equipment]]
 - [[NPC00821_Zephyr_Voidwalker_the_Cunning]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -216,7 +213,6 @@ tags: [combat, magic, exploration, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -242,7 +238,7 @@ tags: [combat, magic, exploration, lore]
 - Leads to [[Gith Names Githyanki Female Mtf]]
 - Influences [[Complete Reality Merger System#reality Stability Mechanics]]
 - Affected by [[LOC00001_Towns_Location_2]]
-- Leads to [[step_011]]
+- Leads to
 - Connects to [[animated-halberd-cos (construct)]]
 - See also: [[step_039 (phase_079)]]
 - Originates from [[04_Resources_Assets_Portraits_portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg_Quick_Ref]]
@@ -253,7 +249,7 @@ tags: [combat, magic, exploration, lore]
 - Parallels [[Earthquake Xphb]]
 - Originates from [[step_021 (phase_054)]]
 - Connects to [[monster-personality-xge (tables)]]
-- Requires [[step_008]]
+- Requires
 - Requires [[Target Name]]
 - See also: [[LORE00190_History_Entry_191]]
 - Leads to [[Bio-Integration Laboratory (D&D_References)]]
@@ -296,14 +292,14 @@ tags: [combat, magic, exploration, lore]
 - Related: [[NPC00875_Zephyr_Proudmore_the_Fallen]]
 - Leads to [[Queen Seraphina]]
 - Compare with [[Template Galaxy Placeholder.png]]
-- See also: [[step_099]]
+- See also:
 - Connects to [[Memory Pearls (D&D_References)]]
 - Leads to [[Map World Layer Hidden Locations and Rumor Sites V2 Hidden Locations and Rumor Sites.svg]]
 - See also: [[SPELL00092_Arcane_Spell_93]]
 - Connects to [[Civil Rights Petition]]
 - Influences [[Handout Handout Ship Manifests with Stamps V3 Ship Manifests with Stamps.png]]
 - Leads to [[NPC00177_Idris_Goldleaf_the_Swift]]
-- Connects to [[step_064]]
+- Connects to
 - Influences [[QUEST00161_Main_Quest_162]]
 - Influences [[List Spells Classes Fiend Patron Xphb]]
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg_Quick_Ref]]
@@ -316,7 +312,7 @@ tags: [combat, magic, exploration, lore]
 - Affected by [[QUEST00294_Side_Quest_295]]
 - Requires [[Marcus Thornwhisper]]
 - Related: [[04_Resources_Assets_Portraits_portrait-npc-lord-general-harrison-ironhold-lord-general-harrison-ironhold.svg_Quick_Ref]]
-- Related: [[step_040]]
+- Related:
 - See also: [[step_078 (phase_019)]]
 - Leads to [[Location City Vault Keeper Aurelia Crownguard Vault Keeper Aurelia Crownguard.svg]]
 - Compare with [[The Exchange Rate Wars]]

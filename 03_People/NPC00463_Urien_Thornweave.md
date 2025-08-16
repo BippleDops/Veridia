@@ -18,7 +18,6 @@ aliases: [NPC00463 Urien Thornweave]
 - [[#Vesper Emberfall the Seeker (Personal - Childhood friend)|Vesper Emberfall the Seeker (Personal - Childhood friend)]]
 - [[#Thalia Thornweave the Redeemed (Political - Puppet)|Thalia Thornweave the Redeemed (Political - Puppet)]]
 
-
 ---
 aliases: ["Urien Thornweave", "urien thornweave", "Thornweave Urien"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.166Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,7 +171,7 @@ Family member has gone missing
 - Requires [[wizard-xphb-abjurer-xphb (classes)]]
 - Related: [[ITEM00662_Mithril_Chain_Mail_of_the_Guardian]]
 - Parallels [[step_068 (phase_081)]]
-- Influences [[step_058]]
+- Influences
 - Originates from [[QUEST00466_Side_Quest_467]]
 - Originates from [[flameskull-xmm (undead)]]
 - Parallels [[Grick Xmm]]
@@ -190,14 +185,14 @@ Family member has gone missing
 - Influences [[List Spells Classes Great Old One Patron Xphb]]
 - Compare with [[City of Screams 2]]
 - Affected by [[Framing Events]]
-- Requires [[step_047]]
+- Requires
 - Affected by [[Portrait NPC Shadow Broker Mist Shadow Broker Mist.svg]]
-- Parallels [[step_038]]
+- Parallels
 - Influences [[MON00075_Constructs_Creature_76]]
 - Affected by [[The Slave Markets of Tethys (D&D_References)]]
 - Influences [[The Broken Tower (D&D_References)]]
 - Parallels [[The Sunken Library of Thalassius.md]]
-- See also: [[step_033]]
+- See also:
 - Parallels [[Symbol Heraldry Transformation Techniques V1 Transformation Techniques.svg]]
 - Related: [[LORE00024_Prophecies_Entry_25]]
 - Requires [[Clues by Location (Lore)]]
@@ -225,7 +220,7 @@ Family member has gone missing
 - Influences [[Cross-Realm Travel Guidelines]]
 - Requires [[NPC01288_Qadim_Oakenshield_the_Wanderer]]
 - Affected by [[DUN00199_Dungeon_200]]
-- Originates from [[step_069]]
+- Originates from
 - Originates from [[firenewt-warrior-mpmm (elemental)]]
 - Connects to [[Harbor Master Captain Dockwise 2]]
 - Originates from [[Scene Scene Golden Trade Route Convoy V1 Golden Trade Route Convoy.svg]]
@@ -265,15 +260,14 @@ Family member has gone missing
 - Leads to [[06-chapter-5-feats (players-handbook-2024)]]
 - Related: [[Ring of Elemental Command Water Xdmg]]
 - Connects to [[Skyforge]]
-- Leads to [[step_009]]
-- Affected by [[step_020]]
+- Leads to
+- Affected by
 - Connects to [[Initiate Shadow-Walker]]
 
 ## Visual References
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00501 Orion Nightfall the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00501 Orion Nightfall the Broken]
 - [[#Nerys Ironwood the Mystic (Family - Sibling)|Nerys Ironwood the Mystic (Family - Sibling)]]
 - [[#Thalia Brightblade the Mystic (Professional - Mentor)|Thalia Brightblade the Mystic (Professional - Mentor)]]
 - [[#Felicia Zephyrblade the Risen (Professional - Mentor)|Felicia Zephyrblade the Risen (Professional - Mentor)]]
-
 
 ---
 created: 2025-08-15
@@ -154,16 +152,13 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.170Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -219,11 +214,10 @@ Modifications:
 - [[MASTER_MOC]]
 - [[NPC00260_Wynne_Underhill_the_Fallen]]
 - [[NPC01812_Xander_Lightbringer_the_Swift]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -232,11 +226,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -248,8 +241,8 @@ Modifications:
 - Related: [[Memory Trader Kellian (D&D_References)]]
 - Connects to [[step_050 (phase_038)]]
 - Compare with [[Biological Authentication]]
-- Requires [[step_035]]
-- Parallels [[step_017]]
+- Requires
+- Parallels
 - Related: [[ITEM00503_Adamantine_Boots_of_Protection]]
 - Related: [[Scene Scene Deep Mother S Tentacles Rising V2 Deep Mother S Tentacles Rising.png]]
 - Compare with [[Sky_Events_Pack_D]]
@@ -284,14 +277,14 @@ Modifications:
 - See also: [[step_042 (phase_014)]]
 - Leads to [[LOC00264_Cities_Location_265]]
 - Affected by [[step_032 (phase_004)]]
-- Related: [[step_008]]
+- Related:
 - Compare with [[Tenebrarum (D&D_References)]]
 - See also: [[Harbor Master Captain Dockwise]]
 - Connects to [[Location City [[High Hierophant Meridius]] V1 High Hierophant Meridius.svg]]
 - Leads to [[step_066 (phase_006)]]
 - Influences [[Doctrine_Quick_Reference]]
 - Affected by [[LORE00051_Legends_Entry_52]]
-- Connects to [[step_063]]
+- Connects to
 - Connects to [[dawn-war-zehir-dmg (deities)]]
 - Originates from [[step_091 (phase_027)]]
 - Parallels [[Location City Teacher [[Miranda Hopekeeper]] V1 [[Teacher Miranda Hopekeeper]].svg]]
@@ -312,23 +305,23 @@ Modifications:
 - Originates from [[step_082 (phase_010)]]
 - Originates from [[LOC00103_Dungeons_Location_104]]
 - Connects to [[The Convergence Garden Festival]]
-- Affected by [[step_038]]
+- Affected by
 - Influences [[FAC00036_Cults_37]]
 - Related: [[devouring-blade-xphb (optional-features)]]
 - Parallels [[Cultural_Integration_Council]]
-- See also: [[step_080]]
+- See also:
 - Leads to [[Emperor Thalassius]]
 - Connects to [[Memory Tides]]
 - See also: [[Location City [[Silent Guardian Marcus]] V1 Silent Guardian Marcus.svg]]
 - Leads to [[step_040 (phase_098)]]
 - Parallels [[Ancestor Memorial Spaces 2]]
-- See also: [[step_021]]
-- Compare with [[step_003]]
+- See also:
+- Compare with
 - Related: [[step_082 (phase_028)]]
-- Connects to [[step_040]]
+- Connects to
 - Affected by [[High Diplomat Coral Bridgewater (Lore)]]
 - Parallels [[gith-tables-githyanki-bonds-mtf (tables)]]
-- Influences [[step_097]]
+- Influences
 - See also: [[NPC01345_Pyria_Oakenshield_the_Wise]]
 - Originates from [[LOC00202_Dungeons_Location_203]]
 - Leads to [[step_015 (phase_094)]]

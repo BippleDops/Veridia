@@ -18,7 +18,6 @@ aliases: [NPC00634 Gareth Silverleaf the Scholar]
 - [[#Idris Emberfall the Fallen (Family - Spouse)|Idris Emberfall the Fallen (Family - Spouse)]]
 - [[#Felicia Jadeclaw the Broken (Professional - Employee)|Felicia Jadeclaw the Broken (Professional - Employee)]]
 
-
 ---
 aliases: ["Gareth Silverleaf the Scholar", "gareth silverleaf the scholar", "Gareth Silverleaf Scholar", "Scholar the Silverleaf Gareth"]
 tags: [npc, character]
@@ -151,29 +150,25 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.185Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Leads to [[LORE00091_Legends_Entry_92]]
 - Affected by [[QUEST00075_Personal_Quest_76]]
 - Influences [[09-adventuring#Movement#Mounts and Vehicles]]
-- Compare with [[step_032]]
-- Originates from [[step_008]]
+- Compare with
+- Originates from
 - Related: [[MON00013_Undead_Creature_14]]
 - Compare with [[Sky_Lords_Worship]]
 - See also: [[step_075 (phase_040)]]
@@ -183,7 +178,7 @@ Being extorted by criminals
 - Influences [[NPC01295_Kaelen_Keenblade_the_Cunning]]
 - Influences [[Enhancement Ethics Advisor (Lore)]]
 - Leads to [[Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
-- Related: [[step_048]]
+- Related:
 - See also: [[step_074 (phase_016)]]
 - Originates from [[Location City Supplier Erikson Tidecaller V1 Supplier Erikson Tidecaller.svg]]
 - Related: [[Location City the Mothercoral Crisis V1 the Mothercoral Crisis.svg]]
@@ -250,7 +245,7 @@ Being extorted by criminals
 - Requires [[Elven Trinket Mtf]]
 - Compare with [[SPELL00030_Arcane_Spell_31]]
 - Connects to [[Portrait NPC Captain Nautilus Deepwatch Captain Nautilus Deepwatch.svg]]
-- Connects to [[step_060]]
+- Connects to
 - Related: [[portrait-npc-emperor-emperor.svg]]
 - Affected by [[step_006 (phase_031)]]
 - Parallels [[step_076 (phase_045)]]
@@ -274,7 +269,6 @@ Being extorted by criminals
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

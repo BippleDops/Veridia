@@ -9,7 +9,6 @@ aliases: [NPC00234 Solas Blackstone]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00234 Solas Blackstone]
 - [[#Xander Blackstone (Political - Opposition)|Xander Blackstone (Political - Opposition)]]
 - [[#Brenna Ironwood (Personal - Childhood friend)|Brenna Ironwood (Personal - Childhood friend)]]
 - [[#Vesper Jadeclaw the Strong (Personal - Ex-lover)|Vesper Jadeclaw the Strong (Personal - Ex-lover)]]
-
 
 ---
 aliases: ["Solas Blackstone", "solas blackstone", "Blackstone Solas"]
@@ -151,21 +149,17 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.139Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -190,14 +184,14 @@ Seeks bodyguards for dangerous journey
 - Parallels [[Training Supervisor Learning Moment 2]]
 - Leads to [[Cloaker Xmm]]
 - See also: [[Location City Current Navigation Techniques Current Navigation Techniques.svg]]
-- Requires [[step_067]]
+- Requires
 - Related: [[Diplomat Supreme International (D&D_References)]]
 - Affected by [[Chill Touch Xphb]]
 - See also: [[Portrait NPC Deep Mother Priestess Sira V2 Deep Mother Priestess Sira.svg_1 (Portraits)]]
 - Related: [[Deep Guard (D&D_References)]]
 - Influences [[ENC00140_Environmental_Encounter_141]]
 - Affected by [[NPC01630_Ewan_Underhill_the_Seeker]]
-- Connects to [[step_072]]
+- Connects to
 - See also: [[MON0049_Frost_Titan]]
 - Affected by [[Memory Extraction Device]]
 - Requires [[Elf Tables Elf Non Drow Adventurer Story]]
@@ -209,7 +203,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [[item types#Light%20Armor]]
 - Leads to [[armor-of-agathys-xphb (spells)]]
 - Influences [[step_054 (phase_090)]]
-- See also: [[step_080]]
+- See also:
 - Compare with [[EVENT00054_Natural_Event_55]]
 - Compare with [[step_019 (phase_083)]]
 - Related: [[Protocol Expert Formal]]
@@ -222,7 +216,7 @@ Seeks bodyguards for dangerous journey
 - Related: [[step_003 (phase_080)]]
 - Leads to [[Symbol Heraldry Por... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[veterans-cane-xdmg (items)]]
-- Related: [[step_066]]
+- Related:
 - Originates from [[LORE00113_Prophecies_Entry_114]]
 - Requires [[Assets Locations Location City Temple of Echoing Tides V1 Temple of Echoing Tides.svg]]
 - Related: [[ITEM00616_Mithril_Cloak_of_Resistance]]

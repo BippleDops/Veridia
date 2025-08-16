@@ -18,7 +18,6 @@ aliases: [NPC00412 Ewan Darkwater the Wanderer]
 - [[#Aeliana Blackstone the Mystic (Professional - Mentor)|Aeliana Blackstone the Mystic (Professional - Mentor)]]
 - [[#Dara Zephyrblade the Cunning (Political - Puppet)|Dara Zephyrblade the Cunning (Political - Puppet)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ewan Darkwater the Wanderer", "ewan darkwater the wanderer", "Ewan Darkwater Wanderer", "Wanderer the Darkwater Ewan"]
@@ -142,27 +141,23 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.160Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -170,17 +165,16 @@ Discovered something valuable
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Related: [[12_Research_D&D_Statblocks_Archdruid_Thornweaver]]
 - Parallels [[ITEM00551_Adamantine_Plate_of_Fortitude]]
-- Parallels [[step_061]]
+- Parallels
 - Related: [[Location City the Sundered Vaults the Sundered Vaults.svg]]
 - Connects to [[QUEST00361_Side_Quest_362]]
 - Compare with [[number-of-siblings-xge (tables)]]
@@ -196,7 +190,7 @@ Discovered something valuable
 - Originates from [[Session 12 - Crystal Court Conspiracy]]
 - Related: [[Gnome Names Clan Xge]]
 - Originates from [[Riposte Xphb]]
-- Requires [[step_090]]
+- Requires
 - Influences [[Alternatives to Epic Boons]]
 - Influences [[demilich-xmm (undead)]]
 - Compare with [[Location City Master Thorek Crystalhammer Master Thorek Crystalhammer.svg]]
@@ -211,7 +205,7 @@ Discovered something valuable
 - Requires [[SPELL00135_Divine_Spell_136]]
 - Affected by [[step_046 (phase_030)]]
 - Parallels [[LOC0091_Bridgethorpe]]
-- Originates from [[step_052]]
+- Originates from
 - Influences [[Location City Knowledge Truthseeker V1 Knowledge Truthseeker.svg]]
 - Parallels [[step_001 (phase_075)]]
 - Parallels [[burrow-speed-xphb (variant-rules)]]
@@ -221,7 +215,7 @@ Discovered something valuable
 - Related: [[Location City Innkeeper Marcus Thorne V1 Innkeeper Marcus Thorne.svg]]
 - Leads to [[Registry Keeper Mordecai Truthbane (D&D_References)]]
 - Connects to [[step_026 (phase_055)]]
-- Requires [[step_044]]
+- Requires
 - Affected by [[Quest2]]
 - Influences [[Assets Locations Location City Keeper Deepcurrent Keeper Deepcurrent.svg]]
 - Connects to [[step_085 (phase_032)]]
@@ -231,7 +225,7 @@ Discovered something valuable
 - See also: [[High Diplomat Coral Bridgewater (Lore)]]
 - Compare with [[Assets Locations Location City St Meridian S Cathedral V1 St Meridian S Cathedral.svg]]
 - Influences [[bolt-xphb (items)]]
-- Influences [[step_027]]
+- Influences
 - Affected by [[Location City Pressure Tube System V1 Pressure Tube System.svg]]
 - Influences [[step_010 (phase_015)]]
 - See also: [[FAC00049_Cults_50]]
@@ -263,7 +257,7 @@ Discovered something valuable
 - Parallels [[Viol Xphb]]
 - Requires [[Human Names German Male Xge]]
 - Requires [[list-spells-classes-war-domain-xphb (lists)]]
-- Affected by [[step_063]]
+- Affected by
 - Requires [[Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg]]
 - Originates from [[location-city-the-harvest-the-harvest.svg]]
 - Parallels [[ITEM00467_Enchanted_Boots_of_Protection]]
@@ -274,7 +268,7 @@ Discovered something valuable
 - Influences [[Portrait NPC Corrupted Clients Corrupted Clients.svg_1 (Portraits)]]
 - Affected by [[NPC01217_Xander_Xendar_the_Wise]]
 - Compare with [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
-- Influences [[step_039]]
+- Influences
 - Leads to [[Wind Engineering and Sky Architecture]]
 - Requires [[Assets Locations Location City Marcus Evenscale V1 Marcus Evenscale.svg]]
 - Compare with [[step_077 (phase_025)]]
@@ -283,7 +277,6 @@ Discovered something valuable
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

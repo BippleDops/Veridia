@@ -18,7 +18,6 @@ aliases: [Quarantine Notice Crystal Plagu]
 - [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
 - [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Quarantine_Notice_Crystal_Plagu
@@ -116,7 +115,6 @@ tags: [combat, lore]
 - Wearing red on holy days
 - Pointing at the moon
 
-
 > [!dm] DM Note
 > This location connects to the main plot
 
@@ -168,8 +166,7 @@ tags: [combat, lore]
 - [[NPC00200_Faelyn_Winterborn_the_Guardian]]
 - [[Master_Narrative_Web.md]]
 - [[NPC00582_Cedric_Dawnstrider]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -179,7 +176,6 @@ tags: [combat, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -225,12 +221,12 @@ tags: [combat, lore]
 - See also: [[Variant Customizing Ability Scores Ability Scores and Modifiers Phb]]
 - See also: [[Emergency Technology Development Foundation]]
 - See also: [[Symbol Heraldry the Memory Wars V1 the Memory Wars.svg]]
-- Leads to [[step_004]]
+- Leads to
 - Compare with [[The Depth Plague]]
 - Leads to [[02_Worldbuilding_Spells_Truth_Reflection]]
 - Compare with [[Portrait NPC Quest the Cure for Madness Quest the Cure for Madness.svg]]
 - Originates from [[Emergency Backup]]
-- Influences [[step_018]]
+- Influences
 - See also: [[Celestial Gardens]]
 - Leads to [[talisman-of-the-sphere-xdmg (items)]]
 - Influences [[LOC00161_Planes_Location_162]]
@@ -266,7 +262,7 @@ tags: [combat, lore]
 - Requires [[Trident of Accord]]
 - Leads to [[QUEST00455_Side_Quest_456]]
 - Influences [[ITEM00577_Mithril_Chain_Mail_of_Fortitude]]
-- Related: [[step_076]]
+- Related:
 - Influences [[step_098 (phase_068)]]
 - Requires [[Master Cultivator Polyp Growe (Cults_and_Movements)]]
 - Parallels [[QUEST00319_Side_Quest_320]]
@@ -279,7 +275,7 @@ tags: [combat, lore]
 - Affected by [[Location City Wealthy Goldcurrent Wealthy Goldcurrent.svg]]
 - See also: [[step_061 (phase_093)]]
 - Connects to [[step_042 (phase_052)]]
-- Compare with [[step_023]]
+- Compare with
 - Parallels [[Electric Eel (D&D_References)]]
 - Parallels [[Quest - Construct Liberation]]
 - Requires [[step_039 (phase_100)]]

@@ -18,7 +18,6 @@ aliases: [NPC01588 Baelor Ashford the Strong]
 - [[#Rhiannon Jadeclaw the Strong (Political - Ally)|Rhiannon Jadeclaw the Strong (Political - Ally)]]
 - [[#Vesper Hawthorne the Strong (Political - Spy)|Vesper Hawthorne the Strong (Political - Spy)]]
 
-
 ---
 aliases: ["Baelor Ashford the Strong", "baelor ashford the strong", "Baelor Ashford Strong", "Strong the Ashford Baelor"]
 tags: [npc, character]
@@ -143,27 +142,23 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.289Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Affected by [[Druid Xphb Circle of the Land Xphb]]
 - Originates from [[Reputation System]]
-- Leads to [[step_083]]
+- Leads to
 - Connects to [[step_051 (phase_045)]]
 - Compare with [[ITEM0076_Eldritch_Shield_of_the_Dawn]]
 - Connects to [[spell-xphb (variant-rules)]]
@@ -205,7 +200,7 @@ Knows secret about major threat
 - Influences [[Downtime Activity Crime Xge]]
 - Requires [[step_081 (phase_034)]]
 - Connects to [[Greek Zeus]]
-- See also: [[step_073]]
+- See also:
 - See also: [[Government Informants]]
 - Leads to [[LOC0045_LowerHill]]
 - See also: [[Assets Locations Location City Sage Gentlespice Sage Gentlespice.svg]]
@@ -250,7 +245,7 @@ Knows secret about major threat
 - See also: [[Assets Locations Location City Historical Societies V1 Historical Societies.svg]]
 - Parallels [[NPC01315_Cedric_Jadeclaw_the_Seeker]]
 - Originates from [[Portrait NPC Golden Scale Transformation V2 Golden Scale Transformation.svg]]
-- See also: [[step_062]]
+- See also:
 - Connects to [[Assets Locations Location City Neutrality Laws Neutrality Laws.svg]]
 - See also: [[List Spells Classes Horizon Walker Xge]]
 - Influences [[Conference Security Center]]
@@ -266,7 +261,6 @@ Knows secret about major threat
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

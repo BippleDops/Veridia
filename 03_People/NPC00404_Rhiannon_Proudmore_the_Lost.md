@@ -18,7 +18,6 @@ aliases: [NPC00404 Rhiannon Proudmore the Lost]
 - [[#Urien Ashford the Swift (Political - Patron)|Urien Ashford the Swift (Political - Patron)]]
 - [[#Solas Voidwalker the Mystic (Political - Ally)|Solas Voidwalker the Mystic (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Rhiannon Proudmore the Lost", "rhiannon proudmore the lost", "Rhiannon Proudmore Lost", "Lost the Proudmore Rhiannon"]
@@ -154,27 +153,23 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.159Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -182,11 +177,10 @@ Witnessed a crime
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -200,7 +194,7 @@ Witnessed a crime
 - Affected by [[NPC00027_Faelyn_Proudmore]]
 - Parallels [[The Crimson Shard Guardian (D&D_Statblocks)]]
 - Requires [[Location City Archkeeper Nereon V1 Archkeeper Nereon.svg]]
-- Requires [[step_060]]
+- Requires
 - Influences [[Master Astronomer Cornelius Starweaver]]
 - Affected by [[step_069 (phase_089)]]
 - See also: [[The Crystalline Wastes]]
@@ -228,7 +222,7 @@ Witnessed a crime
 - Originates from [[celestial-spirit-xphb (celestial)]]
 - Parallels [[ITEM00566_Mithril_Leather_of_Resistance]]
 - Leads to [[Island of Skulls]]
-- Related: [[step_063]]
+- Related:
 - Affected by [[Paradox Engine Room (D&D_References)]]
 - See also: [[03_Mechanics_Communication_Systems_Quick_Ref]]
 - Compare with [[Assets Locations Location City Echo Truthseer V1 Echo Truthseer.svg]]
@@ -239,7 +233,7 @@ Witnessed a crime
 - Compare with [[NPC0104_Yorick_Goldleaf]]
 - Affected by [[Emergency Protocols (D&D_References)]]
 - Affected by [[QUEST00286_Personal_Quest_287]]
-- Leads to [[step_069]]
+- Leads to
 - See also: [[12-appendix-b-monster-lists (dungeon-masters-guide-2014)]]
 - Requires [[Wealthy Goldcurrent (D&D_References)]]
 - Connects to [[Cross-Cultural Communication]]
@@ -259,7 +253,7 @@ Witnessed a crime
 - Connects to [[LORE00066_Legends_Entry_67]]
 - Affected by [[ITEM00856_Time-worn_Ring_of_Destiny]]
 - Related: [[Assets Locations Location City Safety Coordinator Reef Safeguard V1 Safety Coordinator Reef Safeguard.svg]]
-- Affected by [[step_072]]
+- Affected by
 - Leads to [[NPC00638_Solas_Dawnstrider_the_Guardian]]
 - Originates from [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
 - Originates from [[step_091 (phase_080)]]
@@ -295,7 +289,6 @@ Witnessed a crime
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

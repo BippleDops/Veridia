@@ -18,7 +18,6 @@ aliases: [MOC Items]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -32,8 +31,6 @@ created: 2025-08-15
 
 ## Content
 *Building index...*
-
-
 
 ## Recent NPCs
 ```dataview
@@ -77,12 +74,10 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[Archdruid Thornweaver]]
 - [[MOC_Rules]]
 - [[Reference.md]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -132,7 +127,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Requires [[Celestial Gardens]]
 - Connects to [[The Quantum Accountant (D&D_References)]]
 - Requires [[step_022 (phase_009)]]
-- Originates from [[step_073]]
+- Originates from
 - Originates from [[step_056 (phase_031)]]
 - Leads to [[Assets Locations Location City Victoria Harbormane Victoria Harbormane.svg]]
 - Parallels [[location-city-the-deepmind-the-deepmind.svg]]
@@ -147,7 +142,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Influences [[Outer Planes Phb]]
 - Requires [[LORE00137_Prophecies_Entry_138]]
 - Connects to [[ENC00088_Environmental_Encounter_89]]
-- Influences [[step_098]]
+- Influences
 - Parallels [[09-adventuring#Movement#Difficult Terrain]]
 - Originates from [[QUEST0073_The_Crystal_Cave_Invasion]]
 - Parallels [[The Fishing Fleets 2]]
@@ -163,7 +158,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Leads to [[Enfeebling Arrow Xge]]
 - Connects to [[Symbol Heraldry Hea... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Affected by [[NPC01155_Drusilla_Brightblade_the_Wanderer]]
-- Affected by [[step_075]]
+- Affected by
 - See also: [[Compass Quest]]
 - Affected by [[step_078 (phase_023)]]
 - Affected by [[Merchant Marine Consortium]]

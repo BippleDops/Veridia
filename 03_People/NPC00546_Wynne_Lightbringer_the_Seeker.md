@@ -18,7 +18,6 @@ aliases: [NPC00546 Wynne Lightbringer the Seeker]
 - [[#Alaric Crystalbrook the Fallen (Family - Spouse)|Alaric Crystalbrook the Fallen (Family - Spouse)]]
 - [[#Jorah Moonshadow the Broken (Family - Parent)|Jorah Moonshadow the Broken (Family - Parent)]]
 
-
 ---
 aliases: ["Wynne Lightbringer the Seeker", "wynne lightbringer the seeker", "Wynne Lightbringer Seeker", "Seeker the Lightbringer Wynne"]
 tags: [npc, character]
@@ -152,31 +151,27 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.175Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Requires [[step_075]]
+- Requires
 - Requires [[step_074 (phase_015)]]
 - Parallels [[Assets Locations Location City Merchant Quarter V1 Merchant Quarter.svg]]
 - Requires [[Book of Ancient Secrets]]
 - Related: [[crafter-xphb (feats)]]
-- Affected by [[step_010]]
-- See also: [[step_042]]
+- Affected by
+- See also:
 - Parallels [[Location City Coral Seasweaver Coral Seasweaver.svg]]
 - Affected by [[step_060 (phase_074)]]
 - Requires [[City Development Plan (D&D_References)]]
@@ -194,7 +189,7 @@ Witnessed a crime
 - Influences [[step_004 (phase_007)]]
 - Influences [[location-city-crystal-mines-v1-crystal-mines.svg]]
 - Parallels [[ENC00021_Environmental_Encounter_22]]
-- Influences [[step_046]]
+- Influences
 - Originates from [[02_Worldbuilding_Lore_Marina''s_Identity_Crisis]]
 - Related: [[Assets Locations Location City Political Leader Reef Crown Political Leader Reef Crown.png]]
 - Affected by [[Ammunition Varies Ammunition Xphb]]
@@ -215,7 +210,7 @@ Witnessed a crime
 - Requires [[ITEM01345_Practical_Lock_of_Reliability]]
 - Compare with [[ability-checks-typical-difficulty-classes-phb (tables)]]
 - Parallels [[Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg]]
-- See also: [[step_033]]
+- See also:
 - See also: [[The Memory Weaver (D&D_References)]]
 - Requires [[Location City Lord Reginald Seaworthy V1 Lord Reginald Seaworthy.svg]]
 - Compare with [[Location City Port Meridian Market District Port Meridian Market District.svg]]
@@ -275,7 +270,6 @@ Witnessed a crime
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

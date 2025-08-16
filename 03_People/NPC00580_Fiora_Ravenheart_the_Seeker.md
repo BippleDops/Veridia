@@ -18,7 +18,6 @@ aliases: [NPC00580 Fiora Ravenheart the Seeker]
 - [[#Brenna Brightblade the Wise (Political - Ally)|Brenna Brightblade the Wise (Political - Ally)]]
 - [[#Baelor Voidwalker the Risen (Political - Opposition)|Baelor Voidwalker the Risen (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Fiora Ravenheart the Seeker", "fiora ravenheart the seeker", "Fiora Ravenheart Seeker", "Seeker the Ravenheart Fiora"]
@@ -148,27 +147,23 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.179Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -176,11 +171,10 @@ Being extorted by criminals
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -197,7 +191,7 @@ Being extorted by criminals
 - Originates from [[Location City Thalassa Lightbringer V1 Thalassa Lightbringer.png]]
 - Originates from [[Portrait NPC House Guard Captains House Guard Captains.svg]]
 - Parallels [[Dangerous Waters]]
-- Requires [[step_004]]
+- Requires
 - Leads to [[Portrait NPC Duke Cyrus Reefheart V1 Duke Cyrus Reefheart.svg_1 (Portraits)]]
 - Parallels [[step_062 (phase_042)]]
 - Originates from [[short-rest-xphb]]
@@ -208,7 +202,7 @@ Being extorted by criminals
 - Connects to [[QUEST00064_Side_Quest_65]]
 - See also: [[LOC00073_Cities_Location_74]]
 - Leads to [[gith-names-githzerai-female-mtf (tables)]]
-- Affected by [[step_019]]
+- Affected by
 - Leads to [[LOC00008_Wilderness_Location_9]]
 - Originates from [[Talisman of Ultimate Evil Xdmg]]
 - Related: [[ITEM00688_Mithril_Helm_of_Resistance]]
@@ -252,7 +246,7 @@ Being extorted by criminals
 - Compare with [[Hadal-Resistant Equipmen]]
 - Compare with [[LORE00176_Prophecies_Entry_177]]
 - See also: [[S-102_Downburst_Hammer]]
-- Related: [[step_011]]
+- Related:
 - Affected by [[Assets Art Banker Cornelius Goldflow.png]]
 - Compare with [[10-dungeon-masters-workshop (dungeon-masters-guide-2014)]]
 - See also: [[Symbol Heraldry the Carrion Court the Carrion Court.svg]]
@@ -276,20 +270,19 @@ Being extorted by criminals
 - Compare with [[Pressure Differential]]
 - See also: [[step_083 (phase_013)]]
 - Influences [[Information Systems Alliance]]
-- Influences [[step_092]]
+- Influences
 - See also: [[NPC00764_Faelyn_Blackstone_the_Bold]]
 - Influences [[SPELL00108_Nature_Spell_109]]
 - Requires [[Quest - The Deep Incursion_1 (01_Adventures)]]
 - Compare with [[LOC00162_Wilderness_Location_163]]
 - Influences [[step_031 (phase_005)]]
 - Leads to [[sleep-of-ages-trap-xge (traps-hazards)]]
-- Leads to [[step_068]]
+- Leads to
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

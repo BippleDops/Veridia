@@ -18,7 +18,6 @@ aliases: [NPC00710 Corvus Quicksilver the Scholar]
 - [[#Baelor Voidwalker the Redeemed (Professional - Mentor)|Baelor Voidwalker the Redeemed (Professional - Mentor)]]
 - [[#Qadim Proudmore the Swift (Criminal - Informant)|Qadim Proudmore the Swift (Criminal - Informant)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Corvus Quicksilver the Scholar", "corvus quicksilver the scholar", "Corvus Quicksilver Scholar", "Scholar the Quicksilver Corvus"]
@@ -151,27 +150,23 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.193Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -181,22 +176,21 @@ Being extorted by criminals
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Related: [[The Depth Reapers (D&D_References)]]
 - Connects to [[step_004 (phase_039)]]
 - Compare with [[LORE00302_Legends_Entry_303]]
-- Parallels [[step_036]]
+- Parallels
 - Requires [[Quest - The Perfect Purifier]]
-- Influences [[step_087]]
+- Influences
 - Parallels [[Keeper of Secrets Whisper Darkhold]]
-- Connects to [[step_085]]
+- Connects to
 - Connects to [[LORE00076_History_Entry_77]]
 - Influences [[Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg]]
 - Related: [[step_092 (phase_075)]]
@@ -204,7 +198,7 @@ Being extorted by criminals
 - Influences [[ITEM01456_Elegant_Spyglass_of_Durability]]
 - Connects to [[enspelled-armor-level-8-xdmg (items)]]
 - Originates from [[List Spells Optional Features Shroud of]]
-- Influences [[step_053]]
+- Influences
 - Compare with [[Thalassius the Wise 3 (D&D_References)]]
 - Compare with [[Assets Art Botanist Rose Sundrinker.png]]
 - See also: [[LOC00039_Cities_Location_40]]
@@ -212,7 +206,7 @@ Being extorted by criminals
 - Requires [[Research Chief Helena Datapoint]]
 - Leads to [[dire-worg-xmm (fey)]]
 - Parallels [[step_095 (phase_068)]]
-- Related: [[step_038]]
+- Related:
 - See also: [[ENC00141_Environmental_Encounter_142]]
 - See also: [[Derro Savant Mpmm]]
 - Originates from [[Lost Fleet 2]]
@@ -242,8 +236,8 @@ Being extorted by criminals
 - Leads to [[Needle Xphb]]
 - Parallels [[Clairvoyance Xphb]]
 - Affected by [[Marcus Clausewright (D&D_References)]]
-- Related: [[step_018]]
-- Related: [[step_023]]
+- Related:
+- Related:
 - Leads to [[Vehicle Ship Resonance Drive Yacht V2 Resonance Drive Yacht.svg]]
 - Requires [[The Shadowthorn Combat System (D&D_References)]]
 - Parallels [[bard-xphb-college-of-dance-xphb (classes)]]
@@ -272,7 +266,7 @@ Being extorted by criminals
 - Connects to [[step_034 (phase_040)]]
 - Originates from [[Operation Crystal Aegis]]
 - Requires [[two-weapon-fighting-xphb (feats)]]
-- Requires [[step_018]]
+- Requires
 - Leads to [[ITEM00150_Cursed_Bow_of_Wounding]]
 - Originates from [[Location City Trader Compass Rose V1 Trader Compass Rose.svg]]
 - See also: [[Portrait NPC Crystal Wardens V1 Crystal Wardens.svg]]
@@ -294,7 +288,6 @@ Being extorted by criminals
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

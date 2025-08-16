@@ -18,7 +18,6 @@ aliases: [NPC01118 Erasmus Youngblood the Lost]
 - [[#Corvus Ironwood the Seeker (Family - Cousin)|Corvus Ironwood the Seeker (Family - Cousin)]]
 - [[#Alaric Jadeclaw the Wise (Political - Puppet)|Alaric Jadeclaw the Wise (Political - Puppet)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Erasmus Youngblood the Lost", "erasmus youngblood the lost", "Erasmus Youngblood Lost", "Lost the Youngblood Erasmus"]
@@ -154,27 +153,23 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.239Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -185,11 +180,10 @@ Competitor sabotaging business
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -212,11 +206,11 @@ Competitor sabotaging business
 - Parallels [[NPC00208_Cedric_Oakenshield]]
 - Affected by [[Assets Locations Location City Memory Keeper Ancient Nerida Memory Keeper Ancient Nerida.svg]]
 - Affected by [[NPC01263_Drusilla_Nightfall_the_Strong]]
-- Originates from [[step_082]]
+- Originates from
 - Connects to [[step_028 (phase_049)]]
 - Related: [[step_014 (phase_081)]]
 - See also: [[The Screaming Gardens]]
-- Leads to [[step_096]]
+- Leads to
 - Affected by [[Stealth and Ambush Player]]
 - Related: [[Court Mage Tempest Shadowcryst]]
 - Influences [[step_030 (phase_022)]]
@@ -231,7 +225,7 @@ Competitor sabotaging business
 - Leads to [[Reality Anchor Monitoring]]
 - Leads to [[training-complications-xge (tables)]]
 - See also: [[AUDIO_LICENSE_README]]
-- Leads to [[step_053]]
+- Leads to
 - Originates from [[Bio-Mechanical Specialist Tide Lifeforge 2]]
 - Affected by [[DUN00053_Dungeon_54]]
 - Connects to [[Guild Organization (Guilds)]]
@@ -249,12 +243,12 @@ Competitor sabotaging business
 - Influences [[step_062 (phase_081)]]
 - Compare with [[The Party]]
 - Requires [[High Chancellor Nerissa Deepcurrent (D&D_References)]]
-- Requires [[step_002]]
+- Requires
 - Related: [[Bridge-Builder Community Center]]
 - Influences [[The Bone Colosseum (D&D_References)]]
 - Parallels [[MON00052_Constructs_Creature_53]]
 - Requires [[Shadow Society Hierarchy]]
-- Parallels [[step_058]]
+- Parallels
 - Parallels [[high-altitude-xdmg (traps-hazards)]]
 - Parallels [[The_Seahawk.png]]
 - Connects to [[Rare Ingredient Network (D&D_References)]]
@@ -264,12 +258,12 @@ Competitor sabotaging business
 - Compare with [[Blood Current Express]]
 - Requires [[Location City Taverner Bubbles Mcgill V1 Taverner Bubbles Mcgill.svg]]
 - Parallels [[Duke Cyrus Reefheart (D&D_References)]]
-- Influences [[step_074]]
+- Influences
 - Originates from [[step_014 (phase_039)]]
 - Related: [[Quest - Harbor Expansion_1 (01_Adventures)]]
 - Related: [[giant-constrictor-snake-xmm (beast)]]
 - Parallels [[LOC00226_Wilderness_Location_227]]
-- Parallels [[step_003]]
+- Parallels
 - Compare with [[Sacred Historian Coral Deepscribe (D&D_References)]]
 - Affected by [[LOC00081_Dungeons_Location_82]]
 - Parallels [[Pressure-Tube System (D&D_References)]]
@@ -292,13 +286,12 @@ Competitor sabotaging business
 - Related: [[Repeatable Feat List Xphb]]
 - Compare with [[step_075 (phase_030)]]
 - See also: [[Timeline of Crimes]]
-- Parallels [[step_029]]
+- Parallels
 
 ## Visual References
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

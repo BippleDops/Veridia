@@ -18,7 +18,6 @@ aliases: [NPC01863 Caelum Ironwood the Strong]
 - [[#Urien Frostwhisper the Strong (Political - Ally)|Urien Frostwhisper the Strong (Political - Ally)]]
 - [[#Drusilla Goldleaf the Mystic (Criminal - Fence)|Drusilla Goldleaf the Mystic (Criminal - Fence)]]
 
-
 ---
 aliases: ["Caelum Ironwood the Strong", "caelum ironwood the strong", "Caelum Ironwood Strong", "Strong the Ironwood Caelum"]
 tags: [npc, character]
@@ -151,28 +150,24 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.318Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - See also: [[step_009 (phase_042)]]
 - Affected by [[Field Operations Chief Marcus Ironheart 2]]
 - Connects to [[Dancing Lights Xphb]]
-- Requires [[step_059]]
+- Requires
 - Influences [[The Crystal Depths]]
 - Affected by [[step_099 (phase_013)]]
 - Parallels [[step_012 (phase_010)]]
@@ -185,7 +180,7 @@ Is secretly testing the party
 - Connects to [[The Shadow Surgeons (D&D_References)]]
 - Related: [[Great Crystal Lens]]
 - Requires [[Assets Locations Location City Quest Harbor Expansion Quest Harbor Expansion.svg]]
-- Compare with [[step_050]]
+- Compare with
 - Related: [[step_042 (phase_030)]]
 - Compare with [[Master of Whispers Shade-Tongue Aldric]]
 - Leads to [[ITEM01178_Lesser_Salve_of_Swiftness]]
@@ -198,7 +193,7 @@ Is secretly testing the party
 - Affected by [[Thalassa the Life-Weaver]]
 - Requires [[Pressure-Weighted Representation (D&D_References)]]
 - Leads to [[step_086 (phase_087)]]
-- Requires [[step_031]]
+- Requires
 - Influences [[gnome-baravar-cloakshadow-mtf (deities)]]
 - Parallels [[Dock Workers Guild]]
 - Influences [[Assets Art Whisper Witch Naia Softcurrent.png]]
@@ -213,16 +208,16 @@ Is secretly testing the party
 - Leads to [[Healing Temples (D&D_References)]]
 - Parallels [[Assets Locations Location City the Memory Storm Fields V1 the Memory Storm Fields.svg]]
 - Related: [[Detection Specialist Gleam Corruptwatch]]
-- Parallels [[step_049]]
+- Parallels
 - Related: [[QUEST00107_Side_Quest_108]]
-- Affected by [[step_027]]
+- Affected by
 - Originates from [[Unity Ambassador Cross-Current]]
 - Related: [[Eldritch Blast]]
 - Leads to [[Traditional Craftsmen Guild (Guilds)]]
 - Parallels [[LOC00181_Planes_Location_182]]
 - Related: [[ENC0065_Random_Encounter_66]]
 - Compare with [[The Hammer Squad]]
-- Related: [[step_098]]
+- Related:
 - Compare with [[United Councils of Both Worlds 3 (D&D_References)]]
 - Influences [[Tribune Maelstrom]]
 - Related: [[Scene Scene Deep Mother S Tentacles Rising Deep Mother S Tentacles Rising.svg]]
@@ -263,7 +258,7 @@ Is secretly testing the party
 - See also: [[Assets Locations Location City Song Merrytide Song Merrytide.svg]]
 - See also: [[portrait-npc-tenebrarum-v2-tenebrarum.svg]]
 - Influences [[Assets Locations Location City Builder Coral Architect Builder Coral Architect.png]]
-- See also: [[step_005]]
+- See also:
 - Affected by [[step_093 (phase_019)]]
 - Parallels [[Scene Scene Shadow Market Under Rain V2 Shadow Market Under Rain.png]]
 - Affected by [[Session 4 Battle Above Clouds]]
@@ -274,7 +269,6 @@ Is secretly testing the party
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

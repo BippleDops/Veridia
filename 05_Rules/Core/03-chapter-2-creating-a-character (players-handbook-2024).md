@@ -18,7 +18,6 @@ aliases: [03-chapter-2-creating-a-character (players-handbook-2024)]
 - [[#Prep Checklist|Prep Checklist]]
 - [[#Npcs Needed|Npcs Needed]]
 
-
 ---
 
 title: 03-chapter-2-creating-a-character (players-handbook-2024)
@@ -131,36 +130,29 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - **Reddit r/Unearthed Arcana**: Community discussions
 - **One D&D Playtest**: D&D Beyond exclusive
 
-
 ## Notes
 
 *Additional notes*
-
 
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 > [!dm] DM Note
 > Ancient magic still lingers here
@@ -191,8 +183,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 Connected to the main villain's plan
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -202,11 +193,10 @@ Connected to the main villain's plan
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -225,7 +215,7 @@ Connected to the main villain's plan
 
 ## Connections
 
-- Parallels [[step_092]]
+- Parallels
 - Connects to [[Lumengarde Republi]]
 - Affected by [[Sage of Two Worlds (D&D_References)]]
 - Influences [[Assets Locations Location City Surface Contact Prohibition Surface Contact Prohibition.svg]]
@@ -303,9 +293,9 @@ Connected to the main villain's plan
 - Related: [[Assets Locations Location City Foreign Affairs Foreign Affairs.svg]]
 - Connects to [[The Deep Market]]
 - Connects to [[Medical Applications Coordinator (D&D_References)]]
-- Affected by [[step_027]]
+- Affected by
 - Related: [[Keeper Stormheart (D&D_References)]]
-- Affected by [[step_076]]
+- Affected by
 - Requires [[LOC00098_Towns_Location_99]]
 - See also: [[step_086 (phase_029)]]
 - Related: [[step_062 (phase_074)]]

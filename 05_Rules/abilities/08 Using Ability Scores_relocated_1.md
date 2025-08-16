@@ -18,7 +18,6 @@ aliases: [08 Using Ability Scores]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 08 Using Ability Scores
@@ -55,11 +54,9 @@ world: Both
 
 - Someone is protecting an heir for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[08 Using Ability Scores#ability Checks; Typical Difficulty Classes]]
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This character is not who they seem
@@ -103,8 +100,7 @@ Connected to the main villain's plan
 - [[NPC00395_Aeliana_Thornweave]]
 - [[Propaganda_Leaflet_Pearl_Guar]]
 - [[NPC01041_Thalia_Dawnstrider_the_Lost]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -114,7 +110,6 @@ Connected to the main villain's plan
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -140,7 +135,7 @@ Connected to the main villain's plan
 - Parallels [[Gareth Ironforge]]
 - Compare with [[step_078 (phase_025)]]
 - Affected by [[Archive_Optimizers]]
-- Parallels [[step_054]]
+- Parallels
 - Requires [[LOC00126_Cities_Location_127]]
 - Leads to [[step_087 (phase_062)]]
 - Originates from [[NPC00040_Gareth_Ironwood_the_Guardian]]
@@ -153,7 +148,7 @@ Connected to the main villain's plan
 - Requires [[step_006 (phase_010)]]
 - Requires [[astral-skiff-mtf (vehicles)]]
 - Influences [[Witness Protection Protocols]]
-- Affected by [[step_044]]
+- Affected by
 - Parallels [[step_050 (phase_023)]]
 - Connects to [[Location City Tide Bondkeeper V1 Tide Bondkeeper.svg]]
 - Related: [[The Divine Reunion (D&D_References)]]
@@ -174,7 +169,7 @@ Connected to the main villain's plan
 - Connects to [[step_006 (phase_016)]]
 - Leads to [[Home Embeds Vault Graph]]
 - Parallels [[dragonborn-names-clan-xge (tables)]]
-- Requires [[step_016]]
+- Requires
 - Parallels [[step_051 (phase_047)]]
 - Affected by [[Riding Horse Xmm]]
 - Requires [[NPC00023_Corvus_Ashford_the_Mystic]]
@@ -188,14 +183,14 @@ Connected to the main villain's plan
 - Requires [[Communications Center 2]]
 - Leads to [[Amnesia Gallery]]
 - Connects to [[step_098 (phase_086)]]
-- Leads to [[step_057]]
+- Leads to
 - Connects to [[Travel_Rules]]
 - Originates from [[Human Names Niger Congo Female Xge]]
 - See also: [[LOC00048_Cities_Location_49]]
 - Parallels [[NPC00178_Ewan_Emberfall_the_Cunning]]
 - Parallels [[step_003 (phase_075)]]
 - Compare with [[Storm-Caller Staff]]
-- Influences [[step_037]]
+- Influences
 - Related: [[Elder Scribe Marcus the Lost]]
 - Influences [[Reliquary Charm Xdmg]]
 - See also: [[jeweled-platinum-ring-xdmg (items)]]
@@ -206,7 +201,7 @@ Connected to the main villain's plan
 - Connects to [[LOC00297_Planes_Location_298]]
 - Parallels [[Admiral Cordelia Tidewright (D&D_References)]]
 - Leads to [[Senator Glaucus Brain (People)]]
-- Affected by [[step_033]]
+- Affected by
 - See also: [[emerald-xdmg (items)]]
 - Connects to [[LOC00174_Cities_Location_175]]
 - Compare with [[step_062 (phase_008)]]
@@ -217,7 +212,7 @@ Connected to the main villain's plan
 - Influences [[Artifact Properties Major Detrimental]]
 - Affected by [[NPC01430_Rhiannon_Oakenshield_the_Cunning]]
 - Parallels [[Symbol Heraldry Fin... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Related: [[step_002]]
+- Related:
 - Affected by [[Dataview Query Guide (D&D_References)]]
 - Requires [[Power Word Pain Xge]]
 - Related: [[Senator Abyssos Traditionkeeper]]

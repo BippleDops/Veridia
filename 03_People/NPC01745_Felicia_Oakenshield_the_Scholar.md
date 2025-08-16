@@ -18,7 +18,6 @@ aliases: [NPC01745 Felicia Oakenshield the Scholar]
 - [[#Solas Ashford the Scholar (Criminal - Informant)|Solas Ashford the Scholar (Criminal - Informant)]]
 - [[#Caelum Quicksilver the Fallen (Personal - Childhood friend)|Caelum Quicksilver the Fallen (Personal - Childhood friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Felicia Oakenshield the Scholar", "felicia oakenshield the scholar", "Felicia Oakenshield Scholar", "Scholar the Oakenshield Felicia"]
@@ -156,16 +155,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.305Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -198,11 +194,10 @@ Blackmails party into service
 - [[11 Rules Glossary]]
 - [[MOC_Items]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -211,11 +206,10 @@ Blackmails party into service
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -229,9 +223,9 @@ Blackmails party into service
 - Related: [[Assets Locations Location City Terminal Director Admiral Current Swiftflow Terminal Director Admiral Current Swiftflow.svg]]
 - See also: [[QUEST00284_Side_Quest_285]]
 - Parallels [[Port Meridian Council Chamber (D&D_References)]]
-- Affected by [[step_066]]
+- Affected by
 - Affected by [[Assets Locations Location City Port Meridian Market District V1 Port Meridian Market District.svg]]
-- Related: [[step_071]]
+- Related:
 - See also: [[pets-beholder-lesser-minions-vgm (tables)]]
 - Related: [[Advanced Shadow Scanners]]
 - Requires [[Shadow Broker Maximian Darkmarket (D&D_References)]]
@@ -251,7 +245,7 @@ Blackmails party into service
 - Requires [[side-quests (tables)]]
 - Related: [[DUN00105_Dungeon_106]]
 - Leads to [[Item Artifact Ioun Stone Greater Absorption Xdmg V7 Ioun Stone Greater Absorption Xdmg.png]]
-- Related: [[step_094]]
+- Related:
 - Compare with [[QUEST00098_Side_Quest_99]]
 - Originates from [[step_096 (phase_089)]]
 - Requires [[The Enforcement Citadel (D&D_References)]]
@@ -279,7 +273,7 @@ Blackmails party into service
 - Influences [[step_081 (phase_011)]]
 - See also: [[step_064 (phase_007)]]
 - Affected by [[NPC01541_Zephyr_Xendar_the_Wise]]
-- Compare with [[step_094]]
+- Compare with
 - Parallels [[Assets Locations Location City Deep Harbor Technology V1 Deep Harbor Technology.svg]]
 - Compare with [[NPC01381_Hilda_Underhill_the_Fallen]]
 - Affected by [[NPC4 (People)]]
@@ -290,7 +284,7 @@ Blackmails party into service
 - Leads to [[Session 04 the Deep Mother Stirs]]
 - Affected by [[Tides of Destiny Introduction]]
 - Leads to [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]
-- Influences [[step_059]]
+- Influences
 - Parallels [[Compass Quest]]
 - Related: [[NPC01736_Corvus_Hawthorne_the_Wise]]
 - Originates from [[NPC01428_Malakai_Ashford_the_Scholar]]
@@ -324,7 +318,6 @@ Blackmails party into service
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

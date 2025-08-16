@@ -9,7 +9,6 @@ aliases: [NPC01729 Kaelen Dawnstrider the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01729 Kaelen Dawnstrider the Fallen]
 - [[#Drusilla Moonshadow the Redeemed (Family - Spouse)|Drusilla Moonshadow the Redeemed (Family - Spouse)]]
 - [[#Cedric Ironforge the Wise (Criminal - Target)|Cedric Ironforge the Wise (Criminal - Target)]]
 - [[#Nerys Emberfall the Wise (Personal - Love interest)|Nerys Emberfall the Wise (Personal - Love interest)]]
-
 
 ---
 created: 2025-08-15
@@ -156,25 +154,20 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.304Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -194,7 +187,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.127
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -204,15 +197,14 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- Requires [[step_010]]
+- Requires
 - Originates from [[NPC01703_Elric_Goldleaf_the_Swift]]
 - Leads to [[ITEM0045_Forgotten_Gauntlet_of_Power]]
 - Leads to [[Portrait NPC Fence Queen Sticky Fingers Sal V1 Fence Queen Sticky Fingers Sal.svg]]
@@ -221,7 +213,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Private Arbitration]]
 - Influences [[NPC00462_Fiora_Ironforge_the_Seeker]]
 - Influences [[Pressure Terminal (D&D_Statblocks)]]
-- Leads to [[step_071]]
+- Leads to
 - Originates from [[using-a-published-setting-d-d-settings-xdmg (tables)]]
 - Leads to [[SPELL00063_Nature_Spell_64]]
 - Affected by [[The Great Mother Tree (D&D_References)]]
@@ -250,7 +242,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[ring-of-shooting-stars-xdmg (items)]]
 - Leads to [[step_032 (phase_073)]]
 - Connects to [[The Shipwright Guilds (Guilds)]]
-- Originates from [[step_021]]
+- Originates from
 - Leads to [[S-004_Cloud_Canyon]]
 - Connects to [[Quick_Rules_Reference]]
 - Leads to [[dagger-xphb (items)]]
@@ -261,14 +253,14 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[portrait-npc-the-senator-the-senator.svg]]
 - Leads to [[Fear Xphb]]
 - Related: [[NPC01278_Rhiannon_Goldleaf_the_Fallen]]
-- Influences [[step_097]]
+- Influences
 - Parallels [[Assets Locations Location City the Trencher Folk the Trencher Folk.svg]]
 - Leads to [[Hobgoblin Dmg]]
 - Compare with [[Reference Homebrew Races]]
 - Parallels [[The Salt Merchants]]
 - Parallels [[Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg_1 (Portraits)]]
 - Influences [[ITEM00380_Blazing_Axe_of_the_Ancients]]
-- See also: [[step_065]]
+- See also:
 - Leads to [[step_012 (phase_043)]]
 - Affected by [[Quest - Portal Conspiracy 2]]
 - Leads to [[Portrait NPC Duke Theron Depthguard V1 Duke Theron Depthguard.svg_1 (Portraits)]]
@@ -285,12 +277,12 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Clockwork Oaken Bolter Mpmm]]
 - See also: [[QUEST00426_Side_Quest_427]]
 - Leads to [[Archdruid Marina Kelpweaver (D&D_References)]]
-- Leads to [[step_002]]
+- Leads to
 - Related: [[Sunsword Cos]]
 - Related: [[Secondary Tables Weird Stuff Xge]]
 - Leads to [[Assets Symbols Symbol Heraldry Scream Crystals Scream Crystals.svg]]
 - Leads to [[Scene Scene Cloud Citadel Duel V2 Cloud Citadel Duel.svg]]
-- Influences [[step_050]]
+- Influences
 - Originates from [[step_005 (phase_056)]]
 - Affected by [[SPELL00104_Arcane_Spell_105]]
 - Leads to [[The Wind Altar]]
@@ -298,8 +290,8 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[step_006 (phase_083)]]
 - Compare with [[Lore_1 (02_Worldbuilding)]]
 - Influences [[Ammunition Varies Ammunition Xphb]]
-- Leads to [[step_002]]
-- Compare with [[step_032]]
+- Leads to
+- Compare with
 - See also: [[step_078 (phase_024)]]
 - See also: [[NPC01261_Wynne_Keenblade_the_Wanderer]]
 - Affected by [[Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop V2 Hybrid Rift Runner Sloop.png]]

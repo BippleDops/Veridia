@@ -18,7 +18,6 @@ aliases: [NPC01234 Nerys Dawnstrider the Strong]
 - [[#Qadim Thornweave the Redeemed (Family - Cousin)|Qadim Thornweave the Redeemed (Family - Cousin)]]
 - [[#Urien Ironwood the Cunning (Political - Ally)|Urien Ironwood the Cunning (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Nerys Dawnstrider the Strong", "nerys dawnstrider the strong", "Nerys Dawnstrider Strong", "Strong the Dawnstrider Nerys"]
@@ -153,25 +152,20 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.251Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -189,7 +183,7 @@ Following magic item guidelines (WWT p.135-136):
 - Bestiary Compendium (BC) p.32
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -197,20 +191,19 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Influences [[step_061 (phase_073)]]
-- Affected by [[step_063]]
+- Affected by
 - See also: [[actor-xphb (feats)]]
 - Affected by [[Lady Pelagic (D&D_References)]]
 - Parallels [[Liche (D&D_References)]]
-- Originates from [[step_087]]
+- Originates from
 - Connects to [[Portrait NPC the Current Merchants the Current Merchants.svg_1 (Portraits)]]
 - Influences [[ITEM00376_Venomous_Axe_of_Slaying]]
 - Influences [[Secular Community Practices]]
@@ -219,10 +212,10 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[step_042 (phase_088)]]
 - Requires [[step_048 (phase_031)]]
 - Related: [[step_048 (phase_048)]]
-- Connects to [[step_078]]
+- Connects to
 - Originates from [[Portrait NPC Lady Elena the Eternal Lady Elena the Eternal.svg]]
-- Leads to [[step_093]]
-- Compare with [[step_017]]
+- Leads to
+- Compare with
 - Affected by [[NPC01651_Cedric_Winterborn_the_Seeker]]
 - Connects to [[NPC0099_Tara_Goldleaf]]
 - Compare with [[The Silent Watcher 2]]
@@ -236,7 +229,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Quest - Protect the Truth 2]]
 - Compare with [[NPC01638_Vesper_Silverleaf_the_Scholar]]
 - Affected by [[Electric Eel 2]]
-- Parallels [[step_060]]
+- Parallels
 - Originates from [[red-slaad-xmm (aberration)]]
 - See also: [[step_062 (phase_045)]]
 - Influences [[ITEM01053_Pure_Elixir_of_Vigor]]
@@ -249,7 +242,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Portrait NPC the Shadow Warren V2 the Shadow Warren.svg_1 (Portraits)]]
 - Connects to [[MON00060_Undead_Creature_61]]
 - Affected by [[NPC00062_Aldric_Jadeclaw_the_Cunning]]
-- Leads to [[step_081]]
+- Leads to
 - Leads to [[The Umbral Infirmary]]
 - Compare with [[SHOP00030_Specialty_Shop_31]]
 - Requires [[Divine Communication Studies (D&D_References)]]
@@ -258,14 +251,14 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Magic Mouth Xphb]]
 - Parallels [[03_Mechanics_Rules_Reference_Quick_Reference_DnD5e-SideScreen-2024_Quick_Ref]]
 - Influences [[Dolphin (D&D_References)]]
-- Compare with [[step_019]]
+- Compare with
 - Connects to [[step_088 (phase_016)]]
 - Originates from [[ENC00377_Combat_Encounter_378]]
 - Requires [[Information Exchange (D&D_References)]]
 - Influences [[The Cleaner (D&D_References)]]
 - Connects to [[The Order of Silent Depths (Orders)]]
 - See also: [[step_057 (phase_088)]]
-- Connects to [[step_078]]
+- Connects to
 - Parallels [[step_035 (phase_093)]]
 - See also: [[step_095 (phase_015)]]
 - Parallels [[ENC00488_Combat_Encounter_489]]
@@ -279,15 +272,15 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Void-Echo Silence Deafmake (D&D_References)]]
 - Originates from [[talisman-of-the-sphere-xdmg (items)]]
 - See also: [[Public Safety]]
-- Compare with [[Quest   The Failing Magic]]
-- Compare with [[step_068]]
+- Compare with [[Quest The Failing Magic]]
+- Compare with
 - Leads to [[Item Mastery]]
-- Related: [[step_085]]
+- Related:
 - See also: [[NPC00500_Wynne_Ashford_the_Wise]]
 - See also: [[step_058 (phase_083)]]
 - Parallels [[step_065 (phase_085)]]
 - Compare with [[LORE00286_Legends_Entry_287]]
-- Affected by [[step_079]]
+- Affected by
 - Related: [[Elemental Spirit Air Xphb]]
 - Affected by [[step_078 (phase_035)]]
 - Affected by [[ENC00199_Environmental_Encounter_200]]
@@ -296,7 +289,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Location City Healer Tide Touch Healer Tide Touch.svg]]
 - Leads to [[Abyssal Cartel (D&D_References)]]
 - Connects to [[Infinite Mathematics Divisio]]
-- Affected by [[step_098]]
+- Affected by
 - Requires [[hunter-shark-xmm (beast)]]
 - Parallels [[Map World Layer Magical Phenomena and Storm Tracks V2 Magical Phenomena and Storm Tracks.svg]]
 - See also: [[MON00116_Constructs_Creature_117]]
@@ -310,7 +303,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01257 Jorah Youngblood the Wise]
 - [[#Lyanna Ravenheart the Lost (Professional - Rival)|Lyanna Ravenheart the Lost (Professional - Rival)]]
 - [[#Corvus Jadeclaw the Scholar (Political - Opposition)|Corvus Jadeclaw the Scholar (Political - Opposition)]]
 
-
 ---
 aliases: ["Jorah Youngblood the Wise", "jorah youngblood the wise", "Jorah Youngblood Wise", "Wise the Youngblood Jorah"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.253Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,12 +170,12 @@ Has information about legendary item
 - Leads to [[step_061 (phase_031)]]
 - Requires [[polar-bear-xmm]]
 - Compare with [[NPC00066_Drusilla_Lightbringer_the_Wanderer]]
-- Connects to [[step_021]]
+- Connects to
 - Affected by [[command-xphb (spells)]]
 - Originates from [[beguiling-influence (optional-features)]]
 - Connects to [[SHOP00030_Magical_Shop_31]]
 - Originates from [[Quest - The Crimson Tide_1 (01_Adventures)]]
-- Leads to [[step_070]]
+- Leads to
 - Originates from [[Dr. Melissa Healwright]]
 - See also: [[lucky-xphb (feats)]]
 - See also: [[dimetrodon-mpmm (beast)]]
@@ -196,11 +191,11 @@ Has information about legendary item
 - Originates from [[ITEM00981_Lesser_Salve_of_Swiftness]]
 - Parallels [[Stop the Crystal Festival Ritual]]
 - Related: [[Wind Song Linguistic Guide 2]]
-- See also: [[step_078]]
+- See also:
 - Originates from [[04_Resources_Assets_Symbols_symbol-heraldry-crisis-response-service-crisis-response-service.svg]]
 - Compare with [[M L-07 the Anchor Cataclysm Player]]
-- Related: [[step_042]]
-- See also: [[step_009]]
+- Related:
+- See also:
 - Connects to [[QUEST0044_Wizard's_Revenge]]
 - Compare with [[Seal Vault Complex]]
 - Parallels [[List Spells Optional Features Flames of the Phoenix]]
@@ -211,7 +206,7 @@ Has information about legendary item
 - Originates from [[LORE00001_Prophecies_Entry_2]]
 - Requires [[swarm-of-dretches-xmm (fiend)]]
 - Connects to [[EVENT00083_Magical_Event_84]]
-- Influences [[step_050]]
+- Influences
 - Originates from [[NPC00825_Wynne_Darkwater_the_Bold]]
 - Related: [[3 Bestiary]]
 - Compare with [[Bookmark_Collections]]
@@ -233,7 +228,7 @@ Has information about legendary item
 - Compare with [[Master Cultivator Apprenticeship (Cults_and_Movements)]]
 - Connects to [[Rod of Absorption Xdmg]]
 - Influences [[The Zone Map Codex 2]]
-- Leads to [[step_074]]
+- Leads to
 - Parallels [[Exotic Saddle Xphb]]
 - Originates from [[MON00031_Aberrations_Creature_32]]
 - Requires [[LORE00220_Legends_Entry_221]]
@@ -267,7 +262,6 @@ Has information about legendary item
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

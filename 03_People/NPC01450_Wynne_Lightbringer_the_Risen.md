@@ -18,7 +18,6 @@ aliases: [NPC01450 Wynne Lightbringer the Risen]
 - [[#Orion Ironforge the Cunning (Family - Sibling)|Orion Ironforge the Cunning (Family - Sibling)]]
 - [[#Lyanna Ironwood the Redeemed (Professional - Partner)|Lyanna Ironwood the Redeemed (Professional - Partner)]]
 
-
 ---
 aliases: ["Wynne Lightbringer the Risen", "wynne lightbringer the risen", "Wynne Lightbringer Risen", "Risen the Lightbringer Wynne"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.274Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -180,7 +175,7 @@ Needs help with personal quest
 - Related: [[The Crystal Council 3 (D&D_References)]]
 - Originates from [[The Sundered Peaks_1]]
 - See also: [[step_073 (phase_092)]]
-- Compare with [[step_079]]
+- Compare with
 - Compare with [[DUN00182_Dungeon_183]]
 - Influences [[Location City Great Plague of Ages Past V1 Great Plague of Ages Past.svg]]
 - Originates from [[step_011 (phase_069)]]
@@ -204,7 +199,7 @@ Needs help with personal quest
 - Connects to [[step_082 (phase_011)]]
 - Related: [[Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg]]
 - Leads to [[SPELL00153_Divine_Spell_154]]
-- Parallels [[step_051]]
+- Parallels
 - Originates from [[step_016 (phase_057)]]
 - Originates from [[Emergency_Navigation_Response (02_Worldbuilding)]]
 - Affected by [[Murgaxors Orb Scc]]
@@ -213,7 +208,7 @@ Needs help with personal quest
 - Connects to [[Assets Locations Location City Merchant Prince Akula Merchant Prince Akula.png]]
 - Related: [[raven-xmm (beast)]]
 - Connects to [[Character Backstories]]
-- Originates from [[step_044]]
+- Originates from
 - Influences [[NPC00254_Xander_Voidwalker_the_Guardian]]
 - Connects to [[NPC01462_Erasmus_Dawnstrider_the_Lost]]
 - Influences [[Location City Deep Mother Spawning Pools Deep Mother Spawning Pools.svg]]
@@ -223,20 +218,20 @@ Needs help with personal quest
 - Parallels [[Assets Locations Location City Traditional Elder Wisdom Keeper Traditional Elder Wisdom Keeper.svg]]
 - Affected by [[LOC00078_Towns_Location_79]]
 - See also: [[NPC0031_Freya_Stormwind]]
-- Affected by [[step_098]]
+- Affected by
 - See also: [[Monster Stats]]
 - Leads to [[step_025 (phase_037)]]
 - Originates from [[actions#Disengage]]
 - Leads to [[Vex Shadowthorn (D&D_References)]]
 - Parallels [[LORE00302_History_Entry_303]]
 - Connects to [[step_041 (phase_061)]]
-- Requires [[step_023]]
+- Requires
 - Compare with [[Nothic Xmm]]
 - Requires [[Eldritch Secret]]
 - Leads to [[NPC00073_Jorah_Darkwater_the_Lost]]
 - Influences [[Ice Kingdom Spirits (D&D_References)]]
 - Compare with [[ENC0014_Random_Encounter_15]]
-- Requires [[step_073]]
+- Requires
 - Influences [[step_016 (phase_055)]]
 - See also: [[The Twilight Gardens (D&D_References)]]
 - Affected by [[QUEST00115_Main_Quest_116]]
@@ -262,7 +257,7 @@ Needs help with personal quest
 - Compare with [[Black Pearl Xdmg]]
 - Influences [[Portrait NPC Lord Admiral Gaius Windcutter Lord Admiral Gaius Windcutter.svg]]
 - Affected by [[Assets Locations Location City Noble Council V1 Noble Council.png]]
-- See also: [[step_062]]
+- See also:
 - Leads to [[Amulet of the Planes Xdmg]]
 - Affected by [[ITEM00509_Ethereal_Plate_of_the_Guardian]]
 - See also: [[step_053 (phase_095)]]
@@ -271,7 +266,6 @@ Needs help with personal quest
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

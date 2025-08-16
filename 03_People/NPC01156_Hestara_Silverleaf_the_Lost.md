@@ -18,7 +18,6 @@ aliases: [NPC01156 Hestara Silverleaf the Lost]
 - [[#Cedric Dawnstrider the Broken (Political - Patron)|Cedric Dawnstrider the Broken (Political - Patron)]]
 - [[#Alaric Darkwater the Strong (Family - Parent)|Alaric Darkwater the Strong (Family - Parent)]]
 
-
 ---
 aliases: ["Hestara Silverleaf the Lost", "hestara silverleaf the lost", "Hestara Silverleaf Lost", "Lost the Silverleaf Hestara"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.243Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -174,12 +169,12 @@ Seeks rare merchandise
 - Parallels [[step_069 (phase_066)]]
 - Compare with [[Port Meridian Council Chamber (D&D_References)]]
 - Related: [[Assets Locations Location City Deep Watchfulrest V1 Deep Watchfulrest.svg]]
-- Parallels [[step_008]]
+- Parallels
 - Connects to [[04_Resources_Assets_Locations_location-city-court-herald-master-proclamation-crownvoice-v1-court-herald-master-proclamation-crownvoice.svg]]
 - See also: [[Disease and Plague System (D&D_References)]]
-- Affected by [[step_052]]
+- Affected by
 - Originates from [[The Wind Roads (D&D_References)]]
-- Parallels [[step_068]]
+- Parallels
 - Originates from [[Sea Witches]]
 - See also: [[Wand Xphb]]
 - Connects to [[Symbol Heraldry the Question Council V1 the Question Council.svg]]
@@ -209,7 +204,7 @@ Seeks rare merchandise
 - Affected by [[Reflection Captain Vantage]]
 - Originates from [[Portrait NPC Pirate Lords of the Spiral Depths Pirate Lords of the Spiral Depths.svg]]
 - See also: [[step_053 (phase_011)]]
-- Requires [[step_040]]
+- Requires
 - Connects to [[Law Enforcement (Lore)]]
 - Connects to [[Counter-Mirror Task Force (D&D_References)]]
 - Compare with [[Quest - Shadow Integration]]
@@ -271,7 +266,6 @@ Seeks rare merchandise
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

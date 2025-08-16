@@ -18,7 +18,6 @@ aliases: [NPC01203 Caelum Silverleaf the Broken]
 - [[#Idris Voidwalker the Bold (Criminal - Informant)|Idris Voidwalker the Bold (Criminal - Informant)]]
 - [[#Kaelen Ashford the Scholar (Criminal - Fence)|Kaelen Ashford the Scholar (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Caelum Silverleaf the Broken", "caelum silverleaf the broken", "Caelum Silverleaf Broken", "Broken the Silverleaf Caelum"]
@@ -155,25 +154,20 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.248Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -191,7 +185,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.269
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -200,11 +194,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -254,9 +247,9 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[ITEM01014_Superior_Incense_of_Clarity]]
 - Leads to [[NPC00999_Pyria_Stormwind_the_Risen]]
 - Parallels [[Portrait NPC Sir Ruben Redtape V2 Sir Ruben Redtape.svg_1 (Portraits)]]
-- Originates from [[step_006]]
+- Originates from
 - Affected by [[step_094 (phase_047)]]
-- Requires [[step_020]]
+- Requires
 - Connects to [[Lady Resistance Brightshield]]
 - Originates from [[Greater Restoration Xphb]]
 - Parallels [[Location City the Living Weapon the Living Weapon.svg]]
@@ -298,7 +291,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[NPC01896_Qadim_Blackstone_the_Wise]]
 - Compare with [[step_085 (phase_043)]]
 - Related: [[ITEM00502_Enchanted_Gauntlets_of_Protection]]
-- Affected by [[step_090]]
+- Affected by
 - Influences [[Knight of the Order Cos]]
 - Affected by [[step_059 (phase_020)]]
 - See also: [[step_005 (phase_083)]]
@@ -313,7 +306,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01190 Branwen Voidwalker the Wanderer]
 - [[#Erasmus Brightblade the Guardian (Criminal - Fence)|Erasmus Brightblade the Guardian (Criminal - Fence)]]
 - [[#Corvus Lightbringer the Swift (Political - Puppet)|Corvus Lightbringer the Swift (Political - Puppet)]]
 
-
 ---
 aliases: ["Branwen Voidwalker the Wanderer", "branwen voidwalker the wanderer", "Branwen Voidwalker Wanderer", "Wanderer the Voidwalker Branwen"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.246Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -174,7 +169,7 @@ Seeks rare merchandise
 - Parallels [[NPC01952_Branwen_Brightblade_the_Wise]]
 - Parallels [[The Masked Broker]]
 - Related: [[step_037 (phase_004)]]
-- Connects to [[step_012]]
+- Connects to
 - Affected by [[step_095 (phase_098)]]
 - See also: [[LORE00318_History_Entry_319]]
 - Related: [[ITEM00956_Distilled_Incense_of_Clarity]]
@@ -194,7 +189,7 @@ Seeks rare merchandise
 - Compare with [[EVENT00070_Magical_Event_71]]
 - Related: [[step_041 (phase_089)]]
 - Influences [[QUEST00069_Main_Quest_70]]
-- Influences [[step_046]]
+- Influences
 - Parallels [[step_060 (phase_007)]]
 - Influences [[location-city-crystal-speak-v1-crystal-speak.png]]
 - Parallels [[The Void Seekers]]
@@ -223,7 +218,7 @@ Seeks rare merchandise
 - Affected by [[04_Resources_Assets_Symbols_symbol-heraldry-border-territories-border-territories.svg]]
 - Related: [[step_010 (phase_058)]]
 - Influences [[Assets Locations Location City Surface Contact Prohibition Surface Contact Prohibition.svg]]
-- Related: [[step_009]]
+- Related:
 - Requires [[step_081 (phase_063)]]
 - See also: [[step_012 (phase_050)]]
 - Parallels [[step_048 (phase_022)]]
@@ -236,7 +231,7 @@ Seeks rare merchandise
 - Originates from [[SHOP00006_Specialty_Shop_7]]
 - Connects to [[step_029 (phase_099)]]
 - Parallels [[The Heart of Convergence]]
-- Parallels [[step_038]]
+- Parallels
 - Related: [[step_067 (phase_082)]]
 - Influences [[QUEST00158_Side_Quest_159]]
 - Affected by [[step_088 (phase_041)]]
@@ -261,7 +256,7 @@ Seeks rare merchandise
 - Parallels [[Portrait NPC Goldwave Financial Offices V1 Goldwave Financial Offices.svg]]
 - Requires [[Void-Keeper Null]]
 - Originates from [[Vault Prime]]
-- See also: [[step_074]]
+- See also:
 - Influences [[Assets Item Artifact Weird Tank Pota V1 Weird Tank Pota.png]]
 - Compare with [[Shadow_Separation_Syndrome]]
 - Originates from [[Portrait NPC Lord Magnus Goldspire V1 Lord Magnus Goldspire.svg]]
@@ -271,7 +266,6 @@ Seeks rare merchandise
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

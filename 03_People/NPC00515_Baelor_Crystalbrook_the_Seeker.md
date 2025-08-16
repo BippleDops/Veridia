@@ -18,7 +18,6 @@ aliases: [NPC00515 Baelor Crystalbrook the Seeker]
 - [[#Kaelen Hawthorne the Cunning (Professional - Partner)|Kaelen Hawthorne the Cunning (Professional - Partner)]]
 - [[#Elric Jadeclaw the Fallen (Criminal - Informant)|Elric Jadeclaw the Fallen (Criminal - Informant)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Baelor Crystalbrook the Seeker", "baelor crystalbrook the seeker", "Baelor Crystalbrook Seeker", "Seeker the Crystalbrook Baelortags: [npc, character, combat, magic, lore]er]
@@ -148,16 +147,13 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.172Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -170,7 +166,6 @@ Modifications:
 - AC: 14
 - Notable abilities: Varies by individual
 
-
 > [!warning] ⚠️ Warning
 > Important safety or rule information
 
@@ -181,11 +176,10 @@ Modifications:
 - [[NPC00707_Fiora_Oakenshield_the_Seeker]]
 - [[NPC00307_Dara_Proudmore_the_Seeker]]
 - [[NPC01568_Lyanna_Winterborn_the_Strong]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -193,11 +187,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -242,10 +235,10 @@ Modifications:
 - Compare with [[NPC0137_Rhea_Darkwater_the_Elder]]
 - Leads to [[Creating a Gnoll War Band Shared Physical Trait Vgm]]
 - Originates from [[baboon-xmm (beast)]]
-- Leads to [[step_039]]
+- Leads to
 - Related: [[Assets Locations Location City [[Captain Echo]] V1 Captain Echo.svg]]
-- Compare with [[step_034]]
-- Parallels [[step_059]]
+- Compare with
+- Parallels
 - Affected by [[Temple of Sacred Dreams]]
 - Originates from [[Down[[Time]] Activity Carousing]]
 - Parallels [[Assets Locations [[Location City [[Education Department]] V1 Education Department.svg]]]]
@@ -279,22 +272,22 @@ Modifications:
 - Connects to [[Location City the [[Free Current]] V1 [[The Free Current]].svg]]
 - Leads to [[The Pearl Divers Guild (Guilds)]]
 - Parallels [[LOC00082_Wilderness_Location_83]]
-- Leads to [[step_090]]
+- Leads to
 - Connects to [[step_065 (phase_075)]]
 - Influences [[step_016 (phase_023)]]
 - Requires [[Scene Scene Frozen Throne Coronation V2 Frozen Throne Coronation.svg]]
 - Connects to [[Location City the Aether Works V1 the Aether Works.svg]]
 - Leads to [[step_028 (phase_028)]]
 - Leads to [[step_031 (phase_080)]]
-- Originates from [[step_084]]
-- Requires [[step_044]]
-- Affected by [[step_048]]
+- Originates from
+- Requires
+- Affected by
 - Influences [[04_Resources_Assets_Symbols_symbol-heraldry-depth-cardinal-wisdom-voidseeke-depth-cardinal-wisdom-voidseeke.svg]]
 - See also: [[Mid-Echo Shriek Nerveshatter]]
 - Compare with [[Aboleth Mind Mazes]]
 - Leads to [[EVENT00089_Natural_Event_90]]
 - Connects to [[House Mercurial]]
-- Related: [[step_059]]
+- Related:
 - Influences [[step_005 (phase_084)]]
 - Leads to [[ability-checks-typical-difficulty-classes-phb (tables)]]
 - See also: [[The [[Free Current 2]]]]
@@ -306,7 +299,7 @@ Modifications:
 - Originates from [[The Final Gasp]]
 - Related: [[QUEST0062_In_Search_of_Truth]]
 - Affected by [[Autumn Eladrin Mpmm]]
-- See also: [[step_092]]
+- See also:
 - Leads to [[step_007 (phase_013)]]
 - Leads to [[step_022 (phase_085)]]
 - Affected by [[Stop the Crystal Festival Ritual (D&D_Statblocks)]]
@@ -321,7 +314,6 @@ Modifications:
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

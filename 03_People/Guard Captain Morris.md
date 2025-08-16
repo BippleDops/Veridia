@@ -9,7 +9,6 @@ aliases: [Guard Captain Morris]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_guard_captain_morris_standard.png]]
 
-
 ## Table of Contents
 - [[#Stats|Stats]]
 - [[#Relationships|Relationships]]
@@ -21,7 +20,6 @@ aliases: [Guard Captain Morris]
 - [[#Lifestyle Improvements|Lifestyle Improvements]]
 - [[#Contradictions Improvements|Contradictions Improvements]]
 - [[#Diaspora Improvements|Diaspora Improvements]]
-
 
 ---
 
@@ -61,7 +59,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -233,7 +231,7 @@ Member of House Dragonblood - Trait: prophecy
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -334,7 +332,6 @@ ___
 - [[Assets Locations Location City Master Smith Vulcan Deepforge V1 Master Smith Vulcan Deepforge.svg]]
 - [[Assets Locations Location City the Dreamwhisper Inn V1 the Dreamwhisper Inn.svg]]
 
-
 ## Connections
 
 - Parallels [[step_036 (phase_085)]]
@@ -397,20 +394,20 @@ ___
 - Influences [[ITEM01251_Superior_Crystal_of_Clarity]]
 - Originates from [[Orc Shargaas Vgm]]
 - Affected by [[Creative Visionweaver]]
-- See also: [[step_034]]
+- See also:
 - Connects to [[step_047 (phase_082)]]
 - Related: [[step_004 (phase_078)]]
 - Parallels [[Portrait NPC Character Relationship Web Core Npcs V2 Character Relationship Web Core Npcs.svg]]
 - See also: [[create-undead-xphb (spells)]]
 - Related: [[Fey Spirit Tricksy Xphb]]
-- Parallels [[step_100]]
+- Parallels
 - Related: [[SPELL00103_Divine_Spell_104]]
 - Originates from [[portrait-npc-knight-knight.svg]]
 - Connects to [[NPC00560_Delara_Winterborn_the_Wanderer]]
 - Influences [[The Deep Temple]]
 - Affected by [[Emergency Hollow]]
 - Originates from [[ITEM00391_Thunder_Spear_of_the_Ancients]]
-- Parallels [[step_015]]
+- Parallels
 - Compare with [[step_007 (phase_051)]]
 - Requires [[Portrait NPC King Marcus Lumengarde King Marcus Lumengarde.svg_1 (Portraits)]]
 - Influences [[halfling-brandobaris-mtf (deities)]]
@@ -435,5 +432,5 @@ ___
 - Affected by [[LORE00265_Legends_Entry_266]]
 - Related: [[Healer Dawnshad]]
 - Influences [[Cross-Realm Tourism]]
-- Requires [[step_079]]
+- Requires
 - Originates from [[LORE00164_Prophecies_Entry_165]]

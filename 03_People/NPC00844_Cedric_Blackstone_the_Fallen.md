@@ -9,7 +9,6 @@ aliases: [NPC00844 Cedric Blackstone the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00844 Cedric Blackstone the Fallen]
 - [[#Alaric Moonshadow the Strong (Political - Puppet)|Alaric Moonshadow the Strong (Political - Puppet)]]
 - [[#Felicia Underhill the Wise (Family - Parent)|Felicia Underhill the Wise (Family - Parent)]]
 - [[#Pyria Dawnstrider the Strong (Personal - Best friend)|Pyria Dawnstrider the Strong (Personal - Best friend)]]
-
 
 ---
 created: 2025-08-15
@@ -155,16 +153,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.208Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -196,11 +191,10 @@ Seeks rare merchandise
 - [[11 Rules Glossary]]
 - [[NPC01113_Solas_Ravenheart_the_Cunning]]
 - [[NPC00080_Branwen_Proudmore]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -209,17 +203,16 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Connects to [[Elemental Gem Emerald Xdmg]]
 - Leads to [[step_052 (phase_044)]]
-- Influences [[step_080]]
+- Influences
 - Compare with [[Assets Symbols Symbol Heraldry the Stellar Confluence the Stellar Confluence.svg]]
 - Leads to [[Magical_Items_Gallery (Galleries)]]
 - Originates from [[Luminous Sterling 2]]
@@ -227,12 +220,12 @@ Seeks rare merchandise
 - Requires [[Dragonlance Zeboim Phb]]
 - Leads to [[Portrait NPC Senator Glaucus V2 Senator Glaucus.svg]]
 - Affected by [[Deep_Oracle_Warlock]]
-- Related: [[step_036]]
+- Related:
 - See also: [[Location City the Silent Watcher the Silent Watcher.svg]]
 - Leads to [[ITEM0081_Blessed_Crown_of_the_Dawn]]
 - Requires [[Dulcimer Xphb]]
 - Originates from [[Portrait NPC Queen Glacialis V1 Queen Glacialis.svg]]
-- Related: [[step_060]]
+- Related:
 - Originates from [[The Seven Betrayers 2]]
 - Parallels [[step_069 (phase_097)]]
 - Leads to [[Symbol Heraldry Sacred Texts of Transformatio V1 Sacred Texts of Transformatio.svg]]
@@ -261,7 +254,7 @@ Seeks rare merchandise
 - Connects to [[Interrogation Techniques (D&D_References)]]
 - Requires [[Empyrean Iota Xmm]]
 - Affected by [[Ω_System-CLI-spells-school-necromancy]]
-- Influences [[step_031]]
+- Influences
 - Compare with [[step_038 (phase_013)]]
 - Connects to [[Lord Vexton Shadowmere]]
 - Affected by [[nonhuman-lolth (deities)]]
@@ -273,12 +266,12 @@ Seeks rare merchandise
 - See also: [[location-city-manta-ray-manta-ray.svg]]
 - See also: [[ENC00414_Combat_Encounter_415]]
 - Influences [[Divine Communication Studies (D&D_References)]]
-- Connects to [[step_052]]
+- Connects to
 - Requires [[NPC00705_Ewan_Grimholt_the_Lost]]
 - Parallels [[Memory Recovery Specialist 2]]
-- Related: [[step_033]]
+- Related:
 - Requires [[Screaming Gardens 2]]
-- Requires [[step_077]]
+- Requires
 - Leads to [[redcap-mpmm (fey)]]
 - Related: [[Teleportation Circle Xphb]]
 - Influences [[step_043 (phase_092)]]
@@ -287,14 +280,14 @@ Seeks rare merchandise
 - See also: [[Forgotten Realms Tyr]]
 - Requires [[Shortbow Xphb]]
 - Influences [[ENC00023_Combat_Encounter_24]]
-- Affected by [[step_021]]
+- Affected by
 - See also: [[EVENT00046_Political_Event_47]]
 - See also: [[Lost Flee]]
 - See also: [[04_Resources_Assets_Locations_location-city-transportation-guild-masters-transportation-guild-masters.svg]]
 - Compare with [[Eldritch Secrets]]
 - Parallels [[LORE0041_Legend_of_the_Dragon_Wars]]
 - See also: [[Portrait NPC Tida... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- Requires [[step_095]]
+- Requires
 - Compare with [[Ixitxachitl Oota]]
 - Leads to [[Assets Locations Location City the Forgotten Collective V1 the Forgotten Collective.svg]]
 - Leads to [[step_019 (phase_024)]]
@@ -306,11 +299,11 @@ Seeks rare merchandise
 - Related: [[Tradeway Road]]
 - Leads to [[Imperial Nav (D&D_References)]]
 - Connects to [[Emperor Thalassius]]
-- Influences [[step_010]]
+- Influences
 - Compare with [[NPC00750_Faelyn_Stormwind_the_Broken]]
 - See also: [[ENC00083_Environmental_Encounter_84]]
 - Parallels [[Diplomatic Architecture]]
-- Affected by [[step_084]]
+- Affected by
 - Affected by [[Memorial Wall of Names (D&D_References)]]
 - Leads to [[ring-of-elemental-command-fire-xdmg (items)]]
 - Affected by [[Crisis Management (D&D_References)]]

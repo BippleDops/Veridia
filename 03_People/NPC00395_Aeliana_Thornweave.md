@@ -18,7 +18,6 @@ aliases: [NPC00395 Aeliana Thornweave]
 - [[#Gareth Ironwood the Swift (Personal - Childhood friend)|Gareth Ironwood the Swift (Personal - Childhood friend)]]
 - [[#Aeliana Stormwind the Mystic (Criminal - Target)|Aeliana Stormwind the Mystic (Criminal - Target)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aeliana Thornweave", "aeliana thornweave", "Thornweave Aelianatags: [npc, character, combat, magic, social, lore]er]
@@ -152,16 +151,13 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.157Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -174,7 +170,6 @@ Modifications:
 - AC: 10
 - Notable abilities: Varies by individual
 
-
 > [!warning] ⚠️ Warning
 > Important safety or rule information
 
@@ -185,11 +180,10 @@ Modifications:
 - [[Parliamentary_Voting_Guide]]
 - [[NPC00703_Elric_Dawnstrider_the_Swift]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -199,11 +193,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -226,7 +219,7 @@ Modifications:
 - Requires [[step_004 (phase_015)]]
 - See also: [[Gnome Callarduran Smoothhands Mtf]]
 - See also: [[LOC00230_Wilderness_Location_231]]
-- Parallels [[step_035]]
+- Parallels
 - Influences [[[[Dock Boss Marina Irongrip]] (D&D_References)]]
 - See also: [[Session 08 (Shadow_Conspiracy)]]
 - Requires [[Settlement Tables and Tracker [[Tavern]] Names]]
@@ -255,7 +248,7 @@ Modifications:
 - Originates from [[step_040 (phase_085)]]
 - Requires [[step_047 (phase_071)]]
 - Originates from [[ENC00211_Combat_Encounter_212]]
-- Connects to [[step_014]]
+- Connects to
 - Influences [[Navigation Master Course (D&D_References)]]
 - Connects to [[step_043 (phase_045)]]
 - Influences [[[[Banker Cornelius Goldflow]] (D&D_References)]]
@@ -303,13 +296,13 @@ Modifications:
 - Influences [[step_040 (phase_053)]]
 - Related: [[celtic-silvanus (deities)]]
 - Requires [[MON00016_Constructs_Creature_17]]
-- Compare with [[step_080]]
+- Compare with
 - Related: [[SPELL00061_Nature_Spell_62]]
 - Leads to [[Deepmind Conspiracy]]
 - Leads to [[Location City Silence Keeper Mute Silence Keeper Mute.svg]]
 - Affected by [[LOC00101_Wilderness_Location_102]]
 - Connects to [[Wraps of Unarmed Power Xdmg]]
-- See also: [[step_100]]
+- See also:
 - Connects to [[10 Dungeon Masters Workshop]]
 - Parallels [[Trapper Mpmm]]
 - See also: [[Location City [[Harvester Keth Reefrender]] V1 Harvester Keth Reefrender.svg]]
@@ -321,13 +314,12 @@ Modifications:
 - See also: [[Deep Sciences Research Institute]]
 - Connects to [[step_090 (phase_055)]]
 - Related: [[[[The Boundary Accords]] (D&D_References)]]
-- Parallels [[step_094]]
+- Parallels
 
 ## Visual References
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00058 Elric Nightfall]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00058 Elric Nightfall]
 - [[#Gavril Ravenheart the Risen (Professional - Rival)|Gavril Ravenheart the Risen (Professional - Rival)]]
 - [[#Rhiannon Zephyrblade (Political - Puppet)|Rhiannon Zephyrblade (Political - Puppet)]]
 - [[#Aldric Ravenheart (Professional - Rival)|Aldric Ravenheart (Professional - Rival)]]
-
 
 ---
 created: 2025-08-15
@@ -148,16 +146,13 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.118Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -180,11 +175,10 @@ Needs discrete help with family scandal
 - [[NPC01568_Lyanna_Winterborn_the_Strong]]
 - [[NPC00437_Hilda_Stormwind_the_Mystic]]
 - [[NPC00858_Zephyr_Silverleaf_the_Wanderer]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -195,11 +189,10 @@ Needs discrete help with family scandal
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -211,7 +204,7 @@ Needs discrete help with family scandal
 - Compare with [[LOC00210_Towns_Location_211]]
 - See also: [[Location City the Wandering Atoll V1 the Wandering Atoll.svg]]
 - Originates from [[Assets Locations Location City the Sunken Markets V1 the Sunken Markets.svg]]
-- Influences [[step_075]]
+- Influences
 - Requires [[step_019 (phase_020)]]
 - Parallels [[Conflict Resolution Division]]
 - Influences [[Crystal Jellies]]
@@ -226,7 +219,7 @@ Needs discrete help with family scandal
 - Leads to [[step_021 (phase_098)]]
 - Parallels [[QUEST00087_Main_Quest_88]]
 - Connects to [[LORE00200_Legends_Entry_201]]
-- Affected by [[step_077]]
+- Affected by
 - Influences [[04_Resources_Assets_Locations_location-city-marine-druids-v1-marine-druids.svg]]
 - Connects to [[ITEM00927_Refined_Elixir_of_Vigor]]
 - Parallels [[Foraging_Rules]]
@@ -247,7 +240,7 @@ Needs discrete help with family scandal
 - Parallels [[mind-sliver-xphb (spells)]]
 - Originates from [[EVENT00096_Natural_Event_97]]
 - Related: [[step_048 (phase_026)]]
-- Leads to [[step_054]]
+- Leads to
 - Related: [[Corruption Detectors]]
 - Requires [[Doctrine_Quick_Reference]]
 - Originates from [[Depth Guard Sanctuary]]
@@ -260,7 +253,7 @@ Needs discrete help with family scandal
 - Leads to [[04_Resources_Assets_Locations_location-city-transportation-guild-masters-transportation-guild-masters.svg]]
 - See also: [[Heart Crysta]]
 - Requires [[shadow-arrow-xge (optional-features)]]
-- Originates from [[step_007]]
+- Originates from
 - Compare with [[DUN00119_Dungeon_120]]
 - See also: [[Dr Silent Death]]
 - Affected by [[Merchant Truth Society]]
@@ -275,12 +268,12 @@ Needs discrete help with family scandal
 - See also: [[Crystal Academy]]
 - See also: [[Magistrate Justice Lawkeeper]]
 - Compare with [[Symbol Heraldry Tem... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- See also: [[step_081]]
+- See also:
 - See also: [[Safe Passage Guild (Guilds)]]
 - Leads to [[NPC01590_Caelum_Winterborn_the_Redeemed]]
 - See also: [[Gold Idol Xdmg]]
 - See also: [[Rural Resistance]]
-- Leads to [[step_070]]
+- Leads to
 - Connects to [[candle-of-invocation-xdmg (items)]]
 - Leads to [[Magic Item Table F]]
 - Connects to [[step_059 (phase_035)]]

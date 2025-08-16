@@ -18,7 +18,6 @@ aliases: [NPC01892 Gareth Xendar the Scholar]
 - [[#Lyanna Voidwalker the Redeemed (Political - Spy)|Lyanna Voidwalker the Redeemed (Political - Spy)]]
 - [[#Wynne Hawthorne the Seeker (Criminal - Informant)|Wynne Hawthorne the Seeker (Criminal - Informant)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gareth Xendar the Scholar", "gareth xendar the scholar", "Gareth Xendar Scholar", "Scholar the Xendar Garethtags: [npc, character, combat, magic, social, puzzle, lore]er]
@@ -147,16 +146,13 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.321Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -208,11 +204,10 @@ Modifications:
 - [[Session_Recaps]]
 - [[NPC01040_Zephyr_Lightbringer_the_Strong]]
 - [[NPC01877_Hestara_Moonshadow_the_Mystic]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -222,17 +217,16 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Connects to [[Meditation Chamber]]
 - Connects to [[rally-xphb (optional-features)]]
-- Originates from [[step_095]]
+- Originates from
 - Related: [[Lost Archive]]
 - Parallels [[LOC00009_Planes_Location_10]]
 - Connects to [[Assets Locations Location City [[Emergency Protocols]] Emergency Protocols.svg]]
@@ -248,17 +242,17 @@ Modifications:
 - Leads to [[Assets Locations Location City [[Garden of Shadows]] V1 Garden of Shadows.svg]]
 - Influences [[rogue-xphb-scout-xge (classes)]]
 - Requires [[Market Squar 2]]
-- Related: [[step_093]]
+- Related:
 - Related: [[NPC00335_Ewan_Voidwalker]]
 - Related: [[Temporal Protection (D&D_References)]]
-- Requires [[step_003]]
+- Requires
 - Related: [[Central Territories]]
 - Influences [[Current Manipulation]]
 - Parallels [[step_051 (phase_035)]]
 - Leads to [[QUEST0021_Destroy_the_Pirates]]
 - Leads to [[FINAL_1000_IMPROVEMENTS_SUBCARY]]
 - Parallels [[[[Electric Eel]] (D&D_References)]]
-- See also: [[step_060]]
+- See also:
 - Compare with [[step_029 (phase_017)]]
 - Requires [[12 Appendix B Monster Lists]]
 - Connects to [[dawn-war-sehanine-dmg (deities)]]
@@ -290,10 +284,10 @@ Modifications:
 - Originates from [[The Oracle]]
 - See also: [[adult-gold-dragon-xmm]]
 - Influences [[SPELL00108_Divine_Spell_109]]
-- Originates from [[step_089]]
+- Originates from
 - Parallels [[Relationships Starting Relationship Points]]
 - Compare with [[Greek Demeter]]
-- See also: [[step_021]]
+- See also:
 - Originates from [[step_058 (phase_054)]]
 - Connects to [[The Frequency Wars]]
 - Affected by [[Epilogue Generation Tables]]
@@ -308,7 +302,7 @@ Modifications:
 - Connects to [[Portrait NPC the Resonance Prophet V2 the Resonance Prophet.svg_1 (Portraits)]]
 - Related: [[step_015 (phase_049)]]
 - Related: [[Psychic Gray Ooze Xmm]]
-- Influences [[step_048]]
+- Influences
 - Parallels [[High Oracle Serenity Deepcall (D&D_References)]]
 - Originates from [[hunting-rifle-xdmg (items)]]
 - Leads to [[step_008 (phase_081)]]
@@ -335,7 +329,6 @@ Modifications:
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01948 Ewan Jadeclaw the Bold]
 - [[#Erasmus Nightfall the Redeemed (Family - Spouse)|Erasmus Nightfall the Redeemed (Family - Spouse)]]
 - [[#Aldric Goldleaf the Wise (Family - Parent)|Aldric Goldleaf the Wise (Family - Parent)]]
 
-
 ---
 aliases: ["Ewan Jadeclaw the Bold", "ewan jadeclaw the bold", "Ewan Jadeclaw Bold", "Bold the Jadeclaw Ewan"]
 tags: [npc, character]
@@ -145,38 +144,34 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.327Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Compare with [[The Soul Market (D&D_References)]]
-- Connects to [[step_092]]
+- Connects to
 - Compare with [[step_078 (phase_045)]]
 - Leads to [[Forgotten Realms Leira]]
 - Related: [[half-orc-names-male-xge (tables)]]
-- Leads to [[step_098]]
+- Leads to
 - See also: [[Guild Master Shellforge]]
 - Affected by [[nightmare-xmm (fiend)]]
 - Originates from [[Memory Extraction Laboratory 2]]
 - Affected by [[Coral Craftsman 2]]
 - See also: [[creature-creature-dragon-v1-dragon.png]]
-- Parallels [[step_071]]
+- Parallels
 - Compare with [[Portrait NPC Emperor Thalassius the Wise V1 Emperor Thalassius the Wise.svg]]
-- See also: [[step_089]]
+- See also:
 - Originates from [[The Archive Keepers 2]]
 - Connects to [[Identity Crisis Resolution]]
 - Requires [[Royal Herald Marcus]]
@@ -192,7 +187,7 @@ Is secretly testing the party
 - Leads to [[The Whistleblower (D&D_References)]]
 - Leads to [[ballista-xdmg (objects)]]
 - Compare with [[Ray of Enfeeblement Xphb]]
-- Originates from [[step_055]]
+- Originates from
 - Parallels [[Eye Patch Decorated with Tiny Blue Sapphires and Moonstones Xdmg]]
 - Compare with [[Marina Stormwright]]
 - Requires [[step_084 (phase_091)]]
@@ -212,13 +207,13 @@ Is secretly testing the party
 - Leads to [[Assets Locations Location City the Kraken S Harbor V1 the Kraken S Harbor.svg]]
 - Related: [[step_023 (phase_097)]]
 - Connects to [[The Festival of Rising Tides 2]]
-- Influences [[step_036]]
+- Influences
 - Originates from [[step_055 (phase_100)]]
 - Originates from [[Master Artificer Korvin Gearwright (D&D_References)]]
 - Compare with [[NPC00126_Caelum_Darkwater]]
 - Compare with [[step_020 (phase_060)]]
 - See also: [[Cubic Gate Xdmg]]
-- Affected by [[step_001]]
+- Affected by
 - Originates from [[Character_Creation_Extended.md]]
 - Affected by [[Treaty of Seven Skies (D&D_References)]]
 - Influences [[Chronomancer_Paradox.png]]
@@ -235,7 +230,7 @@ Is secretly testing the party
 - Requires [[Portrait NPC Sacred Healing Gardens V1 Sacred Healing Gardens.svg]]
 - Affected by [[NPC01936_Urien_Youngblood_the_Scholar]]
 - Affected by [[smart_link_fix_20250814_175123]]
-- Connects to [[step_067]]
+- Connects to
 - Parallels [[step_073 (phase_083)]]
 - Connects to [[The Anonymous Protocol 2]]
 - Affected by [[LOC00040_Dungeons_Location_41]]
@@ -254,13 +249,13 @@ Is secretly testing the party
 - Connects to [[ITEM00429_Enchanted_Leather_of_Fortitude]]
 - Related: [[NPC01654_Kaelen_Frostwhisper_the_Scholar]]
 - Requires [[Venom Troll Mpmm]]
-- Parallels [[step_018]]
+- Parallels
 - Connects to [[Location City Storyteller Memorykeeper Storyteller Memorykeeper.svg]]
 - Connects to [[QUEST00246_Side_Quest_247]]
 - Parallels [[QUEST00102_Personal_Quest_103]]
 - Affected by [[Mountain Encounters Levels 1116 Xge]]
 - See also: [[Spy Games]]
-- Connects to [[step_009]]
+- Connects to
 - Influences [[Crystal Spires]]
 - Related: [[shield-of-the-silver-dragon-cos (items)]]
 
@@ -268,7 +263,6 @@ Is secretly testing the party
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

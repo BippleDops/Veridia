@@ -18,7 +18,6 @@ aliases: [NPC00362 Pyria Stormwind the Wise]
 - [[#Alaric Oakenshield the Swift (Professional - Employer)|Alaric Oakenshield the Swift (Professional - Employer)]]
 - [[#Elric Brightblade (Personal - Childhood friend)|Elric Brightblade (Personal - Childhood friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Pyria Stormwind the Wise", "pyria stormwind the wise", "Pyria Stormwind Wise", "Wise the Stormwind Pyriatags: [npc, character, combat, magic, social, puzzle, lore]er]
@@ -144,16 +143,13 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.153Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -191,11 +187,10 @@ Modifications:
 - [[NPC00324_Idris_Hawthorne_the_Strong]]
 - [[09 Adventuring]]
 - [[NPC00200_Faelyn_Winterborn_the_Guardian]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -203,11 +198,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -216,23 +210,23 @@ Modifications:
 - Requires [[Economic Manipulation (D&D_References)]]
 - Requires [[step_094 (phase_059)]]
 - Connects to [[Roleplaying a Giant Giant Bonds Vgm]]
-- Related: [[step_028]]
+- Related:
 - Connects to [[MON00131_Aberrations_Creature_132]]
 - See also: [[step_043 (phase_049)]]
 - Related: [[MON00021_Constructs_Creature_22]]
-- Influences [[step_098]]
+- Influences
 - Requires [[Pain-Artist Cruelty Refined]]
 - Requires [[Location City Echo Translator Vera Echo Translator Vera.svg]]
 - Affected by [[potion-of-healing-gv (items)]]
 - Leads to [[02_Worldbuilding_Groups_Cultural_Preservation_Societ]]
-- Related: [[step_015]]
+- Related:
 - Related: [[LOC00131_Towns_Location_132]]
 - Originates from [[SPELL00044_Divine_Spell_45]]
 - Originates from [[Cultural_Ambassador_Bridge-Builder]]
 - Compare with [[creature-creature-troll-xmm-v4-troll-xmm.png]]
 - Originates from [[step_044 (phase_014)]]
-- Compare with [[step_100]]
-- See also: [[step_070]]
+- Compare with
+- See also:
 - Connects to [[NPC00297_Gavril_Stormwind_the_Cunning]]
 - Related: [[Maurezhi Mpmm]]
 - Requires [[Nonhuman Garl Glittergold]]
@@ -245,16 +239,16 @@ Modifications:
 - Affected by [[Symbol Heraldry the Question Council V1 the Question Council.svg]]
 - Affected by [[beast-speech (optional-features)]]
 - Compare with [[ITEM01354_Practical_Journal_of_Quality]]
-- Leads to [[step_100]]
+- Leads to
 - Affected by [[Location City [[Wise Tide Truthseeker]] V1 Wise Tide Truthseeker.svg]]
 - Requires [[Research D&d Statblocks]]
-- Influences [[step_054]]
+- Influences
 - Connects to [[EVENT00094_Natural_Event_95]]
 - See also: [[The Crimson Tide Pirates 2]]
 - See also: [[LOC00283_Planes_Location_284]]
-- Originates from [[step_006]]
+- Originates from
 - Leads to [[Boon of the Stormborn]]
-- Compare with [[step_094]]
+- Compare with
 - Originates from [[NPC00939_Thalia_Jadeclaw_the_Swift]]
 - Parallels [[greyhawk-pelor-xdmg (deities)]]
 - See also: [[NPC0149_Delilah_Darkwater]]
@@ -262,7 +256,7 @@ Modifications:
 - Leads to [[QUEST00116_Side_Quest_117]]
 - Leads to [[Chief Surgeon Dr. Coral Mindsplice]]
 - Affected by [[Philosopher-Reformer Unity Bridgewright (D&D_References)]]
-- Compare with [[step_081]]
+- Compare with
 - Originates from [[mariners-armor-xdmg (items)]]
 - Requires [[step_074 (phase_054)]]
 - Leads to [[[[Surface Signals]] (D&D_Statblocks)]]
@@ -272,10 +266,10 @@ Modifications:
 - Requires [[NPC00218_Fiora_Youngblood]]
 - Leads to [[step_035 (phase_063)]]
 - Leads to [[power-word-pain-xge (spells)]]
-- Leads to [[step_036]]
-- Requires [[step_035]]
+- Leads to
+- Requires
 - Requires [[gold-dragon-wyrmling-xmm (dragon)]]
-- Originates from [[step_009]]
+- Originates from
 - Related: [[Sentinel Xphb]]
 - Originates from [[step_018 (phase_007)]]
 - Affected by [[Diplomatic Liaison Cordelia Treatywriter]]
@@ -288,7 +282,7 @@ Modifications:
 - See also: [[step_066 (phase_005)]]
 - Requires [[ITEM01192_Greater_Herb_of_Fortune]]
 - Affected by [[step_006 (phase_046)]]
-- Leads to [[step_052]]
+- Leads to
 - Requires [[Portrait NPC Jasper Three Eyes Flint 2 Jasper Three Eyes Flint 2.svg_1 (Portraits)]]
 - Leads to [[scholars-of-lorehold-lorehold-scholars-scc (tables)]]
 - Related: [[[[The Azure Coast]] 2]]
@@ -302,7 +296,7 @@ Modifications:
 - Related: [[NPC01380_Brenna_Keenblade_the_Risen]]
 - Originates from [[step_062 (phase_057)]]
 - Influences [[Eldritch Spear Xphb]]
-- Connects to [[step_081]]
+- Connects to
 - Originates from [[QUEST00009_Side_Quest_10]]
 - Connects to [[NPC01891_Wynne_Xendar_the_Seeker]]
 - Compare with [[Game_Design_Articles]]
@@ -317,7 +311,6 @@ Modifications:
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
 
-
 ## Realm Connections
 
 ### Connection to [[Aethermoor]]
@@ -329,9 +322,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

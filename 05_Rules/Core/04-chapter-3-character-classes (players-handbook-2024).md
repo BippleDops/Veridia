@@ -18,7 +18,6 @@ aliases: [04-chapter-3-character-classes (players-handbook-2024)]
 - [[#Prep Checklist|Prep Checklist]]
 - [[#Npcs Needed|Npcs Needed]]
 
-
 ---
 
 title: 04-chapter-3-character-classes (players-handbook-2024)
@@ -131,36 +130,29 @@ world: Both
 - **Reddit r/Unearthed Arcana**: Community discussions
 - **One D&D Playtest**: D&D Beyond exclusive
 
-
 ## Notes
 
 *Additional notes*
-
 
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
@@ -188,11 +180,10 @@ world: Both
 - [ ] Prepare quick reference
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -200,11 +191,10 @@ world: Both
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -226,7 +216,7 @@ world: Both
 
 ## Connections
 
-- See also: [[step_016]]
+- See also:
 - Compare with [[physical-variations-yuan-ti-snake-head-shape-vgm]]
 - See also: [[LOC00114_Wilderness_Location_115]]
 - Affected by [[Location City the Perfect Symbiosis the Perfect Symbiosis.svg]]
@@ -246,7 +236,7 @@ world: Both
 - Influences [[step_028 (phase_037)]]
 - Compare with [[Harbor Master's Tower (D&D_References)]]
 - Leads to [[cow-xdmg (items)]]
-- Requires [[step_018]]
+- Requires
 - Related: [[Portrait NPC Quee... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - See also: [[Template-Group]]
 - Leads to [[step_048 (phase_044)]]
@@ -260,14 +250,14 @@ world: Both
 - Requires [[ITEM00570_Dragon_Scale_Cloak_of_Resistance]]
 - Parallels [[ENC00078_Combat_Encounter_79]]
 - Connects to [[DUN00132_Dungeon_133]]
-- Requires [[step_097]]
+- Requires
 - Requires [[step_006 (phase_012)]]
 - Parallels [[Quest1 (01_Adventures)]]
 - Related: [[step_067 (phase_065)]]
 - Leads to [[step_065 (phase_021)]]
 - Related: [[ONE_MILLION_ACHIEVED]]
 - Connects to [[NPC01605_Qadim_Ironwood_the_Wise]]
-- Parallels [[step_058]]
+- Parallels
 - See also: [[Location City Interfaith Cooperation V1 Interfaith Cooperation.svg]]
 - Leads to [[Drow Keptolo Mtf]]
 - Compare with [[step_082 (phase_022)]]
@@ -291,7 +281,7 @@ world: Both
 - Influences [[QUEST00159_Personal_Quest_160]]
 - Compare with [[The_Destiny_Uprising]]
 - See also: [[spinel-xdmg (items)]]
-- See also: [[step_099]]
+- See also:
 - Connects to [[NPC00890_Corvus_Xendar_the_Swift]]
 - Influences [[QUEST00193_Personal_Quest_194]]
 - See also: [[QUEST00189_Side_Quest_190]]
@@ -301,7 +291,7 @@ world: Both
 - Leads to [[step_034 (phase_083)]]
 - Connects to [[Medical Director Healing Tidecurrent]]
 - Related: [[Thieves Guild (Guilds)]]
-- Related: [[step_019]]
+- Related:
 - Leads to [[step_066 (phase_005)]]
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg_Quick_Ref]]
 - Originates from [[Forbidden Knowledge 2]]
@@ -314,7 +304,7 @@ world: Both
 - Influences [[Location City Current Riders Guild Current Riders Guild.svg]]
 - Originates from [[Norse Hermod]]
 - Connects to [[step_003 (phase_082)]]
-- Originates from [[step_027]]
+- Originates from
 - Compare with [[step_060 (phase_035)]]
 - Originates from [[Aquabyssos]]
 - Requires [[Educational Systems and Institutions (02_Worldbuilding)]]
@@ -324,7 +314,7 @@ world: Both
 - See also: [[maw-demon-mpmm (fiend)]]
 - Connects to [[Assets Symbols Symbol Heraldry Border Castles Border Castles.svg]]
 - Parallels [[LORE00218_History_Entry_219]]
-- Influences [[step_023]]
+- Influences
 - Originates from [[forcecage-xphb (spells)]]
 
 ## Plot Hooks

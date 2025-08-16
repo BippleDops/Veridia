@@ -18,7 +18,6 @@ aliases: [NPC01877 Hestara Moonshadow the Mystic]
 - [[#Lyanna Zephyrblade the Guardian (Family - Parent)|Lyanna Zephyrblade the Guardian (Family - Parent)]]
 - [[#Kaelen Ravenheart the Bold (Family - Spouse)|Kaelen Ravenheart the Bold (Family - Spouse)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Hestara Moonshadow the Mystic", "hestara moonshadow the mystic", "Hestara Moonshadow Mystic", "Mystic the Moonshadow Hestaratags: [npc, character, combat, social, lore]er]
@@ -151,16 +150,13 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.320Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -203,11 +199,10 @@ Provides information for a price
 - [[NPC00285_Xander_Goldleaf_the_Mystic]]
 - [[04 Classes]]
 - [[Propaganda_Leaflet_Pearl_Guar]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -216,11 +211,10 @@ Provides information for a price
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -230,13 +224,13 @@ Provides information for a price
 - See also: [[Pelagic the Current-Walker 2]]
 - Originates from [[Currency_Guide_Scrip_and_Shard]]
 - Affected by [[resurrection-xphb (spells)]]
-- Related: [[step_032]]
+- Related:
 - Affected by [[step_081 (phase_100)]]
 - Requires [[Gnome Rill Cleverthrush Mtf]]
 - See also: [[Leviathan (D&D_References)]]
 - Parallels [[LOC00232_Towns_Location_233]]
 - Related: [[step_043 (phase_041)]]
-- Leads to [[step_047]]
+- Leads to
 - Connects to [[Grand Harbor]]
 - Requires [[04_Resources_Assets_Symbols_symbol-heraldry-magical-component-manufacturers-guil-magical-component-manufacturers-guil.svg]]
 - See also: [[Enforcement Authority Charte]]
@@ -244,13 +238,13 @@ Provides information for a price
 - Compare with [[Assets Locations [[Location City Scream Saturation V1 [[Scream Saturation Rules]].svg]]]]
 - Leads to [[Assets Locations [[Location City [[The Order of the Shattered Crown]] the Order of the Shattered Crown.svg]]]]
 - Requires [[Silverscale Trade Embassy (D&D_References)]]
-- Affected by [[step_060]]
+- Affected by
 - Leads to [[step_044 (phase_042)]]
 - Affected by [[Location City [[The Observatory]] V1 the Observatory.svg]]
 - Originates from [[step_041 (phase_064)]]
 - Leads to [[Name Etymology Guide]]
 - Parallels [[Shadow Magic Integration Practices]]
-- See also: [[step_009]]
+- See also:
 - Leads to [[Reality Stabilization Corps]]
 - Parallels [[ITEM0055_Hidden_Pendant_of_Power]]
 - Influences [[Assets Locations Location City [[Truth and Madness]] Truth and Madness.svg]]
@@ -329,7 +323,6 @@ Provides information for a price
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01091 Thalia Brightblade the Risen]
 - [[#Vesper Grimholt the Strong (Criminal - Accomplice)|Vesper Grimholt the Strong (Criminal - Accomplice)]]
 - [[#Ewan Stormwind the Broken (Personal - Best friend)|Ewan Stormwind the Broken (Personal - Best friend)]]
 
-
 ---
 aliases: ["Thalia Brightblade the Risen", "thalia brightblade the risen", "Thalia Brightblade Risen", "Risen the Brightblade Thalia"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.236Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,17 +170,17 @@ Has map to lost treasure
 - Affected by [[Councilor Truth Darkness]]
 - Compare with [[The Sunken Bazaar 2]]
 - Requires [[Parry Xphb]]
-- See also: [[step_014]]
+- See also:
 - Requires [[EVENT00077_Natural_Event_78]]
 - Parallels [[LORE00304_History_Entry_305]]
 - Requires [[Portrait NPC Parliament Loyalists V2 Parliament Loyalists.svg]]
 - Requires [[flumph-xmm (aberration)]]
-- Related: [[step_024]]
+- Related:
 - Related: [[step_091 (phase_040)]]
 - Affected by [[ENC00400_Combat_Encounter_401]]
 - Connects to [[step_065 (phase_031)]]
 - Related: [[Deep Expeditions]]
-- Leads to [[step_084]]
+- Leads to
 - Parallels [[INV-007 (02_Worldbuilding)]]
 - Requires [[step_075 (phase_035)]]
 - Originates from [[The Whisper Keepers]]
@@ -205,7 +200,7 @@ Has map to lost treasure
 - See also: [[step_075 (phase_044)]]
 - Parallels [[QUEST00329_Side_Quest_330]]
 - Affected by [[Musket Xphb]]
-- Leads to [[step_086]]
+- Leads to
 - Connects to [[imix-pota (legendary-group)]]
 - Affected by [[Embassy District (D&D_References)]]
 - Related: [[darkmantle-xmm (aberration)]]
@@ -223,7 +218,7 @@ Has map to lost treasure
 - Connects to [[Religious Privacy Advocates 2]]
 - Compare with [[Tiefling Levistus Mtf]]
 - Affected by [[lightning-cannon-xdmg (objects)]]
-- Influences [[step_020]]
+- Influences
 - Connects to [[sentinel-shield-xdmg (items)]]
 - Connects to [[NPC01552_Branwen_Lightbringer_the_Swift]]
 - Affected by [[Business Card Dungeon Business Card Dungeons License (Decks)]]
@@ -240,7 +235,7 @@ Has map to lost treasure
 - Affected by [[ability-check-xphb (variant-rules)]]
 - See also: [[step_031 (phase_054)]]
 - Related: [[step_031 (phase_052)]]
-- Leads to [[step_098]]
+- Leads to
 - Connects to [[Portrait NPC Prince Caspian Duskwater V2 Prince Caspian Duskwater.svg_1 (Portraits)]]
 - See also: [[MON00104_Constructs_Creature_105]]
 - Connects to [[The Vault Keepers (D&D_References)]]
@@ -268,7 +263,6 @@ Has map to lost treasure
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

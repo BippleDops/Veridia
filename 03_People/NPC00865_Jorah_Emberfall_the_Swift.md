@@ -18,7 +18,6 @@ aliases: [NPC00865 Jorah Emberfall the Swift]
 - [[#Rhiannon Grimholt the Fallen (Family - Parent)|Rhiannon Grimholt the Fallen (Family - Parent)]]
 - [[#Branwen Ironwood the Lost (Political - Puppet)|Branwen Ironwood the Lost (Political - Puppet)]]
 
-
 ---
 aliases: ["Jorah Emberfall the Swift", "jorah emberfall the swift", "Jorah Emberfall Swift", "Swift the Emberfall Jorah"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.211Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -173,7 +168,7 @@ Caravan needs guards
 - Affected by [[The Memory Thief (D&D_References)]]
 - Parallels [[Location City Market Master Cornelius Driftwood V1 Market Master Cornelius Driftwood.svg]]
 - Affected by [[Location City Keeper of the Dead Sister Morwyn V1 Keeper of the Dead Sister Morwyn.svg]]
-- Leads to [[step_007]]
+- Leads to
 - Parallels [[ITEM01415_Practical_Lantern_of_Convenience]]
 - Leads to [[Quest - Hunt the Shadows]]
 - Originates from [[ITEM00002_Frost_Sword_of_Slaying]]
@@ -185,7 +180,7 @@ Caravan needs guards
 - Parallels [[location-city-crimson-reef-crimson-reef.svg]]
 - Influences [[The First Queen's Shade]]
 - Related: [[Legal Advocate Rights Defender (D&D_References)]]
-- Requires [[step_014]]
+- Requires
 - Connects to [[Scholar Wisdom Clearwater 2]]
 - Affected by [[Tax Commissioner Merion Goldcount 2]]
 - Related: [[bastions]]
@@ -238,7 +233,7 @@ Caravan needs guards
 - Related: [[Student Researcher Brightwater 2]]
 - Requires [[derro-mpmm (aberration)]]
 - Affected by [[Temporal Diving Equipment (D&D_References)]]
-- Affected by [[step_048]]
+- Affected by
 - Originates from [[Traditional Craft Districts]]
 - Affected by [[MON00116_Constructs_Creature_117]]
 - Affected by [[Spell Damage Xdmg]]
@@ -252,10 +247,10 @@ Caravan needs guards
 - Requires [[Location City Infrastructure Development V1 Infrastructure Development.svg]]
 - Requires [[location-city-depth-raiders-depth-raiders.svg]]
 - Related: [[Symbol Heraldry Established Family Communitie Established Family Communitie.svg]]
-- Parallels [[step_074]]
+- Parallels
 - Parallels [[step_059 (phase_090)]]
 - Originates from [[Assets Locations Location City Tavern Keep Lucky Jack Goldpouch V1 Tavern Keep Lucky Jack Goldpouch.svg]]
-- Compare with [[step_065]]
+- Compare with
 - Related: [[LORE00075_History_Entry_76]]
 - Connects to [[MON00094_Constructs_Creature_95]]
 - Compare with [[Location City Thomas Deepanchor V1 Thomas Deepanchor.svg]]
@@ -271,7 +266,6 @@ Caravan needs guards
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

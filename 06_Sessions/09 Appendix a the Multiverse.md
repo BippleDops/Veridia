@@ -18,7 +18,6 @@ aliases: [09 Appendix a the Multiverse]
 - [[#See Also|See Also]]
 - [[#Game Mechanics|Game Mechanics]]
 
-
 ---
 
 title: 09 Appendix a the Multiverse
@@ -58,7 +57,6 @@ world: Both
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This location connects to the main plot
@@ -105,12 +103,10 @@ world: Both
 - [[NPC01943_Xander_Proudmore_the_Fallen]]
 - [[MOC_Rules]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -133,7 +129,7 @@ world: Both
 - Compare with [[ITEM01247_Superior_Herb_of_Vigor]]
 - Parallels [[The Last Acorn]]
 - Related: [[NPC00078_Qadim_Goldleaf]]
-- Influences [[step_087]]
+- Influences
 - Requires [[Human Names Greek Female Xge]]
 - Related: [[step_080 (phase_019)]]
 - Influences [[crafting-complications-xge (tables)]]
@@ -141,12 +137,12 @@ world: Both
 - Compare with [[ITEM00169_Shadow_Bow_of_Power]]
 - See also: [[step_096 (phase_014)]]
 - Compare with [[step_048 (phase_009)]]
-- Compare with [[step_097]]
+- Compare with
 - Related: [[Assets Locations Location City Quartermaster Sterling Suppystone Quartermaster Sterling Suppystone.svg]]
 - Leads to [[Master Artificer Korvin Gearwright (D&D_References)]]
-- Leads to [[step_063]]
+- Leads to
 - Influences [[Ettin Xmm]]
-- Related: [[step_095]]
+- Related:
 - Compare with [[Assets Locations Location City the Whispering Depths V1 the Whispering Depths.svg]]
 - Influences [[The Depth Councils]]
 - Originates from [[The Voting Crypts]]
@@ -158,7 +154,7 @@ world: Both
 - Related: [[Resonance_Body]]
 - Parallels [[greek-hades (deities)]]
 - See also: [[Allied Nation Military Units 2]]
-- Connects to [[step_028]]
+- Connects to
 - Influences [[Agricultural Provinces]]
 - Leads to [[step_081 (phase_064)]]
 - Influences [[Merchant Guild Headquarters (D&D_References)]]
@@ -170,7 +166,7 @@ world: Both
 - Requires [[ENC00019_Environmental_Encounter_20]]
 - Leads to [[elf-tables-drow-adventurer-story-hooks-mtf (tables)]]
 - Parallels [[step_018 (phase_097)]]
-- Parallels [[step_100]]
+- Parallels
 - Affected by [[LORE00154_Legends_Entry_155]]
 - See also: [[Windwright_Academy (Groups)]]
 - Parallels [[Assets Locations Location City Shadow Portal Nexus V1 Shadow Portal Nexus.svg]]
@@ -184,9 +180,9 @@ world: Both
 - Originates from [[Assets Locations Location City Diplomatic Deepcurrent V1 Diplomatic Deepcurrent.svg]]
 - Leads to [[step_003 (phase_038)]]
 - Compare with [[NPC01538_Caelum_Moonshadow_the_Seeker]]
-- Influences [[step_053]]
-- Originates from [[step_041]]
-- Influences [[step_031]]
+- Influences
+- Originates from
+- Influences
 - Leads to [[NPC01357_Ysara_Ashford_the_Lost]]
 - Related: [[Quantum Compromise Protocols 2]]
 - Requires [[quickened-spell-xphb (optional-features)]]

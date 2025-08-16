@@ -18,7 +18,6 @@ aliases: [NPC00307 Dara Proudmore the Seeker]
 - [[#Drusilla Silverleaf the Guardian (Professional - Partner)|Drusilla Silverleaf the Guardian (Professional - Partner)]]
 - [[#Thalia Goldleaf the Bold (Family - Child)|Thalia Goldleaf the Bold (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Dara Proudmore the Seeker", "dara proudmore the seeker", "Dara Proudmore Seeker", "Seeker the Proudmore Dara"]
@@ -151,16 +150,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.147Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -172,11 +168,10 @@ Seeks bodyguards for dangerous journey
 - [[Combat_Encounter_Analysis]]
 - [[10 Appendix B Creature Stat Blocks]]
 - [[NPC01594_Fiora_Proudmore_the_Seeker]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -187,16 +182,15 @@ Seeks bodyguards for dangerous journey
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Leads to [[Portrait NPC King... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- Affected by [[step_006]]
+- Affected by
 - See also: [[step_066 (phase_091)]]
 - Related: [[Pressure-Responsive Fabrics 2]]
 - Compare with [[Master Narrative Web]]
@@ -209,7 +203,7 @@ Seeks bodyguards for dangerous journey
 - Requires [[Guild Artisan Guild Merchant Variant]]
 - Originates from [[The Underground Market]]
 - Requires [[step_068 (phase_089)]]
-- Leads to [[step_032]]
+- Leads to
 - Parallels [[step_040 (phase_021)]]
 - Connects to [[step_031 (phase_020)]]
 - Originates from [[Master of Currents Zephyr]]
@@ -218,7 +212,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[SPELL00022_Divine_Spell_23]]
 - Leads to [[ITEM00900_Refined_Herb_of_Healing]]
 - Connects to [[alchemists-supplies-xphb (items)]]
-- Connects to [[step_066]]
+- Connects to
 - Originates from [[Levels 1116 Masters of the Realm Levels 1116 Adventure Situations Xdmg]]
 - Leads to [[Void-Keeper Null (D&D_References)]]
 - Leads to [[step_006 (phase_008)]]
@@ -255,9 +249,9 @@ Seeks bodyguards for dangerous journey
 - Compare with [[Location City the Dreamwhisper Inn the Dreamwhisper Inn.svg]]
 - Leads to [[step_051 (phase_017)]]
 - Influences [[step_100 (phase_064)]]
-- See also: [[step_081]]
+- See also:
 - Originates from [[Burnt Othur Fumes Xdmg]]
-- Related: [[step_029]]
+- Related:
 - Parallels [[Captain Guard Peacehold (D&D_References)]]
 - Affected by [[NPC0132_Magnus_Darkwater]]
 - See also: [[NPC01003_Erasmus_Voidwalker_the_Swift]]
@@ -275,7 +269,7 @@ Seeks bodyguards for dangerous journey
 - Compare with [[Location City Priest Thomas Messagekeeper Priest Thomas Messagekeeper.svg]]
 - Connects to [[warship-xphb (items)]]
 - Affected by [[Swarm of Ravens Xmm]]
-- Requires [[step_083]]
+- Requires
 - Requires [[step_025 (phase_055)]]
 - Requires [[NPC01773_Drusilla_Silverleaf_the_Wanderer]]
 - Parallels [[Identity Storage Vaul]]
@@ -288,19 +282,18 @@ Seeks bodyguards for dangerous journey
 - Compare with [[EVENT00098_Natural_Event_99]]
 - Connects to [[The Real Marina (D&D_References)]]
 - Influences [[Real Name]]
-- Compare with [[step_035]]
+- Compare with
 - Influences [[NPC00363_Kaelen_Underhill_the_Strong]]
 - Compare with [[Caravan Master Dolrim]]
-- Connects to [[step_049]]
+- Connects to
 - Parallels [[Victoria Harbormane (D&D_References)]]
-- Leads to [[step_063]]
+- Leads to
 - Compare with [[Bag of Beans Xdmg]]
 
 ## Visual References
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

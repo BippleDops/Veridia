@@ -18,7 +18,6 @@ aliases: [09-adventuring (players-handbook-2014)]
 - [[#See Also|See Also]]
 - [[#Related Content|Related Content]]
 
-
 ---
 
 title: 09-adventuring (players-handbook-2014)
@@ -61,11 +60,9 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
@@ -93,8 +90,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - [ ] Prepare quick reference
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -106,7 +102,6 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -131,7 +126,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Compare with [[NPC01585_Pyria_Oakenshield_the_Wanderer]]
 - Originates from [[ITEM00141_Blazing_Axe_of_Speed]]
 - Originates from [[LORE00182_Legends_Entry_183]]
-- See also: [[step_002]]
+- See also:
 - Affected by [[NPC01068_Aldric_Ravenheart_the_Cunning]]
 - Leads to [[02_Worldbuilding_Military_Sabotage_Specialists]]
 - Parallels [[Harbor Facilities]]
@@ -163,7 +158,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Parallels [[Free Current 2]]
 - Connects to [[LOC00199_Wilderness_Location_200]]
 - Requires [[7 Credits]]
-- Related: [[step_067]]
+- Related:
 - See also: [[02_Worldbuilding_Spells_Truth_Reflection]]
 - Parallels [[Light Bearer 2]]
 - Compare with [[ITEM01481_Masterwork_Lock_of_Reliability]]
@@ -194,13 +189,13 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Parallels [[Admiral Diplomatic Envoy Thornwick (D&D_References)]]
 - Connects to [[Memory Alteration 3 (D&D_References)]]
 - Related: [[Spell Scrolls Spell Scroll]]
-- Leads to [[step_085]]
+- Leads to
 - Compare with [[Enspelled Weapon Level 4 Xdmg]]
 - Requires [[ITEM00884_Celestial_Crown_of_Eternity]]
-- Compare with [[step_096]]
+- Compare with
 - Leads to [[ENC0050_Random_Encounter_51]]
 - Parallels [[Supply Master Stockpil 2]]
-- Related: [[step_002]]
+- Related:
 - Related: [[03 Creating a Multiverse]]
 - Originates from [[Dwarves in the World Dwarf Adventurer Story Hooks Mtf]]
 - Affected by [[ITEM00018_Venomous_Sword_of_Speed]]
@@ -218,4 +213,4 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Connects to [[Noble Houses of Aethermoor]]
 - Affected by [[Location City Martha Hillbrook V1 Martha Hillbrook.svg]]
 - Originates from [[Foreign Merchants 2]]
-- Originates from [[step_049]]
+- Originates from 

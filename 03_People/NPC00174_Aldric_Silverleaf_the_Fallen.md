@@ -18,7 +18,6 @@ aliases: [NPC00174 Aldric Silverleaf the Fallen]
 - [[#Urien Voidwalker (Political - Patron)|Urien Voidwalker (Political - Patron)]]
 - [[#Dara Lightbringer (Political - Opposition)|Dara Lightbringer (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aldric Silverleaf the Fallen", "aldric silverleaf the fallen", "Aldric Silverleaf Fallen", "Fallen the Silverleaf Aldrictags: [npc, character, combat, magic, social, puzzle, lore]er]
@@ -143,16 +142,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.131Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -190,11 +186,10 @@ Wants rivals investigated
 - [[11 Rules Glossary]]
 - [[NPC00362_Pyria_Stormwind_the_Wise]]
 - [[NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -204,11 +199,10 @@ Wants rivals investigated
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -227,10 +221,10 @@ Wants rivals investigated
 - Connects to [[[[Ancient Treasury of Tides]] (D&D_References)]]
 - Parallels [[NPC01807_Cedric_Underhill_the_Seeker]]
 - Parallels [[Plate Armor Xphb]]
-- Affected by [[step_036]]
+- Affected by
 - Originates from [[[[Archaeological Discoveries]] (D&D_References)]]
 - Connects to [[Empress Tethys the Ever-Drowning (D&D_References)]]
-- Related: [[step_015]]
+- Related:
 - Related: [[[[Insurance Industry]] (D&D_References)]]
 - See also: [[Location City Scream Saturation [[Scream Saturation Rules]].svg]]
 - See also: [[step_041 (phase_069)]]
@@ -239,7 +233,7 @@ Wants rivals investigated
 - Requires [[ITEM00263_Thunder_Hammer_of_the_Ancients]]
 - See also: [[Location City [[Guardian Neutralwatch]] V1 Guardian Neutralwatch.svg]]
 - Affected by [[Assets Locations Location City Kelp Silk V1 Kelp Silk.svg]]
-- Compare with [[step_077]]
+- Compare with
 - Requires [[[[Shadow Surgery Network]] 2]]
 - Connects to [[SPELL00050_Divine_Spell_51]]
 - Originates from [[Services Emergency Protocol Certification]]
@@ -296,7 +290,7 @@ Wants rivals investigated
 - Connects to [[step_028 (phase_032)]]
 - Originates from [[Tiefling Asmodeus Mtf]]
 - Connects to [[Assets Locations [[Location City the Lighthouse Keeper S Ghost the Lighthouse Keeper S Ghost.png]]]]
-- Requires [[step_066]]
+- Requires
 - Influences [[[[Keeper [[Finn Goodtide]]]] (D&D_References)]]
 - Requires [[step_096 (phase_067)]]
 - Compare with [[step_097 (phase_078)]]
@@ -305,7 +299,7 @@ Wants rivals investigated
 - Related: [[Central Flanaess Locations Xdmg]]
 - Influences [[[[Senator Abyssos Traditionkeeper]] 2]]
 - Compare with [[step_093 (phase_067)]]
-- Compare with [[step_052]]
+- Compare with
 - Parallels [[[[Ambassador Silk Bridgewater]] (D&D_References)]]
 - Affected by [[[[Merchant]] Delilah Currentrunner]]
 - Affected by [[step_007 (phase_005)]]
@@ -317,7 +311,6 @@ Wants rivals investigated
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

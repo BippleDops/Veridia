@@ -9,7 +9,6 @@ aliases: [NPC00124 Delara Ravenheart the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00124 Delara Ravenheart the Redeemed]
 - [[#Pyria Thornweave (Family - Sibling)|Pyria Thornweave (Family - Sibling)]]
 - [[#Pyria Blackstone (Professional - Employer)|Pyria Blackstone (Professional - Employer)]]
 - [[#Caelum Youngblood (Professional - Employee)|Caelum Youngblood (Professional - Employee)]]
-
 
 ---
 created: 2025-08-15
@@ -150,16 +148,13 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.125Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -184,11 +179,10 @@ Modifications:
 - [[Propaganda_Leaflet_Pearl_Guar]]
 - [[11 Spellcasting]]
 - [[World_Primer.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -199,11 +193,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -214,7 +207,7 @@ Modifications:
 - Affected by [[Quest - Storm Lord's Challenge]]
 - Influences [[Assets Portraits Portrait NPC Aria [[Lumengarde]] Aria Lumengarde.svg]]
 - See also: [[ENC00393_Combat_Encounter_394]]
-- Parallels [[step_013]]
+- Parallels
 - See also: [[Sister Morwyn]]
 - Influences [[step_066 (phase_029)]]
 - See also: [[step_095 (phase_059)]]
@@ -229,7 +222,7 @@ Modifications:
 - Related: [[Depth Effect Quick Reference]]
 - Influences [[NPC00762_Felicia_Nightfall_the_Seeker]]
 - Related: [[LORE00181_Legends_Entry_182]]
-- Leads to [[step_095]]
+- Leads to
 - Compare with [[[[Aquabyssos]] Embassy]]
 - Related: [[Map Map Shadow Market Alley V2 Shadow Market Alley.svg]]
 - Requires [[step_057 (phase_009)]]
@@ -239,7 +232,7 @@ Modifications:
 - Leads to [[Familiars Vgm]]
 - Originates from [[Marcus Righteousness]]
 - Connects to [[Charger Xphb]]
-- Connects to [[step_045]]
+- Connects to
 - Leads to [[Fortress Blueprints]]
 - Affected by [[The Royal Palace]]
 - Leads to [[LOC00146_Towns_Location_147]]
@@ -248,7 +241,7 @@ Modifications:
 - Influences [[step_062 (phase_064)]]
 - Parallels [[Locations [[Crystal Shadow Storms]]]]
 - Originates from [[Banker [[Merchant]]]]
-- Leads to [[step_045]]
+- Leads to
 - Affected by [[NPC00871_Ysara_Ironwood_the_Scholar]]
 - Leads to [[Dimensional Travel Stress]]
 - See also: [[special-features-what-quirk-does-it-have (tables)]]
@@ -263,17 +256,17 @@ Modifications:
 - Affected by [[NPC00104_Dara_Darkwater]]
 - See also: [[2 Monsters a to Z]]
 - Requires [[Saving Throws Proficiency Bonus by Challenge]]
-- Requires [[step_053]]
+- Requires
 - Leads to [[Keeper Elara Mindwell 2]]
 - See also: [[LOC00251_Dungeons_Location_252]]
 - Related: [[Councillor Elara Brightwater]]
 - Leads to [[Guild Seal Document Silverscale Consortiu]]
 - Connects to [[SPELL00044_Divine_Spell_45]]
-- Parallels [[step_053]]
+- Parallels
 - Influences [[The Festival Archives]]
 - Affected by [[Deep Sea Environmental Specialist (D&D_References)]]
 - Influences [[step_085 (phase_041)]]
-- See also: [[step_065]]
+- See also:
 - Requires [[sword-of-kas-xdmg (items)]]
 - Compare with [[LOC00161_Dungeons_Location_162]]
 - Originates from [[Assets Locations [[Location City [[Vault Keeper Eternal]] Vault Keeper Eternal.svg]]]]
@@ -282,20 +275,20 @@ Modifications:
 - Connects to [[Cross Realm Research Coalition]]
 - Affected by [[Gallery Guide Captain Marina Civicvoice (D&D_References)]]
 - Requires [[Assets Locations [[Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]]]
-- Affected by [[step_076]]
+- Affected by
 - Parallels [[NPC01629_Urien_Brightblade_the_Seeker]]
 - Influences [[[[Professor Reef Growthseeker]] (D&D_References)]]
-- Parallels [[step_096]]
+- Parallels
 - Parallels [[step_045 (phase_036)]]
 - Leads to [[Phantom Archivist Silent Catalogue]]
 - Influences [[physical-variations-scale-color-vgm (tables)]]
-- Compare with [[step_007]]
+- Compare with
 - Influences [[Celtic Brigantia]]
 - Parallels [[The First Healing]]
 - Parallels [[Detailed Life Sized Dragonborn Skull Cast in]]
-- Parallels [[step_007]]
+- Parallels
 - Parallels [[step_047 (phase_041)]]
-- See also: [[step_063]]
+- See also:
 - Connects to [[Artist Dreamweaver]]
 - Affected by [[Investiture of Stone Xge]]
 - Leads to [[Scarecrow Xmm]]

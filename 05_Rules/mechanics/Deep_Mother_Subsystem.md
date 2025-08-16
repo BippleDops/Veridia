@@ -15,7 +15,6 @@ aliases: [Deep Mother Subsystem]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 ---
 enhanced: trtags: [enhanced, 03_people, combat, exploration, lore]le]
 created: 2025-08-15T12:24:41.163245
@@ -25,11 +24,9 @@ aliases: [Deep Mother Subsystem]
 
 # Deep Mother Subsystem
 
-
 > **Content Warning**: This content contains mature themes. DM discretion advised.
 
 > *An opportunity for greatness awaits...*
-
 
 ## Overview
 
@@ -181,7 +178,6 @@ publish: false --- -|--------|
 - **Unanswered Questions**: What remains unknown
 - **Future Revelations**: Discoveries yet to be made
 
-
 **Key Question**: What role will this play in the greater story?
 
 *The adventure continues...*
@@ -191,10 +187,8 @@ publish: false --- -|--------|
 ![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png]]
 ![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-v1-deep-mother-s-tentacles-rising.png]]
 
-
 > [!warning] ⚠️ Warning
 > Important safety or rule information
-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -207,7 +201,6 @@ publish: false --- -|--------|
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -234,16 +227,16 @@ publish: false --- -|--------|
 - Leads to [[Cult_and_Religious_Guide]]
 - Influences [[step_040 (phase_023)]]
 - Parallels [[INV 003]]
-- Influences [[step_026]]
+- Influences
 - Requires [[NPC00462_Fiora_Ironforge_the_Seeker]]
 - Connects to [[SPELL00062_Divine_Spell_63]]
 - Connects to [[step_043 (phase_100)]]
 - Originates from [[Quest - Medical Breakthrough]]
 - See also: [[step_041 (phase_057)]]
-- Originates from [[step_068]]
+- Originates from
 - Influences [[FINAL_GENERATION_REPORT]]
 - Leads to [[Portrait NPC Deep Mother Cultist Profiles Deep Mother Cultist Profiles.svg_1 (Portraits)]]
-- Compare with [[step_090]]
+- Compare with
 - Connects to [[step_032 (phase_016)]]
 - Originates from [[Free Current Safe Houses]]
 - Parallels [[04_Resources_Assets_Locations_location-city-master-elena-preserver-master-elena-preserver.svg]]
@@ -251,13 +244,13 @@ publish: false --- -|--------|
 - Leads to [[Lighthouse Pea]]
 - Influences [[step_017 (phase_069)]]
 - Leads to [[Umberlee (D&D_References)]]
-- Requires [[step_062]]
+- Requires
 - See also: [[step_089 (phase_072)]]
 - Compare with [[LOC00103_Wilderness_Location_104]]
 - See also: [[Paradox Resolution Society (D&D_References)]]
 - Leads to [[step_058 (phase_084)]]
 - Parallels [[step_012 (phase_023)]]
-- Requires [[step_072]]
+- Requires
 - Related: [[Personality_Traits]]
 - Leads to [[list-spells-races-tiefling-mephistopheles-mtf (lists)]]
 - Related: [[Courier Ripplestone (D&D_References)]]
@@ -308,7 +301,7 @@ publish: false --- -|--------|
 - Requires [[Fire Crystal]]
 - Affected by [[step_078 (phase_052)]]
 - Parallels [[#Regional Organization]]
-- See also: [[step_013]]
+- See also:
 - Related: [[step_092 (phase_018)]]
 - See also: [[Circle of Nature's Balance 2]]
 - Parallels [[Bead of Force Xdmg]]
@@ -320,6 +313,6 @@ publish: false --- -|--------|
 - Related: [[tarokka-deck-cos (decks)]]
 - Related: [[04_Resources_Assets_Portraits_portrait-npc-lady-nexus-goldcurrent-lady-nexus-goldcurrent.svg_Quick_Ref]]
 - Influences [[Quest - Nature_1 (01_Adventures)]]
-- Originates from [[step_084]]
+- Originates from
 - Affected by [[QUEST00435_Side_Quest_436]]
 - See also: [[Palace Guard Captain Neutralis 2]]

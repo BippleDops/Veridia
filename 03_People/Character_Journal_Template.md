@@ -18,11 +18,10 @@ aliases: [Character Journal Template]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 -tags: [template, player, journal, combat]al]
 created: 2025-08-15T14:13:16.708776
-character_name: 
-player_name: 
+character_name:
+player_name:
 ---
 
 # Character Journal
@@ -30,7 +29,7 @@ player_name:
 ## Session Notes
 
 ### Session [Number] - [Date]
-**Summary**: 
+**Summary**:
 **Important Events**:
 **NPCs Met**:
 **Items Gained**:
@@ -42,9 +41,9 @@ player_name:
 - [ ] Long term goal
 
 ## Relationships
-- **Allies**: 
-- **Rivals**: 
-- **Contacts**: 
+- **Allies**:
+- **Rivals**:
+- **Contacts**:
 
 ## Notes & Theories
 *Space for player theories and notes*
@@ -63,17 +62,15 @@ player_name:
 - [[Character_Journal_Template]]
 - [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
 - [[NPC00300_Urien_Zephyrblade]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -106,7 +103,7 @@ player_name:
 - Connects to [[ITEM01324_Masterwork_Lock_of_Convenience]]
 - Originates from [[bronze-dragon-scale-mail-xdmg (items)]]
 - See also: [[The Final Confrontation 2]]
-- Leads to [[step_021]]
+- Leads to
 - Connects to [[step_030 (phase_032)]]
 - Originates from [[Treaty of the Depths]]
 - Affected by [[step_043 (phase_036)]]
@@ -143,7 +140,7 @@ player_name:
 - Related: [[step_005 (phase_019)]]
 - Leads to [[LOC00109_Cities_Location_110]]
 - Parallels [[Crystal Communication Center 2]]
-- Related: [[step_077]]
+- Related:
 - Compare with [[Portrait NPC Oracle Nerida the Tidereader V2 Oracle Nerida the Tidereader.svg]]
 - Influences [[Keeper Deepcurrent (D&D_References)]]
 - Influences [[LOC00077_Cities_Location_78]]
@@ -153,7 +150,7 @@ player_name:
 - Related: [[step_005 (phase_080)]]
 - Affected by [[step_075 (phase_069)]]
 - See also: [[halfling-yondalla-mtf (deities)]]
-- Compare with [[step_085]]
+- Compare with
 - Compare with [[Independent Contractors]]
 - Influences [[step_039 (phase_061)]]
 - Influences [[actions#Study]]
@@ -191,7 +188,6 @@ player_name:
 ![[03_People/portrait_character_sheet.png]]
 ![[03_People/portrait_cross_campaign_characters_dramatic.png]]
 ![[03_People/token_character_name_medium_bloodied.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

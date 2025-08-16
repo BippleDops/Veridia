@@ -14,7 +14,6 @@ aliases: [15 the Planes of Existence]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 ---
 
 title: 15 the Planes of Existence
@@ -42,7 +41,7 @@ tags:
 
 created: 2025-08-11
 modified: '2025-08-14'
-status: 
+status:
 *The [texture] surface feels [description] to the touch.*active
 updated: '2025-08-13T12:34:05.219772+00:00'
 world: Both
@@ -52,11 +51,9 @@ world: Both
 - Strange dreams suggest a portal
 - Strange disappearances suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This NPC knows more than they let on
@@ -90,12 +87,10 @@ world: Both
 - [[Reputation_Tracker]]
 - [[NPC00281_Hestara_Nightfall_the_Cunning]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -112,7 +107,7 @@ world: Both
 ## Connections
 
 - Connects to [[LORE00023_Prophecies_Entry_24]]
-- Originates from [[step_056]]
+- Originates from
 - Affected by [[Assets Locations Location City Port Meridian Port Meridian.svg]]
 - Parallels [[The Royal Treasury Depths (D&D_References)]]
 - Requires [[Target Name]]
@@ -124,7 +119,7 @@ world: Both
 - Originates from [[NPC01313_Branwen_Jadeclaw_the_Lost]]
 - Related: [[Keeper Luminous Crystalbeam (D&D_References)]]
 - Parallels [[The Sunken Palace 2]]
-- See also: [[step_058]]
+- See also:
 - Parallels [[step_063 (phase_093)]]
 - Requires [[Assets Locations Location City the Guild of Reef Builders the Guild of Reef Builders.svg]]
 - Leads to [[step_057 (phase_099)]]
@@ -146,18 +141,18 @@ world: Both
 - Parallels [[Assets Locations Location City Chief Engineer Marina Crystalwright V1 Chief Engineer Marina Crystalwright.svg]]
 - Originates from [[ITEM01040_Greater_Powder_of_Vigor]]
 - Related: [[International Commerce]]
-- Related: [[step_010]]
+- Related:
 - See also: [[Portal_Home]]
 - Affected by [[The Shadow Labs (D&D_References)]]
-- Compare with [[step_008]]
+- Compare with
 - Leads to [[Sunken Kingdom of Nereon]]
 - See also: [[Frontier Settlement]]
-- Leads to [[step_021]]
-- Leads to [[step_095]]
+- Leads to
+- Leads to
 - Leads to [[Update Indexes (D&D_References)]]
 - Influences [[flensing-claws-large-vgm (items)]]
 - Influences [[step_029 (phase_016)]]
-- Related: [[step_006]]
+- Related:
 - Influences [[dawn-war-tiamat-dmg (deities)]]
 - See also: [[Chrysoberyl Xdmg]]
 - Parallels [[potion-of-gaseous-form-xdmg (items)]]

@@ -9,7 +9,6 @@ aliases: [NPC00517 Rhiannon Youngblood the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00517 Rhiannon Youngblood the Risen]
 - [[#Faelyn Dawnstrider the Lost (Family - Parent)|Faelyn Dawnstrider the Lost (Family - Parent)]]
 - [[#Ewan Xendar the Seeker (Personal - Best friend)|Ewan Xendar the Seeker (Personal - Best friend)]]
 - [[#Delara Goldleaf the Wanderer (Political - Ally)|Delara Goldleaf the Wanderer (Political - Ally)]]
-
 
 ---
 aliases: ["Rhiannon Youngblood the Risen", "rhiannon youngblood the risen", "Rhiannon Youngblood Risen", "Risen the Youngblood Rhiannon"]
@@ -152,26 +150,22 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.172Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Related: [[FAC00006_Guilds_7]]
-- Connects to [[step_015]]
+- Connects to
 - Related: [[step_006 (phase_059)]]
 - Leads to [[Signal Whistle Xphb]]
 - Originates from [[step_079 (phase_048)]]
@@ -198,7 +192,7 @@ Being extorted by criminals
 - Originates from [[Fate Weaver]]
 - Connects to [[step_099 (phase_050)]]
 - Leads to [[Aquabyssos Faction Web (D&D_References)]]
-- Related: [[step_013]]
+- Related:
 - See also: [[Quest - The Awakening Ritual]]
 - Compare with [[Assets Portraits Portrait NPC Ice Kingdom Spirits Ice Kingdom Spirits.svg]]
 - See also: [[Infinite Mathematics Divisio (D&D_References)]]
@@ -210,7 +204,7 @@ Being extorted by criminals
 - See also: [[Treasure_Generators (D&D_References)]]
 - Compare with [[Emergency Life Support Research Foundation 2]]
 - Influences [[Quest - The Prophecy Fulfilled_1 (01_Adventures)]]
-- Originates from [[step_070]]
+- Originates from
 - Parallels [[Master_Lore_Index]]
 - See also: [[README]]
 - Originates from [[Silvered Ammunition]]
@@ -224,7 +218,7 @@ Being extorted by criminals
 - Compare with [[ENC00030_Social_Encounter_31]]
 - Compare with [[step_060 (phase_027)]]
 - Leads to [[Assets Locations Location City the Noble Quarter Market the Noble Quarter Market.svg]]
-- Parallels [[step_020]]
+- Parallels
 - Connects to [[Mounts and Vehicles Mounts and Other Animals]]
 - See also: [[LORE00114_Prophecies_Entry_115]]
 - Compare with [[step_062 (phase_083)]]
@@ -242,7 +236,7 @@ Being extorted by criminals
 - Related: [[The Shadowmere_1]]
 - Connects to [[Chrysoberyl Xdmg]]
 - Parallels [[The Convergence Cult (Cults_and_Movements)]]
-- Compare with [[step_013]]
+- Compare with
 - See also: [[halfling-names-male-xge (tables)]]
 - Leads to [[step_089 (phase_035)]]
 - Connects to [[Assets Locations Location City Ambassador Marina Bridgewater V1 Ambassador Marina Bridgewater.svg]]
@@ -265,7 +259,7 @@ Being extorted by criminals
 - Parallels [[SPELL00064_Divine_Spell_65]]
 - Influences [[Location City the Singing Trenches V1 the Singing Trenches.svg]]
 - Connects to [[step_049 (phase_072)]]
-- Related: [[step_028]]
+- Related:
 - Affected by [[Portrait NPC the Shadow Warren V1 the Shadow Warren.svg_1 (Portraits)]]
 - Originates from [[Portrait NPC Madame Nightwhisper Madame Nightwhisper.svg_1 (Portraits)]]
 - Influences [[Jeeves 2]]

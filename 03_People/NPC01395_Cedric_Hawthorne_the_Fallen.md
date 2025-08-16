@@ -9,7 +9,6 @@ aliases: [NPC01395 Cedric Hawthorne the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01395 Cedric Hawthorne the Fallen]
 - [[#Ysara Brightblade the Lost (Professional - Rival)|Ysara Brightblade the Lost (Professional - Rival)]]
 - [[#Baelor Nightfall the Broken (Personal - Love interest)|Baelor Nightfall the Broken (Personal - Love interest)]]
 - [[#Fiora Emberfall the Swift (Professional - Partner)|Fiora Emberfall the Swift (Professional - Partner)]]
-
 
 ---
 aliases: ["Cedric Hawthorne the Fallen", "cedric hawthorne the fallen", "Cedric Hawthorne Fallen", "Fallen the Hawthorne Cedric"]
@@ -155,21 +153,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.268Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -192,7 +186,7 @@ Has information about legendary item
 - Originates from [[step_041 (phase_094)]]
 - Influences [[NPC01510_Thalia_Youngblood_the_Cunning]]
 - Influences [[portrait-npc-queen-nerida-v2-queen-nerida.svg_1 (Portraits)]]
-- Related: [[step_098]]
+- Related:
 - Originates from [[NPC01065_Wynne_Hawthorne_the_Swift]]
 - Related: [[Animated Object Xphb]]
 - Parallels [[Location City Surface Contact Prohibition V1 Surface Contact Prohibition.svg]]
@@ -207,7 +201,7 @@ Has information about legendary item
 - Parallels [[LOC00057_Dungeons_Location_58]]
 - Influences [[LORE00025_Prophecies_Entry_26]]
 - Connects to [[step_086 (phase_097)]]
-- Affected by [[step_083]]
+- Affected by
 - Requires [[step_095 (phase_006)]]
 - See also: [[The Reality Monitor]]
 - Related: [[Anatomy Master Dr Vera Shadowbody]]
@@ -238,8 +232,8 @@ Has information about legendary item
 - Connects to [[NPC01570_Gareth_Emberfall_the_Scholar]]
 - Parallels [[The Conductor (D&D_References)]]
 - Leads to [[Council of Depths (D&D_References)]]
-- Connects to [[step_100]]
-- Affected by [[step_098]]
+- Connects to
+- Affected by
 - Affected by [[MON00152_Undead_Creature_153]]
 - Leads to [[NPC00244_Idris_Goldleaf_the_Risen]]
 - Compare with [[step_093 (phase_067)]]
@@ -248,9 +242,9 @@ Has information about legendary item
 - Leads to [[Portal_Home]]
 - Influences [[04_Resources_Assets_Symbols_symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]]
 - Leads to [[NPC00226_Gavril_Emberfall]]
-- Originates from [[step_021]]
+- Originates from
 - Connects to [[Overmind Depth-Thought Eternal (D&D_References)]]
-- Connects to [[step_097]]
+- Connects to
 - Influences [[Faction Trackerbas]]
 - Originates from [[Location City Profit Crosscurrent Profit Crosscurrent.svg]]
 - Connects to [[step_059 (phase_029)]]
@@ -266,7 +260,7 @@ Has information about legendary item
 - Requires [[Assets Vehicles Vehicle Ship Aether Sail Testbed V2 Aether Sail Testbed.svg]]
 - Influences [[boon-of-the-night-spirit-xphb (feats)]]
 - Affected by [[step_041 (phase_044)]]
-- See also: [[step_018]]
+- See also:
 - Parallels [[Tethyan Basin 2]]
 - Related: [[Current Riders Union]]
 - Parallels [[QUEST00401_Side_Quest_402]]

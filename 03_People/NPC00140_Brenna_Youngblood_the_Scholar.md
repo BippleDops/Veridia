@@ -18,7 +18,6 @@ aliases: [NPC00140 Brenna Youngblood the Scholar]
 - [[#Zephyr Voidwalker the Seeker (Personal - Nemesis)|Zephyr Voidwalker the Seeker (Personal - Nemesis)]]
 - [[#Branwen Youngblood the Fallen (Professional - Employee)|Branwen Youngblood the Fallen (Professional - Employee)]]
 
-
 ---
 aliases: ["Brenna Youngblood the Scholar", "brenna youngblood the scholar", "Brenna Youngblood Scholar", "Scholar the Youngblood Brenna"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.127Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -185,7 +180,7 @@ Wants rivals investigated
 - Affected by [[Assets Locations Location City Military Coordinator Strong Military Coordinator Strong.svg]]
 - Affected by [[02_Worldbuilding_Spells_Future_Glimpse]]
 - Leads to [[FAC00068_Guilds_69]]
-- Connects to [[step_072]]
+- Connects to
 - Related: [[Orb of Direction Xdmg]]
 - Requires [[NPC01145_Baelor_Frostwhisper_the_Mystic]]
 - Influences [[House Deepforge (D&D_References)]]
@@ -247,12 +242,12 @@ Wants rivals investigated
 - Influences [[step_043 (phase_040)]]
 - Parallels [[location-city-crystallium-v1-crystallium.svg]]
 - Influences [[Sinking Phenomenon Research 2]]
-- Leads to [[step_072]]
+- Leads to
 - Compare with [[Treasure Hoard Challenge 510 (tables)]]
 - Related: [[Tidal Priests Circle (D&D_References)]]
 - Affected by [[step_072 (phase_057)]]
 - See also: [[Artificer-General Magnus Gemheart]]
-- Affected by [[step_092]]
+- Affected by
 - Originates from [[Location City Basalt Depthwright Basalt Depthwright.svg]]
 - See also: [[Portrait NPC Aeth... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - See also: [[Illyana Glowstream 2]]
@@ -267,7 +262,6 @@ Wants rivals investigated
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

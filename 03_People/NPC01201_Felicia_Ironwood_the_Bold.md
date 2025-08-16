@@ -18,7 +18,6 @@ aliases: [NPC01201 Felicia Ironwood the Bold]
 - [[#Ysara Darkwater the Lost (Professional - Employee)|Ysara Darkwater the Lost (Professional - Employee)]]
 - [[#Qadim Silverleaf the Scholar (Professional - Rival)|Qadim Silverleaf the Scholar (Professional - Rival)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Felicia Ironwood the Bold", "felicia ironwood the bold", "Felicia Ironwood Bold", "Bold the Ironwood Feliciatags: [npc, character, combat, magic, exploration, lore]er]
@@ -145,16 +144,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.247Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -202,9 +198,7 @@ Modifications:
 - [[Character_Journal_Template]]
 - [[MOC_Rules]]
 - [[NPC00587_Idris_Youngblood_the_Strong]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -222,7 +216,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.237
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -230,11 +224,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -266,7 +259,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Eye of Vecna Xdmg]]
 - Requires [[Syndicate War]]
 - Related: [[Dimensional Security Guards]]
-- Parallels [[step_090]]
+- Parallels
 - Connects to [[EVENT00008_Magical_Event_9]]
 - Connects to [[ITEM0019_Divine_Crown_of_Power]]
 - Compare with [[rowboat-xphb (items)]]
@@ -278,7 +271,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_072 (phase_045)]]
 - See also: [[Order of the Silver Anchor]]
 - Affected by [[MON00115_Undead_Creature_116]]
-- Originates from [[step_024]]
+- Originates from
 - Affected by [[QUEST00355_Side_Quest_356]]
 - Connects to [[step_050 (phase_087)]]
 - Requires [[Transformation Specialist Doctor Prism-Current]]
@@ -287,8 +280,8 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[ITEM00794_Divine_Amulet_of_Truth]]
 - Related: [[Young [[Merchant]] Guild]]
 - Parallels [[Silence Seekers]]
-- Influences [[step_029]]
-- Leads to [[step_008]]
+- Influences
+- Leads to
 - Originates from [[The Depth Accords (D&D_References)]]
 - Parallels [[MON00138_Aberrations_Creature_139]]
 - Requires [[Bulette Pup Xmm]]
@@ -302,7 +295,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[spike-growth-xphb (spells)]]
 - Connects to [[Healing Ministries 2]]
 - Leads to [[Guild of Cross Realm Navigators]]
-- Leads to [[step_029]]
+- Leads to
 - Originates from [[Kenku Xmm]]
 - Parallels [[Dr. Coral Mindmend]]
 - Influences [[Portrait NPC Parliament Loyalists V1 Parliament Loyalists.svg_1 (Portraits)]]
@@ -312,7 +305,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[ITEM0113_Blessed_Pendant_of_the_Dawn]]
 - Parallels [[step_090 (phase_071)]]
 - Influences [[Snare Xge]]
-- Leads to [[step_048]]
+- Leads to
 - Compare with [[02_Worldbuilding_Procedures_Shadow_Resoce_Scanning]]
 - Related: [[step_095 (phase_013)]]
 - Influences [[Map Map Sunken Crown Crypt V1 Sunken Crown Crypt.svg]]
@@ -322,20 +315,20 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Marina-Red-Tide-Coralheart (People)]]
 - Compare with [[The Pressure Pirates (D&D_References)]]
 - Influences [[Assets Handouts Handout Handout Aged Treasure Map V2 Aged Treasure Map.png]]
-- Requires [[step_019]]
+- Requires
 - See also: [[Brontosaurus Mpmm]]
 - See also: [[09 Adventuring]]
 - Related: [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
-- Requires [[step_085]]
-- Affected by [[step_042]]
+- Requires
+- Affected by
 - Affected by [[Market Analysis]]
-- Parallels [[step_031]]
+- Parallels
 - Requires [[step_031 (phase_079)]]
 - Affected by [[NPC00498_Fiora_Ironwood_the_Guardian]]
 - Influences [[Doctor_Silas_Voidtouch.png]]
 - Originates from [[[[Religious Leaders]] (D&D_References)]]
 - Originates from [[Portrait NPC Corrupted Clients V1 Corrupted Clients.svg_1 (Portraits)]]
-- Leads to [[step_076]]
+- Leads to
 - Affected by [[Event_Log]]
 - Requires [[step_028 (phase_056)]]
 
@@ -343,7 +336,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

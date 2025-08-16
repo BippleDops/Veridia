@@ -9,7 +9,6 @@ aliases: [NPC00059 Branwen Crystalbrook]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00059 Branwen Crystalbrook]
 - [[#Branwen Keenblade the Fallen (Family - Spouse)|Branwen Keenblade the Fallen (Family - Spouse)]]
 - [[#Jorah Emberfall (Criminal - Fence)|Jorah Emberfall (Criminal - Fence)]]
 - [[#Hilda Ravenheart (Professional - Employer)|Hilda Ravenheart (Professional - Employer)]]
-
 
 ---
 aliases: ["Branwen Crystalbrook", "branwen crystalbrook", "Crystalbrook Branwen"]
@@ -151,28 +149,24 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.118Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Parallels [[NPC01995_Aeliana_Frostwhisper_the_Strong]]
 - Influences [[QUEST0078_The_Frozen_Fortress_Invasion]]
 - Compare with [[Portrait NPC the Golden Fishook Tavern the Golden Fishook Tavern.svg_1 (Portraits)]]
-- Parallels [[step_038]]
+- Parallels
 - Connects to [[Map of the Whispering Expanse]]
 - Affected by [[NPC00036_Gareth_Moonshadow]]
 - Requires [[step_064 (phase_081)]]
@@ -187,14 +181,14 @@ Wants rivals investigated
 - Leads to [[Gith Tables Githzerai Ideals Mtf]]
 - Influences [[QUEST00487_Side_Quest_488]]
 - Affected by [[Royal Academy of Arcane Arts Ruin]]
-- Related: [[step_011]]
+- Related:
 - Compare with [[Portrait NPC Lady Jade Clawgrip Lady Jade Clawgrip.svg]]
-- Leads to [[step_057]]
+- Leads to
 - Compare with [[mold-earth-xge (spells)]]
 - Originates from [[cloak-of-elvenkind-xdmg (items)]]
 - Compare with [[mule-xphb (items)]]
 - Connects to [[step_097 (phase_047)]]
-- Parallels [[step_052]]
+- Parallels
 - Leads to [[ENC00056_Environmental_Encounter_57]]
 - Connects to [[random-magic-items-armaments (tables)]]
 - Influences [[step_088 (phase_030)]]
@@ -203,13 +197,13 @@ Wants rivals investigated
 - Affected by [[Assets Locations Location City Replacement Survivor Support V1 Replacement Survivor Support Groups.svg]]
 - Parallels [[Stellar Commander Nereus Voidcaller 2]]
 - Influences [[Shadow Cultis]]
-- Connects to [[step_058]]
-- Related: [[step_100]]
+- Connects to
+- Related:
 - Related: [[Instrument of the Bards Cli Lyre Xdmg]]
 - Parallels [[Academy of Crystalline Art (Academies)]]
 - Affected by [[Assets Item Artifact Dagger of Venom Xdmg V5 Dagger of Venom Xdmg.png]]
 - Leads to [[step_063 (phase_072)]]
-- Influences [[step_100]]
+- Influences
 - Connects to [[Location City Protocol Expert Formal V1 Protocol Expert Formal.svg]]
 - See also: [[Stop the Shadow Harvest]]
 - Affected by [[step_085 (phase_081)]]
@@ -221,7 +215,7 @@ Wants rivals investigated
 - Compare with [[ring-mail-xphb (items)]]
 - Related: [[Rope Trick Xphb]]
 - Originates from [[Suspended Cauldron Xdmg]]
-- Originates from [[step_092]]
+- Originates from
 - Affected by [[step_095 (phase_020)]]
 - Connects to [[The Coral Estates]]
 - Originates from [[Abyssal Depths]]
@@ -267,7 +261,7 @@ Wants rivals investigated
 - Originates from [[step_085 (phase_041)]]
 - Compare with [[Warden Marcus Stonehand]]
 - Influences [[LOC00283_Wilderness_Location_284]]
-- Originates from [[step_030]]
+- Originates from
 - Originates from [[Map Map Gloom Gardens Paths V2 Gloom Gardens Paths.svg]]
 
 ## Plot Hooks

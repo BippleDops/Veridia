@@ -18,7 +18,6 @@ aliases: [NPC00562 Branwen Voidwalker]
 - [[#Drusilla Silverleaf the Bold (Professional - Employer)|Drusilla Silverleaf the Bold (Professional - Employer)]]
 - [[#Thalia Youngblood the Fallen (Criminal - Handler)|Thalia Youngblood the Fallen (Criminal - Handler)]]
 
-
 ---
 aliases: ["Branwen Voidwalker", "branwen voidwalker", "Voidwalker Branwen"]
 tags: [npc, character]
@@ -147,21 +146,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.177Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -171,7 +166,7 @@ Family member has gone missing
 - Leads to [[step_055 (phase_084)]]
 - Compare with [[starting-equipment-at-higher-levels-xphb (tables)]]
 - Leads to [[Institute_of_Adaptive_Sciences (02_Worldbuilding)]]
-- Related: [[step_046]]
+- Related:
 - Requires [[The Bridge of Understanding]]
 - Related: [[physical-variations-type-4-malison-lower-body-vgm]]
 - Influences [[monsters-by-habitat-desert-monsters-xmm (tables)]]
@@ -179,7 +174,7 @@ Family member has gone missing
 - Originates from [[step_034 (phase_080)]]
 - Related: [[step_056 (phase_022)]]
 - Affected by [[Guardian Council Dreams]]
-- Affected by [[step_013]]
+- Affected by
 - Originates from [[Location City Commercial District Commercial District.svg]]
 - Leads to [[step_053 (phase_018)]]
 - Parallels [[Frequency Manipulator 2]]
@@ -196,7 +191,7 @@ Family member has gone missing
 - Affected by [[Maintece Tech Reef Fixwright]]
 - Originates from [[Location City Courier Ripplestone V1 Courier Ripplestone.svg]]
 - Parallels [[ITEM00655_Dragon_Scale_Chain_Mail_of_the_Guardian]]
-- Connects to [[step_010]]
+- Connects to
 - Connects to [[map-map-coral-market-riot-v2-coral-market-riot.svg]]
 - Parallels [[ENC00070_Combat_Encounter_71]]
 - Parallels [[Marine Druids 2]]
@@ -210,10 +205,10 @@ Family member has gone missing
 - Originates from [[step_030 (phase_038)]]
 - Leads to [[Portrait NPC Abyssos Prime Throne of Bubbles V1 Abyssos Prime Throne of Bubbles.svg]]
 - Affected by [[step_032 (phase_045)]]
-- Connects to [[step_086]]
+- Connects to
 - Leads to [[molten-magma-roper-pota (monstrosity)]]
 - See also: [[Location City Vault Keeper Aurelia Crownguard V1 Vault Keeper Aurelia Crownguard.svg]]
-- Influences [[step_005]]
+- Influences
 - Related: [[11-spellcasting (players-handbook-2014)]]
 - Parallels [[step_005 (phase_087)]]
 - Parallels [[Portrait NPC Captain Thornback V2 Captain Thornback.svg]]
@@ -222,7 +217,7 @@ Family member has gone missing
 - Parallels [[Location City House Voidwhisper V1 House Voidwhisper.svg]]
 - See also: [[chaos-bolt-xge (spells)]]
 - Compare with [[Sea Silk 2]]
-- Leads to [[step_081]]
+- Leads to
 - Parallels [[LOC00237_Wilderness_Location_238]]
 - Related: [[Primary Gateways]]
 - Parallels [[step_092 (phase_086)]]
@@ -232,7 +227,7 @@ Family member has gone missing
 - Compare with [[Assets Handouts Handout Handout Aged Treasure Map V2 Aged Treasure Map.png]]
 - Affected by [[Assets Locations Location City the Deepmost Current the Deepmost Current.svg]]
 - Parallels [[alert-xphb (feats)]]
-- Affected by [[step_064]]
+- Affected by
 - See also: [[Portrait NPC Madame Crystal Eye Madame Crystal Eye.svg_1 (Portraits)]]
 - Related: [[darkvision-xphb (spells)]]
 - Affected by [[The Crown Eternal]]
@@ -253,9 +248,9 @@ Family member has gone missing
 - Influences [[Creating a Gnoll War Band War Band]]
 - Requires [[duergar-in-the-world-duergar-quirks-mtf (tables)]]
 - Connects to [[04_Resources_Assets_Symbols_symbol-heraldry-silverscale-consortium-silverscale-consortium.svg]]
-- Compare with [[step_100]]
+- Compare with
 - Compare with [[LORE00191_History_Entry_192]]
-- Leads to [[step_044]]
+- Leads to
 - Parallels [[DUN00040_Dungeon_41]]
 - See also: [[ITEM00529_Dragon_Scale_Cloak_of_Grace]]
 - Originates from [[10 Appendix B Creature Stat Blocks]]
@@ -270,7 +265,6 @@ Family member has gone missing
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

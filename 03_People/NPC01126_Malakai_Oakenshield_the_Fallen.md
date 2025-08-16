@@ -9,7 +9,6 @@ aliases: [NPC01126 Malakai Oakenshield the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01126 Malakai Oakenshield the Fallen]
 - [[#Thalia Grimholt the Bold (Political - Patron)|Thalia Grimholt the Bold (Political - Patron)]]
 - [[#Xander Underhill the Cunning (Criminal - Accomplice)|Xander Underhill the Cunning (Criminal - Accomplice)]]
 - [[#Urien Blackstone the Fallen (Criminal - Handler)|Urien Blackstone the Fallen (Criminal - Handler)]]
-
 
 ---
 created: 2025-08-15
@@ -152,16 +150,13 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.240Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -198,11 +193,10 @@ Modifications:
 - [[NPC01827_Kaelen_Ironforge_the_Seeker]]
 - [[05 Personality and Background]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -211,11 +205,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -246,12 +239,12 @@ Modifications:
 - Originates from [[MON00115_Constructs_Creature_116]]
 - Leads to [[International Pressur]]
 - Compare with [[Harpy Xmm]]
-- Originates from [[step_065]]
+- Originates from
 - Related: [[step_079 (phase_014)]]
 - Originates from [[damage-xphb (variant-rules)]]
-- Requires [[step_024]]
+- Requires
 - Compare with [[NPC00154_Dara_Winterborn]]
-- Requires [[Charter of  Rights]]
+- Requires [[Charter of Rights]]
 - Leads to [[04_Resources_Assets_Locations_location-city-reef-guard-captain-torrent-shellborn-v1-reef-guard-captain-torrent-shellborn.svg]]
 - Connects to [[LORE0049_Secret_of_the_Dragon_Wars]]
 - Related: [[LORE00183_Legends_Entry_184]]
@@ -280,10 +273,10 @@ Modifications:
 - Influences [[Convergence Maze]]
 - Influences [[Monk Xphb Way of the Sun Soul Xge]]
 - Connects to [[The Depth Blessed Fisherman Captain Sal]]
-- Requires [[step_006]]
+- Requires
 - Requires [[Human Names English Male Xge]]
-- Originates from [[step_097]]
-- Related: [[step_089]]
+- Originates from
+- Related:
 - Connects to [[NPC00101_Caelum_Hawthorne]]
 - Affected by [[Symbol Heraldry Witness Protection Network V1 Witness Protection Network.svg]]
 - Connects to [[Lady Vivienne Thornwhisper (D&D_References)]]
@@ -304,12 +297,12 @@ Modifications:
 - Affected by [[Sealing Wax]]
 - Originates from [[step_086 (phase_083)]]
 - Related: [[ITEM00434_Enchanted_Shield_of_Protection]]
-- Compare with [[step_005]]
+- Compare with
 - Influences [[Assets Locations Location City [[Chronicle Keeper Sage Deepmemory]] V1 Chronicle Keeper Sage Deepmemory.svg]]
 - Requires [[step_091 (phase_036)]]
 - Leads to [[step_038 (phase_023)]]
 - Parallels [[step_058 (phase_026)]]
-- Originates from [[step_073]]
+- Originates from
 - Influences [[Portrait NPC Deep Mother Priestess Sira V1 Deep Mother Priestess Sira.svg_1 (Portraits)]]
 - Leads to [[Symbol Heraldry Purist Coalition V1 Purist Coalition.svg]]
 - See also: [[ring-of-x-ray-vision-xdmg (items)]]

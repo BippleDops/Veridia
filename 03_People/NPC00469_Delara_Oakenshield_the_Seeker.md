@@ -18,7 +18,6 @@ aliases: [NPC00469 Delara Oakenshield the Seeker]
 - [[#Caelum Ironforge the Guardian (Personal - Childhood friend)|Caelum Ironforge the Guardian (Personal - Childhood friend)]]
 - [[#Baelor Nightfall the Swift (Criminal - Accomplice)|Baelor Nightfall the Swift (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Delara Oakenshield the Seeker", "delara oakenshield the seeker", "Delara Oakenshield Seeker", "Seeker the Oakenshield Delaratags: [npc, character, combat, magic, lore]er]
@@ -148,16 +147,13 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.166Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -203,11 +199,10 @@ Modifications:
 - [[11 Rules Glossary]]
 - [[Character_Journal_Template]]
 - [[MOC_Items]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -216,11 +211,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -239,7 +233,7 @@ Modifications:
 - Originates from [[Memory Harvester Kythara (D&D_Statblocks)]]
 - Originates from [[Corrupted Government Reflections]]
 - Affected by [[Heart Crystal 2]]
-- Connects to [[step_073]]
+- Connects to
 - Influences [[Elder Kythara the Wise]]
 - Leads to [[Potion of Animal Friendship Xdmg]]
 - Parallels [[ENC00215_Social_Encounter_216]]
@@ -247,7 +241,7 @@ Modifications:
 - Compare with [[step_044 (phase_092)]]
 - Parallels [[Dream Scholar [[Memoriam]] 2]]
 - Connects to [[brass-dragon-xmm (legendary-group)]]
-- Leads to [[step_025]]
+- Leads to
 - Parallels [[step_071 (phase_035)]]
 - Affected by [[Emergency Hollo]]
 - Related: [[step_013 (phase_060)]]
@@ -259,7 +253,7 @@ Modifications:
 - Connects to [[Gnome Gods Gnome Deities Mtf]]
 - Compare with [[The Resistance Network 2]]
 - Parallels [[[[Screaming Gardens]] - Songwood Grove 2]]
-- Influences [[step_010]]
+- Influences
 - Affected by [[friendly-attitude-xphb (variant-rules)]]
 - Affected by [[[[Aquabyssos]] World Overview#The Preservation Current]]
 - See also: [[Shadow Replacements]]
@@ -276,7 +270,7 @@ Modifications:
 - Affected by [[Alpha-Prime]]
 - Related: [[Deep-Root Caretaker Nereon]]
 - Parallels [[EVENT00021_Political_Event_22]]
-- Affected by [[step_086]]
+- Affected by
 - Parallels [[Character Backstories]]
 - Originates from [[portrait-npc-sirens-sirens.svg]]
 - Compare with [[Gimli Deepcurren]]
@@ -285,7 +279,7 @@ Modifications:
 - Related: [[ITEM00391_Thunder_Spear_of_the_Ancients]]
 - Compare with [[step_061 (phase_068)]]
 - Parallels [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]
-- Influences [[step_086]]
+- Influences
 - Leads to [[Location City [[Magical Engineer Reef Spellbreath]] Magical Engineer Reef Spellbreath.svg]]
 - Leads to [[Travel_and_Navigation_Reference]]
 - Leads to [[cleric-xphb-grave-domain-xge 2 (classes)]]
@@ -315,7 +309,7 @@ Modifications:
 - Leads to [[Tyrannosaurus Rex Xmm]]
 - Influences [[LOC00273_Towns_Location_274]]
 - Compare with [[The Sundered Vaults]]
-- Compare with [[step_079]]
+- Compare with
 - Influences [[Truth Verification Serum]]
 - See also: [[Assets Locations [[Location City [[Crisis Management]] V1 Crisis Management.svg]]]]
 - Leads to [[step_086 (phase_013)]]
@@ -329,7 +323,6 @@ Modifications:
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

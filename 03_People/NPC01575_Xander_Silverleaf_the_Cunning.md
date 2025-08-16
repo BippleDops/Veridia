@@ -18,7 +18,6 @@ aliases: [NPC01575 Xander Silverleaf the Cunning]
 - [[#Drusilla Youngblood the Wanderer (Personal - Childhood friend)|Drusilla Youngblood the Wanderer (Personal - Childhood friend)]]
 - [[#Gavril Frostwhisper the Guardian (Political - Spy)|Gavril Frostwhisper the Guardian (Political - Spy)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Silverleaf the Cunning", "xander silverleaf the cunning", "Xander Silverleaf Cunning", "Cunning the Silverleaf Xander"]
@@ -152,27 +151,23 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.287Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -180,11 +175,10 @@ Knows secret about major threat
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -199,7 +193,7 @@ Knows secret about major threat
 - Related: [[The Shattering (D&D_References)]]
 - Related: [[blessing-of-magic-resistance-xdmg (rewards)]]
 - Connects to [[Deepsteel 2]]
-- Connects to [[step_043]]
+- Connects to
 - Affected by [[Emergency Hollo]]
 - Requires [[step_036 (phase_094)]]
 - Related: [[ITEM00792_Celestial_Tome_of_the_Gods]]
@@ -219,7 +213,7 @@ Knows secret about major threat
 - Originates from [[Location City Captain Marlowe Tidecrest V1 Captain Marlowe Tidecrest.svg]]
 - Leads to [[NPC00585_Brenna_Crystalbrook]]
 - Compare with [[Forge Master Thorne]]
-- Related: [[step_004]]
+- Related:
 - Connects to [[word-of-radiance-xphb (spells)]]
 - Influences [[ITEM00452_Mithril_Boots_of_Grace]]
 - Influences [[NPC01293_Aldric_Youngblood_the_Guardian]]
@@ -227,7 +221,7 @@ Knows secret about major threat
 - See also: [[step_048 (phase_037)]]
 - Connects to [[09 Templates]]
 - Influences [[NPC00460_Elric_Goldleaf_the_Wanderer]]
-- Compare with [[step_036]]
+- Compare with
 - Originates from [[SPELL00033_Divine_Spell_34]]
 - Related: [[Shadow-Child Advisory]]
 - Influences [[Surface Portal Alpha]]
@@ -280,20 +274,19 @@ Knows secret about major threat
 - Parallels [[Amber Xdmg]]
 - Influences [[Captain Blackwater (D&D_Statblocks)]]
 - Leads to [[10-combat#Ranged Attacks in Close Combat]]
-- Influences [[step_044]]
+- Influences
 - Influences [[Sending Stone]]
 - Requires [[War College of Depths 2]]
 - Influences [[Location City Reality Stabilization Centers Reality Stabilization Centers.svg]]
 - Affected by [[Chief Philosopher Marina Clearpool (D&D_References)]]
 - Connects to [[ITEM00287_Radiant_Staff_of_the_Ancients]]
-- Originates from [[step_072]]
+- Originates from
 - Originates from [[Physical Characteristics Beholder Eyestalk Shape Vgm]]
 
 ## Visual References
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01943 Xander Proudmore the Fallen]
 - [[#Aldric Xendar the Fallen (Political - Puppet)|Aldric Xendar the Fallen (Political - Puppet)]]
 - [[#Wynne Blackstone the Bold (Criminal - Accomplice)|Wynne Blackstone the Bold (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Proudmore the Fallen", "xander proudmore the fallen", "Xander Proudmore Fallen", "Fallen the Proudmore Xander"]
@@ -159,16 +158,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.326Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -180,11 +176,10 @@ Is secretly testing the party
 - [[07 Customization Options]]
 - [[Guild Seal Document Silverscale Consortiu]]
 - [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -194,18 +189,17 @@ Is secretly testing the party
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Requires [[map-map-sunken-crown-crypt-sunken-crown-crypt.svg]]
 - Parallels [[step_034 (phase_060)]]
 - Affected by [[Portrait NPC Lady Willow Greenbough V1 Lady Willow Greenbough.svg]]
-- Requires [[step_050]]
+- Requires
 - Compare with [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)]]
 - Compare with [[location-city-pressure-tubes-pressure-tubes.svg]]
 - Related: [[Groundbreaker's Hamme 2]]
@@ -222,7 +216,7 @@ Is secretly testing the party
 - Influences [[Voluntary Taxation (D&D_References)]]
 - Connects to [[02_Worldbuilding_Locations_Abyssal_Forges]]
 - Compare with [[emergent_storytelling_systems]]
-- Compare with [[step_014]]
+- Compare with
 - Leads to [[step_008 (phase_072)]]
 - Influences [[LOC00291_Wilderness_Location_292]]
 - Compare with [[LOC00159_Planes_Location_160]]
@@ -233,7 +227,7 @@ Is secretly testing the party
 - Parallels [[Aquabyssos_World_Guide.png]]
 - Related: [[ITEM01496_Sturdy_Lantern_of_Quality]]
 - Requires [[ITEM01246_Lesser_Potion_of_Vigor]]
-- Requires [[step_094]]
+- Requires
 - Parallels [[Marcus "The Shade" Blackwood (D&D_References)]]
 - Compare with [[antimagic-field-xphb (spells)]]
 - Originates from [[step_043 (phase_076)]]
@@ -258,7 +252,7 @@ Is secretly testing the party
 - Influences [[Crystal Caves of Luminar (D&D_References)]]
 - Leads to [[Cargo Master Holdspace (D&D_References)]]
 - Leads to [[Lord Vexton Shadowmere]]
-- Influences [[step_083]]
+- Influences
 - Parallels [[Community Investment Fund (D&D_References)]]
 - Influences [[Manual of Gainful Exercise Xdmg]]
 - Requires [[step_098 (phase_076)]]
@@ -280,7 +274,7 @@ Is secretly testing the party
 - Leads to [[The Sky Knight Orders (Orders)]]
 - See also: [[Order of the Sunken Crown]]
 - Originates from [[Finger of Death Xphb]]
-- Parallels [[step_083]]
+- Parallels
 - Affected by [[maddening-darkness-xge (spells)]]
 - Connects to [[The Kraken's Harbor 2]]
 - Related: [[step_054 (phase_070)]]
@@ -289,7 +283,7 @@ Is secretly testing the party
 - Requires [[Implements Legendary Xdmg]]
 - Influences [[step_093 (phase_085)]]
 - Influences [[Assets Locations Location City Shadow Current V1 Shadow Current.svg]]
-- Requires [[step_033]]
+- Requires
 - Compare with [[The Scholars of Divine Lore (D&D_References)]]
 - See also: [[Cult_and_Religious_Guide]]
 - Compare with [[ENC00217_Social_Encounter_218]]
@@ -307,7 +301,6 @@ Is secretly testing the party
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

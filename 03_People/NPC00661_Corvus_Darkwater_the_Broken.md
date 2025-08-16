@@ -18,7 +18,6 @@ aliases: [NPC00661 Corvus Darkwater the Broken]
 - [[#Zephyr Underhill the Wanderer (Professional - Partner)|Zephyr Underhill the Wanderer (Professional - Partner)]]
 - [[#Felicia Ironforge the Risen (Political - Spy)|Felicia Ironforge the Risen (Political - Spy)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Corvus Darkwater the Broken", "corvus darkwater the broken", "Corvus Darkwater Broken", "Broken the Darkwater Corvustags: [npc, character, combat, puzzle, lore]er]
@@ -150,16 +149,13 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.188Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -216,11 +212,10 @@ Modifications:
 - [[NPC01812_Xander_Lightbringer_the_Swift]]
 - [[NPC00501_Orion_Nightfall_the_Broken]]
 - [[Propaganda_Leaflet_Pearl_Guar]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -229,11 +224,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -253,7 +247,7 @@ Modifications:
 - Leads to [[Cloak of Flies Xge]]
 - Compare with [[ITEM01128_Refined_Elixir_of_Swiftness]]
 - Affected by [[Pearl Divers 2]]
-- Related: [[step_035]]
+- Related:
 - Requires [[truth-serum-xdmg (items)]]
 - Originates from [[Location City [[Deep Studycurrent]] Deep Studycurrent.svg]]
 - See also: [[The Unshadowed (D&D_References)]]
@@ -265,20 +259,20 @@ Modifications:
 - Affected by [[Symbol Heraldry Deep Sea Agricultural Research Institut V1 Deep Sea Agricultural Research Institut.svg]]
 - See also: [[QUEST00413_Side_Quest_414]]
 - Affected by [[Location City [[Traditional Elder Wisdom Keeper]] V1 Traditional Elder Wisdom Keeper.svg]]
-- Parallels [[step_086]]
+- Parallels
 - See also: [[QUEST0036_Destroy_the_Demons]]
 - Parallels [[Institute of Unified Magic]]
 - Affected by [[ENC00209_Social_Encounter_210]]
 - See also: [[02_Worldbuilding_People_Admiral_Marina_Stormcrest]]
 - Requires [[TAG_TAXONOMY]]
 - Related: [[Portrait NPC Lighthouse Keeper V2 Lighthouse Keeper.svg]]
-- Parallels [[step_099]]
+- Parallels
 - Requires [[NPC01079_Faelyn_Oakenshield_the_Broken]]
 - Connects to [[Detective Cross-Reference Clarke]]
 - Parallels [[Captain Twin-Reality Marsh]]
 - Originates from [[LOC00171_Planes_Location_172]]
 - Parallels [[Spiritual Weapon Xphb]]
-- Influences [[step_066]]
+- Influences
 - Requires [[step_036 (phase_022)]]
 - Related: [[portrait-npc-assassin-v1-assassin.svg]]
 - Requires [[archelon-xmm (beast)]]
@@ -294,7 +288,7 @@ Modifications:
 - Influences [[[[Cathedral of Light]] (D&D_References)]]
 - Connects to [[Potion of Resistance Xdmg]]
 - Connects to [[Creature Creature Goblin Hexer Xmm V4 Goblin Hexer Xmm.png]]
-- Requires [[step_074]]
+- Requires
 - Influences [[step_002 (phase_075)]]
 - Compare with [[location-city-the-portal-wars-the-portal-wars.svg]]
 - Originates from [[Location City [[Aquabyssos]] Government V1 Aquabyssos Government.svg]]
@@ -328,7 +322,7 @@ Modifications:
 - Connects to [[Assets Locations Location City [[Arts Communities]] Arts Communities.svg]]
 - Leads to [[step_071 (phase_024)]]
 - Influences [[erupting-earth-xge (spells)]]
-- Compare with [[step_045]]
+- Compare with
 - Originates from [[Alchemists Fire Xphb]]
 - Requires [[Local Informants (Groups)]]
 - Related: [[[[Administrative Wing]] (D&D_References)]]
@@ -342,7 +336,6 @@ Modifications:
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00472 Pyria Ironforge]
 - [[#Erasmus Crystalbrook the Mystic (Political - Ally)|Erasmus Crystalbrook the Mystic (Political - Ally)]]
 - [[#Xander Moonshadow (Personal - Nemesis)|Xander Moonshadow (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Pyria Ironforge", "pyria ironforge", "Ironforge Pyria"]
@@ -144,27 +143,23 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.167Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -174,11 +169,10 @@ Witnessed a crime
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -186,7 +180,7 @@ Witnessed a crime
 - Related: [[Rumor_Table]]
 - Parallels [[NPC0073_Helena_Ironforge]]
 - Originates from [[Duergar in the Clan Duergar Clan Names Mtf]]
-- Influences [[step_007]]
+- Influences
 - Connects to [[Cultural Centers]]
 - Affected by [[International Commerce (D&D_References)]]
 - Compare with [[Roleplaying a Hag Hag Personality Traits Vgm]]
@@ -208,7 +202,7 @@ Witnessed a crime
 - Requires [[step_031 (phase_030)]]
 - Influences [[LORE0007_Prophecy_of_the_Ancient_Pact]]
 - Requires [[The Pressure Forges]]
-- Requires [[step_086]]
+- Requires
 - Originates from [[Pearl Harbor City 2]]
 - Originates from [[quickened-spell-xphb (optional-features)]]
 - Connects to [[Black Dragon Mask Hotdq]]
@@ -220,7 +214,7 @@ Witnessed a crime
 - Parallels [[Assets Locations Location City Withered Court V1 Withered Court.svg]]
 - Related: [[LOC00201_Dungeons_Location_202]]
 - Leads to [[FAC00075_Cults_76]]
-- Requires [[step_048]]
+- Requires
 - Requires [[Senator Economic Shadow (D&D_References)]]
 - Affected by [[step_015 (phase_078)]]
 - See also: [[Spear Xphb]]
@@ -233,10 +227,10 @@ Witnessed a crime
 - Related: [[Paradox Engineer Zeno (D&D_References)]]
 - See also: [[LOC00163_Planes_Location_164]]
 - Influences [[Item Artifact Enspelled Armor Level 7 Xdmg V2 Enspelled Armor Level 7 Xdmg.png]]
-- Influences [[step_055]]
+- Influences
 - See also: [[gith-mtf (races)]]
 - Originates from [[location-city-inverse-palace-inverse-palace.svg]]
-- Related: [[step_025]]
+- Related:
 - Compare with [[Screaming Gardens Songwood Grove.png]]
 - Affected by [[Portrait NPC Deep Mother Cultist Profiles Deep Mother Cultist Profiles.svg]]
 - Connects to [[step_049 (phase_005)]]
@@ -266,14 +260,14 @@ Witnessed a crime
 - Leads to [[Assets Locations Location City Prismatic Crystal V1 Prismatic Crystal.svg]]
 - Connects to [[Prevent Resonance Cascade]]
 - Compare with [[step_061 (phase_009)]]
-- Requires [[step_057]]
+- Requires
 - Originates from [[step_069 (phase_025)]]
 - Parallels [[ITEM00466_Adamantine_Plate_of_Resistance]]
 - Related: [[QUEST00283_Personal_Quest_284]]
 - Influences [[bulezau-mpmm (fiend)]]
 - See also: [[LOC00228_Cities_Location_229]]
 - See also: [[Crown Jewels]]
-- Compare with [[step_077]]
+- Compare with
 - Influences [[LORE00317_History_Entry_318]]
 - Leads to [[step_006 (phase_042)]]
 - Parallels [[Chaplain Abyssos the Deepseeke]]
@@ -287,7 +281,6 @@ Witnessed a crime
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

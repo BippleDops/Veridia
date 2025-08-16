@@ -18,7 +18,6 @@ aliases: [NPC00752 Dara Ashford the Risen]
 - [[#Urien Voidwalker the Mystic (Professional - Mentor)|Urien Voidwalker the Mystic (Professional - Mentor)]]
 - [[#Erasmus Emberfall the Wise (Political - Patron)|Erasmus Emberfall the Wise (Political - Patron)]]
 
-
 ---
 aliases: ["Dara Ashford the Risen", "dara ashford the risen", "Dara Ashford Risen", "Risen the Ashford Dara"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.198Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,12 +171,12 @@ Family member has gone missing
 - See also: [[step_052 (phase_095)]]
 - Leads to [[Quest - The Deep Alliance]]
 - Connects to [[Diplomatic Enclave (D&D_References)]]
-- Originates from [[step_023]]
+- Originates from
 - Leads to [[location-city-fire-crystal-v1-fire-crystal.svg]]
 - Affected by [[LORE00070_Legends_Entry_71]]
 - Connects to [[step_046 (phase_056)]]
 - Originates from [[Spell Slot Tracker]]
-- Originates from [[step_003]]
+- Originates from
 - See also: [[LOC0135_Valestead]]
 - Related: [[step_070 (phase_015)]]
 - See also: [[ENC00227_Social_Encounter_228]]
@@ -201,7 +196,7 @@ Family member has gone missing
 - Requires [[Surface Coalition]]
 - Compare with [[DM Screen]]
 - Connects to [[Symbol Heraldry Cross Realm Agricultural Exchang V1 Cross Realm Agricultural Exchang.svg]]
-- Connects to [[step_046]]
+- Connects to
 - See also: [[Drill Commander Titanius Ironcrystal 2]]
 - Compare with [[High Archivist Pearl Voidmemory]]
 - See also: [[Reality Structure Analysis Group]]
@@ -214,7 +209,7 @@ Family member has gone missing
 - Parallels [[step_036 (phase_007)]]
 - Related: [[Medical Officer Dr Siphon Pressurehealer]]
 - Compare with [[Portrait NPC Quest the Siren S Price Quest the Siren S Price.svg]]
-- Connects to [[step_037]]
+- Connects to
 - Parallels [[UNIFIED_MECHANICS_GUIDE]]
 - Related: [[NPC00307_Dara_Proudmore_the_Seeker]]
 - Leads to [[step_028 (phase_080)]]
@@ -228,7 +223,7 @@ Family member has gone missing
 - Requires [[List Spells Optional Features Misty Visions]]
 - Originates from [[Portrait NPC the Ancient Nobility V1 the Ancient Nobility.svg]]
 - Affected by [[Assassin]]
-- Requires [[step_027]]
+- Requires
 - Influences [[Bio-Luminescent Threading (D&D_References)]]
 - Influences [[framing-events (tables)]]
 - Influences [[step_027 (phase_046)]]
@@ -257,7 +252,7 @@ Family member has gone missing
 - Parallels [[step_029 (phase_047)]]
 - Compare with [[LOC00252_Dungeons_Location_253]]
 - See also: [[Gallery of Echoing Truths]]
-- Requires [[step_020]]
+- Requires
 - Related: [[step_012 (phase_100)]]
 - Requires [[shield-xphb (items)]]
 - Affected by [[Novice Apprentice Sarah Hopeful]]
@@ -269,7 +264,6 @@ Family member has gone missing
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00672 Nerys Ironwood the Fallen]
 - [[#Aldric Oakenshield the Cunning (Personal - Ex-lover)|Aldric Oakenshield the Cunning (Personal - Ex-lover)]]
 - [[#Kaelen Oakenshield the Scholar (Family - Parent)|Kaelen Oakenshield the Scholar (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Nerys Ironwood the Fallen", "nerys ironwood the fallen", "Nerys Ironwood Fallen", "Fallen the Ironwood Nerys"]
@@ -148,27 +147,23 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.189Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -176,18 +171,17 @@ Discovered something valuable
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Leads to [[Stone Shape Xphb]]
 - Related: [[Crystal Harmonics 2]]
 - Influences [[Current Innovator 2]]
-- Originates from [[step_078]]
+- Originates from
 - Originates from [[LOC00243_Planes_Location_244]]
 - Compare with [[Assets Locations Location City Crown of Eternal Ice V1 Crown of Eternal Ice.svg]]
 - Compare with [[NPC01871_Nerys_Underhill_the_Lost]]
@@ -248,7 +242,7 @@ Discovered something valuable
 - Compare with [[location-city-brother-ossian-brother-ossian.svg]]
 - Originates from [[Emergency Response Station]]
 - Originates from [[Shadow Kraken 2]]
-- Compare with [[step_076]]
+- Compare with
 - Connects to [[LOC00005_Dungeons_Location_6]]
 - Connects to [[Portrait NPC Commander Typhoon Blackheart V2 Commander Typhoon Blackheart.svg_1 (Portraits)]]
 - Compare with [[FAC00068_Cults_69]]
@@ -259,7 +253,7 @@ Discovered something valuable
 - Parallels [[Noble Knight Variant]]
 - Affected by [[Assets Locations Location City Whisper Island Docks V1 Whisper Island Docks.svg]]
 - Parallels [[step_019 (phase_022)]]
-- Compare with [[step_013]]
+- Compare with
 - See also: [[Assets Locations Location City Temple Coalition Temple Coalition.svg]]
 - Leads to [[step_091 (phase_089)]]
 - See also: [[QUEST00370_Side_Quest_371]]
@@ -274,7 +268,7 @@ Discovered something valuable
 - Influences [[Location City Mad Bell Ringer Thomas Mad Bell Ringer Thomas.svg]]
 - Compare with [[step_032 (phase_010)]]
 - Influences [[1-introduction (monster-manual-2014)]]
-- Connects to [[step_041]]
+- Connects to
 - Parallels [[Royal Crystal Laboratory (D&D_References)]]
 - Parallels [[DUN00037_Dungeon_38]]
 - Affected by [[step_012 (phase_100)]]
@@ -289,7 +283,6 @@ Discovered something valuable
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

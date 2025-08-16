@@ -9,7 +9,6 @@ aliases: [NPC00414 Fiora Jadeclaw the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00414 Fiora Jadeclaw the Risen]
 - [[#Dara Crystalbrook the Mystic (Personal - Childhood friend)|Dara Crystalbrook the Mystic (Personal - Childhood friend)]]
 - [[#Nerys Moonshadow the Mystic (Professional - Employer)|Nerys Moonshadow the Mystic (Professional - Employer)]]
 - [[#Dara Quicksilver the Wanderer (Professional - Employee)|Dara Quicksilver the Wanderer (Professional - Employee)]]
-
 
 ---
 aliases: ["Fiora Jadeclaw the Risen", "fiora jadeclaw the risen", "Fiora Jadeclaw Risen", "Risen the Jadeclaw Fiora"]
@@ -151,21 +149,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.160Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -177,11 +171,11 @@ Being extorted by criminals
 - Requires [[Academy of International Relations]]
 - Connects to [[ITEM01005_Refined_Crystal_of_Fortune]]
 - Parallels [[step_027 (phase_022)]]
-- Leads to [[step_039]]
-- Parallels [[step_033]]
-- Influences [[step_069]]
+- Leads to
+- Parallels
+- Influences
 - See also: [[Boots of False Tracks Xdmg]]
-- Requires [[step_035]]
+- Requires
 - Affected by [[step_049 (phase_012)]]
 - See also: [[step_093 (phase_046)]]
 - Requires [[step_026 (phase_030)]]
@@ -192,7 +186,7 @@ Being extorted by criminals
 - Influences [[Extinction or Depletion]]
 - Compare with [[The Kraken's Harbor (D&D_References)]]
 - Related: [[LORE00142_Legends_Entry_143]]
-- Requires [[step_100]]
+- Requires
 - Originates from [[1-DM_Toolkit_DM_Board]]
 - Related: [[Memory_Trader_Kellian.png]]
 - Leads to [[The Screaming Chamber]]
@@ -208,18 +202,18 @@ Being extorted by criminals
 - Related: [[Emergency Coordinator Storm Quickfix]]
 - Connects to [[SHOP00001_Specialty_Shop_2]]
 - Originates from [[step_008 (phase_090)]]
-- See also: [[step_012]]
+- See also:
 - Compare with [[Transformation Medicine Techniques]]
 - Connects to [[Abyssal Covenant]]
 - Leads to [[step_004 (phase_098)]]
 - Parallels [[Power Word Stun Xphb]]
-- Affected by [[step_073]]
+- Affected by
 - Requires [[frostbite-xge (spells)]]
 - Originates from [[step_096 (phase_041)]]
 - Related: [[Shadow Energy Addiction 2]]
 - Parallels [[Pressure Networks]]
 - Connects to [[step_032 (phase_018)]]
-- Leads to [[step_007]]
+- Leads to
 - Influences [[Quest - The Diplomatic Immunity Case]]
 - Connects to [[step_022 (phase_028)]]
 - Requires [[Groff Scc]]
@@ -229,7 +223,7 @@ Being extorted by criminals
 - Connects to [[Tactical Combat Options 2]]
 - Compare with [[Governments Local Authorities]]
 - Connects to [[Portrait NPC Lord Commander Gareth Steelborn V1 Lord Commander Gareth Steelborn.svg]]
-- Leads to [[step_024]]
+- Leads to
 - Requires [[Assets Locations Location City the Suicide Bridges V1 the Suicide Bridges.svg]]
 - See also: [[Professor Marina Reefbuilder (D&D_References)]]
 - Influences [[step_034 (phase_099)]]

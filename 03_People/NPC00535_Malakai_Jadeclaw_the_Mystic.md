@@ -18,7 +18,6 @@ aliases: [NPC00535 Malakai Jadeclaw the Mystic]
 - [[#Fiora Lightbringer the Guardian (Professional - Partner)|Fiora Lightbringer the Guardian (Professional - Partner)]]
 - [[#Felicia Darkwater the Fallen (Political - Opposition)|Felicia Darkwater the Fallen (Political - Opposition)]]
 
-
 ---
 aliases: ["Malakai Jadeclaw the Mystic", "malakai jadeclaw the mystic", "Malakai Jadeclaw Mystic", "Mystic the Jadeclaw Malakai"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.174Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,7 +170,7 @@ Family member has gone missing
 - See also: [[Greek Hercules]]
 - See also: [[Elena Recordkeeper 2]]
 - Parallels [[Wind Songs]]
-- Parallels [[step_094]]
+- Parallels
 - Affected by [[ITEM01186_Lesser_Herb_of_Swiftness]]
 - Parallels [[step_086 (phase_098)]]
 - Requires [[mountain-encounters-levels-510-xge (tables)]]
@@ -184,7 +179,7 @@ Family member has gone missing
 - Originates from [[step_047 (phase_078)]]
 - Affected by [[step_013 (phase_100)]]
 - Compare with [[ENC00200_Combat_Encounter_201]]
-- Originates from [[step_093]]
+- Originates from
 - Leads to [[Void Early Warning System]]
 - See also: [[step_049 (phase_007)]]
 - Compare with [[Location City Memory Sanctity Laws Memory Sanctity Laws.svg]]
@@ -204,17 +199,17 @@ Family member has gone missing
 - See also: [[Security Chief Marcus Allguard (D&D_References)]]
 - See also: [[ITEM00705_Celestial_Tome_of_Destiny]]
 - Originates from [[Dungeon Dressing Books Scrolls and Tomes]]
-- Originates from [[step_037]]
+- Originates from
 - Related: [[QUEST00473_Side_Quest_474]]
 - See also: [[step_034 (phase_065)]]
 - Originates from [[Location City Abyssos Prime Inverse Palace Abyssos Prime Inverse Palace.svg]]
 - Affected by [[QUEST00291_Side_Quest_292]]
-- Connects to [[step_068]]
+- Connects to
 - Requires [[step_022 (phase_026)]]
 - Leads to [[README 2]]
 - Parallels [[Captain Rodrigo Irochor]]
 - Parallels [[step_010 (phase_091)]]
-- Connects to [[step_100]]
+- Connects to
 - Parallels [[Underwater_Monastery_Network (02_Worldbuilding)]]
 - Originates from [[Portrait NPC Quest the Runaway Golem V2 Quest the Runaway Golem.svg]]
 - Affected by [[portrait-npc-pressure-lords-pressure-lords.svg]]
@@ -224,14 +219,14 @@ Family member has gone missing
 - See also: [[Illumination Crystal]]
 - Leads to [[LOC00177_Planes_Location_178]]
 - See also: [[Inverse Colonie (D&D_References)]]
-- Connects to [[step_042]]
+- Connects to
 - Parallels [[deep-water-xdmg (traps-hazards)]]
 - Affected by [[step_033 (phase_032)]]
-- Originates from [[step_073]]
+- Originates from
 - Affected by [[Kruthik Hive Lord Mpmm]]
 - Influences [[The Void Seekers]]
 - Influences [[step_064 (phase_071)]]
-- Compare with [[step_097]]
+- Compare with
 - Related: [[Keeper Luminous Crystalbeam (D&D_References)]]
 - Requires [[The Dimensional Anchor Stone (D&D_References)]]
 - Connects to [[Queen Seraphina's Progression]]
@@ -244,19 +239,19 @@ Family member has gone missing
 - Originates from [[Find Steed Xphb]]
 - Affected by [[ITEM0022_Glorious_Crown_of_Power]]
 - Connects to [[NPC0042_Cedric_Ironforge]]
-- Requires [[step_035]]
+- Requires
 - Connects to [[ITEM01106_Refined_Oil_of_Clarity]]
 - See also: [[Brother Marcus the Willing]]
 - Related: [[SPELL00155_Divine_Spell_156]]
 - Leads to [[Bartender Marina Dualborn 2]]
-- Originates from [[step_098]]
+- Originates from
 - Affected by [[QUEST00144_Personal_Quest_145]]
 - Affected by [[step_099 (phase_070)]]
 - Leads to [[Temple of the Gods Xge]]
 - Originates from [[step_079 (phase_054)]]
 - Originates from [[20 Appendix C Creatures]]
 - Leads to [[step_070 (phase_028)]]
-- Originates from [[step_087]]
+- Originates from
 - Connects to [[step_047 (phase_013)]]
 - Requires [[Diplomatic Enclave]]
 - Compare with [[LORE00151_History_Entry_152]]
@@ -276,7 +271,6 @@ Family member has gone missing
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

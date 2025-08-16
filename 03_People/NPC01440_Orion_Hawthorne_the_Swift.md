@@ -18,7 +18,6 @@ aliases: [NPC01440 Orion Hawthorne the Swift]
 - [[#Urien Brightblade the Wanderer (Professional - Employer)|Urien Brightblade the Wanderer (Professional - Employer)]]
 - [[#Urien Quicksilver the Lost (Criminal - Target)|Urien Quicksilver the Lost (Criminal - Target)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Orion Hawthorne the Swift", "orion hawthorne the swift", "Orion Hawthorne Swift", "Swift the Hawthorne Orion"]
@@ -147,27 +146,23 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.273Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -176,11 +171,10 @@ Has information about legendary item
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -189,8 +183,8 @@ Has information about legendary item
 - Requires [[Abyssal Depths]]
 - Compare with [[Pier 7 (D&D_References)]]
 - Requires [[Emergency Services Coordination]]
-- Related: [[step_035]]
-- See also: [[step_073]]
+- Related:
+- See also:
 - Leads to [[Shadow Extraction Surgical Suite]]
 - Originates from [[SPELL00137_Arcane_Spell_138]]
 - Requires [[step_016 (phase_035)]]
@@ -200,7 +194,7 @@ Has information about legendary item
 - Originates from [[step_062 (phase_004)]]
 - Compare with [[EVENT00071_Natural_Event_72]]
 - Related: [[step_033 (phase_086)]]
-- Affected by [[step_093]]
+- Affected by
 - Related: [[LOC00231_Planes_Location_232]]
 - Compare with [[Key Officer]]
 - Affected by [[Location City Observatory District Observatory District.svg]]
@@ -219,7 +213,7 @@ Has information about legendary item
 - Parallels [[Variant Training to Gain Levels Training to]]
 - Originates from [[QUEST00097_Personal_Quest_98]]
 - Requires [[Control Weather Xphb]]
-- Related: [[step_045]]
+- Related:
 - Connects to [[FAC00046_Orders_47]]
 - Parallels [[LOC00258_Dungeons_Location_259]]
 - Connects to [[symbol-heraldry-the-networker-the-networker.svg]]
@@ -243,8 +237,8 @@ Has information about legendary item
 - Influences [[LORE00101_History_Entry_102]]
 - Leads to [[NPC00914_Aldric_Hawthorne_the_Scholar]]
 - See also: [[step_054 (phase_024)]]
-- Related: [[step_013]]
-- Parallels [[Quest   The Perfect Purifier]]
+- Related:
+- Parallels [[Quest The Perfect Purifier]]
 - See also: [[chamber-purpose-dungeon-planar-gate (tables)]]
 - Parallels [[NPC01444_Pyria_Brightblade_the_Seeker]]
 - Originates from [[Fusion Artifacts]]
@@ -263,7 +257,7 @@ Has information about legendary item
 - Leads to [[LOC00209_Wilderness_Location_210]]
 - Influences [[Keeper Maelstrom the Great]]
 - Parallels [[NPC01588_Baelor_Ashford_the_Strong]]
-- Originates from [[step_034]]
+- Originates from
 - Affected by [[The Time Keeper (D&D_References)]]
 - Originates from [[#Natural & Mystical Locations]]
 - Connects to [[MON00003_Undead_Creature_4]]
@@ -274,22 +268,21 @@ Has information about legendary item
 - Affected by [[NPC01754_Orion_Grimholt_the_Cunning]]
 - See also: [[ITEM01358_Simple_Rope_of_Reliability]]
 - Originates from [[step_068 (phase_100)]]
-- See also: [[step_062]]
+- See also:
 - Compare with [[Osric_Ironforge]]
 - Requires [[tensers-floating-disk-xphb (spells)]]
 - Related: [[Debt Bonds]]
-- Requires [[step_067]]
+- Requires
 - Requires [[step_060 (phase_074)]]
 - Compare with [[LORE00300_Prophecies_Entry_301]]
 - Compare with [[enhance-ability-xphb (spells)]]
 - Influences [[step_020 (phase_055)]]
-- Connects to [[step_054]]
+- Connects to
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

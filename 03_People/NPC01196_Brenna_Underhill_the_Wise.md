@@ -18,7 +18,6 @@ aliases: [NPC01196 Brenna Underhill the Wise]
 - [[#Elric Frostwhisper the Swift (Family - Child)|Elric Frostwhisper the Swift (Family - Child)]]
 - [[#Delara Emberfall the Swift (Political - Spy)|Delara Emberfall the Swift (Political - Spy)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Brenna Underhill the Wise", "brenna underhill the wise", "Brenna Underhill Wise", "Wise the Underhill Brenna"]
@@ -145,24 +144,20 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.247Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Connections
 
@@ -200,13 +195,13 @@ Seeks rare merchandise
 - Leads to [[ring-of-x-ray-vision-xdmg (items)]]
 - Influences [[QUEST00292_Side_Quest_293]]
 - Influences [[Null-State Materials]]
-- Requires [[step_098]]
+- Requires
 - Related: [[Phantom Archivist Silent Catalogue]]
 - Originates from [[candle-of-the-deep-xdmg (items)]]
 - Originates from [[Void Realm Treaties]]
 - Leads to [[The Preservers]]
 - Affected by [[nonhuman-deities-phb (tables)]]
-- Leads to [[step_093]]
+- Leads to
 - Affected by [[step_032 (phase_086)]]
 - See also: [[Deep Conservative Alliance]]
 - Leads to [[location-city-the-last-words-v1-the-last-words.svg]]
@@ -216,14 +211,14 @@ Seeks rare merchandise
 - Originates from [[World Map]]
 - Compare with [[Equipment Development Workshops]]
 - Influences [[Fey Nobilit]]
-- Requires [[step_037]]
+- Requires
 - Requires [[NPC00572_Zephyr_Thornweave_the_Risen]]
 - Parallels [[QUEST00194_Side_Quest_195]]
 - Influences [[Boon of Energy Resistance Xphb]]
 - Originates from [[Senator's Widow Marcella (D&D_References)]]
 - Parallels [[Public Works Yard (D&D_References)]]
 - Related: [[Portrait NPC Embassy of Eternal Shadows V1 Embassy of Eternal Shadows.svg_1 (Portraits)]]
-- Related: [[step_025]]
+- Related:
 - Related: [[ITEM00826_Time-worn_Crown_of_Truth]]
 - See also: [[Linen 1 Sq Yd Xdmg]]
 - Compare with [[Political Parties of Aquabyssos]]
@@ -250,14 +245,14 @@ Seeks rare merchandise
 - Compare with [[LORE00214_Prophecies_Entry_215]]
 - Originates from [[Crown Dome Conspiracy (D&D_References)]]
 - Connects to [[Supernatural Mysterie (D&D_References)]]
-- See also: [[step_048]]
+- See also:
 - Connects to [[Assets Locations Location City Political Leader Reef Crown V1 Political Leader Reef Crown.png]]
 - Influences [[step_054 (phase_047)]]
 - Compare with [[Extractor Void-Touch Recall]]
 - Leads to [[relentless-hex-xge (optional-features)]]
 - Originates from [[derro-madness-mtf (tables)]]
 - Influences [[step_049 (phase_018)]]
-- Leads to [[step_046]]
+- Leads to
 - Originates from [[flame-tongue-xdmg (items)]]
 - Originates from [[The_Perfect_Symbiosis.png]]
 - Related: [[elf-names-female-adult-xge (tables)]]
@@ -271,7 +266,6 @@ Seeks rare merchandise
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00527 Kaelen Lightbringer the Mystic]
 - [[#Xander Hawthorne the Cunning (Personal - Ex-lover)|Xander Hawthorne the Cunning (Personal - Ex-lover)]]
 - [[#Baelor Proudmore the Swift (Personal - Best friend)|Baelor Proudmore the Swift (Personal - Best friend)]]
 
-
 ---
 aliases: ["Kaelen Lightbringer the Mystic", "kaelen lightbringer the mystic", "Kaelen Lightbringer Mystic", "Mystic the Lightbringer Kaelen"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.173Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,7 +177,7 @@ Family member has gone missing
 - Related: [[secondary-tables-arcane-matters-xge (tables)]]
 - Connects to [[robe-of-stars-xdmg (items)]]
 - Compare with [[NPC0017_Rhea_Stormwind]]
-- Leads to [[step_006]]
+- Leads to
 - Requires [[International Trade]]
 - Affected by [[Assets Locations Location City Courier Ripplestone V1 Courier Ripplestone.svg]]
 - Compare with [[Private Investigator Rex Coldcase (D&D_References)]]
@@ -198,7 +193,7 @@ Family member has gone missing
 - Originates from [[ITEM00725_Primordial_Crown_of_Truth]]
 - Affected by [[step_029 (phase_054)]]
 - Related: [[Assets Locations Location City Memorial Current Memorial Current.png]]
-- Influences [[step_027]]
+- Influences
 - Originates from [[Assets Locations Location City Withered Court Withered Court.svg]]
 - Originates from [[MON00125_Constructs_Creature_126]]
 - Connects to [[LOC00271_Towns_Location_272]]
@@ -220,14 +215,14 @@ Family member has gone missing
 - Connects to [[necklace-of-adaptation-xdmg (items)]]
 - Parallels [[LOC00020_Dungeons_Location_21]]
 - Compare with [[NPC0156_Leopold_Darkwater_the_Mad]]
-- Connects to [[step_040]]
-- Originates from [[step_038]]
+- Connects to
+- Originates from
 - Originates from [[Quest - The Deepest Current]]
 - Parallels [[LOC00028_Towns_Location_29]]
 - Influences [[LOC0056_OldVale]]
 - Compare with [[Azurite Xdmg]]
-- Originates from [[step_053]]
-- Originates from [[step_039]]
+- Originates from
+- Originates from
 - Affected by [[Spell Slot Tracker]]
 - Originates from [[step_004 (phase_072)]]
 - Compare with [[Portrait NPC Pressure Angel Benthia V2 Pressure Angel Benthia.svg_1 (Portraits)]]
@@ -243,13 +238,13 @@ Family member has gone missing
 - Related: [[NPC00097_Lyanna_Jadeclaw]]
 - Parallels [[Assets Locations Location City Religious V1 Religious Groups.svg]]
 - Leads to [[Temple Coalition 2]]
-- Related: [[step_038]]
+- Related:
 - Related: [[The_Forgotten_Crypt_of_Despair]]
 - Influences [[Rogue_Journal]]
 - Connects to [[Location City Temple of Echoing Tides V1 Temple of Echoing Tides.svg]]
 - Parallels [[NPC01150_Zephyr_Crystalbrook_the_Seeker]]
 - Parallels [[Royal Guard (Places)]]
-- Requires [[step_001]]
+- Requires
 - See also: [[LORE00174_Legends_Entry_175]]
 - Compare with [[Export_Hub]]
 - Connects to [[Bait and Switch Xphb]]
@@ -269,7 +264,6 @@ Family member has gone missing
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

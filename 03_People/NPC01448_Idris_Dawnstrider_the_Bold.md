@@ -18,7 +18,6 @@ aliases: [NPC01448 Idris Dawnstrider the Bold]
 - [[#Brenna Darkwater the Strong (Political - Ally)|Brenna Darkwater the Strong (Political - Ally)]]
 - [[#Erasmus Nightfall the Lost (Personal - Ex-lover)|Erasmus Nightfall the Lost (Personal - Ex-lover)]]
 
-
 ---
 aliases: ["Idris Dawnstrider the Bold", "idris dawnstrider the bold", "Idris Dawnstrider Bold", "Bold the Dawnstrider Idris"]
 tags: [npc, character]
@@ -156,21 +155,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.274Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,19 +177,19 @@ Has information about legendary item
 - Connects to [[SPELL00139_Divine_Spell_140]]
 - Leads to [[step_088 (phase_092)]]
 - Connects to [[Maintenance Tech Reef Fixwright 2]]
-- Affected by [[step_065]]
+- Affected by
 - Influences [[etherealness-xphb (spells)]]
 - Requires [[LOC00093_Planes_Location_94]]
 - Parallels [[Update Indexes]]
 - See also: [[satyr-revelmaster-xmm]]
 - Leads to [[Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg]]
-- Compare with [[step_073]]
+- Compare with
 - Related: [[The Deep Prophecies (Lore)]]
 - Leads to [[List Spells Classes Shadow Magic Xge]]
 - Connects to [[Portrait NPC Sister Thalassa the Depth Touched V1 Sister Thalassa the Depth Touched.svg]]
 - Parallels [[step_009 (phase_087)]]
 - Parallels [[Location City Crystal Master Prism Lightweaver Crystal Master Prism Lightweaver.svg]]
-- Influences [[step_071]]
+- Influences
 - Originates from [[step_009 (phase_095)]]
 - Requires [[step_086 (phase_029)]]
 - Originates from [[ITEM01083_Superior_Incense_of_Healing]]
@@ -219,8 +214,8 @@ Has information about legendary item
 - Influences [[step_035 (phase_014)]]
 - Affected by [[SHOP00002_Specialty_Shop_3]]
 - Requires [[Shadow-Silk Weavers Guil]]
-- Leads to [[step_036]]
-- Leads to [[step_048]]
+- Leads to
+- Leads to
 - Parallels [[The Seven Shards Mystery 2]]
 - See also: [[Handout Handout Ship Manifests with Stamps V2 Ship Manifests with Stamps.png]]
 - Requires [[Senator Shadow-Glaucus 2]]
@@ -245,7 +240,7 @@ Has information about legendary item
 - Related: [[step_089 (phase_084)]]
 - See also: [[Portrait NPC Commodity Queen Abundance V1 Commodity Queen Abundance.svg_1 (Portraits)]]
 - Affected by [[Ioun Stone Strength Xdmg]]
-- Parallels [[step_025]]
+- Parallels
 - Affected by [[LOC00169_Planes_Location_170]]
 - Related: [[step_078 (phase_018)]]
 - Requires [[QUEST0024_Champion's_Redemption]]
@@ -262,14 +257,14 @@ Has information about legendary item
 - See also: [[LOC00021_Cities_Location_22]]
 - Influences [[5-credits (monster-manual-2025)]]
 - Leads to [[LORE00111_Prophecies_Entry_112]]
-- Influences [[step_086]]
+- Influences
 - Requires [[eberron-the-fury (deities)]]
 - Parallels [[Luck Spirits]]
 - Originates from [[Keeper of Secrets Whisper Darkhold (D&D_References)]]
-- Leads to [[step_003]]
+- Leads to
 - Connects to [[Portrait NPC Captain Thorne Darkwater V2 Captain Thorne Darkwater.svg]]
 - Compare with [[Assets Locations Location City Titan Foundationbearer Titan Foundationbearer.svg]]
-- Related: [[step_082]]
+- Related:
 - Related: [[step_043 (phase_090)]]
 - Originates from [[step_025 (phase_020)]]
 - Compare with [[hellfire-engine-mpmm (construct)]]
@@ -279,7 +274,6 @@ Has information about legendary item
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00938 Alaric Emberfall the Cunning]
 - [[#Urien Proudmore the Swift (Political - Opposition)|Urien Proudmore the Swift (Political - Opposition)]]
 - [[#Brenna Ashford the Wanderer (Professional - Employer)|Brenna Ashford the Wanderer (Professional - Employer)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Alaric Emberfall the Cunning", "alaric emberfall the cunning", "Alaric Emberfall Cunning", "Cunning the Emberfall Alaric"]
@@ -140,27 +139,23 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.220Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -171,11 +166,10 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -199,24 +193,24 @@ Seeks rare merchandise
 - Originates from [[LOC00213_Wilderness_Location_214]]
 - Compare with [[Symbiotic Integration Specialists]]
 - Compare with [[Enspelled Armor Level 5 Xdmg]]
-- See also: [[step_009]]
+- See also:
 - Parallels [[Seeds of Tomorrow 2]]
-- Affected by [[step_083]]
+- Affected by
 - Influences [[Guardian Merger Rituals]]
 - Related: [[NPC01637_Hestara_Xendar_the_Guardian]]
 - Parallels [[step_009 (phase_057)]]
 - Compare with [[step_068 (phase_006)]]
 - Influences [[The Royal Palace]]
-- Compare with [[step_053]]
+- Compare with
 - Related: [[Coral Lifeshaper 2]]
-- Connects to [[step_004]]
+- Connects to
 - Connects to [[The Children's Grotto 2]]
 - Requires [[QUEST00368_Side_Quest_369]]
 - Leads to [[Portrait NPC Captain Twin Reality Marsh V1 Captain Twin Reality Marsh.svg]]
 - Compare with [[Portrait NPC Marina Red Tide Coralheart Aquabyssos V1 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)]]
 - Affected by [[Dragonlance Shinare Phb]]
 - Leads to [[Shadow Portal Nexus 2]]
-- Requires [[step_050]]
+- Requires
 - Originates from [[Enspelled Weapon Level 2 Xdmg]]
 - Connects to [[The Void Walkers]]
 - See also: [[LORE00015_History_Entry_16]]
@@ -230,12 +224,12 @@ Seeks rare merchandise
 - Requires [[QUEST00164_Main_Quest_165]]
 - Related: [[arcane-vigor-xphb (spells)]]
 - Connects to [[The Threshold Chambers 2]]
-- Compare with [[step_061]]
+- Compare with
 - Connects to [[item mastery#Slow]]
-- Originates from [[step_075]]
+- Originates from
 - See also: [[step_067 (phase_090)]]
 - Compare with [[step_015 (phase_085)]]
-- Connects to [[step_044]]
+- Connects to
 - Affected by [[ceremonial-gold-armor-with-black-pearls-xdmg (items)]]
 - Parallels [[chest-xphb (items)]]
 - Connects to [[Round Down Xphb]]
@@ -254,7 +248,7 @@ Seeks rare merchandise
 - Compare with [[ENC00146_Combat_Encounter_147]]
 - Related: [[ENC00249_Social_Encounter_250]]
 - Affected by [[ENC00052_Combat_Encounter_53]]
-- Connects to [[step_044]]
+- Connects to
 - See also: [[Gentle Currentguide 2]]
 - See also: [[Quest - Into the Wastes]]
 - Related: [[step_091 (phase_081)]]
@@ -270,7 +264,7 @@ Seeks rare merchandise
 - Connects to [[Ice Devil Xmm]]
 - Connects to [[dining-room (bastions)]]
 - Requires [[Charger Xphb]]
-- Connects to [[step_026]]
+- Connects to
 - See also: [[dust-of-dryness-xdmg (items)]]
 - See also: [[Assets Portraits Portrait NPC the Leviathan Prophets the Leviathan Prophets.svg]]
 - Influences [[ENC00418_Combat_Encounter_419]]
@@ -282,7 +276,6 @@ Seeks rare merchandise
 
 ## Visual References
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00976 Alaric Quicksilver the Strong]
 - [[#Cedric Ironforge the Mystic (Political - Spy)|Cedric Ironforge the Mystic (Political - Spy)]]
 - [[#Erasmus Blackstone the Mystic (Family - Cousin)|Erasmus Blackstone the Mystic (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Alaric Quicksilver the Strong", "alaric quicksilver the strong", "Alaric Quicksilver Strong", "Strong the Quicksilver Alarictags: [npc, character, combat, magic, lore]er]
@@ -157,16 +156,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.224Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -217,11 +213,10 @@ Modifications:
 - [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
 - [[NPC01555_Branwen_Xendar_the_Seeker]]
 - [[NPC01348_Xander_Zephyrblade_the_Wise]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -231,11 +226,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -249,7 +243,7 @@ Modifications:
 - Affected by [[step_060 (phase_014)]]
 - Requires [[step_007 (phase_086)]]
 - Connects to [[Alchemists Doom Scc]]
-- See also: [[step_082]]
+- See also:
 - Leads to [[rope-of-entanglement-xdmg (items)]]
 - See also: [[Location City [[The Pressure Crown]] V1 the Pressure Crown.svg]]
 - See also: [[Guardian [[Captain Marcus]] Shieldwall (D&D_References)]]
@@ -289,13 +283,13 @@ Modifications:
 - Affected by [[step_097 (phase_062)]]
 - Requires [[DUN00009_Dungeon_10]]
 - Originates from [[step_056 (phase_072)]]
-- See also: [[step_024]]
-- Requires [[step_075]]
-- Parallels [[step_048]]
+- See also:
+- Requires
+- Parallels
 - Related: [[Clockwork Iron Cobra Mpmm]]
 - Connects to [[Burning Xphb]]
 - Related: [[trapper-mpmm (monstrosity)]]
-- Influences [[step_020]]
+- Influences
 - Affected by [[[[Aethermoor]] to [[Aquabyssos]] Transition Guide (D&D_References)]]
 - Originates from [[Administrative Code]]
 - Originates from [[The Wake]]
@@ -312,7 +306,7 @@ Modifications:
 - See also: [[Export_Hub]]
 - See also: [[Caravan Master Dolrim]]
 - Leads to [[Magic Users (D&D_References)]]
-- Parallels [[step_087]]
+- Parallels
 - Compare with [[Shadow Medical Ethics]]
 - Affected by [[Symbol Heraldry Scholars of Divine V1 Scholars of Divine Lore.svg]]
 - Requires [[step_074 (phase_069)]]
@@ -344,7 +338,6 @@ Modifications:
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

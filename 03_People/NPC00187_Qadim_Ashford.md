@@ -9,7 +9,6 @@ aliases: [NPC00187 Qadim Ashford]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00187 Qadim Ashford]
 - [[#Brenna Goldleaf (Professional - Employee)|Brenna Goldleaf (Professional - Employee)]]
 - [[#Rhiannon Moonshadow (Criminal - Accomplice)|Rhiannon Moonshadow (Criminal - Accomplice)]]
 - [[#Ewan Emberfall the Seeker (Personal - Childhood friend)|Ewan Emberfall the Seeker (Personal - Childhood friend)]]
-
 
 ---
 aliases: ["Qadim Ashford", "qadim ashford", "Ashford Qadim"]
@@ -153,21 +151,17 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.133Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,7 +172,7 @@ Seeks bodyguards for dangerous journey
 - Requires [[Harbor Master Captain Dockwise 2]]
 - Compare with [[Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
 - Connects to [[Handouts Ships Player Handout Aethermoor Airships]]
-- Originates from [[step_009]]
+- Originates from
 - Leads to [[dolphin-mpmm (beast)]]
 - Leads to [[SHOP00065_General_Shop_66]]
 - Affected by [[giant-eagle-xmm (celestial)]]
@@ -227,10 +221,10 @@ Seeks bodyguards for dangerous journey
 - See also: [[ITEM01294_Superior_Salve_of_Clarity]]
 - See also: [[LOC00000_Planes_Location_1]]
 - Originates from [[The Groundling Liberation Movement (D&D_References)]]
-- Influences [[step_031]]
+- Influences
 - Related: [[Creature Creature Violet Fungus Xmm V3 Violet Fungus Xmm.png]]
 - See also: [[Shadow Physiology and Anatomy (D&D_References)]]
-- Requires [[step_054]]
+- Requires
 - Requires [[portrait-npc-the-biomancers-v2-the-biomancers.svg_1 (Portraits)]]
 - Connects to [[Balance Stones (D&D_References)]]
 - See also: [[Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg_1 (Portraits)]]
@@ -240,10 +234,10 @@ Seeks bodyguards for dangerous journey
 - Influences [[Portrait NPC Abyssal Cathedral V2 Abyssal Cathedral.svg]]
 - Originates from [[giant-elk-xmm]]
 - Leads to [[NPC01882_Cedric_Ironforge_the_Swift]]
-- Influences [[step_001]]
+- Influences
 - Requires [[Portrait NPC Captain Threshold Captain Threshold.svg]]
 - Affected by [[NPC00715_Alaric_Stormwind_the_Wanderer]]
-- Originates from [[step_060]]
+- Originates from
 - Connects to [[SHOP00005_Specialty_Shop_6]]
 - Connects to [[LORE00028_Prophecies_Entry_29]]
 - Influences [[Pressure Effects 2]]

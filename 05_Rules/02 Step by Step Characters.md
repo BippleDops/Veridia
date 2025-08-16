@@ -18,7 +18,6 @@ aliases: [02 Step by Step Characters]
 - [[#Npcs Needed|Npcs Needed]]
 - [[#Locations|Locations]]
 
-
 ---
 
 title: 02 Step by Step Characters
@@ -46,7 +45,7 @@ tags:
 
 created: 2025-08-11
 modified: '2025-08-14'
-status: 
+status:
 *The [texture] surface feels [description] to the touch.*active
 updated: '2025-08-13T12:34:05.218542+00:00'
 world: Both
@@ -55,36 +54,29 @@ world: Both
 
 - Someone is hunting information for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -182,9 +174,7 @@ world: Both
 - [[NPC00124_Delara_Ravenheart_the_Redeemed]]
 - [[NPC00200_Faelyn_Winterborn_the_Guardian]]
 - [[NPC01699_Orion_Oakenshield_the_Broken]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -202,18 +192,17 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.42
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 - [[fifty_improvements_20250815_155453]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -236,7 +225,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Portrait NPC Emperor Abyssal the Deep Sighted Emperor Abyssal the Deep Sighted.svg]]
 - Compare with [[Assets Locations Location City Pressure Crystals Pressure Crystals.svg]]
 - Influences [[NPC00260_Wynne_Underhill_the_Fallen]]
-- See also: [[step_098]]
+- See also:
 - Influences [[Syndicate Enforcers]]
 - Compare with [[Portrait NPC Admiral Cassandra Stormwind V2 Admiral Cassandra Stormwind.svg_1 (Portraits)]]
 - Influences [[LOC00207_Towns_Location_208]]
@@ -247,12 +236,12 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_041 (phase_052)]]
 - Related: [[Norse Odin]]
 - Affected by [[Ability Checks]]
-- See also: [[step_097]]
+- See also:
 - Requires [[SPELL0025_Divine_Blessing]]
 - Connects to [[Thalassa the Deepmother (D&D_References)]]
 - Leads to [[step_063 (phase_033)]]
 - Leads to [[ITEM0073_Blessed_Shield_of_the_Dawn]]
-- Requires [[step_065]]
+- Requires
 - Requires [[step_003 (phase_036)]]
 - Affected by [[QUEST00280_Personal_Quest_281]]
 - Related: [[LORE00114_Prophecies_Entry_115]]
@@ -264,20 +253,20 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[MON00100_Aberrations_Creature_101]]
 - Leads to [[portrait-npc-the-cure-v2-the-cure.svg_1 (Portraits)]]
 - See also: [[Mixed_Events_Pack_C]]
-- Affected by [[step_073]]
+- Affected by
 - Related: [[ENC00175_Social_Encounter_176]]
 - Originates from [[step_089 (phase_026)]]
 - Parallels [[Snare Xge]]
 - Connects to [[Aeration Crystals]]
 - Originates from [[step_087 (phase_073)]]
-- Leads to [[step_054]]
+- Leads to
 - Related: [[step_029 (phase_035)]]
 - See also: [[Multiclassing Prerequisites Phb]]
-- See also: [[step_043]]
+- See also:
 - Leads to [[ENC00093_Environmental_Encounter_94]]
 - Influences [[Tide Turner Investigation Committee]]
 - Parallels [[LOC00140_Wilderness_Location_141]]
-- Compare with [[step_014]]
+- Compare with
 - Parallels [[Tradition_Keeper_Elder_Wisdom]]
 - Affected by [[EVENT00073_Political_Event_74]]
 - Requires [[hazard-xphb (variant-rules)]]
@@ -304,7 +293,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[ITEM00174_Radiant_Staff_of_Slaying]]
 - Related: [[Location City the Drowning Truth the Drowning Truth.svg]]
 - Influences [[ancient-silver-dragon-xmm (dragon)]]
-- Originates from [[step_023]]
+- Originates from
 - Requires [[QUEST00058_Main_Quest_59]]
 - Leads to [[Portrait NPC Captain Storm Ambushmaster V1 Captain Storm Ambushmaster.svg]]
 - Affected by [[Dr. Marina Truthsight]]
@@ -329,6 +318,6 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Sequester Xphb]]
 - Related: [[Vote Vaults]]
 - Affected by [[step_092 (phase_085)]]
-- Affected by [[step_034]]
+- Affected by
 - Leads to [[step_004 (phase_059)]]
 - Parallels [[LOC00274_Dungeons_Location_275]]

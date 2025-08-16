@@ -18,7 +18,6 @@ aliases: [NPC00846 Cedric Crystalbrook the Swift]
 - [[#Dara Blackstone the Fallen (Professional - Employer)|Dara Blackstone the Fallen (Professional - Employer)]]
 - [[#Ewan Xendar the Fallen (Personal - Love interest)|Ewan Xendar the Fallen (Personal - Love interest)]]
 
-
 ---
 aliases: ["Cedric Crystalbrook the Swift", "cedric crystalbrook the swift", "Cedric Crystalbrook Swift", "Swift the Crystalbrook Cedric"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.209Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -206,12 +201,12 @@ Competitor sabotaging business
 - Influences [[Relics Very Rare Xdmg]]
 - Parallels [[Theological Warfare]]
 - Compare with [[SPELL00029_Divine_Spell_30]]
-- Leads to [[step_044]]
+- Leads to
 - Connects to [[Assets Locations Location City Divine Communication Studies Divine Communication Studies.svg]]
 - Leads to [[ENC00010_Social_Encounter_11]]
 - Originates from [[Shadow Surgery Training Hospitals (D&D_References)]]
 - Requires [[step_042 (phase_068)]]
-- Influences [[step_093]]
+- Influences
 - Requires [[spell-gem-quartz-oota (items)]]
 - Parallels [[Goodberry Xphb]]
 - Leads to [[Symbol Heraldry Transformation Techniques Transformation Techniques.svg]]
@@ -221,15 +216,15 @@ Competitor sabotaging business
 - Influences [[step_086 (phase_063)]]
 - Related: [[LOC00239_Planes_Location_240]]
 - See also: [[Elder Scribe Marcus the Lost 2]]
-- Compare with [[step_039]]
+- Compare with
 - Leads to [[step_001 (phase_063)]]
 - Leads to [[spell-gem-diamond-oota (items)]]
-- Requires [[step_068]]
+- Requires
 - See also: [[LOC00076_Towns_Location_77]]
-- See also: [[step_006]]
+- See also:
 - Influences [[Sessions Session Packet Template]]
 - Related: [[Fate Weavers (D&D_References)]]
-- Parallels [[step_006]]
+- Parallels
 - Parallels [[step_018 (phase_022)]]
 - Affected by [[02_Worldbuilding_Groups_The_Resurgent_Tide]]
 - Related: [[step_058 (phase_024)]]
@@ -240,15 +235,15 @@ Competitor sabotaging business
 - See also: [[step_089 (phase_098)]]
 - Compare with [[step_003 (phase_016)]]
 - Requires [[LOC00071_Dungeons_Location_72]]
-- See also: [[step_068]]
+- See also:
 - Related: [[step_046 (phase_062)]]
 - Compare with [[Location City Great Plague of Ages Past V1 Great Plague of Ages Past.svg]]
-- Affected by [[step_010]]
+- Affected by
 - Affected by [[step_061 (phase_058)]]
 - Requires [[Crystal Bane Compounds]]
 - Originates from [[Portrait NPC the Seven Seals V1 the Seven Seals.svg_1 (Portraits)]]
 - Connects to [[NPC01531_Pyria_Goldleaf_the_Wise]]
-- Originates from [[step_072]]
+- Originates from
 - Affected by [[ENC00164_Social_Encounter_165]]
 - Parallels [[SPELL00065_Divine_Spell_66]]
 - Parallels [[ITEM00717_Divine_Crown_of_the_Gods]]
@@ -256,17 +251,17 @@ Competitor sabotaging business
 - Requires [[The Shadow Touched Farmer Blight Heart Maddox]]
 - Connects to [[Embassy District (D&D_References)]]
 - Compare with [[step_061 (phase_092)]]
-- Parallels [[NPC  (D&D_References)]]
+- Parallels [[NPC (D&D_References)]]
 - Originates from [[NPC00826_Pyria_Dawnstrider_the_Wanderer]]
 - Influences [[List Spells Optional Features Armor of Shadows Xphb]]
-- Influences [[step_057]]
+- Influences
 - Connects to [[Battle Map Descriptions]]
 - Connects to [[mule-xmm (beast)]]
 - Related: [[Assets Locations Location City Current Navigation Techniques Current Navigation Techniques.svg]]
 - Connects to [[step_026 (phase_019)]]
 - Connects to [[Assets Locations Location City Thalassa Lightbringer V1 Thalassa Lightbringer.png]]
 - Requires [[Portrait NPC Castellan Ironledger Iii V2 Castellan Ironledger Iii.svg_1 (Portraits)]]
-- Originates from [[step_089]]
+- Originates from
 - Leads to [[Location City the Shrinking Sanctuary V1 the Shrinking Sanctuary.svg]]
 - Related: [[05 Chapter 5 Neverlight Grove]]
 - Connects to [[sibriex-mpmm (fiend)]]
@@ -277,7 +272,6 @@ Competitor sabotaging business
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

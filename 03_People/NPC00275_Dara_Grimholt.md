@@ -18,7 +18,6 @@ aliases: [NPC00275 Dara Grimholt]
 - [[#Kaelen Oakenshield the Cunning (Criminal - Handler)|Kaelen Oakenshield the Cunning (Criminal - Handler)]]
 - [[#Delara Grimholt the Redeemed (Political - Spy)|Delara Grimholt the Redeemed (Political - Spy)]]
 
-
 ---
 aliases: ["Dara Grimholt", "dara grimholt", "Grimholt Dara"]
 tags: [npc, character]
@@ -145,28 +144,24 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.143Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Requires [[step_075 (phase_021)]]
 - Originates from [[ITEM00178_Shadow_Bow_of_Slaying]]
 - Requires [[step_078 (phase_005)]]
-- See also: [[step_043]]
+- See also:
 - Parallels [[Duchess Aurora Spirelight (D&D_References)]]
 - Connects to [[LORE00296_Legends_Entry_297]]
 - Related: [[Boon of Peerless Aim]]
@@ -218,15 +213,15 @@ Seeks bodyguards for dangerous journey
 - Requires [[Magical Authentication]]
 - Originates from [[ITEM01029_Refined_Potion_of_Healing]]
 - Connects to [[step_030 (phase_098)]]
-- Affected by [[step_081]]
+- Affected by
 - Originates from [[step_046 (phase_080)]]
 - See also: [[Portrait NPC Investigator Supreme Lucian Brightwater V1 Investigator Supreme Lucian Brightwater.svg]]
 - Parallels [[portrait-npc-mayor-thompson-v1-mayor-thompson.svg_1 (Portraits)]]
 - Parallels [[step_069 (phase_061)]]
-- Leads to [[step_062]]
+- Leads to
 - See also: [[Assets Item Artifact Ruby Xdmg V5 Ruby Xdmg.png]]
 - Connects to [[Shadow Guard Units (D&D_References)]]
-- Related: [[step_056]]
+- Related:
 - Influences [[Portrait NPC Watc... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[The Deep Market]]
 - Parallels [[LOC00279_Wilderness_Location_280]]
@@ -246,7 +241,7 @@ Seeks bodyguards for dangerous journey
 - See also: [[Location City Medical Historian Nautilus Deepscribe V1 Medical Historian Nautilus Deepscribe.svg]]
 - Compare with [[Assets Symbols Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg]]
 - Leads to [[The Sunken Crown Cipher]]
-- Connects to [[step_012]]
+- Connects to
 - Requires [[Forgotten Realms Selune]]
 - Compare with [[Agricultural Provinces]]
 - Compare with [[Inter-Realm Trade Protocol]]
@@ -258,7 +253,7 @@ Seeks bodyguards for dangerous journey
 - Related: [[Consequence Chain 5 - Marina Identity Revelation (D&D_References)]]
 - Affected by [[Lady Venetia Silkwind]]
 - Compare with [[Luck Spirits]]
-- Affected by [[step_089]]
+- Affected by
 - Parallels [[belt-of-giant-strength-xdmg (items)]]
 - Originates from [[NPC01166_Gavril_Thornweave_the_Wanderer]]
 - Requires [[The Verdant Reach_1]]
@@ -268,7 +263,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

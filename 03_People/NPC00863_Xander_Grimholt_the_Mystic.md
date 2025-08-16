@@ -18,7 +18,6 @@ aliases: [NPC00863 Xander Grimholt the Mystic]
 - [[#Lyanna Underhill the Strong (Criminal - Informant)|Lyanna Underhill the Strong (Criminal - Informant)]]
 - [[#Brenna Lightbringer the Bold (Criminal - Fence)|Brenna Lightbringer the Bold (Criminal - Fence)]]
 
-
 ---
 aliases: ["Xander Grimholt the Mystic", "xander grimholt the mystic", "Xander Grimholt Mystic", "Mystic the Grimholt Xander"]
 tags: [npc, character]
@@ -157,21 +156,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.211Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -183,7 +178,7 @@ Caravan needs guards
 - Influences [[Subjects Crystal Engineering]]
 - Parallels [[step_018 (phase_094)]]
 - Connects to [[Criminal_Organizations]]
-- Influences [[step_004]]
+- Influences
 - Leads to [[Assets Locations Location City the Sundered Peaks the Sundered Peaks.svg]]
 - Related: [[Emergency Life Support Research Foundation]]
 - Influences [[LOC00193_Towns_Location_194]]
@@ -211,12 +206,12 @@ Caravan needs guards
 - See also: [[Portrait NPC Lord Magnus Goldspire Lord Magnus Goldspire.svg]]
 - Influences [[step_046 (phase_040)]]
 - Leads to [[The Deepwater Consortium]]
-- See also: [[step_026]]
+- See also:
 - Leads to [[boon-of-immortality (rewards)]]
 - Influences [[Species Purity Advocate]]
 - See also: [[S-201_Eclipse_Raid_Window_Player]]
 - Compare with [[Trust Network Tracker]]
-- Originates from [[step_086]]
+- Originates from
 - Affected by [[NPC01452_Dara_Hawthorne_the_Fallen]]
 - Connects to [[Location City the Integration Temple V1 the Integration Temple.svg]]
 - Affected by [[LORE00333_Prophecies_Entry_334]]
@@ -234,10 +229,10 @@ Caravan needs guards
 - Requires [[Warforged]]
 - Parallels [[Customs House 3 (D&D_References)]]
 - Related: [[Physical Variations Yuan Ti Scale Color Vgm]]
-- See also: [[step_063]]
+- See also:
 - Originates from [[step_027 (phase_017)]]
 - Affected by [[Portrait NPC High Priest Absence V2 High Priest Absence.svg_1 (Portraits)]]
-- Affected by [[step_028]]
+- Affected by
 - Requires [[09 Adventuring#movement#climbing, Swimming, and Crawling]]
 - Parallels [[The Schooling]]
 - Affected by [[Princess Celestia]]
@@ -251,14 +246,14 @@ Caravan needs guards
 - Leads to [[Temporal Research Division (D&D_References)]]
 - Parallels [[step_008 (phase_083)]]
 - Compare with [[shield-xphb (spells)]]
-- Affected by [[step_095]]
-- Related: [[step_003]]
-- Connects to [[step_015]]
+- Affected by
+- Related:
+- Connects to
 - Requires [[gith-githzerai-mtf (races)]]
 - Connects to [[step_074 (phase_038)]]
 - Compare with [[Aquabyssos Navy]]
 - See also: [[QUEST00172_Personal_Quest_173]]
-- Connects to [[step_083]]
+- Connects to
 - Related: [[New Session]]
 - See also: [[EVENT00047_Magical_Event_48]]
 - Originates from [[Location City Portal Mirror Mage V1 Portal Mirror Mage.svg]]
@@ -280,7 +275,6 @@ Caravan needs guards
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

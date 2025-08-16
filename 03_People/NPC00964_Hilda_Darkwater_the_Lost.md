@@ -18,7 +18,6 @@ aliases: [NPC00964 Hilda Darkwater the Lost]
 - [[#Baelor Brightblade the Mystic (Family - Spouse)|Baelor Brightblade the Mystic (Family - Spouse)]]
 - [[#Gareth Blackstone the Fallen (Professional - Employer)|Gareth Blackstone the Fallen (Professional - Employer)]]
 
-
 ---
 aliases: ["Hilda Darkwater the Lost", "hilda darkwater the lost", "Hilda Darkwater Lost", "Lost the Darkwater Hilda"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.223Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -170,8 +165,8 @@ Has map to lost treasure
 - Parallels [[DUN00035_Dungeon_36]]
 - Leads to [[step_026 (phase_077)]]
 - Requires [[Omega-Protocol]]
-- Influences [[step_019]]
-- Related: [[step_007]]
+- Influences
+- Related:
 - Parallels [[step_045 (phase_056)]]
 - Requires [[Intelligence Services 2]]
 - Leads to [[Assets Art the Final Sealing.png]]
@@ -202,7 +197,7 @@ Has map to lost treasure
 - Connects to [[Caltrops Xphb]]
 - Parallels [[NPC00211_Brenna_Proudmore_the_Guardian]]
 - Related: [[ITEM00037_Blessed_Hammer_of_Wounding]]
-- Connects to [[step_014]]
+- Connects to
 - Requires [[Symbol Heraldry Elara Crystalline Elara Crystalline.svg]]
 - Influences [[Healer Elena Mindmender (D&D_References)]]
 - Affected by [[Guard Drake White Mpmm]]
@@ -218,7 +213,7 @@ Has map to lost treasure
 - Affected by [[step_096 (phase_035)]]
 - Parallels [[Security Chief Wade Peacekeep]]
 - Related: [[creature-creature-allip-mpmm-v4-allip-mpmm.png]]
-- Connects to [[step_079]]
+- Connects to
 - See also: [[Working Class Routines]]
 - Leads to [[necklace-string-of-small-pink-pearls-xdmg (items)]]
 - Requires [[Surgeon General Darkness 2]]
@@ -251,7 +246,7 @@ Has map to lost treasure
 - Leads to [[step_100 (phase_051)]]
 - See also: [[Tiefling Fierna Mtf]]
 - Related: [[Ancient Skyforge 2]]
-- Compare with [[step_081]]
+- Compare with
 - Parallels [[LORE00068_Prophecies_Entry_69]]
 - Connects to [[Hobgoblin Devastator Mpmm]]
 - Connects to [[light-repeating-crossbow-oota (items)]]
@@ -271,7 +266,6 @@ Has map to lost treasure
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

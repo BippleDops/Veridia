@@ -18,13 +18,12 @@ aliases: [NPC0118 Nathaniel Goldleaf the Wise]
 - [[#Relationships|Relationships]]
 - [[#Roleplaying|Roleplaying]]
 
-
 ---
 aliases: ["Nathaniel Goldleaf the Wise", "nathaniel goldleaf the wise", "Nathaniel Goldleaf Wise", "Wise the Goldleaf Nathaniel"]
 tags: [, generated]
-  - npc
-  - character
-  - generated
+ - npc
+ - character
+ - generated
 type: npc
 ---
 
@@ -148,7 +147,7 @@ Arcana, Persuasion
 ## Connections
 
 - Requires [[Crisis Response Centers (D&D_References)]]
-- Compare with [[step_085]]
+- Compare with
 - Related: [[Assets Vehicles Vehicle Ship Crown Council Flagship Crown Council Flagship.svg]]
 - Leads to [[sphinx-of-lore-xmm]]
 - Compare with [[consolidation_report]]
@@ -157,7 +156,7 @@ Arcana, Persuasion
 - Compare with [[step_056 (phase_074)]]
 - Influences [[step_035 (phase_058)]]
 - Requires [[Symbol Heraldry Regulatory Medical Authorit V1 Regulatory Medical Authorit.svg]]
-- Compare with [[step_086]]
+- Compare with
 - Requires [[The Deep Fugitive]]
 - See also: [[portrait-npc-lord-bathysmal-v1-lord-bathysmal.svg]]
 - Originates from [[Hand Crossbow Xphb]]
@@ -182,7 +181,7 @@ Arcana, Persuasion
 - Leads to [[Assets Locations Location City Innkeeper Marcus Thorne Innkeeper Marcus Thorne.svg]]
 - Related: [[Choldrith Mpmm]]
 - Related: [[Portrait NPC Captain Marina Truewater V1 Captain Marina Truewater.svg]]
-- Compare with [[step_034]]
+- Compare with
 - Affected by [[step_028 (phase_034)]]
 - Leads to [[step_058 (phase_073)]]
 - Requires [[LOC00104_Towns_Location_105]]
@@ -198,14 +197,14 @@ Arcana, Persuasion
 - Influences [[SHOP00031_Specialty_Shop_32]]
 - See also: [[ITEM00432_Enchanted_Helm_of_Protection]]
 - Related: [[LOC00020_Dungeons_Location_21]]
-- Leads to [[step_029]]
+- Leads to
 - Compare with [[portrait-npc-duke-gale-vortex-duke-gale-vortex.svg_1 (Portraits)]]
-- Compare with [[step_004]]
+- Compare with
 - Leads to [[Shadow Saints]]
 - Leads to [[Portrait NPC Lady Jade Clawgrip V1 Lady Jade Clawgrip.svg]]
 - Affected by [[pact-of-the-blade-xphb (optional-features)]]
 - Related: [[spiked-pit-xdmg (traps-hazards)]]
-- Influences [[step_012]]
+- Influences
 - Influences [[Random Hag Minions Brutes Vgm]]
 - Originates from [[step_056 (phase_019)]]
 - Affected by [[celestial]]

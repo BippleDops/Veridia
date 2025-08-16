@@ -18,7 +18,6 @@ aliases: [NPC01871 Nerys Underhill the Lost]
 - [[#Pyria Ashford the Wanderer (Criminal - Fence)|Pyria Ashford the Wanderer (Criminal - Fence)]]
 - [[#Corvus Quicksilver the Seeker (Family - Spouse)|Corvus Quicksilver the Seeker (Family - Spouse)]]
 
-
 ---
 aliases: ["Nerys Underhill the Lost", "nerys underhill the lost", "Nerys Underhill Lost", "Lost the Underhill Nerys"]
 tags: [npc, character]
@@ -142,21 +141,17 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.319Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -166,10 +161,10 @@ Offers deal too good to refuse
 - See also: [[04_Resources_Assets_Symbols_symbol-heraldry-the-sunken-observatory-the-sunken-observatory.svg]]
 - Influences [[Golden Ballroom 2]]
 - See also: [[The Golden Promenade]]
-- See also: [[step_015]]
+- See also:
 - Affected by [[Crisis Exploitation]]
 - Connects to [[ENC00072_Combat_Encounter_73]]
-- Requires [[step_060]]
+- Requires
 - Parallels [[Assets Symbols Symbol Heraldry Factional Conflicts Factional Conflicts.svg]]
 - Originates from [[Nightmarket Plaza]]
 - Parallels [[Quest - Nature]]
@@ -182,7 +177,7 @@ Offers deal too good to refuse
 - Parallels [[wall-of-ice-xphb (spells)]]
 - Compare with [[Assets Locations Location City Abyssos Prime 2 Abyssos Prime 2.svg]]
 - Leads to [[ENC00258_Combat_Encounter_259]]
-- Influences [[step_084]]
+- Influences
 - Parallels [[FAC00080_Guilds_81]]
 - Requires [[step_013 (phase_044)]]
 - Parallels [[Session 04 the Deep Mother Stirs]]
@@ -198,7 +193,7 @@ Offers deal too good to refuse
 - Leads to [[Assets Art the Perfect Symbiosis.png]]
 - Parallels [[Location City Memory Merchant Zephyr Mindweaver V1 Memory Merchant Zephyr Mindweaver.svg]]
 - Compare with [[Map Map Shadow Market Alley Shadow Market Alley.svg]]
-- Requires [[step_049]]
+- Requires
 - Parallels [[Pony Xmm]]
 - Influences [[greyhawk-ralishaz-xdmg (deities)]]
 - Originates from [[Deep Priest Covet]]
@@ -217,7 +212,7 @@ Offers deal too good to refuse
 - See also: [[step_071 (phase_065)]]
 - Related: [[SHOP00031_Magical_Shop_32]]
 - See also: [[portrait-npc-sire-v1-sire.svg]]
-- Influences [[step_030]]
+- Influences
 - Compare with [[Professor Abyssal Deepthought]]
 - Influences [[Death Ward Xphb]]
 - Related: [[swarm-of-cranium-rats-mpmm (aberration)]]
@@ -247,9 +242,9 @@ Offers deal too good to refuse
 - Parallels [[Assets Handouts Handout Handout Merchant Contract with Fine Print V3 Merchant Contract with Fine Print.png]]
 - Compare with [[Mira Stormwind 2]]
 - Leads to [[step_054 (phase_095)]]
-- See also: [[step_044]]
+- See also:
 - Parallels [[Ioun Stone Intellect Xdmg]]
-- Connects to [[step_054]]
+- Connects to
 - Originates from [[step_093 (phase_062)]]
 - Requires [[step_049 (phase_011)]]
 - Influences [[red-dragon (legendary-group)]]
@@ -258,14 +253,13 @@ Offers deal too good to refuse
 - Related: [[Atoll Research Team 2]]
 - See also: [[Blacksmith Cross-Hammer Grendel]]
 - Related: [[Creature Creature Aerisi Kalinoth Pota Aerisi Kalinoth Pota.png]]
-- Influences [[step_069]]
-- Originates from [[step_065]]
+- Influences
+- Originates from
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

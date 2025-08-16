@@ -18,7 +18,6 @@ aliases: [NPC00462 Fiora Ironforge the Seeker]
 - [[#Malakai Thornweave (Political - Ally)|Malakai Thornweave (Political - Ally)]]
 - [[#Ewan Ironwood (Political - Opposition)|Ewan Ironwood (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Fiora Ironforge the Seeker", "fiora ironforge the seeker", "Fiora Ironforge Seeker", "Seeker the Ironforge Fioratags: [npc, character, combat, magic, exploration, lore]er]
@@ -138,16 +137,13 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.166Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -179,11 +175,10 @@ Modifications:
 - [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
 - [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[NPC00083_Vesper_Xendar_the_Lost]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -191,11 +186,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -203,7 +197,7 @@ Modifications:
 - Compare with [[Portrait NPC Duke Sterling Truecrystal V2 Duke Sterling Truecrystal.svg]]
 - Influences [[scribe-xphb (backgrounds)]]
 - Influences [[skill-list-skills-xphb (tables)]]
-- Originates from [[step_077]]
+- Originates from
 - Compare with [[Portcullises Xdmg]]
 - Affected by [[Assets Locations [[Location City [[Quieting the Depths]] V1 Quieting the Depths.svg]]]]
 - Influences [[NPC01922_Idris_Stormwind_the_Bold]]
@@ -245,14 +239,14 @@ Modifications:
 - Affected by [[ITEM00886_Divine_Amulet_of_Truth]]
 - Affected by [[step_021 (phase_075)]]
 - Compare with [[ENC00019_Combat_Encounter_20]]
-- Related: [[step_036]]
+- Related:
 - Requires [[[[Pearlshell]] (D&D_References)]]
 - Requires [[step_026 (phase_053)]]
-- Related: [[step_082]]
+- Related:
 - Affected by [[cast-off-armor-xdmg (items)]]
 - Requires [[NPC00373_Wynne_Frostwhisper_the_Strong]]
 - Influences [[Wealth and Treasure Systems (02_Worldbuilding)]]
-- Parallels [[step_054]]
+- Parallels
 - See also: [[QUEST00410_Side_Quest_411]]
 - Related: [[step_092 (phase_017)]]
 - See also: [[step_080 (phase_030)]]
@@ -270,19 +264,19 @@ Modifications:
 - Affected by [[Portrait NPC Memory [[Merchant]]s V1 Memory Merchants.svg]]
 - Connects to [[Deep-Priest Covenant]]
 - See also: [[Dr. Siphon Gillwater (D&D_Statblocks)]]
-- Connects to [[step_007]]
+- Connects to
 - Influences [[Healer Sage Bondseer]]
 - Requires [[Lady Catherine Mourning (D&D_References)]]
 - Originates from [[divine-smite-xphb (spells)]]
 - Influences [[[[Quartermaster Shadow Supply]] 2]]
-- Connects to [[step_096]]
+- Connects to
 - Originates from [[LORE00052_Legends_Entry_53]]
 - Originates from [[step_097 (phase_049)]]
 - Affected by [[Using a Published Setting D D Settings Xdmg]]
-- Connects to [[step_076]]
+- Connects to
 - Connects to [[ENC00001_Social_Encounter_2]]
 - Connects to [[[[The Perfect Symbiosis]] 2]]
-- Related: [[step_017]]
+- Related:
 - Affected by [[Political Parties of Aquabyssos 2]]
 - Influences [[Pressure Suit Malfunction]]
 - Connects to [[location-city-seal-keepers-v1-seal-keepers.svg]]
@@ -304,7 +298,6 @@ Modifications:
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

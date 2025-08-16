@@ -9,7 +9,6 @@ aliases: [NPC00838 Drusilla Proudmore the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00838 Drusilla Proudmore the Risen]
 - [[#Nerys Quicksilver the Swift (Family - Child)|Nerys Quicksilver the Swift (Family - Child)]]
 - [[#Baelor Dawnstrider the Broken (Family - Parent)|Baelor Dawnstrider the Broken (Family - Parent)]]
 - [[#Lyanna Frostwhisper the Strong (Political - Puppet)|Lyanna Frostwhisper the Strong (Political - Puppet)]]
-
 
 ---
 created: 2025-08-15
@@ -161,16 +159,13 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.208Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -214,11 +209,10 @@ Caravan needs guards
 - [[Count_Strahd_von_Zarovich]]
 - [[MASTER_MOC]]
 - [[Complete_NPC_Matrix.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -227,11 +221,10 @@ Caravan needs guards
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -240,7 +233,7 @@ Caravan needs guards
 - Compare with [[NPC01230_Kaelen_Proudmore_the_Fallen]]
 - Compare with [[Captain Marina Truewater (D&D_References)]]
 - Originates from [[ITEM00911_Lesser_Potion_of_Vigor]]
-- Leads to [[step_051]]
+- Leads to
 - Affected by [[Thugs 2]]
 - Related: [[Location City Historian Lisa Outreach V1 Historian Lisa Outreach.svg]]
 - Originates from [[seeking-spell-xphb (optional-features)]]
@@ -299,16 +292,16 @@ Caravan needs guards
 - Leads to [[Aquabyssos Shadow Pools]]
 - Originates from [[Assets Locations Location City Administrative Wing Administrative Wing.svg]]
 - Connects to [[elemental-spirit-air-xphb (elemental)]]
-- Parallels [[step_041]]
+- Parallels
 - Leads to [[step_096 (phase_094)]]
 - Connects to [[Location City the Depth Market V1 the Depth Market.svg]]
 - Originates from [[International Crystal Trade Associatio 2]]
 - Connects to [[recurring-expenses-maintenance-costs (tables)]]
 - See also: [[Nondetection Xphb]]
 - Affected by [[step_015 (phase_098)]]
-- Compare with [[step_036]]
+- Compare with
 - See also: [[gnome-xphb (races)]]
-- Requires [[step_043]]
+- Requires
 - Affected by [[Assets Locations Location City the Lost Shipment V1 the Lost Shipment.svg]]
 - Influences [[Aria the Windwhisperer]]
 - Influences [[Quick_NPCs]]

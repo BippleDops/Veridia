@@ -9,7 +9,6 @@ aliases: [NPC01463 Aeliana Zephyrblade the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01463 Aeliana Zephyrblade the Fallen]
 - [[#Delara Darkwater the Seeker (Family - Cousin)|Delara Darkwater the Seeker (Family - Cousin)]]
 - [[#Lyanna Youngblood the Risen (Professional - Rival)|Lyanna Youngblood the Risen (Professional - Rival)]]
 - [[#Faelyn Hawthorne the Wise (Political - Puppet)|Faelyn Hawthorne the Wise (Political - Puppet)]]
-
 
 ---
 created: 2025-08-15
@@ -156,16 +154,13 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.275Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -188,11 +183,10 @@ Needs help with personal quest
 - [[09 Adventuring]]
 - [[10 Combat]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -201,11 +195,10 @@ Needs help with personal quest
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -244,7 +237,7 @@ Needs help with personal quest
 - Influences [[LORE00201_Legends_Entry_202]]
 - Leads to [[step_045 (phase_098)]]
 - Requires [[LORE00225_Legends_Entry_226]]
-- Leads to [[step_006]]
+- Leads to
 - Originates from [[step_055 (phase_056)]]
 - Originates from [[step_011 (phase_056)]]
 - Related: [[LORE00110_History_Entry_111]]
@@ -254,7 +247,7 @@ Needs help with personal quest
 - Leads to [[NPC01133_Hestara_Xendar_the_Broken]]
 - Leads to [[The Memory Wardens 2]]
 - Originates from [[LOC00205_Dungeons_Location_206]]
-- Related: [[step_036]]
+- Related:
 - Affected by [[Location City Basalt Depthwright V1 Basalt Depthwright.svg]]
 - Compare with [[Deep Threat Assessment Bureau (D&D_References)]]
 - Requires [[Noble Quarter Salons 2]]
@@ -262,7 +255,7 @@ Needs help with personal quest
 - Influences [[Location City Judge Tidal Fairweather V1 Judge Tidal Fairweather.svg]]
 - Influences [[MON00017_Undead_Creature_18]]
 - Affected by [[Quest - The Deepmind Weapon]]
-- Related: [[step_063]]
+- Related:
 - Parallels [[step_073 (phase_034)]]
 - Originates from [[ITEM01100_Concentrated_Powder_of_Clarity]]
 - Requires [[LOC00233_Towns_Location_234]]
@@ -283,8 +276,8 @@ Needs help with personal quest
 - Compare with [[Assets Locations Location City the Sinking Atoll V1 the Sinking Atoll.svg]]
 - See also: [[Portrait NPC Guardian Captain Marcus Shieldwall V2 Guardian Captain Marcus Shieldwall.svg]]
 - Requires [[The Reef Communities (D&D_References)]]
-- Compare with [[step_077]]
-- Requires [[step_075]]
+- Compare with
+- Requires
 - Compare with [[step_067 (phase_051)]]
 - Leads to [[step_097 (phase_066)]]
 - Originates from [[step_084 (phase_030)]]
@@ -294,7 +287,7 @@ Needs help with personal quest
 - Influences [[Sword of Answering Xdmg]]
 - Originates from [[step_087 (phase_022)]]
 - Requires [[step_027 (phase_046)]]
-- Leads to [[step_003]]
+- Leads to
 - Connects to [[The Shadow Trade Network]]
 - Affected by [[QUEST00168_Personal_Quest_169]]
 - Affected by [[Academic Lineages]]
@@ -304,11 +297,11 @@ Needs help with personal quest
 - Parallels [[Assets Locations Location City Keeper Luminous Crystalbeam Keeper Luminous Crystalbeam.svg]]
 - Affected by [[step_040 (phase_004)]]
 - See also: [[Captain Mistwalker (D&D_References)]]
-- Leads to [[step_020]]
+- Leads to
 - Influences [[04_Resources_Assets_Portraits_portrait-npc-captain-threshold-captain-threshold.svg_Quick_Ref]]
 - Compare with [[ENC00338_Combat_Encounter_339]]
 - Originates from [[Unseen Servant Xphb]]
-- Affected by [[step_030]]
+- Affected by
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

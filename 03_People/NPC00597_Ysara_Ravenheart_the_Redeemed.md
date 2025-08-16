@@ -18,7 +18,6 @@ aliases: [NPC00597 Ysara Ravenheart the Redeemed]
 - [[#Ewan Dawnstrider the Mystic (Professional - Employee)|Ewan Dawnstrider the Mystic (Professional - Employee)]]
 - [[#Malakai Emberfall the Redeemed (Criminal - Accomplice)|Malakai Emberfall the Redeemed (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ysara Ravenheart the Redeemed", "ysara ravenheart the redeemed", "Ysara Ravenheart Redeemed", "Redeemed the Ravenheart Ysara"]
@@ -150,27 +149,23 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.181Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -178,11 +173,10 @@ Family member has gone missing
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -205,12 +199,12 @@ Family member has gone missing
 - Leads to [[The First Breath Relic]]
 - Originates from [[Constitutional Architect Dr Harmony Lawbright]]
 - Leads to [[Location City Surface Observation Posts Surface Observation Posts.svg]]
-- Connects to [[step_032]]
+- Connects to
 - Compare with [[Tide Turner]]
 - Requires [[Benthic Commune (D&D_References)]]
 - Requires [[Portrait NPC Elder Whisper in the Dark Elder Whisper in the Dark.svg]]
 - See also: [[step_037 (phase_033)]]
-- See also: [[step_043]]
+- See also:
 - See also: [[Fear and Horror]]
 - Compare with [[The Sunken Cities 3 (D&D_References)]]
 - Influences [[forgotten-realms-leira (deities)]]
@@ -233,7 +227,7 @@ Family member has gone missing
 - Related: [[Planning Director Strategy Deepthink]]
 - Parallels [[The Amnesia Rehabilitation Centers]]
 - Leads to [[step_046 (phase_072)]]
-- Leads to [[step_051]]
+- Leads to
 - Originates from [[Reality Anchor Maintenance]]
 - Connects to [[Crystal-Enhanced Democracy]]
 - Affected by [[LORE00195_Legends_Entry_196]]
@@ -246,17 +240,17 @@ Family member has gone missing
 - Leads to [[step_068 (phase_027)]]
 - Originates from [[ITEM00988_Concentrated_Powder_of_Swiftness]]
 - Related: [[Assets Locations Location City Reality Anchor Network Reality Anchor Network.svg]]
-- Requires [[step_016]]
+- Requires
 - Leads to [[lantern-of-revealing-xdmg (items)]]
 - Affected by [[step_055 (phase_031)]]
-- Compare with [[step_081]]
+- Compare with
 - See also: [[Ability Scores and Modifiers Phb]]
 - Affected by [[ITEM00703_Infernal_Tome_of_Eternity]]
 - Parallels [[step_042 (phase_081)]]
 - Affected by [[step_087 (phase_013)]]
 - Originates from [[LOC00192_Cities_Location_193]]
 - Connects to [[Bottled Breath Pota]]
-- Related: [[step_021]]
+- Related:
 - See also: [[Blue Dragon Xmm]]
 - Connects to [[Nonhuman Moradin]]
 - Parallels [[NPC01089_Rhiannon_Nightfall_the_Bold]]
@@ -291,7 +285,6 @@ Family member has gone missing
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01449 Drusilla Ashford the Wanderer]
 - [[#Thalia Thornweave the Mystic (Professional - Partner)|Thalia Thornweave the Mystic (Professional - Partner)]]
 - [[#Ysara Jadeclaw the Fallen (Family - Child)|Ysara Jadeclaw the Fallen (Family - Child)]]
 
-
 ---
 aliases: ["Drusilla Ashford the Wanderer", "drusilla ashford the wanderer", "Drusilla Ashford Wanderer", "Wanderer the Ashford Drusilla"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.274Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -177,9 +172,9 @@ Knows secret about major threat
 - Originates from [[Cape of the Mountebank Xdmg]]
 - Influences [[Template_StarSystem_Placeholder.png (09_Templates)]]
 - Influences [[Assets Locations Location City Forge Master Petra Hammerdeep Forge Master Petra Hammerdeep.svg]]
-- See also: [[step_060]]
+- See also:
 - Compare with [[LORE00038_Legends_Entry_39]]
-- Requires [[step_016]]
+- Requires
 - Related: [[step_075 (phase_082)]]
 - Influences [[step_013 (phase_047)]]
 - Compare with [[NPC00005_Urien_Silverleaf]]
@@ -189,8 +184,8 @@ Knows secret about major threat
 - See also: [[Bone Scribes 2]]
 - Parallels [[step_027 (phase_040)]]
 - Influences [[step_055 (phase_019)]]
-- See also: [[step_076]]
-- Parallels [[step_079]]
+- See also:
+- Parallels
 - Compare with [[step_007 (phase_036)]]
 - Compare with [[04_Resources_Assets_Locations_location-city-captain-echo-v1-captain-echo.svg]]
 - Requires [[Physical Characteristics Beholder Iris Shape]]
@@ -223,7 +218,7 @@ Knows secret about major threat
 - Affected by [[Unite the Recursions]]
 - Requires [[Reality Monitoring Specialists (D&D_References)]]
 - Compare with [[Location City Liberty Coalition V1 Liberty Coalition.svg]]
-- Connects to [[step_055]]
+- Connects to
 - Connects to [[Saving Throws Proficiency Bonus by Challenge Rating Mm]]
 - Compare with [[Portrait NPC the Throne Pretenders V2 the Throne Pretenders.svg_1 (Portraits)]]
 - Influences [[Misty Step Xphb]]
@@ -234,11 +229,11 @@ Knows secret about major threat
 - Originates from [[Madame Whisper]]
 - Affected by [[Representative Coral]]
 - Connects to [[list-spells-classes-diviner-xphb (lists)]]
-- See also: [[step_023]]
+- See also:
 - Requires [[ghast-gravecaller-xmm (undead)]]
 - Influences [[step_058 (phase_088)]]
 - Connects to [[Assets Locations Location City Countess Marina Stormcrest Countess Marina Stormcrest.svg]]
-- Affected by [[step_043]]
+- Affected by
 - Originates from [[Portrait NPC Madame Crystal Eye V2 Madame Crystal Eye.svg]]
 - Compare with [[EVENT00016_Natural_Event_17]]
 - Leads to [[LOC00130_Planes_Location_131]]
@@ -267,7 +262,6 @@ Knows secret about major threat
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

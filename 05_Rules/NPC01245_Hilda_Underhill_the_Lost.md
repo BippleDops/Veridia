@@ -18,7 +18,6 @@ aliases: [NPC01245 Hilda Underhill the Lost]
 - [[#Dara Voidwalker the Risen (Family - Sibling)|Dara Voidwalker the Risen (Family - Sibling)]]
 - [[#Thalia Frostwhisper the Cunning (Criminal - Fence)|Thalia Frostwhisper the Cunning (Criminal - Fence)]]
 
-
 ---
 aliases: ["Hilda Underhill the Lost", "hilda underhill the lost", "Hilda Underhill Lost", "Lost the Underhill Hilda"]
 tags: [npc, character]
@@ -161,21 +160,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.252Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -216,7 +211,7 @@ Forming expedition to dangerous location
 - Influences [[LOC00014_Planes_Location_15]]
 - Related: [[Port Sorrow Trading Company (D&D_References)]]
 - Originates from [[The Memory Meadows Black Market 2]]
-- Originates from [[step_014]]
+- Originates from
 - Requires [[Character_Bonds]]
 - Compare with [[Regional Coordinator Crystal Truthseer]]
 - See also: [[Emergency Backup]]
@@ -230,11 +225,11 @@ Forming expedition to dangerous location
 - Affected by [[per-day-xphb (variant-rules)]]
 - See also: [[Senator's Widow Marcella 2]]
 - Leads to [[step_081 (phase_015)]]
-- Influences [[NPC  (D&D_References)]]
+- Influences [[NPC (D&D_References)]]
 - Leads to [[LORE00121_Legends_Entry_122]]
 - Influences [[Circle of Mourners (D&D_References)]]
 - Parallels [[Market_District (D&D_References)]]
-- Parallels [[step_079]]
+- Parallels
 - See also: [[NPC00990_Fiora_Moonshadow_the_Redeemed]]
 - Leads to [[Professor Euclid Mindmaze 2]]
 - Influences [[Assets Locations Location City Pressure Gems Pressure Gems.svg]]
@@ -261,7 +256,7 @@ Forming expedition to dangerous location
 - Originates from [[NPC00677_Nerys_Dawnstrider_the_Lost]]
 - See also: [[step_020 (phase_052)]]
 - See also: [[step_050 (phase_086)]]
-- Related: [[step_038]]
+- Related:
 - See also: [[step_094 (phase_069)]]
 - See also: [[Mira Shadowtouched]]
 - Compare with [[Sunken Vineyards 2]]
@@ -277,14 +272,13 @@ Forming expedition to dangerous location
 - Requires [[LOC00290_Dungeons_Location_291]]
 - Connects to [[Cultural Mediator Coral Windweave]]
 - Requires [[LOC00093_Cities_Location_94]]
-- Influences [[step_069]]
+- Influences
 - Leads to [[SPELL00080_Arcane_Spell_81]]
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

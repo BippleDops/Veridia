@@ -9,7 +9,6 @@ aliases: [NPC00008 Gavril Quicksilver]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00008 Gavril Quicksilver]
 - [[#Rhiannon Xendar (Criminal - Handler)|Rhiannon Xendar (Criminal - Handler)]]
 - [[#Hilda Ironwood (Personal - Childhood friend)|Hilda Ironwood (Personal - Childhood friend)]]
 - [[#Xander Ironforge (Personal - Nemesis)|Xander Ironforge (Personal - Nemesis)]]
-
 
 ---
 aliases: ["Gavril Quicksilver", "gavril quicksilver", "Quicksilver Gavril"]
@@ -155,27 +153,23 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.110Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Requires [[NPC01259_Jorah_Blackstone_the_Scholar]]
 - Affected by [[Assets Locations Location City Master Elena Preserver V1 Master Elena Preserver.svg]]
-- See also: [[step_077]]
+- See also:
 - Influences [[Formal Dueling Protocols]]
 - Related: [[The Hidden Constitution Archive 2]]
 - Connects to [[Symbol Heraldry Financial Crime Investigatio V1 Financial Crime Investigatio.svg]]
@@ -189,18 +183,18 @@ Needs discrete help with family scandal
 - Originates from [[LOC00245_Towns_Location_246]]
 - Originates from [[NPC00600_Pyria_Lightbringer_the_Broken]]
 - Connects to [[ensnaring-strike-xphb (spells)]]
-- Influences [[step_085]]
+- Influences
 - Affected by [[Portrait NPC Lady Cordelia Windham Lady Cordelia Windham.svg]]
 - See also: [[LOC00220_Wilderness_Location_221]]
 - Compare with [[step_042 (phase_005)]]
-- Originates from [[step_063]]
+- Originates from
 - See also: [[ITEM00586_Enchanted_Leather_of_Grace]]
 - Leads to [[Portrait NPC Captain Shadowsail V1 Captain Shadowsail.svg]]
 - See also: [[difficult-terrain-xphb (variant-rules)]]
 - Compare with [[Princess Celestia (D&D_References)]]
 - Related: [[The Memory Weavers (D&D_References)]]
-- Parallels [[step_007]]
-- Connects to [[step_029]]
+- Parallels
+- Connects to
 - Related: [[Oathbow Xdmg]]
 - Compare with [[Stellar Commander Nereus Voidcaller 2]]
 - Requires [[NPC01523_Dara_Darkwater_the_Fallen]]
@@ -238,7 +232,7 @@ Needs discrete help with family scandal
 - Compare with [[step_024 (phase_027)]]
 - Compare with [[Corruption Broker Silver Currentfloat 2]]
 - Affected by [[step_031 (phase_043)]]
-- Connects to [[step_024]]
+- Connects to
 - Leads to [[Symbol Heraldry Border Checkpoints Border Checkpoints.svg]]
 - Parallels [[ENC00145_Combat_Encounter_146]]
 - See also: [[LORE00241_Prophecies_Entry_242]]
@@ -247,7 +241,7 @@ Needs discrete help with family scandal
 - Originates from [[Memory_Mechanics]]
 - Requires [[NPC_Name_Generator.png]]
 - Compare with [[Flensing Claws Vgm]]
-- Originates from [[step_060]]
+- Originates from
 - Requires [[LOC00254_Dungeons_Location_255]]
 - Compare with [[LOC00046_Towns_Location_47]]
 - Parallels [[step_037 (phase_027)]]

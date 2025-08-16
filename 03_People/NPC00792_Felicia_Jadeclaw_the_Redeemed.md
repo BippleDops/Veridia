@@ -9,7 +9,6 @@ aliases: [NPC00792 Felicia Jadeclaw the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00792 Felicia Jadeclaw the Redeemed]
 - [[#Caelum Silverleaf the Wanderer (Professional - Employee)|Caelum Silverleaf the Wanderer (Professional - Employee)]]
 - [[#Solas Ravenheart the Wanderer (Political - Patron)|Solas Ravenheart the Wanderer (Political - Patron)]]
 - [[#Hilda Goldleaf the Scholar (Family - Sibling)|Hilda Goldleaf the Scholar (Family - Sibling)]]
-
 
 ---
 created: 2025-08-15
@@ -154,27 +152,23 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.202Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -184,11 +178,10 @@ Being extorted by criminals
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -197,7 +190,7 @@ Being extorted by criminals
 - Related: [[NPC01771_Malakai_Ironwood_the_Redeemed]]
 - See also: [[NPC01258_Gareth_Moonshadow_the_Risen]]
 - Requires [[ENC00166_Environmental_Encounter_167]]
-- Compare with [[step_061]]
+- Compare with
 - Leads to [[step_038 (phase_084)]]
 - Parallels [[step_003 (phase_061)]]
 - Originates from [[Describe Appearance and Personality Charisma]]
@@ -207,7 +200,7 @@ Being extorted by criminals
 - See also: [[Ancient Skyforge]]
 - Leads to [[Gravity Anomaly Mechanics (D&D_References)]]
 - Leads to [[step_078 (phase_078)]]
-- Related: [[step_004]]
+- Related:
 - Connects to [[Paramedic Supervisor Fastaid]]
 - Originates from [[Layers of the Abyss Xdmg]]
 - Originates from [[step_100 (phase_028)]]
@@ -233,7 +226,7 @@ Being extorted by criminals
 - Affected by [[Royal Government (D&D_References)]]
 - Influences [[Colonial Administration 2]]
 - See also: [[Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg]]
-- Originates from [[step_011]]
+- Originates from
 - Originates from [[step_026 (phase_016)]]
 - Affected by [[Reality Anchor Installation]]
 - Affected by [[ITEM00651_Mithril_Gauntlets_of_the_Guardian]]
@@ -243,7 +236,7 @@ Being extorted by criminals
 - Influences [[human-names-celtic-female-xge (tables)]]
 - Related: [[Chaplain Abyssos the Deepseeke 2]]
 - Compare with [[Factions the Tide Singers]]
-- Connects to [[step_073]]
+- Connects to
 - Originates from [[Tavern_Menu]]
 - Requires [[step_060 (phase_094)]]
 - Originates from [[step_068 (phase_089)]]
@@ -279,7 +272,7 @@ Being extorted by criminals
 - Originates from [[Portrait NPC Pirate Lords of the Spiral Depths Pirate Lords of the Spiral Depths.svg]]
 - Requires [[step_003 (phase_042)]]
 - Compare with [[Memory Merchant Mneme]]
-- Influences [[step_055]]
+- Influences
 - Affected by [[Quill Precisequote]]
 - Leads to [[Symbol Heraldry Chaplain Abyssos the Deepseeke V1 Chaplain Abyssos the Deepseeke.svg]]
 - Leads to [[step_018 (phase_017)]]

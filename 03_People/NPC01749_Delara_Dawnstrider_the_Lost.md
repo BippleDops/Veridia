@@ -18,7 +18,6 @@ aliases: [NPC01749 Delara Dawnstrider the Lost]
 - [[#Aeliana Frostwhisper the Lost (Family - Sibling)|Aeliana Frostwhisper the Lost (Family - Sibling)]]
 - [[#Cedric Hawthorne the Broken (Political - Puppet)|Cedric Hawthorne the Broken (Political - Puppet)]]
 
-
 ---
 aliases: ["Delara Dawnstrider the Lost", "delara dawnstrider the lost", "Delara Dawnstrider Lost", "Lost the Dawnstrider Delara"]
 tags: [npc, character]
@@ -147,25 +146,21 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.306Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Related: [[step_053]]
+- Related:
 - Related: [[ITEM01243_Refined_Oil_of_Swiftness]]
 - Originates from [[random-settlements-race-relations (tables)]]
 - Originates from [[EVENT00067_Political_Event_68]]
@@ -198,8 +193,8 @@ Is secretly testing the party
 - Requires [[The Harbor Guild]]
 - Requires [[step_021 (phase_092)]]
 - Connects to [[step_030 (phase_007)]]
-- Leads to [[step_096]]
-- Compare with [[step_061]]
+- Leads to
+- Compare with
 - Requires [[ENC00218_Social_Encounter_219]]
 - Affected by [[The Azure Chamber]]
 - See also: [[QUEST00001_Side_Quest_2]]
@@ -209,8 +204,8 @@ Is secretly testing the party
 - Influences [[step_085 (phase_067)]]
 - Requires [[Resoce Conspiracy]]
 - Originates from [[Surface Rising]]
-- Parallels [[step_036]]
-- Requires [[step_092]]
+- Parallels
+- Requires
 - Originates from [[step_093 (phase_051)]]
 - Affected by [[ITEM00294_Frost_Bow_of_Power]]
 - Connects to [[Weather_Generator]]
@@ -245,12 +240,12 @@ Is secretly testing the party
 - Affected by [[Assets Locations Location City Flame Keeper Brother Ignatius V1 Flame Keeper Brother Ignatius.svg]]
 - Affected by [[Family Retaine 2]]
 - Requires [[step_077 (phase_094)]]
-- Influences [[step_051]]
+- Influences
 - Leads to [[02_Worldbuilding_Lore_Map_of_the_Whispering_Expanse]]
 - Related: [[QUEST00019_Side_Quest_20]]
 - Compare with [[step_091 (phase_005)]]
 - See also: [[Traditional Craft Districts]]
-- Affected by [[step_079]]
+- Affected by
 - Requires [[step_054 (phase_034)]]
 - Originates from [[NPC00811_Solas_Grimholt_the_Lost]]
 - Related: [[QUEST00011_Side_Quest_12]]
@@ -270,7 +265,6 @@ Is secretly testing the party
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

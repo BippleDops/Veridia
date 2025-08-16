@@ -9,7 +9,6 @@ aliases: [NPC01695 Ewan Ashford the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01695 Ewan Ashford the Fallen]
 - [[#Drusilla Silverleaf the Redeemed (Family - Child)|Drusilla Silverleaf the Redeemed (Family - Child)]]
 - [[#Ysara Stormwind the Guardian (Personal - Best friend)|Ysara Stormwind the Guardian (Personal - Best friend)]]
 - [[#Urien Voidwalker the Broken (Professional - Partner)|Urien Voidwalker the Broken (Professional - Partner)]]
-
 
 ---
 created: 2025-08-15
@@ -158,16 +156,13 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.300Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -201,11 +196,10 @@ Offers deal too good to refuse
 - [[11 Rules Glossary]]
 - [[NPC00451_Malakai_Ravenheart_the_Broken]]
 - [[MOC_Items]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -215,11 +209,10 @@ Offers deal too good to refuse
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -237,7 +230,7 @@ Offers deal too good to refuse
 - Parallels [[Location City [[The Transition Centers]] the Transition Centers.svg]]
 - Affected by [[Portrait NPC Umbral Crystal Miners V2 Umbral Crystal Miners.svg_1 (Portraits)]]
 - Leads to [[Portrait NPC the [[Royal Treasury]] Depths V2 the Royal Treasury Depths.svg_1 (Portraits)]]
-- Parallels [[step_069]]
+- Parallels
 - Parallels [[The Reality Compass]]
 - Related: [[The [[Tethyan Hegemony]] (D&D_References)]]
 - Compare with [[Portrait NPC Coral Empress Scarletina V2 Coral Empress Scarletina.svg_1 (Portraits)]]
@@ -250,13 +243,13 @@ Offers deal too good to refuse
 - See also: [[Portrait NPC Gallery Guide Captain Marina Civicvoice Gallery Guide Captain Marina Civicvoice.svg]]
 - Leads to [[SHOP00042_General_Shop_43]]
 - See also: [[[[Quartermaster David Simpleton]] 2]]
-- Leads to [[step_098]]
+- Leads to
 - Originates from [[step_068 (phase_081)]]
 - Affected by [[The Shadow Operating Theater]]
 - Influences [[Otilukes Freezing Sphere Xphb]]
 - Requires [[QUEST0006_Investigate_the_Pirates]]
 - Requires [[Transformations - Crystal - Crystal Bloom]]
-- Leads to [[step_095]]
+- Leads to
 - Compare with [[Reputation_Tracker]]
 - Related: [[horn-of-valhalla-bronze-xdmg (items)]]
 - Affected by [[Portrait NPC Vex Shadowthorn the Kingpin V2 Vex Shadowthorn the Kingpin.svg]]
@@ -274,7 +267,7 @@ Offers deal too good to refuse
 - Related: [[Elder Tempest Mpmm]]
 - Parallels [[Emergency Crystal Response Team]]
 - Related: [[Mounted_Combat]]
-- Leads to [[step_073]]
+- Leads to
 - Affected by [[creating-a-rival-rival-xge (tables)]]
 - Requires [[Banking Lord Cornelius Coinwright (D&D_References)]]
 - Compare with [[Memory Adjustment]]
@@ -283,14 +276,14 @@ Offers deal too good to refuse
 - Affected by [[Saint Meridia the Unifier 2]]
 - Requires [[mirror-image-xphb (spells)]]
 - Connects to [[step_088 (phase_013)]]
-- Connects to [[step_051]]
+- Connects to
 - Parallels [[step_053 (phase_044)]]
 - Affected by [[[[Port Meridian]] - Market District 2]]
 - Influences [[Houses_and_Nobility___House_Brightshield]]
 - Related: [[step_070 (phase_084)]]
 - Influences [[step_001 (phase_039)]]
 - Connects to [[The Sorrow Current]]
-- Parallels [[step_041]]
+- Parallels
 - Connects to [[Embed]]
 - Leads to [[Armor and Shields Armor Phb]]
 - Connects to [[LOC00215_Cities_Location_216]]
@@ -312,14 +305,14 @@ Offers deal too good to refuse
 - Originates from [[LORE00304_Prophecies_Entry_305]]
 - Connects to [[ENC00425_Combat_Encounter_426]]
 - Requires [[adult-silver-dragon-xmm (dragon)]]
-- Compare with [[step_056]]
-- Requires [[step_085]]
+- Compare with
+- Requires
 - Compare with [[Vargouille Mpmm]]
 - Connects to [[cone-area-of-effect-xphb (variant-rules)]]
 - Originates from [[norse-surtur (deities)]]
 - Requires [[Location City [[Amnesia Gallery]] V1 Amnesia Gallery.svg]]
 - Related: [[Standard Languages Phb]]
-- See also: [[step_019]]
+- See also:
 - Requires [[[[The Crystal Cathedral]] 2]]
 - Affected by [[Aetheric Wind Songs (Lore)]]
 - Leads to [[Social Architect Luna Newdawn]]

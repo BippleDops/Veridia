@@ -18,7 +18,6 @@ aliases: [NPC01040 Zephyr Lightbringer the Strong]
 - [[#Gareth Goldleaf the Cunning (Professional - Employee)|Gareth Goldleaf the Cunning (Professional - Employee)]]
 - [[#Kaelen Blackstone the Broken (Family - Parent)|Kaelen Blackstone the Broken (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Zephyr Lightbringer the Strong", "zephyr lightbringer the strong", "Zephyr Lightbringer Strong", "Strong the Lightbringer Zephyrtags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
@@ -149,16 +148,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.230Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -189,11 +185,10 @@ Seeks rare merchandise
 - [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[Marcus Shardbreaker Grimm_1]]
 - [[NPC00378_Malakai_Moonshadow_the_Broken]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -202,41 +197,40 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Requires [[ENC00138_Combat_Encounter_139]]
-- See also: [[step_043]]
+- See also:
 - Affected by [[seahorse-xmm (beast)]]
 - Connects to [[01 Chapter 1 the Basics]]
-- Influences [[step_095]]
-- Influences [[step_060]]
+- Influences
+- Influences
 - Originates from [[ITEM00566_Mithril_Leather_of_Resistance]]
 - Influences [[Template_Lore_Placeholder.png]]
-- Requires [[step_046]]
+- Requires
 - See also: [[dragon-hide-xge (feats)]]
 - Requires [[The Overflow 2]]
 - Originates from [[NPC00697_Jorah_Stormwind_the_Mystic]]
 - Requires [[[[Ancient Treasury of Tides]] 2]]
-- Originates from [[step_097]]
+- Originates from
 - Affected by [[healers-kit-xphb (items)]]
 - Leads to [[Timeline Trackerbase]]
 - Affected by [[step_006 (phase_012)]]
 - Connects to [[step_084 (phase_058)]]
 - Requires [[Location City [[[[Noble Quarter]] Council Chambers]] V1 Noble Quarter Council Chambers.svg]]
 - Connects to [[Blessed Mother Thalassa the Transformed]]
-- Requires [[step_075]]
+- Requires
 - Originates from [[[[Archivist Reef Bookkeeper]] 2]]
 - Leads to [[step_060 (phase_020)]]
 - Originates from [[NPC01444_Pyria_Brightblade_the_Seeker]]
-- Leads to [[step_011]]
+- Leads to
 - Originates from [[Portrait NPC Golden Scale Transformation V1 Golden Scale Transformation.svg_1 (Portraits)]]
-- See also: [[step_012]]
+- See also:
 - Related: [[04_Resources_Assets_Symbols_symbol-heraldry-faction-intelligence-faction-intelligence.svg]]
 - Affected by [[ITEM00557_Mithril_Cloak_of_Resistance]]
 - See also: [[Citizens Breathing Alliance]]
@@ -244,7 +238,7 @@ Seeks rare merchandise
 - Related: [[NPC01962_Corvus_Underhill_the_Lost]]
 - Parallels [[QUEST00053_Main_Quest_54]]
 - See also: [[Master_Quest_[[INDEX]]]]
-- Connects to [[step_072]]
+- Connects to
 - See also: [[Symbol Heraldry the Silence Experiments the Silence Experiments.svg]]
 - Requires [[location-city-memory-thief-v1-memory-thief.svg]]
 - Related: [[[[Memory Parasite Infection]] 2]]
@@ -254,7 +248,7 @@ Seeks rare merchandise
 - Related: [[Canal Master Typhoon Currentwise 2]]
 - See also: [[ability-score-point-costs-xphb (tables)]]
 - Connects to [[MON00009_Aberrations_Creature_10]]
-- Affected by [[step_024]]
+- Affected by
 - See also: [[City Development Plan (D&D_References)]]
 - Affected by [[Light Therapy Restoration Bed]]
 - Connects to [[step_022 (phase_049)]]
@@ -264,18 +258,18 @@ Seeks rare merchandise
 - Requires [[Assets Locations Location City [[Stormwind Supplies]] Stormwind Supplies.png]]
 - Requires [[Kelp Highway (D&D_References)]]
 - Related: [[Master Cultivators Guild]]
-- Compare with [[step_093]]
+- Compare with
 - Related: [[step_028 (phase_090)]]
 - Affected by [[Quest - Mother's Mercy]]
 - Parallels [[step_044 (phase_042)]]
 - See also: [[step_011 (phase_070)]]
 - Related: [[LORE00073_Legends_Entry_74]]
 - Affected by [[deck-of-many-things#Star]]
-- Influences [[step_051]]
+- Influences
 - Compare with [[arcane-study-charm-xdmg (rewards)]]
 - Originates from [[step_033 (phase_066)]]
 - Affected by [[step_067 (phase_009)]]
-- Leads to [[step_094]]
+- Leads to
 - Related: [[Location City [[Lord Reginald Seaworthy]] V1 Lord Reginald Seaworthy.svg]]
 - Parallels [[Sarah Chronicler 2]]
 - Connects to [[QUEST00272_Side_Quest_273]]
@@ -288,12 +282,12 @@ Seeks rare merchandise
 - Influences [[Vote Engineer Abyssal Cog (D&D_References)]]
 - Requires [[Quest - The Crimson Tide_1 (01_Adventures)]]
 - Originates from [[NPC01690_Pyria_Dawnstrider_the_Fallen]]
-- Compare with [[step_072]]
+- Compare with
 - Originates from [[The Deep Trading Halls]]
-- Originates from [[step_008]]
+- Originates from
 - Compare with [[Master_Spell_Compendium]]
 - Related: [[City Watch]]
-- See also: [[step_002]]
+- See also:
 - Compare with [[Location City [[Chief Engineer Vera Steamheart]] Chief Engineer Vera Steamheart.svg]]
 - Originates from [[Assets Locations [[Location City [[Harbor Facilities]] V1 Harbor Facilities.svg]]]]
 - Compare with [[banshee-xmm (undead)]]
@@ -305,9 +299,9 @@ Seeks rare merchandise
 - Parallels [[step_070 (phase_088)]]
 - Requires [[NPC00550_Xander_Stormwind_the_Cunning]]
 - See also: [[silvered-ammunition (items)]]
-- Influences [[step_006]]
-- Requires [[step_093]]
-- Originates from [[step_089]]
+- Influences
+- Requires
+- Originates from
 - Compare with [[QUEST00145_Personal_Quest_146]]
 - Requires [[Shadow Broker Maximian Darkmarket (D&D_References)]]
 
@@ -315,7 +309,6 @@ Seeks rare merchandise
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

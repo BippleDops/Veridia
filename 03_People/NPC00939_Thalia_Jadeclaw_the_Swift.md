@@ -18,7 +18,6 @@ aliases: [NPC00939 Thalia Jadeclaw the Swift]
 - [[#Hestara Underhill the Lost (Political - Patron)|Hestara Underhill the Lost (Political - Patron)]]
 - [[#Xander Keenblade the Scholar (Family - Spouse)|Xander Keenblade the Scholar (Family - Spouse)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Jadeclaw the Swift", "thalia jadeclaw the swift", "Thalia Jadeclaw Swift", "Swift the Jadeclaw Thaliatags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -151,16 +150,13 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.220Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -188,11 +184,10 @@ Modifications:
 - [[NPC00703_Elric_Dawnstrider_the_Swift]]
 - [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
 - [[Item_Catalog_Complete.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -203,11 +198,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -218,7 +212,7 @@ Modifications:
 - Requires [[horn-of-valhalla-bronze-xdmg (items)]]
 - See also: [[NPC01207_Orion_Thornweave_the_Wanderer]]
 - Compare with [[Instructor Combat Shadows]]
-- Parallels [[step_099]]
+- Parallels
 - Leads to [[[[Maritime Security Chief Reef]] 2]]
 - Originates from [[EVENT00031_Natural_Event_32]]
 - Requires [[Diplomatic Event Scenarios (D&D_References)]]
@@ -245,7 +239,7 @@ Modifications:
 - Requires [[Angel of the Depths]]
 - Originates from [[SPELL0003_Mystic_Bolt]]
 - Compare with [[Portrait NPC Prince Caspian Duskwater V2 Prince Caspian Duskwater.svg_1 (Portraits)]]
-- Leads to [[step_088]]
+- Leads to
 - Parallels [[Location City [[Wealthy Goldcurrent]] Wealthy Goldcurrent.svg]]
 - See also: [[step_053 (phase_094)]]
 - Affected by [[step_018 (phase_016)]]
@@ -260,7 +254,7 @@ Modifications:
 - Originates from [[step_036 (phase_007)]]
 - Originates from [[List Spells Feats Blessed Warrior Xphb]]
 - See also: [[Symbol Heraldry the Shadow Crystal Synthesis the Shadow Crystal Synthesis.png]]
-- Requires [[step_051]]
+- Requires
 - Leads to [[LORE00279_History_Entry_280]]
 - Originates from [[Abandoned Lighthouse of Convergence]]
 - Influences [[LOC00185_Planes_Location_186]]
@@ -276,11 +270,11 @@ Modifications:
 - See also: [[NPC_Name_Generator.png]]
 - Compare with [[MON0047_Blood_Wraith]]
 - Parallels [[Location City [[The [[Memory Thief]]]] V1 the Memory Thief.svg]]
-- Influences [[step_010]]
+- Influences
 - Requires [[ITEM00240_Cursed_Crossbow_of_Slaying]]
 - Related: [[construct-spirit-stone-xphb (construct)]]
 - Originates from [[The Observation Sphere]]
-- Compare with [[step_092]]
+- Compare with
 - Originates from [[Portrait NPC Quest the Deepest Current Quest the Deepest Current.svg]]
 - Connects to [[list-spells-races-tiefling-xphb (lists)]]
 - Influences [[Shield Master Xphb]]
@@ -297,7 +291,7 @@ Modifications:
 - Leads to [[QUEST00242_Personal_Quest_243]]
 - Related: [[portrait-npc-oracle-v1-oracle.svg_1 (Portraits)]]
 - Originates from [[Reaction Xphb]]
-- Affected by [[step_015]]
+- Affected by
 - Compare with [[step_025 (phase_066)]]
 - Leads to [[Spell Components]]
 - See also: [[Silverscale Consortium (02_Worldbuilding)]]
@@ -310,13 +304,12 @@ Modifications:
 - Requires [[LOC00200_Towns_Location_201]]
 - Originates from [[List Spells Classes Diviner Xphb]]
 - Connects to [[Location City Rare Ingredient Network V1 Rare Ingredient Network.svg]]
-- Connects to [[step_072]]
+- Connects to
 
 ## Visual References
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

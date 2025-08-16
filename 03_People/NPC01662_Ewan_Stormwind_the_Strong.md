@@ -18,7 +18,6 @@ aliases: [NPC01662 Ewan Stormwind the Strong]
 - [[#Aldric Brightblade the Guardian (Personal - Best friend)|Aldric Brightblade the Guardian (Personal - Best friend)]]
 - [[#Aeliana Nightfall the Scholar (Criminal - Accomplice)|Aeliana Nightfall the Scholar (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Ewan Stormwind the Strong", "ewan stormwind the strong", "Ewan Stormwind Strong", "Strong the Stormwind Ewan"]
 tags: [npc, character]
@@ -155,28 +154,24 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.297Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Originates from [[NPC00235_Idris_Grimholt_the_Lost]]
 - Compare with [[Shadow Behavior Guidelines]]
 - Influences [[random-height-and-weight-phb (tables)]]
-- Related: [[step_089]]
+- Related:
 - Leads to [[Portrait NPC the Bloodline Awakens V1 the Bloodline Awakens.svg_1 (Portraits)]]
 - Leads to [[remove-curse-xphb (spells)]]
 - Requires [[LOC00271_Cities_Location_272]]
@@ -195,7 +190,7 @@ Is secretly testing the party
 - See also: [[Government Officia 2]]
 - Originates from [[step_043 (phase_080)]]
 - Parallels [[QUEST00239_Personal_Quest_240]]
-- Requires [[step_068]]
+- Requires
 - Influences [[Diamond Xdmg]]
 - Related: [[ITEM00889_Ancient_Chalice_of_the_Gods]]
 - Influences [[MON00132_Aberrations_Creature_133]]
@@ -229,7 +224,7 @@ Is secretly testing the party
 - See also: [[Location City the Lost Expedition the Lost Expedition.svg]]
 - Connects to [[bewitching-whispers (optional-features)]]
 - Compare with [[Pipes of Haunting Xdmg]]
-- Connects to [[step_029]]
+- Connects to
 - Leads to [[step_052 (phase_046)]]
 - Leads to [[Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg_1 (Portraits)]]
 - Influences [[Venomous Snake Xmm]]
@@ -249,21 +244,21 @@ Is secretly testing the party
 - Connects to [[step_033 (phase_009)]]
 - Influences [[step_072 (phase_097)]]
 - Influences [[Prophetic Studies Institute (D&D_References)]]
-- Requires [[step_070]]
+- Requires
 - Leads to [[Insurance Cooperative]]
 - Connects to [[ITEM00975_Lesser_Oil_of_Clarity]]
 - Compare with [[step_062 (phase_007)]]
 - Influences [[step_004 (phase_021)]]
 - Compare with [[Session 3 the Skyship Heist]]
-- Connects to [[step_073]]
+- Connects to
 - Related: [[mummy-lord (legendary-group)]]
-- Parallels [[step_054]]
+- Parallels
 - Influences [[QUEST00323_Side_Quest_324]]
 - Originates from [[LORE00119_Legends_Entry_120]]
 - Related: [[ITEM01121_Superior_Crystal_of_Vigor]]
 - See also: [[Location City Titan Foundationbearer Titan Foundationbearer.svg]]
 - Compare with [[Chorus Master Melodia Depthsong (D&D_References)]]
-- Affected by [[step_033]]
+- Affected by
 - Parallels [[Assets Locations Location City Theological Education Theological Education.svg]]
 - Affected by [[NPC01034_Erasmus_Thornweave_the_Scholar]]
 - Affected by [[CLEANUP_COMPLETE]]
@@ -278,7 +273,6 @@ Is secretly testing the party
 ![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

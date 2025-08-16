@@ -18,7 +18,6 @@ aliases: [NPC01858 Drusilla Stormwind the Cunning]
 - [[#Jorah Ravenheart the Redeemed (Criminal - Fence)|Jorah Ravenheart the Redeemed (Criminal - Fence)]]
 - [[#Aeliana Lightbringer the Lost (Professional - Rival)|Aeliana Lightbringer the Lost (Professional - Rival)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Drusilla Stormwind the Cunning", "drusilla stormwind the cunning", "Drusilla Stormwind Cunning", "Cunning the Stormwind Drusillatags: [npc, character, combat, magic, social, puzzle, lore]er]
@@ -157,16 +156,13 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.317Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -193,9 +189,7 @@ Modifications:
 - [[Ceasefire_Accord_Draft.md]]
 - [[Session_Recaps]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -213,7 +207,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.93
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -223,11 +217,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -271,12 +264,12 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[SPELL00050_Divine_Spell_51]]
 - Influences [[Location City [[Pressure Wraiths]] Pressure Wraiths.svg]]
 - Requires [[Assets Locations Location City [[Magnus Ledgerkeep]] V1 Magnus Ledgerkeep.svg]]
-- Parallels [[step_086]]
+- Parallels
 - Leads to [[step_092 (phase_010)]]
 - Related: [[Location City [[Registry Keeper Mordecai Truthbane]] V1 Registry Keeper Mordecai Truthbane.svg]]
 - See also: [[Assets Locations [[Location City [[The Constellation Mystery]] V1 the Constellation Mystery.png]]]]
 - Requires [[Portrait NPC Surface Supremacists Surface Supremacists.svg]]
-- Related: [[step_028]]
+- Related:
 - Influences [[Great Reconciliatio 2]]
 - Originates from [[NPC01720_Solas_Keenblade_the_Scholar]]
 - See also: [[Assets Vehicles Vehicle Ship Crown Council Flagship V2 Crown Council Flagship.svg]]
@@ -300,7 +293,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Master Adapter Fluid Depthshifter]]
 - Connects to [[LOC00110_Wilderness_Location_111]]
 - Leads to [[Item Artifact Travelers Clothes Xphb V3 Travelers Clothes Xphb.png]]
-- Parallels [[step_041]]
+- Parallels
 - Parallels [[Abyssal Contracts 2]]
 - Connects to [[step_054 (phase_036)]]
 - Parallels [[Location City [[Professional Associations]] Professional Associations.svg]]
@@ -319,7 +312,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[NPC0046_Gareth_Ironforge_the_Cunning]]
 - Compare with [[The [[Crystal Palace]] - Throne Room]]
 - Affected by [[step_095 (phase_064)]]
-- Parallels [[step_029]]
+- Parallels
 - Originates from [[step_032 (phase_004)]]
 - Compare with [[Portrait NPC Captain Mistwalker V1 Captain Mistwalker.svg]]
 - Leads to [[giant-spider-xmm]]
@@ -337,7 +330,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
 
-
 ## Realm Connections
 
 ### Connection to [[Aethermoor]]
@@ -349,9 +341,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -3,12 +3,11 @@ enhanced: true
 tags: [enhanced, 03_people]
 created: 2025-08-15T16:41:46.583230
 modified: 2025-08-15T16:41:46.583235
-aliases: [Quest   Refugees of the Deep]
+aliases: [Quest Refugees of the Deep]
 ---
 
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
-
 
 ## Table of Contents
 - [[#Description|Description]]
@@ -22,7 +21,6 @@ aliases: [Quest   Refugees of the Deep]
 - [[#References|References]]
 - [[#Timeline|Timeline]]
 
-
 ---
 tags: [npc, character]
 type: npc
@@ -30,12 +28,12 @@ race: Human
 occupation: Commoner
 ---
 
-# Quest   Refugees of the Deep
+# Quest Refugees of the Deep
 
 *Human Commoner*
 
 ## Description
-Quest   Refugees of the Deep is a commoner who operates in the area. They are known for their involvement in recent events.
+Quest Refugees of the Deep is a commoner who operates in the area. They are known for their involvement in recent events.
 
 ## Appearance
 *Description needed*
@@ -48,7 +46,7 @@ Quest   Refugees of the Deep is a commoner who operates in the area. They are kn
 - **Flaw**: Can be overly suspicious
 
 ## Background
-Quest   Refugees of the Deep has been a commoner for several years, earning respect through their dedication.
+Quest Refugees of the Deep has been a commoner for several years, earning respect through their dedication.
 
 ## Current Situation
 Currently involved in the ongoing events of the campaign.
@@ -73,31 +71,25 @@ Currently involved in the ongoing events of the campaign.
 - [[Assets Locations Location City Transportation Guild Masters V1 Transportation Guild Masters.svg]]
 - [[Assets Locations Location City the Drowning Truth V1 the Drowning Truth.svg]]
 
-
 ## Timeline
 - Key events
 - Deadlines
-
 
 ## NPCs Involved
 - Quest giver
 - Antagonists
 
-
 ## Locations
 - Starting point
 - Key locations
-
 
 ## Complications
 - Potential problems
 - Twists
 
-
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
-
 
 ## Connections
 
@@ -108,10 +100,10 @@ Currently involved in the ongoing events of the campaign.
 - Parallels [[Aetheric Wind Songs (Lore)]]
 - Parallels [[SPELL00079_Arcane_Spell_80]]
 - Requires [[Financial Corruption (D&D_References)]]
-- Related: [[step_002]]
+- Related:
 - Compare with [[LOC00103_Dungeons_Location_104]]
 - See also: [[Grandmother Nightcomfor (D&D_References)]]
-- Parallels [[step_021]]
+- Parallels
 - Requires [[Care Coordinator Nightlight]]
 - Related: [[Quartz Xdmg]]
 - Related: [[ITEM00499_Enchanted_Chain_Mail_of_Grace]]
@@ -120,7 +112,7 @@ Currently involved in the ongoing events of the campaign.
 - Parallels [[Family Matriarch Anvil]]
 - Compare with [[QUEST00296_Side_Quest_297]]
 - Related: [[Chamber Purpose Dungeon Temple or Shrine]]
-- Parallels [[step_031]]
+- Parallels
 - Parallels [[NPC0165_Fiora_Brightblade]]
 - See also: [[step_044 (phase_037)]]
 - Requires [[Luxury Goods Market (D&D_References)]]
@@ -157,16 +149,16 @@ Currently involved in the ongoing events of the campaign.
 - See also: [[NPC01632_Qadim_Darkwater_the_Guardian]]
 - Related: [[step_081 (phase_099)]]
 - Compare with [[step_069 (phase_100)]]
-- Originates from [[step_005]]
+- Originates from
 - Requires [[LOC00157_Dungeons_Location_158]]
-- Connects to [[step_087]]
+- Connects to
 - Originates from [[step_097 (phase_093)]]
 - Leads to [[ITEM01306_Elegant_Tool_Kit_of_Durability]]
 - Parallels [[EVENT00024_Natural_Event_25]]
 - Originates from [[step_093 (phase_056)]]
 - Related: [[Mind Flayer Names Vgm]]
 - See also: [[Bulette Xmm]]
-- Affected by [[step_007]]
+- Affected by
 - Related: [[The Brotherhood of the Black Anchor 2]]
 - Parallels [[step_040 (phase_004)]]
 - See also: [[step_024 (phase_054)]]
@@ -193,11 +185,11 @@ Currently involved in the ongoing events of the campaign.
 - Related: [[Neural Pattern Recognition System]]
 - Requires [[location-city-crystallium-v1-crystallium.svg]]
 - Requires [[Vehicle Ship Pressure Lifter Barge V2 Pressure Lifter Barge.svg]]
-- Affected by [[step_061]]
+- Affected by
 - Requires [[step_057 (phase_099)]]
 - Parallels [[step_019 (phase_012)]]
-- Related: [[step_046]]
-- Requires [[step_097]]
+- Related:
+- Requires
 - See also: [[silvered-ammunition (items)]]
 - Parallels [[The Bathyal Palace]]
 - Influences [[ENC00138_Combat_Encounter_139]]

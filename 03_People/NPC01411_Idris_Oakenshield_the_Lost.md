@@ -18,7 +18,6 @@ aliases: [NPC01411 Idris Oakenshield the Lost]
 - [[#Thalia Keenblade the Lost (Criminal - Informant)|Thalia Keenblade the Lost (Criminal - Informant)]]
 - [[#Delara Youngblood the Bold (Family - Child)|Delara Youngblood the Bold (Family - Child)]]
 
-
 ---
 aliases: ["Idris Oakenshield the Lost", "idris oakenshield the lost", "Idris Oakenshield Lost", "Lost the Oakenshield Idris"]
 tags: [npc, character]
@@ -142,21 +141,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.270Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -170,7 +165,7 @@ Forming expedition to dangerous location
 - See also: [[Tiefling Levistus Mtf]]
 - Requires [[LOC00267_Planes_Location_268]]
 - Related: [[The Pressure Gates (D&D_References)]]
-- Compare with [[step_077]]
+- Compare with
 - Originates from [[The Overflow (D&D_References)]]
 - Requires [[NPC00732_Felicia_Stormwind_the_Wanderer]]
 - Related: [[step_064 (phase_025)]]
@@ -203,15 +198,15 @@ Forming expedition to dangerous location
 - Compare with [[SHOP00000_General_Shop_1]]
 - See also: [[step_040 (phase_047)]]
 - Related: [[LORE00281_History_Entry_282]]
-- Originates from [[step_088]]
+- Originates from
 - Requires [[Gold Locket With a Painted Portrait Inside]]
 - Leads to [[LORE00184_Prophecies_Entry_185]]
 - Originates from [[The Phantom Fence 2]]
-- Originates from [[step_072]]
+- Originates from
 - Parallels [[step_022 (phase_057)]]
 - Related: [[Historical Societies]]
 - Affected by [[Quest - Patient Zero_1 (01_Adventures)]]
-- See also: [[step_089]]
+- See also:
 - Compare with [[EVENT00048_Natural_Event_49]]
 - Parallels [[step_066 (phase_092)]]
 - Connects to [[QUEST00389_Side_Quest_390]]
@@ -223,7 +218,7 @@ Forming expedition to dangerous location
 - Affected by [[step_044 (phase_031)]]
 - Affected by [[ENC00048_Environmental_Encounter_49]]
 - Originates from [[Helm of Brilliance Xdmg]]
-- Originates from [[step_061]]
+- Originates from
 - Related: [[Diplomatic Intelligence]]
 - Requires [[Giant Spider Xmm]]
 - Connects to [[NPC01028_Erasmus_Darkwater_the_Strong]]
@@ -236,7 +231,7 @@ Forming expedition to dangerous location
 - Leads to [[LOC00172_Dungeons_Location_173]]
 - Parallels [[LORE00259_History_Entry_260]]
 - Related: [[DUN00135_Dungeon_136]]
-- Originates from [[step_074]]
+- Originates from
 - Requires [[Information Warfare]]
 - Parallels [[Underground Smuggling Networks (D&D_References)]]
 - Parallels [[Lieutet Memory Probe]]
@@ -247,12 +242,12 @@ Forming expedition to dangerous location
 - Parallels [[ENC00429_Combat_Encounter_430]]
 - Parallels [[step_018 (phase_061)]]
 - Originates from [[list-spells-feats-magic-initiate-xphb (lists)]]
-- Influences [[step_066]]
+- Influences
 - Requires [[03 Chapter 3 Dms Toolbox]]
 - Originates from [[Assets Locations Location City Community Organizations Community Organizations.svg]]
 - Connects to [[Crystal_Power_Core]]
 - Affected by [[ITEM00861_Time-worn_Orb_of_Eternity]]
-- Influences [[step_093]]
+- Influences
 - See also: [[Parliament Guards]]
 - Connects to [[Voidwhisper Diplomat Seraphina Darkgrace (D&D_References)]]
 - Parallels [[ITEM00241_Cursed_Hammer_of_Slaying]]
@@ -265,7 +260,6 @@ Forming expedition to dangerous location
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

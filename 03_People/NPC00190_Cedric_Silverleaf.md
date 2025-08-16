@@ -9,7 +9,6 @@ aliases: [NPC00190 Cedric Silverleaf]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00190 Cedric Silverleaf]
 - [[#Erasmus Silverleaf the Strong (Criminal - Target)|Erasmus Silverleaf the Strong (Criminal - Target)]]
 - [[#Corvus Jadeclaw (Criminal - Accomplice)|Corvus Jadeclaw (Criminal - Accomplice)]]
 - [[#Aeliana Xendar (Criminal - Accomplice)|Aeliana Xendar (Criminal - Accomplice)]]
-
 
 ---
 created: 2025-08-15
@@ -158,16 +156,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.133Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -184,11 +179,10 @@ Seeks bodyguards for dangerous journey
 - [[11 Rules Glossary]]
 - [[Parliament of Shadows Player Guide.md]]
 - [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -196,11 +190,10 @@ Seeks bodyguards for dangerous journey
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -225,7 +218,7 @@ Seeks bodyguards for dangerous journey
 - Requires [[The Multiverse]]
 - Influences [[Map Map Drowned Cathedral Nave Drowned Cathedral Nave.svg]]
 - Originates from [[berbalang-mpmm (aberration)]]
-- See also: [[step_035]]
+- See also:
 - Originates from [[International Trade Routes 2]]
 - Requires [[QUEST00264_Side_Quest_265]]
 - Influences [[MON00022_Aberrations_Creature_23]]
@@ -249,8 +242,8 @@ Seeks bodyguards for dangerous journey
 - See also: [[Symbol Heraldry the Liminal Trading Company the Liminal Trading Company.svg]]
 - Requires [[poisoned-darts-xdmg (traps-hazards)]]
 - Connects to [[Damage Xphb]]
-- Originates from [[step_011]]
-- Connects to [[step_057]]
+- Originates from
+- Connects to
 - Connects to [[Assets Locations Location City the Temporal Convergence Storms the Temporal Convergence Storms.svg]]
 - Connects to [[step_073 (phase_006)]]
 - Parallels [[Spiritual Healers]]
@@ -267,15 +260,15 @@ Seeks bodyguards for dangerous journey
 - See also: [[Eyebite Xphb]]
 - Related: [[step_088 (phase_066)]]
 - Influences [[list-spells-classes-way-of-the-sun-soul-xge (lists)]]
-- Compare with [[step_069]]
+- Compare with
 - Related: [[chamber-purpose-dungeon-planar-gate (tables)]]
 - Leads to [[step_033 (phase_061)]]
 - Requires [[Portrait NPC Quest the Void Conspiracy V1 Quest the Void Conspiracy.png]]
 - Requires [[NPC00539_Brenna_Nightfall]]
 - See also: [[04_Resources_Assets_Locations_location-city-master-trader-abyss-currentbinder-v1-master-trader-abyss-currentbinder.svg]]
-- Affected by [[step_033]]
+- Affected by
 - See also: [[Tiefling Baalzebul Mtf]]
-- See also: [[step_093]]
+- See also:
 - Affected by [[step_060 (phase_030)]]
 - Requires [[Progressive Tide Movement 2]]
 - See also: [[step_071 (phase_090)]]

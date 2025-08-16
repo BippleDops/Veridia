@@ -18,7 +18,6 @@ aliases: [NPC01141 Felicia Xendar the Wise]
 - [[#Ysara Thornweave the Broken (Criminal - Handler)|Ysara Thornweave the Broken (Criminal - Handler)]]
 - [[#Elric Crystalbrook the Broken (Family - Child)|Elric Crystalbrook the Broken (Family - Child)]]
 
-
 ---
 aliases: ["Felicia Xendar the Wise", "felicia xendar the wise", "Felicia Xendar Wise", "Wise the Xendar Felicia"]
 tags: [npc, character]
@@ -149,30 +148,26 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.241Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Related: [[dark-gift-of-seriach-the-hell-hound-whisperer-cos]]
-- Leads to [[step_001]]
+- Leads to
 - Requires [[Symbol Heraldry Sup... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[step_023 (phase_054)]]
 - Connects to [[step_064 (phase_072)]]
-- See also: [[step_069]]
+- See also:
 - Related: [[half-orc-names-female-xge (tables)]]
 - Connects to [[step_034 (phase_062)]]
 - Leads to [[Clockwork Oaken Bolter Mpmm]]
@@ -187,9 +182,9 @@ Competitor sabotaging business
 - Connects to [[LOC0015_LowerBridge]]
 - See also: [[LOC00080_Towns_Location_81]]
 - See also: [[step_004 (phase_006)]]
-- Related: [[step_077]]
+- Related:
 - Related: [[location-city-indigo-deepdye-v1-indigo-deepdye.svg]]
-- Affected by [[step_065]]
+- Affected by
 - Affected by [[Marina Mindwel]]
 - Affected by [[Public Works Yard]]
 - Affected by [[Symbol Heraldry Temporal Engineering Guil Temporal Engineering Guil.svg]]
@@ -209,17 +204,17 @@ Competitor sabotaging business
 - Leads to [[QUEST00170_Personal_Quest_171]]
 - Originates from [[Random Traps Trap Trigger]]
 - Leads to [[LORE00061_Prophecies_Entry_62]]
-- Influences [[step_063]]
+- Influences
 - Influences [[02_Worldbuilding_People_Dimensional_Security_Chief_Echo_Gatekeeper]]
 - Influences [[step_055 (phase_074)]]
 - Connects to [[Merchant Prince Vortex 2]]
 - Leads to [[step_053 (phase_059)]]
-- Compare with [[step_016]]
+- Compare with
 - Connects to [[QUEST00198_Personal_Quest_199]]
 - Requires [[step_019 (phase_069)]]
 - Related: [[ink-pen-xphb (items)]]
 - Originates from [[Northern Fortresses (D&D_References)]]
-- Originates from [[step_043]]
+- Originates from
 - Leads to [[step_075 (phase_034)]]
 - Related: [[NPC00975_Lyanna_Winterborn_the_Wise]]
 - Affected by [[step_043 (phase_019)]]
@@ -250,7 +245,7 @@ Competitor sabotaging business
 - Leads to [[Houses_and_Nobility - House Deepcurrent]]
 - Leads to [[Skill_DCs]]
 - Influences [[Recent Events]]
-- Compare with [[step_094]]
+- Compare with
 - Parallels [[step_001 (phase_005)]]
 - Affected by [[Viscount Deeper-Still (D&D_References)]]
 - Requires [[carrion-crawler-mucus-xdmg (items)]]
@@ -272,7 +267,6 @@ Competitor sabotaging business
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

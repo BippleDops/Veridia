@@ -18,7 +18,6 @@ aliases: [NPC01899 Pyria Emberfall the Swift]
 - [[#Vesper Nightfall the Guardian (Family - Sibling)|Vesper Nightfall the Guardian (Family - Sibling)]]
 - [[#Zephyr Crystalbrook the Swift (Criminal - Target)|Zephyr Crystalbrook the Swift (Criminal - Target)]]
 
-
 ---
 aliases: ["Pyria Emberfall the Swift", "pyria emberfall the swift", "Pyria Emberfall Swift", "Swift the Emberfall Pyria"]
 tags: [npc, character]
@@ -143,21 +142,17 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.322Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -213,7 +208,7 @@ Is secretly testing the party
 - Parallels [[location-city-scarlet-torrent-scarlet-torrent.svg]]
 - Affected by [[Chaplain Father Blessing Hopekeeper]]
 - Affected by [[ITEM01316_Elegant_Map_Case_of_Durability]]
-- Influences [[step_032]]
+- Influences
 - Requires [[Ancient Siege Tunnels (D&D_References)]]
 - Influences [[ENC00184_Combat_Encounter_185]]
 - Originates from [[Staff of Swarming Insects Xdmg]]
@@ -225,7 +220,7 @@ Is secretly testing the party
 - Connects to [[MUSIC_INDEX]]
 - Connects to [[Progressive Movement Infiltration (D&D_References)]]
 - Requires [[Wizard Xphb Abjurer Xphb]]
-- Leads to [[step_042]]
+- Leads to
 - See also: [[NPC00979_Pyria_Nightfall_the_Seeker]]
 - Affected by [[ITEM01140_Superior_Salve_of_Healing]]
 - Affected by [[Quality Inspector Wave Purewater 2]]
@@ -244,7 +239,7 @@ Is secretly testing the party
 - Related: [[S-018 Choir Pirates Player]]
 - Originates from [[ITEM01072_Superior_Incense_of_Vigor]]
 - Leads to [[step_073 (phase_095)]]
-- Affected by [[step_040]]
+- Affected by
 - Compare with [[03_Mechanics_Conditions_Quick_Ref]]
 - Compare with [[LORE00267_Legends_Entry_268]]
 - Requires [[Artificers' Consortium]]
@@ -260,13 +255,12 @@ Is secretly testing the party
 - Influences [[Factions the Skyborne Merchants]]
 - Related: [[step_062 (phase_034)]]
 - Requires [[SHOP00003_Magical_Shop_4]]
-- Leads to [[step_019]]
+- Leads to
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

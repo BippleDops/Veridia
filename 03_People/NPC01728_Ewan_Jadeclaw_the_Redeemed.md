@@ -9,7 +9,6 @@ aliases: [NPC01728 Ewan Jadeclaw the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01728 Ewan Jadeclaw the Redeemed]
 - [[#Faelyn Lightbringer the Cunning (Family - Child)|Faelyn Lightbringer the Cunning (Family - Child)]]
 - [[#Vesper Proudmore the Broken (Family - Sibling)|Vesper Proudmore the Broken (Family - Sibling)]]
 - [[#Hilda Jadeclaw the Seeker (Professional - Partner)|Hilda Jadeclaw the Seeker (Professional - Partner)]]
-
 
 ---
 aliases: ["Ewan Jadeclaw the Redeemed", "ewan jadeclaw the redeemed", "Ewan Jadeclaw Redeemed", "Redeemed the Jadeclaw Ewan"]
@@ -158,21 +156,17 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.303Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,7 +176,7 @@ Is secretly testing the party
 - Parallels [[planetar-xmm (celestial)]]
 - Influences [[ITEM01064_Pure_Powder_of_Clarity]]
 - Originates from [[LORE00234_History_Entry_235]]
-- Affected by [[step_084]]
+- Affected by
 - Compare with [[step_042 (phase_059)]]
 - Parallels [[Surface Sympathizer Settlements 2]]
 - Originates from [[globe-of-invulnerability-xphb (spells)]]
@@ -192,7 +186,7 @@ Is secretly testing the party
 - Connects to [[Master Respiratory Engineer Marina Gillwright]]
 - Requires [[step_015 (phase_069)]]
 - Parallels [[step_034 (phase_075)]]
-- Leads to [[step_037]]
+- Leads to
 - Affected by [[NPC00444_Elric_Oakenshield_the_Scholar]]
 - Compare with [[QUEST00059_Personal_Quest_60]]
 - Originates from [[Chief Resonance Engineer Harmony Crystalstone (D&D_References)]]
@@ -209,7 +203,7 @@ Is secretly testing the party
 - Affected by [[Reality Shepherd Nexus]]
 - Originates from [[step_023 (phase_065)]]
 - Related: [[Assets Locations Location City Pressure Gems Pressure Gems.svg]]
-- Related: [[step_050]]
+- Related:
 - Affected by [[LOC00277_Cities_Location_278]]
 - Affected by [[ITEM01253_Greater_Incense_of_Swiftness]]
 - Related: [[Cloud Shepherd Guild Customs]]
@@ -217,7 +211,7 @@ Is secretly testing the party
 - Affected by [[vampiric-ixitxachitl-cleric-oota (aberration)]]
 - Compare with [[step_060 (phase_088)]]
 - Parallels [[action-xphb (variant-rules)]]
-- Connects to [[step_013]]
+- Connects to
 - Affected by [[step_035 (phase_007)]]
 - Parallels [[step_057 (phase_091)]]
 - Leads to [[ITEM01089_Greater_Crystal_of_Vigor]]
@@ -232,8 +226,8 @@ Is secretly testing the party
 - Connects to [[World_Bible_Index (D&D_References)]]
 - Requires [[step_085 (phase_093)]]
 - Requires [[NPC00187_Qadim_Ashford]]
-- Affected by [[step_030]]
-- Compare with [[step_090]]
+- Affected by
+- Compare with
 - Connects to [[Shadow Replacement Procedures (D&D_References)]]
 - Related: [[Session Planning Guide]]
 - See also: [[Assets Locations Location City the Vault Keepers the Vault Keepers.svg]]
@@ -248,7 +242,7 @@ Is secretly testing the party
 - Influences [[ENC00405_Combat_Encounter_406]]
 - Related: [[Heavy Precipitation Xdmg]]
 - See also: [[scribe-xphb (backgrounds)]]
-- See also: [[step_059]]
+- See also:
 - Parallels [[Great Silence 2]]
 - Connects to [[Quest - Songs of Power]]
 - Requires [[QUEST00110_Personal_Quest_111]]
@@ -260,7 +254,7 @@ Is secretly testing the party
 - Connects to [[LOC00062_Dungeons_Location_63]]
 - Requires [[Reality Anchor Points (D&D_References)]]
 - Compare with [[ENC00461_Combat_Encounter_462]]
-- Affected by [[step_004]]
+- Affected by
 - Compare with [[Implements Common Xdmg]]
 - See also: [[The Temporal Monks 2]]
 - Originates from [[ITEM00227_Radiant_Staff_of_Power]]
@@ -274,7 +268,7 @@ Is secretly testing the party
 - Affected by [[LOC00271_Cities_Location_272]]
 - Influences [[LORE00015_Legends_Entry_16]]
 - Related: [[gunpowder-powder-horn-xdmg (items)]]
-- Parallels [[step_056]]
+- Parallels
 - Compare with [[10 combat#Dropping_to_0_Hit_Points#Monsters_and_Death]]
 
 ## Plot Hooks

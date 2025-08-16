@@ -18,7 +18,6 @@ aliases: [NPC00937 Dara Darkwater the Redeemed]
 - [[#Baelor Zephyrblade the Seeker (Professional - Rival)|Baelor Zephyrblade the Seeker (Professional - Rival)]]
 - [[#Erasmus Brightblade the Seeker (Family - Child)|Erasmus Brightblade the Seeker (Family - Child)]]
 
-
 ---
 aliases: ["Dara Darkwater the Redeemed", "dara darkwater the redeemed", "Dara Darkwater Redeemed", "Redeemed the Darkwater Dara"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.220Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,12 +171,12 @@ Has map to lost treasure
 - Parallels [[EVENT00059_Natural_Event_60]]
 - Affected by [[Assets Locations Location City Golden Coral V1 Golden Coral.svg]]
 - Compare with [[ITEM01173_Pure_Crystal_of_Fortune]]
-- Related: [[step_002]]
+- Related:
 - Parallels [[step_099 (phase_057)]]
-- Affected by [[step_035]]
+- Affected by
 - Leads to [[Security Chief Guard Protectionstrike]]
 - Related: [[Quest - The Lost Verse]]
-- Compare with [[step_027]]
+- Compare with
 - Related: [[step_086 (phase_051)]]
 - Originates from [[Deep Current Network (D&D_References)]]
 - Related: [[Biological Enhancement Laboratory (D&D_References)]]
@@ -223,10 +218,10 @@ Has map to lost treasure
 - Influences [[Augury Xphb]]
 - Influences [[Tribune Cassia (D&D_References)]]
 - Compare with [[step_035 (phase_010)]]
-- Requires [[step_079]]
+- Requires
 - Leads to [[Erinyes Xmm]]
 - Leads to [[ENC00049_Social_Encounter_50]]
-- Compare with [[step_034]]
+- Compare with
 - Parallels [[Assets Handouts Handout Handout Merchant Contract with Fine Print V1 Merchant Contract with Fine Print.png]]
 - Parallels [[step_046 (phase_095)]]
 - See also: [[MON00037_Constructs_Creature_38]]
@@ -245,20 +240,20 @@ Has map to lost treasure
 - See also: [[Black Dragon]]
 - Affected by [[Treasure Hunter Jake Gravecoin]]
 - See also: [[Sir Theron Brightshield]]
-- Parallels [[step_075]]
+- Parallels
 - Originates from [[Investigation Laboratories (D&D_References)]]
 - Affected by [[step_062 (phase_036)]]
 - See also: [[ENC00477_Combat_Encounter_478]]
 - See also: [[LOC00095_Dungeons_Location_96]]
 - Connects to [[The Shadow Infiltration Attempt 2]]
 - Influences [[NPC00498_Fiora_Ironwood_the_Guardian]]
-- Affected by [[step_079]]
+- Affected by
 - Affected by [[QUEST00090_Side_Quest_91]]
 - Parallels [[NPC00081_Gareth_Winterborn_the_Seeker]]
 - Connects to [[Wand of Pyrotechnics Xdmg]]
 - Influences [[step_059 (phase_052)]]
 - Connects to [[monster-hunters-pack-vrgr (items)]]
-- Related: [[step_029]]
+- Related:
 - Originates from [[#NPCs]]
 - Compare with [[ITEM00101_Shadow_Staff_of_Speed]]
 - Influences [[step_004 (phase_023)]]
@@ -272,7 +267,6 @@ Has map to lost treasure
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

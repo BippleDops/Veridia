@@ -18,7 +18,6 @@ aliases: [NPC00022 Zephyr Stormwind]
 - [[#Ysara Keenblade (Personal - Best friend)|Ysara Keenblade (Personal - Best friend)]]
 - [[#Baelor Quicksilver (Family - Child)|Baelor Quicksilver (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Zephyr Stormwind", "zephyr stormwind", "Stormwind Zephyr"]
@@ -147,27 +146,23 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.112Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -177,17 +172,16 @@ Needs discrete help with family scandal
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Compare with [[Incendiary Cloud Xphb]]
 - See also: [[step_007 (phase_041)]]
-- Compare with [[step_044]]
+- Compare with
 - Requires [[Awaken Xphb]]
 - Related: [[Seeking Arrow Xge]]
 - Leads to [[winged-kobold-xmm]]
@@ -206,7 +200,7 @@ Needs discrete help with family scandal
 - Connects to [[step_086 (phase_099)]]
 - Originates from [[Location City Memory Farmer Thane Memory Farmer Thane.svg]]
 - Requires [[undead]]
-- Related: [[step_050]]
+- Related:
 - See also: [[LOC00219_Dungeons_Location_220]]
 - Affected by [[SPELL00081_Divine_Spell_82]]
 - Requires [[step_052 (phase_064)]]
@@ -221,12 +215,12 @@ Needs discrete help with family scandal
 - Influences [[locked-door-lock-complexity-xdmg (tables)]]
 - Requires [[step_039 (phase_016)]]
 - Affected by [[tricksters-escape-xge (optional-features)]]
-- Influences [[step_070]]
+- Influences
 - Related: [[QUEST00156_Side_Quest_157]]
 - Influences [[Combat_Tracker]]
 - Compare with [[The Scattered Emperor (D&D_References)]]
 - See also: [[NPC00267_Vesper_Lightbringer_the_Strong]]
-- Connects to [[step_013]]
+- Connects to
 - Connects to [[LORE00192_Prophecies_Entry_193]]
 - Originates from [[Government Seal of Authority]]
 - Related: [[NPC01782_Hilda_Grimholt_the_Cunning]]
@@ -235,7 +229,7 @@ Needs discrete help with family scandal
 - Related: [[The Pressure Stone]]
 - Leads to [[Location City Court Manager Noble Court Manager Noble.svg]]
 - Parallels [[Quest - The Ancient Compact_1 (01_Adventures)]]
-- Originates from [[step_090]]
+- Originates from
 - Connects to [[ITEM00215_Blazing_Crossbow_of_Wounding]]
 - Leads to [[Assets Locations Location City Depth Supremacy Movement Depth Supremacy Movement.svg]]
 - Affected by [[Missing Persons of Port Meridian]]
@@ -252,11 +246,11 @@ Needs discrete help with family scandal
 - Connects to [[Demon Customization Tables Demon Flaws Mtf]]
 - See also: [[Portrait NPC Duchess Marina Ever Drowning Duchess Marina Ever Drowning.svg_1 (Portraits)]]
 - See also: [[Medical Cover Operations Center 2]]
-- Leads to [[step_010]]
+- Leads to
 - Leads to [[Elder Willow Moonwhispe]]
 - Connects to [[Portrait NPC Gareth Ironforge V2 Gareth Ironforge.svg]]
 - Leads to [[Creature Creature Goblin Hexer Xmm V4 Goblin Hexer Xmm.png]]
-- See also: [[step_075]]
+- See also:
 - Parallels [[DUN00133_Dungeon_134]]
 - Influences [[Pressure Gems 2]]
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-regulatory-medical-authorit-regulatory-medical-authorit.svg]]
@@ -264,7 +258,7 @@ Needs discrete help with family scandal
 - Related: [[Lighthouse Pea]]
 - Compare with [[step_026 (phase_059)]]
 - Parallels [[ITEM0122_Cursed_Circlet_of_the_Dawn]]
-- Leads to [[step_049]]
+- Leads to
 - Leads to [[The Anonymous Accord]]
 - Connects to [[Weather and Season]]
 - Influences [[ITEM01156_Refined_Herb_of_Fortune]]
@@ -291,7 +285,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
 
-
 ## Realm Connections
 
 ### Connection to Aethermoor
@@ -303,9 +296,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

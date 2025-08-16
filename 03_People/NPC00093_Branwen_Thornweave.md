@@ -18,7 +18,6 @@ aliases: [NPC00093 Branwen Thornweave]
 - [[#Dara Xendar (Criminal - Informant)|Dara Xendar (Criminal - Informant)]]
 - [[#Zephyr Ravenheart (Personal - Best friend)|Zephyr Ravenheart (Personal - Best friend)]]
 
-
 ---
 aliases: ["Branwen Thornweave", "branwen thornweave", "Thornweave Branwen"]
 tags: [npc, character]
@@ -142,21 +141,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.122Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -167,12 +162,12 @@ Wants rivals investigated
 - Compare with [[step_047 (phase_031)]]
 - Leads to [[ENC00286_Social_Encounter_287]]
 - Originates from [[Senator Cornelius Depthwalker (D&D_References)]]
-- See also: [[step_008]]
+- See also:
 - Leads to [[Harbormaster Tidal Stormcrest]]
 - Leads to [[step_098 (phase_079)]]
 - Parallels [[step_067 (phase_096)]]
 - Related: [[Crystal Ball of True Seeing Xdmg]]
-- Connects to [[step_038]]
+- Connects to
 - Leads to [[step_012 (phase_018)]]
 - Related: [[step_029 (phase_070)]]
 - Connects to [[LORE00182_History_Entry_183]]
@@ -186,13 +181,13 @@ Wants rivals investigated
 - Influences [[step_002 (phase_090)]]
 - Originates from [[Tribune Cassia 2]]
 - Leads to [[Gallery of Frozen Waves (D&D_References)]]
-- Parallels [[step_062]]
+- Parallels
 - Requires [[Symbol Heraldry Scholars of Divine Scholars of Divine Lore.svg]]
 - Originates from [[Queen Seraphina Lumengarde (People)]]
 - Requires [[Mechanics_Feedback]]
 - Leads to [[Shadow-Touched Individuals (D&D_References)]]
 - Connects to [[step_079 (phase_051)]]
-- Affected by [[step_020]]
+- Affected by
 - See also: [[step_031 (phase_096)]]
 - Affected by [[Portrait NPC the Deep Trade Routes V1 the Deep Trade Routes.svg_1 (Portraits)]]
 - Connects to [[Magic Item Table C]]
@@ -202,7 +197,7 @@ Wants rivals investigated
 - Compare with [[Wood Woad Mpmm]]
 - Originates from [[NPC01351_Gavril_Keenblade_the_Risen]]
 - Originates from [[Time]]
-- Affected by [[step_055]]
+- Affected by
 - Compare with [[Quest - The Seventh Seal_1 (01_Adventures)]]
 - Compare with [[step_009 (phase_020)]]
 - Connects to [[step_051 (phase_072)]]
@@ -210,7 +205,7 @@ Wants rivals investigated
 - Originates from [[step_034 (phase_048)]]
 - Influences [[Portrait NPC Investigator Supreme Lucian Brightwater V1 Investigator Supreme Lucian Brightwater.svg]]
 - See also: [[Memorial Stones 2]]
-- Requires [[step_018]]
+- Requires
 - Influences [[Assets Locations Location City Palace Staff Guild Palace Staff Guild.svg]]
 - Leads to [[Assets Locations Location City Azure Citadel Azure Citadel.svg]]
 - Related: [[The Anchor of Being]]
@@ -224,7 +219,7 @@ Wants rivals investigated
 - Requires [[Item Artifact Travelers Clothes Xphb V7 Travelers Clothes Xphb.png]]
 - Leads to [[Lieutenant Marcus 2]]
 - Compare with [[Faction_Name (02_Worldbuilding)]]
-- Related: [[step_085]]
+- Related:
 - Requires [[Musician Xphb]]
 - Parallels [[green-dragon-scale-mail-xdmg (items)]]
 - Connects to [[ITEM00581_Warded_Plate_of_Grace]]
@@ -242,7 +237,7 @@ Wants rivals investigated
 - Affected by [[Evidence Item Descriptions]]
 - Requires [[necklace-of-fireballs-xdmg (items)]]
 - Requires [[LORE00236_History_Entry_237]]
-- Affected by [[step_062]]
+- Affected by
 - Affected by [[Location City Master Archivist Valdric Stonewhisper V1 Master Archivist Valdric Stonewhisper.svg]]
 - Originates from [[Echo-Prime Cacophony Voidlungs (D&D_References)]]
 - Influences [[LORE0047_Prophecy_of_the_Ancient_Pact]]
@@ -265,7 +260,6 @@ Wants rivals investigated
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

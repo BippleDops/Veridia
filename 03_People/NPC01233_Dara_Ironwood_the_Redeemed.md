@@ -18,7 +18,6 @@ aliases: [NPC01233 Dara Ironwood the Redeemed]
 - [[#Alaric Proudmore the Redeemed (Personal - Ex-lover)|Alaric Proudmore the Redeemed (Personal - Ex-lover)]]
 - [[#Thalia Blackstone the Strong (Political - Spy)|Thalia Blackstone the Strong (Political - Spy)]]
 
-
 ---
 aliases: ["Dara Ironwood the Redeemed", "dara ironwood the redeemed", "Dara Ironwood Redeemed", "Redeemed the Ironwood Dara"]
 tags: [npc, character]
@@ -146,28 +145,24 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.251Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - See also: [[LOC00192_Dungeons_Location_193]]
 - Leads to [[step_085 (phase_071)]]
 - Leads to [[NPC00932_Orion_Grimholt_the_Mystic]]
-- Related: [[step_076]]
+- Related:
 - Connects to [[QUEST00208_Side_Quest_209]]
 - Originates from [[Assets Locations Location City Service Levels Service Levels.svg]]
 - See also: [[Portrait NPC the Crystal Queen Mother V2 the Crystal Queen Mother.svg]]
@@ -185,22 +180,22 @@ Forming expedition to dangerous location
 - Parallels [[ITEM01337_Elegant_Spyglass_of_Durability]]
 - Originates from [[step_058 (phase_053)]]
 - Leads to [[The Informant (D&D_References)]]
-- Affected by [[step_033]]
+- Affected by
 - Requires [[QUEST00120_Side_Quest_121]]
 - Parallels [[ITEM00589_Enchanted_Shield_of_Protection]]
 - Related: [[gold-circlet-set-with-four-aquamarines-xdmg (items)]]
 - Connects to [[Spy-Master Nonentity (D&D_References)]]
-- Parallels [[step_093]]
+- Parallels
 - Requires [[step_006 (phase_033)]]
-- Connects to [[step_053]]
+- Connects to
 - Affected by [[ITEM01160_Greater_Powder_of_Swiftness]]
 - See also: [[Organizations the Eternal Sentinels]]
 - Related: [[Location City Representative Coral Youngcurrent V1 Representative Coral Youngcurrent.svg]]
 - See also: [[LOC00186_Planes_Location_187]]
 - Compare with [[The Seven Shards (Lore)]]
 - See also: [[Council President Diana Democratic]]
-- Leads to [[step_053]]
-- Requires [[step_026]]
+- Leads to
+- Requires
 - Compare with [[step_051 (phase_064)]]
 - Influences [[Stop the Shadow Harvest]]
 - Parallels [[Portrait NPC Quest Storm Lord S Challenge V1 Quest Storm Lord S Challenge.svg]]
@@ -211,12 +206,12 @@ Forming expedition to dangerous location
 - Parallels [[step_085 (phase_014)]]
 - Connects to [[ENC00075_Combat_Encounter_76]]
 - Affected by [[LOC0015_LowerBridge]]
-- Influences [[step_087]]
+- Influences
 - Parallels [[Government Seal of Authority]]
 - Influences [[Ancient King Pelagios]]
 - Originates from [[step_080 (phase_022)]]
 - Compare with [[Assets Locations Location City High Court V1 High Court.svg]]
-- Compare with [[step_041]]
+- Compare with
 - Originates from [[SPELL00150_Nature_Spell_151]]
 - Influences [[The Visiting Scholar Complex 2]]
 - See also: [[QUEST00283_Side_Quest_284]]
@@ -247,7 +242,7 @@ Forming expedition to dangerous location
 - Connects to [[spell-scroll-level-1-xdmg (items)]]
 - Influences [[step_089 (phase_021)]]
 - Leads to [[EVENT00091_Political_Event_92]]
-- Connects to [[step_033]]
+- Connects to
 - Parallels [[LORE00207_Legends_Entry_208]]
 - Compare with [[Generate Campaign NPCs]]
 - Affected by [[step_037 (phase_089)]]
@@ -269,7 +264,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

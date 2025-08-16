@@ -9,7 +9,6 @@ aliases: [NPC01438 Hilda Youngblood the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01438 Hilda Youngblood the Fallen]
 - [[#Brenna Thornweave the Swift (Family - Parent)|Brenna Thornweave the Swift (Family - Parent)]]
 - [[#Wynne Proudmore the Cunning (Criminal - Target)|Wynne Proudmore the Cunning (Criminal - Target)]]
 - [[#Ewan Dawnstrider the Wise (Criminal - Fence)|Ewan Dawnstrider the Wise (Criminal - Fence)]]
-
 
 ---
 created: 2025-08-15
@@ -158,16 +156,13 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.273Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -206,11 +201,10 @@ Needs help with personal quest
 - [[NPC01664_Pyria_Lightbringer_the_Redeemed]]
 - [[MOC_Lore]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -219,17 +213,16 @@ Needs help with personal quest
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Compare with [[NPC00041_Fiora_Jadeclaw]]
 - Originates from [[Hobgoblin Dmg]]
-- Affected by [[step_041]]
+- Affected by
 - Connects to [[list-spells-classes-monster-slayer-xge (lists)]]
 - Influences [[LORE00017_History_Entry_18]]
 - Compare with [[Master Resonant]]
@@ -239,13 +232,13 @@ Needs help with personal quest
 - Requires [[step_090 (phase_054)]]
 - Requires [[step_089 (phase_082)]]
 - See also: [[Monsters by Habitat Mountain Monsters Xmm]]
-- Affected by [[step_004]]
+- Affected by
 - See also: [[step_071 (phase_051)]]
 - Originates from [[CR_Calculator (Calculators)]]
 - Leads to [[ancient-gold-dragon-xmm (dragon)]]
 - Compare with [[Trade Minister Gale Goldwind]]
 - Originates from [[Discover Shadow Market Location]]
-- Requires [[step_053]]
+- Requires
 - Compare with [[Assets Locations [[Location City [[Crystal Cult Temples]] Crystal Cult Temples.svg]]]]
 - Related: [[weather]]
 - Leads to [[location-city-fresh-cleanwave-fresh-cleanwave.svg]]
@@ -275,7 +268,7 @@ Needs help with personal quest
 - Compare with [[NPC00167_Hestara_Winterborn]]
 - Originates from [[Research Investment Funds]]
 - See also: [[Portrait NPC Tenebrarum Ambassadors V1 Tenebrarum Ambassadors.svg_1 (Portraits)]]
-- Related: [[step_033]]
+- Related:
 - Requires [[Shadow Reflection Sage (D&D_References)]]
 - See also: [[[[The Phosphor Markets]] (D&D_References)]]
 - Compare with [[data]]
@@ -286,9 +279,9 @@ Needs help with personal quest
 - Related: [[QUEST00086_Main_Quest_87]]
 - Affected by [[QUEST00050_Main_Quest_51]]
 - Compare with [[step_059 (phase_055)]]
-- Compare with [[step_032]]
+- Compare with
 - Parallels [[climb-speed-xphb (variant-rules)]]
-- Influences [[step_031]]
+- Influences
 - Compare with [[step_048 (phase_063)]]
 - Connects to [[brass-dragon-xmm (legendary-group)]]
 - Leads to [[Symbol Heraldry [[Aquabyssos]] Faction Web V1 Aquabyssos Faction Web.svg_1 (Symbols)]]
@@ -306,7 +299,7 @@ Needs help with personal quest
 - Affected by [[LORE00293_History_Entry_294]]
 - Related: [[step_049 (phase_010)]]
 - Requires [[Prophetic Visions]]
-- Compare with [[step_078]]
+- Compare with
 - Leads to [[mordenkainens-magnificent-mansion-xphb (spells)]]
 - Originates from [[FAC00055_Cults_56]]
 - Requires [[Cultural Ministry]]
@@ -318,7 +311,7 @@ Needs help with personal quest
 - Leads to [[Figurine of Wondrous Power Xdmg]]
 - Affected by [[[[Fresh Cleanwave]] 2]]
 - Requires [[step_042 (phase_057)]]
-- See also: [[step_006]]
+- See also:
 - Affected by [[NPC00843_Vesper_Thornweave_the_Redeemed]]
 - Affected by [[ENC00428_Combat_Encounter_429]]
 - Leads to [[The Memory Meadows]]

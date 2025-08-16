@@ -9,7 +9,6 @@ aliases: [NPC00453 Idris Grimholt]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00453 Idris Grimholt]
 - [[#Cedric Nightfall the Swift (Professional - Rival)|Cedric Nightfall the Swift (Professional - Rival)]]
 - [[#Pyria Crystalbrook (Criminal - Accomplice)|Pyria Crystalbrook (Criminal - Accomplice)]]
 - [[#Corvus Grimholt (Political - Puppet)|Corvus Grimholt (Political - Puppet)]]
-
 
 ---
 created: 2025-08-15
@@ -144,16 +142,13 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.165Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -203,11 +198,10 @@ Modifications:
 - [[11 Rules Glossary]]
 - [[Emergency_Evacuation_Map_Stormglass_Riot]]
 - [[MOC_NPCs]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -217,11 +211,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -236,7 +229,7 @@ Modifications:
 - Connects to [[portrait-npc-shadow-embassy-shadow-embassy.svg]]
 - Related: [[Lord Commander Gareth (D&D_References)]]
 - Related: [[Location City [[Forge Master Petra Hammerdeep]] V1 Forge Master Petra Hammerdeep.svg]]
-- Requires [[step_083]]
+- Requires
 - Related: [[Unknown Contact]]
 - Related: [[QUEST00294_Personal_Quest_295]]
 - Affected by [[Shoosuva Mpmm]]
@@ -257,7 +250,7 @@ Modifications:
 - Compare with [[Silence-Keeper Mute]]
 - Affected by [[Portrait NPC Foreign Trader Captain Hassan Al Rimal Foreign Trader Captain Hassan Al Rimal.svg]]
 - Related: [[Scene Scene Pressure Dome Festival Night V1 Pressure Dome Festival Night.svg]]
-- See also: [[step_083]]
+- See also:
 - Affected by [[04_Resources_Assets_Symbols_symbol-heraldry-minister-truth-darknes-minister-truth-darknes.svg]]
 - Connects to [[SPELL00161_Divine_Spell_162]]
 - Leads to [[ITEM01358_Simple_Rope_of_Reliability]]
@@ -283,7 +276,7 @@ Modifications:
 - Compare with [[LOC00271_Dungeons_Location_272]]
 - Related: [[Assets Locations [[Location City [[The Stillwater Method]] V1 the Stillwater Method.svg]]]]
 - Parallels [[LORE00134_Prophecies_Entry_135]]
-- Connects to [[step_096]]
+- Connects to
 - Originates from [[Deep Oracle (D&D_References)]]
 - Leads to [[Assets Locations [[Location City Truth Seeker Cornelius V1 Truth Seeker Cornelius.svg]]]]
 - Connects to [[[[Memory Parasite Infection]] (D&D_References)]]
@@ -293,13 +286,13 @@ Modifications:
 - See also: [[Assets Item Artifact Weird Tank Pota V5 Weird Tank Pota.png]]
 - Compare with [[sea-hag-xmm]]
 - See also: [[step_063 (phase_076)]]
-- Related: [[step_088]]
+- Related:
 - Leads to [[step_066 (phase_092)]]
 - Affected by [[Location City [[Entertainment Industry]] V1 Entertainment Industry.svg]]
 - Compare with [[QUEST00275_Side_Quest_276]]
 - See also: [[LOC00093_Towns_Location_94]]
 - Compare with [[step_014 (phase_031)]]
-- Originates from [[step_071]]
+- Originates from
 - Related: [[Spirit Naga Xmm]]
 - Related: [[Dock Boss Marina Irongrip]]
 - Related: [[step_086 (phase_005)]]
@@ -311,13 +304,13 @@ Modifications:
 - Requires [[Find the Grief Bomb (D&D_Statblocks)]]
 - Influences [[Spell Sniper Xphb]]
 - Requires [[Blackwater Estate (D&D_References)]]
-- Requires [[step_081]]
+- Requires
 - Originates from [[[[Warrior Scarredheart]] 2]]
 - Related: [[step_095 (phase_046)]]
 - Leads to [[step_001 (phase_100)]]
 - Influences [[QUEST00392_Side_Quest_393]]
 - Requires [[step_075 (phase_092)]]
-- Compare with [[step_003]]
+- Compare with
 - Connects to [[MON00111_Undead_Creature_112]]
 - Leads to [[Brother Ossian]]
 - Influences [[Relationship_Web]]

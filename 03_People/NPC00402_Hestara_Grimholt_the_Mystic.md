@@ -18,7 +18,6 @@ aliases: [NPC00402 Hestara Grimholt the Mystic]
 - [[#Felicia Goldleaf the Redeemed (Political - Puppet)|Felicia Goldleaf the Redeemed (Political - Puppet)]]
 - [[#Pyria Jadeclaw (Personal - Love interest)|Pyria Jadeclaw (Personal - Love interest)]]
 
-
 ---
 aliases: ["Hestara Grimholt the Mystic", "hestara grimholt the mystic", "Hestara Grimholt Mystic", "Mystic the Grimholt Hestara"]
 tags: [npc, character]
@@ -140,21 +139,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.158Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -167,14 +162,14 @@ Being extorted by criminals
 - Related: [[LORE00041_Legends_Entry_42]]
 - Compare with [[The Kelp Highways 2]]
 - Influences [[step_070 (phase_086)]]
-- Influences [[step_003]]
+- Influences
 - Connects to [[Location City the Harbormaster S Office V1 the Harbormaster S Office.svg]]
-- Requires [[step_043]]
+- Requires
 - Related: [[Cross-Realm Navigation Cooperation 2]]
 - Parallels [[step_051 (phase_008)]]
 - Influences [[Assets Locations Location City Void Prophet Nullus the Erased Void Prophet Nullus the Erased.svg]]
-- See also: [[step_026]]
-- Influences [[step_032]]
+- See also:
+- Influences
 - Affected by [[step_076 (phase_033)]]
 - Leads to [[step_003 (phase_026)]]
 - Compare with [[The Memory Wars 2]]
@@ -183,7 +178,7 @@ Being extorted by criminals
 - Compare with [[step_030 (phase_027)]]
 - Originates from [[NPC00334_Thalia_Moonshadow_the_Redeemed]]
 - Requires [[NPC01625_Qadim_Lightbringer_the_Swift]]
-- Influences [[step_061]]
+- Influences
 - Related: [[Laser Pistol Xdmg]]
 - Compare with [[The Crimson Sage]]
 - Connects to [[Portrait NPC Quest the Cure for Madness V2 Quest the Cure for Madness.svg]]
@@ -206,7 +201,7 @@ Being extorted by criminals
 - Leads to [[visibility-underwater-underwater-encounter-distance-xdmg]]
 - Connects to [[Vampiric Mist Mpmm]]
 - Parallels [[MON00079_Constructs_Creature_80]]
-- Compare with [[step_021]]
+- Compare with
 - Related: [[Jungle of Screams]]
 - Parallels [[Vex Shadowthorn the Kingpin]]
 - See also: [[Royal Palace of Meridian 2]]
@@ -218,7 +213,7 @@ Being extorted by criminals
 - Affected by [[step_007 (phase_066)]]
 - Parallels [[step_072 (phase_005)]]
 - Connects to [[The Gilded Serpent]]
-- Parallels [[step_070]]
+- Parallels
 - Influences [[The Zone Consciousness Awakening]]
 - Related: [[dungeon-dressing-mage-furnishings (tables)]]
 - Connects to [[Quest - The Prophecy Fulfilled_1 (01_Adventures)]]
@@ -228,26 +223,26 @@ Being extorted by criminals
 - See also: [[step_063 (phase_069)]]
 - Leads to [[Gray Ooze Xmm]]
 - Compare with [[House of Lords - Secret Chamber (D&D_References)]]
-- Leads to [[step_061]]
+- Leads to
 - Affected by [[Location City the Plague Ward V1 the Plague Ward.svg]]
 - See also: [[step_033 (phase_068)]]
 - Leads to [[The Crown Authority]]
 - Parallels [[ITEM00019_Thunder_Staff_of_the_Ancients]]
 - Connects to [[Lifedrinker Xphb]]
 - See also: [[NPC01803_Qadim_Brightblade_the_Broken]]
-- Compare with [[step_013]]
+- Compare with
 - Originates from [[NPC00337_Aeliana_Dawnstrider]]
 - Leads to [[Assets Locations Location City the Deep Patrol V1 the Deep Patrol.svg]]
 - Requires [[ITEM00159_Shadow_Axe_of_Slaying]]
 - Related: [[step_081 (phase_014)]]
-- Influences [[step_064]]
+- Influences
 - Compare with [[Assets Locations Location City Divine Communication Studies Divine Communication Studies.svg]]
 - Compare with [[ENC00223_Social_Encounter_224]]
 - Originates from [[Identity Trader Masquerad]]
 - Parallels [[NPC00383_Elric_Jadeclaw_the_Seeker]]
 - Influences [[step_084 (phase_095)]]
 - Leads to [[step_056 (phase_036)]]
-- Related: [[step_080]]
+- Related:
 - Parallels [[step_099 (phase_019)]]
 - Originates from [[Depth Warden]]
 - Connects to [[Locations the Synthesis Wastes]]
@@ -256,14 +251,13 @@ Being extorted by criminals
 - Requires [[step_081 (phase_087)]]
 - Compare with [[Assets Locations Location City Envoy Blackwater Jr V1 Envoy Blackwater Jr.svg]]
 - Parallels [[step_031 (phase_056)]]
-- Connects to [[step_022]]
+- Connects to
 - Affected by [[Random Settlements Current Calamity]]
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00922 Wynne Youngblood the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00922 Wynne Youngblood the Fallen]
 - [[#Thalia Underhill the Seeker (Criminal - Accomplice)|Thalia Underhill the Seeker (Criminal - Accomplice)]]
 - [[#Delara Quicksilver the Guardian (Criminal - Handler)|Delara Quicksilver the Guardian (Criminal - Handler)]]
 - [[#Drusilla Underhill the Wise (Family - Cousin)|Drusilla Underhill the Wise (Family - Cousin)]]
-
 
 ---
 created: 2025-08-15
@@ -145,16 +143,13 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.218Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -213,11 +208,10 @@ Has map to lost treasure
 - [[Combat_Encounter_Analysis]]
 - [[NPC01312_Alaric_Darkwater_the_Fallen]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -228,11 +222,10 @@ Has map to lost treasure
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -252,7 +245,7 @@ Has map to lost treasure
 - See also: [[The Great Tidal Amphitheater (D&D_References)]]
 - Connects to [[Hadal-Resistant Equipment]]
 - Leads to [[Azure Citadel]]
-- Connects to [[step_011]]
+- Connects to
 - Leads to [[step_020 (phase_097)]]
 - See also: [[vehicles (vehicles)]]
 - Leads to [[Portrait NPC Captain Guard Peacehold V1 Captain Guard Peacehold.svg]]
@@ -291,7 +284,7 @@ Has map to lost treasure
 - Leads to [[Sister Thalassa the Depth-Touched]]
 - Related: [[Location City [[Harbormaster [[Tidal Stormcrest]]]] V1 Harbormaster Tidal Stormcrest.svg]]
 - Originates from [[Weapons Trader Gareth Steelmerchant]]
-- Parallels [[step_064]]
+- Parallels
 - Connects to [[Beta Leader Torres Coastalambush]]
 - Affected by [[Frequency Weapons 2]]
 - Related: [[dwarven-dugmaren-brightmantle-mtf (deities)]]
@@ -303,7 +296,7 @@ Has map to lost treasure
 - Connects to [[ITEM00358_Radiant_Spear_of_Speed]]
 - Compare with [[QUEST00021_Main_Quest_22]]
 - Originates from [[FRONTMATTER_FIX_COMPLETE]]
-- Leads to [[step_049]]
+- Leads to
 - Leads to [[kuo-toa-monitor-xmm (aberration)]]
 - Related: [[step_042 (phase_067)]]
 - Compare with [[Silvery Barbs Scc]]
@@ -329,7 +322,7 @@ Has map to lost treasure
 - Affected by [[Location City [[Merchant Quarter]] V1 Merchant Quarter.svg]]
 - Affected by [[Archshadow Morrigan Voidheart]]
 - Parallels [[NPC01026_Xander_Ironforge_the_Lost]]
-- Originates from [[step_053]]
+- Originates from
 - Influences [[step_034 (phase_058)]]
 - Related: [[step_010 (phase_094)]]
 - Related: [[step_009 (phase_015)]]

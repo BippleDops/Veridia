@@ -9,7 +9,6 @@ aliases: [The Nameless Auditor]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_the_nameless_auditor.png]]
 
-
 ## Table of Contents
 - [[#Stats|Stats]]
 - [[#Relationships|Relationships]]
@@ -21,7 +20,6 @@ aliases: [The Nameless Auditor]
 - [[#Lifestyle Improvements|Lifestyle Improvements]]
 - [[#Death_Customs Improvements|Death_Customs Improvements]]
 - [[#Material_Culture Improvements|Material_Culture Improvements]]
-
 
 ---
 
@@ -78,7 +76,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -159,19 +157,19 @@ The Nameless Auditor serves as the "Scale of Information" on the [[Silverscale C
 ## D&D 5E Stats
 *Medium humanoid (human?), neutral evil*
 
-**Armor Class** 17 (Natural Armor from collected identities)  
-**Hit Points** 165 (22d8 + 66)  
+**Armor Class** 17 (Natural Armor from collected identities)
+**Hit Points** 165 (22d8 + 66)
 **Speed** 30 ft., climb 30 ft. (spider climb at will)
 
 **STR** 12 (+1) **DEX** 18 (+4) **CON** 16 (+3) **INT** 22 (+6) **WIS** 20 (+5) **CHA** 19 (+4)
 
-**Saving Throws** Int +12, Wis +11, Cha +10  
-**Skills** Deception +16, Insight +17, Investigation +18, Perception +17, Persuasion +10, Sleight of Hand +10, Stealth +16  
-**Damage Resistances** Psychic  
-**Damage Immunities** Charmed, Frightened  
-**Senses** Truesight 120 ft., passive Perception 27  
-**Languages** All languages, telepathy 120 ft.  
-**Challenge Rating** 15 (13,000 XP)  
+**Saving Throws** Int +12, Wis +11, Cha +10
+**Skills** Deception +16, Insight +17, Investigation +18, Perception +17, Persuasion +10, Sleight of Hand +10, Stealth +16
+**Damage Resistances** Psychic
+**Damage Immunities** Charmed, Frightened
+**Senses** Truesight 120 ft., passive Perception 27
+**Languages** All languages, telepathy 120 ft.
+**Challenge Rating** 15 (13,000 XP)
 **Proficiency Bonus** +5
 
 ### Special Abilities
@@ -432,11 +430,10 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - [[Assets Locations Location City Choir Master Celestine Hymnsinger Choir Master Celestine Hymnsinger.svg]]
 - [[Silverscale Consortium (D&D_References)]]
 
-
 ## Connections
 
 - Influences [[ENC00025_Social_Encounter_26]]
-- Parallels [[step_025]]
+- Parallels
 - Influences [[Festival Grounds - Underground]]
 - Influences [[NPC00356_Ewan_Grimholt_the_Redeemed]]
 - See also: [[step_033 (phase_006)]]
@@ -460,12 +457,12 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - Related: [[Item Catalo]]
 - Related: [[NPC01544_Caelum_Blackstone_the_Swift]]
 - Influences [[ITEM01229_Lesser_Incense_of_Healing]]
-- Compare with [[step_023]]
+- Compare with
 - Originates from [[Assets Locations Location City Whisper Touched William Whisper Touched William.svg]]
 - Requires [[step_048 (phase_082)]]
 - Influences [[Post-Revolutionary Society Vision]]
 - Influences [[ITEM00585_Ethereal_Helm_of_Grace]]
-- Related: [[step_039]]
+- Related:
 - Requires [[Bag of Tricks Rust Xdmg]]
 - Affected by [[Alchemy Jug Xdmg]]
 - Parallels [[step_091 (phase_065)]]
@@ -485,9 +482,9 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - Affected by [[Lorehold Student Scc]]
 - Leads to [[step_057 (phase_025)]]
 - Connects to [[Sister Astara the Ever-Watching]]
-- Affected by [[step_032]]
+- Affected by
 - Connects to [[cave-fisher-mpmm (monstrosity)]]
-- Parallels [[step_055]]
+- Parallels
 - Connects to [[step_015 (phase_034)]]
 - Parallels [[Captain Dimensional (D&D_References)]]
 - Related: [[Master of the Gallery Cornelius Publicvoice]]
@@ -500,7 +497,7 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - Requires [[LORE00057_Legends_Entry_58]]
 - Compare with [[06-adventure-environments (dungeon-masters-guide-2014)]]
 - Affected by [[Orphan_Notes]]
-- See also: [[step_024]]
+- See also:
 - Originates from [[mess-kit (items)]]
 - Parallels [[Bullywug Bog Sage Xmm]]
 - Parallels [[LOC00179_Towns_Location_180]]
@@ -508,7 +505,7 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - Related: [[egyptian-bast (deities)]]
 - Parallels [[step_025 (phase_009)]]
 - Requires [[step_057 (phase_052)]]
-- Originates from [[step_001]]
+- Originates from
 - Related: [[Violet Fungus Necrohulk Xmm]]
 - Leads to [[regenerating-black-pudding-oota (ooze)]]
 - Leads to [[Depth Raiders]]
@@ -519,19 +516,19 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - Compare with [[Undead Enclaves 2]]
 - See also: [[The Cultural Heritage Society (Groups)]]
 - Compare with [[Random Yuan Ti Servants Yuan Ti Protectors]]
-- Influences [[step_051]]
+- Influences
 - See also: [[Ship Wright Shadowhull]]
 - Influences [[Size Xphb]]
 - Affected by [[Coral Courts (D&D_References)]]
-- Leads to [[step_068]]
+- Leads to
 - See also: [[ENC00139_Combat_Encounter_140]]
-- Influences [[step_033]]
+- Influences
 - Requires [[Cultural Liaison Twilight Bridgewalker]]
 - Leads to [[Halfling Tables Halfling Personality Traits]]
 - Compare with [[Generate NPC]]
 - Related: [[LORE00204_Prophecies_Entry_205]]
-- Compare with [[step_039]]
+- Compare with
 - Parallels [[The Tide Speakers]]
-- See also: [[step_065]]
+- See also:
 - Originates from [[ITEM00078_Thunder_Sword_of_Accuracy]]
 - Parallels [[Assets Locations Location City Tymora V1 Tymora.svg]]

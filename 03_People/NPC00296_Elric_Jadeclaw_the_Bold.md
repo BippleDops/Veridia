@@ -18,7 +18,6 @@ aliases: [NPC00296 Elric Jadeclaw the Bold]
 - [[#Felicia Frostwhisper (Criminal - Fence)|Felicia Frostwhisper (Criminal - Fence)]]
 - [[#Gareth Nightfall (Criminal - Fence)|Gareth Nightfall (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Elric Jadeclaw the Bold", "elric jadeclaw the bold", "Elric Jadeclaw Bold", "Bold the Jadeclaw Elrictags: [npc, character, combat, magic, social, lore]er]
@@ -152,16 +151,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.145Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -179,11 +175,10 @@ Modifications:
 - [[NPC01951_Gavril_Xendar_the_Swift]]
 - [[NPC01283_Corvus_Hawthorne_the_Fallen]]
 - [[10 Combat]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -191,17 +186,16 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Affected by [[Prismatic Wall Xphb]]
 - Parallels [[step_038 (phase_097)]]
-- Originates from [[step_041]]
+- Originates from
 - Related: [[Dark Market Traders]]
 - Influences [[step_008 (phase_008)]]
 - Leads to [[Portrait NPC the Throne Pretenders the Throne Pretenders.svg_1 (Portraits)]]
@@ -218,10 +212,10 @@ Modifications:
 - Related: [[Location City [[Archaeological Discoveries]] Archaeological Discoveries.svg]]
 - Connects to [[Survival Codex]]
 - Affected by [[NPC00996_Ewan_Ashford_the_Mystic]]
-- Affected by [[step_048]]
+- Affected by
 - Originates from [[the-norse-pantheon-norse-deities-phb (tables)]]
 - Leads to [[step_027 (phase_054)]]
-- See also: [[step_098]]
+- See also:
 - Connects to [[[[Sea Witch]] 2]]
 - Requires [[Scholar Wisdom Clearwater (D&D_References)]]
 - Compare with [[Observatory Codex]]
@@ -275,11 +269,11 @@ Modifications:
 - Parallels [[ITEM00421_Fortified_Chain_Mail_of_Protection]]
 - Parallels [[NPC00966_Thalia_Dawnstrider_the_Guardian]]
 - See also: [[The Prime Reflection]]
-- Leads to [[step_045]]
+- Leads to
 - Influences [[Religious Leader Father Ocean Breeze 2]]
 - Requires [[[[House Mercurial]] (D&D_References)]]
 - Originates from [[Intervention Windows 2]]
-- Parallels [[step_088]]
+- Parallels
 - Related: [[NPC00759_Malakai_Ironforge_the_Redeemed]]
 - Influences [[step_027 (phase_095)]]
 - Compare with [[step_074 (phase_030)]]
@@ -291,9 +285,9 @@ Modifications:
 - Originates from [[Location City [[Skyship Technology]] V1 Skyship Technology.svg]]
 - Influences [[Template-Planet]]
 - Connects to [[Assets Locations [[Location City Reflection Pools Surgical Theater V1 Reflection Pools Surgical Theater.svg]]]]
-- Requires [[step_089]]
+- Requires
 - Parallels [[Vehicle Ship Abyssal Scout Submarine V2 Abyssal Scout Submarine.png]]
-- Compare with [[step_055]]
+- Compare with
 - Influences [[Portrait NPC Sire... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Connects to [[MUSIC_[[INDEX]]]]
 - Leads to [[step_040 (phase_084)]]
@@ -304,7 +298,6 @@ Modifications:
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

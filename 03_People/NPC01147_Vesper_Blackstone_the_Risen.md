@@ -9,7 +9,6 @@ aliases: [NPC01147 Vesper Blackstone the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01147 Vesper Blackstone the Risen]
 - [[#Urien Goldleaf the Scholar (Personal - Best friend)|Urien Goldleaf the Scholar (Personal - Best friend)]]
 - [[#Pyria Proudmore the Wise (Family - Cousin)|Pyria Proudmore the Wise (Family - Cousin)]]
 - [[#Hestara Underhill the Broken (Criminal - Accomplice)|Hestara Underhill the Broken (Criminal - Accomplice)]]
-
 
 ---
 aliases: ["Vesper Blackstone the Risen", "vesper blackstone the risen", "Vesper Blackstone Risen", "Risen the Blackstone Vesper"]
@@ -151,21 +149,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.242Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,13 +169,13 @@ Competitor sabotaging business
 - Related: [[Assets Locations Location City Captain Echo Captain Echo.svg]]
 - Compare with [[step_036 (phase_074)]]
 - See also: [[Quest - The Corporate Coup]]
-- Influences [[step_097]]
+- Influences
 - Parallels [[Mounts and Vehicles Tack Harness and Drawn Vehicles Phb]]
 - Related: [[Emergency Protocols 2 (Places)]]
 - Leads to [[creature-creature-bat-xmm-v3-bat-xmm.png]]
 - Compare with [[downtime-activity-practicing-a-profession-phb (variant-rules)]]
 - Leads to [[EVENT00076_Magical_Event_77]]
-- Influences [[step_007]]
+- Influences
 - Influences [[The Memory Nexus (D&D_References)]]
 - Related: [[Emergency Life Support Research Foundation 2]]
 - Requires [[DUN00007_Dungeon_8]]
@@ -199,11 +193,11 @@ Competitor sabotaging business
 - Related: [[LOC00002_Wilderness_Location_3]]
 - Influences [[step_087 (phase_021)]]
 - Related: [[SHOP00024_Magical_Shop_25]]
-- Requires [[step_077]]
+- Requires
 - Leads to [[step_026 (phase_090)]]
-- Requires [[step_074]]
+- Requires
 - Compare with [[step_034 (phase_050)]]
-- See also: [[step_091]]
+- See also:
 - Requires [[NPC00801_Malakai_Youngblood_the_Risen]]
 - Related: [[step_015 (phase_087)]]
 - Compare with [[step_065 (phase_007)]]
@@ -225,11 +219,11 @@ Competitor sabotaging business
 - Originates from [[step_083 (phase_039)]]
 - Originates from [[Cross_Realm_Adaptation]]
 - Requires [[QUEST00094_Main_Quest_95]]
-- Influences [[step_090]]
+- Influences
 - Affected by [[blood-hawk-xmm (beast)]]
 - Parallels [[Marcus Ledgerbor]]
-- Connects to [[step_044]]
-- Compare with [[step_071]]
+- Connects to
+- Compare with
 - Parallels [[step_034 (phase_074)]]
 - Compare with [[ITEM01212_Pure_Herb_of_Clarity]]
 - Originates from [[Shadow Society Hierarchy]]
@@ -243,7 +237,7 @@ Competitor sabotaging business
 - Originates from [[Bomber Bobby Naturals (D&D_References)]]
 - Parallels [[QUEST0054_Wizard's_Request]]
 - Parallels [[apparatus-of-kwalish-xdmg (items)]]
-- Compare with [[step_051]]
+- Compare with
 - Compare with [[Corallion]]
 - Leads to [[step_089 (phase_092)]]
 - Affected by [[Cloaker Xmm]]
@@ -256,7 +250,7 @@ Competitor sabotaging business
 - Affected by [[step_013 (phase_085)]]
 - Originates from [[Planar Binding Xphb]]
 - Originates from [[Session 5 Conspiracy Revealed]]
-- Connects to [[step_006]]
+- Connects to
 - Related: [[step_083 (phase_007)]]
 - Connects to [[Assets Locations Location City Crystal Storm Barriers Crystal Storm Barriers.svg]]
 - Parallels [[step_066 (phase_063)]]

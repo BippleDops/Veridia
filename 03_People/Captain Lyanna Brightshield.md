@@ -9,7 +9,6 @@ aliases: [Captain Lyanna Brightshield]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_captain_lyanna_brightshield_friendly.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Description|Description]]
@@ -21,7 +20,6 @@ aliases: [Captain Lyanna Brightshield]
 - [[#Actions|Actions]]
 - [[#Relationships|Relationships]]
 - [[#Plot Hooks|Plot Hooks]]
-
 
 ---
 tags: [npc, character]
@@ -86,7 +84,6 @@ Captain Lyanna Brightshield is a character encountered in the campaign world.
 - [[02_Worldbuilding/Locations/Town_Square]]
 - [[00_Indexes/MOCs/NPCs_MOC]]
 
-
 ## Connections
 
 - Parallels [[Portrait NPC the Pressure King the Pressure King.svg]]
@@ -104,7 +101,7 @@ Captain Lyanna Brightshield is a character encountered in the campaign world.
 - Affected by [[githyanki-dracomancer-xmm (aberration)]]
 - Requires [[Assets Handouts Handout Handout Cult Text with Marginalia V2 Cult Text with Marginalia.png]]
 - Affected by [[step_073 (phase_084)]]
-- Affected by [[step_033]]
+- Affected by
 - Affected by [[Dimensional Fabric 2]]
 - Leads to [[Chancellor's Advisory Council (D&D_References)]]
 - See also: [[step_020 (phase_100)]]
@@ -121,14 +118,14 @@ Captain Lyanna Brightshield is a character encountered in the campaign world.
 - Requires [[mastiff-xphb (items)]]
 - Connects to [[Assets Locations Location City Noble District Noble District.png]]
 - Parallels [[Inter-Realm Diplomacy (D&D_References)]]
-- Leads to [[step_094]]
+- Leads to
 - See also: [[Assets Locations Location City Temple of the Eternal Flame V1 Temple of the Eternal Flame.svg]]
 - See also: [[ITEM00314_Shadow_Dagger_of_Power]]
 - Originates from [[giant-boar-xmm]]
 - Requires [[Trade Captain Current (D&D_References)]]
-- Related: [[step_080]]
+- Related:
 - Parallels [[Garden of Shadows]]
-- Influences [[step_098]]
+- Influences
 - Related: [[Assets Locations Location City Keeper Brinescale V1 Keeper Brinescale.svg]]
 - Originates from [[step_050 (phase_013)]]
 - Parallels [[LOC00230_Planes_Location_231]]
@@ -153,8 +150,8 @@ Captain Lyanna Brightshield is a character encountered in the campaign world.
 - Influences [[The Silence Library]]
 - Requires [[Assets Locations Location City Religious V1 Religious Groups.svg]]
 - Compare with [[step_046 (phase_020)]]
-- Related: [[step_020]]
-- Affected by [[step_024]]
+- Related:
+- Affected by
 - Connects to [[Mangonel Xdmg]]
 - Parallels [[list-spells-classes-cleric (lists)]]
 - Affected by [[Generate_Location]]
@@ -186,6 +183,6 @@ Captain Lyanna Brightshield is a character encountered in the campaign world.
 - Parallels [[LORE00300_History_Entry_301]]
 - Leads to [[step_026 (phase_050)]]
 - Influences [[step_010 (phase_047)]]
-- Parallels [[step_046]]
+- Parallels
 - Compare with [[Silverbrook City]]
 - See also: [[step_024 (phase_085)]]

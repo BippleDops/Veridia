@@ -18,7 +18,6 @@ aliases: [NPC00923 Wynne Winterborn the Bold]
 - [[#Caelum Ironwood the Cunning (Political - Spy)|Caelum Ironwood the Cunning (Political - Spy)]]
 - [[#Corvus Silverleaf the Bold (Criminal - Informant)|Corvus Silverleaf the Bold (Criminal - Informant)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Wynne Winterborn the Bold", "wynne winterborn the bold", "Wynne Winterborn Bold", "Bold the Winterborn Wynne"]
@@ -154,27 +153,23 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.219Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -183,15 +178,14 @@ Competitor sabotaging business
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- See also: [[step_006]]
+- See also:
 - Leads to [[Singing Coral (D&D_References)]]
 - Influences [[LOC00248_Towns_Location_249]]
 - Related: [[Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master Depth Guide Melancholy.svg]]
@@ -201,7 +195,7 @@ Competitor sabotaging business
 - Connects to [[step_018 (phase_024)]]
 - Affected by [[Location City Safety Coordinator Reef Safeguard V1 Safety Coordinator Reef Safeguard.svg]]
 - Compare with [[step_008 (phase_041)]]
-- Compare with [[step_018]]
+- Compare with
 - Influences [[Location City the Lighthouse Keeper S Ghost the Lighthouse Keeper S Ghost.png]]
 - Originates from [[Voluntary Taxation 2]]
 - Originates from [[QUEST00308_Side_Quest_309]]
@@ -210,10 +204,10 @@ Competitor sabotaging business
 - Affected by [[step_014 (phase_064)]]
 - Connects to [[University of Current Studies]]
 - Requires [[ENC00286_Social_Encounter_287]]
-- See also: [[step_052]]
+- See also:
 - See also: [[ENC00461_Combat_Encounter_462]]
 - Influences [[Summon Elemental Xphb]]
-- Related: [[step_011]]
+- Related:
 - Influences [[Master Cultivator Luminos Deepglow]]
 - Related: [[yeti-xmm (monstrosity)]]
 - Influences [[LORE00133_History_Entry_134]]
@@ -247,7 +241,7 @@ Competitor sabotaging business
 - See also: [[NPC00287_Ysara_Underhill_the_Wise]]
 - Related: [[step_059 (phase_072)]]
 - Requires [[step_054 (phase_031)]]
-- Related: [[step_035]]
+- Related:
 - Originates from [[bestial-spirit-air-xphb (beast)]]
 - Leads to [[Thunderclap Xphb]]
 - Influences [[Green Dragon Scale Mail Xdmg]]
@@ -296,7 +290,6 @@ Competitor sabotaging business
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

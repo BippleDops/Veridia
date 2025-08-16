@@ -3768,7 +3768,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[skywrite-xge (spells)]]
 - [[sleet-storm-xphb (spells)]]
 - [[speak-with-dead-xphb (spells)]]
-- [[spells]]
+- [[05_Rules/Spells]]
 - [[starry-wisp-xphb (spells)]]
 - [[stoneskin-xphb (spells)]]
 - [[summon-celestial-xphb (spells)]]

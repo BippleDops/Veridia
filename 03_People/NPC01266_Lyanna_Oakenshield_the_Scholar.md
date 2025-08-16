@@ -18,7 +18,6 @@ aliases: [NPC01266 Lyanna Oakenshield the Scholar]
 - [[#Orion Lightbringer the Scholar (Professional - Mentor)|Orion Lightbringer the Scholar (Professional - Mentor)]]
 - [[#Hestara Goldleaf the Redeemed (Criminal - Fence)|Hestara Goldleaf the Redeemed (Criminal - Fence)]]
 
-
 ---
 aliases: ["Lyanna Oakenshield the Scholar", "lyanna oakenshield the scholar", "Lyanna Oakenshield Scholar", "Scholar the Oakenshield Lyanna"]
 tags: [npc, character]
@@ -143,21 +142,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.254Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -166,7 +161,7 @@ Forming expedition to dangerous location
 - Affected by [[Location City Temple Districts Temple Districts.svg]]
 - Related: [[step_003 (phase_027)]]
 - See also: [[LOC0003_WestHaven]]
-- Originates from [[step_082]]
+- Originates from
 - Originates from [[NPC00765_Pyria_Winterborn_the_Wanderer]]
 - Influences [[Surface Trade Ports]]
 - Originates from [[The Divine Revelation (D&D_References)]]
@@ -179,11 +174,11 @@ Forming expedition to dangerous location
 - Requires [[blessing-of-understanding-xdmg (rewards)]]
 - Compare with [[ENC0031_Random_Encounter_32]]
 - Affected by [[Relationship_Web]]
-- See also: [[step_054]]
+- See also:
 - Affected by [[Location City Undead Rights Organization Hq V1 Undead Rights Organization Hq.svg]]
 - Leads to [[LOC00212_Dungeons_Location_213]]
 - Originates from [[LOC00025_Wilderness_Location_26]]
-- Influences [[step_041]]
+- Influences
 - Connects to [[step_095 (phase_017)]]
 - Requires [[FAC00024_Orders_25]]
 - Originates from [[Duke Lysander Crystalvein (D&D_References)]]
@@ -217,18 +212,18 @@ Forming expedition to dangerous location
 - Influences [[step_013 (phase_004)]]
 - Affected by [[step_021 (phase_040)]]
 - See also: [[Silverscale_Banking_House.png]]
-- Parallels [[step_081]]
+- Parallels
 - Influences [[LORE00120_Prophecies_Entry_121]]
 - Connects to [[step_058 (phase_046)]]
 - Requires [[Assets Locations Location City Sacred Historian Coral Deepscribe V1 Sacred Historian Coral Deepscribe.svg]]
-- Requires [[step_025]]
+- Requires
 - Parallels [[step_018 (phase_057)]]
 - See also: [[Archbiomancer Thessarian the Unbound]]
 - Compare with [[Work Complications Xge]]
 - Parallels [[Lord Commander Steelborn (D&D_References)]]
 - Connects to [[step_078 (phase_029)]]
 - Leads to [[Location City Surface Portal Alpha V1 Surface Portal Alpha.svg]]
-- Originates from [[step_059]]
+- Originates from
 - Compare with [[step_023 (phase_091)]]
 - Related: [[step_043 (phase_098)]]
 - Originates from [[step_067 (phase_054)]]
@@ -266,7 +261,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

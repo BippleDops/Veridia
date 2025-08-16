@@ -18,7 +18,6 @@ aliases: [NPC01931 Thalia Lightbringer the Fallen]
 - [[#Aeliana Stormwind the Broken (Family - Cousin)|Aeliana Stormwind the Broken (Family - Cousin)]]
 - [[#Baelor Ravenheart the Wanderer (Political - Opposition)|Baelor Ravenheart the Wanderer (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Lightbringer the Fallen", "thalia lightbringer the fallen", "Thalia Lightbringer Fallen", "Fallen the Lightbringer Thaliatags: [npc, character, combat, lore]er]
@@ -155,16 +154,13 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.325Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -222,9 +218,7 @@ Modifications:
 - [[NPC00670_Xander_Goldleaf_the_Scholar]]
 - [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
 - [[NPC01040_Zephyr_Lightbringer_the_Strong]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -243,7 +237,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.68
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -252,16 +246,15 @@ Following magic item guidelines (WWT p.135-136):
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Related: [[step_080 (phase_074)]]
-- Influences [[step_028]]
+- Influences
 - Affected by [[ENC00196_Social_Encounter_197]]
 - Connects to [[poisoned-darts-xdmg (traps-hazards)]]
 - Connects to [[portrait-npc-the-wake-the-wake.svg]]
@@ -279,7 +272,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[step_059 (phase_049)]]
 - Originates from [[Enemy Xphb]]
 - Leads to [[step_018 (phase_011)]]
-- Compare with [[step_034]]
+- Compare with
 - Connects to [[NPC01273_Alaric_Ironwood_the_Guardian]]
 - Leads to [[step_029 (phase_023)]]
 - Connects to [[Chief Temporal Engineer Paradox [[Time]]weaver (D&D_References)]]
@@ -290,7 +283,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[step_013 (phase_040)]]
 - Leads to [[step_094 (phase_093)]]
 - Affected by [[#Membership]]
-- Affected by [[step_100]]
+- Affected by
 - Parallels [[The Bloom Fields (Lore)]]
 - Originates from [[SPELL00076_Divine_Spell_77]]
 - Affected by [[Spellcasting Multiclass Spellcaster Spell Slots Per Spell Level Phb]]
@@ -310,7 +303,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[step_045 (phase_079)]]
 - Originates from [[Portrait NPC Deep Mother Cultist Profiles V1 Deep Mother Cultist Profiles.svg_1 (Portraits)]]
 - Affected by [[LORE00306_Prophecies_Entry_307]]
-- Parallels [[step_060]]
+- Parallels
 - Requires [[hag-vgm (legendary-group)]]
 - Parallels [[ITEM00617_Ethereal_Shield_of_Resistance]]
 - Leads to [[[[Pressure Palace]] (D&D_References)]]
@@ -337,8 +330,8 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Portrait NPC the Nameless Auditor V1 the Nameless Auditor.svg]]
 - Originates from [[Void Whirlpools]]
 - Parallels [[armor-of-invulnerability-xdmg (items)]]
-- Leads to [[step_012]]
-- Parallels [[step_099]]
+- Leads to
+- Parallels
 - See also: [[Assets Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.png]]
 - Influences [[illithilich-vgm (undead)]]
 - See also: [[Chancellor Marcus Provinces]]
@@ -357,7 +350,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[[[Security Quarters]] (D&D_References)]]
 - Affected by [[ITEM01020_Lesser_Powder_of_Fortune]]
 - Leads to [[step_090 (phase_075)]]
-- Related: [[step_009]]
+- Related:
 - Compare with [[Arcane Assembly 2]]
 - Connects to [[The Masked Broker]]
 
@@ -365,7 +358,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

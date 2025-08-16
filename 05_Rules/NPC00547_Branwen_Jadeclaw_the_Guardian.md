@@ -18,7 +18,6 @@ aliases: [NPC00547 Branwen Jadeclaw the Guardian]
 - [[#Drusilla Darkwater the Cunning (Political - Ally)|Drusilla Darkwater the Cunning (Political - Ally)]]
 - [[#Faelyn Underhill the Fallen (Professional - Employer)|Faelyn Underhill the Fallen (Professional - Employer)]]
 
-
 ---
 aliases: ["Branwen Jadeclaw the Guardian", "branwen jadeclaw the guardian", "Branwen Jadeclaw Guardian", "Guardian the Jadeclaw Branwen"]
 tags: [npc, character]
@@ -155,21 +154,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.175Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,7 +176,7 @@ Family member has gone missing
 - Leads to [[Wish Xphb]]
 - Connects to [[Enspelled Weapon Level 2 Xdmg]]
 - Parallels [[step_034 (phase_013)]]
-- Connects to [[step_054]]
+- Connects to
 - Parallels [[Diplomatic Dining Protocol 2]]
 - Requires [[Assets Locations Location City Twilight Depths Twilight Depths.svg]]
 - Influences [[step_072 (phase_074)]]
@@ -192,8 +187,8 @@ Family member has gone missing
 - Parallels [[LORE00225_Prophecies_Entry_226]]
 - Connects to [[Assets Locations Location City Artificers Consortium Artificers Consortium.svg]]
 - Influences [[step_010 (phase_037)]]
-- Requires [[step_047]]
-- Related: [[step_017]]
+- Requires
+- Related:
 - Compare with [[Sir Marcus Dawnforge (D&D_References)]]
 - Leads to [[step_042 (phase_049)]]
 - Connects to [[Displaced Atoll Residents (Lore)]]
@@ -202,7 +197,7 @@ Family member has gone missing
 - Related: [[Dawn War Asmodeus Dmg]]
 - Influences [[step_019 (phase_063)]]
 - Connects to [[Yuan Ti Names Vgm]]
-- Parallels [[step_010]]
+- Parallels
 - Originates from [[Shadow Detection Crystals (D&D_References)]]
 - Influences [[The Depth Chart]]
 - Related: [[Clay Golem Xmm]]
@@ -217,7 +212,7 @@ Family member has gone missing
 - See also: [[Guardian Isolation Syndrom]]
 - Affected by [[step_090 (phase_010)]]
 - Influences [[Location City Memorial Artists V1 Memorial Artists.svg]]
-- Affected by [[step_057]]
+- Affected by
 - Originates from [[Deep Current Trading Posts]]
 - See also: [[Resoce_Roses]]
 - See also: [[Temple Council (D&D_References)]]
@@ -229,7 +224,7 @@ Family member has gone missing
 - Influences [[The Seven Breathing Stones]]
 - Influences [[step_027 (phase_060)]]
 - Related: [[blood-spear-cos (items)]]
-- Originates from [[step_071]]
+- Originates from
 - Influences [[Crown of Stars]]
 - Connects to [[Shadow Network 2]]
 - See also: [[Paladin Xphb Oath of the Ancients Xphb]]
@@ -237,7 +232,7 @@ Family member has gone missing
 - Affected by [[Trade Captain Marina Pathkeeper]]
 - See also: [[skills-with-different-abilities-phb (variant-rules)]]
 - Affected by [[The Academy of Investigative Arts]]
-- See also: [[step_092]]
+- See also:
 - Leads to [[Abyssal Architecture 2]]
 - Compare with [[Portrait NPC Sunken Kingdom of Nereon V1 Sunken Kingdom of Nereon.svg]]
 - Originates from [[Void Breaker Staffs]]
@@ -265,7 +260,7 @@ Family member has gone missing
 - Originates from [[step_036 (phase_087)]]
 - Originates from [[Location City Nightmare Protection Nightmare Protection.svg]]
 - Requires [[LOC00130_Wilderness_Location_131]]
-- Leads to [[step_046]]
+- Leads to
 - Connects to [[Portrait NPC High King Aurelius Skyborn High King Aurelius Skyborn.svg]]
 - Compare with [[forgotten-realms-bhaal (deities)]]
 - Leads to [[step_015 (phase_045)]]
@@ -278,7 +273,6 @@ Family member has gone missing
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

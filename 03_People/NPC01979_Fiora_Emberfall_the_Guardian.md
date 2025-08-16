@@ -18,7 +18,6 @@ aliases: [NPC01979 Fiora Emberfall the Guardian]
 - [[#Gareth Ironforge the Scholar (Political - Ally)|Gareth Ironforge the Scholar (Political - Ally)]]
 - [[#Qadim Voidwalker the Swift (Criminal - Target)|Qadim Voidwalker the Swift (Criminal - Target)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Fiora Emberfall the Guardian", "fiora emberfall the guardian", "Fiora Emberfall Guardian", "Guardian the Emberfall Fiora"]
@@ -156,16 +155,13 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.330Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -195,9 +191,7 @@ Offers deal too good to refuse
 - [[16 Credits]]
 - [[11 Rules Glossary]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -216,7 +210,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.63
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -226,11 +220,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -254,7 +247,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[QUEST0005_The_Ancient_Artifact]]
 - See also: [[Harbor Pilot Captain Storm Skyreacher]]
 - Originates from [[04_Resources_Assets_Locations_location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden.svg]]
-- Requires [[step_071]]
+- Requires
 - Related: [[step_011 (phase_031)]]
 - Parallels [[Gm Resources]]
 - Parallels [[yuan-ti-malison-type-3-xmm]]
@@ -319,11 +312,11 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Void Between Pressures 2]]
 - Compare with [[The Crimson Tide Pirates]]
 - Requires [[Blood Coral (D&D_References)]]
-- Related: [[step_018]]
+- Related:
 - Related: [[QUEST00248_Personal_Quest_249]]
-- Parallels [[step_009]]
+- Parallels
 - Originates from [[Void-Echo Silence Deafmake (D&D_References)]]
-- Influences [[step_007]]
+- Influences
 - Affected by [[NPC00786_Jorah_Underhill_the_Risen]]
 - Compare with [[Ring of Lightning Resistance Xdmg]]
 - Influences [[Finger of Death Xphb]]
@@ -339,7 +332,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

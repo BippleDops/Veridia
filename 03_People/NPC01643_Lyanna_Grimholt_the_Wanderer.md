@@ -18,7 +18,6 @@ aliases: [NPC01643 Lyanna Grimholt the Wanderer]
 - [[#Jorah Youngblood the Guardian (Criminal - Informant)|Jorah Youngblood the Guardian (Criminal - Informant)]]
 - [[#Malakai Frostwhisper the Swift (Family - Cousin)|Malakai Frostwhisper the Swift (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Lyanna Grimholt the Wanderer", "lyanna grimholt the wanderer", "Lyanna Grimholt Wanderer", "Wanderer the Grimholt Lyanna"]
@@ -146,25 +145,20 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.294Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -183,7 +177,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.288
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -192,11 +186,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -206,7 +199,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Location City Truth Seeker Cornelius V1 Truth Seeker Cornelius.svg]]
 - Affected by [[Nagpa Mpmm]]
 - Related: [[Portrait NPC Working Class Citizens Working Class Citizens.svg]]
-- Connects to [[step_086]]
+- Connects to
 - See also: [[Security Officer Guard Stormwind]]
 - Compare with [[step_036 (phase_062)]]
 - Influences [[Crystal_Corruption_Identification_Chart]]
@@ -218,7 +211,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Birthplace Xge]]
 - Parallels [[Unite the Two Worlds (Lore)]]
 - See also: [[step_093 (phase_086)]]
-- See also: [[step_019]]
+- See also:
 - Influences [[step_085 (phase_088)]]
 - Originates from [[step_009 (phase_031)]]
 - Originates from [[step_072 (phase_025)]]
@@ -245,24 +238,24 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Continental Connections & Story Weave 2]]
 - Influences [[step_053 (phase_004)]]
 - Related: [[piwafwi-cloak-of-elvenkind-oota (items)]]
-- Compare with [[step_086]]
+- Compare with
 - Parallels [[step_086 (phase_066)]]
-- See also: [[step_005]]
+- See also:
 - Influences [[hammer-of-thunderbolts-xdmg (items)]]
 - Compare with [[ENC00115_Environmental_Encounter_116]]
 - Parallels [[The Depth Blessed Fisherman Captain Sal]]
 - Influences [[Master Cultivators Guild (Groups)]]
 - Affected by [[summon-greater-demon-xge (spells)]]
-- Originates from [[step_096]]
+- Originates from
 - Connects to [[martial-weapon-training-xphb (feats)]]
 - Related: [[step_079 (phase_039)]]
 - Related: [[Mammoth Xmm]]
 - Originates from [[step_023 (phase_081)]]
 - Influences [[Assets Locations Location City Security Chief Wade Peacekeep V1 Security Chief Wade Peacekeep.svg]]
 - See also: [[portrait-npc-lord-bathysmal-v1-lord-bathysmal.svg]]
-- Leads to [[step_062]]
+- Leads to
 - Compare with [[NPC00533_Hilda_Crystalbrook_the_Strong]]
-- Originates from [[step_080]]
+- Originates from
 - Originates from [[Vehicle Ship Hybrid Rift Runner Sloop Hybrid Rift Runner Sloop.png]]
 - Requires [[The Hybrid Harbor (D&D_References)]]
 - Originates from [[The Guild Innovation Committee]]
@@ -280,15 +273,15 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Portrait NPC Brother Matthias the Amber Bearer V1 Brother Matthias the Amber Bearer.svg_1 (Portraits)]]
 - Requires [[maurezhi-mpmm (fiend)]]
 - Influences [[Periapt of Proof Against Poison Xdmg]]
-- Influences [[step_050]]
+- Influences
 - Leads to [[step_071 (phase_020)]]
 - See also: [[Dawn War Corellon Dmg]]
 - Requires [[MON00003_Aberrations_Creature_4]]
 - Influences [[step_088 (phase_060)]]
 - Leads to [[Divine Communication Specialists (D&D_References)]]
-- Connects to [[step_002]]
+- Connects to
 - Related: [[MON00100_Aberrations_Creature_101]]
-- Connects to [[step_093]]
+- Connects to
 - Influences [[Transformation Techniques 2]]
 - Affected by [[New Death Faction]]
 - Compare with [[The Crimson Foundries 2]]
@@ -305,7 +298,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

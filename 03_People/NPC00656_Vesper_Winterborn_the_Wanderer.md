@@ -18,7 +18,6 @@ aliases: [NPC00656 Vesper Winterborn the Wanderer]
 - [[#Xander Dawnstrider the Broken (Family - Spouse)|Xander Dawnstrider the Broken (Family - Spouse)]]
 - [[#Lyanna Jadeclaw the Seeker (Family - Spouse)|Lyanna Jadeclaw the Seeker (Family - Spouse)]]
 
-
 ---
 aliases: ["Vesper Winterborn the Wanderer", "vesper winterborn the wanderer", "Vesper Winterborn Wanderer", "Wanderer the Winterborn Vesper"]
 tags: [npc, character]
@@ -151,27 +150,23 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.187Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - See also: [[step_015 (phase_091)]]
 - Parallels [[Maritime Research Institute]]
-- Leads to [[step_096]]
+- Leads to
 - Leads to [[LORE00087_Legends_Entry_88]]
 - Affected by [[sword-of-answering-replier (items)]]
 - Related: [[LOC00186_Towns_Location_187]]
@@ -220,7 +215,7 @@ Witnessed a crime
 - Influences [[Master Personnel Files]]
 - Requires [[step_064 (phase_097)]]
 - Influences [[The Collector (D&D_References)]]
-- See also: [[step_034]]
+- See also:
 - Influences [[Driftglobe Xdmg]]
 - Connects to [[LORE0019_Secret_of_the_Lost_City]]
 - Related: [[MON00120_Constructs_Creature_121]]
@@ -228,17 +223,17 @@ Witnessed a crime
 - Leads to [[Dr. Penumbra Voidheart]]
 - Parallels [[step_065 (phase_083)]]
 - Connects to [[Quest - Crystal Corruption]]
-- Parallels [[step_018]]
+- Parallels
 - Affected by [[Ring of Radiant Resistance Xdmg]]
 - Parallels [[Memory Storm Random Events]]
-- Originates from [[step_039]]
+- Originates from
 - Originates from [[NPC00805_Aeliana_Hawthorne_the_Redeemed]]
 - Requires [[Cultural Studies Program]]
 - Connects to [[Corruption Exposure Tracking]]
 - Leads to [[The Banshee Caverns]]
 - Connects to [[Location City Deep Watchfulrest Deep Watchfulrest.svg]]
 - Parallels [[Face the Ancient Threat 2]]
-- See also: [[step_047]]
+- See also:
 - Affected by [[otherworldly-steed-fiend-xphb (fiend)]]
 - See also: [[Merger Hybrid Vehicles]]
 - Influences [[Dr. Precision Strike]]
@@ -249,10 +244,10 @@ Witnessed a crime
 - Requires [[Noble Quarter]]
 - Compare with [[step_060 (phase_039)]]
 - Compare with [[Portrait NPC Ambassador Korvin Blacktide V2 Ambassador Korvin Blacktide.svg]]
-- Requires [[step_092]]
+- Requires
 - Affected by [[Black Bear Xmm]]
 - Requires [[LOC00075_Cities_Location_76]]
-- Compare with [[step_058]]
+- Compare with
 - Compare with [[LOC00112_Towns_Location_113]]
 - Leads to [[The Deep Settlements]]
 - Affected by [[QUEST00022_Personal_Quest_23]]
@@ -274,7 +269,6 @@ Witnessed a crime
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

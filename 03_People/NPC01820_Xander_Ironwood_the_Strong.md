@@ -18,7 +18,6 @@ aliases: [NPC01820 Xander Ironwood the Strong]
 - [[#Urien Proudmore the Seeker (Criminal - Fence)|Urien Proudmore the Seeker (Criminal - Fence)]]
 - [[#Erasmus Darkwater the Lost (Political - Ally)|Erasmus Darkwater the Lost (Political - Ally)]]
 
-
 ---
 aliases: ["Xander Ironwood the Strong", "xander ironwood the strong", "Xander Ironwood Strong", "Strong the Ironwood Xander"]
 tags: [npc, character]
@@ -161,30 +160,26 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.314Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Compare with [[MON00091_Constructs_Creature_92]]
 - Related: [[step_009 (phase_069)]]
-- Influences [[step_086]]
+- Influences
 - Requires [[NPC00270_Kaelen_Stormwind_the_Wanderer]]
 - Connects to [[Reef Tenders (D&D_References)]]
-- Leads to [[step_043]]
+- Leads to
 - Leads to [[Depth Wardens]]
 - Related: [[step_069 (phase_074)]]
 - Connects to [[Levels 14 Local Heroes Levels 14 Adventure Situations Xdmg]]
@@ -192,7 +187,7 @@ Blackmails party into service
 - Originates from [[#Star_System_Details]]
 - See also: [[Assets Locations Location City Historical Research V1 Historical Research.svg]]
 - Connects to [[Smuggler''s Cove]]
-- Influences [[step_040]]
+- Influences
 - Requires [[ITEM00861_Time-worn_Orb_of_Eternity]]
 - Connects to [[halfling-xphb (races)]]
 - Influences [[QUEST00288_Personal_Quest_289]]
@@ -219,7 +214,7 @@ Blackmails party into service
 - Leads to [[Paradox Resolution Society 2]]
 - Requires [[step_099 (phase_005)]]
 - Influences [[ITEM00399_Blazing_Sword_of_Wounding]]
-- Related: [[step_077]]
+- Related:
 - Originates from [[Location City Silence Keeper Mute V1 Silence Keeper Mute.svg]]
 - Influences [[Portrait NPC Quest Into the Wastes V1 Quest Into the Wastes.svg]]
 - See also: [[Session 9 - The Shard Convergence]]
@@ -246,7 +241,7 @@ Blackmails party into service
 - Leads to [[ITEM01003_Greater_Powder_of_Vigor]]
 - Parallels [[NPC01093_Kaelen_Zephyrblade_the_Broken]]
 - Connects to [[LOC00291_Dungeons_Location_292]]
-- Parallels [[step_068]]
+- Parallels
 - Connects to [[Young Diver Coral Swiftcurrent]]
 - Influences [[step_003 (phase_037)]]
 - Related: [[variant-mixing-potions-potion-miscibility (tables)]]
@@ -258,11 +253,11 @@ Blackmails party into service
 - Originates from [[Symbol Heraldry Scream Crystals V1 Scream Crystals.svg]]
 - Requires [[Update Indexes 3 (D&D_References)]]
 - Parallels [[Dimensional Collapse]]
-- Connects to [[step_031]]
+- Connects to
 - Connects to [[The Revelation Chamber]]
 - Related: [[step_017 (phase_026)]]
 - Influences [[Silver Mask 2]]
-- Influences [[step_043]]
+- Influences
 - Leads to [[Democratic Erosion]]
 - Originates from [[Assets Art Doctor Silas Voidtouch.png]]
 - Connects to [[Bestiary - Aquabyssos Creature Compendium]]
@@ -284,7 +279,6 @@ Blackmails party into service
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

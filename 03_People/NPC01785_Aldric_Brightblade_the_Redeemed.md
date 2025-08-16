@@ -18,7 +18,6 @@ aliases: [NPC01785 Aldric Brightblade the Redeemed]
 - [[#Gavril Emberfall the Wanderer (Criminal - Target)|Gavril Emberfall the Wanderer (Criminal - Target)]]
 - [[#Felicia Keenblade the Scholar (Professional - Rival)|Felicia Keenblade the Scholar (Professional - Rival)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aldric Brightblade the Redeemed", "aldric brightblade the redeemed", "Aldric Brightblade Redeemed", "Redeemed the Brightblade Aldric"]
@@ -152,16 +151,13 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.310Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -191,9 +187,7 @@ Offers deal too good to refuse
 - [[Trade_Route_Chart_Port_Meridia]]
 - [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[08 Using Ability Scores]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -211,7 +205,7 @@ Following magic item guidelines (WWT p.135-136):
 - Tasha's Mystical Formulae of Everything (TMF) p.137
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -221,11 +215,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -245,14 +238,14 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Weather 2 Xdmg]]
 - Requires [[Conjure Woodland Beings Xphb]]
 - Related: [[[[Aquabyssos]] Trade Seal (Lore)]]
-- Parallels [[step_029]]
+- Parallels
 - Compare with [[Location City [[The First Failure]] the First Failure.svg]]
 - Originates from [[New Location]]
 - Parallels [[step_016 (phase_074)]]
 - Requires [[dungeoneers-pack-xphb (items)]]
 - Compare with [[10-chapter-10-descent-into-the-depths (out-of-the-abyss)]]
 - Leads to [[step_059 (phase_017)]]
-- Connects to [[step_091]]
+- Connects to
 - Originates from [[Fear Farms (D&D_References)]]
 - Compare with [[witherbloom-student-scc (backgrounds)]]
 - Compare with [[Location City [[Ambassador Lysandra Silvertonge]] V1 Ambassador Lysandra Silvertonge.svg]]
@@ -277,7 +270,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[QUEST00451_Side_Quest_452]]
 - Originates from [[Mobile Command Platforms]]
 - Connects to [[Portrait NPC Quest the Dying Forest V1 Quest the Dying Forest.svg]]
-- Parallels [[step_042]]
+- Parallels
 - Influences [[[[Cultural Districts]] (D&D_References)]]
 - Influences [[ITEM00540_Enchanted_Chain_Mail_of_the_Guardian]]
 - Connects to [[Chief Marine Engineer Coral Seaforge 2]]
@@ -290,7 +283,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Map World Layer Trade Routes and Corridors V1 Trade Routes and Corridors.svg]]
 - Leads to [[armor-of-vulnerability-slashing-xdmg (items)]]
 - Related: [[The Nameless Scholar (D&D_References)]]
-- Requires [[step_070]]
+- Requires
 - Connects to [[Security Chief Razor Currentstorm 2]]
 - Leads to [[NPC01352_Lyanna_Winterborn_the_Guardian]]
 - Connects to [[lance-xphb (items)]]
@@ -302,9 +295,9 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[treant-xmm (plant)]]
 - Compare with [[NPC01347_Xander_Jadeclaw_the_Wise]]
 - Originates from [[LOC00163_Dungeons_Location_164]]
-- Influences [[step_002]]
+- Influences
 - Requires [[LOC00215_Planes_Location_216]]
-- Requires [[step_059]]
+- Requires
 - See also: [[QUEST00007_Main_Quest_8]]
 - Affected by [[Assets Locations Location City [[Brother Ossian]] Brother Ossian.svg]]
 - Leads to [[location-city-[[Warforged]]-warforged.svg]]
@@ -334,7 +327,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

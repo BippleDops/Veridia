@@ -18,7 +18,6 @@ aliases: [NPC01692 Cedric Lightbringer the Cunning]
 - [[#Hestara Quicksilver the Wise (Family - Parent)|Hestara Quicksilver the Wise (Family - Parent)]]
 - [[#Fiora Oakenshield the Scholar (Professional - Mentor)|Fiora Oakenshield the Scholar (Professional - Mentor)]]
 
-
 ---
 aliases: ["Cedric Lightbringer the Cunning", "cedric lightbringer the cunning", "Cedric Lightbringer Cunning", "Cunning the Lightbringer Cedric"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.300Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,7 +171,7 @@ Provides information for a price
 - Related: [[MON00155_Aberrations_Creature_156]]
 - Parallels [[Assets Locations Location City Wealthy Goldcurrent V1 Wealthy Goldcurrent.svg]]
 - Related: [[step_034 (phase_089)]]
-- Influences [[step_047]]
+- Influences
 - Originates from [[Academic Institutions (D&D_References)]]
 - Influences [[#Underground & Aquatic Locations]]
 - Related: [[Location City Quest the Portal Crisis V1 Quest the Portal Crisis.svg]]
@@ -190,7 +185,7 @@ Provides information for a price
 - Originates from [[LORE00269_Prophecies_Entry_270]]
 - Compare with [[step_031 (phase_033)]]
 - Originates from [[step_004 (phase_010)]]
-- Influences [[step_049]]
+- Influences
 - Requires [[exploring-the-mine-xdmg (tables)]]
 - Affected by [[Symbol Heraldry Political Parties of Aquabyssos Political Parties of Aquabyssos.svg]]
 - Leads to [[list-spells-feats-strixhaven-mascot-scc (lists)]]
@@ -224,12 +219,12 @@ Provides information for a price
 - Influences [[Find the Shadow Cure]]
 - Affected by [[Deep Current Society 2]]
 - Affected by [[Topic Matrix]]
-- Parallels [[step_067]]
+- Parallels
 - Leads to [[mummy-xmm (undead)]]
 - Related: [[step_086 (phase_071)]]
 - Related: [[Assets Locations Location City the Living Tide Temples V1 the Living Tide Temples.svg]]
 - See also: [[kraken-xmm (monstrosity)]]
-- Leads to [[step_015]]
+- Leads to
 - Connects to [[step_064 (phase_011)]]
 - Connects to [[location-city-abyssos-prime-abyssos-prime.svg]]
 - Related: [[map_placeholder]]
@@ -237,14 +232,14 @@ Provides information for a price
 - Affected by [[Deep Conservative Alliance (D&D_References)]]
 - Connects to [[The Seven Breathing Stones (D&D_References)]]
 - Requires [[step_006 (phase_036)]]
-- Requires [[step_048]]
+- Requires
 - Compare with [[Prophetic Dreams (D&D_References)]]
 - Related: [[LOC00116_Wilderness_Location_117]]
 - Related: [[Nolzurs Marvelous Pigments Xdmg]]
 - Originates from [[The Living Spires (D&D_References)]]
 - Affected by [[Lightly Obscured Xphb]]
 - Affected by [[Relentless Hex Xge]]
-- Influences [[step_002]]
+- Influences
 - See also: [[Portrait NPC Investigator Supreme Lucian Brightwater Investigator Supreme Lucian Brightwater.svg]]
 - Leads to [[Assets Vehicles Vehicle Ship Sky Cutter Interceptor Sky Cutter Interceptor.svg]]
 - Influences [[Official Memory Keepers (D&D_References)]]
@@ -269,7 +264,6 @@ Provides information for a price
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

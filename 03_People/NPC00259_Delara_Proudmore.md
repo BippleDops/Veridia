@@ -9,7 +9,6 @@ aliases: [NPC00259 Delara Proudmore]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00259 Delara Proudmore]
 - [[#Gavril Nightfall (Family - Cousin)|Gavril Nightfall (Family - Cousin)]]
 - [[#Drusilla Nightfall the Lost (Personal - Ex-lover)|Drusilla Nightfall the Lost (Personal - Ex-lover)]]
 - [[#Ysara Lightbringer the Scholar (Personal - Best friend)|Ysara Lightbringer the Scholar (Personal - Best friend)]]
-
 
 ---
 created: 2025-08-15
@@ -155,16 +153,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.141Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -186,11 +181,10 @@ Seeks bodyguards for dangerous journey
 - [[NPC00661_Corvus_Darkwater_the_Broken]]
 - [[NPC01566_Lyanna_Underhill_the_Redeemed]]
 - [[NPC01894_Aldric_Lightbringer_the_Bold]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -198,11 +192,10 @@ Seeks bodyguards for dangerous journey
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -211,15 +204,15 @@ Seeks bodyguards for dangerous journey
 - Parallels [[step_009 (phase_062)]]
 - Affected by [[The Cargo Inspection Station (D&D_References)]]
 - Originates from [[Bio-Integration Laboratory]]
-- Leads to [[step_028]]
-- See also: [[step_027]]
+- Leads to
+- See also:
 - Connects to [[LORE00162_History_Entry_163]]
 - Compare with [[ENC00249_Combat_Encounter_250]]
 - Requires [[step_005 (phase_059)]]
 - See also: [[Location City [[Reef Guard Captain Torrent Shellborn]] Reef Guard Captain Torrent Shellborn.svg]]
 - Parallels [[Senior Temporal Engineer Chronos Fieldwright]]
 - Connects to [[[[Kelp Forest]] Rangers]]
-- Originates from [[step_076]]
+- Originates from
 - Influences [[step_093 (phase_026)]]
 - Affected by [[ENC00156_Social_Encounter_157]]
 - Requires [[Assets Locations Location City [[Representative Coral Youngcurrent]] V1 Representative Coral Youngcurrent.svg]]
@@ -235,9 +228,9 @@ Seeks bodyguards for dangerous journey
 - Affected by [[LOC00082_Towns_Location_83]]
 - Requires [[improvising-damage (tables)]]
 - Connects to [[Pre-Drowning Civilization Archives]]
-- Parallels [[step_054]]
+- Parallels
 - Connects to [[ENC00262_Social_Encounter_263]]
-- Influences [[step_089]]
+- Influences
 - Influences [[Surface Traders]]
 - Compare with [[step_003 (phase_026)]]
 - Related: [[NPC01434_Baelor_Winterborn_the_Guardian]]
@@ -254,11 +247,11 @@ Seeks bodyguards for dangerous journey
 - Influences [[step_069 (phase_029)]]
 - See also: [[coastal-encounters-levels-510-xge (tables)]]
 - See also: [[Priest Faith Crystalsong (D&D_References)]]
-- Requires [[step_084]]
+- Requires
 - Requires [[portrait-npc-mayor-s-manor-v1-mayor-s-manor.svg_1 (Portraits)]]
 - Parallels [[improvement_report_20250815_140442]]
 - Affected by [[Royal Guard (Lore)]]
-- Connects to [[step_066]]
+- Connects to
 - Requires [[step_028 (phase_054)]]
 - Influences [[QUEST00221_Personal_Quest_222]]
 - Related: [[NPC01936_Urien_Youngblood_the_Scholar]]

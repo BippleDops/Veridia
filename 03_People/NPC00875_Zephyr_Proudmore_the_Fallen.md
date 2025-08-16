@@ -18,7 +18,6 @@ aliases: [NPC00875 Zephyr Proudmore the Fallen]
 - [[#Ewan Voidwalker the Seeker (Professional - Employer)|Ewan Voidwalker the Seeker (Professional - Employer)]]
 - [[#Brenna Emberfall the Swift (Family - Cousin)|Brenna Emberfall the Swift (Family - Cousin)]]
 
-
 ---
 aliases: ["Zephyr Proudmore the Fallen", "zephyr proudmore the fallen", "Zephyr Proudmore Fallen", "Fallen the Proudmore Zephyr"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.212Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -197,13 +192,13 @@ Caravan needs guards
 - Compare with [[New_Encounter_Sheet_Template]]
 - Leads to [[Quantum Compromise Protocols 2]]
 - Parallels [[step_094 (phase_100)]]
-- Leads to [[step_058]]
+- Leads to
 - Leads to [[Hooded Lantern Xphb]]
 - Connects to [[ITEM00600_Adamantine_Gauntlets_of_Resistance]]
-- Related: [[step_075]]
+- Related:
 - Affected by [[step_037 (phase_068)]]
 - Requires [[giant-wasp-xmm (beast)]]
-- Parallels [[step_057]]
+- Parallels
 - Requires [[step_033 (phase_066)]]
 - Compare with [[daemogoth-titan-scc (fiend)]]
 - Related: [[Order of Mirrors]]
@@ -211,7 +206,7 @@ Caravan needs guards
 - Parallels [[Poisonous Gas Xdmg]]
 - Parallels [[Elder Willow Moonwhispe]]
 - Affected by [[Mira Stormwind (D&D_References)]]
-- Requires [[step_083]]
+- Requires
 - Related: [[Assets Locations Location City Merchant Guild Headquarters V1 Merchant Guild Headquarters.svg]]
 - Connects to [[Assets Locations Location City Kelp Forest Constituencies V1 Kelp Forest Constituencies.svg]]
 - Leads to [[step_076 (phase_072)]]
@@ -264,7 +259,7 @@ Caravan needs guards
 - Related: [[Monsters and Motivations Monster Motivation]]
 - Influences [[The Whisper Core]]
 - Connects to [[step_100 (phase_010)]]
-- See also: [[step_099]]
+- See also:
 - Related: [[step_100 (phase_098)]]
 - Affected by [[step_005 (phase_080)]]
 - Influences [[Bronze Dragon Scale Mail Xdmg]]
@@ -274,7 +269,6 @@ Caravan needs guards
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00821 Zephyr Voidwalker the Cunning]
 - [[#Alaric Brightblade the Bold (Professional - Partner)|Alaric Brightblade the Bold (Professional - Partner)]]
 - [[#Rhiannon Nightfall the Fallen (Family - Child)|Rhiannon Nightfall the Fallen (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Zephyr Voidwalker the Cunning", "zephyr voidwalker the cunning", "Zephyr Voidwalker Cunning", "Cunning the Voidwalker Zephyr"]
@@ -144,16 +143,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.206Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -176,11 +172,10 @@ Seeks rare merchandise
 - [[NPC01989_Erasmus_Xendar_the_Strong]]
 - [[11 Spellcasting]]
 - [[MOC_Lore]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -191,18 +186,17 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Parallels [[pack-saddle (items)]]
 - Affected by [[random-urban-encounters (tables)]]
 - Influences [[step_026 (phase_032)]]
-- See also: [[step_033]]
+- See also:
 - Leads to [[The Crystal Hive Collective (D&D_References)]]
 - Affected by [[Assets Locations Location City the Wandering Atoll V1 the Wandering Atoll.svg]]
 - Influences [[NPC00579_Zephyr_Hawthorne_the_Broken]]
@@ -213,7 +207,7 @@ Seeks rare merchandise
 - Related: [[Quest Index 2]]
 - Requires [[size-categories-mm (tables)]]
 - Related: [[Island of Screams]]
-- Affected by [[step_030]]
+- Affected by
 - Originates from [[location-city-harbor-wall-harbor-wall.svg]]
 - Affected by [[step_091 (phase_100)]]
 - Connects to [[Item Artifact Travelers Clothes Xphb V5 Travelers Clothes Xphb.png]]
@@ -233,10 +227,10 @@ Seeks rare merchandise
 - Influences [[ITEM00635_Fortified_Cloak_of_Resistance]]
 - Requires [[LORE00057_History_Entry_58]]
 - Leads to [[The Transition Protocols]]
-- See also: [[step_076]]
+- See also:
 - Connects to [[The Memory Pool]]
 - Parallels [[Abyssal Spires]]
-- Related: [[step_022]]
+- Related:
 - Compare with [[Void-warded Cloak (D&D_References)]]
 - Compare with [[step_007 (phase_023)]]
 - Compare with [[step_015 (phase_084)]]
@@ -245,15 +239,15 @@ Seeks rare merchandise
 - Influences [[Portrait NPC Lord Blackwater V2 Lord Blackwater.svg]]
 - Related: [[EVENT00091_Magical_Event_92]]
 - Originates from [[step_006 (phase_067)]]
-- Compare with [[step_053]]
+- Compare with
 - See also: [[Biological Enhancement Laboratory]]
 - Affected by [[Crystal Laboratory (D&D_References)]]
 - Connects to [[Goblin Dmg]]
-- Affected by [[step_095]]
+- Affected by
 - Requires [[Heart Grov 2]]
 - Requires [[Session 1 the Queens Summons_1 (06_Sessions)]]
 - Parallels [[Spell Gem Ruby Oota]]
-- Parallels [[step_041]]
+- Parallels
 - Influences [[Synthesis Combat Systems]]
 - Parallels [[ENC00148_Environmental_Encounter_149]]
 - Connects to [[step_045 (phase_051)]]
@@ -264,7 +258,7 @@ Seeks rare merchandise
 - Compare with [[Weapons Trader Gareth Steelmerchant (D&D_References)]]
 - Affected by [[Portrait NPC Quest the Shadow Water Accords V2 Quest the Shadow Water Accords.svg]]
 - Originates from [[Telepathy Xphb (variant-rules)]]
-- Requires [[step_096]]
+- Requires
 - Influences [[Sage Analytical Mindweaver]]
 - Connects to [[step_053 (phase_071)]]
 - Compare with [[Vault Prime (D&D_References)]]
@@ -280,7 +274,7 @@ Seeks rare merchandise
 - Parallels [[Harbormaster Erik Saltbeard]]
 - Related: [[combat_narrative_integration]]
 - Requires [[Portrait NPC Captain Blackwater Captain Blackwater.svg]]
-- Requires [[step_055]]
+- Requires
 - Affected by [[Pepper Xdmg]]
 - Requires [[Memory Pearls (D&D_References)]]
 - Affected by [[Chronomancer Paradox]]
@@ -293,9 +287,9 @@ Seeks rare merchandise
 - Parallels [[step_020 (phase_035)]]
 - Parallels [[Breaking Objects Xphb]]
 - Affected by [[NPC00445_Dara_Oakenshield_the_Bold]]
-- Connects to [[step_005]]
+- Connects to
 - See also: [[NPC00795_Pyria_Emberfall_the_Lost]]
-- Related: [[step_097]]
+- Related:
 - Related: [[step_077 (phase_055)]]
 - Related: [[LOC00183_Cities_Location_184]]
 - Connects to [[Weapons Trader Gareth Steelmerchant 2]]
@@ -304,7 +298,6 @@ Seeks rare merchandise
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

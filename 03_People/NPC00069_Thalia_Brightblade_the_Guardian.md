@@ -18,7 +18,6 @@ aliases: [NPC00069 Thalia Brightblade the Guardian]
 - [[#Zephyr Voidwalker (Personal - Nemesis)|Zephyr Voidwalker (Personal - Nemesis)]]
 - [[#Rhiannon Jadeclaw (Criminal - Target)|Rhiannon Jadeclaw (Criminal - Target)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Brightblade the Guardian", "thalia brightblade the guardian", "Thalia Brightblade Guardian", "Guardian the Brightblade Thaliatags: [npc, character, combat, magic, lore]er]
@@ -144,16 +143,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.119Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -168,11 +164,10 @@ Modifications:
 
 ## See Also
 - [[NPC01951_Gavril_Xendar_the_Swift]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -180,17 +175,16 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - See also: [[Communications Officer Echo Farspeak]]
 - Affected by [[LORE00013_Prophecies_Entry_14]]
-- See also: [[step_099]]
+- See also:
 - See also: [[ITEM0104_Ancient_Gauntlet_of_the_Dawn]]
 - Requires [[Portrait NPC the Crimson Sage V1 the Crimson Sage.svg]]
 - Affected by [[NPC01387_Xander_Zephyrblade_the_Redeemed]]
@@ -202,7 +196,7 @@ Modifications:
 - See also: [[The Scribes' Covenant (D&D_References)]]
 - Originates from [[Assets Locations Location City [[Religious Leaders]] V1 Religious Leaders.svg]]
 - Influences [[ITEM01212_Pure_Herb_of_Clarity]]
-- Affected by [[step_074]]
+- Affected by
 - Affected by [[scholars-of-witherbloom-witherbloom-scholars-scc]]
 - Parallels [[step_010 (phase_033)]]
 - Compare with [[step_097 (phase_011)]]
@@ -216,7 +210,7 @@ Modifications:
 - See also: [[speak-with-animals-xphb (spells)]]
 - See also: [[Fighter Xphb Samurai Xge]]
 - Influences [[Academy of Crystalline Art]]
-- Parallels [[step_032]]
+- Parallels
 - See also: [[Depth Adaptation Therapy]]
 - Requires [[[[Cultural Districts]] (D&D_References)]]
 - See also: [[step_066 (phase_058)]]
@@ -230,16 +224,16 @@ Modifications:
 - Affected by [[Magic Schools and Academies]]
 - Affected by [[step_087 (phase_043)]]
 - Originates from [[step_053 (phase_082)]]
-- Influences [[step_075]]
+- Influences
 - Leads to [[Assets Locations Location City [[Marina Deepcurrent]] V1 Marina Deepcurrent.svg]]
 - Parallels [[location-city-sister-morwyn-sister-morwyn.svg]]
 - See also: [[geas-xphb (spells)]]
-- Requires [[step_007]]
+- Requires
 - Requires [[Assets Locations [[Location City [[Observatory District]] Observatory District.svg]]]]
 - Influences [[The Pearl Guard (D&D_References)]]
 - Related: [[Assets Handouts Handout Handout Docking Permit V2 Docking Permit.png]]
 - Originates from [[QUEST00036_Personal_Quest_37]]
-- Leads to [[step_034]]
+- Leads to
 - Affected by [[Forgotten Realms Eldath]]
 - Related: [[suffocation-xphb (traps-hazards)]]
 - Originates from [[Downtime Activity Buying a Magic Item Xge]]
@@ -255,13 +249,13 @@ Modifications:
 - Leads to [[Artist Voidbrush 2]]
 - Related: [[Location City [[Education Department]] Education Department.svg]]
 - Parallels [[Dawn War Torog Dmg]]
-- Parallels [[step_003]]
+- Parallels
 - Leads to [[Citizens' Budget Review]]
 - See also: [[Guardian Isolation Syndrom 2]]
 - See also: [[Portrait NPC Aria... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Leads to [[Automatic Success]]
 - Influences [[Cultural Studies Program]]
-- Leads to [[step_061]]
+- Leads to
 - See also: [[Brother_Matthias_Inkdrinker.png]]
 - Compare with [[Assets Handouts Handout Handout Embassy Invitation Embassy Invitation.png]]
 - Leads to [[Portrait NPC Deep Mother Priestess Sira Deep Mother Priestess Sira.svg_1 (Portraits)]]
@@ -276,7 +270,7 @@ Modifications:
 - Related: [[[[Archivist Elena Sorrowkeeper]] 2]]
 - Leads to [[List Spells Optional Features Bewitching]]
 - Influences [[step_002 (phase_078)]]
-- See also: [[step_067]]
+- See also:
 - Leads to [[step_069 (phase_035)]]
 - See also: [[[[Expedition to the Sunless Depths]] 2]]
 - Related: [[The Final Forgetting (D&D_References)]]
@@ -293,7 +287,6 @@ Modifications:
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

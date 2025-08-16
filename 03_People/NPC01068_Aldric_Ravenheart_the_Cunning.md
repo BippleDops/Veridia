@@ -18,7 +18,6 @@ aliases: [NPC01068 Aldric Ravenheart the Cunning]
 - [[#Elric Youngblood the Scholar (Criminal - Fence)|Elric Youngblood the Scholar (Criminal - Fence)]]
 - [[#Aeliana Winterborn the Strong (Political - Spy)|Aeliana Winterborn the Strong (Political - Spy)]]
 
-
 ---
 aliases: ["Aldric Ravenheart the Cunning", "aldric ravenheart the cunning", "Aldric Ravenheart Cunning", "Cunning the Ravenheart Aldric"]
 tags: [npc, character]
@@ -141,21 +140,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.233Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -189,7 +184,7 @@ Seeks rare merchandise
 - Parallels [[step_074 (phase_079)]]
 - Affected by [[Blackmarket Betty]]
 - Requires [[Exchange Fairflow]]
-- Affected by [[step_077]]
+- Affected by
 - Related: [[Cultural Ministry]]
 - Leads to [[teleportation-xphb (variant-rules)]]
 - Compare with [[Assets Locations Location City Constitutional Monarchy V1 Constitutional Monarchy.svg]]
@@ -200,11 +195,11 @@ Seeks rare merchandise
 - Affected by [[Original DNA Scanners]]
 - See also: [[LORE00235_History_Entry_236]]
 - Affected by [[Quest - The Admiral's Gambit_1 (01_Adventures)]]
-- Affected by [[step_093]]
+- Affected by
 - Affected by [[Aurelius''s Private Study]]
 - See also: [[LOC0097_Peakthorpe]]
 - Compare with [[earthquake-xphb (spells)]]
-- Leads to [[step_058]]
+- Leads to
 - Compare with [[Merged Zone Navigation]]
 - Leads to [[step_004 (phase_026)]]
 - Compare with [[Null-State Materials]]
@@ -219,11 +214,11 @@ Seeks rare merchandise
 - See also: [[Assets Vehicles Vehicle Ship Void Skimmer Cutter V2 Void Skimmer Cutter.svg]]
 - Affected by [[LOC00135_Wilderness_Location_136]]
 - Originates from [[NPC00430_Ewan_Proudmore_the_Wise]]
-- Affected by [[step_089]]
+- Affected by
 - Connects to [[QUEST00071_Main_Quest_72]]
-- See also: [[step_093]]
+- See also:
 - Influences [[General Voidguar 2]]
-- Originates from [[step_004]]
+- Originates from
 - Parallels [[Assets Handouts Handout Handout Smuggler Ledger Page V3 Smuggler Ledger Page.png]]
 - Connects to [[step_082 (phase_074)]]
 - Leads to [[swarm-of-crawling-claws-xmm (undead)]]
@@ -231,12 +226,12 @@ Seeks rare merchandise
 - Compare with [[Dread Helm Xdmg]]
 - Influences [[step_014 (phase_066)]]
 - Related: [[ENC00286_Social_Encounter_287]]
-- Connects to [[step_081]]
+- Connects to
 - Affected by [[step_070 (phase_075)]]
 - Affected by [[Embroidered Glove Set With Jewel Chips Xdmg]]
 - Parallels [[portrait-npc-queen-nerida-v1-queen-nerida.svg_1 (Portraits)]]
 - Related: [[Potion of Cloud Giant Strength Xdmg]]
-- Connects to [[step_002]]
+- Connects to
 - Related: [[Figurine of Wondrous Power Onyx Dog Xdmg]]
 - Originates from [[The Decompression Chamber]]
 - Compare with [[Assets Locations Location City Memory Heist Memory Heist.svg]]
@@ -264,7 +259,6 @@ Seeks rare merchandise
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

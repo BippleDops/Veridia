@@ -18,7 +18,6 @@ aliases: [16 Credits]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 16 Credits
@@ -65,11 +64,9 @@ world: Both
 - An heirloom has gone missing and truth emerges
 - Strange accidents suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -100,8 +97,7 @@ world: Both
 Former associate of the party's patron
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -110,7 +106,6 @@ Former associate of the party's patron
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -141,11 +136,11 @@ Former associate of the party's patron
 - Leads to [[QUEST00079_Main_Quest_80]]
 - Related: [[step_094 (phase_066)]]
 - See also: [[Assets Item Artifact Warhammer Xphb V4 Warhammer Xphb.png]]
-- Leads to [[step_024]]
+- Leads to
 - Parallels [[Potion of Healing Gv]]
 - Originates from [[step_036 (phase_077)]]
-- Parallels [[step_011]]
-- Requires [[step_094]]
+- Parallels
+- Requires
 - Originates from [[Assets Locations Location City House Pressureborn House Pressureborn.svg]]
 - Connects to [[halfling-arvoreen-mtf (deities)]]
 - Affected by [[step_022 (phase_049)]]
@@ -157,17 +152,17 @@ Former associate of the party's patron
 - Connects to [[ascendant-step-xphb (optional-features)]]
 - Requires [[deities-of-dragonlance-neutral-phb (tables)]]
 - Leads to [[step_008 (phase_010)]]
-- Related: [[step_056]]
+- Related:
 - Influences [[Character_Creation]]
 - Leads to [[step_036 (phase_076)]]
-- Originates from [[step_075]]
+- Originates from
 - Connects to [[Establish New World Order]]
 - Leads to [[ITEM00804_Void-touched_Chalice_of_Eternity]]
 - See also: [[Assets Locations Location City the Singing Shadows the Singing Shadows.svg]]
 - Affected by [[SPELL00043_Nature_Spell_44]]
 - Connects to [[horn-xphb (items)]]
-- Connects to [[step_071]]
-- Connects to [[step_001]]
+- Connects to
+- Connects to
 - Compare with [[barbed-devil-xmm (fiend)]]
 - See also: [[Downtime Activity Training to Gain Levels]]
 - Affected by [[The Archives (D&D_References)]]

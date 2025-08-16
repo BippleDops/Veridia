@@ -9,7 +9,6 @@ aliases: [NPC00182 Urien Emberfall]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00182 Urien Emberfall]
 - [[#Corvus Dawnstrider (Personal - Childhood friend)|Corvus Dawnstrider (Personal - Childhood friend)]]
 - [[#Pyria Underhill (Criminal - Fence)|Pyria Underhill (Criminal - Fence)]]
 - [[#Aldric Grimholt the Lost (Family - Sibling)|Aldric Grimholt the Lost (Family - Sibling)]]
-
 
 ---
 created: 2025-08-15
@@ -153,27 +151,23 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.132Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -181,11 +175,10 @@ Requires champions for trial by combat
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -203,14 +196,14 @@ Requires champions for trial by combat
 - Originates from [[step_083 (phase_075)]]
 - Related: [[Portrait NPC King Marcus Lumengarde V2 King Marcus Lumengarde.svg]]
 - Leads to [[step_037 (phase_049)]]
-- Requires [[step_014]]
+- Requires
 - Compare with [[Theological Seminaries 2]]
 - See also: [[Portrait NPC Memory Commerce V1 Memory Commerce.svg_1 (Portraits)]]
 - See also: [[Assets Locations Location City Merchant Merchant.svg]]
 - Affected by [[ENC00256_Combat_Encounter_257]]
 - Parallels [[mage-hunter-scc (monstrosity)]]
 - Originates from [[step_097 (phase_082)]]
-- Influences [[step_024]]
+- Influences
 - See also: [[shillelagh-xphb (spells)]]
 - Compare with [[step_045 (phase_076)]]
 - Requires [[new-action-breath-weapon-mm (tables)]]
@@ -254,7 +247,7 @@ Requires champions for trial by combat
 - Related: [[NPC01765_Corvus_Jadeclaw_the_Guardian]]
 - Influences [[step_025 (phase_013)]]
 - See also: [[QUEST00297_Personal_Quest_298]]
-- Affected by [[step_086]]
+- Affected by
 - Leads to [[Staff of Charming Xdmg]]
 - Connects to [[ITEM00101_Shadow_Staff_of_Speed]]
 - Affected by [[step_017 (phase_093)]]

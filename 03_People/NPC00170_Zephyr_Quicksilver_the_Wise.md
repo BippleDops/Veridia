@@ -18,7 +18,6 @@ aliases: [NPC00170 Zephyr Quicksilver the Wise]
 - [[#Idris Frostwhisper (Political - Patron)|Idris Frostwhisper (Political - Patron)]]
 - [[#Urien Dawnstrider (Family - Parent)|Urien Dawnstrider (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Zephyr Quicksilver the Wise", "zephyr quicksilver the wise", "Zephyr Quicksilver Wise", "Wise the Quicksilver Zephyr"]
@@ -145,27 +144,23 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.131Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -176,11 +171,10 @@ Requires champions for trial by combat
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -190,11 +184,11 @@ Requires champions for trial by combat
 - Related: [[Princess Celestia 3 (D&D_References)]]
 - Parallels [[Levels 1116 Masters of the Realm Levels 1116]]
 - Parallels [[burrow-speed-xphb (variant-rules)]]
-- Influences [[step_052]]
+- Influences
 - Originates from [[NPC01842_Brenna_Voidwalker_the_Seeker]]
 - Originates from [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
 - Parallels [[Emergency Coordinator Storm Responsewrigh (D&D_References)]]
-- Affected by [[step_019]]
+- Affected by
 - Leads to [[The Scribes' Covenant (D&D_References)]]
 - Connects to [[NPC00732_Felicia_Stormwind_the_Wanderer]]
 - Related: [[step_068 (phase_090)]]
@@ -218,7 +212,7 @@ Requires champions for trial by combat
 - Affected by [[step_009 (phase_066)]]
 - Influences [[Assets Locations Location City Forge Master Petra Hammerdeep V1 Forge Master Petra Hammerdeep.svg]]
 - Compare with [[Portrait NPC Sir Theron Crystalward V1 Sir Theron Crystalward.svg]]
-- Connects to [[step_087]]
+- Connects to
 - Affected by [[SPELL00028_Divine_Spell_29]]
 - Requires [[The Deep Prophets 2]]
 - Parallels [[step_046 (phase_049)]]
@@ -227,7 +221,7 @@ Requires champions for trial by combat
 - Affected by [[Shield of Far Sight Vgm]]
 - Affected by [[Finn Worldwalker]]
 - Related: [[step_015 (phase_019)]]
-- Influences [[step_055]]
+- Influences
 - Compare with [[step_007 (phase_071)]]
 - Connects to [[ENC00128_Combat_Encounter_129]]
 - Compare with [[OPTIMIZATION_COMPLETE]]
@@ -241,7 +235,7 @@ Requires champions for trial by combat
 - Parallels [[Assets Locations Location City Umberlee V1 Umberlee.svg]]
 - See also: [[Ley_Line_Network (02_Worldbuilding)]]
 - Related: [[Keeper Aquaeous Depth-Scholar]]
-- Leads to [[step_098]]
+- Leads to
 - See also: [[SPELL00064_Nature_Spell_65]]
 - Influences [[Ecological Balance Protocols (D&D_References)]]
 - Affected by [[Shadow Physiology and Anatomy]]
@@ -256,10 +250,10 @@ Requires champions for trial by combat
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-the-deepwater-trading-consortium-the-deepwater-trading-consortium.svg]]
 - Requires [[orcus-mtf (legendary-group)]]
 - Leads to [[Quartermaster Judith Supplycurrent]]
-- Influences [[step_051]]
+- Influences
 - Requires [[Quest - Shadow Confrontation 2]]
-- Originates from [[step_020]]
-- Influences [[step_027]]
+- Originates from
+- Influences
 - Parallels [[Assets Portraits Portrait NPC Emperor Pelagic the Last Emperor Pelagic the Last.svg]]
 - Compare with [[NPC00889_Fiora_Ravenheart_the_Mystic]]
 - Originates from [[step_093 (phase_044)]]
@@ -271,11 +265,11 @@ Requires champions for trial by combat
 - Connects to [[Animated Flying Sword Xmm]]
 - Related: [[QUEST00274_Side_Quest_275]]
 - Compare with [[Kelp Forest Monasteries 3 (D&D_References)]]
-- Parallels [[step_081]]
+- Parallels
 - Compare with [[Assets Locations Location City Sea Horse Sea Horse.svg]]
 - Influences [[Academy of Deep Understanding]]
 - Originates from [[step_006 (phase_021)]]
-- Connects to [[step_011]]
+- Connects to
 - Related: [[step_020 (phase_063)]]
 - Requires [[Shatter Xphb]]
 - Affected by [[NPC00509_Caelum_Silverleaf_the_Scholar]]
@@ -289,7 +283,6 @@ Requires champions for trial by combat
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

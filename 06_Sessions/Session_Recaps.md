@@ -17,7 +17,6 @@ aliases: [Session Recaps]
 - [[#Connections|Connections]]
 - [[#Visual References|Visual References]]
 
-
 -tags: [generated, linked, combat]ed]
 created: 2025-08-15T12:34:11.169218
 ---
@@ -73,12 +72,10 @@ Following rumors of cult activity, the party descended...
 - [[NPC01682_Vesper_Blackstone_the_Guardian]]
 - [[Session_Recaps]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -122,24 +119,24 @@ Following rumors of cult activity, the party descended...
 - Connects to [[EVENT00092_Natural_Event_93]]
 - Parallels [[Quest - The Siren's Price_1 (01_Adventures)]]
 - Requires [[The Singing Trenches]]
-- Compare with [[step_028]]
+- Compare with
 - Influences [[guardian-of-faith-xphb (spells)]]
 - Parallels [[NPC01734_Kaelen_Hawthorne_the_Seeker]]
 - Compare with [[ITEM00021_Frost_Staff_of_Slaying]]
 - Connects to [[Deep Current Network 2]]
 - See also: [[Portrait NPC the Current Merchants the Current Merchants.svg_1 (Portraits)]]
 - See also: [[SHOP00003_Magical_Shop_4]]
-- See also: [[step_073]]
+- See also:
 - Compare with [[Drow Spore Servant Oota]]
-- Compare with [[step_001]]
+- Compare with
 - Affected by [[step_011 (phase_097)]]
-- See also: [[step_034]]
+- See also:
 - Compare with [[The Puppet Master]]
 - Originates from [[NPC01724_Fiora_Lightbringer_the_Swift]]
 - Influences [[QUEST00056_Main_Quest_57]]
 - Parallels [[step_100 (phase_046)]]
 - Parallels [[Street Urchin Gang]]
-- Parallels [[step_084]]
+- Parallels
 - Leads to [[Ogre Chain Brute Mpmm]]
 - Requires [[Gamma-Enforcement (Lore)]]
 - Parallels [[Drill Sergeant Discipline]]
@@ -158,7 +155,7 @@ Following rumors of cult activity, the party descended...
 - Originates from [[NPC01717_Faelyn_Frostwhisper_the_Lost]]
 - Originates from [[LOC00000_Cities_Location_1]]
 - Compare with [[ITEM01094_Distilled_Herb_of_Clarity]]
-- Originates from [[step_089]]
+- Originates from
 - Influences [[The Forgotten Collective]]
 - Requires [[The Authentication Crisis]]
 - Connects to [[LOC00289_Wilderness_Location_290]]

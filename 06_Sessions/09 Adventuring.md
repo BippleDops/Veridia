@@ -18,7 +18,6 @@ aliases: [09 Adventuring]
 - [[#See Also|See Also]]
 - [[#Related Content|Related Content]]
 
-
 ---
 
 title: 09 Adventuring
@@ -67,11 +66,9 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - [[09-adventuring#Movement#Mounts and Vehicles]]
 - [[09-adventuring#Movement#Travel Pace]]
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This character is not who they seem
@@ -107,8 +104,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - [[Character_Journal_Template]]
 - [[MOC_Items]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -121,7 +117,6 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Movement**: See ACX p.190-192
-
 
 ## D&D 5e References
 
@@ -144,12 +139,12 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Requires [[step_036 (phase_082)]]
 - Leads to [[yuan-ti-infiltrator-xmm]]
 - Originates from [[Quest - Moral Choices]]
-- Influences [[step_063]]
+- Influences
 - Influences [[Portrait NPC Captain Tempest Eye Marelda V1 Captain Tempest Eye Marelda.svg]]
 - Compare with [[LOC00157_Towns_Location_158]]
 - Affected by [[Portrait NPC Captain Nerion Deepward Captain Nerion Deepward.svg]]
 - Related: [[portrait-npc-the-emergence-v1-the-emergence.svg_1 (Portraits)]]
-- Parallels [[step_032]]
+- Parallels
 - Influences [[The Resistance Formation]]
 - Influences [[The Cerulean Archipelago]]
 - Related: [[step_042 (phase_089)]]
@@ -168,7 +163,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Parallels [[step_034 (phase_089)]]
 - Compare with [[Reality Control Player]]
 - See also: [[iron-bands-of-bilarro-xdmg (items)]]
-- Affected by [[step_010]]
+- Affected by
 - Affected by [[Location City Historian Lisa Outreach V1 Historian Lisa Outreach.svg]]
 - Originates from [[location-city-crystal-speak-v1-crystal-speak.png]]
 - Requires [[Rising Dark]]
@@ -191,15 +186,15 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Connects to [[soul-cage-xge (spells)]]
 - Affected by [[Museums]]
 - Influences [[step_084 (phase_005)]]
-- Compare with [[step_011]]
-- Requires [[step_091]]
+- Compare with
+- Requires
 - Affected by [[02_Worldbuilding_Equipment_Cellular_Shadow_Trackers]]
 - Leads to [[Assets Locations Location City Keeper Aquaeous Depth Scholar V1 Keeper Aquaeous Depth Scholar.svg]]
 - Compare with [[step_061 (phase_081)]]
-- Affected by [[step_003]]
+- Affected by
 - Connects to [[Location City Marina Dreamwhisper V1 Marina Dreamwhisper.svg]]
 - Leads to [[Dimensional Anomalies]]
-- Compare with [[step_037]]
+- Compare with
 - Influences [[Wave Traderwind]]
 - Requires [[LOC00059_Dungeons_Location_60]]
 - Compare with [[grassland-encounters-levels-15-xge (tables)]]
@@ -207,10 +202,10 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Influences [[Location City Pressure Lock Systems Pressure Lock Systems.svg]]
 - Connects to [[EVENT00046_Natural_Event_47]]
 - Parallels [[ITEM0009_Blessed_Shield_of_Power]]
-- Affected by [[step_058]]
+- Affected by
 - Parallels [[cow-vgm (beast)]]
-- Affected by [[step_093]]
-- See also: [[step_043]]
+- Affected by
+- See also:
 - Influences [[Community Coordinator Kelp Bondweaver (D&D_References)]]
 - Related: [[ENC00095_Combat_Encounter_96]]
 - Leads to [[step_069 (phase_035)]]
@@ -220,19 +215,19 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - See also: [[Quest - Harbor Security]]
 - See also: [[The Memory Storm Fields (D&D_References)]]
 - Influences [[Assets Locations Location City Shadow Portal Nexus Shadow Portal Nexus.svg]]
-- Affected by [[step_092]]
+- Affected by
 - Originates from [[Green Slime Xdmg]]
 - Influences [[Weather Warden Storm Wisdom]]
 - Leads to [[The Deepwater Terminal]]
 - Related: [[MON00156_Constructs_Creature_157]]
 - Influences [[The Shadowmere Territories]]
-- Connects to [[step_034]]
+- Connects to
 - See also: [[step_009 (phase_087)]]
 - Related: [[ENC00233_Combat_Encounter_234]]
 - Related: [[adventuring-gear-container-capacity-phb (tables)]]
 - Leads to [[step_032 (phase_096)]]
 - Requires [[LOC00209_Towns_Location_210]]
-- Leads to [[step_074]]
+- Leads to
 - See also: [[Master Kallan Shimmerstone]]
 - Leads to [[The Order of the Silent Vigil]]
 - Parallels [[Senator Glaucus Brain]]

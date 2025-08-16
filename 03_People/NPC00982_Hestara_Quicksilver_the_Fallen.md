@@ -9,7 +9,6 @@ aliases: [NPC00982 Hestara Quicksilver the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00982 Hestara Quicksilver the Fallen]
 - [[#Corvus Moonshadow the Fallen (Personal - Love interest)|Corvus Moonshadow the Fallen (Personal - Love interest)]]
 - [[#Alaric Xendar the Guardian (Personal - Nemesis)|Alaric Xendar the Guardian (Personal - Nemesis)]]
 - [[#Zephyr Jadeclaw the Scholar (Professional - Employee)|Zephyr Jadeclaw the Scholar (Professional - Employee)]]
-
 
 ---
 aliases: ["Hestara Quicksilver the Fallen", "hestara quicksilver the fallen", "Hestara Quicksilver Fallen", "Fallen the Quicksilver Hestara"]
@@ -145,32 +143,28 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.225Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Parallels [[step_057]]
+- Parallels
 - Compare with [[QUEST00493_Side_Quest_494]]
 - Parallels [[Crystal Corruption (D&D_References)]]
 - Compare with [[Unity Shard Mechanics]]
 - See also: [[The First Truth]]
 - Originates from [[step_072 (phase_093)]]
 - Requires [[galley-xphb (items)]]
-- Originates from [[step_039]]
+- Originates from
 - Originates from [[Key Locations]]
 - Requires [[step_007 (phase_082)]]
 - Connects to [[Knowledge Truthseeker 2]]
@@ -193,11 +187,11 @@ Seeks rare merchandise
 - Leads to [[Vault Maintenance Checklist (D&D_References)]]
 - Leads to [[Assets Vehicles Vehicle Ship Sky Cutter Interceptor V2 Sky Cutter Interceptor.svg]]
 - Parallels [[LORE00193_History_Entry_194]]
-- Related: [[step_087]]
+- Related:
 - Requires [[EVENT00078_Political_Event_79]]
 - Originates from [[Archive of Forgotten Depths]]
 - See also: [[AUTONOMOUS_SYSTEM_ACTIVE]]
-- See also: [[step_022]]
+- See also:
 - See also: [[QUEST00149_Main_Quest_150]]
 - Originates from [[step_099 (phase_059)]]
 - Parallels [[umber-hulk-xmm (monstrosity)]]
@@ -206,7 +200,7 @@ Seeks rare merchandise
 - Influences [[step_067 (phase_084)]]
 - See also: [[Warden Marcus Stonehand (D&D_References)]]
 - Affected by [[Scholarly Theologians (D&D_References)]]
-- Influences [[step_008]]
+- Influences
 - Influences [[LORE0015_History_of_the_Ancient_Pact]]
 - See also: [[Portrait NPC Lord Flux the Inconsistent V1 Lord Flux the Inconsistent.svg]]
 - Requires [[Consequence Chain 4 - Deep Mother Awakening]]
@@ -233,7 +227,7 @@ Seeks rare merchandise
 - Leads to [[NPC1_Quick_Ref]]
 - Compare with [[Shadow Surgical Instruments (D&D_References)]]
 - Originates from [[ITEM00290_Blessed_Sword_of_Wounding]]
-- Affected by [[step_038]]
+- Affected by
 - Influences [[step_035 (phase_048)]]
 - Related: [[step_036 (phase_091)]]
 - See also: [[Assets Locations Location City War of the Sunless Depths War of the Sunless Depths.svg]]
@@ -244,7 +238,7 @@ Seeks rare merchandise
 - Requires [[MOC_Lore]]
 - Requires [[LOC0058_FortVale]]
 - Leads to [[Assets Locations Location City Abyssos Prime Docks V1 Abyssos Prime Docks.svg]]
-- Connects to [[step_015]]
+- Connects to
 - Affected by [[undead-spirit-xphb (undead)]]
 - Originates from [[EVENT00036_Natural_Event_37]]
 - Compare with [[Campaign Index 3 (D&D_References)]]
@@ -254,13 +248,13 @@ Seeks rare merchandise
 - Connects to [[Assets Portraits Portrait NPC Shadow Citizenship Act Shadow Citizenship Act.svg]]
 - Parallels [[Elk Xmm]]
 - Related: [[NPC01841_Malakai_Nightfall_the_Wise]]
-- Connects to [[step_092]]
+- Connects to
 - Compare with [[Assets Locations Location City Master Jeweler Sapphire Delicatehand Master Jeweler Sapphire Delicatehand.svg]]
 - Requires [[The Depth Compass 2]]
 - Related: [[Coral Reef Sanctuaries 2]]
 - Leads to [[Location City Temple of the Deep Waters V1 Temple of the Deep Waters.svg]]
 - Related: [[Location City the Bone Palace of Sorrows the Bone Palace of Sorrows.png]]
-- Leads to [[step_079]]
+- Leads to
 - Requires [[Captain Marrow Drinker (D&D_References)]]
 - Originates from [[List Spells Classes Gloom Stalker Xphb]]
 

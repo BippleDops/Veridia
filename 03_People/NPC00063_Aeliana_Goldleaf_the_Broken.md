@@ -18,7 +18,6 @@ aliases: [NPC00063 Aeliana Goldleaf the Broken]
 - [[#Kaelen Silverleaf (Professional - Mentor)|Kaelen Silverleaf (Professional - Mentor)]]
 - [[#Gareth Blackstone (Political - Opposition)|Gareth Blackstone (Political - Opposition)]]
 
-
 ---
 aliases: ["Aeliana Goldleaf the Broken", "aeliana goldleaf the broken", "Aeliana Goldleaf Broken", "Broken the Goldleaf Aeliana"]
 tags: [npc, character]
@@ -152,21 +151,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.118Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -185,9 +180,9 @@ Wants rivals investigated
 - Compare with [[NPC_Relationships]]
 - Requires [[step_017 (phase_068)]]
 - Related: [[step_061 (phase_092)]]
-- Related: [[step_078]]
+- Related:
 - See also: [[step_041 (phase_053)]]
-- Influences [[step_063]]
+- Influences
 - Affected by [[ITEM00794_Divine_Amulet_of_Truth]]
 - Connects to [[NPC Name Generator]]
 - Leads to [[step_050 (phase_095)]]
@@ -197,7 +192,7 @@ Wants rivals investigated
 - Influences [[Meenlock Mpmm]]
 - Requires [[Faction_Tracker (D&D_References)]]
 - Requires [[The Great Drowning Vision]]
-- Parallels [[step_076]]
+- Parallels
 - Affected by [[Shadow Conspiracy Investigation]]
 - Originates from [[step_078 (phase_021)]]
 - Requires [[Emergency Systems Designer Storm Lifesaver]]
@@ -220,17 +215,17 @@ Wants rivals investigated
 - Connects to [[Black Pudding Xmm]]
 - Connects to [[Assets Item Artifact Weird Tank Pota V1 Weird Tank Pota.png]]
 - Requires [[Emergency Response Units]]
-- Requires [[step_036]]
+- Requires
 - Influences [[step_005 (phase_013)]]
 - Related: [[Healing Two Worlds (D&D_References)]]
-- Leads to [[step_059]]
+- Leads to
 - Requires [[List Spells Optional Features Eternal Mountain Defense]]
 - Requires [[step_038 (phase_068)]]
 - Requires [[Assets Locations Location City Chief Engineer Vera Steamheart Chief Engineer Vera Steamheart.svg]]
-- Originates from [[step_029]]
+- Originates from
 - Leads to [[Cultural Festivals Committee (Groups)]]
 - See also: [[Assets Handouts Handout Handout Temple Prayer Sheet Temple Prayer Sheet.png]]
-- Connects to [[step_092]]
+- Connects to
 - See also: [[NPC00070_Erasmus_Silverleaf_the_Wise]]
 - Leads to [[Quest - The Collective Consciousness]]
 - Originates from [[npc_development_framework]]
@@ -275,7 +270,6 @@ Wants rivals investigated
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
 ![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

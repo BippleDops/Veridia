@@ -18,13 +18,12 @@ aliases: [NPC0181 Vera Brightblade]
 - [[#Relationships|Relationships]]
 - [[#Roleplaying|Roleplaying]]
 
-
 ---
 aliases: ["Vera Brightblade", "vera brightblade", "Brightblade Vera"]
 tags: [, generated]
-  - npc
-  - character
-  - generated
+ - npc
+ - character
+ - generated
 type: npc
 ---
 
@@ -149,7 +148,7 @@ Athletics, Persuasion, Stealth
 
 ## Connections
 
-- Influences [[step_043]]
+- Influences
 - Parallels [[Symbol Heraldry the Convergence Seekers V1 the Convergence Seekers.svg]]
 - Parallels [[The Unity Coalition]]
 - Requires [[Location City Deep Mother Spawning Pools V1 Deep Mother Spawning Pools.svg]]
@@ -162,9 +161,9 @@ Athletics, Persuasion, Stealth
 - Influences [[Staff of Growing]]
 - Requires [[ITEM00251_Cursed_Staff_of_Wounding]]
 - See also: [[step_062 (phase_048)]]
-- Requires [[step_019]]
+- Requires
 - Originates from [[Portrait NPC the Royal Treasury Depths V1 the Royal Treasury Depths.svg]]
-- Influences [[step_082]]
+- Influences
 - Parallels [[SPELL00156_Nature_Spell_157]]
 - Affected by [[step_078 (phase_079)]]
 - Compare with [[The Outer Planes Outer Planes Xphb]]
@@ -204,7 +203,7 @@ Athletics, Persuasion, Stealth
 - Influences [[Portrait NPC Madame Crystal Eye V2 Madame Crystal Eye.svg]]
 - Affected by [[Drill Commander Titanius Ironcrystal 2]]
 - Originates from [[GM_Improvement_Tracker]]
-- See also: [[step_096]]
+- See also:
 - Requires [[step_004 (phase_087)]]
 - Connects to [[Location City Maelstrom Palace V1 Maelstrom Palace.svg]]
 - Connects to [[Breaking the Deep (D&D_References)]]
@@ -217,10 +216,10 @@ Athletics, Persuasion, Stealth
 - Parallels [[spell-scroll-level-9-xdmg (items)]]
 - See also: [[Quest - The Deep Mother Situation]]
 - Originates from [[Location City Palace Guard Captain Neutralis V1 Palace Guard Captain Neutralis.png]]
-- Originates from [[step_047]]
+- Originates from
 - Related: [[step_085 (phase_071)]]
 - Influences [[LOC0048_FortHill]]
-- Related: [[step_033]]
+- Related:
 - Requires [[Pearl_Harbor_City]]
 - Originates from [[Survival Codex 2]]
 - Related: [[LORE00179_Legends_Entry_180]]
@@ -233,7 +232,7 @@ Athletics, Persuasion, Stealth
 - Connects to [[NPC01297_Erasmus_Brightblade_the_Bold]]
 - Originates from [[step_026 (phase_065)]]
 - Parallels [[step_016 (phase_046)]]
-- Connects to [[step_067]]
+- Connects to
 - Originates from [[step_009 (phase_039)]]
 - See also: [[Handout Handout Wanted Poster with Reward V3 Wanted Poster with Reward.png]]
 - Leads to [[Skulk Mpmm]]

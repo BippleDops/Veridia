@@ -18,7 +18,6 @@ aliases: [NPC00354 Caelum Dawnstrider the Risen]
 - [[#Fiora Xendar (Family - Child)|Fiora Xendar (Family - Child)]]
 - [[#Xander Xendar (Personal - Childhood friend)|Xander Xendar (Personal - Childhood friend)]]
 
-
 ---
 aliases: ["Caelum Dawnstrider the Risen", "caelum dawnstrider the risen", "Caelum Dawnstrider Risen", "Risen the Dawnstrider Caelum"]
 tags: [npc, character]
@@ -147,28 +146,24 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.152Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Affected by [[step_001 (phase_030)]]
 - See also: [[Assets Symbols Symbol Heraldry the Great Recognition the Great Recognition.svg]]
 - Connects to [[02_Worldbuilding_Groups_The_Resurgent_Tide]]
-- Leads to [[step_095]]
+- Leads to
 - Influences [[QUEST00133_Personal_Quest_134]]
 - See also: [[FAC00080_Orders_81]]
 - Compare with [[Communications Master Signal Cryptkeeper (D&D_References)]]
@@ -189,7 +184,7 @@ Wants rivals investigated
 - Affected by [[QUEST00120_Main_Quest_121]]
 - Affected by [[Long Official Name]]
 - Leads to [[Eberron the Path of Light]]
-- Compare with [[step_090]]
+- Compare with
 - Compare with [[DUN00194_Dungeon_195]]
 - Influences [[step_032 (phase_048)]]
 - Affected by [[10-combat#Reactions]]
@@ -216,7 +211,7 @@ Wants rivals investigated
 - Related: [[Demon Customization Tables Demon Bonds Mtf]]
 - See also: [[NPC00088_Vesper_Oakenshield]]
 - Connects to [[Assets Locations Location City Surface Contacts V1 Surface Contacts.svg]]
-- Compare with [[step_007]]
+- Compare with
 - See also: [[SPELL00041_Arcane_Spell_42]]
 - Originates from [[Location City Magical Theory Schools V1 Magical Theory Schools.svg]]
 - See also: [[Retired Captain Bron Saltbeard 2]]
@@ -256,7 +251,7 @@ Wants rivals investigated
 - Connects to [[NPC01857_Wynne_Crystalbrook_the_Mystic]]
 - Affected by [[Temple of the Deep Current]]
 - Connects to [[Dawn War Melora Dmg]]
-- See also: [[step_033]]
+- See also:
 - Affected by [[step_062 (phase_063)]]
 - See also: [[Dominate Person Xphb]]
 - Compare with [[SPELL00110_Arcane_Spell_111]]
@@ -270,7 +265,6 @@ Wants rivals investigated
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

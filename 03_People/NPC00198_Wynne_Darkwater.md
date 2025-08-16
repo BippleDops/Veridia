@@ -18,7 +18,6 @@ aliases: [NPC00198 Wynne Darkwater]
 - [[#Erasmus Frostwhisper the Wise (Political - Spy)|Erasmus Frostwhisper the Wise (Political - Spy)]]
 - [[#Hilda Underhill (Criminal - Accomplice)|Hilda Underhill (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Wynne Darkwater", "wynne darkwater", "Darkwater Wynne"]
 tags: [npc, character]
@@ -138,35 +137,31 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.134Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Affected by [[Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm]]
 - Influences [[enspelled-weapon-level-5-xdmg (items)]]
 - Leads to [[NPC00663_Alaric_Dawnstrider_the_Strong]]
-- Parallels [[step_011]]
+- Parallels
 - Related: [[Administrator General Vera Crosswind]]
 - Connects to [[manes-xmm (fiend)]]
 - Connects to [[Leather Armor Xphb]]
 - Parallels [[Temple Districts]]
 - Parallels [[step_099 (phase_026)]]
 - Requires [[Sword of Answering Xdmg]]
-- Leads to [[step_004]]
+- Leads to
 - Affected by [[Crystal Singing (D&D_References)]]
 - Affected by [[The Siren's Mask]]
 - Connects to [[Scholars of Lorehold Lorehold Scholars Scc]]
@@ -200,8 +195,8 @@ Needs discrete help with family scandal
 - Leads to [[step_066 (phase_085)]]
 - Requires [[Pirate Lords of the Spiral Depths (D&D_References)]]
 - Connects to [[ENC00263_Social_Encounter_264]]
-- Compare with [[step_070]]
-- Originates from [[step_013]]
+- Compare with
+- Originates from
 - Originates from [[step_051 (phase_090)]]
 - Connects to [[Assets Locations Location City the Shadow Markets New the Shadow Markets New.svg]]
 - Requires [[Houses_and_Nobility - House Deepcurrent]]
@@ -228,7 +223,7 @@ Needs discrete help with family scandal
 - Originates from [[dybbuk-mpmm (fiend)]]
 - Connects to [[step_090 (phase_079)]]
 - Influences [[LORE0015_History_of_the_Ancient_Pact]]
-- Connects to [[step_089]]
+- Connects to
 - Leads to [[Martial Weapon Training Xphb]]
 - Originates from [[Void_Keeper_Sister_Nyx_space]]
 - Affected by [[Chief Diplomat Corallion Reefwright]]
@@ -261,7 +256,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

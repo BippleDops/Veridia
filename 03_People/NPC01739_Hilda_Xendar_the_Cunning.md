@@ -9,7 +9,6 @@ aliases: [NPC01739 Hilda Xendar the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01739 Hilda Xendar the Cunning]
 - [[#Aeliana Emberfall the Cunning (Criminal - Accomplice)|Aeliana Emberfall the Cunning (Criminal - Accomplice)]]
 - [[#Lyanna Crystalbrook the Risen (Professional - Partner)|Lyanna Crystalbrook the Risen (Professional - Partner)]]
 - [[#Drusilla Dawnstrider the Wise (Criminal - Informant)|Drusilla Dawnstrider the Wise (Criminal - Informant)]]
-
 
 ---
 created: 2025-08-15
@@ -152,27 +150,23 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.305Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -182,11 +176,10 @@ Offers deal too good to refuse
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -195,16 +188,16 @@ Offers deal too good to refuse
 - Leads to [[Arcane-Depth Void]]
 - Influences [[deep-scion-mpmm (monstrosity)]]
 - Affected by [[Handout Handout Ancient Prophecy Fragment V2 Ancient Prophecy Fragment.png]]
-- Compare with [[step_065]]
+- Compare with
 - Requires [[Cloud Gardens]]
 - Compare with [[NPC01233_Dara_Ironwood_the_Redeemed]]
 - Parallels [[Recent Events]]
 - Requires [[step_056 (phase_023)]]
 - Parallels [[step_072 (phase_050)]]
 - Originates from [[SHOP00059_Specialty_Shop_60]]
-- Originates from [[step_063]]
+- Originates from
 - Affected by [[LOC00067_Planes_Location_68]]
-- Requires [[step_058]]
+- Requires
 - Leads to [[Soldier Xphb]]
 - Affected by [[step_094 (phase_039)]]
 - Leads to [[step_069 (phase_074)]]
@@ -260,7 +253,7 @@ Offers deal too good to refuse
 - Related: [[QUEST00156_Personal_Quest_157]]
 - Leads to [[Assets Item Artifact Ruby Xdmg V2 Ruby Xdmg.png]]
 - Compare with [[ITEM00199_Blessed_Dagger_of_Accuracy]]
-- Requires [[step_088]]
+- Requires
 - Parallels [[step_092 (phase_051)]]
 - Requires [[step_047 (phase_081)]]
 - Connects to [[Aethermoor to Aquabyssos Transition Guide 3 (D&D_References)]]

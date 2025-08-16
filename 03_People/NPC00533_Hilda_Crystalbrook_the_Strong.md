@@ -18,7 +18,6 @@ aliases: [NPC00533 Hilda Crystalbrook the Strong]
 - [[#Branwen Ironforge the Guardian (Professional - Rival)|Branwen Ironforge the Guardian (Professional - Rival)]]
 - [[#Orion Youngblood the Lost (Family - Cousin)|Orion Youngblood the Lost (Family - Cousin)]]
 
-
 ---
 aliases: ["Hilda Crystalbrook the Strong", "hilda crystalbrook the strong", "Hilda Crystalbrook Strong", "Strong the Crystalbrook Hilda"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.174Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,8 +171,8 @@ Discovered something valuable
 - Originates from [[NPC01985_Gavril_Grimholt_the_Strong]]
 - See also: [[Foreign Affairs Ministr]]
 - Connects to [[Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg]]
-- Compare with [[step_041]]
-- Connects to [[step_099]]
+- Compare with
+- Connects to
 - Connects to [[EVENT00017_Natural_Event_18]]
 - Originates from [[Memorial Traditions]]
 - Related: [[Location City Maintenance Tech Reef Fixwright V1 Maintenance Tech Reef Fixwright.svg]]
@@ -193,7 +188,7 @@ Discovered something valuable
 - Influences [[Scarlet Torrent 2]]
 - Influences [[Magical_Mishaps]]
 - Originates from [[step_078 (phase_041)]]
-- Requires [[step_035]]
+- Requires
 - Compare with [[Portrait NPC Ambassador Korvin Blacktide V2 Ambassador Korvin Blacktide.svg]]
 - Related: [[step_037 (phase_047)]]
 - Leads to [[NPC00955_Malakai_Hawthorne_the_Cunning]]
@@ -223,18 +218,18 @@ Discovered something valuable
 - Connects to [[Guildmaster Harwick]]
 - Influences [[SHOP00035_Specialty_Shop_36]]
 - Parallels [[Location City Banker Cornelius Goldflow Banker Cornelius Goldflow.svg]]
-- See also: [[step_065]]
-- Requires [[step_078]]
+- See also:
+- Requires
 - Parallels [[Archive Guardian Thomas]]
 - Originates from [[step_091 (phase_059)]]
 - See also: [[step_096 (phase_020)]]
 - Connects to [[Assets Locations Location City the Coral Throne V1 the Coral Throne.svg]]
 - Leads to [[crowbar-xphb (items)]]
-- Requires [[step_021]]
+- Requires
 - Influences [[The Siren's Rest Tavern (D&D_Statblocks)]]
 - Affected by [[step_023 (phase_100)]]
 - Originates from [[Loyalty Testing Centers]]
-- Connects to [[step_089]]
+- Connects to
 - Related: [[The Drowned Embassy (D&D_Statblocks)]]
 - Compare with [[The Depth Speaker 2]]
 - Related: [[step_050 (phase_008)]]
@@ -255,7 +250,7 @@ Discovered something valuable
 - See also: [[step_053 (phase_062)]]
 - Requires [[step_016 (phase_067)]]
 - Leads to [[Emergency Coordinator Storm Responsewrigh]]
-- Related: [[step_047]]
+- Related:
 - Originates from [[Throne Room - Heart of Palace (D&D_References)]]
 - Requires [[ITEM00247_Blazing_Staff_of_Power]]
 - Parallels [[Training Sergeant Major Veteran Teachstrike]]
@@ -273,7 +268,6 @@ Discovered something valuable
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

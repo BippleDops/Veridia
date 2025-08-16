@@ -18,7 +18,6 @@ aliases: [NPC01807 Cedric Underhill the Seeker]
 - [[#Lyanna Ironwood the Broken (Family - Spouse)|Lyanna Ironwood the Broken (Family - Spouse)]]
 - [[#Delara Ravenheart the Cunning (Professional - Mentor)|Delara Ravenheart the Cunning (Professional - Mentor)]]
 
-
 ---
 aliases: ["Cedric Underhill the Seeker", "cedric underhill the seeker", "Cedric Underhill Seeker", "Seeker the Underhill Cedric"]
 tags: [npc, character]
@@ -157,21 +156,17 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.312Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,20 +176,20 @@ Offers deal too good to refuse
 - Originates from [[Instrument of the Bards Mac Fuirmidh Cittern]]
 - Compare with [[QUEST00026_Personal_Quest_27]]
 - See also: [[sentinel-xphb (feats)]]
-- Compare with [[step_095]]
+- Compare with
 - Leads to [[step_030 (phase_099)]]
 - Originates from [[Economic Interests (D&D_References)]]
-- Affected by [[step_074]]
+- Affected by
 - See also: [[The Scales of Fortune 2]]
 - See also: [[Project Image Xphb]]
 - Parallels [[Shadow Physiology and Anatomy 2]]
 - Parallels [[MON00036_Undead_Creature_37]]
 - Parallels [[upper-class-carousing-complications-xge (tables)]]
-- Leads to [[step_097]]
+- Leads to
 - Affected by [[Assets Locations Location City the Singing Shadows V1 the Singing Shadows.svg]]
 - Originates from [[Drow Zinzerena Mtf]]
 - Compare with [[Portrait NPC Unite the Emperor V1 Unite the Emperor.svg_1 (Portraits)]]
-- Originates from [[step_051]]
+- Originates from
 - Connects to [[LORE00317_Legends_Entry_318]]
 - Connects to [[Save Queen Seraphina]]
 - Influences [[Gnome Names Male Xge]]
@@ -220,18 +215,18 @@ Offers deal too good to refuse
 - Related: [[MON00050_Aberrations_Creature_51]]
 - Affected by [[Caravan Master Dolrim]]
 - Compare with [[Merchant Quarter Districts 2]]
-- Related: [[step_051]]
+- Related:
 - Connects to [[LOC00039_Dungeons_Location_40]]
 - Influences [[LOC00049_Towns_Location_50]]
 - Compare with [[ITEM00080_Frost_Dagger_of_the_Ancients]]
 - Parallels [[LOC00198_Cities_Location_199]]
 - Parallels [[Symbol Heraldry Aquabyssos Faction Web V1 Aquabyssos Faction Web.svg]]
-- Parallels [[step_017]]
+- Parallels
 - See also: [[Tools Dual State Sensors]]
 - See also: [[ENC00226_Combat_Encounter_227]]
 - Affected by [[The Threshold]]
 - Requires [[Pressure Crystals]]
-- Originates from [[step_078]]
+- Originates from
 - Connects to [[wand-of-magic-missiles-xdmg (items)]]
 - Originates from [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
 - Compare with [[Random Settlements Notable Traits]]
@@ -241,7 +236,7 @@ Offers deal too good to refuse
 - Affected by [[Assets Locations Location City Specimen Careful Lifeguard Specimen Careful Lifeguard.svg]]
 - Compare with [[step_073 (phase_025)]]
 - Originates from [[Assets Locations Location City Kelp Forest Constituencies Kelp Forest Constituencies.svg]]
-- Parallels [[step_047]]
+- Parallels
 - Parallels [[giant-eagle-xmm]]
 - Connects to [[dragonlance-gilean-phb (deities)]]
 - Influences [[Portrait NPC Commander Thrace Ironwood V1 Commander Thrace Ironwood.svg_1 (Portraits)]]
@@ -255,12 +250,12 @@ Offers deal too good to refuse
 - Affected by [[ENC00259_Social_Encounter_260]]
 - Related: [[The Greek Pantheon Greek Deities Phb]]
 - Affected by [[NPC01804_Xander_Ravenheart_the_Scholar]]
-- Related: [[step_012]]
+- Related:
 - Parallels [[Grassland Encounters Levels 1720 Xge]]
-- Requires [[step_023]]
+- Requires
 - Parallels [[NPC01062_Gareth_Goldleaf_the_Mystic]]
 - Connects to [[Portrait NPC Crys... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- Originates from [[step_008]]
+- Originates from
 - Related: [[step_020 (phase_087)]]
 - Originates from [[Hover Xphb]]
 - Originates from [[step_002 (phase_042)]]
@@ -280,7 +275,6 @@ Offers deal too good to refuse
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [Downtime Activities]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 -tags: [rules, downtime, activities, combat]es]
 created: 2025-08-15T14:13:16.708781
 ---
@@ -74,13 +73,11 @@ created: 2025-08-15T14:13:16.708781
 - [[NPC01827_Kaelen_Ironforge_the_Seeker]]
 - [[NPC01040_Zephyr_Lightbringer_the_Strong]]
 - [[11 Spellcasting]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -95,15 +92,15 @@ created: 2025-08-15T14:13:16.708781
 - Leads to [[step_100 (phase_030)]]
 - Connects to [[Environmental Protection Authorit (D&D_References)]]
 - Parallels [[Abyssos Prime Government (D&D_References)]]
-- Requires [[step_072]]
+- Requires
 - Parallels [[LORE00160_Legends_Entry_161]]
 - Related: [[Embassy Row]]
 - See also: [[Assets Portraits Portrait NPC Quest the Throne Succession Quest the Throne Succession.svg]]
 - Parallels [[Bloom Field Cultivation Guil]]
 - Originates from [[Nonhuman Skoraeus Stonebones]]
-- Influences [[step_099]]
-- Parallels [[step_049]]
-- Leads to [[step_031]]
+- Influences
+- Parallels
+- Leads to
 - Parallels [[FAC00017_Cults_18]]
 - Affected by [[The Breathing Stone]]
 - Affected by [[Quest - Hunt the Shadows]]
@@ -117,7 +114,7 @@ created: 2025-08-15T14:13:16.708781
 - Affected by [[NPC00611_Thalia_Keenblade_the_Mystic]]
 - Originates from [[Location City the Maritime Quarter the Maritime Quarter.svg]]
 - Parallels [[LOC00291_Cities_Location_292]]
-- Affected by [[step_035]]
+- Affected by
 - Originates from [[Location City Pilgrim Guide Nautilus Pathfinder V1 Pilgrim Guide Nautilus Pathfinder.svg]]
 - Affected by [[Shadow Political Representation]]
 - See also: [[step_048 (phase_058)]]
@@ -162,7 +159,7 @@ created: 2025-08-15T14:13:16.708781
 - Related: [[Star Rose Quartz Xdmg]]
 - Related: [[ENC00178_Combat_Encounter_179]]
 - Connects to [[step_042 (phase_041)]]
-- Related: [[step_022]]
+- Related:
 - Requires [[step_075 (phase_058)]]
 - See also: [[Portrait NPC the Bloodline Awakens V1 the Bloodline Awakens.svg_1 (Portraits)]]
 - Compare with [[ITEM00566_Mithril_Leather_of_Resistance]]
@@ -185,7 +182,7 @@ created: 2025-08-15T14:13:16.708781
 - Connects to [[step_003 (phase_053)]]
 - Compare with [[The Soul Market]]
 - Leads to [[Community Elder Mistweave 2]]
-- Compare with [[step_010]]
+- Compare with
 - Requires [[step_007 (phase_025)]]
 - Connects to [[Assets Locations Location City Pilgrim Guide Nautilus Pathfinder Pilgrim Guide Nautilus Pathfinder.svg]]
 - See also: [[Portrait NPC Working Class Citizens V1 Working Class Citizens.svg_1 (Portraits)]]

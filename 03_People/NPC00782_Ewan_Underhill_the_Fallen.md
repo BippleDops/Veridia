@@ -9,7 +9,6 @@ aliases: [NPC00782 Ewan Underhill the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00782 Ewan Underhill the Fallen]
 - [[#Xander Ironwood the Wanderer (Professional - Mentor)|Xander Ironwood the Wanderer (Professional - Mentor)]]
 - [[#Orion Oakenshield the Wanderer (Criminal - Target)|Orion Oakenshield the Wanderer (Criminal - Target)]]
 - [[#Wynne Ironforge the Broken (Political - Opposition)|Wynne Ironforge the Broken (Political - Opposition)]]
-
 
 ---
 aliases: ["Ewan Underhill the Fallen", "ewan underhill the fallen", "Ewan Underhill Fallen", "Fallen the Underhill Ewan"]
@@ -155,27 +153,23 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.201Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Parallels [[step_037 (phase_015)]]
 - Requires [[Doctor Harmony Whisperfall 2]]
-- Parallels [[step_096]]
+- Parallels
 - Affected by [[Fount of Moonlight Xphb]]
 - Compare with [[Symbol Heraldry Factional Conflicts Factional Conflicts.svg_1 (Symbols)]]
 - Affected by [[Mechanics Magic Items]]
@@ -206,7 +200,7 @@ Discovered something valuable
 - Influences [[Xvart Warlock of Raxivort Mpmm]]
 - See also: [[LOC00266_Dungeons_Location_267]]
 - Affected by [[Assets Locations Location City Education Department V1 Education Department.svg]]
-- Related: [[step_028]]
+- Related:
 - Compare with [[Location City Crystal Palace Complex V1 Crystal Palace Complex.svg]]
 - Originates from [[Portrait NPC Lady Vivienne Thornwhisper V2 Lady Vivienne Thornwhisper.svg]]
 - Leads to [[The Coral Palace Complex 2]]
@@ -220,11 +214,11 @@ Discovered something valuable
 - Connects to [[Deep Mother Zealots (D&D_References)]]
 - Leads to [[location-city-noble-quarter-noble-quarter.svg]]
 - Influences [[step_093 (phase_014)]]
-- Originates from [[step_096]]
+- Originates from
 - Leads to [[The Inter-Realm Marriage Guild (Guilds)]]
 - Originates from [[Symbol Heraldry the Question Council the Question Council.svg]]
 - See also: [[New Action Breath Weapon Mm]]
-- Affected by [[step_089]]
+- Affected by
 - Related: [[sorcerer-xphb-shadow-magic-xge (classes)]]
 - Compare with [[Chronokeeper Tide Timestable]]
 - Influences [[Portrait NPC King Marcus Lumengarde V1 King Marcus Lumengarde.svg]]
@@ -233,7 +227,7 @@ Discovered something valuable
 - Compare with [[Quest - The Blackmail Papers_1 (01_Adventures)]]
 - Affected by [[Lesser Restoration Xphb]]
 - Parallels [[Assets Locations Location City Replacement Survivor Support Replacement Survivor Support Groups.svg]]
-- Affected by [[step_087]]
+- Affected by
 - See also: [[Recursion_Travel_System]]
 - Leads to [[Master_Narrative_Web.md]]
 - Requires [[Crystal Cleansing Brotherhood 2]]
@@ -254,7 +248,7 @@ Discovered something valuable
 - Connects to [[hold-monster-xphb (spells)]]
 - Originates from [[NPC01969_Cedric_Ironforge_the_Lost]]
 - Affected by [[QUEST00316_Side_Quest_317]]
-- Related: [[step_097]]
+- Related:
 - Affected by [[giant]]
 - Parallels [[Noble Leisure Schedules (D&D_References)]]
 - Originates from [[NPC0135_Petra_Darkwater]]

@@ -18,7 +18,6 @@ aliases: [NPC01144 Orion Hawthorne the Wise]
 - [[#Aldric Darkwater the Risen (Family - Sibling)|Aldric Darkwater the Risen (Family - Sibling)]]
 - [[#Baelor Brightblade the Swift (Political - Puppet)|Baelor Brightblade the Swift (Political - Puppet)]]
 
-
 ---
 aliases: ["Orion Hawthorne the Wise", "orion hawthorne the wise", "Orion Hawthorne Wise", "Wise the Hawthorne Orion"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.242Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -171,7 +166,7 @@ Caravan needs guards
 - Originates from [[EVENT00086_Political_Event_87]]
 - Leads to [[step_085 (phase_010)]]
 - Connects to [[Assets Locations Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg]]
-- Originates from [[step_018]]
+- Originates from
 - Influences [[Investigation Laboratories 2]]
 - Parallels [[step_026 (phase_066)]]
 - Connects to [[step_062 (phase_074)]]
@@ -215,7 +210,7 @@ Caravan needs guards
 - Parallels [[ogre-xmm (giant)]]
 - Originates from [[ITEM00909_Concentrated_Herb_of_Swiftness]]
 - Connects to [[Purification Rituals]]
-- Related: [[step_017]]
+- Related:
 - Affected by [[Aethermoor - Session 05 The Queens Madness]]
 - Connects to [[University Philosophy Departments 2]]
 - Related: [[Item Artifact Dagger of Venom Xdmg V3 Dagger of Venom Xdmg.png]]
@@ -229,14 +224,14 @@ Caravan needs guards
 - Compare with [[Captain Rodrigo Ironanchor (D&D_References)]]
 - Affected by [[step_009 (phase_080)]]
 - Affected by [[Cliffside Manors 2]]
-- Leads to [[step_095]]
+- Leads to
 - Leads to [[The Divine Reunion 2]]
 - Requires [[Deep Mother Sanity System]]
 - Compare with [[FAC00021_Cults_22]]
 - See also: [[Symphony of the Abyss Recipe 2]]
 - Related: [[Symbol Heraldry the Brotherhood of the Black Anchor the Brotherhood of the Black Anchor.svg]]
 - Leads to [[Mediator's Pendant (D&D_References)]]
-- See also: [[step_007]]
+- See also:
 - Affected by [[Memory Thieves Guil]]
 - Influences [[Dwarves in the World Dwarf Adventurer Story]]
 - Parallels [[Convert Monster]]
@@ -252,7 +247,7 @@ Caravan needs guards
 - Connects to [[Palace Security Chief 2]]
 - Influences [[Death Tyrant Xmm (undead)]]
 - Compare with [[Assets Locations Location City the Foundation Depths V1 the Foundation Depths.svg]]
-- See also: [[step_052]]
+- See also:
 - Requires [[step_080 (phase_031)]]
 - Connects to [[Portrait NPC the Depth Wardens the Depth Wardens.svg]]
 - Parallels [[Location City the Bone Colosseum V1 the Bone Colosseum.svg]]
@@ -271,7 +266,6 @@ Caravan needs guards
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

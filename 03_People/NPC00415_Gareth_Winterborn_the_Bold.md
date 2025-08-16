@@ -18,7 +18,6 @@ aliases: [NPC00415 Gareth Winterborn the Bold]
 - [[#Aeliana Underhill the Lost (Criminal - Target)|Aeliana Underhill the Lost (Criminal - Target)]]
 - [[#Nerys Ravenheart the Wanderer (Political - Spy)|Nerys Ravenheart the Wanderer (Political - Spy)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gareth Winterborn the Bold", "gareth winterborn the bold", "Gareth Winterborn Bold", "Bold the Winterborn Garethtags: [npc, character, combat, magic, social, lore]er]
@@ -145,16 +144,13 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.160Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -166,7 +162,6 @@ Modifications:
 - HP: 23
 - AC: 16
 - Notable abilities: Varies by individual
-
 
 > [!tip] 💡 Tip
 > Useful information for players
@@ -203,11 +198,10 @@ Modifications:
 - [[NPC00307_Dara_Proudmore_the_Seeker]]
 - [[NPC01812_Xander_Lightbringer_the_Swift]]
 - [[Complete_NPC_Matrix.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -216,11 +210,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -244,7 +237,7 @@ Modifications:
 - See also: [[Assets Locations Location City [[High Chancellor Nerissa Deepcurrent]] V1 High Chancellor Nerissa Deepcurrent.svg]]
 - See also: [[step_039 (phase_055)]]
 - Leads to [[LORE00130_Legends_Entry_131]]
-- See also: [[step_060]]
+- See also:
 - Requires [[step_050 (phase_088)]]
 - Requires [[Succession Planning]]
 - Originates from [[Weather Warden Storm Wisdom]]
@@ -264,7 +257,7 @@ Modifications:
 - Affected by [[Compulsion Xphb]]
 - Leads to [[Assets Locations [[Location City [[Deep Studycurrent]] Deep Studycurrent.svg]]]]
 - Originates from [[dungeoneers-pack-xphb]]
-- Leads to [[step_003]]
+- Leads to
 - Leads to [[QUEST00120_Main_Quest_121]]
 - Leads to [[[[Aquabyssos]]-[[Aethermoor]] Treaties (D&D_References)]]
 - Related: [[Lord Vexton Shadowmere]]
@@ -283,7 +276,7 @@ Modifications:
 - Originates from [[Counselor Mindbridge (D&D_References)]]
 - Influences [[ENC00062_Environmental_Encounter_63]]
 - See also: [[the-egyptian-pantheon-egyptian-deities-phb (tables)]]
-- Affected by [[step_063]]
+- Affected by
 - Leads to [[magical-effect-xphb (variant-rules)]]
 - Connects to [[transmuted-spell-xphb (optional-features)]]
 - Leads to [[Lute Xphb]]
@@ -298,7 +291,7 @@ Modifications:
 - Leads to [[The Abyssal Prophet 2]]
 - Connects to [[MON0000_Shadow_Stalker]]
 - Connects to [[step_100 (phase_012)]]
-- Related: [[step_092]]
+- Related:
 - Leads to [[Player Notes (02_Worldbuilding)]]
 - Connects to [[Assets Locations Location City [[The Frozen Throne]] V1 the Frozen Throne.svg]]
 - Compare with [[step_056 (phase_060)]]
@@ -324,16 +317,16 @@ Modifications:
 - Affected by [[step_013 (phase_014)]]
 - Originates from [[step_093 (phase_034)]]
 - Originates from [[Colonial Administration 2]]
-- Originates from [[step_073]]
+- Originates from
 - Parallels [[NPC01381_Hilda_Underhill_the_Fallen]]
-- Influences [[step_095]]
+- Influences
 - See also: [[LORE00257_Prophecies_Entry_258]]
 - Compare with [[DUN00100_Dungeon_101]]
 - See also: [[step_004 (phase_013)]]
 - Parallels [[blessing-of-protection-xdmg (rewards)]]
 - Connects to [[step_023 (phase_089)]]
 - See also: [[The Great Forgetting]]
-- Connects to [[step_097]]
+- Connects to
 - See also: [[Private Arbitration]]
 - Originates from [[[[The Archive of Unremembered Things]] (D&D_References)]]
 - See also: [[ENC00162_Social_Encounter_163]]
@@ -344,7 +337,6 @@ Modifications:
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

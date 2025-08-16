@@ -18,7 +18,6 @@ aliases: [NPC00993 Faelyn Silverleaf the Seeker]
 - [[#Faelyn Ashford the Strong (Personal - Nemesis)|Faelyn Ashford the Strong (Personal - Nemesis)]]
 - [[#Erasmus Emberfall the Seeker (Family - Spouse)|Erasmus Emberfall the Seeker (Family - Spouse)]]
 
-
 ---
 aliases: ["Faelyn Silverleaf the Seeker", "faelyn silverleaf the seeker", "Faelyn Silverleaf Seeker", "Seeker the Silverleaf Faelyn"]
 tags: [npc, character]
@@ -156,21 +155,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.226Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -180,8 +175,8 @@ Caravan needs guards
 - Compare with [[step_012 (phase_087)]]
 - Parallels [[Player_Portal.md]]
 - Leads to [[ENC0077_Random_Encounter_78]]
-- Connects to [[step_034]]
-- Affected by [[step_020]]
+- Connects to
+- Affected by
 - Parallels [[starting-equipment-at-higher-levels-xphb (tables)]]
 - Influences [[Pier 7 (D&D_References)]]
 - Parallels [[Noble_House_Family_Networks]]
@@ -189,9 +184,9 @@ Caravan needs guards
 - Compare with [[ITEM00598_Adamantine_Leather_of_Protection]]
 - Parallels [[amarith-coppervein-oota]]
 - Compare with [[step_003 (phase_094)]]
-- Related: [[step_076]]
+- Related:
 - Leads to [[Assets Vehicles Vehicle Ship Harbor Guardian Gunboat V2 Harbor Guardian Gunboat.svg]]
-- Originates from [[step_065]]
+- Originates from
 - Connects to [[LOC00135_Wilderness_Location_136]]
 - Compare with [[step_076 (phase_067)]]
 - Affected by [[Assets Locations Location City Stormwind Supplies Stormwind Supplies.png]]
@@ -213,23 +208,23 @@ Caravan needs guards
 - Influences [[step_056 (phase_011)]]
 - Leads to [[ITEM00936_Greater_Powder_of_Healing]]
 - Parallels [[Location Name (Lore)]]
-- Connects to [[step_025]]
+- Connects to
 - Compare with [[Copper Dragon]]
 - Leads to [[Exhaustio]]
 - Related: [[Free Captains Alliance]]
 - Parallels [[Master Conductor Nereus Voidcaller]]
 - Originates from [[Educational Institutions]]
-- Influences [[step_046]]
+- Influences
 - Requires [[Memory Manipulation Mechanics]]
 - Parallels [[skills#Sleight of Hand]]
 - Related: [[Elder Dee (D&D_References)]]
 - Related: [[The False History Crisis 2]]
-- See also: [[step_033]]
+- See also:
 - Parallels [[Assets Portraits Portrait NPC High King Aurelius Skyborn High King Aurelius Skyborn.svg]]
-- Affected by [[step_003]]
+- Affected by
 - Originates from [[ENC00118_Social_Encounter_119]]
-- Compare with [[step_015]]
-- Requires [[step_006]]
+- Compare with
+- Requires
 - Originates from [[step_016 (phase_076)]]
 - Compare with [[step_046 (phase_055)]]
 - Influences [[NPC00052_Thalia_Dawnstrider]]
@@ -259,8 +254,8 @@ Caravan needs guards
 - Affected by [[The Professional Training Academy]]
 - Originates from [[ENC00332_Combat_Encounter_333]]
 - Affected by [[Portrait NPC Shadow Broker Mist Shadow Broker Mist.svg]]
-- Requires [[step_012]]
-- Connects to [[step_007]]
+- Requires
+- Connects to
 - Connects to [[Seven Pillars of Redirection Theory]]
 - Leads to [[Location City Voices From Below V1 Voices From Below.svg]]
 - Connects to [[location-city-depth-plague-depth-plague.svg]]
@@ -279,7 +274,6 @@ Caravan needs guards
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

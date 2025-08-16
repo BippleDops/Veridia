@@ -18,7 +18,6 @@ aliases: [NPC00996 Ewan Ashford the Mystic]
 - [[#Aeliana Blackstone the Wanderer (Professional - Partner)|Aeliana Blackstone the Wanderer (Professional - Partner)]]
 - [[#Elric Emberfall the Bold (Criminal - Accomplice)|Elric Emberfall the Bold (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Ewan Ashford the Mystic", "ewan ashford the mystic", "Ewan Ashford Mystic", "Mystic the Ashford Ewan"]
 tags: [npc, character]
@@ -152,26 +151,22 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.226Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Compare with [[Mouth of Grolantor Mpmm]]
-- Parallels [[step_055]]
+- Parallels
 - See also: [[Port Meridian Harbor District (D&D_References)]]
 - Related: [[Location City Culinary Dreamweaver Sage Gentlespice Culinary Dreamweaver Sage Gentlespice.svg]]
 - See also: [[LOC00190_Dungeons_Location_191]]
@@ -192,7 +187,7 @@ Competitor sabotaging business
 - See also: [[step_031 (phase_013)]]
 - Originates from [[NPC0115_Katarina_Goldleaf]]
 - Requires [[The Crystal Express]]
-- Related: [[step_012]]
+- Related:
 - Influences [[Portrait NPC Merchant Captain Trade V2 Merchant Captain Trade.svg]]
 - Connects to [[NPC01452_Dara_Hawthorne_the_Fallen]]
 - Affected by [[step_007 (phase_061)]]
@@ -204,7 +199,7 @@ Competitor sabotaging business
 - See also: [[guide-xphb (backgrounds)]]
 - See also: [[EVENT00073_Political_Event_74]]
 - Connects to [[The Rationing Authority]]
-- Influences [[step_078]]
+- Influences
 - Related: [[korred-mpmm (fey)]]
 - Compare with [[Chain Mail Xphb]]
 - Originates from [[spirit-troll-mpmm (giant)]]
@@ -275,7 +270,6 @@ Competitor sabotaging business
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

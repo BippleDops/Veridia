@@ -18,7 +18,6 @@ aliases: [12 Spells]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 12 Spells
@@ -69,11 +68,9 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Ancient magic still lingers here
@@ -254,8 +251,7 @@ Holds a clue about the ancient prophecy
 - [[MOC_Quests]]
 - [[MOC_Rules]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[11 Rules Glossary]]
@@ -268,7 +264,6 @@ Holds a clue about the ancient prophecy
 - **Death Saves**: See ACX p.197
 - **Movement**: See ACX p.190-192
 - **Spellcasting**: See ACX p.201-205
-
 
 ## Thematic Connections
 - Magical theory from [[Schools of Magic]]
@@ -299,7 +294,7 @@ Holds a clue about the ancient prophecy
 - Parallels [[SPELL00022_Nature_Spell_23]]
 - Compare with [[NPC00700_Corvus_Hawthorne_the_Broken]]
 - Leads to [[ENC00062_Environmental_Encounter_63]]
-- Connects to [[step_072]]
+- Connects to
 - Connects to [[The Seventh Shard (D&D_References)]]
 - Leads to [[Chief Researcher Prism Studywright]]
 - Related: [[Travel Calculator 2]]
@@ -316,7 +311,7 @@ Holds a clue about the ancient prophecy
 - Originates from [[River of Hungry Flame]]
 - Influences [[Corallion (D&D_References)]]
 - Requires [[Portrait NPC Ethics Coordinator Elena Compassion V1 Ethics Coordinator Elena Compassion.svg]]
-- Requires [[step_031]]
+- Requires
 - Requires [[Uniting the Factions]]
 - See also: [[NPC01565_Felicia_Zephyrblade_the_Redeemed]]
 - Compare with [[sprig-of-mistletoe-xphb (items)]]
@@ -325,13 +320,13 @@ Holds a clue about the ancient prophecy
 - Parallels [[location-city-golden-coral-golden-coral.svg]]
 - Compare with [[NPC00236_Dara_Brightblade]]
 - Requires [[step_044 (phase_023)]]
-- Influences [[step_012]]
+- Influences
 - Connects to [[Three Dragon Ante Set Xphb]]
 - Requires [[Memory Thief 2]]
 - Influences [[step_014 (phase_097)]]
 - Related: [[The Great Convergence Prophecies (Lore)]]
 - Influences [[Assets Locations Location City Envoy Blackwater Jr Envoy Blackwater Jr.svg]]
-- Leads to [[step_050]]
+- Leads to
 - Affected by [[Hazards Crystal Plague]]
 - Parallels [[LOC00053_Dungeons_Location_54]]
 - Parallels [[Downtime Activity Crafting an Item Xge]]
@@ -340,7 +335,7 @@ Holds a clue about the ancient prophecy
 - Parallels [[Altitude & Wind Effects]]
 - Influences [[NPC01216_Elric_Darkwater_the_Lost]]
 - Connects to [[Research Outcomes Xge]]
-- Originates from [[step_067]]
+- Originates from
 - Connects to [[SPELL00124_Arcane_Spell_125]]
 - Originates from [[Port Meridian - Market Square]]
 - Originates from [[step_062 (phase_100)]]
@@ -374,16 +369,16 @@ Holds a clue about the ancient prophecy
 - See also: [[construct]]
 - Connects to [[Shadow Community Political Power]]
 - Compare with [[Foreign Shadow Syndicates]]
-- Originates from [[step_053]]
+- Originates from
 - Originates from [[Elder Brain Mpmm]]
 - Affected by [[Assets Locations Location City Coral Craftsman Coral Craftsman.svg]]
 - Connects to [[The Depth Reapers]]
-- Connects to [[step_052]]
+- Connects to
 - Affected by [[step_077 (phase_043)]]
 - Compare with [[Aquabyssos Memory Currency]]
-- Leads to [[step_058]]
-- See also: [[step_029]]
-- Affected by [[step_016]]
+- Leads to
+- See also:
+- Affected by
 - Requires [[NPC0165_Fiora_Brightblade]]
 - Connects to [[Fire Crystals (D&D_References)]]
 - Requires [[Adaptive Architecture]]

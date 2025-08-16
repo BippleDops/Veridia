@@ -18,7 +18,6 @@ aliases: [Castellan Ironledger]
 - [[#Relationships|Relationships]]
 - [[#Plot Hooks|Plot Hooks]]
 
-
 ---
 aliases: [Castellan_Ironledger, Castellan-Ironledger]
 created: 2025-08-15
@@ -85,17 +84,15 @@ Castellan Ironledger is a character encountered in the campaign world.
 - [[00_Indexes/MOCs/NPCs_MOC]]
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
 ## Game Mechanics
 - **Skills**: See ACX p.174-179
-
 
 ## Connections
 
@@ -123,7 +120,7 @@ Castellan Ironledger is a character encountered in the campaign world.
 - Parallels [[staff-of-frost-xdmg (items)]]
 - See also: [[step_070 (phase_063)]]
 - Affected by [[Young Gold Dragon Xmm]]
-- Affected by [[step_084]]
+- Affected by
 - Related: [[Assets Locations Location City the Living Tide Temples V1 the Living Tide Temples.svg]]
 - Compare with [[09-adventuring#Vision and Light]]
 - Influences [[potion-of-poison-xdmg (items)]]
@@ -132,12 +129,12 @@ Castellan Ironledger is a character encountered in the campaign world.
 - Requires [[step_100 (phase_085)]]
 - Connects to [[Multiclassing Phb]]
 - Affected by [[special-purpose-sentient-items-communication-xdmg]]
-- Affected by [[step_092]]
+- Affected by
 - Influences [[step_050 (phase_028)]]
 - Compare with [[Cave Badger Oota]]
 - Compare with [[LOC00152_Planes_Location_153]]
 - Parallels [[Portrait NPC Lady Shadowmere V1 Lady Shadowmere.svg]]
-- Connects to [[step_073]]
+- Connects to
 - Influences [[young-green-dragon-xmm]]
 - Parallels [[step_095 (phase_012)]]
 - Leads to [[Assets Locations Location City the Bone Colosseum V1 the Bone Colosseum.svg]]
@@ -170,7 +167,7 @@ Castellan Ironledger is a character encountered in the campaign world.
 - Parallels [[ENC00453_Combat_Encounter_454]]
 - Requires [[horn-of-silent-alarm-xdmg (items)]]
 - See also: [[noble-retainers-variant (backgrounds)]]
-- Affected by [[step_011]]
+- Affected by
 - Related: [[Silent Image Xphb]]
 - See also: [[location-city-time-v1-time.svg]]
 - Leads to [[NPC00834_Aldric_Winterborn_the_Wanderer]]
@@ -189,9 +186,9 @@ Castellan Ironledger is a character encountered in the campaign world.
 - Influences [[Enforcer Chief Mako Ironjaw (D&D_References)]]
 - Related: [[LOC00096_Planes_Location_97]]
 - See also: [[black-pudding-xmm]]
-- Leads to [[step_004]]
+- Leads to
 - Originates from [[Symbol Heraldry Navigation Geography Navigation Geography.svg]]
-- Compare with [[step_058]]
+- Compare with
 - Leads to [[step_058 (phase_019)]]
 - Compare with [[QUEST00156_Main_Quest_157]]
 - Originates from [[EVENT00095_Natural_Event_96]]

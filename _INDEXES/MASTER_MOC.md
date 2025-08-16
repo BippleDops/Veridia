@@ -18,7 +18,6 @@ aliases: [MASTER MOC]
 - [[#🔧 System MOCs|🔧 System MOCs]]
 - [[#📂 Organization|📂 Organization]]
 
-
 -tags: [moc, index, navigation, master, combat, magic, exploration, lore]er]
 created: 2025-08-15
 cssclass: master-moc
@@ -104,7 +103,7 @@ LIMIT 10
 ### Orphaned Notes
 ```dataview
 LIST
-FROM "" 
+FROM ""
 WHERE length(file.inlinks) = 0 AND length(file.outlinks) = 0
 LIMIT 10
 ```
@@ -144,7 +143,6 @@ LIMIT 10
 ## Campaign Connection
 Witnessed important events in the past
 
-
 ## Recent NPCs
 ```dataview
 TABLE file.mtime as "Modified"
@@ -178,31 +176,31 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 
 ```mermaid
 graph TD
-    A[Royal Family] -->|Controls| B[Military]
-    A -->|Influences| C[Nobility]
-    C -->|Opposes| D[Merchant Guild]
-    D -->|Funds| E[Thieves Guild]
-    E -->|Blackmails| C
-    B -->|Protects| A
-    F[Common Folk] -->|Supports| D
-    F -->|Fears| B
+ A[Royal Family] -->|Controls| B[Military]
+ A -->|Influences| C[Nobility]
+ C -->|Opposes| D[Merchant Guild]
+ D -->|Funds| E[Thieves Guild]
+ E -->|Blackmails| C
+ B -->|Protects| A
+ F[Common Folk] -->|Supports| D
+ F -->|Fears| B
 ```
 
 ## Quest Flow
 
 ```mermaid
 flowchart LR
-    Start([Quest Start]) --> Meet[Meet Quest Giver]
-    Meet --> Info[Gather Information]
-    Info --> Travel[Travel to Location]
-    Travel --> Encounter[Random Encounter]
-    Encounter --> Location[Arrive at Location]
-    Location --> Challenge[Face Challenge]
-    Challenge --> Success{Success?}
-    Success -->|Yes| Reward[Receive Reward]
-    Success -->|No| Retry[Retry or Fail]
-    Reward --> End([Quest Complete])
-    Retry --> Challenge
+ Start([Quest Start]) --> Meet[Meet Quest Giver]
+ Meet --> Info[Gather Information]
+ Info --> Travel[Travel to Location]
+ Travel --> Encounter[Random Encounter]
+ Encounter --> Location[Arrive at Location]
+ Location --> Challenge[Face Challenge]
+ Challenge --> Success{Success?}
+ Success -->|Yes| Reward[Receive Reward]
+ Success -->|No| Retry[Retry or Fail]
+ Reward --> End([Quest Complete])
+ Retry --> Challenge
 ```
 ## See Also
 - [[NPC01841_Malakai_Nightfall_the_Wise]]
@@ -236,8 +234,7 @@ flowchart LR
 - [[Item_Catalog_Complete.md]]
 - [[11 Spellcasting]]
 - [[MASTER_NAVIGATION]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -246,7 +243,6 @@ flowchart LR
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -303,12 +299,12 @@ flowchart LR
 - Originates from [[Session 05 (Shadow_Conspiracy)]]
 - Compare with [[step_053 (phase_087)]]
 - Influences [[Protocol Expert Formal 2]]
-- Related: [[step_099]]
+- Related:
 - Connects to [[Potion of Acid Resistance Xdmg]]
 - Compare with [[Portrait NPC the Scattered Emperor V1 the Scattered Emperor.svg_1 (Portraits)]]
 - Originates from [[step_045 (phase_070)]]
 - Compare with [[Portrait NPC Duchess Marina Ever Drowning V1 Duchess Marina Ever Drowning.svg]]
-- Parallels [[step_007]]
+- Parallels
 - Parallels [[Depth_Survey_Authority (02_Worldbuilding)]]
 - Requires [[International Academic Exchange (D&D_References)]]
 - Related: [[seeking-spell-xphb (optional-features)]]

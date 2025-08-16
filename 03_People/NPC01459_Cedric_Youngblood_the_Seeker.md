@@ -18,7 +18,6 @@ aliases: [NPC01459 Cedric Youngblood the Seeker]
 - [[#Fiora Voidwalker the Broken (Criminal - Target)|Fiora Voidwalker the Broken (Criminal - Target)]]
 - [[#Dara Nightfall the Wise (Professional - Partner)|Dara Nightfall the Wise (Professional - Partner)]]
 
-
 ---
 aliases: ["Cedric Youngblood the Seeker", "cedric youngblood the seeker", "Cedric Youngblood Seeker", "Seeker the Youngblood Cedric"]
 tags: [npc, character]
@@ -151,26 +150,22 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.275Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Requires [[MON00099_Aberrations_Creature_100]]
-- Parallels [[step_057]]
+- Parallels
 - Related: [[Dining Room]]
 - Related: [[Assets Locations Location City Inter Realm Relations V1 Inter Realm Relations.svg]]
 - See also: [[SPELL00002_Nature_Spell_3]]
@@ -187,16 +182,16 @@ Forming expedition to dangerous location
 - Connects to [[LOC00220_Planes_Location_221]]
 - Related: [[04_Resources_Assets_Vehicles_vehicle-ship-resoce-drive-yacht-v2-resoce-drive-yacht.svg]]
 - Requires [[Conservatory of Memory (D&D_References)]]
-- Affected by [[step_076]]
+- Affected by
 - Connects to [[The Royal Transformation (D&D_References)]]
 - Related: [[step_030 (phase_074)]]
-- Related: [[step_021]]
+- Related:
 - See also: [[step_077 (phase_029)]]
 - Originates from [[Assets Locations Location City Duchess Seraphina Crimsontide Duchess Seraphina Crimsontide.svg]]
 - Parallels [[step_033 (phase_055)]]
 - Leads to [[SPELL00027_Divine_Spell_28]]
 - Connects to [[Item Artifact Spell Gem Lapis Lazuli Oota Spell Gem Lapis Lazuli Oota.png]]
-- See also: [[step_030]]
+- See also:
 - Influences [[Safety Director Storm Shieldvoice]]
 - Leads to [[LOC00249_Dungeons_Location_250]]
 - Originates from [[MON00052_Aberrations_Creature_53]]
@@ -205,7 +200,7 @@ Forming expedition to dangerous location
 - Requires [[step_062 (phase_027)]]
 - Influences [[Faction_Reputation_System]]
 - Influences [[step_071 (phase_071)]]
-- Related: [[step_048]]
+- Related:
 - Connects to [[Portrait NPC Deep Anarchists V1 Deep Anarchists.svg]]
 - Compare with [[Leviathan Shrines (D&D_References)]]
 - Requires [[Merchant Null Profiteer (D&D_References)]]
@@ -234,8 +229,8 @@ Forming expedition to dangerous location
 - Influences [[step_039 (phase_051)]]
 - Parallels [[Shadow Surgery Centers]]
 - Related: [[Mirror Merchant Marina]]
-- See also: [[step_010]]
-- Requires [[step_024]]
+- See also:
+- Requires
 - Requires [[critical-hit-xphb (variant-rules)]]
 - Related: [[Continental Connections & Story Weave 3 (D&D_References)]]
 - Influences [[Deep Pearls 2]]
@@ -264,7 +259,7 @@ Forming expedition to dangerous location
 - Influences [[Gallery of Frozen Waves 2]]
 - Originates from [[Shadow Replacement Procedures 2]]
 - Parallels [[Portrait NPC Marcus the Shade Blackwood V1 Marcus the Shade Blackwood.svg]]
-- Parallels [[step_069]]
+- Parallels
 - Connects to [[LOC0020_Havenford]]
 - Connects to [[Assets Locations Location City Aquabyssos Aquabyssos.svg]]
 - See also: [[step_070 (phase_071)]]
@@ -274,7 +269,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

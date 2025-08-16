@@ -18,7 +18,6 @@ aliases: [NPC00785 Ysara Grimholt the Mystic]
 - [[#Solas Jadeclaw the Guardian (Family - Child)|Solas Jadeclaw the Guardian (Family - Child)]]
 - [[#Dara Underhill the Mystic (Family - Cousin)|Dara Underhill the Mystic (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ysara Grimholt the Mystic", "ysara grimholt the mystic", "Ysara Grimholt Mystic", "Mystic the Grimholt Ysaratags: [npc, character, combat, puzzle, lore]er]
@@ -146,16 +145,13 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.201Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -167,7 +163,6 @@ Modifications:
 - HP: 27
 - AC: 14
 - Notable abilities: Varies by individual
-
 
 > [!warning] ⚠️ Warning
 > Important safety or rule information
@@ -193,11 +188,10 @@ Modifications:
 - [[Player_Feedback_Form.md]]
 - [[MOC_Items]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -207,11 +201,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -253,7 +246,7 @@ Modifications:
 - Influences [[04_Resources_Assets_Portraits_portrait-npc-captain-marcus-ironwill-captain-marcus-ironwill.svg_Quick_Ref]]
 - Related: [[step_007 (phase_086)]]
 - Influences [[[[Keeper of Sorrows [[Tidal Memento]]]] (D&D_References)]]
-- See also: [[step_087]]
+- See also:
 - Related: [[ring-of-psychic-resistance-xdmg (items)]]
 - Parallels [[Existence Beacons]]
 - Connects to [[Assets Locations Location City [[Temple Ward]] Temple Ward.svg]]
@@ -264,12 +257,12 @@ Modifications:
 - Parallels [[chamber-purpose-dungeon-tomb (tables)]]
 - Affected by [[Assets Portraits Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg]]
 - Originates from [[Crystal Academy]]
-- Parallels [[step_070]]
+- Parallels
 - Originates from [[The Great Circuit (D&D_References)]]
 - Connects to [[LOC00278_Planes_Location_279]]
 - See also: [[[[Screaming Gardens]] - Songwood Grove]]
 - Originates from [[The Causality Engine]]
-- Affected by [[step_007]]
+- Affected by
 - Related: [[Joint Council Emergency Session]]
 - Related: [[Hydroloth Mpmm]]
 - Leads to [[ENC00267_Social_Encounter_268]]
@@ -281,12 +274,12 @@ Modifications:
 - Affected by [[Shadow Admiral Vex]]
 - See also: [[Azer Sentinel Xmm]]
 - Influences [[QUEST0099_Elder's_Folly]]
-- Parallels [[step_068]]
+- Parallels
 - Compare with [[LORE0086_Legend_of_the_Fallen_Star]]
 - Originates from [[step_089 (phase_012)]]
 - Connects to [[step_081 (phase_038)]]
 - See also: [[ITEM0008_Ancient_Shield_of_Power]]
-- Leads to [[step_040]]
+- Leads to
 - Related: [[Rope of Entanglement Xdmg]]
 - Requires [[ITEM0076_Eldritch_Shield_of_the_Dawn]]
 - Leads to [[LORE00273_Legends_Entry_274]]
@@ -302,7 +295,7 @@ Modifications:
 - Leads to [[Location City [[Dock Master Anchor Holdfast]] Dock Master Anchor Holdfast.svg]]
 - Compare with [[[[War Machine Assembly Halls]] (D&D_References)]]
 - Related: [[Quest_-_The_Purification_Ritual]]
-- Affected by [[step_042]]
+- Affected by
 - Parallels [[FAC00092_Cults_93]]
 - See also: [[The Anonymous Accords (D&D_References)]]
 - Influences [[step_018 (phase_005)]]
@@ -312,12 +305,12 @@ Modifications:
 - Connects to [[step_009 (phase_063)]]
 - Originates from [[filename]]
 - Originates from [[location-city-gem-deepseeker-v1-gem-deepseeker.svg]]
-- See also: [[step_080]]
+- See also:
 - Compare with [[Assets Locations Location City [[Pressure Suit Malfunction]] Pressure Suit Malfunction.svg]]
 - Requires [[step_009 (phase_038)]]
 - Leads to [[Portrait NPC Pressure Angel Benthia V2 Pressure Angel Benthia.svg_1 (Portraits)]]
 - Affected by [[hammer-of-thunderbolts-xdmg (items)]]
-- Compare with [[step_094]]
+- Compare with
 - Related: [[Assets Locations Location City [[Keeper Temporal Safehaven]] Keeper Temporal Safehaven.svg]]
 - Affected by [[SPELL00156_Divine_Spell_157]]
 - Related: [[LOC00263_Towns_Location_264]]
@@ -326,13 +319,12 @@ Modifications:
 - Connects to [[QUEST00199_Side_Quest_200]]
 - Leads to [[Quandrix Trinket Scc]]
 - Related: [[Emergency Response Network]]
-- Originates from [[step_050]]
+- Originates from
 
 ## Visual References
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

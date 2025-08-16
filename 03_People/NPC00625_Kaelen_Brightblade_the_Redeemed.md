@@ -9,7 +9,6 @@ aliases: [NPC00625 Kaelen Brightblade the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00625 Kaelen Brightblade the Redeemed]
 - [[#Zephyr Blackstone the Swift (Criminal - Accomplice)|Zephyr Blackstone the Swift (Criminal - Accomplice)]]
 - [[#Gavril Blackstone the Mystic (Political - Opposition)|Gavril Blackstone the Mystic (Political - Opposition)]]
 - [[#Nerys Brightblade the Cunning (Family - Child)|Nerys Brightblade the Cunning (Family - Child)]]
-
 
 ---
 created: 2025-08-15
@@ -154,16 +152,13 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.184Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -219,11 +214,10 @@ Discovered something valuable
 - [[NPC01894_Aldric_Lightbringer_the_Bold]]
 - [[NPC00259_Delara_Proudmore]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -232,11 +226,10 @@ Discovered something valuable
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -249,7 +242,7 @@ Discovered something valuable
 - Influences [[The Umbral Medical Academy]]
 - Originates from [[Home Embeds - DV#Session Journal]]
 - See also: [[Location City Palace Guard Captain Neutralis Palace Guard Captain Neutralis.png]]
-- See also: [[step_043]]
+- See also:
 - Leads to [[Dolphin (D&D_References)]]
 - See also: [[Assets Locations Location City Interfaith Councils Interfaith Councils.svg]]
 - Connects to [[Master of Currents Zephyr]]
@@ -266,7 +259,7 @@ Discovered something valuable
 - Leads to [[Marina Clearwater]]
 - See also: [[LOC00188_Wilderness_Location_189]]
 - Originates from [[step_019 (phase_011)]]
-- See also: [[step_064]]
+- See also:
 - Compare with [[LOC00018_Cities_Location_19]]
 - Parallels [[The Whisper Touched]]
 - Leads to [[Memory Merchant Zephyr Mindweaver]]
@@ -283,7 +276,7 @@ Discovered something valuable
 - Parallels [[Wizard Xphb War Magic Xge]]
 - Connects to [[step_046 (phase_004)]]
 - Originates from [[Assets Locations Location City Sky Trader Zephyr Windcatcher Sky Trader Zephyr Windcatcher.svg]]
-- Requires [[step_079]]
+- Requires
 - Influences [[Character_Creation]]
 - Originates from [[ITEM0100_Eldritch_Tome_of_the_Dawn]]
 - Influences [[portrait-npc-the-cure-v2-the-cure.svg]]
@@ -299,7 +292,7 @@ Discovered something valuable
 - Connects to [[QUEST0092_In_Search_of_Glory]]
 - Affected by [[Master Depth-Crystal Thalamo]]
 - Compare with [[MON00029_Undead_Creature_30]]
-- Requires [[step_071]]
+- Requires
 - Connects to [[Local Authorities]]
 - Originates from [[Portrait NPC Shadow Guard Units V2 Shadow Guard Units.svg_1 (Portraits)]]
 - Connects to [[step_066 (phase_074)]]
@@ -308,7 +301,7 @@ Discovered something valuable
 - Parallels [[Redirector's Guild]]
 - Affected by [[Abyssal Cyclicalism]]
 - See also: [[Assets Locations Location City Memory Meadows Black Market Memory Meadows Black Market.svg]]
-- Affected by [[step_027]]
+- Affected by
 - Related: [[NPC00399_Vesper_Nightfall]]
 - Compare with [[Goading Attack Xphb]]
 - Connects to [[step_044 (phase_040)]]
@@ -316,13 +309,13 @@ Discovered something valuable
 - Requires [[ENC00141_Combat_Encounter_142]]
 - Affected by [[Public Works Director Boris Bridgewright]]
 - Compare with [[Portrait NPC Lich Queen Morwyn the Deathless Lich Queen Morwyn the Deathless.svg_1 (Portraits)]]
-- Related: [[step_098]]
+- Related:
 - Related: [[ITEM00903_Superior_Herb_of_Swiftness]]
 - Leads to [[Zelkor's Ferry.png]]
 - Related: [[FAC00009_Guilds_10]]
 - Parallels [[Bridge Currentcrosser]]
 - Originates from [[step_042 (phase_051)]]
-- Parallels [[step_046]]
+- Parallels
 - Related: [[Crystal Mines (Lore)]]
 - Originates from [[Sunset Bay]]
 - Leads to [[Dwarves on the Move Group Leader Mtf]]
@@ -337,7 +330,7 @@ Discovered something valuable
 - Originates from [[QUEST00054_Main_Quest_55]]
 - Influences [[NPC00796_Aeliana_Voidwalker_the_Seeker]]
 - Affected by [[The Shadow Merchant Prim (Groups)]]
-- Compare with [[step_054]]
+- Compare with
 - Related: [[Aerisi Kalinoth Pota]]
 - Compare with [[step_003 (phase_053)]]
 

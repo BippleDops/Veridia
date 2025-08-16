@@ -18,7 +18,6 @@ aliases: [05-personality-and-background (players-handbook-2014)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 05-personality-and-background (players-handbook-2014)
@@ -60,7 +59,6 @@ world: Both
 
 *Additional notes*
 
-
 > [!dm] DM Note
 > This location connects to the main plot
 
@@ -90,8 +88,7 @@ world: Both
 Witnessed important events in the past
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -103,7 +100,6 @@ Witnessed important events in the past
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -120,14 +116,14 @@ Witnessed important events in the past
 - Related: [[Magic Item Sale Complications Xge]]
 - Influences [[step_097 (phase_083)]]
 - Parallels [[Aquathys_Overview]]
-- See also: [[step_066]]
+- See also:
 - Influences [[Portrait NPC Quest the Deep Alliance V2 Quest the Deep Alliance.svg]]
 - Leads to [[step_039 (phase_027)]]
 - Connects to [[FAC00049_Orders_50]]
 - Related: [[ogre-zombie-xmm (undead)]]
-- Requires [[step_088]]
-- Leads to [[step_090]]
-- Related: [[step_032]]
+- Requires
+- Leads to
+- Related:
 - Requires [[Law Enforcement (D&D_References)]]
 - Influences [[NPC0094_Osric_Goldleaf]]
 - Influences [[Death Tyrant Xmm (undead)]]
@@ -150,7 +146,7 @@ Witnessed important events in the past
 - Influences [[Session 4]]
 - Affected by [[Assets Portraits Portrait NPC Sire Sire.svg]]
 - Originates from [[LORE00053_History_Entry_54]]
-- Compare with [[step_056]]
+- Compare with
 - Influences [[DUN00137_Dungeon_138]]
 - Compare with [[Void Realm Territories]]
 - Requires [[step_089 (phase_052)]]
@@ -186,7 +182,7 @@ Witnessed important events in the past
 - Related: [[ENC00165_Combat_Encounter_166]]
 - Parallels [[Cultural Ambassador Bridge-Builder (02_Worldbuilding)]]
 - Requires [[Shadow Blade Xge]]
-- Related: [[step_041]]
+- Related:
 - Influences [[step_015 (phase_054)]]
 - Leads to [[Extended Spell Xphb]]
 - Parallels [[The Convergence Prophecies 2]]
@@ -194,25 +190,25 @@ Witnessed important events in the past
 - Parallels [[step_046 (phase_082)]]
 - Related: [[item mastery#Graze]]
 - Related: [[step_096 (phase_051)]]
-- Requires [[step_042]]
+- Requires
 - See also: [[Dr Silent Treatment]]
 - Leads to [[step_021 (phase_052)]]
 - Influences [[Location Index]]
 - Influences [[LOC0044_UpperHill]]
 - Compare with [[Assets Locations Location City Environmental Monitor Reef Ecowatch Environmental Monitor Reef Ecowatch.svg]]
-- Requires [[step_013]]
-- See also: [[step_035]]
+- Requires
+- See also:
 - Connects to [[Weather_Generator]]
 - Originates from [[Carrion Crawler Xmm]]
 - Influences [[NPC00493_Lyanna_Proudmore_the_Wanderer]]
 - Influences [[step_092 (phase_012)]]
 - Related: [[The Progenitors 2]]
 - Influences [[Greater Silver Sword Mtf]]
-- Affected by [[step_012]]
+- Affected by
 - Connects to [[enspelled-staff-xdmg (items)]]
 - See also: [[QUEST00134_Side_Quest_135]]
-- Leads to [[step_088]]
+- Leads to
 - Related: [[Completed Content]]
 - Related: [[QUEST00426_Side_Quest_427]]
 - See also: [[Major Image Xphb]]
-- Influences [[step_077]]
+- Influences 

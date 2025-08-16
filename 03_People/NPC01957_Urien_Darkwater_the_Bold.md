@@ -18,7 +18,6 @@ aliases: [NPC01957 Urien Darkwater the Bold]
 - [[#Qadim Thornweave the Bold (Professional - Rival)|Qadim Thornweave the Bold (Professional - Rival)]]
 - [[#Corvus Underhill the Broken (Personal - Best friend)|Corvus Underhill the Broken (Personal - Best friend)]]
 
-
 ---
 aliases: ["Urien Darkwater the Bold", "urien darkwater the bold", "Urien Darkwater Bold", "Bold the Darkwater Urien"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.328Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -198,7 +193,7 @@ Blackmails party into service
 - See also: [[NPC Cross-World Connections]]
 - See also: [[Location City Memory Recording Chambers V1 Memory Recording Chambers.svg]]
 - See also: [[SPELL00047_Nature_Spell_48]]
-- Connects to [[step_038]]
+- Connects to
 - Connects to [[webs-xdmg (traps-hazards)]]
 - Requires [[step_031 (phase_022)]]
 - Parallels [[Community Mediator Balance Wright]]
@@ -207,14 +202,14 @@ Blackmails party into service
 - Related: [[step_086 (phase_020)]]
 - Originates from [[step_038 (phase_048)]]
 - Requires [[Abyssal Courts]]
-- Requires [[step_068]]
+- Requires
 - Related: [[wish-xphb (spells)]]
 - Connects to [[Abyssal Nobility]]
 - Parallels [[step_060 (phase_078)]]
 - Related: [[Assets Locations Location City Healer Tide Touch Healer Tide Touch.svg]]
 - Parallels [[spell-scrolls-spell-scroll (tables)]]
 - See also: [[MON00121_Aberrations_Creature_122]]
-- See also: [[step_025]]
+- See also:
 - Compare with [[Gnome Sheyanna Flaxenstrand Mtf]]
 - Related: [[step_086 (phase_010)]]
 - Originates from [[mace-of-disruption-xdmg (items)]]
@@ -240,7 +235,7 @@ Blackmails party into service
 - Influences [[step_031 (phase_046)]]
 - Leads to [[Deep Guard 2]]
 - Related: [[Warrior Thane Visionward]]
-- Originates from [[step_049]]
+- Originates from
 - Compare with [[Instrument of the Bards Doss Lute Xdmg]]
 - See also: [[nothic-xmm (aberration)]]
 - Leads to [[MON00059_Aberrations_Creature_60]]
@@ -265,7 +260,7 @@ Blackmails party into service
 - Parallels [[Trip Attack Xphb]]
 - Connects to [[Assets Locations Location City Deep Harbor V1 Deep Harbor.svg]]
 - Influences [[The Inter-Realm Cultural Council]]
-- Compare with [[step_074]]
+- Compare with
 - Related: [[Assets Locations Location City the Spectral Gallery the Spectral Gallery.svg]]
 - See also: [[step_011 (phase_044)]]
 - Requires [[Location City Marina Oracleguard V1 Marina Oracleguard.svg]]
@@ -277,7 +272,6 @@ Blackmails party into service
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

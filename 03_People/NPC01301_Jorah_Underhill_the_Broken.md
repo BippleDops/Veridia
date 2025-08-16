@@ -9,7 +9,6 @@ aliases: [NPC01301 Jorah Underhill the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01301 Jorah Underhill the Broken]
 - [[#Gavril Thornweave the Mystic (Family - Child)|Gavril Thornweave the Mystic (Family - Child)]]
 - [[#Gareth Underhill the Seeker (Criminal - Accomplice)|Gareth Underhill the Seeker (Criminal - Accomplice)]]
 - [[#Fiora Crystalbrook the Risen (Professional - Employer)|Fiora Crystalbrook the Risen (Professional - Employer)]]
-
 
 ---
 created: 2025-08-15
@@ -148,16 +146,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.258Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -172,9 +167,7 @@ Forming expedition to dangerous location
 - [[NPC01013_Corvus_Ravenheart_the_Bold]]
 - [[Player_Feedback_Form.md]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -192,7 +185,7 @@ Following magic item guidelines (WWT p.135-136):
 - Tasha's Mystical Formulae of Everything (TMF) p.99
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -201,11 +194,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -220,7 +212,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[QUEST0093_The_Shadow_Realm_Curse]]
 - Requires [[Map World Layer World Political Boundaries V2 World Political Boundaries.svg]]
 - Originates from [[Assets Locations Location City Artistic Communities V1 Artistic Communities.svg]]
-- Affected by [[step_088]]
+- Affected by
 - Related: [[flaw-or-secret-npc-flaws-and-secrets (tables)]]
 - Influences [[Bioluminescence]]
 - See also: [[roper-xmm (aberration)]]
@@ -232,7 +224,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[step_011 (phase_024)]]
 - Influences [[Resistance Xphb (variant-rules)]]
 - Affected by [[ITEM00027_Radiant_Axe_of_Power]]
-- Requires [[step_045]]
+- Requires
 - Requires [[Scholars Pack Xphb]]
 - Originates from [[ENC00147_Social_Encounter_148]]
 - Connects to [[Location City University Philosophy Departments University Philosophy Departments.svg]]
@@ -249,13 +241,13 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[copper-dragon-xmm (legendary-group)]]
 - Requires [[step_082 (phase_097)]]
 - Related: [[QUEST00160_Side_Quest_161]]
-- Parallels [[step_011]]
+- Parallels
 - Leads to [[spell-sniper-xphb (feats)]]
 - Requires [[Assets Locations Location City Void Krakens V1 Void Krakens.svg]]
 - Related: [[step_037 (phase_044)]]
 - Originates from [[Swarm of Lemures Xmm]]
 - See also: [[Memoriam]]
-- Leads to [[step_071]]
+- Leads to
 - Affected by [[Kobold Warrior Xmm]]
 - Affected by [[Depth Pulse]]
 - Influences [[step_017 (phase_042)]]
@@ -270,7 +262,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[step_009 (phase_036)]]
 - Compare with [[step_054 (phase_060)]]
 - Connects to [[INV-006.png (Art)]]
-- Requires [[Quest   The Shadow Fleet]]
+- Requires [[Quest The Shadow Fleet]]
 - Leads to [[Tinderbox Xphb]]
 - Influences [[ENC00084_Environmental_Encounter_85]]
 - Connects to [[Lady Willow Greenbough (D&D_References)]]
@@ -283,7 +275,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[EVENT00093_Political_Event_94]]
 - Compare with [[step_063 (phase_082)]]
 - Related: [[DUN00041_Dungeon_42]]
-- Requires [[step_006]]
+- Requires
 - Originates from [[saddlebags]]
 - Affected by [[step_090 (phase_021)]]
 - See also: [[LOC00127_Planes_Location_128]]
@@ -294,7 +286,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Assets Locations Location City Memory Parasite Infection Memory Parasite Infection.svg]]
 - See also: [[Duchess Marina Ever-Drowning]]
 - Related: [[component-pouch-xphb (items)]]
-- Affected by [[step_008]]
+- Affected by
 - Related: [[Skywrite Xge]]
 - Connects to [[Atmospheric Research Society (D&D_References)]]
 - See also: [[LORE00304_Prophecies_Entry_305]]
@@ -302,8 +294,8 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Downtime Activity Relaxation Xge]]
 - Compare with [[The First King's Diary (D&D_References)]]
 - Compare with [[EVENT00028_Magical_Event_29]]
-- Affected by [[step_039]]
-- Leads to [[step_071]]
+- Affected by
+- Leads to
 - Compare with [[Order of the Silver Anchor (Orders)]]
 - Parallels [[ENC00256_Social_Encounter_257]]
 - Related: [[LOC00223_Cities_Location_224]]

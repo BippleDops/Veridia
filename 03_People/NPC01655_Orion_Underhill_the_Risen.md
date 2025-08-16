@@ -9,7 +9,6 @@ aliases: [NPC01655 Orion Underhill the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01655 Orion Underhill the Risen]
 - [[#Lyanna Xendar the Wanderer (Personal - Nemesis)|Lyanna Xendar the Wanderer (Personal - Nemesis)]]
 - [[#Malakai Ironwood the Lost (Criminal - Informant)|Malakai Ironwood the Lost (Criminal - Informant)]]
 - [[#Alaric Hawthorne the Scholar (Professional - Rival)|Alaric Hawthorne the Scholar (Professional - Rival)]]
-
 
 ---
 aliases: ["Orion Underhill the Risen", "orion underhill the risen", "Orion Underhill Risen", "Risen the Underhill Orion"]
@@ -162,21 +160,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.296Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -195,7 +189,7 @@ Blackmails party into service
 - Leads to [[Gnome Baravar Cloakshadow Mtf]]
 - Related: [[step_012 (phase_048)]]
 - Related: [[Location City Infrastructure Development Infrastructure Development.svg]]
-- Influences [[step_003]]
+- Influences
 - Originates from [[Aethermoor - Session 10 The Deep Mother Rises]]
 - Parallels [[equipment-sizes-phb (variant-rules)]]
 - Influences [[Portrait NPC Umbral Crystal Miners V2 Umbral Crystal Miners.svg]]
@@ -231,7 +225,7 @@ Blackmails party into service
 - Influences [[QUEST00070_Personal_Quest_71]]
 - Influences [[Junior Administrator Elena Efficient]]
 - Connects to [[Reality Merger Mechanics]]
-- Connects to [[step_057]]
+- Connects to
 - Affected by [[Reef Saltwater]]
 - Connects to [[Lord Bathysmal (D&D_References)]]
 - Connects to [[step_005 (phase_052)]]
@@ -252,7 +246,7 @@ Blackmails party into service
 - Compare with [[step_056 (phase_073)]]
 - Leads to [[LORE00330_History_Entry_331]]
 - Related: [[step_033 (phase_025)]]
-- Leads to [[step_062]]
+- Leads to
 - Related: [[squat-nimbleness-xge (feats)]]
 - Parallels [[Quest - The Deep Mother Rises]]
 - Affected by [[Spell Compendium 2]]
@@ -271,7 +265,7 @@ Blackmails party into service
 - Leads to [[Location City Depth Merchants V1 Depth Merchants.svg]]
 - Requires [[Handout Handout Guild License Certificate V3 Guild License Certificate.png]]
 - Requires [[Titan Foundationbearer (D&D_References)]]
-- Parallels [[step_067]]
+- Parallels
 - Originates from [[step_041 (phase_083)]]
 - Originates from [[War College of Depths]]
 - Compare with [[Illusory Dragon Xge]]

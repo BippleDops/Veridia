@@ -18,7 +18,6 @@ aliases: [NPC01966 Hestara Crystalbrook the Wise]
 - [[#Felicia Nightfall the Risen (Family - Child)|Felicia Nightfall the Risen (Family - Child)]]
 - [[#Ysara Ironwood the Wanderer (Political - Puppet)|Ysara Ironwood the Wanderer (Political - Puppet)]]
 
-
 ---
 aliases: ["Hestara Crystalbrook the Wise", "hestara crystalbrook the wise", "Hestara Crystalbrook Wise", "Wise the Crystalbrook Hestara"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.329Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -170,7 +165,7 @@ Provides information for a price
 - Influences [[Marina Oracleguard]]
 - See also: [[LOC00138_Dungeons_Location_139]]
 - Connects to [[NPC00639_Zephyr_Nightfall_the_Wanderer]]
-- Affected by [[step_023]]
+- Affected by
 - Leads to [[step_100 (phase_065)]]
 - Leads to [[step_038 (phase_020)]]
 - Requires [[step_069 (phase_024)]]
@@ -178,17 +173,17 @@ Provides information for a price
 - Related: [[The Administrative Palace (D&D_References)]]
 - Connects to [[LORE00156_History_Entry_157]]
 - Parallels [[random-urban-encounters (tables)]]
-- Parallels [[step_098]]
+- Parallels
 - Leads to [[Assets Locations Location City Palace Security Chief V1 Palace Security Chief.svg]]
 - Affected by [[Assets Locations Location City Master Host Torrent Welcomeall Master Host Torrent Welcomeall.svg]]
-- Related: [[step_036]]
+- Related:
 - Affected by [[step_011 (phase_041)]]
 - Connects to [[step_014 (phase_021)]]
 - Affected by [[step_055 (phase_051)]]
 - Requires [[ENC00263_Social_Encounter_264]]
 - Connects to [[Temple of Cosmic Order]]
 - Compare with [[Magma Mephit Xmm]]
-- Compare with [[step_083]]
+- Compare with
 - Requires [[LOC00094_Towns_Location_95]]
 - Parallels [[step_091 (phase_064)]]
 - Compare with [[NPC00283_Kaelen_Zephyrblade_the_Bold]]
@@ -252,24 +247,23 @@ Provides information for a price
 - Influences [[Memory Coral]]
 - Influences [[Crystal Corruption 2]]
 - See also: [[04_Resources_Assets_Locations_location-city-master-cultivator-reef-growstone-v1-master-cultivator-reef-growstone.svg]]
-- Originates from [[step_026]]
+- Originates from
 - Related: [[portrait-npc-sirens-v1-sirens.svg_1 (Portraits)]]
 - Originates from [[NPC00752_Dara_Ashford_the_Risen]]
 - Related: [[Sacred Memory Gardens]]
-- See also: [[step_092]]
+- See also:
 - Related: [[AI_Game_Master_Assistant]]
 - Influences [[step_040 (phase_043)]]
 - Parallels [[pit-fighting-results-xge (tables)]]
-- See also: [[step_003]]
+- See also:
 - Originates from [[elf-names-family-xge (tables)]]
-- Connects to [[step_098]]
+- Connects to
 - Influences [[step_015 (phase_074)]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

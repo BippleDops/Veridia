@@ -18,7 +18,6 @@ aliases: [NPC01215 Corvus Moonshadow the Swift]
 - [[#Idris Zephyrblade the Guardian (Family - Spouse)|Idris Zephyrblade the Guardian (Family - Spouse)]]
 - [[#Delara Xendar the Fallen (Family - Parent)|Delara Xendar the Fallen (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Corvus Moonshadow the Swift", "corvus moonshadow the swift", "Corvus Moonshadow Swift", "Swift the Moonshadow Corvus"]
@@ -140,25 +139,20 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.249Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -175,7 +169,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Source References
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -183,11 +177,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -203,7 +196,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[High Counci]]
 - Leads to [[EVENT00046_Natural_Event_47]]
 - Requires [[Safety Coordinator Reef Safeguard]]
-- Leads to [[step_001]]
+- Leads to
 - Connects to [[ITEM01096_Refined_Oil_of_Vigor]]
 - See also: [[modron-duodrone-xmm (construct)]]
 - Affected by [[Aquabyssos]]
@@ -232,14 +225,14 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[tinderbox-xphb (items)]]
 - Leads to [[Location City Exchange Fairflow Exchange Fairflow.svg]]
 - Parallels [[step_074 (phase_039)]]
-- Related: [[step_086]]
+- Related:
 - Affected by [[Hell Hound Xmm]]
 - Connects to [[Thermal Shields]]
 - Affected by [[NPC01509_Faelyn_Ironforge_the_Scholar]]
-- Requires [[step_087]]
+- Requires
 - Connects to [[potion-of-poison-xdmg (items)]]
 - Connects to [[Aquabyssos_Content (02_Worldbuilding)]]
-- Affected by [[step_075]]
+- Affected by
 - Compare with [[NPC00787_Cedric_Voidwalker_the_Scholar]]
 - Compare with [[The Void Currents (Lore)]]
 - Related: [[step_054 (phase_030)]]
@@ -249,9 +242,9 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Assets Locations Location City Shadow Current V1 Shadow Current.svg]]
 - Related: [[step_006 (phase_004)]]
 - See also: [[SPELL0010_Eldritch_Shield]]
-- Compare with [[step_030]]
+- Compare with
 - Originates from [[Underground Training Facilities]]
-- Originates from [[step_012]]
+- Originates from
 - Related: [[list-spells-feats-ritual-caster-xphb (lists)]]
 - Influences [[step_079 (phase_093)]]
 - Influences [[Vehicle Core Rules#12) Parasite Boarding & Biohazards]]
@@ -260,7 +253,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[step_052 (phase_086)]]
 - Compare with [[step_013 (phase_096)]]
 - Compare with [[Elven Sehanine Moonbow Mtf]]
-- Affected by [[step_030]]
+- Affected by
 - Affected by [[Brother Matthias Inkdrinker]]
 - See also: [[Assets Portraits Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich the Reality Sick Mayor Lord Quantum Aldrich.svg]]
 - Parallels [[step_049 (phase_018)]]
@@ -283,12 +276,12 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Location City Chief Engineer Vera Steamheart Chief Engineer Vera Steamheart.svg]]
 - Connects to [[04_Resources_Assets_Symbols_symbol-heraldry-elara-crystalline-elara-crystalline.svg]]
 - Related: [[Location City the Crystal Caves V1 the Crystal Caves.svg]]
-- Related: [[step_071]]
+- Related:
 - Influences [[The Crystal Queen Mother]]
 - Compare with [[Quest - The Memory Heist]]
 - Leads to [[Location City Dr Vera Spectrumseeker V1 Dr Vera Spectrumseeker.svg]]
 - Compare with [[item mastery#Nick]]
-- Affected by [[step_066]]
+- Affected by
 - Requires [[Moderate Depth Coalition (D&D_References)]]
 - Influences [[Portrait NPC Abyssal Cathedral Abyssal Cathedral.svg_1 (Portraits)]]
 
@@ -296,7 +289,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

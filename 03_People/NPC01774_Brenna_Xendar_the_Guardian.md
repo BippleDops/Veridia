@@ -18,7 +18,6 @@ aliases: [NPC01774 Brenna Xendar the Guardian]
 - [[#Faelyn Ironforge the Bold (Political - Spy)|Faelyn Ironforge the Bold (Political - Spy)]]
 - [[#Pyria Youngblood the Mystic (Professional - Employer)|Pyria Youngblood the Mystic (Professional - Employer)]]
 
-
 ---
 aliases: ["Brenna Xendar the Guardian", "brenna xendar the guardian", "Brenna Xendar Guardian", "Guardian the Xendar Brenna"]
 tags: [npc, character]
@@ -140,26 +139,22 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.308Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Requires [[Bewitching Whispers]]
-- Parallels [[step_039]]
+- Parallels
 - Connects to [[Assets Locations Location City the Iron Pits of Malachar the Iron Pits of Malachar.svg]]
 - Influences [[The Stellar Confluence]]
 - Parallels [[ogrillon-ogre-xmm]]
@@ -169,7 +164,7 @@ Offers deal too good to refuse
 - Originates from [[Seasonal Quarters 2]]
 - Compare with [[step_070 (phase_060)]]
 - Related: [[mind-spike-xphb (spells)]]
-- Leads to [[step_028]]
+- Leads to
 - Connects to [[step_014 (phase_092)]]
 - Affected by [[step_070 (phase_020)]]
 - Connects to [[step_015 (phase_019)]]
@@ -185,7 +180,7 @@ Offers deal too good to refuse
 - See also: [[Symbol Heraldry Agricultural Provinces Agricultural Provinces.svg]]
 - See also: [[Light Bearer (D&D_References)]]
 - Affected by [[Assets Locations Location City Abyssos Prime Docks V1 Abyssos Prime Docks.svg]]
-- Related: [[step_014]]
+- Related:
 - Originates from [[The Ready Current]]
 - See also: [[list-spells-classes-grave-domain-xge (lists)]]
 - Originates from [[Circle of Mourners]]
@@ -201,7 +196,7 @@ Offers deal too good to refuse
 - Compare with [[Location Index (D&D_References)]]
 - Parallels [[Warhorse Xmm]]
 - Requires [[LOC00120_Towns_Location_121]]
-- Related: [[step_079]]
+- Related:
 - Affected by [[Norse Frigga]]
 - Leads to [[Crystal Throne (D&D_References)]]
 - Parallels [[Heartstone Mm]]
@@ -210,7 +205,7 @@ Offers deal too good to refuse
 - See also: [[The Depth Compass (D&D_References)]]
 - Related: [[Intelligence Services 2 (People)]]
 - Parallels [[Assets Locations Location City Silence Keeper Mute Silence Keeper Mute.svg]]
-- Related: [[step_027]]
+- Related:
 - See also: [[Elf Sea Mtf]]
 - Requires [[Tenebrarum Embassy (D&D_References)]]
 - Requires [[Location City the Slave Markets of Tethys V1 the Slave Markets of Tethys.svg]]
@@ -232,7 +227,7 @@ Offers deal too good to refuse
 - Compare with [[Foraging_Rules]]
 - Connects to [[ENC00123_Combat_Encounter_124]]
 - Affected by [[NPC01163_Aldric_Ironwood_the_Strong]]
-- Parallels [[step_045]]
+- Parallels
 - Parallels [[location-city-depth-plague-depth-plague.svg]]
 - Parallels [[ITEM00836_Primordial_Orb_of_Eternity]]
 - Connects to [[Duergar Raiding Parties 1 Mtf]]
@@ -263,7 +258,6 @@ Offers deal too good to refuse
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

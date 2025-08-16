@@ -18,7 +18,6 @@ aliases: [NPC01872 Qadim Grimholt the Strong]
 - [[#Solas Zephyrblade the Lost (Personal - Childhood friend)|Solas Zephyrblade the Lost (Personal - Childhood friend)]]
 - [[#Branwen Dawnstrider the Cunning (Political - Spy)|Branwen Dawnstrider the Cunning (Political - Spy)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Qadim Grimholt the Strong", "qadim grimholt the strong", "Qadim Grimholt Strong", "Strong the Grimholt Qadim"]
@@ -153,27 +152,23 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.319Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -182,11 +177,10 @@ Is secretly testing the party
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -231,7 +225,7 @@ Is secretly testing the party
 - Influences [[LORE00304_Prophecies_Entry_305]]
 - Leads to [[Obsidian Statuette With Gold Fittings and]]
 - See also: [[Guardian Dream Realm]]
-- Affected by [[step_071]]
+- Affected by
 - Requires [[charm-of-heroism-xdmg (rewards)]]
 - See also: [[Portrait NPC Nerissa Deepcurrent V1 Nerissa Deepcurrent.svg_1 (Portraits)]]
 - Influences [[step_033 (phase_051)]]
@@ -241,7 +235,7 @@ Is secretly testing the party
 - Leads to [[LORE00211_Prophecies_Entry_212]]
 - Affected by [[animate-objects-xphb (spells)]]
 - See also: [[NPC00927_Aldric_Ironwood_the_Wanderer]]
-- Parallels [[step_018]]
+- Parallels
 - Affected by [[step_005 (phase_058)]]
 - Affected by [[list-spells-optional-features-ride-the-wind (lists)]]
 - See also: [[step_008 (phase_031)]]
@@ -263,13 +257,13 @@ Is secretly testing the party
 - Leads to [[step_080 (phase_030)]]
 - Affected by [[bag-of-holding-xdmg (items)]]
 - Originates from [[Master_Campaign_Index]]
-- Originates from [[step_017]]
+- Originates from
 - Compare with [[step_003 (phase_008)]]
-- Compare with [[step_023]]
+- Compare with
 - See also: [[Oil of Slipperiness Xdmg]]
 - Related: [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg]]
 - Requires [[Noble Quarter Council Chambers]]
-- Leads to [[step_027]]
+- Leads to
 - Affected by [[Molten Magma Roper Pota]]
 - See also: [[Admiral Marina Stormcrest]]
 - Influences [[secondary-tables-arcane-matters-xge (tables)]]
@@ -289,13 +283,12 @@ Is secretly testing the party
 - Originates from [[ITEM00052_Thunder_Staff_of_Speed]]
 - Influences [[Portrait NPC the Northern Kingdoms V2 the Northern Kingdoms.svg_1 (Portraits)]]
 - Related: [[NPC01066_Zephyr_Emberfall_the_Mystic]]
-- Originates from [[step_064]]
+- Originates from
 
 ## Visual References
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

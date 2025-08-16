@@ -9,7 +9,6 @@ aliases: [NPC00272 Rhiannon Brightblade]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00272 Rhiannon Brightblade]
 - [[#Urien Oakenshield the Strong (Personal - Best friend)|Urien Oakenshield the Strong (Personal - Best friend)]]
 - [[#Wynne Xendar the Wise (Professional - Rival)|Wynne Xendar the Wise (Professional - Rival)]]
 - [[#Felicia Voidwalker (Political - Puppet)|Felicia Voidwalker (Political - Puppet)]]
-
 
 ---
 created: 2025-08-15
@@ -158,16 +156,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.143Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -216,11 +211,10 @@ Modifications:
 - [[14 Gods of the Multiverse]]
 - [[Faction_Relationship_Web]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -228,11 +222,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -275,8 +268,8 @@ Modifications:
 - Influences [[LORE00046_Legends_Entry_47]]
 - Affected by [[Portrait NPC the Bloodline Carrier the Bloodline Carrier.svg]]
 - See also: [[step_089 (phase_034)]]
-- Influences [[step_080]]
-- Parallels [[step_097]]
+- Influences
+- Parallels
 - Compare with [[The Cerulean Breath (People)]]
 - Compare with [[Tenebrarum (People)]]
 - Compare with [[ITEM0098_Cursed_Tome_of_the_Dawn]]
@@ -292,7 +285,7 @@ Modifications:
 - Originates from [[step_064 (phase_059)]]
 - Originates from [[ITEM00985_Pure_Potion_of_Fortune]]
 - Connects to [[ITEM00426_Mithril_Helm_of_the_Guardian]]
-- Parallels [[step_022]]
+- Parallels
 - Parallels [[Travel Calculator (D&D_References)]]
 - Leads to [[Biological Authentication Scanner]]
 - Related: [[Master [[Artificer]] Coral Gemwright (NPCs)]]
@@ -310,7 +303,7 @@ Modifications:
 - Influences [[SPELL00087_Divine_Spell_88]]
 - Leads to [[ENC00298_Social_Encounter_299]]
 - Related: [[Inter-Realm Trade Routes]]
-- Originates from [[step_069]]
+- Originates from
 - Connects to [[Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png_1 (Portraits)]]
 - Compare with [[QUEST00337_Side_Quest_338]]
 - Parallels [[The Crystal Cult (Cults_and_Movements)]]
@@ -318,7 +311,7 @@ Modifications:
 - Connects to [[list-spells-backgrounds-witherbloom-student-scc]]
 - Parallels [[Shadow Ability Ethics 2]]
 - Influences [[Multi-Phase Boss Fights]]
-- Requires [[step_099]]
+- Requires
 - Originates from [[step_055 (phase_062)]]
 - Connects to [[step_089 (phase_005)]]
 - Related: [[Introduction]]

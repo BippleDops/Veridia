@@ -18,7 +18,6 @@ aliases: [NPC01682 Vesper Blackstone the Guardian]
 - [[#Aeliana Youngblood the Seeker (Political - Ally)|Aeliana Youngblood the Seeker (Political - Ally)]]
 - [[#Caelum Hawthorne the Mystic (Political - Spy)|Caelum Hawthorne the Mystic (Political - Spy)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Vesper Blackstone the Guardian", "vesper blackstone the guardian", "Vesper Blackstone Guardian", "Guardian the Blackstone Vespertags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -147,16 +146,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.299Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -173,9 +169,7 @@ Is secretly testing the party
 - [[Emergency_Evacuation_Map_Stormglass_Riot]]
 - [[Combat_Encounter_Analysis]]
 - [[11 Spellcasting]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -194,7 +188,7 @@ Following magic item guidelines (WWT p.135-136):
 - Tasha's Mystical Formulae of Everything (TMF) p.189
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -203,11 +197,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -221,7 +214,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[LORE00050_History_Entry_51]]
 - Connects to [[LOC00289_Dungeons_Location_290]]
 - Influences [[slippers-of-spider-climbing-xdmg (items)]]
-- Requires [[step_051]]
+- Requires
 - See also: [[step_073 (phase_023)]]
 - Leads to [[ITEM00211_Venomous_Hammer_of_Slaying]]
 - Compare with [[step_025 (phase_075)]]
@@ -239,7 +232,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_018 (phase_044)]]
 - Affected by [[step_079 (phase_037)]]
 - Connects to [[step_015 (phase_009)]]
-- Connects to [[step_006]]
+- Connects to
 - Influences [[Symbol Heraldry Minister Truth Darknes V1 Minister Truth Darknes.svg]]
 - Originates from [[DUN00194_Dungeon_195]]
 - Affected by [[QUEST00066_Personal_Quest_67]]
@@ -261,8 +254,8 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[M-008 Door Opens Elsewhere Player]]
 - Leads to [[LOC00124_Cities_Location_125]]
 - Connects to [[step_080 (phase_070)]]
-- Parallels [[step_091]]
-- Affected by [[step_059]]
+- Parallels
+- Affected by
 - Requires [[Figurine of Wondrous Power Onyx Dog Xdmg]]
 - Parallels [[location-city-madame-whisper-madame-whisper.svg]]
 - Related: [[Secondary Tables Crime Xge]]
@@ -282,7 +275,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[International Temporal Safety Counci]]
 - Connects to [[step_094 (phase_069)]]
 - See also: [[borrowed-knowledge-scc (spells)]]
-- Influences [[step_043]]
+- Influences
 - See also: [[Commander Reef Shadowstrike]]
 - Influences [[trebuchet-xdmg (objects)]]
 - See also: [[The Living Quarters]]
@@ -294,21 +287,21 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Earth Elemental Myrmidon Mpmm]]
 - Influences [[seeker-dart-pota (items)]]
 - Parallels [[Symbol Heraldry Mobile Terror Platform Mobile Terror Platform.svg]]
-- Leads to [[step_059]]
+- Leads to
 - Leads to [[kobold-dmg (races)]]
 - See also: [[LORE00037_Legends_Entry_38]]
 - Originates from [[step_091 (phase_011)]]
 - Affected by [[QUEST00303_Side_Quest_304]]
-- Compare with [[step_029]]
+- Compare with
 - See also: [[[[Royal Bloodline Powers]] (D&D_References)]]
 - Influences [[LOC00280_Cities_Location_281]]
 - Related: [[The Silverscale Consortium 3 (D&D_References)]]
 - Leads to [[LORE00115_Legends_Entry_116]]
 - Leads to [[LOC00145_Wilderness_Location_146]]
 - Parallels [[[[Aethermoor]] Academy of Mystical Science]]
-- Influences [[step_042]]
+- Influences
 - Related: [[Assets Locations Location City [[Port Authority]] Port Authority.svg]]
-- Connects to [[step_019]]
+- Connects to
 - Affected by [[LOC00293_Planes_Location_294]]
 - Originates from [[ENC00148_Environmental_Encounter_149]]
 
@@ -316,7 +309,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01673 Malakai Darkwater the Guardian]
 - [[#Malakai Goldleaf the Risen (Personal - Love interest)|Malakai Goldleaf the Risen (Personal - Love interest)]]
 - [[#Ysara Oakenshield the Fallen (Family - Spouse)|Ysara Oakenshield the Fallen (Family - Spouse)]]
 
-
 ---
 aliases: ["Malakai Darkwater the Guardian", "malakai darkwater the guardian", "Malakai Darkwater Guardian", "Guardian the Darkwater Malakai"]
 tags: [npc, character]
@@ -158,28 +157,24 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.298Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Connects to [[ITEM01481_Masterwork_Lock_of_Reliability]]
 - Influences [[step_058 (phase_043)]]
 - Originates from [[Portrait NPC Enforcer Chief Mako Ironjaw Enforcer Chief Mako Ironjaw.svg_1 (Portraits)]]
-- Originates from [[step_024]]
+- Originates from
 - Requires [[Ox Mpmm]]
 - See also: [[Royal Quarters 2]]
 - Requires [[Portrait NPC the Throne Pretenders V1 the Throne Pretenders.svg]]
@@ -193,7 +188,7 @@ Provides information for a price
 - Related: [[ITEM01490_Ornate_Lock_of_Durability]]
 - See also: [[Forgotten Realms Mask]]
 - Parallels [[Silver Sword Mtf]]
-- See also: [[step_025]]
+- See also:
 - Requires [[Encounter_Scaling_Guide]]
 - Compare with [[location-city-divine-magic-divine-magic.svg]]
 - Connects to [[ENC00157_Combat_Encounter_158]]
@@ -211,7 +206,7 @@ Provides information for a price
 - Requires [[Merchant Prince Shadowgold]]
 - Originates from [[Marina Tidecrest (People)]]
 - Leads to [[step_017 (phase_029)]]
-- Related: [[step_022]]
+- Related:
 - Parallels [[Assets Locations Location City Regional Courts Regional Courts.svg]]
 - See also: [[Depth Pulse 2]]
 - Related: [[NPC01497_Malakai_Crystalbrook_the_Lost]]
@@ -221,9 +216,9 @@ Provides information for a price
 - Parallels [[Letter_From_the_Pearl_Guard_Captai]]
 - Originates from [[LORE00184_History_Entry_185]]
 - Leads to [[conjure-elemental-xphb (spells)]]
-- Affected by [[step_086]]
+- Affected by
 - Connects to [[spear-xphb (items)]]
-- Parallels [[step_011]]
+- Parallels
 - Related: [[lemure-xmm (fiend)]]
 - Leads to [[International Temporal Safety Counci]]
 - Leads to [[Combat Encounter Difficulty XP Thresholds by Character Level]]
@@ -238,10 +233,10 @@ Provides information for a price
 - Connects to [[step_067 (phase_085)]]
 - Parallels [[Regional Courts (D&D_References)]]
 - Leads to [[Portrait NPC Current Lord Triton of House Pelagios V2 Current Lord Triton of House Pelagios.svg]]
-- Parallels [[step_054]]
+- Parallels
 - Requires [[step_061 (phase_088)]]
 - Affected by [[Quick_Start_Guide.md]]
-- Requires [[step_045]]
+- Requires
 - Related: [[NPC00396_Qadim_Goldleaf_the_Fallen]]
 - Leads to [[ITEM01309_Ornate_Map_Case_of_Durability]]
 - Originates from [[Location City Admiral Thalassa Stormcurrent V1 Admiral Thalassa Stormcurrent.svg]]
@@ -281,7 +276,6 @@ Provides information for a price
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

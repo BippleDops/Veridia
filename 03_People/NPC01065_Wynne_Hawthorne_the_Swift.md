@@ -18,7 +18,6 @@ aliases: [NPC01065 Wynne Hawthorne the Swift]
 - [[#Jorah Grimholt the Wanderer (Professional - Partner)|Jorah Grimholt the Wanderer (Professional - Partner)]]
 - [[#Baelor Xendar the Mystic (Family - Cousin)|Baelor Xendar the Mystic (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Wynne Hawthorne the Swift", "wynne hawthorne the swift", "Wynne Hawthorne Swift", "Swift the Hawthorne Wynne"]
@@ -147,27 +146,23 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.233Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -178,11 +173,10 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -193,7 +187,7 @@ Seeks rare merchandise
 - Related: [[Creature Type Xphb]]
 - Leads to [[ITEM00083_Thunder_Hammer_of_Wounding]]
 - Requires [[The Remembering Ones]]
-- Parallels [[step_065]]
+- Parallels
 - Compare with [[Lord Commander Gareth]]
 - Leads to [[LOC0136_Marshstead]]
 - Connects to [[MON00077_Undead_Creature_78]]
@@ -207,7 +201,7 @@ Seeks rare merchandise
 - Influences [[greyhawk-nerull-xdmg (deities)]]
 - Influences [[norse-hermod (deities)]]
 - Requires [[Folding Boat Xdmg]]
-- Leads to [[step_099]]
+- Leads to
 - Influences [[step_062 (phase_007)]]
 - Parallels [[MON00118_Constructs_Creature_119]]
 - Related: [[Assets Locations Location City Memoriam the Forgotten Continent Memoriam the Forgotten Continent.svg]]
@@ -217,13 +211,13 @@ Seeks rare merchandise
 - Influences [[The Reality Guards 2]]
 - Related: [[step_062 (phase_078)]]
 - Requires [[Head of Memory Integration Dr. Nautilus Depthcaller (People)]]
-- Requires [[step_024]]
+- Requires
 - Related: [[Character_Bonds]]
-- Requires [[step_075]]
+- Requires
 - Leads to [[Oracle Sister Luna Visionseeker]]
 - Originates from [[LOC00051_Planes_Location_52]]
 - Originates from [[Friends Xphb]]
-- Related: [[step_098]]
+- Related:
 - Influences [[Frigid Water Xdmg]]
 - Related: [[ENC00067_Social_Encounter_68]]
 - See also: [[Shadow Detection Crystals (D&D_References)]]
@@ -240,7 +234,7 @@ Seeks rare merchandise
 - Affected by [[QUEST00252_Personal_Quest_253]]
 - Leads to [[Assets Locations Location City Living Supremacist Enclaves Living Supremacist Enclaves.svg]]
 - Compare with [[Session 17 - The Gathering Storm]]
-- Parallels [[step_097]]
+- Parallels
 - Affected by [[Bottle Stopper Cork Embossed with Gold Leaf and Set with Amethysts Xdmg]]
 - Compare with [[conjure-barrage-xphb (spells)]]
 - Compare with [[NPC01902_Aldric_Moonshadow_the_Redeemed]]
@@ -254,13 +248,13 @@ Seeks rare merchandise
 - Influences [[Professor Kaine Tidereader]]
 - See also: [[Portrait NPC Captain Nerion Deepward V1 Captain Nerion Deepward.svg]]
 - Requires [[Craftmaster Engineer Gearwhispe (D&D_References)]]
-- Connects to [[step_052]]
+- Connects to
 - Affected by [[Variant Customizing Ability Scores Ability Scores and Modifiers Phb]]
 - Influences [[Assets Locations Location City Quality Inspector Reef Perfectwright V1 Quality Inspector Reef Perfectwright.svg]]
 - Parallels [[Religious Institutions]]
 - Influences [[Crystal Exchange Plaza]]
 - Requires [[Assets Locations Location City Mediator Cardinal Harmony Mediator Cardinal Harmony.svg]]
-- Originates from [[step_098]]
+- Originates from
 - Requires [[step_085 (phase_095)]]
 - Affected by [[Gith Githyanki Mtf]]
 - Affected by [[LOC00230_Wilderness_Location_231]]
@@ -277,7 +271,7 @@ Seeks rare merchandise
 - Compare with [[Map World Layer World Political Boundaries World Political Boundaries.svg]]
 - Compare with [[Shadow Liberation Front]]
 - Influences [[NPC00128_Felicia_Youngblood]]
-- Requires [[step_086]]
+- Requires
 - Compare with [[Scene Scene Drowned Cathedral Vigil Drowned Cathedral Vigil.png]]
 - Leads to [[QUEST00067_Side_Quest_68]]
 - See also: [[giant-fly-dmg (beast)]]
@@ -285,13 +279,12 @@ Seeks rare merchandise
 - See also: [[SHOP00030_General_Shop_31]]
 - Parallels [[Reality Distortion]]
 - Leads to [[step_067 (phase_095)]]
-- Parallels [[step_045]]
+- Parallels
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01547 Branwen Frostwhisper the Mystic]
 - [[#Kaelen Brightblade the Bold (Personal - Nemesis)|Kaelen Brightblade the Bold (Personal - Nemesis)]]
 - [[#Urien Nightfall the Wanderer (Political - Opposition)|Urien Nightfall the Wanderer (Political - Opposition)]]
 
-
 ---
 aliases: ["Branwen Frostwhisper the Mystic", "branwen frostwhisper the mystic", "Branwen Frostwhisper Mystic", "Mystic the Frostwhisper Branwen"]
 tags: [npc, character]
@@ -160,21 +159,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.284Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -200,7 +195,7 @@ Needs help with personal quest
 - Parallels [[QUEST00071_Side_Quest_72]]
 - Influences [[S-114_Gravity_Well_Rescue]]
 - Originates from [[The Memory Anchor (D&D_References)]]
-- Affected by [[step_008]]
+- Affected by
 - Related: [[Giant Slayer Xdmg]]
 - See also: [[step_035 (phase_058)]]
 - Influences [[LOC0038_FortGate]]
@@ -211,7 +206,7 @@ Needs help with personal quest
 - Affected by [[LOC00079_Towns_Location_80]]
 - Leads to [[step_087 (phase_026)]]
 - Parallels [[step_050 (phase_087)]]
-- See also: [[Quest   Seeds of the Deep]]
+- See also: [[Quest Seeds of the Deep]]
 - Originates from [[ENC00007_Social_Encounter_8]]
 - Leads to [[ENC00070_Combat_Encounter_71]]
 - Leads to [[The Depth Herald]]
@@ -222,7 +217,7 @@ Needs help with personal quest
 - Requires [[MON00140_Constructs_Creature_141]]
 - Connects to [[NPC01395_Cedric_Hawthorne_the_Fallen]]
 - Originates from [[ENC00263_Combat_Encounter_264]]
-- Requires [[step_083]]
+- Requires
 - Related: [[Quest - The Tide War_1 (01_Adventures)]]
 - Influences [[Portrait NPC Archbishop Matthias Lightbringer V1 Archbishop Matthias Lightbringer.svg]]
 - Related: [[Assets Locations Location City Memory Sanctity Laws Memory Sanctity Laws.svg]]
@@ -236,7 +231,7 @@ Needs help with personal quest
 - Leads to [[Prince Thalassic 2]]
 - Affected by [[Portrait NPC the Pressure King the Pressure King.svg]]
 - Influences [[ITEM00364_Radiant_Crossbow_of_the_Ancients]]
-- Requires [[step_043]]
+- Requires
 - Connects to [[Prince Aurelius Lightbringer (D&D_References)]]
 - Leads to [[Memorial Mason Kane]]
 - Leads to [[Pressure Master Current Depthwright]]
@@ -255,7 +250,7 @@ Needs help with personal quest
 - Originates from [[Sentient Magic Item Alignment]]
 - Originates from [[Location City the Bathyal Palace the Bathyal Palace.svg]]
 - Leads to [[Whispering Wildlands (D&D_References)]]
-- Affected by [[step_078]]
+- Affected by
 - Parallels [[ENC00170_Environmental_Encounter_171]]
 - Affected by [[Democratic Erosion 2]]
 - Connects to [[Commercial Navigation Services]]
@@ -277,13 +272,12 @@ Needs help with personal quest
 - See also: [[alchemists-doom-scc (items)]]
 - Influences [[SPELL00136_Divine_Spell_137]]
 - Related: [[NPC01562_Rhiannon_Proudmore_the_Scholar]]
-- Parallels [[step_094]]
+- Parallels
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

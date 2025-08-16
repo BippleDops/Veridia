@@ -18,7 +18,6 @@ aliases: [NPC01874 Rhiannon Thornweave the Wanderer]
 - [[#Alaric Ashford the Mystic (Political - Ally)|Alaric Ashford the Mystic (Political - Ally)]]
 - [[#Pyria Brightblade the Wanderer (Criminal - Accomplice)|Pyria Brightblade the Wanderer (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Rhiannon Thornweave the Wanderer", "rhiannon thornweave the wanderer", "Rhiannon Thornweave Wanderer", "Wanderer the Thornweave Rhiannon"]
@@ -147,27 +146,23 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.319Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -177,11 +172,10 @@ Is secretly testing the party
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -226,7 +220,7 @@ Is secretly testing the party
 - Connects to [[step_001 (phase_053)]]
 - Leads to [[Alchemists Fire Xphb]]
 - Requires [[Location City Prophetic Dreams V1 Prophetic Dreams.svg]]
-- See also: [[step_074]]
+- See also:
 - Related: [[Assets Locations Location City Temple of the Deep Waters V1 Temple of the Deep Waters.svg]]
 - Connects to [[ITEM01327_Masterwork_Lock_of_Quality]]
 - Leads to [[ITEM0060_Eldritch_Circlet_of_Power]]
@@ -244,7 +238,7 @@ Is secretly testing the party
 - Leads to [[Luck Spirit 2]]
 - Parallels [[Lumengarde (D&D_References)]]
 - Originates from [[step_085 (phase_048)]]
-- Connects to [[Quest   The Pretender]]
+- Connects to [[Quest The Pretender]]
 - Compare with [[Item Artifact Boots of Striding and Springing Xdmg V2 Boots of Striding and Springing Xdmg.png]]
 - See also: [[Void Currents (D&D_References)]]
 - Related: [[Marine Corps]]
@@ -275,8 +269,8 @@ Is secretly testing the party
 - See also: [[Elder Kythar]]
 - Parallels [[LOC00162_Wilderness_Location_163]]
 - Leads to [[Deep Mining Guild]]
-- Requires [[step_002]]
-- Related: [[step_016]]
+- Requires
+- Related:
 - Originates from [[step_020 (phase_054)]]
 - Connects to [[Gith Tables Githzerai Flaws Mtf]]
 - Originates from [[Dwarven Marthammor Duin Mtf]]
@@ -290,7 +284,6 @@ Is secretly testing the party
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

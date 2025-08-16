@@ -18,7 +18,6 @@ aliases: [NPC00866 Gareth Thornweave the Cunning]
 - [[#Felicia Ashford the Bold (Family - Cousin)|Felicia Ashford the Bold (Family - Cousin)]]
 - [[#Qadim Xendar the Risen (Criminal - Handler)|Qadim Xendar the Risen (Criminal - Handler)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gareth Thornweave the Cunning", "gareth thornweave the cunning", "Gareth Thornweave Cunning", "Cunning the Thornweave Gareth"]
@@ -142,27 +141,23 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.211Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -173,11 +168,10 @@ Competitor sabotaging business
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -202,12 +196,12 @@ Competitor sabotaging business
 - Connects to [[step_098 (phase_079)]]
 - Compare with [[item-artifact-ruby-xdmg-ruby-xdmg.png]]
 - Originates from [[step_058 (phase_025)]]
-- Parallels [[step_100]]
+- Parallels
 - Influences [[Elf Names Female Adult Xge]]
-- See also: [[step_012]]
+- See also:
 - Originates from [[Cultural Districts (D&D_References)]]
 - Related: [[The Rolling Tide]]
-- Influences [[step_062]]
+- Influences
 - Compare with [[step_097 (phase_025)]]
 - Leads to [[Location City Memoriam the Forgotten Continent V1 Memoriam the Forgotten Continent.svg]]
 - Requires [[MON00162_Constructs_Creature_163]]
@@ -231,10 +225,10 @@ Competitor sabotaging business
 - Affected by [[Marcus Evenscale]]
 - Parallels [[step_087 (phase_046)]]
 - Compare with [[divination-xphb (spells)]]
-- Originates from [[step_033]]
+- Originates from
 - Connects to [[step_057 (phase_064)]]
 - Connects to [[The Resoce Cathedral]]
-- Influences [[step_037]]
+- Influences
 - Connects to [[The Screaming Battleground]]
 - See also: [[Assets Portraits Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg]]
 - See also: [[Location City Master Gardener Sage Harmony Bloomtender V1 Master Gardener Sage Harmony Bloomtender.svg]]
@@ -247,7 +241,7 @@ Competitor sabotaging business
 - Connects to [[step_031 (phase_055)]]
 - Leads to [[shadowfell-despair-xdmg (tables)]]
 - Leads to [[DUN00125_Dungeon_126]]
-- Influences [[step_036]]
+- Influences
 - Affected by [[Craftmaster Shadowwork (D&D_References)]]
 - Influences [[Feywild Time Warp]]
 - Originates from [[LORE00280_Prophecies_Entry_281]]
@@ -266,7 +260,7 @@ Competitor sabotaging business
 - Related: [[step_088 (phase_072)]]
 - Parallels [[chain-shirt-xphb (items)]]
 - Related: [[disguise-self-xphb (spells)]]
-- Compare with [[step_092]]
+- Compare with
 - Requires [[LORE00211_Prophecies_Entry_212]]
 - Requires [[Portrait NPC Deepwater Banking Consortium V2 Deepwater Banking Consortium.svg]]
 - Parallels [[camel-xphb (items)]]
@@ -279,14 +273,13 @@ Competitor sabotaging business
 - Affected by [[Dr Memory Lane]]
 - Connects to [[aquamarine-xdmg (items)]]
 - Originates from [[NPC01998_Solas_Silverleaf_the_Guardian]]
-- Originates from [[step_080]]
+- Originates from
 - Related: [[EVENT00090_Magical_Event_91]]
 
 ## Visual References
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

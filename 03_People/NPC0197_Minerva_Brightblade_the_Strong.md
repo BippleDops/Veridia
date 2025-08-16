@@ -18,13 +18,12 @@ aliases: [NPC0197 Minerva Brightblade the Strong]
 - [[#Relationships|Relationships]]
 - [[#Roleplaying|Roleplaying]]
 
-
 ---
 aliases: ["Minerva Brightblade the Strong", "minerva brightblade the strong", "Minerva Brightblade Strong", "Strong the Brightblade Minerva"]
 tags: [, generated]
-  - npc
-  - character
-  - generated
+ - npc
+ - character
+ - generated
 type: npc
 ---
 
@@ -155,7 +154,7 @@ Insight, Perception, Arcana
 - Parallels [[poltergeist-xmm (undead)]]
 - Affected by [[step_006 (phase_020)]]
 - Connects to [[Symbol Heraldry Harmonic Mind Contro Harmonic Mind Contro.svg]]
-- Requires [[step_065]]
+- Requires
 - Requires [[Chancellor Marcus Provinces]]
 - Related: [[portrait-npc-tenebrarum-v1-tenebrarum.svg]]
 - Affected by [[The Twilight Gardens (D&D_References)]]
@@ -189,7 +188,7 @@ Insight, Perception, Arcana
 - Influences [[Location City International Trade Agreements V1 International Trade Agreements.svg]]
 - Requires [[Crystal Merchants Guil]]
 - Compare with [[Portrait NPC Doctor Helena Voidwalker Doctor Helena Voidwalker.svg]]
-- Connects to [[step_078]]
+- Connects to
 - Leads to [[list-spells-classes-the-hexblade-xge (lists)]]
 - Compare with [[NPC00470_Zephyr_Grimholt_the_Seeker]]
 - Parallels [[Assets Locations Location City Chancellor Octavius Chancellor Octavius.svg]]
@@ -204,7 +203,7 @@ Insight, Perception, Arcana
 - Originates from [[step_099 (phase_052)]]
 - Parallels [[ITEM01099_Pure_Powder_of_Clarity]]
 - Connects to [[location-city-libraries-libraries.svg]]
-- Related: [[step_096]]
+- Related:
 - Influences [[Portrait NPC the Crimson Shard Guardian V2 the Crimson Shard Guardian.svg]]
 - Leads to [[LOC00218_Towns_Location_219]]
 - Originates from [[list-spells-races-tiefling-asmodeus-mtf (lists)]]
@@ -216,11 +215,11 @@ Insight, Perception, Arcana
 - Leads to [[Portrait NPC Economic Manipulation V2 Economic Manipulation.svg]]
 - Compare with [[step_010 (phase_038)]]
 - Affected by [[Item Properties]]
-- Compare with [[step_066]]
+- Compare with
 - Parallels [[Merged Reality Zones 2]]
 - Requires [[Assets Locations Location City Court Herald Titus V1 Court Herald Titus.svg]]
 - Leads to [[LORE0082_Prophecy_of_the_Sundering]]
-- Connects to [[step_024]]
+- Connects to
 - Leads to [[step_057 (phase_007)]]
 - Related: [[step_046 (phase_058)]]
 - Parallels [[Location City Vault Maintenance Checklist V1 Vault Maintenance Checklist.svg]]
@@ -244,7 +243,7 @@ Insight, Perception, Arcana
 - Leads to [[Battle_Map_Descriptions (D&D_References)]]
 - Compare with [[Location City House Pressureborn V1 House Pressureborn.svg]]
 - Influences [[step_083 (phase_036)]]
-- Related: [[step_004]]
+- Related:
 - Affected by [[XP Calculator]]
 - Parallels [[ITEM0082_Cursed_Crown_of_the_Dawn]]
 

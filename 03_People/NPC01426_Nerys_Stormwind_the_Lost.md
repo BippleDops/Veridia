@@ -18,7 +18,6 @@ aliases: [NPC01426 Nerys Stormwind the Lost]
 - [[#Orion Dawnstrider the Swift (Criminal - Target)|Orion Dawnstrider the Swift (Criminal - Target)]]
 - [[#Ewan Thornweave the Fallen (Professional - Mentor)|Ewan Thornweave the Fallen (Professional - Mentor)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Nerys Stormwind the Lost", "nerys stormwind the lost", "Nerys Stormwind Lost", "Lost the Stormwind Nerys"]
@@ -156,27 +155,23 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.271Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -185,24 +180,23 @@ Knows secret about major threat
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Parallels [[step_093 (phase_098)]]
 - Related: [[Location City Pressure Tube System V1 Pressure Tube System.svg]]
 - Affected by [[Quest - The Deep Mother's Truth]]
-- Compare with [[step_017]]
+- Compare with
 - See also: [[step_039 (phase_042)]]
 - Affected by [[Location_Template_1]]
 - Related: [[Assets Locations Location City Quieting the Depths Quieting the Depths.svg]]
 - Leads to [[Temporal Archivist Chronos]]
 - Connects to [[Whisper Archives]]
-- Leads to [[step_008]]
+- Leads to
 - Influences [[one-of-a-kind-objects-hag-objects-vgm (tables)]]
 - Requires [[step_013 (phase_018)]]
 - Leads to [[Portrait NPC Free Current Safe Houses V1 Free Current Safe Houses.svg_1 (Portraits)]]
@@ -231,7 +225,7 @@ Knows secret about major threat
 - Affected by [[step_088 (phase_009)]]
 - Connects to [[ITEM0109_Forgotten_Gauntlet_of_the_Dawn]]
 - Originates from [[Vault Maintenance Checklist (D&D_References)]]
-- Requires [[step_037]]
+- Requires
 - Parallels [[ENC00307_Combat_Encounter_308]]
 - Affected by [[step_032 (phase_082)]]
 - Related: [[The Memory Academies]]
@@ -281,10 +275,10 @@ Knows secret about major threat
 - Leads to [[Prep Note]]
 - See also: [[NPC00087_Jorah_Voidwalker_the_Guardian]]
 - Influences [[location-city-temple-clergy-temple-clergy.svg]]
-- Connects to [[step_052]]
+- Connects to
 - See also: [[step_008 (phase_017)]]
 - See also: [[Journeyman Smith Iron]]
-- Affected by [[step_013]]
+- Affected by
 - See also: [[Location City Captain Trawl Netcaster V1 Captain Trawl Netcaster.svg]]
 - Originates from [[step_051 (phase_095)]]
 - Influences [[step_021 (phase_055)]]
@@ -299,7 +293,6 @@ Knows secret about major threat
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
 
-
 ## Realm Connections
 
 ### Connection to Aethermoor
@@ -311,9 +304,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

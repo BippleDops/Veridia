@@ -18,7 +18,6 @@ aliases: [NPC01237 Dara Winterborn the Mystic]
 - [[#Xander Ashford the Broken (Personal - Nemesis)|Xander Ashford the Broken (Personal - Nemesis)]]
 - [[#Aeliana Frostwhisper the Wise (Political - Ally)|Aeliana Frostwhisper the Wise (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Dara Winterborn the Mystic", "dara winterborn the mystic", "Dara Winterborn Mystic", "Mystic the Winterborn Dara"]
@@ -152,25 +151,20 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.251Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -190,7 +184,7 @@ Following magic item guidelines (WWT p.135-136):
 - Tasha's Mystical Formulae of Everything (TMF) p.46
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -198,11 +192,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -241,7 +234,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[ENC00104_Combat_Encounter_105]]
 - Influences [[The Null Sanctum (D&D_References)]]
 - Related: [[Assets Locations Location City Chief Philosopher Marina Clearpool V1 Chief Philosopher Marina Clearpool.svg]]
-- Influences [[step_053]]
+- Influences
 - Affected by [[Ritual Caster Xphb]]
 - See also: [[step_096 (phase_049)]]
 - Related: [[step_001 (phase_036)]]
@@ -254,14 +247,14 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_047 (phase_064)]]
 - Related: [[step_093 (phase_050)]]
 - See also: [[Bone Scribes (D&D_References)]]
-- Compare with [[step_036]]
-- Parallels [[step_032]]
+- Compare with
+- Parallels
 - See also: [[The Resistance Formation]]
 - Leads to [[step_009 (phase_033)]]
 - Compare with [[NPC00808_Solas_Ironforge_the_Mystic]]
 - Related: [[step_064 (phase_067)]]
 - Connects to [[creature-creature-dragon-v4-dragon.png]]
-- Connects to [[step_067]]
+- Connects to
 - Related: [[ITEM00550_Adamantine_Helm_of_Resistance]]
 - Requires [[step_083 (phase_070)]]
 - Originates from [[Physical Variations Yuan Ti Eye Color Vgm]]
@@ -284,18 +277,18 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Temple District]]
 - Requires [[step_013 (phase_064)]]
 - Requires [[Thalassius the Wise]]
-- Affected by [[step_018]]
+- Affected by
 - Affected by [[location-city-the-azure-coast-the-azure-coast.svg]]
 - Compare with [[FAC00044_Orders_45]]
 - Affected by [[Sir Marcus Dawnforge (D&D_References)]]
-- Connects to [[step_038]]
+- Connects to
 - Connects to [[Portrait NPC Vespara Nightwhisper Thorne V2 Vespara Nightwhisper Thorne.svg_1 (Portraits)]]
 - Related: [[step_089 (phase_059)]]
 - Leads to [[High Court]]
 - Connects to [[MON00107_Aberrations_Creature_108]]
 - Parallels [[SPELL00153_Nature_Spell_154]]
-- Originates from [[step_011]]
-- Connects to [[step_070]]
+- Originates from
+- Connects to
 - Compare with [[Duchess Seraphina Crimsontide (D&D_References)]]
 - Compare with [[step_073 (phase_057)]]
 - Parallels [[Assets Locations Location City the Whispering Depths V1 the Whispering Depths.svg]]
@@ -311,7 +304,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

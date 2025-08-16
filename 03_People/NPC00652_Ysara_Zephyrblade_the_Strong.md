@@ -18,7 +18,6 @@ aliases: [NPC00652 Ysara Zephyrblade the Strong]
 - [[#Gareth Grimholt the Guardian (Personal - Childhood friend)|Gareth Grimholt the Guardian (Personal - Childhood friend)]]
 - [[#Elric Frostwhisper the Strong (Political - Spy)|Elric Frostwhisper the Strong (Political - Spy)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ysara Zephyrblade the Strong", "ysara zephyrblade the strong", "Ysara Zephyrblade Strong", "Strong the Zephyrblade Ysara"]
@@ -143,27 +142,23 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.187Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -171,19 +166,18 @@ Witnessed a crime
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- Compare with [[step_038]]
+- Compare with
 - Parallels [[step_030 (phase_085)]]
 - See also: [[Quarterstaff Xphb]]
 - Originates from [[mass-heal-xphb (spells)]]
-- Compare with [[step_045]]
+- Compare with
 - See also: [[step_076 (phase_041)]]
 - Connects to [[step_084 (phase_051)]]
 - Affected by [[Aquabyssos Survival Mechanics (D&D_References)]]
@@ -209,7 +203,7 @@ Witnessed a crime
 - Connects to [[Portrait NPC Quest the Deepmind Weapon V2 Quest the Deepmind Weapon.svg]]
 - Affected by [[Assets Locations Location City Crystalhaven Crystalhaven.svg]]
 - Connects to [[SPELL0009_Divine_Shield]]
-- Requires [[step_045]]
+- Requires
 - Affected by [[ITEM00236_Cursed_Axe_of_Accuracy]]
 - Requires [[Investigator Prima Truthseeker]]
 - Parallels [[LOC00263_Wilderness_Location_264]]
@@ -230,14 +224,14 @@ Witnessed a crime
 - Influences [[NPC01017_Vesper_Keenblade_the_Risen]]
 - See also: [[Assets Locations Location City Memory Tide Pools V1 Memory Tide Pools.svg]]
 - Influences [[QUEST00236_Personal_Quest_237]]
-- Originates from [[step_090]]
+- Originates from
 - Requires [[NPC00147_Nerys_Blackstone_the_Bold]]
 - Leads to [[SPELL00105_Divine_Spell_106]]
 - Related: [[Surface Portal Alpha]]
 - Parallels [[04_Resources_Assets_Locations_location-city-enchanter-valdris-peacewarden-v1-enchanter-valdris-peacewarden.svg]]
 - Originates from [[LOC00083_Towns_Location_84]]
 - Compare with [[Session 05 (06_Sessions)]]
-- Affected by [[step_001]]
+- Affected by
 - Connects to [[medallion-of-thoughts-xdmg (items)]]
 - Originates from [[ENC00218_Social_Encounter_219]]
 - Parallels [[NPC01740_Nerys_Blackstone_the_Risen]]
@@ -251,7 +245,7 @@ Witnessed a crime
 - Compare with [[LOC00169_Wilderness_Location_170]]
 - Parallels [[step_022 (phase_032)]]
 - Originates from [[Session 09 the Shard Convergence]]
-- Influences [[step_010]]
+- Influences
 - Leads to [[Sensory Signature Guides]]
 - Requires [[Political Maneuvering]]
 - Affected by [[Neutrality Laws 2]]
@@ -261,7 +255,7 @@ Witnessed a crime
 - Influences [[Crystal Corruption Taboos]]
 - Parallels [[Mechanics Standardization Report (D&D_References)]]
 - See also: [[LOC00026_Dungeons_Location_27]]
-- See also: [[step_017]]
+- See also:
 - Related: [[greyhawk-pelor-xdmg (deities)]]
 - Connects to [[Assets Portraits Portrait NPC Sage Lysander Deepthought Sage Lysander Deepthought.svg]]
 - Leads to [[Loot Generator]]
@@ -276,15 +270,14 @@ Witnessed a crime
 - Affected by [[Benthic Commune (D&D_References)]]
 - Leads to [[spell-gem-jade-oota (items)]]
 - Influences [[She-Who-Sees-Beyond 2]]
-- Connects to [[step_044]]
-- Influences [[step_032]]
+- Connects to
+- Influences
 - Compare with [[Portrait NPC Lord Aurelius Goldwave Lord Aurelius Goldwave.svg]]
 
 ## Visual References
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

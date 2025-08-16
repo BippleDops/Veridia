@@ -18,7 +18,6 @@ aliases: [NPC01453 Delara Frostwhisper the Swift]
 - [[#Lyanna Dawnstrider the Strong (Family - Spouse)|Lyanna Dawnstrider the Strong (Family - Spouse)]]
 - [[#Hilda Ironwood the Seeker (Criminal - Handler)|Hilda Ironwood the Seeker (Criminal - Handler)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Delara Frostwhisper the Swift", "delara frostwhisper the swift", "Delara Frostwhisper Swift", "Swift the Frostwhisper Delara"]
@@ -156,25 +155,20 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.274Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -193,7 +187,7 @@ Following magic item guidelines (WWT p.135-136):
 - Tasha's Mystical Formulae of Everything (TMF) p.137
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -202,17 +196,16 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Influences [[Guide Helpfulcurrent]]
 - Connects to [[The Spire of Hope]]
-- Parallels [[step_041]]
+- Parallels
 - See also: [[The Hopekeeper Academy (D&D_References)]]
 - Originates from [[Roleplaying a Yuan Ti Yuan Ti Personality Traits Vgm]]
 - Connects to [[training-area (bastions)]]
@@ -277,14 +270,14 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Aquabyssos World Overview#The Resurgent Tide]]
 - Compare with [[step_050 (phase_036)]]
 - Compare with [[devils-sight-xphb (optional-features)]]
-- Influences [[step_073]]
+- Influences
 - Originates from [[Reality_Manipulation (Lore)]]
 - See also: [[ITEM00339_Frost_Sword_of_Speed]]
 - Compare with [[SHOP00055_Magical_Shop_56]]
 - Influences [[step_080 (phase_066)]]
 - Parallels [[Healer Dawnshade (D&D_References)]]
 - Requires [[step_054 (phase_070)]]
-- Related: [[step_018]]
+- Related:
 - Compare with [[step_048 (phase_048)]]
 - Leads to [[Quest - The Public Revelation 2]]
 - Originates from [[Portrait NPC Goldwave Financial Offices Goldwave Financial Offices.svg]]
@@ -295,7 +288,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Elemental Court (D&D_References)]]
 - Compare with [[Gatekeeper Iron-Lung Boris 2]]
 - Leads to [[weapon-mastery-properties-xphb (variant-rules)]]
-- Compare with [[step_006]]
+- Compare with
 - Related: [[Political Intrigue Master Index 2]]
 - Originates from [[QUEST00079_Personal_Quest_80]]
 - Related: [[The Dual Mind]]
@@ -315,7 +308,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [Master Conductor Nereus Voidcaller]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Overview|Overview]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [Master Conductor Nereus Voidcaller]
 - [[#Plot Hooks|Plot Hooks]]
 - [[#DM Notes|DM Notes]]
 - [[#References|References]]
-
 
 ---
 title: Master Conductor Nereus Voidcaller
@@ -86,37 +84,31 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 - [[System Cli Spells School Conjuration]]
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Possessions
 - Personal items
 - Valuable objects
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 ## Connections
 
 - Compare with [[Financial Crime Investigatio 2]]
 - Connects to [[step_051 (phase_085)]]
-- Compare with [[step_065]]
+- Compare with
 - Originates from [[investiture-of-ice-xge (spells)]]
 - Originates from [[Priest Faith Crystalsong]]
 - Leads to [[ITEM00967_Refined_Salve_of_Fortune]]
@@ -138,7 +130,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Requires [[SPELL00001_Divine_Spell_2]]
 - Influences [[pipes-of-the-sewers-xdmg (items)]]
 - Compare with [[Assets Item Artifact Whelm Xdmg V3 Whelm Xdmg.png]]
-- See also: [[step_046]]
+- See also:
 - Connects to [[Egyptian Sobek]]
 - Compare with [[gray-ooze-xmm (ooze)]]
 - Requires [[Counselor Marcus Publicvoice (D&D_References)]]
@@ -150,7 +142,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Requires [[The Ossuary Temple]]
 - Related: [[ITEM00831_Infernal_Scepter_of_Truth]]
 - Parallels [[step_085 (phase_036)]]
-- Leads to [[step_020]]
+- Leads to
 - Connects to [[telekinesis-xphb (spells)]]
 - Compare with [[ITEM01417_Ornate_Compass_of_Reliability]]
 - Affected by [[tough-xphb (feats)]]
@@ -179,7 +171,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Compare with [[Welcome to Aquabyssos]]
 - Compare with [[actions#Overrun]]
 - See also: [[LORE00034_Prophecies_Entry_35]]
-- Influences [[step_072]]
+- Influences
 - Affected by [[ITEM01084_Lesser_Potion_of_Swiftness]]
 - Parallels [[LOC00060_Wilderness_Location_61]]
 - Originates from [[swamp-encounters-levels-510-xge (tables)]]
@@ -190,7 +182,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Compare with [[The Memorial Garden]]
 - Affected by [[QUEST00106_Personal_Quest_107]]
 - Requires [[Cultural Integration Trade Associatio]]
-- See also: [[step_012]]
+- See also:
 - Leads to [[step_100 (phase_059)]]
 - Related: [[Quest - The Corruption Investigation]]
 - Leads to [[QUEST00148_Main_Quest_149]]

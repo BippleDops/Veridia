@@ -18,7 +18,6 @@ aliases: [NPC00196 Drusilla Stormwind the Scholar]
 - [[#Kaelen Silverleaf the Mystic (Personal - Ex-lover)|Kaelen Silverleaf the Mystic (Personal - Ex-lover)]]
 - [[#Orion Nightfall (Criminal - Fence)|Orion Nightfall (Criminal - Fence)]]
 
-
 ---
 aliases: ["Drusilla Stormwind the Scholar", "drusilla stormwind the scholar", "Drusilla Stormwind Scholar", "Scholar the Stormwind Drusilla"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.134Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,7 +173,7 @@ Needs discrete help with family scandal
 - Requires [[Assets Portraits Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg]]
 - Requires [[FAC00066_Orders_67]]
 - Leads to [[The Crystal Wardens]]
-- Requires [[step_010]]
+- Requires
 - Connects to [[goggles-of-night-xdmg (items)]]
 - Requires [[Assets Locations Location City Leviathan Shrines Leviathan Shrines.svg]]
 - Related: [[step_003 (phase_019)]]
@@ -187,7 +182,7 @@ Needs discrete help with family scandal
 - Leads to [[Location City Historical Analysis Historical Analysis.svg]]
 - Connects to [[drow-2-armor-mm (items)]]
 - Originates from [[Arcane Study]]
-- See also: [[step_044]]
+- See also:
 - Originates from [[LOC00231_Planes_Location_232]]
 - See also: [[LOC00058_Planes_Location_59]]
 - Requires [[Information Exchanges 2]]
@@ -195,22 +190,22 @@ Needs discrete help with family scandal
 - Originates from [[level-and-lethality-spell-equivalent-by-level-xge]]
 - Connects to [[Foreign Shadow Syndicates]]
 - See also: [[Social Navigator Coral Diplomacy]]
-- Connects to [[step_010]]
+- Connects to
 - Requires [[The Crimson Tide Pirates]]
 - Originates from [[FAC00045_Orders_46]]
-- Influences [[step_034]]
+- Influences
 - Leads to [[step_017 (phase_034)]]
 - See also: [[Identify_Magic]]
 - Related: [[NPC00144_Nerys_Emberfall]]
 - Originates from [[rope-trick-xphb (spells)]]
 - Parallels [[Silver Bar 5 Pound Xdmg]]
 - Leads to [[step_004 (phase_045)]]
-- See also: [[step_085]]
+- See also:
 - Originates from [[Ring of Water Walking Xdmg]]
 - See also: [[step_092 (phase_055)]]
 - Originates from [[pest-mascot-scc]]
 - Leads to [[step_059 (phase_084)]]
-- Parallels [[step_086]]
+- Parallels
 - Parallels [[Location City Terminal Director Admiral Current Swiftflow Terminal Director Admiral Current Swiftflow.svg]]
 - Connects to [[Elephant Xphb]]
 - Connects to [[Economic Development Director Carmen Commerc 2]]
@@ -221,7 +216,7 @@ Needs discrete help with family scandal
 - Influences [[Foreign Anti-Magic States]]
 - Leads to [[LOC00188_Cities_Location_189]]
 - Related: [[Watch Captain Roderick Shieldbreaker (D&D_References)]]
-- Requires [[step_066]]
+- Requires
 - Parallels [[step_015 (phase_097)]]
 - Affected by [[step_094 (phase_073)]]
 - Requires [[Shadow Surgeon Strike Team]]
@@ -249,12 +244,12 @@ Needs discrete help with family scandal
 - Leads to [[ENC00105_Social_Encounter_106]]
 - Influences [[Kobold Names Vgm]]
 - Affected by [[step_055 (phase_054)]]
-- Influences [[step_011]]
+- Influences
 - See also: [[step_021 (phase_075)]]
 - Affected by [[Earthquake Xphb]]
 - Influences [[step_091 (phase_061)]]
 - See also: [[Portrait NPC Queen Morwyn Lumengarde V1 Queen Morwyn Lumengarde.svg_1 (Portraits)]]
-- Requires [[step_031]]
+- Requires
 - See also: [[NPC00483_Aeliana_Frostwhisper_the_Seeker]]
 - Compare with [[Scholar Thomas Truthseeker]]
 - Originates from [[LORE0092_Prophecy_of_the_Dark_Times]]
@@ -273,7 +268,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
 
-
 ## Realm Connections
 
 ### Connection to Aethermoor
@@ -285,9 +279,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00878 Kaelen Ironwood the Strong]
 - [[#Wynne Zephyrblade the Cunning (Family - Cousin)|Wynne Zephyrblade the Cunning (Family - Cousin)]]
 - [[#Ewan Nightfall the Risen (Family - Sibling)|Ewan Nightfall the Risen (Family - Sibling)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Kaelen Ironwood the Strong", "kaelen ironwood the strong", "Kaelen Ironwood Strong", "Strong the Ironwood Kaelen"]
@@ -149,16 +148,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.213Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -192,11 +188,10 @@ Seeks rare merchandise
 - [[10 Appendix B Creature Stat Blocks]]
 - [[11 Rules Glossary]]
 - [[MOC_Quests]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -207,11 +202,10 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -223,7 +217,7 @@ Seeks rare merchandise
 - See also: [[Field Conservation Areas]]
 - Leads to [[LOC00263_Towns_Location_264]]
 - Affected by [[NPC0084_Ewan_Goldleaf_the_Strong]]
-- Parallels [[step_039]]
+- Parallels
 - Leads to [[Silver Necklace With a Gemstone Pendant Xdmg]]
 - Related: [[Assets Symbols Symbol Heraldry the Unnamed Watcher the Unnamed Watcher.svg]]
 - See also: [[Flensing Claws Medium Vgm]]
@@ -240,10 +234,10 @@ Seeks rare merchandise
 - Parallels [[QUEST00257_Side_Quest_258]]
 - Connects to [[step_046 (phase_006)]]
 - Originates from [[Assets Locations Location City Tidal Stormcrest V1 Tidal Stormcrest.svg]]
-- See also: [[step_035]]
+- See also:
 - Originates from [[Initiative_Tracker]]
 - Originates from [[Hallow Xphb]]
-- See also: [[step_016]]
+- See also:
 - Parallels [[Advanced Ambush Tactics]]
 - Requires [[step_051 (phase_041)]]
 - Requires [[10-combat#Reactions]]
@@ -252,7 +246,7 @@ Seeks rare merchandise
 - Influences [[step_022 (phase_045)]]
 - Affected by [[LOC00070_Wilderness_Location_71]]
 - See also: [[Community Resource Sharing (D&D_References)]]
-- Requires [[step_020]]
+- Requires
 - Compare with [[Forest Communities]]
 - Leads to [[Mobile Command Platforms]]
 - Originates from [[Quest - Shadow Integration]]
@@ -267,10 +261,10 @@ Seeks rare merchandise
 - Parallels [[step_044 (phase_019)]]
 - Originates from [[Storm Weatherwright]]
 - Compare with [[Memory Gardens 2]]
-- See also: [[step_051]]
+- See also:
 - Compare with [[step_050 (phase_010)]]
 - Leads to [[step_060 (phase_086)]]
-- Parallels [[step_032]]
+- Parallels
 - Originates from [[The Scribes' Covenant]]
 - Leads to [[portrait-npc-oracle-v1-oracle.svg_1 (Portraits)]]
 - Related: [[adamantine-armor-xdmg (items)]]
@@ -294,7 +288,7 @@ Seeks rare merchandise
 - Requires [[Annual Budget (D&D_References)]]
 - Requires [[cow-xdmg (items)]]
 - See also: [[Symbol Heraldry Cry... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Compare with [[step_049]]
+- Compare with
 - Leads to [[Portrait NPC Shadow Binding Sanctum V1 Shadow Binding Sanctum.svg]]
 - Affected by [[Current Riders Union 2]]
 - Requires [[step_008 (phase_093)]]
@@ -320,7 +314,6 @@ Seeks rare merchandise
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

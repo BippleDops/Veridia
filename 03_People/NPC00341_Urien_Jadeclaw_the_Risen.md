@@ -9,7 +9,6 @@ aliases: [NPC00341 Urien Jadeclaw the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00341 Urien Jadeclaw the Risen]
 - [[#Thalia Dawnstrider the Wanderer (Political - Ally)|Thalia Dawnstrider the Wanderer (Political - Ally)]]
 - [[#Solas Hawthorne the Cunning (Family - Cousin)|Solas Hawthorne the Cunning (Family - Cousin)]]
 - [[#Hestara Jadeclaw the Fallen (Professional - Employer)|Hestara Jadeclaw the Fallen (Professional - Employer)]]
-
 
 ---
 created: 2025-08-15
@@ -159,27 +157,23 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.151Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -190,11 +184,10 @@ Wants rivals investigated
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -211,13 +204,13 @@ Wants rivals investigated
 - Requires [[Floating Markets]]
 - Parallels [[Keeper Light Archive]]
 - Related: [[Template_Quest_Placeholder.png]]
-- Requires [[step_012]]
+- Requires
 - Affected by [[Assets Locations Location City Twilight Depths V1 Twilight Depths.svg]]
 - Related: [[dybbuk-mpmm (fiend)]]
 - Affected by [[step_040 (phase_087)]]
-- Related: [[step_024]]
+- Related:
 - Parallels [[wizard-xphb-school-of-conjuration (classes)]]
-- Originates from [[step_089]]
+- Originates from
 - Parallels [[Location City Master Chef Coral Seasweaver Master Chef Coral Seasweaver.svg]]
 - Requires [[step_010 (phase_054)]]
 - Connects to [[white-dragon-scale-mail-xdmg (items)]]
@@ -242,7 +235,7 @@ Wants rivals investigated
 - Parallels [[Portrait NPC Shadow Binding Sanctum V1 Shadow Binding Sanctum.svg]]
 - Affected by [[step_083 (phase_034)]]
 - Influences [[step_003 (phase_040)]]
-- Parallels [[step_082]]
+- Parallels
 - Compare with [[Order of Mirrors]]
 - Affected by [[Lysandra Tidecaller (D&D_References)]]
 - Influences [[Location City Reality Monitoring Specialists V1 Reality Monitoring Specialists.svg]]
@@ -271,12 +264,12 @@ Wants rivals investigated
 - Compare with [[Senior Resonance Engineer Harmony Deepnote]]
 - See also: [[witherbloom-student-scc (backgrounds)]]
 - Influences [[LOC00122_Wilderness_Location_123]]
-- Parallels [[step_090]]
+- Parallels
 - Influences [[List Spells Classes Ranger]]
 - Affected by [[SPELL00135_Nature_Spell_136]]
 - Compare with [[Portrait NPC Sunken Kingdom of Nereon V1 Sunken Kingdom of Nereon.svg]]
 - Originates from [[Portrait NPC Scholar Priest Tidal Memory V2 Scholar Priest Tidal Memory.svg]]
-- Leads to [[step_002]]
+- Leads to
 - Requires [[Depth Supremacy Movement 2]]
 - Connects to [[Scene Scene Merged Zone Reality Fracture Merged Zone Reality Fracture.png]]
 - Related: [[Quest - Hearts and Minds]]
@@ -286,13 +279,13 @@ Wants rivals investigated
 - Affected by [[Map of the Whispering Expanse (Lore)]]
 - Compare with [[Surface Signals 2]]
 - See also: [[The Thermal Gardens]]
-- Connects to [[step_008]]
+- Connects to
 - Connects to [[step_049 (phase_065)]]
 - Related: [[ITEM01249_Concentrated_Oil_of_Vigor]]
 - Connects to [[ring-of-force-resistance-xdmg (items)]]
 - See also: [[SPELL00006_Divine_Spell_7]]
 - Requires [[step_027 (phase_025)]]
-- See also: [[step_031]]
+- See also:
 - Influences [[step_029 (phase_026)]]
 - Connects to [[living-the-giant-life-giant-life-spans-vgm (tables)]]
 - Leads to [[Location City Scepter of Winter S Command V1 Scepter of Winter S Command.svg]]

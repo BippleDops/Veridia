@@ -18,13 +18,12 @@ aliases: [NPC0046 Gareth Ironforge the Cunning]
 - [[#Relationships|Relationships]]
 - [[#Roleplaying|Roleplaying]]
 
-
 ---
 aliases: ["Gareth Ironforge the Cunning", "gareth ironforge the cunning", "Gareth Ironforge Cunning", "Cunning the Ironforge Gareth"]
 tags: [, generated]
-  - npc
-  - character
-  - generated
+ - npc
+ - character
+ - generated
 type: npc
 ---
 
@@ -151,7 +150,7 @@ Arcana, Deception, Athletics, Persuasion
 ## Connections
 
 - See also: [[Session 21 - The Final Guardian]]
-- Compare with [[Quest   Seeds of the Deep]]
+- Compare with [[Quest Seeds of the Deep]]
 - See also: [[Assets Locations Location City Gentle Currentguide Gentle Currentguide.svg]]
 - Requires [[wall-of-light-xge (spells)]]
 - Influences [[crown-of-madness-xphb (spells)]]
@@ -170,26 +169,26 @@ Arcana, Deception, Athletics, Persuasion
 - Related: [[LORE00291_Prophecies_Entry_292]]
 - Connects to [[step_001 (phase_100)]]
 - Requires [[Location City Scholar David Crossref Scholar David Crossref.svg]]
-- Compare with [[step_071]]
+- Compare with
 - See also: [[Crystal-Enhanced Democracy]]
-- Parallels [[step_029]]
-- Compare with [[step_053]]
+- Parallels
+- Compare with
 - Related: [[Portrait NPC Lord Flux the Inconsistent Lord Flux the Inconsistent.svg]]
 - Related: [[step_088 (phase_084)]]
-- Parallels [[step_079]]
+- Parallels
 - Parallels [[DUN00182_Dungeon_183]]
-- Leads to [[step_080]]
+- Leads to
 - Influences [[The First Failure 2]]
 - Leads to [[Portrait NPC Goldwave Financial Offices V1 Goldwave Financial Offices.svg_1 (Portraits)]]
 - Parallels [[step_044 (phase_021)]]
 - Influences [[step_027 (phase_094)]]
 - Connects to [[MON00049_Undead_Creature_50]]
 - See also: [[step_045 (phase_054)]]
-- Connects to [[step_032]]
-- Affected by [[step_099]]
+- Connects to
+- Affected by
 - Connects to [[step_022 (phase_027)]]
 - Compare with [[Portrait NPC Marina Red Tide Coralheart Aquabyssos V2 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)]]
-- Influences [[step_050]]
+- Influences
 - Affected by [[Order of the Deep Current]]
 - Related: [[Coral Craftsman 2]]
 - Leads to [[LORE00261_Prophecies_Entry_262]]
@@ -213,7 +212,7 @@ Arcana, Deception, Athletics, Persuasion
 - Related: [[Embassy Row]]
 - Requires [[Deep Mining Guild]]
 - Compare with [[step_071 (phase_038)]]
-- Leads to [[step_040]]
+- Leads to
 - Compare with [[NPC0108_Cormac_Goldleaf_the_Bold]]
 - Connects to [[The Abyss Beneath Aquabyssos (D&D_References)]]
 - Compare with [[Session Planning Toolkit_1 (06_Sessions)]]
@@ -237,15 +236,15 @@ Arcana, Deception, Athletics, Persuasion
 - Connects to [[portrait-npc-the-siren-the-siren.svg]]
 - Influences [[Consequence Chain 2 - Crystal Trade Disruption 2]]
 - Originates from [[Marquis Aldwin Goldcurrent]]
-- Originates from [[step_074]]
+- Originates from
 - Affected by [[step_031 (phase_049)]]
 - Originates from [[Revolution Prevention]]
-- Originates from [[step_020]]
+- Originates from
 - Affected by [[Symbol Heraldry the Crystal Throne the Crystal Throne.svg]]
 - See also: [[Gith Tables Githyanki Flaws Mtf]]
 - Compare with [[Depth's End Cathedral (D&D_References)]]
 - Affected by [[Earl Thaddeus Blackthorn 2]]
-- Affected by [[step_070]]
+- Affected by
 - Parallels [[Cultural Traditions and Customs]]
 - Parallels [[step_021 (phase_060)]]
 - Influences [[ITEM00543_Enchanted_Helm_of_Resistance]]

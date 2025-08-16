@@ -18,7 +18,6 @@ aliases: [NPC00815 Baelor Thornweave the Swift]
 - [[#Dara Dawnstrider the Cunning (Criminal - Handler)|Dara Dawnstrider the Cunning (Criminal - Handler)]]
 - [[#Rhiannon Blackstone the Wise (Political - Patron)|Rhiannon Blackstone the Wise (Political - Patron)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Baelor Thornweave the Swift", "baelor thornweave the swift", "Baelor Thornweave Swift", "Swift the Thornweave Baelortags: [npc, character, combat, magic, social, lore]er]
@@ -139,16 +138,13 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.205Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -187,11 +183,10 @@ Modifications:
 - [[Calendar_Conversions_Realm_Window]]
 - [[NPC00703_Elric_Dawnstrider_the_Swift]]
 - [[NPC00939_Thalia_Jadeclaw_the_Swift]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -200,11 +195,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -243,8 +237,8 @@ Modifications:
 - Leads to [[Scene Scene Merged Zone Reality Fracture V1 Merged Zone Reality Fracture.svg]]
 - See also: [[Sundered Steel]]
 - Related: [[EVENT00021_Magical_Event_22]]
-- Connects to [[step_057]]
-- See also: [[step_088]]
+- Connects to
+- See also:
 - Compare with [[Location City [[Keeper [[Finn Goodtide]]]] V1 Keeper Finn Goodtide.svg]]
 - Parallels [[step_062 (phase_038)]]
 - Influences [[step_010 (phase_049)]]
@@ -301,10 +295,10 @@ Modifications:
 - Leads to [[QUEST00140_Personal_Quest_141]]
 - Connects to [[Location City Quest the Portal Crisis Quest the Portal Crisis.svg]]
 - Requires [[Skyforge 2]]
-- Connects to [[step_005]]
+- Connects to
 - Requires [[Portrait NPC Quest the Corruption Cure Quest the Corruption Cure.svg]]
-- Leads to [[step_049]]
-- Requires [[step_034]]
+- Leads to
+- Requires
 - Parallels [[LORE00049_History_Entry_50]]
 - Requires [[The Depth Herald]]
 - Requires [[QUEST00142_Personal_Quest_143]]
@@ -313,7 +307,6 @@ Modifications:
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

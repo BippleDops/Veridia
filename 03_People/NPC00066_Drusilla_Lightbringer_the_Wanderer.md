@@ -18,7 +18,6 @@ aliases: [NPC00066 Drusilla Lightbringer the Wanderer]
 - [[#Fiora Goldleaf (Political - Patron)|Fiora Goldleaf (Political - Patron)]]
 - [[#Cedric Brightblade (Family - Sibling)|Cedric Brightblade (Family - Sibling)]]
 
-
 ---
 aliases: ["Drusilla Lightbringer the Wanderer", "drusilla lightbringer the wanderer", "Drusilla Lightbringer Wanderer", "Wanderer the Lightbringer Drusilla"]
 tags: [npc, character]
@@ -155,32 +154,28 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.118Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Connects to [[Emergency_Evacuation_Map_Stormglass_Riot]]
 - Compare with [[Regulatory Medical Authorit]]
 - Connects to [[Location City Military Families Support Military Families Support Groups.png]]
-- Parallels [[step_051]]
+- Parallels
 - Compare with [[Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg_1 (Portraits)]]
 - Compare with [[Portrait NPC Sir Theron Crystalward V2 Sir Theron Crystalward.svg]]
 - Parallels [[see-invisibility-xphb (spells)]]
-- Related: [[step_084]]
+- Related:
 - Leads to [[arch-hag-xmm (fey)]]
 - Originates from [[Identity Preservation Kit]]
 - Compare with [[dark-gift-of-yrrga-the-eye-of-shadows-cos (rewards)]]
@@ -225,7 +220,7 @@ Requires champions for trial by combat
 - See also: [[ENC00243_Social_Encounter_244]]
 - Related: [[The Crystal Cult]]
 - Requires [[ENC00292_Social_Encounter_293]]
-- Originates from [[step_086]]
+- Originates from
 - Leads to [[Master Conductor Nereus Voidcaller]]
 - Influences [[NPC01010_Ysara_Frostwhisper_the_Redeemed]]
 - Compare with [[step_002 (phase_065)]]
@@ -250,7 +245,7 @@ Requires champions for trial by combat
 - Influences [[step_013 (phase_092)]]
 - Affected by [[LORE00262_Legends_Entry_263]]
 - Parallels [[Assets Locations Location City Gallery of Frozen Waves V1 Gallery of Frozen Waves.svg]]
-- Compare with [[step_028]]
+- Compare with
 - Leads to [[Neogi Master Mpmm]]
 - Connects to [[FAC00067_Guilds_68]]
 - Related: [[MON00005_Aberrations_Creature_6]]
@@ -269,7 +264,7 @@ Requires champions for trial by combat
 - Parallels [[LORE00102_History_Entry_103]]
 - Connects to [[step_048 (phase_030)]]
 - Compare with [[Information Exchanges 2]]
-- Requires [[step_088]]
+- Requires
 - Compare with [[Marina the Unifier]]
 - Connects to [[NPC00557_Elric_Ironforge_the_Fallen]]
 - Compare with [[Storm_Caller_Druid]]
@@ -278,7 +273,6 @@ Requires champions for trial by combat
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

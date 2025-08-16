@@ -57,7 +57,6 @@ Characters accumulate Transformation Points (TP) through exposure, choice, or cu
 4. **Stage IV - Metamorphosis** (31-40 TP): Powerful but alienating
 5. **Stage V - Transcendence** (41+ TP): Barely human, immense power ### 🦠 Parasite Transformations
 
-
 *Symbiotic entities that grant power through biological fusion* ### 💎 Crystal Transformations
 
 *Mineral corruption spreading through body and soul* ### 🌊 Deep Mother Transformations
@@ -108,12 +107,11 @@ Characters accumulate Transformation Points (TP) through exposure, choice, or cu
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Great Crystallization]]
 - [[Deep Mother]]
-- [[Conditions]] *"Every gift has its price. Every change leaves a scar. Every transformation tells a story."* ## Player-Facing Summary Transformation Compendium is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Transformation Compendium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Transformation Compendium. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - An heirloom has gone missing and evil awakens
+- [[05_Rules/Conditions]] *"Every gift has its price. Every change leaves a scar. Every transformation tells a story."* ## Player-Facing Summary Transformation Compendium is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Transformation Compendium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Transformation Compendium. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - An heirloom has gone missing and evil awakens
 
 - A prisoner has gone missing and chaos spreads
 - A shipment has gone missing and war looms
 - Strange accidents suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

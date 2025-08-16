@@ -9,7 +9,6 @@ aliases: [NPC00120 Hestara Zephyrblade]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00120 Hestara Zephyrblade]
 - [[#Idris Keenblade the Broken (Political - Opposition)|Idris Keenblade the Broken (Political - Opposition)]]
 - [[#Urien Nightfall the Fallen (Criminal - Handler)|Urien Nightfall the Fallen (Criminal - Handler)]]
 - [[#Cedric Emberfall (Criminal - Handler)|Cedric Emberfall (Criminal - Handler)]]
-
 
 ---
 aliases: ["Hestara Zephyrblade", "hestara zephyrblade", "Zephyrblade Hestara"]
@@ -154,21 +152,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.125Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,7 +170,7 @@ Requires champions for trial by combat
 - Connects to [[ITEM01361_Elegant_Tool_Kit_of_Quality]]
 - Leads to [[step_097 (phase_088)]]
 - See also: [[frog-xmm (beast)]]
-- Affected by [[step_029]]
+- Affected by
 - Connects to [[creature-creature-allip-mpmm-v3-allip-mpmm.png]]
 - Connects to [[Map Map Golden Trade Route Toll V2 Golden Trade Route Toll.svg]]
 - Affected by [[Cultural Mediatio]]
@@ -185,7 +179,7 @@ Requires champions for trial by combat
 - Connects to [[Clues_by_Location.png]]
 - Related: [[Supply Chain Disruption]]
 - Affected by [[step_091 (phase_083)]]
-- Related: [[step_008]]
+- Related:
 - Affected by [[NPC00445_Dara_Oakenshield_the_Bold]]
 - Related: [[Assets Locations Location City Keeper Thundercall Keeper Thundercall.svg]]
 - Connects to [[Infinite Mathematics Divisio (D&D_References)]]
@@ -196,13 +190,13 @@ Requires champions for trial by combat
 - Leads to [[step_070 (phase_044)]]
 - Related: [[list-spells-feats-strixhaven-initiate-scc (lists)]]
 - Compare with [[step_038 (phase_081)]]
-- Related: [[step_027]]
+- Related:
 - Influences [[Armor of Psychic Resistance Xdmg]]
 - Parallels [[ITEM00484_Fortified_Boots_of_Protection]]
 - Compare with [[Assets Locations Location City Cora Peaceweaver Cora Peaceweaver.svg]]
-- See also: [[step_013]]
+- See also:
 - Compare with [[step_019 (phase_082)]]
-- Requires [[step_032]]
+- Requires
 - Leads to [[step_076 (phase_033)]]
 - Compare with [[Inverted Ballroom Wing - Party Quarters]]
 - Affected by [[Void-touched Crew Member 2]]
@@ -258,7 +252,7 @@ Requires champions for trial by combat
 - Related: [[NPC01103_Elric_Xendar_the_Redeemed]]
 - Leads to [[Assets Locations Location City Temporal Viewing Chambers Temporal Viewing Chambers.svg]]
 - Requires [[Portrait NPC Tribune Cassia Deepcurrent V2 Tribune Cassia Deepcurrent.svg_1 (Portraits)]]
-- See also: [[step_097]]
+- See also:
 - Parallels [[step_025 (phase_061)]]
 - Influences [[Aquabyssos Survival Mechanics (D&D_References)]]
 - Compare with [[step_055 (phase_090)]]

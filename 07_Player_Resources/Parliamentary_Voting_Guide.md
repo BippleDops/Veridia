@@ -18,7 +18,6 @@ aliases: [Parliamentary Voting Guide]
 - [[#Enhancement Improvements|Enhancement Improvements]]
 - [[#Related|Related]]
 
-
 ---
 title: Parliamentary_Voting_Guide
 type: note
@@ -153,14 +152,12 @@ Mentioned in The Second Prophecy of Winds
 
 Contextual improvement based on 07_Player_Resources
 
-
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
 
 ## See Also
 - [[10 Appendix B Creature Stat Blocks]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[11 Rules Glossary]]
@@ -170,7 +167,6 @@ Contextual improvement based on 07_Player_Resources
 ## Game Mechanics
 - **Ability Checks**: See ACX p.174
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -231,7 +227,7 @@ Contextual improvement based on 07_Player_Resources
 - Compare with [[step_028 (phase_010)]]
 - Originates from [[Hadal Depth]]
 - Affected by [[Location City Port Meridian Noble Quarter Port Meridian Noble Quarter.svg]]
-- Compare with [[step_011]]
+- Compare with
 - Connects to [[ITEM00468_Ethereal_Chain_Mail_of_Fortitude]]
 - Influences [[Location City Basalt Depthwright Basalt Depthwright.svg]]
 - Affected by [[ITEM01371_Elegant_Rope_of_Durability]]
@@ -269,7 +265,7 @@ Contextual improvement based on 07_Player_Resources
 - Parallels [[step_032 (phase_066)]]
 - Related: [[Commander Void Tacticia 2]]
 - Influences [[ITEM0031_Hidden_Orb_of_Power]]
-- Influences [[step_059]]
+- Influences
 - Parallels [[vehicle-ship-maelstrom-tug-maelstrom-tug.svg]]
 - See also: [[Location City Reality Stabilization Centers V1 Reality Stabilization Centers.svg]]
 - Requires [[LORE00203_Legends_Entry_204]]

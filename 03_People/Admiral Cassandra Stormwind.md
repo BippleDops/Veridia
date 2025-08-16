@@ -9,7 +9,6 @@ aliases: [Admiral Cassandra Stormwind]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_admiral_cassandra_stormwind.png]]
 
-
 ## Table of Contents
 - [[#Stats|Stats]]
 - [[#Relationships|Relationships]]
@@ -21,7 +20,6 @@ aliases: [Admiral Cassandra Stormwind]
 - [[#Lifestyle Improvements|Lifestyle Improvements]]
 - [[#Diaspora Improvements|Diaspora Improvements]]
 - [[#Sensory Improvements|Sensory Improvements]]
-
 
 ---
 
@@ -67,7 +65,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -462,10 +460,9 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 - [[Captain Scale-Walker (D&D_Statblocks)]]
 - [[Lighthouse Keeper (D&D_Statblocks)]]
 
-
 ## Connections
 
-- Connects to [[step_034]]
+- Connects to
 - Leads to [[Master Depth-Crystal Thalamos (D&D_References)]]
 - Leads to [[LOC00295_Towns_Location_296]]
 - Influences [[step_052 (phase_041)]]
@@ -499,7 +496,7 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 - Parallels [[Assets Locations Location City the Grand Bazaar of Echoing Coins the Grand Bazaar of Echoing Coins.svg]]
 - See also: [[QUEST00159_Main_Quest_160]]
 - Influences [[Survival Codex]]
-- Influences [[step_085]]
+- Influences
 - Compare with [[step_006 (phase_069)]]
 - Originates from [[ITEM01073_Refined_Incense_of_Fortune]]
 - Related: [[QUEST00029_Main_Quest_30]]
@@ -524,7 +521,7 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 - Compare with [[Portrait NPC Deep Mother Cultist Profiles V2 Deep Mother Cultist Profiles.svg_1 (Portraits)]]
 - Connects to [[QUEST00122_Side_Quest_123]]
 - Affected by [[Portrait NPC Shadow Guard Units Shadow Guard Units.svg_1 (Portraits)]]
-- Requires [[step_091]]
+- Requires
 - Connects to [[13 Chapter 13 the Wormwrithings]]
 - Related: [[downtime-activity-carousing (variant-rules)]]
 - See also: [[The Ghostly Librarians 2]]
@@ -548,13 +545,13 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 - Leads to [[Temporal Control (D&D_References)]]
 - Leads to [[Dwarf Names Clan Xge]]
 - Compare with [[step_100 (phase_018)]]
-- Originates from [[step_042]]
+- Originates from
 - See also: [[ENC00014_Combat_Encounter_15]]
 - Influences [[step_088 (phase_056)]]
 - Leads to [[Ancient Mer-Folk Sentinel Kythara]]
 - Compare with [[Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg_1 (Portraits)]]
 - Affected by [[Faction_Relationships]]
-- Influences [[Quest   The Seventh Song]]
+- Influences [[Quest The Seventh Song]]
 - Leads to [[Assets Locations Location City Theological Seminaries Theological Seminaries.svg]]
 - Leads to [[LOC00054_Wilderness_Location_55]]
 - Connects to [[Well Made Tapestry That Is 10 Feet by 10]]

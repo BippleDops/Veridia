@@ -18,7 +18,6 @@ aliases: [Ritual Timing Wheel Convergenc]
 - [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
 - [[#Sensory Improvements|Sensory Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Ritual_Timing_Wheel_Convergenc
@@ -117,7 +116,6 @@ tags: [combat, lore]
 - Wearing red on holy days
 - Pointing at the moon
 
-
 > [!dm] DM Note
 > This location connects to the main plot
 
@@ -129,8 +127,7 @@ tags: [combat, lore]
 - [[Sanity_Quick_Reference.md]]
 - [[11 Rules Glossary]]
 - [[Item_Catalog_Complete.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -140,7 +137,6 @@ tags: [combat, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -157,11 +153,11 @@ tags: [combat, lore]
 - Affected by [[jade-game-board-with-gold-playing-pieces-xdmg (items)]]
 - See also: [[step_080 (phase_061)]]
 - Connects to [[Professional Training 2]]
-- See also: [[step_059]]
+- See also:
 - Connects to [[location-city-bubble-burst-bubble-burst.svg]]
 - Compare with [[Assets Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.png]]
 - Originates from [[Portrait NPC the Deepmind Conspiracy the Deepmind Conspiracy.svg]]
-- Compare with [[step_076]]
+- Compare with
 - Connects to [[Councilor Luna Transcendent 2]]
 - Originates from [[04_Resources_Assets_Locations_location-city-the-harbormaster-s-office-v1-the-harbormaster-s-office.svg]]
 - Originates from [[step_034 (phase_082)]]
@@ -191,7 +187,7 @@ tags: [combat, lore]
 - Requires [[Sommelier Bacchus Deepbottle]]
 - Originates from [[step_027 (phase_021)]]
 - Influences [[Shadow Society Hierarchy (D&D_References)]]
-- Compare with [[step_082]]
+- Compare with
 - See also: [[Assets Locations Location City Quality Inspector Reef Perfectwright Quality Inspector Reef Perfectwright.svg]]
 - Leads to [[elemental-weapon-xphb (spells)]]
 - Connects to [[eberron-the-fury (deities)]]
@@ -211,7 +207,7 @@ tags: [combat, lore]
 - Compare with [[ITEM00797_Infernal_Ring_of_the_Gods]]
 - See also: [[step_032 (phase_019)]]
 - See also: [[ITEM0045_Forgotten_Gauntlet_of_Power]]
-- Originates from [[step_085]]
+- Originates from
 - Affected by [[SPELL00116_Arcane_Spell_117]]
 - Connects to [[The Golden Promenade]]
 - See also: [[step_026 (phase_078)]]
@@ -233,7 +229,7 @@ tags: [combat, lore]
 - Compare with [[Vehicle Ship Abyssal Scout Submarine Abyssal Scout Submarine.png]]
 - Affected by [[location-city-the-observatory-the-observatory.svg]]
 - Related: [[step_047 (phase_080)]]
-- Parallels [[step_021]]
+- Parallels
 - Related: [[The Anonymous Protocol]]
 - Related: [[NPC00804_Xander_Frostwhisper_the_Cunning]]
 - Parallels [[QUEST00118_Main_Quest_119]]

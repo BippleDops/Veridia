@@ -18,7 +18,6 @@ aliases: [NPC00572 Zephyr Thornweave the Risen]
 - [[#Ysara Underhill the Seeker (Personal - Love interest)|Ysara Underhill the Seeker (Personal - Love interest)]]
 - [[#Kaelen Darkwater the Fallen (Criminal - Accomplice)|Kaelen Darkwater the Fallen (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Zephyr Thornweave the Risen", "zephyr thornweave the risen", "Zephyr Thornweave Risen", "Risen the Thornweave Zephyr"]
 tags: [npc, character]
@@ -147,21 +146,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.178Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,7 +177,7 @@ Discovered something valuable
 - Leads to [[Physical Characteristics Beholder Eyestalk]]
 - Originates from [[ear-horn-of-hearing-xdmg (items)]]
 - Compare with [[Location City Healing Temples V1 Healing Temples.svg]]
-- See also: [[step_042]]
+- See also:
 - Parallels [[LOC00210_Planes_Location_211]]
 - Connects to [[location-city-crystal-keepers-crystal-keepers.svg]]
 - Affected by [[Deep Expeditions 2]]
@@ -204,11 +199,11 @@ Discovered something valuable
 - Parallels [[QUEST00020_Personal_Quest_21]]
 - Connects to [[Stirge Xmm]]
 - Related: [[location-city-living-stone-v1-living-stone.svg]]
-- Compare with [[step_078]]
+- Compare with
 - Affected by [[Quest - Combat Medicine Crisis_1 (01_Adventures)]]
 - Requires [[step_039 (phase_066)]]
-- Affected by [[step_066]]
-- Requires [[step_083]]
+- Affected by
+- Requires
 - Requires [[02-chapter-1-playing-the-game#Dropping Prone]]
 - Influences [[Symbol Heraldry Information Exchange V1 Information Exchange.svg]]
 - Affected by [[step_051 (phase_051)]]
@@ -225,7 +220,7 @@ Discovered something valuable
 - Originates from [[step_093 (phase_027)]]
 - Originates from [[forgotten-realms-tymora (deities)]]
 - Connects to [[MON00107_Aberrations_Creature_108]]
-- Connects to [[step_030]]
+- Connects to
 - Compare with [[The Healer's Persecution (D&D_References)]]
 - Originates from [[step_081 (phase_046)]]
 - Leads to [[Assets Locations Location City Navigator Flux V1 Navigator Flux.svg]]
@@ -241,7 +236,7 @@ Discovered something valuable
 - Connects to [[Echo-Who-Was-Elena (D&D_References)]]
 - Parallels [[Aethermoor Session 07 the Festival of Transformation]]
 - Compare with [[desert-encounters-levels-510-xge (tables)]]
-- Parallels [[step_039]]
+- Parallels
 - Influences [[step_006 (phase_035)]]
 - Affected by [[step_084 (phase_053)]]
 - Related: [[Assets Locations Location City Echo Theorist Maya V1 Echo Theorist Maya.svg]]
@@ -259,7 +254,7 @@ Discovered something valuable
 - Affected by [[Shapechange Xphb]]
 - Influences [[Dr Penumbra Voidheart]]
 - Influences [[04_Resources_Assets_Locations_location-city-the--cathedral-the--cathedral.svg]]
-- Parallels [[step_069]]
+- Parallels
 - Affected by [[NPC00080_Branwen_Proudmore]]
 - Related: [[ENC00085_Environmental_Encounter_86]]
 - Related: [[QUEST00357_Side_Quest_358]]
@@ -270,7 +265,6 @@ Discovered something valuable
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

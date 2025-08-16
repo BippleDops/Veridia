@@ -18,7 +18,6 @@ aliases: [NPC01145 Baelor Frostwhisper the Mystic]
 - [[#Alaric Ashford the Strong (Personal - Childhood friend)|Alaric Ashford the Strong (Personal - Childhood friend)]]
 - [[#Erasmus Moonshadow the Lost (Family - Cousin)|Erasmus Moonshadow the Lost (Family - Cousin)]]
 
-
 ---
 aliases: ["Baelor Frostwhisper the Mystic", "baelor frostwhisper the mystic", "Baelor Frostwhisper Mystic", "Mystic the Frostwhisper Baelor"]
 tags: [npc, character]
@@ -156,26 +155,22 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.242Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Influences [[Monsters by Habitat Hill Monsters Xmm]]
-- Originates from [[step_034]]
+- Originates from
 - Connects to [[The Depth Councils 2]]
 - Originates from [[Sea Witches]]
 - Compare with [[NPC01114_Solas_Proudmore_the_Guardian]]
@@ -193,11 +188,11 @@ Has map to lost treasure
 - Leads to [[giant-owl-xmm (celestial)]]
 - Influences [[Training Director Cassius Newlight (D&D_References)]]
 - Connects to [[QUEST00007_Personal_Quest_8]]
-- See also: [[step_024]]
+- See also:
 - Related: [[Progressive Policy Portfolio]]
 - See also: [[NPC00149_Dara_Ironwood]]
 - Compare with [[Novelist Current Stories]]
-- Influences [[Conditions]]
+- Influences [[05_Rules/Conditions]]
 - Compare with [[location-city-crystallium-crystallium.svg]]
 - Compare with [[Suspects]]
 - Connects to [[Medical Officer Dr Siphon Pressurehealer]]
@@ -205,7 +200,7 @@ Has map to lost treasure
 - Requires [[The Shadow Consortium]]
 - Affected by [[SPELL00127_Divine_Spell_128]]
 - See also: [[step_084 (phase_100)]]
-- Affected by [[step_060]]
+- Affected by
 - See also: [[step_050 (phase_035)]]
 - Connects to [[Relics Uncommon Xdmg]]
 - Parallels [[step_086 (phase_063)]]
@@ -225,7 +220,7 @@ Has map to lost treasure
 - Requires [[NPC00572_Zephyr_Thornweave_the_Risen]]
 - Requires [[Session 07 (Seven_Shards_Campaign)]]
 - Connects to [[FAC00026_Orders_27]]
-- Originates from [[step_029]]
+- Originates from
 - Parallels [[NPC01392_Idris_Oakenshield_the_Mystic]]
 - Influences [[NPC01337_Elric_Dawnstrider_the_Scholar]]
 - Influences [[Bone Princes]]
@@ -238,8 +233,8 @@ Has map to lost treasure
 - Leads to [[step_014 (phase_100)]]
 - Related: [[Symbol Heraldry the Silence Experiments V1 the Silence Experiments.svg]]
 - Originates from [[LORE00217_Legends_Entry_218]]
-- Parallels [[step_024]]
-- Related: [[step_015]]
+- Parallels
+- Related:
 - Leads to [[The Negotiation Void 2]]
 - See also: [[step_050 (phase_074)]]
 - Connects to [[Dangerous Goods Storage (D&D_References)]]
@@ -260,16 +255,16 @@ Has map to lost treasure
 - Connects to [[Portrait NPC Captain Nautilus Deepwatch Captain Nautilus Deepwatch.svg]]
 - Requires [[fey-spirit-fuming-xphb (fey)]]
 - Originates from [[Slippers of Spider Climbing Xdmg]]
-- Originates from [[step_074]]
+- Originates from
 - Originates from [[copper-dragon-wyrmling-xmm (dragon)]]
 - Influences [[Harmony Cores (Items)]]
 - Compare with [[ITEM00014_Radiant_Sword_of_Speed]]
 - Influences [[step_077 (phase_093)]]
-- Influences [[step_080]]
+- Influences
 - Parallels [[Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg_1 (Portraits)]]
 - See also: [[Location City Current Innovator V1 Current Innovator.svg]]
 - Parallels [[Grant Item]]
-- Influences [[step_076]]
+- Influences
 - Originates from [[charisma-check-conversation-reaction (tables)]]
 - Connects to [[The Phantom Market]]
 - Compare with [[improvised-weapons-xphb (variant-rules)]]
@@ -279,7 +274,6 @@ Has map to lost treasure
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

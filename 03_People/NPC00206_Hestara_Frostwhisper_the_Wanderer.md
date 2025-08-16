@@ -18,7 +18,6 @@ aliases: [NPC00206 Hestara Frostwhisper the Wanderer]
 - [[#Gavril Proudmore the Strong (Professional - Rival)|Gavril Proudmore the Strong (Professional - Rival)]]
 - [[#Kaelen Crystalbrook the Wanderer (Family - Child)|Kaelen Crystalbrook the Wanderer (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Hestara Frostwhisper the Wanderer", "hestara frostwhisper the wanderer", "Hestara Frostwhisper Wanderer", "Wanderer the Frostwhisper Hestara"]
@@ -146,24 +145,20 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.135Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Connections
 
@@ -171,10 +166,10 @@ Requires champions for trial by combat
 - Originates from [[Portrait NPC Ice Kingdom Magic V1 Ice Kingdom Magic.svg_1 (Portraits)]]
 - Compare with [[swift-quiver-xphb (spells)]]
 - Affected by [[QUEST00255_Personal_Quest_256]]
-- Requires [[step_017]]
+- Requires
 - See also: [[NPC01925_Elric_Frostwhisper_the_Redeemed]]
 - Affected by [[Weather_And_Season (D&D_References)]]
-- Related: [[step_048]]
+- Related:
 - Requires [[step_096 (phase_080)]]
 - Connects to [[step_056 (phase_047)]]
 - Leads to [[Location City the Vault Keepers the Vault Keepers.svg]]
@@ -195,7 +190,7 @@ Requires champions for trial by combat
 - Originates from [[step_094 (phase_067)]]
 - Requires [[Provincial Nobility 2]]
 - Parallels [[Great Plague of Ages Past (D&D_References)]]
-- Connects to [[step_023]]
+- Connects to
 - Originates from [[Quantum Magic Theory]]
 - Affected by [[Underground Railroad Leader 2]]
 - Originates from [[Reputation_Tracker]]
@@ -223,7 +218,7 @@ Requires champions for trial by combat
 - Related: [[dracolich-xmm (undead)]]
 - Connects to [[The Pearl Heist (D&D_References)]]
 - Leads to [[The Wind-Rider Cultural Center (02_Worldbuilding)]]
-- Parallels [[step_073]]
+- Parallels
 - Parallels [[Memory Merchants Guild]]
 - Parallels [[Democratic Erosion (D&D_References)]]
 - Leads to [[Sergeant Major Deep Veteranstrike (D&D_References)]]
@@ -250,7 +245,7 @@ Requires champions for trial by combat
 - Connects to [[Quest - The Pretender_2 (01_Adventures)]]
 - See also: [[Chest Xphb]]
 - Parallels [[step_097 (phase_013)]]
-- Connects to [[step_049]]
+- Connects to
 - Connects to [[Assets Locations Location City Plague Crisis V1 Plague Crisis.png]]
 - See also: [[ITEM00853_Time-worn_Orb_of_Dominion]]
 - Connects to [[Ancient Bronze Dragon Xmm]]
@@ -272,7 +267,6 @@ Requires champions for trial by combat
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

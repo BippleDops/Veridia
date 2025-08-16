@@ -18,7 +18,6 @@ aliases: [NPC00480 Delara Thornweave the Wanderer]
 - [[#Xander Darkwater the Bold (Professional - Mentor)|Xander Darkwater the Bold (Professional - Mentor)]]
 - [[#Ewan Youngblood the Lost (Political - Puppet)|Ewan Youngblood the Lost (Political - Puppet)]]
 
-
 ---
 aliases: ["Delara Thornweave the Wanderer", "delara thornweave the wanderer", "Delara Thornweave Wanderer", "Wanderer the Thornweave Delara"]
 tags: [npc, character]
@@ -139,27 +138,23 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.168Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Parallels [[forgotten-realms-oghma (deities)]]
 - See also: [[The Depth Councils 2]]
-- Related: [[step_067]]
+- Related:
 - Affected by [[Shadow Embassy]]
 - Originates from [[NPC01465_Ewan_Goldleaf_the_Redeemed]]
 - Leads to [[Shadow Market Canals (D&D_References)]]
@@ -170,8 +165,8 @@ Discovered something valuable
 - Compare with [[Charm of the Slayer Xdmg]]
 - Related: [[Assets Locations Location City Surface Underwater Trade V1 Surface Underwater Trade.svg]]
 - Connects to [[Improvised Damage Xdmg]]
-- Compare with [[step_007]]
-- Requires [[step_077]]
+- Compare with
+- Requires
 - Parallels [[SPELL00028_Arcane_Spell_29]]
 - Influences [[The Spire of Unity]]
 - Originates from [[ENC00081_Social_Encounter_82]]
@@ -211,20 +206,20 @@ Discovered something valuable
 - Requires [[LOC00015_Towns_Location_16]]
 - Requires [[NPC0127_Hilda_Darkwater]]
 - Affected by [[ITEM00426_Mithril_Helm_of_the_Guardian]]
-- Originates from [[step_090]]
+- Originates from
 - Affected by [[Portrait NPC Militant Priest Abyssal V2 Militant Priest Abyssal.svg]]
 - Leads to [[location-city-blood-coral-blood-coral.svg]]
 - Related: [[grick-ancient-xmm (aberration)]]
 - Related: [[SPELL00164_Nature_Spell_165]]
 - Influences [[Gastón Flambéheart 2]]
-- Related: [[step_083]]
+- Related:
 - See also: [[ENC00293_Combat_Encounter_294]]
 - Requires [[step_095 (phase_096)]]
-- Affected by [[step_001]]
+- Affected by
 - Connects to [[ITEM01150_Distilled_Potion_of_Clarity]]
 - Affected by [[SPELL00144_Divine_Spell_145]]
 - See also: [[Cultural Advisor Coral Bridgebuilde]]
-- Requires [[step_085]]
+- Requires
 - Influences [[NPC00817_Malakai_Silverleaf_the_Wanderer]]
 - Influences [[Location City the Memory Meadows Black Market V1 the Memory Meadows Black Market.svg]]
 - Connects to [[step_008 (phase_018)]]
@@ -262,7 +257,6 @@ Discovered something valuable
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

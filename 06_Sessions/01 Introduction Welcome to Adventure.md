@@ -18,7 +18,6 @@ aliases: [01 Introduction Welcome to Adventure]
 - [[#Npcs Needed|Npcs Needed]]
 - [[#Locations|Locations]]
 
-
 ---
 
 title: 01 Introduction Welcome to Adventure
@@ -61,36 +60,29 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Notes
 
 *Additional notes*
-
 
 ## Timeline
 - Key events
 - Deadlines
 
-
 ## NPCs Involved
 - Quest giver
 - Antagonists
-
 
 ## Locations
 - Starting point
 - Key locations
 
-
 ## Complications
 - Potential problems
 - Twists
 
-
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -156,8 +148,7 @@ Holds a clue about the ancient prophecy
 - [[MASTER_MOC]]
 - [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
 - [[NPC00815_Baelor_Thornweave_the_Swift]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -169,7 +160,6 @@ Holds a clue about the ancient prophecy
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -204,13 +194,13 @@ Holds a clue about the ancient prophecy
 - Originates from [[potion-of-cloud-giant-strength-xdmg (items)]]
 - Compare with [[Magic Item Table D]]
 - See also: [[Reality Bridge]]
-- Influences [[step_014]]
+- Influences
 - Leads to [[step_017 (phase_067)]]
 - See also: [[SPELL00128_Divine_Spell_129]]
 - Compare with [[LORE00044_Prophecies_Entry_45]]
 - Parallels [[LORE00056_Prophecies_Entry_57]]
 - Connects to [[Assets Locations Location City Temple of Echoing Tides Temple of Echoing Tides.svg]]
-- Originates from [[step_044]]
+- Originates from
 - Compare with [[Tidal Memento]]
 - Influences [[Assets Portraits Portrait NPC Goldwave Financial Offices Goldwave Financial Offices.svg]]
 - Originates from [[NPC0113_Helena_Goldleaf]]
@@ -225,7 +215,7 @@ Holds a clue about the ancient prophecy
 - Affected by [[Link_Integrity_Report (D&D_References)]]
 - Influences [[Admiral Storm Tidecaller]]
 - Influences [[Prophet Nerida Voidgazer (D&D_References)]]
-- Affected by [[step_027]]
+- Affected by
 - Leads to [[ITEM00935_Pure_Potion_of_Vigor]]
 - Connects to [[Assets Locations Location City Memory Farmers V1 Memory Farmers.svg]]
 - Compare with [[Defense Captain Ironguard]]
@@ -247,7 +237,7 @@ Holds a clue about the ancient prophecy
 - See also: [[step_074 (phase_091)]]
 - Originates from [[NPC00864_Thalia_Ravenheart_the_Wanderer]]
 - Leads to [[step_089 (phase_024)]]
-- See also: [[step_078]]
+- See also:
 - See also: [[tabaxi-vgm (races)]]
 - See also: [[step_091 (phase_093)]]
 - Affected by [[Thalassa the Life-Weaver (D&D_References)]]
@@ -260,7 +250,7 @@ Holds a clue about the ancient prophecy
 - Requires [[step_014 (phase_096)]]
 - Related: [[Shadow Conspiracy Timeline (Lore)]]
 - Connects to [[step_062 (phase_052)]]
-- Related: [[step_099]]
+- Related:
 - Parallels [[staff-xphb (items)]]
 - Requires [[Assets Locations Location City Quest the Portal Crisis V1 Quest the Portal Crisis.svg]]
 - Originates from [[step_032 (phase_040)]]

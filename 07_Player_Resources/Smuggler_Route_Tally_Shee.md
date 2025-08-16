@@ -18,7 +18,6 @@ aliases: [Smuggler Route Tally Shee]
 - [[#Contradictions Improvements|Contradictions Improvements]]
 - [[#Hospitality Improvements|Hospitality Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Smuggler_Route_Tally_Shee
@@ -114,7 +113,7 @@ tags: [combat, lore]
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -127,7 +126,6 @@ tags: [combat, lore]
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
@@ -155,8 +153,7 @@ tags: [combat, lore]
 - [[11 Rules Glossary]]
 - [[NPC_Relationship_Web.png_1 (03_People)]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -166,7 +163,6 @@ tags: [combat, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -187,7 +183,7 @@ tags: [combat, lore]
 - See also: [[step_064 (phase_031)]]
 - Leads to [[Wand of Magic Detection Xdmg]]
 - Leads to [[step_043 (phase_027)]]
-- Affected by [[step_011]]
+- Affected by
 - Originates from [[The Shadowmire Tavern (D&D_References)]]
 - Affected by [[Kraken Territories (D&D_References)]]
 - Influences [[step_061 (phase_040)]]
@@ -208,7 +204,7 @@ tags: [combat, lore]
 - Affected by [[hawk-xmm (beast)]]
 - Affected by [[Astral Color Pools Xdmg]]
 - Affected by [[Assets Locations Location City Dolphin Dolphin.svg]]
-- Parallels [[step_013]]
+- Parallels
 - Connects to [[Sword Wraith Warrior Mpmm]]
 - Leads to [[Downtime Activity Practicing a Profession Phb]]
 - Connects to [[The Free Cities (D&D_References)]]
@@ -257,7 +253,7 @@ tags: [combat, lore]
 - Originates from [[Mayor Thompson]]
 - Compare with [[step_094 (phase_007)]]
 - Influences [[step_034 (phase_044)]]
-- Affected by [[step_015]]
+- Affected by
 - Leads to [[Maze Xphb]]
 - Affected by [[Quest - Elite Selection_1 (01_Adventures)]]
 - Leads to [[pyrotechnics-xge (spells)]]
@@ -266,7 +262,7 @@ tags: [combat, lore]
 - Leads to [[ITEM01092_Greater_Powder_of_Healing]]
 - Related: [[Quality Inspector Wave Purewater (D&D_References)]]
 - Originates from [[Gnome Baervan Wildwanderer Mtf]]
-- Affected by [[step_049]]
+- Affected by
 - Related: [[Assets Locations Location City Ironhold V1 Ironhold.svg]]
 - See also: [[step_069 (phase_013)]]
 - Parallels [[Aquabyssos World Overview#The Great Drowning]]

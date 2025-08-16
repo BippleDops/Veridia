@@ -18,7 +18,6 @@ aliases: [NPC00112 Rhiannon Ironforge]
 - [[#Corvus Zephyrblade (Personal - Love interest)|Corvus Zephyrblade (Personal - Love interest)]]
 - [[#Idris Thornweave the Guardian (Political - Ally)|Idris Thornweave the Guardian (Political - Ally)]]
 
-
 ---
 aliases: ["Rhiannon Ironforge", "rhiannon ironforge", "Ironforge Rhiannon"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.124Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -224,11 +219,11 @@ Requires champions for trial by combat
 - Related: [[QUEST00492_Side_Quest_493]]
 - Affected by [[Master_Groups_Index]]
 - Parallels [[step_037 (phase_070)]]
-- Requires [[step_075]]
+- Requires
 - Related: [[step_061 (phase_010)]]
 - Connects to [[Security Quarters (D&D_References)]]
 - Originates from [[Senior Nurse Polyp Tendercurrent (D&D_References)]]
-- Related: [[step_018]]
+- Related:
 - Influences [[ITEM01332_Ornate_Lantern_of_Convenience]]
 - Parallels [[Assets Locations Location City Plague Crisis V1 Plague Crisis.png]]
 - Requires [[step_070 (phase_013)]]
@@ -239,7 +234,7 @@ Requires champions for trial by combat
 - Leads to [[Portrait NPC Captain Rhea Blackwater V2 Captain Rhea Blackwater.svg]]
 - Connects to [[step_006 (phase_089)]]
 - Compare with [[portrait-npc-lord-aurelius-v1-lord-aurelius.svg]]
-- Originates from [[step_019]]
+- Originates from
 - Originates from [[step_044 (phase_097)]]
 - Parallels [[QUEST00034_Side_Quest_35]]
 - Connects to [[step_048 (phase_008)]]
@@ -248,7 +243,7 @@ Requires champions for trial by combat
 - Related: [[guide-xphb (backgrounds)]]
 - Affected by [[Skills With Different Abilities Phb]]
 - Affected by [[ENC00169_Social_Encounter_170]]
-- Influences [[step_063]]
+- Influences
 - Compare with [[portrait-npc-the-biomancers-v1-the-biomancers.svg]]
 - Related: [[Assets Item Artifact Mess Kit V1 Mess Kit.png]]
 - Leads to [[12-appendix-b-monster-lists (dungeon-masters-guide-2014)]]
@@ -269,7 +264,6 @@ Requires champions for trial by combat
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

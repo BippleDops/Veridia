@@ -9,7 +9,6 @@ aliases: [NPC01598 Aeliana Oakenshield the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01598 Aeliana Oakenshield the Fallen]
 - [[#Dara Ashford the Fallen (Political - Ally)|Dara Ashford the Fallen (Political - Ally)]]
 - [[#Hestara Xendar the Redeemed (Family - Parent)|Hestara Xendar the Redeemed (Family - Parent)]]
 - [[#Solas Nightfall the Wise (Professional - Employee)|Solas Nightfall the Wise (Professional - Employee)]]
-
 
 ---
 created: 2025-08-15
@@ -153,25 +151,20 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.290Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -188,7 +181,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Source References
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -196,11 +189,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -235,15 +227,15 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Session 18 - Queen's Gambit]]
 - Related: [[owlin-scc (races)]]
 - Leads to [[The Paradox Engine]]
-- See also: [[step_031]]
+- See also:
 - Connects to [[LOC00228_Cities_Location_229]]
 - Affected by [[LOC00271_Dungeons_Location_272]]
 - Requires [[Portrait NPC Captain Torrent Freewater V1 Captain Torrent Freewater.svg]]
 - Leads to [[Mind Shield Helm 2]]
 - See also: [[DUN00122_Dungeon_123]]
-- Affected by [[step_013]]
+- Affected by
 - Parallels [[nonhuman-hruggek (deities)]]
-- Compare with [[step_058]]
+- Compare with
 - Compare with [[step_050 (phase_021)]]
 - Leads to [[The Phantom Current]]
 - Connects to [[Educational Systems and Institutions (02_Worldbuilding)]]
@@ -262,7 +254,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[step_070 (phase_031)]]
 - Parallels [[step_073 (phase_078)]]
 - See also: [[step_071 (phase_043)]]
-- Connects to [[step_030]]
+- Connects to
 - Parallels [[step_046 (phase_060)]]
 - Affected by [[LORE00298_Legends_Entry_299]]
 - Connects to [[The Thornfield District (D&D_References)]]
@@ -286,7 +278,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Levels 1116 Masters of the Realm Levels 1116]]
 - Leads to [[Master Wind Singer Melody Tradition (NPCs)]]
 - Affected by [[step_087 (phase_095)]]
-- Originates from [[step_028]]
+- Originates from
 - Affected by [[Assets Art the Pressure Crown.png]]
 - Originates from [[NPC00682_Nerys_Ashford_the_Broken]]
 - Related: [[Red Dragon]]
@@ -297,8 +289,8 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Assets Locations Location City Count Viktor Pressureborn V1 Count Viktor Pressureborn.svg]]
 - See also: [[bloodied-xphb (variant-rules)]]
 - Parallels [[Location City Embassy Quarter V1 Embassy Quarter.svg]]
-- Compare with [[step_037]]
-- Connects to [[Quest   The Refugee Evacuation]]
+- Compare with
+- Connects to [[Quest The Refugee Evacuation]]
 - Compare with [[step_099 (phase_086)]]
 - Connects to [[QUEST0013_The_Shadow_Realm_Mystery]]
 - Affected by [[Portal Network (D&D_References)]]

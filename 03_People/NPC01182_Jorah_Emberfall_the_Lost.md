@@ -18,7 +18,6 @@ aliases: [NPC01182 Jorah Emberfall the Lost]
 - [[#Faelyn Hawthorne the Lost (Family - Cousin)|Faelyn Hawthorne the Lost (Family - Cousin)]]
 - [[#Brenna Quicksilver the Lost (Professional - Partner)|Brenna Quicksilver the Lost (Professional - Partner)]]
 
-
 ---
 aliases: ["Jorah Emberfall the Lost", "jorah emberfall the lost", "Jorah Emberfall Lost", "Lost the Emberfall Jorah"]
 tags: [npc, character]
@@ -142,21 +141,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.245Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -190,7 +185,7 @@ Seeks rare merchandise
 - Parallels [[The Forgetting Cult (Cults_and_Movements)]]
 - Influences [[Item Artifact Dagger of Venom Xdmg V1 Dagger of Venom Xdmg.png]]
 - Originates from [[Senator's Widow Marcella (D&D_References)]]
-- See also: [[step_099]]
+- See also:
 - Influences [[Shadow Admiral Vex (D&D_References)]]
 - Compare with [[step_013 (phase_049)]]
 - See also: [[Medical Cover Operations Center]]
@@ -214,7 +209,7 @@ Seeks rare merchandise
 - See also: [[Assets Locations Location City Tribune Cassia Tribune Cassia.svg]]
 - Compare with [[step_056 (phase_100)]]
 - Affected by [[tree-stride-xphb (spells)]]
-- Related: [[step_036]]
+- Related:
 - Parallels [[step_010 (phase_053)]]
 - Affected by [[step_078 (phase_012)]]
 - Connects to [[Identity Crisis Resolution]]
@@ -222,14 +217,14 @@ Seeks rare merchandise
 - Affected by [[step_026 (phase_033)]]
 - Influences [[meazel-mpmm (monstrosity)]]
 - Compare with [[deer-xmm (beast)]]
-- Parallels [[step_097]]
-- Related: [[step_022]]
+- Parallels
+- Related:
 - Related: [[forgotten-realms-tempus (deities)]]
 - Parallels [[LOC00173_Wilderness_Location_174]]
 - Requires [[Quest - Hostage Rescue 2]]
 - Originates from [[lesser-restoration-xphb (spells)]]
 - Compare with [[The Great Convergence Prophecies 2]]
-- Influences [[step_017]]
+- Influences
 - Affected by [[the-six-abilities-ability-descriptions-xphb (tables)]]
 - See also: [[The Succession Crisis]]
 - Related: [[location-city-living-reef-living-reef.png]]
@@ -265,7 +260,6 @@ Seeks rare merchandise
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

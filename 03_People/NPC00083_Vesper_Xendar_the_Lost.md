@@ -18,7 +18,6 @@ aliases: [NPC00083 Vesper Xendar the Lost]
 - [[#Elric Jadeclaw the Risen (Criminal - Informant)|Elric Jadeclaw the Risen (Criminal - Informant)]]
 - [[#Faelyn Winterborn (Professional - Mentor)|Faelyn Winterborn (Professional - Mentor)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Vesper Xendar the Lost", "vesper xendar the lost", "Vesper Xendar Lost", "Lost the Xendar Vespertags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -152,16 +151,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.120Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -216,11 +212,10 @@ Modifications:
 - [[Count_Strahd_von_Zarovich]]
 - [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -231,11 +226,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -243,7 +237,7 @@ Modifications:
 - Affected by [[MON00121_Constructs_Creature_122]]
 - Leads to [[dragontooth-dagger-rot (items)]]
 - Originates from [[step_092 (phase_060)]]
-- Related: [[step_028]]
+- Related:
 - Related: [[Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png_1 (Portraits)]]
 - Requires [[FAC00096_Guilds_97]]
 - Affected by [[Assets Locations [[Location City [[Brother Thaddeus the Rememberer]] V1 Brother Thaddeus the Rememberer.svg]]]]
@@ -271,7 +265,7 @@ Modifications:
 - Originates from [[step_047 (phase_038)]]
 - Influences [[Portrait NPC Gareth Goldenheart the Chosen Vessel Gareth Goldenheart the Chosen Vessel.svg_1 (Portraits)]]
 - Influences [[NPC00066_Drusilla_Lightbringer_the_Wanderer]]
-- Affected by [[step_084]]
+- Affected by
 - Compare with [[Portrait NPC High King Aurelius Skyborn V1 High King Aurelius Skyborn.svg_1 (Portraits)]]
 - Compare with [[[[Old Valdris]] (D&D_References)]]
 - Originates from [[celtic-belenus (deities)]]
@@ -280,16 +274,16 @@ Modifications:
 - See also: [[step_099 (phase_070)]]
 - Influences [[step_084 (phase_058)]]
 - Related: [[The Archive of Questions]]
-- See also: [[step_068]]
+- See also:
 - See also: [[Pressure Engineers]]
-- Leads to [[step_036]]
+- Leads to
 - Connects to [[Chrysoprase Xdmg]]
 - Requires [[ITEM00854_Void-touched_Crown_of_Dominion]]
 - Related: [[Assets Locations Location City [[The Probability [[Merchant]]]] V1 the Probability Merchant.svg]]
 - Related: [[step_051 (phase_045)]]
 - Originates from [[step_006 (phase_080)]]
 - Influences [[ENC00287_Social_Encounter_288]]
-- Affected by [[step_043]]
+- Affected by
 - Leads to [[supplemental-tables-absent-parent-xge (tables)]]
 - Parallels [[Future Gardeners (Lore)]]
 - Affected by [[The Circle of Depths 2]]
@@ -297,7 +291,7 @@ Modifications:
 - Parallels [[The Shadow War Coalition]]
 - Connects to [[SHOP00051_General_Shop_52]]
 - Compare with [[step_059 (phase_093)]]
-- Compare with [[step_081]]
+- Compare with
 - Influences [[ITEM00929_Superior_Crystal_of_Clarity]]
 - Originates from [[Location City [[Keeper Stormheart]] V1 Keeper Stormheart.svg]]
 - Requires [[step_090 (phase_092)]]
@@ -307,7 +301,7 @@ Modifications:
 - Compare with [[The Sunken Conspiracy]]
 - Requires [[sword-of-vengeance-xdmg (items)]]
 - Leads to [[Young Bulette Pota]]
-- Influences [[step_082]]
+- Influences
 - See also: [[step_043 (phase_053)]]
 - Originates from [[portrait-npc-mayor-thompson-v2-mayor-thompson.svg]]
 - Related: [[LORE00267_History_Entry_268]]
@@ -344,7 +338,6 @@ Modifications:
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

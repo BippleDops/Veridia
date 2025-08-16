@@ -18,7 +18,6 @@ aliases: [NPC01039 Malakai Moonshadow the Wanderer]
 - [[#Orion Ashford the Wise (Professional - Partner)|Orion Ashford the Wise (Professional - Partner)]]
 - [[#Thalia Underhill the Strong (Criminal - Handler)|Thalia Underhill the Strong (Criminal - Handler)]]
 
-
 ---
 aliases: ["Malakai Moonshadow the Wanderer", "malakai moonshadow the wanderer", "Malakai Moonshadow Wanderer", "Wanderer the Moonshadow Malakai"]
 tags: [npc, character]
@@ -146,27 +145,23 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.230Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - See also: [[Academic Rival (D&D_References)]]
 - Compare with [[EVENT00051_Magical_Event_52]]
-- Related: [[step_034]]
+- Related:
 - Requires [[Bejeweled Ivory Drinking Horn with Gold Filigree Xdmg]]
 - Compare with [[Shadow Market Syndicat]]
 - Originates from [[step_073 (phase_029)]]
@@ -178,7 +173,7 @@ Caravan needs guards
 - Parallels [[Legal Reform Movemen 2]]
 - Parallels [[04_Resources_Assets_Locations_location-city-pilgrimage-master-depth-guide-melancholy-pilgrimage-master-depth-guide-melancholy.svg]]
 - Affected by [[Archon Meredith Saltweaver (D&D_References)]]
-- Connects to [[step_061]]
+- Connects to
 - Leads to [[traps-hazards (traps-hazards)]]
 - Related: [[ITEM0031_Hidden_Orb_of_Power]]
 - Influences [[The Neutral Current Tavern 2]]
@@ -204,7 +199,7 @@ Caravan needs guards
 - Originates from [[The Loop Breakers]]
 - Leads to [[Assets Portraits Portrait NPC Quest the Throne Succession Quest the Throne Succession.svg]]
 - Compare with [[Symbol Heraldry Dockworkers Union V1 Dockworkers Union.svg]]
-- Leads to [[step_051]]
+- Leads to
 - Related: [[step_056 (phase_085)]]
 - Originates from [[Dockworkers Union 2]]
 - Related: [[NPC01567_Vesper_Ashford_the_Wanderer]]
@@ -227,14 +222,14 @@ Caravan needs guards
 - Leads to [[eagle-xmm (beast)]]
 - Compare with [[LOC00154_Towns_Location_155]]
 - Requires [[List Spells Classes Draconic Sorcery Xphb]]
-- Compare with [[step_089]]
+- Compare with
 - Parallels [[Temple-Scholar Depth-Seer (D&D_References)]]
-- See also: [[step_087]]
+- See also:
 - Requires [[The Fishing Fleets]]
 - Influences [[Marcus Goldlea (D&D_References)]]
 - Related: [[Assets Art the Perfect Symbiosis.png]]
 - Related: [[Deep Trenches 2]]
-- Requires [[step_083]]
+- Requires
 - Affected by [[NPC0198_Nathaniel_Brightblade]]
 - Originates from [[ITEM00895_Divine_Tome_of_Destiny]]
 - Leads to [[LOC00129_Dungeons_Location_130]]
@@ -247,16 +242,16 @@ Caravan needs guards
 - Requires [[NPC0148_Cormac_Darkwater]]
 - Related: [[Hobgoblin Vgm]]
 - Parallels [[Deck of Illusions]]
-- Affected by [[step_092]]
+- Affected by
 - Originates from [[Crown of Eternal Ice (D&D_References)]]
-- Parallels [[step_070]]
+- Parallels
 - Connects to [[ITEM01361_Elegant_Tool_Kit_of_Quality]]
 - Parallels [[step_056 (phase_068)]]
 - Connects to [[LOC00262_Cities_Location_263]]
 - Originates from [[Cultural Heritage Center]]
 - Connects to [[NPC_Template]]
 - Influences [[step_042 (phase_071)]]
-- Connects to [[step_088]]
+- Connects to
 - Compare with [[step_085 (phase_059)]]
 - Leads to [[Note#Heading]]
 - Connects to [[step_097 (phase_010)]]
@@ -269,7 +264,6 @@ Caravan needs guards
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

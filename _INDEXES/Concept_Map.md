@@ -12,30 +12,30 @@ aliases: [Concept Map]
 
 ```mermaid
 graph TD
-    Character[Character] --> Class[Class]
-    Character --> Race[Race]
-    Character --> Background[Background]
-    Character --> Alignment[Alignment]
-    
-    Class --> Fighter[Fighter]
-    Class --> Wizard[Wizard]
-    Class --> Cleric[Cleric]
-    Class --> Rogue[Rogue]
-    
-    Combat[Combat] --> Initiative[Initiative]
-    Combat --> Actions[Actions]
-    Combat --> Damage[Damage]
-    Combat --> Conditions[Conditions]
-    
-    Magic[Magic] --> Spells[Spells]
-    Magic --> Components[Components]
-    Magic --> Schools[Schools of Magic]
-    Magic --> Slots[Spell Slots]
-    
-    World[World] --> Locations[Locations]
-    World --> NPCs[NPCs]
-    World --> Factions[Factions]
-    World --> History[History]
+ Character[Character] --> Class[Class]
+ Character --> Race[Race]
+ Character --> Background[Background]
+ Character --> Alignment[Alignment]
+
+ Class --> Fighter[Fighter]
+ Class --> Wizard[Wizard]
+ Class --> Cleric[Cleric]
+ Class --> Rogue[Rogue]
+
+ Combat[Combat] --> Initiative[Initiative]
+ Combat --> Actions[Actions]
+ Combat --> Damage[Damage]
+ Combat --> Conditions[Conditions]
+
+ Magic[Magic] --> Spells[Spells]
+ Magic --> Components[Components]
+ Magic --> Schools[Schools of Magic]
+ Magic --> Slots[Spell Slots]
+
+ World[World] --> Locations[Locations]
+ World --> NPCs[NPCs]
+ World --> Factions[Factions]
+ World --> History[History]
 ```
 
 ## Homebrew Integration
@@ -54,22 +54,21 @@ All homebrew content connects to these core concepts:
 - **Magic System**: [[ACX Spells]], [[XSR Spells]], [[Custom Magic]]
 - **World Building**: [[WWT Worldbuilding]], [[Setting Guides]], [[Custom Lore]]
 
-
 ## Connections
 
 - Originates from [[Dwarven Abbathor Mtf]]
 - Influences [[step_031 (phase_060)]]
 - Requires [[Assets Locations Location City Trader Compass Rose V1 Trader Compass Rose.svg]]
 - Affected by [[step_056 (phase_068)]]
-- See also: [[step_002]]
+- See also:
 - Connects to [[step_083 (phase_090)]]
 - Connects to [[Determine the Villains Actions Event Based Villain Actions]]
 - Leads to [[step_094 (phase_064)]]
 - See also: [[SPELL00090_Nature_Spell_91]]
-- Parallels [[step_053]]
-- Parallels [[step_065]]
+- Parallels
+- Parallels
 - Affected by [[Symbol Heraldry Quest the Family Reunion Quest the Family Reunion.svg]]
-- Leads to [[step_014]]
+- Leads to
 - Compare with [[Assets Locations Location City Port Meridian V1 Port Meridian.svg]]
 - Related: [[Location City Pressure Technology Pressure Technology.svg]]
 - Parallels [[NPC00516_Gavril_Lightbringer_the_Scholar]]
@@ -98,12 +97,12 @@ All homebrew content connects to these core concepts:
 - Parallels [[NPC01646_Hestara_Voidwalker_the_Seeker]]
 - Leads to [[step_075 (phase_064)]]
 - Influences [[The Shadowmere (D&D_References)]]
-- Parallels [[step_037]]
+- Parallels
 - Related: [[location-city-the-last-dance-v1-the-last-dance.svg]]
 - Affected by [[Cleric Xphb Death Domain Dmg]]
 - Leads to [[Location City Temporal Rescue V1 Temporal Rescue.svg]]
 - See also: [[The Pressure-Crystal Synthesis Project]]
-- Compare with [[step_088]]
+- Compare with
 - Parallels [[QUEST0052_In_Search_of_Knowledge]]
 - Originates from [[Dungeon Dressing General Furnishings and Appointments]]
 - Influences [[step_047 (phase_026)]]
@@ -123,7 +122,7 @@ All homebrew content connects to these core concepts:
 - Leads to [[EVENT00081_Natural_Event_82]]
 - Leads to [[Assets Locations Location City the Suicide Bridges the Suicide Bridges.svg]]
 - Connects to [[beholder]]
-- Affected by [[step_035]]
+- Affected by
 - Connects to [[step_032 (phase_052)]]
 - Influences [[step_085 (phase_066)]]
 - Requires [[Location City Navigator Depthseer V1 Navigator Depthseer.svg]]
@@ -147,8 +146,8 @@ All homebrew content connects to these core concepts:
 - Related: [[NPC01812_Xander_Lightbringer_the_Swift]]
 - Related: [[SPELL00129_Nature_Spell_130]]
 - Leads to [[Hybrid Communities Integration (D&D_References)]]
-- See also: [[step_012]]
-- Related: [[step_009]]
+- See also:
+- Related:
 - Affected by [[Prince Caelum Stormwright 2]]
 - See also: [[step_083 (phase_024)]]
 - Related: [[Downtime Activity Gaining Renown]]

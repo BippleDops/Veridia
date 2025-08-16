@@ -18,7 +18,6 @@ aliases: [13-conditions (players-handbook-2014)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 13-conditions (players-handbook-2014)
@@ -82,12 +81,9 @@ world: Both
 5. Speed reduced to 0
 6. Death
 
-
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
@@ -118,11 +114,10 @@ world: Both
 Former associate of the party's patron
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[06 Equipment]]
 
 ## Game Mechanics
@@ -131,7 +126,6 @@ Former associate of the party's patron
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -151,7 +145,7 @@ Former associate of the party's patron
 ## Connections
 
 - Connects to [[Deep Prophecy 2]]
-- Connects to [[step_001]]
+- Connects to
 - Affected by [[Traditional Craft Districts]]
 - Leads to [[step_056 (phase_083)]]
 - Connects to [[carpet-of-flying-5-ft-7-ft-xdmg (items)]]
@@ -171,7 +165,7 @@ Former associate of the party's patron
 - Originates from [[befuddlement-xphb (spells)]]
 - Connects to [[Creature Creature Storm Giant Quintessent Mpmm V2 Storm Giant Quintessent Mpmm.png]]
 - Influences [[Scepter of Tidal Command 2]]
-- Influences [[step_011]]
+- Influences
 - Related: [[Sensory_Signature_Guides (D&D_References)]]
 - See also: [[step_078 (phase_037)]]
 - See also: [[glamoured-studded-leather-xdmg (items)]]
@@ -188,7 +182,7 @@ Former associate of the party's patron
 - Parallels [[SPELL00087_Divine_Spell_88]]
 - See also: [[step_083 (phase_048)]]
 - Influences [[difficulty-class-typical-dcs-xdmg (tables)]]
-- Influences [[step_071]]
+- Influences
 - Originates from [[step_092 (phase_067)]]
 - Affected by [[LOC00120_Cities_Location_121]]
 - Affected by [[Blackrazor Xdmg]]
@@ -206,7 +200,7 @@ Former associate of the party's patron
 - Affected by [[NPC00991_Hestara_Ravenheart_the_Wanderer]]
 - See also: [[reaction-xphb (variant-rules)]]
 - Leads to [[Session Summary Template]]
-- Originates from [[step_026]]
+- Originates from
 - Parallels [[LORE00281_Legends_Entry_282]]
 - Influences [[Echo-Prime Cacophony Voidlungs 2]]
 - Influences [[step_067 (phase_004)]]
@@ -234,7 +228,7 @@ Former associate of the party's patron
 - Related: [[LOC00278_Towns_Location_279]]
 - Compare with [[Portrait NPC Captain Nerida Stormcrest V2 Captain Nerida Stormcrest.svg]]
 - See also: [[LOC0143_Gatehollow]]
-- Influences [[step_039]]
+- Influences
 - Originates from [[NPC01441_Brenna_Ravenheart_the_Fallen]]
 - Compare with [[ENC00232_Combat_Encounter_233]]
 - Connects to [[Introduction (D&D_Sourcebooks)]]
@@ -248,5 +242,5 @@ Former associate of the party's patron
 - Leads to [[Infiltration Recruitment]]
 - Compare with [[LOC00207_Wilderness_Location_208]]
 - Compare with [[LORE00075_Legends_Entry_76]]
-- See also: [[step_063]]
+- See also:
 - Affected by [[Dark Gift of Delban the Star of Ice and Hate]]

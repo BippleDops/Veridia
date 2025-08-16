@@ -9,7 +9,6 @@ aliases: [Ancient King Pelagios]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_ancient_king_pelagios_standard.png]]
 
-
 ## Table of Contents
 - [[#Stats|Stats]]
 - [[#Relationships|Relationships]]
@@ -21,7 +20,6 @@ aliases: [Ancient King Pelagios]
 - [[#Lifestyle Improvements|Lifestyle Improvements]]
 - [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
 - [[#Hospitality Improvements|Hospitality Improvements]]
-
 
 ---
 
@@ -67,7 +65,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -297,7 +295,6 @@ ___
 - [[Memoriam]]
 - [[Memoriam (D&D_References)]]
 
-
 ## Connections
 
 - Related: [[armor-of-necrotic-resistance-xdmg (items)]]
@@ -314,7 +311,7 @@ ___
 - Parallels [[step_038 (phase_054)]]
 - Compare with [[Divine Magic (D&D_References)]]
 - Related: [[Market Prophet 2]]
-- Originates from [[step_087]]
+- Originates from
 - Originates from [[orc-gruumsh-vgm (deities)]]
 - Affected by [[step_047 (phase_065)]]
 - Originates from [[Manticore Xmm]]
@@ -341,7 +338,7 @@ ___
 - Parallels [[LOC00224_Towns_Location_225]]
 - Connects to [[Brewing Potions of Healing Potion of Healing]]
 - Parallels [[Assets Locations Location City Captain Marcus V1 Captain Marcus.svg]]
-- Parallels [[step_035]]
+- Parallels
 - Affected by [[Assets Locations Location City Chief Engineer Vera Steamheart Chief Engineer Vera Steamheart.svg]]
 - Originates from [[step_009 (phase_056)]]
 - Parallels [[step_002 (phase_077)]]
@@ -358,10 +355,10 @@ ___
 - Leads to [[Giant Eagle Xmm]]
 - Connects to [[NPC00320_Malakai_Hawthorne_the_Redeemed]]
 - Parallels [[Portrait NPC House of Lords Secret Chamber V1 House of Lords Secret Chamber.svg]]
-- Influences [[step_063]]
+- Influences
 - See also: [[Control Flames Xge]]
 - Connects to [[SPELL00031_Divine_Spell_32]]
-- Related: [[step_076]]
+- Related:
 - See also: [[forgotten-realms-tyr (deities)]]
 - Related: [[beacon-of-hope-xphb (spells)]]
 - Parallels [[Drow Keptolo Mtf]]
@@ -372,7 +369,7 @@ ___
 - Leads to [[step_029 (phase_053)]]
 - Leads to [[LORE00300_History_Entry_301]]
 - See also: [[LOC00215_Wilderness_Location_216]]
-- See also: [[step_014]]
+- See also:
 - Originates from [[Chief Temporal Engineer Paradox Timeweaver 2]]
 - See also: [[Four Armed Troll Hotdq]]
 - See also: [[Earl Thaddeus Blackthorn]]
@@ -385,7 +382,7 @@ ___
 - Originates from [[EVENT00010_Natural_Event_11]]
 - Leads to [[NPC01153_Faelyn_Brightblade_the_Wise]]
 - Related: [[step_065 (phase_060)]]
-- Influences [[step_070]]
+- Influences
 - Requires [[QUEST00265_Personal_Quest_266]]
 - Connects to [[Assets Art Save Queen Seraphina.png]]
 - Leads to [[LORE0097_Prophecy_of_the_Dragon_Wars]]

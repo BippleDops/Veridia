@@ -18,7 +18,6 @@ aliases: [NPC00494 Lyanna Hawthorne the Guardian]
 - [[#Ewan Quicksilver the Strong (Political - Spy)|Ewan Quicksilver the Strong (Political - Spy)]]
 - [[#Zephyr Ashford the Wise (Professional - Rival)|Zephyr Ashford the Wise (Professional - Rival)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Lyanna Hawthorne the Guardian", "lyanna hawthorne the guardian", "Lyanna Hawthorne Guardian", "Guardian the Hawthorne Lyannatags: [npc, character, combat, puzzle, lore]er]
@@ -140,16 +139,13 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.169Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -198,11 +194,10 @@ Modifications:
 - [[14 Gods of the Multiverse]]
 - [[11 Rules Glossary]]
 - [[NPC01943_Xander_Proudmore_the_Fallen]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -212,11 +207,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -227,7 +221,7 @@ Modifications:
 - Parallels [[Baroness Hope Starlight]]
 - Compare with [[step_033 (phase_010)]]
 - Originates from [[step_051 (phase_087)]]
-- Influences [[step_056]]
+- Influences
 - Affected by [[[[Keeper Stormwall]] (D&D_References)]]
 - Requires [[LOC0056_Marshridge]]
 - Requires [[Echo Polyps 2]]
@@ -235,7 +229,7 @@ Modifications:
 - Leads to [[Portrait NPC Gareth Goldenheart the Chosen Vessel V1 Gareth Goldenheart the Chosen Vessel.svg]]
 - Influences [[step_072 (phase_031)]]
 - See also: [[Opal Xdmg]]
-- Parallels [[step_081]]
+- Parallels
 - Related: [[Deep-Sea Cultural Protocol]]
 - Compare with [[Commander Aurelius]]
 - Related: [[Command Xphb]]
@@ -245,7 +239,7 @@ Modifications:
 - Connects to [[step_085 (phase_093)]]
 - Requires [[step_076 (phase_013)]]
 - Influences [[step_077 (phase_060)]]
-- Leads to [[step_041]]
+- Leads to
 - Connects to [[The Quantum Accountant]]
 - Leads to [[Deep Watch Command]]
 - See also: [[LOC00063_Dungeons_Location_64]]
@@ -285,7 +279,7 @@ Modifications:
 - Parallels [[FAC00070_Guilds_71]]
 - Compare with [[Foreign Merchants 2]]
 - Requires [[portrait-npc-the-schooling-v2-the-schooling.svg_1 (Portraits)]]
-- Originates from [[step_063]]
+- Originates from
 - Connects to [[Influence Detector 2]]
 - Related: [[random-yuan-ti-servants-yuan-ti-protectors-vgm]]
 - Connects to [[step_007 (phase_016)]]
@@ -325,7 +319,6 @@ Modifications:
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

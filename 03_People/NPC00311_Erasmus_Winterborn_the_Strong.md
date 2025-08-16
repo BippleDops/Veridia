@@ -18,7 +18,6 @@ aliases: [NPC00311 Erasmus Winterborn the Strong]
 - [[#Baelor Silverleaf (Family - Parent)|Baelor Silverleaf (Family - Parent)]]
 - [[#Erasmus Ironforge the Wise (Personal - Ex-lover)|Erasmus Ironforge the Wise (Personal - Ex-lover)]]
 
-
 ---
 aliases: ["Erasmus Winterborn the Strong", "erasmus winterborn the strong", "Erasmus Winterborn Strong", "Strong the Winterborn Erasmus"]
 tags: [npc, character]
@@ -152,21 +151,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.147Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -184,9 +179,9 @@ Needs discrete help with family scandal
 - See also: [[lapis-lazuli-xdmg (items)]]
 - Originates from [[Location City Temple Districts V1 Temple Districts.svg]]
 - Compare with [[Verdant Shard]]
-- Related: [[step_004]]
+- Related:
 - Requires [[location-city-compass-quest-compass-quest.svg]]
-- Affected by [[step_053]]
+- Affected by
 - Compare with [[QUEST00041_Personal_Quest_42]]
 - Parallels [[step_065 (phase_097)]]
 - Related: [[Master_Timeline]]
@@ -206,12 +201,12 @@ Needs discrete help with family scandal
 - Originates from [[The Neutral Embassy]]
 - Related: [[Ambush Point (D&D_Statblocks)]]
 - Requires [[ENC00232_Combat_Encounter_233]]
-- Requires [[step_076]]
+- Requires
 - Parallels [[Bartender Marina Dualborn]]
 - Influences [[hidden-pit-xdmg (traps-hazards)]]
 - Connects to [[hold-monster-xphb (spells)]]
 - Compare with [[step_096 (phase_013)]]
-- Originates from [[step_031]]
+- Originates from
 - Leads to [[Handout Handout Ancient Prophecy Fragment V2 Ancient Prophecy Fragment.png]]
 - Influences [[Captain_Trawl_Netcaster.png]]
 - Originates from [[Witness Protection Network (D&D_References)]]
@@ -230,11 +225,11 @@ Needs discrete help with family scandal
 - Connects to [[portrait-npc-the-schooling-v2-the-schooling.svg_1 (Portraits)]]
 - Leads to [[Coming-of-Age Traditions and Ceremonies]]
 - Affected by [[SPELL00095_Arcane_Spell_96]]
-- Leads to [[step_093]]
-- See also: [[step_027]]
+- Leads to
+- See also:
 - Originates from [[LOC00141_Wilderness_Location_142]]
 - See also: [[Chief Inspector Magnus Ledgerkeep (D&D_References)]]
-- Related: [[step_021]]
+- Related:
 - Parallels [[Arcane Broker Void-Touch Mystic]]
 - Leads to [[tiefling-fierna-mtf (races)]]
 - Affected by [[Unity Festival]]
@@ -275,7 +270,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

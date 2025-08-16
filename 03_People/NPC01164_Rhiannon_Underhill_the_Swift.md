@@ -18,7 +18,6 @@ aliases: [NPC01164 Rhiannon Underhill the Swift]
 - [[#Alaric Blackstone the Broken (Personal - Ex-lover)|Alaric Blackstone the Broken (Personal - Ex-lover)]]
 - [[#Kaelen Voidwalker the Broken (Political - Spy)|Kaelen Voidwalker the Broken (Political - Spy)]]
 
-
 ---
 aliases: ["Rhiannon Underhill the Swift", "rhiannon underhill the swift", "Rhiannon Underhill Swift", "Swift the Underhill Rhiannon"]
 tags: [npc, character]
@@ -148,42 +147,38 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.244Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Requires [[step_041]]
+- Requires
 - Requires [[LORE00323_History_Entry_324]]
 - Compare with [[Assets Item Artifact Poisoners Kit Xphb V7 Poisoners Kit Xphb.png]]
 - See also: [[Clara Truthscale]]
-- Originates from [[step_024]]
+- Originates from
 - Related: [[step_007 (phase_078)]]
 - Parallels [[step_077 (phase_095)]]
 - Leads to [[Camel Xmm]]
 - Related: [[LORE00237_Prophecies_Entry_238]]
 - Affected by [[QUEST00235_Personal_Quest_236]]
-- Related: [[step_036]]
+- Related:
 - Connects to [[Weather and Season]]
 - Related: [[Temporary Hit Points Xphb]]
 - Leads to [[Forgotten Realms Chauntea]]
 - Parallels [[Dart Xphb]]
 - Parallels [[Temporal Wind Patterns]]
 - Related: [[Shadow Noble Districts (D&D_References)]]
-- Originates from [[step_081]]
+- Originates from
 - Originates from [[Modern Bullets 10]]
 - Influences [[Sergeant Surveillance]]
 - Compare with [[Void Currents]]
@@ -191,11 +186,11 @@ Seeks rare merchandise
 - Related: [[step_071 (phase_020)]]
 - Compare with [[canoloth-mpmm (fiend)]]
 - Compare with [[NPC01437_Caelum_Blackstone_the_Mystic]]
-- Requires [[step_022]]
+- Requires
 - Requires [[Gm Resources]]
 - Requires [[The Healing Circles]]
 - Related: [[ITEM00687_Enchanted_Leather_of_Grace]]
-- Related: [[step_037]]
+- Related:
 - See also: [[The Shadowmeld Sanctum]]
 - Connects to [[step_029 (phase_014)]]
 - Connects to [[step_045 (phase_083)]]
@@ -215,7 +210,7 @@ Seeks rare merchandise
 - Connects to [[step_030 (phase_066)]]
 - Influences [[step_081 (phase_025)]]
 - See also: [[step_083 (phase_046)]]
-- Compare with [[step_001]]
+- Compare with
 - Requires [[The Citizens Protection Act 2]]
 - Parallels [[LOC00271_Towns_Location_272]]
 - Influences [[step_038 (phase_052)]]
@@ -225,10 +220,10 @@ Seeks rare merchandise
 - See also: [[step_045 (phase_070)]]
 - Requires [[Diplomatic Service]]
 - See also: [[Location City Surface Contacts Surface Contacts.svg]]
-- Connects to [[step_050]]
+- Connects to
 - See also: [[creature-creature-troll-xmm-v4-troll-xmm.png]]
 - Requires [[1 Introduction (monster-manual-2014)]]
-- Parallels [[Quest   Refugees of the Deep]]
+- Parallels [[Quest Refugees of the Deep]]
 - Requires [[Deep-Sea Agricultural Research Institut 2]]
 - Related: [[Deep Mother Zealots]]
 - Originates from [[The Unknown Original 2]]
@@ -250,28 +245,27 @@ Seeks rare merchandise
 - Parallels [[QUEST00054_Side_Quest_55]]
 - Related: [[Conjure Fey Xphb]]
 - See also: [[Environmental Monitor Reef Ecowatch (D&D_References)]]
-- Compare with [[step_066]]
-- Leads to [[step_044]]
+- Compare with
+- Leads to
 - Influences [[The Silverscale Consortium]]
 - Compare with [[step_007 (phase_045)]]
-- Affected by [[step_090]]
+- Affected by
 - Influences [[The Deep Silence]]
 - Leads to [[step_076 (phase_063)]]
 - Leads to [[MOC_Lore]]
 - Parallels [[Keeper of the Shattered Crown Marcus]]
-- Connects to [[step_074]]
+- Connects to
 - Compare with [[step_043 (phase_088)]]
 - Parallels [[step_004 (phase_037)]]
 - See also: [[step_057 (phase_032)]]
 - Compare with [[Assets Locations Location City Exotic Imports Market Exotic Imports Market.svg]]
 - Originates from [[The Seven Breathing Stones]]
-- See also: [[step_074]]
+- See also:
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

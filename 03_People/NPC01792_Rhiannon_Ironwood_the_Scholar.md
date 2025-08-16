@@ -18,7 +18,6 @@ aliases: [NPC01792 Rhiannon Ironwood the Scholar]
 - [[#Urien Lightbringer the Risen (Personal - Best friend)|Urien Lightbringer the Risen (Personal - Best friend)]]
 - [[#Aeliana Ironwood the Swift (Personal - Best friend)|Aeliana Ironwood the Swift (Personal - Best friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Rhiannon Ironwood the Scholar", "rhiannon ironwood the scholar", "Rhiannon Ironwood Scholar", "Scholar the Ironwood Rhiannontags: [npc, character, combat, magic, exploration, lore]er]
@@ -158,16 +157,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.310Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -179,7 +175,6 @@ Modifications:
 - HP: 38
 - AC: 14
 - Notable abilities: Varies by individual
-
 
 > [!info] ℹ️ Info
 > Additional context or lore
@@ -218,9 +213,7 @@ Modifications:
 - [[NPC00670_Xander_Goldleaf_the_Scholar]]
 - [[MOC_Items]]
 - [[NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -238,7 +231,7 @@ Following magic item guidelines (WWT p.135-136):
 - Bestiary Compendium (BC) p.258
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -248,11 +241,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -323,14 +315,14 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Potion of Heroism Xdmg]]
 - Parallels [[step_093 (phase_047)]]
 - Affected by [[walloping-ammunition-xdmg (items)]]
-- Parallels [[step_004]]
+- Parallels
 - Related: [[NPC01015_Gareth_Brightblade_the_Guardian]]
 - Influences [[step_091 (phase_015)]]
 - Compare with [[The Ghost Walker]]
 - Influences [[Assets Locations [[Location City [[Archaeological Discoveries]] Archaeological Discoveries.svg]]]]
 - Originates from [[potion-of-cloud-giant-strength-xdmg (items)]]
 - Related: [[ITEM00323_Blazing_Spear_of_the_Ancients]]
-- Leads to [[step_078]]
+- Leads to
 - Originates from [[Duchess Cordelia Pearlheart]]
 - See also: [[step_019 (phase_029)]]
 - See also: [[Concentration]]
@@ -340,7 +332,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[EVENT00093_Natural_Event_94]]
 - Originates from [[Faction_War_Campaign_Act_Structure (D&D_Sourcebooks)]]
 - Leads to [[Shadow Senate Leaders 2]]
-- Related: [[step_096]]
+- Related:
 - Affected by [[The People's Movement 2]]
 - Related: [[step_094 (phase_032)]]
 - Compare with [[step_008 (phase_039)]]
@@ -361,7 +353,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[README]]
 - Requires [[annis-hag-vgm (legendary-group)]]
 - Requires [[INV-002 2]]
-- Influences [[step_004]]
+- Influences
 - Influences [[Location City [[Palace Guard Captain Neutralis]] Palace Guard Captain Neutralis.png]]
 - Originates from [[LORE00094_Prophecies_Entry_95]]
 - Influences [[SPELL00159_Arcane_Spell_160]]
@@ -372,14 +364,13 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[NPC01033_Rhiannon_Voidwalker_the_Seeker]]
 - Related: [[Shadow Independence Levels]]
 - Parallels [[step_063 (phase_051)]]
-- Leads to [[step_075]]
+- Leads to
 - Related: [[Quest - [[The Lost Expedition]]_1 (01_Adventures)]]
 
 ## Visual References
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

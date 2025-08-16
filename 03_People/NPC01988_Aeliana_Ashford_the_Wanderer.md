@@ -18,7 +18,6 @@ aliases: [NPC01988 Aeliana Ashford the Wanderer]
 - [[#Urien Ravenheart the Redeemed (Professional - Mentor)|Urien Ravenheart the Redeemed (Professional - Mentor)]]
 - [[#Gavril Nightfall the Broken (Family - Parent)|Gavril Nightfall the Broken (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aeliana Ashford the Wanderer", "aeliana ashford the wanderer", "Aeliana Ashford Wanderer", "Wanderer the Ashford Aeliana"]
@@ -154,25 +153,20 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.331Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -189,7 +183,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Source References
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -199,11 +193,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -212,7 +205,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[step_044 (phase_025)]]
 - Leads to [[LORE00302_Prophecies_Entry_303]]
 - Requires [[Assets Locations Location City Free Current Charter Free Current Charter.svg]]
-- Related: [[step_087]]
+- Related:
 - Parallels [[Community Coordinator Kelp Bondweaver]]
 - Influences [[Royal Seal]]
 - Leads to [[Palace Guard Captain Neutralis 2]]
@@ -226,7 +219,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[step_065 (phase_075)]]
 - Influences [[Healing Ministries (D&D_References)]]
 - Connects to [[step_077 (phase_090)]]
-- Influences [[step_002]]
+- Influences
 - Requires [[step_049 (phase_023)]]
 - Leads to [[ENC00169_Social_Encounter_170]]
 - See also: [[step_041 (phase_071)]]
@@ -237,13 +230,13 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[ENC00390_Combat_Encounter_391]]
 - Compare with [[Security Sweepers]]
 - See also: [[The Opposition Leader 2]]
-- Related: [[step_002]]
+- Related:
 - Compare with [[NPC00319_Zephyr_Blackstone]]
 - See also: [[Portrait NPC Lady Elena the Eternal Lady Elena the Eternal.svg]]
 - Compare with [[LORE00049_History_Entry_50]]
 - Affected by [[Portrait NPC High Inquisitor Maltheos High Inquisitor Maltheos.svg_1 (Portraits)]]
 - Originates from [[ENC00428_Combat_Encounter_429]]
-- Parallels [[step_035]]
+- Parallels
 - Parallels [[derro-madness-mtf (tables)]]
 - Requires [[Portrait NPC Deep Priest Covenant Deep Priest Covenant.svg]]
 - Parallels [[The Deep Harvest (D&D_References)]]
@@ -260,14 +253,14 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Fence Simon Quickfingers]]
 - Leads to [[Meta Bind Examples (D&D_References)]]
 - See also: [[step_003 (phase_032)]]
-- Influences [[step_036]]
+- Influences
 - Compare with [[Pressure Court]]
 - Leads to [[step_073 (phase_058)]]
 - Connects to [[Depth Crystal Harvest (D&D_References)]]
 - Leads to [[Location City Doctor Silas Voidtouch V1 Doctor Silas Voidtouch.svg]]
 - Leads to [[MON00122_Undead_Creature_123]]
 - Related: [[Umbral Exchange (D&D_References)]]
-- Requires [[step_052]]
+- Requires
 - Parallels [[supplemental-tables-family-lifestyle-xge (tables)]]
 - Leads to [[staff-of-frost-xdmg (items)]]
 - Compare with [[step_097 (phase_072)]]
@@ -282,21 +275,21 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Portrait NPC Sacred Healing Gardens V2 Sacred Healing Gardens.svg]]
 - Related: [[Portrait NPC the Deep Trade Routes V1 the Deep Trade Routes.svg]]
 - Originates from [[Inter-Realm Transportation]]
-- Related: [[step_005]]
+- Related:
 - See also: [[audio_fit_report]]
 - Connects to [[The Archive of Questions (D&D_References)]]
 - Related: [[portrait-npc-siren-siren.svg_1 (Portraits)]]
 - Related: [[Location City Aquabyssos Government V1 Aquabyssos Government.svg]]
-- Parallels [[step_051]]
+- Parallels
 - Connects to [[ITEM00996_Pure_Herb_of_Swiftness]]
 - Influences [[false-life-xphb (spells)]]
-- Parallels [[step_005]]
+- Parallels
 - Originates from [[ITEM00744_Divine_Mirror_of_Destiny]]
 - Affected by [[System Operator Tide Watchwright (D&D_References)]]
 - Parallels [[NPC01252_Jorah_Youngblood_the_Strong]]
 - See also: [[The Unremembered Parliament 2]]
 - Influences [[ITEM00790_Infernal_Scepter_of_Destiny]]
-- Leads to [[step_028]]
+- Leads to
 - Affected by [[step_100 (phase_062)]]
 - Parallels [[Council of Twelve]]
 - Related: [[dwarf-xphb (races)]]
@@ -312,7 +305,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

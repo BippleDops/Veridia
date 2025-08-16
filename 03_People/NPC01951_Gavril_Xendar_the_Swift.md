@@ -18,7 +18,6 @@ aliases: [NPC01951 Gavril Xendar the Swift]
 - [[#Jorah Jadeclaw the Fallen (Personal - Childhood friend)|Jorah Jadeclaw the Fallen (Personal - Childhood friend)]]
 - [[#Hilda Keenblade the Mystic (Personal - Best friend)|Hilda Keenblade the Mystic (Personal - Best friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gavril Xendar the Swift", "gavril xendar the swift", "Gavril Xendar Swift", "Swift the Xendar Gavriltags: [npc, character, combat, magic, social, lore]er]
@@ -148,16 +147,13 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.327Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -172,9 +168,7 @@ Modifications:
 
 ## See Also
 - [[Combat_Encounter_Analysis]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -193,7 +187,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.10
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -203,11 +197,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -225,13 +218,13 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Location City [[The Deep Fugitive]] the Deep Fugitive.svg]]
 - Compare with [[Portrait NPC Commander Typhoon Blackheart V2 Commander Typhoon Blackheart.svg_1 (Portraits)]]
 - Requires [[The Seven Shards Campaign Act Structure]]
-- Parallels [[step_015]]
+- Parallels
 - Connects to [[Void Realm Territories 2]]
 - Leads to [[the-norse-pantheon-norse-deities-phb (tables)]]
 - Influences [[Deepmind Conspiracy]]
 - Originates from [[NPC01423_Baelor_Grimholt_the_Bold]]
 - See also: [[step_097 (phase_099)]]
-- Related: [[step_019]]
+- Related:
 - Influences [[Etheric Currents]]
 - Leads to [[MON00003_Constructs_Creature_4]]
 - Connects to [[optional-features (optional-features)]]
@@ -246,7 +239,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[step_063 (phase_067)]]
 - See also: [[Assets Locations Location City [[Keepers of Memory]] V1 Keepers of Memory.svg]]
 - Related: [[Boots of False Tracks Xdmg]]
-- Compare with [[step_096]]
+- Compare with
 - Related: [[DUN00184_Dungeon_185]]
 - Compare with [[step_078 (phase_018)]]
 - Compare with [[portrait-npc-knight-knight.svg_1 (Portraits)]]
@@ -267,7 +260,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[FAC00017_Guilds_18]]
 - Leads to [[supplemental-tables-childhood-memories-xge (tables)]]
 - Originates from [[quaals-feather-token-anchor-xdmg (items)]]
-- Parallels [[step_058]]
+- Parallels
 - See also: [[Roleplaying a Beholder Beholder Personality]]
 - Affected by [[step_010 (phase_011)]]
 - Affected by [[step_077 (phase_048)]]
@@ -276,8 +269,8 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Portrait NPC Deep Mother Priestess Sira Deep Mother Priestess Sira.svg_1 (Portraits)]]
 - Influences [[LOC00142_Planes_Location_143]]
 - Parallels [[LORE00042_Legends_Entry_43]]
-- Leads to [[step_028]]
-- Connects to [[step_097]]
+- Leads to
+- Connects to
 - Requires [[step_004 (phase_051)]]
 - Leads to [[Portrait NPC Embassy of Eternal Shadows Embassy of Eternal Shadows.svg_1 (Portraits)]]
 - Affected by [[Portrait NPC Curr... Related To: Local Political Structure Connected Plots: to Be Developed]]
@@ -316,7 +309,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

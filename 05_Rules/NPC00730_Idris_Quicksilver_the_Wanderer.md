@@ -18,7 +18,6 @@ aliases: [NPC00730 Idris Quicksilver the Wanderer]
 - [[#Nerys Ashford the Cunning (Political - Opposition)|Nerys Ashford the Cunning (Political - Opposition)]]
 - [[#Corvus Dawnstrider the Wise (Criminal - Fence)|Corvus Dawnstrider the Wise (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Idris Quicksilver the Wanderer", "idris quicksilver the wanderer", "Idris Quicksilver Wanderer", "Wanderer the Quicksilver Idris"]
@@ -155,27 +154,23 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.196Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -184,11 +179,10 @@ Being extorted by criminals
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -205,11 +199,11 @@ Being extorted by criminals
 - Connects to [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
 - Requires [[Crystals & Curiosities (D&D_References)]]
 - Affected by [[step_070 (phase_018)]]
-- Connects to [[step_018]]
+- Connects to
 - Parallels [[Bubble District]]
 - See also: [[cooks-utensils-xphb (items)]]
-- Originates from [[step_034]]
-- Parallels [[step_086]]
+- Originates from
+- Parallels
 - See also: [[Portrait NPC Harbor Master Luna Freedrift V2 Harbor Master Luna Freedrift.svg]]
 - Connects to [[NPC01806_Felicia_Moonshadow_the_Broken]]
 - Parallels [[shadow-of-moil-xge (spells)]]
@@ -219,8 +213,8 @@ Being extorted by criminals
 - Influences [[The Hidden Cove of Whispers (D&D_References)]]
 - Affected by [[Downtime Activity Running a Business]]
 - Influences [[Master Environmental Specialist Tidal Convergenc]]
-- See also: [[step_021]]
-- Parallels [[step_018]]
+- See also:
+- Parallels
 - Leads to [[Linguistic Quick Reference]]
 - Affected by [[green-dragon-xmm (legendary-group)]]
 - Requires [[step_081 (phase_079)]]
@@ -229,9 +223,9 @@ Being extorted by criminals
 - Requires [[step_003 (phase_084)]]
 - Leads to [[Assets Locations Location City the Lost Expedition V1 the Lost Expedition.svg]]
 - See also: [[step_091 (phase_020)]]
-- Parallels [[step_060]]
+- Parallels
 - Influences [[SHOP00033_Specialty_Shop_34]]
-- Leads to [[step_052]]
+- Leads to
 - Requires [[NPC01324_Idris_Grimholt_the_Guardian]]
 - Compare with [[step_011 (phase_009)]]
 - Connects to [[Assets Art Hybrid Abominations.png]]
@@ -269,7 +263,7 @@ Being extorted by criminals
 - Influences [[step_023 (phase_019)]]
 - Affected by [[22 Afterword]]
 - Compare with [[NPC00281_Hestara_Nightfall_the_Cunning]]
-- Requires [[step_037]]
+- Requires
 - Leads to [[Portrait NPC High Priest Dagon Deepcaller High Priest Dagon Deepcaller.svg_1 (Portraits)]]
 - Compare with [[step_049 (phase_036)]]
 - Requires [[The Crystal Pier]]
@@ -297,7 +291,6 @@ Being extorted by criminals
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

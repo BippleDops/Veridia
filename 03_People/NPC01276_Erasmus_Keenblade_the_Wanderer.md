@@ -18,7 +18,6 @@ aliases: [NPC01276 Erasmus Keenblade the Wanderer]
 - [[#Cedric Quicksilver the Lost (Criminal - Fence)|Cedric Quicksilver the Lost (Criminal - Fence)]]
 - [[#Hilda Winterborn the Bold (Criminal - Target)|Hilda Winterborn the Bold (Criminal - Target)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Erasmus Keenblade the Wanderer", "erasmus keenblade the wanderer", "Erasmus Keenblade Wanderer", "Wanderer the Keenblade Erasmus"]
@@ -145,16 +144,13 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.255Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -197,11 +193,10 @@ Knows secret about major threat
 - [[Count_Strahd_von_Zarovich]]
 - [[NPC00872_Thalia_Ironwood_the_Broken]]
 - [[MOC_NPCs]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -209,11 +204,10 @@ Knows secret about major threat
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -246,12 +240,12 @@ Knows secret about major threat
 - Influences [[Illyana Glowstream]]
 - Leads to [[Assets Locations Location City the Verdant Reach the Verdant Reach.png]]
 - Requires [[step_080 (phase_093)]]
-- Related: [[step_024]]
+- Related:
 - Related: [[juvenile-shadow-dragon-xmm (dragon)]]
 - Compare with [[Location City Merchant Delilah Currentrunner Merchant Delilah Currentrunner.svg]]
 - Compare with [[Travel Event Table (Travel)]]
 - Parallels [[Walloping Ammunition Xdmg]]
-- Leads to [[step_026]]
+- Leads to
 - Influences [[NPC00993_Faelyn_Silverleaf_the_Seeker]]
 - Compare with [[Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - See also: [[step_061 (phase_022)]]
@@ -265,7 +259,7 @@ Knows secret about major threat
 - Requires [[Specter Xmm]]
 - Influences [[npc-talents (tables)]]
 - Related: [[portrait-npc-shadow-brokers-v1-shadow-brokers.svg]]
-- See also: [[step_061]]
+- See also:
 - Compare with [[Hybrid Transformation]]
 - Connects to [[The First Transformation Wave (D&D_References)]]
 - Leads to [[Aquabyssos Noble Houses]]
@@ -291,7 +285,7 @@ Knows secret about major threat
 - Originates from [[02_Worldbuilding_Lore_GM_Resources]]
 - Parallels [[location-city-memory-thief-memory-thief.svg]]
 - Requires [[Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg]]
-- Requires [[step_061]]
+- Requires
 - Connects to [[SPELL0021_Celestial_Curse]]
 - Parallels [[Captain Marcus Ironwill (D&D_References)]]
 - Connects to [[ITEM01168_Refined_Incense_of_Clarity]]
@@ -314,7 +308,7 @@ Knows secret about major threat
 - Related: [[step_076 (phase_033)]]
 - Originates from [[Paper Whirlwind Rot]]
 - Influences [[NPC01308_Jorah_Quicksilver_the_Swift]]
-- Influences [[step_017]]
+- Influences
 - Related: [[The Gloom Gardens (D&D_References)]]
 - Connects to [[Location City Keeper of Sorrows Tidal Memento V1 Keeper of Sorrows Tidal Memento.svg]]
 
@@ -322,7 +316,6 @@ Knows secret about major threat
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

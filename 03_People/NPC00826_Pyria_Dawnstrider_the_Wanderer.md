@@ -18,7 +18,6 @@ aliases: [NPC00826 Pyria Dawnstrider the Wanderer]
 - [[#Dara Ironforge the Lost (Personal - Nemesis)|Dara Ironforge the Lost (Personal - Nemesis)]]
 - [[#Rhiannon Ravenheart the Strong (Political - Spy)|Rhiannon Ravenheart the Strong (Political - Spy)]]
 
-
 ---
 aliases: ["Pyria Dawnstrider the Wanderer", "pyria dawnstrider the wanderer", "Pyria Dawnstrider Wanderer", "Wanderer the Dawnstrider Pyria"]
 tags: [npc, character]
@@ -152,31 +151,27 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.206Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Related: [[step_045]]
+- Related:
 - Influences [[step_078 (phase_038)]]
 - Connects to [[NPC0049_Jora_Ironforge]]
 - Affected by [[Portrait NPC Free Current Safe Houses V2 Free Current Safe Houses.svg_1 (Portraits)]]
 - Parallels [[step_042 (phase_083)]]
 - Affected by [[downtime-activity-sowing-rumors (variant-rules)]]
-- Compare with [[step_007]]
+- Compare with
 - Leads to [[Void Incursion Risk Assessment]]
 - Connects to [[Location City Interfaith Dialogue Interfaith Dialogue.svg]]
 - Affected by [[Portrait NPC Archdruid Thornweaver Archdruid Thornweaver.svg]]
@@ -199,7 +194,7 @@ Has map to lost treasure
 - Requires [[Quest - Harbor Security_1 (01_Adventures)]]
 - Originates from [[Merchant Lord Silas Copperfield 2]]
 - Originates from [[2-character-races (volos-guide-to-monsters)]]
-- Connects to [[step_047]]
+- Connects to
 - Originates from [[Quest - The Shadow Fleet_1 (01_Adventures)]]
 - Parallels [[NPC01993_Drusilla_Ironwood_the_Risen]]
 - Affected by [[ENC00289_Social_Encounter_290]]
@@ -219,7 +214,7 @@ Has map to lost treasure
 - Influences [[step_037 (phase_025)]]
 - Compare with [[Yester Hill Axe Cos]]
 - Originates from [[Assets Locations Location City Crown Jewels V1 Crown Jewels.svg]]
-- Compare with [[step_012]]
+- Compare with
 - Originates from [[Assets Locations Location City Coral Craftsman Coral Craftsman.svg]]
 - Influences [[Order of the Crimson Eye]]
 - Leads to [[Ranger Xphb Monster Slayer Xge]]
@@ -231,7 +226,7 @@ Has map to lost treasure
 - Connects to [[ENC0030_Random_Encounter_31]]
 - Leads to [[describe-appearance-and-personality-dexterity-xphb]]
 - Compare with [[LORE00025_Prophecies_Entry_26]]
-- Requires [[step_021]]
+- Requires
 - Connects to [[Items - New Item]]
 - Connects to [[Diplomats Pack Xphb]]
 - Requires [[MON00158_Undead_Creature_159]]
@@ -252,7 +247,7 @@ Has map to lost treasure
 - Influences [[Gm Session Packets Aquabyssos Session 01]]
 - Affected by [[step_072 (phase_079)]]
 - Affected by [[The Exchange Rate (D&D_References)]]
-- Requires [[step_047]]
+- Requires
 - Originates from [[Shadow Animation Chamber]]
 - Originates from [[Guild Organizations]]
 - Parallels [[ENC00134_Environmental_Encounter_135]]
@@ -261,7 +256,7 @@ Has map to lost treasure
 - Requires [[Glowcap Mushroom]]
 - Related: [[Neothelid Mpmm]]
 - Originates from [[Aura of Purity Xphb]]
-- See also: [[step_025]]
+- See also:
 - Connects to [[Gith Names Githyanki Male Mtf]]
 - Influences [[The Lost Mother Seaweed Sarah]]
 - See also: [[Symbol Heraldry the Echo Succession V1 the Echo Succession.svg]]
@@ -275,7 +270,6 @@ Has map to lost treasure
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

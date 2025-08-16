@@ -9,7 +9,6 @@ aliases: [NPC00139 Pyria Proudmore]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00139 Pyria Proudmore]
 - [[#Aeliana Thornweave the Wanderer (Personal - Best friend)|Aeliana Thornweave the Wanderer (Personal - Best friend)]]
 - [[#Rhiannon Ashford (Criminal - Handler)|Rhiannon Ashford (Criminal - Handler)]]
 - [[#Thalia Silverleaf the Scholar (Criminal - Target)|Thalia Silverleaf the Scholar (Criminal - Target)]]
-
 
 ---
 aliases: ["Pyria Proudmore", "pyria proudmore", "Proudmore Pyria"]
@@ -149,21 +147,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.127Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -174,7 +168,7 @@ Needs discrete help with family scandal
 - Compare with [[NPC00757_Zephyr_Quicksilver_the_Swift]]
 - Parallels [[step_006 (phase_021)]]
 - See also: [[Hit Point Dice Xphb]]
-- Related: [[step_045]]
+- Related:
 - Affected by [[Character Name]]
 - Originates from [[Market Master Cornelius Driftwood]]
 - Related: [[step_050 (phase_046)]]
@@ -190,20 +184,20 @@ Needs discrete help with family scandal
 - Leads to [[Portrait NPC Anci... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Parallels [[step_044 (phase_030)]]
 - Requires [[services-phb (tables)]]
-- See also: [[step_073]]
+- See also:
 - Compare with [[step_086 (phase_011)]]
 - Affected by [[Hold Monster Xphb]]
 - Affected by [[LORE00012_Prophecies_Entry_13]]
 - Parallels [[Assets Locations Location City Ancient Echo Truthfinder V1 Ancient Echo Truthfinder.svg]]
 - Related: [[The Probability Engine]]
 - Connects to [[Planar Breaches of Aquabyssos]]
-- Compare with [[step_029]]
+- Compare with
 - Requires [[step_047 (phase_100)]]
 - Connects to [[SPELL00065_Nature_Spell_66]]
-- Originates from [[step_090]]
+- Originates from
 - Affected by [[step_031 (phase_040)]]
 - Originates from [[step_018 (phase_093)]]
-- Related: [[step_068]]
+- Related:
 - Parallels [[step_080 (phase_086)]]
 - Related: [[Location City House Depthguard House Depthguard.svg]]
 - Affected by [[step_060 (phase_060)]]
@@ -227,7 +221,7 @@ Needs discrete help with family scandal
 - Requires [[step_092 (phase_031)]]
 - Originates from [[step_059 (phase_076)]]
 - Influences [[step_047 (phase_083)]]
-- Related: [[step_085]]
+- Related:
 - Originates from [[Criminal Boss 2]]
 - Requires [[LORE0076_Legend_of_the_Dark_Times]]
 - Parallels [[Mourning Mother Cordelia 2]]

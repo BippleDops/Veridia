@@ -168,7 +168,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[02_Worldbuilding_Groups_Political_Consulting_Guil]]
 - [[02_Worldbuilding_Groups_Pressure_Safety_Authorit]]
 - [[02_Worldbuilding_Groups_Surface_Reconnection_Coalition]]
-- 
+-
 - [[02_Worldbuilding_Groups_The_Memory_Keepers]]
 - [[02_Worldbuilding_Groups_The_Nameless_Librarians]]
 - [[02_Worldbuilding_Groups_The_Pearl_Divers_Guil]]
@@ -195,7 +195,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[02_Worldbuilding_Items_Truth_Crystals]]
 - [[02_Worldbuilding_Locations_Abyssal_Forges]]
 - [[02_Worldbuilding_Locations_Abyssal_Spires]]
-- 
+-
 - [[02_Worldbuilding_Locations_Crystal_Conservatory]]
 - [[02_Worldbuilding_Locations_Floating_Arsenal]]
 - [[02_Worldbuilding_Locations_Sunken_Palace]]
@@ -293,7 +293,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[08-using-ability-scores#Skills]]
 - [[08-using-ability-scores#Strength]]
 - [[08-using-ability-scores#Wisdom]]
-- 
+-
 - [[09 Adventuring#movement#climbing, Swimming, and Crawling]]
 - [[09-adventuring#Difficult Terrain]]
 - [[09-adventuring#Food and Water]]
@@ -442,7 +442,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Architect Coral Builder]]
 - [[Architect Temporal Wisdom]]
 - [[Architecture Dimensional Bridging]]
-- 
+-
 - [[Archmage Deflector Windturner]]
 - [[Archmage Lyralei Stormwind]]
 - [[Archmage Tidal Currentweave]]
@@ -667,7 +667,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Cultural Exchanges]]
 - [[Cultural Festivals Committee (02_Worldbuilding)]]
 - [[Cultural Historian Deepcurrent]]
-- 
+-
 - [[Cultural Traditions and Customs]]
 - [[Current Riders Union]]
 - [[Current_Region (02_Worldbuilding)]]
@@ -693,7 +693,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Data Analyst Current Patternweave]]
 - [[Deep Academy Alumni Association]]
 - [[Deep Ancient Ruins]]
-- 
+-
 - [[Deep Biology Institute]]
 - [[Deep Current Network]]
 - [[Deep Current Society]]
@@ -983,7 +983,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Heart Grov]]
 - [[Heart of Chronos]]
 - [[Heresy Hunter Barracks]]
-- 
+-
 - [[Hidden Sanctuary]]
 - [[High Council Chambers]]
 - [[High Crystallographer Magnus]]
@@ -1083,7 +1083,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Junior Administrator Elena Efficient]]
 - [[Keeper Healer Restoration]]
 - [[Keeper Hope Beacon]]
-- 
+-
 - [[Keeper Luminous Truehart]]
 - [[Keeper Sage Remembrance]]
 - [[Keeper Shield Protector]]
@@ -1110,7 +1110,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Legal Defense Network]]
 - [[Legal Reform Movemen]]
 - [[Legal_Advisor_Depth_Justice (02_Worldbuilding)]]
-- 
+-
 - [[Leviathan Graveyard]]
 - [[Ley_Line_Network (02_Worldbuilding)]]
 - [[Librarian Sage Documented]]
@@ -1264,7 +1264,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Memorial Guardians]]
 - [[Memory Alteration Consequences]]
 - [[Memory Alteration]]
-- 
+-
 - [[Memory Blade]]
 - [[Memory Coral]]
 - [[Memory Crystals]]
@@ -1475,7 +1475,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Rising Dark]]
 - [[Ritual Redirection Options]]
 - [[Royal Academy of Ethical Commerce]]
-- 
+-
 - [[Royal Bunker]]
 - [[Royal Court of Aethermoor]]
 - [[Royal Crystal Laboratory]]
@@ -1508,7 +1508,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[Senator Economic Shadow]]
 - [[Senator Shadow-Glaucus]]
 - [[Senior Tidal Engineer Marina Flowmaster]]
-- 
+-
 - [[Sera Swiftcurrent]]
 - [[Seraphina the Beautiful]]
 - [[Seren Goldwave]]
@@ -1751,7 +1751,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[The Forbidden Section]]
 - [[The Forgetting Bomb]]
 - [[The Forgiveness Seekers]]
-- 
+-
 - [[The Forgotten Isles]]
 - [[The Fortress of the Deeps]]
 - [[The Free Cities]]
@@ -1777,7 +1777,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[The Hall of Records]]
 - [[The Healing Waters Chalice]]
 - [[The Heroes' Hall]]
-- 
+-
 - [[The Identity Chamber]]
 - [[The Identity Mirror]]
 - [[The Infinite Chamber]]
@@ -2261,7 +2261,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[twig-blight-xmm]]
 - [[tyrannosaurus-rex-xmm]]
 - [[vampire-spawn-xmm]]
-- 
+-
 - [[venomous-snake-xmm]]
 - [[vine-blight-xmm]]
 - [[violet-fungus-xmm]]
@@ -5976,7 +5976,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[skywrite-xge (spells)]]
 - [[sleet-storm-xphb (spells)]]
 - [[speak-with-dead-xphb (spells)]]
-- [[spells]]
+- [[05_Rules/Spells]]
 - [[starry-wisp-xphb (spells)]]
 - [[stoneskin-xphb (spells)]]
 - [[summon-celestial-xphb (spells)]]

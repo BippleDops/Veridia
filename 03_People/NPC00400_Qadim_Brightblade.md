@@ -9,7 +9,6 @@ aliases: [NPC00400 Qadim Brightblade]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00400 Qadim Brightblade]
 - [[#Vesper Moonshadow the Fallen (Political - Spy)|Vesper Moonshadow the Fallen (Political - Spy)]]
 - [[#Alaric Lightbringer the Guardian (Family - Sibling)|Alaric Lightbringer the Guardian (Family - Sibling)]]
 - [[#Nerys Thornweave the Wanderer (Personal - Best friend)|Nerys Thornweave the Wanderer (Personal - Best friend)]]
-
 
 ---
 aliases: ["Qadim Brightblade", "qadim brightblade", "Brightblade Qadim"]
@@ -148,31 +146,27 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.158Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Parallels [[Communication Systems Consortium]]
 - Leads to [[QUEST0034_Princess's_Revenge]]
-- Affected by [[step_024]]
+- Affected by
 - Leads to [[Royal Bloodline Codex (D&D_References)]]
 - Originates from [[EVENT00084_Political_Event_85]]
 - Leads to [[Location City Throne Room Heart of Palace V1 Throne Room Heart of Palace.svg]]
-- Originates from [[step_006]]
+- Originates from
 - Parallels [[04_Resources_Assets_Symbols_symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png]]
 - Influences [[step_073 (phase_017)]]
 - Parallels [[LOC0131_Bridgestead]]
@@ -207,7 +201,7 @@ Discovered something valuable
 - Requires [[Silver Mask 2]]
 - Parallels [[step_032 (phase_012)]]
 - Requires [[difficult-terrain-xphb (variant-rules)]]
-- Affected by [[step_037]]
+- Affected by
 - Influences [[LORE00142_History_Entry_143]]
 - Connects to [[peryton-xmm (monstrosity)]]
 - Related: [[Assets Portraits Portrait NPC Warrior Priest Abyss Sworn V1 Warrior Priest Abyss Sworn.svg]]
@@ -219,23 +213,23 @@ Discovered something valuable
 - Compare with [[ITEM00023_Venomous_Hammer_of_Wounding]]
 - See also: [[location-city-noble-quarter-v1-noble-quarter.svg]]
 - See also: [[Merchant_Generator]]
-- Connects to [[step_005]]
+- Connects to
 - Originates from [[Copper Dragon Wyrmling Xmm]]
 - Influences [[Location City Keeper Elara Mindwell Keeper Elara Mindwell.svg]]
-- Related: [[step_016]]
-- Connects to [[step_040]]
+- Related:
+- Connects to
 - Related: [[Assets Locations Location City Maintenance Tech Reef Fixwright Maintenance Tech Reef Fixwright.svg]]
 - Parallels [[step_065 (phase_048)]]
 - Leads to [[bestial-spirit-air-xphb (beast)]]
 - Parallels [[Assets Locations Location City the Crystal Caverns V1 the Crystal Caverns.svg]]
 - Affected by [[myconid-sprout-xmm]]
-- Influences [[step_038]]
+- Influences
 - Influences [[NPC01607_Branwen_Quicksilver_the_Swift]]
 - Leads to [[Political Parties of Aquabyssos (D&D_References)]]
 - Affected by [[LORE00184_Legends_Entry_185]]
 - Parallels [[Burglars Pack Xphb]]
 - Originates from [[Horseshoes of a Zephyr Xdmg]]
-- Influences [[step_041]]
+- Influences
 - Connects to [[10 Combat#dropping to 0 Hit Points#death Saving Throws]]
 - Parallels [[saber-toothed-tiger-xmm]]
 - Affected by [[Assets Handouts Handout Handout Docking Permit V2 Docking Permit.png]]

@@ -18,7 +18,6 @@ aliases: [NPC00615 Lyanna Moonshadow the Lost]
 - [[#Brenna Moonshadow the Cunning (Criminal - Informant)|Brenna Moonshadow the Cunning (Criminal - Informant)]]
 - [[#Ewan Darkwater the Swift (Criminal - Target)|Ewan Darkwater the Swift (Criminal - Target)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Lyanna Moonshadow the Lost", "lyanna moonshadow the lost", "Lyanna Moonshadow Lost", "Lost the Moonshadow Lyanna"]
@@ -148,16 +147,13 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.183Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -194,11 +190,10 @@ Being extorted by criminals
 - [[11 Rules Glossary]]
 - [[Count_Strahd_von_Zarovich]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -206,11 +201,10 @@ Being extorted by criminals
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -235,7 +229,7 @@ Being extorted by criminals
 - Affected by [[NPC01503_Ewan_Dawnstrider_the_Redeemed]]
 - Parallels [[step_042 (phase_056)]]
 - Connects to [[moderately-armored-xphb (feats)]]
-- Originates from [[step_006]]
+- Originates from
 - Originates from [[step_057 (phase_039)]]
 - Parallels [[Aquabyssos Rumors]]
 - Compare with [[The Reflection Chamber 2]]
@@ -275,7 +269,7 @@ Being extorted by criminals
 - Leads to [[LOC00172_Towns_Location_173]]
 - Parallels [[Portrait NPC Captain Shadowsail Captain Shadowsail.svg]]
 - Related: [[step_079 (phase_012)]]
-- Related: [[step_024]]
+- Related:
 - Leads to [[LORE00079_Prophecies_Entry_80]]
 - Originates from [[Assets Locations Location City Sea Witch Sea Witch.svg]]
 - Affected by [[step_033 (phase_017)]]
@@ -287,14 +281,14 @@ Being extorted by criminals
 - Parallels [[Gold Jewelry Box With Platinum Filigree Xdmg]]
 - Connects to [[Azure Citadel]]
 - Parallels [[Treaty Mediation]]
-- Related: [[step_056]]
+- Related:
 - See also: [[The Great Unraveling]]
 - See also: [[Elena Truelight]]
-- Compare with [[step_012]]
+- Compare with
 - Related: [[QUEST00015_Personal_Quest_16]]
 - Originates from [[Time-Lost Delegate Chronus]]
 - Leads to [[Embassy Districts]]
-- Influences [[step_023]]
+- Influences
 - Connects to [[10 Combat#dropping to 0 Hit Points#monsters and Death]]
 - Influences [[Quest - The Final Performance 2]]
 - Affected by [[Climb Speed Xphb]]
@@ -319,7 +313,6 @@ Being extorted by criminals
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

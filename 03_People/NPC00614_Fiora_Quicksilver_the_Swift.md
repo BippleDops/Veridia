@@ -18,7 +18,6 @@ aliases: [NPC00614 Fiora Quicksilver the Swift]
 - [[#Alaric Darkwater the Wanderer (Professional - Employee)|Alaric Darkwater the Wanderer (Professional - Employee)]]
 - [[#Kaelen Proudmore the Bold (Personal - Love interest)|Kaelen Proudmore the Bold (Personal - Love interest)]]
 
-
 ---
 aliases: ["Fiora Quicksilver the Swift", "fiora quicksilver the swift", "Fiora Quicksilver Swift", "Swift the Quicksilver Fiora"]
 tags: [npc, character]
@@ -146,39 +145,35 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.183Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Related: [[step_096 (phase_030)]]
 - Requires [[Portrait NPC Captain Dr Bloodletting V1 Captain Dr Bloodletting.svg]]
-- Related: [[step_010]]
+- Related:
 - Originates from [[musket-xphb (items)]]
 - Requires [[D-019 Oracle Whale Player (Encounters)]]
 - Requires [[Royal Redirection Corps]]
 - Originates from [[Master Investigator Lysander Truthweaver]]
 - Requires [[portrait-npc-captain-rescue-v2-captain-rescue.svg]]
 - Requires [[NPC00155_Hilda_Thornweave]]
-- Influences [[step_044]]
+- Influences
 - Requires [[Random Settlements Known for Its]]
 - Parallels [[step_006 (phase_054)]]
 - Connects to [[step_076 (phase_073)]]
 - Originates from [[Harbor Master's Tower (D&D_References)]]
-- Requires [[SYSTEM_STATUS]]
+- Requires
 - Influences [[Human Names German Female Xge]]
 - Parallels [[Gloves of Missile Snaring Xdmg]]
 - Leads to [[The Temple of Flowing Waters]]
@@ -211,7 +206,7 @@ Family member has gone missing
 - Compare with [[Fire Bolt]]
 - Affected by [[step_065 (phase_051)]]
 - Related: [[step_010 (phase_018)]]
-- Affected by [[step_032]]
+- Affected by
 - Requires [[Coral Silkweaver]]
 - Leads to [[creating-a-gnoll-war-band-demonic-influence-vgm]]
 - Leads to [[step_074 (phase_065)]]
@@ -219,7 +214,7 @@ Family member has gone missing
 - Requires [[ENC00008_Combat_Encounter_9]]
 - Affected by [[Adamantine Ammunition Xge]]
 - Related: [[ITEM01062_Refined_Salve_of_Clarity]]
-- Requires [[step_034]]
+- Requires
 - Compare with [[ITEM0083_Divine_Crown_of_the_Dawn]]
 - See also: [[Map World Layer Depth Zones and Altitude Bands Depth Zones and Altitude Bands.svg]]
 - Affected by [[step_089 (phase_069)]]
@@ -259,7 +254,7 @@ Family member has gone missing
 - Influences [[Character_Creation_Extended]]
 - Connects to [[Ambassador Elena Diplomatic]]
 - Originates from [[Assets Locations Location City Abyssos Prime Inverse Palace Abyssos Prime Inverse Palace.svg]]
-- Connects to [[step_095]]
+- Connects to
 - See also: [[location-city-withered-court-v1-withered-court.svg]]
 - Requires [[Location City Maritime Commerce Maritime Commerce.svg]]
 - Connects to [[amber-golem-cos (construct)]]
@@ -269,7 +264,6 @@ Family member has gone missing
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

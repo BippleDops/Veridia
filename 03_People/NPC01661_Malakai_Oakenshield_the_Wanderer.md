@@ -18,7 +18,6 @@ aliases: [NPC01661 Malakai Oakenshield the Wanderer]
 - [[#Lyanna Xendar the Seeker (Political - Patron)|Lyanna Xendar the Seeker (Political - Patron)]]
 - [[#Urien Winterborn the Lost (Family - Child)|Urien Winterborn the Lost (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Malakai Oakenshield the Wanderer", "malakai oakenshield the wanderer", "Malakai Oakenshield Wanderer", "Wanderer the Oakenshield Malakai"]
@@ -151,27 +150,23 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.297Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -181,11 +176,10 @@ Provides information for a price
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -195,7 +189,7 @@ Provides information for a price
 - Related: [[EVENT00099_Political_Event_100]]
 - See also: [[4 the Spiders Web]]
 - Compare with [[List Spells Optional Features Otherworldly Leap Xphb]]
-- Requires [[step_051]]
+- Requires
 - Parallels [[ITEM01044_Distilled_Powder_of_Fortune]]
 - Related: [[NPC00719_Orion_Hawthorne_the_Cunning]]
 - Related: [[Wooden Staff Xphb]]
@@ -204,7 +198,7 @@ Provides information for a price
 - Connects to [[Heal Xphb]]
 - Requires [[Portrait NPC the Emperor S Memories the Emperor S Memories.svg]]
 - See also: [[Star Spawn Mangler Mpmm]]
-- Related: [[step_040]]
+- Related:
 - Parallels [[arms-of-hadar-xphb (spells)]]
 - Influences [[Haunting Revenant Xmm]]
 - Originates from [[Merchants Guild (Organizations)]]
@@ -215,7 +209,7 @@ Provides information for a price
 - Related: [[Current Peacefulflow]]
 - Affected by [[The Reality Reformation]]
 - Related: [[The Crystal Palace - Throne Room (D&D_References)]]
-- Originates from [[step_032]]
+- Originates from
 - Affected by [[04_Resources_Assets_Symbols_symbol-heraldry-commerce-manager-fairdealin-commerce-manager-fairdealin.svg]]
 - Originates from [[EVENT00044_Natural_Event_45]]
 - Leads to [[step_078 (phase_088)]]
@@ -232,7 +226,7 @@ Provides information for a price
 - Parallels [[ITEM00567_Fortified_Plate_of_Fortitude]]
 - Parallels [[Depth Supremacy Movement 2]]
 - See also: [[greek-hestia (deities)]]
-- Connects to [[step_067]]
+- Connects to
 - Parallels [[LOC00111_Cities_Location_112]]
 - Originates from [[Assets Locations Location City Memory Thief Memory Thief.svg]]
 - Leads to [[cross_realm_mechanics_research]]
@@ -251,7 +245,7 @@ Provides information for a price
 - See also: [[wayfarer-xphb (backgrounds)]]
 - Leads to [[Convergence Points_1 (02_Worldbuilding)]]
 - See also: [[Purification Chambers]]
-- Related: [[step_054]]
+- Related:
 - Leads to [[step_040 (phase_075)]]
 - Related: [[Transformation Techniques]]
 - Leads to [[greater-invisibility-xphb (spells)]]
@@ -265,10 +259,10 @@ Provides information for a price
 - Affected by [[Assets Locations Location City Temporal Magic Research Temporal Magic Research.svg]]
 - Related: [[narzugon-mpmm (fiend)]]
 - Connects to [[step_081 (phase_030)]]
-- Leads to [[step_010]]
+- Leads to
 - Influences [[QUEST00433_Side_Quest_434]]
 - Leads to [[ITEM01388_Decorated_Journal_of_Quality]]
-- Affected by [[step_071]]
+- Affected by
 - Connects to [[Halls of Eternal Memory]]
 - Compare with [[ITEM0028_Eldritch_Orb_of_Power]]
 - Related: [[Brazier of Commanding Fire Elementals Xdmg]]
@@ -294,7 +288,6 @@ Provides information for a price
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01498 Gareth Quicksilver the Risen]
 - [[#Rhiannon Zephyrblade the Bold (Personal - Best friend)|Rhiannon Zephyrblade the Bold (Personal - Best friend)]]
 - [[#Ewan Underhill the Cunning (Personal - Love interest)|Ewan Underhill the Cunning (Personal - Love interest)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gareth Quicksilver the Risen", "gareth quicksilver the risen", "Gareth Quicksilver Risen", "Risen the Quicksilver Garethtags: [npc, character, combat, magic, exploration, lore]er]
@@ -151,16 +150,13 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.279Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -210,9 +206,7 @@ Modifications:
 - [[05 Personality and Background]]
 - [[Character_Journal_Template]]
 - [[Count_Strahd_von_Zarovich]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -233,7 +227,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.261
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -242,11 +236,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -270,7 +263,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[[[Transportation Guild]] Masters]]
 - Requires [[Temporal Echo]]
 - Influences [[Lysandra Tidecaller (D&D_References)]]
-- Influences [[step_064]]
+- Influences
 - Requires [[The Unity Protocols]]
 - Originates from [[[[Crystal-Powered Vessels]] 2]]
 - Related: [[revenant-xmm (undead)]]
@@ -286,9 +279,9 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[step_055 (phase_091)]]
 - See also: [[Location City [[Screaming Gardens]] Songwood Grove Screaming Gardens Songwood Grove.svg]]
 - Requires [[step_097 (phase_030)]]
-- Compare with [[step_010]]
+- Compare with
 - Originates from [[step_025 (phase_059)]]
-- Parallels [[step_052]]
+- Parallels
 - Leads to [[Portrait NPC Duke Theron Depthguard V2 Duke Theron Depthguard.svg]]
 - Originates from [[Bio-Integration Researcher [[Coral Lifeshaper]]]]
 - Leads to [[step_005 (phase_080)]]
@@ -309,13 +302,13 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[LOC00264_Cities_Location_265]]
 - See also: [[Prismatic Falls]]
 - Parallels [[Deep Adaptation Processes (D&D_References)]]
-- Parallels [[step_063]]
+- Parallels
 - Compare with [[LORE00075_Legends_Entry_76]]
 - Requires [[ENC00173_Environmental_Encounter_174]]
 - Related: [[Voidmist Essence]]
-- Originates from [[step_022]]
+- Originates from
 - Leads to [[step_087 (phase_093)]]
-- Parallels [[step_087]]
+- Parallels
 - Requires [[step_052 (phase_014)]]
 - See also: [[Piwafwi of Fire Resistance Oota]]
 - Influences [[step_090 (phase_049)]]
@@ -324,7 +317,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Random_Shop (02_Worldbuilding)]]
 - Leads to [[Map Map Bioluminescent Forest Ambush V2 Bioluminescent Forest Ambush.svg]]
 - Connects to [[[[Commercial Hubs and Markets]] (D&D_References)]]
-- See also: [[step_029]]
+- See also:
 - Requires [[LOC00081_Dungeons_Location_82]]
 - Connects to [[NPC00430_Ewan_Proudmore_the_Wise]]
 - Compare with [[Quest - Memory War 2]]
@@ -335,7 +328,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Shadow Script]]
 - Leads to [[figurine-of-wondrous-power-golden-lions-xdmg (items)]]
 - Requires [[LOC00284_Wilderness_Location_285]]
-- Originates from [[step_069]]
+- Originates from
 - Connects to [[Portrait NPC Warr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Compare with [[location-city-the-tidecaller-v1-the-tidecaller.svg]]
 - Connects to [[ENC00284_Social_Encounter_285]]
@@ -343,7 +336,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_023 (phase_062)]]
 - Influences [[ENC00016_Combat_Encounter_17]]
 - Connects to [[galeb-duhr-xmm (elemental)]]
-- Compare with [[step_084]]
+- Compare with
 - Connects to [[QUEST00260_Personal_Quest_261]]
 - Parallels [[1_DM_Toolkit_DM_Board]]
 - Leads to [[step_028 (phase_046)]]
@@ -355,7 +348,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

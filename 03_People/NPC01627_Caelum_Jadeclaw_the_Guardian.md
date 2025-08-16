@@ -18,7 +18,6 @@ aliases: [NPC01627 Caelum Jadeclaw the Guardian]
 - [[#Cedric Underhill the Mystic (Personal - Childhood friend)|Cedric Underhill the Mystic (Personal - Childhood friend)]]
 - [[#Caelum Quicksilver the Mystic (Family - Sibling)|Caelum Quicksilver the Mystic (Family - Sibling)]]
 
-
 ---
 aliases: ["Caelum Jadeclaw the Guardian", "caelum jadeclaw the guardian", "Caelum Jadeclaw Guardian", "Guardian the Jadeclaw Caelum"]
 tags: [npc, character]
@@ -143,41 +142,37 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.293Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Requires [[ENC00001_Combat_Encounter_2]]
 - Influences [[The Floating Markets of Nereidios]]
 - Requires [[locate-object-xphb (spells)]]
-- Related: [[step_058]]
+- Related:
 - Influences [[Quarantine_Notice_Crystal_Plagu]]
 - Originates from [[His Eternal Majesty, Keeper of the Throne of Bubbles]]
 - Influences [[Location City Time Lost Delegate Chronus Time Lost Delegate Chronus.svg]]
-- Related: [[step_035]]
+- Related:
 - Influences [[The Kelp Highway (D&D_References)]]
 - Parallels [[EVENT00096_Natural_Event_97]]
 - Originates from [[Keeper Seafoam the Neutral (D&D_References)]]
-- Originates from [[step_030]]
+- Originates from
 - Influences [[Portrait NPC the Shadow Singer Naia V1 the Shadow Singer Naia.svg_1 (Portraits)]]
 - Compare with [[LOC00278_Towns_Location_279]]
 - Originates from [[All Sessions]]
 - Affected by [[location-city-surge-mixmaster-surge-mixmaster.png]]
-- Leads to [[step_056]]
+- Leads to
 - Influences [[Reality Integration Rules]]
 - Compare with [[LOC00228_Planes_Location_229]]
 - Influences [[Creature Creature Maw Demon Mpmm Maw Demon Mpmm.png]]
@@ -190,12 +185,12 @@ Offers deal too good to refuse
 - Parallels [[ITEM00566_Mithril_Leather_of_Resistance]]
 - Compare with [[Npc Low Abilities]]
 - Leads to [[ENC00195_Social_Encounter_196]]
-- Affected by [[step_015]]
+- Affected by
 - See also: [[creature-creature-dragon-v1-dragon.png]]
 - Affected by [[Navigation Master Course]]
 - Connects to [[enspelled-armor-level-8-xdmg (items)]]
 - See also: [[step_002 (phase_023)]]
-- Influences [[step_094]]
+- Influences
 - Related: [[Assets Locations Location City Deep Harbor Deep Harbor.svg]]
 - Leads to [[step_002 (phase_037)]]
 - Affected by [[Assets Locations Location City Medical Historian Nautilus Deepscribe Medical Historian Nautilus Deepscribe.svg]]
@@ -205,7 +200,7 @@ Offers deal too good to refuse
 - Connects to [[Information_Trading_System (02_Worldbuilding)]]
 - Compare with [[QUEST00126_Main_Quest_127]]
 - See also: [[FAC00002_Guilds_3]]
-- Affected by [[step_035]]
+- Affected by
 - See also: [[ITEM0086_Glorious_Crown_of_the_Dawn]]
 - Originates from [[The Azure Prophet Nerissa (D&D_References)]]
 - Influences [[ENC00291_Social_Encounter_292]]
@@ -232,12 +227,12 @@ Offers deal too good to refuse
 - Leads to [[step_004 (phase_079)]]
 - Influences [[X-L-12_The_Deep_Mothers_Bridge_of_Dreams]]
 - Connects to [[Location City Harbor Pilot Captain Storm Skyreacher Harbor Pilot Captain Storm Skyreacher.svg]]
-- Originates from [[Quest   The Democratic Balance]]
+- Originates from [[Quest The Democratic Balance]]
 - Related: [[QUEST00146_Personal_Quest_147]]
 - Originates from [[Maritime Commerce]]
 - See also: [[step_028 (phase_026)]]
 - Influences [[LORE00331_Prophecies_Entry_332]]
-- Compare with [[step_010]]
+- Compare with
 - Influences [[LOC00015_Wilderness_Location_16]]
 - Connects to [[Archivist Coral-Mind Preserver]]
 - Parallels [[NPC00760_Solas_Jadeclaw_the_Scholar]]
@@ -255,7 +250,7 @@ Offers deal too good to refuse
 - Related: [[The Vote Vault Mystery (D&D_References)]]
 - Affected by [[Community Groups (D&D_References)]]
 - Parallels [[Symbol Xphb]]
-- Parallels [[step_097]]
+- Parallels
 - Related: [[step_007 (phase_082)]]
 - See also: [[Senator Glaucus Brain (Lore)]]
 - See also: [[Biomancer Flux]]
@@ -266,7 +261,6 @@ Offers deal too good to refuse
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

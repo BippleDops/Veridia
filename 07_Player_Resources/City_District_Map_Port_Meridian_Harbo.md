@@ -18,7 +18,6 @@ aliases: [City District Map Port Meridian Harbo]
 - [[#Current Events|Current Events]]
 - [[#Adventure Hooks|Adventure Hooks]]
 
-
 ---
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -43,7 +42,7 @@ City_District_Map_Port_Meridian_Harbo serves as an important location within the
 A distinctive location that captures the essence of its surroundings while maintaining its own character.
 
 ### Exterior
-The approach to City_District_Map_Port_Meridian_Harbo reveals its significance 
+The approach to City_District_Map_Port_Meridian_Harbo reveals its significance
 *The air carries the scent of [appropriate smell].*through architectural and natural features.
 
 ### Interior
@@ -78,7 +77,6 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 
 ## DM Notes
 *City_District_Map_Port_Meridian_Harbo can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -163,8 +161,7 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - [[NPC00501_Orion_Nightfall_the_Broken]]
 - [[Propaganda_Leaflet_Pearl_Guar]]
 - [[NPC00661_Corvus_Darkwater_the_Broken]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -173,7 +170,6 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## Thematic Connections
 - Urban adventures and [[City Encounters]]
@@ -197,13 +193,13 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - Parallels [[The Kelp Highway 2]]
 - Influences [[Regional Courts 2]]
 - Compare with [[NPC00419_Malakai_Grimholt_the_Cunning]]
-- See also: [[step_037]]
+- See also:
 - See also: [[Oceanic Historical Society]]
 - See also: [[System Cli Spells School Conjuration]]
 - See also: [[Silverscale Trade Embassy 2]]
 - Requires [[Portrait NPC the Pressure Pirates the Pressure Pirates.svg]]
 - Connects to [[gunpowder-powder-horn-xdmg (items)]]
-- Related: [[step_033]]
+- Related:
 - Originates from [[Astral Dreadnought Mpmm]]
 - Related: [[High Counci]]
 - Parallels [[EVENT00090_Magical_Event_91]]
@@ -237,7 +233,7 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - Affected by [[ENC00330_Combat_Encounter_331]]
 - Originates from [[Medical Arsenal]]
 - See also: [[step_022 (phase_030)]]
-- Affected by [[step_008]]
+- Affected by
 - Influences [[Conductor Morpheus Mindbridge (D&D_References)]]
 - Connects to [[step_005 (phase_011)]]
 - Requires [[Daily Routine Nuances and Details]]
@@ -247,11 +243,11 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - See also: [[End Session]]
 - Leads to [[ENC00002_Combat_Encounter_3]]
 - Connects to [[Crystal - Crystal_Resonanc]]
-- Parallels [[step_026]]
+- Parallels
 - Parallels [[bheur-hag-vgm (legendary-group)]]
 - Parallels [[step_077 (phase_005)]]
 - Affected by [[passages-passage (tables)]]
-- Parallels [[step_035]]
+- Parallels
 - Compare with [[Shadow-Touched Mine Foreman Brokk]]
 - See also: [[Aquabyssos_1]]
 - Originates from [[step_009 (phase_017)]]
@@ -264,7 +260,7 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - Requires [[The False History Crisis]]
 - Related: [[portrait-npc-seventh-shard-v1-seventh-shard.svg]]
 - Affected by [[step_034 (phase_005)]]
-- Connects to [[step_085]]
+- Connects to
 - Connects to [[step_099 (phase_086)]]
 - Affected by [[location-city-port-nimbus-v1-port-nimbus.svg]]
 - Related: [[staff-of-fire-xdmg (items)]]
@@ -282,13 +278,13 @@ Recent developments have brought new attention to City_District_Map_Port_Meridia
 - Influences [[Assets Handouts Handout Handout Privateer Letter of Marque V2 Privateer Letter of Marque.png]]
 - Affected by [[Bag of Tricks Tan Xdmg]]
 - Influences [[Crystal Plague Progression System]]
-- Affected by [[step_042]]
+- Affected by
 - Leads to [[Merfolk Wavebender Xmm]]
 - Leads to [[Local Authorities]]
 - Compare with [[Portrait NPC Vex Shadowthorn the Kingpin Vex Shadowthorn the Kingpin.svg]]
 - Compare with [[NPC01138_Brenna_Oakenshield_the_Risen]]
 - Leads to [[Void Watchers 2]]
-- Parallels [[step_089]]
+- Parallels
 - Related: [[diseases]]
 - Influences [[LORE00085_Prophecies_Entry_86]]
 - Influences [[Location City Surface Trade Ports Surface Trade Ports.svg]]

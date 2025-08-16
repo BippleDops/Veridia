@@ -18,7 +18,6 @@ aliases: [NPC00977 Zephyr Emberfall the Seeker]
 - [[#Qadim Proudmore the Risen (Personal - Nemesis)|Qadim Proudmore the Risen (Personal - Nemesis)]]
 - [[#Hilda Ironforge the Redeemed (Family - Cousin)|Hilda Ironforge the Redeemed (Family - Cousin)]]
 
-
 ---
 aliases: ["Zephyr Emberfall the Seeker", "zephyr emberfall the seeker", "Zephyr Emberfall Seeker", "Seeker the Emberfall Zephyr"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.224Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -177,9 +172,9 @@ Caravan needs guards
 - See also: [[DM Screen]]
 - Leads to [[Temple of Echoing Tides 2]]
 - Compare with [[ITEM00693_Fortified_Boots_of_Resistance]]
-- See also: [[step_069]]
+- See also:
 - Affected by [[Assets Portraits Portrait NPC Lady Resistance Brightshield Lady Resistance Brightshield.svg]]
-- Connects to [[step_067]]
+- Connects to
 - Compare with [[step_059 (phase_078)]]
 - See also: [[SHOP00005_General_Shop_6]]
 - Requires [[step_090 (phase_004)]]
@@ -210,7 +205,7 @@ Caravan needs guards
 - Parallels [[step_040 (phase_095)]]
 - Influences [[Location City Pressure Wraiths Pressure Wraiths.svg]]
 - Requires [[04_Resources_Assets_Portraits_portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg_Quick_Ref]]
-- Requires [[step_085]]
+- Requires
 - Parallels [[The Memory Fragmented Child Little Luna]]
 - Originates from [[average-results-mob-results-xdmg (tables)]]
 - See also: [[#Summary]]
@@ -270,13 +265,12 @@ Caravan needs guards
 - Affected by [[Royal Archives]]
 - Requires [[Retired Captain Bron Saltbeard (D&D_References)]]
 - Requires [[Memory Plague]]
-- Parallels [[step_072]]
+- Parallels
 
 ## Visual References
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

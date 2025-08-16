@@ -18,13 +18,12 @@ aliases: [NPC0054 Osric Ironforge the Just]
 - [[#Relationships|Relationships]]
 - [[#Roleplaying|Roleplaying]]
 
-
 ---
 aliases: ["Osric Ironforge the Just", "osric ironforge the just", "Osric Ironforge Just", "Just the Ironforge Osric"]
 tags: [, generated]
-  - npc
-  - character
-  - generated
+ - npc
+ - character
+ - generated
 type: npc
 ---
 
@@ -153,7 +152,7 @@ Insight, Arcana, Deception, Persuasion
 
 - Influences [[Memory Tide Pools]]
 - Originates from [[ITEM01373_Ornate_Tool_Kit_of_Durability]]
-- Requires [[step_077]]
+- Requires
 - See also: [[DUN00078_Dungeon_79]]
 - Originates from [[LORE00083_Legends_Entry_84]]
 - Connects to [[LOC00240_Wilderness_Location_241]]
@@ -163,7 +162,7 @@ Insight, Arcana, Deception, Persuasion
 - Requires [[Professor Kaine Tidereader]]
 - See also: [[step_045 (phase_075)]]
 - Originates from [[Assets Locations Location City Kraken V1 Kraken.svg]]
-- Requires [[step_014]]
+- Requires
 - Related: [[blinding-smite-xphb (spells)]]
 - Requires [[Civil Rights Petition (D&D_References)]]
 - Parallels [[step_041 (phase_076)]]
@@ -171,7 +170,7 @@ Insight, Arcana, Deception, Persuasion
 - Leads to [[Portrait NPC the First Queen S Shade the First Queen S Shade.svg]]
 - Requires [[Spy-Master Nonentity 2]]
 - Affected by [[SPELL00099_Divine_Spell_100]]
-- Requires [[step_049]]
+- Requires
 - Leads to [[step_048 (phase_092)]]
 - Influences [[locate-animals-or-plants-xphb (spells)]]
 - Originates from [[04_Resources_Assets_Locations_location-city-hadrian-depthbridge-v1-hadrian-depthbridge.svg]]
@@ -186,11 +185,11 @@ Insight, Arcana, Deception, Persuasion
 - Compare with [[MON00164_Aberrations_Creature_165]]
 - Compare with [[Determine Your Xp Budget Xp Budget Per]]
 - Influences [[SPELL00073_Nature_Spell_74]]
-- Leads to [[step_022]]
+- Leads to
 - Requires [[step_048 (phase_013)]]
 - Originates from [[step_005 (phase_025)]]
 - Requires [[Potion of Radiant Resistance Xdmg]]
-- Related: [[step_054]]
+- Related:
 - Compare with [[Variant Training to Gain Levels Training to Gain Levels Xdmg]]
 - See also: [[Celtic Belenus]]
 - Influences [[step_051 (phase_014)]]
@@ -210,7 +209,7 @@ Insight, Arcana, Deception, Persuasion
 - Influences [[Assets Symbols Symbol Heraldry the Architects of Depths the Architects of Depths.svg]]
 - Requires [[step_095 (phase_056)]]
 - Requires [[Portrait NPC Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
-- Leads to [[step_027]]
+- Leads to
 - Requires [[water-weird-xmm]]
 - Parallels [[NPC01084_Xander_Silverleaf_the_Strong]]
 - Leads to [[NPC00348_Cedric_Youngblood_the_Swift]]
@@ -233,7 +232,7 @@ Insight, Arcana, Deception, Persuasion
 - Leads to [[Crystal_Plague_Encounter_Progressions]]
 - Connects to [[Portrait NPC the Pressure Pirates V2 the Pressure Pirates.svg_1 (Portraits)]]
 - Compare with [[NPC01862_Aeliana_Ironforge_the_Seeker]]
-- Compare with [[step_001]]
+- Compare with
 - Requires [[merrow-xmm (monstrosity)]]
 - Leads to [[step_088 (phase_080)]]
 - Affected by [[step_079 (phase_008)]]

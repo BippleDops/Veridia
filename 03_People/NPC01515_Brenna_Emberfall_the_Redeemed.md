@@ -9,7 +9,6 @@ aliases: [NPC01515 Brenna Emberfall the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01515 Brenna Emberfall the Redeemed]
 - [[#Faelyn Ashford the Bold (Political - Spy)|Faelyn Ashford the Bold (Political - Spy)]]
 - [[#Qadim Jadeclaw the Mystic (Criminal - Informant)|Qadim Jadeclaw the Mystic (Criminal - Informant)]]
 - [[#Aeliana Ironwood the Mystic (Personal - Childhood friend)|Aeliana Ironwood the Mystic (Personal - Childhood friend)]]
-
 
 ---
 aliases: ["Brenna Emberfall the Redeemed", "brenna emberfall the redeemed", "Brenna Emberfall Redeemed", "Redeemed the Emberfall Brenna"]
@@ -155,21 +153,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.281Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -197,12 +191,12 @@ Has information about legendary item
 - See also: [[Portrait NPC the Verdant Accord V2 the Verdant Accord.svg_1 (Portraits)]]
 - See also: [[iron-pot-xphb (items)]]
 - Connects to [[NPC0112_Gideon_Goldleaf]]
-- Requires [[step_082]]
+- Requires
 - See also: [[step_039 (phase_019)]]
 - Requires [[step_015 (phase_071)]]
 - Leads to [[ENC00473_Combat_Encounter_474]]
 - Connects to [[SPELL00002_Arcane_Spell_3]]
-- Related: [[step_095]]
+- Related:
 - Compare with [[Deep Sea Explorer Captain Abyss]]
 - See also: [[Location City Scarlet Torrent V1 Scarlet Torrent.svg]]
 - See also: [[Scholar Thomas Precedent]]
@@ -214,7 +208,7 @@ Has information about legendary item
 - Related: [[ENC00456_Combat_Encounter_457]]
 - Influences [[step_099 (phase_056)]]
 - Originates from [[NPC01327_Erasmus_Nightfall_the_Scholar]]
-- Affected by [[step_011]]
+- Affected by
 - Compare with [[Thermal Differential Analysis]]
 - See also: [[LORE00201_History_Entry_202]]
 - See also: [[Cosmology the Multiverse]]
@@ -222,9 +216,9 @@ Has information about legendary item
 - Affected by [[gate-xphb (spells)]]
 - Connects to [[Sunken Civilizations]]
 - See also: [[03 Races]]
-- Related: [[step_064]]
+- Related:
 - Leads to [[LORE00159_History_Entry_160]]
-- Leads to [[step_098]]
+- Leads to
 - Parallels [[FAC00008_Guilds_9]]
 - Compare with [[ITEM01364_Elegant_Journal_of_Quality]]
 - Affected by [[step_091 (phase_024)]]
@@ -234,10 +228,10 @@ Has information about legendary item
 - Parallels [[Navigate Singer Consciousness (Lore)]]
 - Related: [[Convergence_Points (Lore)]]
 - Requires [[LOC00124_Wilderness_Location_125]]
-- Connects to [[step_017]]
+- Connects to
 - See also: [[step_071 (phase_042)]]
 - Related: [[Modron Monodrone Xmm]]
-- Originates from [[step_081]]
+- Originates from
 - Influences [[step_018 (phase_081)]]
 - Compare with [[Quest - Portal Conspiracy]]
 - Connects to [[step_034 (phase_060)]]
@@ -246,15 +240,15 @@ Has information about legendary item
 - Connects to [[LOC00013_Dungeons_Location_14]]
 - Compare with [[Home Embeds#Recently Modifie 2]]
 - Leads to [[mariners-armor-xdmg (items)]]
-- Compare with [[step_049]]
-- Influences [[step_013]]
+- Compare with
+- Influences
 - Parallels [[adult-kruthik-mpmm (monstrosity)]]
 - Compare with [[Slow Xphb]]
 - Connects to [[Archive_Index (D&D_References)]]
 - Affected by [[Deep Mother Influence 2]]
 - Requires [[voice-of-the-chain-master (optional-features)]]
 - See also: [[Break_Timer]]
-- Compare with [[step_022]]
+- Compare with
 - Connects to [[step_083 (phase_004)]]
 - See also: [[Assets Locations Location City Community Support Networks Community Support Networks.svg]]
 - Affected by [[Ambassador Blacktrade 2]]

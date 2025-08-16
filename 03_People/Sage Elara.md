@@ -9,7 +9,6 @@ aliases: [Sage Elara]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Overview|Overview]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [Sage Elara]
 - [[#Plot Hooks|Plot Hooks]]
 - [[#DM Notes|DM Notes]]
 - [[#References|References]]
-
 
 ---
 aliases: [Sage_Elara, Sage-Elara]
@@ -90,26 +88,21 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - [[[[Location_Network_Graph]].md]]
 - [[Sirens (D&D_References)]]
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Secrets
 - Hidden knowledge
@@ -160,8 +153,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - [[Archdruid Thornweaver]]
 - [[Item_Catalog_Complete.md]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -175,14 +167,13 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Connections
 
 - Leads to [[cover-xphb (variant-rules)]]
 - Influences [[Corruption Exposure Tracking 2]]
 - See also: [[step_051 (phase_054)]]
 - Influences [[Location City [[The Crystal Wardens]] the Crystal Wardens.svg]]
-- Parallels [[step_028]]
+- Parallels
 - Related: [[step_094 (phase_006)]]
 - Originates from [[Frost Salamander Mpmm]]
 - Influences [[step_037 (phase_063)]]
@@ -214,7 +205,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Parallels [[cockatrice-regent-xmm (monstrosity)]]
 - See also: [[ENC00160_Combat_Encounter_161]]
 - See also: [[step_003 (phase_013)]]
-- Affected by [[step_096]]
+- Affected by
 - Influences [[Solar Corruption (D&D_References)]]
 - Related: [[Light-Based Weapons]]
 - Requires [[Circle of Nature's Balance]]

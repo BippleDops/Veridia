@@ -18,7 +18,6 @@ aliases: [NPC01541 Zephyr Xendar the Wise]
 - [[#Dara Thornweave the Wanderer (Criminal - Target)|Dara Thornweave the Wanderer (Criminal - Target)]]
 - [[#Aeliana Moonshadow the Guardian (Family - Child)|Aeliana Moonshadow the Guardian (Family - Child)]]
 
-
 ---
 aliases: ["Zephyr Xendar the Wise", "zephyr xendar the wise", "Zephyr Xendar Wise", "Wise the Xendar Zephyr"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.283Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -196,8 +191,8 @@ Has information about legendary item
 - Leads to [[Location City Drift Harbor District Drift Harbor District.svg]]
 - Affected by [[LOC00031_Wilderness_Location_32]]
 - Related: [[Quest - The Blackmail Papers]]
-- Compare with [[step_091]]
-- Related: [[step_040]]
+- Compare with
+- Related:
 - Requires [[celtic-brigantia (deities)]]
 - Compare with [[Shadow Integration Coordinator Luna Bridgebuilder]]
 - Affected by [[ITEM00133_Frost_Dagger_of_Speed]]
@@ -209,7 +204,7 @@ Has information about legendary item
 - Originates from [[step_038 (phase_025)]]
 - Related: [[EVENT00085_Political_Event_86]]
 - See also: [[random-urban-encounters (tables)]]
-- Affected by [[step_086]]
+- Affected by
 - Compare with [[ITEM00051_Shadow_Dagger_of_Wounding]]
 - Connects to [[SPELL00109_Arcane_Spell_110]]
 - Compare with [[Location City Pressure Terminal V1 Pressure Terminal.svg]]
@@ -230,14 +225,14 @@ Has information about legendary item
 - Originates from [[Assets Symbols Symbol Heraldry Master Chen Wei Master Chen Wei.png]]
 - Leads to [[Master_Campaign_Index 2]]
 - Originates from [[step_082 (phase_030)]]
-- Originates from [[step_095]]
+- Originates from
 - See also: [[Initiative_Tracker]]
 - Affected by [[Minister Truth Darknes (D&D_References)]]
 - Connects to [[Location City the Pressure Conspiracy V1 the Pressure Conspiracy.svg]]
 - Requires [[ENC00178_Social_Encounter_179]]
 - Parallels [[Crystal Cleansing Brotherhood (D&D_References)]]
 - Compare with [[Crystal Harmonics 2]]
-- Related: [[step_096]]
+- Related:
 - Related: [[Crystal Academy Networks]]
 - Compare with [[Session 12 - Crystal Court Conspiracy]]
 - Related: [[NPC00430_Ewan_Proudmore_the_Wise]]
@@ -248,7 +243,7 @@ Has information about legendary item
 - Leads to [[Portrait NPC Trade Captain Sterling V1 Trade Captain Sterling.svg]]
 - Influences [[Ranger Xphb Beast Master Xphb]]
 - Connects to [[arctic-encounters-levels-1720-xge (tables)]]
-- See also: [[step_046]]
+- See also:
 - See also: [[NPC00121_Jorah_Proudmore]]
 - Related: [[step_008 (phase_010)]]
 - Connects to [[Staff of Charming Xdmg]]
@@ -276,7 +271,6 @@ Has information about legendary item
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

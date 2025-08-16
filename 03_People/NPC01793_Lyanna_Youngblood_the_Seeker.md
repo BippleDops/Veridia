@@ -18,7 +18,6 @@ aliases: [NPC01793 Lyanna Youngblood the Seeker]
 - [[#Nerys Lightbringer the Guardian (Political - Spy)|Nerys Lightbringer the Guardian (Political - Spy)]]
 - [[#Aldric Ironwood the Wise (Political - Ally)|Aldric Ironwood the Wise (Political - Ally)]]
 
-
 ---
 aliases: ["Lyanna Youngblood the Seeker", "lyanna youngblood the seeker", "Lyanna Youngblood Seeker", "Seeker the Youngblood Lyanna"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.310Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -177,7 +172,7 @@ Blackmails party into service
 - Compare with [[step_059 (phase_082)]]
 - Originates from [[Location City Marcus Clausewright Marcus Clausewright.svg]]
 - Connects to [[Crystalline Wastes]]
-- Influences [[step_026]]
+- Influences
 - Related: [[17-chapter-17-against-the-demon-lords (out-of-the-abyss)]]
 - Leads to [[NPC00705_Ewan_Grimholt_the_Lost]]
 - Related: [[step_097 (phase_087)]]
@@ -197,7 +192,7 @@ Blackmails party into service
 - Compare with [[step_027 (phase_048)]]
 - Connects to [[ITEM00782_Infernal_Mirror_of_the_Gods]]
 - Compare with [[Silver Mask (Lore)]]
-- Influences [[step_085]]
+- Influences
 - Leads to [[MON00054_Aberrations_Creature_55]]
 - Requires [[Seven_Shards_Publishing_Package]]
 - Leads to [[step_002 (phase_038)]]
@@ -211,7 +206,7 @@ Blackmails party into service
 - Leads to [[step_059 (phase_055)]]
 - See also: [[Professor Depth Biologist 2]]
 - Leads to [[LORE00026_History_Entry_27]]
-- Compare with [[step_045]]
+- Compare with
 - Influences [[Githyanki Raiding Parties Githyanki Purpose of Raid Mtf]]
 - Originates from [[NPC01929_Corvus_Voidwalker_the_Fallen]]
 - Parallels [[02_Worldbuilding_Lore_The_Deep_Intelligence_Agency_Director]]
@@ -232,7 +227,7 @@ Blackmails party into service
 - Requires [[Shadow Information Brokers 2]]
 - See also: [[Pale Tincture Xdmg]]
 - Compare with [[LOC00275_Dungeons_Location_276]]
-- Connects to [[step_031]]
+- Connects to
 - Originates from [[step_035 (phase_042)]]
 - Requires [[step_049 (phase_063)]]
 - Compare with [[step_018 (phase_009)]]
@@ -241,7 +236,7 @@ Blackmails party into service
 - Leads to [[NPC01895_Fiora_Ashford_the_Wise]]
 - Connects to [[Animal Shapes Xphb]]
 - Affected by [[step_062 (phase_083)]]
-- See also: [[step_084]]
+- See also:
 - Connects to [[Guardian Portrait Cos]]
 - Leads to [[Location City Historian Lisa Outreach V1 Historian Lisa Outreach.svg]]
 - Affected by [[Quest Nature.png]]
@@ -255,7 +250,7 @@ Blackmails party into service
 - Leads to [[dawn-war-bane-dmg (deities)]]
 - See also: [[portrait-npc-original-glaucus-original-glaucus.svg]]
 - Affected by [[The Dream Shard (Lore)]]
-- Originates from [[step_056]]
+- Originates from
 - Related: [[QUEST0069_Captain's_Revenge]]
 - Leads to [[Efreeti Xmm]]
 - Related: [[Portrait NPC Commodity Queen Abundance V2 Commodity Queen Abundance.svg_1 (Portraits)]]
@@ -267,7 +262,6 @@ Blackmails party into service
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

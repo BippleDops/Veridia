@@ -9,7 +9,6 @@ aliases: [NPC01176 Orion Hawthorne the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01176 Orion Hawthorne the Redeemed]
 - [[#Hestara Ironwood the Strong (Political - Patron)|Hestara Ironwood the Strong (Political - Patron)]]
 - [[#Branwen Nightfall the Mystic (Professional - Partner)|Branwen Nightfall the Mystic (Professional - Partner)]]
 - [[#Drusilla Thornweave the Fallen (Family - Spouse)|Drusilla Thornweave the Fallen (Family - Spouse)]]
-
 
 ---
 aliases: ["Orion Hawthorne the Redeemed", "orion hawthorne the redeemed", "Orion Hawthorne Redeemed", "Redeemed the Hawthorne Orion"]
@@ -151,21 +149,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.245Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -174,7 +168,7 @@ Caravan needs guards
 - Requires [[NPC00890_Corvus_Xendar_the_Swift]]
 - Requires [[The Crystal Heart Chamber]]
 - Connects to [[armor-of-radiant-resistance-xdmg (items)]]
-- Affected by [[step_086]]
+- Affected by
 - Related: [[Symbol Heraldry Deep Sea Agricultural Research Institut Deep Sea Agricultural Research Institut.svg]]
 - Influences [[Assets Locations Location City the Suicide Bridges V1 the Suicide Bridges.svg]]
 - See also: [[ITEM01150_Distilled_Potion_of_Clarity]]
@@ -197,7 +191,7 @@ Caravan needs guards
 - Related: [[Giant Boar Xmm]]
 - Affected by [[Assets Locations Location City Port Meridian Merchant Quarter V1 Port Meridian Merchant Quarter.svg]]
 - Connects to [[augury-xphb (spells)]]
-- Originates from [[step_065]]
+- Originates from
 - Requires [[LOC00165_Wilderness_Location_166]]
 - Influences [[list-spells-classes-horizon-walker-xge (lists)]]
 - Connects to [[FAC00079_Cults_80]]
@@ -210,7 +204,7 @@ Caravan needs guards
 - Related: [[Location City Miranda Hopekeeper Miranda Hopekeeper.svg]]
 - Related: [[The_Ancient_Prophecy]]
 - Leads to [[step_021 (phase_030)]]
-- Affected by [[step_001]]
+- Affected by
 - Parallels [[Invisibility Cloaks]]
 - Compare with [[boon-of-quick-casting (rewards)]]
 - Parallels [[Assets Art Merchant Lord Silas Copperfield.png]]
@@ -225,7 +219,7 @@ Caravan needs guards
 - Influences [[QUEST00110_Side_Quest_111]]
 - See also: [[Symbol Heraldry Bex... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Affected by [[NPC00391_Pyria_Lightbringer_the_Scholar]]
-- Leads to [[step_096]]
+- Leads to
 - Requires [[ITEM01471_Masterwork_Journal_of_Reliability]]
 - Connects to [[Elven Rellavar Danuvien Mtf]]
 - Related: [[pearl-xdmg (items)]]
@@ -240,20 +234,20 @@ Caravan needs guards
 - Requires [[dragonlance-chislev-phb (deities)]]
 - Related: [[falling-net-xdmg (traps-hazards)]]
 - Related: [[QUEST00119_Main_Quest_120]]
-- See also: [[step_064]]
+- See also:
 - Leads to [[step_002 (phase_005)]]
 - Leads to [[International Pressure]]
 - Leads to [[Symbol Heraldry Supernatural Mysterie V1 Supernatural Mysterie.svg]]
 - Connects to [[Location City Anchor Stronghaul V1 Anchor Stronghaul.svg]]
 - Parallels [[Location City Historical Analysis Historical Analysis.svg]]
-- Parallels [[step_094]]
+- Parallels
 - Parallels [[Location City Judge Tidal Fairweather Judge Tidal Fairweather.svg]]
 - See also: [[Egyptian Imhotep]]
 - Connects to [[QUEST00361_Side_Quest_362]]
 - Leads to [[NPC00460_Elric_Goldleaf_the_Wanderer]]
 - Originates from [[step_038 (phase_006)]]
 - Requires [[QUEST00274_Personal_Quest_275]]
-- See also: [[step_051]]
+- See also:
 - See also: [[Merchant Quarter Guildhalls 2]]
 - Compare with [[Location_Network_Graph.md]]
 - Related: [[Location City Wandering Prophet Coral Stormrider V1 Wandering Prophet Coral Stormrider.svg]]
@@ -266,7 +260,7 @@ Caravan needs guards
 - Compare with [[physical-variations-type-2-malison-arms-vgm (tables)]]
 - Influences [[Arctic Encounters Levels 510 Xge]]
 - See also: [[Elder Willow Moonwhisper 2]]
-- Related: [[step_007]]
+- Related:
 - Related: [[step_088 (phase_038)]]
 - Connects to [[ITEM01233_Refined_Oil_of_Clarity]]
 

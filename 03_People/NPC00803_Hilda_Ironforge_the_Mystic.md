@@ -18,7 +18,6 @@ aliases: [NPC00803 Hilda Ironforge the Mystic]
 - [[#Lyanna Goldleaf the Risen (Criminal - Target)|Lyanna Goldleaf the Risen (Criminal - Target)]]
 - [[#Fiora Goldleaf the Lost (Criminal - Informant)|Fiora Goldleaf the Lost (Criminal - Informant)]]
 
-
 ---
 aliases: ["Hilda Ironforge the Mystic", "hilda ironforge the mystic", "Hilda Ironforge Mystic", "Mystic the Ironforge Hilda"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.204Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -183,7 +178,7 @@ Has map to lost treasure
 - Influences [[sleet-storm-xphb (spells)]]
 - Affected by [[physical-characteristics-beholder-skin-color-vgm]]
 - Affected by [[young-bulette-pota (beast)]]
-- Requires [[step_053]]
+- Requires
 - See also: [[Captain Marlowe Tidecrest]]
 - Connects to [[NPC0148_Cormac_Darkwater]]
 - Compare with [[shadow-blade-xge (spells)]]
@@ -198,12 +193,12 @@ Has map to lost treasure
 - Leads to [[step_092 (phase_071)]]
 - Compare with [[iron-flask-xdmg (items)]]
 - Connects to [[Aethermoor Capital (D&D_References)]]
-- Requires [[step_064]]
-- Related: [[Quest   The Democratic Balance]]
+- Requires
+- Related: [[Quest The Democratic Balance]]
 - See also: [[ENC00026_Environmental_Encounter_27]]
 - Affected by [[Handout Handout Te... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Influences [[shadow-touched-xphb (feats)]]
-- Leads to [[step_070]]
+- Leads to
 - Connects to [[QUEST00210_Personal_Quest_211]]
 - Related: [[Assets Locations Location City Heritage Keeper Memoryshade V1 Heritage Keeper Memoryshade.svg]]
 - Originates from [[Baroness Seraphina Moonweaver (D&D_References)]]
@@ -217,7 +212,7 @@ Has map to lost treasure
 - Compare with [[scholars-pack-xphb (items)]]
 - Parallels [[The First Transformation Wave]]
 - Leads to [[NPC00121_Jorah_Proudmore]]
-- Requires [[step_075]]
+- Requires
 - See also: [[Wind Song Traditions (D&D_References)]]
 - Related: [[Symbol Heraldry Witness Protection Protocol Witness Protection Protocol.svg]]
 - Parallels [[step_036 (phase_038)]]
@@ -226,14 +221,14 @@ Has map to lost treasure
 - Compare with [[Npc Directory.base]]
 - Compare with [[step_056 (phase_096)]]
 - Connects to [[Describe Appearance and Personality Charisma]]
-- Originates from [[step_075]]
+- Originates from
 - Requires [[Public Safety Complex]]
 - Requires [[Hill Encounters Levels 1116 Xge]]
 - See also: [[ENC00120_Social_Encounter_121]]
 - Related: [[step_093 (phase_083)]]
 - Connects to [[Flind Mpmm]]
 - See also: [[layers-of-mount-celestia-xdmg (tables)]]
-- See also: [[step_065]]
+- See also:
 - Requires [[Surface Raiders]]
 - Influences [[Ω_System-CLI-spells-school-necromancy]]
 - Related: [[SPELL00121_Divine_Spell_122]]
@@ -245,16 +240,16 @@ Has map to lost treasure
 - Parallels [[gray-ooze-xmm (ooze)]]
 - Compare with [[step_004 (phase_058)]]
 - Affected by [[NPC01583_Delara_Ravenheart_the_Swift]]
-- Connects to [[step_072]]
+- Connects to
 - Connects to [[Assets Art Inv 002.png]]
 - Connects to [[step_090 (phase_023)]]
-- Connects to [[step_020]]
+- Connects to
 - Originates from [[Services Reality Protection]]
 - Related: [[step_060 (phase_025)]]
-- Affected by [[step_087]]
+- Affected by
 - Originates from [[LOC00183_Wilderness_Location_184]]
 - Compare with [[step_005 (phase_008)]]
-- Leads to [[step_005]]
+- Leads to
 - Affected by [[Sage Prism Lightweaver 2]]
 - See also: [[Character_Creation_Extended.md_1 (03_People)]]
 - Connects to [[The Healing Voids]]
@@ -271,7 +266,6 @@ Has map to lost treasure
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

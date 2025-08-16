@@ -9,7 +9,6 @@ aliases: [NPC00021 Jorah Hawthorne]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00021 Jorah Hawthorne]
 - [[#Malakai Goldleaf (Family - Sibling)|Malakai Goldleaf (Family - Sibling)]]
 - [[#Aldric Zephyrblade (Personal - Nemesis)|Aldric Zephyrblade (Personal - Nemesis)]]
 - [[#Dara Moonshadow (Political - Puppet)|Dara Moonshadow (Political - Puppet)]]
-
 
 ---
 created: 2025-08-15
@@ -153,27 +151,23 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.112Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -182,11 +176,10 @@ Needs discrete help with family scandal
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -211,7 +204,7 @@ Needs discrete help with family scandal
 - Parallels [[Location City Crystal Keepers V1 Crystal Keepers.svg]]
 - Requires [[fractal-mascot-scc]]
 - Connects to [[step_036 (phase_066)]]
-- Compare with [[step_014]]
+- Compare with
 - Connects to [[The Whispering Caverns (D&D_References)]]
 - See also: [[Quest1 (01_Adventures)]]
 - Compare with [[Portal Technology]]
@@ -221,7 +214,7 @@ Needs discrete help with family scandal
 - Affected by [[bountiful-luck-xge (feats)]]
 - Parallels [[Elemental Court (D&D_References)]]
 - Influences [[NPC01725_Orion_Xendar_the_Scholar]]
-- Compare with [[step_032]]
+- Compare with
 - Compare with [[protection-from-poison-xphb (spells)]]
 - Related: [[Project Mindbridge (D&D_References)]]
 - Requires [[Power Level Magic Item Power by Rarity]]
@@ -233,7 +226,7 @@ Needs discrete help with family scandal
 - Affected by [[Deep Mother Cult Practices (D&D_References)]]
 - Related: [[step_094 (phase_035)]]
 - Connects to [[step_042 (phase_026)]]
-- Influences [[step_093]]
+- Influences
 - Requires [[Glowcap Mushroom]]
 - Connects to [[Portrait NPC the Deepmind Conspiracy the Deepmind Conspiracy.svg_1 (Portraits)]]
 - Influences [[step_094 (phase_065)]]
@@ -248,7 +241,7 @@ Needs discrete help with family scandal
 - Connects to [[bag-of-tricks-xdmg (items)]]
 - Related: [[Anti-Reflection Wards]]
 - Compare with [[Session 25 Diplomacy Example]]
-- Parallels [[step_001]]
+- Parallels
 - Requires [[step_098 (phase_068)]]
 - Leads to [[Session Planning Toolkit]]
 - Related: [[Trade War (D&D_References)]]
@@ -257,7 +250,7 @@ Needs discrete help with family scandal
 - Leads to [[step_022 (phase_085)]]
 - Affected by [[portrait-npc-crystal-wardens-crystal-wardens.svg]]
 - Connects to [[Depth-Forged Trident]]
-- Related: [[step_044]]
+- Related:
 - Parallels [[02_Worldbuilding_Military_Guerrilla_Fighters]]
 - Parallels [[NPC01283_Corvus_Hawthorne_the_Fallen]]
 - Parallels [[step_060 (phase_075)]]

@@ -18,7 +18,6 @@ aliases: [NPC01663 Pyria Grimholt the Wanderer]
 - [[#Ewan Keenblade the Mystic (Criminal - Accomplice)|Ewan Keenblade the Mystic (Criminal - Accomplice)]]
 - [[#Fiora Keenblade the Risen (Professional - Mentor)|Fiora Keenblade the Risen (Professional - Mentor)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Pyria Grimholt the Wanderer", "pyria grimholt the wanderer", "Pyria Grimholt Wanderer", "Wanderer the Grimholt Pyria"]
@@ -149,27 +148,23 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.297Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -178,11 +173,10 @@ Blackmails party into service
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -202,7 +196,7 @@ Blackmails party into service
 - Parallels [[step_035 (phase_009)]]
 - Originates from [[step_041 (phase_074)]]
 - Originates from [[Staff of Birdcalls Xdmg]]
-- Parallels [[step_092]]
+- Parallels
 - Connects to [[LOC00252_Cities_Location_253]]
 - See also: [[ITEM00515_Dragon_Scale_Plate_of_Fortitude]]
 - Parallels [[Research Director Aquarius Brightwater 2]]
@@ -213,7 +207,7 @@ Blackmails party into service
 - Requires [[Location City Master Finn Liquidlight V1 Master Finn Liquidlight.svg]]
 - Requires [[step_080 (phase_090)]]
 - Parallels [[Deep Mother Cult Practices (D&D_References)]]
-- Originates from [[step_063]]
+- Originates from
 - Originates from [[ITEM01448_Decorated_Compass_of_Durability]]
 - Parallels [[Captain Scale-Walker (D&D_Statblocks)]]
 - Compare with [[step_072 (phase_031)]]
@@ -245,7 +239,7 @@ Blackmails party into service
 - Leads to [[ITEM01461_Sturdy_Map_Case_of_Quality]]
 - Requires [[Pregenerated_Characters.md (The_Seven_Shards_Campaign)]]
 - Requires [[Emberhorn Minotaur Pota]]
-- Leads to [[step_086]]
+- Leads to
 - Originates from [[step_044 (phase_058)]]
 - Influences [[ITEM01132_Distilled_Incense_of_Swiftness]]
 - Requires [[The Crystalline Wastes (D&D_References)]]
@@ -265,15 +259,15 @@ Blackmails party into service
 - Parallels [[Assets Locations Location City Voluntary Taxation Voluntary Taxation.svg]]
 - Affected by [[step_006 (phase_044)]]
 - Requires [[The Waking Prophets]]
-- Related: [[step_043]]
+- Related:
 - Influences [[exploring-the-mine-xdmg (tables)]]
 - See also: [[Quest - Depth Pilgrimage 2]]
 - Influences [[Ultroloth Xmm]]
 - Requires [[Assets Locations Location City the Frozen Throne the Frozen Throne.svg]]
-- Compare with [[step_027]]
+- Compare with
 - Leads to [[Shadow Wells 2]]
 - See also: [[step_081 (phase_096)]]
-- Leads to [[step_047]]
+- Leads to
 - Leads to [[Assets Locations Location City Reflection Pools Surgical Theater V1 Reflection Pools Surgical Theater.svg]]
 - Related: [[Current-Lord Triton of House Pelagios (D&D_References)]]
 - See also: [[Prismatic Crystal]]
@@ -291,7 +285,6 @@ Blackmails party into service
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

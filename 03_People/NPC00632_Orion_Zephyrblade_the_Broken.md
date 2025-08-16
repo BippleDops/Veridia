@@ -9,7 +9,6 @@ aliases: [NPC00632 Orion Zephyrblade the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00632 Orion Zephyrblade the Broken]
 - [[#Elric Moonshadow the Strong (Political - Patron)|Elric Moonshadow the Strong (Political - Patron)]]
 - [[#Delara Voidwalker the Lost (Professional - Employer)|Delara Voidwalker the Lost (Professional - Employer)]]
 - [[#Felicia Proudmore (Family - Child)|Felicia Proudmore (Family - Child)]]
-
 
 ---
 aliases: ["Orion Zephyrblade the Broken", "orion zephyrblade the broken", "Orion Zephyrblade Broken", "Broken the Zephyrblade Orion"]
@@ -144,27 +142,23 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.184Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Requires [[Animated Shield Xdmg]]
 - Parallels [[step_021 (phase_067)]]
-- Compare with [[step_039]]
+- Compare with
 - See also: [[step_064 (phase_059)]]
 - Originates from [[NPC00435_Aldric_Silverleaf]]
 - Originates from [[clothes-of-mending-xdmg (items)]]
@@ -185,12 +179,12 @@ Witnessed a crime
 - Related: [[ITEM01124_Greater_Incense_of_Vigor]]
 - Influences [[NPC01290_Pyria_Ashford_the_Broken]]
 - Influences [[SPELL00130_Divine_Spell_131]]
-- Requires [[step_059]]
+- Requires
 - See also: [[The Stormcaller Chorus]]
 - Connects to [[Assets Locations Location City Trade War Trade War.svg]]
-- Connects to [[step_098]]
-- Affected by [[step_074]]
-- Parallels [[step_054]]
+- Connects to
+- Affected by
+- Parallels
 - Connects to [[LOC00294_Towns_Location_295]]
 - Leads to [[LORE00051_History_Entry_52]]
 - Connects to [[Creature Creature Thorny Vegepygmy Mpmm V4 Thorny Vegepygmy Mpmm.png]]
@@ -210,15 +204,15 @@ Witnessed a crime
 - Affected by [[step_011 (phase_069)]]
 - Originates from [[step_037 (phase_055)]]
 - Originates from [[Depth Pulse (D&D_References)]]
-- Connects to [[step_072]]
+- Connects to
 - Originates from [[Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop V1 Hybrid Rift Runner Sloop.png]]
-- Compare with [[step_084]]
+- Compare with
 - Connects to [[LORE00039_Prophecies_Entry_40]]
 - Originates from [[6-appendix-a-magic-items (lost-mine-of-phandelver)]]
 - Connects to [[step_074 (phase_067)]]
 - Connects to [[Symbol Heraldry Thalassa the Pathfinder Thalassa the Pathfinder.svg]]
 - See also: [[Symbol Heraldry Consortium Security Constructs Consortium Security Constructs.svg]]
-- Requires [[step_022]]
+- Requires
 - Parallels [[Monster Conversions Stat Block Conversions]]
 - Related: [[portrait-npc-shadow-brokers-shadow-brokers.svg]]
 - Parallels [[Assets Portraits Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg]]
@@ -242,15 +236,15 @@ Witnessed a crime
 - See also: [[Embassy Quarter (D&D_References)]]
 - Connects to [[step_032 (phase_040)]]
 - Related: [[treasure-orc-trophies-vgm (tables)]]
-- Parallels [[step_069]]
+- Parallels
 - Influences [[Greek Hephaestus]]
 - Connects to [[Guild Artisan Guild Merchant Variant]]
 - Compare with [[Fire Storm Xphb]]
-- Affected by [[step_007]]
+- Affected by
 - Leads to [[Gastn Flambheart]]
 - Leads to [[step_023 (phase_044)]]
 - See also: [[Assets Locations Location City Specimen Careful Lifeguard Specimen Careful Lifeguard.svg]]
-- Compare with [[step_026]]
+- Compare with
 - Influences [[The Masked Broker]]
 - Affected by [[Astral Projection Xphb]]
 - See also: [[ITEM00764_Celestial_Crown_of_Dominion]]
@@ -260,7 +254,7 @@ Witnessed a crime
 - Parallels [[The Groundling Liberation Movement (D&D_References)]]
 - Leads to [[QUEST00193_Personal_Quest_194]]
 - Related: [[step_018 (phase_096)]]
-- Affected by [[step_041]]
+- Affected by
 - Requires [[Bright Light Xphb]]
 
 ## Plot Hooks

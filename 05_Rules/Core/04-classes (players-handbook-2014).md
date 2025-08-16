@@ -18,7 +18,6 @@ aliases: [04-classes (players-handbook-2014)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 04-classes (players-handbook-2014)
@@ -59,11 +58,9 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -94,8 +91,7 @@ world: Both
 Has information about the party's enemies
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -104,7 +100,6 @@ Has information about the party's enemies
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -131,12 +126,12 @@ Has information about the party's enemies
 - Originates from [[Mad Prophet Silas the Depth-Touched (D&D_References)]]
 - Leads to [[step_057 (phase_067)]]
 - Affected by [[step_014 (phase_031)]]
-- See also: [[step_015]]
+- See also:
 - Requires [[Roleplaying a Mind Flayer Mind Flayer Ideals]]
 - See also: [[Assets Locations Location City Memory Recording Chambers V1 Memory Recording Chambers.svg]]
 - Compare with [[step_007 (phase_006)]]
 - Related: [[QUEST00111_Main_Quest_112]]
-- Originates from [[step_019]]
+- Originates from
 - Related: [[Downtime Activity Work Xge]]
 - See also: [[Sea Hag Xmm]]
 - Requires [[wind-wall-xphb (spells)]]
@@ -156,7 +151,7 @@ Has information about the party's enemies
 - Requires [[Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg]]
 - Leads to [[sword-of-answering-xdmg (items)]]
 - Originates from [[Liberty Coalition]]
-- Compare with [[step_070]]
+- Compare with
 - Related: [[Crystal Architecture Philosophy]]
 - Requires [[Githyanki Raiding Parties Dragon Chance Mtf]]
 - Related: [[Lock of Trickery Xdmg]]
@@ -179,13 +174,13 @@ Has information about the party's enemies
 - Parallels [[NPC00948_Zephyr_Frostwhisper_the_Redeemed]]
 - Parallels [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
 - Compare with [[ring-of-resistance-xdmg (items)]]
-- Requires [[step_083]]
+- Requires
 - Parallels [[LOC00252_Cities_Location_253]]
 - Leads to [[step_067 (phase_026)]]
 - Compare with [[step_029 (phase_096)]]
 - Affected by [[ITEM00985_Pure_Potion_of_Fortune]]
 - Affected by [[02-chapter-1-playing-the-game#Conditions]]
-- Requires [[step_041]]
+- Requires
 - Compare with [[Downtime_Activities]]
 - Related: [[step_076 (phase_040)]]
 - Related: [[Portrait NPC the Great Trade Routes V2 the Great Trade Routes.svg]]

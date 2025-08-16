@@ -18,7 +18,6 @@ aliases: [NPC00670 Xander Goldleaf the Scholar]
 - [[#Hilda Voidwalker the Broken (Professional - Mentor)|Hilda Voidwalker the Broken (Professional - Mentor)]]
 - [[#Hilda Thornweave the Bold (Personal - Love interest)|Hilda Thornweave the Bold (Personal - Love interest)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Goldleaf the Scholar", "xander goldleaf the scholar", "Xander Goldleaf Scholar", "Scholar the Goldleaf Xander"]
@@ -157,16 +156,13 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.189Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -228,11 +224,10 @@ Being extorted by criminals
 - [[Dockworker_Union_Flyer.md]]
 - [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
 - [[Concept_Map]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -241,11 +236,10 @@ Being extorted by criminals
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -255,7 +249,7 @@ Being extorted by criminals
 - Requires [[02_Worldbuilding_Lore_NPC]]
 - Influences [[Location City Maze Heart Crystal Maze Heart Crystal.svg]]
 - Compare with [[step_019 (phase_098)]]
-- Affected by [[step_006]]
+- Affected by
 - Related: [[ENC00121_Social_Encounter_122]]
 - Influences [[4-spells (xanathars-guide-to-everything)]]
 - Affected by [[step_014 (phase_077)]]
@@ -279,8 +273,8 @@ Being extorted by criminals
 - Affected by [[Portrait NPC Quest the Brother S Burden V2 Quest the Brother S Burden.svg]]
 - Compare with [[Quest - Harbor Security 2]]
 - Connects to [[Philosophy of Truth]]
-- Originates from [[step_007]]
-- See also: [[step_078]]
+- Originates from
+- See also:
 - Originates from [[Session_Logger_1]]
 - Parallels [[Crystal Master Prism Lightweaver]]
 - Compare with [[step_067 (phase_080)]]
@@ -293,11 +287,11 @@ Being extorted by criminals
 - Requires [[Portrait NPC Weap... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[archelon-xmm (beast)]]
 - Connects to [[Memory Coherence Analyzer]]
-- Requires [[step_092]]
+- Requires
 - Originates from [[side-quests (tables)]]
 - Originates from [[proficiency-bonus-xphb (tables)]]
 - Originates from [[step_060 (phase_007)]]
-- Originates from [[step_001]]
+- Originates from
 - Parallels [[Memorial Stones 2]]
 - Leads to [[NPC01323_Pyria_Thornweave_the_Lost]]
 - Affected by [[Doctor Coral Shapeshift]]
@@ -305,13 +299,13 @@ Being extorted by criminals
 - Compare with [[Mobile Terror Platform]]
 - Compare with [[step_022 (phase_093)]]
 - Requires [[Assets Locations Location City the Kraken S Harbor the Kraken S Harbor.svg]]
-- Compare with [[step_012]]
+- Compare with
 - Leads to [[ITEM01145_Pure_Powder_of_Swiftness]]
 - Affected by [[The Thermal Gardens]]
 - Leads to [[Assets Vehicles Vehicle Ship Cloud Anchor Freighter Cloud Anchor Freighter.svg]]
 - Connects to [[step_056 (phase_058)]]
-- Requires [[step_091]]
-- Related: [[step_090]]
+- Requires
+- Related:
 - Originates from [[Assets Locations Location City Kelp Silk Kelp Silk.svg]]
 - Connects to [[Abyssal Trenches (D&D_References)]]
 - Related: [[NPC01859_Elric_Winterborn_the_Lost]]
@@ -322,7 +316,7 @@ Being extorted by criminals
 - Parallels [[ENC00339_Combat_Encounter_340]]
 - Affected by [[Ambassador Marina Tidecaller]]
 - Parallels [[cleaving-through-creatures (variant-rules)]]
-- See also: [[step_099]]
+- See also:
 - Related: [[step_039 (phase_086)]]
 - See also: [[ankheg-xmm (monstrosity)]]
 - Related: [[step_016 (phase_054)]]
@@ -331,7 +325,7 @@ Being extorted by criminals
 - Compare with [[SPELL00164_Nature_Spell_165]]
 - Related: [[step_076 (phase_032)]]
 - Influences [[Dead Xphb]]
-- See also: [[step_038]]
+- See also:
 - Leads to [[power-word-stun-xphb (spells)]]
 - Related: [[Link_Integrity_Report (D&D_References)]]
 - Influences [[step_081 (phase_091)]]
@@ -339,7 +333,7 @@ Being extorted by criminals
 - Related: [[magic-missile-xphb (spells)]]
 - Connects to [[LOC00099_Planes_Location_100]]
 - Related: [[Balta Kaine 2]]
-- Connects to [[step_081]]
+- Connects to
 - Leads to [[Assets Locations Location City Interfaith Councils V1 Interfaith Councils.svg]]
 - Related: [[Wind Song Traditions 2]]
 - Leads to [[QUEST00019_Side_Quest_20]]
@@ -354,7 +348,6 @@ Being extorted by criminals
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

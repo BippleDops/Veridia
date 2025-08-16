@@ -18,7 +18,6 @@ aliases: [NPC00289 Idris Darkwater]
 - [[#Delara Dawnstrider the Strong (Personal - Childhood friend)|Delara Dawnstrider the Strong (Personal - Childhood friend)]]
 - [[#Baelor Youngblood (Personal - Best friend)|Baelor Youngblood (Personal - Best friend)]]
 
-
 ---
 aliases: ["Idris Darkwater", "idris darkwater", "Darkwater Idris"]
 tags: [npc, character]
@@ -141,21 +140,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.145Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -170,7 +165,7 @@ Requires champions for trial by combat
 - Originates from [[Indefinite Madness]]
 - Requires [[ability-score-improvement-xphb (feats)]]
 - Influences [[The Reality Storm Crisis]]
-- See also: [[step_006]]
+- See also:
 - Connects to [[The Vote Vault Mystery (D&D_References)]]
 - Parallels [[Law Enforcement Medical Support]]
 - See also: [[Assets Locations Location City Countess Marina Stormcrest V1 Countess Marina Stormcrest.svg]]
@@ -180,7 +175,7 @@ Requires champions for trial by combat
 - Affected by [[Faction_War_Campaign_Act_Structure (D&D_Sourcebooks)]]
 - Compare with [[Cultural Practices]]
 - Originates from [[step_092 (phase_062)]]
-- Originates from [[step_094]]
+- Originates from
 - Influences [[The Golden Anchor Tavern]]
 - Requires [[step_032 (phase_087)]]
 - Requires [[step_019 (phase_071)]]
@@ -197,7 +192,7 @@ Requires champions for trial by combat
 - Related: [[Pre-Submersion Ruins (D&D_References)]]
 - Parallels [[Symbol Heraldry the Cipher Current V1 the Cipher Current.svg]]
 - Requires [[step_015 (phase_029)]]
-- Parallels [[step_038]]
+- Parallels
 - Affected by [[Slithering Tracker Mpmm]]
 - Requires [[Twilight Zone]]
 - Influences [[step_099 (phase_014)]]
@@ -237,8 +232,8 @@ Requires champions for trial by combat
 - See also: [[step_003 (phase_041)]]
 - Influences [[bronze-dragon-scale-mail-xdmg (items)]]
 - Compare with [[Portrait NPC Captain Rhea Blackwater V2 Captain Rhea Blackwater.svg]]
-- Originates from [[step_011]]
-- Compare with [[step_052]]
+- Originates from
+- Compare with
 - Compare with [[Location City Memory Tide Pools Memory Tide Pools.svg]]
 - Connects to [[step_058 (phase_019)]]
 - Originates from [[Gold Dragon]]
@@ -246,7 +241,7 @@ Requires champions for trial by combat
 - Influences [[LORE00276_Legends_Entry_277]]
 - Leads to [[Groundbreaker's Hamme 2]]
 - Influences [[Conference Security Center]]
-- Leads to [[step_100]]
+- Leads to
 - Connects to [[Treasury Department 2]]
 - See also: [[step_038 (phase_038)]]
 - Related: [[Memory Tides (D&D_References)]]
@@ -264,7 +259,6 @@ Requires champions for trial by combat
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

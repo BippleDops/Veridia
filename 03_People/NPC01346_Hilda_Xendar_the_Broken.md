@@ -9,7 +9,6 @@ aliases: [NPC01346 Hilda Xendar the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01346 Hilda Xendar the Broken]
 - [[#Orion Darkwater the Swift (Family - Sibling)|Orion Darkwater the Swift (Family - Sibling)]]
 - [[#Idris Lightbringer the Swift (Political - Ally)|Idris Lightbringer the Swift (Political - Ally)]]
 - [[#Cedric Proudmore the Bold (Personal - Love interest)|Cedric Proudmore the Bold (Personal - Love interest)]]
-
 
 ---
 aliases: ["Hilda Xendar the Broken", "hilda xendar the broken", "Hilda Xendar Broken", "Broken the Xendar Hilda"]
@@ -151,25 +149,21 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.263Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Affected by [[step_086]]
+- Affected by
 - See also: [[Hereditary Houses]]
 - Leads to [[Map World Layer Trade Routes and Corridors V2 Trade Routes and Corridors.svg]]
 - Leads to [[step_069 (phase_092)]]
@@ -196,7 +190,7 @@ Needs help with personal quest
 - Connects to [[Assets Locations Location City Undead Rights Organization Hq V1 Undead Rights Organization Hq.svg]]
 - Requires [[Roleplaying a Mind Flayer Mind Flayer Personality Traits Vgm]]
 - Leads to [[NPC00158_Idris_Quicksilver]]
-- Originates from [[step_055]]
+- Originates from
 - Connects to [[NPC00268_Ysara_Thornweave_the_Wise]]
 - Affected by [[step_069 (phase_048)]]
 - Compare with [[ENC00053_Environmental_Encounter_54]]
@@ -246,10 +240,10 @@ Needs help with personal quest
 - Influences [[Crystal_Corruption_Reference]]
 - Affected by [[Quest - Portal Conspiracy 2]]
 - Connects to [[Sacred Healing Springs]]
-- See also: [[step_044]]
+- See also:
 - Connects to [[Adventuring Gear Xphb]]
 - Influences [[Artificer Magnus Weightless 2]]
-- Parallels [[step_073]]
+- Parallels
 - Connects to [[Silver Mask (D&D_References)]]
 - Compare with [[ENC00444_Combat_Encounter_445]]
 - Originates from [[sanctuary-charm-xdmg (rewards)]]
@@ -264,8 +258,8 @@ Needs help with personal quest
 - Influences [[Location City Keeper Stormheart V1 Keeper Stormheart.svg]]
 - Affected by [[Luck Spirit (D&D_References)]]
 - Connects to [[EVENT00053_Political_Event_54]]
-- Parallels [[step_036]]
-- Connects to [[step_012]]
+- Parallels
+- Connects to
 - Originates from [[The_Island_of_Screams.jpg (02_Worldbuilding)]]
 - Leads to [[Location City Phantom Harbor Charter V1 Phantom Harbor Charter.svg]]
 - Influences [[Assets Locations Location City Surgeon Coral Seamender V1 Surgeon Coral Seamender.svg]]

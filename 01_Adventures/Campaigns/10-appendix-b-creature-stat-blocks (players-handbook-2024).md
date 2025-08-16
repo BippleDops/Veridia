@@ -18,7 +18,6 @@ aliases: [10-appendix-b-creature-stat-blocks (players-handbook-2024)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 10-appendix-b-creature-stat-blocks (players-handbook-2024)
@@ -61,11 +60,9 @@ world: Both
 
 *Source: Adventurer's Codex (2024), p. 346* This appendix provides stat blocks for creatures mentioned elsewhere in the book, particularly in the class, equipment, and spell chapters. See the "rules glossary" for how to read a [[stat-block-xphb (variant-rules)]], and see the *Bestiary Compendium* for even more creatures. The following stat blocks are presented in alphabetical order. When the Dungeon Master uses a stat block, the DM may change details in it. - [[Giant Ape Xmm]] - [[giant-badger-xmm (beast)]] - [[Giant Bat Xmm]] - [[black-bear-xmm]] - [[giant-boar-xmm]] - [[brown-bear-xmm (beast)]] - [[Camel Xmm]] - [[cat-xmm (beast)]] - [[giant-constrictor-snake-xmm (beast)]] - [[giant-crab-xmm (beast)]] - [[Crocodile Xmm]] - [[dire-wolf-xmm]] - [[draft-horse-xmm (beast)]] - [[elephant-xmm (beast)]] - [[elk-xmm (beast)]] - [[frog-xmm (beast)]] - [[giant]] - [[giant]] - [[Goat Xmm]] - [[giant]] - [[giant-spider-xmm (beast)]] - [[giant]] - [[Goat Xmm]] - [[Blood Hawk Xmm]] - [[Imp Xmm]] - [[lion-xmm (beast)]] - [[lizard-xmm (beast)]] - [[Mastiff Xmm]] - [[mule-xmm (beast)]] - [[Giant Octopus Xmm]] - [[Giant Owl Xmm]] - [[Panther Xmm]] - [[pony-xmm (beast)]] - [[pseudodragon-xmm (dragon)]] - [[quasit-xmm (fiend)]] - [[Wererat Xmm]] - [[Raven Xmm]] - [[Reef Shark Xmm]] - [[riding-horse-xmm]] - [[Giant Scorpion Xmm]] - [[flaming-skeleton-xmm (undead)]] - [[slaad-tadpole-xmm (aberration)]] - [[sphinx]] - [[phase-spider-xmm (monstrosity)]] - [[sprite-xmm (fey)]] - [[Weretiger Xmm]] - [[venomous-snake-xmm]] - [[warhorse-xmm (beast)]] - [[giant-weasel-xmm (beast)]] - [[werewolf-xmm (monstrosity)]] - [[Zombie Xmm]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 10 appendix b creature stat blocks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 10 appendix b creature stat blocks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 appendix b creature stat blocks. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
@@ -96,8 +93,7 @@ world: Both
 Connected to the main villain's plan
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -106,7 +102,6 @@ Connected to the main villain's plan
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -126,13 +121,13 @@ Connected to the main villain's plan
 ## Connections
 
 - Influences [[The Tide Rises (D&D_Statblocks)]]
-- Requires [[step_072]]
+- Requires
 - Parallels [[Crisis Communication Array]]
 - Influences [[Technology Dimensional Sensors]]
 - Leads to [[modron-monodrone-xmm (construct)]]
 - Requires [[Resistance Leader Thane Freeheart]]
 - See also: [[gnome-flandal-steelskin-mtf (deities)]]
-- Compare with [[step_086]]
+- Compare with
 - Leads to [[Assets Portraits Portrait NPC Quest Storm Lord S Challenge Quest Storm Lord S Challenge.svg]]
 - Leads to [[Portrait NPC Marcus Shardbreaker Grimm V2 Marcus Shardbreaker Grimm.svg_1 (Portraits)]]
 - Requires [[Combat Master Surge Battlewright]]
@@ -145,14 +140,14 @@ Connected to the main villain's plan
 - Compare with [[step_034 (phase_015)]]
 - Affected by [[step_056 (phase_097)]]
 - Connects to [[Scarab of Protection Xdmg]]
-- Requires [[step_019]]
+- Requires
 - Originates from [[step_087 (phase_010)]]
 - See also: [[Acid Xphb]]
 - Originates from [[03_Mechanics_Honesty_Mechanics_Quick_Ref]]
 - Influences [[The Shadow War Coalition]]
 - Requires [[Assets Locations Location City Merchant Delilah Currentrunner V1 Merchant Delilah Currentrunner.svg]]
 - Connects to [[step_082 (phase_028)]]
-- Influences [[step_021]]
+- Influences
 - Compare with [[Temporal Harvest (D&D_References)]]
 - See also: [[The Spire of Knowledge]]
 - Compare with [[NPC0021_Vera_Stormwind_the_Just]]
@@ -191,7 +186,7 @@ Connected to the main villain's plan
 - Compare with [[SPELL00084_Arcane_Spell_85]]
 - Connects to [[Quest - The Seventh Song]]
 - Originates from [[FAC00017_Cults_18]]
-- Affected by [[step_017]]
+- Affected by
 - Compare with [[bodak-mpmm (undead)]]
 - Related: [[Prismari Primer Scc]]
 - Affected by [[Forgotten Realms Mystra]]
@@ -210,7 +205,7 @@ Connected to the main villain's plan
 - Connects to [[Steel Depthguard (D&D_References)]]
 - Connects to [[Cloak of the Manta Ray Xdmg]]
 - Originates from [[step_044 (phase_031)]]
-- Originates from [[step_048]]
+- Originates from
 - Parallels [[step_081 (phase_017)]]
 - Connects to [[location-city-memory-thief-v1-memory-thief.svg]]
 - Originates from [[Warrior Thane Visionward 2]]

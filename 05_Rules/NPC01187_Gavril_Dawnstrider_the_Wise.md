@@ -18,7 +18,6 @@ aliases: [NPC01187 Gavril Dawnstrider the Wise]
 - [[#Kaelen Crystalbrook the Cunning (Criminal - Accomplice)|Kaelen Crystalbrook the Cunning (Criminal - Accomplice)]]
 - [[#Lyanna Dawnstrider the Risen (Political - Puppet)|Lyanna Dawnstrider the Risen (Political - Puppet)]]
 
-
 ---
 aliases: ["Gavril Dawnstrider the Wise", "gavril dawnstrider the wise", "Gavril Dawnstrider Wise", "Wise the Dawnstrider Gavril"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.246Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -241,10 +236,10 @@ Has map to lost treasure
 - Compare with [[Symbol Heraldry Thalassa the Pathfinder V1 Thalassa the Pathfinder.svg]]
 - Related: [[NPC00115_Malakai_Ironwood]]
 - Leads to [[Harbor Facilities 2]]
-- Parallels [[step_047]]
+- Parallels
 - Parallels [[combat_narrative_integration]]
 - Influences [[Shadow Resonance Medical Scanner]]
-- Related: [[step_031]]
+- Related:
 - Requires [[step_045 (phase_079)]]
 - Related: [[Cargo Master Holdspace (D&D_References)]]
 - Influences [[Location City Master Gardener Sage Harmony Bloomtender V1 Master Gardener Sage Harmony Bloomtender.svg]]
@@ -256,7 +251,7 @@ Has map to lost treasure
 - Influences [[Active Quests]]
 - Affected by [[Assets Locations Location City Shadow Current Shadow Current.svg]]
 - Related: [[Senator Marius (D&D_Statblocks)]]
-- Related: [[step_046]]
+- Related:
 - Related: [[Duchess Aurora Spirelight]]
 - Affected by [[QUEST00120_Main_Quest_121]]
 - Leads to [[stone-giant-dreamwalker-mpmm (giant)]]
@@ -277,7 +272,6 @@ Has map to lost treasure
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

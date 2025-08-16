@@ -18,7 +18,6 @@ aliases: [NPC01094 Fiora Silverleaf the Swift]
 - [[#Rhiannon Silverleaf the Wise (Political - Puppet)|Rhiannon Silverleaf the Wise (Political - Puppet)]]
 - [[#Hilda Voidwalker the Wanderer (Criminal - Accomplice)|Hilda Voidwalker the Wanderer (Criminal - Accomplice)]]
 
-
 ---
 aliases: ["Fiora Silverleaf the Swift", "fiora silverleaf the swift", "Fiora Silverleaf Swift", "Swift the Silverleaf Fiora"]
 tags: [npc, character]
@@ -152,21 +151,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.236Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -188,27 +183,27 @@ Competitor sabotaging business
 - Originates from [[William''s Living Quarters]]
 - Affected by [[step_041 (phase_061)]]
 - Related: [[Sister Morwyn Veilkeeper (D&D_References)]]
-- Leads to [[step_070]]
+- Leads to
 - Originates from [[Quest - The Crystal Black Market_1 (01_Adventures)]]
 - Compare with [[LORE0094_Secret_of_the_Fallen_Star]]
 - Compare with [[dawn-war-gruumsh-dmg (deities)]]
-- Connects to [[step_029]]
+- Connects to
 - Influences [[NPC01511_Pyria_Jadeclaw_the_Mystic]]
 - Affected by [[New Session]]
-- Compare with [[step_043]]
+- Compare with
 - Leads to [[02_Worldbuilding_Lore_The_Deep_Intelligence_Agency_Director]]
 - Parallels [[Assets Locations Location City Surface Trade Ports Surface Trade Ports.svg]]
 - Connects to [[Underwater Fermentation 2]]
 - Related: [[fabricate-xphb (spells)]]
 - Parallels [[human-names-greek-male-xge (tables)]]
 - Requires [[Staff of Healing Xdmg]]
-- Affected by [[step_099]]
+- Affected by
 - Influences [[Ancient Green Dragon Xmm]]
 - Leads to [[The Time Keeper (D&D_References)]]
 - Related: [[Explorer Captain Reef Deepdiver 2]]
 - Originates from [[Spider Climb Xphb]]
 - Related: [[shovel-xphb (items)]]
-- Requires [[step_087]]
+- Requires
 - Influences [[giant-bat-xmm]]
 - Influences [[Potion of Force Resistance Xdmg]]
 - Parallels [[step_035 (phase_015)]]
@@ -223,8 +218,8 @@ Competitor sabotaging business
 - Affected by [[Uniting_the_Factions.png]]
 - Compare with [[ENC00031_Combat_Encounter_32]]
 - Requires [[step_006 (phase_026)]]
-- Connects to [[step_065]]
-- Connects to [[step_008]]
+- Connects to
+- Connects to
 - Originates from [[step_077 (phase_088)]]
 - Leads to [[ENC00061_Social_Encounter_62]]
 - Related: [[Portrait NPC Shadow Parliament Shadow Parliament.svg]]
@@ -238,7 +233,7 @@ Competitor sabotaging business
 - Originates from [[Dust of Sneezing and Choking Xdmg]]
 - Leads to [[04_Resources_Assets_Symbols_symbol-heraldry-war-commander-umbral-strategis-v1-war-commander-umbral-strategis.svg]]
 - Compare with [[Dockworker_Union_Flyer.md]]
-- Parallels [[step_031]]
+- Parallels
 - Connects to [[Crystal Touched (D&D_References)]]
 - Related: [[Instrument of the Bards Ollamh Harp Xdmg]]
 - Influences [[Divine Intervention Plaza]]
@@ -268,14 +263,13 @@ Competitor sabotaging business
 - Compare with [[Vehicles - Merger Hybrid Vehicles]]
 - See also: [[Relationship_Web]]
 - Requires [[Campaign World]]
-- Requires [[step_093]]
+- Requires
 - Connects to [[Merchant Family Tidewalker 2]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

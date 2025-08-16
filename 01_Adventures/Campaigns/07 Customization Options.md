@@ -18,7 +18,6 @@ aliases: [07 Customization Options]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 07 Customization Options
@@ -53,11 +52,9 @@ world: Both
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 07 customization options is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 07 customization options as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 customization options. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This NPC knows more than they let on
@@ -88,12 +85,10 @@ world: Both
 Witnessed important events in the past
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -121,13 +116,13 @@ Witnessed important events in the past
 - Connects to [[step_004 (phase_033)]]
 - Compare with [[ITEM00443_Mithril_Cloak_of_Fortitude]]
 - Influences [[Navigator Deep Current]]
-- Originates from [[step_096]]
+- Originates from
 - Originates from [[Memory Trading Economy]]
 - Requires [[Session_Zero_Template]]
-- Leads to [[step_014]]
+- Leads to
 - Connects to [[Parliamentary Infiltration Methods (D&D_References)]]
 - Parallels [[Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.png]]
-- Influences [[step_006]]
+- Influences
 - Related: [[QUEST00395_Side_Quest_396]]
 - Leads to [[The Mediator 2]]
 - Originates from [[The Prime Reflection]]
@@ -153,7 +148,7 @@ Witnessed important events in the past
 - Affected by [[step_096 (phase_023)]]
 - Compare with [[Academic Infiltrators]]
 - Leads to [[Portrait NPC the Crimson Pearl the Crimson Pearl.svg]]
-- Connects to [[Quest   The Pressure Cure]]
+- Connects to [[Quest The Pressure Cure]]
 - Related: [[The Clockwork Depths]]
 - Affected by [[NPC01055_Cedric_Voidwalker_the_Wanderer]]
 - Requires [[MON00111_Aberrations_Creature_112]]
@@ -163,13 +158,13 @@ Witnessed important events in the past
 - Influences [[water-walk-xphb (spells)]]
 - Influences [[unicorn-xmm (celestial)]]
 - Related: [[ENC00115_Social_Encounter_116]]
-- Originates from [[step_085]]
+- Originates from
 - Related: [[Symbol Heraldry Echo Prime Cacophony Voidlungs Echo Prime Cacophony Voidlungs.svg]]
 - Originates from [[NPC01572_Gavril_Jadeclaw_the_Redeemed]]
 - Affected by [[Quick Start Guide (D&D_References)]]
-- Connects to [[step_080]]
+- Connects to
 - Originates from [[conditions#Invisible]]
-- Related: [[step_097]]
+- Related:
 - Leads to [[urban-chase-complications (tables)]]
 - Originates from [[Assets Locations Location City Seeds of the Past V1 Seeds of the Past.svg]]
 - See also: [[Trade Route Map]]
@@ -187,7 +182,7 @@ Witnessed important events in the past
 - Requires [[step_090 (phase_019)]]
 - Originates from [[The First Transformation Wave (D&D_References)]]
 - Connects to [[NPC01939_Orion_Nightfall_the_Bold]]
-- Leads to [[step_064]]
+- Leads to
 - Affected by [[NPC00942_Nerys_Silverleaf_the_Wanderer]]
 - Requires [[sword-of-kas-xdmg (items)]]
 - Affected by [[cinnamon-xdmg (items)]]
@@ -197,11 +192,11 @@ Witnessed important events in the past
 - See also: [[step_012 (phase_073)]]
 - Leads to [[Temporal Anchor Points (Lore)]]
 - Affected by [[ENC00103_Environmental_Encounter_104]]
-- Connects to [[step_050]]
+- Connects to
 - Related: [[step_040 (phase_027)]]
 - Requires [[NPC01144_Orion_Hawthorne_the_Wise]]
 - Parallels [[Portrait NPC the Corroded Crown V1 the Corroded Crown.svg]]
-- Affected by [[step_043]]
+- Affected by
 - Affected by [[The Soul Market (D&D_References)]]
 - Originates from [[Counter-Mirror Task Force]]
 - Compare with [[step_006 (phase_024)]]

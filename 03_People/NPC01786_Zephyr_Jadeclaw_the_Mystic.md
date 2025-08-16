@@ -18,7 +18,6 @@ aliases: [NPC01786 Zephyr Jadeclaw the Mystic]
 - [[#Thalia Youngblood the Mystic (Political - Ally)|Thalia Youngblood the Mystic (Political - Ally)]]
 - [[#Delara Quicksilver the Bold (Personal - Nemesis)|Delara Quicksilver the Bold (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Zephyr Jadeclaw the Mystic", "zephyr jadeclaw the mystic", "Zephyr Jadeclaw Mystic", "Mystic the Jadeclaw Zephyrtags: [npc, character, combat, magic, social, lore]er]
@@ -153,16 +152,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.310Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -221,11 +217,10 @@ Modifications:
 - [[NPC00407_Hestara_Dawnstrider]]
 - [[Concept_Map]]
 - [[NPC01017_Vesper_Keenblade_the_Risen]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -235,11 +230,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -265,11 +259,11 @@ Modifications:
 - Originates from [[bastions]]
 - Leads to [[Location City [[Temporal Harvest]] Temporal Harvest.svg]]
 - Affected by [[portrait-npc-seventh-shard-seventh-shard.svg]]
-- See also: [[step_021]]
+- See also:
 - Parallels [[bronze-dragon (legendary-group)]]
 - Parallels [[Skull Lord Mpmm]]
 - Parallels [[step_084 (phase_005)]]
-- Influences [[step_053]]
+- Influences
 - Parallels [[wand-of-fear-xdmg (items)]]
 - See also: [[Lifestyle Expenses Phb]]
 - Connects to [[Cleric Xphb Light Domain Xphb]]
@@ -289,7 +283,7 @@ Modifications:
 - Influences [[Travel Calculator 2]]
 - Requires [[step_018 (phase_030)]]
 - Requires [[young-silver-dragon-xmm (dragon)]]
-- Compare with [[step_087]]
+- Compare with
 - Requires [[NPC01318_Faelyn_Stormwind_the_Strong]]
 - Affected by [[Portrait NPC the Azure Prophet Nerissa V2 the Azure Prophet Nerissa.svg]]
 - Requires [[Portrait NPC [[Captain Marcus]] Ironwill Captain Marcus Ironwill.svg]]
@@ -301,9 +295,9 @@ Modifications:
 - See also: [[Captain Threshold (D&D_References)]]
 - Leads to [[step_070 (phase_042)]]
 - Connects to [[step_004 (phase_038)]]
-- Related: [[step_049]]
+- Related:
 - Leads to [[Memory Merchant Zara Mindweave]]
-- Affected by [[step_038]]
+- Affected by
 - Affected by [[QUEST00047_Main_Quest_48]]
 - Parallels [[Current_Session_Notes (02_Worldbuilding)]]
 - Connects to [[Portrait NPC Emperor Thalassius the Wise V2 Emperor Thalassius the Wise.svg_1 (Portraits)]]
@@ -318,7 +312,7 @@ Modifications:
 - See also: [[Assets Locations [[Location City [[Banker Cornelius Goldflow]] V1 Banker Cornelius Goldflow.svg]]]]
 - Connects to [[[[The Infinite Garden]] 2]]
 - Influences [[Symbol Heraldry Transformation Techniques V1 Transformation Techniques.svg]]
-- Requires [[step_083]]
+- Requires
 - Leads to [[Court Herald Titus]]
 - Leads to [[Engineer Torres Ironbrigh 2]]
 - Leads to [[ochre-jelly-xmm (ooze)]]
@@ -348,7 +342,6 @@ Modifications:
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC01180 Aeliana Zephyrblade the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01180 Aeliana Zephyrblade the Redeemed]
 - [[#Jorah Moonshadow the Wise (Criminal - Fence)|Jorah Moonshadow the Wise (Criminal - Fence)]]
 - [[#Qadim Blackstone the Bold (Personal - Ex-lover)|Qadim Blackstone the Bold (Personal - Ex-lover)]]
 - [[#Delara Dawnstrider the Redeemed (Personal - Love interest)|Delara Dawnstrider the Redeemed (Personal - Love interest)]]
-
 
 ---
 aliases: ["Aeliana Zephyrblade the Redeemed", "aeliana zephyrblade the redeemed", "Aeliana Zephyrblade Redeemed", "Redeemed the Zephyrblade Aeliana"]
@@ -147,26 +145,22 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.245Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Affected by [[skulker-xphb (feats)]]
-- Influences [[step_100]]
+- Influences
 - Affected by [[Keeper of the Past, Elderly Morgan 2]]
 - Influences [[The Silent Watch]]
 - Connects to [[Community Center Network]]
@@ -181,8 +175,8 @@ Has map to lost treasure
 - Parallels [[Symbol Heraldry Crystal Wardens V1 Crystal Wardens.svg]]
 - Connects to [[modron-monodrone-xmm (construct)]]
 - Parallels [[Memory Coral Reefs (D&D_References)]]
-- Affected by [[step_044]]
-- Leads to [[step_021]]
+- Affected by
+- Leads to
 - Parallels [[halfling-charmalaine-mtf (deities)]]
 - Requires [[Darkquill's Rare Books]]
 - Parallels [[creating-a-rival-rival-xge (tables)]]
@@ -212,7 +206,7 @@ Has map to lost treasure
 - See also: [[DUN00194_Dungeon_195]]
 - Compare with [[Symbol Heraldry Cross Realm Agricultural Exchang Cross Realm Agricultural Exchang.svg]]
 - Requires [[The Scream Archives (D&D_References)]]
-- Parallels [[step_063]]
+- Parallels
 - Leads to [[Void-warded Cloak (D&D_References)]]
 - Leads to [[Keeper Thundercall (D&D_References)]]
 - Related: [[Portrait NPC Aria... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
@@ -223,7 +217,7 @@ Has map to lost treasure
 - Influences [[Assets Locations Location City Memory Rights Debate V1 Memory Rights Debate.svg]]
 - Affected by [[LORE00243_Legends_Entry_244]]
 - Related: [[The Godhead Ritual 2]]
-- Affected by [[step_049]]
+- Affected by
 - Leads to [[MON00076_Undead_Creature_77]]
 - Related: [[NPC01568_Lyanna_Winterborn_the_Strong]]
 - Leads to [[step_018 (phase_068)]]
@@ -231,9 +225,9 @@ Has map to lost treasure
 - Related: [[Assets Locations Location City Master Gardener Sage Harmony Bloomtender Master Gardener Sage Harmony Bloomtender.svg]]
 - Connects to [[DC Guidelines]]
 - See also: [[ENC00191_Environmental_Encounter_192]]
-- Leads to [[step_069]]
+- Leads to
 - Requires [[SPELL00008_Nature_Spell_9]]
-- Related: [[step_056]]
+- Related:
 - Affected by [[yuan-ti-mind-whisperer-mpmm]]
 - Requires [[step_046 (phase_068)]]
 - Affected by [[README 2]]
@@ -248,7 +242,7 @@ Has map to lost treasure
 - Requires [[Initiative Tracker (D&D_References)]]
 - Affected by [[Sister Maria Purelight]]
 - Originates from [[ITEM0054_Glorious_Pendant_of_Power]]
-- Affected by [[step_033]]
+- Affected by
 - Connects to [[step_039 (phase_031)]]
 - Parallels [[step_052 (phase_012)]]
 - Leads to [[NPC00155_Hilda_Thornweave]]
@@ -256,15 +250,15 @@ Has map to lost treasure
 - Originates from [[QUEST00279_Side_Quest_280]]
 - Related: [[Portrait NPC Quest the Corruption Cure V2 Quest the Corruption Cure.svg]]
 - Requires [[instrument-of-the-bards-ollamh-harp-xdmg (items)]]
-- Parallels [[step_081]]
+- Parallels
 - Originates from [[Assets Portraits Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg]]
 - Leads to [[Heavily Obscured Xphb]]
 - Parallels [[Royal Guard (D&D_References)]]
 - Connects to [[Captain Sarah Ironheart]]
 - See also: [[The Grand Crystal Exchange 2]]
 - Parallels [[Assets Locations Location City Court Herald Titus Court Herald Titus.svg]]
-- Compare with [[step_019]]
-- Related: [[step_058]]
+- Compare with
+- Related:
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

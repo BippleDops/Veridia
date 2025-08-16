@@ -18,7 +18,6 @@ aliases: [NPC00141 Elric Moonshadow the Wise]
 - [[#Dara Keenblade (Family - Cousin)|Dara Keenblade (Family - Cousin)]]
 - [[#Jorah Darkwater (Criminal - Fence)|Jorah Darkwater (Criminal - Fence)]]
 
-
 ---
 aliases: ["Elric Moonshadow the Wise", "elric moonshadow the wise", "Elric Moonshadow Wise", "Wise the Moonshadow Elric"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.128Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -200,7 +195,7 @@ Requires champions for trial by combat
 - Related: [[Shadow Admiral Vex]]
 - Affected by [[step_086 (phase_043)]]
 - Connects to [[step_038 (phase_066)]]
-- Originates from [[step_090]]
+- Originates from
 - Originates from [[Summon Fiend Xphb]]
 - Parallels [[Shadow Currency]]
 - Compare with [[NPC0124_Ewan_Darkwater]]
@@ -213,7 +208,7 @@ Requires champions for trial by combat
 - Originates from [[Data Analyst Current Patternweave 2]]
 - Affected by [[step_094 (phase_093)]]
 - Leads to [[step_038 (phase_049)]]
-- See also: [[step_074]]
+- See also:
 - Requires [[dwarven-tharmekhul-mtf (deities)]]
 - Parallels [[ENC00254_Social_Encounter_255]]
 - Connects to [[step_010 (phase_016)]]
@@ -222,7 +217,7 @@ Requires champions for trial by combat
 - See also: [[ENC00164_Combat_Encounter_165]]
 - Parallels [[Sterling Goldbalance (D&D_References)]]
 - Requires [[Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg_1 (Portraits)]]
-- Leads to [[step_089]]
+- Leads to
 - Parallels [[Heart of Eternal Vigilance]]
 - Requires [[Aethermoor_Royal_Navy (02_Worldbuilding)]]
 - Originates from [[tankard]]
@@ -253,8 +248,8 @@ Requires champions for trial by combat
 - Influences [[NPC01649_Ysara_Lightbringer_the_Bold]]
 - Influences [[Portrait NPC Queen Seraphina Lumengarde Queen Seraphina Lumengarde.svg]]
 - Originates from [[Embroidered Glove Set With Jewel Chips Xdmg]]
-- Related: [[step_019]]
-- Connects to [[step_032]]
+- Related:
+- Connects to
 - Compare with [[step_052 (phase_055)]]
 - Compare with [[Silvered Weapon Xdmg]]
 - Related: [[ITEM01154_Greater_Elixir_of_Vigor]]
@@ -274,7 +269,6 @@ Requires champions for trial by combat
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

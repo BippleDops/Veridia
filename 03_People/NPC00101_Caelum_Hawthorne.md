@@ -18,7 +18,6 @@ aliases: [NPC00101 Caelum Hawthorne]
 - [[#Wynne Darkwater the Swift (Political - Spy)|Wynne Darkwater the Swift (Political - Spy)]]
 - [[#Delara Blackstone (Political - Ally)|Delara Blackstone (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Caelum Hawthorne", "caelum hawthorne", "Hawthorne Caelum"]
@@ -144,16 +143,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.123Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -198,11 +194,10 @@ Wants rivals investigated
 - [[NPC01447_Baelor_Winterborn_the_Strong]]
 - [[Downtime_Activities]]
 - [[MOC_Quests]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -210,11 +205,10 @@ Wants rivals investigated
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -232,7 +226,7 @@ Wants rivals investigated
 - Leads to [[Adult Blue Dragon Xmm]]
 - Compare with [[Disintegrate Xphb]]
 - Requires [[Assets Locations Location City Shadow Crystals V1 Shadow Crystals.svg]]
-- Influences [[step_029]]
+- Influences
 - Parallels [[Assets Locations Location City Memory Sanctity Laws V1 Memory Sanctity Laws.svg]]
 - Influences [[Young Green Dragon Xmm]]
 - Influences [[step_002 (phase_008)]]
@@ -281,14 +275,14 @@ Wants rivals investigated
 - Influences [[LORE00225_Legends_Entry_226]]
 - Affected by [[Assets Locations Location City Reality Anchor Network V1 Reality Anchor Network.svg]]
 - Connects to [[spell-scroll-cantrip-xdmg (items)]]
-- See also: [[step_084]]
+- See also:
 - Parallels [[Assets Locations Location City the Spectral Gallery V1 the Spectral Gallery.svg]]
 - Originates from [[Quest - The Haunted Depths 2]]
 - Leads to [[LORE00159_Legends_Entry_160]]
 - Originates from [[QUEST00106_Personal_Quest_107]]
 - Requires [[list-spells-classes-tempest-domain (lists)]]
 - See also: [[Current Peaceweaver 2]]
-- Requires [[step_066]]
+- Requires
 - Related: [[PHASE_1_COMPLETE]]
 - Requires [[MON00124_Undead_Creature_125]]
 - Related: [[Assets Locations Location City Ancient Echo Truthfinder Ancient Echo Truthfinder.svg]]
@@ -297,7 +291,7 @@ Wants rivals investigated
 - See also: [[ITEM00709_Infernal_Crown_of_the_Gods]]
 - Parallels [[step_036 (phase_007)]]
 - Leads to [[step_058 (phase_011)]]
-- Connects to [[step_080]]
+- Connects to
 - Parallels [[ITEM01416_Elegant_Lock_of_Convenience]]
 - Compare with [[The Maritime Quarter]]
 - Related: [[LOC00179_Cities_Location_180]]
@@ -311,7 +305,7 @@ Wants rivals investigated
 - Requires [[step_088 (phase_072)]]
 - See also: [[LORE00074_History_Entry_75]]
 - Affected by [[NPC01949_Gavril_Darkwater_the_Strong]]
-- See also: [[step_030]]
+- See also:
 - See also: [[The Tide Singers]]
 - Affected by [[The Crystal Renaissance 2]]
 - Originates from [[MON00140_Constructs_Creature_141]]
@@ -323,7 +317,6 @@ Wants rivals investigated
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

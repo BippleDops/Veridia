@@ -18,7 +18,6 @@ aliases: [NPC00600 Pyria Lightbringer the Broken]
 - [[#Caelum Proudmore the Strong (Professional - Partner)|Caelum Proudmore the Strong (Professional - Partner)]]
 - [[#Caelum Quicksilver (Professional - Mentor)|Caelum Quicksilver (Professional - Mentor)]]
 
-
 ---
 aliases: ["Pyria Lightbringer the Broken", "pyria lightbringer the broken", "Pyria Lightbringer Broken", "Broken the Lightbringer Pyria"]
 tags: [npc, character]
@@ -152,21 +151,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.181Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,7 +170,7 @@ Discovered something valuable
 - See also: [[Master Elena Preserver]]
 - Originates from [[step_065 (phase_049)]]
 - See also: [[QUEST00364_Side_Quest_365]]
-- Parallels [[step_016]]
+- Parallels
 - Connects to [[list-spells-optional-features-chains-of-carceri]]
 - Leads to [[Order of the Silent Vigil (Groups)]]
 - Requires [[NPC01673_Malakai_Darkwater_the_Guardian]]
@@ -187,14 +182,14 @@ Discovered something valuable
 - Parallels [[LORE0009_Secret_of_the_Dragon_Wars]]
 - Parallels [[step_076 (phase_079)]]
 - Leads to [[Assets Locations Location City Old Sally Seasprayer V1 Old Sally Seasprayer.svg]]
-- See also: [[step_033]]
+- See also:
 - Affected by [[step_025 (phase_065)]]
 - Parallels [[ITEM00080_Frost_Dagger_of_the_Ancients]]
 - Connects to [[Senator Abyssos Traditionkeeper]]
 - Connects to [[step_051 (phase_081)]]
 - Related: [[step_012 (phase_074)]]
 - Influences [[Replacement Survivor Support Groups (D&D_References)]]
-- Parallels [[step_028]]
+- Parallels
 - Leads to [[ITEM01316_Elegant_Map_Case_of_Durability]]
 - Affected by [[Legal Scholar Professor Depth Lawkeeper 2]]
 - See also: [[step_059 (phase_075)]]
@@ -208,8 +203,8 @@ Discovered something valuable
 - Originates from [[step_053 (phase_028)]]
 - Influences [[weapons-xphb (tables)]]
 - Compare with [[Assets Portraits Portrait NPC Deepwater Banking Consortium Deepwater Banking Consortium.svg]]
-- Parallels [[step_070]]
-- Parallels [[step_077]]
+- Parallels
+- Parallels
 - Leads to [[step_038 (phase_075)]]
 - Originates from [[step_034 (phase_042)]]
 - Compare with [[Assets Portraits Portrait NPC Captain Prism Shield Valeria Captain Prism Shield Valeria.svg]]
@@ -223,7 +218,7 @@ Discovered something valuable
 - Originates from [[ITEM00153_Blazing_Axe_of_Wounding]]
 - Affected by [[Manticore Xmm]]
 - See also: [[The Deserter 2]]
-- Leads to [[step_006]]
+- Leads to
 - Compare with [[step_074 (phase_064)]]
 - Requires [[Poison Needle Trap Xge]]
 - See also: [[ITEM01498_Ornate_Spyglass_of_Durability]]
@@ -245,7 +240,7 @@ Discovered something valuable
 - Influences [[LOC0049_Grovehollow]]
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-crystal-pirate-crew-crystal-pirate-crew.svg]]
 - Requires [[ring-of-water-walking-xdmg (items)]]
-- Compare with [[step_028]]
+- Compare with
 - Compare with [[NPC01770_Solas_Dawnstrider_the_Swift]]
 - Requires [[scripts]]
 - Affected by [[step_032 (phase_090)]]
@@ -267,7 +262,7 @@ Discovered something valuable
 - Compare with [[thunderclap-xphb (spells)]]
 - Compare with [[ITEM00464_Mithril_Cloak_of_Protection]]
 - Related: [[Elder Matthias Stoneward 2]]
-- Leads to [[step_068]]
+- Leads to
 - Compare with [[ENC0078_Random_Encounter_79]]
 - Connects to [[Portrait NPC Lord Aldric Blackwater V1 Lord Aldric Blackwater.svg]]
 
@@ -275,7 +270,6 @@ Discovered something valuable
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

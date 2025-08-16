@@ -18,7 +18,6 @@ aliases: [NPC00913 Branwen Youngblood the Bold]
 - [[#Rhiannon Stormwind the Swift (Criminal - Accomplice)|Rhiannon Stormwind the Swift (Criminal - Accomplice)]]
 - [[#Hestara Nightfall the Scholar (Family - Sibling)|Hestara Nightfall the Scholar (Family - Sibling)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Branwen Youngblood the Bold", "branwen youngblood the bold", "Branwen Youngblood Bold", "Bold the Youngblood Branwen"]
@@ -142,27 +141,23 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.218Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -171,17 +166,16 @@ Competitor sabotaging business
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Affected by [[Keeper Light Archive]]
 - Influences [[step_070 (phase_092)]]
-- Originates from [[step_007]]
+- Originates from
 - Influences [[step_048 (phase_053)]]
 - See also: [[Weaponsmith Captain Marcus Sharpedge]]
 - Affected by [[Meld Into Stone Xphb]]
@@ -206,19 +200,19 @@ Competitor sabotaging business
 - Requires [[step_002 (phase_009)]]
 - Leads to [[crystal-xphb (items)]]
 - Leads to [[DUN00032_Dungeon_33]]
-- Compare with [[step_090]]
+- Compare with
 - Influences [[step_062 (phase_013)]]
 - Originates from [[giant-crocodile-xmm]]
 - Affected by [[Harmonic Mind Contro]]
 - Compare with [[SHOP00007_General_Shop_8]]
 - Related: [[Security Chief Commander Marina Tideguard]]
 - Affected by [[step_063 (phase_007)]]
-- Compare with [[step_066]]
-- Connects to [[step_019]]
+- Compare with
+- Connects to
 - See also: [[Symbol Heraldry the Sunken Observatory V1 the Sunken Observatory.svg]]
 - Connects to [[Tempest Archipelago]]
 - Connects to [[Quest - The Drowned Prophecy_1 (01_Adventures)]]
-- Originates from [[step_004]]
+- Originates from
 - Influences [[Shadow Civil Rights Movement]]
 - See also: [[Session Notes Template]]
 - Leads to [[portrait-npc-the-barnacle-the-barnacle.svg]]
@@ -229,10 +223,10 @@ Competitor sabotaging business
 - See also: [[The Crystal Sovereign 2]]
 - Influences [[ITEM00668_Warded_Gauntlets_of_Resistance]]
 - Compare with [[grazzt-mtf (legendary-group)]]
-- Compare with [[step_054]]
+- Compare with
 - Parallels [[Symbol Heraldry the Anonymous Accord the Anonymous Accord.svg]]
 - Requires [[Portrait NPC Commodity Queen Abundance Commodity Queen Abundance.svg_1 (Portraits)]]
-- See also: [[step_024]]
+- See also:
 - See also: [[SPELL00017_Arcane_Spell_18]]
 - Connects to [[beast-sense-xphb (spells)]]
 - Connects to [[step_037 (phase_069)]]
@@ -248,7 +242,7 @@ Competitor sabotaging business
 - Connects to [[Figurine of Wondrous Power Obsidian Steed]]
 - Compare with [[Interfaith Dialogue (D&D_References)]]
 - Affected by [[step_064 (phase_061)]]
-- Parallels [[step_088]]
+- Parallels
 - Originates from [[List Spells Optional Features Otherworldly]]
 - Parallels [[Session Management Plot Threads]]
 - See also: [[Professional Training (D&D_References)]]
@@ -271,7 +265,7 @@ Competitor sabotaging business
 - Related: [[supplemental-tables-absent-parent-xge (tables)]]
 - Parallels [[EVENT00084_Political_Event_85]]
 - Leads to [[Portrait NPC Abys... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
-- Connects to [[step_081]]
+- Connects to
 - Influences [[SPELL00008_Nature_Spell_9]]
 - Compare with [[step_069 (phase_063)]]
 - Connects to [[roleplaying-a-yuan-ti-yuan-ti-flaws-vgm (tables)]]
@@ -284,7 +278,6 @@ Competitor sabotaging business
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

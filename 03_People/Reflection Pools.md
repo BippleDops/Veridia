@@ -9,7 +9,6 @@ aliases: [Reflection Pools]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_reflection_pools_dramatic.png]]
 
-
 ## Table of Contents
 - [[#Stats|Stats]]
 - [[#Relationships|Relationships]]
@@ -21,7 +20,6 @@ aliases: [Reflection Pools]
 - [[#Lifestyle Improvements|Lifestyle Improvements]]
 - [[#Contradictions Improvements|Contradictions Improvements]]
 - [[#Material_Culture Improvements|Material_Culture Improvements]]
-
 
 ---
 
@@ -79,7 +77,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -325,7 +323,6 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 - [[Original Glaucus (D&D_References)]]
 - [[Senator Glaucus (D&D_References)]]
 
-
 ## Connections
 
 - Related: [[step_010 (phase_027)]]
@@ -340,7 +337,7 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 - Compare with [[step_008 (phase_027)]]
 - Originates from [[step_005 (phase_083)]]
 - Leads to [[Portrait NPC Captain Torrent Freewater V2 Captain Torrent Freewater.svg]]
-- See also: [[step_044]]
+- See also:
 - Leads to [[step_077 (phase_076)]]
 - Influences [[step_008 (phase_022)]]
 - Related: [[Portrait NPC Duke Theron Depthguard V2 Duke Theron Depthguard.svg]]
@@ -352,7 +349,7 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 - Affected by [[LORE00276_Prophecies_Entry_277]]
 - Influences [[SPELL00164_Divine_Spell_165]]
 - Affected by [[Evidence Recording Glass]]
-- Affected by [[step_054]]
+- Affected by
 - Originates from [[Crimson Reef]]
 - Leads to [[step_010 (phase_047)]]
 - Influences [[Quest - The Family Reunion_1 (01_Adventures)]]
@@ -370,14 +367,14 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 - Connects to [[Creation Xphb]]
 - Related: [[step_097 (phase_074)]]
 - Originates from [[giant-eagle-xmm]]
-- Related: [[step_089]]
+- Related:
 - Originates from [[Quest - Neural Revolution_1 (01_Adventures)]]
-- Requires [[step_038]]
+- Requires
 - Connects to [[LORE00321_Legends_Entry_322]]
 - Connects to [[Northville]]
 - Related: [[step_037 (phase_017)]]
 - Connects to [[Creature Creature Maw Demon Mpmm V4 Maw Demon Mpmm.png]]
-- Affected by [[step_042]]
+- Affected by
 - Compare with [[NPC00013_Ysara_Crystalbrook_the_Broken]]
 - Related: [[Law Enforcement 2]]
 - Leads to [[NPC00578_Vesper_Hawthorne_the_Wanderer]]
@@ -389,7 +386,7 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 - Requires [[LOC00169_Cities_Location_170]]
 - Compare with [[step_062 (phase_024)]]
 - Originates from [[Assets Locations Location City the Reflection Pools V1 the Reflection Pools.svg]]
-- Compare with [[step_078]]
+- Compare with
 - Related: [[step_034 (phase_074)]]
 - Requires [[human-xphb (races)]]
 - Requires [[Location City the Purification Temples the Purification Temples.svg]]
@@ -414,13 +411,13 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 - Influences [[step_066 (phase_007)]]
 - Leads to [[step_089 (phase_041)]]
 - Originates from [[LOC00189_Wilderness_Location_190]]
-- Compare with [[step_070]]
+- Compare with
 - Originates from [[step_045 (phase_047)]]
 - Related: [[NPC01057_Pyria_Quicksilver_the_Scholar]]
 - Compare with [[Swarm of Cranium Rats Mpmm]]
 - Affected by [[Captain Torrent Swiftcurrent (D&D_References)]]
-- Related: [[step_050]]
-- Related: [[step_023]]
+- Related:
+- Related:
 - Affected by [[Gith Tables Githyanki Ideals Mtf]]
 - Connects to [[resistance-xphb (variant-rules)]]
 - Related: [[step_094 (phase_054)]]

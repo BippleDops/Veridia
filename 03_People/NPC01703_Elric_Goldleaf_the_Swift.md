@@ -18,7 +18,6 @@ aliases: [NPC01703 Elric Goldleaf the Swift]
 - [[#Solas Winterborn the Redeemed (Political - Spy)|Solas Winterborn the Redeemed (Political - Spy)]]
 - [[#Orion Winterborn the Broken (Criminal - Handler)|Orion Winterborn the Broken (Criminal - Handler)]]
 
-
 ---
 aliases: ["Elric Goldleaf the Swift", "elric goldleaf the swift", "Elric Goldleaf Swift", "Swift the Goldleaf Elric"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.301Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -174,7 +169,7 @@ Blackmails party into service
 - Related: [[The Crystal Cathedral of Pure Light]]
 - Requires [[Assets Locations Location City Port Abyssos V1 Port Abyssos.svg]]
 - Originates from [[Location City Mediator Serenity Stillwater V1 Mediator Serenity Stillwater.svg]]
-- Requires [[step_016]]
+- Requires
 - Related: [[step_015 (phase_014)]]
 - Related: [[The Memory Nexus]]
 - Compare with [[Inter-Realm Marriage Registry]]
@@ -201,7 +196,7 @@ Blackmails party into service
 - Leads to [[ITEM00917_Superior_Powder_of_Vigor]]
 - See also: [[step_064 (phase_090)]]
 - Requires [[step_100 (phase_057)]]
-- Related: [[step_090]]
+- Related:
 - Connects to [[Reality Stability Commission]]
 - Requires [[NPC01782_Hilda_Grimholt_the_Cunning]]
 - Affected by [[NPC01136_Nerys_Blackstone_the_Lost]]
@@ -212,13 +207,13 @@ Blackmails party into service
 - See also: [[step_003 (phase_035)]]
 - Influences [[Dimensional Fabric 2]]
 - Requires [[LOC00127_Planes_Location_128]]
-- Connects to [[step_014]]
+- Connects to
 - Parallels [[step_051 (phase_023)]]
 - Parallels [[Quest - Two Minds, One Body]]
 - Originates from [[Crystal Navigation Tools (Items)]]
 - See also: [[gold-dragon-xmm (legendary-group)]]
-- Affected by [[step_027]]
-- Leads to [[step_002]]
+- Affected by
+- Leads to
 - Influences [[salamander-fire-snake-xmm]]
 - Connects to [[The Pressure Gates 2]]
 - Related: [[Quest - Harbor Security 2]]
@@ -226,7 +221,7 @@ Blackmails party into service
 - Leads to [[step_008 (phase_044)]]
 - Related: [[ITEM01080_Greater_Potion_of_Healing]]
 - See also: [[wand-of-magic-missiles-xdmg (items)]]
-- Requires [[step_087]]
+- Requires
 - Connects to [[11 Appendix C Tracking Sheets]]
 - Compare with [[aberrant-spirit-xphb (aberration)]]
 - Connects to [[step_049 (phase_040)]]
@@ -245,7 +240,7 @@ Blackmails party into service
 - Related: [[list-spells-optional-features-gift-of-the-depths-xphb]]
 - Originates from [[LOC00197_Towns_Location_198]]
 - Compare with [[Location City Siren Maeve Echoborn Siren Maeve Echoborn.svg]]
-- Related: [[step_014]]
+- Related:
 - See also: [[QUEST00132_Main_Quest_133]]
 - Requires [[NPC01580_Malakai_Quicksilver_the_Wanderer]]
 - Parallels [[Translator Polyglot Petra]]
@@ -269,7 +264,6 @@ Blackmails party into service
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
 ![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

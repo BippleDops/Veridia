@@ -18,7 +18,6 @@ aliases: [NPC01197 Fiora Lightbringer the Lost]
 - [[#Fiora Silverleaf the Lost (Criminal - Informant)|Fiora Silverleaf the Lost (Criminal - Informant)]]
 - [[#Caelum Jadeclaw the Bold (Family - Spouse)|Caelum Jadeclaw the Bold (Family - Spouse)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Fiora Lightbringer the Lost", "fiora lightbringer the lost", "Fiora Lightbringer Lost", "Lost the Lightbringer Fiora"]
@@ -153,27 +152,23 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.247Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -182,11 +177,10 @@ Has map to lost treasure
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -230,7 +224,7 @@ Has map to lost treasure
 - Connects to [[step_007 (phase_008)]]
 - Influences [[Exhaustion (D&D_References)]]
 - Related: [[Crystal Mines (Lore)]]
-- Leads to [[step_086]]
+- Leads to
 - Parallels [[DUN00139_Dungeon_140]]
 - Leads to [[step_040 (phase_028)]]
 - Leads to [[step_069 (phase_039)]]
@@ -269,7 +263,7 @@ Has map to lost treasure
 - Connects to [[NPC_Relationship_Web.png_Quick_Ref]]
 - Originates from [[step_065 (phase_017)]]
 - Influences [[MON00161_Undead_Creature_162]]
-- Requires [[step_029]]
+- Requires
 - Connects to [[step_060 (phase_064)]]
 - Requires [[Portrait NPC King Torrhen Lumengarde V2 King Torrhen Lumengarde.svg_1 (Portraits)]]
 - See also: [[Location City Prophetic Studies Institute V1 Prophetic Studies Institute.svg]]
@@ -280,7 +274,7 @@ Has map to lost treasure
 - Requires [[LORE00232_Legends_Entry_233]]
 - Requires [[Watchtower Prime 2]]
 - See also: [[Captain Thrace Deeprunner (D&D_References)]]
-- Requires [[step_029]]
+- Requires
 - Requires [[Kelp-Based Brewing 2]]
 - See also: [[step_068 (phase_005)]]
 - Originates from [[dawn-war-kord-dmg (deities)]]
@@ -295,7 +289,6 @@ Has map to lost treasure
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

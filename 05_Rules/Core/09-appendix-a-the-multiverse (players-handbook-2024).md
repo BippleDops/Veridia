@@ -18,7 +18,6 @@ aliases: [09-appendix-a-the-multiverse (players-handbook-2024)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 09-appendix-a-the-multiverse (players-handbook-2024)
@@ -56,11 +55,9 @@ world: Both
 - A journal reveals a conspiracy about the cult
 - Strange dreams suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -91,9 +88,7 @@ world: Both
 Knows the location of a key artifact
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -111,13 +106,12 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.227
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 - [[fifty_improvements_20250815_155453]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -136,7 +130,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Royal Palace of Meridian (D&D_References)]]
 - See also: [[Crystal Caves of Aethermoor]]
 - Originates from [[Surgeon Marcus Healhand (D&D_References)]]
-- Leads to [[step_077]]
+- Leads to
 - Connects to [[Assets Locations Location City Historical Preservation Society V1 Historical Preservation Society.svg]]
 - Connects to [[step_079 (phase_037)]]
 - Originates from [[Enemy Xphb]]
@@ -156,9 +150,9 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Assets Locations Location City Umberlee V1 Umberlee.svg]]
 - Affected by [[step_063 (phase_019)]]
 - Parallels [[step_021 (phase_078)]]
-- Requires [[step_093]]
+- Requires
 - Affected by [[Item Artifact Weird Tank Pota V3 Weird Tank Pota.png]]
-- Requires [[step_058]]
+- Requires
 - Affected by [[NPC01856_Idris_Voidwalker_the_Redeemed]]
 - Parallels [[step_083 (phase_045)]]
 - Connects to [[location-city-harbor-patrol-v1-harbor-patrol.svg]]
@@ -174,7 +168,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[NPC00485_Alaric_Winterborn_the_Broken]]
 - See also: [[DUN00105_Dungeon_106]]
 - See also: [[NPC01861_Malakai_Darkwater_the_Lost]]
-- Requires [[step_058]]
+- Requires
 - Compare with [[Assets Locations Location City Reality Monitoring Specialists V1 Reality Monitoring Specialists.svg]]
 - Influences [[The Temporal Observatory 2]]
 - Originates from [[QUEST00035_Side_Quest_36]]
@@ -220,11 +214,11 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[LOC00277_Cities_Location_278]]
 - Originates from [["$python_version" < "3.9"]]
 - Influences [[Assets Locations Location City Pressure Polyps V1 Pressure Polyps.svg]]
-- Parallels [[step_025]]
+- Parallels
 - Affected by [[ITEM01387_Ornate_Compass_of_Convenience]]
 - See also: [[Scroll of Protection Constructs Xdmg]]
 - Related: [[step_017 (phase_045)]]
-- Influences [[step_073]]
+- Influences
 - Related: [[Character_Creation_Extended.md_1 (03_People)_Quick_Ref]]
 - Originates from [[NPC01765_Corvus_Jadeclaw_the_Guardian]]
 - Parallels [[Memory Crystal]]

@@ -9,7 +9,6 @@ aliases: [NPC00378 Malakai Moonshadow the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00378 Malakai Moonshadow the Broken]
 - [[#Orion Proudmore (Criminal - Informant)|Orion Proudmore (Criminal - Informant)]]
 - [[#Gavril Zephyrblade the Mystic (Criminal - Fence)|Gavril Zephyrblade the Mystic (Criminal - Fence)]]
 - [[#Aldric Keenblade the Lost (Political - Spy)|Aldric Keenblade the Lost (Political - Spy)]]
-
 
 ---
 created: 2025-08-15
@@ -161,16 +159,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.155Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -214,11 +209,10 @@ Seeks bodyguards for dangerous journey
 - [[NPC01566_Lyanna_Underhill_the_Redeemed]]
 - [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[Marcus Shardbreaker Grimm_1]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -226,11 +220,10 @@ Seeks bodyguards for dangerous journey
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -239,7 +232,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[Assets Locations [[Location City [[Coral Lifeshaper]] Coral Lifeshaper.svg]]]]
 - Connects to [[Location [[INDEX]]]]
 - Leads to [[LORE00312_History_Entry_313]]
-- Affected by [[step_024]]
+- Affected by
 - Affected by [[LOC00069_Planes_Location_70]]
 - Influences [[Ancient Crystaldeep 2]]
 - Leads to [[Item Artifact Travelers Clothes Xphb V2 Travelers Clothes Xphb.png]]
@@ -252,7 +245,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [[The Depth-Mad Priest, Curator Deep-Voice Thren]]
 - Originates from [[blue-spinel-xdmg (items)]]
 - Compare with [[MON00047_Constructs_Creature_48]]
-- Originates from [[step_060]]
+- Originates from
 - Related: [[centaur-trooper-xmm]]
 - Originates from [[location-city-sister-mourne-sister-mourne.svg]]
 - Influences [[Portrait NPC the Shadow Singer Naia the Shadow Singer Naia.svg]]
@@ -260,11 +253,11 @@ Seeks bodyguards for dangerous journey
 - Requires [[Underwater Medical Society]]
 - Related: [[Cult of the Endless Voi]]
 - Leads to [[Symbol Heraldry Divine Transformation Theolog Divine Transformation Theolog.svg]]
-- See also: [[step_017]]
+- See also:
 - Related: [[Officer Profiling]]
 - Parallels [[Portrait NPC Quest the Runaway Golem Quest the Runaway Golem.svg]]
 - Affected by [[LOC00262_Dungeons_Location_263]]
-- Connects to [[step_017]]
+- Connects to
 - Connects to [[Treasure Hoard Challenge 17 (tables)]]
 - Connects to [[Mixed_Events_Pack_D]]
 - Affected by [[The First Pearl]]
@@ -288,7 +281,7 @@ Seeks bodyguards for dangerous journey
 - Influences [[The Meridian Opera House]]
 - Originates from [[Map Map Pressure Maelstrom Edge V2 Pressure Maelstrom Edge.svg]]
 - Originates from [[step_045 (phase_083)]]
-- Originates from [[step_061]]
+- Originates from
 - Affected by [[Quest - The Sanctuary's Secret]]
 - Related: [[Forgotten Realms Cyric]]
 - Compare with [[INV-006 (02_Worldbuilding)]]
@@ -315,8 +308,8 @@ Seeks bodyguards for dangerous journey
 - Originates from [[NPC00367_Jorah_Brightblade_the_Fallen]]
 - Related: [[step_003 (phase_074)]]
 - Influences [[ITEM00641_Warded_Gauntlets_of_Grace]]
-- Compare with [[step_030]]
-- Connects to [[step_002]]
+- Compare with
+- Connects to
 - Affected by [[Celestial Crystals]]
 - Connects to [[Probabilities Sylvan Forest Encounters]]
 - Originates from [[step_023 (phase_084)]]

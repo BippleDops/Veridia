@@ -18,7 +18,6 @@ aliases: [NPC00457 Corvus Ashford the Bold]
 - [[#Orion Goldleaf the Mystic (Criminal - Target)|Orion Goldleaf the Mystic (Criminal - Target)]]
 - [[#Zephyr Emberfall the Swift (Professional - Rival)|Zephyr Emberfall the Swift (Professional - Rival)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Corvus Ashford the Bold", "corvus ashford the bold", "Corvus Ashford Bold", "Bold the Ashford Corvus"]
@@ -156,27 +155,23 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.165Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -184,11 +179,10 @@ Discovered something valuable
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -214,7 +208,7 @@ Discovered something valuable
 - Connects to [[Portrait NPC Commander Typhoon Blackheart Commander Typhoon Blackheart.svg_1 (Portraits)]]
 - See also: [[Talisman of Ultimate Evil Xdmg]]
 - Originates from [[ENC00419_Combat_Encounter_420]]
-- Originates from [[step_040]]
+- Originates from
 - Requires [[LORE00001_Legends_Entry_2]]
 - Related: [[step_038 (phase_079)]]
 - Connects to [[Location City His Eternal Majesty Keeper of the Throne of Bubbles His Eternal Majesty Keeper of the Throne of Bubbles.svg]]
@@ -268,7 +262,7 @@ Discovered something valuable
 - Originates from [[Crystal Magic 2]]
 - See also: [[Shadow Mastiff Alpha Mpmm]]
 - Connects to [[Services Emergency Protocol Certification]]
-- Connects to [[step_015]]
+- Connects to
 - Requires [[Organization]]
 - Requires [[Keeper Luminous Truehart]]
 - Related: [[Portrait NPC Abyssos Prime Throne of Bubbles V1 Abyssos Prime Throne of Bubbles.svg]]
@@ -283,12 +277,12 @@ Discovered something valuable
 - See also: [[Complete Reality Merger System]]
 - Related: [[Location City Captain Trawl Netcaster Captain Trawl Netcaster.svg]]
 - Related: [[Stone of Controlling Earth Elementals Xdmg]]
-- Compare with [[step_015]]
+- Compare with
 - Connects to [[Crystal - Crystal_Resonance]]
 - Related: [[holy-symbol-varies-holy-symbols-xphb]]
 - Related: [[LOC00240_Wilderness_Location_241]]
 - Requires [[Difficulty Class Typical Dcs Xdmg]]
-- Leads to [[step_001]]
+- Leads to
 - Compare with [[Corruption Gardens]]
 - Parallels [[step_075 (phase_028)]]
 - Compare with [[Illyana Glowstream]]
@@ -297,7 +291,6 @@ Discovered something valuable
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

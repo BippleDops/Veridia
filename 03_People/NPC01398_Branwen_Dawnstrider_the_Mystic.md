@@ -18,7 +18,6 @@ aliases: [NPC01398 Branwen Dawnstrider the Mystic]
 - [[#Corvus Grimholt the Wanderer (Family - Sibling)|Corvus Grimholt the Wanderer (Family - Sibling)]]
 - [[#Felicia Ashford the Scholar (Political - Patron)|Felicia Ashford the Scholar (Political - Patron)]]
 
-
 ---
 aliases: ["Branwen Dawnstrider the Mystic", "branwen dawnstrider the mystic", "Branwen Dawnstrider Mystic", "Mystic the Dawnstrider Branwen"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.269Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,12 +173,12 @@ Forming expedition to dangerous location
 - Related: [[Haven Reef]]
 - Requires [[Chronomancer Paradox]]
 - Connects to [[The Century of Storms]]
-- Affected by [[step_092]]
+- Affected by
 - Affected by [[DUN00001_Dungeon_2]]
 - Leads to [[NPC01782_Hilda_Grimholt_the_Cunning]]
 - Leads to [[Portrait NPC Sir ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Requires [[Portrait NPC Quest the Dying Forest V2 Quest the Dying Forest.svg]]
-- Influences [[step_083]]
+- Influences
 - Leads to [[Keeper Stormheart]]
 - Related: [[secret-doors-xdmg (tables)]]
 - Compare with [[ENC00343_Combat_Encounter_344]]
@@ -202,7 +197,7 @@ Forming expedition to dangerous location
 - Related: [[QUEST00383_Side_Quest_384]]
 - Parallels [[step_019 (phase_041)]]
 - Connects to [[knight-of-the-order-cos (undead)]]
-- Parallels [[step_010]]
+- Parallels
 - See also: [[Quest - The Seventh Song_1 (01_Adventures)]]
 - Originates from [[dust-of-dryness-xdmg (items)]]
 - Originates from [[ITEM01096_Refined_Oil_of_Vigor]]
@@ -219,14 +214,14 @@ Forming expedition to dangerous location
 - Compare with [[Arcturus Lumenblade (D&D_References)]]
 - Connects to [[step_062 (phase_026)]]
 - Originates from [[The_Singer_Beyond.png]]
-- Leads to [[step_025]]
-- Compare with [[step_083]]
+- Leads to
+- Compare with
 - See also: [[Portrait NPC Oracle Nerida the Tidereader Oracle Nerida the Tidereader.svg]]
 - Compare with [[Void-touched Crew Member 2]]
 - Affected by [[step_058 (phase_075)]]
 - Requires [[step_034 (phase_008)]]
-- Related: [[step_008]]
-- Compare with [[step_050]]
+- Related:
+- Compare with
 - Related: [[LORE00094_Legends_Entry_95]]
 - Affected by [[Admiral Mistcurrent]]
 - Compare with [[Missing Persons of Port Meridian]]
@@ -239,7 +234,7 @@ Forming expedition to dangerous location
 - Connects to [[SPELL00112_Arcane_Spell_113]]
 - See also: [[LOC00238_Dungeons_Location_239]]
 - Requires [[step_043 (phase_069)]]
-- Connects to [[step_034]]
+- Connects to
 - See also: [[Cleaning Fish]]
 - Leads to [[The Paradox Constitution 2]]
 - Related: [[step_072 (phase_079)]]
@@ -250,10 +245,10 @@ Forming expedition to dangerous location
 - See also: [[Keeper Temporal Safehaven 2]]
 - Related: [[LORE00330_History_Entry_331]]
 - See also: [[Quest - The Collective Consciousness]]
-- Originates from [[step_052]]
+- Originates from
 - Related: [[Symbol Heraldry Navigation Geography Navigation Geography.svg]]
 - Requires [[NPC0083_Dara_Goldleaf]]
-- Related: [[step_045]]
+- Related:
 - Compare with [[Ceremonial Gold Armor With Black Pearls Xdmg]]
 - Affected by [[Assets Vehicles Vehicle Ship Aethermoor Courier Class Airship Aethermoor Courier Class Airship.png]]
 - Requires [[Light Gardener]]
@@ -265,19 +260,18 @@ Forming expedition to dangerous location
 - Leads to [[Portrait NPC Pressure Angel Benthia V1 Pressure Angel Benthia.png_1 (Portraits)]]
 - Connects to [[Senator Shadow-Glaucus 2]]
 - Connects to [[Location City the Time Keeper V1 the Time Keeper.svg]]
-- Compare with [[step_004]]
+- Compare with
 - Requires [[step_004 (phase_016)]]
 - Affected by [[Assets Locations Location City the Listener S Code V1 the Listener S Code.svg]]
 - Parallels [[step_093 (phase_050)]]
-- Leads to [[step_034]]
+- Leads to
 - Compare with [[Teacher-Administrator Shadowlearn 2]]
-- Compare with [[step_080]]
+- Compare with
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

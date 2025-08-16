@@ -18,7 +18,6 @@ aliases: [NPC01092 Gavril Voidwalker the Broken]
 - [[#Fiora Dawnstrider the Wise (Family - Parent)|Fiora Dawnstrider the Wise (Family - Parent)]]
 - [[#Branwen Keenblade the Strong (Professional - Rival)|Branwen Keenblade the Strong (Professional - Rival)]]
 
-
 ---
 aliases: ["Gavril Voidwalker the Broken", "gavril voidwalker the broken", "Gavril Voidwalker Broken", "Broken the Voidwalker Gavril"]
 tags: [npc, character]
@@ -144,27 +143,23 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.236Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Originates from [[step_020]]
+- Originates from
 - Affected by [[step_091 (phase_073)]]
-- Affected by [[step_098]]
+- Affected by
 - Compare with [[QUEST00000_Main_Quest_1]]
 - Leads to [[The Vault of Whispers (D&D_References)]]
 - Affected by [[ENC00145_Social_Encounter_146]]
@@ -197,14 +192,14 @@ Seeks rare merchandise
 - Connects to [[ITEM00829_Divine_Chalice_of_Eternity]]
 - Compare with [[LOC00133_Wilderness_Location_134]]
 - Influences [[step_097 (phase_090)]]
-- Related: [[step_083]]
+- Related:
 - Related: [[ITEM01038_Concentrated_Powder_of_Swiftness]]
 - Influences [[Map_Whisper_Island_Docks_Sketc]]
 - Related: [[The Luminous Dawn Cathedral]]
 - Originates from [[LOC00044_Dungeons_Location_45]]
 - Originates from [[ITEM00955_Superior_Powder_of_Healing]]
 - Compare with [[bag-of-tricks-gray-xdmg (items)]]
-- Requires [[step_029]]
+- Requires
 - Leads to [[Rest Variants]]
 - Connects to [[Negotiation Strategy]]
 - Related: [[Location City Traditional Craft Districts Traditional Craft Districts.svg]]
@@ -216,10 +211,10 @@ Seeks rare merchandise
 - Influences [[sentient-magic-item-alignment (tables)]]
 - See also: [[urban-encounters (tables)]]
 - Related: [[Lady Catherine Mourning (D&D_References)]]
-- Leads to [[step_029]]
+- Leads to
 - Leads to [[step_015 (phase_082)]]
 - Originates from [[fiery-blast-trap-xge (traps-hazards)]]
-- Requires [[step_099]]
+- Requires
 - Compare with [[step_007 (phase_054)]]
 - Parallels [[Silverquill Trinket Scc]]
 - Influences [[NPC00655_Jorah_Darkwater_the_Seeker]]
@@ -235,7 +230,7 @@ Seeks rare merchandise
 - Influences [[Consequence_Chain_Template]]
 - Leads to [[War of Burning Skies]]
 - Affected by [[step_003 (phase_053)]]
-- Leads to [[step_022]]
+- Leads to
 - Parallels [[Deep Conservative Alliance (D&D_References)]]
 - Compare with [[step_031 (phase_047)]]
 - Originates from [[The Seven Shards Mystery]]
@@ -247,7 +242,7 @@ Seeks rare merchandise
 - Originates from [[step_098 (phase_025)]]
 - Requires [[QUEST00283_Personal_Quest_284]]
 - Influences [[Location City Pressure Technology Pressure Technology.svg]]
-- Related: [[step_035]]
+- Related:
 - See also: [[The Free Traders Alliance (D&D_References)]]
 - Connects to [[sleep-xphb (spells)]]
 - Compare with [[bracers-of-defense-xdmg (items)]]
@@ -256,7 +251,7 @@ Seeks rare merchandise
 - Influences [[02_Worldbuilding_Lore_Temporal_Anchor_Points]]
 - Parallels [[step_045 (phase_080)]]
 - Compare with [[step_035 (phase_083)]]
-- Connects to [[step_020]]
+- Connects to
 - Compare with [[Player Character Options Depth Adapted Background]]
 - Compare with [[LOC0071_Bridgedale]]
 - Related: [[LORE00087_Prophecies_Entry_88]]
@@ -267,7 +262,6 @@ Seeks rare merchandise
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

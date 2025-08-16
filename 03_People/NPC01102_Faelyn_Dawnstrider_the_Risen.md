@@ -9,7 +9,6 @@ aliases: [NPC01102 Faelyn Dawnstrider the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01102 Faelyn Dawnstrider the Risen]
 - [[#Caelum Goldleaf the Bold (Criminal - Fence)|Caelum Goldleaf the Bold (Criminal - Fence)]]
 - [[#Ewan Dawnstrider the Cunning (Family - Parent)|Ewan Dawnstrider the Cunning (Family - Parent)]]
 - [[#Ysara Dawnstrider the Broken (Professional - Mentor)|Ysara Dawnstrider the Broken (Professional - Mentor)]]
-
 
 ---
 aliases: ["Faelyn Dawnstrider the Risen", "faelyn dawnstrider the risen", "Faelyn Dawnstrider Risen", "Risen the Dawnstrider Faelyn"]
@@ -162,28 +160,24 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.237Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Related: [[location-city-royal-court-royal-court.svg]]
 - See also: [[Assets Vehicles Vehicle Ship Altitude Tuned Skiff V2 Altitude Tuned Skiff.svg]]
 - Parallels [[Assets Locations Location City Council of Currents Council of Currents.svg]]
-- See also: [[step_027]]
+- See also:
 - Originates from [[High Archivist Pearl Voidmemory]]
 - Affected by [[MON00081_Aberrations_Creature_82]]
 - Originates from [[MON00166_Undead_Creature_167]]
@@ -207,9 +201,9 @@ Caravan needs guards
 - Leads to [[Assets Locations Location City the Threshold Chambers V1 the Threshold Chambers.svg]]
 - Related: [[step_059 (phase_035)]]
 - Originates from [[Parliamentary Procedures and Loopholes]]
-- Related: [[step_037]]
+- Related:
 - Connects to [[The Crystal-Touched Teacher, Miss Luminara]]
-- Leads to [[step_050]]
+- Leads to
 - Related: [[Captain Hadal Voidwright]]
 - Influences [[Oceanic Historical Society 2]]
 - Affected by [[The Great Circuit 2]]
@@ -226,7 +220,7 @@ Caravan needs guards
 - Requires [[#Star_System_Details]]
 - Parallels [[Portrait NPC Working Class Citizens V1 Working Class Citizens.svg]]
 - Parallels [[portrait-npc-shadow-brokers-shadow-brokers.svg_1 (Portraits)]]
-- Parallels [[step_030]]
+- Parallels
 - Leads to [[step_053 (phase_054)]]
 - See also: [[Location_Prompts - Cities_1 (04_Places)]]
 - Compare with [[Assets Locations Location City Pelagic Cup V1 Pelagic Cup.svg]]
@@ -236,9 +230,9 @@ Caravan needs guards
 - Originates from [[Transformation Mechanics]]
 - See also: [[figuring-out-alien-technology (tables)]]
 - Parallels [[NPC00142_Cedric_Frostwhisper]]
-- Compare with [[step_047]]
+- Compare with
 - Compare with [[Location City Void Current Survivors V1 Void Current Survivors.svg]]
-- Related: [[step_077]]
+- Related:
 - Leads to [[dungeon-dressing-mage-furnishings (tables)]]
 - Affected by [[Transformation Assistance (D&D_References)]]
 - Affected by [[Portrait NPC Marcus Shardbreaker Grimm V2 Marcus Shardbreaker Grimm.svg]]
@@ -260,7 +254,7 @@ Caravan needs guards
 - Related: [[Chime of Opening Xdmg]]
 - Requires [[step_041 (phase_090)]]
 - Parallels [[Assets Locations Location City Protocol Expert Formal Protocol Expert Formal.svg]]
-- Parallels [[step_015]]
+- Parallels
 - See also: [[Merchant Family Alliances]]
 - Connects to [[Reality Anchor Installation]]
 - Originates from [[Scene Scene Crystal Trench Aurora V1 Crystal Trench Aurora.png]]

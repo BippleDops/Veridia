@@ -9,7 +9,6 @@ aliases: [NPC01230 Kaelen Proudmore the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01230 Kaelen Proudmore the Fallen]
 - [[#Hilda Frostwhisper the Seeker (Family - Parent)|Hilda Frostwhisper the Seeker (Family - Parent)]]
 - [[#Zephyr Dawnstrider the Broken (Family - Sibling)|Zephyr Dawnstrider the Broken (Family - Sibling)]]
 - [[#Erasmus Keenblade the Bold (Political - Opposition)|Erasmus Keenblade the Bold (Political - Opposition)]]
-
 
 ---
 aliases: ["Kaelen Proudmore the Fallen", "kaelen proudmore the fallen", "Kaelen Proudmore Fallen", "Fallen the Proudmore Kaelen"]
@@ -162,21 +160,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.251Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -191,7 +185,7 @@ Needs help with personal quest
 - Parallels [[ITEM00100_Thunder_Bow_of_Slaying]]
 - Related: [[blue-sapphire-xdmg (items)]]
 - Related: [[Quest1]]
-- Requires [[step_022]]
+- Requires
 - Leads to [[step_062 (phase_090)]]
 - Affected by [[Syndicate Enforcers (D&D_References)]]
 - Parallels [[step_020 (phase_088)]]
@@ -201,11 +195,11 @@ Needs help with personal quest
 - Affected by [[step_064 (phase_023)]]
 - Affected by [[Shadow Convergence 2]]
 - See also: [[Merchant Thane Goldwhisper 2]]
-- Connects to [[step_071]]
+- Connects to
 - See also: [[ITEM01113_Pure_Incense_of_Healing]]
 - Connects to [[LORE00141_Prophecies_Entry_142]]
 - Leads to [[NPC00084_Dara_Quicksilver]]
-- Compare with [[Quest   The Corruption Cure]]
+- Compare with [[Quest The Corruption Cure]]
 - Requires [[SPELL00048_Divine_Spell_49]]
 - See also: [[Rope Xphb]]
 - Parallels [[LORE00279_Prophecies_Entry_280]]
@@ -216,14 +210,14 @@ Needs help with personal quest
 - See also: [[Location City Emergency Life Support Research Foundation V1 Emergency Life Support Research Foundation.svg]]
 - Leads to [[LOC00150_Cities_Location_151]]
 - Originates from [[ITEM00630_Enchanted_Chain_Mail_of_Protection]]
-- Originates from [[step_026]]
+- Originates from
 - See also: [[04_Resources_Assets_Symbols_symbol-heraldry-the-carrion-court-the-carrion-court.svg]]
 - Influences [[portrait-npc-mayor-s-manor-v2-mayor-s-manor.svg_1 (Portraits)]]
 - Requires [[Regulatory Medical Authorit 2]]
 - See also: [[step_097 (phase_027)]]
 - Related: [[Reference.md]]
 - Leads to [[LOC00231_Planes_Location_232]]
-- Originates from [[step_021]]
+- Originates from
 - Influences [[ENC00075_Combat_Encounter_76]]
 - Leads to [[Hill Encounters Levels 1116 Xge]]
 - Compare with [[Fleet_Dynamics_Generator]]
@@ -234,13 +228,13 @@ Needs help with personal quest
 - Related: [[Session 5 - Storm Warnings]]
 - Affected by [[ITEM01103_Lesser_Crystal_of_Vigor]]
 - Requires [[The Echo Chambers]]
-- Leads to [[step_008]]
+- Leads to
 - Affected by [[Portrait NPC Warrior Priest Abyss Sworn V2 Warrior Priest Abyss Sworn.svg]]
 - Related: [[Quest - Foreign Interests_1 (01_Adventures)]]
 - Influences [[step_086 (phase_014)]]
 - Influences [[step_089 (phase_063)]]
 - Connects to [[Reality Anchoring (D&D_References)]]
-- Related: [[step_016]]
+- Related:
 - Requires [[step_074 (phase_066)]]
 - See also: [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg_Quick_Ref]]
 - Originates from [[The Siren's Rest Tavern 2]]

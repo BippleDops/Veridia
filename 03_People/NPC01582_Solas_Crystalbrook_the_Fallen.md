@@ -9,7 +9,6 @@ aliases: [NPC01582 Solas Crystalbrook the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01582 Solas Crystalbrook the Fallen]
 - [[#Felicia Frostwhisper the Cunning (Family - Child)|Felicia Frostwhisper the Cunning (Family - Child)]]
 - [[#Alaric Keenblade the Bold (Political - Ally)|Alaric Keenblade the Bold (Political - Ally)]]
 - [[#Lyanna Blackstone the Risen (Family - Spouse)|Lyanna Blackstone the Risen (Family - Spouse)]]
-
 
 ---
 aliases: ["Solas Crystalbrook the Fallen", "solas crystalbrook the fallen", "Solas Crystalbrook Fallen", "Fallen the Crystalbrook Solas"]
@@ -159,21 +157,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.288Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -187,7 +181,7 @@ Has information about legendary item
 - Compare with [[Alchemists Fire Xphb]]
 - Compare with [[Blight Xphb]]
 - Leads to [[04_Resources_Assets_Art_Places_Retired_Captain_Bron_Saltbeard.png]]
-- Connects to [[step_032]]
+- Connects to
 - Related: [[Police Chief Sarah Lawkeeper (D&D_References)]]
 - Parallels [[QUEST00089_Main_Quest_90]]
 - Affected by [[step_020 (phase_084)]]
@@ -195,17 +189,17 @@ Has information about legendary item
 - See also: [[LOC00053_Cities_Location_54]]
 - Influences [[Location City the Crystalline Wastes V1 the Crystalline Wastes.svg]]
 - Compare with [[Dancing Lights Xphb]]
-- Originates from [[step_057]]
-- Compare with [[step_087]]
+- Originates from
+- Compare with
 - Connects to [[The Convergence Maze]]
-- Compare with [[step_050]]
+- Compare with
 - Requires [[The Archive of Unremembered Things (D&D_References)]]
 - Parallels [[location-city-the-last-seeds-the-last-seeds.svg]]
 - Influences [[step_063 (phase_091)]]
 - Influences [[#Natural & Mystical Locations]]
 - Related: [[Assets Locations Location City Abyssos Prime Inverse Palace Abyssos Prime Inverse Palace.svg]]
 - Affected by [[Location City Engineer Prisma Depthwright V1 Engineer Prisma Depthwright.svg]]
-- Requires [[step_086]]
+- Requires
 - Parallels [[step_088 (phase_011)]]
 - Leads to [[Blood Spear Cos]]
 - Compare with [[location-city-shipwreck-cove-shipwreck-cove.svg]]
@@ -251,7 +245,7 @@ Has information about legendary item
 - Compare with [[Culinary Dreamweaver Sage Gentlespice (D&D_References)]]
 - Requires [[NPC01596_Fiora_Ironforge_the_Mystic]]
 - Parallels [[Assets Locations Location City Reflection Broker Mirrors Reflection Broker Mirrors.svg]]
-- Connects to [[step_016]]
+- Connects to
 - Parallels [[ENC00379_Combat_Encounter_380]]
 - Leads to [[NPC01465_Ewan_Goldleaf_the_Redeemed]]
 - Requires [[Dragonlance Chemosh Phb]]
@@ -261,21 +255,21 @@ Has information about legendary item
 - Influences [[LOC00177_Dungeons_Location_178]]
 - Related: [[step_084 (phase_083)]]
 - Leads to [[kuo-toa-whip-xmm]]
-- Influences [[step_078]]
+- Influences
 - See also: [[Location City Liminal Constantinople V1 Liminal Constantinople.svg]]
 - Requires [[Corruption Detectors]]
 - Connects to [[Malachar the Mindweave 2]]
-- Compare with [[step_048]]
+- Compare with
 - Parallels [[Shadow Ambush - Optional]]
 - Requires [[step_068 (phase_056)]]
 - See also: [[step_051 (phase_081)]]
 - Influences [[Portrait NPC Investigate the Crystal Plague V2 Investigate the Crystal Plague.svg_1 (Portraits)]]
-- Compare with [[step_079]]
+- Compare with
 - Affected by [[The Reunification Coalition]]
 - Influences [[step_051 (phase_073)]]
 - Connects to [[step_024 (phase_082)]]
 - Affected by [[Duergar in the Clan Clans Notable Trait Mtf]]
-- Affected by [[step_014]]
+- Affected by
 - Affected by [[step_057 (phase_099)]]
 
 ## Plot Hooks

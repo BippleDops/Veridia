@@ -18,7 +18,6 @@ aliases: [NPC00303 Ysara Jadeclaw]
 - [[#Idris Emberfall (Family - Sibling)|Idris Emberfall (Family - Sibling)]]
 - [[#Kaelen Quicksilver (Political - Ally)|Kaelen Quicksilver (Political - Ally)]]
 
-
 ---
 aliases: ["Ysara Jadeclaw", "ysara jadeclaw", "Jadeclaw Ysara"]
 tags: [npc, character]
@@ -147,30 +146,26 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.146Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - See also: [[NPC00408_Gareth_Stormwind]]
 - Originates from [[step_061 (phase_048)]]
 - Influences [[QUEST00060_Main_Quest_61]]
-- Affected by [[Quest   The Corruption Files]]
+- Affected by [[Quest The Corruption Files]]
 - Originates from [[Cross-Realm Travel Guidelines]]
-- Parallels [[step_001]]
+- Parallels
 - Connects to [[README]]
 - Affected by [[NPC00610_Nerys_Oakenshield_the_Seeker]]
 - Connects to [[location-city-depth-raiders-v1-depth-raiders.svg]]
@@ -188,8 +183,8 @@ Seeks bodyguards for dangerous journey
 - Related: [[step_043 (phase_024)]]
 - Affected by [[Location City the Hadal Depths V1 the Hadal Depths.svg]]
 - Requires [[The Healer's Persecution]]
-- Originates from [[step_011]]
-- Influences [[step_071]]
+- Originates from
+- Influences
 - Influences [[Geology Specialist Stone Soundshape (People)]]
 - Related: [[LORE00293_History_Entry_294]]
 - Compare with [[step_069 (phase_018)]]
@@ -198,13 +193,13 @@ Seeks bodyguards for dangerous journey
 - Related: [[step_055 (phase_041)]]
 - Influences [[step_098 (phase_066)]]
 - Influences [[The Vault Keepers 2]]
-- Originates from [[step_077]]
+- Originates from
 - See also: [[Sorceress Luna Prismatic 2]]
 - Parallels [[Portrait NPC High Priest Absence V1 High Priest Absence.svg]]
 - Requires [[Sergeant Instructor Scalpel]]
 - See also: [[step_045 (phase_087)]]
-- Compare with [[step_077]]
-- Parallels [[step_091]]
+- Compare with
+- Parallels
 - Related: [[Location City City Council of Aquabyssos City Council of Aquabyssos.svg]]
 - Influences [[location-city-market-mystery-v1-market-mystery.svg]]
 - Compare with [[step_031 (phase_079)]]
@@ -216,8 +211,8 @@ Seeks bodyguards for dangerous journey
 - Originates from [[Portrait NPC Captain Morgrim Lastvessel V1 Captain Morgrim Lastvessel.svg]]
 - Originates from [[EVENT00025_Political_Event_26]]
 - Requires [[step_018 (phase_082)]]
-- Leads to [[step_010]]
-- Leads to [[step_036]]
+- Leads to
+- Leads to
 - Related: [[abyssal-wretch-mtf (fiend)]]
 - Leads to [[step_091 (phase_008)]]
 - See also: [[ITEM00728_Infernal_Orb_of_Truth]]
@@ -234,7 +229,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[The Great Resonance 2]]
 - Influences [[step_062 (phase_070)]]
 - Influences [[NPC01208_Qadim_Thornweave_the_Seeker]]
-- Parallels [[step_038]]
+- Parallels
 - Originates from [[step_017 (phase_076)]]
 - Influences [[step_072 (phase_036)]]
 - Influences [[Assets Locations Location City the Portal Wars V1 the Portal Wars.svg]]
@@ -244,7 +239,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [[LORE00178_History_Entry_179]]
 - Related: [[Paper Whirlwind Rot]]
 - Compare with [[step_084 (phase_016)]]
-- Parallels [[step_087]]
+- Parallels
 - Requires [[Astral Projection Xphb]]
 - Influences [[Assets Handouts Handout Handout Embassy Invitation Embassy Invitation.png]]
 - Connects to [[Location City Councilor Tidal Balancekeeper V1 Councilor Tidal Balancekeeper.svg]]
@@ -270,7 +265,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

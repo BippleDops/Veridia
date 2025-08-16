@@ -9,7 +9,6 @@ aliases: [Ambassador Nerida Deepcurrent]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_ambassador_nerida_deepcurrent_friendly.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Description|Description]]
@@ -21,7 +20,6 @@ aliases: [Ambassador Nerida Deepcurrent]
 - [[#Actions|Actions]]
 - [[#Relationships|Relationships]]
 - [[#Plot Hooks|Plot Hooks]]
-
 
 ---
 aliases: [Ambassador_Nerida_Deepcurrent, Ambassador-Nerida-Deepcurrent]
@@ -98,17 +96,15 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - [[10 Appendix B Creature Stat Blocks]]
 - [[Seven_Shards_Tracker.md]]
 - [[Item_Catalog_Complete.md (Indexes)]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
 ## Game Mechanics
 - **Skills**: See ACX p.174-179
-
 
 ## Connections
 
@@ -154,7 +150,7 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - Parallels [[Depth's End Cathedral]]
 - Requires [[step_079 (phase_087)]]
 - Originates from [[Abyssal Crystals]]
-- Connects to [[step_011]]
+- Connects to
 - Affected by [[The Temporal Monks 2]]
 - Affected by [[step_056 (phase_015)]]
 - Leads to [[Loyalty Enforcers]]
@@ -185,7 +181,7 @@ Ambassador Nerida Deepcurrent is a character encountered in the campaign world.
 - Compare with [[step_073 (phase_047)]]
 - Originates from [[The Exotic Wharf]]
 - Compare with [[Action_Economy]]
-- Compare with [[step_057]]
+- Compare with
 - Leads to [[ITEM0031_Hidden_Orb_of_Power]]
 - Originates from [[step_080 (phase_089)]]
 - Affected by [[Assets Locations Location City [[Symphony of the Abyss Recipe]] Symphony of the Abyss Recipe.svg]]

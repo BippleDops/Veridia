@@ -18,7 +18,6 @@ aliases: [NPC01959 Caelum Dawnstrider the Wanderer]
 - [[#Pyria Nightfall the Wise (Professional - Rival)|Pyria Nightfall the Wise (Professional - Rival)]]
 - [[#Nerys Youngblood the Strong (Personal - Nemesis)|Nerys Youngblood the Strong (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Caelum Dawnstrider the Wanderer", "caelum dawnstrider the wanderer", "Caelum Dawnstrider Wanderer", "Wanderer the Dawnstrider Caelum"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.328Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -191,7 +186,7 @@ Provides information for a price
 - Compare with [[Magistrate Elena Greywind]]
 - Influences [[step_006 (phase_061)]]
 - Originates from [[step_059 (phase_053)]]
-- Requires [[step_091]]
+- Requires
 - Parallels [[General Truthseeker Vale]]
 - Compare with [[Ancient Crystal Mines]]
 - Compare with [[ITEM00833_Void-touched_Tome_of_Destiny]]
@@ -199,7 +194,7 @@ Provides information for a price
 - Compare with [[The Whispering Chambers]]
 - Affected by [[Memorial Stones 2]]
 - Leads to [[Department of Subtle Interventions]]
-- Related: [[step_008]]
+- Related:
 - See also: [[Portrait NPC Nerissa Deepcurrent V2 Nerissa Deepcurrent.svg]]
 - Leads to [[Parliament Deep District]]
 - Affected by [[Location City Terminal Director Admiral Current Swiftflow V1 Terminal Director Admiral Current Swiftflow.svg]]
@@ -216,10 +211,10 @@ Provides information for a price
 - Parallels [[Assets Locations Location City Noble House Noble House.svg]]
 - Compare with [[Surgeon Coral Seamender]]
 - Compare with [[System Cli Spells School Enchantment]]
-- Parallels [[step_041]]
+- Parallels
 - Leads to [[step_076 (phase_063)]]
 - See also: [[location-city-forge-of-war-forge-of-war.svg]]
-- Related: [[step_040]]
+- Related:
 - Originates from [[step_031 (phase_027)]]
 - See also: [[The Crystal Throne]]
 - See also: [[step_007 (phase_086)]]
@@ -261,10 +256,10 @@ Provides information for a price
 - Requires [[SHOP00001_Magical_Shop_2]]
 - Related: [[Deep Mother Influence (Lore)]]
 - See also: [[Sommelier Bacchus Deepbottle (D&D_References)]]
-- Connects to [[step_002]]
+- Connects to
 - Connects to [[Echo-Prime Cacophony Voidlung (D&D_References)]]
 - Affected by [[LOC00296_Towns_Location_297]]
-- Influences [[step_091]]
+- Influences
 - See also: [[meld-into-stone-xphb (spells)]]
 - Affected by [[Portrait NPC High Techno Priest Lumina Skyweaver V2 High Techno Priest Lumina Skyweaver.svg]]
 
@@ -272,7 +267,6 @@ Provides information for a price
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

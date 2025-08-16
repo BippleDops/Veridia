@@ -18,7 +18,6 @@ aliases: [NPC01251 Gavril Ironforge the Scholar]
 - [[#Baelor Moonshadow the Cunning (Personal - Best friend)|Baelor Moonshadow the Cunning (Personal - Best friend)]]
 - [[#Idris Silverleaf the Mystic (Professional - Employer)|Idris Silverleaf the Mystic (Professional - Employer)]]
 
-
 ---
 aliases: ["Gavril Ironforge the Scholar", "gavril ironforge the scholar", "Gavril Ironforge Scholar", "Scholar the Ironforge Gavril"]
 tags: [npc, character]
@@ -142,21 +141,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.253Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -166,7 +161,7 @@ Needs help with personal quest
 - Leads to [[step_021 (phase_029)]]
 - Parallels [[Temple of Justice]]
 - Compare with [[The Phantom Tide]]
-- See also: [[step_049]]
+- See also:
 - Influences [[Map World Layer Trade Routes and Corridors V1 Trade Routes and Corridors.svg]]
 - Parallels [[step_011 (phase_098)]]
 - Compare with [[potion-of-clairvoyance-xdmg (items)]]
@@ -183,11 +178,11 @@ Needs help with personal quest
 - Leads to [[Gatekeeper Iron-Lung Boris]]
 - Requires [[Location City Police Chief Sarah Lawkeeper Police Chief Sarah Lawkeeper.svg]]
 - Parallels [[Location City Port Meridian Noble Quarter Port Meridian Noble Quarter.svg]]
-- See also: [[step_093]]
+- See also:
 - Connects to [[Guardian Neutralwatch 2]]
 - Originates from [[step_088 (phase_056)]]
 - Related: [[The Boundary Accords]]
-- Requires [[step_063]]
+- Requires
 - Compare with [[The Norse Pantheon Norse Deities Phb]]
 - Connects to [[ITEM00742_Ancient_Tome_of_Truth]]
 - Leads to [[SHOP00024_Specialty_Shop_25]]
@@ -216,7 +211,7 @@ Needs help with personal quest
 - Leads to [[Political Hardliner]]
 - Influences [[NPC00426_Baelor_Ashford_the_Fallen]]
 - Parallels [[Enspelled Armor Level 6 Xdmg]]
-- Connects to [[step_082]]
+- Connects to
 - Affected by [[ITEM01360_Masterwork_Map_Case_of_Reliability]]
 - Leads to [[boon-of-spell-mastery (rewards)]]
 - Compare with [[bronze-dragon-xmm (legendary-group)]]
@@ -265,7 +260,6 @@ Needs help with personal quest
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

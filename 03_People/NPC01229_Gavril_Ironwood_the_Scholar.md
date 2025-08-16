@@ -18,7 +18,6 @@ aliases: [NPC01229 Gavril Ironwood the Scholar]
 - [[#Ysara Goldleaf the Fallen (Professional - Rival)|Ysara Goldleaf the Fallen (Professional - Rival)]]
 - [[#Pyria Keenblade the Risen (Family - Spouse)|Pyria Keenblade the Risen (Family - Spouse)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gavril Ironwood the Scholar", "gavril ironwood the scholar", "Gavril Ironwood Scholar", "Scholar the Ironwood Gavril"]
@@ -149,16 +148,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.250Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -197,11 +193,10 @@ Forming expedition to dangerous location
 - [[Basic_Rules]]
 - [[NPC00272_Rhiannon_Brightblade]]
 - [[Calendar_Conversions_Realm_Window]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -209,11 +204,10 @@ Forming expedition to dangerous location
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -225,7 +219,7 @@ Forming expedition to dangerous location
 - Leads to [[Tenebrarum (D&D_References)]]
 - Leads to [[eberron-dol-arrah (deities)]]
 - Leads to [[QUEST00043_Personal_Quest_44]]
-- Parallels [[step_022]]
+- Parallels
 - Influences [[Magnus Ledgerkeep (D&D_References)]]
 - Affected by [[dire-worg-xmm (fey)]]
 - Compare with [[Captain Twin-Reality Marsh]]
@@ -233,8 +227,8 @@ Forming expedition to dangerous location
 - Originates from [[NPC01036_Alaric_Grimholt_the_Scholar]]
 - Affected by [[Symbol Heraldry Reg... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Compare with [[MON00154_Constructs_Creature_155]]
-- See also: [[step_046]]
-- See also: [[step_006]]
+- See also:
+- See also:
 - Leads to [[The Azure Fleet Corporation 2]]
 - Leads to [[Location City Flame Keeper Brother Ignatius V1 Flame Keeper Brother Ignatius.svg]]
 - Influences [[deities-of-eberron (tables)]]
@@ -242,7 +236,7 @@ Forming expedition to dangerous location
 - Connects to [[Session Log.base]]
 - Leads to [[step_015 (phase_096)]]
 - Originates from [[arcana-uncommon-xdmg (tables)]]
-- Influences [[step_052]]
+- Influences
 - Affected by [[vulnerability-xphb (variant-rules)]]
 - Related: [[Creature Size and Space Xdmg]]
 - Compare with [[QUEST00380_Side_Quest_381]]
@@ -255,7 +249,7 @@ Forming expedition to dangerous location
 - Leads to [[SPELL00021_Arcane_Spell_22]]
 - Related: [[Duergar Deep Duerra Mtf]]
 - Influences [[ITEM00996_Pure_Herb_of_Swiftness]]
-- Connects to [[step_005]]
+- Connects to
 - Compare with [[Ships - Player_Handout_Aethermoor_Airships]]
 - Parallels [[step_031 (phase_050)]]
 - Requires [[step_095 (phase_098)]]
@@ -269,7 +263,7 @@ Forming expedition to dangerous location
 - See also: [[Emergency Protocols Cente]]
 - Leads to [[ITEM00974_Greater_Herb_of_Clarity]]
 - Connects to [[Portrait NPC Agent Whisper Voidheart V2 Agent Whisper Voidheart.svg]]
-- Influences [[step_006]]
+- Influences
 - Compare with [[yan-c-bin-pota (legendary-group)]]
 - Compare with [[Anti-Establishment Groups]]
 - Parallels [[location-city-high-court-high-court.svg]]
@@ -296,14 +290,14 @@ Forming expedition to dangerous location
 - Compare with [[Noble Houses of Aethermoor]]
 - Leads to [[LORE00066_History_Entry_67]]
 - Leads to [[Location City Banker Cornelius Goldflow Banker Cornelius Goldflow.svg]]
-- Parallels [[step_022]]
+- Parallels
 - Related: [[The Crown Eternal]]
 - Requires [[Giant Seahorses (D&D_References)]]
 - Related: [[hat-of-wizardry-xdmg (items)]]
 - Compare with [[Secret Vault Beneath Throne 2]]
 - Leads to [[step_003 (phase_077)]]
 - Parallels [[fire-storm-xphb (spells)]]
-- Affected by [[step_028]]
+- Affected by
 - Parallels [[Shadow Attache Void 2]]
 - Originates from [[step_006 (phase_047)]]
 - Influences [[LOC00153_Planes_Location_154]]
@@ -313,7 +307,7 @@ Forming expedition to dangerous location
 - Originates from [[symbol-heraldry-resonance-bomb-resonance-bomb.svg]]
 - Compare with [[The Love Token]]
 - Requires [[The Sorrowmaster (D&D_Statblocks)]]
-- Originates from [[step_079]]
+- Originates from
 - Originates from [[QUEST00168_Side_Quest_169]]
 - Affected by [[LORE00227_Prophecies_Entry_228]]
 - Leads to [[NPC01868_Urien_Emberfall_the_Seeker]]
@@ -322,7 +316,6 @@ Forming expedition to dangerous location
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01823 Xander Quicksilver the Broken]
 - [[#Branwen Thornweave the Seeker (Personal - Childhood friend)|Branwen Thornweave the Seeker (Personal - Childhood friend)]]
 - [[#Orion Zephyrblade the Redeemed (Personal - Childhood friend)|Orion Zephyrblade the Redeemed (Personal - Childhood friend)]]
 
-
 ---
 aliases: ["Xander Quicksilver the Broken", "xander quicksilver the broken", "Xander Quicksilver Broken", "Broken the Quicksilver Xander"]
 tags: [npc, character]
@@ -153,26 +152,22 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.314Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Influences [[Dark Gift of Norganas the Finger of Oblivion]]
-- Affected by [[step_059]]
+- Affected by
 - Compare with [[Pressure Linguistics (D&D_References)]]
 - Connects to [[step_014 (phase_072)]]
 - Connects to [[LOC00134_Wilderness_Location_135]]
@@ -186,7 +181,7 @@ Is secretly testing the party
 - See also: [[NPC01258_Gareth_Moonshadow_the_Risen]]
 - Compare with [[Korvin Blacktide (D&D_References)]]
 - Related: [[portable-hole-xdmg (items)]]
-- Leads to [[step_074]]
+- Leads to
 - Parallels [[ENC00162_Social_Encounter_163]]
 - See also: [[Prismatic Crystal]]
 - Compare with [[step_032 (phase_050)]]
@@ -197,11 +192,11 @@ Is secretly testing the party
 - Affected by [[Windwright Academy (Academies)]]
 - Influences [[Parliament of Echoes - Public Gallery (D&D_References)]]
 - See also: [[Surgeon Shadow-Touched (D&D_References)]]
-- Influences [[step_020]]
+- Influences
 - Compare with [[The Final Confrontation]]
 - Leads to [[step_026 (phase_008)]]
 - Requires [[LOC0061_SouthMarsh]]
-- Connects to [[step_043]]
+- Connects to
 - See also: [[Reality Distortion Effects]]
 - Requires [[Ankheg Xmm]]
 - Affected by [[robe-of-eyes-xdmg (items)]]
@@ -232,8 +227,8 @@ Is secretly testing the party
 - Related: [[step_008 (phase_094)]]
 - Compare with [[SPELL00091_Nature_Spell_92]]
 - Originates from [[Greyhawk Nerull Xdmg]]
-- Related: [[step_047]]
-- Requires [[step_031]]
+- Related:
+- Requires
 - Compare with [[NPC01675_Pyria_Stormwind_the_Strong]]
 - Influences [[death-tyrant-xmm (legendary-group)]]
 - Requires [[Wolf Xmm]]
@@ -247,9 +242,9 @@ Is secretly testing the party
 - Parallels [[Item Artifact Spell Gem Lapis Lazuli Oota V2 Spell Gem Lapis Lazuli Oota.png]]
 - Related: [[SPELL00111_Divine_Spell_112]]
 - Affected by [[greek-hephaestus (deities)]]
-- Related: [[step_075]]
+- Related:
 - See also: [[District Economic Profiles]]
-- Related: [[step_055]]
+- Related:
 - Requires [[step_044 (phase_057)]]
 - Parallels [[Quest - Hunt the Shadows 2]]
 - Parallels [[Assets Locations Location City Crystal Keepers Crystal Keepers.svg]]
@@ -262,13 +257,13 @@ Is secretly testing the party
 - Connects to [[The Seven Shards Prophecy]]
 - Leads to [[SPELL0002_Eldritch_Bolt]]
 - See also: [[Surgeon Coral Seamender (D&D_References)]]
-- Affected by [[step_077]]
+- Affected by
 - Affected by [[Assets Locations Location City Pressure Crystals Pressure Crystals.svg]]
 - Compare with [[LOC00163_Dungeons_Location_164]]
 - Requires [[Assets Symbols Symbol Heraldry the Stellar Confluence the Stellar Confluence.svg]]
 - See also: [[ENC00364_Combat_Encounter_365]]
 - Connects to [[NPC00762_Felicia_Nightfall_the_Seeker]]
-- Influences [[step_080]]
+- Influences
 - Parallels [[Adjudicating Areas of Effect Targets in Area of Effect Xdmg]]
 - Parallels [[The Free Current Movement (D&D_References)]]
 
@@ -276,7 +271,6 @@ Is secretly testing the party
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

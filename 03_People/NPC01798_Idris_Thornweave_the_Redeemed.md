@@ -18,7 +18,6 @@ aliases: [NPC01798 Idris Thornweave the Redeemed]
 - [[#Brenna Grimholt the Wise (Personal - Love interest)|Brenna Grimholt the Wise (Personal - Love interest)]]
 - [[#Cedric Oakenshield the Strong (Political - Ally)|Cedric Oakenshield the Strong (Political - Ally)]]
 
-
 ---
 aliases: ["Idris Thornweave the Redeemed", "idris thornweave the redeemed", "Idris Thornweave Redeemed", "Redeemed the Thornweave Idris"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.311Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,10 +176,10 @@ Provides information for a price
 - Influences [[LORE00288_Prophecies_Entry_289]]
 - Compare with [[step_061 (phase_086)]]
 - Related: [[EVENT00088_Political_Event_89]]
-- See also: [[step_010]]
+- See also:
 - Affected by [[bones-of-the-earth-xge (spells)]]
 - Requires [[Surface Sympathizer Settlements]]
-- Affected by [[step_019]]
+- Affected by
 - Related: [[step_087 (phase_035)]]
 - Requires [[step_076 (phase_045)]]
 - Parallels [[location-city-free-current-free-current.svg]]
@@ -199,7 +194,7 @@ Provides information for a price
 - Affected by [[Faction Intelligence]]
 - See also: [[Brother Matthias the Amber Bearer (People)]]
 - See also: [[Pressure Territories]]
-- Compare with [[step_062]]
+- Compare with
 - Related: [[step_091 (phase_028)]]
 - Compare with [[firearm-bullet-xphb (items)]]
 - Leads to [[Mounts and Vehicles Tack Harness and Drawn]]
@@ -269,7 +264,7 @@ Provides information for a price
 - Parallels [[artisans-tools-xphb (items)]]
 - Leads to [[step_015 (phase_025)]]
 - Requires [[DUN00045_Dungeon_46]]
-- Requires [[step_035]]
+- Requires
 - Originates from [[step_002 (phase_042)]]
 - Parallels [[Captain Harmony Tidereader (D&D_References)]]
 
@@ -277,7 +272,6 @@ Provides information for a price
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

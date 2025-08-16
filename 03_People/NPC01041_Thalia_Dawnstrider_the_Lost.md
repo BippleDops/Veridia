@@ -18,7 +18,6 @@ aliases: [NPC01041 Thalia Dawnstrider the Lost]
 - [[#Faelyn Proudmore the Guardian (Criminal - Fence)|Faelyn Proudmore the Guardian (Criminal - Fence)]]
 - [[#Branwen Dawnstrider the Lost (Political - Ally)|Branwen Dawnstrider the Lost (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Dawnstrider the Lost", "thalia dawnstrider the lost", "Thalia Dawnstrider Lost", "Lost the Dawnstrider Thalia"]
@@ -153,16 +152,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.231Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -186,11 +182,10 @@ Seeks rare merchandise
 - [[NPC00542_Corvus_Oakenshield_the_Strong]]
 - [[11 Rules Glossary]]
 - [[MOC_Items]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -201,11 +196,10 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -229,8 +223,8 @@ Seeks rare merchandise
 - Parallels [[Portrait NPC Memory Commerce V1 Memory Commerce.svg_1 (Portraits)]]
 - Requires [[Session 05 Cross Currents]]
 - Related: [[location-city-world-map-v1-world-map.svg]]
-- Originates from [[step_026]]
-- Originates from [[step_056]]
+- Originates from
+- Originates from
 - Requires [[Random Encounter Tables - Aquabyssos]]
 - Requires [[Unified Aquabyssos Legal Code 2]]
 - Requires [[Russet Mold Vgm]]
@@ -245,7 +239,7 @@ Seeks rare merchandise
 - Connects to [[Location City Sentinel Constructs Sentinel Constructs.svg]]
 - Originates from [[step_078 (phase_052)]]
 - Parallels [[Parliament of Echoes - Public Gallery 2]]
-- Originates from [[step_039]]
+- Originates from
 - Parallels [[Ancient Tunnels Beneath Palace 2]]
 - Affected by [[Assets Locations Location City Scholar Thalosseus Scholar Thalosseus.svg]]
 - Compare with [[step_070 (phase_075)]]
@@ -256,14 +250,14 @@ Seeks rare merchandise
 - Influences [[MON00164_Undead_Creature_165]]
 - Affected by [[Quest - Mother's Mercy_1 (01_Adventures)]]
 - Parallels [[aurochs-mpmm (beast)]]
-- Compare with [[step_018]]
-- Connects to [[step_089]]
+- Compare with
+- Connects to
 - Parallels [[Portrait NPC Otherworldly Pacts V2 Otherworldly Pacts.svg]]
 - Connects to [[gulthias-blight-xmm (plant)]]
 - Affected by [[Research Chief Helena Datapoint (D&D_References)]]
 - Connects to [[step_029 (phase_097)]]
 - See also: [[Supply Master Cargo Deephaul]]
-- Influences [[step_075]]
+- Influences
 - Originates from [[portrait-npc-captain-rescue-v2-captain-rescue.svg]]
 - Influences [[The Past Warden (D&D_References)]]
 - Leads to [[Professor Diana Shadowbane 2]]
@@ -314,7 +308,6 @@ Seeks rare merchandise
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

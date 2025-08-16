@@ -18,7 +18,6 @@ aliases: [NPC00881 Qadim Voidwalker the Strong]
 - [[#Branwen Blackstone the Fallen (Personal - Childhood friend)|Branwen Blackstone the Fallen (Personal - Childhood friend)]]
 - [[#Rhiannon Nightfall the Broken (Political - Puppet)|Rhiannon Nightfall the Broken (Political - Puppet)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Qadim Voidwalker the Strong", "qadim voidwalker the strong", "Qadim Voidwalker Strong", "Strong the Voidwalker Qadim"]
@@ -146,16 +145,13 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.213Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -165,11 +161,10 @@ Has map to lost treasure
 - [[NPC01252_Jorah_Youngblood_the_Strong]]
 - [[Parliamentary_Voting_Guide]]
 - [[Player_Feedback_Form.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -180,22 +175,21 @@ Has map to lost treasure
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Compare with [[summon-dragon-xphb (spells)]]
-- Related: [[step_016]]
+- Related:
 - Affected by [[SPELL00054_Divine_Spell_55]]
 - Connects to [[Legislative Archives]]
 - Compare with [[LOC00024_Towns_Location_25]]
 - See also: [[armaments-very-rare-xdmg (tables)]]
 - Connects to [[step_022 (phase_070)]]
-- Influences [[step_086]]
+- Influences
 - See also: [[step_100 (phase_072)]]
 - Connects to [[step_053 (phase_026)]]
 - Related: [[Assets Locations Location City [[Profit Crosscurrent]] Profit Crosscurrent.svg]]
@@ -207,7 +201,7 @@ Has map to lost treasure
 - Leads to [[Seven Fleets System]]
 - See also: [[LOC00183_Planes_Location_184]]
 - Requires [[NPC01314_Corvus_Nightfall_the_Broken]]
-- Requires [[step_071]]
+- Requires
 - Requires [[MON00129_Undead_Creature_130]]
 - Requires [[Portrait NPC God King Aetheron V2 God King Aetheron.svg_1 (Portraits)]]
 - See also: [[step_053 (phase_009)]]
@@ -219,7 +213,7 @@ Has map to lost treasure
 - Originates from [[ENC00301_Combat_Encounter_302]]
 - Influences [[The Nine High Magisters]]
 - Leads to [[[[Aquabyssos]] Navy (D&D_References)]]
-- Related: [[step_021]]
+- Related:
 - Compare with [[Council of Mages]]
 - See also: [[Location City [[The Diplomatic Quarter]] V1 the Diplomatic Quarter.svg]]
 - Compare with [[The_Final_Sealing.png]]
@@ -232,10 +226,10 @@ Has map to lost treasure
 - Leads to [[[[The Harvest]] 2]]
 - Influences [[ITEM00186_Frost_Axe_of_the_Ancients]]
 - Influences [[power-word-kill-xphb (spells)]]
-- Requires [[step_063]]
+- Requires
 - Leads to [[step_014 (phase_014)]]
 - Originates from [[Assets Vehicles Vehicle Ship Arc Engine Prototype Arc Engine Prototype.svg]]
-- Originates from [[step_092]]
+- Originates from
 - Requires [[step_035 (phase_061)]]
 - Connects to [[Location City [[International Void Treaties]] V1 International Void Treaties.svg]]
 - Affected by [[Safety Coordinator [[Time]] Guardian]]
@@ -293,7 +287,6 @@ Has map to lost treasure
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

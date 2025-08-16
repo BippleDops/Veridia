@@ -18,7 +18,6 @@ aliases: [NPC01335 Kaelen Grimholt the Strong]
 - [[#Ewan Xendar the Swift (Family - Parent)|Ewan Xendar the Swift (Family - Parent)]]
 - [[#Drusilla Jadeclaw the Mystic (Personal - Nemesis)|Drusilla Jadeclaw the Mystic (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Kaelen Grimholt the Strong", "kaelen grimholt the strong", "Kaelen Grimholt Strong", "Strong the Grimholt Kaelen"]
 tags: [npc, character]
@@ -147,21 +146,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.262Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -189,7 +184,7 @@ Has information about legendary item
 - Leads to [[step_025 (phase_072)]]
 - Related: [[Location City Portal Technician Voidwalk Portal Technician Voidwalk.svg]]
 - Influences [[step_001 (phase_062)]]
-- Related: [[step_087]]
+- Related:
 - Parallels [[manual-of-flesh-golems-xdmg (items)]]
 - Related: [[Location City Rare Ingredient Network V1 Rare Ingredient Network.svg]]
 - Connects to [[Serenity Stillwater 2]]
@@ -197,7 +192,7 @@ Has information about legendary item
 - See also: [[Portrait NPC the Smuggler S Den the Smuggler S Den.svg]]
 - See also: [[QUEST00172_Main_Quest_173]]
 - Compare with [[Map World Layer Depth Zones and Altitude Bands V1 Depth Zones and Altitude Bands.svg]]
-- Connects to [[step_046]]
+- Connects to
 - Requires [[README]]
 - Affected by [[LOC00111_Dungeons_Location_112]]
 - Requires [[Mechanics Transformations Crystal Crystal Bloom]]
@@ -214,7 +209,7 @@ Has information about legendary item
 - Leads to [[step_018 (phase_055)]]
 - Influences [[pouch-xphb (items)]]
 - Affected by [[LORE00087_History_Entry_88]]
-- Influences [[step_039]]
+- Influences
 - Related: [[SHOP00062_Specialty_Shop_63]]
 - See also: [[Location City Scout Captain Vera Deepwatch V1 Scout Captain Vera Deepwatch.svg]]
 - Connects to [[location-city-navigator-flux-v1-navigator-flux.svg]]
@@ -226,7 +221,7 @@ Has information about legendary item
 - Requires [[Shadow Trackhound 2]]
 - Originates from [[Location City the Deepmost Current V1 the Deepmost Current.svg]]
 - See also: [[Tobias Quillwright 2]]
-- Influences [[step_032]]
+- Influences
 - Requires [[Artisan Associations 2]]
 - Parallels [[The Reality Destabilization Campaign]]
 - See also: [[ENC00110_Environmental_Encounter_111]]
@@ -252,7 +247,7 @@ Has information about legendary item
 - Originates from [[step_096 (phase_048)]]
 - Affected by [[step_051 (phase_075)]]
 - Originates from [[Polymorph Xphb]]
-- Originates from [[step_028]]
+- Originates from
 - Compare with [[step_023 (phase_057)]]
 - Affected by [[Ottos Irresistible Dance Xphb]]
 - Originates from [[Quest - Sky Pirates]]
@@ -261,7 +256,7 @@ Has information about legendary item
 - Affected by [[Location City Undead Rights Organization Hq V1 Undead Rights Organization Hq.svg]]
 - Requires [[The Bloom Fields 2]]
 - Leads to [[Pilgrim Guide Nautilus Pathfinder]]
-- Related: [[step_047]]
+- Related:
 - Leads to [[Portrait NPC Captain Valeria V1 Captain Valeria.svg]]
 - Requires [[04_Resources_Assets_Symbols_symbol-heraldry-the-deepwater-trading-consortium-the-deepwater-trading-consortium.svg]]
 - Affected by [[Prince Thalassic]]
@@ -270,7 +265,6 @@ Has information about legendary item
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

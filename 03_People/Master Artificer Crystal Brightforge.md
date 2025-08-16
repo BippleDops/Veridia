@@ -9,7 +9,6 @@ aliases: [Master Artificer Crystal Brightforge]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Overview|Overview]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [Master Artificer Crystal Brightforge]
 - [[#Plot Hooks|Plot Hooks]]
 - [[#DM Notes|DM Notes]]
 - [[#References|References]]
-
 
 ---
 title: Master Artificer Crystal Brightforge
@@ -87,31 +85,25 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 - [[Session 07 the Convergence Approaches]]
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Possessions
 - Personal items
 - Valuable objects
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 ## Connections
 
@@ -127,16 +119,16 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Originates from [[step_098 (phase_030)]]
 - See also: [[Berserker Axe Xdmg]]
 - Parallels [[Experimental Medical Ethics (D&D_References)]]
-- Requires [[step_051]]
+- Requires
 - Affected by [[NPC00957_Malakai_Brightblade_the_Scholar]]
 - Affected by [[The Recursion Nexus (Places)]]
 - Related: [[step_059 (phase_073)]]
-- Related: [[step_038]]
+- Related:
 - Parallels [[Roleplaying a Yuan Ti Yuan Ti Ideals Vgm]]
 - Parallels [[Location City Pressure Technology V1 Pressure Technology.svg]]
 - Related: [[NPC01568_Lyanna_Winterborn_the_Strong]]
 - Requires [[Portrait NPC Sacred Healing Gardens V1 Sacred Healing Gardens.svg]]
-- Parallels [[step_064]]
+- Parallels
 - Compare with [[10-combat#Dropping to 0 Hit Points#Instant Death]]
 - Requires [[Symbol Heraldry Mag... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Assets Locations Location City Comparative Religion Comparative Religion.svg]]
@@ -150,12 +142,12 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Requires [[Cleric Xphb Forge Domain Xge]]
 - See also: [[Warhorse Skeleton Xmm]]
 - Leads to [[Palace Guardians (D&D_References)]]
-- Parallels [[step_047]]
+- Parallels
 - Influences [[Department of Defense 2]]
 - Requires [[location-city-the-conductor-v1-the-conductor.png]]
-- Parallels [[step_050]]
+- Parallels
 - Affected by [[Pressure Theorist Dr. Current Deepthink]]
-- See also: [[step_005]]
+- See also:
 - Related: [[Assets Locations Location City Senator Bartholomew Bonewright V1 Senator Bartholomew Bonewright.svg]]
 - Leads to [[QUEST00069_Personal_Quest_70]]
 - Related: [[NPC01745_Felicia_Oakenshield_the_Scholar]]
@@ -187,7 +179,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Leads to [[female-steeder-mpmm (monstrosity)]]
 - Influences [[The Exchange Point]]
 - Leads to [[Pressure Engineers (D&D_References)]]
-- Leads to [[step_074]]
+- Leads to
 - Influences [[step_050 (phase_020)]]
 - Originates from [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V1 Keeper of the Shattered Crown Marcus Crystalvein.svg]]
 - Requires [[04_Resources_Assets_Locations_location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater.png]]
@@ -196,8 +188,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Influences [[Wizard Xphb School of Conjuration]]
 - Connects to [[NPC00466_Vesper_Frostwhisper]]
 - Connects to [[step_062 (phase_080)]]
-- Affected by [[step_054]]
-- Compare with [[step_084]]
+- Affected by
+- Compare with
 - Parallels [[NPC00825_Wynne_Darkwater_the_Bold]]
 - See also: [[Order of the Crimson Eye (Orders)]]
 - Influences [[misty-step-xphb (spells)]]

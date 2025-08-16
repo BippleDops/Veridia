@@ -9,7 +9,6 @@ aliases: [NPC00116 Branwen Silverleaf]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00116 Branwen Silverleaf]
 - [[#Drusilla Darkwater (Personal - Love interest)|Drusilla Darkwater (Personal - Love interest)]]
 - [[#Ewan Ravenheart the Risen (Political - Ally)|Ewan Ravenheart the Risen (Political - Ally)]]
 - [[#Cedric Moonshadow (Personal - Ex-lover)|Cedric Moonshadow (Personal - Ex-lover)]]
-
 
 ---
 aliases: ["Branwen Silverleaf", "branwen silverleaf", "Silverleaf Branwen"]
@@ -143,21 +141,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.124Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -169,7 +163,7 @@ Needs discrete help with family scandal
 - Related: [[step_036 (phase_007)]]
 - Influences [[Assets Portraits Portrait NPC Quest the Ancient Compact Quest the Ancient Compact.svg]]
 - Influences [[ITEM01019_Concentrated_Oil_of_Clarity]]
-- Connects to [[step_021]]
+- Connects to
 - Requires [[step_016 (phase_039)]]
 - Parallels [[step_005 (phase_010)]]
 - Leads to [[ITEM01044_Distilled_Powder_of_Fortune]]
@@ -182,37 +176,37 @@ Needs discrete help with family scandal
 - Influences [[Palace Guard Captain Ironclad]]
 - Influences [[Secret Vault Beneath Throne]]
 - Influences [[NPC0188_Cormac_Brightblade]]
-- Parallels [[step_019]]
+- Parallels
 - See also: [[ox-xdmg (items)]]
 - Parallels [[Organizations the Unity Coalition]]
 - Affected by [[LOC00219_Towns_Location_220]]
-- See also: [[step_061]]
+- See also:
 - Leads to [[Elena Recordkeeper (D&D_References)]]
 - Parallels [[Seeds_of_the_Past.png]]
 - Parallels [[Dungeon Dressing General Furnishings and]]
-- Originates from [[step_080]]
+- Originates from
 - Influences [[Interfaith Dialogue (D&D_References)]]
 - Leads to [[Assets Locations Location City Theological Education Theological Education.svg]]
 - See also: [[step_005 (phase_007)]]
 - Compare with [[step_094 (phase_033)]]
-- See also: [[step_006]]
+- See also:
 - Requires [[ENC00129_Environmental_Encounter_130]]
 - Related: [[Location City the Hidden Cove of Whispers the Hidden Cove of Whispers.svg]]
 - Compare with [[LOC00251_Planes_Location_252]]
 - See also: [[The Constellation Mystery (D&D_References)]]
 - Related: [[Soul Shepherd Brother Marcus the Willing]]
 - Related: [[Portrait NPC Surface Supremacists V1 Surface Supremacists.svg_1 (Portraits)]]
-- Influences [[step_044]]
+- Influences
 - Leads to [[The Consortium of Five]]
 - Compare with [[The Void Seekers 2]]
-- Leads to [[step_052]]
+- Leads to
 - Originates from [[The Silent Watch]]
 - Parallels [[NPC01094_Fiora_Silverleaf_the_Swift]]
 - Originates from [[halfling-tables-halfling-personality-traits-mtf]]
 - Leads to [[Portrait NPC Lord Marcus Goldweaver V2 Lord Marcus Goldweaver.svg]]
-- Affected by [[step_094]]
+- Affected by
 - See also: [[Silverscale Consortium (D&D_References)]]
-- Connects to [[step_056]]
+- Connects to
 - Parallels [[Location City Pearl Harbor City Pearl Harbor City.svg]]
 - Connects to [[NPC01907_Hilda_Oakenshield_the_Lost]]
 - Related: [[LORE00232_Legends_Entry_233]]
@@ -227,7 +221,7 @@ Needs discrete help with family scandal
 - Compare with [[ITEM0091_Divine_Orb_of_the_Dawn]]
 - Compare with [[awakened-shrub-xmm]]
 - Affected by [[random-tricks-tricks (tables)]]
-- Requires [[step_084]]
+- Requires
 - Requires [[step_017 (phase_045)]]
 - Connects to [[EVENT00046_Political_Event_47]]
 - Leads to [[QUEST00275_Personal_Quest_276]]
@@ -235,7 +229,7 @@ Needs discrete help with family scandal
 - Parallels [[Aberrant Spirit Star Spawn Xphb]]
 - Connects to [[High Priestess Marina Oracleguard]]
 - Leads to [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
-- Requires [[step_052]]
+- Requires
 - Leads to [[Aerial Transportation Networks]]
 - Parallels [[step_034 (phase_020)]]
 - Related: [[step_030 (phase_004)]]

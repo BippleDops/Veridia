@@ -74,13 +74,13 @@ updated: '2025-08-13T01:18:37.137598+00:00'
 "skillsaves": "Stealth": !!int "7" "Perception": !!int "5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\ \ nonmagical weapons"
 "damage_immunities": "poison"
-"condition_immunities": "[[Conditions]]"
+"condition_immunities": "[[05_Rules/Conditions]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "9"
 "traits":
 - "desc": "The yek has advantage on saving throws against spells and other magical\ \ effects." "name": "Magic Resistance"
-- "desc": "The yek has advantage on attack rolls against a creature if at least one\ \ of the yek's allies is within 5 feet of the creature and the ally isn't [[Conditions]]." "name": "Pack Tactics"
+- "desc": "The yek has advantage on attack rolls against a creature if at least one\ \ of the yek's allies is within 5 feet of the creature and the ally isn't [[05_Rules/Conditions]]." "name": "Pack Tactics"
 
 "actions":
 - "desc": "The alpha yek makes one bite attack and two claw attacks. It can make a\ \ bone shard attack in place of a claw attack if it has a bone shard available." "name": "Multiattack"
@@ -101,7 +101,6 @@ updated: '2025-08-13T01:18:37.137598+00:00'
 - A merchant needs help investigating before winter
 - The authorities needs help investigating before the new moon
 - Strange disappearances suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

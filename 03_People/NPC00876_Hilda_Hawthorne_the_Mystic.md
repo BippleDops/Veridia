@@ -18,7 +18,6 @@ aliases: [NPC00876 Hilda Hawthorne the Mystic]
 - [[#Orion Ashford the Mystic (Personal - Childhood friend)|Orion Ashford the Mystic (Personal - Childhood friend)]]
 - [[#Hestara Zephyrblade the Swift (Family - Cousin)|Hestara Zephyrblade the Swift (Family - Cousin)]]
 
-
 ---
 aliases: ["Hilda Hawthorne the Mystic", "hilda hawthorne the mystic", "Hilda Hawthorne Mystic", "Mystic the Hawthorne Hilda"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.212Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -172,7 +167,7 @@ Seeks rare merchandise
 - Parallels [[Coral Throne Syndicate (D&D_References)]]
 - Influences [[LOC00204_Wilderness_Location_205]]
 - Leads to [[Aethermoor to Aquabyssos Transition Guide]]
-- Affected by [[step_017]]
+- Affected by
 - Connects to [[Dragonlance Majere Phb]]
 - Connects to [[Sergeant Crystal-Heart Elena]]
 - See also: [[Deities of Dragonlance Good Phb]]
@@ -185,10 +180,10 @@ Seeks rare merchandise
 - Connects to [[LOC00290_Cities_Location_291]]
 - Parallels [[Currency_Guide_Scrip_and_Shard]]
 - Influences [[The Deep Mother's Temple]]
-- Requires [[step_029]]
+- Requires
 - See also: [[Infected Experiments (D&D_References)]]
 - Connects to [[ITEM00565_Enchanted_Chain_Mail_of_Fortitude]]
-- Connects to [[step_076]]
+- Connects to
 - Parallels [[ITEM01117_Pure_Powder_of_Vigor]]
 - See also: [[The Lighthouse Keepers (D&D_References)]]
 - Parallels [[magic-item-rarity (tables)]]
@@ -196,7 +191,7 @@ Seeks rare merchandise
 - Affected by [[Void Sanctum]]
 - Influences [[ITEM00033_Radiant_Hammer_of_Power]]
 - Originates from [[Symbol Heraldry Chaplain Abyssos the Deepseeke V1 Chaplain Abyssos the Deepseeke.svg]]
-- Affected by [[step_040]]
+- Affected by
 - Affected by [[Portrait NPC Ice Kingdom Magic V2 Ice Kingdom Magic.svg]]
 - See also: [[Assets Portraits Portrait NPC Storm Empress Tempestas Maelstrom Storm Empress Tempestas Maelstrom.svg]]
 - See also: [[Cockatrice Regent Xmm]]
@@ -207,7 +202,7 @@ Seeks rare merchandise
 - Leads to [[step_073 (phase_016)]]
 - Affected by [[step_080 (phase_081)]]
 - Parallels [[{{campaign}}]]
-- Influences [[step_088]]
+- Influences
 - Leads to [[step_059 (phase_056)]]
 - Affected by [[Symbol Heraldry the Umbral Exchange the Umbral Exchange.svg]]
 - Requires [[Player Characters as Vampires Mm]]
@@ -219,22 +214,22 @@ Seeks rare merchandise
 - Affected by [[LOC00226_Cities_Location_227]]
 - Requires [[equipment-sizes-phb (variant-rules)]]
 - Influences [[FAC00063_Cults_64]]
-- Affected by [[step_041]]
+- Affected by
 - Leads to [[NPC00508_Alaric_Nightfall_the_Guardian]]
 - Originates from [[Marina Bridgewater (D&D_References)]]
 - Requires [[Assets Symbols Symbol Heraldry Master Chen Wei Master Chen Wei.png]]
 - Influences [[EVENT00036_Political_Event_37]]
-- Requires [[step_060]]
+- Requires
 - See also: [[The Shattering of the Crown]]
-- Parallels [[step_079]]
-- See also: [[step_063]]
+- Parallels
+- See also:
 - Originates from [[Police Chief Sarah Lawkeeper (D&D_References)]]
 - Parallels [[step_019 (phase_010)]]
 - Compare with [[treasure-hoard-challenge-17]]
 - Parallels [[QUEST00269_Personal_Quest_270]]
 - Affected by [[step_064 (phase_040)]]
 - Originates from [[Keeper Healer Restoration]]
-- Influences [[step_080]]
+- Influences
 - Affected by [[NPC Directory.base (People)]]
 - Parallels [[LOC00031_Planes_Location_32]]
 - Parallels [[LOC00115_Wilderness_Location_116]]
@@ -268,7 +263,6 @@ Seeks rare merchandise
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

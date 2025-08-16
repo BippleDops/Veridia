@@ -9,7 +9,6 @@ aliases: [NPC00308 Faelyn Keenblade]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00308 Faelyn Keenblade]
 - [[#Qadim Nightfall (Criminal - Accomplice)|Qadim Nightfall (Criminal - Accomplice)]]
 - [[#Caelum Voidwalker the Strong (Criminal - Fence)|Caelum Voidwalker the Strong (Criminal - Fence)]]
 - [[#Aldric Jadeclaw the Broken (Political - Spy)|Aldric Jadeclaw the Broken (Political - Spy)]]
-
 
 ---
 aliases: ["Faelyn Keenblade", "faelyn keenblade", "Keenblade Faelyn"]
@@ -147,38 +145,34 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.147Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Originates from [[step_016]]
+- Originates from
 - Affected by [[Interfaith_Council]]
 - Compare with [[Consequence Chain 3 - Reality Merger Diplomatic Crisis 2]]
 - Affected by [[MON00040_Constructs_Creature_41]]
 - Compare with [[Random-Encounter-Tables-Aethermoor.png]]
 - Influences [[Teacher Miranda Hopekeeper (D&D_References)]]
 - Originates from [[Warrior-Priest Abyss-Sworn (D&D_References)]]
-- Related: [[step_055]]
+- Related:
 - Connects to [[step_009 (phase_060)]]
 - Parallels [[black-pudding-xmm (ooze)]]
 - Originates from [[Dwarven Gorm Gulthyn Mtf]]
 - Connects to [[Portrait NPC Deep Mother Cultist Profiles Deep Mother Cultist Profiles.svg]]
 - Compare with [[ENC00038_Combat_Encounter_39]]
-- Connects to [[step_047]]
+- Connects to
 - Affected by [[NPC01146_Orion_Zephyrblade_the_Wise]]
 - Requires [[Doctor Emma Herbalist (Lore)]]
 - Leads to [[aura-of-life-xphb (spells)]]
@@ -188,7 +182,7 @@ Needs discrete help with family scandal
 - Compare with [[step_047 (phase_056)]]
 - Affected by [[step_030 (phase_019)]]
 - Affected by [[step_038 (phase_035)]]
-- Connects to [[step_013]]
+- Connects to
 - Parallels [[Cyclops Sentry Xmm]]
 - Compare with [[The Unity Coalition]]
 - Related: [[NPC01667_Jorah_Jadeclaw_the_Mystic]]
@@ -198,7 +192,7 @@ Needs discrete help with family scandal
 - Compare with [[QUEST00269_Side_Quest_270]]
 - Compare with [[The Neural Clusters (D&D_References)]]
 - Related: [[step_005 (phase_083)]]
-- Originates from [[step_091]]
+- Originates from
 - See also: [[ITEM00583_Adamantine_Leather_of_Protection]]
 - Requires [[Assets Locations Location City High Hierophant Meridius High Hierophant Meridius.svg]]
 - Influences [[QUEST0038_The_Frozen_Fortress_Disappearances]]
@@ -221,9 +215,9 @@ Needs discrete help with family scandal
 - Connects to [[step_063 (phase_066)]]
 - Connects to [[FAC00079_Cults_80]]
 - Leads to [[NPC01493_Alaric_Moonshadow_the_Redeemed]]
-- Parallels [[step_054]]
+- Parallels
 - Related: [[Assets Locations Location City the Recursion Cult V1 the Recursion Cult.png]]
-- Leads to [[step_046]]
+- Leads to
 - Requires [[Wave Traderwind (D&D_References)]]
 - Requires [[step_063 (phase_040)]]
 - Originates from [[step_019 (phase_082)]]
@@ -237,7 +231,7 @@ Needs discrete help with family scandal
 - Affected by [[gnoll-fang-of-yeenoghu-xmm (fiend)]]
 - Originates from [[Location City Quest Harbor Security V1 Quest Harbor Security.svg]]
 - Requires [[Portrait NPC Lord Marcus Shadowbane V1 Lord Marcus Shadowbane.svg]]
-- See also: [[step_090]]
+- See also:
 - Influences [[Symbol Heraldry the Neutral Current the Neutral Current.svg]]
 - Affected by [[step_057 (phase_044)]]
 - Leads to [[Map Map Sunken Library Stacks V1 Sunken Library Stacks.svg]]

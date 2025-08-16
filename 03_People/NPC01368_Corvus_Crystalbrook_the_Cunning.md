@@ -9,7 +9,6 @@ aliases: [NPC01368 Corvus Crystalbrook the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01368 Corvus Crystalbrook the Cunning]
 - [[#Faelyn Underhill the Mystic (Professional - Rival)|Faelyn Underhill the Mystic (Professional - Rival)]]
 - [[#Dara Ironforge the Bold (Criminal - Fence)|Dara Ironforge the Bold (Criminal - Fence)]]
 - [[#Jorah Stormwind the Swift (Criminal - Target)|Jorah Stormwind the Swift (Criminal - Target)]]
-
 
 ---
 aliases: ["Corvus Crystalbrook the Cunning", "corvus crystalbrook the cunning", "Corvus Crystalbrook Cunning", "Cunning the Crystalbrook Corvus"]
@@ -153,31 +151,27 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.266Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Leads to [[Fate Weavers (D&D_References)]]
 - Related: [[step_012 (phase_068)]]
-- Influences [[step_066]]
+- Influences
 - Leads to [[tankard-of-sobriety-xdmg (items)]]
 - Connects to [[staff-of-the-python-xdmg (items)]]
 - Originates from [[Location City Wise Tide Truthseeker V1 Wise Tide Truthseeker.svg]]
-- Requires [[step_067]]
+- Requires
 - Related: [[EVENT00045_Political_Event_46]]
 - Leads to [[Assets Locations Location City Crystallium Embassy V1 Crystallium Embassy.svg]]
 - Leads to [[Memory Merchant Centers (D&D_References)]]
@@ -192,7 +186,7 @@ Needs help with personal quest
 - Connects to [[United Councils of Both Worlds 2]]
 - Influences [[Regenerate Xphb]]
 - Influences [[LORE00248_History_Entry_249]]
-- Requires [[step_073]]
+- Requires
 - See also: [[War Caster Xphb]]
 - Influences [[player_agency_preservation_study]]
 - Affected by [[Assets Locations Location City Storm Guard V1 Storm Guard.svg]]
@@ -203,7 +197,7 @@ Needs help with personal quest
 - Leads to [[Multi-Phase Boss Fights]]
 - See also: [[emberhorn-minotaur-pota (monstrosity)]]
 - See also: [[Behir Xmm]]
-- Parallels [[step_048]]
+- Parallels
 - Affected by [[Harbor Patrol]]
 - Related: [[Green Dragon Wyrmling Xmm]]
 - Related: [[height-and-weight-vgm (tables)]]
@@ -229,7 +223,7 @@ Needs help with personal quest
 - Requires [[step_076 (phase_028)]]
 - Related: [[step_039 (phase_039)]]
 - See also: [[Note#Heading]]
-- Parallels [[step_099]]
+- Parallels
 - Originates from [[step_093 (phase_061)]]
 - Related: [[Assets Locations Location City Whisper Island Docks Whisper Island Docks.svg]]
 - Parallels [[Location City Rare Ingredient Network V1 Rare Ingredient Network.svg]]
@@ -238,7 +232,7 @@ Needs help with personal quest
 - Related: [[Needle Xphb]]
 - See also: [[Portrait NPC the Scattered Emperor V1 the Scattered Emperor.svg_1 (Portraits)]]
 - Parallels [[step_016 (phase_050)]]
-- Compare with [[step_054]]
+- Compare with
 - Related: [[step_032 (phase_091)]]
 - Leads to [[NPC01083_Zephyr_Nightfall_the_Cunning]]
 - Related: [[Symbol Heraldry Arcturus Lumenblade Arcturus Lumenblade.svg]]
@@ -248,15 +242,15 @@ Needs help with personal quest
 - Influences [[Academy of Crystalline Art]]
 - See also: [[Wall of Force Xphb]]
 - Affected by [[Shadow-Silk Weavers Guild (Guilds)]]
-- Originates from [[step_021]]
+- Originates from
 - Requires [[FAC00078_Cults_79]]
 - Parallels [[Inverse Colonies 2]]
 - Originates from [[Assets Locations Location City Quill Precisequote V1 Quill Precisequote.svg]]
 - Affected by [[The Silence Experiments]]
 - Originates from [[Weapons Trader Gareth Steelmerchant]]
 - Affected by [[step_054 (phase_084)]]
-- Requires [[step_021]]
-- Originates from [[step_010]]
+- Requires
+- Originates from
 - Influences [[NPC01634_Erasmus_Frostwhisper_the_Seeker]]
 - Related: [[step_083 (phase_069)]]
 - Requires [[Technical Director Jasper Lightforge 2]]

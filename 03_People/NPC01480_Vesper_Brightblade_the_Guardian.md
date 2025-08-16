@@ -18,7 +18,6 @@ aliases: [NPC01480 Vesper Brightblade the Guardian]
 - [[#Erasmus Ironforge the Strong (Professional - Employee)|Erasmus Ironforge the Strong (Professional - Employee)]]
 - [[#Jorah Nightfall the Redeemed (Personal - Childhood friend)|Jorah Nightfall the Redeemed (Personal - Childhood friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Vesper Brightblade the Guardian", "vesper brightblade the guardian", "Vesper Brightblade Guardian", "Guardian the Brightblade Vesper"]
@@ -157,25 +156,20 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.277Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -194,7 +188,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.51
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -203,16 +197,15 @@ Following magic item guidelines (WWT p.135-136):
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Leads to [[LORE0048_Myth_of_the_First_King]]
-- Connects to [[step_048]]
+- Connects to
 - Originates from [[Location City the Umbral Nexus V1 the Umbral Nexus.svg]]
 - Leads to [[QUEST00055_Main_Quest_56]]
 - Affected by [[Portrait NPC Memory Harvester Kythara V1 Memory Harvester Kythara.svg]]
@@ -229,8 +222,8 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Assets Symbols Symbol Heraldry the Sunken Observatory the Sunken Observatory.svg]]
 - Leads to [[Handout Handout Noble Writ with Wax Seal Noble Writ with Wax Seal.png]]
 - Connects to [[Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg_1 (Portraits)]]
-- Leads to [[step_060]]
-- Originates from [[step_029]]
+- Leads to
+- Originates from
 - Leads to [[Keeper Thundercall (D&D_References)]]
 - Affected by [[step_079 (phase_010)]]
 - Related: [[Symbol Heraldry Financial Crime Investigatio Financial Crime Investigatio.svg]]
@@ -238,7 +231,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[step_010 (phase_018)]]
 - Originates from [[04_Resources_Assets_Locations_location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg]]
 - Affected by [[Location City Memory Keeper Lament Memory Keeper Lament.svg]]
-- Originates from [[step_077]]
+- Originates from
 - Parallels [[Energy Bow Xdmg]]
 - Leads to [[step_076 (phase_009)]]
 - Connects to [[Grand Master Tempest Windvoic 2]]
@@ -257,7 +250,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[ITEM0104_Ancient_Gauntlet_of_the_Dawn]]
 - Related: [[clockwork-amulet-xdmg (items)]]
 - Originates from [[Swarm of Bats Xmm]]
-- Affected by [[step_085]]
+- Affected by
 - Requires [[Heart Crystal 2]]
 - Connects to [[step_098 (phase_064)]]
 - Compare with [[step_011 (phase_044)]]
@@ -268,9 +261,9 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[NPC01126_Malakai_Oakenshield_the_Fallen]]
 - Parallels [[Portrait NPC Memory Merchants V2 Memory Merchants.svg]]
 - Requires [[step_057 (phase_009)]]
-- Requires [[step_093]]
+- Requires
 - Parallels [[Security Chief Wade Peacekeep]]
-- Leads to [[step_095]]
+- Leads to
 - Leads to [[Quest - The Missing Fleet_1 (01_Adventures)]]
 - Leads to [[step_089 (phase_053)]]
 - Related: [[step_085 (phase_085)]]
@@ -298,14 +291,14 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[horn-of-valhalla-bronze-xdmg (items)]]
 - Related: [[Rest Variants]]
 - Related: [[step_088 (phase_009)]]
-- Influences [[step_034]]
+- Influences
 - Requires [[NPC0149_Delilah_Darkwater]]
 - Parallels [[The Noble Quarter Market]]
 - Compare with [[Location City Coral Throne Syndicate V1 Coral Throne Syndicate.svg]]
 - See also: [[adventure-patrons-patron-hooks-xdmg (tables)]]
 - Parallels [[step_007 (phase_031)]]
 - Related: [[portrait-npc-shadow-brokers-shadow-brokers.svg_1 (Portraits)]]
-- Leads to [[step_082]]
+- Leads to
 - Compare with [[Sentient Magic Item Senses]]
 - Leads to [[03_People_Artificer_PlayStation]]
 - See also: [[Location City Traditional Craft Districts Traditional Craft Districts.svg]]
@@ -316,7 +309,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

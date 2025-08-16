@@ -18,7 +18,6 @@ aliases: [NPC00389 Branwen Stormwind the Broken]
 - [[#Malakai Ravenheart the Risen (Criminal - Informant)|Malakai Ravenheart the Risen (Criminal - Informant)]]
 - [[#Hilda Voidwalker the Scholar (Personal - Nemesis)|Hilda Voidwalker the Scholar (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Branwen Stormwind the Broken", "branwen stormwind the broken", "Branwen Stormwind Broken", "Broken the Stormwind Branwen"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.157Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,14 +171,14 @@ Wants rivals investigated
 - Affected by [[underwater-encounters-levels-510-xge (tables)]]
 - Originates from [[Shadow Kraken]]
 - Originates from [[Robe of Stars Xdmg]]
-- Leads to [[step_004]]
+- Leads to
 - Connects to [[LORE00172_Legends_Entry_173]]
 - Leads to [[Bioluminescence]]
 - Leads to [[step_003 (phase_031)]]
 - Related: [[Welfare Director Caretake 2]]
 - Parallels [[Handout Handout Privateer Letter of Marque V1 Privateer Letter of Marque.png]]
 - Compare with [[Treble-Echo Whistle Brainsplitter]]
-- Requires [[step_053]]
+- Requires
 - Requires [[Void Magic]]
 - Originates from [[incubus-xmm (fiend)]]
 - Related: [[Keeper Luminous Truehart]]
@@ -192,12 +187,12 @@ Wants rivals investigated
 - Parallels [[Dockworkers' Union (D&D_References)]]
 - Affected by [[step_067 (phase_071)]]
 - Leads to [[step_070 (phase_012)]]
-- Leads to [[step_001]]
+- Leads to
 - Connects to [[Portrait NPC Investigator Supreme Lucian Brightwater V1 Investigator Supreme Lucian Brightwater.svg_1 (Portraits)]]
 - Related: [[Captain Rescue (D&D_References)]]
 - Compare with [[Eversmoking Bottle Xdmg]]
 - Related: [[Location City Magical Engineer Reef Spellbreath Magical Engineer Reef Spellbreath.svg]]
-- Parallels [[step_048]]
+- Parallels
 - Affected by [[step_092 (phase_029)]]
 - Influences [[EVENT00062_Natural_Event_63]]
 - Influences [[LOC00075_Towns_Location_76]]
@@ -205,14 +200,14 @@ Wants rivals investigated
 - Parallels [[LOC00079_Cities_Location_80]]
 - See also: [[Merger Transit Zones]]
 - Influences [[The Deep Territories]]
-- Related: [[step_024]]
+- Related:
 - Requires [[The Cipher Current 2]]
-- Originates from [[step_077]]
+- Originates from
 - Influences [[step_075 (phase_021)]]
 - Compare with [[Assets Locations Location City Mad Oracle Thessaly V1 Mad Oracle Thessaly.svg]]
 - Parallels [[ITEM00214_Thunder_Sword_of_Power]]
 - Affected by [[Location City the Inverse Palace the Inverse Palace.svg]]
-- Affected by [[step_065]]
+- Affected by
 - Originates from [[Surface Coalition]]
 - See also: [[step_018 (phase_085)]]
 - Affected by [[Coinage Standard Exchange Rates Phb]]
@@ -220,7 +215,7 @@ Wants rivals investigated
 - Requires [[NPC0135_Petra_Darkwater]]
 - Requires [[bones-of-the-earth-xge (spells)]]
 - Related: [[ITEM0142_Glorious_Shield_of_Shadows]]
-- Parallels [[step_017]]
+- Parallels
 - Compare with [[Parliament of Echoes - Shadow Chamber]]
 - Influences [[QUEST0011_Escape_the_Demons]]
 - Affected by [[storehouse]]
@@ -265,7 +260,7 @@ Wants rivals investigated
 - Influences [[Faerie Dragon Youth Xmm]]
 - See also: [[Spiritual Healing]]
 - Requires [[Religious Communities 2]]
-- Connects to [[step_033]]
+- Connects to
 - Compare with [[LOC00089_Towns_Location_90]]
 - Influences [[Intel Master Raven Shadowsigh 2]]
 - Related: [[ITEM0123_Divine_Circlet_of_the_Dawn]]
@@ -278,7 +273,6 @@ Wants rivals investigated
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
 
-
 ## Realm Connections
 
 ### Connection to Aethermoor
@@ -290,9 +284,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

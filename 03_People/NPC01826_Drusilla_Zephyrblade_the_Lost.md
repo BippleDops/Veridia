@@ -18,7 +18,6 @@ aliases: [NPC01826 Drusilla Zephyrblade the Lost]
 - [[#Hilda Dawnstrider the Lost (Political - Spy)|Hilda Dawnstrider the Lost (Political - Spy)]]
 - [[#Qadim Xendar the Redeemed (Family - Cousin)|Qadim Xendar the Redeemed (Family - Cousin)]]
 
-
 ---
 aliases: ["Drusilla Zephyrblade the Lost", "drusilla zephyrblade the lost", "Drusilla Zephyrblade Lost", "Lost the Zephyrblade Drusilla"]
 tags: [npc, character]
@@ -138,21 +137,17 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.314Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -160,7 +155,7 @@ Offers deal too good to refuse
 - Connects to [[SPELL00035_Divine_Spell_36]]
 - Leads to [[NPC01755_Orion_Xendar_the_Lost]]
 - Affected by [[step_057 (phase_085)]]
-- Requires [[step_014]]
+- Requires
 - Affected by [[Location City Resonance Roses V1 Resonance Roses.svg]]
 - See also: [[location-city-market-heist-v1-market-heist.svg]]
 - Originates from [[QUEST00377_Side_Quest_378]]
@@ -193,10 +188,10 @@ Offers deal too good to refuse
 - Requires [[Symbol Heraldry Established Family Communitie Established Family Communitie.svg]]
 - Connects to [[Assets Vehicles Vehicle Ship Crown Council Flagship Crown Council Flagship.svg]]
 - Originates from [[Omega-Protocol]]
-- Parallels [[step_080]]
+- Parallels
 - Originates from [[Trade Arbitrator Marina Fairwave]]
-- Originates from [[step_086]]
-- Parallels [[step_029]]
+- Originates from
+- Parallels
 - Originates from [[Mind Shield Helm 2]]
 - Affected by [[step_036 (phase_031)]]
 - Influences [[Frost Brand Xdmg]]
@@ -226,7 +221,7 @@ Offers deal too good to refuse
 - Compare with [[The Memory Crystals Division (D&D_References)]]
 - Influences [[Phase_Omega_Enhanced_Index (D&D_References)]]
 - Influences [[Scroll of Protection Humanoids Xdmg]]
-- Leads to [[step_096]]
+- Leads to
 - Affected by [[NPC01519_Hestara_Frostwhisper_the_Seeker]]
 - Leads to [[ITEM00805_Time-worn_Ring_of_Destiny]]
 - Originates from [[Noble Houses (D&D_References)]]
@@ -250,18 +245,17 @@ Offers deal too good to refuse
 - Affected by [[ENC00059_Social_Encounter_60]]
 - Related: [[skill-expert-xphb (feats)]]
 - Related: [[Elder Whisper-In-The-Dark (People)]]
-- Affected by [[step_045]]
+- Affected by
 - Affected by [[step_059 (phase_019)]]
 - Requires [[Location City Secular Community Practices Secular Community Practices.svg]]
 - Connects to [[SHOP00017_General_Shop_18]]
 - Originates from [[step_051 (phase_077)]]
-- Requires [[step_042]]
+- Requires
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

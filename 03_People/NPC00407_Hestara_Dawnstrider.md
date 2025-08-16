@@ -9,7 +9,6 @@ aliases: [NPC00407 Hestara Dawnstrider]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00407 Hestara Dawnstrider]
 - [[#Cedric Darkwater the Mystic (Family - Child)|Cedric Darkwater the Mystic (Family - Child)]]
 - [[#Solas Quicksilver the Swift (Professional - Partner)|Solas Quicksilver the Swift (Professional - Partner)]]
 - [[#Baelor Frostwhisper (Political - Ally)|Baelor Frostwhisper (Political - Ally)]]
-
 
 ---
 created: 2025-08-15
@@ -144,16 +142,13 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.159Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -165,7 +160,6 @@ Modifications:
 - HP: 25
 - AC: 10
 - Notable abilities: Varies by individual
-
 
 > [!example] 📝 Example
 > How this works in play
@@ -205,11 +199,10 @@ Modifications:
 - [[10 Appendix B Creature Stat Blocks]]
 - [[12 Spells]]
 - [[NPC01699_Orion_Oakenshield_the_Broken]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -217,11 +210,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -244,7 +236,7 @@ Modifications:
 - Leads to [[Assets Locations [[Location City [[Ancient Tunnels Beneath Palace]] Ancient Tunnels Beneath Palace.svg]]]]
 - Related: [[crowbar-xphb (items)]]
 - Influences [[LOC00000_Planes_Location_1]]
-- Connects to [[step_068]]
+- Connects to
 - See also: [[Assets Locations Location City [[The Lock]] V1 the Lock.svg]]
 - Connects to [[QUEST00441_Side_Quest_442]]
 - Influences [[Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg]]
@@ -267,7 +259,7 @@ Modifications:
 - Affected by [[step_024 (phase_016)]]
 - Affected by [[step_045 (phase_058)]]
 - Influences [[Justice Shadowin]]
-- Connects to [[step_049]]
+- Connects to
 - Connects to [[Location City [[The Deep Temple]] V1 the Deep Temple.svg]]
 - See also: [[LOC00298_Planes_Location_299]]
 - Affected by [[[[The Deserter]]'s Tale (D&D_References)]]
@@ -280,7 +272,7 @@ Modifications:
 - Originates from [[Bio-Integration Researcher [[Coral Lifeshaper]] (D&D_References)]]
 - Related: [[Brother Pelagios Irondeep]]
 - Parallels [[step_023 (phase_020)]]
-- Related: [[step_029]]
+- Related:
 - Originates from [[Healer Dawnshad]]
 - Related: [[Gold Comb Shaped Like a Dragon with Red Garnets As Eyes Xdmg]]
 - Affected by [[MON00133_Undead_Creature_134]]
@@ -290,9 +282,9 @@ Modifications:
 - Related: [[Portrait NPC Captain Thorne Darkwater V2 Captain Thorne Darkwater.svg]]
 - Influences [[Great Reconciliation]]
 - Compare with [[Crystal Cult Temples]]
-- Affected by [[step_053]]
+- Affected by
 - Related: [[Crystal Cults (D&D_References)]]
-- Connects to [[step_002]]
+- Connects to
 - See also: [[Forest Communities]]
 - Connects to [[[[Harbor Master's License]] (D&D_References)]]
 - Connects to [[[[Royal Academy of Arcane Arts Ruin]]s (Places)]]
@@ -309,7 +301,7 @@ Modifications:
 - Leads to [[Giant Fire Beetle Xmm]]
 - See also: [[Location City [[Temple of Sacred Dreams]] V1 Temple of Sacred Dreams.svg]]
 - Affected by [[Assets Locations [[Location City [[Flame Keeper Brother Ignatius]] V1 Flame Keeper Brother Ignatius.svg]]]]
-- Related: [[step_087]]
+- Related:
 - See also: [[The Temple of First Tide]]
 - Originates from [[step_063 (phase_043)]]
 - See also: [[SPELL00086_Nature_Spell_87]]
@@ -317,7 +309,7 @@ Modifications:
 - Originates from [[Assets Locations Location City [[Historical Prophetic Analysis]] Historical Prophetic Analysis.svg]]
 - Related: [[Location City [[High Vigil Keeper Thalassa Depthmind]] High Vigil Keeper Thalassa Depthmind.svg]]
 - Compare with [[tome-of-clear-thought-xdmg (items)]]
-- Related: [[step_058]]
+- Related:
 - Connects to [[Assets Locations Location City [[Coral Reef Sanctuaries]] Coral Reef Sanctuaries.svg]]
 - Compare with [[Location City [[Court Herald Master Proclamation Crownvoice]] V1 Court Herald Master Proclamation Crownvoice.svg]]
 - Compare with [[[[Archivist Methodius Recordkeeper]] (D&D_References)]]
@@ -334,7 +326,7 @@ Modifications:
 - Parallels [[Portrait NPC [[Abyssos Prime]] Government Abyssos Prime Government.svg_1 (Portraits)]]
 - Influences [[Plant Growth Xphb]]
 - Influences [[star-spawn-seer-mpmm (aberration)]]
-- Requires [[step_039]]
+- Requires
 - Parallels [[Quest - Foreign Interests_1 (01_Adventures)]]
 - Compare with [[Frontier Settlement]]
 

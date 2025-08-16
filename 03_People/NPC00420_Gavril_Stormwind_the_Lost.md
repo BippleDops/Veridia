@@ -18,7 +18,6 @@ aliases: [NPC00420 Gavril Stormwind the Lost]
 - [[#Fiora Keenblade the Wanderer (Family - Sibling)|Fiora Keenblade the Wanderer (Family - Sibling)]]
 - [[#Ewan Proudmore (Personal - Nemesis)|Ewan Proudmore (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Gavril Stormwind the Lost", "gavril stormwind the lost", "Gavril Stormwind Lost", "Lost the Stormwind Gavril"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.161Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -177,17 +172,17 @@ Discovered something valuable
 - See also: [[Location City Surface Loyalist Safe Houses V1 Surface Loyalist Safe Houses.svg]]
 - Influences [[The Shadow Nexus]]
 - Connects to [[QUEST00050_Main_Quest_51]]
-- Connects to [[step_059]]
+- Connects to
 - Related: [[step_069 (phase_032)]]
 - Parallels [[Project Image Xphb]]
 - Connects to [[Talisman of Ultimate Evil Xdmg]]
 - Related: [[Assets Locations Location City Temporal Magic Research V1 Temporal Magic Research.svg]]
 - See also: [[Portrait NPC Merchant Captain Trade Merchant Captain Trade.svg]]
 - Originates from [[Race Against the Festival 2]]
-- Connects to [[step_030]]
+- Connects to
 - Requires [[Portrait NPC Quest the Kingpin S Fall Quest the Kingpin S Fall.svg]]
 - Related: [[step_062 (phase_060)]]
-- Influences [[step_091]]
+- Influences
 - Leads to [[The Skyborn Elite]]
 - Connects to [[Symbol Heraldry Information Trading System Information Trading System.svg]]
 - Parallels [[step_075 (phase_014)]]
@@ -195,7 +190,7 @@ Discovered something valuable
 - Originates from [[The Great Sky Harbor (D&D_References)]]
 - Connects to [[Alien Technology]]
 - See also: [[Location City Missing Persons of Port Meridian V1 Missing Persons of Port Meridian.svg]]
-- Compare with [[step_043]]
+- Compare with
 - Leads to [[Dungeon Dressing General Features]]
 - Related: [[Symbol Heraldry the Convergence Seekers the Convergence Seekers.svg]]
 - See also: [[portrait-npc-the-biomancers-v1-the-biomancers.svg]]
@@ -212,25 +207,25 @@ Discovered something valuable
 - Related: [[Consequence Chain 5 - Marina Identity Revelation]]
 - Related: [[Dataview Query Guide]]
 - Compare with [[Senator Glaucus (D&D_References)]]
-- Related: [[step_046]]
+- Related:
 - Compare with [[LOC00082_Dungeons_Location_83]]
 - Affected by [[NPC0049_Jora_Ironforge]]
 - Originates from [[Assets Vehicles Vehicle Ship Abyssal Scout Submarine V1 Abyssal Scout Submarine.png]]
 - Related: [[BACKUP_LINKS_FIXED_REPORT]]
 - Originates from [[Burrow Speed Xphb]]
-- Originates from [[step_098]]
-- Parallels [[step_031]]
+- Originates from
+- Parallels
 - Compare with [[Map Map Wrecked Submarine Interior V2 Wrecked Submarine Interior.svg]]
 - Originates from [[Royal Protocol 2]]
 - Parallels [[Dimensional Nexus]]
 - Connects to [[LORE00132_History_Entry_133]]
 - See also: [[Navigation & Geography (D&D_References)]]
-- Influences [[step_093]]
+- Influences
 - Connects to [[step_086 (phase_037)]]
 - See also: [[LOC00181_Dungeons_Location_182]]
 - Affected by [[Faction_Heraldry 2 (Symbols)]]
 - Compare with [[step_055 (phase_027)]]
-- Connects to [[step_087]]
+- Connects to
 - Leads to [[Crystal Vein Settlements (D&D_References)]]
 - Parallels [[NPC00199_Ewan_Ashford]]
 - Requires [[Pearl Sharpedge]]
@@ -244,8 +239,8 @@ Discovered something valuable
 - Requires [[LOC00081_Wilderness_Location_82]]
 - Originates from [[Spotlight_Tracker]]
 - See also: [[NPC0197_Minerva_Brightblade_the_Strong]]
-- Requires [[step_036]]
-- Originates from [[step_010]]
+- Requires
+- Originates from
 - See also: [[step_014 (phase_070)]]
 - Originates from [[Weather_Warden_Storm_Wisdom (02_Worldbuilding)]]
 - Influences [[ENC00184_Social_Encounter_185]]
@@ -253,16 +248,16 @@ Discovered something valuable
 - Compare with [[step_085 (phase_027)]]
 - Originates from [[LOC00163_Cities_Location_164]]
 - Affected by [[Human Names Niger Congo Male Xge]]
-- See also: [[step_098]]
+- See also:
 - Leads to [[step_091 (phase_088)]]
 - Leads to [[Portrait NPC Lady Celestine Windborne V1 Lady Celestine Windborne.svg]]
 - Influences [[Handout Handout Noble Writ with Wax Seal V1 Noble Writ with Wax Seal.png]]
 - Influences [[step_002 (phase_047)]]
 - Related: [[Portrait NPC Quest the Deepest Current V2 Quest the Deepest Current.svg]]
 - Related: [[Military Command 2]]
-- Related: [[step_038]]
+- Related:
 - Parallels [[step_002 (phase_071)]]
-- Parallels [[step_018]]
+- Parallels
 - Originates from [[step_077 (phase_024)]]
 - Compare with [[Location City Keeper of Contracts Minerva Bindingword V1 Keeper of Contracts Minerva Bindingword.svg]]
 - Affected by [[NPC00517_Rhiannon_Youngblood_the_Risen]]
@@ -273,7 +268,6 @@ Discovered something valuable
 ![[03_People/portrait_merchant_captain_tobias_stormwind_dramatic.png]]
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
-
 
 ## Realm Connections
 
@@ -286,9 +280,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00842 Felicia Voidwalker the Wise]
 - [[#Erasmus Lightbringer the Risen (Political - Puppet)|Erasmus Lightbringer the Risen (Political - Puppet)]]
 - [[#Corvus Jadeclaw the Lost (Professional - Employer)|Corvus Jadeclaw the Lost (Professional - Employer)]]
 
-
 ---
 aliases: ["Felicia Voidwalker the Wise", "felicia voidwalker the wise", "Felicia Voidwalker Wise", "Wise the Voidwalker Felicia"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.208Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,7 +173,7 @@ Has map to lost treasure
 - Affected by [[Cultural Exchange]]
 - Influences [[step_014 (phase_099)]]
 - See also: [[giant-insect-xphb (beast)]]
-- Parallels [[step_029]]
+- Parallels
 - Affected by [[Assets Locations Location City Sage Currentknow V1 Sage Currentknow.svg]]
 - Affected by [[LORE00021_Prophecies_Entry_22]]
 - Related: [[step_037 (phase_054)]]
@@ -194,17 +189,17 @@ Has map to lost treasure
 - Influences [[LORE00293_Prophecies_Entry_294]]
 - Connects to [[location-city-grand-harbor-v1-grand-harbor.svg]]
 - Leads to [[Future Glimpse Glass]]
-- Related: [[step_011]]
-- Connects to [[step_074]]
+- Related:
+- Connects to
 - Parallels [[Maintece_Supervisor_Tide_Fixwright]]
 - Affected by [[Assets Locations Location City Coral Courts V1 Coral Courts.svg]]
 - Connects to [[Cone of Cold Xphb]]
 - Compare with [[Primordial Memory]]
 - Leads to [[gareth-default.png]]
-- Affected by [[step_016]]
+- Affected by
 - Influences [[step_076 (phase_065)]]
-- See also: [[step_080]]
-- Requires [[step_085]]
+- See also:
+- Requires
 - Affected by [[step_090 (phase_057)]]
 - Influences [[FAC00046_Cults_47]]
 - Connects to [[Location City Builder Adaptable Builder Adaptable.svg]]
@@ -228,7 +223,7 @@ Has map to lost treasure
 - Compare with [[SPELL00145_Arcane_Spell_146]]
 - Requires [[step_032 (phase_087)]]
 - Connects to [[step_036 (phase_074)]]
-- Compare with [[step_062]]
+- Compare with
 - Related: [[eldritch-blast-xphb (spells)]]
 - Affected by [[step_047 (phase_086)]]
 - Affected by [[Stormwind Supplies]]
@@ -242,13 +237,13 @@ Has map to lost treasure
 - Requires [[Memory Tides 3 (D&D_References)]]
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-merchant-captain-trade-merchant-captain-trade.svg_Quick_Ref]]
 - See also: [[Flow Circlemaker (D&D_References)]]
-- See also: [[step_095]]
+- See also:
 - Connects to [[02_Worldbuilding_Groups_Surface_Reconnection_Coalition]]
 - Parallels [[Assets Locations Location City Foreign Intelligence Foreign Intelligence.svg]]
 - Influences [[step_023 (phase_054)]]
 - Leads to [[SPELL00029_Nature_Spell_30]]
 - Connects to [[dawn-war-avandra-dmg (deities)]]
-- Influences [[step_072]]
+- Influences
 - Parallels [[Quandrix Primer Scc]]
 - Requires [[The Ghostly Librarians 2]]
 - Parallels [[catnap-xge (spells)]]
@@ -261,7 +256,7 @@ Has map to lost treasure
 - See also: [[FAC00026_Orders_27]]
 - Affected by [[Portrait NPC Archon Meredith Saltweaver V1 Archon Meredith Saltweaver.svg_1 (Portraits)]]
 - Originates from [[gold-dragon-xmm (legendary-group)]]
-- Parallels [[step_064]]
+- Parallels
 - Connects to [[Enthrall Xphb]]
 - Parallels [[step_079 (phase_016)]]
 - Compare with [[step_009 (phase_070)]]
@@ -272,7 +267,6 @@ Has map to lost treasure
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

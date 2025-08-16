@@ -18,7 +18,6 @@ aliases: [NPC00490 Corvus Xendar the Lost]
 - [[#Brenna Winterborn the Fallen (Professional - Rival)|Brenna Winterborn the Fallen (Professional - Rival)]]
 - [[#Corvus Frostwhisper (Criminal - Handler)|Corvus Frostwhisper (Criminal - Handler)]]
 
-
 ---
 aliases: ["Corvus Xendar the Lost", "corvus xendar the lost", "Corvus Xendar Lost", "Lost the Xendar Corvus"]
 tags: [npc, character]
@@ -139,21 +138,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.169Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -184,7 +179,7 @@ Discovered something valuable
 - Connects to [[02-a-world-of-your-own (dungeon-masters-guide-2014)]]
 - Connects to [[LOC00123_Dungeons_Location_124]]
 - Originates from [[Surface-Underwater Trade]]
-- Originates from [[step_035]]
+- Originates from
 - Originates from [[Faction_Symbols_&_Heraldry]]
 - Connects to [[step_031 (phase_074)]]
 - Requires [[step_026 (phase_062)]]
@@ -197,7 +192,7 @@ Discovered something valuable
 - See also: [[QUEST00201_Personal_Quest_202]]
 - Originates from [[LOC00069_Dungeons_Location_70]]
 - Compare with [[LOC00146_Towns_Location_147]]
-- Related: [[step_009]]
+- Related:
 - Parallels [[NPC00877_Drusilla_Lightbringer_the_Lost]]
 - Influences [[Assets Locations Location City Indigo Deepdye Indigo Deepdye.svg]]
 - Connects to [[LOC00190_Dungeons_Location_191]]
@@ -214,10 +209,10 @@ Discovered something valuable
 - Compare with [[Royal Government]]
 - Compare with [[Mounted_Combat]]
 - Leads to [[step_053 (phase_045)]]
-- Originates from [[step_061]]
+- Originates from
 - Parallels [[Kelp Forest (D&D_References)]]
 - Affected by [[level-and-lethality-damage-severity-by-level-xge]]
-- Leads to [[step_065]]
+- Leads to
 - Requires [[step_099 (phase_093)]]
 - Affected by [[step_100 (phase_082)]]
 - Leads to [[Map World Layer Hidden Locations and Rumor Sites V2 Hidden Locations and Rumor Sites.svg]]
@@ -247,8 +242,8 @@ Discovered something valuable
 - Originates from [[Dwarven Vergadain Mtf]]
 - See also: [[Whelm Xdmg]]
 - Affected by [[step_020 (phase_050)]]
-- Compare with [[step_012]]
-- Connects to [[step_009]]
+- Compare with
+- Connects to
 - See also: [[Dr. Marina Gentlehand]]
 - Influences [[Guard Drake Mpmm]]
 - See also: [[Orc Xphb]]
@@ -262,7 +257,6 @@ Discovered something valuable
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

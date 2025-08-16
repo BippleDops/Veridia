@@ -18,7 +18,6 @@ aliases: [NPC00552 Malakai Stormwind the Seeker]
 - [[#Orion Zephyrblade the Seeker (Political - Patron)|Orion Zephyrblade the Seeker (Political - Patron)]]
 - [[#Fiora Silverleaf the Guardian (Criminal - Accomplice)|Fiora Silverleaf the Guardian (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Malakai Stormwind the Seeker", "malakai stormwind the seeker", "Malakai Stormwind Seeker", "Seeker the Stormwind Malakaitags: [npc, character, combat, magic, exploration, lore]er]
@@ -146,16 +145,13 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.176Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -167,7 +163,6 @@ Modifications:
 - HP: 13
 - AC: 11
 - Notable abilities: Varies by individual
-
 
 > [!warning] ⚠️ Warning
 > Important safety or rule information
@@ -207,11 +202,10 @@ Modifications:
 - [[NPC01994_Orion_Brightblade_the_Risen]]
 - [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
 - [[Complete_NPC_Matrix.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -221,11 +215,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -257,17 +250,17 @@ Modifications:
 - Connects to [[Rural Resistance]]
 - Originates from [[MON00091_Aberrations_Creature_92]]
 - Related: [[Portrait NPC the Pressure King the Pressure King.svg]]
-- Compare with [[step_080]]
+- Compare with
 - Compare with [[Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg]]
 - Influences [[Bio-Magical Integration Laboratory (D&D_References)]]
 - See also: [[Chronarch Supreme]]
 - Related: [[step_044 (phase_017)]]
 - Requires [[step_061 (phase_075)]]
 - Connects to [[ITEM00694_Dragon_Scale_Helm_of_Grace]]
-- Influences [[step_035]]
+- Influences
 - Leads to [[Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg]]
 - Influences [[Community Mediator Balance Wright]]
-- Requires [[step_046]]
+- Requires
 - Originates from [[[[Steel Depthguard]] (D&D_References)]]
 - Connects to [[[[Nautilus Threadmender]] (D&D_References)]]
 - Influences [[The Cold Houses 2]]
@@ -275,7 +268,7 @@ Modifications:
 - Affected by [[step_003 (phase_092)]]
 - Originates from [[Cell-Based Revolutionary Organization 2]]
 - Compare with [[step_020 (phase_097)]]
-- See also: [[step_084]]
+- See also:
 - Connects to [[step_038 (phase_010)]]
 - Related: [[step_032 (phase_053)]]
 - Affected by [[Dr Elena Mirthorn]]
@@ -290,7 +283,7 @@ Modifications:
 - Parallels [[NPC01458_Aldric_Silverleaf_the_Scholar]]
 - Leads to [[LOC00210_Dungeons_Location_211]]
 - Parallels [[step_036 (phase_048)]]
-- Influences [[step_033]]
+- Influences
 - See also: [[Mind Spike Xphb]]
 - Affected by [[[[World Map]] (D&D_References)]]
 - Connects to [[Assets Locations [[Location City [[Liminal Constantinople]] V1 Liminal Constantinople.svg]]]]
@@ -309,7 +302,7 @@ Modifications:
 - Requires [[Intervention Windows]]
 - Requires [[Underground Railroad Leader]]
 - Related: [[Assets Locations Location City [[Market Mystery]] V1 Market Mystery.svg]]
-- Connects to [[step_044]]
+- Connects to
 - Requires [[step_011 (phase_080)]]
 - Affected by [[Cloud of Daggers Xphb]]
 - Connects to [[QUEST0073_The_Frozen_Fortress_Uprising]]
@@ -329,7 +322,7 @@ Modifications:
 - Originates from [[Save the Citizens]]
 - Affected by [[The Tide Speakers]]
 - Leads to [[Light Repeating Crossbow Oota]]
-- Parallels [[step_090]]
+- Parallels
 - Connects to [[step_041 (phase_100)]]
 - Related: [[Phantom Steed Xphb]]
 - Parallels [[Portrait NPC the King S Ears V2 the King S Ears.svg]]
@@ -353,7 +346,6 @@ Modifications:
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
 
-
 ## Realm Connections
 
 ### Connection to [[Aethermoor]]
@@ -365,9 +357,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

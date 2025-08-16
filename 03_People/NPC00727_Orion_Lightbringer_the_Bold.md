@@ -18,7 +18,6 @@ aliases: [NPC00727 Orion Lightbringer the Bold]
 - [[#Faelyn Stormwind the Bold (Personal - Ex-lover)|Faelyn Stormwind the Bold (Personal - Ex-lover)]]
 - [[#Nerys Nightfall the Lost (Personal - Ex-lover)|Nerys Nightfall the Lost (Personal - Ex-lover)]]
 
-
 ---
 aliases: ["Orion Lightbringer the Bold", "orion lightbringer the bold", "Orion Lightbringer Bold", "Bold the Lightbringer Orion"]
 tags: [npc, character]
@@ -154,26 +153,22 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.195Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Compare with [[Shadow Crystals (D&D_References)]]
-- See also: [[step_032]]
+- See also:
 - See also: [[DUN00149_Dungeon_150]]
 - Related: [[step_066 (phase_016)]]
 - Connects to [[ENC00082_Combat_Encounter_83]]
@@ -209,7 +204,7 @@ Witnessed a crime
 - See also: [[The Deepwater Current]]
 - Related: [[The Pearl Divers Guil (Groups)]]
 - Related: [[Elemental Gem Red Corundum Xdmg]]
-- Affected by [[step_037]]
+- Affected by
 - See also: [[Detect Magic Xphb]]
 - Compare with [[adult-silver-dragon-xmm (dragon)]]
 - Connects to [[Intelligence Services (People)]]
@@ -217,15 +212,15 @@ Witnessed a crime
 - Connects to [[Portrait NPC Captain Thalia Stormguard V1 Captain Thalia Stormguard.svg]]
 - Influences [[LORE00146_History_Entry_147]]
 - Originates from [[Forgotten Realms Loviatar]]
-- See also: [[step_020]]
+- See also:
 - See also: [[step_080 (phase_018)]]
 - Originates from [[step_007 (phase_051)]]
 - Compare with [[Western Frontier]]
 - Originates from [[NPC00597_Ysara_Ravenheart_the_Redeemed]]
 - Compare with [[ENC00428_Combat_Encounter_429]]
-- See also: [[step_052]]
+- See also:
 - Leads to [[step_031 (phase_033)]]
-- Originates from [[step_079]]
+- Originates from
 - Affected by [[implements-rare-xdmg (tables)]]
 - Requires [[Portrait NPC Quest the Queen S Secret Quest the Queen S Secret.svg]]
 - Parallels [[The Threshold]]
@@ -242,7 +237,7 @@ Witnessed a crime
 - Requires [[Quickened Spell Xphb]]
 - Influences [[LORE0095_History_of_the_Ancient_Pact]]
 - Leads to [[Commodity Queen Abundance (D&D_References)]]
-- Leads to [[step_097]]
+- Leads to
 - Parallels [[Umbral Crystal Miners]]
 - Compare with [[ENC00262_Social_Encounter_263]]
 - Leads to [[green-copper-ewer-cos (items)]]
@@ -251,7 +246,7 @@ Witnessed a crime
 - Related: [[The Revelation Chamber 2]]
 - See also: [[Paradox Engineer Tesla Impossibility]]
 - Connects to [[step_031 (phase_056)]]
-- Related: [[step_008]]
+- Related:
 - Leads to [[Keeper Stormwall (D&D_References)]]
 - See also: [[Portrait NPC Quest Breaking the Scales V2 Quest Breaking the Scales.svg]]
 - Related: [[LORE00320_Legends_Entry_321]]
@@ -268,7 +263,7 @@ Witnessed a crime
 - Influences [[NPC00389_Branwen_Stormwind_the_Broken]]
 - Compare with [[step_061 (phase_072)]]
 - Influences [[04_Resources_Assets_Locations_location-city-quartermaster-judith-supplycurrent-v1-quartermaster-judith-supplycurrent.svg]]
-- Connects to [[step_065]]
+- Connects to
 - Parallels [[Bartender Marina Dualborn]]
 - Influences [[Duchess Pressure-Born]]
 - Originates from [[QUEST00219_Side_Quest_220]]
@@ -277,7 +272,6 @@ Witnessed a crime
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

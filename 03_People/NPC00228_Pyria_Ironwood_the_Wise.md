@@ -18,7 +18,6 @@ aliases: [NPC00228 Pyria Ironwood the Wise]
 - [[#Cedric Zephyrblade the Mystic (Criminal - Target)|Cedric Zephyrblade the Mystic (Criminal - Target)]]
 - [[#Jorah Jadeclaw (Personal - Nemesis)|Jorah Jadeclaw (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Pyria Ironwood the Wise", "pyria ironwood the wise", "Pyria Ironwood Wise", "Wise the Ironwood Pyria"]
@@ -157,27 +156,23 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.138Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -188,11 +183,10 @@ Seeks bodyguards for dangerous journey
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -221,7 +215,7 @@ Seeks bodyguards for dangerous journey
 - Related: [[longbow-xphb (items)]]
 - Parallels [[shadow-mastiff-alpha-mpmm (monstrosity)]]
 - Influences [[The Deep Mother's Garden (D&D_References)]]
-- Related: [[step_092]]
+- Related:
 - See also: [[Sacred Texts of Transformation (D&D_References)]]
 - Leads to [[Location City Diplomatic Protocol Center V1 Diplomatic Protocol Center.svg]]
 - Related: [[Fiora_Frostbeard]]
@@ -254,7 +248,7 @@ Seeks bodyguards for dangerous journey
 - Leads to [[step_057 (phase_005)]]
 - Leads to [[SPELL00153_Arcane_Spell_154]]
 - See also: [[Potion of Animal Friendship Xdmg]]
-- Influences [[step_010]]
+- Influences
 - Affected by [[LORE00147_History_Entry_148]]
 - Influences [[NPC00136_Elric_Ashford_the_Seeker]]
 - Influences [[babau-mpmm (fiend)]]
@@ -290,7 +284,7 @@ Seeks bodyguards for dangerous journey
 - Influences [[ITEM01279_Superior_Elixir_of_Healing]]
 - Parallels [[Assets Portraits Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg]]
 - Originates from [[NPC00148_Erasmus_Silverleaf]]
-- Connects to [[step_009]]
+- Connects to
 - Leads to [[step_019 (phase_035)]]
 - Affected by [[ENC0061_Random_Encounter_62]]
 - Influences [[International Trade 2]]
@@ -301,7 +295,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01827 Kaelen Ironforge the Seeker]
 - [[#Orion Crystalbrook the Wanderer (Personal - Childhood friend)|Orion Crystalbrook the Wanderer (Personal - Childhood friend)]]
 - [[#Drusilla Ironforge the Redeemed (Professional - Partner)|Drusilla Ironforge the Redeemed (Professional - Partner)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Kaelen Ironforge the Seeker", "kaelen ironforge the seeker", "Kaelen Ironforge Seeker", "Seeker the Ironforge Kaelentags: [npc, character, combat, magic, social, lore]er]
@@ -152,16 +151,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.315Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -191,9 +187,7 @@ Modifications:
 - [[11 Rules Glossary]]
 - [[Character_Journal_Template]]
 - [[Ceasefire_Accord_Draft.md]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -212,7 +206,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.291
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -221,11 +215,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -279,7 +272,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[step_082 (phase_065)]]
 - Compare with [[NPC01565_Felicia_Zephyrblade_the_Redeemed]]
 - Leads to [[M-003 Duplicate Crew Player]]
-- Compare with [[step_026]]
+- Compare with
 - Originates from [[NPC00500_Wynne_Ashford_the_Wise]]
 - Requires [[SPELL00089_Divine_Spell_90]]
 - Originates from [[Military Command]]
@@ -320,21 +313,20 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[step_013 (phase_035)]]
 - Requires [[portable-hole-xdmg (items)]]
 - Influences [[Coastal Communities]]
-- Compare with [[step_090]]
+- Compare with
 - Related: [[step_061 (phase_085)]]
 - Compare with [[Sea Silk (D&D_References)]]
 - Leads to [[location-city-[[Sahuagin]]-sahuagin.svg]]
 - Originates from [[The Identity Stabilizer]]
 - Related: [[Cross-Realm Politics]]
 - See also: [[Banker Titus Goldcurrent (D&D_References)]]
-- Requires [[step_076]]
-- See also: [[step_027]]
+- Requires
+- See also:
 
 ## Visual References
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00601 Vesper Ironwood the Guardian]
 - [[#Elric Ravenheart the Seeker (Professional - Employee)|Elric Ravenheart the Seeker (Professional - Employee)]]
 - [[#Dara Quicksilver the Wise (Professional - Employee)|Dara Quicksilver the Wise (Professional - Employee)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Vesper Ironwood the Guardian", "vesper ironwood the guardian", "Vesper Ironwood Guardian", "Guardian the Ironwood Vesper"]
@@ -151,16 +150,13 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.181Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -220,11 +216,10 @@ Being extorted by criminals
 - [[Quarantine_Notice_Crystal_Plagu]]
 - [[NPC01599_Gavril_Keenblade_the_Strong]]
 - [[NPC00969_Zephyr_Keenblade_the_Wise]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -233,11 +228,10 @@ Being extorted by criminals
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -271,7 +265,7 @@ Being extorted by criminals
 - Requires [[Embroidered Glove Set With Jewel Chips Xdmg]]
 - Related: [[Void Integration Research 2]]
 - Leads to [[The Republican Coalition (D&D_References)]]
-- Affected by [[step_075]]
+- Affected by
 - Requires [[Location City Sunlight Crystal Sunlight Crystal.svg]]
 - Influences [[Spy-Master Nonentity 2]]
 - Requires [[step_010 (phase_073)]]
@@ -280,7 +274,7 @@ Being extorted by criminals
 - Compare with [[Cauldron of Rebirth Xdmg]]
 - Compare with [[ENC00494_Combat_Encounter_495]]
 - Compare with [[List Spells Classes Horizon Walker Xge]]
-- Influences [[step_095]]
+- Influences
 - Parallels [[LOC00163_Planes_Location_164]]
 - Originates from [[LORE00235_Prophecies_Entry_236]]
 - Parallels [[item-artifact-windvane-pota-windvane-pota.png]]
@@ -318,10 +312,10 @@ Being extorted by criminals
 - Connects to [[Aquabyssos Technical University]]
 - Originates from [[Sunken Ruins of Tidal's Rest]]
 - Parallels [[Economic Systems and Currency 2]]
-- Influences [[step_034]]
+- Influences
 - Affected by [[Entertainment Industry]]
 - Affected by [[Symbol Heraldry Border Checkpoints Border Checkpoints.svg]]
-- See also: [[step_028]]
+- See also:
 - See also: [[LORE00333_Legends_Entry_334]]
 - Leads to [[Professional Terminology 2]]
 - Affected by [[Primordial Ward Xge]]
@@ -331,7 +325,7 @@ Being extorted by criminals
 - Affected by [[portrait-npc-oracle-oracle.svg_1 (Portraits)]]
 - Compare with [[Portrait NPC Quest the Pretender V1 Quest the Pretender.svg]]
 - Leads to [[elf-tables-elf-non-drow-adventurer-story-hooks-mtf]]
-- Leads to [[step_042]]
+- Leads to
 - Connects to [[The Oracle]]
 - Originates from [[LOC00235_Dungeons_Location_236]]
 - Parallels [[Academy Mirror Researchers (Academies)]]
@@ -346,7 +340,6 @@ Being extorted by criminals
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

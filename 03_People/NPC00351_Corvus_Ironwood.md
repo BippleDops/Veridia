@@ -18,7 +18,6 @@ aliases: [NPC00351 Corvus Ironwood]
 - [[#Brenna Zephyrblade the Risen (Criminal - Fence)|Brenna Zephyrblade the Risen (Criminal - Fence)]]
 - [[#Branwen Ashford the Redeemed (Criminal - Accomplice)|Branwen Ashford the Redeemed (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Corvus Ironwood", "corvus ironwood", "Ironwood Corvustags: [npc, character, combat, social, exploration, puzzle, lore]er]
@@ -144,16 +143,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.152Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -182,11 +178,10 @@ Modifications:
 - [[Reputation_Tracker]]
 - [[05 Personality and Background]]
 - [[MOC_Items]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -194,16 +189,15 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Parallels [[The Addicted Nobles]]
-- Related: [[step_084]]
+- Related:
 - Leads to [[Portrait NPC Agent Whisper Voidheart V2 Agent Whisper Voidheart.svg]]
 - Related: [[Assets Portraits Portrait NPC Salvage Queen Nerissa Deepfinder Salvage Queen Nerissa Deepfinder.svg]]
 - Leads to [[commune-with-nature-xphb (spells)]]
@@ -229,17 +223,17 @@ Modifications:
 - Influences [[Home Embeds#Recently Modifie (D&D_References)]]
 - Related: [[LORE00178_Prophecies_Entry_179]]
 - Influences [[ITEM00845_Celestial_Scepter_of_the_Gods]]
-- Affected by [[step_087]]
+- Affected by
 - Leads to [[dynamite-stick-xdmg (items)]]
 - Compare with [[M-103_Retroactive_Map_Draw]]
 - Requires [[step_029 (phase_055)]]
 - Affected by [[Location City [[Memorial Wall of Names]] V1 Memorial Wall of Names.png]]
 - Originates from [[step_035 (phase_064)]]
 - Requires [[step_001 (phase_039)]]
-- Compare with [[step_036]]
+- Compare with
 - Originates from [[step_064 (phase_005)]]
 - Requires [[[[Crimson Reef]] (D&D_References)]]
-- Affected by [[step_051]]
+- Affected by
 - See also: [[The [[Crystal Gardens]] (D&D_References)]]
 - Originates from [[QUEST0031_Negotiate_with_the_Dragon]]
 - Originates from [[DUN00024_Dungeon_25]]
@@ -257,9 +251,9 @@ Modifications:
 - Related: [[Portrait NPC Quest the Deep Alliance V1 Quest the Deep Alliance.svg]]
 - Originates from [[Portrait NPC Quest the Crystal Refugees Quest the Crystal Refugees.svg]]
 - Requires [[LOC00286_Wilderness_Location_287]]
-- Leads to [[step_043]]
+- Leads to
 - Leads to [[List Optfeaturetype Mm]]
-- Related: [[step_078]]
+- Related:
 - Requires [[portrait-npc-lord-bathysmal-v1-lord-bathysmal.svg]]
 - Related: [[ITEM00371_Shadow_Axe_of_Accuracy]]
 - Affected by [[[[Abyssos Prime]] - Throne of Bubbles]]
@@ -287,7 +281,7 @@ Modifications:
 - Requires [[Coral (D&D_References)]]
 - Connects to [[step_057 (phase_039)]]
 - Related: [[melfs-acid-arrow-xphb (spells)]]
-- Originates from [[step_066]]
+- Originates from
 - Leads to [[LOC00244_Planes_Location_245]]
 - Parallels [[[[Merchant]] Thane Goldwhisper (D&D_References)]]
 - Affected by [[step_091 (phase_079)]]
@@ -297,8 +291,8 @@ Modifications:
 - Parallels [[Assets Locations [[Location City Mad Prophet Silas the Depth Touched Mad Prophet Silas the Depth Touched.svg]]]]
 - Connects to [[step_014 (phase_010)]]
 - Affected by [[Naia Deepcurrent 2]]
-- See also: [[step_096]]
-- Leads to [[step_032]]
+- See also:
+- Leads to
 - Leads to [[Location City [[Marina Clearwater]] Marina Clearwater.svg]]
 - Parallels [[SHOP00008_General_Shop_9]]
 - Originates from [[Admiral Mistcurrent]]
@@ -307,7 +301,6 @@ Modifications:
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

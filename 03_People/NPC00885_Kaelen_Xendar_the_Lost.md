@@ -18,7 +18,6 @@ aliases: [NPC00885 Kaelen Xendar the Lost]
 - [[#Pyria Blackstone the Seeker (Professional - Employer)|Pyria Blackstone the Seeker (Professional - Employer)]]
 - [[#Jorah Ashford the Risen (Professional - Rival)|Jorah Ashford the Risen (Professional - Rival)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Kaelen Xendar the Lost", "kaelen xendar the lost", "Kaelen Xendar Lost", "Lost the Xendar Kaelentags: [npc, character, combat, magic, exploration, lore]er]
@@ -147,16 +146,13 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.213Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -172,11 +168,10 @@ Modifications:
 ## See Also
 - [[Emergency_Evacuation_Map_Stormglass_Riot]]
 - [[Parliamentary_Voting_Guide]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -185,11 +180,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -216,7 +210,7 @@ Modifications:
 - Affected by [[LORE00331_Prophecies_Entry_332]]
 - Leads to [[MON00166_Undead_Creature_167]]
 - See also: [[Prep Note 2]]
-- Related: [[step_038]]
+- Related:
 - See also: [[Portrait NPC Blood in the Water V1 Blood in the Water.svg_1 (Portraits)]]
 - Connects to [[ENC00074_Combat_Encounter_75]]
 - Affected by [[LOC00083_Cities_Location_84]]
@@ -224,7 +218,7 @@ Modifications:
 - Compare with [[EVENT00013_Magical_Event_14]]
 - See also: [[Mass Combat Resolution]]
 - Connects to [[Assets Handouts Handout Handout Aged Treasure Map V3 Aged Treasure Map.png]]
-- Related: [[step_094]]
+- Related:
 - Parallels [[Handout Handout Temple Prayer Sheet V2 Temple Prayer Sheet.png]]
 - Connects to [[step_098 (phase_068)]]
 - Influences [[Location City [[Current Riders Guild]] Current Riders Guild.svg]]
@@ -242,11 +236,11 @@ Modifications:
 - Connects to [[The Pressure Chambers 2]]
 - See also: [[Silver Threadweaver]]
 - Requires [[[[The Seven Shards Mystery]] (D&D_References)]]
-- Compare with [[step_041]]
+- Compare with
 - Connects to [[Marcus Goldweaver]]
 - Influences [[Sending Stones Xdmg]]
 - Influences [[Gallery Guide Captain Marina Civicvoice (D&D_References)]]
-- Compare with [[step_027]]
+- Compare with
 - Influences [[ITEM01070_Pure_Herb_of_Swiftness]]
 - See also: [[MON00105_Undead_Creature_106]]
 - Leads to [[Location City [[Senator Marina Tidecaller]] V1 Senator Marina Tidecaller.svg]]
@@ -264,7 +258,7 @@ Modifications:
 - Originates from [[LOC0086_Marshwick]]
 - Requires [[ITEM0086_Glorious_Crown_of_the_Dawn]]
 - See also: [[Assets Art [[Screaming Gardens]] Songwood Grove.png]]
-- Requires [[step_078]]
+- Requires
 - Influences [[Chunk of Meat]]
 - Compare with [[Dark Gift of Sykane the Soul Hungerer Cos]]
 - Affected by [[Portrait NPC Madame Crystal Eye Madame Crystal Eye.svg]]
@@ -274,7 +268,7 @@ Modifications:
 - See also: [[Transformation Specialist Doctor Prism-Current]]
 - Originates from [[LORE00312_Legends_Entry_313]]
 - Parallels [[Physical Characteristics Beholder Eye Size]]
-- Parallels [[step_047]]
+- Parallels
 - Leads to [[Location City [[Master Engineer Cordelia Pressurewright]] Master Engineer Cordelia Pressurewright.svg]]
 - Influences [[INV-006.png (Art)]]
 - See also: [[wild-magic-zone-xdmg (traps-hazards)]]
@@ -298,7 +292,6 @@ Modifications:
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01660 Thalia Moonshadow the Fallen]
 - [[#Faelyn Thornweave the Risen (Criminal - Handler)|Faelyn Thornweave the Risen (Criminal - Handler)]]
 - [[#Corvus Stormwind the Cunning (Professional - Employee)|Corvus Stormwind the Cunning (Professional - Employee)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Moonshadow the Fallen", "thalia moonshadow the fallen", "Thalia Moonshadow Fallen", "Fallen the Moonshadow Thalia"]
@@ -147,16 +146,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.296Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -184,11 +180,10 @@ Is secretly testing the party
 - [[12 Spells]]
 - [[Measurement_Guide_Depth_and_Pressur]]
 - [[NPC01757_Nerys_Silverleaf_the_Strong]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -196,11 +191,10 @@ Is secretly testing the party
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -215,11 +209,11 @@ Is secretly testing the party
 - Requires [[LOC00270_Towns_Location_271]]
 - Compare with [[ENC00034_Environmental_Encounter_35]]
 - Leads to [[Ioun Stone Regeneration Xdmg]]
-- Influences [[step_030]]
+- Influences
 - Requires [[ITEM00542_Ethereal_Cloak_of_Fortitude]]
-- See also: [[step_093]]
+- See also:
 - Affected by [[Update [[INDEX]]es (D&D_References)]]
-- Affected by [[step_054]]
+- Affected by
 - Requires [[Navigation & Geography]]
 - See also: [[step_064 (phase_099)]]
 - Originates from [[Assets Locations Location City [[[[Abyssos Prime]] Docks]] V1 Abyssos Prime Docks.svg]]
@@ -232,7 +226,7 @@ Is secretly testing the party
 - Parallels [[Mind Surgeon Dr Forget Me Always]]
 - Originates from [[The Green Apocalypse]]
 - Related: [[The Whispering Tower]]
-- Related: [[step_044]]
+- Related:
 - Related: [[[[[[Harbor District]] Customs House]] 2]]
 - Connects to [[Location City [[Military Command]] Military Command.svg]]
 - Influences [[human-names-niger-congo-male-xge (tables)]]
@@ -240,7 +234,7 @@ Is secretly testing the party
 - Influences [[Create Undead Xphb]]
 - Originates from [[The Great Resonance (D&D_References)]]
 - Parallels [[Portrait NPC Brother Matthias the Amber Bearer Brother Matthias the Amber Bearer.svg]]
-- Requires [[step_067]]
+- Requires
 - Related: [[QUEST00290_Side_Quest_291]]
 - Connects to [[step_066 (phase_044)]]
 - Compare with [[Location City [[The Observatory]] V1 the Observatory.svg]]
@@ -269,11 +263,11 @@ Is secretly testing the party
 - Related: [[step_090 (phase_080)]]
 - Requires [[SPELL00157_Nature_Spell_158]]
 - See also: [[Depth Plague]]
-- See also: [[step_012]]
+- See also:
 - Leads to [[Animal Lord Xmm]]
-- Compare with [[step_008]]
+- Compare with
 - Influences [[forgotten-realms-tempus (deities)]]
-- Leads to [[step_055]]
+- Leads to
 - Affected by [[eye-of-vecna-xdmg (items)]]
 - See also: [[breath-of-winter (optional-features)]]
 - Requires [[phantom-steed-xphb (spells)]]
@@ -281,13 +275,13 @@ Is secretly testing the party
 - Related: [[NPC00138_Nerys_Ravenheart_the_Risen]]
 - Influences [[Quest - Syndicate Shadows_1 (01_Adventures)]]
 - Related: [[ITEM01056_Lesser_Powder_of_Healing]]
-- Leads to [[step_086]]
+- Leads to
 - Affected by [[portrait-npc-the-wake-v2-the-wake.svg_1 (Portraits)]]
 - Compare with [[Community Charter]]
 - Originates from [[[[Surface-Underwater Trade]] (D&D_References)]]
 - Requires [[step_059 (phase_096)]]
 - Related: [[step_052 (phase_066)]]
-- Parallels [[step_008]]
+- Parallels
 - Connects to [[high-altitude-xdmg (traps-hazards)]]
 - Requires [[Grease Xphb]]
 - Influences [[QUEST00381_Side_Quest_382]]
@@ -309,7 +303,6 @@ Is secretly testing the party
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

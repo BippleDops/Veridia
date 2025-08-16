@@ -18,7 +18,6 @@ aliases: [NPC00663 Alaric Dawnstrider the Strong]
 - [[#Fiora Darkwater the Broken (Personal - Childhood friend)|Fiora Darkwater the Broken (Personal - Childhood friend)]]
 - [[#Thalia Voidwalker the Risen (Political - Spy)|Thalia Voidwalker the Risen (Political - Spy)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Alaric Dawnstrider the Strong", "alaric dawnstrider the strong", "Alaric Dawnstrider Strong", "Strong the Dawnstrider Alarictags: [npc, character, combat, magic, social, lore]er]
@@ -150,16 +149,13 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.188Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -194,11 +190,10 @@ Being extorted by criminals
 - [[MOC_Items]]
 - [[12 Spells]]
 - [[NPC00407_Hestara_Dawnstrider]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -208,15 +203,14 @@ Being extorted by criminals
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- Affected by [[step_098]]
+- Affected by
 - Influences [[Nonhuman Corellon Larethian]]
 - Leads to [[LOC00289_Dungeons_Location_290]]
 - Influences [[QUEST00330_Side_Quest_331]]
@@ -234,7 +228,7 @@ Being extorted by criminals
 - Originates from [[step_064 (phase_100)]]
 - Originates from [[Crafting Magic Items Magic Item Crafting]]
 - Influences [[LORE00311_Prophecies_Entry_312]]
-- Requires [[step_098]]
+- Requires
 - Parallels [[Portrait NPC the Crimson Shard Guardian V1 the Crimson Shard Guardian.svg_1 (Portraits)]]
 - Influences [[step_075 (phase_067)]]
 - Requires [[NPC00358_Vesper_Lightbringer]]
@@ -254,13 +248,13 @@ Being extorted by criminals
 - Compare with [[LOC0051_Bridgeridge]]
 - Influences [[Captain Morgrim Lastvessel (D&D_References)]]
 - See also: [[step_043 (phase_052)]]
-- Connects to [[step_093]]
-- Affected by [[step_058]]
+- Connects to
+- Affected by
 - Influences [[step_046 (phase_042)]]
 - See also: [[Portrait NPC Memory Merchants V2 Memory Merchants.svg]]
-- See also: [[step_036]]
+- See also:
 - Originates from [[allosaurus-xmm (beast)]]
-- Requires [[step_077]]
+- Requires
 - Affected by [[LOC00170_Planes_Location_171]]
 - Requires [[step_051 (phase_066)]]
 - Parallels [[LORE00204_Prophecies_Entry_205]]
@@ -269,10 +263,10 @@ Being extorted by criminals
 - Affected by [[LORE00307_Legends_Entry_308]]
 - Compare with [[step_060 (phase_022)]]
 - Influences [[Vespara Nightwhisper Thorne]]
-- Originates from [[step_096]]
+- Originates from
 - Requires [[step_016 (phase_007)]]
 - Parallels [[DUN00085_Dungeon_86]]
-- Parallels [[step_055]]
+- Parallels
 - Affected by [[[[Floating Cities]] of Nimbus]]
 - Originates from [[LOC00004_Towns_Location_5]]
 - Parallels [[step_008 (phase_061)]]
@@ -280,8 +274,8 @@ Being extorted by criminals
 - Compare with [[ITEM01364_Elegant_Journal_of_Quality]]
 - Connects to [[Gnoll Hunter Mpmm]]
 - Leads to [[step_020 (phase_081)]]
-- See also: [[step_090]]
-- Influences [[step_066]]
+- See also:
+- Influences
 - Leads to [[step_079 (phase_038)]]
 - Connects to [[deities]]
 - Originates from [[Assets Locations Location City [[Maritime Security Chief Reef]] V1 Maritime Security Chief Reef.svg]]
@@ -298,7 +292,7 @@ Being extorted by criminals
 - Requires [[hill-giant-xmm]]
 - Leads to [[Assets Locations Location City [[Community Organizations]] V1 Community Organizations.svg]]
 - Affected by [[Portrait NPC Deep Mother Priestess Sira V2 Deep Mother Priestess Sira.svg]]
-- Originates from [[step_019]]
+- Originates from
 - See also: [[NPC01113_Solas_Ravenheart_the_Cunning]]
 - Influences [[LOC00238_Wilderness_Location_239]]
 - Requires [[Portrait NPC Envoy Blackwater Jr V2 Envoy Blackwater Jr.svg_1 (Portraits)]]
@@ -310,7 +304,7 @@ Being extorted by criminals
 - Influences [[The Coral Gardens (D&D_References)]]
 - Requires [[Symbol Heraldry Major Trading Companies Major Trading Companies.svg]]
 - Influences [[NPC01374_Ewan_Nightfall_the_Broken]]
-- Affected by [[step_050]]
+- Affected by
 - Leads to [[QUEST00087_Main_Quest_88]]
 - Requires [[Shield of Far Sight Vgm]]
 - Leads to [[FAC00055_Orders_56]]
@@ -321,7 +315,6 @@ Being extorted by criminals
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

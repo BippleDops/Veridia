@@ -18,7 +18,6 @@ aliases: [NPC00293 Qadim Emberfall the Lost]
 - [[#Xander Goldleaf (Political - Puppet)|Xander Goldleaf (Political - Puppet)]]
 - [[#Gavril Oakenshield the Strong (Personal - Nemesis)|Gavril Oakenshield the Strong (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Qadim Emberfall the Lost", "qadim emberfall the lost", "Qadim Emberfall Lost", "Lost the Emberfall Qadim"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.145Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,7 +173,7 @@ Requires champions for trial by combat
 - See also: [[enervation-xge (spells)]]
 - Compare with [[The_Academy_of_Investigative_Arts (Places)]]
 - Leads to [[ENC0012_Random_Encounter_13]]
-- Connects to [[step_057]]
+- Connects to
 - Influences [[portrait-npc-memory-commerce-memory-commerce.svg]]
 - Connects to [[Location City Memory Keeper Ancient Nerida Memory Keeper Ancient Nerida.svg]]
 - Affected by [[Unity Hopecurrent (D&D_References)]]
@@ -193,7 +188,7 @@ Requires champions for trial by combat
 - Influences [[Assets Art Name.png]]
 - Compare with [[Symbol Heraldry Scream Crystals Scream Crystals.svg]]
 - Related: [[step_092 (phase_029)]]
-- Compare with [[step_075]]
+- Compare with
 - See also: [[step_030 (phase_073)]]
 - Parallels [[Assets Portraits Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg]]
 - Affected by [[Translator Marina Polyglot 2]]
@@ -232,11 +227,11 @@ Requires champions for trial by combat
 - Leads to [[Demogorgon Mtf]]
 - Connects to [[Symbiotic Architecture]]
 - Requires [[Exploring the Mine Xdmg]]
-- Connects to [[step_088]]
-- Parallels [[step_006]]
+- Connects to
+- Parallels
 - Parallels [[EVENT00018_Magical_Event_19]]
 - See also: [[QUEST00040_Side_Quest_41]]
-- Connects to [[step_098]]
+- Connects to
 - Influences [[Mithral Armor Xdmg]]
 - Related: [[MON0031_Blood_Devourer]]
 - Requires [[LOC00075_Planes_Location_76]]
@@ -254,7 +249,7 @@ Requires champions for trial by combat
 - Related: [[LOC00191_Towns_Location_192]]
 - Originates from [[QUEST00107_Side_Quest_108]]
 - Parallels [[fireball-xphb (spells)]]
-- Related: [[step_028]]
+- Related:
 - Parallels [[SPELL0016_Arcane_Curse]]
 - Requires [[Rising Dark]]
 - Originates from [[Northern Principalities (D&D_References)]]
@@ -268,7 +263,6 @@ Requires champions for trial by combat
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01555 Branwen Xendar the Seeker]
 - [[#Nerys Youngblood the Wise (Family - Child)|Nerys Youngblood the Wise (Family - Child)]]
 - [[#Pyria Blackstone the Scholar (Professional - Employer)|Pyria Blackstone the Scholar (Professional - Employer)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Branwen Xendar the Seeker", "branwen xendar the seeker", "Branwen Xendar Seeker", "Seeker the Xendar Branwentags: [npc, character, combat, magic, exploration, puzzle, lore]er]
@@ -146,16 +145,13 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.285Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -170,11 +166,10 @@ Has information about legendary item
 - [[NPC00860_Gavril_Winterborn_the_Swift]]
 - [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
 - [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -182,11 +177,10 @@ Has information about legendary item
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -194,7 +188,7 @@ Has information about legendary item
 - Influences [[clockwork-iron-cobra-mpmm (construct)]]
 - Requires [[step_049 (phase_091)]]
 - Influences [[ENC00051_Social_Encounter_52]]
-- Originates from [[step_093]]
+- Originates from
 - Connects to [[step_022 (phase_030)]]
 - Influences [[[[Professor Marina Reefbuilder]] (D&D_References)]]
 - Related: [[tinderstrike-pota (items)]]
@@ -203,7 +197,7 @@ Has information about legendary item
 - Leads to [[QUEST00043_Side_Quest_44]]
 - Requires [[Artificer]]
 - Originates from [[step_082 (phase_055)]]
-- Requires [[step_060]]
+- Requires
 - Requires [[SPELL00151_Arcane_Spell_152]]
 - Influences [[step_081 (phase_037)]]
 - Compare with [[Faction-Quick-Reference]]
@@ -229,7 +223,7 @@ Has information about legendary item
 - Requires [[star-spawn-seer-mpmm (aberration)]]
 - Leads to [[World_Building_Input]]
 - Parallels [[Location City [[Senior Nurse Polyp Tendercurrent]] V1 Senior Nurse Polyp Tendercurrent.svg]]
-- Requires [[step_049]]
+- Requires
 - Originates from [[INV 003]]
 - Leads to [[Vex Shadowthorn (D&D_References)]]
 - Originates from [[Biomancer Corvus Intestinal 2]]
@@ -237,7 +231,7 @@ Has information about legendary item
 - Originates from [[step_048 (phase_085)]]
 - Leads to [[step_081 (phase_013)]]
 - Related: [[Location City the [[Crystal Palace]] Throne Room V1 the Crystal Palace Throne Room.svg]]
-- Connects to [[step_087]]
+- Connects to
 - Compare with [[Archshadow Mind Voidwright]]
 - Related: [[[[Harbor Master's Tower]] 2]]
 - Parallels [[NPC00360_Drusilla_Hawthorne]]
@@ -253,7 +247,7 @@ Has information about legendary item
 - Affected by [[step_022 (phase_007)]]
 - Parallels [[12_Research_D&D_Statblocks_The_Nameless_Auditor]]
 - Influences [[ENC00050_Combat_Encounter_51]]
-- Requires [[step_060]]
+- Requires
 - Originates from [[Throne of Bubbles (D&D_Statblocks)]]
 - Compare with [[NPC01497_Malakai_Crystalbrook_the_Lost]]
 - Influences [[[[Reef Truescale]] (D&D_References)]]
@@ -269,7 +263,7 @@ Has information about legendary item
 - Leads to [[Brass Dragon Wyrmling Xmm]]
 - Leads to [[step_015 (phase_010)]]
 - See also: [[[[Smuggler's Cove]] (D&D_References)]]
-- See also: [[step_037]]
+- See also:
 - Parallels [[step_065 (phase_064)]]
 - Influences [[ITEM00197_Thunder_Axe_of_Speed]]
 - Originates from [[Current Democratic Party]]
@@ -278,7 +272,7 @@ Has information about legendary item
 - See also: [[Portrait NPC Quest the Royal Treatment V2 Quest the Royal Treatment.svg]]
 - Related: [[NPC01634_Erasmus_Frostwhisper_the_Seeker]]
 - Connects to [[Portrait NPC Duchess Marina Ever Drowning Duchess Marina Ever Drowning.svg_1 (Portraits)]]
-- Leads to [[step_083]]
+- Leads to
 - Affected by [[[[Poet Laureate Tidal Wordsmith]] 2]]
 - Originates from [[Evidence Types Guide (D&D_References)]]
 - Influences [[The Ethical Committee]]
@@ -295,7 +289,6 @@ Has information about legendary item
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

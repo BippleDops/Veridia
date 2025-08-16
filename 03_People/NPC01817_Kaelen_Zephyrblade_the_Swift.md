@@ -18,7 +18,6 @@ aliases: [NPC01817 Kaelen Zephyrblade the Swift]
 - [[#Kaelen Ironforge the Strong (Family - Parent)|Kaelen Ironforge the Strong (Family - Parent)]]
 - [[#Dara Grimholt the Risen (Political - Ally)|Dara Grimholt the Risen (Political - Ally)]]
 
-
 ---
 aliases: ["Kaelen Zephyrblade the Swift", "kaelen zephyrblade the swift", "Kaelen Zephyrblade Swift", "Swift the Zephyrblade Kaelen"]
 tags: [npc, character]
@@ -152,21 +151,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.313Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -195,7 +190,7 @@ Blackmails party into service
 - Parallels [[Poison Needle Trap Xge]]
 - Parallels [[forgotten-realms-tempus (deities)]]
 - Compare with [[proficiency-bonus-by-challenge-rating-xmm (tables)]]
-- Parallels [[step_067]]
+- Parallels
 - Affected by [[Symbol Heraldry Lys... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - See also: [[Parliament of Shadows Player Guide.md]]
 - See also: [[Stormwind's Navigation Crystal]]
@@ -214,7 +209,7 @@ Blackmails party into service
 - Originates from [[step_086 (phase_085)]]
 - Originates from [[The Unnamed Hierophant]]
 - Influences [[NPC01864_Qadim_Voidwalker_the_Wise]]
-- Originates from [[step_031]]
+- Originates from
 - Influences [[ENC00204_Combat_Encounter_205]]
 - Related: [[LOC00257_Wilderness_Location_258]]
 - Related: [[Assets Locations Location City Market Heist Market Heist.svg]]
@@ -235,11 +230,11 @@ Blackmails party into service
 - Related: [[Academic Centers 2]]
 - See also: [[Services Emergency Protocol Certification]]
 - Compare with [[Arch Hag Xmm]]
-- Requires [[step_060]]
+- Requires
 - Parallels [[venomous-snake-xmm]]
 - Originates from [[Surgeon Coral Precisehands]]
 - Parallels [[step_071 (phase_016)]]
-- Connects to [[step_083]]
+- Connects to
 - Originates from [[LORE00241_Prophecies_Entry_242]]
 - Leads to [[step_067 (phase_047)]]
 - Related: [[16 Chapter 16 the Fetid Wedding]]
@@ -266,7 +261,7 @@ Blackmails party into service
 - Parallels [[step_029 (phase_056)]]
 - Connects to [[Assets Locations Location City Kraken Kraken.svg]]
 - Compare with [[QUEST00014_Side_Quest_15]]
-- Requires [[step_036]]
+- Requires
 - Influences [[step_013 (phase_078)]]
 - Connects to [[list-spells-races-tiefling-mephistopheles-mtf (lists)]]
 - Leads to [[step_020 (phase_038)]]
@@ -275,7 +270,6 @@ Blackmails party into service
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

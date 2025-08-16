@@ -18,7 +18,6 @@ aliases: [NPC00894 Malakai Emberfall the Mystic]
 - [[#Delara Grimholt the Seeker (Criminal - Informant)|Delara Grimholt the Seeker (Criminal - Informant)]]
 - [[#Gavril Xendar the Fallen (Professional - Mentor)|Gavril Xendar the Fallen (Professional - Mentor)]]
 
-
 ---
 aliases: ["Malakai Emberfall the Mystic", "malakai emberfall the mystic", "Malakai Emberfall Mystic", "Mystic the Emberfall Malakai"]
 tags: [npc, character]
@@ -140,21 +139,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.215Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -165,7 +160,7 @@ Seeks rare merchandise
 - Compare with [[step_006 (phase_095)]]
 - Compare with [[Topic Matrix]]
 - Related: [[step_009 (phase_076)]]
-- Affected by [[step_082]]
+- Affected by
 - Requires [[Keeper of Failures, Marcus Ashworth]]
 - Affected by [[QUEST00233_Personal_Quest_234]]
 - Leads to [[ENC00363_Combat_Encounter_364]]
@@ -194,7 +189,7 @@ Seeks rare merchandise
 - Compare with [[#Region Details]]
 - See also: [[08-using-ability-scores#Constitution]]
 - See also: [[Location City Madame Rosalind Goldleaf V1 Madame Rosalind Goldleaf.svg]]
-- Related: [[step_099]]
+- Related:
 - See also: [[step_023 (phase_058)]]
 - Requires [[LOC00059_Planes_Location_60]]
 - Parallels [[step_065 (phase_055)]]
@@ -205,18 +200,18 @@ Seeks rare merchandise
 - Connects to [[Padded Armor Xphb]]
 - Compare with [[step_095 (phase_019)]]
 - Influences [[The Surgical Sanctum (D&D_References)]]
-- Affected by [[step_060]]
+- Affected by
 - Affected by [[Symbol Heraldry Inf... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Parallels [[step_027]]
-- Parallels [[step_014]]
+- Parallels
+- Parallels
 - Requires [[step_058 (phase_043)]]
 - Affected by [[Luminary Counselor Elena Hopebringer]]
 - Parallels [[step_056 (phase_057)]]
 - Related: [[Location City Historical Preservation Society Historical Preservation Society.svg]]
 - Influences [[Shadow Energy Processing Facilities (D&D_References)]]
-- Parallels [[step_019]]
+- Parallels
 - Requires [[Harmony Resonators (Items)]]
-- Compare with [[step_055]]
+- Compare with
 - Affected by [[Location City Mediator Serenity Stillwater Mediator Serenity Stillwater.svg]]
 - Compare with [[NPC01404_Gavril_Ashford_the_Wise]]
 - Connects to [[Portrait NPC the Corroded Crown V2 the Corroded Crown.svg]]
@@ -234,26 +229,26 @@ Seeks rare merchandise
 - Related: [[Assets Locations Location City the Memory Meadows Black Market the Memory Meadows Black Market.svg]]
 - Compare with [[Tobias Expenditure]]
 - Connects to [[QUEST00001_Main_Quest_2]]
-- Originates from [[step_031]]
+- Originates from
 - Originates from [[04_Resources_Assets_Portraits_portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg_Quick_Ref]]
 - Requires [[shroud-of-shadow-xge (optional-features)]]
 - Compare with [[NPC01067_Zephyr_Nightfall_the_Seeker]]
 - Connects to [[Intelligence Chief Marina Shadowcurrent]]
 - Connects to [[Chef Gastropod]]
-- Parallels [[step_084]]
+- Parallels
 - Affected by [[Assets Portraits Portrait NPC Captain Nautilus the Deep Wanderer Captain Nautilus the Deep Wanderer.svg]]
 - Originates from [[step_076 (phase_005)]]
 - Parallels [[Physical Characteristics Beholder Eyestalk Shape Vgm]]
 - Leads to [[Assets Locations Location City Shadow Chancellor Shadow Chancellor.svg]]
 - Compare with [[step_037 (phase_005)]]
 - Influences [[02_Worldbuilding_Groups_Crystal_Cultivators_Guil]]
-- See also: [[step_006]]
+- See also:
 - Compare with [[The Real Marina 3 (D&D_References)]]
 - See also: [[ENC00230_Social_Encounter_231]]
 - Requires [[Location City the Deepmost Current V1 the Deepmost Current.svg]]
 - Influences [[true-seeing-xphb (spells)]]
 - Connects to [[#Spell Book]]
-- Affected by [[Quest   The Corruption Files]]
+- Affected by [[Quest The Corruption Files]]
 - Affected by [[Forgotten Realms Helm]]
 - Leads to [[step_035 (phase_053)]]
 - See also: [[Symbol Heraldry the Liminal Trading Company V1 the Liminal Trading Company.svg]]
@@ -263,7 +258,6 @@ Seeks rare merchandise
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

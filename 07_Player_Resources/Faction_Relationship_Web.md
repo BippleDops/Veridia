@@ -18,7 +18,6 @@ aliases: [Faction Relationship Web]
 - [[#Faction Goals & Methods|Faction Goals & Methods]]
 - [[#Player Action Consequences|Player Action Consequences]]
 
-
 ---
 title: Faction_Relationship_Web
 type: note
@@ -62,33 +61,33 @@ world: Both
 ## Political Alliance & Conflict Map
 
 ```
-                        NEUTRAL PARTIES
-                    ┌─────────────────┐
-                    │ Cross-Realm      │
-                    │ Merchant Guild   │
-                    │                  │
-                    │ Convergence      │
-                    │ Research Station │
-                    └─────────────────┘
-                            │
-              ┌─────────┴─────────┐
-              │                    │
-    AQUABYSSOS REALM              AETHERMOOR REALM
-    ┌───────────────┐             ┌───────────────┐
-    │ Parliament     │             │ Royal Court   │
-    │ of Echoes      │─────ALLIED─────│ of Winds     │
-    │ (Official)     │             │ (Official)    │
-    └───────────────┘             └───────────────┘
-            │                               │
-            │ INFILTRATED                   │ INFLUENCED
-    │ Shadow         │             │ Purist        │
-    │ Conspiracy     │───CONFLICT───│ Coalition     │
-    │ (Hidden)       │             │ (Extremist)   │
-            │ SEEKS TO                      │ OPPOSES
-            │ CONTROL                       │
-    │ Deep Mother    │             │ Crystal       │
-    │ Cultists       │────SERVES────│ Wardens       │
-    │ (Corrupted)    │             │ (Defenders)   │
+ NEUTRAL PARTIES
+ ┌─────────────────┐
+ │ Cross-Realm │
+ │ Merchant Guild │
+ │ │
+ │ Convergence │
+ │ Research Station │
+ └─────────────────┘
+ │
+ ┌─────────┴─────────┐
+ │ │
+ AQUABYSSOS REALM AETHERMOOR REALM
+ ┌───────────────┐ ┌───────────────┐
+ │ Parliament │ │ Royal Court │
+ │ of Echoes │─────ALLIED─────│ of Winds │
+ │ (Official) │ │ (Official) │
+ └───────────────┘ └───────────────┘
+ │ │
+ │ INFILTRATED │ INFLUENCED
+ │ Shadow │ │ Purist │
+ │ Conspiracy │───CONFLICT───│ Coalition │
+ │ (Hidden) │ │ (Extremist) │
+ │ SEEKS TO │ OPPOSES
+ │ CONTROL │
+ │ Deep Mother │ │ Crystal │
+ │ Cultists │────SERVES────│ Wardens │
+ │ (Corrupted) │ │ (Defenders) │
 
 ### Relationship Legend
 
@@ -101,48 +100,48 @@ world: Both
 
 ### Faction Power Levels
 
-HIGH POWER     MEDIUM POWER    LOW POWER       UNKNOWN POWER
-██████████     █████░░░░░     ██░░░░░░░░     ░░░░░░░░░░
+HIGH POWER MEDIUM POWER LOW POWER UNKNOWN POWER
+██████████ █████░░░░░ ██░░░░░░░░ ░░░░░░░░░░
 
-Parliament     Crystal         Purist          Deep Mother
-of Echoes      Wardens         Coalition       Cultists
+Parliament Crystal Purist Deep Mother
+of Echoes Wardens Coalition Cultists
 
-Royal Court    Merchant        
-of Winds       Guilds          
+Royal Court Merchant
+of Winds Guilds
 
-Shadow         
-Conspiracy     
+Shadow
+Conspiracy
 
 ### Trust & Hostility Meter
 
 **Player Character Relationships:**
 
-                TRUST LEVEL                 HOSTILITY LEVEL
-                                          
-Parliament:     █████░░░░░ (50%)         ░░░░░░░░░░ (0%)
-Royal Court:    ███████░░░ (70%)         ░░░░░░░░░░ (0%)
-Merchants:      ████████░░ (80%)         ░░░░░░░░░░ (0%)
-Crystal Ward:   ██████░░░░ (60%)         ░░░░░░░░░░ (0%)
-Shadow Cons:    ░░░░░░░░░░ (0%)          ██████████ (100%)
-Purist Coal:    ██░░░░░░░░ (20%)         ██████░░░░ (60%)
-Deep Cultists:  ░░░░░░░░░░ (0%)          ██████████ (100%)
+ TRUST LEVEL HOSTILITY LEVEL
+
+Parliament: █████░░░░░ (50%) ░░░░░░░░░░ (0%)
+Royal Court: ███████░░░ (70%) ░░░░░░░░░░ (0%)
+Merchants: ████████░░ (80%) ░░░░░░░░░░ (0%)
+Crystal Ward: ██████░░░░ (60%) ░░░░░░░░░░ (0%)
+Shadow Cons: ░░░░░░░░░░ (0%) ██████████ (100%)
+Purist Coal: ██░░░░░░░░ (20%) ██████░░░░ (60%)
+Deep Cultists: ░░░░░░░░░░ (0%) ██████████ (100%)
 
 ### Recent Developments
 
 **• Shadow Conspiracy Exposure:**
-  - Parliament infiltration discovered
-  - Several key officials arrested
-  - Trust in government at all-time low
+ - Parliament infiltration discovered
+ - Several key officials arrested
+ - Trust in government at all-time low
 
 **• Crystal Plague Spread:**
-  - Wardens stretched thin
-  - Emergency powers granted
-  - Public panic increasing
+ - Wardens stretched thin
+ - Emergency powers granted
+ - Public panic increasing
 
 **• Cross-Realm Tensions:**
-  - Trade disputes over corruption
-  - Border security increased
-  - Diplomatic meetings suspended
+ - Trade disputes over corruption
+ - Border security increased
+ - Diplomatic meetings suspended
 
 ### Faction Goals & Methods
 
@@ -214,7 +213,6 @@ Contextual improvement based on 07_Player_Resources
 
 Contextual improvement based on 07_Player_Resources
 
-
 > [!info] ℹ️ Info
 > Additional context or lore
 
@@ -231,11 +229,10 @@ Contextual improvement based on 07_Player_Resources
 - [[NPC01252_Jorah_Youngblood_the_Strong]]
 - [[10 Appendix B Creature Stat Blocks]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -243,7 +240,6 @@ Contextual improvement based on 07_Player_Resources
 - **Ability Checks**: See ACX p.174
 - **Advantage**: See ACX p.173
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -293,9 +289,9 @@ Contextual improvement based on 07_Player_Resources
 - See also: [[FAC00029_Guilds_30]]
 - Compare with [[Assets Locations Location City Crystal Singers Crystal Singers.svg]]
 - Connects to [[LORE00216_Legends_Entry_217]]
-- Parallels [[step_027]]
+- Parallels
 - Influences [[Portrait NPC Quest the Void Conspiracy V2 Quest the Void Conspiracy.png]]
-- Connects to [[step_028]]
+- Connects to
 - See also: [[Gith Names Githyanki Female Mtf]]
 - Affected by [[The Crystal Pier 2]]
 - Parallels [[step_095 (phase_030)]]
@@ -307,7 +303,7 @@ Contextual improvement based on 07_Player_Resources
 - Affected by [[12 Appendix B Monster Lists]]
 - See also: [[NPC00500_Wynne_Ashford_the_Wise]]
 - Affected by [[Infernal Tack Mtf]]
-- Affected by [[step_045]]
+- Affected by
 - Connects to [[portrait-npc-the-schooling-v1-the-schooling.svg_1 (Portraits)]]
 - Related: [[apparatus-of-kwalish-xdmg (vehicles)]]
 - Leads to [[List Spells Optional Features Visions of Distant Realms Xphb]]
@@ -334,7 +330,7 @@ Contextual improvement based on 07_Player_Resources
 - Compare with [[Captain Torrent Freewater (D&D_References)]]
 - Related: [[LOC00149_Wilderness_Location_150]]
 - Affected by [[Assets Locations Location City Institute for Reality Studies Researchers Institute for Reality Studies Researchers.svg]]
-- Compare with [[step_058]]
+- Compare with
 - Compare with [[elven-sehanine-moonbow-mtf (deities)]]
 - Related: [[prismatic-spray-xphb (spells)]]
 - Originates from [[step_027 (phase_067)]]
@@ -347,7 +343,7 @@ Contextual improvement based on 07_Player_Resources
 - Influences [[The_Seven_Shards_Campaign_Act_Structure (D&D_Sourcebooks)]]
 - Connects to [[step_036 (phase_045)]]
 - Connects to [[Silver Ewer Xdmg]]
-- Compare with [[step_041]]
+- Compare with
 - Parallels [[NPC_Generator_Quick_Ref]]
 - See also: [[The Crystal Cult (Cults_and_Movements)]]
 - Connects to [[Elven Chain Xdmg]]

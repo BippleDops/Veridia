@@ -9,7 +9,6 @@ aliases: [NPC00582 Cedric Dawnstrider]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00582 Cedric Dawnstrider]
 - [[#Faelyn Ironforge the Redeemed (Personal - Best friend)|Faelyn Ironforge the Redeemed (Personal - Best friend)]]
 - [[#Wynne Xendar the Bold (Criminal - Target)|Wynne Xendar the Bold (Criminal - Target)]]
 - [[#Gavril Oakenshield the Redeemed (Personal - Nemesis)|Gavril Oakenshield the Redeemed (Personal - Nemesis)]]
-
 
 ---
 created: 2025-08-15
@@ -146,16 +144,13 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.179Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -191,11 +186,10 @@ Being extorted by criminals
 - [[04 Classes]]
 - [[Propaganda_Leaflet_Pearl_Guar]]
 - [[NPC01877_Hestara_Moonshadow_the_Mystic]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -205,11 +199,10 @@ Being extorted by criminals
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -260,12 +253,12 @@ Being extorted by criminals
 - Leads to [[The Singer Beyond (Lore)]]
 - Influences [[NPC00511_Delara_Youngblood_the_Strong]]
 - Affected by [[Potion of Poison Xdmg]]
-- Parallels [[step_001]]
+- Parallels
 - Related: [[1 the Blood War]]
 - Influences [[SPELL00068_Nature_Spell_69]]
 - Parallels [[NPC00289_Idris_Darkwater]]
 - Parallels [[Improvised Weapons Xphb]]
-- Affected by [[step_043]]
+- Affected by
 - Parallels [[ITEM00015_Venomous_Spear_of_Slaying]]
 - See also: [[step_090 (phase_078)]]
 - Requires [[QUEST00390_Side_Quest_391]]
@@ -295,7 +288,7 @@ Being extorted by criminals
 - Originates from [[step_090 (phase_011)]]
 - See also: [[Map Map Bioluminescent Forest Ambush Bioluminescent Forest Ambush.png]]
 - See also: [[step_084 (phase_049)]]
-- Parallels [[step_081]]
+- Parallels
 - Originates from [[Forge of War]]
 - Affected by [[SHOP00054_Magical_Shop_55]]
 - Affected by [[Roleplaying a Beholder Beholder Personality]]
@@ -307,7 +300,7 @@ Being extorted by criminals
 - Influences [[04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-scout-captain-vera-deepwatch.svg]]
 - Connects to [[step_088 (phase_077)]]
 - Connects to [[monsters-by-habitat-desert-monsters-xmm (tables)]]
-- Affected by [[step_009]]
+- Affected by
 - Compare with [[Map Map Gloom Gardens Paths V2 Gloom Gardens Paths.svg]]
 - Originates from [[undead-spirit-skeletal-xphb (undead)]]
 - Affected by [[NPC0160_Aldric_Brightblade]]

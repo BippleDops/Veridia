@@ -18,7 +18,6 @@ aliases: [NPC01494 Brenna Zephyrblade the Mystic]
 - [[#Elric Xendar the Cunning (Criminal - Informant)|Elric Xendar the Cunning (Criminal - Informant)]]
 - [[#Lyanna Crystalbrook the Lost (Political - Opposition)|Lyanna Crystalbrook the Lost (Political - Opposition)]]
 
-
 ---
 aliases: ["Brenna Zephyrblade the Mystic", "brenna zephyrblade the mystic", "Brenna Zephyrblade Mystic", "Mystic the Zephyrblade Brenna"]
 tags: [npc, character]
@@ -144,32 +143,28 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.278Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Affected by [[Assets Locations Location City Master Elena Preserver Master Elena Preserver.svg]]
-- Influences [[step_054]]
+- Influences
 - Compare with [[Captain Marina Tidecrest]]
 - Related: [[creature-creature-dragon-v3-dragon.png]]
-- Leads to [[step_023]]
+- Leads to
 - Requires [[Portrait NPC Storm Empress Tempestas Maelstrom V2 Storm Empress Tempestas Maelstrom.svg_1 (Portraits)]]
 - See also: [[Cassia Lightweaver]]
-- Compare with [[step_005]]
+- Compare with
 - Requires [[LOC00196_Dungeons_Location_197]]
 - Connects to [[LOC0009_PortHaven]]
 - Connects to [[ENC00223_Combat_Encounter_224]]
@@ -211,19 +206,19 @@ Forming expedition to dangerous location
 - Compare with [[Surface-Underwater Trade 2]]
 - Originates from [[Suspended Cauldron Xdmg]]
 - Influences [[Greyhawk Erythnul Xdmg]]
-- Influences [[step_007]]
+- Influences
 - Related: [[Gith Names Githyanki Female Mtf]]
 - Leads to [[Location City Exotic Imports Market V1 Exotic Imports Market.svg]]
 - Connects to [[The Coral Estates (D&D_References)]]
 - Affected by [[NPC01953_Rhiannon_Xendar_the_Redeemed]]
 - Leads to [[ENC00134_Social_Encounter_135]]
-- Connects to [[step_001]]
-- Originates from [[step_010]]
+- Connects to
+- Originates from
 - Originates from [[Goldwhisper Manor]]
 - Related: [[Baboon Xmm]]
 - Related: [[ITEM00255_Venomous_Axe_of_Speed]]
 - Parallels [[step_053 (phase_044)]]
-- Related: [[step_015]]
+- Related:
 - Connects to [[Captain Storm Tideguard]]
 - Requires [[Assets Locations Location City Secondary Education V1 Secondary Education.svg]]
 - Leads to [[Giant Insect Spider Xphb]]
@@ -233,7 +228,7 @@ Forming expedition to dangerous location
 - See also: [[Crystals & Curiosities]]
 - Requires [[Religious Institutions (D&D_References)]]
 - Affected by [[Portrait NPC Commander Thrace Ironwood Commander Thrace Ironwood.svg]]
-- Compare with [[step_005]]
+- Compare with
 - See also: [[step_014 (phase_049)]]
 - Related: [[Mindwitness Mpmm]]
 - See also: [[Assets Locations Location City the Archive Keepers the Archive Keepers.svg]]
@@ -250,15 +245,15 @@ Forming expedition to dangerous location
 - Connects to [[Wraith Curator Ancient-Wisdom 2]]
 - Parallels [[step_057 (phase_076)]]
 - Requires [[step_007 (phase_057)]]
-- Requires [[step_085]]
+- Requires
 - Influences [[Scene Scene Sky Whale Migration at Sunset V2 Sky Whale Migration at Sunset.png]]
 - Requires [[Monk Xphb Way of the Drunken Master Xge]]
 - See also: [[Portrait NPC the Speaking Stones the Speaking Stones.svg]]
 - Affected by [[Pressure Adaptation System]]
 - Related: [[Crystal_Wardens (Groups)]]
 - Leads to [[Chief Philosopher Marina Clearpool (D&D_References)]]
-- Parallels [[step_008]]
-- Leads to [[step_020]]
+- Parallels
+- Leads to
 - Leads to [[step_097 (phase_083)]]
 - Parallels [[Temple of Sacred Dreams]]
 - Leads to [[step_078 (phase_016)]]
@@ -267,7 +262,6 @@ Forming expedition to dangerous location
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

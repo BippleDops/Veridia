@@ -9,7 +9,6 @@ aliases: [Archdruid Thornweaver]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_archdruid_thornweaver_dramatic.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Description|Description]]
@@ -21,7 +20,6 @@ aliases: [Archdruid Thornweaver]
 - [[#Actions|Actions]]
 - [[#Relationships|Relationships]]
 - [[#Plot Hooks|Plot Hooks]]
-
 
 -tags: [npc, character, combat, social]er]
 type: npc
@@ -42,7 +40,6 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - **Age**: Adult
 - **Build**: Average
 - **Distinguishing Features**: Notable characteristics
-
 
 *The [texture] surface feels [description] to the touch.*## Personality
 - **Traits**: Defining personality traits
@@ -97,18 +94,16 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - [[10 Appendix B Creature Stat Blocks]]
 - [[10 Combat]]
 - [[Depth_Adapted_Background.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
-
 
 ## Connections
 
@@ -142,8 +137,8 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - Requires [[forgotten-realms-selune (deities)]]
 - Compare with [[step_038 (phase_019)]]
 - Related: [[step_093 (phase_063)]]
-- Compare with [[step_064]]
-- Influences [[step_045]]
+- Compare with
+- Influences
 - Originates from [[Chronicler Marcus Truthseeker]]
 - Connects to [[step_010 (phase_008)]]
 - Parallels [[Witch Bolt Xphb]]
@@ -154,7 +149,7 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - Affected by [[step_034 (phase_005)]]
 - Requires [[Quick_NPCs]]
 - Originates from [[step_068 (phase_026)]]
-- Compare with [[step_058]]
+- Compare with
 - Related: [[step_061 (phase_045)]]
 - Affected by [[ITEM01224_Pure_Crystal_of_Fortune]]
 - Related: [[03_People_Master_Golemancer]]
@@ -185,7 +180,7 @@ Archdruid Thornweaver is a character encountered in the campaign world.
 - Related: [[Dulcimer Xphb]]
 - Originates from [[LOC00138_Planes_Location_139]]
 - Related: [[Temple Coalition]]
-- Influences [[step_044]]
+- Influences
 - Compare with [[LOC00056_Towns_Location_57]]
 - Related: [[step_055 (phase_082)]]
 - Leads to [[step_032 (phase_062)]]

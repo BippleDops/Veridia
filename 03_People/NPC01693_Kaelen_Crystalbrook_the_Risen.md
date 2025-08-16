@@ -9,7 +9,6 @@ aliases: [NPC01693 Kaelen Crystalbrook the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01693 Kaelen Crystalbrook the Risen]
 - [[#Hestara Voidwalker the Cunning (Political - Opposition)|Hestara Voidwalker the Cunning (Political - Opposition)]]
 - [[#Orion Hawthorne the Guardian (Criminal - Fence)|Orion Hawthorne the Guardian (Criminal - Fence)]]
 - [[#Fiora Hawthorne the Redeemed (Professional - Mentor)|Fiora Hawthorne the Redeemed (Professional - Mentor)]]
-
 
 ---
 aliases: ["Kaelen Crystalbrook the Risen", "kaelen crystalbrook the risen", "Kaelen Crystalbrook Risen", "Risen the Crystalbrook Kaelen"]
@@ -155,41 +153,37 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.300Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Leads to [[Psychic Observer All-Seeing Echo]]
-- Requires [[step_018]]
+- Requires
 - Leads to [[step_074 (phase_020)]]
 - Compare with [[NPC01016_Malakai_Ravenheart_the_Redeemed]]
 - Requires [[EVENT00015_Natural_Event_16]]
-- Compare with [[step_050]]
+- Compare with
 - Connects to [[step_008 (phase_047)]]
 - Originates from [[ENC00453_Combat_Encounter_454]]
 - Influences [[Pearl Empress Lustrous (D&D_References)]]
 - Parallels [[ITEM01480_Decorated_Map_Case_of_Durability]]
 - Originates from [[manual-of-gainful-exercise-xdmg (items)]]
-- Leads to [[step_090]]
+- Leads to
 - Originates from [[Save_Queen_Seraphina.png]]
 - Requires [[MON00057_Constructs_Creature_58]]
 - Affected by [[Reality Manipulation]]
 - See also: [[Random Buildings Building Type]]
-- Originates from [[step_057]]
+- Originates from
 - Related: [[Master Harvester Tide Crystalcut]]
 - Parallels [[step_069 (phase_041)]]
 - Compare with [[LORE00076_Legends_Entry_77]]
@@ -201,7 +195,7 @@ Blackmails party into service
 - See also: [[location-city-finn-deepmarket-finn-deepmarket.svg]]
 - See also: [[location-city-port-meridian-port-meridian.svg]]
 - Parallels [[Void-Echo Silence Deafmake]]
-- Affected by [[step_028]]
+- Affected by
 - Leads to [[Houses_and_Nobility___House_Brightshield]]
 - Originates from [[Fleet_Dynamics_Generator]]
 - Compare with [[Vehicle Core Rules#2) Piloting & Adaptation Requirements]]
@@ -221,7 +215,7 @@ Blackmails party into service
 - Affected by [[MON0029_Crystal_Devourer]]
 - Connects to [[step_077 (phase_099)]]
 - Connects to [[Goldspire Port (D&D_References)]]
-- Parallels [[step_084]]
+- Parallels
 - Requires [[Living Corridor]]
 - Influences [[step_068 (phase_090)]]
 - Related: [[Portrait NPC Admiral Cassandra Stormwind Admiral Cassandra Stormwind.svg_1 (Portraits)]]
@@ -232,14 +226,14 @@ Blackmails party into service
 - Connects to [[The Festival Council (Organizations)]]
 - See also: [[Community Leaders]]
 - See also: [[Temporal Rescue 2]]
-- See also: [[step_006]]
+- See also:
 - Affected by [[QUERY_LIBRARY]]
 - Leads to [[Gods of Greyhawk Xdmg]]
 - See also: [[Depth Supremacist Movement]]
 - Originates from [[step_001 (phase_075)]]
 - Connects to [[Lumina Crystals]]
 - Parallels [[Assets Locations Location City the Living Quarters V1 the Living Quarters.svg]]
-- Requires [[step_024]]
+- Requires
 - Compare with [[Layers of Bytopia Xdmg]]
 - Compare with [[Dawn War Erathis Dmg]]
 - Related: [[Portrait NPC Prince Caspian Duskwater V1 Prince Caspian Duskwater.svg_1 (Portraits)]]
@@ -247,7 +241,7 @@ Blackmails party into service
 - Originates from [[Working Class Routines (Lore)]]
 - See also: [[SPELL00125_Nature_Spell_126]]
 - See also: [[step_065 (phase_040)]]
-- Connects to [[step_094]]
+- Connects to
 - Requires [[International Law Enforcement]]
 - Leads to [[Portrait NPC the Bloodline Carrier V2 the Bloodline Carrier.svg_1 (Portraits)]]
 - Compare with [[location-city-indigo-deepdye-v1-indigo-deepdye.svg]]

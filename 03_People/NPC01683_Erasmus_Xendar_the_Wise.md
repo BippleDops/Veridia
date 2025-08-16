@@ -18,7 +18,6 @@ aliases: [NPC01683 Erasmus Xendar the Wise]
 - [[#Kaelen Xendar the Wanderer (Professional - Employer)|Kaelen Xendar the Wanderer (Professional - Employer)]]
 - [[#Pyria Emberfall the Risen (Personal - Best friend)|Pyria Emberfall the Risen (Personal - Best friend)]]
 
-
 ---
 aliases: ["Erasmus Xendar the Wise", "erasmus xendar the wise", "Erasmus Xendar Wise", "Wise the Xendar Erasmus"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.299Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -174,7 +169,7 @@ Is secretly testing the party
 - Related: [[step_022 (phase_045)]]
 - Affected by [[Encounter Xphb]]
 - Leads to [[Weretiger Xmm]]
-- Related: [[step_078]]
+- Related:
 - Influences [[Economic Manipulation (D&D_References)]]
 - Affected by [[Assets Locations Location City Chancellor Octavius Chancellor Octavius.svg]]
 - Connects to [[step_095 (phase_035)]]
@@ -200,25 +195,25 @@ Is secretly testing the party
 - Affected by [[Detect Magic Xphb]]
 - Originates from [[step_046 (phase_047)]]
 - Originates from [[step_014 (phase_071)]]
-- Affected by [[step_089]]
+- Affected by
 - Connects to [[ENC00192_Environmental_Encounter_193]]
 - Originates from [[LOC00028_Towns_Location_29]]
 - Parallels [[thorn-whip-xphb (spells)]]
 - Related: [[Thieves Guild (Guilds)]]
 - Requires [[Reality Integration Rules]]
-- Related: [[step_056]]
+- Related:
 - Influences [[kobold-warrior-xmm]]
 - Leads to [[SPELL00146_Arcane_Spell_147]]
 - Originates from [[MON00116_Aberrations_Creature_117]]
 - Influences [[step_038 (phase_018)]]
 - Compare with [[Location City Surgeon Coral Seamender Surgeon Coral Seamender.svg]]
 - Connects to [[QUEST00192_Main_Quest_193]]
-- Related: [[step_022]]
+- Related:
 - Parallels [[NPC00403_Gareth_Lightbringer_the_Lost]]
 - Parallels [[SPELL00045_Nature_Spell_46]]
 - Leads to [[hag-names-vgm (tables)]]
 - Originates from [[LOC00054_Towns_Location_55]]
-- Connects to [[step_069]]
+- Connects to
 - Parallels [[International Academic Exchange (D&D_References)]]
 - Compare with [[Emperor]]
 - Affected by [[ITEM00321_Radiant_Bow_of_Slaying]]
@@ -231,9 +226,9 @@ Is secretly testing the party
 - Connects to [[NPC Voices (02_Worldbuilding)]]
 - See also: [[Ry'leth]]
 - Requires [[Deep Studycurrent (D&D_References)]]
-- Influences [[step_098]]
+- Influences
 - Leads to [[Assets Locations Location City Abyssal Crystals V1 Abyssal Crystals.svg]]
-- Influences [[step_054]]
+- Influences
 - Parallels [[MON00099_Aberrations_Creature_100]]
 - Affected by [[Symbol Heraldry the Crimson Tide Pirates V1 the Crimson Tide Pirates.svg]]
 - Requires [[Paladins of Light]]
@@ -259,8 +254,8 @@ Is secretly testing the party
 - See also: [[Location City Silent Guardian Marcus Silent Guardian Marcus.svg]]
 - Requires [[Reference Quick Reference Dnd5e DM Screen 2014]]
 - Affected by [[Assets Locations Location City the Lighthouse Keeper S Ghost V1 the Lighthouse Keeper S Ghost.png]]
-- Connects to [[step_058]]
-- Related: [[step_026]]
+- Connects to
+- Related:
 - Parallels [[random-settlements-race-relations (tables)]]
 - Parallels [[step_011 (phase_032)]]
 - Compare with [[Riding Horse Xmm]]
@@ -271,7 +266,6 @@ Is secretly testing the party
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

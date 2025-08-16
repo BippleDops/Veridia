@@ -18,7 +18,6 @@ aliases: [NPC00868 Aldric Crystalbrook the Strong]
 - [[#Fiora Winterborn the Mystic (Personal - Ex-lover)|Fiora Winterborn the Mystic (Personal - Ex-lover)]]
 - [[#Gareth Moonshadow the Scholar (Criminal - Target)|Gareth Moonshadow the Scholar (Criminal - Target)]]
 
-
 ---
 aliases: ["Aldric Crystalbrook the Strong", "aldric crystalbrook the strong", "Aldric Crystalbrook Strong", "Strong the Crystalbrook Aldric"]
 tags: [npc, character]
@@ -140,26 +139,22 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.211Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Originates from [[Armor of the First Deep King (D&D_References)]]
-- Compare with [[step_090]]
+- Compare with
 - Affected by [[The Great Drowning]]
 - Influences [[Master_Lore_Index]]
 - Influences [[Map World Layer Hidden Locations and Rumor Sites V2 Hidden Locations and Rumor Sites.svg]]
@@ -190,12 +185,12 @@ Caravan needs guards
 - Connects to [[step_063 (phase_026)]]
 - Influences [[Armaments Common Xdmg]]
 - Compare with [[LORE00217_Prophecies_Entry_218]]
-- Requires [[step_005]]
+- Requires
 - Related: [[step_010 (phase_042)]]
 - See also: [[step_014 (phase_019)]]
 - See also: [[Quarantine Enforcement]]
 - Parallels [[Elemental Adept Xphb]]
-- Originates from [[step_069]]
+- Originates from
 - Parallels [[ITEM01245_Superior_Herb_of_Clarity]]
 - Leads to [[Temple District]]
 - Connects to [[Procedures Energy State Conversion]]
@@ -207,29 +202,29 @@ Caravan needs guards
 - Affected by [[Assets Locations Location City Chancellor Octavius V1 Chancellor Octavius.svg]]
 - See also: [[Merfolk Dmg]]
 - Connects to [[NPC00965_Faelyn_Quicksilver_the_Mystic]]
-- Leads to [[step_075]]
+- Leads to
 - Connects to [[step_086 (phase_069)]]
 - Parallels [[Location City the Listener S Code the Listener S Code.svg]]
-- Connects to [[step_083]]
+- Connects to
 - Connects to [[Location City Drift Harbor District V1 Drift Harbor District.svg]]
 - Related: [[step_049 (phase_071)]]
-- Originates from [[step_038]]
+- Originates from
 - Requires [[step_022 (phase_095)]]
 - Leads to [[Draegloth Mpmm]]
 - Leads to [[water-weird-xmm]]
 - See also: [[Cosmic Guardian Rules]]
 - Requires [[ENC00133_Environmental_Encounter_134]]
 - Affected by [[ITEM01157_Lesser_Elixir_of_Swiftness]]
-- Influences [[step_072]]
+- Influences
 - Leads to [[step_055 (phase_066)]]
 - Leads to [[Session 1 - Strange Tides Rising]]
 - Influences [[step_078 (phase_054)]]
 - Originates from [[step_042 (phase_016)]]
 - Influences [[SPELL00101_Nature_Spell_102]]
-- See also: [[step_019]]
+- See also:
 - See also: [[step_059 (phase_033)]]
 - Parallels [[The Prismatic Order]]
-- Connects to [[step_087]]
+- Connects to
 - Leads to [[step_053 (phase_091)]]
 - Connects to [[Location City Harbor Facilities V1 Harbor Facilities.svg]]
 - Originates from [[step_060 (phase_097)]]
@@ -263,7 +258,6 @@ Caravan needs guards
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

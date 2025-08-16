@@ -18,7 +18,6 @@ aliases: [NPC00372 Alaric Grimholt]
 - [[#Xander Stormwind the Bold (Family - Sibling)|Xander Stormwind the Bold (Family - Sibling)]]
 - [[#Aeliana Darkwater the Risen (Professional - Mentor)|Aeliana Darkwater the Risen (Professional - Mentor)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Alaric Grimholt", "alaric grimholt", "Grimholt Alaric"]
@@ -146,16 +145,13 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.154Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -179,11 +175,10 @@ Needs discrete help with family scandal
 - [[NPC00649_Corvus_Zephyrblade_the_Broken]]
 - [[11 Rules Glossary]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -191,22 +186,21 @@ Needs discrete help with family scandal
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Requires [[Helm of Teleportation Xdmg]]
-- Parallels [[step_089]]
+- Parallels
 - Connects to [[step_061 (phase_011)]]
 - Connects to [[LOC0077_NewPeak]]
 - Connects to [[lantern-of-revealing-xdmg (items)]]
 - Related: [[NPC00637_Branwen_Stormwind_the_Fallen]]
 - Leads to [[evasive-footwork-xphb (optional-features)]]
-- Affected by [[step_076]]
+- Affected by
 - Related: [[step_015 (phase_058)]]
 - Requires [[Faction Interaction Rules]]
 - Parallels [[Phase Shift Devices]]
@@ -222,7 +216,7 @@ Needs discrete help with family scandal
 - Affected by [[Location City Surface Traders V1 Surface Traders.svg]]
 - Parallels [[ITEM00286_Venomous_Axe_of_Wounding]]
 - Influences [[Portrait NPC Enforcer Chief Mako Ironjaw V2 Enforcer Chief Mako Ironjaw.svg]]
-- Related: [[step_078]]
+- Related:
 - Requires [[The Phantom Current]]
 - Connects to [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-current-trade-captain-current.svg_Quick_Ref]]
 - Affected by [[ENC00358_Combat_Encounter_359]]
@@ -254,7 +248,7 @@ Needs discrete help with family scandal
 - Connects to [[Political Intrigue Master Index 2]]
 - Influences [[ITEM01010_Greater_Salve_of_Vigor]]
 - Related: [[QUEST00197_Main_Quest_198]]
-- Requires [[step_076]]
+- Requires
 - Parallels [[Location City the Gloom Gardens V1 the Gloom Gardens.svg]]
 - Affected by [[Void Currents (D&D_References)]]
 - Connects to [[NPC00796_Aeliana_Voidwalker_the_Seeker]]
@@ -262,12 +256,12 @@ Needs discrete help with family scandal
 - Related: [[Military Coordinator Strong]]
 - See also: [[NPC01754_Orion_Grimholt_the_Cunning]]
 - Influences [[Biological Enhancement Corps]]
-- Originates from [[step_086]]
+- Originates from
 - See also: [[Umbral Exchange (Lore)]]
 - Originates from [[death-ward-xphb (spells)]]
 - Affected by [[step_044 (phase_029)]]
 - Compare with [[feywild-time-warp-xdmg (tables)]]
-- Leads to [[step_084]]
+- Leads to
 - See also: [[Progressive Movement Infiltration]]
 - Influences [[Light Therapy Restoration Bed]]
 - Requires [[LORE00237_Legends_Entry_238]]
@@ -275,7 +269,7 @@ Needs discrete help with family scandal
 - Requires [[Weather Reader Stormwatch]]
 - Related: [[Libraries (D&D_References)]]
 - Related: [[step_085 (phase_093)]]
-- Requires [[step_065]]
+- Requires
 - Affected by [[step_042 (phase_088)]]
 - Parallels [[Assets Locations Location City Professional Associations Professional Associations.svg]]
 - Parallels [[animated-object-medium-or-smaller-xphb (construct)]]
@@ -287,7 +281,7 @@ Needs discrete help with family scandal
 - Compare with [[step_015 (phase_038)]]
 - Leads to [[Assets Locations Location City Professional Organizations Professional Organizations.svg]]
 - Leads to [[step_069 (phase_082)]]
-- Originates from [[step_061]]
+- Originates from
 - Related: [[Otherworldly Steed Fey Xphb]]
 - Affected by [[NPC01003_Erasmus_Voidwalker_the_Swift]]
 - Requires [[step_059 (phase_098)]]
@@ -302,7 +296,6 @@ Needs discrete help with family scandal
 
 ## Visual References
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

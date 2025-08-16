@@ -18,7 +18,6 @@ aliases: [10 Appendix B Creature Stat Blocks]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 10 Appendix B Creature Stat Blocks
@@ -69,11 +68,9 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -120,8 +117,7 @@ Former associate of the party's patron
 - [[11 Spellcasting]]
 - [[MASTER_MOC]]
 - [[02 Step by Step Characters]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -130,7 +126,6 @@ Former associate of the party's patron
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -160,7 +155,7 @@ Former associate of the party's patron
 - Parallels [[Silver Sword Mtf]]
 - Requires [[Market Heist]]
 - Compare with [[Reef Tenders (D&D_References)]]
-- Requires [[step_095]]
+- Requires
 - Originates from [[deities-of-dragonlance-neutral-phb (tables)]]
 - Influences [[Vampire Nightbringer Xmm]]
 - Requires [[The Surgical Sanctum (D&D_References)]]
@@ -183,22 +178,22 @@ Former associate of the party's patron
 - Related: [[NPC00056_Gavril_Underhill]]
 - Influences [[Dr. Memory Lane]]
 - Related: [[The Great Shattering]]
-- See also: [[step_074]]
+- See also:
 - See also: [[NPC00232_Hilda_Blackstone]]
-- Influences [[step_070]]
+- Influences
 - Requires [[step_060 (phase_087)]]
 - Affected by [[LORE00299_Prophecies_Entry_300]]
-- Requires [[step_025]]
+- Requires
 - Related: [[step_095 (phase_074)]]
-- Related: [[step_058]]
+- Related:
 - Related: [[Whisper-Witch Naia Softcurrent 2]]
 - Requires [[step_082 (phase_020)]]
 - See also: [[Healer Tide-Touch 2]]
 - Compare with [[ITEM00447_Fortified_Plate_of_the_Guardian]]
 - Influences [[Shadow-Touched Individuals]]
 - Connects to [[Scene Scene the Party S First Glimpse of Abyssos Prime the Party S First Glimpse of Abyssos Prime.svg]]
-- Parallels [[step_059]]
-- Leads to [[step_098]]
+- Parallels
+- Leads to
 - Related: [[Amethyst Xdmg]]
 - Related: [[Final Challenge Rating Experience Points by]]
 - Connects to [[Location City the Forgotten One the Forgotten One.png]]
@@ -219,9 +214,9 @@ Former associate of the party's patron
 - Originates from [[step_062 (phase_079)]]
 - Leads to [[step_046 (phase_060)]]
 - Requires [[flame-tongue-xdmg (items)]]
-- Requires [[step_074]]
+- Requires
 - Requires [[step_020 (phase_028)]]
-- Related: [[step_058]]
+- Related:
 - Related: [[step_011 (phase_029)]]
 - Leads to [[step_094 (phase_095)]]
 - Affected by [[Symbol Heraldry the Great Cacophony V1 the Great Cacophony.svg]]
@@ -230,7 +225,7 @@ Former associate of the party's patron
 - Connects to [[step_049 (phase_096)]]
 - Affected by [[Deep Current Academy]]
 - Parallels [[Circle of Power Xphb]]
-- Leads to [[step_023]]
+- Leads to
 - Related: [[NPC01593_Xander_Ironforge_the_Wanderer]]
 - Originates from [[Clues_by_Location.png]]
 - Compare with [[Shadow Physiology and Anatomy 2]]
@@ -243,7 +238,7 @@ Former associate of the party's patron
 - Parallels [[D-005 Shadow Bloom Player (Encounters)]]
 - Influences [[LORE00100_History_Entry_101]]
 - Requires [[NPC00320_Malakai_Hawthorne_the_Redeemed]]
-- Originates from [[step_040]]
+- Originates from
 - Related: [[celtic-math-mathonwy (deities)]]
 - Connects to [[NPC01173_Alaric_Voidwalker_the_Broken]]
 - Requires [[Gith Random Height and Weight Mtf]]

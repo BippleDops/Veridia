@@ -9,7 +9,6 @@ aliases: [NPC00904 Hestara Keenblade the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00904 Hestara Keenblade the Broken]
 - [[#Felicia Ironwood the Broken (Personal - Ex-lover)|Felicia Ironwood the Broken (Personal - Ex-lover)]]
 - [[#Orion Brightblade the Cunning (Criminal - Accomplice)|Orion Brightblade the Cunning (Criminal - Accomplice)]]
 - [[#Branwen Stormwind the Redeemed (Family - Parent)|Branwen Stormwind the Redeemed (Family - Parent)]]
-
 
 ---
 aliases: ["Hestara Keenblade the Broken", "hestara keenblade the broken", "Hestara Keenblade Broken", "Broken the Keenblade Hestara"]
@@ -148,21 +146,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.217Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -183,12 +177,12 @@ Has map to lost treasure
 - See also: [[Frost Giant Everlasting One Mpmm]]
 - See also: [[MON00129_Constructs_Creature_130]]
 - Connects to [[lower-class-carousing-complications-xge (tables)]]
-- Compare with [[step_054]]
+- Compare with
 - Parallels [[Dragonborn Xphb]]
 - Related: [[Wind Song Traditions 2]]
 - Influences [[ENC00072_Combat_Encounter_73]]
 - Connects to [[Dawn War Kord Dmg]]
-- Parallels [[step_094]]
+- Parallels
 - Affected by [[Dungeoneers Pack Xphb]]
 - Requires [[Tidal-Crown Maraleth 2]]
 - Requires [[ranger-xphb-fey-wanderer-xphb (classes)]]
@@ -203,15 +197,15 @@ Has map to lost treasure
 - Connects to [[Healer Dawnshade (D&D_References)]]
 - Connects to [[Merchant Prince Vortex 2]]
 - See also: [[DUN00053_Dungeon_54]]
-- Parallels [[step_095]]
+- Parallels
 - Related: [[Representative Coral Steadfast]]
 - Affected by [[Location City Memory Tide Pools V1 Memory Tide Pools.svg]]
-- Leads to [[step_083]]
+- Leads to
 - Parallels [[step_047 (phase_073)]]
 - Compare with [[Chain Lightning Xphb]]
 - Connects to [[INDEX]]
 - Parallels [[Map World Layer World Political Boundaries V2 World Political Boundaries.svg]]
-- Originates from [[step_078]]
+- Originates from
 - Compare with [[step_013 (phase_043)]]
 - Affected by [[Assets Locations Location City Moderate Depth Coalition V1 Moderate Depth Coalition.svg]]
 - Related: [[ENC0087_Random_Encounter_88]]
@@ -222,7 +216,7 @@ Has map to lost treasure
 - Connects to [[location-city-artificer-s-row-artificer-s-row.svg]]
 - Connects to [[Port Sorrow Trading Company (D&D_References)]]
 - Requires [[List Spells Optional Features River of]]
-- Influences [[step_066]]
+- Influences
 - See also: [[Forcecage Xphb]]
 - Requires [[ITEM01091_Superior_Crystal_of_Swiftness]]
 - Affected by [[step_039 (phase_018)]]
@@ -233,7 +227,7 @@ Has map to lost treasure
 - Parallels [[Jackal Xmm]]
 - See also: [[LOC00128_Wilderness_Location_129]]
 - See also: [[location-city-wave-merchant-v1-wave-merchant.svg]]
-- Influences [[step_042]]
+- Influences
 - Connects to [[step_009 (phase_046)]]
 - Affected by [[Current Rider Captain Crimson Velocity (D&D_References)]]
 - Compare with [[Construct Spirit Clay Xphb]]

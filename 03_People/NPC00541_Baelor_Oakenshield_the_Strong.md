@@ -18,7 +18,6 @@ aliases: [NPC00541 Baelor Oakenshield the Strong]
 - [[#Hestara Voidwalker the Bold (Criminal - Target)|Hestara Voidwalker the Bold (Criminal - Target)]]
 - [[#Idris Brightblade the Broken (Political - Spy)|Idris Brightblade the Broken (Political - Spy)]]
 
-
 ---
 aliases: ["Baelor Oakenshield the Strong", "baelor oakenshield the strong", "Baelor Oakenshield Strong", "Strong the Oakenshield Baelor"]
 tags: [npc, character]
@@ -142,27 +141,23 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.175Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Originates from [[Umberlee (D&D_References)]]
 - Originates from [[blight-xphb (spells)]]
-- Leads to [[step_038]]
+- Leads to
 - Parallels [[Portrait NPC Otherworldly Patron Otherworldly Patron.svg]]
 - Affected by [[Portrait NPC Patriarch Valdris Lightbringer V1 Patriarch Valdris Lightbringer.svg]]
 - Parallels [[QUEST0022_In_Search_of_Peace]]
@@ -183,14 +178,14 @@ Being extorted by criminals
 - Compare with [[Assets Locations Location City Concierge Phillip Gracewater V1 Concierge Phillip Gracewater.svg]]
 - Originates from [[MON00013_Aberrations_Creature_14]]
 - Affected by [[1-introduction (xanathars-guide-to-everything)]]
-- Connects to [[step_081]]
-- Requires [[step_046]]
+- Connects to
+- Requires
 - Influences [[ITEM00617_Ethereal_Shield_of_Resistance]]
-- See also: [[step_012]]
+- See also:
 - Related: [[step_083 (phase_015)]]
-- Requires [[step_085]]
+- Requires
 - Parallels [[LORE00087_Prophecies_Entry_88]]
-- Originates from [[step_006]]
+- Originates from
 - Related: [[Political Systems and Governance]]
 - See also: [[step_033 (phase_017)]]
 - Influences [[step_014 (phase_035)]]
@@ -200,7 +195,7 @@ Being extorted by criminals
 - Influences [[NPC00713_Vesper_Jadeclaw_the_Lost]]
 - Leads to [[Creative Visionweaver]]
 - Parallels [[step_094 (phase_069)]]
-- Influences [[step_020]]
+- Influences
 - Influences [[Detective Cross-Reference Clarke]]
 - Connects to [[The Leviathan Cult (Cults_and_Movements)]]
 - Connects to [[Npc Low Abilities]]
@@ -208,22 +203,22 @@ Being extorted by criminals
 - Originates from [[Abyssos Prime - Pressure Terminal]]
 - Related: [[Assets Locations Location City Pelagic Cup Pelagic Cup.svg]]
 - Related: [[Reality Anchor Network (D&D_References)]]
-- Originates from [[step_100]]
+- Originates from
 - Requires [[gentle-repose-xphb (spells)]]
 - Requires [[ITEM01131_Refined_Elixir_of_Swiftness]]
 - Originates from [[ITEM00762_Ancient_Ring_of_Destiny]]
 - Related: [[NPC00355_Vesper_Zephyrblade_the_Bold]]
 - See also: [[portrait-npc-shadow-brokers-v1-shadow-brokers.svg]]
-- Connects to [[step_083]]
+- Connects to
 - Parallels [[Assets Locations Location City Luxury Goods Market Luxury Goods Market.svg]]
 - Affected by [[QUEST00074_Side_Quest_75]]
 - Parallels [[Assets Locations Location City the Exotic Emporium V1 the Exotic Emporium.svg]]
 - Affected by [[14 Gods of the Multiverse]]
-- See also: [[step_021]]
+- See also:
 - Leads to [[Bone Architect Ossuary 2]]
 - Affected by [[Assets Vehicles Vehicle Ship Abyssal Scout Submarine V2 Abyssal Scout Submarine.png]]
 - Parallels [[Art Elemental Mascot Scc]]
-- Compare with [[step_050]]
+- Compare with
 - Requires [[Assets Portraits Portrait NPC Current Lord Triton of House Pelagios Current Lord Triton of House Pelagios.svg]]
 - Connects to [[ITEM00984_Distilled_Elixir_of_Swiftness]]
 - Requires [[Ocean Ecosystem Management]]
@@ -233,7 +228,7 @@ Being extorted by criminals
 - Leads to [[step_093 (phase_055)]]
 - Leads to [[step_024 (phase_061)]]
 - Related: [[eversmoking-bottle-xdmg (items)]]
-- Leads to [[step_026]]
+- Leads to
 - Leads to [[MON00043_Constructs_Creature_44]]
 - See also: [[Assets Symbols Symbol Heraldry Divine Transformation Theolog Divine Transformation Theolog.svg]]
 - Connects to [[portrait-npc-the-cure-the-cure.svg]]
@@ -265,7 +260,6 @@ Being extorted by criminals
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

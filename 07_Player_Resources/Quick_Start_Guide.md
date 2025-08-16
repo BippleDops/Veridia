@@ -14,7 +14,6 @@ aliases: [Quick Start Guide]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 ---
 enhanced: trtags: [enhanced, 07_player_resources, combat, magic, exploration, lore]es]
 created: 2025-08-15T12:24:41.145260
@@ -23,7 +22,6 @@ aliases: [Quick Start Guide]
 ---
 
 # Quick Start Guide
-
 
 > **Content Warning**: This content contains mature themes. DM discretion advised.
 
@@ -41,7 +39,7 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections 
+- Connections
 *The [texture] surface feels [description] to the touch.*
 *Sounds of [relevant sounds] echo in the distance.*to overarching campaign themes ## Plot Hooks - Someone is protecting a witness for love - Someone is searching for a witness for power ## Historical Timeline ### The Age of Founding (1000 years ago) - The First Settlement
 - Discovery of magical crystals
@@ -153,7 +151,6 @@ publish: false --- -|--------|
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated Time**: How long this typically takes to run
 
-
 *What happens next is up to you.*
 
 ## Visual References
@@ -161,10 +158,8 @@ publish: false --- -|--------|
 ![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v2-quick-reference-overlay.png]]
 ![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-quick-reference-overlay.png]]
 
-
 > [!dm] DM Note
 > This character is not who they seem
-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -174,7 +169,6 @@ publish: false --- -|--------|
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -204,7 +198,7 @@ publish: false --- -|--------|
 - See also: [[Shadow Energy Addiction]]
 - Connects to [[step_058 (phase_057)]]
 - Related: [[Assets Locations Location City World Map V1 World Map.svg]]
-- Influences [[step_045]]
+- Influences
 - Parallels [[Deep Studycurrent (D&D_References)]]
 - Influences [[Ω_System-CLI-spells-school-evocation]]
 - Parallels [[School of Magic Schools of Magic Xphb]]
@@ -212,7 +206,7 @@ publish: false --- -|--------|
 - Parallels [[step_061 (phase_077)]]
 - Leads to [[NPC01371_Xander_Stormwind_the_Guardian]]
 - Affected by [[ENC00167_Combat_Encounter_168]]
-- Influences [[step_062]]
+- Influences
 - Leads to [[SPELL00059_Arcane_Spell_60]]
 - Connects to [[Quest - The Portal Crisis_1 (01_Adventures)]]
 - Parallels [[LORE00284_Prophecies_Entry_285]]
@@ -249,12 +243,12 @@ publish: false --- -|--------|
 - Parallels [[step_085 (phase_075)]]
 - Leads to [[Star Ruby Xdmg]]
 - Connects to [[step_075 (phase_031)]]
-- Compare with [[step_078]]
-- Originates from [[step_092]]
+- Compare with
+- Originates from
 - Parallels [[step_083 (phase_014)]]
 - Related: [[Location City the Memory Meadows Black Market the Memory Meadows Black Market.svg]]
 - See also: [[Pressure Gate.md (Places)]]
-- Connects to [[step_074]]
+- Connects to
 - Compare with [[step_002 (phase_034)]]
 - Requires [[ITEM01265_Refined_Crystal_of_Fortune]]
 - Affected by [[step_063 (phase_082)]]
@@ -286,7 +280,7 @@ publish: false --- -|--------|
 - Connects to [[ITEM0091_Divine_Orb_of_the_Dawn]]
 - Leads to [[step_054 (phase_093)]]
 - Influences [[step_002 (phase_012)]]
-- Parallels [[step_030]]
+- Parallels
 - Influences [[ITEM00222_Blazing_Crossbow_of_Slaying]]
 - Requires [[ENC00004_Environmental_Encounter_5]]
 - Compare with [[noble-xphb (backgrounds)]]

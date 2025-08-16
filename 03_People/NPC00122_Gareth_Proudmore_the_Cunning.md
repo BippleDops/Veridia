@@ -18,7 +18,6 @@ aliases: [NPC00122 Gareth Proudmore the Cunning]
 - [[#Aldric Nightfall (Family - Sibling)|Aldric Nightfall (Family - Sibling)]]
 - [[#Alaric Hawthorne (Professional - Mentor)|Alaric Hawthorne (Professional - Mentor)]]
 
-
 ---
 aliases: ["Gareth Proudmore the Cunning", "gareth proudmore the cunning", "Gareth Proudmore Cunning", "Cunning the Proudmore Gareth"]
 tags: [npc, character]
@@ -148,25 +147,21 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.125Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Leads to [[step_015]]
+- Leads to
 - Affected by [[NPC01051_Gareth_Nightfall_the_Broken]]
 - Leads to [[LORE00089_Prophecies_Entry_90]]
 - Parallels [[LOC0052_Watchridge]]
@@ -185,7 +180,7 @@ Seeks bodyguards for dangerous journey
 - See also: [[Faction Relationship Web (D&D_References)]]
 - Requires [[bard-xphb-college-of-lore-xphb (classes)]]
 - Related: [[Portrait NPC Archbishop Matthias Lightbringer V1 Archbishop Matthias Lightbringer.svg]]
-- Leads to [[step_092]]
+- Leads to
 - Parallels [[The Trench Speakers]]
 - Connects to [[sahuagin-baron-xmm]]
 - Related: [[SPELL00155_Divine_Spell_156]]
@@ -195,9 +190,9 @@ Seeks bodyguards for dangerous journey
 - See also: [[enspelled-armor-xdmg (items)]]
 - Compare with [[LOC00174_Dungeons_Location_175]]
 - Affected by [[Celtic Manannan Mac Lir]]
-- See also: [[step_080]]
+- See also:
 - Compare with [[SPELL00091_Divine_Spell_92]]
-- Affected by [[step_072]]
+- Affected by
 - Connects to [[step_052 (phase_054)]]
 - Related: [[step_088 (phase_004)]]
 - Influences [[step_091 (phase_011)]]
@@ -225,7 +220,7 @@ Seeks bodyguards for dangerous journey
 - Related: [[Commercial Hubs and Markets (D&D_References)]]
 - Compare with [[6 Bestiary]]
 - Compare with [[Lightly Armored Xphb]]
-- See also: [[step_094]]
+- See also:
 - Parallels [[spell-scroll-level-7-xdmg (items)]]
 - Influences [[Throne Room - Heart of Palace 2]]
 - Requires [[Port Crystalfall (D&D_References)]]
@@ -234,21 +229,21 @@ Seeks bodyguards for dangerous journey
 - Parallels [[Quest - Missing Shipments_1 (01_Adventures)]]
 - Compare with [[location-city-royal-ports-v1-royal-ports.svg]]
 - Affected by [[Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Parallels [[step_069]]
+- Parallels
 - Related: [[NPC01133_Hestara_Xendar_the_Broken]]
 - See also: [[Keeper of Crowns Lydia Starfall (D&D_References)]]
-- See also: [[step_055]]
+- See also:
 - Compare with [[Royal Academy of Arcane Art]]
 - See also: [[step_014 (phase_081)]]
 - Compare with [[Biological Modification Guidance]]
 - Related: [[Portrait NPC the Parasite Priests the Parasite Priests.svg_1 (Portraits)]]
-- Parallels [[step_005]]
+- Parallels
 - Connects to [[Dr Tidal Depth]]
 - Requires [[NPC01784_Erasmus_Ravenheart_the_Wanderer]]
 - Parallels [[robe-of-eyes-xdmg (items)]]
 - Parallels [[step_084 (phase_039)]]
 - Requires [[The Memorial Garden 2]]
-- Compare with [[step_084]]
+- Compare with
 - Influences [[step_016 (phase_080)]]
 - Requires [[Colonel Dr Vivisection]]
 - Originates from [[ENC00099_Environmental_Encounter_100]]
@@ -264,14 +259,13 @@ Seeks bodyguards for dangerous journey
 - Influences [[Wyvern Poison Xdmg]]
 - Originates from [[10-appendix-b-maps (dungeon-masters-guide-2024)]]
 - Influences [[Seven_Shards_Epic_Conclusion]]
-- Leads to [[step_025]]
+- Leads to
 - Leads to [[DUN00003_Dungeon_4]]
 
 ## Visual References
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

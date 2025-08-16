@@ -18,7 +18,6 @@ aliases: [MOC Lore]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -32,8 +31,6 @@ created: 2025-08-15
 
 ## Content
 *Building index...*
-
-
 
 ## Recent NPCs
 ```dataview
@@ -92,12 +89,10 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[README]]
 - [[MOC_Sessions]]
 - [[MOC_Locations]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -127,14 +122,14 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Leads to [[location-city-the-deepmind-the-deepmind.svg]]
 - Influences [[QUEST00105_Personal_Quest_106]]
 - Related: [[step_046 (phase_037)]]
-- Connects to [[step_074]]
+- Connects to
 - Requires [[location-city-aethermoor-aethermoor.svg]]
 - Connects to [[Lady Penelope Procedure (D&D_References)]]
 - Requires [[step_100 (phase_017)]]
 - Related: [[Vault Backup 20250813 073007 07 Player Session Summaries Session Zero Universal Guide]]
 - Affected by [[Royal Intelligence (D&D_References)]]
 - Parallels [[Assets Locations Location City Commercial District V1 Commercial District.svg]]
-- Affected by [[step_033]]
+- Affected by
 - Requires [[step_001 (phase_035)]]
 - Connects to [[Trade Representatives 2]]
 - See also: [[Ethereal Anchors (D&D_References)]]
@@ -146,14 +141,14 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Compare with [[Madame Pearl Currentflow]]
 - Affected by [[Royal Bloodline Codex (D&D_References)]]
 - Connects to [[Ambassador Lysandra Silvertonge 2]]
-- Related: [[step_046]]
-- Parallels [[step_019]]
-- Requires [[step_047]]
+- Related:
+- Parallels
+- Requires
 - Related: [[FAC00007_Orders_8]]
 - See also: [[QUEST00304_Side_Quest_305]]
 - Leads to [[Template-Group.md]]
 - Affected by [[step_015 (phase_071)]]
-- See also: [[step_062]]
+- See also:
 - Compare with [[ITEM00624_Enchanted_Gauntlets_of_Protection]]
 - Affected by [[The Crystal Cathedral of Pure Light 2]]
 - Connects to [[Location City Master Goldwin Ledgerkeeper Master Goldwin Ledgerkeeper.svg]]
@@ -194,7 +189,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Connects to [[trade-goods-xdmg (tables)]]
 - Originates from [[LORE00067_Legends_Entry_68]]
 - Compare with [[Order of Azure Flame (Orders)]]
-- Compare with [[step_083]]
+- Compare with
 - Leads to [[Gith Githzerai Mtf]]
 - Compare with [[Law Enforcement (02_Worldbuilding)]]
 - See also: [[Map Map Aethermoor Harbor Skirmish V2 Aethermoor Harbor Skirmish.png]]

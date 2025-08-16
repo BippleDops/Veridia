@@ -18,7 +18,6 @@ aliases: [NPC00543 Orion Ironwood the Risen]
 - [[#Faelyn Keenblade the Cunning (Personal - Childhood friend)|Faelyn Keenblade the Cunning (Personal - Childhood friend)]]
 - [[#Gareth Silverleaf the Seeker (Family - Cousin)|Gareth Silverleaf the Seeker (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Orion Ironwood the Risen", "orion ironwood the risen", "Orion Ironwood Risen", "Risen the Ironwood Orion"]
@@ -143,27 +142,23 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.175Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -171,11 +166,10 @@ Witnessed a crime
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -208,7 +202,7 @@ Witnessed a crime
 - Connects to [[Keeper Valdris Goldvault]]
 - Parallels [[Assets Locations Location City the Shadow Markets V1 the Shadow Markets.svg]]
 - Originates from [[QUEST0020_The_Sacred_Prophecy]]
-- Leads to [[step_057]]
+- Leads to
 - Compare with [[Professor Reef Growthseeker 2]]
 - Originates from [[Void Technician Prima Nullbane 2]]
 - Connects to [[Random Magic Items Armaments]]
@@ -232,11 +226,11 @@ Witnessed a crime
 - Parallels [[step_044 (phase_015)]]
 - Affected by [[S-018_Choir_Pirates_Player (D&D_References)]]
 - Requires [[LOC00125_Dungeons_Location_126]]
-- Compare with [[step_066]]
+- Compare with
 - Leads to [[#Organization-Territory Control Matrix]]
 - Related: [[LOC00212_Dungeons_Location_213]]
 - Affected by [[step_072 (phase_089)]]
-- Requires [[step_021]]
+- Requires
 - Parallels [[04_Resources_Assets_Portraits_portrait-npc-current-lord-triton-of-house-pelagios-current-lord-triton-of-house-pelagios.svg_Quick_Ref]]
 - Related: [[Shadow Broker Maximian Darkmarket]]
 - Requires [[04-classes (players-handbook-2014)]]
@@ -247,25 +241,25 @@ Witnessed a crime
 - Originates from [[The Unnamed Chronicler (D&D_References)]]
 - Leads to [[Location City Current Peacefulflow V1 Current Peacefulflow.svg]]
 - Affected by [[Map Map Embassy Quarter Court Embassy Quarter Court.svg]]
-- Compare with [[step_071]]
+- Compare with
 - Affected by [[Assets Locations Location City Marina Deepcurrent Marina Deepcurrent.svg]]
 - Related: [[Barkskin Xphb]]
 - Related: [[step_088 (phase_025)]]
 - Leads to [[Scholars of Prismari Prismari Scholars Scc]]
 - Requires [[07 Customization Options]]
-- Connects to [[step_030]]
+- Connects to
 - Leads to [[Location City Risk Assessor Probability V1 Risk Assessor Probability.svg]]
 - Compare with [[Portrait NPC Queen Seraphina Lumengarde Queen Seraphina Lumengarde.svg]]
 - Originates from [[step_010 (phase_021)]]
 - Requires [[The Memory Crystals Division]]
 - Originates from [[Potion of Climbing Xdmg]]
-- Leads to [[step_008]]
+- Leads to
 - Parallels [[Lighthouse of Storms]]
 - Compare with [[Ritual Redirection Options 2]]
 - Requires [[QUEST0080_The_Final_Legacy]]
 - See also: [[oblex-spawn-mpmm (ooze)]]
 - Influences [[Aquabyssos Technical University]]
-- Related: [[step_080]]
+- Related:
 - Compare with [[NPC01896_Qadim_Blackstone_the_Wise]]
 - Connects to [[Stormwatch Keep 2]]
 - Influences [[scroll-of-protection-xdmg (items)]]
@@ -284,7 +278,6 @@ Witnessed a crime
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

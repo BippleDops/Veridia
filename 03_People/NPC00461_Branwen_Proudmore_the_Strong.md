@@ -18,7 +18,6 @@ aliases: [NPC00461 Branwen Proudmore the Strong]
 - [[#Xander Proudmore the Swift (Family - Child)|Xander Proudmore the Swift (Family - Child)]]
 - [[#Baelor Underhill the Broken (Professional - Employer)|Baelor Underhill the Broken (Professional - Employer)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Branwen Proudmore the Strong", "branwen proudmore the strong", "Branwen Proudmore Strong", "Strong the Proudmore Branwentags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
@@ -151,16 +150,13 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.165Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -184,11 +180,10 @@ Modifications:
 - [[Ceasefire_Accord_Draft.md]]
 - [[Propaganda_Leaflet_Pearl_Guar]]
 - [[09 Adventuring]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -196,25 +191,24 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Parallels [[[[The Deepmost Current]] 2]]
 - Originates from [[NPC00163_Jorah_Ravenheart]]
 - Connects to [[step_100 (phase_021)]]
-- Influences [[step_044]]
+- Influences
 - Leads to [[The Future Seer (D&D_References)]]
 - Originates from [[SHOP00041_Specialty_Shop_42]]
 - Compare with [[LORE00064_History_Entry_65]]
 - See also: [[Assets Item Artifact Enspelled Armor Level 7 Xdmg V7 Enspelled Armor Level 7 Xdmg.png]]
 - Requires [[The Shattering of the Crown]]
 - Leads to [[ENC00066_Environmental_Encounter_67]]
-- Affected by [[step_012]]
+- Affected by
 - Leads to [[Rival [[Merchant]] Prince Gold]]
 - Connects to [[[[Parliament of Echoes - Public Gallery]] (D&D_References)]]
 - Leads to [[Marid Xmm]]
@@ -226,13 +220,13 @@ Modifications:
 - Originates from [[Buying a Magic Item Magic Item Price Xge]]
 - Requires [[Arcane Study]]
 - Compare with [[MON00081_Constructs_Creature_82]]
-- Influences [[step_007]]
+- Influences
 - Requires [[Translator Polyglot Petra]]
 - Influences [[Location City [[[[Harbor District]] Customs House]] V1 Harbor District Customs House.svg]]
 - Connects to [[[[Artificer]]'s Row (D&D_References)]]
 - Related: [[NPC01466_Urien_Nightfall_the_Guardian]]
 - Parallels [[step_061 (phase_055)]]
-- Influences [[step_003]]
+- Influences
 - Connects to [[reliquary-charm-xdmg (rewards)]]
 - Leads to [[ENC0038_Random_Encounter_39]]
 - Influences [[step_050 (phase_043)]]
@@ -243,7 +237,7 @@ Modifications:
 - Originates from [[step_080 (phase_056)]]
 - Influences [[step_057 (phase_056)]]
 - Parallels [[SHOP00008_Magical_Shop_9]]
-- See also: [[step_066]]
+- See also:
 - Parallels [[improvised-damage-xdmg (traps-hazards)]]
 - Requires [[Location City Echo Scribe Matthias Echo Scribe Matthias.svg]]
 - Connects to [[Location City [[Constitutional Monarchy]] Constitutional Monarchy.svg]]
@@ -256,10 +250,10 @@ Modifications:
 - Affected by [[Portrait NPC Quest the Kingpin S Fall V2 Quest the Kingpin S Fall.svg]]
 - Leads to [[LOC00087_Towns_Location_88]]
 - Requires [[DUN00195_Dungeon_196]]
-- Influences [[step_086]]
+- Influences
 - Requires [[Norse Heimdall]]
 - Affected by [[step_081 (phase_091)]]
-- Influences [[step_081]]
+- Influences
 - Compare with [[portrait-npc-azure-shard-v1-azure-shard.svg]]
 - Originates from [[Thought-Speaker Silent]]
 - Influences [[System Operator Tide Watchwright 2]]
@@ -283,15 +277,15 @@ Modifications:
 - Originates from [[NPC01109_Rhiannon_Winterborn_the_Mystic]]
 - Compare with [[Magic User 2]]
 - Connects to [[Assets Locations [[Location City [[The Diplomatic Quarter]] V1 the Diplomatic Quarter.svg]]]]
-- Affected by [[step_098]]
+- Affected by
 - Leads to [[Celtic Belenus]]
-- Compare with [[step_062]]
-- Compare with [[step_021]]
+- Compare with
+- Compare with
 - Requires [[[[Public Safety]] Complex]]
 - Affected by [[Falling Net Xdmg]]
 - Requires [[step_008 (phase_066)]]
 - Related: [[Scholar-Merchant Remembrance Tidekeep]]
-- See also: [[step_032]]
+- See also:
 - See also: [[step_090 (phase_009)]]
 - Compare with [[Flying Snake Xmm]]
 - Compare with [[The Memory Anchor (D&D_References)]]
@@ -309,7 +303,6 @@ Modifications:
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

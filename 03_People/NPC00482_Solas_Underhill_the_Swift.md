@@ -18,7 +18,6 @@ aliases: [NPC00482 Solas Underhill the Swift]
 - [[#Malakai Silverleaf the Swift (Family - Sibling)|Malakai Silverleaf the Swift (Family - Sibling)]]
 - [[#Solas Ashford the Mystic (Criminal - Handler)|Solas Ashford the Mystic (Criminal - Handler)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Solas Underhill the Swift", "solas underhill the swift", "Solas Underhill Swift", "Swift the Underhill Solas"]
@@ -140,27 +139,23 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.168Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -169,11 +164,10 @@ Being extorted by criminals
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -183,8 +177,8 @@ Being extorted by criminals
 - Leads to [[Ambassador Neutral 2]]
 - Leads to [[step_078 (phase_042)]]
 - Connects to [[Create or Destroy Water Xphb]]
-- Related: [[step_041]]
-- Compare with [[step_090]]
+- Related:
+- Compare with
 - Compare with [[step_018 (phase_058)]]
 - Compare with [[step_004 (phase_080)]]
 - Connects to [[list-spells-optional-features-mire-the-mind (lists)]]
@@ -193,7 +187,7 @@ Being extorted by criminals
 - Influences [[The Cultural Heritage Center]]
 - Originates from [[Random Location Generator]]
 - Influences [[merchant-xphb (backgrounds)]]
-- Compare with [[step_014]]
+- Compare with
 - Requires [[step_022 (phase_015)]]
 - Requires [[LOC00179_Dungeons_Location_180]]
 - Originates from [[Roleplaying a Hag Hag Personality Traits Vgm]]
@@ -204,20 +198,20 @@ Being extorted by criminals
 - Leads to [[ENC00083_Combat_Encounter_84]]
 - Leads to [[Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop V2 Hybrid Rift Runner Sloop.png]]
 - Compare with [[step_026 (phase_022)]]
-- Compare with [[step_093]]
+- Compare with
 - Compare with [[Assets Locations Location City the Whispering Depths V1 the Whispering Depths.svg]]
 - Parallels [[step_043 (phase_068)]]
 - Requires [[ENC00279_Social_Encounter_280]]
-- Parallels [[step_091]]
-- Parallels [[step_019]]
+- Parallels
+- Parallels
 - Compare with [[dwarven-berronar-truesilver-mtf (deities)]]
-- Originates from [[step_026]]
+- Originates from
 - Originates from [[The Vault Keepers 2]]
 - Originates from [[step_041 (phase_019)]]
 - Connects to [[Duergar Raiding Parties Duergar Special Circumstances Mtf]]
 - Originates from [[step_041 (phase_088)]]
-- Requires [[step_027]]
-- Connects to [[step_006]]
+- Requires
+- Connects to
 - Leads to [[Portrait NPC Lady Cordelia Windham V1 Lady Cordelia Windham.svg]]
 - Related: [[Assets Locations Location City Crystal Engineer Reef Sparkwright Crystal Engineer Reef Sparkwright.svg]]
 - Requires [[SPELL00112_Nature_Spell_113]]
@@ -248,7 +242,7 @@ Being extorted by criminals
 - Requires [[Cargo Master Holdspace]]
 - Connects to [[Location City Luminous Laboratory District Luminous Laboratory District.svg]]
 - Influences [[step_018 (phase_082)]]
-- Connects to [[step_036]]
+- Connects to
 - Influences [[Area of Effect Xphb]]
 - Connects to [[Locations Floating Arsenal]]
 - Influences [[step_079 (phase_018)]]
@@ -257,22 +251,22 @@ Being extorted by criminals
 - Parallels [[location-city-harbor-district-harbor-district.svg]]
 - Connects to [[ITEM01171_Lesser_Powder_of_Clarity]]
 - Connects to [[Mechanics Transformations Crystal Crystal Bloom]]
-- Influences [[step_077]]
+- Influences
 - See also: [[Faction_Symbols_&_Heraldry]]
 - Requires [[Assets Locations Location City Archaeological Society V1 Archaeological Society.svg]]
 - Related: [[location-city-depth-warden-depth-warden.svg]]
 - See also: [[Portrait NPC Ethics Coordinator Elena Compassion Ethics Coordinator Elena Compassion.svg_1 (Portraits)]]
-- Leads to [[step_072]]
+- Leads to
 - Originates from [[Hadrian Depthbridge 2]]
 - Originates from [[rally-xphb (optional-features)]]
 - Affected by [[Parliamentary Ethics Committee]]
 - Originates from [[LOC00110_Wilderness_Location_111]]
 - Originates from [[LOC00263_Wilderness_Location_264]]
-- Influences [[step_003]]
+- Influences
 - Influences [[ITEM00517_Warded_Plate_of_Fortitude]]
 - Parallels [[Anti-Scrying Division]]
 - Connects to [[step_097 (phase_072)]]
-- Leads to [[step_053]]
+- Leads to
 - Related: [[earth-elemental-myrmidon-mpmm (elemental)]]
 - Requires [[Windwright Academy (Academies)]]
 - Parallels [[Surgeon Marcus Healhand 2]]
@@ -282,7 +276,6 @@ Being extorted by criminals
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

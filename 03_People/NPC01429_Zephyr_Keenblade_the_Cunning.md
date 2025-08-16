@@ -18,7 +18,6 @@ aliases: [NPC01429 Zephyr Keenblade the Cunning]
 - [[#Kaelen Hawthorne the Wise (Professional - Rival)|Kaelen Hawthorne the Wise (Professional - Rival)]]
 - [[#Baelor Youngblood the Wanderer (Political - Ally)|Baelor Youngblood the Wanderer (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Zephyr Keenblade the Cunning", "zephyr keenblade the cunning", "Zephyr Keenblade Cunning", "Cunning the Keenblade Zephyrtags: [npc, character, combat, magic, exploration, lore]er]
@@ -153,16 +152,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.272Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -204,9 +200,7 @@ Modifications:
 - [[NPC00321_Aeliana_Zephyrblade_the_Strong]]
 - [[NPC01040_Zephyr_Lightbringer_the_Strong]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -224,7 +218,7 @@ Following magic item guidelines (WWT p.135-136):
 - Bestiary Compendium (BC) p.131
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -232,11 +226,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -249,13 +242,13 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[step_037 (phase_026)]]
 - Connects to [[The Contingency Vault]]
 - Originates from [[rod-of-resurrection-xdmg (items)]]
-- Influences [[step_016]]
+- Influences
 - Related: [[Quest - Budget Crisis_1 (01_Adventures)]]
 - Requires [[step_077 (phase_087)]]
 - Compare with [[step_097 (phase_084)]]
 - Connects to [[NPC00778_Hilda_Hawthorne_the_Risen]]
 - Leads to [[bullywug-bog-sage-xmm (fey)]]
-- Compare with [[step_034]]
+- Compare with
 - Connects to [[Portrait NPC Lord Commander Gareth Lord Commander Gareth.svg]]
 - Affected by [[step_043 (phase_034)]]
 - Requires [[step_028 (phase_016)]]
@@ -269,7 +262,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[ITEM01488_Elegant_Spyglass_of_Quality]]
 - Leads to [[step_001 (phase_006)]]
 - Requires [[Investigative Chronicler Darius Truthseeker]]
-- Parallels [[step_047]]
+- Parallels
 - Affected by [[04-classes (players-handbook-2014)]]
 - See also: [[Location City [[The Recursion Cult]] the Recursion Cult.png]]
 - Compare with [[Location City [[Guildmaster Harwick]] V1 Guildmaster Harwick.png]]
@@ -278,7 +271,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[FAC00074_Orders_75]]
 - See also: [[Portrait NPC Memory Harvester Kythara V2 Memory Harvester Kythara.svg]]
 - Influences [[Portrait NPC King Marcus [[Lumengarde]] V2 King Marcus Lumengarde.svg]]
-- Parallels [[step_094]]
+- Parallels
 - Leads to [[Location City [[Port Crystalfall]] Port Crystalfall.svg]]
 - Parallels [[Layers of the Abyss Xdmg]]
 - Requires [[step_012 (phase_010)]]
@@ -304,7 +297,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[The Rumor Mill 2]]
 - Connects to [[races (races)]]
 - Influences [[step_092 (phase_061)]]
-- Influences [[step_037]]
+- Influences
 - Requires [[SPELL00050_Divine_Spell_51]]
 - Requires [[step_050 (phase_059)]]
 - Affected by [[step_016 (phase_025)]]
@@ -317,7 +310,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Location City Silence Keeper Mute Silence Keeper Mute.svg]]
 - Originates from [[ITEM00476_Dragon_Scale_Leather_of_Protection]]
 - Related: [[Great Dying (D&D_References)]]
-- See also: [[step_071]]
+- See also:
 - Affected by [[MON00116_Undead_Creature_117]]
 - Connects to [[Assets Locations [[Location City [[Brother Matthias Inkdrinker]] Brother Matthias Inkdrinker.svg]]]]
 - Connects to [[The Midnight Trench]]
@@ -345,7 +338,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

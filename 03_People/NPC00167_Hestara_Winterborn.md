@@ -9,7 +9,6 @@ aliases: [NPC00167 Hestara Winterborn]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00167 Hestara Winterborn]
 - [[#Ysara Goldleaf the Redeemed (Professional - Rival)|Ysara Goldleaf the Redeemed (Professional - Rival)]]
 - [[#Lyanna Quicksilver (Criminal - Accomplice)|Lyanna Quicksilver (Criminal - Accomplice)]]
 - [[#Solas Keenblade (Personal - Childhood friend)|Solas Keenblade (Personal - Childhood friend)]]
-
 
 ---
 aliases: ["Hestara Winterborn", "hestara winterborn", "Winterborn Hestara"]
@@ -157,21 +155,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.130Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,7 +175,7 @@ Requires champions for trial by combat
 - Connects to [[10 Combat#dropping to 0 Hit Points#falling Unconscious]]
 - Leads to [[step_088 (phase_042)]]
 - Requires [[step_035 (phase_034)]]
-- Compare with [[step_067]]
+- Compare with
 - Requires [[Tidal Diplomat Nerida]]
 - Parallels [[Harmonic_Resonance_Evolution]]
 - Parallels [[step_015 (phase_079)]]
@@ -199,8 +193,8 @@ Requires champions for trial by combat
 - Leads to [[step_026 (phase_095)]]
 - See also: [[LOC00293_Cities_Location_294]]
 - See also: [[step_053 (phase_068)]]
-- Requires [[step_031]]
-- Connects to [[step_088]]
+- Requires
+- Connects to
 - Related: [[Harbor Defense Grid (D&D_References)]]
 - Affected by [[ENC00279_Social_Encounter_280]]
 - Connects to [[LOC00270_Cities_Location_271]]
@@ -210,7 +204,7 @@ Requires champions for trial by combat
 - Parallels [[Possessed Noble Coterie (D&D_References)]]
 - Connects to [[Quest - The Forge of Memory]]
 - Compare with [[QUEST0027_In_Search_of_Knowledge]]
-- Requires [[Quest   The Pressure Cure]]
+- Requires [[Quest The Pressure Cure]]
 - See also: [[Surface Sympathizer Settlements (D&D_References)]]
 - Influences [[Assets Locations Location City Geometric Tidepools Geometric Tidepools.svg]]
 - Requires [[ENC00177_Environmental_Encounter_178]]
@@ -225,7 +219,7 @@ Requires champions for trial by combat
 - Leads to [[ITEM0033_Blessed_Tome_of_Power]]
 - Requires [[Commander Typhoon Blackheart]]
 - Influences [[QUEST0029_Captain's_Request]]
-- Compare with [[step_028]]
+- Compare with
 - Affected by [[NPC1_Quick_Ref]]
 - Originates from [[Brass Mug With Jade Inlay Xdmg]]
 - Originates from [[dawn-war-avandra-dmg (deities)]]
@@ -233,7 +227,7 @@ Requires champions for trial by combat
 - Originates from [[High Priestess Nerida Soulcurrent (D&D_References)]]
 - Connects to [[ENC00148_Environmental_Encounter_149]]
 - Related: [[Player_Notes]]
-- See also: [[step_031]]
+- See also:
 - Compare with [[Location City Shadow Chancellor V1 Shadow Chancellor.svg]]
 - Parallels [[Location City Infrastructure Development Infrastructure Development.svg]]
 - Influences [[Song Crystals]]
@@ -252,19 +246,19 @@ Requires champions for trial by combat
 - See also: [[Vault Keeper Aurelia Crownguard]]
 - Originates from [[SPELL00045_Arcane_Spell_46]]
 - Leads to [[Miranda Hopekeeper 2]]
-- Requires [[step_063]]
+- Requires
 - Related: [[The Concordat Seal (D&D_References)]]
 - Requires [[NPC01579_Aldric_Proudmore_the_Broken]]
 - Leads to [[LORE0071_Legend_of_the_Ancient_Pact]]
 - Leads to [[LORE00063_Legends_Entry_64]]
 - See also: [[Depth Seekers (D&D_References)]]
-- Compare with [[step_075]]
+- Compare with
 - Originates from [[Portrait NPC Admiral Thorne Blackwater Admiral Thorne Blackwater.svg]]
 - Related: [[Nonhuman Corellon Larethian]]
 - Parallels [[Mind Guardian Vera]]
 - Connects to [[02_Worldbuilding_Procedures_Shadow_Resoce_Scanning]]
 - Originates from [[The Coral Council]]
-- Compare with [[step_001]]
+- Compare with
 - Compare with [[Wind_Touched_Evolution]]
 - Connects to [[Location City Phantom Harbor Charter Phantom Harbor Charter.svg]]
 - Leads to [[step_042 (phase_088)]]

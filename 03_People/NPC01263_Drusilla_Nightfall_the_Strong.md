@@ -18,7 +18,6 @@ aliases: [NPC01263 Drusilla Nightfall the Strong]
 - [[#Cedric Zephyrblade the Wanderer (Political - Ally)|Cedric Zephyrblade the Wanderer (Political - Ally)]]
 - [[#Aldric Darkwater the Cunning (Family - Sibling)|Aldric Darkwater the Cunning (Family - Sibling)]]
 
-
 ---
 aliases: ["Drusilla Nightfall the Strong", "drusilla nightfall the strong", "Drusilla Nightfall Strong", "Strong the Nightfall Drusilla"]
 tags: [npc, character]
@@ -158,21 +157,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.254Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -186,7 +181,7 @@ Has information about legendary item
 - Connects to [[Commercial Dispute Resolution Procedures (D&D_References)]]
 - Connects to [[ITEM00247_Blazing_Staff_of_Power]]
 - See also: [[Port Meridian 2]]
-- Originates from [[step_096]]
+- Originates from
 - Affected by [[QUEST00176_Main_Quest_177]]
 - Leads to [[ITEM00939_Distilled_Powder_of_Clarity]]
 - Affected by [[Abyssal Garden (D&D_References)]]
@@ -201,7 +196,7 @@ Has information about legendary item
 - Compare with [[step_006 (phase_057)]]
 - See also: [[LOC00251_Wilderness_Location_252]]
 - Connects to [[LOC00109_Wilderness_Location_110]]
-- Leads to [[step_010]]
+- Leads to
 - Affected by [[gnoll-flesh-gnawer-mpmm (monstrosity)]]
 - Originates from [[The Deep Republic]]
 - Influences [[ITEM00272_Cursed_Staff_of_the_Ancients]]
@@ -231,9 +226,9 @@ Has information about legendary item
 - Leads to [[NPC00745_Urien_Ravenheart_the_Cunning]]
 - Connects to [[ENC00480_Combat_Encounter_481]]
 - Originates from [[Archbishop Mordecai Stormwright]]
-- Compare with [[step_064]]
+- Compare with
 - Originates from [[LOC00000_Wilderness_Location_1]]
-- Influences [[step_018]]
+- Influences
 - Connects to [[Location City Shadow Chancellor V1 Shadow Chancellor.svg]]
 - Connects to [[Campaign Quick Reference Sheets (02_Worldbuilding)]]
 - Leads to [[Navigator Stormwatch]]
@@ -252,13 +247,13 @@ Has information about legendary item
 - Compare with [[The Convergence Cleansing]]
 - Leads to [[ITEM00220_Blazing_Sword_of_the_Ancients]]
 - See also: [[MON00095_Constructs_Creature_96]]
-- Originates from [[step_014]]
+- Originates from
 - Parallels [[ENC00425_Combat_Encounter_426]]
-- Influences [[step_020]]
+- Influences
 - Leads to [[feed-per-day-xphb (items)]]
 - Leads to [[Infernal Calling Xge]]
 - Compare with [[MON00157_Constructs_Creature_158]]
-- Connects to [[step_001]]
+- Connects to
 - See also: [[Quest - The Pressure Cure]]
 - Leads to [[list-spells-classes-oath-of-vengeance-xphb (lists)]]
 - Compare with [[location-city-sea-sprite-sea-sprite.svg]]
@@ -281,7 +276,6 @@ Has information about legendary item
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00258 Corvus Youngblood the Seeker]
 - [[#Gavril Ironforge the Swift (Criminal - Target)|Gavril Ironforge the Swift (Criminal - Target)]]
 - [[#Corvus Ironwood the Wanderer (Political - Patron)|Corvus Ironwood the Wanderer (Political - Patron)]]
 
-
 ---
 aliases: ["Corvus Youngblood the Seeker", "corvus youngblood the seeker", "Corvus Youngblood Seeker", "Seeker the Youngblood Corvus"]
 tags: [npc, character]
@@ -143,21 +142,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.141Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -171,7 +166,7 @@ Needs discrete help with family scandal
 - Influences [[portrait-npc-the-senator-the-senator.svg_1 (Portraits)]]
 - Related: [[Merchant Family Tidewalker (D&D_References)]]
 - Affected by [[step_055 (phase_089)]]
-- Parallels [[step_074]]
+- Parallels
 - Leads to [[${chosenPath}]]
 - Related: [[LOC00224_Cities_Location_225]]
 - Connects to [[ITEM01382_Decorated_Journal_of_Convenience]]
@@ -183,7 +178,7 @@ Needs discrete help with family scandal
 - Related: [[scroll-mishaps (variant-rules)]]
 - Influences [[ENC00231_Social_Encounter_232]]
 - Related: [[Investigation Log INV-000 (D&D_References)]]
-- Leads to [[Quest   The Refugee Evacuation]]
+- Leads to [[Quest The Refugee Evacuation]]
 - Parallels [[NPC01747_Zephyr_Goldleaf_the_Swift]]
 - Originates from [[forgotten-realms-beshaba (deities)]]
 - Related: [[QUEST0024_Champion's_Redemption]]
@@ -211,8 +206,8 @@ Needs discrete help with family scandal
 - Affected by [[ENC00019_Social_Encounter_20]]
 - Requires [[LORE00327_Legends_Entry_328]]
 - Connects to [[step_051 (phase_089)]]
-- Related: [[step_071]]
-- Connects to [[step_022]]
+- Related:
+- Connects to
 - Related: [[step_094 (phase_098)]]
 - Affected by [[astral-brig-mtf (vehicles)]]
 - Requires [[LOC0094_Hillthorpe]]
@@ -225,7 +220,7 @@ Needs discrete help with family scandal
 - Requires [[EVENT00074_Political_Event_75]]
 - Requires [[The Pressure-Crystal Synthesis Project]]
 - Requires [[step_092 (phase_039)]]
-- Compare with [[step_081]]
+- Compare with
 - Originates from [[Port Nimbus 2]]
 - Connects to [[INV-003.png (Art)]]
 - Connects to [[Neighbor Advocate Penumbra]]
@@ -238,8 +233,8 @@ Needs discrete help with family scandal
 - Parallels [[MASTER_RULES_INDEX]]
 - Affected by [[step_037 (phase_083)]]
 - Related: [[step_032 (phase_041)]]
-- Compare with [[step_057]]
-- Connects to [[step_025]]
+- Compare with
+- Connects to
 - See also: [[Location City Pressure Wraiths Pressure Wraiths.svg]]
 - Related: [[The Collector (D&D_References)]]
 - Affected by [[ladder-xphb (items)]]
@@ -252,7 +247,7 @@ Needs discrete help with family scandal
 - Affected by [[step_074 (phase_020)]]
 - Affected by [[giant-crab-xmm]]
 - Related: [[step_084 (phase_048)]]
-- Requires [[step_017]]
+- Requires
 - See also: [[Quest - The Shattered Memories_1 (01_Adventures)]]
 - Compare with [[QUEST00016_Side_Quest_17]]
 - Requires [[NPC2]]
@@ -266,7 +261,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

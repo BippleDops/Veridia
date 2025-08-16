@@ -18,7 +18,6 @@ aliases: [NPC00159 Delara Keenblade the Wanderer]
 - [[#Elric Stormwind the Wanderer (Political - Opposition)|Elric Stormwind the Wanderer (Political - Opposition)]]
 - [[#Delara Ironwood (Personal - Best friend)|Delara Ironwood (Personal - Best friend)]]
 
-
 ---
 aliases: ["Delara Keenblade the Wanderer", "delara keenblade the wanderer", "Delara Keenblade Wanderer", "Wanderer the Keenblade Delara"]
 tags: [npc, character]
@@ -155,21 +154,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.130Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,11 +173,11 @@ Requires champions for trial by combat
 - Requires [[LORE00092_Prophecies_Entry_93]]
 - Parallels [[NPC01495_Xander_Crystalbrook_the_Lost]]
 - Affected by [[cloves-xdmg (items)]]
-- Compare with [[step_027]]
+- Compare with
 - Requires [[FAC00082_Guilds_83]]
 - Affected by [[step_058 (phase_047)]]
 - Parallels [[Thunderous Greatclub Xdmg]]
-- Compare with [[step_089]]
+- Compare with
 - See also: [[Portrait NPC Find the Shadow Cure V1 Find the Shadow Cure.svg_1 (Portraits)]]
 - Influences [[step_073 (phase_021)]]
 - Influences [[ITEM00097_Frost_Sword_of_Accuracy]]
@@ -192,14 +187,14 @@ Requires champions for trial by combat
 - Requires [[LOC00069_Planes_Location_70]]
 - Influences [[Location City Medical Historian Nautilus Deepscribe V1 Medical Historian Nautilus Deepscribe.svg]]
 - Related: [[Campaign_Overview 2]]
-- Affected by [[step_017]]
+- Affected by
 - Related: [[Shopping_List]]
 - Influences [[QUEST00002_Personal_Quest_3]]
 - Leads to [[death-tyrant (legendary-group)]]
 - Related: [[Research Director Aquarius Brightwater]]
 - Connects to [[Location City Specimen Careful Lifeguard Specimen Careful Lifeguard.svg]]
-- Related: [[step_053]]
-- Affected by [[step_032]]
+- Related:
+- Affected by
 - Compare with [[step_045 (phase_071)]]
 - Originates from [[Great Weapon Fighting Xphb]]
 - Parallels [[step_065 (phase_038)]]
@@ -220,7 +215,7 @@ Requires champions for trial by combat
 - Affected by [[MON00111_Undead_Creature_112]]
 - Connects to [[04_Resources_Assets_Symbols_symbol-heraldry-agricultural-provinces-agricultural-provinces.svg]]
 - Parallels [[monster-relationships-xge (tables)]]
-- Affected by [[step_020]]
+- Affected by
 - Affected by [[The Azure Ports]]
 - Originates from [[step_086 (phase_064)]]
 - Related: [[Enspelled Staff Level 5 Xdmg]]
@@ -250,7 +245,7 @@ Requires champions for trial by combat
 - Parallels [[Ioun Stone Protection Xdmg]]
 - Parallels [[List Spells Classes Oathbreaker Dmg]]
 - Influences [[human-names-slavic-male-xge (tables)]]
-- Originates from [[step_083]]
+- Originates from
 - Leads to [[Portrait NPC Quest the Successor S Burden V1 Quest the Successor S Burden.svg]]
 - Compare with [[Treatments Synthesis Consciousness Transfer]]
 - Requires [[Portrait NPC Merchant Lord Cornelius Generous V2 Merchant Lord Cornelius Generous.svg]]
@@ -261,7 +256,7 @@ Requires champions for trial by combat
 - Originates from [[04_Resources_Assets_Locations_location-city-marina-dreamwhisper-marina-dreamwhisper.svg]]
 - See also: [[MON00051_Aberrations_Creature_52]]
 - Compare with [[Master Cultivator Apprenticeship]]
-- Parallels [[step_006]]
+- Parallels
 - Parallels [[Assets Locations Location City Quartermaster Judith Supplycurrent Quartermaster Judith Supplycurrent.svg]]
 - See also: [[wand-of-fear-xdmg (items)]]
 - Leads to [[Activate the Grief Bomb]]
@@ -278,7 +273,6 @@ Requires champions for trial by combat
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

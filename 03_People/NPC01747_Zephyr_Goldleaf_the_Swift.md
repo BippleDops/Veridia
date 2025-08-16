@@ -18,7 +18,6 @@ aliases: [NPC01747 Zephyr Goldleaf the Swift]
 - [[#Nerys Oakenshield the Wise (Political - Opposition)|Nerys Oakenshield the Wise (Political - Opposition)]]
 - [[#Orion Brightblade the Fallen (Family - Cousin)|Orion Brightblade the Fallen (Family - Cousin)]]
 
-
 ---
 aliases: ["Zephyr Goldleaf the Swift", "zephyr goldleaf the swift", "Zephyr Goldleaf Swift", "Swift the Goldleaf Zephyr"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.305Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,11 +171,11 @@ Blackmails party into service
 - Leads to [[Portrait NPC Throne of Bubbles Throne of Bubbles.svg_1 (Portraits)]]
 - Affected by [[The Philosophical Depths]]
 - Parallels [[LOC0050_NorthVale]]
-- Originates from [[step_055]]
+- Originates from
 - Parallels [[Cleric Xphb Nature Domain]]
 - Affected by [[Parliament Deep District]]
 - Affected by [[young-kruthik-mpmm (monstrosity)]]
-- Compare with [[step_010]]
+- Compare with
 - Affected by [[step_098 (phase_069)]]
 - Connects to [[EVENT00000_Magical_Event_1]]
 - See also: [[step_093 (phase_005)]]
@@ -197,21 +192,21 @@ Blackmails party into service
 - See also: [[Dark Gift of Shami Amourae the Lady of]]
 - Originates from [[All-Seeing Mirrors]]
 - See also: [[step_089 (phase_075)]]
-- Affected by [[step_027]]
+- Affected by
 - Originates from [[Portrait NPC Gall... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related: [[The Embassy Quarter (D&D_References)]]
 - Related: [[relic-sloth-scc (beast)]]
 - Parallels [[step_055 (phase_009)]]
 - Parallels [[ITEM01330_Masterwork_Lantern_of_Quality]]
 - Leads to [[Portrait NPC Otherworldly Pacts V2 Otherworldly Pacts.svg_1 (Portraits)]]
-- Related: [[step_015]]
+- Related:
 - Parallels [[Encounter_Scaling_Guide]]
 - Originates from [[Portrait NPC the Seven Seals V2 the Seven Seals.svg_1 (Portraits)]]
 - Related: [[Assets Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.png]]
 - Connects to [[Chancellor Marcus Provinces]]
 - Requires [[step_033 (phase_096)]]
 - Parallels [[Aquabyssos_City_District_Map]]
-- Connects to [[step_084]]
+- Connects to
 - Requires [[Feather Fall Xphb]]
 - See also: [[Voidmist Essence]]
 - Related: [[Court Mage Tempest Shadowcryst]]
@@ -231,7 +226,7 @@ Blackmails party into service
 - Leads to [[Memory Merchant Kellan Depthseer (D&D_References)]]
 - Connects to [[chamber-purpose-dungeon-lair (tables)]]
 - Parallels [[Greek Hecate]]
-- Connects to [[step_039]]
+- Connects to
 - Requires [[Organizations the Eternal Sentinels]]
 - See also: [[Assets Locations Location City Echo Theorist Maya V1 Echo Theorist Maya.svg]]
 - Influences [[Resurrection Xphb]]
@@ -239,16 +234,16 @@ Blackmails party into service
 - Affected by [[LOC00121_Dungeons_Location_122]]
 - Connects to [[Assets Locations Location City Ironhold V1 Ironhold.svg]]
 - Related: [[step_024 (phase_010)]]
-- Compare with [[step_057]]
+- Compare with
 - Requires [[Chorus Master Melodia Depthsong (D&D_References)]]
 - Related: [[Arcane Study]]
-- Requires [[step_013]]
+- Requires
 - See also: [[NPC00381_Jorah_Crystalbrook_the_Broken]]
 - Requires [[step_098 (phase_093)]]
 - Affected by [[Scene Scene Merged Zone Reality Fracture V1 Merged Zone Reality Fracture.svg]]
 - Influences [[shield-of-far-sight-vgm (items)]]
 - Affected by [[High Council]]
-- Compare with [[step_100]]
+- Compare with
 - Originates from [[Agricultural Provinces (D&D_References)]]
 - Requires [[The Professional Guilds Council]]
 - See also: [[step_060 (phase_043)]]
@@ -264,7 +259,7 @@ Blackmails party into service
 - Connects to [[Freedrift Network (D&D_References)]]
 - See also: [[List Spells Optional Features Misty Visions]]
 - Requires [[Portrait NPC Gareth Ironforge V2 Gareth Ironforge.svg_1 (Portraits)]]
-- Requires [[step_034]]
+- Requires
 - See also: [[Blink Xphb]]
 - Compare with [[NPC01251_Gavril_Ironforge_the_Scholar]]
 - Related: [[M-008_Door_Opens_Elsewhere]]
@@ -277,7 +272,6 @@ Blackmails party into service
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

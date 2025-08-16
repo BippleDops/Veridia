@@ -18,7 +18,6 @@ aliases: [NPC00864 Thalia Ravenheart the Wanderer]
 - [[#Faelyn Thornweave the Strong (Professional - Rival)|Faelyn Thornweave the Strong (Professional - Rival)]]
 - [[#Felicia Jadeclaw the Wanderer (Family - Sibling)|Felicia Jadeclaw the Wanderer (Family - Sibling)]]
 
-
 ---
 aliases: ["Thalia Ravenheart the Wanderer", "thalia ravenheart the wanderer", "Thalia Ravenheart Wanderer", "Wanderer the Ravenheart Thalia"]
 tags: [npc, character]
@@ -149,27 +148,23 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.211Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Requires [[Infected Experiments 2]]
 - Requires [[NPC0135_Petra_Darkwater]]
-- Parallels [[step_083]]
+- Parallels
 - Leads to [[shield-of-far-sight-vgm (items)]]
 - Affected by [[list-spells-optional-features-sign-of-ill-omen]]
 - Connects to [[step_045 (phase_006)]]
@@ -178,7 +173,7 @@ Has map to lost treasure
 - Originates from [[Quest - Sky Pirates 2]]
 - Leads to [[step_065 (phase_050)]]
 - Influences [[Surface Contact Prohibition]]
-- Influences [[step_018]]
+- Influences
 - Parallels [[voice-of-the-chain-master (optional-features)]]
 - Related: [[Party Information]]
 - Requires [[ITEM00388_Blazing_Bow_of_Power]]
@@ -188,7 +183,7 @@ Has map to lost treasure
 - Affected by [[Beholder Zombie Xmm]]
 - Related: [[Weather_Generator]]
 - Leads to [[DUN00110_Dungeon_111]]
-- Originates from [[step_081]]
+- Originates from
 - Originates from [[Tide-Speaker Nerida of House Abyssos 2]]
 - Leads to [[Well of Many Worlds Xdmg]]
 - See also: [[Shadow Surgery Techniques]]
@@ -203,7 +198,7 @@ Has map to lost treasure
 - Parallels [[Carrion Crawler Mucus Xdmg]]
 - Connects to [[Cleric Xphb Tempest Domain]]
 - Affected by [[step_003 (phase_014)]]
-- Related: [[step_030]]
+- Related:
 - Connects to [[The Southern Trading Companies 2]]
 - Compare with [[QUEST00085_Main_Quest_86]]
 - Compare with [[Vault_Self_Improvement_Engine (D&D_References)]]
@@ -234,13 +229,13 @@ Has map to lost treasure
 - Compare with [[Campaign Management Guide (D&D_References)]]
 - Influences [[location-city-deepsteel-v1-deepsteel.svg]]
 - See also: [[Quest - The Deep Mother Awakens 2]]
-- Related: [[step_017]]
+- Related:
 - Related: [[Economic Systems and Currency (D&D_References)]]
 - See also: [[ENC00274_Combat_Encounter_275]]
-- Connects to [[step_057]]
+- Connects to
 - Affected by [[step_073 (phase_039)]]
 - Connects to [[Tree Stride Xphb]]
-- Compare with [[step_086]]
+- Compare with
 - Leads to [[The Drowned Prophets 2]]
 - Affected by [[celtic-morrigan (deities)]]
 - Originates from [[Assets Handouts Handout Handout Noble Writ with Wax Seal V2 Noble Writ with Wax Seal.png]]
@@ -254,7 +249,7 @@ Has map to lost treasure
 - Connects to [[NPC00590_Felicia_Grimholt_the_Guardian]]
 - Affected by [[step_043 (phase_081)]]
 - Originates from [[Hadal Zon]]
-- Originates from [[step_013]]
+- Originates from
 - Compare with [[LORE00321_Prophecies_Entry_322]]
 - Compare with [[step_052 (phase_063)]]
 - Originates from [[step_087 (phase_007)]]
@@ -272,7 +267,6 @@ Has map to lost treasure
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00078 Qadim Goldleaf]
 - [[#Erasmus Crystalbrook (Professional - Employer)|Erasmus Crystalbrook (Professional - Employer)]]
 - [[#Pyria Grimholt (Personal - Best friend)|Pyria Grimholt (Personal - Best friend)]]
 
-
 ---
 aliases: ["Qadim Goldleaf", "qadim goldleaf", "Goldleaf Qadim"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.120Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -175,9 +170,9 @@ Needs discrete help with family scandal
 - Requires [[Quest2 (01_Adventures)]]
 - Requires [[ENC0050_Random_Encounter_51]]
 - Originates from [[LOC00296_Cities_Location_297]]
-- Affected by [[step_064]]
+- Affected by
 - Compare with [[ITEM00578_Mithril_Plate_of_Resistance]]
-- Compare with [[step_026]]
+- Compare with
 - See also: [[04_Resources_Assets_Symbols_symbol-heraldry-the-umbral-exchange-the-umbral-exchange.svg]]
 - Compare with [[Emergency Protocol Omega]]
 - Originates from [[Temple of the Gods Xge]]
@@ -185,7 +180,7 @@ Needs discrete help with family scandal
 - Leads to [[ENC00279_Combat_Encounter_280]]
 - See also: [[Assets Locations Location City Registry Keeper Mordecai Truthbane V1 Registry Keeper Mordecai Truthbane.svg]]
 - Originates from [[step_028 (phase_066)]]
-- Parallels [[step_059]]
+- Parallels
 - Leads to [[step_008 (phase_074)]]
 - Affected by [[step_078 (phase_057)]]
 - Affected by [[ENC00158_Environmental_Encounter_159]]
@@ -198,7 +193,7 @@ Needs discrete help with family scandal
 - Requires [[QUEST0018_The_Sunken_Temple_Uprising]]
 - Connects to [[step_099 (phase_022)]]
 - See also: [[DUN00052_Dungeon_53]]
-- See also: [[step_067]]
+- See also:
 - Influences [[QUEST0063_The_Sunken_Temple_War]]
 - Affected by [[LOC00251_Cities_Location_252]]
 - Compare with [[River of Hungry Flame]]
@@ -211,10 +206,10 @@ Needs discrete help with family scandal
 - Requires [[Crystal Plague Infected NPCs (D&D_References)]]
 - Related: [[step_050 (phase_044)]]
 - Originates from [[Portrait NPC Archon Meredith Saltweaver V2 Archon Meredith Saltweaver.svg]]
-- Connects to [[step_069]]
-- Leads to [[step_024]]
+- Connects to
+- Leads to
 - Influences [[step_076 (phase_072)]]
-- Leads to [[step_024]]
+- Leads to
 - See also: [[SPELL00138_Divine_Spell_139]]
 - Originates from [[Mara Ironlun]]
 - Affected by [[step_064 (phase_058)]]
@@ -222,7 +217,7 @@ Needs discrete help with family scandal
 - Compare with [[ENC00271_Combat_Encounter_272]]
 - Requires [[Seeds of the Past]]
 - Leads to [[the-outer-planes-outer-planes-xphb (tables)]]
-- Leads to [[step_034]]
+- Leads to
 - Originates from [[Blanket Xphb]]
 - Related: [[02_Worldbuilding_Items_Divination_Tools]]
 - Connects to [[step_032 (phase_039)]]
@@ -236,7 +231,7 @@ Needs discrete help with family scandal
 - Parallels [[step_077 (phase_066)]]
 - Originates from [[LOC00290_Towns_Location_291]]
 - Parallels [[travel-pace-phb (tables)]]
-- Connects to [[step_002]]
+- Connects to
 - Influences [[ITEM00516_Warded_Boots_of_the_Guardian]]
 - Affected by [[INV-006 (02_Worldbuilding)]]
 - Parallels [[Whisper Jack 2]]
@@ -244,14 +239,14 @@ Needs discrete help with family scandal
 - Influences [[NPC00097_Lyanna_Jadeclaw]]
 - Parallels [[charm-of-darkvision-xdmg (rewards)]]
 - Related: [[step_012 (phase_090)]]
-- Affected by [[step_025]]
+- Affected by
 - Related: [[step_003 (phase_059)]]
 - Leads to [[Influence Detector]]
 - Requires [[step_080 (phase_084)]]
 - Originates from [[Ancestor Memorial Spaces]]
 - See also: [[Dr Coral Mindmend]]
 - Requires [[Sack Xphb]]
-- Requires [[step_013]]
+- Requires
 - Influences [[Historical Research 2]]
 - Compare with [[Icon of Ravenloft Cos]]
 - See also: [[Senator Morticia Graveheart (D&D_References)]]
@@ -267,7 +262,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
 ![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

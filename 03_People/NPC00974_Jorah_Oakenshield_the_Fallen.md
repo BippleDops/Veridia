@@ -9,7 +9,6 @@ aliases: [NPC00974 Jorah Oakenshield the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00974 Jorah Oakenshield the Fallen]
 - [[#Urien Silverleaf the Wise (Criminal - Target)|Urien Silverleaf the Wise (Criminal - Target)]]
 - [[#Gareth Youngblood the Bold (Political - Opposition)|Gareth Youngblood the Bold (Political - Opposition)]]
 - [[#Delara Frostwhisper the Broken (Political - Opposition)|Delara Frostwhisper the Broken (Political - Opposition)]]
-
 
 ---
 aliases: ["Jorah Oakenshield the Fallen", "jorah oakenshield the fallen", "Jorah Oakenshield Fallen", "Fallen the Oakenshield Jorah"]
@@ -148,21 +146,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.224Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -185,7 +179,7 @@ Seeks rare merchandise
 - Related: [[Reality Distortion]]
 - Connects to [[Reality Anchor Ring]]
 - Related: [[Assets Locations Location City Master Chef Coral Seasweaver Master Chef Coral Seasweaver.svg]]
-- Originates from [[step_051]]
+- Originates from
 - Requires [[Depth Guard 3 (D&D_References)]]
 - Parallels [[LOC00080_Dungeons_Location_81]]
 - Affected by [[LOC00138_Planes_Location_139]]
@@ -206,7 +200,7 @@ Seeks rare merchandise
 - Originates from [[elven-tethrin-veralde-mtf (deities)]]
 - Parallels [[Guild Master Copper (Guilds)]]
 - Requires [[LOC0021_Bridgeford]]
-- Connects to [[step_052]]
+- Connects to
 - Leads to [[sacred-statue-mpmm (construct)]]
 - Related: [[astral-projection-xphb (spells)]]
 - Related: [[NPC01740_Nerys_Blackstone_the_Risen]]
@@ -221,7 +215,7 @@ Seeks rare merchandise
 - Connects to [[Assets Vehicles Vehicle Ship Aether Sail Testbed Aether Sail Testbed.svg]]
 - Related: [[zephyr-strike-xge (spells)]]
 - Related: [[ITEM00669_Mithril_Boots_of_the_Guardian]]
-- Requires [[step_093]]
+- Requires
 - Connects to [[NPC01941_Cedric_Blackstone_the_Redeemed]]
 - Related: [[Wind Riders Union]]
 - Leads to [[SPELL0003_Mystic_Bolt]]
@@ -244,7 +238,7 @@ Seeks rare merchandise
 - Influences [[Commercial Archives]]
 - Parallels [[The Restoration Movement]]
 - Requires [[step_064 (phase_063)]]
-- Leads to [[step_069]]
+- Leads to
 - See also: [[NPC01146_Orion_Zephyrblade_the_Wise]]
 - Requires [[LORE00214_Legends_Entry_215]]
 - Compare with [[Portrait NPC High Priestess Celeste V1 High Priestess Celeste.svg_1 (Portraits)]]
@@ -260,7 +254,7 @@ Seeks rare merchandise
 - Parallels [[step_063 (phase_093)]]
 - Leads to [[NPC00618_Aldric_Stormwind_the_Redeemed]]
 - Related: [[QUEST00241_Personal_Quest_242]]
-- Compare with [[step_095]]
+- Compare with
 - Originates from [[River of Hungry Flame]]
 - See also: [[ballista-xdmg (objects)]]
 - Requires [[NPC00884_Idris_Grimholt_the_Redeemed]]

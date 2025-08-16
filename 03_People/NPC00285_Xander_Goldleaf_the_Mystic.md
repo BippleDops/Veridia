@@ -18,7 +18,6 @@ aliases: [NPC00285 Xander Goldleaf the Mystic]
 - [[#Rhiannon Moonshadow the Seeker (Political - Puppet)|Rhiannon Moonshadow the Seeker (Political - Puppet)]]
 - [[#Felicia Xendar the Lost (Personal - Best friend)|Felicia Xendar the Lost (Personal - Best friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Goldleaf the Mystic", "xander goldleaf the mystic", "Xander Goldleaf Mystic", "Mystic the Goldleaf Xander"]
@@ -139,16 +138,13 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.144Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -167,11 +163,10 @@ Needs discrete help with family scandal
 - [[NPC01789_Vesper_Proudmore_the_Mystic]]
 - [[11 Rules Glossary]]
 - [[NPC00372_Alaric_Grimholt]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -180,17 +175,16 @@ Needs discrete help with family scandal
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Requires [[step_017 (phase_041)]]
 - Affected by [[lizardfolk-geomancer-xmm (elemental)]]
-- Leads to [[step_049]]
+- Leads to
 - Requires [[LOC00037_Wilderness_Location_38]]
 - See also: [[banderhobb-mpmm (monstrosity)]]
 - Parallels [[Portrait NPC Underground Testing Facility V2 Underground Testing Facility.svg]]
@@ -201,20 +195,20 @@ Needs discrete help with family scandal
 - See also: [[ITEM00357_Frost_Crossbow_of_Wounding]]
 - Requires [[Captain Garrett Stormcutter (D&D_References)]]
 - Parallels [[QUEST00124_Personal_Quest_125]]
-- Affected by [[step_021]]
+- Affected by
 - Parallels [[Assets Locations Location City International Void Treaties V1 International Void Treaties.svg]]
 - Requires [[Blackrazor Xdmg]]
 - Influences [[The Forgotten One]]
 - Connects to [[Tinderstrike Pota]]
 - Leads to [[Religious Service Xge]]
 - See also: [[hill-giant-xmm (giant)]]
-- Related: [[step_080]]
+- Related:
 - Parallels [[Assets Locations Location City the Crystal Caverns V1 the Crystal Caverns.svg]]
 - Originates from [[step_034 (phase_070)]]
 - Requires [[Yolandes Regal Presence Xphb]]
 - Requires [[SHOP00019_Specialty_Shop_20]]
 - Parallels [[step_031 (phase_032)]]
-- Affected by [[step_032]]
+- Affected by
 - Leads to [[step_057 (phase_049)]]
 - Affected by [[list-spells-classes-eldritch-knight-xphb (lists)]]
 - Parallels [[Location City Gatekeeper Iron Lung Boris V1 Gatekeeper Iron Lung Boris.svg]]
@@ -223,7 +217,7 @@ Needs discrete help with family scandal
 - Originates from [[step_080 (phase_012)]]
 - Compare with [[lute-xphb (items)]]
 - See also: [[Assets Locations Location City Living Stone Living Stone.svg]]
-- Affected by [[step_071]]
+- Affected by
 - Affected by [[Assets Portraits Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg]]
 - Connects to [[step_062 (phase_088)]]
 - Influences [[Trident of Fish Command Xdmg]]
@@ -234,7 +228,7 @@ Needs discrete help with family scandal
 - Influences [[step_001 (phase_044)]]
 - Connects to [[Assets Locations Location City Artisan Felix Reefwright V1 Artisan Felix Reefwright.svg]]
 - Parallels [[step_092 (phase_085)]]
-- Compare with [[step_008]]
+- Compare with
 - Connects to [[sailor-xphb (backgrounds)]]
 - Related: [[enspelled-staff-level-1-xdmg (items)]]
 - Leads to [[Location City Mad Prophet Silas the Depth Touched Mad Prophet Silas the Depth Touched.svg]]
@@ -250,7 +244,7 @@ Needs discrete help with family scandal
 - Leads to [[detect-evil-and-good-xphb (spells)]]
 - Affected by [[QUEST0051_Hunt_the_Tyrant]]
 - Leads to [[QUEST00243_Personal_Quest_244]]
-- Compare with [[step_005]]
+- Compare with
 - Leads to [[step_058 (phase_068)]]
 - Parallels [[ENC00184_Environmental_Encounter_185]]
 - Influences [[Heritage Archiv 2]]
@@ -279,7 +273,7 @@ Needs discrete help with family scandal
 - Requires [[DUN00016_Dungeon_17]]
 - Compare with [[Location City International Relations V1 International Relations.svg]]
 - Parallels [[step_048 (phase_093)]]
-- See also: [[step_064]]
+- See also:
 - Influences [[SPELL00162_Divine_Spell_163]]
 - Influences [[step_022 (phase_089)]]
 - Related: [[Location City the Whisper Island Mystery V1 the Whisper Island Mystery.png]]
@@ -293,7 +287,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

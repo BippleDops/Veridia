@@ -18,7 +18,6 @@ aliases: [NPC00010 Lyanna Grimholt]
 - [[#Hilda Youngblood (Criminal - Accomplice)|Hilda Youngblood (Criminal - Accomplice)]]
 - [[#Alaric Ravenheart (Personal - Childhood friend)|Alaric Ravenheart (Personal - Childhood friend)]]
 
-
 ---
 aliases: ["Lyanna Grimholt", "lyanna grimholt", "Grimholt Lyanna"]
 tags: [npc, character]
@@ -148,21 +147,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.111Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -174,7 +169,7 @@ Needs discrete help with family scandal
 - Connects to [[Assets Portraits Portrait NPC the Pearl Heist the Pearl Heist.svg]]
 - Connects to [[Void Realm Territories 2]]
 - Related: [[The Great Cacophony 2]]
-- Originates from [[step_095]]
+- Originates from
 - Influences [[Assets Locations Location City the Living Weapon V1 the Living Weapon.svg]]
 - Requires [[power-word-kill-xphb (spells)]]
 - Related: [[step_068 (phase_009)]]
@@ -183,7 +178,7 @@ Needs discrete help with family scandal
 - Parallels [[Portrait NPC Archdruid Thornweaver V1 Archdruid Thornweaver.svg_1 (Portraits)]]
 - Parallels [[The Shadow Singer Naia (D&D_Statblocks)]]
 - Requires [[Charisma Check Conversation Reaction]]
-- Originates from [[step_016]]
+- Originates from
 - Influences [[Colonial Administration (D&D_References)]]
 - Leads to [[gift-of-the-ever-living-ones-xge (optional-features)]]
 - Connects to [[Memory Reconstruction Headset]]
@@ -223,10 +218,10 @@ Needs discrete help with family scandal
 - Compare with [[The Final Confrontation 2]]
 - Connects to [[ENC00257_Combat_Encounter_258]]
 - Related: [[Reality Anchor Installation]]
-- Leads to [[step_037]]
+- Leads to
 - Related: [[LOC00035_Planes_Location_36]]
 - Requires [[alexandrite-xdmg (items)]]
-- Originates from [[step_012]]
+- Originates from
 - Requires [[New Location]]
 - Connects to [[step_026 (phase_012)]]
 - Leads to [[step_011 (phase_005)]]
@@ -245,7 +240,7 @@ Needs discrete help with family scandal
 - Affected by [[step_036 (phase_016)]]
 - Related: [[Wave Merchant 2]]
 - Originates from [[Location City Merchant Prince Goldwind Crysalborn V1 Merchant Prince Goldwind Crysalborn.svg]]
-- Parallels [[step_010]]
+- Parallels
 - Parallels [[Noble Quarter Council Chambers]]
 - Compare with [[The Administrative Palace]]
 - Leads to [[INV-004 (D&D_References)]]
@@ -271,7 +266,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

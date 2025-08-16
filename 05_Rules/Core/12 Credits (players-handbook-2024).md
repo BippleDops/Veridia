@@ -18,7 +18,6 @@ aliases: [12 Credits (players-handbook-2024)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 12 Credits (players-handbook-2024)
@@ -49,7 +48,7 @@ tags:
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 
-created: 
+created:
 *The air carries the scent of [appropriate smell].*2025-07-23 12:39
 modified: '2025-08-14'
 status: active
@@ -66,11 +65,9 @@ world: Both
 
 - A prisoner has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Ancient magic still lingers here
@@ -101,8 +98,7 @@ world: Both
 Connected to the main villain's plan
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -111,7 +107,6 @@ Connected to the main villain's plan
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -131,10 +126,10 @@ Connected to the main villain's plan
 - Leads to [[Portrait NPC the Royal Treasury Depths V1 the Royal Treasury Depths.svg]]
 - Leads to [[horseshoes-of-speed-xdmg (items)]]
 - Leads to [[ITEM00757_Celestial_Scepter_of_the_Gods]]
-- Leads to [[step_058]]
+- Leads to
 - Requires [[step_001 (phase_027)]]
 - Connects to [[Kraken Spaw]]
-- Requires [[step_017]]
+- Requires
 - Leads to [[Trade Regulations]]
 - Influences [[Symbol Heraldry Har... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Influences [[Bottled Breath Pota]]
@@ -148,7 +143,7 @@ Connected to the main villain's plan
 - Affected by [[Random_Event_Generator]]
 - Influences [[step_055 (phase_010)]]
 - Affected by [[step_100 (phase_035)]]
-- See also: [[step_090]]
+- See also:
 - Originates from [[step_061 (phase_059)]]
 - Affected by [[Assets Locations Location City Service Levels Service Levels.svg]]
 - Compare with [[MON00014_Undead_Creature_15]]
@@ -165,7 +160,7 @@ Connected to the main villain's plan
 - Requires [[conditions#Blinded]]
 - Requires [[Portrait NPC the Pearl Guard V1 the Pearl Guard.svg]]
 - Parallels [[The Fusion Laboratory]]
-- Connects to [[step_002]]
+- Connects to
 - Influences [[ITEM00045_Blazing_Staff_of_Power]]
 - Connects to [[QUEST00272_Personal_Quest_273]]
 - Influences [[FAC00071_Guilds_72]]
@@ -181,7 +176,7 @@ Connected to the main villain's plan
 - Parallels [[Assets Portraits Portrait NPC Abyssos Prime Government Abyssos Prime Government.svg]]
 - See also: [[Depth_Adapted_Background.md]]
 - Related: [[step_069 (phase_097)]]
-- See also: [[Charter of  Rights]]
+- See also: [[Charter of Rights]]
 - Originates from [[Captain Trawl Netcaster (D&D_References)]]
 - See also: [[Doors Door Type]]
 - Compare with [[Assets Art Tavern Keeper Finn Splitlung.png]]
@@ -189,7 +184,7 @@ Connected to the main villain's plan
 - Parallels [[Assets Locations Location City Artificers Consortium V1 Artificers Consortium.svg]]
 - Related: [[Bloodied Xphb]]
 - Connects to [[NPC01338_Ysara_Brightblade_the_Seeker]]
-- Related: [[step_054]]
+- Related:
 - See also: [[LORE00216_History_Entry_217]]
 - Requires [[Cross-Realm Trade Trends]]
 - Connects to [[Assets Locations Location City Family Portrait Family Portrait.svg]]
@@ -206,7 +201,7 @@ Connected to the main villain's plan
 - Related: [[QUEST00080_Personal_Quest_81]]
 - Parallels [[Relationship Web Nuances 2]]
 - Leads to [[LOC00120_Dungeons_Location_121]]
-- Connects to [[step_041]]
+- Connects to
 - Requires [[Assets Portraits Portrait NPC Shadow Binding Sanctum Shadow Binding Sanctum.svg]]
 - Compare with [[step_091 (phase_026)]]
 - Requires [[New NPC]]

@@ -9,7 +9,6 @@ aliases: [NPC00649 Corvus Zephyrblade the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00649 Corvus Zephyrblade the Broken]
 - [[#Jorah Ashford the Swift (Family - Spouse)|Jorah Ashford the Swift (Family - Spouse)]]
 - [[#Branwen Voidwalker the Fallen (Professional - Partner)|Branwen Voidwalker the Fallen (Professional - Partner)]]
 - [[#Caelum Thornweave the Guardian (Professional - Rival)|Caelum Thornweave the Guardian (Professional - Rival)]]
-
 
 ---
 created: 2025-08-15
@@ -155,16 +153,13 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.186Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -195,11 +190,10 @@ Discovered something valuable
 - [[08 Using Ability Scores]]
 - [[16 Credits]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -207,18 +201,17 @@ Discovered something valuable
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Originates from [[Surface Contacts (D&D_References)]]
 - Affected by [[LOC00024_Wilderness_Location_25]]
 - Requires [[05-chapter-5-neverlight-grove (out-of-the-abyss)]]
-- Connects to [[step_003]]
+- Connects to
 - Originates from [[Crown of Tidal Sovereignty (D&D_References)]]
 - Related: [[SPELL00030_Nature_Spell_31]]
 - Influences [[step_027 (phase_013)]]
@@ -237,7 +230,7 @@ Discovered something valuable
 - Originates from [[step_033 (phase_031)]]
 - Compare with [[EVENT00089_Magical_Event_90]]
 - Related: [[LOC00104_Planes_Location_105]]
-- See also: [[step_078]]
+- See also:
 - Connects to [[gold-bracelet-xdmg (items)]]
 - Influences [[the-six-abilities-ability-descriptions-xphb (tables)]]
 - Influences [[Royal Chaplain Magnus Goldcurrent]]
@@ -249,7 +242,7 @@ Discovered something valuable
 - Influences [[Void Prophet Nullus the Erased 2]]
 - Originates from [[step_055 (phase_061)]]
 - Parallels [[Cube of Summoning Xdmg]]
-- Connects to [[step_005]]
+- Connects to
 - Affected by [[SPELL00026_Divine_Spell_27]]
 - See also: [[step_010 (phase_069)]]
 - Parallels [[Session 08 the Stellar Convergence]]
@@ -265,12 +258,12 @@ Discovered something valuable
 - Affected by [[ITEM01181_Distilled_Oil_of_Swiftness]]
 - Leads to [[Twilight Born 2]]
 - Originates from [[Oil of Etherealness Xdmg]]
-- Requires [[step_044]]
+- Requires
 - Leads to [[Bone Naga Xmm]]
 - Leads to [[downtime-activity-carousing-xge (variant-rules)]]
 - Influences [[Lords of the Nine Layers and Rulers of the]]
 - Requires [[mind-carapace-armor-vgm (items)]]
-- Requires [[step_037]]
+- Requires
 - Connects to [[Political Immunity Privileges]]
 - Leads to [[location-city-the-deep-patrol-the-deep-patrol.svg]]
 - Affected by [[step_059 (phase_075)]]
@@ -279,7 +272,7 @@ Discovered something valuable
 - Compare with [[Assets Locations Location City Magical Theory Schools V1 Magical Theory Schools.svg]]
 - See also: [[Storm Giant Quintessent Vgm]]
 - Compare with [[Portrait NPC Trade Captain Sterling V2 Trade Captain Sterling.svg]]
-- See also: [[step_006]]
+- See also:
 - Affected by [[Drow Lolth Mtf]]
 - Connects to [[Shadow Saints 2]]
 - Related: [[11 Appendix a Random Dungeons]]
@@ -292,15 +285,15 @@ Discovered something valuable
 - Requires [[MON00032_Undead_Creature_33]]
 - Leads to [[SPELL00136_Arcane_Spell_137]]
 - Affected by [[Assets Art Unite the Recursions.png]]
-- Related: [[step_035]]
+- Related:
 - Originates from [[Criminal Organizations (D&D_References)]]
 - Related: [[08-using-ability-scores#Dexterity]]
 - Leads to [[QUEST00400_Side_Quest_401]]
 - See also: [[Assets Locations Location City the Deepmost Current the Deepmost Current.svg]]
-- Influences [[step_065]]
+- Influences
 - Parallels [[hellfire-engine-mpmm (construct)]]
 - Requires [[NPC01386_Brenna_Thornweave_the_Lost]]
-- Influences [[step_013]]
+- Influences
 - Compare with [[eye-agate-xdmg (items)]]
 - Compare with [[step_047 (phase_025)]]
 - Requires [[04_Places_The_Outfitters_Shop]]
@@ -309,11 +302,11 @@ Discovered something valuable
 - Affected by [[NPC01621_Gavril_Darkwater_the_Broken]]
 - Parallels [[Random_Loot (02_Worldbuilding)]]
 - Leads to [[MON00117_Constructs_Creature_118]]
-- Influences [[step_090]]
+- Influences
 - Parallels [[step_055 (phase_053)]]
 - Affected by [[The Pressure Wars 2]]
 - Compare with [[The Drowning 3 (D&D_References)]]
-- Leads to [[step_075]]
+- Leads to
 - Affected by [[5-halflings-and-gnomes (mordenkainens-tome-of-foes)]]
 
 ## Plot Hooks

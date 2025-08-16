@@ -18,7 +18,6 @@ aliases: [NPC01060 Faelyn Winterborn the Wanderer]
 - [[#Wynne Ironwood the Swift (Family - Parent)|Wynne Ironwood the Swift (Family - Parent)]]
 - [[#Malakai Keenblade the Redeemed (Personal - Ex-lover)|Malakai Keenblade the Redeemed (Personal - Ex-lover)]]
 
-
 ---
 aliases: ["Faelyn Winterborn the Wanderer", "faelyn winterborn the wanderer", "Faelyn Winterborn Wanderer", "Wanderer the Winterborn Faelyn"]
 tags: [npc, character]
@@ -141,21 +140,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.232Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -167,7 +162,7 @@ Has map to lost treasure
 - Influences [[maddening-darkness-xge]]
 - Influences [[NPC00033_Caelum_Underhill]]
 - Leads to [[NPC00356_Ewan_Grimholt_the_Redeemed]]
-- Compare with [[step_054]]
+- Compare with
 - Influences [[ice-devil-xmm (fiend)]]
 - Leads to [[LOC00237_Wilderness_Location_238]]
 - Parallels [[Mirror Image Xphb]]
@@ -202,9 +197,9 @@ Has map to lost treasure
 - Related: [[Intelligence Processing Center]]
 - Affected by [[ENC00448_Combat_Encounter_449]]
 - Leads to [[step_062 (phase_060)]]
-- Requires [[step_045]]
+- Requires
 - Leads to [[SHOP00057_Magical_Shop_58]]
-- Leads to [[step_044]]
+- Leads to
 - Requires [[Crystal_Corruption (03_Mechanics)]]
 - Originates from [[NPC00120_Hestara_Zephyrblade]]
 - Influences [[Assets Locations Location City Sylvanheart Sylvanheart.svg]]
@@ -264,7 +259,6 @@ Has map to lost treasure
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

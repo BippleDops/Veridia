@@ -18,7 +18,6 @@ aliases: [NPC00326 Qadim Lightbringer]
 - [[#Caelum Voidwalker the Fallen (Professional - Rival)|Caelum Voidwalker the Fallen (Professional - Rival)]]
 - [[#Aldric Youngblood (Family - Parent)|Aldric Youngblood (Family - Parent)]]
 
-
 ---
 aliases: ["Qadim Lightbringer", "qadim lightbringer", "Lightbringer Qadim"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.149Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -201,7 +196,7 @@ Needs discrete help with family scandal
 - Influences [[step_040 (phase_006)]]
 - Influences [[SHOP00023_General_Shop_24]]
 - Requires [[Random Yuan Ti Servants Yuan Ti Protectors]]
-- Influences [[step_046]]
+- Influences
 - See also: [[The Floating Markets of Nereidios]]
 - Leads to [[02_Worldbuilding_Lore_GM_Resources]]
 - Leads to [[Aquabyssos-Survival-Mechanics (D&D_References)]]
@@ -230,11 +225,11 @@ Needs discrete help with family scandal
 - Related: [[Ancient Silver Dragon Xmm]]
 - Parallels [[SHOP00057_General_Shop_58]]
 - Leads to [[NPC00135_Rhiannon_Goldleaf]]
-- Connects to [[step_037]]
+- Connects to
 - Connects to [[Portrait NPC King Marcus Lumengarde V1 King Marcus Lumengarde.svg]]
 - Influences [[Storm of Eternal Lightning]]
 - Connects to [[Assets Locations Location City Taverner Bubbles Mcgill Taverner Bubbles Mcgill.svg]]
-- Connects to [[step_088]]
+- Connects to
 - Originates from [[City Watch]]
 - Originates from [[Mind Shield Helm 2]]
 - See also: [[step_005 (phase_005)]]
@@ -244,7 +239,7 @@ Needs discrete help with family scandal
 - Connects to [[Portrait NPC Intelligence Services Intelligence Services.svg_1 (Portraits)]]
 - See also: [[step_012 (phase_068)]]
 - Related: [[ENC00143_Environmental_Encounter_144]]
-- Leads to [[step_023]]
+- Leads to
 - See also: [[step_053 (phase_028)]]
 - Parallels [[step_003 (phase_022)]]
 - Originates from [[The Inverse Palace 2]]
@@ -274,7 +269,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [02-step-by-step-characters (players-handbook-2014)]
 - [[#Prep Checklist|Prep Checklist]]
 - [[#Npcs Needed|Npcs Needed]]
 
-
 ---
 
 title: 02-step-by-step-characters (players-handbook-2014)
@@ -124,36 +123,29 @@ world: Both
 - **Reddit r/Unearthed Arcana**: Community discussions
 - **One D&D Playtest**: D&D Beyond exclusive
 
-
 ## Notes
 
 *Additional notes*
-
 
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 > [!dm] DM Note
 > This location connects to the main plot
@@ -184,8 +176,7 @@ world: Both
 Holds a clue about the ancient prophecy
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -195,11 +186,10 @@ Holds a clue about the ancient prophecy
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -219,10 +209,10 @@ Holds a clue about the ancient prophecy
 ## Connections
 
 - Compare with [[list-spells-optional-features-eldritch-sight (lists)]]
-- Influences [[step_027]]
+- Influences
 - Related: [[Otilukes Freezing Sphere Xphb]]
-- Requires [[step_006]]
-- Parallels [[step_054]]
+- Requires
+- Parallels
 - See also: [[Forest Encounters Levels 14 Xge]]
 - Related: [[Thermal Truth Detector]]
 - Connects to [[Spell Scroll Level 5 Xdmg]]
@@ -241,8 +231,8 @@ Holds a clue about the ancient prophecy
 - Related: [[step_029 (phase_078)]]
 - Leads to [[FAC00002_Guilds_3]]
 - Related: [[Vehicles - Merger Hybrid Vehicles]]
-- Leads to [[step_074]]
-- Parallels [[step_002]]
+- Leads to
+- Parallels
 - Influences [[step_051 (phase_079)]]
 - Originates from [[location-city-royal-vault-v1-royal-vault.svg]]
 - Connects to [[forgotten-realms-tyr (deities)]]
@@ -258,7 +248,7 @@ Holds a clue about the ancient prophecy
 - See also: [[starting-equipment-starting-wealth-by-class-phb]]
 - See also: [[Portrait NPC High Chamberlain Nautilus Deepcurrent V2 High Chamberlain Nautilus Deepcurrent.svg]]
 - Influences [[EVENT00062_Natural_Event_63]]
-- Requires [[step_084]]
+- Requires
 - Requires [[Sky_Events_Pack_B]]
 - Compare with [[chrysoprase-xdmg (items)]]
 - Parallels [[Kelp Highway Security Forces]]
@@ -267,16 +257,16 @@ Holds a clue about the ancient prophecy
 - See also: [[Portrait NPC Reflection Pools V2 Reflection Pools.svg_1 (Portraits)]]
 - Leads to [[step_056 (phase_080)]]
 - Parallels [[LOC00161_Dungeons_Location_162]]
-- Leads to [[step_020]]
+- Leads to
 - Connects to [[Portrait NPC Archbishop Mordecai Stormwright V2 Archbishop Mordecai Stormwright.svg_1 (Portraits)]]
 - Related: [[NPC01843_Branwen_Jadeclaw_the_Fallen]]
 - Originates from [[Location City Entertainment Industry Entertainment Industry.svg]]
-- Related: [[step_012]]
+- Related:
 - Connects to [[portrait-npc-the-soul-market-the-soul-market.svg]]
 - Influences [[LOC00044_Towns_Location_45]]
 - Compare with [[Nonhuman Deep Sashelas]]
 - Related: [[Dr Tidal Depth]]
-- Parallels [[step_035]]
+- Parallels
 - Leads to [[step_060 (phase_070)]]
 - Requires [[Rules Reference]]
 - See also: [[Ancient Pacts 2]]
@@ -287,7 +277,7 @@ Holds a clue about the ancient prophecy
 - Related: [[bat-xmm (beast)]]
 - Originates from [[Campaign Guide]]
 - Compare with [[step_038 (phase_050)]]
-- Related: [[step_028]]
+- Related:
 - Leads to [[LOC00153_Planes_Location_154]]
 - Influences [[NPC01729_Kaelen_Dawnstrider_the_Fallen]]
 - Originates from [[LORE00115_Prophecies_Entry_116]]
@@ -296,7 +286,7 @@ Holds a clue about the ancient prophecy
 - Parallels [[Quest - The Final Tide 2]]
 - Originates from [[Crystal Addiction Victims (D&D_References)]]
 - Influences [[QUEST00215_Personal_Quest_216]]
-- See also: [[step_044]]
+- See also:
 - Requires [[NPC01000_Zephyr_Keenblade_the_Fallen]]
 - Originates from [[Location City Deep Studycurrent Deep Studycurrent.svg]]
 - Connects to [[Portrait NPC Quest the Divine Test V2 Quest the Divine Test.svg]]
@@ -306,7 +296,7 @@ Holds a clue about the ancient prophecy
 - Influences [[Council Speaker Tide 2]]
 - Originates from [[step_052 (phase_028)]]
 - Compare with [[Marina Currentflow]]
-- Originates from [[step_056]]
+- Originates from
 - Related: [[Location Name (D&D_References)]]
 - See also: [[step_020 (phase_027)]]
 - Affected by [[Assets Locations Location City Martha Hillbrook Martha Hillbrook.svg]]

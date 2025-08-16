@@ -18,7 +18,6 @@ aliases: [NPC00622 Dara Ironwood the Fallen]
 - [[#Thalia Jadeclaw the Bold (Family - Spouse)|Thalia Jadeclaw the Bold (Family - Spouse)]]
 - [[#Orion Voidwalker the Bold (Family - Sibling)|Orion Voidwalker the Bold (Family - Sibling)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Dara Ironwood the Fallen", "dara ironwood the fallen", "Dara Ironwood Fallen", "Fallen the Ironwood Dara"]
@@ -149,27 +148,23 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.183Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -178,11 +173,10 @@ Being extorted by criminals
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -231,7 +225,7 @@ Being extorted by criminals
 - Leads to [[Professor Depth Biologist 2]]
 - Compare with [[Tidal Council (D&D_References)]]
 - Related: [[Quest Index 2]]
-- See also: [[step_003]]
+- See also:
 - Affected by [[Wind Songs 2]]
 - Compare with [[Location City Scream Saturation Scream Saturation Rules.svg]]
 - Leads to [[step_054 (phase_018)]]
@@ -280,7 +274,7 @@ Being extorted by criminals
 - Compare with [[creature-creature-allip-mpmm-v1-allip-mpmm.png]]
 - Originates from [[Institute_of_Aquatic_Mysticism (02_Worldbuilding)]]
 - Requires [[Maintenance Tech Reef Fixwright (D&D_References)]]
-- Affected by [[step_079]]
+- Affected by
 - Parallels [[Senator Bartholomew Bonewright 2]]
 - Requires [[NPC0115_Katarina_Goldleaf_the_Mad]]
 - Requires [[ITEM00635_Fortified_Cloak_of_Resistance]]
@@ -291,7 +285,6 @@ Being extorted by criminals
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

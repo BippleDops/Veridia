@@ -9,7 +9,6 @@ aliases: [NPC00839 Brenna Silverleaf the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00839 Brenna Silverleaf the Cunning]
 - [[#Faelyn Nightfall the Lost (Criminal - Target)|Faelyn Nightfall the Lost (Criminal - Target)]]
 - [[#Cedric Ironwood the Risen (Criminal - Target)|Cedric Ironwood the Risen (Criminal - Target)]]
 - [[#Faelyn Keenblade the Swift (Personal - Love interest)|Faelyn Keenblade the Swift (Personal - Love interest)]]
-
 
 ---
 aliases: ["Brenna Silverleaf the Cunning", "brenna silverleaf the cunning", "Brenna Silverleaf Cunning", "Cunning the Silverleaf Brenna"]
@@ -155,21 +153,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.208Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -190,13 +184,13 @@ Has map to lost treasure
 - Related: [[LORE00111_Prophecies_Entry_112]]
 - Related: [[Scene Scene Deep Mother S Tentacles Rising V2 Deep Mother S Tentacles Rising.png]]
 - Compare with [[2-character-options 2 (xanathars-guide-to-everything)]]
-- Related: [[step_076]]
+- Related:
 - Compare with [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
 - Originates from [[Shadow Timeline Lysara]]
 - See also: [[NPC01600_Ewan_Zephyrblade_the_Guardian]]
 - Originates from [[Biomancer Corvus Intestinal (Lore)]]
 - Leads to [[Infected Experiments]]
-- Affected by [[step_090]]
+- Affected by
 - Parallels [[Sir Ruben Redtape (D&D_References)]]
 - Connects to [[Assets Locations Location City Specimen Careful Lifeguard V1 Specimen Careful Lifeguard.svg]]
 - Related: [[step_079 (phase_087)]]
@@ -215,11 +209,11 @@ Has map to lost treasure
 - Connects to [[FAC00085_Orders_86]]
 - Parallels [[Undead Rights Organization HQ]]
 - Related: [[Location_Network_Graph]]
-- Related: [[step_093]]
-- Compare with [[step_086]]
+- Related:
+- Compare with
 - Originates from [[Nobody-Named-Marcus]]
 - Affected by [[The Deep Temple (D&D_References)]]
-- Originates from [[step_039]]
+- Originates from
 - Connects to [[step_020 (phase_023)]]
 - Related: [[ITEM0120_Ancient_Circlet_of_the_Dawn]]
 - Compare with [[FAC00095_Guilds_96]]
@@ -229,9 +223,9 @@ Has map to lost treasure
 - Affected by [[Assets Locations Location City Luna Shimmerleaf V1 Luna Shimmerleaf.svg]]
 - Affected by [[Npc Secrets Xdmg]]
 - Originates from [[The Balance Keeper]]
-- Influences [[step_093]]
+- Influences
 - Requires [[Salvage Master Ironwork]]
-- Connects to [[step_054]]
+- Connects to
 - Leads to [[Gastn Flambheart]]
 - Parallels [[Portrait NPC Doctor Helena Voidwalker V1 Doctor Helena Voidwalker.svg]]
 - Compare with [[Hewards Handy Haversack Xdmg]]
@@ -250,7 +244,7 @@ Has map to lost treasure
 - Affected by [[step_044 (phase_060)]]
 - See also: [[NPC01719_Elric_Jadeclaw_the_Redeemed]]
 - Leads to [[ring-of-djinni-summoning-xdmg (items)]]
-- Compare with [[step_058]]
+- Compare with
 - Originates from [[Location City Port Meridian Harbor District V1 Port Meridian Harbor District.svg]]
 - Parallels [[Template-Combat-Encounter]]
 - Parallels [[friendly-attitude-xphb (variant-rules)]]
@@ -266,7 +260,7 @@ Has map to lost treasure
 - Originates from [[step_049 (phase_076)]]
 - Related: [[NPC00326_Qadim_Lightbringer]]
 - Compare with [[Thunder Step Xge]]
-- Originates from [[step_098]]
+- Originates from
 - Related: [[step_021 (phase_098)]]
 - Leads to [[misty-step-xphb (spells)]]
 - Influences [[LORE00292_Legends_Entry_293]]

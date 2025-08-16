@@ -18,7 +18,6 @@ aliases: [NPC01576 Erasmus Jadeclaw the Lost]
 - [[#Pyria Darkwater the Seeker (Criminal - Target)|Pyria Darkwater the Seeker (Criminal - Target)]]
 - [[#Aldric Frostwhisper the Wanderer (Political - Puppet)|Aldric Frostwhisper the Wanderer (Political - Puppet)]]
 
-
 ---
 aliases: ["Erasmus Jadeclaw the Lost", "erasmus jadeclaw the lost", "Erasmus Jadeclaw Lost", "Lost the Jadeclaw Erasmus"]
 tags: [npc, character]
@@ -153,25 +152,21 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.287Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Connects to [[step_054]]
+- Connects to
 - Parallels [[Navigator Flux 2]]
 - Leads to [[QUEST00409_Side_Quest_410]]
 - Parallels [[ITEM00121_Shadow_Spear_of_Speed]]
@@ -180,7 +175,7 @@ Has information about legendary item
 - Connects to [[Anti-Corruption Task Force 2]]
 - Connects to [[portrait-npc-emperor-emperor.svg]]
 - Parallels [[NPC01551_Hilda_Emberfall_the_Swift]]
-- Parallels [[step_085]]
+- Parallels
 - Parallels [[Portrait NPC the Northern Kingdoms V1 the Northern Kingdoms.svg_1 (Portraits)]]
 - Related: [[SPELL00165_Divine_Spell_166]]
 - Requires [[The Depth Hierarchy 2]]
@@ -192,8 +187,8 @@ Has information about legendary item
 - Influences [[Using a Map Map Travel Pace]]
 - Requires [[Prophetic Studies Institute]]
 - Leads to [[step_082 (phase_027)]]
-- Connects to [[step_079]]
-- Influences [[step_025]]
+- Connects to
+- Influences
 - Compare with [[LOC00259_Planes_Location_260]]
 - Related: [[step_035 (phase_014)]]
 - Requires [[NPC01130_Vesper_Oakenshield_the_Mystic]]
@@ -209,9 +204,9 @@ Has information about legendary item
 - Originates from [[DUN00187_Dungeon_188]]
 - Related: [[Shawm Xphb]]
 - Compare with [[Investigate Shadow Surgeons]]
-- Requires [[step_094]]
+- Requires
 - Influences [[list-spells-feats-telepathic-xphb (lists)]]
-- Parallels [[step_083]]
+- Parallels
 - Requires [[Continuity Protocol 2]]
 - Related: [[Dock Boss Marina Irongrip (D&D_References)]]
 - Influences [[step_075 (phase_065)]]
@@ -241,7 +236,7 @@ Has information about legendary item
 - Influences [[LOC00153_Planes_Location_154]]
 - Affected by [[NPC00623_Dara_Oakenshield_the_Wanderer]]
 - Leads to [[location-city-crystal-singers-crystal-singers.svg]]
-- Originates from [[step_067]]
+- Originates from
 - Connects to [[step_002 (phase_023)]]
 - Affected by [[The Healing Voids]]
 - Originates from [[Symbol Heraldry Que... Related To: Local Political Structure Connected Plots: to Be Developed]]
@@ -263,7 +258,7 @@ Has information about legendary item
 - Compare with [[Symbol Heraldry Shadow Conspiracy Investigation V1 Shadow Conspiracy Investigation.png]]
 - Requires [[NPC00984_Hilda_Xendar_the_Wise]]
 - Influences [[Noble Quarter (D&D_Statblocks)]]
-- Requires [[step_098]]
+- Requires
 - Compare with [[Fey Spirit Fuming Xphb]]
 - Requires [[improvised-damage-xdmg]]
 - Originates from [[secondary-tables-punishment-xge (tables)]]
@@ -276,7 +271,6 @@ Has information about legendary item
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

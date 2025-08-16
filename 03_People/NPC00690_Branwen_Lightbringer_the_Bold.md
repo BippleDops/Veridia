@@ -18,7 +18,6 @@ aliases: [NPC00690 Branwen Lightbringer the Bold]
 - [[#Alaric Nightfall the Swift (Political - Patron)|Alaric Nightfall the Swift (Political - Patron)]]
 - [[#Wynne Silverleaf the Wise (Criminal - Target)|Wynne Silverleaf the Wise (Criminal - Target)]]
 
-
 ---
 aliases: ["Branwen Lightbringer the Bold", "branwen lightbringer the bold", "Branwen Lightbringer Bold", "Bold the Lightbringer Branwen"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.191Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -201,7 +196,7 @@ Family member has gone missing
 - Related: [[step_059 (phase_063)]]
 - Related: [[Location City the Memory Palace V1 the Memory Palace.svg]]
 - Requires [[seeking-spell-xphb (optional-features)]]
-- Influences [[step_074]]
+- Influences
 - Parallels [[ENC00013_Social_Encounter_14]]
 - Affected by [[step_026 (phase_088)]]
 - Requires [[Location City Cultural Districts Cultural Districts.svg]]
@@ -219,7 +214,7 @@ Family member has gone missing
 - Requires [[Assets Locations Location City Void Contamination V1 Void Contamination.svg]]
 - Originates from [[step_050 (phase_075)]]
 - Affected by [[ENC00084_Social_Encounter_85]]
-- Leads to [[step_001]]
+- Leads to
 - Connects to [[Information Storage Crystals]]
 - Parallels [[Symbol Heraldry the Scream Archives V1 the Scream Archives.svg]]
 - See also: [[item-properties (CLI_Reference)]]
@@ -228,7 +223,7 @@ Family member has gone missing
 - See also: [[ITEM00280_Venomous_Staff_of_Power]]
 - Connects to [[carnelian-xdmg (items)]]
 - Affected by [[LOC00248_Planes_Location_249]]
-- Compare with [[step_096]]
+- Compare with
 - Originates from [[Clues by Location (D&D_References)]]
 - Originates from [[Crystal Shard]]
 - Influences [[ITEM01409_Practical_Lock_of_Convenience]]
@@ -252,9 +247,9 @@ Family member has gone missing
 - Leads to [[NPC00384_Gavril_Ironwood_the_Fallen]]
 - Originates from [[NPC01205_Wynne_Frostwhisper_the_Scholar]]
 - Requires [[Location City the Constellation Mystery V1 the Constellation Mystery.png]]
-- Affected by [[step_053]]
+- Affected by
 - Requires [[Resource Scarcity Prediction]]
-- Requires [[step_073]]
+- Requires
 - Related: [[FAC00026_Guilds_27]]
 - See also: [[Divine Magic (D&D_References)]]
 - Originates from [[Portrait NPC Castellan Ironledger Iii V2 Castellan Ironledger Iii.svg_1 (Portraits)]]
@@ -266,7 +261,7 @@ Family member has gone missing
 - Leads to [[Blood Current Express (D&D_References)]]
 - See also: [[Portrait NPC Intelligence Services Intelligence Services.svg]]
 - See also: [[step_094 (phase_020)]]
-- Leads to [[step_065]]
+- Leads to
 - Compare with [[step_018 (phase_073)]]
 - Influences [[Assets Locations Location City International Trade Agreements International Trade Agreements.svg]]
 - Parallels [[step_038 (phase_022)]]
@@ -277,7 +272,6 @@ Family member has gone missing
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

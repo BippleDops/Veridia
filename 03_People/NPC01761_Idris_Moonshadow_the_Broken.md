@@ -9,7 +9,6 @@ aliases: [NPC01761 Idris Moonshadow the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01761 Idris Moonshadow the Broken]
 - [[#Corvus Goldleaf the Broken (Political - Opposition)|Corvus Goldleaf the Broken (Political - Opposition)]]
 - [[#Solas Youngblood the Seeker (Professional - Rival)|Solas Youngblood the Seeker (Professional - Rival)]]
 - [[#Rhiannon Stormwind the Bold (Political - Opposition)|Rhiannon Stormwind the Bold (Political - Opposition)]]
-
 
 ---
 created: 2025-08-15
@@ -146,16 +144,13 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.307Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -183,11 +178,10 @@ Offers deal too good to refuse
 - [[Parliament of Shadows Player Guide.md]]
 - [[NPC01594_Fiora_Proudmore_the_Seeker]]
 - [[NPC01057_Pyria_Quicksilver_the_Scholar]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -197,15 +191,14 @@ Offers deal too good to refuse
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- Originates from [[step_037]]
+- Originates from
 - Affected by [[[[Wandering Prophet Coral Stormrider]] (D&D_References)]]
 - Leads to [[SPELL00136_Nature_Spell_137]]
 - Leads to [[step_031 (phase_079)]]
@@ -218,10 +211,10 @@ Offers deal too good to refuse
 - Influences [[step_025 (phase_089)]]
 - See also: [[Assets Locations [[Location City [[The Drowning Truth]] V1 the Drowning Truth.svg]]]]
 - Originates from [[step_028 (phase_024)]]
-- Compare with [[step_033]]
+- Compare with
 - Connects to [[Shadow Energy Processing Facilities 2]]
 - Compare with [[Derro Mpmm]]
-- Parallels [[step_003]]
+- Parallels
 - Compare with [[LORE00276_History_Entry_277]]
 - Leads to [[Faction Interaction Rules]]
 - See also: [[step_099 (phase_016)]]
@@ -238,14 +231,14 @@ Offers deal too good to refuse
 - Connects to [[NPC01052_Idris_Brightblade_the_Mystic]]
 - Influences [[step_018 (phase_086)]]
 - Influences [[Coastal Encounters Levels 510 Xge]]
-- Parallels [[step_029]]
+- Parallels
 - Originates from [[Sister Astara the Ever-Watching 2]]
-- Leads to [[step_016]]
+- Leads to
 - Connects to [[instrument-of-the-bards-xdmg (items)]]
 - Connects to [[Magic Initiate Xphb]]
 - Compare with [[MON00147_Undead_Creature_148]]
 - Parallels [[NPC0107_Beatrix_Goldleaf]]
-- Originates from [[step_080]]
+- Originates from
 - Connects to [[Minister Nightpolicy]]
 - Connects to [[MON00073_Constructs_Creature_74]]
 - Compare with [[[[Lord Reginald Seaworthy]] (D&D_References)]]
@@ -272,9 +265,9 @@ Offers deal too good to refuse
 - Compare with [[Surface Syndicate (D&D_References)]]
 - Compare with [[step_092 (phase_055)]]
 - See also: [[Animations - Motion_Specs]]
-- Compare with [[step_045]]
+- Compare with
 - Leads to [[Goristro Xmm]]
-- Connects to [[step_074]]
+- Connects to
 - Affected by [[List Spells Optional Features Dreadful Word]]
 - Connects to [[Memory Whales 2]]
 - See also: [[ITEM00751_Ancient_Mirror_of_Dominion]]

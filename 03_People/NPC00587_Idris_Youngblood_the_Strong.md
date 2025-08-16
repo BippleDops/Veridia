@@ -18,7 +18,6 @@ aliases: [NPC00587 Idris Youngblood the Strong]
 - [[#Vesper Lightbringer the Seeker (Political - Ally)|Vesper Lightbringer the Seeker (Political - Ally)]]
 - [[#Aeliana Silverleaf the Seeker (Personal - Love interest)|Aeliana Silverleaf the Seeker (Personal - Love interest)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Idris Youngblood the Strong", "idris youngblood the strong", "Idris Youngblood Strong", "Strong the Youngblood Idris"]
@@ -157,16 +156,13 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.180Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -185,11 +181,10 @@ Witnessed a crime
 - [[Propaganda_Leaflet_Pearl_Guar]]
 - [[NPC00881_Qadim_Voidwalker_the_Strong]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -198,11 +193,10 @@ Witnessed a crime
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -220,7 +214,7 @@ Witnessed a crime
 - Affected by [[EVENT00042_Political_Event_43]]
 - Related: [[step_096 (phase_092)]]
 - Influences [[QUEST00149_Side_Quest_150]]
-- Influences [[step_035]]
+- Influences
 - Originates from [[Investigation Techniques]]
 - Requires [[step_014 (phase_018)]]
 - Parallels [[Assign Ability Scores Standard Array by]]
@@ -236,10 +230,10 @@ Witnessed a crime
 - Leads to [[Elena Brightmemory]]
 - Parallels [[Dr. Marina Coralheart - Shadow (People)]]
 - See also: [[Harbor Master's Tower]]
-- See also: [[step_019]]
+- See also:
 - Compare with [[elven-gadhelyn-mtf (deities)]]
 - See also: [[Portrait NPC Reflection Pools V2 Reflection Pools.svg]]
-- See also: [[step_045]]
+- See also:
 - See also: [[ENC00106_Social_Encounter_107]]
 - Parallels [[Memory Trader]]
 - Requires [[boots-of-elvenkind-xdmg (items)]]
@@ -265,7 +259,7 @@ Witnessed a crime
 - Affected by [[Zephyr Goldwhisper]]
 - Leads to [[Ω_System-CLI-spells-school-divination]]
 - Requires [[Maw Demon Mpmm]]
-- Originates from [[step_008]]
+- Originates from
 - Influences [[Assets Locations Location City International Void Treaties V1 International Void Treaties.svg]]
 - Affected by [[Assets Locations Location City the Banker Fish V1 the Banker Fish.svg]]
 - Requires [[First Officer Marina Depthcurrent (D&D_References)]]
@@ -273,7 +267,7 @@ Witnessed a crime
 - Influences [[ITEM00645_Ethereal_Leather_of_the_Guardian]]
 - Parallels [[Shadow Conspiracy Investigation]]
 - See also: [[QUEST00328_Side_Quest_329]]
-- Parallels [[step_069]]
+- Parallels
 - Affected by [[ENC00165_Social_Encounter_166]]
 - Originates from [[downtime-activity-selling-magic-items (variant-rules)]]
 - Parallels [[Assets Locations Location City the Harbor Guild V1 the Harbor Guild.svg]]
@@ -283,7 +277,7 @@ Witnessed a crime
 - Affected by [[Weather Sage Ancient Tempest]]
 - Leads to [[Improvising Damage Damage Severity and Level]]
 - Parallels [[Portrait NPC Nerissa Deepcurrent V2 Nerissa Deepcurrent.svg]]
-- Originates from [[step_028]]
+- Originates from
 - Leads to [[greyhawk-erythnul-xdmg (deities)]]
 - Related: [[list-spells-classes-psi-warrior-xphb (lists)]]
 - Compare with [[LOC00203_Towns_Location_204]]
@@ -297,7 +291,7 @@ Witnessed a crime
 - Requires [[ENC00190_Combat_Encounter_191]]
 - Connects to [[physical-characteristics-beholder-teeth-shape-vgm]]
 - Originates from [[NPC01624_Corvus_Silverleaf_the_Redeemed]]
-- Originates from [[step_002]]
+- Originates from
 - Originates from [[Charm Person Xphb]]
 - Compare with [[Location City Administrative Wing Administrative Wing.svg]]
 - Connects to [[Mechanics Depth Corruption System]]
@@ -311,7 +305,6 @@ Witnessed a crime
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

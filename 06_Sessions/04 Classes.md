@@ -18,7 +18,6 @@ aliases: [04 Classes]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 04 Classes
@@ -47,7 +46,7 @@ tags:
 created: 2025-08-11
 modified: '2025-08-14'
 status: active
-updated: 
+updated:
 *Sounds of [relevant sounds] echo in the distance.*'2025-08-13T12:34:05.213612+00:00'
 world: Both
 
@@ -57,11 +56,9 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Ancient magic still lingers here
@@ -129,9 +126,7 @@ Knows the location of a key artifact
 - [[Master_Narrative_Web.md]]
 - [[Sage Elara]]
 - [[Dockworker_Union_Flyer.md]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -157,7 +152,6 @@ Following magic item guidelines (WWT p.135-136):
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## D&D 5e References
 
 *(Combat rules: ACX p.189-198)*
@@ -177,17 +171,17 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[step_051 (phase_053)]]
 - Affected by [[portrait-npc-sirens-sirens.svg_1 (Portraits)]]
 - See also: [[LOC00142_Wilderness_Location_143]]
-- Originates from [[step_093]]
-- Leads to [[step_017]]
+- Originates from
+- Leads to
 - Affected by [[ITEM00180_Blazing_Axe_of_the_Ancients]]
-- Parallels [[step_015]]
-- Requires [[step_006]]
+- Parallels
+- Requires
 - Compare with [[step_036 (phase_094)]]
 - Connects to [[Assets Item Artifact Travelers Clothes Xphb V6 Travelers Clothes Xphb.png]]
 - Compare with [[The Convergence Seekers]]
 - Influences [[SPELL00145_Divine_Spell_146]]
 - See also: [[step_051 (phase_044)]]
-- See also: [[step_064]]
+- See also:
 - Leads to [[Location City the Resonant Hermit V1 the Resonant Hermit.svg]]
 - Leads to [[portrait-npc-senator-marius-v2-senator-marius.svg_1 (Portraits)]]
 - Affected by [[Cultural Exchange Cente]]
@@ -196,7 +190,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Shape Shifting Xphb]]
 - Originates from [[step_068 (phase_007)]]
 - Leads to [[NPC00786_Jorah_Underhill_the_Risen]]
-- Affected by [[step_009]]
+- Affected by
 - Requires [[Location City Guardian Neutralwatch V1 Guardian Neutralwatch.svg]]
 - Related: [[Shape Water Xge]]
 - Connects to [[Captain Trawl Netcaster]]
@@ -204,8 +198,8 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[step_034 (phase_049)]]
 - Influences [[Deep Biology Institute 2]]
 - See also: [[Assets Locations Location City Time Lost Delegate Chronus Time Lost Delegate Chronus.svg]]
-- Compare with [[step_042]]
-- Requires [[step_076]]
+- Compare with
+- Requires
 - Parallels [[step_060 (phase_028)]]
 - Parallels [[step_015 (phase_041)]]
 - Affected by [[The Umbral Exchange]]
@@ -239,7 +233,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[Eastern Kingdom 2]]
 - Leads to [[step_037 (phase_045)]]
 - Requires [[step_026 (phase_011)]]
-- Related: [[step_058]]
+- Related:
 - Originates from [[Student Prime Coral]]
 - See also: [[step_098 (phase_022)]]
 - Affected by [[Ultimate_GM_Screen]]
@@ -252,17 +246,17 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Resonance Bomb (D&D_References)]]
 - See also: [[MON0029_Crystal_Devourer]]
 - Connects to [[SPELL00046_Arcane_Spell_47]]
-- Connects to [[step_054]]
+- Connects to
 - Parallels [[Roleplaying a Yuan Ti Yuan Ti Personality]]
 - See also: [[SPELL00032_Divine_Spell_33]]
 - Requires [[Egyptian Thoth]]
-- Leads to [[step_092]]
+- Leads to
 - Affected by [[QUEST00058_Side_Quest_59]]
 - Related: [[dragonlance-sargonnas-phb (deities)]]
 - Leads to [[Location City Crystalline Wastes V1 Crystalline Wastes.svg]]
 - Influences [[step_064 (phase_022)]]
 - Connects to [[NPC00171_Aldric_Winterborn_the_Mystic]]
-- See also: [[step_010]]
+- See also:
 - Leads to [[Portrait NPC Captain Thaddeus Blackwater Captain Thaddeus Blackwater.svg]]
 - Compare with [[step_058 (phase_067)]]
 - Affected by [[Healer Dawnshade 2]]

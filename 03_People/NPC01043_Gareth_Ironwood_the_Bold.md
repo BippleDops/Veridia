@@ -18,7 +18,6 @@ aliases: [NPC01043 Gareth Ironwood the Bold]
 - [[#Ysara Silverleaf the Strong (Political - Spy)|Ysara Silverleaf the Strong (Political - Spy)]]
 - [[#Wynne Stormwind the Broken (Political - Opposition)|Wynne Stormwind the Broken (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gareth Ironwood the Bold", "gareth ironwood the bold", "Gareth Ironwood Bold", "Bold the Ironwood Gareth"]
@@ -145,27 +144,23 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.231Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -174,11 +169,10 @@ Caravan needs guards
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -214,17 +208,17 @@ Caravan needs guards
 - Influences [[step_014 (phase_063)]]
 - Parallels [[NPC00961_Hestara_Proudmore_the_Cunning]]
 - Requires [[QUEST0061_Negotiate_with_the_Pirates]]
-- Originates from [[step_100]]
+- Originates from
 - Influences [[step_073 (phase_093)]]
 - Compare with [[Portrait NPC Merchant Captain Trade V2 Merchant Captain Trade.svg]]
 - Requires [[Royal Commerce Commission]]
 - Originates from [[Forgotten Realms Talona]]
 - Affected by [[Liche 2]]
-- See also: [[step_046]]
+- See also:
 - Connects to [[Supply Chain Disruption]]
 - Connects to [[ENC00266_Combat_Encounter_267]]
 - Compare with [[Portrait NPC Quest the Missing Guards V2 Quest the Missing Guards.svg]]
-- Related: [[step_087]]
+- Related:
 - Affected by [[step_006 (phase_024)]]
 - Related: [[LORE00282_History_Entry_283]]
 - Leads to [[Resonance Cascade Attack 2]]
@@ -241,20 +235,20 @@ Caravan needs guards
 - Originates from [[Assets Handouts Handout Handout Privateer Letter of Marque Privateer Letter of Marque.png]]
 - Related: [[step_066 (phase_026)]]
 - Compare with [[yuan-ti-malison-type-5-vgm]]
-- Requires [[step_014]]
+- Requires
 - Originates from [[step_034 (phase_077)]]
 - Requires [[step_015 (phase_011)]]
 - See also: [[EVENT00001_Magical_Event_2]]
 - Compare with [[gnome-baravar-cloakshadow-mtf (deities)]]
 - Originates from [[step_046 (phase_076)]]
 - Affected by [[Merchant Prince Aurelius Goldhand]]
-- Compare with [[step_096]]
+- Compare with
 - Related: [[step_016 (phase_060)]]
 - Parallels [[step_060 (phase_012)]]
 - Originates from [[step_037 (phase_039)]]
-- Leads to [[step_001]]
-- See also: [[step_084]]
-- Influences [[step_035]]
+- Leads to
+- See also:
+- Influences
 - Affected by [[LOC0006_OldHaven]]
 - Affected by [[step_009 (phase_056)]]
 - See also: [[Original Glaucus]]
@@ -266,7 +260,7 @@ Caravan needs guards
 - Originates from [[Communications Master Signal Cryptkeeper 2]]
 - Compare with [[step_090 (phase_026)]]
 - Originates from [[step_087 (phase_074)]]
-- Parallels [[step_064]]
+- Parallels
 - Compare with [[step_005 (phase_023)]]
 - Parallels [[SPELL00101_Arcane_Spell_102]]
 - Requires [[NPC00699_Pyria_Darkwater_the_Wise]]
@@ -287,7 +281,6 @@ Caravan needs guards
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

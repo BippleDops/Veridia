@@ -76,13 +76,13 @@ world: Both
 "skillsaves": "Stealth": !!int "7" "Perception": !!int "5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\ \ nonmagical weapons"
 "damage_immunities": "poison"
-"condition_immunities": "[[Conditions]]"
+"condition_immunities": "[[05_Rules/Conditions]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "9"
 "traits":
 - "desc": "The yek has advantage on saving throws against spells and other magical\ \ effects." "name": "Magic Resistance"
-- "desc": "The yek has advantage on attack rolls against a creature if at least one\ \ of the yek's allies is within 5 feet of the creature and the ally isn't [[Conditions]]." "name": "Pack Tactics"
+- "desc": "The yek has advantage on attack rolls against a creature if at least one\ \ of the yek's allies is within 5 feet of the creature and the ally isn't [[05_Rules/Conditions]]." "name": "Pack Tactics"
 
 "actions":
 - "desc": "The alpha yek makes one bite attack and two claw attacks. It can make a\ \ bone shard attack in place of a claw attack if it has a bone shard available." "name": "Multiattack"
@@ -99,7 +99,6 @@ world: Both
 
 > This practice sometimes spreads to merely rapacious and opportunistic armies seeking an edge. For instance, in a controversial move, the armies of the Dragon Empire have begun using yek as shock troops, summoning the fiends behind enemy lines and letting them do the dirty work.
 ^yek-demons-as-mercenaries ## Environment any ## Player-Facing Summary Custom Homebrew Monster is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Custom Homebrew Monster as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Custom Homebrew Monster. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

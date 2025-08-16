@@ -18,7 +18,6 @@ aliases: [NPC01831 Alaric Frostwhisper the Scholar]
 - [[#Caelum Dawnstrider the Strong (Criminal - Target)|Caelum Dawnstrider the Strong (Criminal - Target)]]
 - [[#Zephyr Lightbringer the Mystic (Family - Parent)|Zephyr Lightbringer the Mystic (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Alaric Frostwhisper the Scholar", "alaric frostwhisper the scholar", "Alaric Frostwhisper Scholar", "Scholar the Frostwhisper Alaric"]
@@ -157,16 +156,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.315Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -206,9 +202,7 @@ Is secretly testing the party
 - [[MOC_Items]]
 - [[Master_Narrative_Web.md]]
 - [[Party_Inventory]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -226,7 +220,7 @@ Following magic item guidelines (WWT p.135-136):
 - Tasha's Mystical Formulae of Everything (TMF) p.190
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -236,11 +230,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -252,13 +245,13 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Portrait NPC Enforcer Chief Mako Ironjaw V1 Enforcer Chief Mako Ironjaw.svg_1 (Portraits)]]
 - Originates from [[Portrait NPC Queen Glacialis V1 Queen Glacialis.svg_1 (Portraits)]]
 - Compare with [[step_033 (phase_023)]]
-- Related: [[step_036]]
+- Related:
 - Related: [[Cultural Heritage Center]]
 - Connects to [[Forgotten Realms Tempus]]
 - Compare with [[Gnome Flandal Steelskin Mtf]]
 - See also: [[step_003 (phase_036)]]
 - Influences [[physical-variations-yuan-ti-tongue-color-vgm (tables)]]
-- Requires [[step_018]]
+- Requires
 - Compare with [[step_057 (phase_041)]]
 - Connects to [[Location City Sea Witches Coven Sea Witches Coven.svg]]
 - Leads to [[step_011 (phase_084)]]
@@ -266,7 +259,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[dawn-war-moradin-dmg (deities)]]
 - Originates from [[Blade Ward Xphb]]
 - Influences [[step_027 (phase_062)]]
-- Parallels [[step_066]]
+- Parallels
 - Related: [[SPELL00092_Arcane_Spell_93]]
 - Compare with [[10 combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]]
 - See also: [[Goldwave Academy]]
@@ -291,12 +284,12 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[LOC00021_Towns_Location_22]]
 - See also: [[NPC00786_Jorah_Underhill_the_Risen]]
 - See also: [[Assets Handouts Handout Handout Cult Text with Marginalia V3 Cult Text with Marginalia.png]]
-- Requires [[step_044]]
+- Requires
 - Compare with [[ether-cyclones (tables)]]
 - See also: [[Marina Administration Center]]
 - Influences [[enspelled-weapon-level-6-xdmg (items)]]
 - Influences [[Religious Purists 2]]
-- Leads to [[step_065]]
+- Leads to
 - Connects to [[LOC00247_Cities_Location_248]]
 - Connects to [[roleplaying-an-orc-orc-personality-traits-vgm (tables)]]
 - Parallels [[Sacred Historian Coral Deepscribe 2]]
@@ -325,7 +318,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[LOC00178_Planes_Location_179]]
 - Connects to [[LOC00112_Wilderness_Location_113]]
 - Originates from [[greyhawk-tharizdun-xdmg (deities)]]
-- Compare with [[step_099]]
+- Compare with
 - See also: [[Resonant Starcrystal]]
 - Parallels [[aquamarine-xdmg (items)]]
 - Requires [[High Priest Dagon Deepcaller]]
@@ -335,7 +328,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Vehicle Ship Coral Frame Diver Tender Coral Frame Diver Tender.svg]]
 - Requires [[Barlgura Xmm]]
 - Leads to [[Sentinel Constructs (D&D_References)]]
-- Influences [[step_050]]
+- Influences
 - Leads to [[step_024 (phase_099)]]
 - Influences [[Location City the Wandering Atoll V1 the Wandering Atoll.svg]]
 - Compare with [[Assets Locations Location City the Great Sky Harbor the Great Sky Harbor.svg]]
@@ -349,7 +342,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

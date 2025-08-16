@@ -18,7 +18,6 @@ aliases: [NPC01939 Orion Nightfall the Bold]
 - [[#Aldric Proudmore the Risen (Family - Parent)|Aldric Proudmore the Risen (Family - Parent)]]
 - [[#Dara Zephyrblade the Scholar (Personal - Nemesis)|Dara Zephyrblade the Scholar (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Orion Nightfall the Bold", "orion nightfall the bold", "Orion Nightfall Bold", "Bold the Nightfall Orion"]
@@ -151,16 +150,13 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.326Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -218,11 +214,10 @@ Provides information for a price
 - [[Session_Recaps]]
 - [[10 Combat]]
 - [[MOC_Lore]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -231,11 +226,10 @@ Provides information for a price
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -265,7 +259,7 @@ Provides information for a price
 - Connects to [[EVENT00034_Natural_Event_35]]
 - Parallels [[Academic Institutions]]
 - Compare with [[The Coral Throne Syndicate (D&D_References)]]
-- Influences [[step_091]]
+- Influences
 - Requires [[LOC00033_Wilderness_Location_34]]
 - See also: [[Location City Pressure Brewing Technology Pressure Brewing Technology.svg]]
 - Related: [[ITEM00219_Shadow_Crossbow_of_the_Ancients]]
@@ -281,7 +275,7 @@ Provides information for a price
 - See also: [[step_037 (phase_017)]]
 - Requires [[step_045 (phase_036)]]
 - See also: [[QUEST00158_Main_Quest_159]]
-- Connects to [[step_012]]
+- Connects to
 - Connects to [[Silent Image Xphb]]
 - Requires [[Lord Chancellor Prism Valdrick (D&D_References)]]
 - Compare with [[FAC00025_Guilds_26]]
@@ -321,19 +315,19 @@ Provides information for a price
 - Related: [[Location City Military Families Support V1 Military Families Support Groups.png]]
 - Related: [[Stop the Crystal Festival Ritual (D&D_Statblocks)]]
 - Connects to [[step_023 (phase_082)]]
-- Parallels [[step_083]]
+- Parallels
 - Influences [[LOC0092_EastGrove]]
 - Originates from [[conditions#frightened]]
 - Compare with [[ENC00230_Combat_Encounter_231]]
 - Originates from [[Shadow Demons]]
-- Influences [[step_080]]
+- Influences
 - Connects to [[step_064 (phase_074)]]
 - Parallels [[LORE00180_Prophecies_Entry_181]]
 - Compare with [[Temple of Divine Order]]
 - Related: [[Crimson Hand Strike Team]]
 - Related: [[List Spells Optional Features Mask of Many]]
-- Originates from [[step_052]]
-- Connects to [[step_069]]
+- Originates from
+- Connects to
 - Affected by [[list-spells-classes-oathbreaker-dmg (lists)]]
 - Requires [[list-spells-backgrounds-quandrix-student-scc (lists)]]
 - Affected by [[ITEM00157_Blazing_Dagger_of_Wounding]]
@@ -344,7 +338,6 @@ Provides information for a price
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

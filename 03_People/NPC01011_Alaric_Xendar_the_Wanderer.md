@@ -18,7 +18,6 @@ aliases: [NPC01011 Alaric Xendar the Wanderer]
 - [[#Brenna Proudmore the Seeker (Personal - Childhood friend)|Brenna Proudmore the Seeker (Personal - Childhood friend)]]
 - [[#Caelum Jadeclaw the Redeemed (Criminal - Target)|Caelum Jadeclaw the Redeemed (Criminal - Target)]]
 
-
 ---
 aliases: ["Alaric Xendar the Wanderer", "alaric xendar the wanderer", "Alaric Xendar Wanderer", "Wanderer the Xendar Alaric"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.228Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -192,15 +187,15 @@ Caravan needs guards
 - Related: [[Void Prophet Nullus the Erased (D&D_References)]]
 - Parallels [[NPC0005_Fiora_Stormwind]]
 - Influences [[step_094 (phase_054)]]
-- Connects to [[step_065]]
+- Connects to
 - Compare with [[Barkeep Salty Sarah (D&D_References)]]
-- See also: [[step_064]]
+- See also:
 - Originates from [[LOC00127_Planes_Location_128]]
 - See also: [[NPC01009_Jorah_Ravenheart_the_Mystic]]
 - Leads to [[step_072 (phase_040)]]
 - Influences [[training-complications-xge (tables)]]
 - Connects to [[Quest - Stop the Awakening 2]]
-- Compare with [[step_098]]
+- Compare with
 - Connects to [[Aethermoor World Guide (Lore)]]
 - Requires [[Brewing Potions of Healing Potion of Healing Creation Xge]]
 - Related: [[Duke Aldric Blackwater]]
@@ -213,7 +208,7 @@ Caravan needs guards
 - Influences [[Tide Welcomeheart 2]]
 - See also: [[high-jump-xphb (variant-rules)]]
 - Connects to [[War Caster Xphb]]
-- Parallels [[step_091]]
+- Parallels
 - Leads to [[FAC00008_Guilds_9]]
 - Parallels [[step_020 (phase_064)]]
 - Compare with [[step_088 (phase_049)]]
@@ -254,7 +249,7 @@ Caravan needs guards
 - Affected by [[The Outer Planes Outer Planes Xphb]]
 - Leads to [[LOC0117_NewBridge]]
 - Originates from [[step_063 (phase_027)]]
-- Affected by [[step_059]]
+- Affected by
 - Compare with [[Arcane Master Voidweav (D&D_References)]]
 - Connects to [[High Tide Celebrant Coral Festivus]]
 - Parallels [[LOC00128_Dungeons_Location_129]]
@@ -273,7 +268,6 @@ Caravan needs guards
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

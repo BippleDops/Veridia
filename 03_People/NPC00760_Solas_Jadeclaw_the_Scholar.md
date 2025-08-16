@@ -18,7 +18,6 @@ aliases: [NPC00760 Solas Jadeclaw the Scholar]
 - [[#Kaelen Underhill the Fallen (Political - Spy)|Kaelen Underhill the Fallen (Political - Spy)]]
 - [[#Jorah Stormwind the Seeker (Political - Spy)|Jorah Stormwind the Seeker (Political - Spy)]]
 
-
 ---
 aliases: ["Solas Jadeclaw the Scholar", "solas jadeclaw the scholar", "Solas Jadeclaw Scholar", "Scholar the Jadeclaw Solas"]
 tags: [npc, character]
@@ -143,41 +142,37 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.199Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Compare with [[SPELL00059_Divine_Spell_60]]
 - Leads to [[Marquis Benedict Riversen 2]]
-- Leads to [[step_066]]
+- Leads to
 - Compare with [[air-elemental-xmm]]
 - Parallels [[NPC00155_Hilda_Thornweave]]
-- See also: [[step_096]]
+- See also:
 - Originates from [[Memory_Trading_Economy (D&D_References)]]
 - Leads to [[Port Meridian - Market Square (D&D_References)]]
 - Related: [[Location City Whisper Translation V1 Whisper Translation.svg]]
-- Related: [[step_007]]
+- Related:
 - Parallels [[step_038 (phase_069)]]
 - Originates from [[downtime-activity-carousing-xge (variant-rules)]]
-- Requires [[step_095]]
+- Requires
 - Influences [[feywild-time-warp-xdmg (tables)]]
 - Affected by [[step_004 (phase_053)]]
 - Compare with [[The Memory Mirror]]
-- Related: [[step_059]]
+- Related:
 - Parallels [[Blackwater Estate (D&D_References)]]
 - Affected by [[Item Template (D&D_References)]]
 - See also: [[step_013 (phase_052)]]
@@ -187,13 +182,13 @@ Witnessed a crime
 - See also: [[Portrait NPC Scholar Priest Tidal Memory V2 Scholar Priest Tidal Memory.svg]]
 - See also: [[Assets Item Artifact Travelers Clothes Xphb Travelers Clothes Xphb.png]]
 - Affected by [[Location City the Iron Pits of Malachar the Iron Pits of Malachar.svg]]
-- Influences [[step_003]]
+- Influences
 - Compare with [[Elf Names Male Adult Xge]]
 - Related: [[Scholar_and_Academic_Guide]]
 - Related: [[Random Encounter]]
 - Compare with [[Symbol Heraldry Arcturus Lumenblade Arcturus Lumenblade.svg]]
-- Affected by [[step_009]]
-- Requires [[step_027]]
+- Affected by
+- Requires
 - Influences [[step_045 (phase_073)]]
 - See also: [[Pair of Engraved Bone Dice Xdmg]]
 - Originates from [[Creatures Gallery]]
@@ -201,7 +196,7 @@ Witnessed a crime
 - Compare with [[FAC00085_Guilds_86]]
 - Parallels [[Geas Xphb]]
 - Affected by [[ENC00195_Combat_Encounter_196]]
-- Originates from [[step_087]]
+- Originates from
 - Leads to [[step_089 (phase_006)]]
 - Influences [[step_091 (phase_026)]]
 - Parallels [[Magic Items Awarded by Level Xdmg]]
@@ -214,11 +209,11 @@ Witnessed a crime
 - Requires [[step_080 (phase_064)]]
 - Leads to [[step_074 (phase_042)]]
 - Connects to [[ITEM00988_Concentrated_Powder_of_Swiftness]]
-- Affected by [[step_087]]
+- Affected by
 - Parallels [[step_073 (phase_014)]]
 - Affected by [[MON00046_Constructs_Creature_47]]
 - Leads to [[step_033 (phase_007)]]
-- Requires [[step_021]]
+- Requires
 - Requires [[ENC00119_Social_Encounter_120]]
 - Leads to [[step_080 (phase_059)]]
 - Requires [[NPC00182_Urien_Emberfall]]
@@ -234,7 +229,7 @@ Witnessed a crime
 - Related: [[step_020 (phase_097)]]
 - Originates from [[step_061 (phase_078)]]
 - Parallels [[Witch Bolt Xphb]]
-- Parallels [[step_084]]
+- Parallels
 - Affected by [[ITEM00904_Greater_Potion_of_Fortune]]
 - Originates from [[LOC00217_Towns_Location_218]]
 - Requires [[Stench Kow Mpmm]]
@@ -250,7 +245,7 @@ Witnessed a crime
 - Related: [[step_089 (phase_088)]]
 - Compare with [[Priest Faith Crystalsong (D&D_References)]]
 - See also: [[Inter-Realm Trade Protocol 2]]
-- Compare with [[step_040]]
+- Compare with
 - Related: [[ITEM00118_Cursed_Bow_of_Accuracy]]
 - Related: [[Assets Locations Location City the Memory Thief the Memory Thief.svg]]
 - Related: [[step_082 (phase_047)]]
@@ -266,7 +261,6 @@ Witnessed a crime
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

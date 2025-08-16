@@ -18,7 +18,6 @@ aliases: [NPC00739 Gavril Ashford the Bold]
 - [[#Baelor Underhill the Wise (Professional - Partner)|Baelor Underhill the Wise (Professional - Partner)]]
 - [[#Idris Xendar the Wise (Political - Opposition)|Idris Xendar the Wise (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gavril Ashford the Bold", "gavril ashford the bold", "Gavril Ashford Bold", "Bold the Ashford Gavriltags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -139,16 +138,13 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.197Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -192,11 +188,10 @@ Modifications:
 - [[10 Appendix B Creature Stat Blocks]]
 - [[11 Rules Glossary]]
 - [[Count_Strahd_von_Zarovich]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -205,11 +200,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -221,7 +215,7 @@ Modifications:
 - Affected by [[Staff of Withering Xdmg]]
 - Related: [[Geology Specialist Stone Soundshape]]
 - See also: [[step_066 (phase_097)]]
-- Connects to [[step_017]]
+- Connects to
 - Related: [[ENC00252_Social_Encounter_253]]
 - Parallels [[NPC01887_Rhiannon_Stormwind_the_Cunning]]
 - Connects to [[The Memory Walls]]
@@ -234,13 +228,13 @@ Modifications:
 - Compare with [[Artifact_of_the_Ancients]]
 - Connects to [[[[Keeper Thundercall]] 2]]
 - See also: [[[[Ancient Historian Memento]] (D&D_References)]]
-- Connects to [[step_097]]
+- Connects to
 - Influences [[Communications Manager Jessica Spokesperson]]
 - Leads to [[step_052 (phase_027)]]
 - Requires [[Boon of Spell Mastery]]
 - Parallels [[Trade Captain Sterling]]
 - Originates from [[step_081 (phase_032)]]
-- Affected by [[step_078]]
+- Affected by
 - Compare with [[MON00132_Constructs_Creature_133]]
 - Related: [[Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg_1 (Portraits)]]
 - Compare with [[Location City [[Master Gardener Sage Harmony Bloomtender]] V1 Master Gardener Sage Harmony Bloomtender.svg]]
@@ -283,7 +277,7 @@ Modifications:
 - Compare with [[step_097 (phase_063)]]
 - Parallels [[foresight-xphb (spells)]]
 - Leads to [[Currency_Guide_Scrip_and_Shard]]
-- Affected by [[step_017]]
+- Affected by
 - Connects to [[Circlet of Blasting Xdmg]]
 - Compare with [[step_019 (phase_004)]]
 - See also: [[Alternative Healing]]
@@ -318,7 +312,6 @@ Modifications:
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

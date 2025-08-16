@@ -9,7 +9,6 @@ aliases: [NPC00349 Ewan Silverleaf]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00349 Ewan Silverleaf]
 - [[#Hilda Brightblade the Mystic (Family - Child)|Hilda Brightblade the Mystic (Family - Child)]]
 - [[#Malakai Lightbringer the Scholar (Professional - Partner)|Malakai Lightbringer the Scholar (Professional - Partner)]]
 - [[#Pyria Youngblood (Professional - Rival)|Pyria Youngblood (Professional - Rival)]]
-
 
 ---
 aliases: ["Ewan Silverleaf", "ewan silverleaf", "Silverleaf Ewan"]
@@ -152,27 +150,23 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.152Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Leads to [[Island of Scream]]
 - Affected by [[Location City Community Support Networks V1 Community Support Networks.svg]]
-- Affected by [[step_027]]
+- Affected by
 - Leads to [[Vehicle Ship Reson... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Requires [[Locations the Equipment Vaults]]
 - Originates from [[step_007 (phase_017)]]
@@ -213,7 +207,7 @@ Requires champions for trial by combat
 - Affected by [[NPC01647_Zephyr_Crystalbrook_the_Bold]]
 - Leads to [[step_034 (phase_069)]]
 - Leads to [[QUEST00026_Main_Quest_27]]
-- Compare with [[step_076]]
+- Compare with
 - Related: [[step_040 (phase_046)]]
 - Influences [[step_087 (phase_008)]]
 - Requires [[Crystal Fever Random Tables]]
@@ -230,7 +224,7 @@ Requires champions for trial by combat
 - Connects to [[ITEM01203_Greater_Salve_of_Swiftness]]
 - Connects to [[Quest - The Failed Surgery 2]]
 - Affected by [[Item Template (D&D_References)]]
-- Affected by [[step_078]]
+- Affected by
 - Requires [[Assets Locations Location City Culinary Dreamweaver Sage Gentlespice V1 Culinary Dreamweaver Sage Gentlespice.svg]]
 - Parallels [[Elder Things (D&D_References)]]
 - Originates from [[FAC00075_Cults_76]]
@@ -240,7 +234,7 @@ Requires champions for trial by combat
 - Compare with [[Living Reef]]
 - Connects to [[Session Zero Universal Guide]]
 - Affected by [[step_035 (phase_071)]]
-- Leads to [[step_063]]
+- Leads to
 - Parallels [[The Phantom Current]]
 - See also: [[step_059 (phase_082)]]
 - Connects to [[Observation Tender Clara (D&D_References)]]
@@ -259,8 +253,8 @@ Requires champions for trial by combat
 - Parallels [[ITEM00253_Blazing_Axe_of_Slaying]]
 - Originates from [[step_065 (phase_085)]]
 - Originates from [[Keeper Healer Restoration]]
-- See also: [[step_094]]
-- Requires [[step_045]]
+- See also:
+- Requires
 - Influences [[NPC01373_Faelyn_Ravenheart_the_Seeker]]
 - See also: [[LOC00051_Cities_Location_52]]
 - Influences [[step_070 (phase_023)]]

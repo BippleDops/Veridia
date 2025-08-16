@@ -18,7 +18,6 @@ aliases: [NPC00749 Xander Quicksilver]
 - [[#Drusilla Jadeclaw the Lost (Criminal - Handler)|Drusilla Jadeclaw the Lost (Criminal - Handler)]]
 - [[#Rhiannon Crystalbrook the Guardian (Criminal - Fence)|Rhiannon Crystalbrook the Guardian (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Quicksilver", "xander quicksilver", "Quicksilver Xander"]
@@ -151,16 +150,13 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.198Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -179,11 +175,10 @@ Witnessed a crime
 - [[NPC00437_Hilda_Stormwind_the_Mystic]]
 - [[NPC00395_Aeliana_Thornweave]]
 - [[Parliamentary_Voting_Guide]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -193,11 +188,10 @@ Witnessed a crime
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -232,11 +226,11 @@ Witnessed a crime
 - Affected by [[Assets Locations Location City Brother Matthias Inkdrinker Brother Matthias Inkdrinker.svg]]
 - Connects to [[norse-thor (deities)]]
 - Influences [[Economic Interests]]
-- See also: [[step_005]]
+- See also:
 - Compare with [[step_075 (phase_061)]]
 - Related: [[step_089 (phase_090)]]
 - Influences [[Long Official Name]]
-- Compare with [[step_045]]
+- Compare with
 - See also: [[4-monster-lists (monster-manual-2025)]]
 - Influences [[ENC00177_Combat_Encounter_178]]
 - Related: [[Quest - Protect the Truth]]
@@ -264,7 +258,7 @@ Witnessed a crime
 - Related: [[step_068 (phase_071)]]
 - Parallels [[The Living Tide Temples 2]]
 - Requires [[step_011 (phase_087)]]
-- Affected by [[step_035]]
+- Affected by
 - Parallels [[step_096 (phase_066)]]
 - Originates from [[step_038 (phase_068)]]
 - Compare with [[Ioun Stone Mastery Xdmg]]
@@ -272,7 +266,7 @@ Witnessed a crime
 - See also: [[Memory Alteration Mirrors]]
 - Influences [[Player_Absence]]
 - Compare with [[QUEST00082_Personal_Quest_83]]
-- Requires [[step_091]]
+- Requires
 - Originates from [[ENC0043_Random_Encounter_44]]
 - Affected by [[Portrait NPC Quest the Runaway Golem V1 Quest the Runaway Golem.svg]]
 - Originates from [[Community Resource Sharing]]
@@ -299,14 +293,13 @@ Witnessed a crime
 - Leads to [[DUN00104_Dungeon_105]]
 - See also: [[International Trade 2]]
 - Compare with [[list-spells-races-gith-githyanki-mtf (lists)]]
-- Originates from [[step_100]]
+- Originates from
 - Connects to [[Location City Keeper Luminous Crystalbeam V1 Keeper Luminous Crystalbeam.svg]]
 
 ## Visual References
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

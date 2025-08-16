@@ -18,7 +18,6 @@ aliases: [NPC01259 Jorah Blackstone the Scholar]
 - [[#Cedric Zephyrblade the Risen (Professional - Mentor)|Cedric Zephyrblade the Risen (Professional - Mentor)]]
 - [[#Rhiannon Xendar the Mystic (Professional - Rival)|Rhiannon Xendar the Mystic (Professional - Rival)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Jorah Blackstone the Scholar", "jorah blackstone the scholar", "Jorah Blackstone Scholar", "Scholar the Blackstone Jorah"]
@@ -145,27 +144,23 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.253Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -174,11 +169,10 @@ Forming expedition to dangerous location
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -222,13 +216,13 @@ Forming expedition to dangerous location
 - Compare with [[Quest - Medical Conspiracy]]
 - Parallels [[curses-xphb (variant-rules)]]
 - Affected by [[step_011 (phase_078)]]
-- Related: [[step_093]]
+- Related:
 - Leads to [[Crown Dome Conspiracy (D&D_References)]]
 - Influences [[The Great Separation]]
 - Requires [[ENC00139_Social_Encounter_140]]
 - Compare with [[International Peace Organization]]
 - Parallels [[QUEST00159_Side_Quest_160]]
-- Connects to [[step_071]]
+- Connects to
 - See also: [[Assets Item Artifact Poisoners Kit Xphb V6 Poisoners Kit Xphb.png]]
 - Parallels [[gith-mtf (races)]]
 - Affected by [[NPC00203_Qadim_Crystalbrook_the_Strong]]
@@ -238,10 +232,10 @@ Forming expedition to dangerous location
 - Requires [[ox-xdmg (items)]]
 - See also: [[Wise Tide Truthseeker (D&D_References)]]
 - Originates from [[location-city-coral-courts-v1-coral-courts.svg]]
-- Influences [[step_032]]
+- Influences
 - Affected by [[ink-xphb (items)]]
 - Compare with [[Assets Locations Location City Aquabyssos V1 Aquabyssos.svg]]
-- Related: [[step_032]]
+- Related:
 - Affected by [[02_Worldbuilding_Lore_The_Maintenance_Codex]]
 - Related: [[step_030 (phase_016)]]
 - Influences [[step_056 (phase_024)]]
@@ -250,7 +244,7 @@ Forming expedition to dangerous location
 - Compare with [[Assets Locations Location City Acolyte Sister Tidal Deepfaith V1 Acolyte Sister Tidal Deepfaith.svg]]
 - Related: [[grease-xphb (spells)]]
 - Compare with [[Portrait NPC Captain Thalia Stormguard V2 Captain Thalia Stormguard.svg]]
-- Influences [[step_001]]
+- Influences
 - Leads to [[1-introduction 2 (xanathars-guide-to-everything)]]
 - See also: [[NPC00261_Gavril_Jadeclaw]]
 - Parallels [[Quest - Stop the Awakening_1 (01_Adventures)]]
@@ -261,7 +255,7 @@ Forming expedition to dangerous location
 - Originates from [[step_025 (phase_066)]]
 - Influences [[LOC00294_Towns_Location_295]]
 - Leads to [[DUN00012_Dungeon_13]]
-- Originates from [[step_058]]
+- Originates from
 - Influences [[LORE00285_Legends_Entry_286]]
 - Parallels [[Emergency Response Procedures 2]]
 - Parallels [[SHOP00061_General_Shop_62]]
@@ -287,7 +281,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

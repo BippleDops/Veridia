@@ -18,7 +18,6 @@ aliases: [NPC01552 Branwen Lightbringer the Swift]
 - [[#Hilda Blackstone the Wise (Political - Ally)|Hilda Blackstone the Wise (Political - Ally)]]
 - [[#Urien Ashford the Seeker (Family - Spouse)|Urien Ashford the Seeker (Family - Spouse)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Branwen Lightbringer the Swift", "branwen lightbringer the swift", "Branwen Lightbringer Swift", "Swift the Lightbringer Branwentags: [npc, character, combat, magic, exploration, lore]er]
@@ -149,16 +148,13 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.285Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -194,9 +190,7 @@ Modifications:
 - [[Session_Recaps]]
 - [[10 Combat]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -217,7 +211,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.178
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -226,24 +220,23 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Parallels [[The Meridian Amnesia Zone]]
 - See also: [[xvart-mpmm (monstrosity)]]
-- Connects to [[step_069]]
+- Connects to
 - Influences [[[[The Observatory]] of Depths]]
 - Related: [[Submersible_Schematic_Pressure_Gate_Scou]]
 - Related: [[Marquis Storm Tempest]]
 - Leads to [[Arsenal Keeper Thane Ironwill]]
 - Affected by [[Egyptian Ptah]]
 - Related: [[Portrait NPC Reflection Captain Vantage V1 Reflection Captain Vantage.svg]]
-- Influences [[step_068]]
+- Influences
 - Related: [[NPC01107_Kaelen_Lightbringer_the_Swift]]
 - Affected by [[Crystal Forest]]
 - Influences [[The Chronicle Scribes]]
@@ -267,7 +260,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Portrait NPC Otherworldly Patron V1 Otherworldly Patron.svg_1 (Portraits)]]
 - Leads to [[NPC00455_Branwen_Nightfall]]
 - Requires [[Assets Locations [[Location City [[The Wandering Atoll]] V1 the Wandering Atoll.svg]]]]
-- Compare with [[step_083]]
+- Compare with
 - See also: [[Random_Encounters - [[Aquabyssos]] Encounters]]
 - See also: [[EVENT00090_Magical_Event_91]]
 - Compare with [[step_049 (phase_022)]]
@@ -339,7 +332,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

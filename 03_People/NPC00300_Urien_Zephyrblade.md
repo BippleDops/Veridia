@@ -9,7 +9,6 @@ aliases: [NPC00300 Urien Zephyrblade]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00300 Urien Zephyrblade]
 - [[#Pyria Ravenheart the Lost (Personal - Love interest)|Pyria Ravenheart the Lost (Personal - Love interest)]]
 - [[#Ewan Blackstone (Criminal - Accomplice)|Ewan Blackstone (Criminal - Accomplice)]]
 - [[#Thalia Goldleaf (Political - Spy)|Thalia Goldleaf (Political - Spy)]]
-
 
 ---
 created: 2025-08-15
@@ -157,16 +155,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.146Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -192,11 +187,10 @@ Modifications:
 - [[Quick_Start_Guide.md]]
 - [[MOC_Sessions]]
 - [[NPC01201_Felicia_Ironwood_the_Bold]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -204,11 +198,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -223,7 +216,7 @@ Modifications:
 - Influences [[portrait-npc-sire-v1-sire.svg_1 (Portraits)]]
 - See also: [[Infiltrate_Surgical_Facilities.png]]
 - Related: [[meazel-mpmm (monstrosity)]]
-- Connects to [[step_080]]
+- Connects to
 - Connects to [[Crystal-Enhanced Businesses 2]]
 - Leads to [[QUEST00315_Side_Quest_316]]
 - Compare with [[egyptian-bast (deities)]]
@@ -238,9 +231,9 @@ Modifications:
 - See also: [[Ice Mephit Xmm]]
 - Parallels [[Planar Incursions]]
 - Leads to [[step_083 (phase_067)]]
-- Parallels [[step_018]]
+- Parallels
 - Originates from [[step_019 (phase_092)]]
-- Related: [[step_013]]
+- Related:
 - Compare with [[[[Diplomat Supreme International]] (D&D_References)]]
 - Related: [[step_096 (phase_069)]]
 - Compare with [[Conditions_Reference]]
@@ -249,7 +242,7 @@ Modifications:
 - Related: [[Art Brief Database]]
 - Connects to [[step_024 (phase_100)]]
 - Requires [[LOC00196_Cities_Location_197]]
-- Originates from [[step_021]]
+- Originates from
 - Related: [[LORE00210_Prophecies_Entry_211]]
 - Leads to [[Assets Locations [[Location City Political Alliances Political Alliances.svg]]]]
 - Requires [[List Spells Classes Oath of Redemption Xge]]
@@ -266,7 +259,7 @@ Modifications:
 - Requires [[NPC0166_Gareth_Brightblade]]
 - Requires [[#Hubs]]
 - Influences [[Location City [[Master Chef [[Coral Seasweaver]]]] V1 Master Chef Coral Seasweaver.svg]]
-- Related: [[step_010]]
+- Related:
 - Originates from [[gith-tables-githzerai-personality-traits-mtf (tables)]]
 - Compare with [[Shadow Energy Processing Facilities]]
 - Originates from [[Location City [[Archkeeper Nereon]] Archkeeper Nereon.svg]]
@@ -276,15 +269,15 @@ Modifications:
 - See also: [[step_088 (phase_090)]]
 - Connects to [[The Sunken Markets]]
 - See also: [[The Pearl Divers Guil]]
-- Requires [[step_095]]
+- Requires
 - Affected by [[step_009 (phase_033)]]
 - See also: [[Symbol Heraldry the Anonymous Accord V1 the Anonymous Accord.svg]]
 - Affected by [[NPC00565_Qadim_Blackstone_the_Redeemed]]
-- Leads to [[step_027]]
+- Leads to
 - Requires [[LOC0070_Havendale]]
 - Influences [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V2 Keeper of the Shattered Crown Marcus Crystalvein.svg]]
 - See also: [[Cultural Exchange Cente (Groups)]]
-- Parallels [[step_002]]
+- Parallels
 - Related: [[Elf Eladrin Mtf]]
 - Compare with [[02_Worldbuilding_Procedures_Biological_Authentication]]
 - Related: [[Purifier Marcus Steelbane 2]]
@@ -292,7 +285,7 @@ Modifications:
 - Compare with [[SPELL00138_Arcane_Spell_139]]
 - Parallels [[QUEST00381_Side_Quest_382]]
 - Originates from [[Hybrid Abominations (Lore)]]
-- Related: [[step_048]]
+- Related:
 - Influences [[step_036 (phase_028)]]
 - Affected by [[Merfolk (D&D_References)]]
 - Requires [[Random Tricks Trick Objects]]

@@ -9,7 +9,6 @@ aliases: [NPC01333 Gavril Underhill the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01333 Gavril Underhill the Broken]
 - [[#Aldric Winterborn the Scholar (Political - Patron)|Aldric Winterborn the Scholar (Political - Patron)]]
 - [[#Alaric Proudmore the Mystic (Criminal - Target)|Alaric Proudmore the Mystic (Criminal - Target)]]
 - [[#Drusilla Winterborn the Strong (Family - Spouse)|Drusilla Winterborn the Strong (Family - Spouse)]]
-
 
 ---
 aliases: ["Gavril Underhill the Broken", "gavril underhill the broken", "Gavril Underhill Broken", "Broken the Underhill Gavril"]
@@ -159,21 +157,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.262Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -201,12 +195,12 @@ Has information about legendary item
 - Leads to [[Thornweaver the Druid]]
 - Parallels [[NPC00174_Aldric_Silverleaf_the_Fallen]]
 - Influences [[Pets Beholder Lesser Minions Vgm]]
-- Compare with [[step_073]]
+- Compare with
 - Affected by [[list-spells-feats-blessed-warrior-xphb (lists)]]
 - Leads to [[slippers-of-spider-climbing-xdmg (items)]]
 - Leads to [[step_037 (phase_041)]]
 - Compare with [[Quest_Index.png]]
-- Influences [[step_037]]
+- Influences
 - Affected by [[Stormcaller Navy]]
 - Requires [[False Breathers 2]]
 - Related: [[NPC01465_Ewan_Goldleaf_the_Redeemed]]
@@ -234,27 +228,27 @@ Has information about legendary item
 - Leads to [[The Reunification Faction 2]]
 - Influences [[Mounted_Combat]]
 - See also: [[bones-of-the-earth-xge (spells)]]
-- Parallels [[step_005]]
+- Parallels
 - Affected by [[Multiclassing Phb]]
 - Related: [[Portrait NPC Shadow Guard Units Shadow Guard Units.svg]]
-- Leads to [[step_100]]
+- Leads to
 - Connects to [[Art and Literature Intelligence]]
 - Requires [[SPELL00001_Nature_Spell_2]]
 - Related: [[The Abyssal Court 3 (D&D_References)]]
 - Compare with [[step_098 (phase_045)]]
-- Leads to [[step_073]]
+- Leads to
 - Affected by [[lock-of-trickery-xdmg (items)]]
 - Connects to [[Manta Ray 2]]
 - Influences [[NPC01514_Pyria_Ironforge_the_Fallen]]
 - Connects to [[Portrait NPC the Pressure Pirates the Pressure Pirates.svg_1 (Portraits)]]
-- See also: [[step_018]]
+- See also:
 - Originates from [[economic_warfare_simulation_theory]]
 - Parallels [[Beholder Names Vgm]]
 - Connects to [[bloodstone-xdmg (items)]]
 - Influences [[potion-of-fire-resistance-xdmg (items)]]
 - Leads to [[enspelled-staff-level-4-xdmg (items)]]
-- Connects to [[step_061]]
-- Originates from [[step_056]]
+- Connects to
+- Originates from
 - Affected by [[ITEM01080_Greater_Potion_of_Healing]]
 - Parallels [[Location City Security Services Security Services.svg]]
 - Parallels [[NPC00712_Faelyn_Proudmore_the_Fallen]]
@@ -268,15 +262,15 @@ Has information about legendary item
 - Connects to [[Architect Coral Builder (D&D_References)]]
 - Influences [[12-chapter-12-the-tower-of-vengeance (out-of-the-abyss)]]
 - Originates from [[Bear Trap Xge]]
-- Related: [[step_050]]
+- Related:
 - Parallels [[Basalt Depthwright (D&D_References)]]
-- Connects to [[step_051]]
+- Connects to
 - Influences [[step_045 (phase_097)]]
 - Related: [[LOC00262_Dungeons_Location_263]]
 - Requires [[location-city-age-of-wonders-v1-age-of-wonders.svg]]
 - Connects to [[step_098 (phase_019)]]
 - Affected by [[Tidal Council (D&D_References)]]
-- Requires [[step_073]]
+- Requires
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00456 Cedric Hawthorne the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00456 Cedric Hawthorne the Risen]
 - [[#Alaric Keenblade the Mystic (Criminal - Informant)|Alaric Keenblade the Mystic (Criminal - Informant)]]
 - [[#Thalia Ironforge the Bold (Political - Patron)|Thalia Ironforge the Bold (Political - Patron)]]
 - [[#Ewan Stormwind the Fallen (Professional - Employer)|Ewan Stormwind the Fallen (Professional - Employer)]]
-
 
 ---
 created: 2025-08-15
@@ -149,27 +147,23 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.165Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -179,17 +173,16 @@ Family member has gone missing
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Leads to [[Assets Locations Location City Temple of Shadows Temple of Shadows.png]]
-- Compare with [[step_047]]
-- Influences [[step_075]]
+- Compare with
+- Influences
 - Related: [[ITEM00447_Fortified_Plate_of_the_Guardian]]
 - Requires [[Warhorse Skeleton Xmm]]
 - Affected by [[step_069 (phase_083)]]
@@ -205,8 +198,8 @@ Family member has gone missing
 - See also: [[EVENT00073_Political_Event_74]]
 - Affected by [[ENC00174_Environmental_Encounter_175]]
 - Leads to [[02_Worldbuilding_Locations_Theater_of_Impossible_Dreams]]
-- See also: [[step_095]]
-- See also: [[step_096]]
+- See also:
+- See also:
 - Parallels [[step_066 (phase_052)]]
 - Originates from [[Warden Marcus Stonehand]]
 - Affected by [[Portrait NPC Captain Redbeard V1 Captain Redbeard.svg]]
@@ -243,22 +236,22 @@ Family member has gone missing
 - Parallels [[step_100 (phase_040)]]
 - Influences [[mage-hand-xphb (spells)]]
 - Originates from [[step_088 (phase_069)]]
-- Compare with [[step_083]]
+- Compare with
 - Connects to [[ITEM00521_Fortified_Chain_Mail_of_Protection]]
-- Parallels [[step_002]]
+- Parallels
 - Connects to [[Knock Xphb]]
 - Originates from [[NPC00882_Alaric_Dawnstrider_the_Scholar]]
 - Compare with [[dawn-war-erathis-dmg (deities)]]
 - Leads to [[gauntlets-of-ogre-power-xdmg (items)]]
 - Affected by [[LORE00307_Legends_Entry_308]]
 - Influences [[Pressure_Crystals.png]]
-- Requires [[step_069]]
+- Requires
 - Requires [[Master Resonants]]
 - See also: [[Assets Locations Location City Crystal Palace V1 Crystal Palace.svg]]
 - Affected by [[Portrait NPC God King Aetheron V1 God King Aetheron.svg]]
 - See also: [[LOC00161_Planes_Location_162]]
 - Influences [[NPC01809_Caelum_Stormwind_the_Wanderer]]
-- Affected by [[step_076]]
+- Affected by
 - Originates from [[Clues by Location 2]]
 - Requires [[LORE00150_History_Entry_151]]
 - Influences [[step_064 (phase_083)]]

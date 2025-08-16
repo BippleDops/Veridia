@@ -16,7 +16,6 @@ aliases: [Player Dashboard]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 ---
 enhanced: trtags: [enhanced, 07_player_resources, combat, magic, exploration, lore]es]
 created: 2025-08-15T12:24:41.126316
@@ -27,7 +26,6 @@ aliases: [Player Dashboard]
 # Player Dashboard
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
-
 
 ## Overview
 
@@ -87,7 +85,6 @@ publish: false --- -|--------|
 - **Unanswered Questions**: What remains unknown
 - **Future Revelations**: Discoveries yet to be made
 
-
 **Key Question**: What role will this play in the greater story?
 
 *Adventure awaits those brave enough to seek it.*
@@ -96,7 +93,6 @@ publish: false --- -|--------|
 ![[04_Resources/Assets/Misc/07_player_resources_visual_handouts_guild_seal_document_silverscale_consortiu.png]]
 ![[04_Resources/Assets/Misc/faction_overview_for_players.png]]
 ![[04_Resources/Assets/Misc/07_player_resources_faction_guide_md.png]]
-
 
 > [!dm] DM Note
 > Ancient magic still lingers here
@@ -135,8 +131,7 @@ publish: false --- -|--------|
 - [[11 Rules Glossary]]
 - [[NPC01012_Solas_Darkwater_the_Strong]]
 - [[MASTER_NAVIGATION]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -145,7 +140,6 @@ publish: false --- -|--------|
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -165,7 +159,7 @@ publish: false --- -|--------|
 ## Connections
 
 - Influences [[step_024 (phase_034)]]
-- Influences [[step_097]]
+- Influences
 - Leads to [[MON00097_Constructs_Creature_98]]
 - Requires [[NPC Name Generator (Lore)]]
 - Parallels [[Depth_Events_Pack_B]]
@@ -186,12 +180,12 @@ publish: false --- -|--------|
 - Requires [[Symbol Heraldry the Forsaken Consortium Collective V1 the Forsaken Consortium Collective.svg]]
 - Originates from [[step_047 (phase_013)]]
 - Compare with [[Project Seven Laboratory (D&D_References)]]
-- Connects to [[step_035]]
+- Connects to
 - Leads to [[Mediator Supreme Cora Peaceweaver]]
 - Parallels [[Acolyte Sister Tidal Deepfaith (D&D_References)]]
 - Connects to [[Assets Art the Divine Trial.png]]
 - Leads to [[step_075 (phase_047)]]
-- Compare with [[step_038]]
+- Compare with
 - Requires [[Shadow Surgery Network]]
 - Parallels [[LOC00169_Towns_Location_170]]
 - Influences [[The Convergence Laboratory]]
@@ -202,7 +196,7 @@ publish: false --- -|--------|
 - Leads to [[Athlete Xphb]]
 - Connects to [[step_012 (phase_052)]]
 - Compare with [[House Mercurial]]
-- Originates from [[step_055]]
+- Originates from
 - Influences [[step_006 (phase_083)]]
 - See also: [[step_062 (phase_090)]]
 - Connects to [[Pressure Tolerance]]
@@ -215,7 +209,7 @@ publish: false --- -|--------|
 - Related: [[LORE00197_History_Entry_198]]
 - Related: [[Prophetic Visions]]
 - Originates from [[Admiral Marina Stormcrest 2]]
-- Influences [[step_007]]
+- Influences
 - Requires [[Void-warded Cloak 2]]
 - Affected by [[step_059 (phase_067)]]
 - Requires [[step_063 (phase_047)]]
@@ -248,13 +242,13 @@ publish: false --- -|--------|
 - Leads to [[SPELL00151_Divine_Spell_152]]
 - Requires [[Assets Locations Location City Keeper of the Past Elderly Morgan Keeper of the Past Elderly Morgan.svg]]
 - Parallels [[Master_Places_Index]]
-- Compare with [[step_062]]
-- Connects to [[step_078]]
+- Compare with
+- Connects to
 - Compare with [[Crystallium (D&D_References)]]
-- Affected by [[step_060]]
+- Affected by
 - Affected by [[Quartermaster Judith Steadyhold]]
 - Connects to [[Location City Meditation Centers V1 Meditation Centers.svg]]
-- Originates from [[step_063]]
+- Originates from
 - Related: [[Character_Creation_Flowchart_Quick_Ref]]
 - Leads to [[step_054 (phase_045)]]
 - Affected by [[Memory Trading Economy System]]

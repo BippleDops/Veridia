@@ -18,7 +18,6 @@ aliases: [NPC00989 Baelor Goldleaf the Mystic]
 - [[#Erasmus Thornweave the Wise (Political - Puppet)|Erasmus Thornweave the Wise (Political - Puppet)]]
 - [[#Elric Nightfall the Cunning (Political - Ally)|Elric Nightfall the Cunning (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Baelor Goldleaf the Mystic", "baelor goldleaf the mystic", "Baelor Goldleaf Mystic", "Mystic the Goldleaf Baelor"]
@@ -145,27 +144,23 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.225Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -176,18 +171,17 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Originates from [[step_055 (phase_092)]]
 - Compare with [[Exhaustion (D&D_References)]]
 - Parallels [[QUEST00051_Personal_Quest_52]]
-- Affected by [[step_005]]
+- Affected by
 - Compare with [[NPC Reaction Matrix]]
 - Influences [[Commanding Presence Xphb]]
 - Requires [[Portrait NPC House of Lords Secret Chamber House of Lords Secret Chamber.svg]]
@@ -211,7 +205,7 @@ Seeks rare merchandise
 - See also: [[cobblers-tools-xphb (items)]]
 - Requires [[ENC00043_Combat_Encounter_44]]
 - Connects to [[Shattered Coast 2]]
-- Connects to [[step_082]]
+- Connects to
 - Parallels [[Retired Captain Bron Saltbeard 2]]
 - Connects to [[Mediator's Pendant (D&D_References)]]
 - Affected by [[Location City Tethyan Hegemony Tethyan Hegemony.svg]]
@@ -224,7 +218,7 @@ Seeks rare merchandise
 - Affected by [[step_085 (phase_024)]]
 - Affected by [[NPC00387_Alaric_Voidwalker_the_Guardian]]
 - Influences [[Feast Saltyflavor 2]]
-- Originates from [[step_068]]
+- Originates from
 - Parallels [[Assets Locations Location City the Living Weapon the Living Weapon.svg]]
 - Originates from [[ENC00197_Combat_Encounter_198]]
 - Influences [[Foreign Shadow Syndicate]]
@@ -258,7 +252,7 @@ Seeks rare merchandise
 - Leads to [[FAC00037_Orders_38]]
 - Connects to [[Velociraptor Mpmm]]
 - Connects to [[Depth Safety Authorit]]
-- Compare with [[step_004]]
+- Compare with
 - Connects to [[step_059 (phase_071)]]
 - Requires [[NPC00509_Caelum_Silverleaf_the_Scholar]]
 - Compare with [[step_005 (phase_052)]]
@@ -277,7 +271,7 @@ Seeks rare merchandise
 - Connects to [[step_076 (phase_046)]]
 - Affected by [[commune-xphb (spells)]]
 - Compare with [[imix-pota (legendary-group)]]
-- See also: [[step_078]]
+- See also:
 - Originates from [[dungeon-creator-cults-and-religions (tables)]]
 - Related: [[Whisper Translation 2]]
 - Leads to [[step_024 (phase_020)]]
@@ -289,7 +283,6 @@ Seeks rare merchandise
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lady_seraphina_goldleaf_lady_seraphina_goldleaf_svg_dramatic.png]]
 ![[03_People/portrait_lady_seraphina_goldleaf_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

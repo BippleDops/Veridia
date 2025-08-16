@@ -18,7 +18,6 @@ aliases: [NPC00060 Gareth Ironforge]
 - [[#Solas Crystalbrook (Political - Spy)|Solas Crystalbrook (Political - Spy)]]
 - [[#Elric Voidwalker (Criminal - Fence)|Elric Voidwalker (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gareth Ironforge", "gareth ironforge", "Ironforge Gareth"]
@@ -157,27 +156,23 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.118Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -185,11 +180,10 @@ Needs discrete help with family scandal
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -204,9 +198,9 @@ Needs discrete help with family scandal
 - Leads to [[Session 07 (06_Sessions)]]
 - Related: [[Location City Reality Anchoring Technology V1 Reality Anchoring Technology.svg]]
 - See also: [[Assets Locations Location City Gateway Keeper Riftwalk V1 Gateway Keeper Riftwalk.svg]]
-- See also: [[step_006]]
+- See also:
 - Affected by [[2 Monsters a to Z]]
-- Related: [[step_006]]
+- Related:
 - Parallels [[QUEST0049_Wizard's_Last_Stand]]
 - Originates from [[Director Marina Coralstudent (Lore)]]
 - Affected by [[Ability Check Proficiency by Class]]
@@ -235,19 +229,19 @@ Needs discrete help with family scandal
 - Originates from [[SPELL00140_Arcane_Spell_141]]
 - Related: [[dire-wolf-xmm (beast)]]
 - See also: [[Shadow Faction Representative (D&D_References)]]
-- See also: [[step_051]]
+- See also:
 - See also: [[LOC00226_Wilderness_Location_227]]
-- Influences [[step_005]]
-- Originates from [[step_075]]
+- Influences
+- Originates from
 - Affected by [[nonhuman-blibdoolpoolp (deities)]]
-- Parallels [[step_020]]
+- Parallels
 - Related: [[location-city-royal-treasury-v1-royal-treasury.svg]]
 - Affected by [[Philosopher-Noble Depth-Crown 2]]
 - Leads to [[step_037 (phase_057)]]
 - Parallels [[Shadow Replacement Procedures (D&D_References)]]
 - Affected by [[The Final Convergence]]
 - Requires [[step_003 (phase_049)]]
-- Affected by [[step_076]]
+- Affected by
 - Leads to [[Archmagus Velleth Shadowmere (Lore)]]
 - Connects to [[EVENT00088_Magical_Event_89]]
 - See also: [[step_024 (phase_054)]]
@@ -277,15 +271,15 @@ Needs discrete help with family scandal
 - Requires [[Portrait NPC Zephyr Goldwhisper Zephyr Goldwhisper.svg]]
 - Leads to [[Ram Xdmg]]
 - Originates from [[Gold Dragon Scale Mail Xdmg]]
-- Connects to [[step_075]]
+- Connects to
 - Related: [[step_004 (phase_053)]]
 - Requires [[QUEST00053_Personal_Quest_54]]
 - Originates from [[FAC00040_Orders_41]]
 - See also: [[devils-sight-xphb (optional-features)]]
 - Parallels [[Campaign Epilogues]]
 - Affected by [[Portrait NPC Commander Thrace Ironwood V2 Commander Thrace Ironwood.svg]]
-- Originates from [[step_016]]
-- See also: [[step_003]]
+- Originates from
+- See also:
 - Originates from [[ankheg-xmm (monstrosity)]]
 - Related: [[Field Operations Chief Marcus Ironheart (D&D_References)]]
 - Connects to [[NPC01877_Hestara_Moonshadow_the_Mystic]]
@@ -298,7 +292,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

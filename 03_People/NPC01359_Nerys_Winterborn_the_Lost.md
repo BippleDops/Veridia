@@ -18,7 +18,6 @@ aliases: [NPC01359 Nerys Winterborn the Lost]
 - [[#Felicia Zephyrblade the Lost (Political - Opposition)|Felicia Zephyrblade the Lost (Political - Opposition)]]
 - [[#Wynne Brightblade the Strong (Political - Spy)|Wynne Brightblade the Strong (Political - Spy)]]
 
-
 ---
 aliases: ["Nerys Winterborn the Lost", "nerys winterborn the lost", "Nerys Winterborn Lost", "Lost the Winterborn Nerys"]
 tags: [npc, character]
@@ -143,21 +142,17 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.265Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -196,11 +191,11 @@ Has information about legendary item
 - Related: [[Rescue Senator Glaucus]]
 - Compare with [[Implements Rare Xdmg]]
 - Compare with [[ITEM01240_Pure_Potion_of_Clarity]]
-- Leads to [[step_085]]
+- Leads to
 - Influences [[The Suicide Bridges]]
-- Connects to [[step_058]]
+- Connects to
 - Related: [[FAC00080_Cults_81]]
-- Requires [[step_060]]
+- Requires
 - Leads to [[Human Names Niger Congo Female Xge]]
 - See also: [[Marcus Shardbreaker Grimm_1]]
 - Connects to [[04_Resources_Assets_Locations_location-city-master-jeweler-sapphire-delicatehand-v1-master-jeweler-sapphire-delicatehand.svg]]
@@ -244,7 +239,7 @@ Has information about legendary item
 - Requires [[Portrait NPC Shadow Citizenship Act V2 Shadow Citizenship Act.svg]]
 - Parallels [[trinket-xphb (items)]]
 - See also: [[item-artifact-warhammer-xphb-v2-warhammer-xphb.png]]
-- Requires [[step_039]]
+- Requires
 - Originates from [[QUEST00397_Side_Quest_398]]
 - Influences [[Lady Vivienne Thornwhisper (D&D_References)]]
 - Influences [[Memory Tide Pools]]
@@ -266,7 +261,6 @@ Has information about legendary item
 ![[02_Worldbuilding/locations/location_the_lost_shipment_night.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_establishing.png]]
 ![[02_Worldbuilding/locations/location_the_lost_shipment_rain.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00086 Thalia Voidwalker the Broken]
 - [[#Thalia Ashford (Political - Patron)|Thalia Ashford (Political - Patron)]]
 - [[#Malakai Quicksilver (Criminal - Accomplice)|Malakai Quicksilver (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Voidwalker the Broken", "thalia voidwalker the broken", "Thalia Voidwalker Broken", "Broken the Voidwalker Thalia"]
@@ -142,27 +141,23 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.121Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -173,11 +168,10 @@ Seeks bodyguards for dangerous journey
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -192,11 +186,11 @@ Seeks bodyguards for dangerous journey
 - Requires [[yuan-ti-nightmare-speaker-mpmm]]
 - Parallels [[ENC00119_Social_Encounter_120]]
 - See also: [[level-advancement-character-advancement-xphb (tables)]]
-- Originates from [[step_051]]
+- Originates from
 - Parallels [[step_069 (phase_099)]]
 - Leads to [[LORE00186_Legends_Entry_187]]
 - Requires [[step_016 (phase_010)]]
-- Affected by [[step_026]]
+- Affected by
 - Affected by [[step_055 (phase_032)]]
 - Originates from [[Assets Locations Location City Scepter of Winter S Command Scepter of Winter S Command.svg]]
 - Leads to [[Paradox Resolution Society (D&D_References)]]
@@ -221,9 +215,9 @@ Seeks bodyguards for dangerous journey
 - Parallels [[Pilgrimage Master Depth Guide Melancholy]]
 - Leads to [[SPELL00049_Nature_Spell_50]]
 - Affected by [[The Memory Preservation Archive]]
-- Leads to [[step_067]]
+- Leads to
 - Compare with [[spirit-guardians-xphb (spells)]]
-- Requires [[step_052]]
+- Requires
 - Originates from [[Assets Locations Location City Temple Hierarchies Temple Hierarchies.png]]
 - Requires [[exotic-saddle-xphb (items)]]
 - Parallels [[indefinite-madness (tables)]]
@@ -231,7 +225,7 @@ Seeks bodyguards for dangerous journey
 - Compare with [[EVENT00009_Natural_Event_10]]
 - Leads to [[Portrait NPC Emperor Thalassius the Wise V2 Emperor Thalassius the Wise.svg]]
 - Requires [[NPC_Name_Generator.png]]
-- Requires [[step_020]]
+- Requires
 - Connects to [[The Forgotten Archive 2]]
 - Compare with [[FAC00035_Guilds_36]]
 - Compare with [[Memory Meadows (Lore)]]
@@ -263,21 +257,21 @@ Seeks bodyguards for dangerous journey
 - Compare with [[LORE00074_Prophecies_Entry_75]]
 - Related: [[chuul-spore-servant-oota (plant)]]
 - Leads to [[The Deserter 2]]
-- Requires [[step_100]]
+- Requires
 - Parallels [[The Great Shattering 3 (D&D_References)]]
 - Leads to [[Alpha-Prime 2]]
 - Requires [[Template-Group]]
 - Leads to [[The Free Traders Alliance]]
 - Compare with [[step_063 (phase_055)]]
 - Affected by [[The Awakened Grove Council 2]]
-- Requires [[step_070]]
-- Compare with [[step_030]]
-- Connects to [[step_004]]
+- Requires
+- Compare with
+- Connects to
 - Compare with [[QUEST0016_Investigate_the_Necromancer]]
 - Affected by [[step_018 (phase_005)]]
 - Originates from [[04_Resources_Handouts_Ships_Player_Handout_Merger_Vessels]]
 - Affected by [[step_016 (phase_057)]]
-- See also: [[step_019]]
+- See also:
 - Parallels [[Advanced Shadow Recognition]]
 - Compare with [[Giant Ape Xmm]]
 - Parallels [[Infernal Tack Mtf]]
@@ -286,7 +280,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

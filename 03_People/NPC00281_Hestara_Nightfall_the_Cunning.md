@@ -9,7 +9,6 @@ aliases: [NPC00281 Hestara Nightfall the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00281 Hestara Nightfall the Cunning]
 - [[#Drusilla Ironwood (Political - Ally)|Drusilla Ironwood (Political - Ally)]]
 - [[#Felicia Lightbringer (Professional - Employee)|Felicia Lightbringer (Professional - Employee)]]
 - [[#Dara Brightblade the Seeker (Professional - Employer)|Dara Brightblade the Seeker (Professional - Employer)]]
-
 
 ---
 created: 2025-08-15
@@ -151,16 +149,13 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.144Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -187,11 +182,10 @@ Needs discrete help with family scandal
 - [[10 Appendix B Creature Stat Blocks]]
 - [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[Reputation_Tracker]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -199,11 +193,10 @@ Needs discrete help with family scandal
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -216,12 +209,12 @@ Needs discrete help with family scandal
 - Requires [[SPELL00145_Arcane_Spell_146]]
 - Requires [[ENC00042_Social_Encounter_43]]
 - Influences [[The Deep Mother]]
-- Connects to [[step_058]]
+- Connects to
 - Influences [[Location City Port Meridian Noble Quarter V1 Port Meridian Noble Quarter.svg]]
 - Compare with [[FAC00014_Guilds_15]]
 - Leads to [[04 Chapter 4 Creating Adventures]]
 - Leads to [[step_018 (phase_007)]]
-- Parallels [[step_052]]
+- Parallels
 - See also: [[step_092 (phase_085)]]
 - Parallels [[Fate Weavers 2]]
 - Connects to [[location-city-tidal-memento-tidal-memento.svg]]
@@ -244,7 +237,7 @@ Needs discrete help with family scandal
 - Originates from [[Mounted_Combat]]
 - Related: [[step_088 (phase_008)]]
 - Requires [[Portrait NPC Ranger Captain Orin Swiftarrow V2 Ranger Captain Orin Swiftarrow.svg]]
-- Compare with [[step_008]]
+- Compare with
 - Connects to [[The Sundered Peaks (D&D_References)]]
 - Requires [[Glamoured Studded Leather Xdmg]]
 - Compare with [[Quest Giver]]
@@ -259,7 +252,7 @@ Needs discrete help with family scandal
 - Influences [[LOC00202_Planes_Location_203]]
 - Affected by [[step_094 (phase_055)]]
 - Influences [[Information Broker Selan]]
-- Parallels [[step_075]]
+- Parallels
 - Influences [[Traveling Merchant Finn]]
 - Requires [[The Dimensional Adaptation Recovery of Captain Pressure Storm]]
 - Influences [[NPC01346_Hilda_Xendar_the_Broken]]
@@ -267,14 +260,14 @@ Needs discrete help with family scandal
 - Connects to [[NPC01955_Elric_Goldleaf_the_Wise]]
 - Connects to [[step_054 (phase_005)]]
 - Affected by [[Archivist Supreme Indexa]]
-- Requires [[step_085]]
+- Requires
 - Related: [[Assets Locations Location City Current Harvestsage Current Harvestsage.svg]]
 - Related: [[Memory Merchant Centers (D&D_References)]]
 - Influences [[Portrait NPC Ice Kingdom Spirits V2 Ice Kingdom Spirits.svg]]
 - Parallels [[Transformation Hospital]]
 - Influences [[LORE00084_Legends_Entry_85]]
-- Requires [[step_021]]
-- Originates from [[step_017]]
+- Requires
+- Originates from
 - Originates from [[The Vigil Gardens]]
 - Connects to [[The Great Convergence Prophecies (D&D_References)]]
 - Leads to [[The Phantom Docks]]
@@ -287,7 +280,7 @@ Needs discrete help with family scandal
 - Requires [[step_065 (phase_004)]]
 - Related: [[LOC00237_Towns_Location_238]]
 - Requires [[The Underground Market]]
-- Affected by [[step_090]]
+- Affected by
 - Connects to [[bane-xphb (spells)]]
 - Related: [[NPC00398_Fiora_Voidwalker_the_Risen]]
 - Requires [[step_020 (phase_012)]]
@@ -302,9 +295,9 @@ Needs discrete help with family scandal
 - See also: [[scholars-of-prismari-prismari-scholars-scc (tables)]]
 - Parallels [[salt-xdmg (items)]]
 - Parallels [[Engineer Shadowbuild]]
-- Affected by [[step_045]]
+- Affected by
 - Affected by [[MON00034_Constructs_Creature_35]]
-- Parallels [[step_001]]
+- Parallels
 - Compare with [[Mage Hand Xphb]]
 - Originates from [[Aquabyssos Government (D&D_References)]]
 

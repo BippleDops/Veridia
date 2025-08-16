@@ -9,7 +9,6 @@ aliases: [NPC00226 Gavril Emberfall]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00226 Gavril Emberfall]
 - [[#Zephyr Brightblade the Lost (Criminal - Handler)|Zephyr Brightblade the Lost (Criminal - Handler)]]
 - [[#Kaelen Ironwood (Professional - Mentor)|Kaelen Ironwood (Professional - Mentor)]]
 - [[#Aldric Xendar (Personal - Love interest)|Aldric Xendar (Personal - Love interest)]]
-
 
 ---
 aliases: ["Gavril Emberfall", "gavril emberfall", "Emberfall Gavril"]
@@ -159,21 +157,17 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.138Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -193,14 +187,14 @@ Needs discrete help with family scandal
 - Requires [[Vehicles - Vessel Horror Intensifier]]
 - Influences [[Captain Storm Ambushmaster]]
 - Influences [[LOC00089_Towns_Location_90]]
-- Requires [[step_041]]
+- Requires
 - Influences [[The Fortress of the Deeps 2]]
 - Connects to [[SHOP00045_General_Shop_46]]
 - Parallels [[Madame Pearl Currentflow]]
 - Related: [[Dawn War Asmodeus Dmg]]
 - See also: [[Gith Names Githzerai Male Mtf]]
 - Leads to [[LORE00298_History_Entry_299]]
-- Related: [[step_021]]
+- Related:
 - Compare with [[Handout Handout Ship Manifests with Stamps V2 Ship Manifests with Stamps.png]]
 - Connects to [[Player Resources]]
 - Compare with [[Naia Deepcurrent]]
@@ -214,7 +208,7 @@ Needs discrete help with family scandal
 - Compare with [[Safe House Network (D&D_References)]]
 - Influences [[step_071 (phase_035)]]
 - Leads to [[SHOP00003_General_Shop_4]]
-- Leads to [[step_073]]
+- Leads to
 - Affected by [[Assets Handouts Handout Handout Privateer Letter of Marque V1 Privateer Letter of Marque.png]]
 - Compare with [[step_085 (phase_061)]]
 - Requires [[Luxury Crystal Market (D&D_References)]]
@@ -232,7 +226,7 @@ Needs discrete help with family scandal
 - Affected by [[step_031 (phase_018)]]
 - Requires [[Assets Locations Location City High Chancellor Nerissa Deepcurrent High Chancellor Nerissa Deepcurrent.svg]]
 - Leads to [[LORE00113_History_Entry_114]]
-- Leads to [[step_081]]
+- Leads to
 - Parallels [[Marina Mindwell]]
 - Leads to [[gnome-tables-gnome-flaws-mtf (tables)]]
 - Requires [[Assets Locations Location City Sage Nereon V1 Sage Nereon.svg]]
@@ -243,7 +237,7 @@ Needs discrete help with family scandal
 - Originates from [[Coral Lifeshaper 2]]
 - Compare with [[Shared Dreaming 2]]
 - Affected by [[Fey Spirit Mirthful Xphb]]
-- Related: [[step_085]]
+- Related:
 - Leads to [[DM_Advice_Articles]]
 - Compare with [[Ogremoch Pota]]
 - See also: [[Seventh Shard]]
@@ -270,7 +264,7 @@ Needs discrete help with family scandal
 - Compare with [[gith-tables-githyanki-bonds-mtf (tables)]]
 - Affected by [[Depth_Events_Pack_B]]
 - Parallels [[NPC01766_Urien_Moonshadow_the_Wise]]
-- Influences [[step_051]]
+- Influences
 - See also: [[Court Herald Master Proclamation Crownvoice]]
 - Connects to [[Whispering Wildlands]]
 - Affected by [[Assets Locations Location City Compass Quest Compass Quest.svg]]

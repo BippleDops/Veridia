@@ -18,7 +18,6 @@ aliases: [NPC00707 Fiora Oakenshield the Seeker]
 - [[#Rhiannon Moonshadow the Wise (Criminal - Target)|Rhiannon Moonshadow the Wise (Criminal - Target)]]
 - [[#Zephyr Lightbringer the Wise (Family - Parent)|Zephyr Lightbringer the Wise (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Fiora Oakenshield the Seeker", "fiora oakenshield the seeker", "Fiora Oakenshield Seeker", "Seeker the Oakenshield Fioratags: [npc, character, combat, puzzle, lore]er]
@@ -146,16 +145,13 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.193Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -187,11 +183,10 @@ Family member has gone missing
 - [[11 Rules Glossary]]
 - [[MOC_Lore]]
 - [[NPC01858_Drusilla_Stormwind_the_Cunning]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -201,11 +196,10 @@ Family member has gone missing
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -272,7 +266,7 @@ Family member has gone missing
 - Related: [[step_024 (phase_055)]]
 - Leads to [[NPC00401_Baelor_Ironwood_the_Lost]]
 - Related: [[guidance-xphb (spells)]]
-- Leads to [[step_096]]
+- Leads to
 - Leads to [[portrait-npc-captain-between-captain-between.svg]]
 - Connects to [[LOC00151_Planes_Location_152]]
 - Influences [[step_043 (phase_028)]]
@@ -287,7 +281,7 @@ Family member has gone missing
 - Requires [[Note Name]]
 - Influences [[Crystal Sentinels]]
 - Originates from [[02_Worldbuilding_Items_Elemental_Air_Filter]]
-- Affected by [[step_061]]
+- Affected by
 - See also: [[step_058 (phase_038)]]
 - Requires [[NPC01918_Malakai_Proudmore_the_Redeemed]]
 - Originates from [[LOC00020_Cities_Location_21]]
@@ -299,14 +293,14 @@ Family member has gone missing
 - Requires [[Dame Rosanna Truthseeker]]
 - Parallels [[[[Palace Security Chief]] (D&D_References)]]
 - Originates from [[jeweled-platinum-ring-xdmg (items)]]
-- Leads to [[step_010]]
+- Leads to
 - Influences [[female-steeder-mpmm (monstrosity)]]
 - Related: [[Emergency Reality Generators]]
 - Leads to [[Deep Mother (D&D_References)]]
 - Affected by [[step_075 (phase_025)]]
 - Connects to [[The Memory War Academy]]
 - Related: [[Portrait NPC the Lady S Garden Society the Lady S Garden Society.svg]]
-- Affected by [[step_050]]
+- Affected by
 - Affected by [[QUEST00032_Personal_Quest_33]]
 - Requires [[step_084 (phase_048)]]
 
@@ -314,7 +308,6 @@ Family member has gone missing
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

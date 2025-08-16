@@ -9,7 +9,6 @@ aliases: [NPC00465 Idris Blackstone the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00465 Idris Blackstone the Redeemed]
 - [[#Xander Keenblade the Risen (Family - Parent)|Xander Keenblade the Risen (Family - Parent)]]
 - [[#Drusilla Brightblade the Bold (Professional - Employee)|Drusilla Brightblade the Bold (Professional - Employee)]]
 - [[#Alaric Blackstone the Cunning (Criminal - Handler)|Alaric Blackstone the Cunning (Criminal - Handler)]]
-
 
 ---
 aliases: ["Idris Blackstone the Redeemed", "idris blackstone the redeemed", "Idris Blackstone Redeemed", "Redeemed the Blackstone Idris"]
@@ -148,21 +146,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.166Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,7 +170,7 @@ Being extorted by criminals
 - Connects to [[Doctor Coral Shapeshift]]
 - Affected by [[Location City the Banshee Caverns V1 the Banshee Caverns.svg]]
 - Affected by [[Mouth of Grolantor Mpmm]]
-- See also: [[step_079]]
+- See also:
 - Related: [[LOC00165_Dungeons_Location_166]]
 - Requires [[Navigate Fractal Reality]]
 - Originates from [[The Royal Transformation 2]]
@@ -184,14 +178,14 @@ Being extorted by criminals
 - Influences [[step_022 (phase_069)]]
 - Influences [[Location City Senator Bartholomew Bonewright Senator Bartholomew Bonewright.svg]]
 - Compare with [[step_066 (phase_026)]]
-- See also: [[step_085]]
+- See also:
 - Related: [[LORE0052_Prophecy_of_the_Dark_Times]]
 - Compare with [[Location City Emergency Life Support Research Foundation V1 Emergency Life Support Research Foundation.svg]]
 - Originates from [[SPELL00134_Nature_Spell_135]]
-- Compare with [[step_027]]
+- Compare with
 - Leads to [[Reality Anchor Points (D&D_References)]]
 - Parallels [[Infrastructure Development]]
-- Requires [[step_007]]
+- Requires
 - See also: [[NPC01049_Jorah_Moonshadow_the_Scholar]]
 - Connects to [[Meazel Mpmm]]
 - Influences [[step_006 (phase_053)]]
@@ -203,7 +197,7 @@ Being extorted by criminals
 - Compare with [[ENC00197_Combat_Encounter_198]]
 - Originates from [[ITEM00605_Ethereal_Plate_of_Protection]]
 - Influences [[NPC00312_Faelyn_Voidwalker_the_Wise]]
-- Parallels [[step_090]]
+- Parallels
 - Parallels [[Giant Constrictor Snake Xmm]]
 - Originates from [[Magic User]]
 - Influences [[NPC01619_Hilda_Ashford_the_Mystic]]
@@ -219,7 +213,7 @@ Being extorted by criminals
 - Affected by [[The Assayers Hall]]
 - Affected by [[Assets Locations Location City Triton V1 Triton.svg]]
 - Affected by [[Fire Crystals 2]]
-- See also: [[step_043]]
+- See also:
 - Compare with [[Supernatural Mysteries (D&D_References)]]
 - Connects to [[step_055 (phase_083)]]
 - See also: [[step_053 (phase_011)]]
@@ -244,7 +238,7 @@ Being extorted by criminals
 - Leads to [[step_034 (phase_047)]]
 - Requires [[Master of Crystals Prism Multifacet]]
 - Connects to [[ITEM0061_Forgotten_Circlet_of_Power]]
-- Influences [[step_079]]
+- Influences
 - Related: [[Underwater Combat Gear]]
 - Affected by [[Template_Species_Placeholder.png_1 (09_Templates)]]
 - Connects to [[Location City Representative Coral Youngcurrent V1 Representative Coral Youngcurrent.svg]]

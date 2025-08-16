@@ -18,7 +18,6 @@ aliases: [NPC01327 Erasmus Nightfall the Scholar]
 - [[#Hestara Grimholt the Redeemed (Professional - Employee)|Hestara Grimholt the Redeemed (Professional - Employee)]]
 - [[#Drusilla Ironforge the Strong (Professional - Employer)|Drusilla Ironforge the Strong (Professional - Employer)]]
 
-
 ---
 aliases: ["Erasmus Nightfall the Scholar", "erasmus nightfall the scholar", "Erasmus Nightfall Scholar", "Scholar the Nightfall Erasmus"]
 tags: [npc, character]
@@ -161,21 +160,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.261Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -194,14 +189,14 @@ Needs help with personal quest
 - See also: [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg]]
 - Compare with [[Assets Portraits Portrait NPC Quest the Deep Mother S Truth Quest the Deep Mother S Truth.svg]]
 - Parallels [[Animal Lord Sage Xmm]]
-- Affected by [[step_035]]
+- Affected by
 - Parallels [[ITEM00439_Ethereal_Chain_Mail_of_Grace]]
 - Parallels [[World_State]]
 - Related: [[02_Worldbuilding_Factions_The_Resoce_Keepers]]
 - Connects to [[step_035 (phase_081)]]
 - Parallels [[Dancing Lights Xphb]]
 - Originates from [[step_002 (phase_061)]]
-- See also: [[step_048]]
+- See also:
 - Requires [[Combat Encounter Difficulty XP Thresholds by Character Level]]
 - Compare with [[Pressure Specialist Dr. Marina Deepcurrent]]
 - Affected by [[step_018 (phase_090)]]
@@ -215,10 +210,10 @@ Needs help with personal quest
 - See also: [[Faerie Fire Xphb]]
 - Compare with [[World Bible]]
 - Related: [[step_073 (phase_031)]]
-- Parallels [[step_013]]
+- Parallels
 - Related: [[step_091 (phase_022)]]
 - Requires [[X-005 Dream Sailing Convoy Player]]
-- Affected by [[step_061]]
+- Affected by
 - Leads to [[step_034 (phase_076)]]
 - Compare with [[step_012 (phase_030)]]
 - Influences [[Quest - Legislative Control 2]]
@@ -244,7 +239,7 @@ Needs help with personal quest
 - Requires [[ITEM01228_Lesser_Potion_of_Vigor]]
 - Requires [[MON00013_Aberrations_Creature_14]]
 - Leads to [[Assets Portraits Portrait NPC Paladin Commander Sir Radiant Dawnbreaker Paladin Commander Sir Radiant Dawnbreaker.svg]]
-- Parallels [[step_031]]
+- Parallels
 - Originates from [[cover-xphb (variant-rules)]]
 - Requires [[Assets Locations Location City Planning Director Victor Visionkeeper Planning Director Victor Visionkeeper.svg]]
 - Parallels [[Silverscale Banking House (Lore)]]
@@ -271,7 +266,7 @@ Needs help with personal quest
 - Connects to [[Crystal Mines (D&D_References)]]
 - Originates from [[portrait-npc-the-party-v1-the-party.svg]]
 - Originates from [[cuddly-strixhaven-mascot-scc (items)]]
-- Originates from [[step_002]]
+- Originates from
 - Parallels [[step_063 (phase_031)]]
 - Related: [[Merchant Family Tidewalker (D&D_References)]]
 - Compare with [[04_Resources_Assets_Locations_location-city-the-harbormaster-s-office-the-harbormaster-s-office.svg]]
@@ -284,7 +279,6 @@ Needs help with personal quest
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

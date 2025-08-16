@@ -9,7 +9,6 @@ aliases: [Kingdom of Luminal Peaks]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_kingdom_of_luminal_peaks_friendly.png]]
 
-
 ## Table of Contents
 - [[#Stats|Stats]]
 - [[#Relationships|Relationships]]
@@ -21,7 +20,6 @@ aliases: [Kingdom of Luminal Peaks]
 - [[#Lifestyle Improvements|Lifestyle Improvements]]
 - [[#Evolution Improvements|Evolution Improvements]]
 - [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
-
 
 ---
 
@@ -62,7 +60,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -217,7 +215,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -309,7 +307,6 @@ ___
 - [[The Queen (D&D_References)]]
 - [[The Queen 3 (D&D_References)]]
 
-
 ## Connections
 
 - See also: [[Lizard Xmm]]
@@ -329,7 +326,7 @@ ___
 - Parallels [[Inter-Realm Transportation]]
 - Connects to [[Annual_Renewal_Event]]
 - Parallels [[Portrait NPC Elder Whisper in the Dark V1 Elder Whisper in the Dark.svg]]
-- Connects to [[step_021]]
+- Connects to
 - Leads to [[Assets Locations Location City Sage Nereon V1 Sage Nereon.svg]]
 - Connects to [[The Last Resort Procedures (D&D_References)]]
 - Parallels [[The Whispering Depths (D&D_References)]]
@@ -359,7 +356,7 @@ ___
 - Influences [[step_095 (phase_026)]]
 - Parallels [[LOC00165_Cities_Location_166]]
 - Connects to [[Indefinite Madness]]
-- Originates from [[step_004]]
+- Originates from
 - Related: [[Portrait NPC the Crystal Queen Mother V2 the Crystal Queen Mother.svg_1 (Portraits)]]
 - Compare with [[DUN00131_Dungeon_132]]
 - Leads to [[step_052 (phase_077)]]
@@ -370,7 +367,7 @@ ___
 - Parallels [[young-remorhaz-xmm]]
 - Affected by [[Item Artifact Spell Gem Lapis Lazuli Oota V2 Spell Gem Lapis Lazuli Oota.png]]
 - Affected by [[wheat-xdmg (items)]]
-- Requires [[step_090]]
+- Requires
 - Related: [[ENC00482_Combat_Encounter_483]]
 - Requires [[04_Resources_Assets_Symbols_symbol-heraldry-doctor-harmony-whisperfall-doctor-harmony-whisperfall.svg]]
 - Requires [[Captain Sarah Oathbound]]
@@ -382,7 +379,7 @@ ___
 - Related: [[X L-12 the Deep Mothers Bridge of Dreams (Encounters)]]
 - Influences [[ITEM00447_Fortified_Plate_of_the_Guardian]]
 - Influences [[step_072 (phase_046)]]
-- Leads to [[step_007]]
+- Leads to
 - See also: [[step_004 (phase_037)]]
 - Originates from [[LOC00269_Towns_Location_270]]
 - Originates from [[step_078 (phase_074)]]
@@ -392,7 +389,7 @@ ___
 - See also: [[step_039 (phase_085)]]
 - Compare with [[research-outcomes-xge (tables)]]
 - Related: [[greek-poseidon (deities)]]
-- Influences [[step_088]]
+- Influences
 - Requires [[The Threshold (Lore)]]
 - See also: [[War College of Depths (Lore)]]
 - Requires [[Memory Trader Kellian 2]]

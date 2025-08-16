@@ -18,7 +18,6 @@ aliases: [NPC01504 Erasmus Zephyrblade the Strong]
 - [[#Elric Hawthorne the Scholar (Criminal - Fence)|Elric Hawthorne the Scholar (Criminal - Fence)]]
 - [[#Elric Xendar the Wanderer (Criminal - Informant)|Elric Xendar the Wanderer (Criminal - Informant)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Erasmus Zephyrblade the Strong", "erasmus zephyrblade the strong", "Erasmus Zephyrblade Strong", "Strong the Zephyrblade Erasmustags: [npc, character, combat, magic, exploration, lore]er]
@@ -149,16 +148,13 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.280Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -191,11 +187,10 @@ Knows secret about major threat
 - [[09 Adventuring]]
 - [[11 Rules Glossary]]
 - [[Parliament of Shadows Player Guide.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -203,11 +198,10 @@ Knows secret about major threat
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -230,7 +224,7 @@ Knows secret about major threat
 - Requires [[devourer-mpmm (undead)]]
 - See also: [[The Eternal Senate]]
 - See also: [[ENC00050_Social_Encounter_51]]
-- Leads to [[step_057]]
+- Leads to
 - Leads to [[Deep Metals Consortium]]
 - Related: [[Shield Xphb (spells)]]
 - Influences [[step_069 (phase_020)]]
@@ -256,7 +250,7 @@ Knows secret about major threat
 - Influences [[CLAUDE]]
 - Compare with [[step_002 (phase_041)]]
 - Leads to [[SPELL00072_Arcane_Spell_73]]
-- Related: [[step_081]]
+- Related:
 - See also: [[Justice Shadowing]]
 - Parallels [[Grasp of Hadar Xge]]
 - Affected by [[FAC00066_Cults_67]]
@@ -284,7 +278,7 @@ Knows secret about major threat
 - Connects to [[Assets Locations Location City [[The Divine Trial]] V1 the Divine Trial.svg]]
 - Parallels [[ixitxachitl-cleric-oota (aberration)]]
 - See also: [[The Grand Trade Routes (Lore)]]
-- Compare with [[step_084]]
+- Compare with
 - See also: [[portrait-npc-the-biomancers-the-biomancers.svg]]
 - Related: [[Mind Surgeon Dr. Forget-Me-Always]]
 - See also: [[Shadow Citizenship Act (D&D_References)]]
@@ -298,17 +292,17 @@ Knows secret about major threat
 - Compare with [[Assets Locations Location City [[Divine Magic]] Divine Magic.svg]]
 - Leads to [[Colonial Administration 2]]
 - See also: [[[[Doctor Silas Voidtouch]] (D&D_References)]]
-- Requires [[step_037]]
+- Requires
 - Affected by [[step_075 (phase_017)]]
 - Affected by [[LORE00313_History_Entry_314]]
 - Originates from [[[[[[Merchant]] Quarter]] Guildhalls]]
 - Requires [[step_042 (phase_099)]]
 - Influences [[Defense Captain Ironguard]]
-- Connects to [[step_046]]
+- Connects to
 - Parallels [[Admiral Cassandra Stormwind (D&D_References)]]
 - Connects to [[step_002 (phase_023)]]
 - Related: [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome.svg]]
-- Influences [[step_075]]
+- Influences
 - Parallels [[02_Worldbuilding_Places_[[Aquabyssos]]_Prime]]
 - Influences [[DUN00124_Dungeon_125]]
 
@@ -316,7 +310,6 @@ Knows secret about major threat
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01099 Felicia Proudmore the Seeker]
 - [[#Rhiannon Oakenshield the Redeemed (Family - Cousin)|Rhiannon Oakenshield the Redeemed (Family - Cousin)]]
 - [[#Brenna Hawthorne the Strong (Personal - Love interest)|Brenna Hawthorne the Strong (Personal - Love interest)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Felicia Proudmore the Seeker", "felicia proudmore the seeker", "Felicia Proudmore Seeker", "Seeker the Proudmore Felicia"]
@@ -154,27 +153,23 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.236Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -185,11 +180,10 @@ Caravan needs guards
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -200,12 +194,12 @@ Caravan needs guards
 - Connects to [[Location City Keeper Stormheart Keeper Stormheart.svg]]
 - Influences [[carnivorous-flower-rot (plant)]]
 - See also: [[step_063 (phase_096)]]
-- Compare with [[step_062]]
+- Compare with
 - See also: [[holy-aura-xphb (spells)]]
 - Parallels [[poisonous-gas-xdmg (traps-hazards)]]
 - Leads to [[Location City Memory Preservation Technology Memory Preservation Technology.svg]]
 - Requires [[Assets Locations Location City Clerk Supreme Marcus Filekeeper Clerk Supreme Marcus Filekeeper.svg]]
-- Related: [[step_086]]
+- Related:
 - Leads to [[QUEST00243_Side_Quest_244]]
 - Leads to [[The Whisper Syndicate]]
 - Originates from [[Assets Locations Location City Conservatory of Memory Conservatory of Memory.svg]]
@@ -219,7 +213,7 @@ Caravan needs guards
 - Connects to [[LOC00120_Dungeons_Location_121]]
 - See also: [[sprig-of-mistletoe-xphb (items)]]
 - See also: [[Thalassa the Deepmother]]
-- See also: [[step_007]]
+- See also:
 - Compare with [[symbol-heraldry-bexley-v1-bexley.svg]]
 - Originates from [[S-114_Gravity_Well_Rescue]]
 - Requires [[ENC00161_Environmental_Encounter_162]]
@@ -257,7 +251,7 @@ Caravan needs guards
 - Leads to [[LOC00121_Planes_Location_122]]
 - Originates from [[Scroll of Protection Oozes Xdmg]]
 - Influences [[nonhuman-skerrit (deities)]]
-- Requires [[step_040]]
+- Requires
 - Requires [[step_048 (phase_064)]]
 - Connects to [[step_034 (phase_055)]]
 - Affected by [[step_031 (phase_016)]]
@@ -271,9 +265,9 @@ Caravan needs guards
 - Influences [[FAC00086_Guilds_87]]
 - Leads to [[Handout Handout Docking Permit V1 Docking Permit.png]]
 - Compare with [[FAC00081_Cults_82]]
-- Compare with [[step_057]]
+- Compare with
 - Compare with [[NPC00427_Urien_Xendar]]
-- See also: [[step_058]]
+- See also:
 - Requires [[NPC00125_Fiora_Oakenshield_the_Bold]]
 - Parallels [[THEME_MUSIC_MAPPING]]
 - Influences [[damage-types-xphb (variant-rules)]]
@@ -283,22 +277,21 @@ Caravan needs guards
 - Originates from [[step_014 (phase_087)]]
 - Influences [[Portrait NPC Quest the Void Conspiracy V2 Quest the Void Conspiracy.png]]
 - See also: [[Assets Locations Location City Religious Leaders Religious Leaders.svg]]
-- Influences [[step_046]]
+- Influences
 - Originates from [[The Spire of Courage]]
 - Leads to [[cast-off-armor-xdmg (items)]]
 - See also: [[ITEM01367_Elegant_Spyglass_of_Durability]]
 - Leads to [[04_Resources_Assets_Portraits_portrait-npc-memory-harvester-kythara-v2-memory-harvester-kythara.svg]]
-- Requires [[step_072]]
+- Requires
 - Influences [[Malachar the Mindweave (D&D_References)]]
 - Parallels [[The Twin Prophets]]
 - Compare with [[rogue-xphb-thief-xphb (classes)]]
-- Compare with [[step_053]]
+- Compare with
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

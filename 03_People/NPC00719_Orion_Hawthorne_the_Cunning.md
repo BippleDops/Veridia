@@ -9,7 +9,6 @@ aliases: [NPC00719 Orion Hawthorne the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00719 Orion Hawthorne the Cunning]
 - [[#Rhiannon Voidwalker the Bold (Family - Sibling)|Rhiannon Voidwalker the Bold (Family - Sibling)]]
 - [[#Kaelen Nightfall the Strong (Personal - Nemesis)|Kaelen Nightfall the Strong (Personal - Nemesis)]]
 - [[#Vesper Xendar the Wise (Criminal - Target)|Vesper Xendar the Wise (Criminal - Target)]]
-
 
 ---
 created: 2025-08-15
@@ -145,16 +143,13 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.194Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -194,11 +189,10 @@ Witnessed a crime
 - [[MOC_Lore]]
 - [[MOC_Rules]]
 - [[NPC00625_Kaelen_Brightblade_the_Redeemed]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -208,18 +202,17 @@ Witnessed a crime
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - See also: [[Lamia Xmm]]
 - Originates from [[far-step-xge (spells)]]
 - Influences [[Crimson Velocity (D&D_References)]]
-- See also: [[step_088]]
+- See also:
 - See also: [[Pirates 2]]
 - Compare with [[bag-of-tricks-gray-xdmg (items)]]
 - See also: [[step_014 (phase_011)]]
@@ -247,14 +240,14 @@ Witnessed a crime
 - Connects to [[NPC00175_Solas_Silverleaf_the_Scholar]]
 - Connects to [[step_092 (phase_016)]]
 - See also: [[step_019 (phase_084)]]
-- Originates from [[step_056]]
+- Originates from
 - Parallels [[Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg]]
 - Influences [[Merchant_Guild_Membership_Benefits]]
 - Influences [[step_008 (phase_093)]]
 - Connects to [[Archive Index]]
 - Originates from [[Symbol Heraldry Mob... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Connects to [[Assets Locations Location City Tenebrarum Embassy Tenebrarum Embassy.svg]]
-- Compare with [[step_079]]
+- Compare with
 - Connects to [[The Great Tidal Amphitheater]]
 - Parallels [[black-pearl-xdmg (items)]]
 - See also: [[step_061 (phase_073)]]
@@ -289,29 +282,29 @@ Witnessed a crime
 - Influences [[Deep Mother Influence (D&D_References)]]
 - Leads to [[ITEM01122_Concentrated_Crystal_of_Swiftness]]
 - See also: [[Assets Locations Location City Transformation Medicine Techniques V1 Transformation Medicine Techniques.svg]]
-- See also: [[step_040]]
+- See also:
 - See also: [[chamber-purpose-dungeon-death-trap (tables)]]
 - Parallels [[LOC00065_Cities_Location_66]]
 - Originates from [[list-spells-feats-drow-high-magic-xge (lists)]]
 - Compare with [[step_005 (phase_066)]]
-- Affected by [[step_088]]
+- Affected by
 - Requires [[emanation-area-of-effect-xphb (variant-rules)]]
 - Related: [[The Stability Zones]]
-- See also: [[step_056]]
+- See also:
 - Originates from [[step_009 (phase_077)]]
 - Related: [[MON00074_Constructs_Creature_75]]
 - Originates from [[QUEST0056_Rescue_the_Cult]]
 - Originates from [[Princess Aria]]
 - See also: [[step_050 (phase_024)]]
 - See also: [[NPC01818_Cedric_Darkwater_the_Seeker]]
-- See also: [[step_080]]
+- See also:
 - Related: [[Noble House Politics]]
 - Compare with [[SPELL00122_Arcane_Spell_123]]
 - Related: [[Portrait NPC Ancient King Pelagios V2 Ancient King Pelagios.svg_1 (Portraits)]]
 - Influences [[celtic-manannan-mac-lir (deities)]]
 - See also: [[ITEM00073_Venomous_Hammer_of_Accuracy]]
 - Parallels [[The Singing Trenches 2]]
-- Originates from [[step_034]]
+- Originates from
 - Influences [[aura-of-vitality-xphb (spells)]]
 - Related: [[Shadow Operations Base]]
 - Affected by [[Tidal Memory Ceremonies]]

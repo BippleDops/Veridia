@@ -14,7 +14,6 @@ aliases: [Faction Guide.md 1 (07 Player Resources)]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 ---
 enhanced: trtags: [enhanced, 07_player_resources, combat, magic, exploration, lore]es]
 created: 2025-08-15T12:24:41.139490
@@ -23,7 +22,6 @@ aliases: [Faction Guide.md 1 (07 Player Resources)]
 ---
 
 # Faction Guide.Md 1 (07 Player Resources)
-
 
 > **Content Warning**: This content contains mature themes. DM discretion advised.
 
@@ -41,7 +39,7 @@ improvements: 20
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections 
+- Connections
 *The [texture] surface feels [description] to the touch.*
 *The [texture] surface feels [description] to the touch.*to overarching campaign themes ## Plot Hooks - A shipment has gone missing and chaos spreads - Someone is searching for a witness for love ## Historical Timeline ### The Age of Founding (1000 years ago) - The First Settlement
 - Discovery of magical crystals
@@ -130,7 +128,6 @@ publish: false --- -|--------|
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated Time**: How long this typically takes to run
 
-
 *The dice will decide the fate.*
 
 ## Visual References
@@ -138,10 +135,8 @@ publish: false --- -|--------|
 ![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-v2-faction-reputation-bar.png]]
 ![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-faction-reputation-bar.png]]
 
-
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -151,7 +146,6 @@ publish: false --- -|--------|
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -179,8 +173,8 @@ publish: false --- -|--------|
 - Related: [[Pain-Artist Cruelty Refined]]
 - Related: [[NPC01884_Ysara_Crystalbrook_the_Risen]]
 - Connects to [[LORE00137_Prophecies_Entry_138]]
-- Leads to [[step_094]]
-- Originates from [[step_095]]
+- Leads to
+- Originates from
 - Connects to [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V1 Keeper of the Shattered Crown Marcus Crystalvein.svg]]
 - Requires [[step_018 (phase_080)]]
 - See also: [[Security Officer Guard Stormwind (D&D_References)]]
@@ -192,10 +186,10 @@ publish: false --- -|--------|
 - See also: [[Portrait NPC Captain Dr Bloodletting Captain Dr Bloodletting.svg]]
 - See also: [[Gith Tables Githyanki Names Female Mtf]]
 - Parallels [[Portrait NPC Captain Truth Ironwill Captain Truth Ironwill.svg]]
-- Compare with [[step_095]]
+- Compare with
 - Connects to [[List Spells Classes Sorcerer]]
 - Connects to [[The Battle Forge Arena 2]]
-- Connects to [[step_009]]
+- Connects to
 - Related: [[Location City Archkeeper Nereon V1 Archkeeper Nereon.svg]]
 - Compare with [[step_041 (phase_043)]]
 - Leads to [[portrait-npc-lady-shadowmere-lady-shadowmere.svg]]
@@ -210,15 +204,15 @@ publish: false --- -|--------|
 - See also: [[Deep Strike Forces]]
 - Leads to [[Imperial Vaults (D&D_References)]]
 - Related: [[Xorn Xmm]]
-- Influences [[step_089]]
-- Parallels [[step_023]]
-- Requires [[step_011]]
+- Influences
+- Parallels
+- Requires
 - Leads to [[Session 18 (06_Sessions)]]
 - Leads to [[LOC00247_Wilderness_Location_248]]
 - Requires [[step_049 (phase_082)]]
 - Affected by [[FAC00098_Orders_99]]
-- Parallels [[step_092]]
-- Influences [[step_070]]
+- Parallels
+- Influences
 - Parallels [[step_009 (phase_092)]]
 - Requires [[The Pearl Markets 2]]
 - Requires [[NPC00940_Thalia_Keenblade_the_Fallen]]
@@ -230,11 +224,11 @@ publish: false --- -|--------|
 - Originates from [[Assets Locations Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg]]
 - Affected by [[step_089 (phase_079)]]
 - Influences [[dawn-war-asmodeus-dmg (deities)]]
-- Parallels [[step_074]]
+- Parallels
 - Affected by [[step_044 (phase_023)]]
 - Compare with [[step_100 (phase_052)]]
 - Connects to [[step_006 (phase_090)]]
-- Related: [[step_019]]
+- Related:
 - Compare with [[location-city-the-portal-wars-the-portal-wars.svg]]
 - Requires [[Reality Distortion 2]]
 - Originates from [[EVENT00091_Natural_Event_92]]
@@ -246,7 +240,7 @@ publish: false --- -|--------|
 - Parallels [[step_027 (phase_058)]]
 - Originates from [[step_008 (phase_080)]]
 - Related: [[Provincial Nobility]]
-- Related: [[step_060]]
+- Related:
 - Related: [[Scaling Physics Laboratory (D&D_References)]]
 - Originates from [[LOC00035_Planes_Location_36]]
 - Requires [[Spymaster Quartz Clearview]]
@@ -268,5 +262,5 @@ publish: false --- -|--------|
 - Influences [[Portrait NPC Lady Shadowmere V1 Lady Shadowmere.svg]]
 - Affected by [[SPELL00158_Divine_Spell_159]]
 - Requires [[Assets Item Artifact Windvane Pota V6 Windvane Pota.png]]
-- Requires [[step_012]]
+- Requires
 - Affected by [[Portrait NPC House Guard Captains V1 House Guard Captains.svg]]

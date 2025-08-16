@@ -18,7 +18,6 @@ aliases: [Guild Seal Document Silverscale Consortiu]
 - [[#Usage Notes|Usage Notes]]
 - [[#Plot Hooks|Plot Hooks]]
 
-
 ---
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -74,7 +73,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
 
-
 > [!warning] ⚠️ Warning
 > Important safety or rule information
 
@@ -102,8 +100,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[NPC01555_Branwen_Xendar_the_Seeker]]
 - [[Complete_NPC_Matrix.md]]
 - [[NPC00969_Zephyr_Keenblade_the_Wise]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -116,7 +113,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## D&D 5e References
 
 *(Combat rules: ACX p.189-198)*
@@ -127,7 +123,7 @@ This content can be adapted and expanded based on specific campaign needs.
 
 - Compare with [[Assets Locations Location City Council of Currents Council of Currents.svg]]
 - Parallels [[Aquabyssos Technical University (D&D_References)]]
-- See also: [[step_005]]
+- See also:
 - Originates from [[ENC00337_Combat_Encounter_338]]
 - Compare with [[Location City Senator Morticia Graveheart V1 Senator Morticia Graveheart.svg]]
 - Influences [[Portrait NPC Marcus the Shade Blackwood Marcus the Shade Blackwood.svg_1 (Portraits)]]
@@ -160,11 +156,11 @@ This content can be adapted and expanded based on specific campaign needs.
 - Compare with [[The Convergence Maze]]
 - Related: [[ITEM00272_Cursed_Staff_of_the_Ancients]]
 - Leads to [[step_081 (phase_032)]]
-- Originates from [[step_095]]
+- Originates from
 - Influences [[02_Worldbuilding_People_Archmaster_Lyralei]]
 - Connects to [[step_083 (phase_038)]]
-- Originates from [[step_095]]
-- Parallels [[step_050]]
+- Originates from
+- Parallels
 - Originates from [[yuan-ti-names-vgm (tables)]]
 - See also: [[Banderhobb Mpmm]]
 - See also: [[Location City Religious V1 Religious Groups.svg]]
@@ -172,7 +168,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - See also: [[NPC01260_Urien_Ravenheart_the_Mystic]]
 - Related: [[step_055 (phase_029)]]
 - See also: [[Locations_Gallery]]
-- Influences [[step_075]]
+- Influences
 - Related: [[LOC00099_Cities_Location_100]]
 - See also: [[Location City Dock Master Anchor Holdfast Dock Master Anchor Holdfast.svg]]
 - Influences [[QUEST00043_Side_Quest_44]]
@@ -184,7 +180,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - Affected by [[The Memory Keepers]]
 - Requires [[Assets Locations Location City Anchor Stronghaul V1 Anchor Stronghaul.svg]]
 - Originates from [[Initiative_Tracker (D&D_References)]]
-- Originates from [[step_100]]
+- Originates from
 - Requires [[Navigator Slyph Currentwhisper]]
 - Connects to [[LORE00063_History_Entry_64]]
 - Affected by [[random-buildings-shop (tables)]]
@@ -205,9 +201,9 @@ This content can be adapted and expanded based on specific campaign needs.
 - Requires [[Aethermoor - Session 09 The Price of Unity]]
 - Connects to [[step_043 (phase_086)]]
 - Connects to [[step_013 (phase_009)]]
-- See also: [[step_024]]
+- See also:
 - Requires [[step_076 (phase_016)]]
-- Connects to [[step_085]]
+- Connects to
 - See also: [[The Tide Pools 2]]
 - Influences [[random-settlements-rulers-status (tables)]]
 - Compare with [[Backup Procedures (D&D_References)]]

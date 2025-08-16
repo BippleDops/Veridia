@@ -18,7 +18,6 @@ aliases: [NPC00542 Corvus Oakenshield the Strong]
 - [[#Thalia Goldleaf the Scholar (Personal - Nemesis)|Thalia Goldleaf the Scholar (Personal - Nemesis)]]
 - [[#Baelor Frostwhisper the Lost (Political - Opposition)|Baelor Frostwhisper the Lost (Political - Opposition)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Corvus Oakenshield the Strong", "corvus oakenshield the strong", "Corvus Oakenshield Strong", "Strong the Oakenshield Corvustags: [npc, character, combat, lore]er]
@@ -144,16 +143,13 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.175Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -165,7 +161,6 @@ Modifications:
 - HP: 37
 - AC: 11
 - Notable abilities: Varies by individual
-
 
 > [!example] 📝 Example
 > How this works in play
@@ -190,11 +185,10 @@ Modifications:
 - [[05 Personality and Background]]
 - [[Count_Strahd_von_Zarovich]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -204,11 +198,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -228,7 +221,7 @@ Modifications:
 - Connects to [[The Ledger Hall]]
 - Compare with [[visibility-underwater-underwater-encounter-distance-xdmg]]
 - Leads to [[Locations [[The Temporal Scars]]]]
-- Affected by [[step_008]]
+- Affected by
 - See also: [[Nonhuman Semuanya]]
 - Influences [[Underdark Encounters Levels 14 Xge]]
 - See also: [[Deck of Many Things 13 Cards]]
@@ -236,7 +229,7 @@ Modifications:
 - Affected by [[Wizard_Journal]]
 - Leads to [[step_047 (phase_047)]]
 - Influences [[#Cross-Campaign Locations]]
-- Related: [[step_082]]
+- Related:
 - Affected by [[Deep Mother Influence (Lore)]]
 - Originates from [[rank-status-and-title-vgm (tables)]]
 - Leads to [[Prismatic Falls]]
@@ -244,7 +237,7 @@ Modifications:
 - Parallels [[Nerissa Depthsong (D&D_References)]]
 - Requires [[Bone Scribes (D&D_References)]]
 - Related: [[[[The [[Noble Quarter]] Market]] (D&D_References)]]
-- Affected by [[step_074]]
+- Affected by
 - Compare with [[Dr. Siphon Gillwater]]
 - Connects to [[step_001 (phase_078)]]
 - Leads to [[Creature Creature Goblin Hexer Xmm V4 Goblin Hexer Xmm.png]]
@@ -257,7 +250,7 @@ Modifications:
 - Requires [[Assets Locations Location City [[Memorial District of [[Abyssos Prime]]]] V1 Memorial District of Abyssos Prime.svg]]
 - Parallels [[Location City [[Keeper Valdris Goldvault]] Keeper Valdris Goldvault.svg]]
 - Affected by [[Portrait NPC House Guard Captains V2 House Guard Captains.svg]]
-- Affected by [[step_032]]
+- Affected by
 - Influences [[Gold Locket With a Painted Portrait Inside]]
 - Parallels [[MON00153_Constructs_Creature_154]]
 - Compare with [[The Whispering Chambers]]
@@ -308,7 +301,7 @@ Modifications:
 - Influences [[ITEM00472_Adamantine_Cloak_of_Grace]]
 - Originates from [[location-city-scarlet-torrent-scarlet-torrent.svg]]
 - Compare with [[Pressure Theorist Dr Current Deepthink]]
-- Requires [[step_026]]
+- Requires
 - Parallels [[step_086 (phase_030)]]
 - Influences [[Depth_Events_Pack_B]]
 - Related: [[step_043 (phase_087)]]
@@ -317,7 +310,6 @@ Modifications:
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

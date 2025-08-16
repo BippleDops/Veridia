@@ -18,7 +18,6 @@ aliases: [NPC01252 Jorah Youngblood the Strong]
 - [[#Urien Thornweave the Wise (Criminal - Target)|Urien Thornweave the Wise (Criminal - Target)]]
 - [[#Felicia Xendar the Swift (Personal - Best friend)|Felicia Xendar the Swift (Personal - Best friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Jorah Youngblood the Strong", "jorah youngblood the strong", "Jorah Youngblood Strong", "Strong the Youngblood Jorahtags: [npc, character, combat, magic, exploration, lore]er]
@@ -154,16 +153,13 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.253Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -173,9 +169,7 @@ Has information about legendary item
 - [[NPC01555_Branwen_Xendar_the_Seeker]]
 - [[NPC01568_Lyanna_Winterborn_the_Strong]]
 - [[Ritual_Timing_Wheel_Convergenc]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -193,7 +187,7 @@ Following magic item guidelines (WWT p.135-136):
 - Xanathar's Secrets Revealed to Everything (XSR) p.109
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -202,11 +196,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -218,7 +211,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[portrait-npc-the-tidecaller-the-tidecaller.svg_1 (Portraits)]]
 - Affected by [[cloak-of-the-manta-ray-xdmg (items)]]
 - Compare with [[gift-of-the-ever-living-ones-xge (optional-features)]]
-- Related: [[step_044]]
+- Related:
 - Connects to [[Symbol Heraldry Elara Crystalline Elara Crystalline.svg]]
 - See also: [[Beta-Seven]]
 - Originates from [[step_052 (phase_094)]]
@@ -230,24 +223,24 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[step_021 (phase_067)]]
 - Parallels [[Social Architect Luna Newdawn (D&D_References)]]
 - Influences [[Family Matriarch Anvil (D&D_References)]]
-- Related: [[step_071]]
+- Related:
 - Leads to [[Economic Systems and Currency 2]]
 - Influences [[Foraging Dcs]]
 - Influences [[Lifestyle Expenses Phb]]
 - Affected by [[Symbol Heraldry Detective Prime Clarity Truthseeke Detective Prime Clarity Truthseeke.svg]]
 - Requires [[LORE00178_Prophecies_Entry_179]]
-- Originates from [[step_012]]
+- Originates from
 - See also: [[poisoned-tempest-xge (traps-hazards)]]
 - Influences [[step_097 (phase_075)]]
 - Connects to [[Assets Symbols Symbol Heraldry Salvage Master Ironwork Salvage Master Ironwork.svg]]
 - Connects to [[step_080 (phase_058)]]
 - Leads to [[Royal Guard (D&D_References)]]
-- Influences [[step_047]]
+- Influences
 - Originates from [[Aetheric Wind Songs (D&D_References)]]
 - Originates from [[[[[[Merchant]] Quarter]] (D&D_References)]]
 - Affected by [[Portrait NPC Stor... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Leads to [[Assets Locations Location City [[Palace Guardians]] V1 Palace Guardians.svg]]
-- Originates from [[step_075]]
+- Originates from
 - Originates from [[Portrait NPC Duke Lysander Crystalvein V2 Duke Lysander Crystalvein.svg]]
 - Requires [[ITEM00081_Frost_Sword_of_Speed]]
 - Connects to [[step_070 (phase_021)]]
@@ -284,19 +277,19 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[EVENT00077_Natural_Event_78]]
 - Affected by [[step_078 (phase_076)]]
 - Related: [[MON00156_Constructs_Creature_157]]
-- Requires [[step_032]]
+- Requires
 - Connects to [[Assets Locations Location City [[Garden Keeper Zen Currentdancer]] Garden Keeper Zen Currentdancer.svg]]
 - Related: [[step_067 (phase_009)]]
-- Connects to [[step_057]]
+- Connects to
 - Parallels [[ITEM00012_Shadow_Spear_of_Power]]
 - Compare with [[FAC00037_Orders_38]]
-- Related: [[step_004]]
+- Related:
 - Originates from [[step_004 (phase_067)]]
 - See also: [[02 Chapter 2 Into Darkness]]
 - Affected by [[symbol-heraldry-the-crown-v1-the-crown.svg]]
 - Connects to [[step_008 (phase_004)]]
 - Influences [[MON00128_Constructs_Creature_129]]
-- Related: [[step_090]]
+- Related:
 - Parallels [[NPC01616_Branwen_Ironwood_the_Wise]]
 - Related: [[ITEM01351_Ornate_Lantern_of_Reliability]]
 - See also: [[NPC01754_Orion_Grimholt_the_Cunning]]
@@ -315,7 +308,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00102 Ysara Winterborn]
 - [[#Fiora Oakenshield (Personal - Ex-lover)|Fiora Oakenshield (Personal - Ex-lover)]]
 - [[#Xander Proudmore the Broken (Criminal - Informant)|Xander Proudmore the Broken (Criminal - Informant)]]
 
-
 ---
 aliases: ["Ysara Winterborn", "ysara winterborn", "Winterborn Ysara"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.123Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -204,7 +199,7 @@ Seeks bodyguards for dangerous journey
 - Requires [[elven-kirith-sotheril-mtf (deities)]]
 - Leads to [[The Waking Prophets]]
 - Parallels [[Parliament Dissolution Crisis]]
-- Compare with [[step_057]]
+- Compare with
 - Leads to [[step_054 (phase_068)]]
 - Connects to [[Depth Survey Authority]]
 - Connects to [[ENC00014_Social_Encounter_15]]
@@ -249,7 +244,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[Resonance Chamber 2]]
 - Related: [[LOC00231_Wilderness_Location_232]]
 - Requires [[step_023 (phase_038)]]
-- See also: [[step_029]]
+- See also:
 - Related: [[Quest - The Prophecy Fulfilled_1 (01_Adventures)]]
 - Affected by [[Portrait NPC Lady Victoria Pennworth Lady Victoria Pennworth.svg]]
 - Originates from [[step_049 (phase_092)]]
@@ -268,7 +263,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01974 Thalia Zephyrblade the Lost]
 - [[#Aldric Crystalbrook the Lost (Political - Patron)|Aldric Crystalbrook the Lost (Political - Patron)]]
 - [[#Cedric Voidwalker the Lost (Criminal - Accomplice)|Cedric Voidwalker the Lost (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Zephyrblade the Lost", "thalia zephyrblade the lost", "Thalia Zephyrblade Lost", "Lost the Zephyrblade Thaliatags: [npc, character, combat, magic, social, lore]er]
@@ -141,16 +140,13 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.330Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -162,7 +158,6 @@ Modifications:
 - HP: 42
 - AC: 14
 - Notable abilities: Varies by individual
-
 
 > [!warning] ⚠️ Warning
 > Important safety or rule information
@@ -178,11 +173,10 @@ Modifications:
 - [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
 - [[NPC01431_Kaelen_Zephyrblade_the_Guardian]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -191,11 +185,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -220,7 +213,7 @@ Modifications:
 - Leads to [[elven-aerdrie-faenya-mtf (deities)]]
 - See also: [[step_024 (phase_049)]]
 - Originates from [[step_049 (phase_058)]]
-- Connects to [[step_091]]
+- Connects to
 - Connects to [[#People]]
 - Compare with [[LOC00212_Wilderness_Location_213]]
 - See also: [[Investigation Procedures (D&D_References)]]
@@ -231,7 +224,7 @@ Modifications:
 - Leads to [[step_014 (phase_052)]]
 - Parallels [[NPC0052_Magnus_Ironforge]]
 - Parallels [[[[Miranda Hopekeeper]] (D&D_References)]]
-- Related: [[step_097]]
+- Related:
 - See also: [[Medical College of [[Aquabyssos]]]]
 - Requires [[Create Homunculus Xge]]
 - Compare with [[carved-bone-statuette-xdmg (items)]]
@@ -263,7 +256,7 @@ Modifications:
 - Parallels [[step_009 (phase_097)]]
 - Influences [[QUEST00070_Main_Quest_71]]
 - Related: [[Map Map Cloud Dock Boarding Action Cloud Dock Boarding Action.svg]]
-- Affected by [[step_027]]
+- Affected by
 - Leads to [[Create_New_Session.png_1 (Art)]]
 - See also: [[NPC00703_Elric_Dawnstrider_the_Swift]]
 - Originates from [[step_045 (phase_041)]]
@@ -293,7 +286,7 @@ Modifications:
 - See also: [[Kobold Dragonshield Mpmm]]
 - Requires [[Assets Locations Location City [[Gem Deepseeker]] V1 Gem Deepseeker.svg]]
 - Requires [[LORE00036_Prophecies_Entry_37]]
-- Leads to [[step_004]]
+- Leads to
 - Leads to [[step_056 (phase_007)]]
 - Requires [[Location City the Pressure Forges the Pressure Forges.svg]]
 - Influences [[step_040 (phase_029)]]
@@ -313,13 +306,12 @@ Modifications:
 - Leads to [[[[Mira Algaebrew]] (D&D_References)]]
 - Related: [[The Anonymous Protocol 2]]
 - Requires [[step_027 (phase_040)]]
-- Originates from [[step_067]]
+- Originates from
 
 ## Visual References
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

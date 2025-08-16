@@ -9,7 +9,6 @@ aliases: [NPC00786 Jorah Underhill the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00786 Jorah Underhill the Risen]
 - [[#Orion Dawnstrider the Broken (Professional - Rival)|Orion Dawnstrider the Broken (Professional - Rival)]]
 - [[#Hestara Ironforge the Broken (Personal - Best friend)|Hestara Ironforge the Broken (Personal - Best friend)]]
 - [[#Baelor Brightblade the Broken (Family - Spouse)|Baelor Brightblade the Broken (Family - Spouse)]]
-
 
 ---
 aliases: ["Jorah Underhill the Risen", "jorah underhill the risen", "Jorah Underhill Risen", "Risen the Underhill Jorah"]
@@ -153,21 +151,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.202Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -197,7 +191,7 @@ Discovered something valuable
 - Parallels [[The Silhouette Surgeon Prime (D&D_References)]]
 - Affected by [[celtic-dunatis (deities)]]
 - Requires [[LOC00017_Wilderness_Location_18]]
-- Connects to [[step_018]]
+- Connects to
 - Requires [[Sky_Lords_Worship]]
 - Related: [[step_064 (phase_031)]]
 - Influences [[Prism_Soul]]
@@ -205,20 +199,20 @@ Discovered something valuable
 - Affected by [[The Bureau of Crystal Regulation]]
 - Parallels [[NPC01760_Nerys_Keenblade_the_Risen]]
 - Compare with [[Secondary Tables War Xge]]
-- See also: [[step_077]]
+- See also:
 - Affected by [[QUEST00174_Side_Quest_175]]
 - Connects to [[step_003 (phase_083)]]
 - Parallels [[MON00074_Constructs_Creature_75]]
-- See also: [[step_059]]
+- See also:
 - Compare with [[Assets Locations Location City Insurance Industry V1 Insurance Industry.svg]]
 - Connects to [[NPC00787_Cedric_Voidwalker_the_Scholar]]
 - See also: [[step_075 (phase_072)]]
 - Originates from [[The Living Tide Temples]]
 - Related: [[Location City House Depthguard V1 House Depthguard.svg]]
-- Originates from [[step_011]]
+- Originates from
 - See also: [[step_007 (phase_048)]]
 - Related: [[step_070 (phase_035)]]
-- Requires [[step_034]]
+- Requires
 - Requires [[Assets Locations Location City Garden of Shadows V1 Garden of Shadows.svg]]
 - Parallels [[LORE00081_History_Entry_82]]
 - Affected by [[2 Goblin Arrows]]
@@ -228,7 +222,7 @@ Discovered something valuable
 - Parallels [[sword-of-vengeance-xdmg (items)]]
 - Parallels [[LORE00049_History_Entry_50]]
 - Originates from [[Reality Anchor Bombs]]
-- Related: [[step_066]]
+- Related:
 - Affected by [[NPC01796_Hestara_Nightfall_the_Risen]]
 - Related: [[ITEM01263_Greater_Powder_of_Clarity]]
 - Connects to [[Location City Free Current Charter V1 Free Current Charter.svg]]
@@ -249,27 +243,27 @@ Discovered something valuable
 - Originates from [[QUEST00273_Personal_Quest_274]]
 - Connects to [[dawn-war-torog-dmg (deities)]]
 - Leads to [[LOC00068_Planes_Location_69]]
-- See also: [[step_047]]
+- See also:
 - Connects to [[NPC00586_Fiora_Moonshadow_the_Wise]]
 - Leads to [[step_047 (phase_087)]]
 - Influences [[Shadow Reflection Sage 2]]
 - Originates from [[X-L-05_The_Pirate_Confederacy_Crown]]
 - See also: [[step_008 (phase_061)]]
 - Leads to [[step_047 (phase_060)]]
-- Compare with [[step_044]]
+- Compare with
 - Requires [[step_067 (phase_091)]]
 - Compare with [[step_060 (phase_086)]]
-- Affected by [[step_036]]
+- Affected by
 - See also: [[Assets Locations Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg]]
 - Leads to [[Taverner Bubbles McGill (D&D_References)]]
-- Compare with [[step_023]]
+- Compare with
 - Influences [[Assets Locations Location City Pelagic Cup V1 Pelagic Cup.svg]]
 - Originates from [[The Reality Compass]]
 - Requires [[Assets Locations Location City Maestro Finn Whirlstep V1 Maestro Finn Whirlstep.svg]]
 - Influences [[Assets Locations Location City Vault Breach Vault Breach.svg]]
 - Originates from [[horn-of-valhalla-iron-xdmg (items)]]
 - Influences [[Wand of Fireballs Xdmg]]
-- Requires [[step_037]]
+- Requires
 - Related: [[Portrait NPC the ... Related To: Local Political Structure Connected Plots: to Be Developed]]
 
 ## Plot Hooks

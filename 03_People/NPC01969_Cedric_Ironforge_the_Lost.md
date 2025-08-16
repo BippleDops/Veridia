@@ -18,7 +18,6 @@ aliases: [NPC01969 Cedric Ironforge the Lost]
 - [[#Wynne Grimholt the Redeemed (Criminal - Accomplice)|Wynne Grimholt the Redeemed (Criminal - Accomplice)]]
 - [[#Pyria Nightfall the Swift (Professional - Employee)|Pyria Nightfall the Swift (Professional - Employee)]]
 
-
 ---
 aliases: ["Cedric Ironforge the Lost", "cedric ironforge the lost", "Cedric Ironforge Lost", "Lost the Ironforge Cedric"]
 tags: [npc, character]
@@ -144,21 +143,17 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.329Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -170,7 +165,7 @@ Is secretly testing the party
 - Connects to [[Security Services 2]]
 - Leads to [[Session 04 the Deep Mother Stirs]]
 - Related: [[LOC00212_Dungeons_Location_213]]
-- Connects to [[step_090]]
+- Connects to
 - Leads to [[storm-giant-xmm (giant)]]
 - Originates from [[The Transition Centers (D&D_References)]]
 - Related: [[Environmental Adaptations and Survival]]
@@ -180,11 +175,11 @@ Is secretly testing the party
 - Compare with [[ink-xphb (items)]]
 - See also: [[Portrait NPC Shadow Duchess Nyx Shadow Duchess Nyx.svg_1 (Portraits)]]
 - Requires [[ITEM00460_Enchanted_Shield_of_Protection]]
-- Parallels [[step_065]]
+- Parallels
 - Influences [[step_077 (phase_033)]]
 - Related: [[Pre-Submersion Ruins]]
 - Related: [[Location City Harbor Master Tideshade V1 Harbor Master Tideshade.svg]]
-- Connects to [[step_049]]
+- Connects to
 - Originates from [[Aethermoor Government]]
 - Originates from [[step_035 (phase_051)]]
 - Related: [[step_020 (phase_078)]]
@@ -195,7 +190,7 @@ Is secretly testing the party
 - See also: [[The Watcher Sanctums]]
 - Requires [[Portrait NPC Captain Torrent Swiftcurrent V2 Captain Torrent Swiftcurrent.svg]]
 - Affected by [[step_007 (phase_054)]]
-- Related: [[step_074]]
+- Related:
 - See also: [[ENC00287_Social_Encounter_288]]
 - See also: [[Shop_Inventories (02_Worldbuilding)]]
 - Parallels [[NPC Reaction Matrix]]
@@ -203,9 +198,9 @@ Is secretly testing the party
 - Leads to [[Portrait NPC Quest the Deep Alliance V2 Quest the Deep Alliance.svg]]
 - Requires [[Assets Locations Location City Crystal Engineer Spark Gemwright V1 Crystal Engineer Spark Gemwright.svg]]
 - Compare with [[Major Image Xphb]]
-- Related: [[step_063]]
+- Related:
 - Connects to [[creature-creature-bat-xmm-v3-bat-xmm.png]]
-- Requires [[step_074]]
+- Requires
 - Leads to [[Oracle Mistweaver (D&D_References)]]
 - Leads to [[magic-item-special-features-magic-items-quirk-xdmg]]
 - Influences [[The Crystal Temple (Places)]]
@@ -219,7 +214,7 @@ Is secretly testing the party
 - Leads to [[DUN00129_Dungeon_130]]
 - See also: [[Zone of Truth Xphb]]
 - Compare with [[Size Categories Mm]]
-- Leads to [[step_017]]
+- Leads to
 - Leads to [[step_026 (phase_093)]]
 - Compare with [[Portrait NPC Deep Sea Explorer Captain Abyss V2 Deep Sea Explorer Captain Abyss.svg]]
 - Leads to [[Wizard Xphb School of Necromancy]]
@@ -255,7 +250,7 @@ Is secretly testing the party
 - Requires [[move-earth-xphb (spells)]]
 - Compare with [[Downtime Activity Building a Stronghold]]
 - Originates from [[Difficult Terrain Xphb]]
-- Connects to [[step_033]]
+- Connects to
 - Leads to [[LORE00294_History_Entry_295]]
 - See also: [[ITEM01405_Sturdy_Lock_of_Durability]]
 - Requires [[NPC01490_Ewan_Ironforge_the_Mystic]]
@@ -267,7 +262,6 @@ Is secretly testing the party
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

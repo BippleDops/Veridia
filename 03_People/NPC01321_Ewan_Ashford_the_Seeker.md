@@ -18,7 +18,6 @@ aliases: [NPC01321 Ewan Ashford the Seeker]
 - [[#Ysara Jadeclaw the Broken (Personal - Love interest)|Ysara Jadeclaw the Broken (Personal - Love interest)]]
 - [[#Zephyr Brightblade the Bold (Personal - Nemesis)|Zephyr Brightblade the Bold (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Ewan Ashford the Seeker", "ewan ashford the seeker", "Ewan Ashford Seeker", "Seeker the Ashford Ewan"]
 tags: [npc, character]
@@ -145,21 +144,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.260Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -169,20 +164,20 @@ Forming expedition to dangerous location
 - Parallels [[FAC00040_Cults_41]]
 - Compare with [[ENC00121_Combat_Encounter_122]]
 - Compare with [[Court Herald Titus (D&D_References)]]
-- Requires [[step_035]]
+- Requires
 - Parallels [[Reality Anchor Networks (Items)]]
 - Affected by [[step_003 (phase_050)]]
 - Parallels [[LORE00013_History_Entry_14]]
 - Originates from [[Expeditious Retreat Xphb]]
 - Leads to [[ENC00223_Social_Encounter_224]]
 - Influences [[Royal Bloodline Codex]]
-- Leads to [[step_039]]
+- Leads to
 - Originates from [[Pressure Networks]]
 - Leads to [[Assets Locations Location City Grand Harbor Grand Harbor.svg]]
 - Requires [[step_005 (phase_034)]]
 - Parallels [[ENC00085_Combat_Encounter_86]]
 - Requires [[Scrap & Salvage]]
-- Influences [[step_077]]
+- Influences
 - Parallels [[Forgotten Realms Loviatar]]
 - Parallels [[step_041 (phase_082)]]
 - Parallels [[The Anonymous Protocol (D&D_References)]]
@@ -212,10 +207,10 @@ Forming expedition to dangerous location
 - Originates from [[armaments-legendary-xdmg (tables)]]
 - Compare with [[step_027 (phase_010)]]
 - Connects to [[step_028 (phase_051)]]
-- Affected by [[step_086]]
+- Affected by
 - See also: [[LORE00327_Legends_Entry_328]]
 - Originates from [[LOC00227_Towns_Location_228]]
-- Related: [[step_002]]
+- Related:
 - Affected by [[step_098 (phase_088)]]
 - Parallels [[step_074 (phase_088)]]
 - Originates from [[The Great Transformation]]
@@ -223,14 +218,14 @@ Forming expedition to dangerous location
 - Related: [[Emergency Medical Research Foundation]]
 - Connects to [[Memory Restoration Devices]]
 - Influences [[step_008 (phase_076)]]
-- Connects to [[step_024]]
+- Connects to
 - Related: [[ENC00207_Social_Encounter_208]]
 - Connects to [[LORE00131_Legends_Entry_132]]
 - Related: [[Luminar the Builder]]
 - Related: [[NPC00475_Felicia_Lightbringer_the_Seeker]]
 - Affected by [[Portrait NPC Lich Queen Morwyn the Deathless V2 Lich Queen Morwyn the Deathless.svg]]
 - See also: [[step_069 (phase_043)]]
-- Parallels [[step_088]]
+- Parallels
 - Influences [[Assets Locations Location City Keeper of Secrets Whisper Darkhold Keeper of Secrets Whisper Darkhold.svg]]
 - Connects to [[Current Bridgewater (D&D_References)]]
 - See also: [[ITEM00919_Superior_Salve_of_Vigor]]
@@ -240,12 +235,12 @@ Forming expedition to dangerous location
 - Requires [[Deepwater Banking Consortium (D&D_References)]]
 - Parallels [[QUEST0096_Investigate_the_Cult]]
 - Requires [[SHOP00027_Specialty_Shop_28]]
-- Originates from [[step_062]]
+- Originates from
 - Requires [[Assets Portraits Portrait NPC the King S Ears the King S Ears.svg]]
 - Parallels [[Quest - The Sanctuary's Secret_1 (01_Adventures)]]
 - Leads to [[Captain Rodrigo Ironanchor (D&D_References)]]
 - Originates from [[NPC00826_Pyria_Dawnstrider_the_Wanderer]]
-- Compare with [[step_015]]
+- Compare with
 - Leads to [[NPC01957_Urien_Darkwater_the_Bold]]
 - Connects to [[step_002 (phase_056)]]
 - Parallels [[Portrait NPC Empress Tethys the Ever Drowning V1 Empress Tethys the Ever Drowning.svg]]
@@ -268,7 +263,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

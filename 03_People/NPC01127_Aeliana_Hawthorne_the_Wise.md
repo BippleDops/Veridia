@@ -18,7 +18,6 @@ aliases: [NPC01127 Aeliana Hawthorne the Wise]
 - [[#Gavril Youngblood the Strong (Professional - Mentor)|Gavril Youngblood the Strong (Professional - Mentor)]]
 - [[#Idris Goldleaf the Wanderer (Political - Opposition)|Idris Goldleaf the Wanderer (Political - Opposition)]]
 
-
 ---
 aliases: ["Aeliana Hawthorne the Wise", "aeliana hawthorne the wise", "Aeliana Hawthorne Wise", "Wise the Hawthorne Aeliana"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.240Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -172,14 +167,14 @@ Caravan needs guards
 - See also: [[02-chapter-1-playing-the-game#Healing]]
 - Requires [[step_051 (phase_038)]]
 - Related: [[NPCs_and_Statblocks]]
-- Influences [[step_096]]
+- Influences
 - Influences [[Physical Characteristics Beholder Eye Color]]
 - Compare with [[SPELL00011_Nature_Spell_12]]
 - See also: [[Elven Alobal Lorfiril Mtf]]
 - Leads to [[Commander Ironprice (D&D_References)]]
 - Affected by [[Security Chief Blackout]]
 - Affected by [[MASTER_RULES_INDEX]]
-- Affected by [[step_059]]
+- Affected by
 - See also: [[Portrait NPC Senator Cordelia Deepcurrent V1 Senator Cordelia Deepcurrent.svg_1 (Portraits)]]
 - Parallels [[Mirror Image Xphb]]
 - Affected by [[step_069 (phase_041)]]
@@ -215,7 +210,7 @@ Caravan needs guards
 - Influences [[NPC01707_Wynne_Ironforge_the_Guardian]]
 - Affected by [[Item Artifact Travelers Clothes Xphb V7 Travelers Clothes Xphb.png]]
 - Connects to [[Merged Magic (D&D_References)]]
-- Requires [[step_035]]
+- Requires
 - Originates from [[SPELL00006_Arcane_Spell_7]]
 - Requires [[The Great Convergence Prophecies (Lore)]]
 - Originates from [[step_063 (phase_030)]]
@@ -234,12 +229,12 @@ Caravan needs guards
 - See also: [[Temple Ward]]
 - Requires [[LORE00098_Prophecies_Entry_99]]
 - Leads to [[Assets Locations Location City the Order of the Shattered Crown the Order of the Shattered Crown.svg]]
-- Connects to [[step_054]]
+- Connects to
 - Compare with [[The Void Touched Oracle (D&D_References)]]
 - Compare with [[step_066 (phase_052)]]
 - Influences [[location-city-ironhold-ironhold.svg]]
 - Affected by [[Portrait NPC Captain Marina Saltborn V2 Captain Marina Saltborn.svg]]
-- See also: [[step_056]]
+- See also:
 - Influences [[Location City Sommelier Bacchus Deepbottle Sommelier Bacchus Deepbottle.svg]]
 - Parallels [[Ethics Review Board Chairman]]
 - Parallels [[Assets Locations Location City Royal Palace Royal Palace.svg]]
@@ -269,7 +264,6 @@ Caravan needs guards
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

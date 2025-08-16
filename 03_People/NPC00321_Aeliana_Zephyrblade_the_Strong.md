@@ -18,7 +18,6 @@ aliases: [NPC00321 Aeliana Zephyrblade the Strong]
 - [[#Aldric Brightblade (Professional - Employer)|Aldric Brightblade (Professional - Employer)]]
 - [[#Hilda Jadeclaw (Political - Ally)|Hilda Jadeclaw (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Aeliana Zephyrblade the Strong", "aeliana zephyrblade the strong", "Aeliana Zephyrblade Strong", "Strong the Zephyrblade Aelianatags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -157,16 +156,13 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.149Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -178,7 +174,6 @@ Modifications:
 - HP: 24
 - AC: 13
 - Notable abilities: Varies by individual
-
 
 > [!warning] ⚠️ Warning
 > Important safety or rule information
@@ -227,11 +222,10 @@ Modifications:
 - [[MOC_Items]]
 - [[Concept_Map]]
 - [[NPC00670_Xander_Goldleaf_the_Scholar]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -242,11 +236,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -270,7 +263,7 @@ Modifications:
 
 - Affected by [[step_067 (phase_015)]]
 - Affected by [[Portrait NPC Pressure Angel Benthia V1 Pressure Angel Benthia.png_1 (Portraits)]]
-- Connects to [[step_081]]
+- Connects to
 - Affected by [[Location City Reflection Pools Surgical Theater Reflection Pools Surgical Theater.svg]]
 - Originates from [[The Deep Mother (D&D_References)]]
 - Affected by [[Ammunition 2 Xdmg]]
@@ -298,10 +291,10 @@ Modifications:
 - Leads to [[Academic Centers (D&D_References)]]
 - Leads to [[QUEST00067_Main_Quest_68]]
 - Connects to [[spirit-guardians-xphb (spells)]]
-- Compare with [[step_060]]
+- Compare with
 - Affected by [[ENC00180_Social_Encounter_181]]
 - Related: [[Assets Locations Location City [[Crystal Speak]] V1 Crystal Speak.png]]
-- Originates from [[step_073]]
+- Originates from
 - Compare with [[The Abyssal Court 3 (D&D_References)]]
 - Affected by [[otherworldly-leap-xphb (optional-features)]]
 - Parallels [[ENC00085_Combat_Encounter_86]]
@@ -309,7 +302,7 @@ Modifications:
 - See also: [[step_047 (phase_022)]]
 - Affected by [[Observatory of Broken Stars]]
 - Connects to [[alchemists-supplies-xphb (items)]]
-- Requires [[step_069]]
+- Requires
 - Related: [[step_057 (phase_024)]]
 - Leads to [[Weather and Seasons]]
 - Parallels [[LOC00115_Towns_Location_116]]
@@ -322,7 +315,7 @@ Modifications:
 - Connects to [[step_058 (phase_037)]]
 - See also: [[step_075 (phase_037)]]
 - Requires [[cleric-xphb-forge-domain-xge (classes)]]
-- Originates from [[step_098]]
+- Originates from
 - Requires [[Old Tongue 2]]
 - See also: [[Cultural Bridges]]
 - Parallels [[EVENT00077_Natural_Event_78]]
@@ -334,7 +327,7 @@ Modifications:
 - See also: [[Shadow Ability Ethics]]
 - Originates from [[Services Phb]]
 - Originates from [[Assets Locations [[Location City [[Coral Throne Syndicate]] Hq V1 [[Coral Throne Syndicate HQ]].svg]]]]
-- Related: [[step_094]]
+- Related:
 - Leads to [[The Bloodline Carrier (D&D_Statblocks)]]
 - Requires [[step_009 (phase_032)]]
 - Influences [[MON00033_Aberrations_Creature_34]]
@@ -344,7 +337,7 @@ Modifications:
 - Influences [[step_089 (phase_041)]]
 - Related: [[The Abyssal Prophet (D&D_References)]]
 - Leads to [[portrait-npc-oracle-v2-oracle.svg]]
-- Originates from [[step_012]]
+- Originates from
 - Parallels [[NPC0077_Minerva_Ironforge]]
 - Affected by [[portrait-npc-emperor-emperor.svg_1 (Portraits)]]
 - Affected by [[step_048 (phase_044)]]
@@ -365,7 +358,7 @@ Modifications:
 - Parallels [[Time Storm Shelters]]
 - Influences [[International Training Exchange]]
 - Affected by [[step_003 (phase_032)]]
-- Related: [[step_079]]
+- Related:
 - Originates from [[Screaming Tree Guardians]]
 - Leads to [[SHOP00030_Magical_Shop_31]]
 
@@ -373,7 +366,6 @@ Modifications:
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

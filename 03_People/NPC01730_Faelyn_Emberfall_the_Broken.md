@@ -9,7 +9,6 @@ aliases: [NPC01730 Faelyn Emberfall the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01730 Faelyn Emberfall the Broken]
 - [[#Corvus Blackstone the Wanderer (Personal - Childhood friend)|Corvus Blackstone the Wanderer (Personal - Childhood friend)]]
 - [[#Lyanna Winterborn the Bold (Family - Child)|Lyanna Winterborn the Bold (Family - Child)]]
 - [[#Brenna Zephyrblade the Fallen (Political - Patron)|Brenna Zephyrblade the Fallen (Political - Patron)]]
-
 
 ---
 created: 2025-08-15
@@ -158,16 +156,13 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.304Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -216,9 +211,7 @@ Provides information for a price
 - [[Count_Strahd_von_Zarovich]]
 - [[MOC_Items]]
 - [[03 Races]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -236,7 +229,7 @@ Following magic item guidelines (WWT p.135-136):
 - Bestiary Compendium (BC) p.109
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -246,11 +239,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -276,7 +268,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[step_078 (phase_007)]]
 - Influences [[step_050 (phase_042)]]
 - Affected by [[Trap Effects Trap Save Dcs and Attack Bonuses]]
-- Affected by [[step_014]]
+- Affected by
 - See also: [[step_032 (phase_070)]]
 - Requires [[LOC00017_Dungeons_Location_18]]
 - Leads to [[step_019 (phase_075)]]
@@ -288,7 +280,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[lightly-armored-xphb (feats)]]
 - Leads to [[step_042 (phase_012)]]
 - See also: [[Trade Networks (D&D_References)]]
-- Related: [[step_074]]
+- Related:
 - Leads to [[Tourmaline Xdmg]]
 - See also: [[step_089 (phase_040)]]
 - Parallels [[The Skyborn Elite]]
@@ -321,12 +313,12 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[LOC0147_NewHill]]
 - Originates from [[Supplemental Tables Absent Parent Xge]]
 - Parallels [[sahuagin-warrior-xmm]]
-- Influences [[step_099]]
+- Influences
 - Affected by [[The Wound]]
 - See also: [[Master Archivist Valdric Stonewhisper]]
 - See also: [[layers-of-pandemonium-xdmg (tables)]]
 - Connects to [[Religious Groups (D&D_References)]]
-- See also: [[step_085]]
+- See also:
 - See also: [[QUEST00133_Side_Quest_134]]
 - Leads to [[LORE00252_Prophecies_Entry_253]]
 - Influences [[International Trade Routes]]
@@ -335,7 +327,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Symbol Heraldry Scream Crystals Scream Crystals.svg]]
 - Connects to [[step_026 (phase_078)]]
 - Compare with [[LORE00158_Prophecies_Entry_159]]
-- See also: [[step_073]]
+- See also:
 - Requires [[Construct Spirit Xphb]]
 - Parallels [[step_035 (phase_062)]]
 - See also: [[ITEM01354_Practical_Journal_of_Quality]]

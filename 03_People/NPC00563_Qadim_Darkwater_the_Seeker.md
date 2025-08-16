@@ -18,7 +18,6 @@ aliases: [NPC00563 Qadim Darkwater the Seeker]
 - [[#Urien Zephyrblade the Fallen (Political - Spy)|Urien Zephyrblade the Fallen (Political - Spy)]]
 - [[#Erasmus Goldleaf the Mystic (Political - Puppet)|Erasmus Goldleaf the Mystic (Political - Puppet)]]
 
-
 ---
 aliases: ["Qadim Darkwater the Seeker", "qadim darkwater the seeker", "Qadim Darkwater Seeker", "Seeker the Darkwater Qadim"]
 tags: [npc, character]
@@ -137,25 +136,21 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.177Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Leads to [[step_005]]
+- Leads to
 - Affected by [[step_058 (phase_066)]]
 - Connects to [[step_047 (phase_006)]]
 - See also: [[Surface Observation Posts (D&D_References)]]
@@ -170,7 +165,7 @@ Witnessed a crime
 - Parallels [[Corruption Symptoms Guide]]
 - Influences [[The Restoration Movement]]
 - Compare with [[Comparative Mythology]]
-- Parallels [[step_040]]
+- Parallels
 - Influences [[Lumengarde 2]]
 - Influences [[step_065 (phase_050)]]
 - Requires [[Parliament Members]]
@@ -192,17 +187,17 @@ Witnessed a crime
 - Compare with [[NPC00748_Zephyr_Voidwalker_the_Fallen]]
 - Compare with [[NPC00636_Pyria_Nightfall_the_Mystic]]
 - Originates from [[Keepers of Memory (D&D_References)]]
-- Related: [[step_066]]
+- Related:
 - Connects to [[Lich Xmm (undead)]]
 - Requires [[Pressure_Altitude_Reference]]
-- See also: [[step_019]]
+- See also:
 - Affected by [[Martha Hillbrook 2]]
 - See also: [[Warrior Scarredheart]]
 - Originates from [[The Crystal Concordance]]
 - Connects to [[Dungeon_Map]]
 - Leads to [[SPELL00022_Arcane_Spell_23]]
 - Connects to [[LORE00214_History_Entry_215]]
-- Compare with [[step_038]]
+- Compare with
 - Originates from [[Lord Commander Thane Skyward]]
 - Parallels [[Beholder Xmm (legendary-group)]]
 - See also: [[The Crown of Stars (Lore)]]
@@ -243,14 +238,14 @@ Witnessed a crime
 - See also: [[LOC00060_Wilderness_Location_61]]
 - Leads to [[02_Worldbuilding_Spells_Mirror_Window]]
 - See also: [[SHOP00019_Magical_Shop_20]]
-- Influences [[step_045]]
+- Influences
 - Related: [[Memory Merchant Centers]]
 - Related: [[Assets Item Artifact Spell Gem Lapis Lazuli Oota V1 Spell Gem Lapis Lazuli Oota.png]]
 - Influences [[Condition_Tracker (02_Worldbuilding)]]
 - Connects to [[Abyssal Essence]]
 - Influences [[NPC01943_Xander_Proudmore_the_Fallen]]
 - Related: [[Oil of Slipperiness Xdmg]]
-- Affected by [[step_021]]
+- Affected by
 - Parallels [[Portrait NPC the Shadow Warren V2 the Shadow Warren.svg_1 (Portraits)]]
 - Connects to [[step_094 (phase_036)]]
 - Originates from [[step_032 (phase_052)]]
@@ -260,7 +255,6 @@ Witnessed a crime
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00860 Gavril Winterborn the Swift]
 - [[#Nerys Stormwind the Wanderer (Criminal - Target)|Nerys Stormwind the Wanderer (Criminal - Target)]]
 - [[#Jorah Ravenheart the Bold (Criminal - Fence)|Jorah Ravenheart the Bold (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gavril Winterborn the Swift", "gavril winterborn the swift", "Gavril Winterborn Swift", "Swift the Winterborn Gavril"]
@@ -151,16 +150,13 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.210Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -183,11 +179,10 @@ Has map to lost treasure
 - [[MOC_Rules]]
 - [[NPC01786_Zephyr_Jadeclaw_the_Mystic]]
 - [[NPC01943_Xander_Proudmore_the_Fallen]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -198,11 +193,10 @@ Has map to lost treasure
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -210,8 +204,8 @@ Has map to lost treasure
 - Originates from [[Finn Brightwater 2]]
 - Compare with [[LOC0080_NorthFalls]]
 - Parallels [[step_100 (phase_072)]]
-- Influences [[step_034]]
-- Compare with [[step_076]]
+- Influences
+- Compare with
 - Connects to [[Exploring the Mine Xdmg]]
 - See also: [[Assets Handouts Handout Handout Smuggler Ledger Page V1 Smuggler Ledger Page.png]]
 - Related: [[Investigative Chronicler Darius Truthseeker]]
@@ -219,12 +213,12 @@ Has map to lost treasure
 - See also: [[step_006 (phase_055)]]
 - Originates from [[12_Research_D&D_Statblocks_The_Synthesis_Gardens]]
 - Affected by [[Chancellor Marcus Provinces]]
-- See also: [[step_030]]
+- See also:
 - Compare with [[16 Chapter 16 the Fetid Wedding]]
 - Related: [[actions#Disengage]]
 - Influences [[step_004 (phase_058)]]
 - Affected by [[step_065 (phase_007)]]
-- Related: [[step_001]]
+- Related:
 - Influences [[QUEST00391_Side_Quest_392]]
 - Originates from [[Equipment_Catalogs (D&D_References)]]
 - Connects to [[Portrait NPC the Deep Trade Routes the Deep Trade Routes.svg]]
@@ -244,7 +238,7 @@ Has map to lost treasure
 - Affected by [[The Royal Transformation]]
 - Related: [[Assets Locations Location City Treasury Department Treasury Department.svg]]
 - Originates from [[step_080 (phase_030)]]
-- Requires [[step_014]]
+- Requires
 - See also: [[step_072 (phase_033)]]
 - Parallels [[step_087 (phase_089)]]
 - Related: [[step_078 (phase_026)]]
@@ -260,7 +254,7 @@ Has map to lost treasure
 - Connects to [[step_025 (phase_080)]]
 - Affected by [[The Shadow Markets New]]
 - Connects to [[LOC00003_Wilderness_Location_4]]
-- See also: [[step_086]]
+- See also:
 - Requires [[step_070 (phase_061)]]
 - Parallels [[NPC01311_Zephyr_Xendar_the_Wanderer]]
 - Requires [[step_003 (phase_025)]]
@@ -270,7 +264,7 @@ Has map to lost treasure
 - Affected by [[Glossary Conventions Xphb]]
 - Compare with [[Portrait NPC Captain Sarah Ironheart V1 Captain Sarah Ironheart.svg]]
 - Affected by [[grassland-encounters-levels-1116-xge (tables)]]
-- See also: [[step_080]]
+- See also:
 - Affected by [[enspelled-armor-level-6-xdmg (items)]]
 - Leads to [[Boon of Spell Recall Xphb]]
 - Leads to [[Location City Elder Matthias Stoneward Elder Matthias Stoneward.svg]]
@@ -284,7 +278,7 @@ Has map to lost treasure
 - See also: [[Portrait NPC Vex Shadowthorn V1 Vex Shadowthorn.svg_1 (Portraits)]]
 - Influences [[portrait-npc-sire-v1-sire.svg]]
 - Originates from [[The Synthesis Gardens (D&D_Statblocks)]]
-- Compare with [[step_077]]
+- Compare with
 - Affected by [[magic-item-table-c (tables)]]
 - Related: [[Rising Dark]]
 - Parallels [[dungeon-dressing-container-contents (tables)]]
@@ -292,16 +286,16 @@ Has map to lost treasure
 - Influences [[step_078 (phase_075)]]
 - Connects to [[Portrait NPC Ques... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Parallels [[deities-of-dragonlance-good-phb (tables)]]
-- Related: [[step_084]]
+- Related:
 - Compare with [[ITEM00828_Void-touched_Mirror_of_the_Gods]]
 - Originates from [[Captain Storm Tideguard]]
 - Related: [[Project Mindbridge (D&D_References)]]
 - Parallels [[Location City Commercial District Commercial District.svg]]
-- Connects to [[step_083]]
+- Connects to
 - Leads to [[Aethermoor - Session 03 Council of Shadows]]
 - Requires [[Community Mediator Balance Wright (D&D_References)]]
 - Originates from [[scarecrow-xmm (construct)]]
-- Requires [[step_078]]
+- Requires
 - Related: [[step_004 (phase_094)]]
 - Parallels [[action-xphb (variant-rules)]]
 - Compare with [[Archivist Reef Bookkeeper (D&D_References)]]
@@ -311,7 +305,6 @@ Has map to lost treasure
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

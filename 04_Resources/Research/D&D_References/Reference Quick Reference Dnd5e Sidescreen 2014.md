@@ -49,7 +49,6 @@ world: Both
 
 --- # D&D 5e Side Screen (2014) | Name | Effect |
 
-
 | --- | --- |
 | Resistance | 1/2 dmg |
 | Immunity | 0 damage |
@@ -74,22 +73,22 @@ world: Both
 > [[08-using-ability-scores#Contests|Contests]]
 > [[08-using-ability-scores#Skills|Skills]]
 > [[08-using-ability-scores#Lifting and Carrying|Lifting and Carrying]] > [!info]- Conditions
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]]
-> [[Conditions]] > [!info]- Combat Actions
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]]
+> [[05_Rules/Conditions]] > [!info]- Combat Actions
 > [[actions|Activate an Item]]
 > [[actions|Attack]]
 > [[actions|Cast a Spell]]
@@ -165,7 +164,6 @@ world: Both
 > [[skills#Survival|Survival]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Dn D5e Side Screen 2014 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Dn D5e Side Screen 2014 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dn D5e Side Screen 2014. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## Plot Hooks - A map reveals ancient history about a local noble
 
 - A shipment has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

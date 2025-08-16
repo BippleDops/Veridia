@@ -18,7 +18,6 @@ aliases: [01-introduction (players-handbook-2014)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 01-introduction (players-handbook-2014)
@@ -36,7 +35,7 @@ This document contains important information regarding 01-introduction and its r
 
 01-introduction represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
-- **Primary Purpose**: Serves specific 
+- **Primary Purpose**: Serves specific
 *The air carries the scent of [appropriate smell].*function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details
@@ -61,11 +60,9 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
@@ -96,9 +93,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 Knows the location of a key artifact
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -126,7 +121,6 @@ Following magic item guidelines (WWT p.135-136):
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -156,7 +150,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Reality Anchor Ring 2]]
 - Influences [[SPELL00003_Arcane_Spell_4]]
 - Requires [[step_030 (phase_014)]]
-- Requires [[step_074]]
+- Requires
 - See also: [[step_063 (phase_041)]]
 - Connects to [[Sunken Vineyards]]
 - Affected by [[Captain Redbeard (D&D_References)]]
@@ -169,13 +163,13 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Cart Xphb]]
 - Influences [[Ships - Player_Handout_Aquabyssos_Submarines]]
 - Affected by [[LOC00076_Dungeons_Location_77]]
-- Influences [[step_084]]
+- Influences
 - See also: [[NPC01385_Idris_Hawthorne_the_Fallen]]
 - Connects to [[The Seekers' Guild]]
 - Connects to [[Sword Wraith Commander Mpmm]]
 - Parallels [[Cultural Sage Deep-Memory]]
 - Requires [[Assets Locations Location City Kelp Forest Constituencies Kelp Forest Constituencies.svg]]
-- Parallels [[step_097]]
+- Parallels
 - Requires [[ENC00153_Environmental_Encounter_154]]
 - Affected by [[Assets Locations Location City Security Services Security Services.svg]]
 - Parallels [[LOC00292_Dungeons_Location_293]]
@@ -194,19 +188,19 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[16-chapter-16-the-fetid-wedding (out-of-the-abyss)]]
 - Originates from [[Eye Agate Xdmg]]
 - Parallels [[Treasury Department 2]]
-- Leads to [[step_018]]
+- Leads to
 - Originates from [[Transformation Hospital]]
 - Requires [[LOC00110_Dungeons_Location_111]]
 - Affected by [[The Soul Market (D&D_References)]]
 - See also: [[Circle of Nature's Balance (D&D_References)]]
 - See also: [[Parliament Deep District (D&D_References)]]
-- Parallels [[step_037]]
+- Parallels
 - Compare with [[Portrait NPC Zephyr Goldwhisper Zephyr Goldwhisper.svg_1 (Portraits)]]
 - Leads to [[Shopping_List]]
 - Compare with [[Aquabyssos_Session_01 (D&D_References)]]
 - Leads to [[LORE00096_Legends_Entry_97]]
 - Compare with [[The Identity Wars]]
-- Influences [[step_025]]
+- Influences
 - Influences [[Assets Locations Location City the Last Seeds V1 the Last Seeds.svg]]
 - Leads to [[Ambassador Silk Bridgewater (D&D_References)]]
 - Influences [[step_095 (phase_054)]]
@@ -215,7 +209,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Generate Campaign NPCs (Text Generator Templates)]]
 - Influences [[Quests Quest the Sacred Flame]]
 - Compare with [[step_031 (phase_094)]]
-- Requires [[step_079]]
+- Requires
 - Influences [[10-combat#Initiative]]
 - Originates from [[mage-hunter-scc (monstrosity)]]
 - Compare with [[Lost Fleet (D&D_References)]]
@@ -224,7 +218,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[LOC00074_Dungeons_Location_75]]
 - Compare with [[LORE00232_Prophecies_Entry_233]]
 - Compare with [[Assets Locations Location City Sage Nereon Sage Nereon.svg]]
-- Compare with [[step_087]]
+- Compare with
 - Parallels [[Temporal Viewing Chambers (D&D_References)]]
 - Leads to [[Guard Drake Red Mpmm]]
 - Requires [[Assets Locations Location City Harbor Patrol V1 Harbor Patrol.svg]]

@@ -18,7 +18,6 @@ aliases: [NPC00847 Caelum Goldleaf the Mystic]
 - [[#Corvus Lightbringer the Mystic (Personal - Nemesis)|Corvus Lightbringer the Mystic (Personal - Nemesis)]]
 - [[#Qadim Crystalbrook the Wise (Political - Opposition)|Qadim Crystalbrook the Wise (Political - Opposition)]]
 
-
 ---
 aliases: ["Caelum Goldleaf the Mystic", "caelum goldleaf the mystic", "Caelum Goldleaf Mystic", "Mystic the Goldleaf Caelum"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.209Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -192,10 +187,10 @@ Caravan needs guards
 - Requires [[step_100 (phase_040)]]
 - Compare with [[ENC00295_Social_Encounter_296]]
 - Parallels [[step_078 (phase_006)]]
-- Parallels [[step_068]]
+- Parallels
 - Compare with [[QUEST00319_Side_Quest_320]]
 - Parallels [[Depth Warden Patrol 2]]
-- See also: [[step_033]]
+- See also:
 - Parallels [[step_063 (phase_009)]]
 - Affected by [[step_070 (phase_026)]]
 - Related: [[Assets Locations Location City the Plague Ward the Plague Ward.svg]]
@@ -204,10 +199,10 @@ Caravan needs guards
 - Originates from [[SPELL00055_Arcane_Spell_56]]
 - Parallels [[alarm-xphb (spells)]]
 - Connects to [[Weather_And_Season (D&D_References)]]
-- Affected by [[step_030]]
+- Affected by
 - Connects to [[Assets Locations Location City the Last Seeds the Last Seeds.svg]]
 - Compare with [[step_089 (phase_076)]]
-- Requires [[step_049]]
+- Requires
 - Originates from [[The Emergence]]
 - Compare with [[The Memory Meadows Black Market]]
 - Parallels [[Master Depth-Crystal Thalamos 2]]
@@ -216,9 +211,9 @@ Caravan needs guards
 - Related: [[Madame Whisper 2]]
 - Related: [[Director of Experimental Procedures Dr Siren]]
 - Related: [[Location City Wisdom Futureseer V1 Wisdom Futureseer.svg]]
-- Leads to [[step_089]]
+- Leads to
 - Leads to [[Assets Locations Location City Whisper Island Docks V1 Whisper Island Docks.svg]]
-- Originates from [[step_067]]
+- Originates from
 - See also: [[Divine Preservation Magic]]
 - Requires [[Dwarven Clangeddin Silverbeard Mtf]]
 - Compare with [[Elemental Attunement]]
@@ -234,7 +229,7 @@ Caravan needs guards
 - Compare with [[step_038 (phase_012)]]
 - Connects to [[ENC00263_Combat_Encounter_264]]
 - Requires [[LOC00020_Towns_Location_21]]
-- Compare with [[step_001]]
+- Compare with
 - Influences [[step_054 (phase_091)]]
 - Parallels [[The Crystal Throne]]
 - Compare with [[step_018 (phase_080)]]
@@ -259,7 +254,7 @@ Caravan needs guards
 - Connects to [[Location City Keeper Thundercall Keeper Thundercall.svg]]
 - Related: [[step_009 (phase_012)]]
 - Leads to [[The_Professional_Standards_Authority (02_Worldbuilding)]]
-- Related: [[step_082]]
+- Related:
 - Influences [[step_077 (phase_035)]]
 - Compare with [[step_072 (phase_067)]]
 - Parallels [[Transformation Assistance 2]]
@@ -268,15 +263,14 @@ Caravan needs guards
 - See also: [[Crime Boss Viper]]
 - See also: [[QUEST0093_The_Shadow_Realm_Disappearances]]
 - Leads to [[step_011 (phase_029)]]
-- Requires [[step_013]]
-- Compare with [[step_057]]
+- Requires
+- Compare with
 - See also: [[Template_StarSystem_Placeholder.png_2 (09_Templates)]]
 
 ## Visual References
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

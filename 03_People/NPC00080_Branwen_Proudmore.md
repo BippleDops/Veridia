@@ -9,7 +9,6 @@ aliases: [NPC00080 Branwen Proudmore]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00080 Branwen Proudmore]
 - [[#Baelor Ironwood the Redeemed (Family - Child)|Baelor Ironwood the Redeemed (Family - Child)]]
 - [[#Gavril Dawnstrider (Personal - Love interest)|Gavril Dawnstrider (Personal - Love interest)]]
 - [[#Drusilla Jadeclaw the Seeker (Professional - Employee)|Drusilla Jadeclaw the Seeker (Professional - Employee)]]
-
 
 ---
 created: 2025-08-15
@@ -160,16 +158,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.120Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -196,11 +191,10 @@ Wants rivals investigated
 - [[10 Appendix B Creature Stat Blocks]]
 - [[Character_Journal_Template]]
 - [[NPC00069_Thalia_Brightblade_the_Guardian]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -209,15 +203,14 @@ Wants rivals investigated
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- Leads to [[step_055]]
+- Leads to
 - Affected by [[Assets Locations Location City Port Meridian Medical Institute Port Meridian Medical Institute.svg]]
 - Leads to [[carpet-of-flying-4-ft-6-ft-xdmg (items)]]
 - Connects to [[The Sorrow Gardens 2]]
@@ -227,7 +220,7 @@ Wants rivals investigated
 - Leads to [[animal-lord-hunter-xmm (celestial)]]
 - See also: [[Eastern Technical University]]
 - Compare with [[Gravenhollow Compass Ring Oota]]
-- Connects to [[step_037]]
+- Connects to
 - Compare with [[Portrait NPC the Throne Pretenders V1 the Throne Pretenders.svg]]
 - Requires [[SHOP00052_Magical_Shop_53]]
 - Parallels [[LORE00267_Prophecies_Entry_268]]
@@ -256,9 +249,9 @@ Wants rivals investigated
 - Related: [[LOC00132_Towns_Location_133]]
 - See also: [[Assets Handouts Handout Handout Temple Prayer Sheet V1 Temple Prayer Sheet.png]]
 - Related: [[LORE00124_Legends_Entry_125]]
-- Requires [[step_008]]
+- Requires
 - Originates from [[LOC0057_NewVale]]
-- Affected by [[step_020]]
+- Affected by
 - Parallels [[QUEST00002_Personal_Quest_3]]
 - Connects to [[Ulitharid Mpmm]]
 - Parallels [[The Convergence Oracle 2]]
@@ -277,7 +270,7 @@ Wants rivals investigated
 - Connects to [[Wise Tide Truthseeker]]
 - Influences [[step_075 (phase_041)]]
 - Requires [[step_080 (phase_097)]]
-- Connects to [[step_077]]
+- Connects to
 - Influences [[Portrait NPC Surface Ambassador Lord Seaworthy V1 Surface Ambassador Lord Seaworthy.svg]]
 - Compare with [[Merchant Lord Cornelius Generous]]
 - Related: [[Sundered Peaks]]
@@ -286,7 +279,7 @@ Wants rivals investigated
 - Originates from [[General Radiance Stormwright]]
 - Compare with [[Location City the Hybrid Harbor V1 the Hybrid Harbor.svg]]
 - Leads to [[ITEM01436_Ornate_Map_Case_of_Quality]]
-- See also: [[step_027]]
+- See also:
 - Compare with [[brass-dragon-scale-mail-xdmg (items)]]
 - Leads to [[step_028 (phase_049)]]
 - Influences [[Session Notes Template_1 (09_Templates)]]
@@ -300,15 +293,15 @@ Wants rivals investigated
 - Requires [[elemental-bane-xge (spells)]]
 - Parallels [[The Memory Meadows Black Market]]
 - Affected by [[Location City Memory Coral Reefs V1 Memory Coral Reefs.svg]]
-- Related: [[step_069]]
+- Related:
 - Connects to [[ITEM01403_Ornate_Rope_of_Convenience]]
 - Influences [[Corrupt Guards]]
 - Influences [[Zephyr Strike Xge]]
-- Influences [[step_091]]
+- Influences
 - Requires [[Assets Art Trade War.png]]
 - Connects to [[list-spells-backgrounds-quandrix-student-scc (lists)]]
 - Parallels [[ITEM01219_Greater_Salve_of_Swiftness]]
-- Compare with [[step_072]]
+- Compare with
 - Affected by [[EVENT00012_Natural_Event_13]]
 - Requires [[Duchess Elara Brightwater]]
 - Parallels [[baphomet-mtf (legendary-group)]]

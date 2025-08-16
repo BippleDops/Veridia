@@ -18,7 +18,6 @@ aliases: [NPC00819 Lyanna Proudmore the Fallen]
 - [[#Urien Goldleaf the Swift (Family - Spouse)|Urien Goldleaf the Swift (Family - Spouse)]]
 - [[#Pyria Grimholt the Wise (Family - Parent)|Pyria Grimholt the Wise (Family - Parent)]]
 
-
 ---
 aliases: ["Lyanna Proudmore the Fallen", "lyanna proudmore the fallen", "Lyanna Proudmore Fallen", "Fallen the Proudmore Lyanna"]
 tags: [npc, character]
@@ -155,21 +154,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.206Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,14 +177,14 @@ Caravan needs guards
 - Parallels [[step_075 (phase_025)]]
 - Parallels [[Giant Owl Xmm]]
 - Originates from [[NPC01180_Aeliana_Zephyrblade_the_Redeemed]]
-- Influences [[step_008]]
+- Influences
 - Related: [[secondary-tables-supernatural-events-xge (tables)]]
 - Parallels [[High Priestess Marina Oracleguard]]
 - Parallels [[Inverse Colonie 2]]
 - Parallels [[Emergency_Navigation_Response (02_Worldbuilding)]]
 - Influences [[Artifact Properties Minor Detrimental]]
 - Parallels [[Aganazzars Scorcher Xge]]
-- Originates from [[step_012]]
+- Originates from
 - Parallels [[celtic-silvanus (deities)]]
 - Connects to [[step_012 (phase_034)]]
 - Originates from [[Map Map Aethermoor Harbor Skirmish V1 Aethermoor Harbor Skirmish.png]]
@@ -211,7 +206,7 @@ Caravan needs guards
 - Originates from [[step_089 (phase_088)]]
 - Leads to [[chamber-purpose-dungeon-temple-or-shrine (tables)]]
 - Related: [[NPC00127_Thalia_Quicksilver]]
-- Influences [[step_065]]
+- Influences
 - Requires [[The Integration Temple 2]]
 - Influences [[stone-warrior-pota (construct)]]
 - Affected by [[NPC00111_Felicia_Underhill]]
@@ -220,13 +215,13 @@ Caravan needs guards
 - Connects to [[Multi-Phase Boss Fights (Lore)]]
 - See also: [[step_032 (phase_023)]]
 - See also: [[ITEM00779_Ancient_Crown_of_Eternity]]
-- Compare with [[step_064]]
+- Compare with
 - See also: [[step_096 (phase_010)]]
 - Influences [[Void Shepherds]]
 - Parallels [[step_034 (phase_053)]]
 - Requires [[difficulty-class-typical-dcs-xdmg (tables)]]
 - Compare with [[ITEM00023_Venomous_Hammer_of_Wounding]]
-- Parallels [[step_031]]
+- Parallels
 - Connects to [[Master Artificers Guild (Guilds)]]
 - Requires [[Tidal Priest Marina Deepcurrent]]
 - Affected by [[QUEST00115_Side_Quest_116]]
@@ -236,8 +231,8 @@ Caravan needs guards
 - Requires [[Throne Room (Lore)]]
 - Compare with [[Portrait NPC Abyssos Prime Government V2 Abyssos Prime Government.svg_1 (Portraits)]]
 - Influences [[step_021 (phase_087)]]
-- Originates from [[step_035]]
-- Requires [[step_018]]
+- Originates from
+- Requires
 - Parallels [[Astral Color Pools Xdmg]]
 - Leads to [[duergar-in-the-clan-duergar-clan-names-mtf (tables)]]
 - Originates from [[Medical Cover Credentials 2]]
@@ -249,7 +244,7 @@ Caravan needs guards
 - Influences [[Symbol Heraldry the Shadow Crystal Synthesis V1 the Shadow Crystal Synthesis.png]]
 - Affected by [[step_018 (phase_038)]]
 - Leads to [[location-city-the-deep-temple-the-deep-temple.svg]]
-- Influences [[step_096]]
+- Influences
 - See also: [[QUEST00047_Side_Quest_48]]
 - Parallels [[Adventure Boldexplorer (D&D_Sourcebooks)]]
 - Connects to [[LORE00254_History_Entry_255]]
@@ -258,7 +253,7 @@ Caravan needs guards
 - Compare with [[step_044 (phase_067)]]
 - Compare with [[Assets Locations Location City the Hidden Cove of Whispers V1 the Hidden Cove of Whispers.svg]]
 - Influences [[Shadow Navigation Charts]]
-- Leads to [[step_001]]
+- Leads to
 - Parallels [[step_014 (phase_051)]]
 - Influences [[Location City Council of Faiths Council of Faiths.svg]]
 - Connects to [[Location City Aboleth Adjunct Yzz Aboleth Adjunct Yzz.svg]]
@@ -278,7 +273,6 @@ Caravan needs guards
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

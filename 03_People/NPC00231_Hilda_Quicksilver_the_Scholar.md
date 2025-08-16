@@ -18,7 +18,6 @@ aliases: [NPC00231 Hilda Quicksilver the Scholar]
 - [[#Nerys Youngblood the Seeker (Family - Child)|Nerys Youngblood the Seeker (Family - Child)]]
 - [[#Fiora Blackstone (Criminal - Target)|Fiora Blackstone (Criminal - Target)]]
 
-
 ---
 aliases: ["Hilda Quicksilver the Scholar", "hilda quicksilver the scholar", "Hilda Quicksilver Scholar", "Scholar the Quicksilver Hilda"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.138Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,7 +171,7 @@ Wants rivals investigated
 - Requires [[ITEM00592_Dragon_Scale_Helm_of_the_Guardian]]
 - Leads to [[Keeper Brinescale (D&D_References)]]
 - Originates from [[roleplaying-a-giant-giant-flaws-vgm (tables)]]
-- Affected by [[step_036]]
+- Affected by
 - Leads to [[step_007 (phase_027)]]
 - Requires [[step_058 (phase_037)]]
 - Parallels [[The Remembrancer General 2]]
@@ -186,7 +181,7 @@ Wants rivals investigated
 - Requires [[Undead Spirit Xphb]]
 - Influences [[step_060 (phase_047)]]
 - Influences [[Location City Memory Preservation Technology Memory Preservation Technology.svg]]
-- See also: [[step_094]]
+- See also:
 - Parallels [[Void Entities]]
 - See also: [[cloak-of-displacement-xdmg (items)]]
 - See also: [[NPC01474_Hilda_Brightblade_the_Broken]]
@@ -197,11 +192,11 @@ Wants rivals investigated
 - Leads to [[DUN00026_Dungeon_27]]
 - Leads to [[Symphony of the Abyss Recipe]]
 - Compare with [[ENC00074_Social_Encounter_75]]
-- Compare with [[step_075]]
+- Compare with
 - Leads to [[Horn of Valhalla Silver Xdmg]]
 - Connects to [[Quest - Shadow Medicine 2]]
 - Influences [[step_096 (phase_099)]]
-- Compare with [[step_091]]
+- Compare with
 - See also: [[The Addicted Nobles (D&D_References)]]
 - Requires [[Symbol Heraldry High Oracle Serenity Deepcall High Oracle Serenity Deepcall.svg]]
 - Leads to [[Assets Locations Location City Street Urchin Gang V1 Street Urchin Gang.svg]]
@@ -225,7 +220,7 @@ Wants rivals investigated
 - Related: [[5-credits (monster-manual-2025)]]
 - Originates from [[world-map.png]]
 - Connects to [[Portrait NPC Economic Manipulation Economic Manipulation.svg_1 (Portraits)]]
-- See also: [[step_060]]
+- See also:
 - Parallels [[Creature Creature Ancient Brass Dragon Xmm V3 Ancient Brass Dragon Xmm.png]]
 - Affected by [[Mayor Thompson]]
 - Parallels [[Assets Locations Location City the Bathyal Palace V1 the Bathyal Palace.svg]]
@@ -240,17 +235,17 @@ Wants rivals investigated
 - See also: [[location-city-royal-palace-royal-palace.svg]]
 - See also: [[Recurring Expenses Maintenance Costs]]
 - Related: [[Thalassius the Wise (Lore)]]
-- Related: [[step_049]]
+- Related:
 - Connects to [[Supplemental Tables Status Xge]]
 - Affected by [[step_007 (phase_005)]]
 - Related: [[conditions#Unconscious]]
 - Compare with [[step_029 (phase_005)]]
 - Influences [[step_074 (phase_096)]]
 - Affected by [[step_042 (phase_015)]]
-- Connects to [[step_031]]
+- Connects to
 - Influences [[ENC00291_Combat_Encounter_292]]
 - Connects to [[Financial Institutions 2]]
-- Influences [[step_088]]
+- Influences
 - Requires [[distracting-strike-xphb (optional-features)]]
 - Connects to [[blindness-deafness-xphb (spells)]]
 - Influences [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]
@@ -272,7 +267,6 @@ Wants rivals investigated
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00799 Faelyn Grimholt the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00799 Faelyn Grimholt the Risen]
 - [[#Hilda Frostwhisper the Strong (Professional - Partner)|Hilda Frostwhisper the Strong (Professional - Partner)]]
 - [[#Caelum Nightfall the Cunning (Professional - Mentor)|Caelum Nightfall the Cunning (Professional - Mentor)]]
 - [[#Idris Stormwind the Mystic (Family - Cousin)|Idris Stormwind the Mystic (Family - Cousin)]]
-
 
 ---
 aliases: ["Faelyn Grimholt the Risen", "faelyn grimholt the risen", "Faelyn Grimholt Risen", "Risen the Grimholt Faelyn"]
@@ -141,21 +139,17 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.203Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,7 +170,7 @@ Witnessed a crime
 - Originates from [[Aquabyssos Government 2]]
 - Affected by [[Assets Portraits Portrait NPC Warrior Priest Abyss Sworn V1 Warrior Priest Abyss Sworn.svg]]
 - Leads to [[Guardian of Faith Xphb]]
-- Related: [[step_060]]
+- Related:
 - Influences [[step_022 (phase_022)]]
 - Compare with [[Quest_Tree_System]]
 - Related: [[step_040 (phase_082)]]
@@ -189,12 +183,12 @@ Witnessed a crime
 - Related: [[NPC01492_Zephyr_Emberfall_the_Scholar]]
 - Connects to [[The Cipher Current 2]]
 - Originates from [[LOC00175_Planes_Location_176]]
-- Parallels [[step_002]]
+- Parallels
 - Originates from [[Portrait NPC the Heart of Oceanus V1 the Heart of Oceanus.svg]]
-- Parallels [[step_032]]
-- Requires [[step_090]]
+- Parallels
+- Requires
 - Connects to [[International Exchange Program 2]]
-- Requires [[step_022]]
+- Requires
 - See also: [[QUEST00079_Personal_Quest_80]]
 - Connects to [[The Emergence (D&D_References)]]
 - Related: [[gnoll-flesh-gnawer-mpmm (monstrosity)]]
@@ -210,10 +204,10 @@ Witnessed a crime
 - Affected by [[Portrait NPC Aria Lumengarde V2 Aria Lumengarde.svg]]
 - Requires [[step_060 (phase_029)]]
 - Originates from [[Darkquill's Safe House]]
-- Connects to [[step_017]]
+- Connects to
 - Related: [[ITEM01251_Superior_Crystal_of_Clarity]]
 - Connects to [[step_019 (phase_005)]]
-- Compare with [[step_039]]
+- Compare with
 - Compare with [[step_009 (phase_099)]]
 - Compare with [[list-spells-classes-diviner-xphb (lists)]]
 - Leads to [[Magistrate Justice Lawkeeper]]
@@ -224,7 +218,7 @@ Witnessed a crime
 - Compare with [[step_013 (phase_025)]]
 - Influences [[celtic-belenus (deities)]]
 - Related: [[Portrait NPC Sir Ruben Redtape Sir Ruben Redtape.svg]]
-- Related: [[step_085]]
+- Related:
 - Requires [[Emergency Protocol]]
 - Originates from [[Assets Locations Location City the Deep Patrol V1 the Deep Patrol.svg]]
 - Related: [[SHOP00020_Specialty_Shop_21]]
@@ -232,12 +226,12 @@ Witnessed a crime
 - Connects to [[step_006 (phase_062)]]
 - Related: [[Tidal Memento (D&D_References)]]
 - See also: [[SPELL00113_Arcane_Spell_114]]
-- Leads to [[step_018]]
+- Leads to
 - Related: [[Assets Locations Location City Sky Trader Zephyr Windcatcher Sky Trader Zephyr Windcatcher.svg]]
 - Connects to [[step_059 (phase_071)]]
 - Influences [[step_036 (phase_093)]]
 - Connects to [[step_043 (phase_091)]]
-- Parallels [[step_007]]
+- Parallels
 - Leads to [[NPC0042_Cedric_Ironforge]]
 - Affected by [[step_092 (phase_067)]]
 - Leads to [[Anti-Priest Nullus (D&D_References)]]

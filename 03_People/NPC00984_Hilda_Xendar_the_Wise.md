@@ -18,7 +18,6 @@ aliases: [NPC00984 Hilda Xendar the Wise]
 - [[#Aldric Underhill the Risen (Political - Opposition)|Aldric Underhill the Risen (Political - Opposition)]]
 - [[#Alaric Thornweave the Bold (Criminal - Target)|Alaric Thornweave the Bold (Criminal - Target)]]
 
-
 ---
 aliases: ["Hilda Xendar the Wise", "hilda xendar the wise", "Hilda Xendar Wise", "Wise the Xendar Hilda"]
 tags: [npc, character]
@@ -142,21 +141,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.225Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -191,7 +186,7 @@ Has map to lost treasure
 - Compare with [[step_070 (phase_038)]]
 - Originates from [[giant-frog-xmm (beast)]]
 - Leads to [[Ancestor's Pool (D&D_References)]]
-- See also: [[step_077]]
+- See also:
 - Related: [[ITEM00298_Thunder_Staff_of_the_Ancients]]
 - Influences [[Assets Locations Location City Pressure Tubes V1 Pressure Tubes.svg]]
 - Connects to [[step_066 (phase_005)]]
@@ -199,11 +194,11 @@ Has map to lost treasure
 - Originates from [[undead]]
 - Parallels [[LORE00069_History_Entry_70]]
 - See also: [[power-word-fortify-xphb (spells)]]
-- Related: [[step_018]]
+- Related:
 - Affected by [[step_084 (phase_065)]]
-- Leads to [[step_014]]
+- Leads to
 - Related: [[Location City Harbor Master Tideshade Harbor Master Tideshade.svg]]
-- Compare with [[step_049]]
+- Compare with
 - Requires [[Historical Research Institute]]
 - Originates from [[step_084 (phase_039)]]
 - Connects to [[Quality Inspector Gem Precisiontest]]
@@ -265,7 +260,6 @@ Has map to lost treasure
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

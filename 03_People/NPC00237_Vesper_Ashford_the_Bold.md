@@ -18,7 +18,6 @@ aliases: [NPC00237 Vesper Ashford the Bold]
 - [[#Ysara Moonshadow the Mystic (Family - Spouse)|Ysara Moonshadow the Mystic (Family - Spouse)]]
 - [[#Brenna Keenblade the Scholar (Criminal - Handler)|Brenna Keenblade the Scholar (Criminal - Handler)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Vesper Ashford the Bold", "vesper ashford the bold", "Vesper Ashford Bold", "Bold the Ashford Vespertags: [npc, character, combat, magic, social, puzzle, lore]er]
@@ -140,16 +139,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.139Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -182,11 +178,10 @@ Wants rivals investigated
 - [[16 Credits]]
 - [[NPC01348_Xander_Zephyrblade_the_Wise]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -196,11 +191,10 @@ Wants rivals investigated
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -210,7 +204,7 @@ Wants rivals investigated
 - Parallels [[step_044 (phase_017)]]
 - Parallels [[step_043 (phase_013)]]
 - Related: [[step_084 (phase_080)]]
-- Parallels [[step_078]]
+- Parallels
 - Influences [[Portrait NPC Lord Blackwater V1 Lord Blackwater.svg]]
 - Originates from [[Portrait NPC Lady Willow Greenbough Lady Willow Greenbough.svg]]
 - Originates from [[MON00164_Constructs_Creature_165]]
@@ -222,7 +216,7 @@ Wants rivals investigated
 - Connects to [[The Outer Planes]]
 - Related: [[Void-warded Cloak (D&D_References)]]
 - Related: [[QUEST0075_The_Cursed_Alliance]]
-- See also: [[step_066]]
+- See also:
 - Related: [[catapult-munition-scc (items)]]
 - See also: [[Memory Reconstruction Headset]]
 - Affected by [[EVENT00044_Magical_Event_45]]
@@ -231,34 +225,34 @@ Wants rivals investigated
 - Requires [[NPC00767_Felicia_Grimholt_the_Wise]]
 - Leads to [[NPC00007_Lyanna_Voidwalker]]
 - Affected by [[step_097 (phase_029)]]
-- Compare with [[step_059]]
+- Compare with
 - Related: [[Npc Low Abilities]]
 - Leads to [[04_Resources_Assets_Locations_location-city-professor-reef-growthseeker-v1-professor-reef-growthseeker.svg]]
 - See also: [[QUEST0028_The_Haunted_Manor_Uprising]]
 - Originates from [[Adult Red Dragon Xmm]]
 - Leads to [[step_076 (phase_013)]]
 - Connects to [[[[Pressure Terminal]] (D&D_Statblocks)]]
-- Connects to [[step_012]]
+- Connects to
 - Compare with [[life-events-xge (tables)]]
 - Compare with [[NPC00620_Gavril_Ironforge_the_Strong]]
 - Affected by [[step_032 (phase_082)]]
 - Requires [[Culture Builder (D&D_References)]]
 - Compare with [[Sundered Steel (D&D_References)]]
 - Affected by [[[[Captain Echo]] (D&D_References)]]
-- Parallels [[step_026]]
+- Parallels
 - Leads to [[step_063 (phase_098)]]
 - Related: [[The Counting House]]
 - Related: [[step_066 (phase_065)]]
-- Connects to [[step_088]]
+- Connects to
 - Requires [[Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg]]
-- Originates from [[Quest   The Failing Magic]]
+- Originates from [[Quest The Failing Magic]]
 - See also: [[wand-of-web-xdmg (items)]]
 - Originates from [[Assets Locations Location City [[Fire Crystal]]s V1 [[Fire Crystals]].svg]]
 - See also: [[Cross-Cultural Adaptation Technique]]
-- Requires [[step_082]]
+- Requires
 - Leads to [[step_025 (phase_023)]]
 - Connects to [[step_044 (phase_018)]]
-- Requires [[step_004]]
+- Requires
 - Compare with [[Kuo Toa Whip Xmm]]
 - Parallels [[City of Screams (D&D_References)]]
 - Affected by [[step_087 (phase_014)]]
@@ -268,7 +262,7 @@ Wants rivals investigated
 - See also: [[step_033 (phase_053)]]
 - Requires [[Truth Reflection]]
 - Compare with [[Implements Legendary Xdmg]]
-- Originates from [[step_058]]
+- Originates from
 - Originates from [[step_013 (phase_096)]]
 - Parallels [[Assets Locations Location City [[The Slave Markets of Tethys]] the Slave Markets of Tethys.svg]]
 - Affected by [[step_033 (phase_024)]]
@@ -277,7 +271,7 @@ Wants rivals investigated
 - Related: [[Assets Locations Location City [[Withered Court]] Withered Court.svg]]
 - Parallels [[alter-self-xphb (spells)]]
 - Originates from [[NPC00266_Urien_Stormwind_the_Fallen]]
-- Related: [[step_006]]
+- Related:
 - See also: [[The Abyssal Prophet (D&D_References)]]
 - Connects to [[Elder Deep (D&D_References)]]
 - Related: [[NPC01862_Aeliana_Ironforge_the_Seeker]]
@@ -286,18 +280,18 @@ Wants rivals investigated
 - Influences [[NPC01957_Urien_Darkwater_the_Bold]]
 - Connects to [[ENC00147_Social_Encounter_148]]
 - Connects to [[Assets Locations Location City [[Syncretist Mediators]] Syncretist Mediators.svg]]
-- Connects to [[step_006]]
+- Connects to
 - Compare with [[QUEST00014_Main_Quest_15]]
 - Leads to [[SPELL00162_Arcane_Spell_163]]
 - Requires [[Seraphina the Beautiful 2]]
-- Connects to [[step_058]]
+- Connects to
 - Leads to [[The Pressure Wars (D&D_References)]]
 - Requires [[Fractal Mascot Scc]]
 - Influences [[Symbol Heraldry the Neutral Current V1 the Neutral Current.svg]]
 - Affected by [[step_006 (phase_068)]]
 - Requires [[step_038 (phase_036)]]
 - Influences [[SPELL00160_Arcane_Spell_161]]
-- Influences [[step_012]]
+- Influences
 - Affected by [[Faction_Guide.md]]
 - Affected by [[Layers of the Abyss Xdmg]]
 - See also: [[LORE00076_Legends_Entry_77]]
@@ -309,7 +303,6 @@ Wants rivals investigated
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

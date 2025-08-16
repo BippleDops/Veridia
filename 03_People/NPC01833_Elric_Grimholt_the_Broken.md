@@ -9,7 +9,6 @@ aliases: [NPC01833 Elric Grimholt the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01833 Elric Grimholt the Broken]
 - [[#Brenna Proudmore the Strong (Criminal - Accomplice)|Brenna Proudmore the Strong (Criminal - Accomplice)]]
 - [[#Corvus Xendar the Risen (Criminal - Fence)|Corvus Xendar the Risen (Criminal - Fence)]]
 - [[#Gareth Ravenheart the Mystic (Professional - Mentor)|Gareth Ravenheart the Mystic (Professional - Mentor)]]
-
 
 ---
 aliases: ["Elric Grimholt the Broken", "elric grimholt the broken", "Elric Grimholt Broken", "Broken the Grimholt Elric"]
@@ -156,32 +154,28 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.315Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Connects to [[ITEM00253_Blazing_Axe_of_Slaying]]
-- Requires [[step_093]]
+- Requires
 - Compare with [[SPELL00021_Divine_Spell_22]]
 - Leads to [[Session 30 Campaign Finale]]
 - Compare with [[NPC01984_Ewan_Frostwhisper_the_Seeker]]
 - Compare with [[ITEM01006_Distilled_Oil_of_Healing]]
 - Leads to [[LOC00089_Wilderness_Location_90]]
-- Compare with [[step_055]]
+- Compare with
 - Compare with [[Tiefling Fierna Mtf]]
 - See also: [[Forgotten Realms Selune]]
 - Originates from [[Master Banker Cornelius Coinwrigh]]
@@ -196,9 +190,9 @@ Provides information for a price
 - Compare with [[archelon-xmm (beast)]]
 - Compare with [[Undead Spirit Skeletal Xphb]]
 - Influences [[Secret Doors Xdmg]]
-- Related: [[step_065]]
+- Related:
 - Connects to [[The Great Infiltration]]
-- Affected by [[step_070]]
+- Affected by
 - Leads to [[Fangs of the Fire Snake]]
 - Influences [[Sage Analytical Mindweaver]]
 - Requires [[Goldwave Guest Quarters]]
@@ -225,10 +219,10 @@ Provides information for a price
 - Influences [[SPELL00083_Arcane_Spell_84]]
 - Connects to [[Assets Locations Location City Thomas Deepanchor Thomas Deepanchor.svg]]
 - Requires [[NPC00527_Kaelen_Lightbringer_the_Mystic]]
-- Leads to [[step_075]]
+- Leads to
 - Affected by [[Assets Locations Location City Keeper Elara Moonwhisper V1 Keeper Elara Moonwhisper.svg]]
 - Requires [[Temporal Healers]]
-- See also: [[step_063]]
+- See also:
 - Connects to [[ITEM00858_Primordial_Orb_of_Dominion]]
 - Related: [[War Room]]
 - Influences [[LORE00039_Legends_Entry_40]]
@@ -254,11 +248,11 @@ Provides information for a price
 - Connects to [[04_Resources_Assets_Portraits_portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg_Quick_Ref]]
 - Influences [[Sage Rememberall (D&D_References)]]
 - Connects to [[ITEM0043_Divine_Gauntlet_of_Power]]
-- Originates from [[step_003]]
+- Originates from
 - Connects to [[LOC00147_Planes_Location_148]]
 - Leads to [[Assets Locations Location City Judge Tidal Fairweather Judge Tidal Fairweather.svg]]
 - Originates from [[Trade_Goods]]
-- Connects to [[step_071]]
+- Connects to
 - Compare with [[QUEST00266_Personal_Quest_267]]
 - Influences [[Symbol Heraldry Living Amplifiers V1 Living Amplifiers.svg]]
 - Originates from [[SPELL00121_Arcane_Spell_122]]

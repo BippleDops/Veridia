@@ -18,7 +18,6 @@ aliases: [NPC00503 Qadim Brightblade the Bold]
 - [[#Hilda Lightbringer the Guardian (Professional - Employer)|Hilda Lightbringer the Guardian (Professional - Employer)]]
 - [[#Ewan Underhill the Guardian (Personal - Ex-lover)|Ewan Underhill the Guardian (Personal - Ex-lover)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Qadim Brightblade the Bold", "qadim brightblade the bold", "Qadim Brightblade Bold", "Bold the Brightblade Qadim"]
@@ -147,27 +146,23 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.170Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -177,11 +172,10 @@ Family member has gone missing
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -204,7 +198,7 @@ Family member has gone missing
 - Connects to [[rope-of-climbing-xdmg (items)]]
 - Leads to [[Potion of Cold Resistance Xdmg]]
 - Related: [[NPC00122_Gareth_Proudmore_the_Cunning]]
-- Affected by [[step_063]]
+- Affected by
 - Requires [[step_094 (phase_037)]]
 - Related: [[NPC01899_Pyria_Emberfall_the_Swift]]
 - See also: [[Symbol Heraldry Transformation Assistance V1 Transformation Assistance.svg]]
@@ -216,7 +210,7 @@ Family member has gone missing
 - Influences [[Hammer of Thunderbolts Xdmg]]
 - Originates from [[Bastion Events Xdmg]]
 - Affected by [[SPELL00052_Arcane_Spell_53]]
-- Connects to [[step_083]]
+- Connects to
 - Compare with [[Crown of Eternal Ice]]
 - Connects to [[DUN00000_Dungeon_1]]
 - See also: [[LORE00217_Legends_Entry_218]]
@@ -237,7 +231,7 @@ Family member has gone missing
 - Originates from [[ITEM01174_Pure_Herb_of_Fortune]]
 - Influences [[4-monster-lists (monster-manual-2025)]]
 - Compare with [[step_096 (phase_066)]]
-- Related: [[step_081]]
+- Related:
 - Affected by [[Medic Captain Truewater (D&D_References)]]
 - Leads to [[step_092 (phase_015)]]
 - Affected by [[Local Friend]]
@@ -245,7 +239,7 @@ Family member has gone missing
 - Compare with [[roleplaying-an-orc-orc-bonds-vgm (tables)]]
 - Connects to [[QUEST00251_Side_Quest_252]]
 - Leads to [[Assets Locations Location City Scholar Thomas Precedent V1 Scholar Thomas Precedent.svg]]
-- Influences [[step_093]]
+- Influences
 - See also: [[step_067 (phase_077)]]
 - Leads to [[Otyugh Xmm]]
 - Connects to [[Species Purity Advocate]]
@@ -267,20 +261,20 @@ Family member has gone missing
 - Related: [[deck-of-many-things#The%20Void]]
 - Compare with [[Vehicle Ship Sky Cutter Interceptor V2 Sky Cutter Interceptor.svg]]
 - Related: [[step_077 (phase_090)]]
-- Influences [[step_020]]
+- Influences
 - Requires [[Cultural Sage Deep-Memory]]
 - Connects to [[step_025 (phase_071)]]
 - Parallels [[step_003 (phase_056)]]
-- Requires [[step_049]]
+- Requires
 - Parallels [[step_044 (phase_040)]]
 - Parallels [[step_037 (phase_076)]]
-- See also: [[step_095]]
-- Connects to [[step_006]]
+- See also:
+- Connects to
 - Influences [[Portrait NPC Free Captains Alliance V1 Free Captains Alliance.svg]]
 - Originates from [[ITEM00751_Ancient_Mirror_of_Dominion]]
 - Leads to [[Portrait NPC Senator Glaucus Brain V2 Senator Glaucus Brain.svg]]
 - Compare with [[step_085 (phase_054)]]
-- Affected by [[step_045]]
+- Affected by
 - Parallels [[Aquatic Biology Laboratory]]
 - Requires [[SHOP00049_Specialty_Shop_50]]
 - Affected by [[Hereditary House 2]]
@@ -290,7 +284,6 @@ Family member has gone missing
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

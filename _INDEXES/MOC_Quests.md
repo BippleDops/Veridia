@@ -18,7 +18,6 @@ aliases: [MOC Quests]
 - [[#D&D 5e References|D&D 5e References]]
 - [[#Connections|Connections]]
 
-
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -32,8 +31,6 @@ created: 2025-08-15
 
 ## Content
 *Building index...*
-
-
 
 ## Recent NPCs
 ```dataview
@@ -94,12 +91,10 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[MOC_Sessions]]
 - [[MOC_Locations]]
 - [[MOC_Lore]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -115,7 +110,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Influences [[step_038 (phase_083)]]
 - Requires [[step_085 (phase_049)]]
 - Affected by [[The Overflow (D&D_References)]]
-- See also: [[step_082]]
+- See also:
 - Influences [[Surface Signals 2]]
 - See also: [[Tome of Clear Thought Xdmg]]
 - Influences [[step_067 (phase_091)]]
@@ -146,7 +141,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Parallels [[half-orc-names-male-xge (tables)]]
 - See also: [[LOC00192_Planes_Location_193]]
 - Affected by [[item-artifact-mess-kit-v7-mess-kit.png]]
-- Affected by [[step_058]]
+- Affected by
 - Compare with [[hellish-rebuke-xphb (spells)]]
 - Related: [[Centaur Warden Xmm]]
 - Connects to [[Spy-Master Nonentity (D&D_References)]]
@@ -162,14 +157,14 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Affected by [[ITEM00101_Shadow_Staff_of_Speed]]
 - Related: [[step_072 (phase_035)]]
 - Influences [[Portrait NPC Sister Thalassa the Depth Touched V2 Sister Thalassa the Depth Touched.svg_1 (Portraits)]]
-- Compare with [[step_094]]
+- Compare with
 - Originates from [[Courier Chief Swift Currentrider]]
 - Related: [[Vault Breach (D&D_References)]]
 - Affected by [[02_Worldbuilding_Items_Lightstone_Scanners]]
 - Influences [[Assets Portraits Portrait NPC the Emperor S Memories the Emperor S Memories.svg]]
 - Requires [[Aethermoor Council 2]]
 - Originates from [[step_100 (phase_019)]]
-- Influences [[step_048]]
+- Influences
 - Connects to [[LORE00157_Prophecies_Entry_158]]
 - Connects to [[Prince Aurelius (D&D_References)]]
 - Parallels [[step_097 (phase_048)]]
@@ -177,16 +172,16 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Parallels [[step_050 (phase_081)]]
 - Leads to [[NPC0135_Petra_Darkwater]]
 - Requires [[Community Demonstration Sites (D&D_References)]]
-- Leads to [[step_040]]
+- Leads to
 - See also: [[Aquabyssos_1]]
 - Parallels [[step_097 (phase_059)]]
 - Requires [[step_031 (phase_009)]]
-- See also: [[step_063]]
+- See also:
 - Compare with [[LORE00157_Legends_Entry_158]]
 - Related: [[Resonance Peaks (D&D_References)]]
 - Requires [[Sorrow Pearls]]
 - Connects to [[Identity Preservation Crystal 2]]
-- Requires [[step_057]]
+- Requires
 - See also: [[step_037 (phase_045)]]
 - Requires [[step_041 (phase_037)]]
 - Influences [[location-city-royal-quarters-royal-quarters.svg]]
@@ -200,7 +195,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Requires [[ITEM00960_Concentrated_Herb_of_Clarity]]
 - Influences [[step_028 (phase_049)]]
 - Parallels [[ITEM00384_Cursed_Staff_of_Speed]]
-- Related: [[step_032]]
+- Related:
 - Related: [[Philter of Love Xdmg]]
 - Affected by [[Player Handouts]]
 - See also: [[Assets Locations Location City the Probability Merchant the Probability Merchant.svg]]

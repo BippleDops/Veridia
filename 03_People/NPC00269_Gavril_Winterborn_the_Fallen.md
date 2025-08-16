@@ -9,7 +9,6 @@ aliases: [NPC00269 Gavril Winterborn the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00269 Gavril Winterborn the Fallen]
 - [[#Brenna Jadeclaw the Scholar (Professional - Employer)|Brenna Jadeclaw the Scholar (Professional - Employer)]]
 - [[#Orion Thornweave (Personal - Nemesis)|Orion Thornweave (Personal - Nemesis)]]
 - [[#Hilda Lightbringer (Criminal - Handler)|Hilda Lightbringer (Criminal - Handler)]]
-
 
 ---
 aliases: ["Gavril Winterborn the Fallen", "gavril winterborn the fallen", "Gavril Winterborn Fallen", "Fallen the Winterborn Gavril"]
@@ -143,30 +141,26 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.142Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Affected by [[The Anonymous Accords]]
 - Influences [[step_060 (phase_040)]]
 - Originates from [[Time Gardens of Aethermoor]]
-- Related: [[step_086]]
-- Compare with [[step_018]]
-- Affected by [[step_051]]
+- Related:
+- Compare with
+- Affected by
 - Influences [[step_002 (phase_014)]]
 - Related: [[Depth Pulse]]
 - Requires [[step_007 (phase_011)]]
@@ -179,7 +173,7 @@ Requires champions for trial by combat
 - Influences [[location-city-middle-harbor-middle-harbor.svg]]
 - Related: [[ITEM00498_Enchanted_Boots_of_Fortitude]]
 - Affected by [[Surface Contacts (D&D_References)]]
-- Connects to [[step_009]]
+- Connects to
 - Leads to [[bugbear-warrior-xmm (fey)]]
 - Requires [[revet xmm]]
 - Related: [[The Crystal Harmony Collective]]
@@ -189,19 +183,19 @@ Requires champions for trial by combat
 - Originates from [[NPC00285_Xander_Goldleaf_the_Mystic]]
 - Affected by [[NPC0138_Soren_Darkwater]]
 - Connects to [[LORE00147_History_Entry_148]]
-- Requires [[step_025]]
+- Requires
 - See also: [[02-a-world-of-your-own (dungeon-masters-guide-2014)]]
 - Originates from [[Lich-Queen Morwyn the Deathless (D&D_References)]]
 - Influences [[Princess Lyralei 2]]
 - Requires [[step_035 (phase_062)]]
 - Parallels [[step_046 (phase_073)]]
 - Related: [[Portrait NPC Underground Testing Facility Underground Testing Facility.svg_1 (Portraits)]]
-- Related: [[step_091]]
+- Related:
 - Influences [[NPC01906_Alaric_Darkwater_the_Redeemed]]
 - Requires [[Assets Locations Location City Secular Community Practices V1 Secular Community Practices.svg]]
 - Requires [[LORE0053_Myth_of_the_Hero's_Sacrifice]]
 - Related: [[QUEST00187_Main_Quest_188]]
-- Affected by [[step_041]]
+- Affected by
 - Originates from [[green-copper-ewer-cos (items)]]
 - Compare with [[step_063 (phase_054)]]
 - Requires [[Investigation Log INV-000 (D&D_References)]]
@@ -215,7 +209,7 @@ Requires champions for trial by combat
 - Requires [[flying-snake-xmm (monstrosity)]]
 - Related: [[QUEST00187_Side_Quest_188]]
 - See also: [[Potion of Fire Resistance Xdmg]]
-- Parallels [[step_088]]
+- Parallels
 - Influences [[LOC00152_Wilderness_Location_153]]
 - Compare with [[Skyforged Crystal Worship]]
 - Leads to [[LORE00041_Legends_Entry_42]]
@@ -229,7 +223,7 @@ Requires champions for trial by combat
 - Influences [[malachite-xdmg (items)]]
 - Leads to [[NPC01358_Zephyr_Dawnstrider_the_Bold]]
 - Affected by [[Gith Random Height and Weight Mtf]]
-- Related: [[step_007]]
+- Related:
 - Compare with [[LOC00144_Towns_Location_145]]
 - Related: [[Bard Xphb College of Valor Xphb]]
 - Compare with [[Assets Locations Location City Noble Council Noble Council.png]]
@@ -243,7 +237,7 @@ Requires champions for trial by combat
 - Related: [[Cordelia Deepcurrent]]
 - Affected by [[Location City the Crystal Caverns V1 the Crystal Caverns.svg]]
 - Connects to [[step_001 (phase_055)]]
-- Influences [[step_037]]
+- Influences
 - Requires [[Crystal Plague Origins]]
 - Affected by [[LORE00188_Prophecies_Entry_189]]
 - Leads to [[Assets Locations Location City Keeper Luminous Crystalbeam Keeper Luminous Crystalbeam.svg]]
@@ -251,7 +245,7 @@ Requires champions for trial by combat
 - Influences [[Heavily Armored Xphb]]
 - Leads to [[Gnome Gods Gnome Deities Mtf]]
 - Requires [[Echo Dimension Travel Guide]]
-- Connects to [[step_058]]
+- Connects to
 - Parallels [[spell-gem-jade-oota (items)]]
 - Compare with [[EVENT00083_Magical_Event_84]]
 - Compare with [[Assets Locations Location City Rare Ingredient Network V1 Rare Ingredient Network.svg]]

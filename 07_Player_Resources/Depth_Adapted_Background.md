@@ -18,7 +18,6 @@ aliases: [Depth Adapted Background]
 - [[#DM Notes|DM Notes]]
 - [[#Voice & Mannerisms|Voice & Mannerisms]]
 
-
 ---
 class: Unknown
 created: 2025-08-14
@@ -76,31 +75,25 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Possessions
 - Personal items
 - Valuable objects
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 > [!warning] ⚠️ Warning
 > Important safety or rule information
@@ -121,8 +114,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - [[05 Personality and Background]]
 - [[MOC_Lore]]
 - [[Count_Strahd_von_Zarovich]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -135,7 +127,6 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
-
 
 ## D&D 5e References
 
@@ -153,17 +144,17 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Affected by [[Continuity Protocol 2]]
 - Related: [[step_075 (phase_068)]]
 - Affected by [[Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg]]
-- Compare with [[step_052]]
+- Compare with
 - Influences [[Portrait NPC Captain Nerion Deepward V2 Captain Nerion Deepward.svg]]
 - Related: [[bullywug-warrior-xmm (fey)]]
-- Influences [[step_032]]
-- Connects to [[step_088]]
+- Influences
+- Connects to
 - See also: [[Dwarven Vergadain Mtf]]
 - Leads to [[Portrait NPC Warrior Priest Abyss Sworn V2 Warrior Priest Abyss Sworn.svg]]
 - See also: [[Assets Locations Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg]]
 - Related: [[Senator Marina Tidecaller]]
 - See also: [[step_079 (phase_088)]]
-- Requires [[step_092]]
+- Requires
 - Parallels [[bronze-dragon (legendary-group)]]
 - Influences [[ENC00022_Social_Encounter_23]]
 - Influences [[Merchants Scale]]
@@ -180,7 +171,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Leads to [[ITEM00766_Primordial_Crown_of_Destiny]]
 - Parallels [[step_011 (phase_049)]]
 - Originates from [[Dimensional Scholar Arcturus Voidwalker]]
-- Connects to [[step_038]]
+- Connects to
 - Leads to [[ENC00074_Combat_Encounter_75]]
 - Originates from [[Location City the Diplomatic Quarter the Diplomatic Quarter.svg]]
 - Influences [[random-dungeon-hazards-dungeon-hazards (tables)]]
@@ -198,7 +189,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Affected by [[dawn-war-tharizdun-dmg (deities)]]
 - Requires [[Faction Standing System]]
 - Related: [[MON00035_Constructs_Creature_36]]
-- See also: [[step_007]]
+- See also:
 - Originates from [[Deep Energy Consortium (D&D_References)]]
 - Affected by [[Vehicle Ship Harbor Guardian Gunboat V1 Harbor Guardian Gunboat.svg]]
 - Influences [[The Deep Mother Rises 2]]
@@ -234,20 +225,20 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Influences [[QUEST00128_Personal_Quest_129]]
 - Originates from [[The Grand Crystal Exchange (D&D_References)]]
 - Requires [[step_029 (phase_045)]]
-- Compare with [[step_091]]
+- Compare with
 - Connects to [[QUEST00142_Main_Quest_143]]
 - Connects to [[Parliamentary Infiltration List]]
 - Influences [[Mule Xphb]]
 - Related: [[fiendish-cults-cult-goals-mtf (tables)]]
 - Compare with [[Silverscale Trade Embassy (D&D_References)]]
-- Related: [[step_074]]
+- Related:
 - Leads to [[location-city-fire-crystals-fire-crystals.svg]]
 - Connects to [[Ankheg Xmm]]
 - Related: [[The Iteration Collective (D&D_References)]]
 - Leads to [[step_031 (phase_047)]]
 - Requires [[step_077 (phase_043)]]
 - Compare with [[step_027 (phase_059)]]
-- See also: [[step_030]]
+- See also:
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_terminal_master_hadrian_depthbridge_v1_terminal_master_hadrian_depthbridge_svg_friendly.png]]

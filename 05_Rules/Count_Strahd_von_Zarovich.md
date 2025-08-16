@@ -18,7 +18,6 @@ aliases: [Count Strahd von Zarovich]
 - [[#Related Content|Related Content]]
 - [[#Game Mechanics|Game Mechanics]]
 
-
 ---
 
 title: Count_Strahd_von_Zarovich
@@ -86,7 +85,6 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Prophecy Connection Mentioned in The First Prophecy of Shadows ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
@@ -103,21 +101,17 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Secrets
 - Hidden knowledge
@@ -131,8 +125,7 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 - [[Archdruid Thornweaver]]
 - [[NPC00300_Urien_Zephyrblade]]
 - [[NPC00703_Elric_Dawnstrider_the_Swift]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -144,7 +137,6 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## Connections
 
@@ -166,7 +158,7 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 - Leads to [[DUN00088_Dungeon_89]]
 - Requires [[plate-armor-of-etherealness-xdmg (items)]]
 - Related: [[SHOP00037_Specialty_Shop_38]]
-- Compare with [[step_064]]
+- Compare with
 - Leads to [[Elf Eladrin Mtf]]
 - See also: [[Assets Locations Location City Surface Expert Grainwise V1 Surface Expert Grainwise.svg]]
 - Originates from [[step_053 (phase_093)]]
@@ -204,10 +196,10 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 - Related: [[step_007 (phase_054)]]
 - Originates from [[Festival Grounds]]
 - Influences [[Wizard Xphb School of Conjuration]]
-- Compare with [[step_016]]
-- Compare with [[step_068]]
+- Compare with
+- Compare with
 - Related: [[Greyhawk Rao Xdmg]]
-- Influences [[step_087]]
+- Influences
 - Requires [[Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg]]
 - Influences [[Sentient Magic Item Alignment]]
 - Connects to [[step_023 (phase_062)]]
@@ -216,20 +208,20 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 - Leads to [[Shadow Magic Integration Practices (D&D_References)]]
 - Related: [[QUEST00046_Side_Quest_47]]
 - Influences [[The Tide Pools 2]]
-- Compare with [[step_084]]
+- Compare with
 - Parallels [[Seasonal Quarters (D&D_References)]]
 - Parallels [[FAC00094_Orders_95]]
 - Related: [[step_049 (phase_062)]]
 - Originates from [[Quest - The Silent Majority 2]]
 - Leads to [[Voluntary Taxation 2]]
 - Parallels [[Assets Locations Location City Temple Hierarchies Temple Hierarchies.png]]
-- Leads to [[step_021]]
-- Related: [[step_002]]
+- Leads to
+- Related:
 - Leads to [[QUEST00182_Side_Quest_183]]
 - Parallels [[step_042 (phase_084)]]
 - Influences [[step_004 (phase_079)]]
 - Related: [[Eye Agate Xdmg]]
-- Compare with [[step_053]]
+- Compare with
 - Affected by [[NPC00989_Baelor_Goldleaf_the_Mystic]]
 - Leads to [[step_099 (phase_047)]]
 - Affected by [[Master Elena Preserver 2]]
@@ -246,7 +238,7 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 - Requires [[Scene Scene Golden Trade Route Convoy V2 Golden Trade Route Convoy.svg]]
 - Originates from [[Religious Groups (D&D_References)]]
 - Connects to [[Assets Locations Location City the Guild of Reef Builders V1 the Guild of Reef Builders.svg]]
-- See also: [[step_084]]
+- See also:
 - Compare with [[step_001 (phase_078)]]
 
 ## Visual References

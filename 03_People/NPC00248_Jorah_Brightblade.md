@@ -9,7 +9,6 @@ aliases: [NPC00248 Jorah Brightblade]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00248 Jorah Brightblade]
 - [[#Delara Stormwind (Professional - Partner)|Delara Stormwind (Professional - Partner)]]
 - [[#Rhiannon Proudmore (Family - Sibling)|Rhiannon Proudmore (Family - Sibling)]]
 - [[#Ysara Thornweave (Criminal - Informant)|Ysara Thornweave (Criminal - Informant)]]
-
 
 ---
 created: 2025-08-15
@@ -155,27 +153,23 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.140Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -183,11 +177,10 @@ Needs discrete help with family scandal
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -195,7 +188,7 @@ Needs discrete help with family scandal
 - Influences [[list-spells-school-divination]]
 - Originates from [[The Great Cataloguing]]
 - Influences [[Flesh to Stone Xphb]]
-- Related: [[step_080]]
+- Related:
 - Originates from [[Shadow Timeline Lysara]]
 - Related: [[Chronarch Supreme (D&D_References)]]
 - Compare with [[step_056 (phase_054)]]
@@ -208,7 +201,7 @@ Needs discrete help with family scandal
 - See also: [[Leviathan Mpmm]]
 - See also: [[step_044 (phase_044)]]
 - Compare with [[Emergency Technology Development Foundation]]
-- Requires [[step_005]]
+- Requires
 - See also: [[The Recursion Nexus]]
 - Affected by [[MON00084_Aberrations_Creature_85]]
 - Originates from [[Royal Treasury]]
@@ -244,7 +237,7 @@ Needs discrete help with family scandal
 - Originates from [[observatory-charm-xdmg (rewards)]]
 - Connects to [[NPC00802_Aldric_Moonshadow_the_Swift]]
 - Affected by [[Portrait NPC the Ancient Nobility V1 the Ancient Nobility.svg]]
-- Originates from [[step_013]]
+- Originates from
 - Connects to [[Family Retaine 2]]
 - Originates from [[Houses_and_Nobility - House Shadowmere]]
 - Requires [[step_059 (phase_032)]]
@@ -261,7 +254,7 @@ Needs discrete help with family scandal
 - Compare with [[step_069 (phase_036)]]
 - Originates from [[The Meridian Opera House 2]]
 - Influences [[Parallel Realities]]
-- Parallels [[step_077]]
+- Parallels
 - Parallels [[ENC00182_Social_Encounter_183]]
 - Influences [[step_072 (phase_014)]]
 - Requires [[Wise Tide Truthseeker 2]]
@@ -271,7 +264,7 @@ Needs discrete help with family scandal
 - Requires [[step_078 (phase_097)]]
 - Parallels [[FAC00096_Cults_97]]
 - See also: [[step_076 (phase_093)]]
-- Influences [[step_099]]
+- Influences
 - Affected by [[Githyanki Raiding Parties Dragon Chance Mtf]]
 - Requires [[ITEM00723_Primordial_Ring_of_Dominion]]
 - See also: [[dark-gift-of-drizlash-the-nine-eyed-spider-cos]]

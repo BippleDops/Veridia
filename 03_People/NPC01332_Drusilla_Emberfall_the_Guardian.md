@@ -18,7 +18,6 @@ aliases: [NPC01332 Drusilla Emberfall the Guardian]
 - [[#Gareth Moonshadow the Cunning (Political - Spy)|Gareth Moonshadow the Cunning (Political - Spy)]]
 - [[#Faelyn Keenblade the Lost (Professional - Mentor)|Faelyn Keenblade the Lost (Professional - Mentor)]]
 
-
 ---
 aliases: ["Drusilla Emberfall the Guardian", "drusilla emberfall the guardian", "Drusilla Emberfall Guardian", "Guardian the Emberfall Drusilla"]
 tags: [npc, character]
@@ -151,34 +150,30 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.262Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Compare with [[Lieutenant Loyalt (D&D_References)]]
 - Related: [[ENC00223_Social_Encounter_224]]
-- Connects to [[step_100]]
+- Connects to
 - Influences [[Blacksmith Cross-Hammer Grendel]]
 - Connects to [[Religious Trend Analysis]]
 - Parallels [[step_007 (phase_043)]]
 - Connects to [[list-spells-school-abjuration]]
 - Parallels [[Duchess Aurora Spirelight 2]]
 - Originates from [[Cultural Integration Trade Associatio]]
-- Originates from [[step_017]]
+- Originates from
 - Compare with [[Asset Database]]
 - See also: [[NPC01256_Jorah_Proudmore_the_Cunning]]
 - Compare with [[Elena Prismweaver 2]]
@@ -186,13 +181,13 @@ Forming expedition to dangerous location
 - Related: [[Location City the Porters Union the Porters Union.svg]]
 - Compare with [[Depth Adaptation Points]]
 - See also: [[Dangerous Goods Storage (D&D_References)]]
-- Parallels [[step_077]]
+- Parallels
 - Originates from [[step_062 (phase_040)]]
 - Compare with [[ENC00364_Combat_Encounter_365]]
 - Influences [[Aethermoor - Session 04 The Silverscale Gambit]]
 - Connects to [[Aquabyssos World Guide 2]]
 - Affected by [[step_027 (phase_047)]]
-- Leads to [[step_064]]
+- Leads to
 - Compare with [[QUEST00433_Side_Quest_434]]
 - Influences [[LOC00294_Planes_Location_295]]
 - Requires [[QUEST00187_Personal_Quest_188]]
@@ -201,14 +196,14 @@ Forming expedition to dangerous location
 - Requires [[step_005 (phase_014)]]
 - Related: [[Marina Administration Center]]
 - Affected by [[The Suicide Bridges]]
-- See also: [[step_058]]
+- See also:
 - Leads to [[step_011 (phase_094)]]
 - Requires [[LOC00044_Planes_Location_45]]
 - Originates from [[Assets Locations Location City Palace Guardians V1 Palace Guardians.svg]]
 - Connects to [[Assets Locations Location City Family Portrait Family Portrait.svg]]
 - See also: [[QUEST00352_Side_Quest_353]]
 - Related: [[Crime Loot Value Xge]]
-- Related: [[step_039]]
+- Related:
 - Originates from [[NPC01081_Gavril_Hawthorne_the_Mystic]]
 - See also: [[Compelled Duel Xphb]]
 - See also: [[ITEM00689_Fortified_Plate_of_Fortitude]]
@@ -241,9 +236,9 @@ Forming expedition to dangerous location
 - Leads to [[step_007 (phase_024)]]
 - Affected by [[step_031 (phase_057)]]
 - Connects to [[Shape the Flowing River]]
-- Requires [[SYSTEM_STATUS]]
+- Requires
 - Related: [[Location City Basil Prismtender V1 Basil Prismtender.svg]]
-- Leads to [[step_093]]
+- Leads to
 - Leads to [[EVENT00065_Political_Event_66]]
 - See also: [[Assets Locations Location City Finn Deepmarket Finn Deepmarket.svg]]
 - Compare with [[Travel_Rules]]
@@ -253,7 +248,7 @@ Forming expedition to dangerous location
 - Related: [[Scholar Vivienne the Chronicler (D&D_Statblocks)]]
 - Requires [[Location City Sanctuary Safeharbor Sanctuary Safeharbor.svg]]
 - Requires [[step_093 (phase_061)]]
-- Originates from [[step_037]]
+- Originates from
 - Leads to [[Animated Flying Sword Xmm]]
 - Parallels [[Experimental Medical Ethics]]
 - Connects to [[Consequence Chain 3 Reality Merger]]
@@ -262,7 +257,7 @@ Forming expedition to dangerous location
 - Parallels [[step_047 (phase_036)]]
 - Requires [[QUEST00420_Side_Quest_421]]
 - Compare with [[LOC0050_Havenridge]]
-- Compare with [[step_002]]
+- Compare with
 - Related: [[Assets Locations Location City Deep Current Flowmaster Deep Current Flowmaster.svg]]
 - Affected by [[Quest - The Deep Mother Rises 2]]
 - Compare with [[The Crystal Heart Chamber]]
@@ -274,7 +269,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

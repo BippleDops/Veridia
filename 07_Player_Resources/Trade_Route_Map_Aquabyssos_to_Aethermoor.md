@@ -18,7 +18,6 @@ aliases: [Trade Route Map Aquabyssos to Aethermoor]
 - [[#07_Player_Resources Specific Content|07_Player_Resources Specific Content]]
 - [[#07_Player_Resources Specific Content|07_Player_Resources Specific Content]]
 
-
 ---
 title: Trade_Route_Map_Aquabyssos_to_Aethermoor
 type: note
@@ -59,24 +58,24 @@ world: Both
 ### Checkpoint Stations
 
 1. **Abyssal Gateway** - Depth: 1000 fathoms
-   - Documentation review
-   - Pressure adaptation verification
-   - Currency exchange
+ - Documentation review
+ - Pressure adaptation verification
+ - Currency exchange
 
 2. **Meridian Junction** - Depth: 500 fathoms
-   - Customs inspection
-   - Health screening
-   - Emergency supplies
+ - Customs inspection
+ - Health screening
+ - Emergency supplies
 
 3. **Twilight Harbor** - Depth: 100 fathoms
-   - Final document stamping
-   - Weather briefing
-   - Navigation crystal calibration
+ - Final document stamping
+ - Weather briefing
+ - Navigation crystal calibration
 
 4. **Convergence Point** - Surface level
-   - Atmospheric adaptation
-   - Cross-realm transfer
-   - Sky vessel assignment
+ - Atmospheric adaptation
+ - Cross-realm transfer
+ - Sky vessel assignment
 
 ### Current Exchange Rates
 - 1 Aquabyssos Pearl = 2.3 Aethermoor Crystals
@@ -127,7 +126,6 @@ Contextual improvement based on 07_Player_Resources
 
 Contextual improvement based on 07_Player_Resources
 
-
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
 
@@ -152,8 +150,7 @@ Contextual improvement based on 07_Player_Resources
 - [[10 Appendix B Creature Stat Blocks]]
 - [[Character_Journal_Template]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -162,7 +159,6 @@ Contextual improvement based on 07_Player_Resources
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -181,8 +177,8 @@ Contextual improvement based on 07_Player_Resources
 - Connects to [[Guild Organization (Guilds)]]
 - Connects to [[breaking-objects-xphb (variant-rules)]]
 - Leads to [[lost-sorrowsworn-mpmm (monstrosity)]]
-- Leads to [[step_026]]
-- Parallels [[step_096]]
+- Leads to
+- Parallels
 - Influences [[Barlgura Xmm]]
 - Connects to [[Shadowmere]]
 - Originates from [[Memory Meadows Black Market 2]]
@@ -203,7 +199,7 @@ Contextual improvement based on 07_Player_Resources
 - Requires [[step_022 (phase_072)]]
 - Connects to [[Young Bulette Pota]]
 - Compare with [[Portrait NPC Patriarch Valdris Lightbringer V2 Patriarch Valdris Lightbringer.svg]]
-- Compare with [[step_031]]
+- Compare with
 - See also: [[step_031 (phase_037)]]
 - Parallels [[step_044 (phase_050)]]
 - Affected by [[2-goblin-arrows (lost-mine-of-phandelver)]]
@@ -226,18 +222,18 @@ Contextual improvement based on 07_Player_Resources
 - Affected by [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide]]
 - Influences [[Arcane Lock Xphb]]
 - Connects to [[NPC01538_Caelum_Moonshadow_the_Seeker]]
-- Affected by [[step_022]]
+- Affected by
 - Related: [[MON00021_Aberrations_Creature_22]]
 - Compare with [[LOC00071_Wilderness_Location_72]]
 - Influences [[orc-names-orc-epithets-vgm (tables)]]
 - Related: [[young-bulette-pota (beast)]]
 - Originates from [[Healer Dawnshad]]
 - Leads to [[Priests Pack Xphb]]
-- Connects to [[step_030]]
+- Connects to
 - Originates from [[ITEM00210_Cursed_Bow_of_Wounding]]
 - Connects to [[step_028 (phase_054)]]
 - Related: [[Dr. Nereus Thoughtweaver]]
-- Influences [[step_041]]
+- Influences
 - See also: [[Assets Locations Location City Time Time.svg]]
 - Affected by [[step_063 (phase_083)]]
 - Compare with [[Elemental Gem Blue Sapphire Xdmg]]
@@ -273,7 +269,7 @@ Contextual improvement based on 07_Player_Resources
 - Originates from [[03_People_Brewmaster_Grindstone]]
 - Connects to [[Assets Locations Location City the Crystal Merchant the Crystal Merchant.svg]]
 - Influences [[SPELL00066_Nature_Spell_67]]
-- Requires [[step_081]]
+- Requires
 - Parallels [[Spy Games (D&D_References)]]
 
 ## Visual References

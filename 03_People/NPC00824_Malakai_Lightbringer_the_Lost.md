@@ -18,7 +18,6 @@ aliases: [NPC00824 Malakai Lightbringer the Lost]
 - [[#Brenna Brightblade the Wanderer (Professional - Partner)|Brenna Brightblade the Wanderer (Professional - Partner)]]
 - [[#Gavril Zephyrblade the Bold (Professional - Mentor)|Gavril Zephyrblade the Bold (Professional - Mentor)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Malakai Lightbringer the Lost", "malakai lightbringer the lost", "Malakai Lightbringer Lost", "Lost the Lightbringer Malakai"]
@@ -147,27 +146,23 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.206Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -176,11 +171,10 @@ Caravan needs guards
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -199,7 +193,7 @@ Caravan needs guards
 - Affected by [[QUEST0067_In_Search_of_Vengeance]]
 - Originates from [[The Architects of Depths (D&D_References)]]
 - Requires [[vine-blight-xmm (plant)]]
-- Compare with [[step_045]]
+- Compare with
 - Related: [[ENC00252_Social_Encounter_253]]
 - Influences [[Alternative Medicine]]
 - Leads to [[step_061 (phase_034)]]
@@ -221,19 +215,19 @@ Caravan needs guards
 - Requires [[step_085 (phase_061)]]
 - Compare with [[step_017 (phase_086)]]
 - Affected by [[Legal Counsel Derek Lawkeeper (D&D_References)]]
-- Affected by [[step_098]]
+- Affected by
 - Parallels [[The Sky Academy]]
 - Connects to [[War Machine Engineers 2]]
 - Compare with [[grasping-arrow-xge (optional-features)]]
 - Influences [[Security Chief Marcus Depthguard]]
 - Compare with [[step_061 (phase_078)]]
 - Compare with [[Symbol Heraldry Transformation Assistance V1 Transformation Assistance.svg]]
-- See also: [[step_046]]
+- See also:
 - Connects to [[Location City Crisis Management Crisis Management.svg]]
 - Compare with [[Department of Defense]]
 - Requires [[SPELL00000_Divine_Spell_1]]
-- Influences [[step_046]]
-- Compare with [[step_010]]
+- Influences
+- Compare with
 - Related: [[Sage Lyralei Starweaver 2]]
 - Requires [[step_097 (phase_075)]]
 - Compare with [[Absolute Reality Faction]]
@@ -264,8 +258,8 @@ Caravan needs guards
 - Parallels [[Wild Magic Zone Xdmg]]
 - Influences [[LOC00038_Dungeons_Location_39]]
 - Compare with [[Quest Syndicate Shadows.png]]
-- Influences [[step_001]]
-- Influences [[step_051]]
+- Influences
+- Influences
 - See also: [[step_017_implement_audio_organization]]
 - Influences [[elf-random-height-and-weight-mtf (tables)]]
 - Leads to [[ENC00013_Environmental_Encounter_14]]
@@ -289,7 +283,6 @@ Caravan needs guards
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00366 Faelyn Ashford the Mystic]
 - [[#Baelor Jadeclaw the Broken (Family - Spouse)|Baelor Jadeclaw the Broken (Family - Spouse)]]
 - [[#Solas Ravenheart (Criminal - Target)|Solas Ravenheart (Criminal - Target)]]
 
-
 ---
 aliases: ["Faelyn Ashford the Mystic", "faelyn ashford the mystic", "Faelyn Ashford Mystic", "Mystic the Ashford Faelyn"]
 tags: [npc, character]
@@ -143,21 +142,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.154Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -167,17 +162,17 @@ Wants rivals investigated
 - See also: [[ITEM01456_Elegant_Spyglass_of_Durability]]
 - Parallels [[Portrait NPC Elder Whisper in the Dark V2 Elder Whisper in the Dark.svg_1 (Portraits)]]
 - Requires [[Location City Archaeological Discoveries V1 Archaeological Discoveries.svg]]
-- Requires [[step_061]]
+- Requires
 - Parallels [[step_008 (phase_092)]]
 - Influences [[The Revelation Chamber]]
 - See also: [[QUEST0051_Hunt_the_Tyrant]]
 - Affected by [[step_041 (phase_095)]]
-- Compare with [[step_083]]
+- Compare with
 - Influences [[Environmental Protection Authorit (D&D_References)]]
 - See also: [[step_096 (phase_038)]]
 - Leads to [[Portrait NPC Sunken Kingdom of Nereon V2 Sunken Kingdom of Nereon.svg_1 (Portraits)]]
 - Leads to [[EVENT00079_Natural_Event_80]]
-- Compare with [[step_053]]
+- Compare with
 - Related: [[githzerai-groups-githzerai-special-allies-mtf (tables)]]
 - Parallels [[Scene Scene Drowned Cathedral Vigil V2 Drowned Cathedral Vigil.svg]]
 - Related: [[LOC0013_WestBridge]]
@@ -190,7 +185,7 @@ Wants rivals investigated
 - Parallels [[Chancellor Squall Deepcurrent]]
 - See also: [[Assets Locations Location City Aquabyssos V1 Aquabyssos.svg]]
 - Originates from [[LOC00134_Cities_Location_135]]
-- Affected by [[step_073]]
+- Affected by
 - Affected by [[Quest - The Runaway Golem_1 (01_Adventures)]]
 - See also: [[LORE00310_Legends_Entry_311]]
 - Connects to [[Assets Art Sage Lyralei Starweaver.png]]
@@ -199,12 +194,12 @@ Wants rivals investigated
 - Leads to [[Location City Brother Matthias Inkdrinker Brother Matthias Inkdrinker.svg]]
 - Leads to [[Teleportation Xphb]]
 - Parallels [[Secret Vault Beneath Throne (D&D_References)]]
-- Affected by [[step_091]]
+- Affected by
 - Compare with [[NPC00117_Lyanna_Winterborn_the_Redeemed]]
 - Influences [[NPC01334_Faelyn_Ironwood_the_Seeker]]
 - Related: [[Portrait NPC High Priestess Celeste V2 High Priestess Celeste.svg]]
 - Connects to [[List Spells Optional Features River of Hungry Flame]]
-- See also: [[step_022]]
+- See also:
 - Affected by [[QUEST00073_Side_Quest_74]]
 - Connects to [[NPC01880_Ewan_Brightblade_the_Wise]]
 - Influences [[Quest - The Transition Protocol]]
@@ -232,8 +227,8 @@ Wants rivals investigated
 - See also: [[LORE00317_Legends_Entry_318]]
 - See also: [[Planetar Xmm]]
 - See also: [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets D L 03 Deep Mother Dream Tide (People)]]
-- Related: [[step_043]]
-- See also: [[step_054]]
+- Related:
+- See also:
 - Originates from [[Charger Xphb]]
 - Influences [[Fighter Xphb Arcane Archer Xge]]
 - Influences [[step_009 (phase_027)]]
@@ -259,14 +254,13 @@ Wants rivals investigated
 - Requires [[QUEST00121_Main_Quest_122]]
 - Related: [[Downtime Activity Sowing Rumors]]
 - Affected by [[Assault or Invasion Invading Forces]]
-- Requires [[step_012]]
+- Requires
 - Related: [[SHOP00020_General_Shop_21]]
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

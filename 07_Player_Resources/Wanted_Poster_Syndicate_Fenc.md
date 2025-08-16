@@ -18,7 +18,6 @@ aliases: [Wanted Poster Syndicate Fenc]
 - [[#Usage Notes|Usage Notes]]
 - [[#Plot Hooks|Plot Hooks]]
 
-
 ---
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -72,7 +71,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
 
-
 > [!dm] DM Note
 > The villain has agents watching this place
 
@@ -106,8 +104,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - [[NPC01599_Gavril_Keenblade_the_Strong]]
 - [[Guild Seal Document Silverscale Consortiu]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -120,7 +117,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## D&D 5e References
 
 *(Combat rules: ACX p.189-198)*
@@ -129,24 +125,24 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## Connections
 
-- Requires [[step_012]]
+- Requires
 - Influences [[ITEM01336_Ornate_Rope_of_Durability]]
 - Parallels [[step_033 (phase_032)]]
 - Requires [[The Last Resort Procedures]]
 - Connects to [[step_025 (phase_086)]]
-- Leads to [[step_093]]
-- Related: [[step_086]]
+- Leads to
+- Related:
 - Related: [[water-weird-xmm]]
-- Originates from [[step_080]]
+- Originates from
 - Affected by [[Symbol Heraldry the Question Council V1 the Question Council.svg]]
-- Influences [[step_061]]
+- Influences
 - Related: [[step_055 (phase_050)]]
 - Leads to [[Symbol Heraldry Master Trader Darkmarke Master Trader Darkmarke.svg]]
 - Originates from [[item mastery#Slow]]
 - Originates from [[step_031 (phase_085)]]
 - Originates from [[displacer-beast-xmm (monstrosity)]]
 - See also: [[Border Checkpoints 2]]
-- Connects to [[step_087]]
+- Connects to
 - Compare with [[Insurance Industry (D&D_References)]]
 - Parallels [[step_016 (phase_074)]]
 - Affected by [[step_058 (phase_022)]]
@@ -159,10 +155,10 @@ This content can be adapted and expanded based on specific campaign needs.
 - Influences [[ITEM00582_Mithril_Shield_of_Protection]]
 - Connects to [[ITEM00479_Mithril_Plate_of_Resistance]]
 - Connects to [[step_098 (phase_052)]]
-- Related: [[step_098]]
-- Requires [[step_049]]
+- Related:
+- Requires
 - Compare with [[LORE00124_History_Entry_125]]
-- Connects to [[step_006]]
+- Connects to
 - Affected by [[step_026 (phase_041)]]
 - See also: [[LOC00146_Cities_Location_147]]
 - Connects to [[kraken-priest-mpmm (monstrosity)]]
@@ -171,7 +167,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - Compare with [[Faction_Tracker.bas]]
 - Parallels [[step_002 (phase_043)]]
 - Originates from [[Assets Locations Location City Innkeeper Marina Dreamwhisper Innkeeper Marina Dreamwhisper.svg]]
-- Related: [[step_078]]
+- Related:
 - Compare with [[Baba Yagas Dancing Broom Xdmg]]
 - Compare with [[step_052 (phase_076)]]
 - Affected by [[step_072 (phase_084)]]
@@ -204,7 +200,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - Connects to [[Template_Planet_Placeholder.png]]
 - See also: [[Foreign Governments (D&D_References)]]
 - Related: [[protection-from-poison-xphb (spells)]]
-- Parallels [[step_037]]
+- Parallels
 - See also: [[The Whisper Network]]
 - Related: [[step_098 (phase_030)]]
 - See also: [[Deep Script 2]]

@@ -9,7 +9,6 @@ aliases: [NPC00184 Baelor Hawthorne]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00184 Baelor Hawthorne]
 - [[#Corvus Darkwater (Family - Sibling)|Corvus Darkwater (Family - Sibling)]]
 - [[#Delara Crystalbrook the Redeemed (Family - Parent)|Delara Crystalbrook the Redeemed (Family - Parent)]]
 - [[#Faelyn Stormwind (Personal - Best friend)|Faelyn Stormwind (Personal - Best friend)]]
-
 
 ---
 aliases: ["Baelor Hawthorne", "baelor hawthorne", "Hawthorne Baelor"]
@@ -149,21 +147,17 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.133Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -190,7 +184,7 @@ Seeks bodyguards for dangerous journey
 - Influences [[Master Artificer Thymallos 2]]
 - Requires [[step_035 (phase_068)]]
 - Compare with [[NPC01781_Urien_Keenblade_the_Cunning]]
-- Related: [[step_026]]
+- Related:
 - Related: [[SPELL00120_Arcane_Spell_121]]
 - Leads to [[MON00106_Constructs_Creature_107]]
 - Influences [[Barrel Xphb]]
@@ -208,7 +202,7 @@ Seeks bodyguards for dangerous journey
 - Connects to [[Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg]]
 - Affected by [[Getting Into and Out of Armor Donning and]]
 - Related: [[LOC00116_Dungeons_Location_117]]
-- Compare with [[step_074]]
+- Compare with
 - See also: [[airship-xphb (items)]]
 - Leads to [[DUN00104_Dungeon_105]]
 - See also: [[step_087 (phase_032)]]
@@ -229,7 +223,7 @@ Seeks bodyguards for dangerous journey
 - See also: [[step_012 (phase_015)]]
 - Originates from [[upper-class-carousing-complications-xge (tables)]]
 - Related: [[QUEST00231_Side_Quest_232]]
-- Originates from [[step_082]]
+- Originates from
 - Related: [[The Drowning Embrace (D&D_References)]]
 - Affected by [[yuan-ti-malison-type-4-vgm]]
 - Related: [[Downtime Activity Recuperating Phb]]
@@ -250,7 +244,7 @@ Seeks bodyguards for dangerous journey
 - Influences [[SPELL00060_Arcane_Spell_61]]
 - Related: [[Roleplaying a Yuan Ti Yuan Ti Personality Traits Vgm]]
 - Related: [[step_060 (phase_069)]]
-- Originates from [[step_083]]
+- Originates from
 - Parallels [[Portrait NPC Othe... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Related: [[Portrait NPC Pirate Lords of the Spiral Depths V2 Pirate Lords of the Spiral Depths.svg]]
 - Affected by [[Siege Tower Xdmg]]
@@ -265,7 +259,7 @@ Seeks bodyguards for dangerous journey
 - Leads to [[Red Dragon]]
 - Influences [[Update Portal]]
 - Connects to [[Aquabyssos World Overview#Government The Depth Hierarchy]]
-- Leads to [[step_070]]
+- Leads to
 - Requires [[step_032 (phase_026)]]
 
 ## Plot Hooks

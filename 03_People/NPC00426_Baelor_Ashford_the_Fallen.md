@@ -9,7 +9,6 @@ aliases: [NPC00426 Baelor Ashford the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00426 Baelor Ashford the Fallen]
 - [[#Zephyr Oakenshield the Wise (Criminal - Fence)|Zephyr Oakenshield the Wise (Criminal - Fence)]]
 - [[#Nerys Ironwood the Strong (Political - Spy)|Nerys Ironwood the Strong (Political - Spy)]]
 - [[#Rhiannon Winterborn (Family - Child)|Rhiannon Winterborn (Family - Child)]]
-
 
 ---
 aliases: ["Baelor Ashford the Fallen", "baelor ashford the fallen", "Baelor Ashford Fallen", "Fallen the Ashford Baelor"]
@@ -157,21 +155,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.161Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -217,7 +211,7 @@ Discovered something valuable
 - Related: [[white-dragon-wyrmling-xmm (dragon)]]
 - Requires [[Continual Flame Xphb]]
 - Influences [[Map Map Crystal Cavern Bridge V1 Crystal Cavern Bridge.svg]]
-- See also: [[step_027]]
+- See also:
 - Affected by [[staff-of-frost-xdmg (items)]]
 - Requires [[Assets Locations Location City Restorative Justice V1 Restorative Justice.svg]]
 - Related: [[NPC00291_Orion_Hawthorne_the_Bold]]
@@ -226,7 +220,7 @@ Discovered something valuable
 - Influences [[adult-kruthik-mpmm (monstrosity)]]
 - Influences [[Local Authorities]]
 - Originates from [[QUEST00062_Side_Quest_63]]
-- Influences [[step_055]]
+- Influences
 - Leads to [[ITEM00654_Dragon_Scale_Shield_of_Protection]]
 - Connects to [[step_024 (phase_042)]]
 - Parallels [[The Egyptian Pantheon Egyptian Deities Phb]]
@@ -249,7 +243,7 @@ Discovered something valuable
 - Influences [[Ceremonial Gold Armor With Black Pearls Xdmg]]
 - Leads to [[step_062 (phase_080)]]
 - Related: [[ogrillon-ogre-xmm (giant)]]
-- Requires [[step_028]]
+- Requires
 - Influences [[giant-slayer-xdmg (items)]]
 - Leads to [[Dwarf Names Clan Xge]]
 - Compare with [[EVENT00024_Natural_Event_25]]
@@ -267,13 +261,13 @@ Discovered something valuable
 - Requires [[QUEST00315_Side_Quest_316]]
 - See also: [[step_032 (phase_093)]]
 - Compare with [[SPELL00116_Divine_Spell_117]]
-- Affected by [[step_029]]
+- Affected by
 - Influences [[Archivist Reef Bookkeeper (D&D_References)]]
 - See also: [[LOC00047_Wilderness_Location_48]]
 - Related: [[Black Dragon Scale Mail Xdmg]]
 - Requires [[QUEST0013_The_Shadow_Realm_Mystery]]
 - Leads to [[NPC01938_Caelum_Underhill_the_Lost]]
-- See also: [[step_065]]
+- See also:
 - Compare with [[Location City Theological Warfare Theological Warfare.svg]]
 
 ## Plot Hooks

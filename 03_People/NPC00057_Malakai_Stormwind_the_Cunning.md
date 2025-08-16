@@ -18,7 +18,6 @@ aliases: [NPC00057 Malakai Stormwind the Cunning]
 - [[#Urien Goldleaf (Family - Child)|Urien Goldleaf (Family - Child)]]
 - [[#Lyanna Ravenheart the Redeemed (Family - Spouse)|Lyanna Ravenheart the Redeemed (Family - Spouse)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Malakai Stormwind the Cunning", "malakai stormwind the cunning", "Malakai Stormwind Cunning", "Cunning the Stormwind Malakaitags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -153,16 +152,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.117Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -224,11 +220,10 @@ Modifications:
 - [[NPC01429_Zephyr_Keenblade_the_Cunning]]
 - [[NPC01348_Xander_Zephyrblade_the_Wise]]
 - [[NPC01699_Orion_Oakenshield_the_Broken]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -237,11 +232,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -271,7 +265,7 @@ Modifications:
 - Affected by [[step_082 (phase_097)]]
 - Influences [[NPC01667_Jorah_Jadeclaw_the_Mystic]]
 - Influences [[Martha_Hillbrook.png]]
-- Related: [[step_005]]
+- Related:
 - Parallels [[LOC00211_Cities_Location_212]]
 - See also: [[ENC00149_Combat_Encounter_150]]
 - Leads to [[ITEM00114_Thunder_Staff_of_Accuracy]]
@@ -281,7 +275,7 @@ Modifications:
 - Affected by [[04_Resources_Assets_Locations_location-city-the-siren-s-rest-[[Tavern]]-the-siren-s-rest-tavern.svg]]
 - Originates from [[longstrider-xphb (spells)]]
 - Influences [[04_Resources_Assets_Locations_location-city-the--cathedral-v1-the--cathedral.svg]]
-- Influences [[step_037]]
+- Influences
 - Parallels [[step_099 (phase_053)]]
 - Affected by [[Sanctuary Safeharbor]]
 - See also: [[TAG_TAXONOMY]]
@@ -291,7 +285,7 @@ Modifications:
 - Requires [[Githzerai Psion Xmm]]
 - Originates from [[[[Geometric Tidepools]] (D&D_References)]]
 - Compare with [[wind-wall-xphb (spells)]]
-- Originates from [[step_043]]
+- Originates from
 - Related: [[Handouts Ships Player Handout [[Aquabyssos]] Submarines]]
 - Connects to [[ITEM00110_Blessed_Staff_of_Slaying]]
 - Originates from [[lightning-arrow-xphb (spells)]]
@@ -303,7 +297,7 @@ Modifications:
 - See also: [[step_090 (phase_038)]]
 - Connects to [[mask-of-many-faces-xphb (optional-features)]]
 - Related: [[Target_Name (02_Worldbuilding)]]
-- Related: [[step_080]]
+- Related:
 - See also: [[Seventh Shard (D&D_References)]]
 - Related: [[Half Plate Armor Xphb]]
 - Originates from [[norse-freya (deities)]]
@@ -332,9 +326,9 @@ Modifications:
 - Connects to [[Crystal Garden (D&D_References)]]
 - See also: [[[[Undead Rights Organization HQ]] (D&D_References)]]
 - Influences [[Sword of Wounding Xdmg]]
-- Affected by [[step_034]]
+- Affected by
 - Influences [[Banshee Xmm]]
-- Compare with [[step_028]]
+- Compare with
 - Affected by [[rot-grub-vgm (traps-hazards)]]
 - Leads to [[Assets Locations [[Location City [[Bridge Currentcrosser]] Bridge Currentcrosser.svg]]]]
 - See also: [[Ring of Resistance Xdmg]]
@@ -351,7 +345,6 @@ Modifications:
 ![[03_People/portrait_merchant_captain_tobias_stormwind_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_merchant_captain_tobias_stormwind_merchant_captain_tobias_stormwind_svg_friendly.png]]
 
-
 ## Realm Connections
 
 ### Connection to [[Aethermoor]]
@@ -363,9 +356,8 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 - **Current Conflict**: The Void Incursion, Elemental Convergence
 - **Key Locations**: [[Floating Gardens]], [[Storm's Eye Tower]]
 
-The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
+The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants
 navigate floating islands connected by bridges of solidified cloud.
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

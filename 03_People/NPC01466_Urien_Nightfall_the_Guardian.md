@@ -18,7 +18,6 @@ aliases: [NPC01466 Urien Nightfall the Guardian]
 - [[#Felicia Dawnstrider the Broken (Political - Opposition)|Felicia Dawnstrider the Broken (Political - Opposition)]]
 - [[#Hestara Winterborn the Lost (Personal - Ex-lover)|Hestara Winterborn the Lost (Personal - Ex-lover)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Urien Nightfall the Guardian", "urien nightfall the guardian", "Urien Nightfall Guardian", "Guardian the Nightfall Urientags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -156,16 +155,13 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.276Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -207,11 +203,10 @@ Modifications:
 - [[Downtime_Activities]]
 - [[11 Rules Glossary]]
 - [[Parliamentary_Voting_Guide]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -220,16 +215,15 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - See also: [[Assets Locations Location City [[The Depth Market]] the Depth Market.svg]]
-- Affected by [[step_098]]
+- Affected by
 - Compare with [[Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg_1 (Portraits)]]
 - See also: [[ULTIMATE_SYSTEM_REPORT]]
 - See also: [[LOC00034_Dungeons_Location_35]]
@@ -241,7 +235,7 @@ Modifications:
 - Influences [[step_061 (phase_066)]]
 - Influences [[03 Chapter 3 Dms Toolbox]]
 - Requires [[Quest - The Kingpin's Fall_1 (01_Adventures)]]
-- Related: [[step_007]]
+- Related:
 - See also: [[Location City [[Pool of Sacred Drowning]] V1 Pool of Sacred Drowning.svg]]
 - Parallels [[step_002 (phase_045)]]
 - Influences [[step_019 (phase_009)]]
@@ -251,7 +245,7 @@ Modifications:
 - Affected by [[DM_Screen (02_Worldbuilding)]]
 - Influences [[Trophy Room]]
 - Related: [[The Dimensional Hospital (D&D_References)]]
-- Affected by [[step_082]]
+- Affected by
 - See also: [[LOC0139_Grovestead]]
 - Parallels [[[[Surface Observation Posts]] (D&D_References)]]
 - Influences [[Scene Scene Merged Zone Reality Fracture V2 Merged Zone Reality Fracture.svg]]
@@ -291,12 +285,12 @@ Modifications:
 - Requires [[LOC00252_Dungeons_Location_253]]
 - Connects to [[Damage Roll Xphb]]
 - Compare with [[Assets Locations [[Location City [[Scholar David Crossref]] Scholar David Crossref.svg]]]]
-- Leads to [[step_083]]
+- Leads to
 - See also: [[step_098 (phase_098)]]
 - Parallels [[Assets Locations Location City [[The Plague Ward]] the Plague Ward.svg]]
 - Leads to [[Pier 7 (D&D_References)]]
 - Leads to [[The Unnamed Chronicler]]
-- Requires [[step_054]]
+- Requires
 - Affected by [[Location City [[Depth Merchants]] V1 Depth Merchants.svg]]
 - Compare with [[Crystal Mines (Places)]]
 - Related: [[[[Emergency Protocols]] Cente 2]]
@@ -326,14 +320,13 @@ Modifications:
 - Compare with [[Warden Marcus Stonehand]]
 - Originates from [[International Law Enforcement]]
 - Parallels [[[[Marine Druids]] (D&D_References)]]
-- Requires [[step_087]]
+- Requires
 - Leads to [[05 Chapter 5 Creating Campaigns]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

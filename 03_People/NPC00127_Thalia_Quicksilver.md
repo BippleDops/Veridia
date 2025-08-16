@@ -18,7 +18,6 @@ aliases: [NPC00127 Thalia Quicksilver]
 - [[#Lyanna Hawthorne (Professional - Employer)|Lyanna Hawthorne (Professional - Employer)]]
 - [[#Erasmus Xendar (Criminal - Target)|Erasmus Xendar (Criminal - Target)]]
 
-
 ---
 aliases: ["Thalia Quicksilver", "thalia quicksilver", "Quicksilver Thalia"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.126Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -201,10 +196,10 @@ Wants rivals investigated
 - Connects to [[The Dream Shepherds]]
 - Connects to [[Null Field Generators]]
 - Originates from [[ENC00035_Environmental_Encounter_36]]
-- Compare with [[step_089]]
+- Compare with
 - Affected by [[Marcus Ironwright (D&D_References)]]
 - Requires [[Location City Master Archivist Valdric Stonewhisper Master Archivist Valdric Stonewhisper.svg]]
-- Parallels [[step_029]]
+- Parallels
 - Originates from [[Royal Advisor Wise Counselor (D&D_References)]]
 - Affected by [[Tidal Harmony]]
 - Originates from [[step_035 (phase_071)]]
@@ -222,10 +217,10 @@ Wants rivals investigated
 - Related: [[step_006 (phase_096)]]
 - Requires [[Quest - Elite Selection 2]]
 - Requires [[QUEST00439_Side_Quest_440]]
-- Leads to [[step_084]]
+- Leads to
 - Parallels [[step_091 (phase_071)]]
 - See also: [[NPC01741_Zephyr_Hawthorne_the_Wanderer]]
-- Related: [[step_022]]
+- Related:
 - Related: [[Crystal Witch Prisma]]
 - Affected by [[The Great Balance]]
 - Compare with [[dragonlance-nuitari-phb (deities)]]
@@ -241,7 +236,7 @@ Wants rivals investigated
 - Requires [[Red Dragon Xmm]]
 - Connects to [[LOC0075_LowerPeak]]
 - Parallels [[SHOP00036_General_Shop_37]]
-- Compare with [[step_061]]
+- Compare with
 - Leads to [[Location City Registrar Cornelius Scrollkeeper Registrar Cornelius Scrollkeeper.svg]]
 - Leads to [[LORE00158_Prophecies_Entry_159]]
 - Affected by [[magic-circle-xphb (spells)]]
@@ -257,7 +252,7 @@ Wants rivals investigated
 - Related: [[essence-of-ether-xdmg (items)]]
 - Requires [[step_073 (phase_093)]]
 - Influences [[University Heights]]
-- See also: [[step_080]]
+- See also:
 - Affected by [[README]]
 - See also: [[NPC01354_Xander_Ravenheart_the_Mystic]]
 - Requires [[08-chapter-8-bastions (dungeon-masters-guide-2024)]]
@@ -269,7 +264,6 @@ Wants rivals investigated
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

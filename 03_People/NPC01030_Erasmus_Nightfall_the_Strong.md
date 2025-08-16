@@ -18,7 +18,6 @@ aliases: [NPC01030 Erasmus Nightfall the Strong]
 - [[#Rhiannon Voidwalker the Scholar (Personal - Ex-lover)|Rhiannon Voidwalker the Scholar (Personal - Ex-lover)]]
 - [[#Wynne Xendar the Scholar (Personal - Childhood friend)|Wynne Xendar the Scholar (Personal - Childhood friend)]]
 
-
 ---
 aliases: ["Erasmus Nightfall the Strong", "erasmus nightfall the strong", "Erasmus Nightfall Strong", "Strong the Nightfall Erasmus"]
 tags: [npc, character]
@@ -142,27 +141,23 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.229Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Requires [[artifact-properties-minor-detrimental-properties]]
 - Affected by [[Memory Alteration Consequences]]
-- Connects to [[step_081]]
+- Connects to
 - Leads to [[DUN00183_Dungeon_184]]
 - Requires [[step_010 (phase_072)]]
 - Connects to [[spiked-pit-xdmg (traps-hazards)]]
@@ -204,7 +199,7 @@ Seeks rare merchandise
 - Affected by [[Economic Justice Debates]]
 - See also: [[Wandering Prophet Coral Stormrider]]
 - Originates from [[Elf Deities the Seldarine Mtf]]
-- Influences [[step_096]]
+- Influences
 - Requires [[Imperial Navy]]
 - Compare with [[Assets Art Princess Celestia.png]]
 - Parallels [[Assets Locations Location City the Pearl Markets the Pearl Markets.svg]]
@@ -214,8 +209,8 @@ Seeks rare merchandise
 - Compare with [[LORE00209_Prophecies_Entry_210]]
 - Originates from [[EVENT00010_Magical_Event_11]]
 - Leads to [[SPELL00026_Divine_Spell_27]]
-- See also: [[step_072]]
-- Affected by [[step_051]]
+- See also:
+- Affected by
 - Related: [[cloaker-xmm (aberration)]]
 - Influences [[Storyteller Memorykeeper (D&D_References)]]
 - Related: [[step_059 (phase_010)]]
@@ -234,7 +229,7 @@ Seeks rare merchandise
 - See also: [[QUEST00034_Main_Quest_35]]
 - Parallels [[Assets Locations Location City Historical Societies V1 Historical Societies.svg]]
 - Requires [[creature-creature-dragon-dragon.png]]
-- Compare with [[step_020]]
+- Compare with
 - Influences [[cauldron-of-rebirth-xdmg (items)]]
 - Influences [[Roleplaying an Orc Orc Flaws Vgm]]
 - Influences [[List Spells Classes Celestial Patron Xphb]]
@@ -244,7 +239,7 @@ Seeks rare merchandise
 - Leads to [[step_068 (phase_040)]]
 - Requires [[step_099 (phase_014)]]
 - Originates from [[Shadow Energy Addiction 2]]
-- See also: [[step_060]]
+- See also:
 - Parallels [[Assets Locations Location City Pip Goldleaf Pip Goldleaf.svg]]
 - Affected by [[step_003 (phase_068)]]
 - Leads to [[ENC00183_Combat_Encounter_184]]
@@ -256,7 +251,7 @@ Seeks rare merchandise
 - Related: [[Political Leader Reef-Crown (D&D_References)]]
 - Connects to [[blowgun-xphb (items)]]
 - Leads to [[04_Resources_Assets_Locations_location-city-lady-vivienne-the-unfrozen-lady-vivienne-the-unfrozen.svg]]
-- Compare with [[step_097]]
+- Compare with
 - Compare with [[Living Allianc 2]]
 - Affected by [[The Crystal Shepherds (People)]]
 - Parallels [[Portrait NPC Professor Aldric Crystalweaver V1 Professor Aldric Crystalweaver.svg_1 (Portraits)]]
@@ -265,7 +260,6 @@ Seeks rare merchandise
 ![[03_People/portrait_lord_erasmus_voidheart_dramatic.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_standard.png]]
 ![[03_People/portrait_lord_erasmus_voidheart_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

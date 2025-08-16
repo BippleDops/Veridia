@@ -133,7 +133,7 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - **[[Echo Reflection]]**: Capture and replay past conversations near mirrors
 - **[[Truth Reflection]]**: Mirrors that reveal hidden truths about viewers
 - **[[Memory Mirror]]**: Show important memories of people who look into them
-- **[[spells]]**: Brief visions of possible futures through scrying #### Mirror Network
+- **[[05_Rules/Spells]]**: Brief visions of possible futures through scrying #### Mirror Network
 
 **Infrastructure-Based Intelligence**
 - Hidden mirrors placed in government buildings and private residences
@@ -225,13 +225,11 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 4. **The Double Deal**: Navigate complex information trading involving multiple parties
 5. **The Information Heist**: Steal valuable intelligence from mirror archive ### Mirror Magic Investigation
 
-
 1. **The Scrying Murder**: Investigate death witnessed only through mirror surveillance
 2. **The False Reflection**: Discover someone using mirrors to frame innocent person
 3. **The Memory Mirror**: Recover lost memories crucial to solving mystery
 4. **The Truth Mirror**: Force confession using specialized interrogation mirror
 5. **The Future Warning**: Act on precognitive vision received through mirror divination ### Surveillance & Counter-Surveillance
-
 
 1. **The Privacy Mission**: Help someone avoid mirror surveillance network
 2. **The Counter-Spy**: Work as double agent within mirror information network
@@ -239,20 +237,17 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 4. **The Mirror Hunt**: Track and destroy surveillance mirrors in sensitive location
 5. **The Reflection War**: Battle between mirror spies and traditional intelligence ### Political Intrigue
 
-
 1. **The Information Blackmail**: Deal with political figure being controlled by mirror brokers
 2. **The Election Influence**: Investigate mirror network influence on political campaigns
 3. **The Diplomatic Surveillance**: Manage international incident caused by mirror spying
 4. **The Government Infiltration**: Discover extent of mirror network in government
 5. **The Information Revolution**: Help or stop movement to make all information public ### Personal Drama
 
-
 1. **The Reflection Stalker**: Protect someone being obsessively watched through mirrors
 2. **The Identity Crisis**: Help person whose reflection shows different identity
 3. **The Mirror Addiction**: Treat someone obsessed with watching others through mirrors
 4. **The False Memory**: Investigate memories implanted through mirror manipulation
 5. **The Reflection Romance**: Navigate relationship between mirror spy and target #### Information Freedom vs. Privacy
-
 
 **Fundamental Tension**
 - Some members believe all information should be freely available
@@ -327,7 +322,6 @@ Advanced mirror magic research is developing ability to trap people's consciousn
 - A corpse reveals ancient history about this place ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Party Shadows (Criminal_Organizations)]]
 
 - [[Party Shadows]]
-
 
 ## Notes
 

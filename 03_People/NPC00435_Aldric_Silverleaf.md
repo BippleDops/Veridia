@@ -18,7 +18,6 @@ aliases: [NPC00435 Aldric Silverleaf]
 - [[#Elric Blackstone the Wise (Personal - Childhood friend)|Elric Blackstone the Wise (Personal - Childhood friend)]]
 - [[#Urien Grimholt the Redeemed (Personal - Best friend)|Urien Grimholt the Redeemed (Personal - Best friend)]]
 
-
 ---
 aliases: ["Aldric Silverleaf", "aldric silverleaf", "Silverleaf Aldric"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.162Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -177,7 +172,7 @@ Family member has gone missing
 - Affected by [[step_071 (phase_043)]]
 - Leads to [[Player_Handout_Merger_Vessels (Ships)]]
 - Leads to [[actions#Search]]
-- Leads to [[step_089]]
+- Leads to
 - Influences [[Assets Locations Location City Quartermaster Sterling Suppystone Quartermaster Sterling Suppystone.svg]]
 - Originates from [[MON00148_Undead_Creature_149]]
 - Requires [[Gold Idol Xdmg]]
@@ -192,7 +187,7 @@ Family member has gone missing
 - Related: [[Portrait NPC Duke Theron Depthguard V2 Duke Theron Depthguard.svg]]
 - See also: [[Memory Trader Kellian (Lore)]]
 - Originates from [[FAC00064_Guilds_65]]
-- Requires [[step_076]]
+- Requires
 - Connects to [[Memory Coral]]
 - Requires [[Quest - Portal Conspiracy 2]]
 - Leads to [[Portable Hole Xdmg]]
@@ -203,7 +198,7 @@ Family member has gone missing
 - Parallels [[NPC00386_Branwen_Emberfall_the_Seeker]]
 - Parallels [[Location City Chief Engineer Vera Steamheart V1 Chief Engineer Vera Steamheart.svg]]
 - Related: [[Portrait NPC Sir Marcus Dawnforge V1 Sir Marcus Dawnforge.svg_1 (Portraits)]]
-- Compare with [[step_078]]
+- Compare with
 - Originates from [[Quest - Medical Ethics]]
 - Influences [[Statuette of Saint Markovia Cos]]
 - Compare with [[Shawm Xphb]]
@@ -215,7 +210,7 @@ Family member has gone missing
 - See also: [[Scene Scene Whisper Island Fog Dawn V1 Whisper Island Fog Dawn.svg]]
 - See also: [[EVENT00072_Natural_Event_73]]
 - Compare with [[FAC00078_Orders_79]]
-- Compare with [[step_020]]
+- Compare with
 - Affected by [[Demiplane Xphb]]
 - Requires [[Helm of Teleportation Xdmg]]
 - Connects to [[symbol-heraldry-the-code-wars-v1-the-code-wars.svg]]
@@ -229,7 +224,7 @@ Family member has gone missing
 - Compare with [[Inspector Helena Truthseeker (D&D_References)]]
 - Connects to [[step_088 (phase_071)]]
 - Originates from [[Quest - The Family Reconciliatio 2]]
-- Affected by [[step_065]]
+- Affected by
 - See also: [[step_069 (phase_038)]]
 - Originates from [[LOC00002_Dungeons_Location_3]]
 - Compare with [[Shadow Civil Rights Movement]]
@@ -249,7 +244,7 @@ Family member has gone missing
 - Related: [[LOC00144_Wilderness_Location_145]]
 - Influences [[duergar-hammerer-mpmm (construct)]]
 - Connects to [[Wand of Binding Xdmg]]
-- Originates from [[step_085]]
+- Originates from
 - Connects to [[LOC00078_Towns_Location_79]]
 - Originates from [[LOC00264_Towns_Location_265]]
 - Compare with [[Cosmic Consciousness Ethics]]
@@ -261,7 +256,7 @@ Family member has gone missing
 - Compare with [[describe-appearance-and-personality-dexterity-xphb]]
 - Compare with [[Investigative Chronicler Darius Truthseeker]]
 - Compare with [[Pipe of Smoke Monsters Xdmg]]
-- Connects to [[step_072]]
+- Connects to
 - Compare with [[The Pressure Maelstroms]]
 - Compare with [[NPC01535_Wynne_Winterborn_the_Wanderer]]
 - Compare with [[NPC00779_Lyanna_Lightbringer_the_Redeemed]]
@@ -274,7 +269,6 @@ Family member has gone missing
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

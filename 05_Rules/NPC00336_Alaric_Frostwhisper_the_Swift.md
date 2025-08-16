@@ -18,7 +18,6 @@ aliases: [NPC00336 Alaric Frostwhisper the Swift]
 - [[#Corvus Grimholt the Seeker (Professional - Rival)|Corvus Grimholt the Seeker (Professional - Rival)]]
 - [[#Elric Stormwind (Personal - Nemesis)|Elric Stormwind (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Alaric Frostwhisper the Swift", "alaric frostwhisper the swift", "Alaric Frostwhisper Swift", "Swift the Frostwhisper Alarictags: [npc, character, combat, exploration, lore]er]
@@ -155,16 +154,13 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.150Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -227,11 +223,10 @@ Modifications:
 - [[NPC00162_Xander_Thornweave]]
 - [[Master_Narrative_Web.md]]
 - [[NPC01994_Orion_Brightblade_the_Risen]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -239,18 +234,17 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Connects to [[step_002 (phase_029)]]
 - See also: [[Item Template.png (Art)]]
 - Originates from [[QUEST00027_Main_Quest_28]]
-- Affected by [[step_024]]
+- Affected by
 - See also: [[NPC00014_Alaric_Lightbringer]]
 - See also: [[Location City [[Embassy Quarter]] V1 Embassy Quarter.svg]]
 - See also: [[Location City [[Court Herald Master Proclamation Crownvoice]] V1 Court Herald Master Proclamation Crownvoice.svg]]
@@ -264,25 +258,25 @@ Modifications:
 - Related: [[Archshadow Gold Shadowstream]]
 - See also: [[The Scribes' Covenant 2]]
 - Originates from [[SPELL00161_Arcane_Spell_162]]
-- Compare with [[step_005]]
+- Compare with
 - Affected by [[step_040 (phase_023)]]
 - Requires [[step_090 (phase_087)]]
 - Requires [[Silvered Ammunition]]
-- See also: [[step_059]]
+- See also:
 - Connects to [[Portrait_Prompts - NPCs]]
 - Connects to [[Crossbow Trap Xge]]
 - Connects to [[staff-of-the-adder-xdmg (items)]]
 - Requires [[step_032 (phase_070)]]
 - Connects to [[ITEM00623_Adamantine_Helm_of_Protection]]
-- Compare with [[step_098]]
-- Influences [[step_041]]
+- Compare with
+- Influences
 - Leads to [[Advanced Construct Schematics]]
 - Parallels [[sorcerous-burst-xphb (spells)]]
 - Connects to [[Aetheric Wind Songs (Lore)]]
 - Connects to [[Portrait NPC Ranger Captain Orin Swiftarrow V1 Ranger Captain Orin Swiftarrow.svg]]
 - See also: [[Bone Naga Xmm]]
 - Leads to [[NPC01931_Thalia_Lightbringer_the_Fallen]]
-- Leads to [[step_068]]
+- Leads to
 - Requires [[step_058 (phase_058)]]
 - Connects to [[ITEM00148_Blessed_Spear_of_Speed]]
 - Related: [[Crown Reunification Protocols]]
@@ -324,7 +318,7 @@ Modifications:
 - Related: [[zariel-mtf (legendary-group)]]
 - Affected by [[Tidal District]]
 - Requires [[LORE00171_Prophecies_Entry_172]]
-- See also: [[step_071]]
+- See also:
 - Related: [[carpenters-tools-xphb (items)]]
 - Parallels [[The Void Shard]]
 - Parallels [[LOC0092_EastGrove]]
@@ -340,9 +334,9 @@ Modifications:
 - Compare with [[MON00026_Aberrations_Creature_27]]
 - See also: [[instrument-of-the-bards-ollamh-harp-xdmg (items)]]
 - Requires [[The Reunification Faction 2]]
-- Compare with [[step_091]]
+- Compare with
 - Related: [[step_074 (phase_008)]]
-- See also: [[step_073]]
+- See also:
 - Connects to [[high-jump-xphb (variant-rules)]]
 - Originates from [[The_Wind-Rider_Cultural_Center]]
 - Compare with [[LORE00327_Legends_Entry_328]]
@@ -352,7 +346,6 @@ Modifications:
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01911 Alaric Oakenshield the Mystic]
 - [[#Dara Blackstone the Wise (Personal - Nemesis)|Dara Blackstone the Wise (Personal - Nemesis)]]
 - [[#Solas Goldleaf the Seeker (Family - Child)|Solas Goldleaf the Seeker (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Alaric Oakenshield the Mystic", "alaric oakenshield the mystic", "Alaric Oakenshield Mystic", "Mystic the Oakenshield Alaric"]
@@ -158,16 +157,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.323Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -199,11 +195,10 @@ Is secretly testing the party
 - [[NPC00388_Ysara_Goldleaf]]
 - [[NPC00336_Alaric_Frostwhisper_the_Swift]]
 - [[Complete_NPC_Matrix.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -213,17 +208,16 @@ Is secretly testing the party
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Leads to [[step_061 (phase_083)]]
 - See also: [[Portrait NPC the Bloodline Carrier V1 the Bloodline Carrier.svg_1 (Portraits)]]
-- Requires [[step_088]]
+- Requires
 - Connects to [[Portrait NPC Gallery Guide Captain Marina Civicvoice V1 Gallery Guide Captain Marina Civicvoice.svg]]
 - Related: [[step_093 (phase_090)]]
 - Related: [[The Crystal Gardens_1 (02_Worldbuilding)]]
@@ -248,7 +242,7 @@ Is secretly testing the party
 - See also: [[Young Hook Horror Oota]]
 - Affected by [[step_091 (phase_030)]]
 - Originates from [[step_079 (phase_015)]]
-- Connects to [[step_013]]
+- Connects to
 - Parallels [[Shadow-Child Advisory]]
 - Connects to [[Marcus Righteousness]]
 - Connects to [[ITEM00987_Distilled_Salve_of_Fortune]]
@@ -270,7 +264,7 @@ Is secretly testing the party
 - Parallels [[clockwork-bronze-scout-mpmm (construct)]]
 - Affected by [[LOC00131_Towns_Location_132]]
 - See also: [[Deep Script 2]]
-- Compare with [[step_004]]
+- Compare with
 - Connects to [[Shard Resoce Tracking]]
 - Leads to [[step_001 (phase_025)]]
 - Parallels [[INV 003]]
@@ -281,7 +275,7 @@ Is secretly testing the party
 - Requires [[Template_Player_Placeholder.png_2 (09_Templates)]]
 - Originates from [[FAC00033_Cults_34]]
 - See also: [[The Memory-Fragmented Child, Little Luna Patchwork]]
-- Parallels [[step_090]]
+- Parallels
 - Connects to [[ITEM00226_Venomous_Spear_of_the_Ancients]]
 - Connects to [[ITEM00352_Cursed_Sword_of_Slaying]]
 - See also: [[ENC00104_Environmental_Encounter_105]]
@@ -294,7 +288,7 @@ Is secretly testing the party
 - Affected by [[NPC01036_Alaric_Grimholt_the_Scholar]]
 - Connects to [[ULTIMATE_ENHANCEMENT_REPORT]]
 - Requires [[The Deserter]]
-- Connects to [[step_069]]
+- Connects to
 - Influences [[Medallion of the Depths 2]]
 - Parallels [[NPC_Template_1 (09_Templates)]]
 - Compare with [[LOC00298_Cities_Location_299]]
@@ -326,7 +320,6 @@ Is secretly testing the party
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

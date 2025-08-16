@@ -18,7 +18,6 @@ aliases: [NPC01569 Dara Thornweave the Guardian]
 - [[#Zephyr Underhill the Seeker (Family - Child)|Zephyr Underhill the Seeker (Family - Child)]]
 - [[#Zephyr Nightfall the Guardian (Professional - Partner)|Zephyr Nightfall the Guardian (Professional - Partner)]]
 
-
 ---
 aliases: ["Dara Thornweave the Guardian", "dara thornweave the guardian", "Dara Thornweave Guardian", "Guardian the Thornweave Dara"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.286Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -173,14 +168,14 @@ Needs help with personal quest
 - Affected by [[Assets Locations Location City Progressive Policy Portfolio Progressive Policy Portfolio.svg]]
 - Parallels [[Crystal Engineer Reef Sparkwright (D&D_References)]]
 - Related: [[NPC00235_Idris_Grimholt_the_Lost]]
-- Originates from [[step_035]]
+- Originates from
 - Requires [[egyptian-imhotep (deities)]]
-- Related: [[step_042]]
+- Related:
 - See also: [[The Sunken Senate]]
 - Parallels [[Boots of Speed Xdmg]]
 - Requires [[step_031 (phase_069)]]
 - Related: [[LOC00058_Wilderness_Location_59]]
-- Originates from [[step_014]]
+- Originates from
 - Compare with [[ITEM01247_Superior_Herb_of_Vigor]]
 - Compare with [[step_058 (phase_089)]]
 - Originates from [[step_082 (phase_058)]]
@@ -211,7 +206,7 @@ Needs help with personal quest
 - Requires [[player-characters-as-vampires-mm (variant-rules)]]
 - Leads to [[LOC0136_Marshstead]]
 - Affected by [[step_092 (phase_082)]]
-- Parallels [[step_046]]
+- Parallels
 - See also: [[ITEM01387_Ornate_Compass_of_Convenience]]
 - Influences [[sorcerer-xphb-wild-magic-sorcery-xphb (classes)]]
 - Influences [[step_008 (phase_037)]]
@@ -221,9 +216,9 @@ Needs help with personal quest
 - Parallels [[1_DM_Toolkit_DM_Board]]
 - Parallels [[INV-001 (D&D_References)]]
 - Compare with [[VAULT_OPTIMIZATION_COMPLETE]]
-- Parallels [[step_068]]
-- Affected by [[step_056]]
-- Originates from [[step_036]]
+- Parallels
+- Affected by
+- Originates from
 - Influences [[step_037 (phase_026)]]
 - Affected by [[step_045 (phase_041)]]
 - Leads to [[Elementalism Xphb]]
@@ -257,7 +252,7 @@ Needs help with personal quest
 - Originates from [[Assets Locations Location City Court Herald Master Proclamation Crownvoice V1 Court Herald Master Proclamation Crownvoice.svg]]
 - Related: [[Assets Locations Location City Keeper Stormwall V1 Keeper Stormwall.svg]]
 - See also: [[Captain Marcus Ironwill (D&D_References)]]
-- Compare with [[step_053]]
+- Compare with
 - Influences [[EVENT00083_Magical_Event_84]]
 - See also: [[travelers-clothes-xphb (items)]]
 - Leads to [[The Resonance Forge Hammer 2]]
@@ -269,7 +264,6 @@ Needs help with personal quest
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

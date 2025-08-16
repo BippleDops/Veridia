@@ -18,7 +18,6 @@ aliases: [NPC00324 Idris Hawthorne the Strong]
 - [[#Caelum Frostwhisper the Guardian (Political - Puppet)|Caelum Frostwhisper the Guardian (Political - Puppet)]]
 - [[#Solas Underhill (Political - Patron)|Solas Underhill (Political - Patron)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Idris Hawthorne the Strong", "idris hawthorne the strong", "Idris Hawthorne Strong", "Strong the Hawthorne Idris"]
@@ -147,16 +146,13 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.149Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -175,11 +171,10 @@ Needs discrete help with family scandal
 - [[World_Primer.md]]
 - [[Reference.md]]
 - [[Session_Recaps]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -187,11 +182,10 @@ Needs discrete help with family scandal
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -211,7 +205,7 @@ Needs discrete help with family scandal
 - Requires [[dawn-war-corellon-dmg (deities)]]
 - Requires [[Pain-Artist Cruelty Refined]]
 - Affected by [[Otherworldly Steed Fey Xphb]]
-- Affected by [[step_024]]
+- Affected by
 - Originates from [[NPC00644_Nerys_Dawnstrider_the_Wanderer]]
 - Requires [[step_035 (phase_041)]]
 - Requires [[Portrait NPC Queen Morwyn Lumengarde V2 Queen Morwyn Lumengarde.svg]]
@@ -222,14 +216,14 @@ Needs discrete help with family scandal
 - Compare with [[LORE00026_Prophecies_Entry_27]]
 - Influences [[Human Names Mesoamerican Female Xge]]
 - Influences [[MON00046_Undead_Creature_47]]
-- Connects to [[step_092]]
+- Connects to
 - Originates from [[Assets Locations Location City Foam Deepferment Foam Deepferment.svg]]
 - Parallels [[Assets Locations Location City Undead Services Bureau V1 Undead Services Bureau.svg]]
 - Influences [[Location City Memory Sanctity Laws Memory Sanctity Laws.svg]]
 - Related: [[Assets Locations Location City Reflection Pools Surgical Theater V1 Reflection Pools Surgical Theater.svg]]
 - Affected by [[step_059 (phase_008)]]
 - Leads to [[Quality Inspector Trueeye]]
-- Influences [[step_061]]
+- Influences
 - Influences [[eberron-balinor (deities)]]
 - Originates from [[Maritime Trade Routes]]
 - See also: [[Blood Coral (D&D_References)]]
@@ -242,24 +236,24 @@ Needs discrete help with family scandal
 - Influences [[The Memory Mirror]]
 - Compare with [[step_084 (phase_030)]]
 - See also: [[Deepmind Conspiracy (D&D_References)]]
-- Affected by [[step_073]]
+- Affected by
 - Connects to [[step_036 (phase_032)]]
 - See also: [[step_037 (phase_007)]]
 - See also: [[Location City Council of Faiths Council of Faiths.svg]]
 - Parallels [[SPELL00031_Divine_Spell_32]]
 - Connects to [[elf-names-female-adult-xge (tables)]]
 - Affected by [[MON0006_Bone_Stalker]]
-- Affected by [[step_011]]
+- Affected by
 - Requires [[step_075 (phase_005)]]
-- Originates from [[step_009]]
+- Originates from
 - Connects to [[step_023 (phase_077)]]
 - See also: [[Location City House Depthguard V1 House Depthguard.svg]]
 - Affected by [[Pressure Conspiracy]]
 - Leads to [[step_014 (phase_069)]]
 - Compare with [[Symbol Heraldry Vex... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Related: [[step_055 (phase_017)]]
-- Affected by [[step_035]]
-- Related: [[step_081]]
+- Affected by
+- Related:
 - Requires [[Assets Locations Location City Doctor Coral Shapeshift V1 Doctor Coral Shapeshift.svg]]
 - Affected by [[The Natural Path Manifesto 2]]
 - Originates from [[Harbor Facilities]]
@@ -290,7 +284,7 @@ Needs discrete help with family scandal
 - Leads to [[Madame Pearl Currentflow (D&D_References)]]
 - Influences [[list-spells-classes-illusionist-xphb (lists)]]
 - Related: [[location-city-crystal-keepers-crystal-keepers.svg]]
-- Affected by [[step_064]]
+- Affected by
 - Connects to [[NPC00186_Nerys_Ironforge]]
 - Affected by [[standard-languages-phb (tables)]]
 - Related: [[physical-characteristics-beholder-eye-size-vgm]]
@@ -300,7 +294,6 @@ Needs discrete help with family scandal
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00747 Hilda Crystalbrook the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00747 Hilda Crystalbrook the Broken]
 - [[#Brenna Darkwater the Bold (Family - Sibling)|Brenna Darkwater the Bold (Family - Sibling)]]
 - [[#Idris Ironwood the Strong (Professional - Employer)|Idris Ironwood the Strong (Professional - Employer)]]
 - [[#Hilda Frostwhisper the Wise (Personal - Childhood friend)|Hilda Frostwhisper the Wise (Personal - Childhood friend)]]
-
 
 ---
 aliases: ["Hilda Crystalbrook the Broken", "hilda crystalbrook the broken", "Hilda Crystalbrook Broken", "Broken the Crystalbrook Hilda"]
@@ -146,21 +144,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.197Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,7 +172,7 @@ Family member has gone missing
 - Connects to [[step_085 (phase_082)]]
 - Requires [[MON0032_Shadow_Guardian]]
 - Influences [[DUN00177_Dungeon_178]]
-- See also: [[step_026]]
+- See also:
 - Leads to [[Reality Distortion]]
 - Related: [[Void Suits]]
 - Related: [[Portrait NPC Tidal Priests Circle V1 Tidal Priests Circle.svg_1 (Portraits)]]
@@ -203,7 +197,7 @@ Family member has gone missing
 - Leads to [[MON00116_Constructs_Creature_117]]
 - Influences [[Location City His Eternal Majesty Keeper of the Throne of Bubbles His Eternal Majesty Keeper of the Throne of Bubbles.svg]]
 - Related: [[Lord Chancellor Prism Valdrick]]
-- Influences [[step_039]]
+- Influences
 - Requires [[step_057 (phase_015)]]
 - See also: [[Treasure by Depth]]
 - Influences [[LORE00225_Prophecies_Entry_226]]
@@ -236,7 +230,7 @@ Family member has gone missing
 - Affected by [[Simulacrum Xphb]]
 - Influences [[Stop the Shadow Harvest]]
 - Related: [[Reformed Surgeons Alliance]]
-- Parallels [[step_016]]
+- Parallels
 - Connects to [[Balta Kaine (D&D_References)]]
 - Influences [[Sahuagin Priest Xmm]]
 - Originates from [[Continual Flame Xphb]]

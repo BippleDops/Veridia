@@ -18,7 +18,6 @@ aliases: [NPC01038 Kaelen Grimholt the Wise]
 - [[#Gavril Voidwalker the Wanderer (Political - Ally)|Gavril Voidwalker the Wanderer (Political - Ally)]]
 - [[#Elric Silverleaf the Swift (Criminal - Handler)|Elric Silverleaf the Swift (Criminal - Handler)]]
 
-
 ---
 aliases: ["Kaelen Grimholt the Wise", "kaelen grimholt the wise", "Kaelen Grimholt Wise", "Wise the Grimholt Kaelen"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.230Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -179,11 +174,11 @@ Caravan needs guards
 - Influences [[Location City Chief Engineer Marina Crystalwright Chief Engineer Marina Crystalwright.svg]]
 - Connects to [[The Vault Keepers 2]]
 - Affected by [[10 combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]]
-- Leads to [[step_071]]
+- Leads to
 - Affected by [[NPC0183_Xara_Brightblade]]
 - Influences [[Random Magic Items Relics]]
 - Compare with [[Keeper Elara Mindwell (D&D_Statblocks)]]
-- Connects to [[step_055]]
+- Connects to
 - Compare with [[02_Worldbuilding_Groups_Faction_Overview]]
 - Parallels [[Portrait NPC Priest Faith Crystalsong Priest Faith Crystalsong.svg]]
 - Connects to [[dawn-war-corellon-dmg (deities)]]
@@ -240,7 +235,7 @@ Caravan needs guards
 - Compare with [[Lighthouse Keeper Finn Deepbeacon (D&D_References)]]
 - See also: [[NPC00042_Vesper_Grimholt]]
 - Affected by [[LOC00203_Dungeons_Location_204]]
-- Compare with [[step_078]]
+- Compare with
 - Influences [[entertainer-gladiator-variant (backgrounds)]]
 - Connects to [[mind-sliver-xphb (spells)]]
 - Influences [[step_056 (phase_030)]]
@@ -274,7 +269,6 @@ Caravan needs guards
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC00973 Jorah Jadeclaw the Risen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00973 Jorah Jadeclaw the Risen]
 - [[#Kaelen Silverleaf the Redeemed (Professional - Mentor)|Kaelen Silverleaf the Redeemed (Professional - Mentor)]]
 - [[#Elric Proudmore the Lost (Family - Spouse)|Elric Proudmore the Lost (Family - Spouse)]]
 - [[#Rhiannon Emberfall the Cunning (Personal - Ex-lover)|Rhiannon Emberfall the Cunning (Personal - Ex-lover)]]
-
 
 ---
 aliases: ["Jorah Jadeclaw the Risen", "jorah jadeclaw the risen", "Jorah Jadeclaw Risen", "Risen the Jadeclaw Jorah"]
@@ -148,21 +146,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.224Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -170,7 +164,7 @@ Seeks rare merchandise
 - Connects to [[Elemental Gem Xdmg]]
 - Compare with [[step_093 (phase_045)]]
 - Compare with [[Eastport]]
-- Leads to [[step_091]]
+- Leads to
 - Affected by [[Work Complications Xge]]
 - Connects to [[SPELL00002_Nature_Spell_3]]
 - See also: [[Community Health Clinic]]
@@ -193,7 +187,7 @@ Seeks rare merchandise
 - Leads to [[Deep Chemical Works]]
 - Related: [[Portal_Home]]
 - Influences [[08_Archive_Planning_100_NEXT_LEVEL_IMPROVEMENTS]]
-- Compare with [[step_088]]
+- Compare with
 - Leads to [[Gentle Currentguide (D&D_References)]]
 - Related: [[FAC00027_Guilds_28]]
 - Compare with [[Marcus Aurelius Shimmerstone]]
@@ -218,7 +212,7 @@ Seeks rare merchandise
 - Originates from [[portrait-npc-duke-hadal-v1-duke-hadal.svg]]
 - Parallels [[The Black Ledger (D&D_References)]]
 - Leads to [[Rogue_Journal]]
-- Connects to [[step_045]]
+- Connects to
 - See also: [[List Spells Optional Features Pact of the Tome Xphb]]
 - Parallels [[Chancellor Marina Depthcaller]]
 - Originates from [[Summon Aberration Xphb]]
@@ -235,7 +229,7 @@ Seeks rare merchandise
 - Leads to [[Location City Current Democratic Party Current Democratic Party.svg]]
 - Related: [[NPC01222_Dara_Quicksilver_the_Risen]]
 - Related: [[04_Resources_Assets_Portraits_portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg_Quick_Ref]]
-- Requires [[step_033]]
+- Requires
 - Compare with [[step_019 (phase_071)]]
 - Originates from [[The_Seven_Shards_Campaign]]
 - Parallels [[Assets Locations Location City the Twilight Gardens V1 the Twilight Gardens.svg]]
@@ -244,12 +238,12 @@ Seeks rare merchandise
 - Requires [[step_097 (phase_084)]]
 - Compare with [[Horn of Valhalla Iron Xdmg]]
 - Compare with [[Assets Art Screaming Gardens Songwood Grove.png]]
-- Compare with [[step_020]]
+- Compare with
 - Affected by [[Senator's Seal]]
 - Requires [[ENC00157_Combat_Encounter_158]]
 - Influences [[Goldspire Expedition]]
 - See also: [[MON00123_Constructs_Creature_124]]
-- Parallels [[step_034]]
+- Parallels
 - Related: [[step_023 (phase_023)]]
 - Originates from [[QUEST0077_In_Search_of_Justice]]
 - Originates from [[step_097 (phase_080)]]

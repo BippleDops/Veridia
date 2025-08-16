@@ -9,7 +9,6 @@ aliases: [NPC01888 Hestara Ravenheart the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01888 Hestara Ravenheart the Redeemed]
 - [[#Solas Ravenheart the Guardian (Criminal - Accomplice)|Solas Ravenheart the Guardian (Criminal - Accomplice)]]
 - [[#Jorah Brightblade the Redeemed (Family - Cousin)|Jorah Brightblade the Redeemed (Family - Cousin)]]
 - [[#Alaric Silverleaf the Mystic (Criminal - Handler)|Alaric Silverleaf the Mystic (Criminal - Handler)]]
-
 
 ---
 created: 2025-08-15
@@ -156,16 +154,13 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.321Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -211,9 +206,7 @@ Modifications:
 - [[11 Rules Glossary]]
 - [[NPC01041_Thalia_Dawnstrider_the_Lost]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -230,7 +223,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Source References
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -238,16 +231,15 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Leads to [[LORE00118_History_Entry_119]]
-- Originates from [[step_073]]
+- Originates from
 - Originates from [[Troglodyte Xmm]]
 - Requires [[Location City [[Historical Prophetic Analysis]] Historical Prophetic Analysis.svg]]
 - Leads to [[Duke Hadal]]
@@ -255,7 +247,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[ITEM00996_Pure_Herb_of_Swiftness]]
 - Related: [[ITEM00510_Warded_Boots_of_Grace]]
 - See also: [[Quality Inspector Wave Purewater 2]]
-- See also: [[step_059]]
+- See also:
 - Related: [[Political Compromise Costs]]
 - Affected by [[Far Realm Incursions]]
 - Related: [[step_067 (phase_027)]]
@@ -268,7 +260,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[The Community Feast Halls (Places)]]
 - See also: [[LOC00134_Towns_Location_135]]
 - Compare with [[Location City [[Community Organizations]] V1 Community Organizations.svg]]
-- Compare with [[step_031]]
+- Compare with
 - Affected by [[Blood Price Protocol]]
 - See also: [[Wanted_Poster]]
 - Affected by [[Quest - Harbor Security 2]]
@@ -302,7 +294,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[04_Resources_Assets_Locations_location-city-astrologer-prime-cassandra-starweaver-v1-astrologer-prime-cassandra-starweaver.svg]]
 - Originates from [[portrait-npc-the-king-s-ears-the-king-s-ears.svg]]
 - Related: [[Archshadow Voice Shadowspeak]]
-- Related: [[step_032]]
+- Related:
 - Leads to [[step_010 (phase_068)]]
 - Connects to [[Webs Xdmg]]
 - Parallels [[Location City [[Coral Reef Sanctuaries]] V1 Coral Reef Sanctuaries.svg]]
@@ -315,14 +307,14 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[list-spells-classes-eldritch-knight-xphb (lists)]]
 - Influences [[Location City Whisper Touched William V1 Whisper Touched William.svg]]
 - Compare with [[object-hit-points (tables)]]
-- Requires [[step_051]]
+- Requires
 - Affected by [[step_050 (phase_084)]]
 - Requires [[Assets Locations Location City [[Magnus Ledgerkeep]] Magnus Ledgerkeep.svg]]
 - Related: [[SPELL00070_Divine_Spell_71]]
 - See also: [[QUEST0012_In_Search_of_Truth]]
 - Affected by [[step_073 (phase_091)]]
 - Leads to [[[[Aethermoor]] Trade Commission 2]]
-- Affected by [[step_026]]
+- Affected by
 - Requires [[SHOP00003_Magical_Shop_4]]
 - Parallels [[LORE00191_History_Entry_192]]
 - Compare with [[ENC00274_Combat_Encounter_275]]
@@ -330,7 +322,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[The Paradox Gardens]]
 - Affected by [[Adamantine Ammunition Xge]]
 - Related: [[Portrait NPC Reflection Captain Vantage Reflection Captain Vantage.svg]]
-- Influences [[step_005]]
+- Influences
 - Affected by [[step_099 (phase_043)]]
 - Connects to [[ITEM00587_Dragon_Scale_Helm_of_Protection]]
 - Leads to [[Location City [[Causality Shadow]] Causality Shadow.png]]

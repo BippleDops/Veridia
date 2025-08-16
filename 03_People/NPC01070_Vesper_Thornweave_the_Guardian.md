@@ -18,7 +18,6 @@ aliases: [NPC01070 Vesper Thornweave the Guardian]
 - [[#Malakai Nightfall the Seeker (Professional - Rival)|Malakai Nightfall the Seeker (Professional - Rival)]]
 - [[#Kaelen Goldleaf the Cunning (Criminal - Fence)|Kaelen Goldleaf the Cunning (Criminal - Fence)]]
 
-
 ---
 aliases: ["Vesper Thornweave the Guardian", "vesper thornweave the guardian", "Vesper Thornweave Guardian", "Guardian the Thornweave Vesper"]
 tags: [npc, character]
@@ -149,28 +148,24 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.234Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Leads to [[LOC00209_Towns_Location_210]]
 - Originates from [[LOC00104_Towns_Location_105]]
 - See also: [[SPELL00143_Arcane_Spell_144]]
-- Requires [[step_081]]
+- Requires
 - Requires [[FAC00025_Cults_26]]
 - Originates from [[MON00152_Undead_Creature_153]]
 - Parallels [[The Cerulean Trench (D&D_References)]]
@@ -188,7 +183,7 @@ Competitor sabotaging business
 - Parallels [[ITEM00267_Radiant_Crossbow_of_Speed]]
 - Requires [[Master Illusion Kyrian Mindweaver]]
 - See also: [[step_077 (phase_014)]]
-- Originates from [[step_065]]
+- Originates from
 - Originates from [[step_065 (phase_025)]]
 - Requires [[step_087 (phase_049)]]
 - Related: [[Keepers of Memory]]
@@ -224,7 +219,7 @@ Competitor sabotaging business
 - Connects to [[Assets Locations Location City War of the Sunless Depths War of the Sunless Depths.svg]]
 - Connects to [[step_007 (phase_029)]]
 - Connects to [[step_097 (phase_071)]]
-- Leads to [[step_038]]
+- Leads to
 - See also: [[Admiral Diplomatic Envoy Thornwick]]
 - Connects to [[Throne Room (D&D_References)]]
 - Parallels [[Assets Locations Location City Astrologer Prime Cassandra Starweaver V1 Astrologer Prime Cassandra Starweaver.svg]]
@@ -254,7 +249,7 @@ Competitor sabotaging business
 - Leads to [[step_024 (phase_079)]]
 - Related: [[Find the Grief Bomb (D&D_Statblocks)]]
 - Leads to [[The Lost Shipment 2]]
-- Leads to [[step_063]]
+- Leads to
 - Leads to [[QUEST00015_Main_Quest_16]]
 - Compare with [[location-city-marine-druids-v1-marine-druids.svg]]
 - Parallels [[Location City the Grand Bazaar of Echoing Coins V1 the Grand Bazaar of Echoing Coins.svg]]
@@ -263,7 +258,7 @@ Competitor sabotaging business
 - Originates from [[step_068 (phase_021)]]
 - Requires [[conditions#Incapacitated]]
 - Compare with [[Underground Railroad Leader 2]]
-- Originates from [[step_004]]
+- Originates from
 - Leads to [[Sunset Bay]]
 - Affected by [[Random Magic Item Rarity Magic Item Rarities]]
 - Parallels [[LOC00139_Wilderness_Location_140]]
@@ -272,7 +267,6 @@ Competitor sabotaging business
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

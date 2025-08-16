@@ -18,7 +18,6 @@ aliases: [Ancient Prophecy Fragment Verdan]
 - [[#Hospitality Improvements|Hospitality Improvements]]
 - [[#Superstitions Improvements|Superstitions Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Ancient_Prophecy_Fragment_Verdan
@@ -132,7 +131,7 @@ tags: [combat, lore]
 
 ### Currency
 - Copper Drops (cp)
-- Silver Streams (sp) 
+- Silver Streams (sp)
 - Gold Suns (gp)
 - Platinum Crowns (pp)
 
@@ -145,7 +144,6 @@ tags: [combat, lore]
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
@@ -174,8 +172,7 @@ tags: [combat, lore]
 - [[NPC00237_Vesper_Ashford_the_Bold]]
 - [[05 Personality and Background]]
 - [[MOC_Lore]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -185,7 +182,6 @@ tags: [combat, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## D&D 5e References
 
 *(Combat rules: ACX p.189-198)*
@@ -194,7 +190,7 @@ tags: [combat, lore]
 
 ## Connections
 
-- Originates from [[step_026]]
+- Originates from
 - Leads to [[Buying a Magic Item Magic Item Price Xge]]
 - Connects to [[EVENT00005_Political_Event_6]]
 - See also: [[LOC00021_Planes_Location_22]]
@@ -242,7 +238,7 @@ tags: [combat, lore]
 - Compare with [[Greek Hercules]]
 - Originates from [[Great Dying 2]]
 - Connects to [[Assets Locations Location City Doctor Coral Shapeshift Doctor Coral Shapeshift.svg]]
-- Parallels [[step_047]]
+- Parallels
 - Compare with [[MON00150_Aberrations_Creature_151]]
 - Connects to [[Temple Clergy (D&D_References)]]
 - Leads to [[step_023 (phase_069)]]
@@ -251,11 +247,11 @@ tags: [combat, lore]
 - Related: [[Luxury Goods Market 2]]
 - Originates from [[LOC00246_Wilderness_Location_247]]
 - Affected by [[cleric-xphb-knowledge-domain 2 (classes)]]
-- Compare with [[step_041]]
+- Compare with
 - Parallels [[SHOP00004_General_Shop_5]]
 - Influences [[Map_Whisper_Island_Docks_Sketc]]
 - Requires [[ENC00247_Combat_Encounter_248]]
-- Parallels [[step_094]]
+- Parallels
 - See also: [[Assets Locations Location City Sentinel Constructs V1 Sentinel Constructs.svg]]
 - Compare with [[Commander Darkwater]]
 - Requires [[step_040 (phase_085)]]
@@ -265,13 +261,13 @@ tags: [combat, lore]
 - Parallels [[EVENT00089_Magical_Event_90]]
 - Compare with [[step_004 (phase_044)]]
 - Connects to [[Economic Pressure]]
-- Parallels [[step_078]]
+- Parallels
 - Parallels [[Crystalhaven]]
 - Requires [[Cassia Lightweaver]]
-- Requires [[step_034]]
+- Requires
 - Parallels [[Crown of Stars Fragments]]
 - Parallels [[Quaals Feather Token Whip Xdmg]]
-- Leads to [[step_004]]
+- Leads to
 - Connects to [[fomorian-xmm (giant)]]
 - Requires [[NPC01388_Thalia_Proudmore_the_Swift]]
 - Connects to [[Memorial Mason Kane 2]]
@@ -280,8 +276,8 @@ tags: [combat, lore]
 - Connects to [[Shadowfell Despair]]
 - Parallels [[implements-rare-xdmg (tables)]]
 - Originates from [[Corruption Trackers]]
-- Affected by [[step_085]]
-- Related: [[step_002]]
+- Affected by
+- Related:
 - Connects to [[Guardian Dream Realm]]
 - Compare with [[Whisper-Touched William 2]]
 - Requires [[Location City Port Crystalfall V1 Port Crystalfall.svg]]

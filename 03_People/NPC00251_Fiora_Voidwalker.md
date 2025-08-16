@@ -18,7 +18,6 @@ aliases: [NPC00251 Fiora Voidwalker]
 - [[#Fiora Zephyrblade (Personal - Childhood friend)|Fiora Zephyrblade (Personal - Childhood friend)]]
 - [[#Caelum Hawthorne the Seeker (Criminal - Informant)|Caelum Hawthorne the Seeker (Criminal - Informant)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Fiora Voidwalker", "fiora voidwalker", "Voidwalker Fiora"]
@@ -157,27 +156,23 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.141Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -188,11 +183,10 @@ Needs discrete help with family scandal
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -232,7 +226,7 @@ Needs discrete help with family scandal
 - Connects to [[Scribe Pennsworth]]
 - Related: [[Banker Kess 2]]
 - Parallels [[QUEST00118_Main_Quest_119]]
-- Affected by [[step_025]]
+- Affected by
 - Connects to [[The Pressure Forges]]
 - Related: [[Spell Scroll Level 3 Xdmg]]
 - Leads to [[NPC00069_Thalia_Brightblade_the_Guardian]]
@@ -242,7 +236,7 @@ Needs discrete help with family scandal
 - Parallels [[zaratan-mpmm (elemental)]]
 - Originates from [[step_002 (phase_052)]]
 - Affected by [[Quantum Message Network]]
-- See also: [[step_055]]
+- See also:
 - Affected by [[Portrait NPC Duke Cyrus Reefheart V2 Duke Cyrus Reefheart.svg]]
 - See also: [[step_080 (phase_092)]]
 - Influences [[Holy Water Xphb]]
@@ -282,7 +276,7 @@ Needs discrete help with family scandal
 - Connects to [[step_082 (phase_047)]]
 - Influences [[#lore Location Connection Matrix]]
 - Parallels [[LORE00112_Legends_Entry_113]]
-- See also: [[step_078]]
+- See also:
 - Originates from [[step_019 (phase_097)]]
 - Influences [[LORE00141_History_Entry_142]]
 - Parallels [[folding-boat-xdmg (items)]]
@@ -301,7 +295,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -9,7 +9,6 @@ aliases: [NPC01283 Corvus Hawthorne the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01283 Corvus Hawthorne the Fallen]
 - [[#Kaelen Jadeclaw the Strong (Criminal - Handler)|Kaelen Jadeclaw the Strong (Criminal - Handler)]]
 - [[#Zephyr Zephyrblade the Guardian (Criminal - Accomplice)|Zephyr Zephyrblade the Guardian (Criminal - Accomplice)]]
 - [[#Pyria Crystalbrook the Risen (Criminal - Fence)|Pyria Crystalbrook the Risen (Criminal - Fence)]]
-
 
 ---
 created: 2025-08-15
@@ -146,16 +144,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.256Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -207,11 +202,10 @@ Modifications:
 - [[MOC_Lore]]
 - [[Player_Comfort_Check]]
 - [[MASTER_MOC]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -220,11 +214,10 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -252,9 +245,9 @@ Modifications:
 - Leads to [[[[Grief Counseling]] 2]]
 - Requires [[Location City [[Surface Loyalist Safe Houses]] Surface Loyalist Safe Houses.svg]]
 - Affected by [[step_083 (phase_027)]]
-- Parallels [[step_081]]
+- Parallels
 - Requires [[step_041 (phase_056)]]
-- Affected by [[step_078]]
+- Affected by
 - Affected by [[The Purification Order]]
 - Leads to [[animated-broom-xmm (construct)]]
 - Compare with [[Shadow Essences]]
@@ -274,7 +267,7 @@ Modifications:
 - Influences [[The Abyssal Prophet (D&D_References)]]
 - See also: [[crossbow-bolt-case-xphb (items)]]
 - Related: [[wand-of-conducting-xdmg (items)]]
-- Related: [[step_093]]
+- Related:
 - Originates from [[step_051 (phase_013)]]
 - Connects to [[ENC00042_Combat_Encounter_43]]
 - Compare with [[ENC00070_Environmental_Encounter_71]]
@@ -285,13 +278,13 @@ Modifications:
 - Affected by [[ENC00044_Combat_Encounter_45]]
 - Originates from [[04_Resources_Assets_Symbols_symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png]]
 - Connects to [[step_030 (phase_021)]]
-- Compare with [[step_011]]
+- Compare with
 - Leads to [[ITEM00489_Adamantine_Helm_of_Protection]]
 - Affected by [[stone-shape-xphb (spells)]]
 - Influences [[Memory Web Constructor]]
 - Affected by [[Location City [[Thomas Deepanchor]] Thomas Deepanchor.svg]]
 - Parallels [[Location City [[Black Market Deal]] Black Market Deal.svg]]
-- Connects to [[step_034]]
+- Connects to
 - Parallels [[The Crystal Influence 3 (D&D_References)]]
 - Requires [[Assets Locations Location City [[Shadowport]] V1 Shadowport.svg]]
 - Connects to [[Eberron Dol Dorn]]
@@ -317,17 +310,17 @@ Modifications:
 - Originates from [[Assets Locations [[Location City [[Palace Guardians]] Palace Guardians.svg]]]]
 - Connects to [[The Phantom Tide]]
 - Connects to [[Portrait NPC the Azure Prophet Nerissa V2 the Azure Prophet Nerissa.svg_1 (Portraits)]]
-- Parallels [[step_089]]
+- Parallels
 - See also: [[02-chapter-1-playing-the-game#Skill List]]
-- Originates from [[step_024]]
+- Originates from
 - Requires [[Assets Locations Location City [[The Frozen Throne]] V1 the Frozen Throne.svg]]
 - Affected by [[The Seven Shard Guardians 2]]
 - Compare with [[supplemental-tables-absent-parent-xge (tables)]]
 - Compare with [[Location City [[Restorative Justice]] Restorative Justice.svg]]
 - Originates from [[NPC00523_Branwen_Brightblade_the_Seeker]]
-- Parallels [[step_078]]
+- Parallels
 - Compare with [[step_094 (phase_065)]]
-- Compare with [[step_096]]
+- Compare with
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

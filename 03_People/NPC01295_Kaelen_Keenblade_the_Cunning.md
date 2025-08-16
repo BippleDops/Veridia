@@ -9,7 +9,6 @@ aliases: [NPC01295 Kaelen Keenblade the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01295 Kaelen Keenblade the Cunning]
 - [[#Hilda Voidwalker the Mystic (Family - Parent)|Hilda Voidwalker the Mystic (Family - Parent)]]
 - [[#Drusilla Brightblade the Broken (Professional - Employer)|Drusilla Brightblade the Broken (Professional - Employer)]]
 - [[#Hilda Lightbringer the Mystic (Professional - Partner)|Hilda Lightbringer the Mystic (Professional - Partner)]]
-
 
 ---
 aliases: ["Kaelen Keenblade the Cunning", "kaelen keenblade the cunning", "Kaelen Keenblade Cunning", "Cunning the Keenblade Kaelen"]
@@ -152,21 +150,17 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.257Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,21 +172,21 @@ Knows secret about major threat
 - Related: [[Weather Weaving Guild]]
 - See also: [[nonhuman-deep-sashelas (deities)]]
 - Related: [[LORE00154_Prophecies_Entry_155]]
-- Requires [[step_100]]
+- Requires
 - Parallels [[Patrol Boundaryrider 2]]
 - See also: [[The Community Awakening (D&D_References)]]
 - Connects to [[step_070 (phase_071)]]
 - Requires [[The Ghostly Librarians (D&D_References)]]
 - Requires [[The Crimson Fleet.md]]
-- See also: [[step_063]]
+- See also:
 - Connects to [[International Pressur]]
 - Parallels [[step_032 (phase_052)]]
 - Connects to [[QUEST00350_Side_Quest_351]]
 - Affected by [[Truth Verification Serum]]
 - Influences [[Assets Locations Location City the Pearl Markets the Pearl Markets.svg]]
-- Related: [[step_005]]
-- Originates from [[step_032]]
-- Requires [[step_060]]
+- Related:
+- Originates from
+- Requires
 - Connects to [[ITEM01074_Lesser_Herb_of_Healing]]
 - Originates from [[Reality Anchor Smith]]
 - Affected by [[sledgehammer]]
@@ -209,7 +203,7 @@ Knows secret about major threat
 - Connects to [[LOC00161_Towns_Location_162]]
 - Parallels [[Behir Xmm]]
 - Connects to [[portrait-npc-shadow-brokers-shadow-brokers.svg_1 (Portraits)]]
-- Parallels [[step_013]]
+- Parallels
 - Requires [[constrictor-snake-xmm (beast)]]
 - See also: [[Assets Locations Location City Traditional Elder Wisdom Keeper V1 Traditional Elder Wisdom Keeper.svg]]
 - Affected by [[LOC00103_Cities_Location_104]]
@@ -233,10 +227,10 @@ Knows secret about major threat
 - Parallels [[step_008 (phase_016)]]
 - Requires [[LOC00001_Towns_Location_2]]
 - Related: [[Complete Reality Merger System (D&D_References)]]
-- Originates from [[step_016]]
+- Originates from
 - Leads to [[Animations - Motion_Specs]]
 - Leads to [[Symbol Heraldry Liv... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Parallels [[step_096]]
+- Parallels
 - Connects to [[Harbormaster Creedence Tidereader]]
 - Related: [[step_026 (phase_004)]]
 - Parallels [[step_025 (phase_083)]]
@@ -251,7 +245,7 @@ Knows secret about major threat
 - Leads to [[Portrait NPC Emperor Thalassius the Wise V1 Emperor Thalassius the Wise.svg_1 (Portraits)]]
 - Related: [[Sea Sprite (D&D_References)]]
 - Parallels [[ITEM00067_Venomous_Sword_of_Wounding]]
-- Parallels [[step_024]]
+- Parallels
 - Connects to [[observatory-charm-xdmg (rewards)]]
 - Affected by [[strixhaven-mascot-scc (feats)]]
 - Influences [[step_062 (phase_034)]]
@@ -265,7 +259,7 @@ Knows secret about major threat
 - Influences [[NPC0122_Cedric_Darkwater]]
 - Related: [[location-city-port-quarter-port-quarter.svg]]
 - Leads to [[Resonance Chamber 2]]
-- Requires [[step_088]]
+- Requires
 - Related: [[tome-of-leadership-and-influence-xdmg (items)]]
 - Influences [[09 Running the Game]]
 - Influences [[LOC0027_Peakford]]

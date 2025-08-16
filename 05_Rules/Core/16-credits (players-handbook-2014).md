@@ -18,7 +18,6 @@ aliases: [16-credits (players-handbook-2014)]
 - [[#See Also|See Also]]
 - [[#Related Content|Related Content]]
 
-
 ---
 
 title: 16-credits (players-handbook-2014)
@@ -68,7 +67,6 @@ world: Both
 
 *Additional notes*
 
-
 > [!dm] DM Note
 > The villain has agents watching this place
 
@@ -95,8 +93,7 @@ world: Both
 - [ ] Prepare quick reference
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -105,7 +102,6 @@ world: Both
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -126,7 +122,7 @@ world: Both
 - Compare with [[Location City the Thirteen Keys V1 the Thirteen Keys.svg]]
 - Leads to [[Location City Whisper Island Docks V1 Whisper Island Docks.svg]]
 - Connects to [[Chef Lafayette]]
-- Affected by [[step_009]]
+- Affected by
 - Connects to [[Assets Locations Location City Dr Siphon Gillwater V1 Dr Siphon Gillwater.png]]
 - Affected by [[QUEST00065_Side_Quest_66]]
 - See also: [[staff-of-birdcalls-xdmg (items)]]
@@ -143,10 +139,10 @@ world: Both
 - Requires [[LOC00278_Planes_Location_279]]
 - Connects to [[step_054 (phase_019)]]
 - Affected by [[High Oracle Serenity Deepcall 2]]
-- See also: [[step_064]]
+- See also:
 - See also: [[Dominate Beast Xphb]]
 - Requires [[step_078 (phase_089)]]
-- See also: [[step_068]]
+- See also:
 - Parallels [[Copper Dragon Wyrmling Xmm]]
 - Influences [[Portrait NPC the Current Merchants V2 the Current Merchants.svg_1 (Portraits)]]
 - Leads to [[Location City International Void Treaties V1 International Void Treaties.svg]]
@@ -167,7 +163,7 @@ world: Both
 - Influences [[list-spells-classes-great-old-one-patron-xphb (lists)]]
 - Parallels [[ITEM00213_Cursed_Staff_of_Wounding]]
 - Related: [[Portrait NPC the Throne Chamber of Eternal Bubbles V1 the Throne Chamber of Eternal Bubbles.svg_1 (Portraits)]]
-- Parallels [[step_050]]
+- Parallels
 - Compare with [[step_067 (phase_087)]]
 - See also: [[Shadow Convergence 2]]
 - Requires [[ITEM01271_Refined_Elixir_of_Healing]]
@@ -190,24 +186,24 @@ world: Both
 - Leads to [[step_003 (phase_064)]]
 - Influences [[step_007 (phase_055)]]
 - Affected by [[step_038 (phase_025)]]
-- Influences [[step_076]]
+- Influences
 - See also: [[step_004 (phase_076)]]
 - Originates from [[Quest - The Pressure Cure]]
 - See also: [[LOC00162_Towns_Location_163]]
 - Parallels [[The First Watcher (D&D_References)]]
 - Influences [[list-spells-races-gith-githzerai-mtf (lists)]]
 - Influences [[02-chapter-1-playing-the-game#Skill List]]
-- Related: [[step_009]]
-- Parallels [[step_029]]
+- Related:
+- Parallels
 - Affected by [[Magic Item Table C]]
-- Originates from [[step_003]]
+- Originates from
 - Parallels [[Alternative Technology Promotion]]
 - Originates from [[copper-xdmg (items)]]
 - Originates from [[LORE00214_Legends_Entry_215]]
 - Parallels [[NPC01128_Vesper_Jadeclaw_the_Swift]]
 - Originates from [[step_070 (phase_015)]]
 - Influences [[04_Resources_Assets_Vehicles_vehicle-ship-resoce-drive-yacht-v2-resoce-drive-yacht.svg]]
-- See also: [[step_029]]
+- See also:
 - Influences [[Adaptation Medical Society (Groups)]]
 - Related: [[Nonhuman Deities Phb]]
 - Compare with [[LORE00241_Legends_Entry_242]]

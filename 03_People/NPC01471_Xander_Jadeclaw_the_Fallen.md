@@ -18,7 +18,6 @@ aliases: [NPC01471 Xander Jadeclaw the Fallen]
 - [[#Ysara Brightblade the Swift (Professional - Partner)|Ysara Brightblade the Swift (Professional - Partner)]]
 - [[#Elric Ashford the Redeemed (Family - Cousin)|Elric Ashford the Redeemed (Family - Cousin)]]
 
-
 ---
 aliases: ["Xander Jadeclaw the Fallen", "xander jadeclaw the fallen", "Xander Jadeclaw Fallen", "Fallen the Jadeclaw Xander"]
 tags: [npc, character]
@@ -152,28 +151,24 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.276Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Originates from [[step_010 (phase_025)]]
 - Influences [[Portrait NPC the Shadow Surgeons V2 the Shadow Surgeons.svg]]
-- Compare with [[step_048]]
-- Requires [[step_045]]
+- Compare with
+- Requires
 - Compare with [[step_080 (phase_016)]]
 - Originates from [[Assets Portraits Portrait NPC Quest the Deep Cartographer Quest the Deep Cartographer.svg]]
 - Influences [[Assets Locations Location City Surface Expert Grainwise V1 Surface Expert Grainwise.svg]]
@@ -222,14 +217,14 @@ Forming expedition to dangerous location
 - Parallels [[roleplaying-a-beholder-beholder-flaws-vgm (tables)]]
 - See also: [[Possession Mechanics]]
 - Connects to [[LOC00049_Dungeons_Location_50]]
-- Related: [[step_044]]
+- Related:
 - Related: [[creature-creature-sphinx-xmm-v3-sphinx-xmm.png]]
 - Related: [[portrait-npc-syndicate-war-v2-syndicate-war.svg]]
-- See also: [[step_041]]
+- See also:
 - Influences [[Location City Sentinel Constructs V1 Sentinel Constructs.svg]]
 - Originates from [[step_001 (phase_027)]]
 - See also: [[New Meridian]]
-- Compare with [[step_004]]
+- Compare with
 - Requires [[Assets Item Artifact Dagger of Venom Xdmg V7 Dagger of Venom Xdmg.png]]
 - Related: [[step_003 (phase_071)]]
 - Originates from [[silk-rope-50-feet (items)]]
@@ -275,7 +270,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

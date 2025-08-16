@@ -18,7 +18,6 @@ aliases: [NPC00273 Gavril Youngblood the Bold]
 - [[#Fiora Darkwater the Lost (Political - Patron)|Fiora Darkwater the Lost (Political - Patron)]]
 - [[#Gareth Blackstone the Mystic (Political - Patron)|Gareth Blackstone the Mystic (Political - Patron)]]
 
-
 ---
 aliases: ["Gavril Youngblood the Bold", "gavril youngblood the bold", "Gavril Youngblood Bold", "Bold the Youngblood Gavril"]
 tags: [npc, character]
@@ -154,26 +153,22 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.143Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - See also: [[Cosmic Awareness (D&D_References)]]
-- Originates from [[step_016]]
+- Originates from
 - Leads to [[Assets Locations Location City Count Viktor Pressureborn Count Viktor Pressureborn.svg]]
 - Connects to [[ITEM01479_Ornate_Journal_of_Durability]]
 - Leads to [[step_069 (phase_073)]]
@@ -183,13 +178,13 @@ Seeks bodyguards for dangerous journey
 - Connects to [[Location City Keeper Thundercall Keeper Thundercall.svg]]
 - Affected by [[Quest - Harbor Expansion]]
 - Originates from [[ENC00158_Environmental_Encounter_159]]
-- Related: [[step_072]]
+- Related:
 - Influences [[Lament Architecture (D&D_References)]]
 - See also: [[item-artifact-windvane-pota-v4-windvane-pota.png]]
 - Compare with [[Folk Hero]]
 - Requires [[step_037 (phase_009)]]
 - Compare with [[FAC00081_Cults_82]]
-- Compare with [[step_028]]
+- Compare with
 - Compare with [[step_003 (phase_091)]]
 - See also: [[NPC00497_Zephyr_Blackstone_the_Redeemed]]
 - Affected by [[step_097 (phase_076)]]
@@ -204,10 +199,10 @@ Seeks bodyguards for dangerous journey
 - Related: [[Random Buildings Building Type]]
 - Related: [[Cultural Festivals Committee (02_Worldbuilding)]]
 - See also: [[step_039 (phase_052)]]
-- Requires [[step_074]]
+- Requires
 - Leads to [[Travel_and_Navigation_Reference]]
 - Originates from [[pike-xphb (items)]]
-- See also: [[step_028]]
+- See also:
 - Requires [[step_097 (phase_023)]]
 - Compare with [[Vehicle Ship Harbor Guardian Gunboat V1 Harbor Guardian Gunboat.svg]]
 - Influences [[EVENT00076_Magical_Event_77]]
@@ -216,11 +211,11 @@ Seeks bodyguards for dangerous journey
 - Leads to [[Empyrean Xmm]]
 - Originates from [[ITEM0149_Forgotten_Crown_of_Shadows]]
 - Originates from [[Wilderness Chase Complications]]
-- Originates from [[step_020]]
+- Originates from
 - Affected by [[Chambers Exit Location]]
 - Connects to [[NPC00160_Aldric_Ironforge_the_Swift]]
 - Parallels [[Pilgrim Guide Nautilus Pathfinder]]
-- Leads to [[step_062]]
+- Leads to
 - Related: [[Location City Sanctuary Safeharbor V1 Sanctuary Safeharbor.svg]]
 - Connects to [[Marcus Depthward]]
 - Parallels [[Lost Crown of Besilmer Pota]]
@@ -240,7 +235,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [[Assets Handouts Handout Handout Ancient Prophecy Fragment V1 Ancient Prophecy Fragment.png]]
 - Related: [[Vehicles & Ships Gallery]]
 - Requires [[step_002 (phase_073)]]
-- Affected by [[step_056]]
+- Affected by
 - Leads to [[Currency_Guide_Scrip_and_Shard]]
 - Leads to [[QUEST00032_Personal_Quest_33]]
 - Related: [[Location City Artisan Felix Reefwright V1 Artisan Felix Reefwright.svg]]
@@ -248,7 +243,7 @@ Seeks bodyguards for dangerous journey
 - Related: [[Assets Locations Location City the Forgotten Mourner the Forgotten Mourner.svg]]
 - Related: [[spear-xphb (items)]]
 - Related: [[02_Worldbuilding_Items_Original_Trackers]]
-- Requires [[step_071]]
+- Requires
 - Influences [[Kobold Names Vgm]]
 - Related: [[location-city-noble-district-noble-district.png]]
 - See also: [[step_083 (phase_033)]]
@@ -264,7 +259,7 @@ Seeks bodyguards for dangerous journey
 - Parallels [[Assets Locations Location City Foreign Intelligence V1 Foreign Intelligence.svg]]
 - Affected by [[Deep Conservative Alliance]]
 - Originates from [[Locations_Gallery (Galleries)]]
-- See also: [[step_061]]
+- See also:
 - Parallels [[step_035 (phase_079)]]
 - Affected by [[High Counci]]
 - Requires [[Specialist Suppression]]
@@ -277,7 +272,6 @@ Seeks bodyguards for dangerous journey
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

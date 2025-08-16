@@ -9,7 +9,6 @@ aliases: [NPC00245 Delara Dawnstrider the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00245 Delara Dawnstrider the Cunning]
 - [[#Orion Blackstone (Family - Spouse)|Orion Blackstone (Family - Spouse)]]
 - [[#Gareth Crystalbrook (Political - Patron)|Gareth Crystalbrook (Political - Patron)]]
 - [[#Jorah Quicksilver (Criminal - Informant)|Jorah Quicksilver (Criminal - Informant)]]
-
 
 ---
 aliases: ["Delara Dawnstrider the Cunning", "delara dawnstrider the cunning", "Delara Dawnstrider Cunning", "Cunning the Dawnstrider Delara"]
@@ -153,21 +151,17 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.140Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -180,17 +174,17 @@ Seeks bodyguards for dangerous journey
 - Parallels [[step_096 (phase_075)]]
 - Affected by [[Symbol Heraldry Quest the Crystal Innovatio V1 Quest the Crystal Innovatio.svg]]
 - Leads to [[Location City Sorceress Luna Prismatic V1 Sorceress Luna Prismatic.svg]]
-- Parallels [[step_085]]
+- Parallels
 - See also: [[step_031 (phase_081)]]
 - Affected by [[Location City Causality Shadow Causality Shadow.png]]
 - Influences [[Pilgrimage Routes (D&D_References)]]
-- Connects to [[step_060]]
+- Connects to
 - Related: [[step_084 (phase_062)]]
 - Influences [[wood-elf-magic-xge (feats)]]
 - Compare with [[Unite_the_Two_Worlds.png]]
 - Related: [[Quest - The Public Revelation_1 (01_Adventures)]]
 - Influences [[orb-of-dragonkind-xdmg (items)]]
-- See also: [[step_015]]
+- See also:
 - Influences [[step_065 (phase_072)]]
 - See also: [[Prismari Trinket Scc]]
 - Related: [[The Deep Defense Project]]
@@ -213,7 +207,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [[ITEM01060_Greater_Powder_of_Clarity]]
 - Leads to [[Deep Mining Guild]]
 - See also: [[Otherworldly Pacts]]
-- Influences [[step_094]]
+- Influences
 - Parallels [[Session 05 (06_Sessions)]]
 - See also: [[NPC00461_Branwen_Proudmore_the_Strong]]
 - Requires [[Hybrid_Abominations.png]]
@@ -224,7 +218,7 @@ Seeks bodyguards for dangerous journey
 - See also: [[step_075 (phase_095)]]
 - Originates from [[ITEM00404_Dragon_Scale_Leather_of_Fortitude]]
 - Leads to [[Tobias Currentrider (D&D_References)]]
-- Related: [[step_059]]
+- Related:
 - Requires [[The Shadowhaven Smugglers Ring]]
 - Affected by [[ITEM0086_Glorious_Crown_of_the_Dawn]]
 - Requires [[Assets Item Artifact Explorers Pack Xphb V7 Explorers Pack Xphb.png]]
@@ -263,7 +257,7 @@ Seeks bodyguards for dangerous journey
 - Parallels [[Sentient Magic Item Senses]]
 - Leads to [[The Order of the Shattered Crown]]
 - Compare with [[Location City Midas Goldcurrent V1 Midas Goldcurrent.svg]]
-- Related: [[step_003]]
+- Related:
 - See also: [[location-city-regional-courts-regional-courts.svg]]
 - Affected by [[Assets Locations Location City the Sinking Atoll V1 the Sinking Atoll.svg]]
 - Connects to [[MON00088_Aberrations_Creature_89]]

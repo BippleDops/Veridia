@@ -18,7 +18,6 @@ aliases: [NPC00890 Corvus Xendar the Swift]
 - [[#Orion Ironwood the Wise (Political - Patron)|Orion Ironwood the Wise (Political - Patron)]]
 - [[#Faelyn Proudmore the Redeemed (Criminal - Fence)|Faelyn Proudmore the Redeemed (Criminal - Fence)]]
 
-
 ---
 aliases: ["Corvus Xendar the Swift", "corvus xendar the swift", "Corvus Xendar Swift", "Swift the Xendar Corvus"]
 tags: [npc, character]
@@ -159,21 +158,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.214Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -183,7 +178,7 @@ Has map to lost treasure
 - Compare with [[NPC01857_Wynne_Crystalbrook_the_Mystic]]
 - Leads to [[Emergency Management 2]]
 - Compare with [[Watchtower Prime 2]]
-- Affected by [[step_069]]
+- Affected by
 - Compare with [[13 Performance]]
 - Compare with [[step_072 (phase_014)]]
 - Related: [[Widow's Rest]]
@@ -197,7 +192,7 @@ Has map to lost treasure
 - Requires [[Candle of Invocation Xdmg]]
 - Connects to [[step_026 (phase_048)]]
 - See also: [[The Crimson Foundries (D&D_Statblocks)]]
-- Related: [[step_066]]
+- Related:
 - Parallels [[The Deepmost Current (D&D_References)]]
 - See also: [[Assets Handouts Handout Handout Privateer Letter of Marque V2 Privateer Letter of Marque.png]]
 - Leads to [[step_005 (phase_056)]]
@@ -207,7 +202,7 @@ Has map to lost treasure
 - Originates from [[Artificers' Consortium (D&D_References)]]
 - Parallels [[ITEM00420_Fortified_Boots_of_Grace]]
 - Leads to [[step_036 (phase_044)]]
-- Compare with [[step_001]]
+- Compare with
 - Related: [[ENC00166_Social_Encounter_167]]
 - Connects to [[step_004 (phase_032)]]
 - Originates from [[Grand Harbor 2]]
@@ -219,12 +214,12 @@ Has map to lost treasure
 - See also: [[DUN00173_Dungeon_174]]
 - Leads to [[ENC00209_Social_Encounter_210]]
 - Connects to [[Convergence Crisis Scenarios Index]]
-- See also: [[step_092]]
+- See also:
 - Affected by [[The Great Convergence Prophecies]]
-- Requires [[step_050]]
+- Requires
 - Connects to [[Portrait NPC Envoy Blackwater Jr Envoy Blackwater Jr.svg]]
-- Originates from [[step_045]]
-- See also: [[step_011]]
+- Originates from
+- See also:
 - Parallels [[Creature Creature Undead Spirit Xphb V1 Undead Spirit Xphb.png]]
 - Leads to [[Portrait NPC Quest the Void Conspiracy Quest the Void Conspiracy.png]]
 - Related: [[Padded Armor Xphb]]
@@ -232,7 +227,7 @@ Has map to lost treasure
 - Related: [[greyhawk-olidammara-xdmg (deities)]]
 - Affected by [[Tommy Brightcopper]]
 - Requires [[Vehicle Ship Resonance Drive Yacht Resonance Drive Yacht.svg]]
-- Related: [[step_043]]
+- Related:
 - Affected by [[Master Artist Pear 2]]
 - Parallels [[step_089 (phase_059)]]
 - Parallels [[manticore-xmm (monstrosity)]]
@@ -245,7 +240,7 @@ Has map to lost treasure
 - Connects to [[LORE00139_Prophecies_Entry_140]]
 - Compare with [[The Overflow (D&D_References)]]
 - Originates from [[ENC00270_Social_Encounter_271]]
-- Influences [[step_093]]
+- Influences
 - Originates from [[quaggoth-xmm (monstrosity)]]
 - Originates from [[Location City Battle Priest Cassius Depthshield V1 Battle Priest Cassius Depthshield.svg]]
 - Influences [[LORE00239_Prophecies_Entry_240]]
@@ -255,20 +250,20 @@ Has map to lost treasure
 - Affected by [[bolts-20-xphb (items)]]
 - Related: [[LORE00182_History_Entry_183]]
 - Related: [[Assets Locations Location City the Resonant Hermit V1 the Resonant Hermit.svg]]
-- Connects to [[step_019]]
+- Connects to
 - Related: [[18-appendix-a-modifying-backgrounds (out-of-the-abyss)]]
 - Related: [[step_018 (phase_064)]]
-- Compare with [[step_015]]
+- Compare with
 - Parallels [[step_051 (phase_038)]]
 - Affected by [[Balance Stones]]
 - Originates from [[Location City Artificers Consortium V1 Artificers Consortium.svg]]
 - Influences [[step_062 (phase_015)]]
-- Leads to [[step_038]]
-- Connects to [[step_060]]
+- Leads to
+- Connects to
 - Originates from [[Moonblade Xdmg]]
 - Connects to [[Portrait NPC the Azure Prophet Nerissa V1 the Azure Prophet Nerissa.svg_1 (Portraits)]]
 - Influences [[Assets Locations Location City Coral Vortextrader Coral Vortextrader.svg]]
-- Originates from [[step_049]]
+- Originates from
 - Influences [[Forgotten Realms Cyric]]
 - Parallels [[LOC00035_Wilderness_Location_36]]
 - Influences [[location-city-shadow-wells-shadow-wells.svg]]
@@ -276,13 +271,12 @@ Has map to lost treasure
 - Connects to [[Quest - The Collective Consciousness]]
 - Affected by [[owning-a-ship-airborne-and-waterborne-vehicles]]
 - Originates from [[Creating a Gnoll War Band Notable Behavior]]
-- Leads to [[step_069]]
+- Leads to
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

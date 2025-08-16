@@ -9,7 +9,6 @@ aliases: [NPC01700 Pyria Xendar the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01700 Pyria Xendar the Fallen]
 - [[#Gareth Ironwood the Redeemed (Family - Sibling)|Gareth Ironwood the Redeemed (Family - Sibling)]]
 - [[#Vesper Voidwalker the Guardian (Political - Ally)|Vesper Voidwalker the Guardian (Political - Ally)]]
 - [[#Kaelen Crystalbrook the Lost (Political - Opposition)|Kaelen Crystalbrook the Lost (Political - Opposition)]]
-
 
 ---
 aliases: ["Pyria Xendar the Fallen", "pyria xendar the fallen", "Pyria Xendar Fallen", "Fallen the Xendar Pyria"]
@@ -150,21 +148,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.301Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -199,7 +193,7 @@ Provides information for a price
 - Related: [[step_003 (phase_074)]]
 - Related: [[Cultural Integration]]
 - Originates from [[step_058 (phase_084)]]
-- Connects to [[step_039]]
+- Connects to
 - Requires [[Assets Locations Location City High Chancellor Nerissa Deepcurrent High Chancellor Nerissa Deepcurrent.svg]]
 - Influences [[ENC00248_Combat_Encounter_249]]
 - Parallels [[Assets Locations Location City Harbor Facilities Harbor Facilities.svg]]
@@ -212,7 +206,7 @@ Provides information for a price
 - Leads to [[The Five Towers]]
 - Originates from [[Academy of International Relations]]
 - Requires [[Primordial Ward Xge]]
-- Leads to [[step_052]]
+- Leads to
 - Influences [[Symbol Heraldry Chaplain Abyssos the Deepseeke V1 Chaplain Abyssos the Deepseeke.svg]]
 - Affected by [[LORE00051_History_Entry_52]]
 - Influences [[Document_Designs 2]]
@@ -235,7 +229,7 @@ Provides information for a price
 - Connects to [[step_086 (phase_051)]]
 - Affected by [[Location City Beast Master Krell Chainbreaker V1 Beast Master Krell Chainbreaker.svg]]
 - Compare with [[The Shadow Integration]]
-- Leads to [[step_061]]
+- Leads to
 - Related: [[Sleep_Magic]]
 - Related: [[Tactical Combat Options 2]]
 - Parallels [[Dungeon History]]
@@ -246,8 +240,8 @@ Provides information for a price
 - Compare with [[Assets Locations Location City the Last Words V1 the Last Words.svg]]
 - Affected by [[ENC00226_Combat_Encounter_227]]
 - Related: [[silver-and-gold-brooch-xdmg (items)]]
-- Leads to [[step_036]]
-- Requires [[step_088]]
+- Leads to
+- Requires
 - Compare with [[Magnus Ledgerkeep]]
 - Compare with [[Brass Dragon Wyrmling Xmm]]
 - Requires [[NPC00153_Cedric_Youngblood_the_Mystic]]

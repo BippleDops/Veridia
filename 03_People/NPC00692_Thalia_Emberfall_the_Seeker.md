@@ -18,7 +18,6 @@ aliases: [NPC00692 Thalia Emberfall the Seeker]
 - [[#Idris Keenblade the Wanderer (Family - Sibling)|Idris Keenblade the Wanderer (Family - Sibling)]]
 - [[#Fiora Jadeclaw the Strong (Professional - Partner)|Fiora Jadeclaw the Strong (Professional - Partner)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Emberfall the Seeker", "thalia emberfall the seeker", "Thalia Emberfall Seeker", "Seeker the Emberfall Thalia"]
@@ -152,27 +151,23 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.192Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -180,11 +175,10 @@ Family member has gone missing
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -219,7 +213,7 @@ Family member has gone missing
 - Affected by [[Diplomatic Dining Protocol 2]]
 - Related: [[INV 001]]
 - Leads to [[Assets Locations Location City Port Meridian Market District V1 Port Meridian Market District.svg]]
-- Leads to [[step_088]]
+- Leads to
 - Leads to [[Quest - The Pretender_1 (01_Adventures)]]
 - Affected by [[Portrait NPC Captain Harmony Tidereader V1 Captain Harmony Tidereader.svg]]
 - Requires [[Mad Prophet Silas the Depth-Touched (D&D_References)]]
@@ -232,21 +226,21 @@ Family member has gone missing
 - Parallels [[Marina Clearwater 2]]
 - Connects to [[step_007 (phase_036)]]
 - Parallels [[ITEM00056_Venomous_Hammer_of_Speed]]
-- Related: [[step_094]]
+- Related:
 - Connects to [[Location City Pressure Portals V1 Pressure Portals.svg]]
 - Influences [[Wind Riders Union 2]]
 - Parallels [[step_012 (phase_066)]]
 - Influences [[magic-item-table-a (tables)]]
 - Parallels [[The Aether Works]]
 - Connects to [[Neural Activity Mappers]]
-- Affected by [[step_086]]
+- Affected by
 - Connects to [[Magic Schools and Academies]]
 - Leads to [[session_preparation_optimization]]
 - Parallels [[Instrument of Scribing Xdmg]]
 - Parallels [[QUEST00226_Personal_Quest_227]]
 - Compare with [[step_094 (phase_068)]]
 - See also: [[step_010 (phase_050)]]
-- Originates from [[step_042]]
+- Originates from
 - See also: [[Services Reality Anchor Installation]]
 - Originates from [[Strixhaven Mascots Scc]]
 - Leads to [[LORE00102_Prophecies_Entry_103]]
@@ -262,17 +256,17 @@ Family member has gone missing
 - Affected by [[step_043 (phase_062)]]
 - See also: [[QUEST00175_Main_Quest_176]]
 - Leads to [[Legal Advocate Rights Defender 2]]
-- Requires [[step_092]]
+- Requires
 - Connects to [[Resonance Equipment (D&D_References)]]
 - Compare with [[QUEST00015_Main_Quest_16]]
 - Connects to [[ITEM00283_Venomous_Bow_of_Wounding]]
 - Leads to [[NPC01704_Ewan_Stormwind_the_Mystic]]
 - Affected by [[Coral Reef Sanctuaries (D&D_References)]]
-- Related: [[step_056]]
-- Leads to [[step_009]]
+- Related:
+- Leads to
 - Influences [[Animated Object Large Xphb]]
 - Originates from [[Location City Chronomancer Paradox V1 Chronomancer Paradox.svg]]
-- Related: [[step_031]]
+- Related:
 - Related: [[step_094 (phase_054)]]
 - Requires [[Assets Locations Location City Noble District Noble District.png]]
 - Leads to [[Greek Hecate]]
@@ -286,14 +280,13 @@ Family member has gone missing
 - Originates from [[NPC01257_Jorah_Youngblood_the_Wise]]
 - Parallels [[Drown Pota]]
 - Requires [[2d6]]
-- Compare with [[step_019]]
+- Compare with
 - Leads to [[step_078 (phase_084)]]
 
 ## Visual References
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

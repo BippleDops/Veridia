@@ -18,7 +18,6 @@ aliases: [NPC00820 Thalia Nightfall the Risen]
 - [[#Gareth Frostwhisper the Scholar (Political - Puppet)|Gareth Frostwhisper the Scholar (Political - Puppet)]]
 - [[#Vesper Ironwood the Strong (Family - Child)|Vesper Ironwood the Strong (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Nightfall the Risen", "thalia nightfall the risen", "Thalia Nightfall Risen", "Risen the Nightfall Thalia"]
@@ -156,16 +155,13 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.206Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -203,11 +199,10 @@ Has map to lost treasure
 - [[NPC01943_Xander_Proudmore_the_Fallen]]
 - [[NPC01911_Alaric_Oakenshield_the_Mystic]]
 - [[Quarantine_Notice_Crystal_Plagu]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -216,11 +211,10 @@ Has map to lost treasure
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -237,11 +231,11 @@ Has map to lost treasure
 - Originates from [[adventuring-gear-phb (tables)]]
 - Connects to [[Location City Healer Sage Bondseer Healer Sage Bondseer.svg]]
 - Compare with [[Master of Crystals Prism Multifacet]]
-- See also: [[step_082]]
+- See also:
 - Originates from [[Downtime Activity Work Xge]]
 - Originates from [[step_007 (phase_024)]]
 - Influences [[Shadow Reflection Sage]]
-- Leads to [[step_067]]
+- Leads to
 - Requires [[step_017 (phase_007)]]
 - Related: [[step_015 (phase_050)]]
 - Originates from [[Human Names Norse Female Xge]]
@@ -268,10 +262,10 @@ Has map to lost treasure
 - Compare with [[Spymaster Crow]]
 - Connects to [[Aquamarine Xdmg]]
 - See also: [[Intel Master Raven Shadowsigh]]
-- See also: [[step_039]]
+- See also:
 - Related: [[step_040 (phase_069)]]
 - Compare with [[The Forgotten Collective 2]]
-- Requires [[step_004]]
+- Requires
 - Affected by [[The Deep Harvest (D&D_References)]]
 - Originates from [[step_040 (phase_056)]]
 - Connects to [[Geometric Tidepools]]
@@ -288,12 +282,12 @@ Has map to lost treasure
 - See also: [[D-019_Oracle_Whale_Player]]
 - Leads to [[List Spells Classes Nature Domain]]
 - Leads to [[Cultural Festival]]
-- See also: [[step_076]]
+- See also:
 - Related: [[02_Worldbuilding_Factions_The_Resoce_Keepers]]
 - Related: [[step_021 (phase_053)]]
 - Influences [[step_051 (phase_064)]]
 - Leads to [[step_017 (phase_075)]]
-- Influences [[step_027]]
+- Influences
 - Compare with [[Theological Education]]
 - Related: [[Forgotten Realms Mielikki]]
 - Compare with [[elven-labelas-enoreth-mtf (deities)]]
@@ -314,7 +308,7 @@ Has map to lost treasure
 - Originates from [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
 - Compare with [[step_022 (phase_023)]]
 - Requires [[NPC01670_Kaelen_Grimholt_the_Seeker]]
-- Compare with [[step_048]]
+- Compare with
 - Related: [[step_054 (phase_057)]]
 - Originates from [[Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg]]
 - Connects to [[FAC00086_Guilds_87]]
@@ -329,7 +323,6 @@ Has map to lost treasure
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

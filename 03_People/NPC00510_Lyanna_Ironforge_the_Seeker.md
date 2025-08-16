@@ -18,7 +18,6 @@ aliases: [NPC00510 Lyanna Ironforge the Seeker]
 - [[#Wynne Ashford the Mystic (Family - Parent)|Wynne Ashford the Mystic (Family - Parent)]]
 - [[#Hestara Xendar (Political - Patron)|Hestara Xendar (Political - Patron)]]
 
-
 ---
 aliases: ["Lyanna Ironforge the Seeker", "lyanna ironforge the seeker", "Lyanna Ironforge Seeker", "Seeker the Ironforge Lyanna"]
 tags: [npc, character]
@@ -141,21 +140,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.171Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -165,7 +160,7 @@ Being extorted by criminals
 - See also: [[step_010 (phase_042)]]
 - Requires [[NPC01030_Erasmus_Nightfall_the_Strong]]
 - See also: [[Portrait NPC Lord Flux the Inconsistent V2 Lord Flux the Inconsistent.svg]]
-- Affected by [[step_028]]
+- Affected by
 - Parallels [[step_031 (phase_028)]]
 - Connects to [[step_028 (phase_010)]]
 - Connects to [[Syncretist Mediators 2]]
@@ -173,12 +168,12 @@ Being extorted by criminals
 - Related: [[ITEM00255_Venomous_Axe_of_Speed]]
 - Affected by [[step_048 (phase_072)]]
 - See also: [[ITEM00894_Divine_Chalice_of_Truth]]
-- Related: [[step_040]]
+- Related:
 - Leads to [[step_043 (phase_056)]]
 - Related: [[step_022 (phase_023)]]
 - Leads to [[Royal Herald Marcus 2]]
 - Affected by [[Crystal-Enhanced Combat Techniques]]
-- Influences [[step_053]]
+- Influences
 - Parallels [[Treasure Themes Xdmg]]
 - Compare with [[step_003 (phase_079)]]
 - Leads to [[Countess Marina Stormcrest (D&D_References)]]
@@ -195,7 +190,7 @@ Being extorted by criminals
 - Parallels [[Complete Reality Merger System (D&D_References)]]
 - Compare with [[Memory Verification Devices]]
 - See also: [[MON00094_Aberrations_Creature_95]]
-- Parallels [[step_021]]
+- Parallels
 - See also: [[Creature Creature Goblin Warrior Xmm V3 Goblin Warrior Xmm.png]]
 - Influences [[Corruption Exposure Tracking]]
 - Influences [[Giant Insect Centipede Xphb]]
@@ -212,7 +207,7 @@ Being extorted by criminals
 - Influences [[step_090 (phase_076)]]
 - Connects to [[Assets Locations Location City Memorial District of Abyssos Prime V1 Memorial District of Abyssos Prime.svg]]
 - Originates from [[Iron Flask Xdmg]]
-- Requires [[step_079]]
+- Requires
 - Originates from [[Location City the Slave Markets of Tethys V1 the Slave Markets of Tethys.svg]]
 - Related: [[03 Chapter 3 the Darklake]]
 - Compare with [[Fear Amplification]]
@@ -255,7 +250,7 @@ Being extorted by criminals
 - Parallels [[step_096 (phase_093)]]
 - Originates from [[Relationship_Web.canvas]]
 - Affected by [[ITEM01306_Elegant_Tool_Kit_of_Durability]]
-- Connects to [[step_027]]
+- Connects to
 - Compare with [[step_049 (phase_017)]]
 - Influences [[The Original Target (D&D_References)]]
 - Related: [[step_007 (phase_052)]]
@@ -264,7 +259,6 @@ Being extorted by criminals
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

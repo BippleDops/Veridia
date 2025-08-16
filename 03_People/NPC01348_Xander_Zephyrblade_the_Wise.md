@@ -18,7 +18,6 @@ aliases: [NPC01348 Xander Zephyrblade the Wise]
 - [[#Aldric Underhill the Guardian (Family - Parent)|Aldric Underhill the Guardian (Family - Parent)]]
 - [[#Hilda Blackstone the Lost (Political - Ally)|Hilda Blackstone the Lost (Political - Ally)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Zephyrblade the Wise", "xander zephyrblade the wise", "Xander Zephyrblade Wise", "Wise the Zephyrblade Xandertags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
@@ -144,16 +143,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.263Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -205,9 +201,7 @@ Modifications:
 - [[NPC01555_Branwen_Xendar_the_Seeker]]
 - [[NPC01040_Zephyr_Lightbringer_the_Strong]]
 - [[NPC01429_Zephyr_Keenblade_the_Cunning]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -225,7 +219,7 @@ Following magic item guidelines (WWT p.135-136):
 - Worldweaver's Tome (WWT) p.288
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -234,11 +228,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -251,26 +244,26 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Future [[Aquabyssos]]]]
 - See also: [[item-artifact-weird-tank-pota-weird-tank-pota.png]]
 - Compare with [[Security Chief Marcus Ironbrand]]
-- Influences [[step_087]]
+- Influences
 - See also: [[elf-tables-drow-adventurer-story-hooks-mtf (tables)]]
 - Influences [[Deepwatch Guard 2]]
-- Related: [[step_097]]
+- Related:
 - Parallels [[Criminal Boss]]
 - Affected by [[[[Azure Citadel]] (D&D_References)]]
 - See also: [[tashas-hideous-laughter-xphb (spells)]]
 - See also: [[ENC00217_Combat_Encounter_218]]
 - Affected by [[[[Senior Nurse Polyp Tendercurrent]] (D&D_References)]]
 - Leads to [[minions-of-chaos (optional-features)]]
-- Requires [[step_050]]
+- Requires
 - Influences [[Balta Kaine (D&D_References)]]
 - Originates from [[Master Cultivator Apprenticeship (Cults_and_Movements)]]
 - Requires [[SPELL0016_Arcane_Curse]]
 - Parallels [[Portrait NPC Lady Victoria Pennworth V1 Lady Victoria Pennworth.svg]]
 - See also: [[LOC0078_FortPeak]]
-- Parallels [[step_061]]
+- Parallels
 - Affected by [[step_070 (phase_067)]]
 - Connects to [[ITEM01131_Refined_Elixir_of_Swiftness]]
-- Parallels [[step_068]]
+- Parallels
 - See also: [[ENC00094_Combat_Encounter_95]]
 - Connects to [[step_017 (phase_006)]]
 - Leads to [[step_095 (phase_081)]]
@@ -279,7 +272,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[ITEM00522_Adamantine_Plate_of_Grace]]
 - Influences [[The Stellar Confluence (D&D_References)]]
 - Parallels [[ITEM00656_Dragon_Scale_Boots_of_Resistance]]
-- Parallels [[step_024]]
+- Parallels
 - Parallels [[step_068 (phase_077)]]
 - Connects to [[step_078 (phase_030)]]
 - Parallels [[Rod of the Pact Keeper Xdmg]]
@@ -287,7 +280,7 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[ENC00450_Combat_Encounter_451]]
 - Related: [[Depths Alliance 2]]
 - Affected by [[Half Orc Parents Xge]]
-- Affected by [[step_037]]
+- Affected by
 - Compare with [[Creature Creature Ancient Brass Dragon Xmm V4 Ancient Brass Dragon Xmm.png]]
 - See also: [[[[The Memory Palace]] 2]]
 - See also: [[MON00130_Constructs_Creature_131]]
@@ -313,10 +306,10 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Assets Locations Location City [[Planning Director Victor Visionkeeper]] V1 Planning Director Victor Visionkeeper.svg]]
 - Requires [[04_Resources_Assets_Locations_location-city-lady-vivienne-the-unfrozen-lady-vivienne-the-unfrozen.svg]]
 - Originates from [[Family Retaine 2]]
-- Parallels [[step_064]]
+- Parallels
 - Parallels [[Magnus Ledgerkeep]]
 - Originates from [[LORE00094_History_Entry_95]]
-- Compare with [[step_010]]
+- Compare with
 - Originates from [[step_041 (phase_075)]]
 - Connects to [[Assets Locations [[Location City [[Wave Soothingtouch]] V1 Wave Soothingtouch.svg]]]]
 - Compare with [[Agricultural Provinces]]
@@ -333,7 +326,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Community Demonstration Sites 2]]
 - See also: [[[[War Machine Engineers]] (D&D_References)]]
 - Leads to [[Portrait NPC the [[Free Current]] Movement V2 [[The Free Current]] Movement.svg]]
-- Influences [[step_077]]
+- Influences
 - Parallels [[[[Noble House]]s]]
 - Originates from [[portrait-comfy-latest.png]]
 - Connects to [[Session 04 (Crystal_Plague)]]
@@ -341,13 +334,12 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[Scarecrow Xmm]]
 - Parallels [[step_035 (phase_005)]]
 - Related: [[Symbol Heraldry the Neutral Current V1 the Neutral Current.svg]]
-- Affected by [[step_023]]
+- Affected by
 
 ## Visual References
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

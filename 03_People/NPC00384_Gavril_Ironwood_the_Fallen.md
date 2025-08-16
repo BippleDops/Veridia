@@ -18,7 +18,6 @@ aliases: [NPC00384 Gavril Ironwood the Fallen]
 - [[#Pyria Oakenshield (Criminal - Informant)|Pyria Oakenshield (Criminal - Informant)]]
 - [[#Ewan Ravenheart the Bold (Personal - Nemesis)|Ewan Ravenheart the Bold (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gavril Ironwood the Fallen", "gavril ironwood the fallen", "Gavril Ironwood Fallen", "Fallen the Ironwood Gavril"]
@@ -141,27 +140,23 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.156Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -169,11 +164,10 @@ Seeks bodyguards for dangerous journey
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -190,7 +184,7 @@ Seeks bodyguards for dangerous journey
 - Affected by [[CORDELIA_VAULT_USER_MANUAL]]
 - Parallels [[Viscount Deeper-Still]]
 - Originates from [[step_095 (phase_010)]]
-- Influences [[step_048]]
+- Influences
 - Compare with [[Multi-Phase Boss Fights]]
 - Connects to [[Vehicles_&_Ships_Gallery]]
 - Affected by [[Regent Thalassa]]
@@ -214,7 +208,7 @@ Seeks bodyguards for dangerous journey
 - Requires [[Diplomatic Event Scenarios]]
 - Originates from [[Barkskin Xphb]]
 - Connects to [[Cassia Lightweaver]]
-- Originates from [[step_080]]
+- Originates from
 - Requires [[Abyssos Prime (D&D_References)]]
 - Influences [[Staff of Swarming Insects Xdmg]]
 - Leads to [[EVENT00069_Magical_Event_70]]
@@ -233,7 +227,7 @@ Seeks bodyguards for dangerous journey
 - Parallels [[Assets Locations Location City Merchant Prince Aldric Goldcurrent Merchant Prince Aldric Goldcurrent.svg]]
 - Related: [[Infected Experiments]]
 - Affected by [[step_008 (phase_018)]]
-- Related: [[step_053]]
+- Related:
 - See also: [[Assets Locations Location City Pressure Tubes V1 Pressure Tubes.svg]]
 - Connects to [[step_014 (phase_022)]]
 - Originates from [[ITEM00654_Dragon_Scale_Shield_of_Protection]]
@@ -256,7 +250,7 @@ Seeks bodyguards for dangerous journey
 - Requires [[Assets Locations Location City Spy Games Spy Games.svg]]
 - Requires [[Seven Shards Campaign Campaign Overview]]
 - Parallels [[step_038 (phase_074)]]
-- Compare with [[step_038]]
+- Compare with
 - Related: [[Depth Corruption System]]
 - Related: [[Ambassador Foreign-Relations Valdris]]
 - Influences [[step_011 (phase_089)]]
@@ -268,12 +262,12 @@ Seeks bodyguards for dangerous journey
 - Related: [[EVENT00053_Political_Event_54]]
 - Leads to [[step_037 (phase_012)]]
 - Requires [[Duergar in the World Duergar Adventurer]]
-- Affected by [[step_020]]
+- Affected by
 - Compare with [[Potion of Diminution Xdmg]]
 - Parallels [[Quest - The Shadow Guide]]
 - Influences [[Location City Historical Research Institute Historical Research Institute.svg]]
 - Requires [[Assets Locations Location City Deep Oracle Bathys Deep Oracle Bathys.png]]
-- Leads to [[step_066]]
+- Leads to
 - Leads to [[The First Drowning]]
 - Parallels [[ceremony-xge (spells)]]
 - See also: [[Bathyal Succession]]
@@ -282,7 +276,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

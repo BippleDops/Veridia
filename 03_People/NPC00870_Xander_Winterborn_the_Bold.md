@@ -18,7 +18,6 @@ aliases: [NPC00870 Xander Winterborn the Bold]
 - [[#Lyanna Emberfall the Swift (Personal - Ex-lover)|Lyanna Emberfall the Swift (Personal - Ex-lover)]]
 - [[#Aldric Winterborn the Fallen (Professional - Employer)|Aldric Winterborn the Fallen (Professional - Employer)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Winterborn the Bold", "xander winterborn the bold", "Xander Winterborn Bold", "Bold the Winterborn Xander"]
@@ -147,27 +146,23 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.211Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -176,18 +171,17 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Originates from [[FAC00044_Guilds_45]]
 - Influences [[07-chapter-7-escape-from-the-underdark (out-of-the-abyss)]]
 - Leads to [[04_Resources_Assets_Locations_location-city-harbor-master-tideshade-v1-harbor-master-tideshade.svg]]
-- Affected by [[step_064]]
+- Affected by
 - Parallels [[MON00092_Constructs_Creature_93]]
 - Affected by [[Hill Encounters Levels 1116 Xge]]
 - Requires [[Ancient King Pelagios]]
@@ -220,7 +214,7 @@ Seeks rare merchandise
 - Influences [[step_039 (phase_018)]]
 - Connects to [[Crystal Resonance Points]]
 - Originates from [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg]]
-- Requires [[step_049]]
+- Requires
 - Requires [[MOC_Sessions]]
 - Affected by [[Assets Locations Location City New Tethys V1 New Tethys.svg]]
 - Originates from [[NPC00552_Malakai_Stormwind_the_Seeker]]
@@ -247,7 +241,7 @@ Seeks rare merchandise
 - See also: [[The Battle Forge Arena (D&D_References)]]
 - Leads to [[QUEST00279_Side_Quest_280]]
 - Compare with [[Identity Preservation]]
-- Compare with [[step_002]]
+- Compare with
 - Affected by [[NPC01619_Hilda_Ashford_the_Mystic]]
 - Requires [[LORE0084_Secret_of_the_Dark_Times]]
 - Compare with [[NPC00444_Elric_Oakenshield_the_Scholar]]
@@ -262,7 +256,7 @@ Seeks rare merchandise
 - Influences [[Location City Memory Coral Reefs V1 Memory Coral Reefs.svg]]
 - See also: [[step_024 (phase_046)]]
 - See also: [[LOC00167_Planes_Location_168]]
-- Compare with [[step_005]]
+- Compare with
 - Connects to [[step_096 (phase_066)]]
 - Parallels [[Multi-Dimensional Perception]]
 - Related: [[Portrait NPC Warrior Priest Abyss Sworn V2 Warrior Priest Abyss Sworn.svg_1 (Portraits)]]
@@ -277,7 +271,7 @@ Seeks rare merchandise
 - Connects to [[step_027 (phase_074)]]
 - See also: [[step_088 (phase_093)]]
 - Affected by [[Celtic Brigantia]]
-- Originates from [[step_021]]
+- Originates from
 - Influences [[02_Worldbuilding_Lore_The_Lighthouse_of_Storms.md]]
 - Related: [[Githzerai Groups Githzerai Group Leader Mtf]]
 - Parallels [[LOC00119_Cities_Location_120]]
@@ -289,7 +283,6 @@ Seeks rare merchandise
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

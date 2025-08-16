@@ -18,7 +18,6 @@ aliases: [NPC01753 Gavril Frostwhisper the Mystic]
 - [[#Hestara Lightbringer the Cunning (Criminal - Informant)|Hestara Lightbringer the Cunning (Criminal - Informant)]]
 - [[#Zephyr Ravenheart the Broken (Family - Child)|Zephyr Ravenheart the Broken (Family - Child)]]
 
-
 ---
 aliases: ["Gavril Frostwhisper the Mystic", "gavril frostwhisper the mystic", "Gavril Frostwhisper Mystic", "Mystic the Frostwhisper Gavril"]
 tags: [npc, character]
@@ -156,21 +155,17 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.306Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -184,7 +179,7 @@ Provides information for a price
 - See also: [[step_078 (phase_014)]]
 - See also: [[Temporal Healers 2]]
 - Leads to [[step_062 (phase_015)]]
-- Influences [[step_055]]
+- Influences
 - Parallels [[step_056 (phase_066)]]
 - Parallels [[step_020 (phase_015)]]
 - Connects to [[Location City Memory Recording Chambers Memory Recording Chambers.svg]]
@@ -198,7 +193,7 @@ Provides information for a price
 - Leads to [[urchin]]
 - Connects to [[magic-item-table-e (tables)]]
 - Compare with [[LOC00199_Planes_Location_200]]
-- Related: [[step_021]]
+- Related:
 - See also: [[The Sky Knight Orders (Orders)]]
 - Parallels [[step_089 (phase_042)]]
 - Compare with [[Aethermoor_Session_01 (D&D_References)]]
@@ -219,9 +214,9 @@ Provides information for a price
 - Compare with [[alchemists-supplies-xphb (items)]]
 - Compare with [[DUN00092_Dungeon_93]]
 - Influences [[The Bone Bridges]]
-- Requires [[step_028]]
+- Requires
 - Originates from [[The_Vote_Vault_Mystery.png]]
-- Leads to [[step_040]]
+- Leads to
 - Influences [[create-homunculus-xge (spells)]]
 - Compare with [[MON0043_Storm_Wraith]]
 - See also: [[Discover Shadow Market Location (D&D_References)]]
@@ -268,7 +263,7 @@ Provides information for a price
 - Related: [[Noble Estates]]
 - Related: [[Symphony of the Abyss Recipe (D&D_References)]]
 - Originates from [[step_017 (phase_079)]]
-- See also: [[step_058]]
+- See also:
 - Related: [[step_008 (phase_095)]]
 - Influences [[Intellectual Freedom Movement (D&D_References)]]
 - Originates from [[Parliamentary Infiltration Methods (D&D_References)]]
@@ -279,7 +274,6 @@ Provides information for a price
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

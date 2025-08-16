@@ -18,7 +18,6 @@ aliases: [01 Introduction (players-handbook-2014)]
 - [[#See Also|See Also]]
 - [[#Related Content|Related Content]]
 
-
 ---
 
 title: 01 Introduction (players-handbook-2014)
@@ -36,7 +35,7 @@ This document contains important information regarding 01 Introduction and its r
 
 01 Introduction represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
-- **Primary Purpose**: Serves specific 
+- **Primary Purpose**: Serves specific
 *The [texture] surface feels [description] to the touch.*function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details
@@ -61,11 +60,9 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This NPC knows more than they let on
@@ -93,8 +90,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - [ ] Prepare quick reference
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -106,7 +102,6 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -132,12 +127,12 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Related: [[ITEM01270_Greater_Salve_of_Fortune]]
 - Requires [[Cultural Bridges]]
 - Affected by [[step_057 (phase_006)]]
-- Originates from [[step_060]]
-- Compare with [[step_001]]
-- See also: [[step_063]]
+- Originates from
+- Compare with
+- See also:
 - Leads to [[Symbol Heraldry Dockworkers Union Dockworkers Union.svg]]
 - Originates from [[Walloping Ammunition Xdmg]]
-- Compare with [[step_097]]
+- Compare with
 - Originates from [[Marcus Ironwright 2]]
 - Influences [[Portrait NPC Fence Queen Sticky Fingers Sal Fence Queen Sticky Fingers Sal.svg]]
 - Parallels [[The Resonance Prophet (D&D_References)]]
@@ -150,7 +145,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Parallels [[FAC00076_Guilds_77]]
 - Affected by [[star-spawn-grue-mpmm (aberration)]]
 - Leads to [[Assets Symbols Symbol Heraldry the Void Watchers the Void Watchers.svg]]
-- Requires [[step_053]]
+- Requires
 - Influences [[ENC00168_Environmental_Encounter_169]]
 - Influences [[Assets Locations Location City Bubble Burst Bubble Burst.svg]]
 - Affected by [[Location City the Eel Keepers V1 the Eel Keepers.svg]]
@@ -159,7 +154,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Compare with [[Sage of Two Worlds]]
 - Requires [[step_070 (phase_056)]]
 - Parallels [[ENC00260_Social_Encounter_261]]
-- See also: [[step_071]]
+- See also:
 - Connects to [[step_053 (phase_040)]]
 - Requires [[young-silver-dragon-xmm (dragon)]]
 - Requires [[Reality Structure Analysis Group]]
@@ -172,7 +167,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Originates from [[Marriage Between Worlds]]
 - Influences [[Portrait NPC Memory Harvester Kythara V2 Memory Harvester Kythara.svg_1 (Portraits)]]
 - Related: [[Translator Marina Polyglot (D&D_References)]]
-- Affected by [[step_062]]
+- Affected by
 - Affected by [[Portrait NPC the Smuggler S Den V1 the Smuggler S Den.svg_1 (Portraits)]]
 - Related: [[Technician Dark Arts (D&D_References)]]
 - See also: [[step_081 (phase_047)]]
@@ -188,7 +183,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Originates from [[NPC00424_Gareth_Jadeclaw_the_Bold]]
 - Connects to [[step_025 (phase_091)]]
 - Compare with [[Monster Ecology Web]]
-- Related: [[step_056]]
+- Related:
 - Related: [[Treasurer Mint Coinwise 2]]
 - Compare with [[location-city-into-the-blue-into-the-blue.svg]]
 - Requires [[step_023 (phase_091)]]
@@ -206,7 +201,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Related: [[step_015 (phase_055)]]
 - Requires [[step_043 (phase_074)]]
 - Connects to [[Agent Viktor Cleanslate]]
-- Parallels [[step_065]]
+- Parallels
 - Influences [[NPC01146_Orion_Zephyrblade_the_Wise]]
 - Affected by [[location-city-prism-sword-v1-prism-sword.svg]]
 - Connects to [[step_010 (phase_090)]]

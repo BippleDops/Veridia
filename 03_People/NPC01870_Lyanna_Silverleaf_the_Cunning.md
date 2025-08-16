@@ -18,7 +18,6 @@ aliases: [NPC01870 Lyanna Silverleaf the Cunning]
 - [[#Nerys Lightbringer the Strong (Family - Spouse)|Nerys Lightbringer the Strong (Family - Spouse)]]
 - [[#Urien Proudmore the Redeemed (Professional - Employee)|Urien Proudmore the Redeemed (Professional - Employee)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Lyanna Silverleaf the Cunning", "lyanna silverleaf the cunning", "Lyanna Silverleaf Cunning", "Cunning the Silverleaf Lyannatags: [npc, character, combat, magic, social, lore]er]
@@ -150,16 +149,13 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.319Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -185,11 +181,10 @@ Modifications:
 - [[Archdruid Thornweaver]]
 - [[11 Spellcasting]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -199,11 +194,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -238,7 +232,7 @@ Modifications:
 - Originates from [[FAC00088_Cults_89]]
 - Affected by [[Quartermaster Judith Steadfast]]
 - Requires [[step_014 (phase_027)]]
-- Affected by [[step_050]]
+- Affected by
 - Connects to [[Angels and Depths]]
 - Connects to [[step_060 (phase_073)]]
 - Parallels [[Frequency Manipulatio]]
@@ -257,7 +251,7 @@ Modifications:
 - Affected by [[Historic Shipwreck Site]]
 - See also: [[location-city-[[Poseidon]]-poseidon.svg]]
 - Compare with [[step_027 (phase_024)]]
-- Connects to [[step_002]]
+- Connects to
 - Parallels [[Marianas Abys (D&D_References)]]
 - Originates from [[step_060 (phase_032)]]
 - Requires [[step_062 (phase_074)]]
@@ -275,7 +269,7 @@ Modifications:
 - Affected by [[step_089 (phase_046)]]
 - Affected by [[step_034 (phase_071)]]
 - See also: [[Location City [[Sommelier Bacchus Deepbottle]] V1 Sommelier Bacchus Deepbottle.svg]]
-- Originates from [[step_099]]
+- Originates from
 - Requires [[greyhawk-vecna-xdmg (deities)]]
 - Related: [[down[[Time]]-activity-pit-fighting-xge (variant-rules)]]
 - Originates from [[The Sunken City of Aeridor]]
@@ -312,7 +306,6 @@ Modifications:
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

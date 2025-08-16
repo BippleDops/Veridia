@@ -9,7 +9,6 @@ aliases: [The Throne Pretenders]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_the_throne_pretenders_friendly.png]]
 
-
 ## Table of Contents
 - [[#Stats|Stats]]
 - [[#Relationships|Relationships]]
@@ -21,7 +20,6 @@ aliases: [The Throne Pretenders]
 - [[#Lifestyle Improvements|Lifestyle Improvements]]
 - [[#Hospitality Improvements|Hospitality Improvements]]
 - [[#Diaspora Improvements|Diaspora Improvements]]
-
 
 ---
 
@@ -67,7 +65,7 @@ improvements: 20
 
 ## Relationships
 - **Allies**: Notable allies and friends
-- **Rivals**: Competitors and rivals  
+- **Rivals**: Competitors and rivals
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
@@ -280,7 +278,7 @@ ___
 - Affected by [[Blink Dog Xmm]]
 - Related: [[Assets Locations Location City Doctor Silas Voidtouch V1 Doctor Silas Voidtouch.svg]]
 - Requires [[step_093 (phase_078)]]
-- Affected by [[step_096]]
+- Affected by
 - Connects to [[Tobias Quillwright]]
 - Compare with [[step_035 (phase_007)]]
 - Originates from [[LOC00106_Planes_Location_107]]
@@ -305,7 +303,7 @@ ___
 - Related: [[LORE00260_Prophecies_Entry_261]]
 - Parallels [[Location City the Harbormaster S Office V1 the Harbormaster S Office.svg]]
 - Originates from [[Smuggler's Den]]
-- Connects to [[step_092]]
+- Connects to
 - Influences [[NPC0004_Ewan_Stormwind]]
 - See also: [[Refugee Settlements]]
 - Influences [[Location Index 2]]
@@ -318,7 +316,7 @@ ___
 - Influences [[Portrait NPC Captain Thaddeus Blackwater V1 Captain Thaddeus Blackwater.svg]]
 - Connects to [[Assets Locations Location City Master Smith Vulcan Deepforge Master Smith Vulcan Deepforge.svg]]
 - Affected by [[Ram Xdmg]]
-- Requires [[step_048]]
+- Requires
 - Connects to [[Symbol Heraldry Master Trader Darkmarke Master Trader Darkmarke.svg]]
 - Related: [[Location City the First Failure V1 the First Failure.svg]]
 - See also: [[step_080 (phase_024)]]
@@ -326,9 +324,9 @@ ___
 - Originates from [[Portrait NPC Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg]]
 - Affected by [[Level 1 Hit Points by Class Xphb]]
 - Compare with [[NPC0185_Zara_Brightblade]]
-- Influences [[step_047]]
+- Influences
 - Compare with [[portrait-npc-oracle-oracle.svg]]
-- Compare with [[step_054]]
+- Compare with
 - Connects to [[Lord Aldric Thornwhisper (D&D_References)]]
 - Parallels [[primeval-owlbear-xmm (monstrosity)]]
 - See also: [[step_012 (phase_093)]]
@@ -336,7 +334,7 @@ ___
 - Affected by [[ENC00159_Social_Encounter_160]]
 - Parallels [[QUEST00139_Personal_Quest_140]]
 - Compare with [[elven-erevan-ilesere-mtf (deities)]]
-- Requires [[step_031]]
+- Requires
 - Influences [[step_083 (phase_035)]]
 - Influences [[step_032 (phase_074)]]
 - See also: [[Assets Locations Location City Engineer Prisma Depthwright Engineer Prisma Depthwright.svg]]
@@ -345,7 +343,7 @@ ___
 - Originates from [[Azure Citadel]]
 - Related: [[The Livestock Yards]]
 - Leads to [[step_045 (phase_100)]]
-- Connects to [[step_099]]
+- Connects to
 - Requires [[Portrait NPC Paladin Commander Sir Radiant Dawnbreaker V2 Paladin Commander Sir Radiant Dawnbreaker.svg_1 (Portraits)]]
 - Parallels [[Speaker Marcus Resonance (D&D_References)]]
 - See also: [[item-artifact-warhammer-xphb-v5-warhammer-xphb.png]]
@@ -358,10 +356,10 @@ ___
 - Requires [[step_038 (phase_070)]]
 - Influences [[step_003 (phase_030)]]
 - See also: [[step_045 (phase_075)]]
-- Affected by [[step_046]]
+- Affected by
 - Leads to [[Assets Locations Location City Transportation Guild V1 Transportation Guild.svg]]
 - Requires [[step_088 (phase_063)]]
-- Connects to [[step_055]]
+- Connects to
 - Requires [[Quest - The Root Network_3 (01_Adventures)]]
 - Leads to [[ITEM0106_Cursed_Gauntlet_of_the_Dawn]]
 - Parallels [[QUEST0054_Wizard's_Request]]

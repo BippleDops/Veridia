@@ -9,7 +9,6 @@ aliases: [NPC00700 Corvus Hawthorne the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00700 Corvus Hawthorne the Broken]
 - [[#Corvus Winterborn the Lost (Family - Parent)|Corvus Winterborn the Lost (Family - Parent)]]
 - [[#Delara Emberfall the Cunning (Personal - Love interest)|Delara Emberfall the Cunning (Personal - Love interest)]]
 - [[#Kaelen Ashford the Broken (Political - Patron)|Kaelen Ashford the Broken (Political - Patron)]]
-
 
 ---
 aliases: ["Corvus Hawthorne the Broken", "corvus hawthorne the broken", "Corvus Hawthorne Broken", "Broken the Hawthorne Corvus"]
@@ -147,21 +145,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.192Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -176,7 +170,7 @@ Discovered something valuable
 - Affected by [[step_100 (phase_085)]]
 - See also: [[7 Appendix B Monsters]]
 - See also: [[step_098 (phase_013)]]
-- Requires [[step_009]]
+- Requires
 - Parallels [[step_099 (phase_073)]]
 - Affected by [[MON00063_Undead_Creature_64]]
 - Compare with [[mixing-potions-potion-miscibility-xdmg (tables)]]
@@ -198,20 +192,20 @@ Discovered something valuable
 - Leads to [[Shadow Current]]
 - See also: [[Portrait NPC Quest the Seventh Song V2 Quest the Seventh Song.svg]]
 - Related: [[NPC01401_Rhiannon_Ironforge_the_Seeker]]
-- Leads to [[step_055]]
+- Leads to
 - Related: [[step_007 (phase_048)]]
 - Influences [[Cloak of Flies Xge]]
 - Affected by [[location-city-the-last-words-v1-the-last-words.svg]]
 - Compare with [[NPC01538_Caelum_Moonshadow_the_Seeker]]
 - Originates from [[Assets Locations Location City Maritime Commerce V1 Maritime Commerce.svg]]
-- Influences [[step_026]]
+- Influences
 - Requires [[Whisper Jack]]
 - Related: [[nonhuman-surtur (deities)]]
 - Affected by [[The Contract Archive (D&D_References)]]
 - See also: [[Divine Preservation Magic]]
 - Related: [[Portrait NPC Vex Shadowthorn V2 Vex Shadowthorn.svg]]
 - Requires [[Abyssal Trenches (D&D_References)]]
-- Originates from [[step_023]]
+- Originates from
 - Affected by [[Aethermoor Special Forces (D&D_References)]]
 - Leads to [[Skill_Checks]]
 - Connects to [[QUEST00065_Personal_Quest_66]]
@@ -219,7 +213,7 @@ Discovered something valuable
 - Influences [[Location City International Trade Routes International Trade Routes.svg]]
 - Compare with [[Ring of Water Walking Xdmg]]
 - Influences [[The Scribes' Sanctuary (D&D_References)]]
-- Connects to [[step_030]]
+- Connects to
 - Leads to [[The Crystal Amphitheater (D&D_References)]]
 - Affected by [[Quest - War of Tides_1 (01_Adventures)]]
 - Parallels [[Weasel Xmm]]
@@ -236,7 +230,7 @@ Discovered something valuable
 - Originates from [[Portrait NPC Captain Rex Ironhaul V1 Captain Rex Ironhaul.svg]]
 - Connects to [[Identity Storage Vault 2]]
 - Compare with [[NPC00539_Brenna_Nightfall]]
-- Affected by [[step_014]]
+- Affected by
 - See also: [[tashas-bubbling-cauldron-xphb (spells)]]
 - Leads to [[Active_NPCs (02_Worldbuilding)]]
 - Affected by [[Assets Item Artifact Mess Kit V7 Mess Kit.png]]
@@ -261,7 +255,7 @@ Discovered something valuable
 - Affected by [[Egyptian Bast]]
 - Affected by [[step_025 (phase_005)]]
 - Parallels [[QUEST00160_Main_Quest_161]]
-- Connects to [[step_088]]
+- Connects to
 - Connects to [[step_065 (phase_091)]]
 - Parallels [[step_092 (phase_020)]]
 - Leads to [[Prism Truthweight]]

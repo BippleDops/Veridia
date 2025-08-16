@@ -18,7 +18,6 @@ aliases: [NPC01334 Faelyn Ironwood the Seeker]
 - [[#Fiora Underhill the Wanderer (Personal - Childhood friend)|Fiora Underhill the Wanderer (Personal - Childhood friend)]]
 - [[#Lyanna Underhill the Guardian (Political - Patron)|Lyanna Underhill the Guardian (Political - Patron)]]
 
-
 ---
 aliases: ["Faelyn Ironwood the Seeker", "faelyn ironwood the seeker", "Faelyn Ironwood Seeker", "Seeker the Ironwood Faelyn"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.262Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -187,7 +182,7 @@ Knows secret about major threat
 - Originates from [[step_008 (phase_091)]]
 - Affected by [[Handout Handout Wanted Poster with Reward Wanted Poster with Reward.png]]
 - Connects to [[Sword of Vengeance Xdmg]]
-- Affected by [[step_071]]
+- Affected by
 - Parallels [[Crystal Sentinels (D&D_References)]]
 - Connects to [[ITEM01210_Refined_Salve_of_Vigor]]
 - Influences [[The Purification Protocols]]
@@ -202,7 +197,7 @@ Knows secret about major threat
 - Parallels [[Lysara Brightshield (D&D_References)]]
 - Affected by [[step_094 (phase_051)]]
 - See also: [[ITEM00592_Dragon_Scale_Helm_of_the_Guardian]]
-- See also: [[step_088]]
+- See also:
 - Compare with [[synaptic-static-xphb (spells)]]
 - Originates from [[Assets Locations Location City Angels and Depths V1 Angels and Depths.svg]]
 - Originates from [[ENC00196_Environmental_Encounter_197]]
@@ -230,11 +225,11 @@ Knows secret about major threat
 - Leads to [[armor-of-psychic-resistance-xdmg (items)]]
 - Parallels [[step_099 (phase_044)]]
 - See also: [[Memory Eternal Keeper 2]]
-- See also: [[step_038]]
+- See also:
 - Originates from [[step_078 (phase_034)]]
-- Influences [[step_027]]
+- Influences
 - Compare with [[02_Worldbuilding_Spells_Truth_Reflection]]
-- Compare with [[step_051]]
+- Compare with
 - See also: [[NPC01993_Drusilla_Ironwood_the_Risen]]
 - Connects to [[manticore-xmm (monstrosity)]]
 - Connects to [[Portrait NPC High King Aurelius Skyborn V1 High King Aurelius Skyborn.svg]]
@@ -244,17 +239,17 @@ Knows secret about major threat
 - Requires [[ENC00434_Combat_Encounter_435]]
 - Originates from [[Parliamentary Infiltration Methods 2]]
 - Compare with [[Portrait NPC Abyssos Prime Parliament of Echoes Abyssos Prime Parliament of Echoes.svg]]
-- Affected by [[step_018]]
-- See also: [[step_087]]
+- Affected by
+- See also:
 - Requires [[FAC00063_Guilds_64]]
 - Leads to [[ITEM00888_Primordial_Tome_of_Truth]]
 - Requires [[Diplomat Supreme International]]
-- Compare with [[step_008]]
+- Compare with
 - Influences [[step_092 (phase_011)]]
 - Affected by [[List Spells School Illusion]]
 - Influences [[Emergency Protocols 2]]
 - Originates from [[NPC00679_Qadim_Grimholt_the_Fallen]]
-- See also: [[step_036]]
+- See also:
 - See also: [[Merger_Transit_Complications]]
 - Requires [[Portrait NPC Deep Anarchists V1 Deep Anarchists.svg_1 (Portraits)]]
 - Connects to [[Abyssos Prime - Pressure Terminal (D&D_References)]]
@@ -264,8 +259,8 @@ Knows secret about major threat
 - Requires [[step_064 (phase_018)]]
 - Leads to [[step_053 (phase_084)]]
 - Requires [[Corrupted Government Reflections]]
-- Originates from [[step_095]]
-- See also: [[step_075]]
+- Originates from
+- See also:
 - Affected by [[Handout Handout Merchant Contract with Fine Print V1 Merchant Contract with Fine Print.png]]
 - See also: [[NPC01632_Qadim_Darkwater_the_Guardian]]
 - Connects to [[step_050 (phase_061)]]
@@ -274,7 +269,6 @@ Knows secret about major threat
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

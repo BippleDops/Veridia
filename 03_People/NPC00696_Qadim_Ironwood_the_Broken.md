@@ -18,7 +18,6 @@ aliases: [NPC00696 Qadim Ironwood the Broken]
 - [[#Vesper Darkwater the Fallen (Family - Child)|Vesper Darkwater the Fallen (Family - Child)]]
 - [[#Erasmus Goldleaf the Bold (Personal - Childhood friend)|Erasmus Goldleaf the Bold (Personal - Childhood friend)]]
 
-
 ---
 aliases: ["Qadim Ironwood the Broken", "qadim ironwood the broken", "Qadim Ironwood Broken", "Broken the Ironwood Qadim"]
 tags: [npc, character]
@@ -142,21 +141,17 @@ Being extorted by criminals
 ---
 *Generated: 2025-08-15T03:51:03.192Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -167,10 +162,10 @@ Being extorted by criminals
 - See also: [[LOC00072_Dungeons_Location_73]]
 - Affected by [[step_034 (phase_024)]]
 - Originates from [[Frost Giant Everlasting One Mpmm]]
-- Influences [[step_090]]
+- Influences
 - Connects to [[NPC00679_Qadim_Grimholt_the_Fallen]]
 - Influences [[The Chart Vault]]
-- Connects to [[step_091]]
+- Connects to
 - Influences [[Portrait NPC Sunk... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Originates from [[The Shipwright Guilds (Guilds)]]
 - Parallels [[Banker Cornelius Goldflow]]
@@ -185,7 +180,7 @@ Being extorted by criminals
 - Affected by [[step_053 (phase_022)]]
 - Influences [[Deep Lords (D&D_References)]]
 - Influences [[Captain Between (D&D_References)]]
-- Leads to [[step_001]]
+- Leads to
 - Originates from [[step_068 (phase_078)]]
 - Influences [[ITEM01471_Masterwork_Journal_of_Reliability]]
 - Influences [[SPELL00056_Arcane_Spell_57]]
@@ -202,7 +197,7 @@ Being extorted by criminals
 - Connects to [[Location City the Luminous Dawn Cathedral the Luminous Dawn Cathedral.svg]]
 - Related: [[Security Chief Watchshadow]]
 - Affected by [[step_025 (phase_026)]]
-- Influences [[step_090]]
+- Influences
 - Influences [[step_056 (phase_026)]]
 - Requires [[Magic User Associations]]
 - Leads to [[NPC00550_Xander_Stormwind_the_Cunning]]
@@ -226,9 +221,9 @@ Being extorted by criminals
 - Originates from [[The Artisans' Collective of Master Crafters (D&D_References)]]
 - Parallels [[Palace Guard Captain Neutralis]]
 - See also: [[Luminous Hollow (D&D_Statblocks)]]
-- Requires [[step_018]]
+- Requires
 - Leads to [[step_085 (phase_025)]]
-- Affected by [[step_048]]
+- Affected by
 - Influences [[Item Catalo_1 (D&D_References)]]
 - Connects to [[step_046 (phase_035)]]
 - Related: [[Location City Keeper Deepcurrent V1 Keeper Deepcurrent.svg]]
@@ -250,7 +245,7 @@ Being extorted by criminals
 - Related: [[step_084 (phase_045)]]
 - Originates from [[Portrait NPC Original Glaucus V2 Original Glaucus.svg_1 (Portraits)]]
 - Parallels [[NPC01946_Corvus_Dawnstrider_the_Scholar]]
-- Connects to [[step_084]]
+- Connects to
 - Originates from [[Reference Homebrew Bestiary Bestiary]]
 - Leads to [[Merchant Delilah Currentrunner (D&D_References)]]
 - Parallels [[Assets Locations Location City Duchess Cordelia Pearlheart V1 Duchess Cordelia Pearlheart.svg]]
@@ -265,7 +260,6 @@ Being extorted by criminals
 ![[03_People/token_commander_thrace_ironwood_large_bloodied.png]]
 ![[03_People/token_commander_thrace_ironwood_medium_bloodied.png]]
 ![[03_People/portrait_commander_thrace_ironwood.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

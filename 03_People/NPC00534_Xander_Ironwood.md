@@ -18,7 +18,6 @@ aliases: [NPC00534 Xander Ironwood]
 - [[#Caelum Youngblood the Broken (Professional - Employer)|Caelum Youngblood the Broken (Professional - Employer)]]
 - [[#Kaelen Ironforge the Wanderer (Personal - Best friend)|Kaelen Ironforge the Wanderer (Personal - Best friend)]]
 
-
 ---
 aliases: ["Xander Ironwood", "xander ironwood", "Ironwood Xander"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.174Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -186,7 +181,7 @@ Discovered something valuable
 - Leads to [[Assets Handouts Handout Handout Privateer Letter of Marque V3 Privateer Letter of Marque.png]]
 - Compare with [[Assets Portraits Portrait NPC Fence Queen Sticky Fingers Sal Fence Queen Sticky Fingers Sal.svg]]
 - Compare with [[Exhaustion 2]]
-- Compare with [[step_027]]
+- Compare with
 - Affected by [[step_060 (phase_053)]]
 - Influences [[Location City Surge Mixmaster V1 Surge Mixmaster.png]]
 - Influences [[LORE00268_Legends_Entry_269]]
@@ -197,7 +192,7 @@ Discovered something valuable
 - Requires [[LOC00274_Cities_Location_275]]
 - See also: [[Archivist Vera Glowmind 2]]
 - Requires [[Marina Bridgewater (D&D_References)]]
-- Influences [[step_056]]
+- Influences
 - Related: [[Location City Whisper Touched William Whisper Touched William.svg]]
 - Related: [[ENC00297_Social_Encounter_298]]
 - Connects to [[Truth and Reconciliation Depths Commission]]
@@ -244,7 +239,7 @@ Discovered something valuable
 - Requires [[Economic Intelligence 2]]
 - Parallels [[Guildmaster_Harwick.png]]
 - Compare with [[Crystallium (D&D_References)]]
-- Connects to [[step_041]]
+- Connects to
 - Connects to [[#Planets]]
 - Affected by [[wall-of-thorns-xphb (spells)]]
 - Leads to [[portrait-npc-sirens-v2-sirens.svg_1 (Portraits)]]
@@ -252,7 +247,7 @@ Discovered something valuable
 - Affected by [[step_001 (phase_063)]]
 - See also: [[Temporal Displacement]]
 - See also: [[tidal-wave-xge (spells)]]
-- Connects to [[step_002]]
+- Connects to
 - See also: [[step_093 (phase_010)]]
 - Requires [[step_050 (phase_091)]]
 - Leads to [[ITEM00241_Cursed_Hammer_of_Slaying]]
@@ -272,7 +267,6 @@ Discovered something valuable
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00812 Kaelen Jadeclaw the Seeker]
 - [[#Gavril Dawnstrider the Redeemed (Personal - Best friend)|Gavril Dawnstrider the Redeemed (Personal - Best friend)]]
 - [[#Hestara Oakenshield the Mystic (Family - Cousin)|Hestara Oakenshield the Mystic (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Kaelen Jadeclaw the Seeker", "kaelen jadeclaw the seeker", "Kaelen Jadeclaw Seeker", "Seeker the Jadeclaw Kaelen"]
@@ -144,16 +143,13 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.205Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -185,11 +181,10 @@ Competitor sabotaging business
 - [[NPC01504_Erasmus_Zephyrblade_the_Strong]]
 - [[NPC00190_Cedric_Silverleaf]]
 - [[11 Spellcasting]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -200,11 +195,10 @@ Competitor sabotaging business
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -239,7 +233,7 @@ Competitor sabotaging business
 - Related: [[enhance-ability-xphb (spells)]]
 - Related: [[step_066 (phase_051)]]
 - Parallels [[dynamite-stick-xdmg (items)]]
-- Originates from [[step_028]]
+- Originates from
 - Compare with [[Death Saving Throw Xphb]]
 - Parallels [[Assets Locations [[Location City Pressure Weighted Representation V1 Pressure Weighted Representation.svg]]]]
 - Related: [[[[Aethermoor]] Wind Rider Traditions (D&D_References)]]
@@ -272,7 +266,7 @@ Competitor sabotaging business
 - Connects to [[audio_fit_report (09_Performance)]]
 - See also: [[Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg_1 (Portraits)]]
 - Leads to [[Vex Shadowthorn]]
-- See also: [[step_021]]
+- See also:
 - Leads to [[NPC00226_Gavril_Emberfall]]
 - Compare with [[step_015 (phase_028)]]
 - Requires [[The Love Token 2]]
@@ -297,15 +291,15 @@ Competitor sabotaging business
 - Related: [[EVENT00082_Political_Event_83]]
 - Parallels [[Assets Locations [[Location City [[Regional Courts]] V1 Regional Courts.svg]]]]
 - Requires [[Leomunds Tiny Hut Xphb]]
-- Affected by [[step_065]]
+- Affected by
 - Affected by [[Phase Shift Devices (Items)]]
 - See also: [[Vehicle Ship Abyssal Scout Submarine V2 Abyssal Scout Submarine.png]]
 - Connects to [[LORE00214_History_Entry_215]]
 - See also: [[step_036 (phase_100)]]
 - Connects to [[list-spells-school-evocation (lists)]]
 - Leads to [[The Shadow Broker]]
-- Related: [[step_066]]
-- Influences [[step_057]]
+- Related:
+- Influences
 - See also: [[LORE00069_History_Entry_70]]
 - Originates from [[Portrait NPC Intelligence Services V2 Intelligence Services.svg]]
 
@@ -313,7 +307,6 @@ Competitor sabotaging business
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

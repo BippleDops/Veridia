@@ -18,7 +18,6 @@ aliases: [12-spells (players-handbook-2014)]
 - [[#See Also|See Also]]
 - [[#Related Content|Related Content]]
 
-
 ---
 
 title: 12-spells (players-handbook-2014)
@@ -82,7 +81,6 @@ world: Both
 
 *Additional notes*
 
-
 > [!dm] DM Note
 > This NPC knows more than they let on
 
@@ -109,8 +107,7 @@ world: Both
 - [ ] Prepare quick reference
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[11 Rules Glossary]]
@@ -123,7 +120,6 @@ world: Both
 - **Death Saves**: See ACX p.197
 - **Movement**: See ACX p.190-192
 - **Spellcasting**: See ACX p.201-205
-
 
 ## Thematic Connections
 - Magical theory from [[Schools of Magic]]
@@ -155,9 +151,9 @@ world: Both
 - Parallels [[LORE00033_Prophecies_Entry_34]]
 - See also: [[Wind Singer]]
 - Connects to [[ITEM00109_Shadow_Axe_of_Accuracy]]
-- Related: [[step_005]]
+- Related:
 - Parallels [[Neural Pathway Rebuilder]]
-- Parallels [[step_030]]
+- Parallels
 - See also: [[Order of the Shattered Crown]]
 - See also: [[LORE00270_Legends_Entry_271]]
 - Compare with [[Location City the Contract Archive the Contract Archive.svg]]
@@ -165,9 +161,9 @@ world: Both
 - Compare with [[Chancellor Marcus Provinces]]
 - Originates from [[Pressure Angel Benthia (D&D_Statblocks)]]
 - Requires [[ITEM00728_Infernal_Orb_of_Truth]]
-- Related: [[step_045]]
+- Related:
 - Originates from [[NPC00985_Qadim_Xendar_the_Strong]]
-- Requires [[step_038]]
+- Requires
 - Affected by [[Quest2]]
 - Leads to [[Elder Matthias Stoneward]]
 - Parallels [[Assets Item Artifact Ioun Stone Greater Absorption Xdmg V6 Ioun Stone Greater Absorption Xdmg.png]]
@@ -175,7 +171,7 @@ world: Both
 - Connects to [[Eldritch Sight]]
 - Related: [[scroll-of-titan-summoning-empyrean-xdmg (items)]]
 - Compare with [[LORE00169_Prophecies_Entry_170]]
-- Influences [[step_083]]
+- Influences
 - Connects to [[Portrait NPC Prie... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - Influences [[NPC01619_Hilda_Ashford_the_Mystic]]
 - Connects to [[Assets Art the Perfect Symbiosis.png]]
@@ -214,16 +210,16 @@ world: Both
 - Leads to [[enemies-abound-xge (spells)]]
 - Compare with [[LOC00117_Planes_Location_118]]
 - See also: [[Thieves' Guild]]
-- Influences [[step_043]]
+- Influences
 - Parallels [[Crystal Refineries]]
 - Influences [[step_099 (phase_046)]]
-- See also: [[step_081]]
+- See also:
 - Originates from [[step_074 (phase_011)]]
 - Leads to [[forest-encounters-levels-1720-xge (tables)]]
 - Originates from [[Location City Environmental Monitor Reef Ecowatch V1 Environmental Monitor Reef Ecowatch.svg]]
 - Requires [[Portrait NPC Shadow Broker Mist V2 Shadow Broker Mist.svg]]
 - Requires [[step_030 (phase_084)]]
-- Influences [[step_043]]
+- Influences
 - Originates from [[nonhuman-blibdoolpoolp (deities)]]
 - Requires [[Symphony of the Abyss Recipe 2]]
 - Affected by [[Customs House 3 (D&D_References)]]

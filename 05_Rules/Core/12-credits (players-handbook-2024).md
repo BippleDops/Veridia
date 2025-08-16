@@ -18,7 +18,6 @@ aliases: [12-credits (players-handbook-2024)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 12-credits (players-handbook-2024)
@@ -70,11 +69,9 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
@@ -105,8 +102,7 @@ world: Both
 Holds a clue about the ancient prophecy
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -115,7 +111,6 @@ Holds a clue about the ancient prophecy
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -142,7 +137,7 @@ Holds a clue about the ancient prophecy
 - Leads to [[Thalassa Lightbringer]]
 - Parallels [[Iron Bands of Bilarro Xdmg]]
 - Related: [[The Rumor Mill 2]]
-- Influences [[step_080]]
+- Influences
 - Related: [[elven-angharradh-mtf (deities)]]
 - Originates from [[Walloping Ammunition Xdmg]]
 - Requires [[The Artisans' Collective of Master Crafters]]
@@ -185,7 +180,7 @@ Holds a clue about the ancient prophecy
 - Leads to [[cleric-xphb-nature-domain (classes)]]
 - Requires [[Living Coral Architecture]]
 - Requires [[Labor Organization (Operations)]]
-- Requires [[step_097]]
+- Requires
 - Connects to [[ITEM00307_Shadow_Dagger_of_Speed]]
 - Connects to [[NPC0040_Aldric_Ironforge]]
 - Influences [[step_043 (phase_084)]]
@@ -193,10 +188,10 @@ Holds a clue about the ancient prophecy
 - Originates from [[Assets Locations Location City Court Manager Noble V1 Court Manager Noble.svg]]
 - Originates from [[Quest - The Lost Expedition_1 (01_Adventures)]]
 - Affected by [[MON00137_Aberrations_Creature_138]]
-- Originates from [[step_039]]
+- Originates from
 - Originates from [[LOC00039_Planes_Location_40]]
 - Related: [[Consequence Chain Name 2 (02_Worldbuilding)]]
-- See also: [[step_053]]
+- See also:
 - Affected by [[Glowcap Mushroom]]
 - Compare with [[Policy Analyst Shadowthink]]
 - Connects to [[Chief Surgeon Dr. Coral Mindsplice]]
@@ -209,18 +204,18 @@ Holds a clue about the ancient prophecy
 - Affected by [[step_048 (phase_060)]]
 - Leads to [[Market Master Cornelius Driftwood (D&D_References)]]
 - Related: [[LOC00024_Dungeons_Location_25]]
-- Connects to [[step_082]]
+- Connects to
 - Related: [[ITEM00288_Frost_Bow_of_the_Ancients]]
 - Originates from [[QUEST00174_Personal_Quest_175]]
 - Parallels [[step_045 (phase_046)]]
-- Requires [[step_006]]
+- Requires
 - Compare with [[beguiling-arrow-xge (optional-features)]]
 - See also: [[bard-xphb-college-of-swords-xge (classes)]]
 - Originates from [[Ceremonial Gold Armor With Black Pearls Xdmg]]
 - Compare with [[Marquis Benedict Riversend]]
 - Compare with [[step_055 (phase_060)]]
 - Parallels [[Institute for Reality Studies Researchers 2]]
-- Parallels [[step_010]]
+- Parallels
 - Originates from [[Quest - The Silver Revolution_1 (01_Adventures)]]
 - Compare with [[Port Meridian - Market Square 2]]
 - Connects to [[step_098 (phase_018)]]

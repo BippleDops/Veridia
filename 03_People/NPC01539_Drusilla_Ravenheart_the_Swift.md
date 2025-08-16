@@ -18,7 +18,6 @@ aliases: [NPC01539 Drusilla Ravenheart the Swift]
 - [[#Gavril Thornweave the Swift (Professional - Employer)|Gavril Thornweave the Swift (Professional - Employer)]]
 - [[#Hestara Quicksilver the Redeemed (Family - Child)|Hestara Quicksilver the Redeemed (Family - Child)]]
 
-
 ---
 aliases: ["Drusilla Ravenheart the Swift", "drusilla ravenheart the swift", "Drusilla Ravenheart Swift", "Swift the Ravenheart Drusilla"]
 tags: [npc, character]
@@ -159,27 +158,23 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.283Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
 - Requires [[LOC00136_Planes_Location_137]]
 - Influences [[02_Worldbuilding_People_Portal_Engineer_Shade_Linkwright]]
-- Compare with [[step_023]]
+- Compare with
 - Influences [[portrait-npc-duke-hadal-v1-duke-hadal.svg]]
 - See also: [[Assets Portraits Portrait NPC Captain Thaddeus Blackwater Captain Thaddeus Blackwater.svg]]
 - Leads to [[Astrologer Prime Cassandra Starweaver]]
@@ -199,8 +194,8 @@ Knows secret about major threat
 - Related: [[Goldhorn the Magnificent]]
 - Affected by [[step_037 (phase_052)]]
 - Influences [[step_033 (phase_061)]]
-- Parallels [[step_048]]
-- Related: [[step_016]]
+- Parallels
+- Related:
 - Requires [[Architect Temporal Wisdom 2]]
 - Originates from [[ITEM00823_Celestial_Scepter_of_Eternity]]
 - Requires [[green-dragon-scale-mail-xdmg (items)]]
@@ -209,7 +204,7 @@ Knows secret about major threat
 - Compare with [[step_002 (phase_054)]]
 - See also: [[Guardian of Faith Xphb]]
 - Related: [[The Future Seer (D&D_References)]]
-- See also: [[step_025]]
+- See also:
 - Compare with [[Great Drowning (Lore)]]
 - Leads to [[banded-agate-xdmg (items)]]
 - Connects to [[dawn-war-melora-dmg (deities)]]
@@ -218,7 +213,7 @@ Knows secret about major threat
 - Compare with [[Location City Crystal Master Prism Lightweaver V1 Crystal Master Prism Lightweaver.svg]]
 - Parallels [[traps-hazards (traps-hazards)]]
 - Influences [[Portrait NPC the Shadow Surgeons the Shadow Surgeons.svg_1 (Portraits)]]
-- Compare with [[step_017]]
+- Compare with
 - Affected by [[giant-ape-xmm]]
 - Influences [[step_065 (phase_079)]]
 - Leads to [[step_057 (phase_075)]]
@@ -254,7 +249,7 @@ Knows secret about major threat
 - Connects to [[Assets Item Artifact Whelm Xdmg V1 Whelm Xdmg.png]]
 - Compare with [[Laser Rifle Xdmg]]
 - Requires [[Cult of Screams (Cults_and_Movements)]]
-- Parallels [[step_052]]
+- Parallels
 - Connects to [[Assets Locations Location City Basalt Depthwright Basalt Depthwright.svg]]
 - Requires [[Portrait NPC Captain Guard Peacehold Captain Guard Peacehold.svg]]
 - Parallels [[Parliament of Shadows Player Guide.md]]
@@ -263,9 +258,9 @@ Knows secret about major threat
 - See also: [[Public Works Director Boris Bridgewright 2]]
 - Leads to [[Supplemental Tables Occupation Xge]]
 - Leads to [[Portrait NPC Banking Lord Cornelius Coinwright Banking Lord Cornelius Coinwright.svg]]
-- Requires [[step_056]]
+- Requires
 - Parallels [[ITEM00624_Enchanted_Gauntlets_of_Protection]]
-- Influences [[step_063]]
+- Influences
 - Parallels [[Assets Art Captain Trawl Netcaster.png]]
 - Compare with [[cleric-xphb-knowledge-domain 2 (classes)]]
 - Parallels [[ENC00469_Combat_Encounter_470]]
@@ -275,14 +270,13 @@ Knows secret about major threat
 - Originates from [[dark-gift-of-tarakamedes-the-grave-wyrm-cos (rewards)]]
 - Requires [[Biomancer Corvus Intestinal (D&D_References)]]
 - Compare with [[step_037 (phase_062)]]
-- Related: [[step_088]]
+- Related:
 - Requires [[Scroll of Titan Summoning Empyrean Xdmg]]
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [Propaganda Leaflet Pearl Guar]
 - [[#Coming_Of_Age Improvements|Coming_Of_Age Improvements]]
 - [[#Oral_Tradition Improvements|Oral_Tradition Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Propaganda_Leaflet_Pearl_Guar
@@ -121,7 +120,6 @@ tags: [combat, lore]
 - Wearing red on holy days
 - Pointing at the moon
 
-
 > [!quote] 💬 Quote
 > Notable saying or prophecy
 
@@ -142,8 +140,7 @@ tags: [combat, lore]
 - [[04 Classes]]
 - [[NPC01812_Xander_Lightbringer_the_Swift]]
 - [[NPC00501_Orion_Nightfall_the_Broken]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -153,7 +150,6 @@ tags: [combat, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -167,7 +163,7 @@ tags: [combat, lore]
 - Affected by [[NPC0019_Tara_Stormwind_the_Bold]]
 - Parallels [[location-city-pearlshell-v1-pearlshell.svg]]
 - See also: [[Bard Xphb]]
-- Compare with [[step_033]]
+- Compare with
 - Originates from [[Location City Sacred Grief Protocols V1 Sacred Grief Protocols.png]]
 - Requires [[step_003 (phase_026)]]
 - Originates from [[Assets Locations Location City Elder Scribe Marcus the Lost V1 Elder Scribe Marcus the Lost.svg]]
@@ -200,7 +196,7 @@ tags: [combat, lore]
 - Originates from [[Survival Codex 2]]
 - Affected by [[Serenity Stillwater (D&D_References)]]
 - Requires [[DUN00196_Dungeon_197]]
-- Requires [[step_009]]
+- Requires
 - Parallels [[LOC00204_Wilderness_Location_205]]
 - Compare with [[Drow Lolth Mtf]]
 - Leads to [[Depth Supremacy Movement]]
@@ -212,12 +208,12 @@ tags: [combat, lore]
 - Compare with [[physical-characteristics-beholder-teeth-shape-vgm]]
 - Parallels [[Captain Mistwalker]]
 - Related: [[hand-of-vecna-xdmg (items)]]
-- Connects to [[step_088]]
+- Connects to
 - See also: [[river-styx-xdmg (traps-hazards)]]
 - Related: [[Templates World Builder Templates Template Quest.md]]
 - Affected by [[Location City the Crystal Stock Exchange V1 the Crystal Stock Exchange.svg]]
 - Requires [[Assets Locations Location City Temporal Navigation V1 Temporal Navigation.svg]]
-- Requires [[step_070]]
+- Requires
 - Influences [[LORE00069_Legends_Entry_70]]
 - Parallels [[Faction Reputation]]
 - Leads to [[Ω_System-CLI-spells-school-necromancy]]
@@ -237,13 +233,13 @@ tags: [combat, lore]
 - Connects to [[QUEST0037_In_Search_of_Justice]]
 - Connects to [[Assets Locations Location City Economic Planning V1 Economic Planning.png]]
 - Requires [[Political Intrigue of Meridian]]
-- Compare with [[step_035]]
+- Compare with
 - Affected by [[step_079 (phase_100)]]
 - Connects to [[goblin-hexer-xmm (fey)]]
 - Parallels [[half-orc (races)]]
 - Leads to [[Marine Druids 2]]
 - Related: [[ENC00221_Social_Encounter_222]]
-- Influences [[step_021]]
+- Influences
 - Influences [[step_078 (phase_027)]]
 - Requires [[Keeper Elara Mindwell 2]]
 - Connects to [[Aboleth Territories]]
@@ -257,7 +253,7 @@ tags: [combat, lore]
 - See also: [[Treaty of the Depths (D&D_References)]]
 - Originates from [[step_062 (phase_043)]]
 - Compare with [[step_037 (phase_035)]]
-- Related: [[step_099]]
+- Related:
 - Originates from [[Crisis Command Center 2]]
 - Originates from [[Faction_Information]]
 - Related: [[Assets Locations Location City Portal Technician Voidwalk V1 Portal Technician Voidwalk.svg]]

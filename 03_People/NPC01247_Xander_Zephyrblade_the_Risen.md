@@ -18,7 +18,6 @@ aliases: [NPC01247 Xander Zephyrblade the Risen]
 - [[#Qadim Ironwood the Cunning (Family - Parent)|Qadim Ironwood the Cunning (Family - Parent)]]
 - [[#Malakai Stormwind the Risen (Criminal - Target)|Malakai Stormwind the Risen (Criminal - Target)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Zephyrblade the Risen", "xander zephyrblade the risen", "Xander Zephyrblade Risen", "Risen the Zephyrblade Xander"]
@@ -157,25 +156,20 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.252Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -193,7 +187,7 @@ Following magic item guidelines (WWT p.135-136):
 - Xanathar's Secrets Revealed to Everything (XSR) p.121
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -202,11 +196,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -232,13 +225,13 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[The Siren (People)]]
 - Affected by [[Assets Locations [[Location City [[Screaming Gardens]] Songwood Grove V1 Screaming Gardens Songwood Grove.svg]]]]
 - See also: [[Multi-Dimensional Perception]]
-- Affected by [[step_045]]
-- Leads to [[step_096]]
+- Affected by
+- Leads to
 - Compare with [[Captain Dara Ironwill]]
 - Parallels [[Halfling Tables Reasons for Adventuring Mtf]]
 - Affected by [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg_Quick_Ref]]
 - Compare with [[Shadow Cultist]]
-- Affected by [[step_032]]
+- Affected by
 - Leads to [[Private Investigator Rex Coldcase (D&D_References)]]
 - Affected by [[step_053 (phase_010)]]
 - See also: [[Senator Shadow-Glaucus (D&D_References)]]
@@ -246,8 +239,8 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[Portrait NPC Deep Lord Pelagios the Eternal V1 Deep Lord Pelagios the Eternal.svg]]
 - Related: [[double brackets]]
 - Parallels [[LOC00205_Cities_Location_206]]
-- Requires [[step_036]]
-- Originates from [[step_058]]
+- Requires
+- Originates from
 - See also: [[ENC00135_Environmental_Encounter_136]]
 - Connects to [[ITEM00160_Thunder_Sword_of_the_Ancients]]
 - Connects to [[step_030 (phase_079)]]
@@ -272,7 +265,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Assets Locations Location City [[Keeper [[Finn Goodtide]]]] V1 Keeper Finn Goodtide.svg]]
 - Leads to [[System Cli Spells School Divination]]
 - Connects to [[NPC01311_Zephyr_Xendar_the_Wanderer]]
-- Leads to [[step_021]]
+- Leads to
 - Connects to [[NPC01668_Elric_Keenblade_the_Strong]]
 - Affected by [[step_060 (phase_008)]]
 - Related: [[Portrait NPC the Harmony Collective V1 the Harmony Collective.svg]]
@@ -301,10 +294,10 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[EVENT00064_Natural_Event_65]]
 - Connects to [[step_016 (phase_068)]]
 - Connects to [[NPC00274_Brenna_Hawthorne]]
-- Affected by [[step_092]]
+- Affected by
 - Affected by [[Abyssal Garden]]
 - Requires [[NPC01756_Vesper_Voidwalker_the_Wanderer]]
-- Leads to [[step_079]]
+- Leads to
 - Compare with [[Template-Star-System]]
 - Compare with [[LORE00098_Legends_Entry_99]]
 - Parallels [[step_096 (phase_081)]]
@@ -315,7 +308,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

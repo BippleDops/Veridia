@@ -18,7 +18,6 @@ aliases: [NPC00276 Ysara Youngblood]
 - [[#Orion Thornweave the Seeker (Professional - Employer)|Orion Thornweave the Seeker (Professional - Employer)]]
 - [[#Wynne Hawthorne (Criminal - Handler)|Wynne Hawthorne (Criminal - Handler)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ysara Youngblood", "ysara youngblood", "Youngblood Ysaratags: [npc, character, combat, magic, social, puzzle, lore]er]
@@ -155,16 +154,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.143Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -198,11 +194,10 @@ Modifications:
 - [[11 Rules Glossary]]
 - [[MOC_Items]]
 - [[NPC00046_Urien_Ironwood_the_Wise]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -210,11 +205,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -224,12 +218,12 @@ Modifications:
 - Connects to [[Pouch Xphb]]
 - Parallels [[Foreign Affairs]]
 - Related: [[step_099 (phase_055)]]
-- Parallels [[step_053]]
+- Parallels
 - Connects to [[ENC00108_Combat_Encounter_109]]
-- Originates from [[step_069]]
+- Originates from
 - Connects to [[ITEM0105_Blessed_Gauntlet_of_the_Dawn]]
 - Connects to [[EVENT00090_Political_Event_91]]
-- Influences [[step_083]]
+- Influences
 - Originates from [[handheld-mirror-set-in-a-painted-wooden-frame-xdmg]]
 - Compare with [[04_Resources]]
 - Originates from [[ENC00252_Combat_Encounter_253]]
@@ -258,9 +252,9 @@ Modifications:
 - Requires [[LOC00076_Wilderness_Location_77]]
 - Compare with [[Roleplaying a Beholder Beholder Ideals Vgm]]
 - Leads to [[NPC_Portraits_Gallery 2]]
-- Connects to [[step_084]]
+- Connects to
 - Influences [[step_076 (phase_088)]]
-- Related: [[step_001]]
+- Related:
 - Parallels [[fire-shield-xphb (spells)]]
 - Influences [[ITEM0093_Forgotten_Orb_of_the_Dawn]]
 - Connects to [[Gnome Urdlen Mtf]]
@@ -291,9 +285,9 @@ Modifications:
 - Requires [[Assets Locations [[Location City [[Chancellor Octavius]] Chancellor Octavius.svg]]]]
 - Parallels [[ITEM00935_Pure_Potion_of_Vigor]]
 - Requires [[step_047 (phase_058)]]
-- Parallels [[step_055]]
+- Parallels
 - Originates from [[Trade Goods Catalog (D&D_References)]]
-- Affected by [[step_063]]
+- Affected by
 - Parallels [[describe-appearance-and-personality-charisma-xphb]]
 - Related: [[ENC00376_Combat_Encounter_377]]
 - Compare with [[02_Worldbuilding_People_Portal_Engineer_Shade_Linkwright]]
@@ -308,12 +302,12 @@ Modifications:
 - Leads to [[NPC00169_Aldric_Zephyrblade_the_Wise]]
 - Leads to [[Location City Quest Portal Conspiracy V1 Quest Portal Conspiracy.svg]]
 - Related: [[[[Memorial Current]] 2]]
-- Parallels [[step_057]]
+- Parallels
 - Affected by [[location-city-sea-sprite-sea-sprite.svg]]
 - Connects to [[Convergence Crisis Scenarios Index]]
 - Connects to [[Session Planning Template]]
 - Affected by [[Assets Item Artifact Ruby Xdmg V4 Ruby Xdmg.png]]
-- Connects to [[step_002]]
+- Connects to
 - Connects to [[entangle-xphb (spells)]]
 - Related: [[aspect-of-the-moon-xge (optional-features)]]
 - Connects to [[guard-drake-black-mpmm (dragon)]]
@@ -323,7 +317,6 @@ Modifications:
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00207 Ysara Ravenheart]
 - [[#Zephyr Moonshadow (Political - Patron)|Zephyr Moonshadow (Political - Patron)]]
 - [[#Malakai Goldleaf the Scholar (Criminal - Accomplice)|Malakai Goldleaf the Scholar (Criminal - Accomplice)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ysara Ravenheart", "ysara ravenheart", "Ravenheart Ysara"]
@@ -148,16 +147,13 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.135Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -200,11 +196,10 @@ Requires champions for trial by combat
 - [[NPC01757_Nerys_Silverleaf_the_Strong]]
 - [[NPC01660_Thalia_Moonshadow_the_Fallen]]
 - [[NPC00669_Zephyr_Youngblood_the_Lost]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -212,11 +207,10 @@ Requires champions for trial by combat
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -238,7 +232,7 @@ Requires champions for trial by combat
 - Affected by [[The Transformed Citizens (D&D_References)]]
 - Related: [[Greyhawk Incabulos Xdmg]]
 - Requires [[NPC00761_Aldric_Moonshadow_the_Guardian]]
-- Connects to [[step_032]]
+- Connects to
 - Originates from [[step_090 (phase_007)]]
 - See also: [[QUEST00152_Personal_Quest_153]]
 - Compare with [[step_029 (phase_024)]]
@@ -275,7 +269,7 @@ Requires champions for trial by combat
 - See also: [[step_092 (phase_088)]]
 - Compare with [[MON00062_Aberrations_Creature_63]]
 - Affected by [[QUEST00050_Main_Quest_51]]
-- Parallels [[step_044]]
+- Parallels
 - Connects to [[Governmental Legitimacy]]
 - Leads to [[ink-xphb (items)]]
 - Parallels [[Assets Locations Location City Culinary Dreamweaver Sage Gentlespice V1 Culinary Dreamweaver Sage Gentlespice.svg]]
@@ -300,19 +294,19 @@ Requires champions for trial by combat
 - Compare with [[step_095 (phase_052)]]
 - Influences [[ITEM01400_Masterwork_Lock_of_Durability]]
 - Related: [[The Stellar Confluence (D&D_References)]]
-- Compare with [[step_027]]
+- Compare with
 - Compare with [[step_027 (phase_099)]]
 - Connects to [[Dominate Person Xphb]]
 - Influences [[Foreign Affairs 2]]
-- Affected by [[step_072]]
+- Affected by
 - See also: [[Oracle Nerida the Tidereader (D&D_References)]]
 - Originates from [[LOC00016_Planes_Location_17]]
 - Compare with [[Locations Gallery]]
 - Influences [[Assets Locations Location City Commander Reef Shadowstrike Commander Reef Shadowstrike.svg]]
 - Requires [[NPC01318_Faelyn_Stormwind_the_Strong]]
-- Leads to [[step_032]]
+- Leads to
 - Requires [[step_076 (phase_016)]]
-- Leads to [[step_075]]
+- Leads to
 - Influences [[Location City Giant Sea Horse V1 Giant Sea Horse.svg]]
 - Parallels [[step_038 (phase_013)]]
 - Parallels [[LOC00145_Planes_Location_146]]
@@ -325,7 +319,6 @@ Requires champions for trial by combat
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

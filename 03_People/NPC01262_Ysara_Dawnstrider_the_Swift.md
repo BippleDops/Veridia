@@ -18,7 +18,6 @@ aliases: [NPC01262 Ysara Dawnstrider the Swift]
 - [[#Vesper Silverleaf the Risen (Political - Patron)|Vesper Silverleaf the Risen (Political - Patron)]]
 - [[#Rhiannon Emberfall the Guardian (Political - Puppet)|Rhiannon Emberfall the Guardian (Political - Puppet)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ysara Dawnstrider the Swift", "ysara dawnstrider the swift", "Ysara Dawnstrider Swift", "Swift the Dawnstrider Ysaratags: [npc, character, combat, magic, exploration, lore]er]
@@ -143,16 +142,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.254Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -200,9 +196,7 @@ Modifications:
 - [[NPC00669_Zephyr_Youngblood_the_Lost]]
 - [[NPC00174_Aldric_Silverleaf_the_Fallen]]
 - [[NPC01290_Pyria_Ashford_the_Broken]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -221,7 +215,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.74
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -231,25 +225,24 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Leads to [[step_046 (phase_080)]]
-- See also: [[step_023]]
+- See also:
 - Requires [[step_026 (phase_080)]]
 - Related: [[QUEST00046_Main_Quest_47]]
 - Leads to [[spirit-troll-mpmm (giant)]]
 - Originates from [[Great Sunderin]]
-- Affected by [[step_066]]
+- Affected by
 - Connects to [[step_051 (phase_005)]]
 - Compare with [[Giant Wolf Spider Xmm]]
 - Affected by [[scriptorium]]
-- Parallels [[step_018]]
+- Parallels
 - Related: [[Polymorph Xphb]]
 - Related: [[Scholars of Divine Lore 2]]
 - Connects to [[DUN00026_Dungeon_27]]
@@ -257,12 +250,12 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[step_010 (phase_053)]]
 - Influences [[Quest - Truth Market_1 (01_Adventures)]]
 - Connects to [[level-1-hit-points-by-class-xphb (tables)]]
-- See also: [[Lighthouse Peak   Resoce Chamber]]
+- See also: [[Lighthouse Peak Resoce Chamber]]
 - Parallels [[The Current Riders]]
 - Parallels [[step_098 (phase_037)]]
 - Requires [[ENC00450_Combat_Encounter_451]]
 - Related: [[step_064 (phase_052)]]
-- Affected by [[step_015]]
+- Affected by
 - Influences [[The Tide Speakers]]
 - Compare with [[step_043 (phase_017)]]
 - Compare with [[ENC00489_Combat_Encounter_490]]
@@ -271,7 +264,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Consequence Chain 2 - Crystal Trade Disruption (D&D_References)]]
 - Compare with [[ITEM00147_Frost_Dagger_of_Wounding]]
 - Influences [[step_033 (phase_093)]]
-- Related: [[step_081]]
+- Related:
 - Affected by [[LOC00082_Towns_Location_83]]
 - Requires [[[[The Shadowmere]] (D&D_References)]]
 - Compare with [[SPELL00162_Divine_Spell_163]]
@@ -298,9 +291,9 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[step_001 (phase_022)]]
 - Related: [[NPC01399_Orion_Ashford_the_Bold]]
 - Connects to [[The Observatory]]
-- Affected by [[step_047]]
+- Affected by
 - Influences [[NPC00879_Felicia_Frostwhisper_the_Swift]]
-- Compare with [[step_002]]
+- Compare with
 - See also: [[Relentless Hex Xge]]
 - Leads to [[step_050 (phase_071)]]
 - Affected by [[step_076 (phase_007)]]
@@ -330,7 +323,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Quest - Memory Restoration 2]]
 - Requires [[Elite Wind Rider Captain]]
 - Related: [[The Festival Archives]]
-- Influences [[step_001]]
+- Influences
 - Compare with [[step_037 (phase_029)]]
 - Originates from [[location-city-depth-merchants-depth-merchants.svg]]
 - Compare with [[Deepcaster]]
@@ -344,7 +337,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

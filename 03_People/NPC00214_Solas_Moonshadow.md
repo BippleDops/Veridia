@@ -9,7 +9,6 @@ aliases: [NPC00214 Solas Moonshadow]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00214 Solas Moonshadow]
 - [[#Corvus Frostwhisper the Fallen (Criminal - Accomplice)|Corvus Frostwhisper the Fallen (Criminal - Accomplice)]]
 - [[#Alaric Voidwalker the Bold (Professional - Mentor)|Alaric Voidwalker the Bold (Professional - Mentor)]]
 - [[#Erasmus Zephyrblade the Cunning (Political - Spy)|Erasmus Zephyrblade the Cunning (Political - Spy)]]
-
 
 ---
 aliases: ["Solas Moonshadow", "solas moonshadow", "Moonshadow Solas"]
@@ -164,21 +162,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.136Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -211,7 +205,7 @@ Wants rivals investigated
 - Parallels [[NPC01303_Aldric_Zephyrblade_the_Guardian]]
 - Related: [[LOC0133_WestGate]]
 - Leads to [[ENC0051_Random_Encounter_52]]
-- Affected by [[step_025]]
+- Affected by
 - Influences [[dwarven-abbathor-mtf (deities)]]
 - Compare with [[War Pick Xphb]]
 - Compare with [[LOC00178_Wilderness_Location_179]]
@@ -229,7 +223,7 @@ Wants rivals investigated
 - Related: [[scholars-of-quandrix-quandrix-scholars-scc (tables)]]
 - Connects to [[location-city-the-tidecaller-the-tidecaller.svg]]
 - Affected by [[ITEM00386_Blessed_Sword_of_Accuracy]]
-- Connects to [[step_039]]
+- Connects to
 - Affected by [[Merger Hybrid Vehicles]]
 - Influences [[step_026 (phase_071)]]
 - Requires [[Portrait NPC Captain Marina Saltborn V2 Captain Marina Saltborn.svg]]
@@ -247,7 +241,7 @@ Wants rivals investigated
 - Originates from [[step_015 (phase_004)]]
 - Connects to [[portrait-npc-the-barnacle-the-barnacle.svg]]
 - Affected by [[Forgotten Realms Azuth]]
-- See also: [[step_013]]
+- See also:
 - See also: [[Skill_DCs]]
 - Compare with [[LOC00048_Cities_Location_49]]
 - Requires [[Aura of Life Xphb]]

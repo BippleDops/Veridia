@@ -18,7 +18,6 @@ aliases: [Quiet Chapel Oath Scrol]
 - [[#Contradictions Improvements|Contradictions Improvements]]
 - [[#Evolution Improvements|Evolution Improvements]]
 
-
 ---
 
 title: 07_Player_Resources/Visual_Handouts/Quiet_Chapel_Oath_Scrol
@@ -144,7 +143,6 @@ tags: [combat, magic, exploration, lore]
 - 6pm: Return home
 - 8pm: Sleep
 
-
 > [!dm] DM Note
 > This NPC knows more than they let on
 
@@ -185,8 +183,7 @@ tags: [combat, magic, exploration, lore]
 - [[08 Using Ability Scores]]
 - [[11 Rules Glossary]]
 - [[MOC_Quests]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[audio_fit_report]]
@@ -196,7 +193,6 @@ tags: [combat, magic, exploration, lore]
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -234,7 +230,7 @@ tags: [combat, magic, exploration, lore]
 - Originates from [[step_033 (phase_036)]]
 - Compare with [[Boon of Fortitude Xphb]]
 - See also: [[LOC00277_Wilderness_Location_278]]
-- Affected by [[step_017]]
+- Affected by
 - Connects to [[QUEST00287_Personal_Quest_288]]
 - Requires [[step_082 (phase_022)]]
 - Requires [[SPELL00126_Arcane_Spell_127]]
@@ -244,10 +240,10 @@ tags: [combat, magic, exploration, lore]
 - See also: [[QUEST00372_Side_Quest_373]]
 - Parallels [[NPC01897_Aldric_Darkwater_the_Broken]]
 - Parallels [[step_088 (phase_010)]]
-- Connects to [[step_066]]
-- Compare with [[step_084]]
+- Connects to
+- Compare with
 - Compare with [[step_088 (phase_006)]]
-- Influences [[step_049]]
+- Influences
 - Originates from [[Planar Raider Mtf]]
 - See also: [[The Ancient Compact (D&D_References)]]
 - Affected by [[immolation-xge (spells)]]
@@ -255,7 +251,7 @@ tags: [combat, magic, exploration, lore]
 - Compare with [[The Lost Shipment]]
 - Leads to [[Clockwork Oaken Bolter Mpmm]]
 - Requires [[cow-vgm (beast)]]
-- Affected by [[step_040]]
+- Affected by
 - Parallels [[simulacrum-xphb (spells)]]
 - Requires [[russet-mold-vgm (traps-hazards)]]
 - Originates from [[Template_Planet_Placeholder.png_1 (09_Templates)]]
@@ -279,7 +275,7 @@ tags: [combat, magic, exploration, lore]
 - Related: [[step_075 (phase_040)]]
 - Requires [[FAC00052_Guilds_53]]
 - Connects to [[Senator's Private Chambers]]
-- Connects to [[step_073]]
+- Connects to
 - Leads to [[Corporate Investigators]]
 - Connects to [[step_018 (phase_059)]]
 - Compare with [[step_047 (phase_026)]]
@@ -293,7 +289,7 @@ tags: [combat, magic, exploration, lore]
 - See also: [[ale-gallon (items)]]
 - Related: [[The Lighthouse Keepers (D&D_References)]]
 - Influences [[Map World Layer Magical Phenomena and Storm Tracks V1 Magical Phenomena and Storm Tracks.svg]]
-- Connects to [[step_070]]
+- Connects to
 - Requires [[step_037 (phase_048)]]
 - Compare with [[step_023 (phase_061)]]
 - See also: [[Communications Center 2]]
@@ -302,11 +298,11 @@ tags: [combat, magic, exploration, lore]
 - Influences [[Crystal Goverce Model]]
 - Compare with [[Assets Art Shadow Chancellor.png]]
 - Parallels [[Portrait NPC Archon Meredith Saltweaver Archon Meredith Saltweaver.svg_1 (Portraits)]]
-- Originates from [[step_100]]
+- Originates from
 - Affected by [[strahd-zombie-cos (undead)]]
 - Leads to [[MON00045_Constructs_Creature_46]]
 - Requires [[NPC01596_Fiora_Ironforge_the_Mystic]]
-- Parallels [[step_084]]
+- Parallels
 - See also: [[step_087 (phase_015)]]
 - See also: [[Plugin_Integration_and_Tools]]
 - Requires [[Location City Tavern Keep Lucky Jack Goldpouch Tavern Keep Lucky Jack Goldpouch.svg]]

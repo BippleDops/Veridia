@@ -18,7 +18,6 @@ aliases: [NPC01949 Gavril Darkwater the Strong]
 - [[#Dara Emberfall the Broken (Family - Parent)|Dara Emberfall the Broken (Family - Parent)]]
 - [[#Aldric Keenblade the Risen (Criminal - Informant)|Aldric Keenblade the Risen (Criminal - Informant)]]
 
-
 ---
 aliases: ["Gavril Darkwater the Strong", "gavril darkwater the strong", "Gavril Darkwater Strong", "Strong the Darkwater Gavril"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.327Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -207,7 +202,7 @@ Offers deal too good to refuse
 - Affected by [[NPC00679_Qadim_Grimholt_the_Fallen]]
 - Leads to [[Tymora (D&D_References)]]
 - Affected by [[Assets Locations Location City the Memory Meadows Black Market the Memory Meadows Black Market.svg]]
-- Connects to [[step_092]]
+- Connects to
 - Influences [[ITEM01480_Decorated_Map_Case_of_Durability]]
 - Connects to [[undead]]
 - Compare with [[Crown of Aethermoor]]
@@ -223,7 +218,7 @@ Offers deal too good to refuse
 - Leads to [[LORE00287_Legends_Entry_288]]
 - See also: [[step_066 (phase_048)]]
 - See also: [[NPC01217_Xander_Xendar_the_Wise]]
-- Leads to [[step_100]]
+- Leads to
 - Related: [[giant-slayer-xdmg (items)]]
 - Requires [[Black Bear Xmm]]
 - Parallels [[Modron Tridrone Xmm]]
@@ -232,8 +227,8 @@ Offers deal too good to refuse
 - Parallels [[QUEST00095_Side_Quest_96]]
 - Related: [[area-of-effect-xphb (variant-rules)]]
 - Originates from [[System Cli Spells School Enchantment]]
-- Affected by [[NPC  (D&D_References)]]
-- Originates from [[step_083]]
+- Affected by [[NPC (D&D_References)]]
+- Originates from
 - See also: [[step_013 (phase_038)]]
 - Related: [[Geology Specialist Stone Soundshape (People)]]
 - See also: [[step_027 (phase_054)]]
@@ -244,13 +239,13 @@ Offers deal too good to refuse
 - Parallels [[Hadrian Depthbridge (D&D_References)]]
 - Leads to [[Vehicles - Aquabyssos Submarines Catalog]]
 - Connects to [[Assets Locations Location City Sister Morwyn Sister Morwyn.svg]]
-- Parallels [[step_029]]
+- Parallels
 - Requires [[The Silverscale Conspiracy]]
 - Parallels [[clone-xphb (spells)]]
-- See also: [[step_027]]
+- See also:
 - Connects to [[list-spells-optional-features-thief-of-five-fates]]
 - Requires [[Nyx Thalassic (D&D_References)]]
-- Requires [[step_077]]
+- Requires
 - Affected by [[ITEM00724_Divine_Crown_of_Destiny]]
 - Related: [[healing]]
 - Influences [[Campaign Calendar (D&D_References)]]
@@ -273,7 +268,6 @@ Offers deal too good to refuse
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

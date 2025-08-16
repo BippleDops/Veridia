@@ -18,7 +18,6 @@ aliases: [NPC00055 Rhiannon Ironforge the Swift]
 - [[#Delara Ravenheart the Seeker (Criminal - Informant)|Delara Ravenheart the Seeker (Criminal - Informant)]]
 - [[#Rhiannon Quicksilver (Family - Spouse)|Rhiannon Quicksilver (Family - Spouse)]]
 
-
 ---
 aliases: ["Rhiannon Ironforge the Swift", "rhiannon ironforge the swift", "Rhiannon Ironforge Swift", "Swift the Ironforge Rhiannon"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.117Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -177,7 +172,7 @@ Wants rivals investigated
 - Leads to [[Assets Art Npcs the Corroded Crown.png]]
 - Connects to [[Assets Locations Location City Deepstone Deepstone.svg]]
 - See also: [[Disarming Attack Xphb]]
-- Connects to [[step_019]]
+- Connects to
 - Influences [[Trade Captain Current (D&D_References)]]
 - Related: [[Shape the Flowing River]]
 - Parallels [[LOC00157_Wilderness_Location_158]]
@@ -191,14 +186,14 @@ Wants rivals investigated
 - Leads to [[Assets Locations Location City Security Services Security Services.svg]]
 - Parallels [[Assets Locations Location City Abyssal Crystals V1 Abyssal Crystals.svg]]
 - Originates from [[QUEST00131_Side_Quest_132]]
-- Leads to [[step_003]]
+- Leads to
 - Influences [[Assets Locations Location City Priest Thomas Messagekeeper Priest Thomas Messagekeeper.svg]]
 - Leads to [[Chief Engineer Nereus Flowstream 2]]
 - Parallels [[Fragment Guarden]]
 - Connects to [[QUEST00191_Side_Quest_192]]
 - Compare with [[Military Coordinator Strong 2]]
 - Affected by [[step_003 (phase_095)]]
-- Related: [[step_047]]
+- Related:
 - Influences [[ITEM00429_Enchanted_Leather_of_Fortitude]]
 - Compare with [[Infant Hook Horror Oota]]
 - Originates from [[Marquis Aldwin Goldcurrent 2]]
@@ -222,7 +217,7 @@ Wants rivals investigated
 - Parallels [[step_032 (phase_004)]]
 - Affected by [[spellcasting-focus-xphb (variant-rules)]]
 - Parallels [[Map Map Pressure Maelstrom Edge Pressure Maelstrom Edge.svg]]
-- Connects to [[step_001]]
+- Connects to
 - Originates from [[step_076 (phase_054)]]
 - Connects to [[step_065 (phase_043)]]
 - Originates from [[step_069 (phase_034)]]
@@ -232,9 +227,9 @@ Wants rivals investigated
 - Compare with [[horseshoes-of-a-zephyr-xdmg (items)]]
 - Requires [[the-six-abilities-ability-descriptions-xphb (tables)]]
 - Requires [[step_002 (phase_040)]]
-- See also: [[step_026]]
+- See also:
 - See also: [[X-001_Trench_to_Cloud_Transfer]]
-- Affected by [[step_066]]
+- Affected by
 - Requires [[step_074 (phase_042)]]
 - Related: [[Location City Harbor Pilot Guild Harbor Pilot Guild.svg]]
 - Related: [[02_Worldbuilding_Groups_Marine_Protection_Guil]]
@@ -258,7 +253,7 @@ Wants rivals investigated
 - Parallels [[The Void Refineries 2]]
 - Related: [[bursting-arrow-xge (optional-features)]]
 - Compare with [[step_081 (phase_080)]]
-- Parallels [[step_093]]
+- Parallels
 - Leads to [[ITEM00960_Concentrated_Herb_of_Clarity]]
 - Influences [[step_085 (phase_015)]]
 - Related: [[Novelist Current Stories (D&D_References)]]
@@ -274,7 +269,6 @@ Wants rivals investigated
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_physical.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_gm.png]]
 ![[04_Resources/maps/world_assets_portraits_portrait_npc_gareth_ironforge_gareth_ironforge_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

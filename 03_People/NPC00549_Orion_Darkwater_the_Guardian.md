@@ -18,7 +18,6 @@ aliases: [NPC00549 Orion Darkwater the Guardian]
 - [[#Baelor Grimholt the Swift (Criminal - Handler)|Baelor Grimholt the Swift (Criminal - Handler)]]
 - [[#Lyanna Voidwalker the Seeker (Personal - Love interest)|Lyanna Voidwalker the Seeker (Personal - Love interest)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Orion Darkwater the Guardian", "orion darkwater the guardian", "Orion Darkwater Guardian", "Guardian the Darkwater Orion"]
@@ -146,27 +145,23 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.176Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -174,11 +169,10 @@ Family member has gone missing
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -188,7 +182,7 @@ Family member has gone missing
 - Affected by [[NPC01374_Ewan_Nightfall_the_Broken]]
 - Leads to [[step_026 (phase_049)]]
 - Requires [[Quest - Harbor Expansion]]
-- Connects to [[step_053]]
+- Connects to
 - Influences [[larva-xmm (fiend)]]
 - Related: [[LOC00221_Towns_Location_222]]
 - Originates from [[NPC00623_Dara_Oakenshield_the_Wanderer]]
@@ -199,9 +193,9 @@ Family member has gone missing
 - Influences [[scholars-of-silverquill-silverquill-scholars-scc]]
 - Compare with [[Pressure Tubes]]
 - Connects to [[LORE00294_Legends_Entry_295]]
-- Requires [[step_033]]
-- See also: [[step_080]]
-- See also: [[step_015]]
+- Requires
+- See also:
+- See also:
 - Affected by [[Merger_Events_Pack_C]]
 - See also: [[step_097 (phase_018)]]
 - Parallels [[subtle-spell-xphb (optional-features)]]
@@ -251,9 +245,9 @@ Family member has gone missing
 - Parallels [[step_005 (phase_071)]]
 - Related: [[step_035 (phase_060)]]
 - Parallels [[ENC00028_Combat_Encounter_29]]
-- Compare with [[step_085]]
-- Leads to [[step_056]]
-- Parallels [[step_036]]
+- Compare with
+- Leads to
+- Parallels
 - Requires [[Red Dragon Scale Mail Xdmg]]
 - Connects to [[step_082 (phase_065)]]
 - See also: [[forgotten-realms-sune (deities)]]
@@ -287,7 +281,6 @@ Family member has gone missing
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

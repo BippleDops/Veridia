@@ -18,7 +18,6 @@ aliases: [NPC00900 Zephyr Ironwood the Lost]
 - [[#Aeliana Grimholt the Guardian (Family - Child)|Aeliana Grimholt the Guardian (Family - Child)]]
 - [[#Drusilla Grimholt the Seeker (Family - Parent)|Drusilla Grimholt the Seeker (Family - Parent)]]
 
-
 ---
 aliases: ["Zephyr Ironwood the Lost", "zephyr ironwood the lost", "Zephyr Ironwood Lost", "Lost the Ironwood Zephyr"]
 tags: [npc, character]
@@ -140,21 +139,17 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.216Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -167,13 +162,13 @@ Has map to lost treasure
 - Influences [[Weapons Trader Gareth Steelmerchant 2]]
 - Parallels [[Government_Officials_Guide]]
 - Related: [[ENC00233_Combat_Encounter_234]]
-- See also: [[step_071]]
+- See also:
 - Parallels [[Fate Weavers]]
 - Connects to [[Quest - Protect the Truth]]
 - Requires [[ITEM00458_Warded_Leather_of_Resistance]]
 - Compare with [[step_076 (phase_032)]]
 - Connects to [[SPELL00085_Divine_Spell_86]]
-- Related: [[step_086]]
+- Related:
 - Originates from [[02_Worldbuilding_Items_Elemental_Air_Filter]]
 - See also: [[scroll-of-titan-summoning-empyrean-xdmg (items)]]
 - Originates from [[step_037 (phase_079)]]
@@ -187,7 +182,7 @@ Has map to lost treasure
 - Parallels [[step_061 (phase_086)]]
 - Affected by [[EVENT00099_Political_Event_100]]
 - Related: [[Assets Vehicles Vehicle Ship Kelp Weave Patrol Boat V2 Kelp Weave Patrol Boat.svg]]
-- Parallels [[step_013]]
+- Parallels
 - Compare with [[The Sunken Observatory]]
 - Leads to [[Young Brass Dragon Xmm]]
 - Leads to [[step_035 (phase_051)]]
@@ -202,8 +197,8 @@ Has map to lost treasure
 - Affected by [[ITEM00035_Radiant_Hammer_of_Slaying]]
 - See also: [[Consequence Chain 4 - Deep Mother Awakening (D&D_References)]]
 - Requires [[Location City Artist Wave Creator V1 Artist Wave Creator.svg]]
-- Parallels [[step_007]]
-- Compare with [[step_001]]
+- Parallels
+- Compare with
 - Requires [[SHOP00028_Specialty_Shop_29]]
 - Influences [[step_091 (phase_016)]]
 - See also: [[Magical_Mishaps]]
@@ -219,9 +214,9 @@ Has map to lost treasure
 - Influences [[MON00161_Aberrations_Creature_162]]
 - Influences [[Nonhuman Skoraeus Stonebones]]
 - Leads to [[Flame Arrows Xge]]
-- Parallels [[step_053]]
+- Parallels
 - See also: [[Quest - Songs of Power]]
-- Parallels [[step_039]]
+- Parallels
 - Compare with [[Ambassador Elena Diplomatic (D&D_References)]]
 - Parallels [[Location City Surface Portal Alpha V1 Surface Portal Alpha.svg]]
 - Affected by [[Feed Per Day Xphb]]
@@ -263,7 +258,6 @@ Has map to lost treasure
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

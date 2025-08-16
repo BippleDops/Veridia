@@ -18,7 +18,6 @@ aliases: [NPC01884 Ysara Crystalbrook the Risen]
 - [[#Corvus Proudmore the Swift (Political - Spy)|Corvus Proudmore the Swift (Political - Spy)]]
 - [[#Drusilla Dawnstrider the Wanderer (Political - Ally)|Drusilla Dawnstrider the Wanderer (Political - Ally)]]
 
-
 ---
 aliases: ["Ysara Crystalbrook the Risen", "ysara crystalbrook the risen", "Ysara Crystalbrook Risen", "Risen the Crystalbrook Ysara"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Offers deal too good to refuse
 ---
 *Generated: 2025-08-15T03:51:03.320Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -188,26 +183,26 @@ Offers deal too good to refuse
 - Compare with [[LOC0077_NewPeak]]
 - Compare with [[step_056 (phase_039)]]
 - Related: [[step_091 (phase_094)]]
-- Connects to [[step_005]]
+- Connects to
 - Affected by [[LORE00071_History_Entry_72]]
 - Originates from [[ENC00120_Environmental_Encounter_121]]
-- Affected by [[step_081]]
+- Affected by
 - Affected by [[Merchant Family Tidewalker]]
 - Related: [[Assets Locations Location City Warrior Thane Visionward Warrior Thane Visionward.svg]]
-- Related: [[step_057]]
+- Related:
 - Parallels [[Portrait NPC Quest the Pressure Cure V2 Quest the Pressure Cure.svg]]
 - Leads to [[Quest - The Collective Consciousness]]
 - Influences [[cast-off-armor-xdmg (items)]]
 - Compare with [[Treaty of Seven Skies]]
 - Connects to [[Symbol Heraldry the Echo Succession V1 the Echo Succession.svg]]
 - Compare with [[The Seven Shards Mystery]]
-- Influences [[step_001]]
+- Influences
 - Affected by [[Hybrid Ecology]]
 - Affected by [[Paradox Elimination Squad]]
 - See also: [[star-spawn-grue-mpmm (aberration)]]
 - Connects to [[LORE00273_History_Entry_274]]
 - Connects to [[Information Broker Whisper Goldtongu]]
-- Influences [[step_001]]
+- Influences
 - Requires [[Assets Locations Location City Wise Tide Truthseeker Wise Tide Truthseeker.svg]]
 - Affected by [[step_049 (phase_098)]]
 - Influences [[step_059 (phase_072)]]
@@ -228,22 +223,22 @@ Offers deal too good to refuse
 - Related: [[NPC01785_Aldric_Brightblade_the_Redeemed]]
 - Influences [[Senator Morticia Graveheart]]
 - Influences [[step_025 (phase_100)]]
-- Requires [[step_039]]
+- Requires
 - Affected by [[step_011 (phase_045)]]
-- Leads to [[step_024]]
+- Leads to
 - Influences [[SPELL00010_Arcane_Spell_11]]
 - Affected by [[step_011 (phase_043)]]
-- Related: [[step_014]]
+- Related:
 - Affected by [[LORE00224_Prophecies_Entry_225]]
 - Originates from [[Shadow Academy Training Grounds (Academies)]]
-- Affected by [[step_095]]
+- Affected by
 - See also: [[QUEST00281_Personal_Quest_282]]
 - Connects to [[04_Resources_Assets_Locations_location-city-living-stone-v1-living-stone.svg]]
 - Related: [[NPC01686_Elric_Stormwind_the_Swift]]
 - Compare with [[International Trade Routes 2]]
 - Affected by [[SPELL00106_Divine_Spell_107]]
 - Leads to [[LOC00055_Cities_Location_56]]
-- Related: [[step_084]]
+- Related:
 - Influences [[Cora Peaceweaver]]
 - Influences [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)]]
 - See also: [[Senator Cornelius Depthwalker]]
@@ -274,7 +269,6 @@ Offers deal too good to refuse
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00200 Faelyn Winterborn the Guardian]
 - [[#Pyria Silverleaf the Risen (Personal - Ex-lover)|Pyria Silverleaf the Risen (Personal - Ex-lover)]]
 - [[#Qadim Keenblade (Professional - Employer)|Qadim Keenblade (Professional - Employer)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Faelyn Winterborn the Guardian", "faelyn winterborn the guardian", "Faelyn Winterborn Guardian", "Guardian the Winterborn Faelyn"]
@@ -142,16 +141,13 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.135Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -200,11 +196,10 @@ Needs discrete help with family scandal
 - [[Complete_NPC_Matrix.md]]
 - [[World_Primer.md]]
 - [[NPC00124_Delara_Ravenheart_the_Redeemed]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -214,16 +209,15 @@ Needs discrete help with family scandal
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Connects to [[The_Perfect_Symbiosis.png]]
-- Influences [[step_018]]
+- Influences
 - Requires [[Quest - The Shadow Constitution]]
 - Requires [[step_026 (phase_057)]]
 - Originates from [[MON00163_Aberrations_Creature_164]]
@@ -265,7 +259,7 @@ Needs discrete help with family scandal
 - Influences [[Portrait NPC Captain Navigator V1 Captain Navigator.svg]]
 - Compare with [[QUEST00040_Personal_Quest_41]]
 - Related: [[Mixed_Events_Pack_C]]
-- Related: [[step_065]]
+- Related:
 - Affected by [[step_061 (phase_036)]]
 - Parallels [[step_080 (phase_079)]]
 - See also: [[step_074 (phase_072)]]
@@ -284,7 +278,7 @@ Needs discrete help with family scandal
 - Affected by [[Chamber Purpose Dungeon Maze]]
 - Leads to [[ITEM01100_Concentrated_Powder_of_Clarity]]
 - Requires [[EVENT00089_Political_Event_90]]
-- Parallels [[step_081]]
+- Parallels
 - Influences [[NPC00955_Malakai_Hawthorne_the_Cunning]]
 - Affected by [[Portrait NPC High Priestess Nerida Deepcurrent V2 High Priestess Nerida Deepcurrent.svg]]
 - Related: [[Aetheric Wind Songs]]
@@ -327,7 +321,6 @@ Needs discrete help with family scandal
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

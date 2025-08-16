@@ -18,7 +18,6 @@ aliases: [NPC01846 Lyanna Brightblade the Scholar]
 - [[#Wynne Hawthorne the Broken (Personal - Nemesis)|Wynne Hawthorne the Broken (Personal - Nemesis)]]
 - [[#Baelor Dawnstrider the Fallen (Criminal - Informant)|Baelor Dawnstrider the Fallen (Criminal - Informant)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Lyanna Brightblade the Scholar", "lyanna brightblade the scholar", "Lyanna Brightblade Scholar", "Scholar the Brightblade Lyanna"]
@@ -157,25 +156,20 @@ Blackmails party into service
 ---
 *Generated: 2025-08-15T03:51:03.316Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -194,7 +188,7 @@ Following magic item guidelines (WWT p.135-136):
 - Mordenkainen's Forbidden Knowledge of Foes (MFK) p.141
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -204,21 +198,20 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Related: [[Assets Locations Location City His Eternal Majesty Keeper of the Throne of Bubbles V1 His Eternal Majesty Keeper of the Throne of Bubbles.svg]]
 - Parallels [[Thalassopolis Ruins]]
 - Connects to [[Drowned (Lore)]]
-- Originates from [[step_052]]
+- Originates from
 - Compare with [[Location City Anti Smuggling Operations V1 Anti Smuggling Operations.svg]]
 - Influences [[wizard-xphb-war-magic-xge (classes)]]
-- Originates from [[step_030]]
+- Originates from
 - Leads to [[The Weather Wardens Council]]
 - Related: [[Combat Medicine Laboratory 2]]
 - Compare with [[Master Artificer Korvin]]
@@ -229,7 +222,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Location City the Coral Palace Complex the Coral Palace Complex.svg]]
 - Affected by [[Geometric Tidepools]]
 - Related: [[Peryton Xmm]]
-- See also: [[step_001]]
+- See also:
 - Affected by [[Assets Portraits Portrait NPC Quest the Diplomatic Immunity Case Quest the Diplomatic Immunity Case.svg]]
 - Influences [[Cultural Integration Council (Organizations)]]
 - Leads to [[Prism_Soul]]
@@ -247,15 +240,15 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[step_086 (phase_028)]]
 - Connects to [[step_046 (phase_070)]]
 - Compare with [[Siege Tower Xdmg]]
-- Leads to [[step_001]]
+- Leads to
 - Parallels [[Lyre Xphb]]
 - Leads to [[Portrait NPC Tidal Priest Marina Deepcurrent V1 Tidal Priest Marina Deepcurrent.svg]]
 - Related: [[Map Map Floating Market Barges V1 Floating Market Barges.svg]]
 - Requires [[Marcus the Shade Blackwood]]
 - See also: [[step_081 (phase_070)]]
 - Originates from [[NPC00309_Lyanna_Xendar_the_Cunning]]
-- Related: [[step_009]]
-- Connects to [[step_098]]
+- Related:
+- Connects to
 - Leads to [[The Unity Seekers (D&D_References)]]
 - Influences [[Location City Church of the Tidal Throne Church of the Tidal Throne.svg]]
 - Affected by [[all-is-well-xdmg (tables)]]
@@ -275,12 +268,12 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[staff-of-defense-lmop (items)]]
 - Related: [[Potion of Psychic Resistance Xdmg]]
 - Affected by [[LOC00097_Towns_Location_98]]
-- See also: [[step_033]]
+- See also:
 - Parallels [[Aethermoor_Airships_Catalog]]
 - Parallels [[Gravenhollow Compass Ring Oota]]
 - Parallels [[04_Resources_Assets_Locations_location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice.svg]]
 - Connects to [[Location City Historical Analysis V1 Historical Analysis.svg]]
-- Parallels [[step_049]]
+- Parallels
 - Requires [[Depth Pressure Rings]]
 - See also: [[step_047 (phase_050)]]
 - Requires [[Location City Community Support Networks Community Support Networks.svg]]
@@ -288,7 +281,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Shadow Government Complex]]
 - See also: [[Artisan Glow-Finger Nerida (D&D_References)]]
 - Affected by [[step_089 (phase_006)]]
-- Originates from [[step_065]]
+- Originates from
 - Affected by [[The Consciousness Shard Discovery]]
 - Originates from [[Assets Locations Location City Veiled Hierophant Veiled Hierophant.svg]]
 - Related: [[list-spells-school-abjuration (lists)]]
@@ -296,8 +289,8 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[The Diplomatic Depths]]
 - Connects to [[ENC00095_Combat_Encounter_96]]
 - Originates from [[ITEM00876_Void-touched_Amulet_of_Dominion]]
-- Connects to [[step_007]]
-- Compare with [[step_029]]
+- Connects to
+- Compare with
 - Requires [[Complete_Temporal_Mechanics_System (D&D_References)]]
 - Related: [[portrait-npc-the-cure-v1-the-cure.svg]]
 - Influences [[Location City Portal Terminal Central Portal Terminal Central.png]]
@@ -317,7 +310,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

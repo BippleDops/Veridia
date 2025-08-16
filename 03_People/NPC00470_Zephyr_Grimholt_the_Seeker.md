@@ -18,7 +18,6 @@ aliases: [NPC00470 Zephyr Grimholt the Seeker]
 - [[#Solas Hawthorne the Scholar (Family - Spouse)|Solas Hawthorne the Scholar (Family - Spouse)]]
 - [[#Drusilla Dawnstrider the Scholar (Personal - Childhood friend)|Drusilla Dawnstrider the Scholar (Personal - Childhood friend)]]
 
-
 ---
 aliases: ["Zephyr Grimholt the Seeker", "zephyr grimholt the seeker", "Zephyr Grimholt Seeker", "Seeker the Grimholt Zephyr"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.166Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -189,13 +184,13 @@ Family member has gone missing
 - Affected by [[LOC00010_Cities_Location_11]]
 - Influences [[Aberrant Cults (Cults_and_Movements)]]
 - Affected by [[12_Research_D&D_Statblocks_Memory_Merchant_Zephyr_Mindweaver]]
-- Requires [[step_094]]
+- Requires
 - Leads to [[Quest - Foreign Interests_1 (01_Adventures)]]
 - Connects to [[step_073 (phase_092)]]
 - Requires [[Natural Weapons]]
 - Compare with [[List Spells Optional Features Thief of Five]]
 - Leads to [[beast-speech (optional-features)]]
-- Affected by [[step_009]]
+- Affected by
 - Originates from [[02-chapter-1-playing-the-game#Carrying Objects]]
 - Affected by [[arcanaloth-xmm (fiend)]]
 - Affected by [[LOC00093_Planes_Location_94]]
@@ -204,7 +199,7 @@ Family member has gone missing
 - Affected by [[README (Tokens)]]
 - Affected by [[step_056 (phase_042)]]
 - Influences [[step_055 (phase_046)]]
-- Requires [[step_009]]
+- Requires
 - Connects to [[Assets Locations Location City Nightmare Protection V1 Nightmare Protection.svg]]
 - Connects to [[Culture_Builder]]
 - Related: [[Symbol Heraldry Stellar Commander Nereus Voidcaller Stellar Commander Nereus Voidcaller.svg]]
@@ -267,7 +262,7 @@ Family member has gone missing
 - Parallels [[International Crystal Trade Associatio 2]]
 - Leads to [[Blood in the Water (D&D_References)]]
 - See also: [[step_042 (phase_081)]]
-- Leads to [[step_067]]
+- Leads to
 - Connects to [[Property Markets]]
 - Leads to [[SHOP00049_Magical_Shop_50]]
 - Originates from [[Assets Locations Location City Spy Games Spy Games.svg]]
@@ -276,7 +271,6 @@ Family member has gone missing
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [07 Chapter 6 Equipment]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 07 Chapter 6 Equipment
@@ -82,11 +81,9 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > The villain has agents watching this place
@@ -117,9 +114,7 @@ world: Both
 Connected to the main villain's plan
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -137,7 +132,7 @@ Following magic item guidelines (WWT p.135-136):
 - Bestiary Compendium (BC) p.220
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -147,7 +142,6 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Movement**: See ACX p.190-192
-
 
 ## D&D 5e References
 
@@ -194,7 +188,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Tide Turner's Trident]]
 - Originates from [[enfeebling-arrow-xge (optional-features)]]
 - Related: [[ENC00292_Combat_Encounter_293]]
-- Requires [[step_080]]
+- Requires
 - Originates from [[step_020 (phase_031)]]
 - Connects to [[The Void Seals]]
 - Compare with [[step_036 (phase_020)]]
@@ -204,7 +198,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Githyanki Raiding Parties Githyanki Purpose of Raid Mtf]]
 - Leads to [[Half Orc]]
 - Influences [[The Pearl Markets 2]]
-- Leads to [[step_072]]
+- Leads to
 - Connects to [[The Listening Posts]]
 - Influences [[Assets Locations Location City Crystal Powered Vessels Crystal Powered Vessels.svg]]
 - Compare with [[The First Zone Formation]]
@@ -217,8 +211,8 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[LOC00165_Wilderness_Location_166]]
 - Parallels [[QUEST00015_Main_Quest_16]]
 - Connects to [[Assets Locations Location City the Gilded Shard the Gilded Shard.svg]]
-- Requires [[step_007]]
-- Affected by [[step_087]]
+- Requires
+- Affected by
 - Affected by [[NPC00189_Corvus_Quicksilver]]
 - Originates from [[Historical Societies (D&D_References)]]
 - See also: [[Location City Surface Loyalist Safe Houses V1 Surface Loyalist Safe Houses.svg]]

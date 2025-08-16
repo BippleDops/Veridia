@@ -18,7 +18,6 @@ aliases: [Player Comfort Check]
 - [[#Related|Related]]
 - [[#DM Notes|DM Notes]]
 
-
 ---
 title: Player_Comfort_Check
 type: note
@@ -50,15 +49,15 @@ world: Both
 ### Basic Comfort Assessment
 
 ```
-Date: _______________  Session: ________________
+Date: _______________ Session: ________________
 
 Overall comfort level this session:
 
-★☆☆☆☆  Very uncomfortable
-★★☆☆☆  Somewhat uncomfortable
-★★★☆☆  Neutral/okay
-★★★★☆  Comfortable
-★★★★★  Very comfortable
+★☆☆☆☆ Very uncomfortable
+★★☆☆☆ Somewhat uncomfortable
+★★★☆☆ Neutral/okay
+★★★★☆ Comfortable
+★★★★★ Very comfortable
 
 If below 4 stars, please explain:
 __________________________________________
@@ -91,11 +90,11 @@ Would you like to discuss this privately with the GM?
 
 How comfortable did you feel speaking up during the session?
 
-★☆☆☆☆  Couldn't speak up at all
-★★☆☆☆  Rarely felt comfortable speaking
-★★★☆☆  Sometimes comfortable
-★★★★☆  Usually comfortable
-★★★★★  Always comfortable speaking
+★☆☆☆☆ Couldn't speak up at all
+★★☆☆☆ Rarely felt comfortable speaking
+★★★☆☆ Sometimes comfortable
+★★★★☆ Usually comfortable
+★★★★★ Always comfortable speaking
 
 Did anyone make you feel excluded or unwelcome?
 □ No, everyone was inclusive
@@ -191,7 +190,6 @@ Contextual improvement based on 07_Player_Resources
 
 Contextual improvement based on 07_Player_Resources
 
-
 > [!dm] DM Note
 > Ancient magic still lingers here
 
@@ -224,12 +222,10 @@ Contextual improvement based on 07_Player_Resources
 - [[NPC01348_Xander_Zephyrblade_the_Wise]]
 - [[Character_Journal_Template]]
 - [[Depth_Adapted_Background.md]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -273,11 +269,11 @@ Contextual improvement based on 07_Player_Resources
 - Requires [[Session 02 (Crystal_Plague)]]
 - Originates from [[Future Glimpse Glass]]
 - Parallels [[devastation-orb-of-earth-pota (items)]]
-- Affected by [[step_042]]
+- Affected by
 - Originates from [[NPC01185_Dara_Grimholt_the_Bold]]
 - Affected by [[Flow Circlemaker 2]]
-- Influences [[step_068]]
-- Compare with [[step_077]]
+- Influences
+- Compare with
 - Connects to [[LORE00310_History_Entry_311]]
 - Requires [[step_045 (phase_034)]]
 - Influences [[LOC0084_Hillwick]]
@@ -301,13 +297,13 @@ Contextual improvement based on 07_Player_Resources
 - Parallels [[LORE00286_History_Entry_287]]
 - See also: [[step_011 (phase_094)]]
 - Affected by [[ITEM00139_Frost_Axe_of_Slaying]]
-- Connects to [[step_072]]
+- Connects to
 - Parallels [[NPC 1 (D&D_References)]]
 - See also: [[Item Artifact Poisoners Kit Xphb V6 Poisoners Kit Xphb.png]]
 - Compare with [[LOC00211_Towns_Location_212]]
 - Compare with [[List Spells Classes College of Lore Xphb]]
 - Leads to [[Azer Sentinel Xmm]]
-- See also: [[step_075]]
+- See also:
 - Influences [[02_Worldbuilding_Spells_Memory_Mirror]]
 - Requires [[Shadow-Crystal Synthesis 2]]
 - Requires [[step_065 (phase_054)]]
@@ -331,12 +327,12 @@ Contextual improvement based on 07_Player_Resources
 - Parallels [[Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg]]
 - Requires [[item-artifact-ruby-xdmg-v5-ruby-xdmg.png]]
 - Related: [[SHOP00042_Specialty_Shop_43]]
-- Connects to [[step_059]]
+- Connects to
 - See also: [[NPC01891_Wynne_Xendar_the_Seeker]]
 - Leads to [[FAC00099_Cults_100]]
 - Affected by [[Deep Script]]
 - Parallels [[The Golden Loom]]
-- Influences [[step_041]]
+- Influences
 - Compare with [[Temporal Locks]]
 - See also: [[step_019 (phase_048)]]
 - Connects to [[Assets Locations Location City Goldspire Port Goldspire Port.svg]]

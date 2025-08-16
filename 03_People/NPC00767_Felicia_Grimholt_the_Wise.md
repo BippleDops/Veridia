@@ -18,7 +18,6 @@ aliases: [NPC00767 Felicia Grimholt the Wise]
 - [[#Brenna Oakenshield the Lost (Political - Ally)|Brenna Oakenshield the Lost (Political - Ally)]]
 - [[#Hilda Voidwalker the Bold (Professional - Employee)|Hilda Voidwalker the Bold (Professional - Employee)]]
 
-
 ---
 aliases: ["Felicia Grimholt the Wise", "felicia grimholt the wise", "Felicia Grimholt Wise", "Wise the Grimholt Felicia"]
 tags: [npc, character]
@@ -137,21 +136,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.200Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -162,7 +157,7 @@ Discovered something valuable
 - Originates from [[Location City the Crystal Caves the Crystal Caves.svg]]
 - Connects to [[Civil Rights Petition]]
 - Affected by [[Quest - Rescue Senator Glaucus]]
-- Influences [[step_055]]
+- Influences
 - Related: [[Human Names Norse Female Xge]]
 - Leads to [[Market Master Duskwate]]
 - Requires [[ITEM01183_Pure_Incense_of_Fortune]]
@@ -174,7 +169,7 @@ Discovered something valuable
 - Leads to [[LOC00218_Towns_Location_219]]
 - Originates from [[QUEST0034_Champion's_Request]]
 - Parallels [[Shadow Current (D&D_References)]]
-- See also: [[step_085]]
+- See also:
 - Related: [[studded-leather-armor-xphb (items)]]
 - Influences [[The Sorrow Current]]
 - Parallels [[step_019 (phase_089)]]
@@ -188,7 +183,7 @@ Discovered something valuable
 - Connects to [[step_100 (phase_077)]]
 - Originates from [[Net Xphb]]
 - Requires [[Assets Locations Location City Transformation Medicine Techniques Transformation Medicine Techniques.svg]]
-- Connects to [[step_046]]
+- Connects to
 - Compare with [[step_025 (phase_018)]]
 - Originates from [[SPELL00103_Arcane_Spell_104]]
 - Related: [[Crystal Engineer Reef Sparkwright (D&D_References)]]
@@ -230,20 +225,20 @@ Discovered something valuable
 - Affected by [[Prismatic Crystal (D&D_References)]]
 - Influences [[Pure Essence Crystals]]
 - Leads to [[list-spells-races-tiefling-levistus-mtf (lists)]]
-- Related: [[step_014]]
-- Leads to [[step_057]]
+- Related:
+- Leads to
 - Requires [[NPC00126_Caelum_Darkwater]]
 - Parallels [[NPC00350_Pyria_Brightblade]]
-- Requires [[step_038]]
+- Requires
 - Related: [[step_099 (phase_007)]]
 - Influences [[succubus-xmm (fiend)]]
 - See also: [[secondary-tables-arcane-matters-xge (tables)]]
-- Parallels [[step_038]]
+- Parallels
 - Compare with [[LOC00132_Dungeons_Location_133]]
 - Related: [[Economic Manipulation]]
 - Affected by [[Royal Protocol]]
 - Compare with [[Location City Aethermoor Capital Aethermoor Capital.svg]]
-- Leads to [[step_056]]
+- Leads to
 - Related: [[SHOP00033_General_Shop_34]]
 - Related: [[step_046 (phase_026)]]
 - Affected by [[Brown Mold Xdmg]]
@@ -260,7 +255,6 @@ Discovered something valuable
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

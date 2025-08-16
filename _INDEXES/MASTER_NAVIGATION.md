@@ -18,7 +18,6 @@ aliases: [MASTER NAVIGATION]
 - [[#⚙️ [[System]]|⚙️ [[System]]]]
 - [[#📦 [[Archive]]|📦 [[Archive]]]]
 
-
 -tags: [index, navigation, master, flattened, combat, magic, exploration, lore]ed]
 created: 2025-08-15
 ---
@@ -192,7 +191,6 @@ LIMIT 10
 ## Campaign Connection
 Has information about the party's enemies
 
-
 ## Recent NPCs
 ```dataview
 TABLE file.mtime as "Modified"
@@ -248,9 +246,7 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[MASTER_MOC]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -275,7 +271,6 @@ Following magic item guidelines (WWT p.135-136):
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## D&D 5e References
 
 *(Combat rules: ACX p.189-198)*
@@ -294,7 +289,7 @@ Following magic item guidelines (WWT p.135-136):
 ## Connections
 
 - Parallels [[Personal_Horror_Customization (D&D_References)]]
-- Affected by [[step_075]]
+- Affected by
 - Requires [[Amulet of Proof Against Detection and Location Xdmg]]
 - Related: [[ENC00302_Combat_Encounter_303]]
 - Originates from [[LOC00215_Dungeons_Location_216]]
@@ -303,7 +298,7 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[step_082 (phase_018)]]
 - See also: [[ENC00062_Social_Encounter_63]]
 - Leads to [[Leucrotta Mpmm]]
-- Connects to [[step_018]]
+- Connects to
 - Requires [[Location City Miranda Hopekeeper Miranda Hopekeeper.svg]]
 - Influences [[NPC0064_Yorick_Ironforge]]
 - Parallels [[Spell_Slots]]
@@ -337,10 +332,10 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[Audit Investigator Thomas Truthseeker (D&D_References)]]
 - Originates from [[Sphinx of Lore Xmm]]
 - Parallels [[#Membership]]
-- Parallels [[step_074]]
+- Parallels
 - Influences [[LORE00167_Prophecies_Entry_168]]
 - Parallels [[The Unity Crystal]]
-- Parallels [[step_040]]
+- Parallels
 - See also: [[step_090 (phase_033)]]
 - Influences [[Current Riders Union 2]]
 - Originates from [[Healer Tide-Touch]]
@@ -361,9 +356,9 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[life-events-by-age-xge (tables)]]
 - Influences [[Crystal Festival Grounds]]
 - Originates from [[Surface Portal Alpha]]
-- Connects to [[step_011]]
+- Connects to
 - Parallels [[SPELL00024_Arcane_Spell_25]]
-- Connects to [[step_008]]
+- Connects to
 - Influences [[Secular Community Practices]]
 - Requires [[Assets Locations Location City Innkeeper Mara Ironlung V1 Innkeeper Mara Ironlung.svg]]
 - Affected by [[The Memory Meadows Black Market (D&D_References)]]
@@ -373,7 +368,7 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[Location City Temple of the Deep Current Temple of the Deep Current.svg]]
 - Leads to [[Trade Union 2]]
 - Influences [[Portrait NPC Militant Priest Abyssal Militant Priest Abyssal.svg]]
-- Related: [[step_034]]
+- Related:
 - Parallels [[step_073 (phase_068)]]
 - Requires [[Jet Xdmg]]
 - Originates from [[NPC00085_Pyria_Xendar_the_Seeker]]
@@ -383,7 +378,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[giant-crocodile-xmm]]
 - Leads to [[Emergency Life Support Research Foundation 2]]
 - Affected by [[QUEST00071_Side_Quest_72]]
-- Connects to [[step_037]]
+- Connects to
 - Parallels [[List Spells Classes Arcane Trickster Xphb]]
 - Parallels [[step_005 (phase_022)]]
 - Affected by [[step_054 (phase_045)]]

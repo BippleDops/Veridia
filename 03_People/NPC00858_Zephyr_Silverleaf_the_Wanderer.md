@@ -18,7 +18,6 @@ aliases: [NPC00858 Zephyr Silverleaf the Wanderer]
 - [[#Gareth Blackstone the Broken (Criminal - Accomplice)|Gareth Blackstone the Broken (Criminal - Accomplice)]]
 - [[#Orion Ironforge the Risen (Family - Parent)|Orion Ironforge the Risen (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Zephyr Silverleaf the Wanderer", "zephyr silverleaf the wanderer", "Zephyr Silverleaf Wanderer", "Wanderer the Silverleaf Zephyrtags: [npc, character, combat, magic, social, exploration, lore]er]
@@ -144,16 +143,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.210Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -191,11 +187,10 @@ Modifications:
 - [[What You Know - Abyssos Prime.md]]
 - [[Faction_Guide.md_1 (07_Player_Resources)]]
 - [[NPC00437_Hilda_Stormwind_the_Mystic]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -206,11 +201,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -248,7 +242,7 @@ Modifications:
 - Influences [[QUEST00024_Side_Quest_25]]
 - Originates from [[location-city-express-racers-express-racers.svg]]
 - See also: [[QUEST0014_Champion's_Dilemma]]
-- Connects to [[step_032]]
+- Connects to
 - Parallels [[Assets Portraits Portrait NPC Warrior Priest Abyss Sworn V1 Warrior Priest Abyss Sworn.svg]]
 - See also: [[dragonlance-gilean-phb (deities)]]
 - See also: [[QUEST00011_Side_Quest_12]]
@@ -261,7 +255,7 @@ Modifications:
 - Compare with [[Institute_of_Adaptive_Sciences (02_Worldbuilding)]]
 - Related: [[step_027 (phase_069)]]
 - Affected by [[Brother Matthias the Amber Bearer (People)]]
-- See also: [[step_087]]
+- See also:
 - Compare with [[eberron-the-keeper (deities)]]
 - See also: [[Assets Locations [[Location City [[Elena Prismweaver]] V1 Elena Prismweaver.svg]]]]
 - Compare with [[Master Chef Umami Deepfeast]]
@@ -278,14 +272,14 @@ Modifications:
 - Influences [[ITEM00302_Shadow_Dagger_of_Wounding]]
 - Influences [[step_057 (phase_070)]]
 - Compare with [[Location City [[Crown of Eternal Ice]] V1 Crown of Eternal Ice.svg]]
-- Parallels [[step_070]]
+- Parallels
 - Influences [[step_014 (phase_088)]]
 - Connects to [[[[Aquabyssos]] Depth Caste System (D&D_References)]]
 - Related: [[step_003 (phase_069)]]
 - Requires [[07 Chapter 6 Equipment]]
 - See also: [[QUEST00107_Side_Quest_108]]
 - Influences [[Celestial Heights]]
-- Compare with [[step_079]]
+- Compare with
 - Connects to [[LORE00072_History_Entry_73]]
 - Related: [[step_051 (phase_042)]]
 - See also: [[The Grand Trade Routes (D&D_References)]]
@@ -312,14 +306,13 @@ Modifications:
 - Originates from [[relationships-starting-relationship-points-scc]]
 - Connects to [[Will O Wisp Xmm]]
 - Related: [[Portrait NPC Captain Sarah Oathbound V1 Captain Sarah Oathbound.svg]]
-- Connects to [[step_097]]
+- Connects to
 - Connects to [[step_066 (phase_082)]]
 
 ## Visual References
 ![[03_People/portrait_zephyr_goldwhisper_dramatic.png]]
 ![[03_People/portrait_zephyr_goldwhisper_standard.png]]
 ![[03_People/portrait_zephyr_goldwhisper_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

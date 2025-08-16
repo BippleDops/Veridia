@@ -18,13 +18,12 @@ aliases: [NPC0099 Tara Goldleaf]
 - [[#Relationships|Relationships]]
 - [[#Roleplaying|Roleplaying]]
 
-
 ---
 aliases: ["Tara Goldleaf", "tara goldleaf", "Goldleaf Tara"]
 tags: [, generated]
-  - npc
-  - character
-  - generated
+ - npc
+ - character
+ - generated
 type: npc
 ---
 
@@ -171,7 +170,7 @@ Investigation, Arcana, Stealth
 - Affected by [[step_032 (phase_043)]]
 - Affected by [[The Tidecaller (D&D_References)]]
 - See also: [[step_074 (phase_039)]]
-- Related: [[step_031]]
+- Related:
 - Connects to [[Chaplain Abyssos the Deepseeke]]
 - Connects to [[Reality Anchor Deployment]]
 - Affected by [[Location City Trade Regulations Trade Regulations.svg]]
@@ -194,9 +193,9 @@ Investigation, Arcana, Stealth
 - Leads to [[Arcana Uncommon Xdmg]]
 - See also: [[NPC00505_Dara_Ravenheart_the_Risen]]
 - Related: [[QUEST00181_Personal_Quest_182]]
-- Influences [[step_001]]
-- Influences [[step_053]]
-- Affected by [[step_058]]
+- Influences
+- Influences
+- Affected by
 - Related: [[ITEM00687_Enchanted_Leather_of_Grace]]
 - Related: [[ITEM00791_Time-worn_Scepter_of_the_Gods]]
 - Requires [[SPELL00093_Arcane_Spell_94]]
@@ -228,10 +227,10 @@ Investigation, Arcana, Stealth
 - Requires [[wall-of-stone-xphb (spells)]]
 - Influences [[NPC0127_Hilda_Darkwater]]
 - Requires [[step_051 (phase_020)]]
-- Originates from [[step_029]]
+- Originates from
 - Connects to [[Merchant Prince Vortex 2]]
 - Influences [[Assets Vehicles Vehicle Ship Harbor Guardian Gunboat Harbor Guardian Gunboat.svg]]
-- Influences [[step_075]]
+- Influences
 - See also: [[Assets Item Artifact Boots of Striding and Springing Xdmg V3 Boots of Striding and Springing Xdmg.png]]
 - See also: [[NPC01973_Faelyn_Keenblade_the_Scholar]]
 - Influences [[Thornwick Hall]]

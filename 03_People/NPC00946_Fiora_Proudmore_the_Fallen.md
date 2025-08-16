@@ -9,7 +9,6 @@ aliases: [NPC00946 Fiora Proudmore the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00946 Fiora Proudmore the Fallen]
 - [[#Gareth Zephyrblade the Bold (Criminal - Informant)|Gareth Zephyrblade the Bold (Criminal - Informant)]]
 - [[#Gavril Frostwhisper the Risen (Professional - Partner)|Gavril Frostwhisper the Risen (Professional - Partner)]]
 - [[#Hestara Silverleaf the Swift (Professional - Employee)|Hestara Silverleaf the Swift (Professional - Employee)]]
-
 
 ---
 created: 2025-08-15
@@ -146,27 +144,23 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.221Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -177,16 +171,15 @@ Seeks rare merchandise
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Related: [[The Azure Coast (D&D_References)]]
-- Originates from [[step_044]]
+- Originates from
 - See also: [[LOC00102_Dungeons_Location_103]]
 - Related: [[NPC00462_Fiora_Ironforge_the_Seeker]]
 - Requires [[step_006 (phase_069)]]
@@ -217,7 +210,7 @@ Seeks rare merchandise
 - Parallels [[ITEM00307_Shadow_Dagger_of_Speed]]
 - Parallels [[ENC00262_Social_Encounter_263]]
 - Requires [[Weather and Seasons]]
-- See also: [[step_005]]
+- See also:
 - Affected by [[Assets Portraits Portrait NPC Marcus the Shade Blackwood Marcus the Shade Blackwood.svg]]
 - Parallels [[Cult of the Endless Voi (Cults_and_Movements)]]
 - See also: [[LORE00295_Prophecies_Entry_296]]
@@ -265,7 +258,7 @@ Seeks rare merchandise
 - Leads to [[saber-toothed-tiger-xmm (beast)]]
 - Related: [[Location City Crystal Sentinels V1 Crystal Sentinels.svg]]
 - Connects to [[NPC00911_Aldric_Ironwood_the_Seeker]]
-- Originates from [[step_093]]
+- Originates from
 - See also: [[killer-whale-xmm]]
 - Affected by [[Clues_by_Location.png]]
 - Related: [[NPC00762_Felicia_Nightfall_the_Seeker]]
@@ -279,7 +272,7 @@ Seeks rare merchandise
 - Leads to [[List Spells Optional Features Gift of the Depths Xphb]]
 - Requires [[Ancient Gold Dragon Xmm]]
 - Leads to [[LORE00264_Legends_Entry_265]]
-- Requires [[step_083]]
+- Requires
 - Leads to [[NPC00366_Faelyn_Ashford_the_Mystic]]
 - Affected by [[Symbol Heraldry the Depth Wars V1 the Depth Wars.svg]]
 - See also: [[ITEM00660_Mithril_Leather_of_Protection]]

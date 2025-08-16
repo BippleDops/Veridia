@@ -18,7 +18,6 @@ aliases: [NPC00383 Elric Jadeclaw the Seeker]
 - [[#Nerys Darkwater the Strong (Criminal - Target)|Nerys Darkwater the Strong (Criminal - Target)]]
 - [[#Hestara Blackstone the Wanderer (Family - Cousin)|Hestara Blackstone the Wanderer (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Elric Jadeclaw the Seeker", "elric jadeclaw the seeker", "Elric Jadeclaw Seeker", "Seeker the Jadeclaw Elric"]
@@ -148,27 +147,23 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.156Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -178,11 +173,10 @@ Seeks bodyguards for dangerous journey
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -194,7 +188,7 @@ Seeks bodyguards for dangerous journey
 - Influences [[QUEST00413_Side_Quest_414]]
 - Requires [[04_Resources_Assets_Portraits_portrait-npc-memory-harvester-kythara-v2-memory-harvester-kythara.svg]]
 - See also: [[LORE00324_Prophecies_Entry_325]]
-- Related: [[step_041]]
+- Related:
 - Parallels [[armor-of-force-resistance-xdmg (items)]]
 - Leads to [[Bheur Hag Mpmm]]
 - Affected by [[Deep Current Academy]]
@@ -211,7 +205,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[LOC00125_Wilderness_Location_126]]
 - Affected by [[List Spells Classes Monster Slayer Xge]]
 - Requires [[LORE00187_Prophecies_Entry_188]]
-- Connects to [[step_100]]
+- Connects to
 - Leads to [[step_026 (phase_061)]]
 - Leads to [[The Reality Laboratory]]
 - Influences [[LOC00079_Towns_Location_80]]
@@ -225,8 +219,8 @@ Seeks bodyguards for dangerous journey
 - Parallels [[Urban Encounters Levels 1720 Xge]]
 - Affected by [[Quest - Liberation of The Deepmind]]
 - Affected by [[ITEM01070_Pure_Herb_of_Swiftness]]
-- Affected by [[step_040]]
-- Compare with [[step_021]]
+- Affected by
+- Compare with
 - Influences [[NPC01084_Xander_Silverleaf_the_Strong]]
 - See also: [[1-introduction (monster-manual-2014)]]
 - Requires [[LOC00277_Towns_Location_278]]
@@ -258,7 +252,7 @@ Seeks bodyguards for dangerous journey
 - Compare with [[Symbol Heraldry the Contemplation Abyss the Contemplation Abyss.svg]]
 - Originates from [[step_073 (phase_079)]]
 - Connects to [[NPC01390_Aeliana_Ironwood_the_Bold]]
-- Connects to [[step_019]]
+- Connects to
 - Compare with [[step_075 (phase_030)]]
 - Originates from [[Regional Coordinator Abyss Lightkeeper]]
 - Requires [[NPC00956_Erasmus_Proudmore_the_Wanderer]]
@@ -270,7 +264,7 @@ Seeks bodyguards for dangerous journey
 - See also: [[step_061 (phase_052)]]
 - Compare with [[LOC00019_Cities_Location_20]]
 - Parallels [[Enterprise Director Duskwork 2]]
-- Requires [[step_030]]
+- Requires
 - Requires [[QUEST00218_Personal_Quest_219]]
 - Affected by [[Magistrate Aldric Lawquill]]
 - Leads to [[step_032 (phase_015)]]
@@ -282,16 +276,15 @@ Seeks bodyguards for dangerous journey
 - Influences [[Session_Recaps]]
 - Related: [[The Sorrow Gardens]]
 - Connects to [[Location City Whisper Touched William Whisper Touched William.svg]]
-- Influences [[step_085]]
+- Influences
 - Leads to [[step_001 (phase_012)]]
 - Compare with [[step_013 (phase_095)]]
-- Related: [[step_032]]
+- Related:
 
 ## Visual References
 ![[03_People/portrait_assets_locations_location_city_professor_reef_growthseeker_professor_reef_growthseeker_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_dr_vera_spectrumseeker_v1_dr_vera_spectrumseeker_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

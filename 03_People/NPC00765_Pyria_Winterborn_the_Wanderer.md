@@ -18,7 +18,6 @@ aliases: [NPC00765 Pyria Winterborn the Wanderer]
 - [[#Qadim Darkwater the Strong (Professional - Rival)|Qadim Darkwater the Strong (Professional - Rival)]]
 - [[#Lyanna Ashford the Broken (Professional - Employee)|Lyanna Ashford the Broken (Professional - Employee)]]
 
-
 ---
 aliases: ["Pyria Winterborn the Wanderer", "pyria winterborn the wanderer", "Pyria Winterborn Wanderer", "Wanderer the Winterborn Pyria"]
 tags: [npc, character]
@@ -142,21 +141,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.200Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -187,14 +182,14 @@ Discovered something valuable
 - Requires [[step_079 (phase_099)]]
 - Connects to [[The Loop Breaker 2]]
 - Parallels [[QUEST0090_The_Ancient_Treasure]]
-- Leads to [[step_058]]
+- Leads to
 - Compare with [[step_067 (phase_086)]]
 - Requires [[Session 08 (The_Sunken_Conspiracy)]]
 - Related: [[03-races (players-handbook-2014)]]
 - Related: [[step_071 (phase_055)]]
 - Influences [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-v1-merchant-prince-aldric-goldcurrent.svg]]
 - Affected by [[Battle Map Descriptions_1]]
-- Originates from [[step_024]]
+- Originates from
 - Leads to [[The Hidden Constitution Archive 2]]
 - See also: [[ITEM00429_Enchanted_Leather_of_Fortitude]]
 - Originates from [[Political Intrigue Generator]]
@@ -207,12 +202,12 @@ Discovered something valuable
 - Compare with [[The Convergence Point 3 (D&D_References)]]
 - Affected by [[potters-tools-xphb (items)]]
 - Leads to [[NPC01150_Zephyr_Crystalbrook_the_Seeker]]
-- See also: [[step_056]]
+- See also:
 - Affected by [[random-hag-minions-servants-vgm (tables)]]
 - Originates from [[LOC0010_Havenshire]]
 - Parallels [[Bestiary - Aquabyssos Creature Compendium]]
 - Related: [[Assets Art the Conductor.png]]
-- Compare with [[step_084]]
+- Compare with
 - Connects to [[EVENT00097_Magical_Event_98]]
 - Originates from [[NPC0089_Jora_Goldleaf]]
 - Connects to [[step_052 (phase_065)]]
@@ -242,7 +237,7 @@ Discovered something valuable
 - Compare with [[step_009 (phase_089)]]
 - Parallels [[D-L-03_Deep_Mother_Dream_Tide_Player]]
 - See also: [[Assets Locations Location City Seal Keepers V1 Seal Keepers.svg]]
-- Connects to [[step_007]]
+- Connects to
 - Influences [[SPELL00039_Divine_Spell_40]]
 - Requires [[The Crystal Gardens 2]]
 - Related: [[Portrait NPC Pirate Captain Blacktide Pirate Captain Blacktide.svg]]
@@ -259,13 +254,12 @@ Discovered something valuable
 - See also: [[ITEM00539_Adamantine_Chain_Mail_of_Grace]]
 - Requires [[Labor Organization (Operations)]]
 - See also: [[Assets Locations Location City Navigator Flux Timewalker V1 Navigator Flux Timewalker.svg]]
-- See also: [[step_041]]
+- See also:
 
 ## Visual References
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

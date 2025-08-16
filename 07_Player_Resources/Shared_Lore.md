@@ -18,7 +18,6 @@ aliases: [Shared Lore]
 - [[#Connections|Connections]]
 - [[#Visual References|Visual References]]
 
-
 -tags: [generated, linked, combat]ed]
 created: 2025-08-15T12:34:11.169015
 ---
@@ -87,8 +86,7 @@ created: 2025-08-15T12:34:11.169015
 - [[16 Credits]]
 - [[11 Rules Glossary]]
 - [[MOC_Items]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -100,7 +98,6 @@ created: 2025-08-15T12:34:11.169015
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -116,11 +113,11 @@ created: 2025-08-15T12:34:11.169015
 
 ## Connections
 
-- See also: [[step_061]]
+- See also:
 - Parallels [[water-whip (optional-features)]]
 - Parallels [[ITEM01114_Concentrated_Powder_of_Fortune]]
 - Influences [[Location City Thomas Deepanchor Thomas Deepanchor.svg]]
-- Influences [[step_085]]
+- Influences
 - Related: [[step_087 (phase_031)]]
 - Affected by [[Giant Ape Xmm]]
 - Influences [[death-knight-xmm (undead)]]
@@ -133,12 +130,12 @@ created: 2025-08-15T12:34:11.169015
 - Connects to [[Portrait NPC Tribune Cassia Deepcurrent Tribune Cassia Deepcurrent.svg]]
 - Leads to [[ITEM01036_Concentrated_Powder_of_Clarity]]
 - Originates from [[Campaign_Era_Timeline]]
-- See also: [[step_018]]
+- See also:
 - Compare with [[LOC00071_Towns_Location_72]]
 - Influences [[Portrait NPC Captain Thorne Darkwater V1 Captain Thorne Darkwater.svg]]
 - Parallels [[Portrait NPC the King S Ears V1 the King S Ears.svg_1 (Portraits)]]
 - See also: [[Fiendish Spirit Devil Xphb]]
-- Originates from [[step_060]]
+- Originates from
 - Connects to [[Crystal Cascade Events]]
 - Related: [[Portrait NPC Shadow Duchess Nyx Shadow Duchess Nyx.svg_1 (Portraits)]]
 - Related: [[Handout Handout Aged Treasure Map V1 Aged Treasure Map.png]]
@@ -180,11 +177,11 @@ created: 2025-08-15T12:34:11.169015
 - Leads to [[Arctic Encounters Levels 1116 Xge]]
 - Leads to [[LORE00234_Legends_Entry_235]]
 - Related: [[Compass Quest 2]]
-- Requires [[step_001]]
+- Requires
 - Requires [[step_088 (phase_023)]]
 - Requires [[FAC00036_Guilds_37]]
-- Influences [[step_043]]
-- Connects to [[step_052]]
+- Influences
+- Connects to
 - Affected by [[The Reef Communities 2]]
 - Requires [[Technology Time Stream Analyzers]]
 - Parallels [[step_020 (phase_063)]]
@@ -206,13 +203,13 @@ created: 2025-08-15T12:34:11.169015
 - Requires [[02_Worldbuilding_People_Archmaster_Lyralei]]
 - Connects to [[Voluntary Taxation (D&D_References)]]
 - Parallels [[Working Class Routines 2]]
-- Leads to [[step_084]]
+- Leads to
 - Connects to [[step_085 (phase_086)]]
 - See also: [[Rot Grub Vgm]]
 - Parallels [[Convergence Point]]
 - Affected by [[step_023 (phase_041)]]
-- Connects to [[step_021]]
-- See also: [[step_040]]
+- Connects to
+- See also:
 - Originates from [[step_005 (phase_063)]]
 - Affected by [[step_002 (phase_077)]]
 - Affected by [[interception-xphb (feats)]]

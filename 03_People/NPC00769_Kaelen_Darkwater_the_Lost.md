@@ -18,7 +18,6 @@ aliases: [NPC00769 Kaelen Darkwater the Lost]
 - [[#Alaric Lightbringer the Wise (Professional - Employer)|Alaric Lightbringer the Wise (Professional - Employer)]]
 - [[#Elric Youngblood the Guardian (Family - Sibling)|Elric Youngblood the Guardian (Family - Sibling)]]
 
-
 ---
 aliases: ["Kaelen Darkwater the Lost", "kaelen darkwater the lost", "Kaelen Darkwater Lost", "Lost the Darkwater Kaelen"]
 tags: [npc, character]
@@ -141,21 +140,17 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.200Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -183,7 +178,7 @@ Witnessed a crime
 - Affected by [[step_089 (phase_039)]]
 - Related: [[location-city-whisper-island-whisper-island.svg]]
 - Compare with [[Location_Template]]
-- Parallels [[step_052]]
+- Parallels
 - Related: [[The Lighthouse of Storms 2]]
 - See also: [[Field Operations Chief Marcus Ironheart (D&D_References)]]
 - Parallels [[01 Chapter 1 Prisoners of the Drow]]
@@ -199,7 +194,7 @@ Witnessed a crime
 - Related: [[Military Intelligence]]
 - Originates from [[step_030 (phase_020)]]
 - Requires [[otherworldly-leap-xphb (optional-features)]]
-- Related: [[step_089]]
+- Related:
 - Affected by [[Assets Locations Location City Marina Clearwater V1 Marina Clearwater.svg]]
 - Parallels [[step_032 (phase_026)]]
 - Requires [[step_037 (phase_094)]]
@@ -210,7 +205,7 @@ Witnessed a crime
 - Affected by [[Privacy Protection Agency]]
 - Parallels [[Shovel Xphb]]
 - See also: [[standard-languages-phb (tables)]]
-- Originates from [[step_001]]
+- Originates from
 - Related: [[LOC00084_Wilderness_Location_85]]
 - Compare with [[Exhaustion (D&D_References)]]
 - Connects to [[Assets Handouts Handout Handout Docking Permit Docking Permit.png]]
@@ -244,7 +239,7 @@ Witnessed a crime
 - Connects to [[SPELL00080_Nature_Spell_81]]
 - Requires [[SPELL00028_Divine_Spell_29]]
 - See also: [[Marina Tidecrest]]
-- Connects to [[step_075]]
+- Connects to
 - Requires [[Aquabyssos World Overview#The Preservation Current]]
 - Requires [[Whispers & Memories Emporium]]
 - Requires [[Spell Gem Quartz Oota]]
@@ -264,7 +259,6 @@ Witnessed a crime
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

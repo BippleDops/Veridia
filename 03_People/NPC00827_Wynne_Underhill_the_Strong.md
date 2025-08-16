@@ -18,7 +18,6 @@ aliases: [NPC00827 Wynne Underhill the Strong]
 - [[#Dara Jadeclaw the Seeker (Political - Patron)|Dara Jadeclaw the Seeker (Political - Patron)]]
 - [[#Felicia Silverleaf the Swift (Family - Child)|Felicia Silverleaf the Swift (Family - Child)]]
 
-
 ---
 aliases: ["Wynne Underhill the Strong", "wynne underhill the strong", "Wynne Underhill Strong", "Strong the Underhill Wynne"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.206Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -193,7 +188,7 @@ Competitor sabotaging business
 - Parallels [[ITEM00120_Cursed_Hammer_of_the_Ancients]]
 - Compare with [[step_005 (phase_017)]]
 - Originates from [[monsters-by-habitat-desert-monsters-xmm (tables)]]
-- See also: [[step_004]]
+- See also:
 - Requires [[step_041 (phase_021)]]
 - Originates from [[ear-horn-of-hearing-xdmg (items)]]
 - Leads to [[Location City Wandering Prophet Coral Stormrider Wandering Prophet Coral Stormrider.svg]]
@@ -254,7 +249,7 @@ Competitor sabotaging business
 - Influences [[Architect Coral Builder]]
 - Originates from [[ioun-stone-awareness-xdmg (items)]]
 - Compare with [[Red Slaad Xmm]]
-- Influences [[step_072]]
+- Influences
 - Leads to [[step_078 (phase_050)]]
 - Originates from [[Halfling Tables Halfling Personality Traits]]
 - Compare with [[ENC00261_Social_Encounter_262]]
@@ -264,16 +259,15 @@ Competitor sabotaging business
 - Originates from [[ITEM01222_Distilled_Elixir_of_Healing]]
 - Influences [[Deep-Sea Rescue Operations]]
 - Compare with [[Gm Session Packets Aquabyssos Session 01]]
-- Originates from [[step_026]]
+- Originates from
 - See also: [[LORE00319_Legends_Entry_320]]
 - Requires [[The Recursion Cult 2]]
-- Related: [[step_071]]
+- Related:
 
 ## Visual References
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00623 Dara Oakenshield the Wanderer]
 - [[#Dara Blackstone the Risen (Personal - Ex-lover)|Dara Blackstone the Risen (Personal - Ex-lover)]]
 - [[#Corvus Darkwater the Wise (Political - Patron)|Corvus Darkwater the Wise (Political - Patron)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Dara Oakenshield the Wanderer", "dara oakenshield the wanderer", "Dara Oakenshield Wanderer", "Wanderer the Oakenshield Daratags: [npc, character, combat, magic, exploration, lore]er]
@@ -147,16 +146,13 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.184Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -198,11 +194,10 @@ Modifications:
 - [[03 Races]]
 - [[16 Credits]]
 - [[10 Combat]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -211,11 +206,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -225,10 +219,10 @@ Modifications:
 - See also: [[Assets Handouts Handout Handout [[Merchant]] Contract with Fine Print V2 Merchant Contract with Fine Print.png]]
 - Influences [[Ancient Imperial Cities]]
 - Affected by [[Harbor Master's License]]
-- Connects to [[step_070]]
+- Connects to
 - Related: [[Spellcasting Services Xphb]]
 - Originates from [[downtime-activity-recuperating-phb (variant-rules)]]
-- Leads to [[step_071]]
+- Leads to
 - Leads to [[balhannoth-mpmm (aberration)]]
 - Parallels [[The Depth Mysteries Cult]]
 - See also: [[step_020 (phase_065)]]
@@ -241,7 +235,7 @@ Modifications:
 - Originates from [[The Depth Councils]]
 - Related: [[Armor of Fire Resistance Xdmg]]
 - Originates from [[step_090 (phase_027)]]
-- Originates from [[step_015]]
+- Originates from
 - Related: [[ENC00153_Combat_Encounter_154]]
 - Related: [[step_041 (phase_057)]]
 - Requires [[gith-tables-githyanki-flaws-mtf (tables)]]
@@ -288,7 +282,7 @@ Modifications:
 - Connects to [[Barbarian Xphb]]
 - Connects to [[Temporal Anomaly Resolution 2]]
 - Connects to [[The Deepwater Current]]
-- Influences [[step_022]]
+- Influences
 - Compare with [[[[Illyana Glowstream]] 2]]
 - Leads to [[step_044 (phase_062)]]
 - Compare with [[defense-xphb (feats)]]
@@ -298,7 +292,7 @@ Modifications:
 - Originates from [[Senator Nereon Tidecaller]]
 - Influences [[Assets Locations Location City [[The Cleaner]] the Cleaner.svg]]
 - Influences [[Elemental Gem Yellow Diamond Xdmg]]
-- Influences [[step_076]]
+- Influences
 - Originates from [[step_056 (phase_037)]]
 - See also: [[step_001 (phase_051)]]
 - Affected by [[Mage Armor Xphb]]
@@ -308,7 +302,7 @@ Modifications:
 - Originates from [[step_045 (phase_094)]]
 - Leads to [[Location City [[Elena Prismweaver]] V1 Elena Prismweaver.svg]]
 - Related: [[step_081 (phase_007)]]
-- Compare with [[step_078]]
+- Compare with
 - Leads to [[Rational Philosophy Framework]]
 - Leads to [[Assets Locations [[Location City Senator S Widow Marcella V1 Senator S Widow Marcella.svg]]]]
 - Related: [[The Time Anchor]]
@@ -324,7 +318,6 @@ Modifications:
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

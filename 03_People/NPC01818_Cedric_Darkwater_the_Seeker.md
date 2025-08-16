@@ -18,7 +18,6 @@ aliases: [NPC01818 Cedric Darkwater the Seeker]
 - [[#Vesper Ravenheart the Scholar (Professional - Partner)|Vesper Ravenheart the Scholar (Professional - Partner)]]
 - [[#Hestara Zephyrblade the Guardian (Professional - Partner)|Hestara Zephyrblade the Guardian (Professional - Partner)]]
 
-
 ---
 aliases: ["Cedric Darkwater the Seeker", "cedric darkwater the seeker", "Cedric Darkwater Seeker", "Seeker the Darkwater Cedric"]
 tags: [npc, character]
@@ -155,21 +154,17 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.313Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -181,13 +176,13 @@ Is secretly testing the party
 - Compare with [[step_026 (phase_029)]]
 - Originates from [[Geryon Mtf]]
 - Related: [[Princess Nyx Shadowmere]]
-- Requires [[step_049]]
-- Leads to [[step_079]]
+- Requires
+- Leads to
 - Related: [[Historical Research]]
 - Requires [[ettercap-xmm (monstrosity)]]
 - Compare with [[SPELL00032_Nature_Spell_33]]
 - Related: [[Norse Forseti]]
-- Leads to [[step_095]]
+- Leads to
 - Connects to [[Underground Testing Facility (D&D_References)]]
 - Originates from [[Silver Sword Mtf]]
 - Influences [[treasure-orc-trophies-vgm (tables)]]
@@ -207,7 +202,7 @@ Is secretly testing the party
 - Parallels [[step_089 (phase_024)]]
 - Affected by [[ITEM01096_Refined_Oil_of_Vigor]]
 - Originates from [[LOC00094_Cities_Location_95]]
-- Connects to [[step_017]]
+- Connects to
 - Requires [[Club Xphb]]
 - Parallels [[step_071 (phase_084)]]
 - See also: [[Scroll of Protection Oozes Xdmg]]
@@ -218,11 +213,11 @@ Is secretly testing the party
 - See also: [[QUEST00209_Personal_Quest_210]]
 - Related: [[War Machine Assembly Halls]]
 - Requires [[Assets Locations Location City Acolyte Sister Tidal Deepfaith Acolyte Sister Tidal Deepfaith.svg]]
-- Leads to [[step_045]]
+- Leads to
 - Related: [[NPC0033_Helena_Stormwind_the_Strong]]
 - See also: [[dart-xphb (items)]]
 - Requires [[AUTOMATION_STATUS]]
-- Requires [[step_086]]
+- Requires
 - Connects to [[NPC01789_Vesper_Proudmore_the_Mystic]]
 - Influences [[Vex Shadowthorn]]
 - Affected by [[ITEM00253_Blazing_Axe_of_Slaying]]
@@ -231,13 +226,13 @@ Is secretly testing the party
 - Requires [[step_057 (phase_022)]]
 - Compare with [[Find Traps Xphb]]
 - Affected by [[step_095 (phase_011)]]
-- Influences [[step_041]]
-- Affected by [[step_077]]
+- Influences
+- Affected by
 - Requires [[LOC0006_Marshton]]
 - Influences [[High Tide Keeper Nautilus Primordial 2]]
 - Originates from [[Dawn War Pelor Dmg]]
 - See also: [[armor-of-vulnerability-xdmg (items)]]
-- See also: [[step_001]]
+- See also:
 - Originates from [[step_022 (phase_029)]]
 - Leads to [[Figurine of Wondrous Power Onyx Dog Xdmg]]
 - Leads to [[individual-treasure-challenge-17 (tables)]]
@@ -278,7 +273,6 @@ Is secretly testing the party
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

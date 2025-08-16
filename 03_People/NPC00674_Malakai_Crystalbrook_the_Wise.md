@@ -18,7 +18,6 @@ aliases: [NPC00674 Malakai Crystalbrook the Wise]
 - [[#Jorah Thornweave the Lost (Personal - Childhood friend)|Jorah Thornweave the Lost (Personal - Childhood friend)]]
 - [[#Rhiannon Quicksilver the Lost (Professional - Mentor)|Rhiannon Quicksilver the Lost (Professional - Mentor)]]
 
-
 ---
 aliases: ["Malakai Crystalbrook the Wise", "malakai crystalbrook the wise", "Malakai Crystalbrook Wise", "Wise the Crystalbrook Malakai"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.190Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -187,8 +182,8 @@ Discovered something valuable
 - Affected by [[Assets Locations Location City Foreign Affairs Foreign Affairs.svg]]
 - Originates from [[Consequence Chain 2 - Crystal Trade Disruption 3 (D&D_References)]]
 - Connects to [[Handout Handout Aged Treasure Map V1 Aged Treasure Map.png]]
-- Connects to [[step_033]]
-- Affected by [[step_041]]
+- Connects to
+- Affected by
 - Compare with [[step_096 (phase_043)]]
 - Parallels [[NPC01478_Solas_Voidwalker_the_Strong]]
 - Influences [[Prophetic Circle]]
@@ -200,7 +195,7 @@ Discovered something valuable
 - See also: [[LOC00181_Planes_Location_182]]
 - Requires [[step_079 (phase_056)]]
 - See also: [[LOC00033_Wilderness_Location_34]]
-- Related: [[step_081]]
+- Related:
 - Related: [[Portrait NPC Quest the Tide War V2 Quest the Tide War.svg]]
 - Related: [[step_040 (phase_023)]]
 - Related: [[step_018 (phase_095)]]
@@ -227,7 +222,7 @@ Discovered something valuable
 - Originates from [[Vehicle Ship Depth Piercer Research Sub Depth Piercer Research Sub.svg]]
 - Related: [[stirge-xmm (monstrosity)]]
 - Connects to [[step_008 (phase_050)]]
-- Requires [[step_007]]
+- Requires
 - Influences [[Portrait NPC Queen Morwyn Lumengarde Queen Morwyn Lumengarde.svg]]
 - Compare with [[ENC00155_Combat_Encounter_156]]
 - Affected by [[Assets Locations Location City Poseidon V1 Poseidon.svg]]
@@ -248,11 +243,11 @@ Discovered something valuable
 - Originates from [[step_096 (phase_077)]]
 - Compare with [[NPC01216_Elric_Darkwater_the_Lost]]
 - Parallels [[EVENT00003_Natural_Event_4]]
-- See also: [[step_082]]
+- See also:
 - Requires [[step_026 (phase_100)]]
 - See also: [[step_008 (phase_044)]]
 - Related: [[Princess Celestine Lumengarde]]
-- Parallels [[step_017]]
+- Parallels
 - Affected by [[Monster Relationships Xge]]
 - Influences [[Assets Locations Location City Wealthy Goldcurrent Wealthy Goldcurrent.svg]]
 - See also: [[Bio-Integration Researcher Coral Lifeshaper (D&D_References)]]
@@ -262,13 +257,13 @@ Discovered something valuable
 - Influences [[Underground Smuggling Networks 2]]
 - Originates from [[Jasper Three-Eyes Flint (People)]]
 - See also: [[NPC01938_Caelum_Underhill_the_Lost]]
-- Parallels [[step_099]]
+- Parallels
 - Parallels [[QUEST00373_Side_Quest_374]]
 - See also: [[Assets Locations Location City Void Touched Pilgrims Void Touched Pilgrims.svg]]
 - Requires [[step_075 (phase_019)]]
 - Connects to [[Entities Abstract Cosmic Forces]]
 - Requires [[Assets Locations Location City Toxin Specialist Venom Reef Toxin Specialist Venom Reef.svg]]
-- Influences [[step_032]]
+- Influences
 - Leads to [[step_087 (phase_084)]]
 - Compare with [[Random Encounters]]
 - Influences [[The Whisper Core]]
@@ -277,7 +272,6 @@ Discovered something valuable
 ![[03_People/portrait_assets_locations_location_city_harbor_master_captain_dockwise_harbor_master_captain_dockwise_svg_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_emperor_thalassius_the_wise.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

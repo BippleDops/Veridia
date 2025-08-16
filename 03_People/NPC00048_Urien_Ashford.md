@@ -9,7 +9,6 @@ aliases: [NPC00048 Urien Ashford]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00048 Urien Ashford]
 - [[#Erasmus Dawnstrider (Personal - Ex-lover)|Erasmus Dawnstrider (Personal - Ex-lover)]]
 - [[#Gareth Ashford (Personal - Childhood friend)|Gareth Ashford (Personal - Childhood friend)]]
 - [[#Jorah Stormwind (Criminal - Informant)|Jorah Stormwind (Criminal - Informant)]]
-
 
 ---
 aliases: ["Urien Ashford", "urien ashford", "Ashford Urien"]
@@ -145,25 +143,21 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.116Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Originates from [[step_014]]
+- Originates from
 - Originates from [[VAULT_OPTIMIZATION_COMPLETE]]
 - Requires [[step_087 (phase_036)]]
 - Related: [[step_014 (phase_063)]]
@@ -180,7 +174,7 @@ Wants rivals investigated
 - Leads to [[The Infinite Spiral (D&D_References)]]
 - Connects to [[D_019_Oracle_Whale]]
 - Affected by [[Simultaneous Effects Xphb]]
-- Originates from [[step_098]]
+- Originates from
 - Originates from [[ITEM01242_Greater_Potion_of_Vigor]]
 - Leads to [[step_018 (phase_036)]]
 - Leads to [[Portrait NPC Queen Lyralei Stormheart V2 Queen Lyralei Stormheart.svg_1 (Portraits)]]
@@ -199,32 +193,32 @@ Wants rivals investigated
 - Requires [[QUEST00234_Side_Quest_235]]
 - Influences [[Void Sanctum (D&D_References)]]
 - Compare with [[NPC01172_Corvus_Ashford_the_Cunning]]
-- Affected by [[step_065]]
+- Affected by
 - Compare with [[Enervation Xge]]
 - Originates from [[ENC00092_Environmental_Encounter_93]]
 - Influences [[step_078 (phase_075)]]
 - Connects to [[LORE00198_Legends_Entry_199]]
 - Compare with [[Wand of Viscid Globs Oota]]
 - Leads to [[SPELL00111_Arcane_Spell_112]]
-- Originates from [[step_075]]
+- Originates from
 - Compare with [[step_080 (phase_045)]]
 - Related: [[step_004 (phase_038)]]
-- See also: [[step_041]]
+- See also:
 - Influences [[Sylvan Talon Xdmg]]
 - Parallels [[censer-of-controlling-air-elementals-xdmg (items)]]
 - Compare with [[boon-of-luck (rewards)]]
 - Compare with [[Portrait NPC Ethics Coordinator Elena Compassion Ethics Coordinator Elena Compassion.svg]]
 - Connects to [[mordenkainens-magnificent-mansion-xphb (spells)]]
-- Related: [[step_089]]
+- Related:
 - Related: [[step_076 (phase_074)]]
 - Leads to [[The Shadow Surgeons]]
 - Originates from [[human-names-chinese-male-xge (tables)]]
-- Leads to [[step_058]]
+- Leads to
 - Influences [[step_077 (phase_049)]]
 - Influences [[Military Commander]]
 - Related: [[step_025 (phase_039)]]
 - Leads to [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg_Quick_Ref]]
-- Affected by [[step_089]]
+- Affected by
 - Influences [[Confront the Possessed Queen (Lore)]]
 - Parallels [[step_014 (phase_045)]]
 - Originates from [[Assets Locations Location City Seal Keepers V1 Seal Keepers.svg]]
@@ -232,7 +226,7 @@ Wants rivals investigated
 - Related: [[Master Koralit]]
 - Influences [[giant-toad-xmm]]
 - Leads to [[LORE00284_History_Entry_285]]
-- Requires [[step_068]]
+- Requires
 - Requires [[LOC00191_Towns_Location_192]]
 - Related: [[Ancient Treasury of Tides (D&D_References)]]
 - Parallels [[boon-of-recovery-xphb (feats)]]

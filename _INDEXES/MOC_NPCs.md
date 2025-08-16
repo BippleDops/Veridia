@@ -18,7 +18,6 @@ aliases: [MOC NPCs]
 - [[#Thematic Connections|Thematic Connections]]
 - [[#D&D 5e References|D&D 5e References]]
 
-
 -tags: [moc, index, combat]ex]
 created: 2025-08-15
 ---
@@ -32,8 +31,6 @@ created: 2025-08-15
 
 ## Content
 *Building index...*
-
-
 
 ## Recent NPCs
 ```dataview
@@ -101,17 +98,15 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - [[NPC01041_Thalia_Dawnstrider_the_Lost]]
 - [[MOC_Quests]]
 - [[README]]
-- [[Related_Content]]
-
+-
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -192,8 +187,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - See also: [[SPELL00075_Nature_Spell_76]]
 - Parallels [[Crystal Wardens Order]]
 - Related: [[SPELL0042_Eldritch_Wave]]
-- Leads to [[step_044]]
-- Related: [[step_089]]
+- Leads to
+- Related:
 - Originates from [[Interfaith Community Centers]]
 - Parallels [[step_083 (phase_032)]]
 - Connects to [[The Sunken Cathedral of Perfect Order (D&D_References)]]
@@ -213,8 +208,8 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 - Compare with [[Ring of Three Wishes Xdmg]]
 - Connects to [[step_049 (phase_085)]]
 - Requires [[ITEM01231_Refined_Potion_of_Healing]]
-- Parallels [[step_061]]
-- Parallels [[step_099]]
+- Parallels
+- Parallels
 - Compare with [[LORE00251_Legends_Entry_252]]
 - Leads to [[step_086 (phase_098)]]
 - Affected by [[Sentient Magic Item Senses]]
@@ -229,7 +224,6 @@ WHERE contains(file.name, "Location") OR contains(tags, "location")
 ![[03_People/portrait_important_npcs_standard.png]]
 ![[03_People/portrait_character_relationship_web_core_npcs.png]]
 ![[03_People/portrait_important_npcs_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00054 Drusilla Blackstone the Swift]
 - [[#Aldric Lightbringer (Family - Sibling)|Aldric Lightbringer (Family - Sibling)]]
 - [[#Pyria Grimholt the Bold (Personal - Ex-lover)|Pyria Grimholt the Bold (Personal - Ex-lover)]]
 
-
 ---
 aliases: ["Drusilla Blackstone the Swift", "drusilla blackstone the swift", "Drusilla Blackstone Swift", "Swift the Blackstone Drusilla"]
 tags: [npc, character]
@@ -139,21 +138,17 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.117Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -186,9 +181,9 @@ Seeks bodyguards for dangerous journey
 - Requires [[ITEM00710_Divine_Tome_of_Destiny]]
 - Connects to [[Vehicle Ship Cloud Anchor Freighter V2 Cloud Anchor Freighter.svg]]
 - Related: [[Duke Hadal]]
-- Influences [[step_030]]
-- Originates from [[step_080]]
-- Related: [[step_010]]
+- Influences
+- Originates from
+- Related:
 - See also: [[Information Broker Whisper Goldtongu]]
 - Parallels [[Forgotten Realms Torm]]
 - Compare with [[EVENT00048_Magical_Event_49]]
@@ -208,7 +203,7 @@ Seeks bodyguards for dangerous journey
 - Originates from [[step_056 (phase_005)]]
 - Related: [[NPC01022_Faelyn_Darkwater_the_Mystic]]
 - Requires [[step_009 (phase_025)]]
-- Compare with [[step_063]]
+- Compare with
 - Connects to [[Customs Authority]]
 - Originates from [[ITEM00236_Cursed_Axe_of_Accuracy]]
 - Parallels [[step_025 (phase_083)]]
@@ -228,33 +223,33 @@ Seeks bodyguards for dangerous journey
 - See also: [[ITEM00009_Blessed_Spear_of_Wounding]]
 - Requires [[Haste Xphb]]
 - Related: [[Leviathan Princes]]
-- Affected by [[step_036]]
+- Affected by
 - Originates from [[step_047 (phase_020)]]
-- Parallels [[step_080]]
+- Parallels
 - Connects to [[NPC00119_Idris_Ironforge]]
-- Compare with [[step_067]]
+- Compare with
 - See also: [[Portrait NPC Paladin Commander Sir Radiant Dawnbreaker V1 Paladin Commander Sir Radiant Dawnbreaker.svg_1 (Portraits)]]
 - See also: [[ITEM00402_Fortified_Leather_of_Fortitude]]
 - Compare with [[Assets Locations Location City Keeper Finn Goodtide V1 Keeper Finn Goodtide.svg]]
 - Influences [[ITEM00195_Frost_Staff_of_Accuracy]]
-- Requires [[step_012]]
+- Requires
 - Originates from [[step_027 (phase_045)]]
 - Connects to [[step_034 (phase_019)]]
 - Originates from [[Assets Locations Location City Chief Engineer Marina Crystalwright V1 Chief Engineer Marina Crystalwright.svg]]
 - Leads to [[Memorial Guardians]]
 - Affected by [[step_093 (phase_048)]]
 - Affected by [[Catapult Xge]]
-- Related: [[step_069]]
+- Related:
 - Connects to [[QUEST00071_Personal_Quest_72]]
 - Leads to [[List Spells Optional Features Whispers of the Grave Xphb]]
-- Requires [[step_066]]
-- See also: [[step_077]]
+- Requires
+- See also:
 - Requires [[The Festival of Rising Tides (Lore)]]
 - Compare with [[Paradox Meditation Cells]]
 - Requires [[Arcane Focus Varies Arcane Focuses Xphb]]
 - See also: [[step_096 (phase_023)]]
 - Parallels [[Brazier of Commanding Fire Elementals Xdmg]]
-- Originates from [[step_004]]
+- Originates from
 - Parallels [[dungeon-location (tables)]]
 - Connects to [[Symbol Heraldry Wit... Related To: Local Political Structure Connected Plots: to Be Developed]]
 
@@ -262,7 +257,6 @@ Seeks bodyguards for dangerous journey
 ![[03_People/portrait_assets_locations_location_city_terminal_director_admiral_current_swiftflow_v1_terminal_director_admiral_current_swiftflow_svg_friendly.png]]
 ![[03_People/portrait_captain_torrent_swiftcurrent_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_torrent_swiftcurrent_captain_torrent_swiftcurrent_svg_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

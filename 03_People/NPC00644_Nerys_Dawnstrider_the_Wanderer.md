@@ -18,7 +18,6 @@ aliases: [NPC00644 Nerys Dawnstrider the Wanderer]
 - [[#Hilda Jadeclaw the Fallen (Political - Opposition)|Hilda Jadeclaw the Fallen (Political - Opposition)]]
 - [[#Corvus Thornweave the Risen (Family - Sibling)|Corvus Thornweave the Risen (Family - Sibling)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Nerys Dawnstrider the Wanderer", "nerys dawnstrider the wanderer", "Nerys Dawnstrider Wanderer", "Wanderer the Dawnstrider Nerys"]
@@ -141,16 +140,13 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.186Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -198,11 +194,10 @@ Discovered something valuable
 - [[NPC00719_Orion_Hawthorne_the_Cunning]]
 - [[NPC00669_Zephyr_Youngblood_the_Lost]]
 - [[Player_Portal.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -210,11 +205,10 @@ Discovered something valuable
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -265,7 +259,7 @@ Discovered something valuable
 - Requires [[Regent Prism Goldwind]]
 - Affected by [[Philosopher-Noble Depth-Crown]]
 - See also: [[Tide Risktaker]]
-- Influences [[step_040]]
+- Influences
 - Originates from [[Plot Points]]
 - Connects to [[Whisper-Touched William (D&D_References)]]
 - Compare with [[Master Navigator Tide Storywright]]
@@ -284,14 +278,14 @@ Discovered something valuable
 - Requires [[step_010 (phase_012)]]
 - Compare with [[step_052 (phase_078)]]
 - Compare with [[EVENT00035_Political_Event_36]]
-- Connects to [[step_079]]
+- Connects to
 - Compare with [[Demilich Xmm]]
 - Affected by [[Portrait NPC Admiral Lady Cassandra Stormwind V2 Admiral Lady Cassandra Stormwind.svg]]
 - Affected by [[LORE00054_Prophecies_Entry_55]]
 - Compare with [[Commerce Manager Fairdealin (D&D_References)]]
 - Affected by [[ankheg-xmm (monstrosity)]]
 - Requires [[step_095 (phase_060)]]
-- Related: [[step_035]]
+- Related:
 - Parallels [[step_063 (phase_057)]]
 - Connects to [[Symbol Heraldry the Great Recognition the Great Recognition.svg]]
 - Affected by [[Location City Prismatic Crystal V1 Prismatic Crystal.svg]]
@@ -303,9 +297,9 @@ Discovered something valuable
 - See also: [[Depth's Embrace]]
 - Parallels [[The Grand Archive]]
 - Requires [[Garden of Shadows]]
-- Leads to [[step_070]]
+- Leads to
 - Leads to [[NPC00496_Hestara_Goldleaf]]
-- Leads to [[step_003]]
+- Leads to
 - Requires [[necklace-of-adaptation-xdmg (items)]]
 - Related: [[location-city-temporal-rescue-temporal-rescue.svg]]
 - See also: [[heightened-spell-xphb (optional-features)]]
@@ -315,7 +309,7 @@ Discovered something valuable
 - Requires [[The Tempest Faithful]]
 - Compare with [[portrait-npc-azure-shard-v2-azure-shard.svg]]
 - Connects to [[MON00093_Constructs_Creature_94]]
-- Compare with [[step_091]]
+- Compare with
 - Affected by [[QUEST00048_Personal_Quest_49]]
 - Parallels [[Location City Cultural Districts V1 Cultural Districts.svg]]
 
@@ -323,7 +317,6 @@ Discovered something valuable
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

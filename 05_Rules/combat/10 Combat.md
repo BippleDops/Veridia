@@ -18,7 +18,6 @@ aliases: [10 Combat]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 10 Combat
@@ -99,11 +98,9 @@ world: Both
 - [[Quick_Reference - Dn D5e-Side Screen-2014]]
 - [[Reference Quick Reference Dnd5e Sidescreen 2014]]
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Hidden treasure can be found here with a DC 15 Investigation check
@@ -134,9 +131,7 @@ world: Both
 Holds a clue about the ancient prophecy
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -155,7 +150,7 @@ Following magic item guidelines (WWT p.135-136):
 - Tasha's Mystical Formulae of Everything (TMF) p.97
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -165,7 +160,6 @@ Following magic item guidelines (WWT p.135-136):
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
-
 
 ## Thematic Connections
 - Tactical combat using [[Combat Maneuvers]]
@@ -226,7 +220,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[step_067 (phase_051)]]
 - Affected by [[Distribution by Rarity Magic Awarded by Tier Xge]]
 - Connects to [[Institute of Adaptive Sciences]]
-- Related: [[step_074]]
+- Related:
 - Originates from [[The Dimensional Barrier]]
 - See also: [[QUEST00136_Main_Quest_137]]
 - Originates from [[roleplaying-a-giant-giant-bonds-vgm (tables)]]
@@ -261,23 +255,23 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[step_048 (phase_096)]]
 - Influences [[MON00087_Undead_Creature_88]]
 - Compare with [[step_041 (phase_090)]]
-- Leads to [[step_088]]
+- Leads to
 - Compare with [[ENC00452_Combat_Encounter_453]]
 - See also: [[Surface Contact Prohibition (D&D_References)]]
 - Connects to [[Assets Item Artifact Poisoners Kit Xphb V7 Poisoners Kit Xphb.png]]
 - Compare with [[Avatar of Death Xdmg]]
 - See also: [[Assets Locations Location City Wealthy Goldstream Wealthy Goldstream.svg]]
-- Leads to [[step_021]]
+- Leads to
 - Related: [[Aquabyssos_Session_01 (D&D_References)]]
 - Influences [[Explorers Pack Xphb]]
 - Originates from [[Savage Attacker Xphb]]
 - Leads to [[step_077 (phase_095)]]
 - Requires [[griffon-xmm (monstrosity)]]
-- See also: [[step_043]]
+- See also:
 - Influences [[ITEM00919_Superior_Salve_of_Vigor]]
 - Compare with [[ITEM00518_Mithril_Helm_of_Resistance]]
 - Connects to [[LOC00237_Dungeons_Location_238]]
-- Affected by [[step_100]]
+- Affected by
 - Requires [[Summon Beast Xphb]]
 - Affected by [[Location City Guide Helpfulcurrent V1 Guide Helpfulcurrent.svg]]
 - Originates from [[Assets Portraits Portrait NPC the Coral Throne Syndicate the Coral Throne Syndicate.svg]]
@@ -286,7 +280,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[LOC00093_Towns_Location_94]]
 - Originates from [[step_022 (phase_049)]]
 - Influences [[QUEST00049_Main_Quest_50]]
-- Related: [[step_018]]
+- Related:
 - Requires [[Assets Locations Location City Dream Enhancement Techniques V1 Dream Enhancement Techniques.svg]]
 - Compare with [[Old Tongue (D&D_References)]]
 - Connects to [[step_097 (phase_052)]]

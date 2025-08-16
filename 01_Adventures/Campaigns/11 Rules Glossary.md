@@ -18,7 +18,6 @@ aliases: [11 Rules Glossary]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 11 Rules Glossary
@@ -221,11 +220,9 @@ world: Both
 - A merchant needs help investigating before dawn
 - A map reveals ancient history about this place ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This character is not who they seem
@@ -256,11 +253,10 @@ world: Both
 Connected to the main villain's plan
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -270,7 +266,6 @@ Connected to the main villain's plan
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -306,13 +301,13 @@ Connected to the main villain's plan
 - Originates from [[Shadow Navigation Charts]]
 - Originates from [[Assets Locations Location City Admiral Thalassa Stormcurrent V1 Admiral Thalassa Stormcurrent.svg]]
 - Compare with [[NPC00720_Hilda_Ironforge_the_Broken]]
-- Compare with [[step_026]]
+- Compare with
 - See also: [[step_054 (phase_030)]]
 - Originates from [[Fighter Xphb Champion Xphb]]
 - See also: [[ITEM00089_Blazing_Bow_of_the_Ancients]]
 - Originates from [[portrait-npc-aria-lumengarde-aria-lumengarde.svg_1 (Portraits)]]
-- Affected by [[step_054]]
-- Affected by [[step_068]]
+- Affected by
+- Affected by
 - Parallels [[step_074 (phase_047)]]
 - Requires [[Navigation Master Course (D&D_References)]]
 - Connects to [[Master Shadow Harmonist Penumbra Duskweaver]]
@@ -339,14 +334,14 @@ Connected to the main villain's plan
 - Requires [[Talisman of the Sphere Xdmg]]
 - Originates from [[Quest - The Seventh Shard]]
 - Connects to [[Regional Coordinator Harbor Watchful]]
-- Related: [[step_011]]
+- Related:
 - Influences [[Mantle of Spell Resistance Xdmg]]
 - Influences [[step_070 (phase_004)]]
 - Influences [[step_061 (phase_085)]]
 - Affected by [[flensing-claws-large-vgm (items)]]
 - Leads to [[INDEX]]
-- Compare with [[step_064]]
-- Connects to [[step_038]]
+- Compare with
+- Connects to
 - Originates from [[Gnome Tables Gnome Bonds Mtf]]
 - Related: [[Aquabyssos-Aethermoor Treaties]]
 - Originates from [[The Ancient Compact (D&D_References)]]

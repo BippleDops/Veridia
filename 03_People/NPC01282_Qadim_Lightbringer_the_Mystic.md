@@ -18,7 +18,6 @@ aliases: [NPC01282 Qadim Lightbringer the Mystic]
 - [[#Nerys Ironwood the Broken (Personal - Best friend)|Nerys Ironwood the Broken (Personal - Best friend)]]
 - [[#Aeliana Youngblood the Bold (Personal - Nemesis)|Aeliana Youngblood the Bold (Personal - Nemesis)]]
 
-
 ---
 aliases: ["Qadim Lightbringer the Mystic", "qadim lightbringer the mystic", "Qadim Lightbringer Mystic", "Mystic the Lightbringer Qadim"]
 tags: [npc, character]
@@ -154,21 +153,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.256Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -231,11 +226,11 @@ Forming expedition to dangerous location
 - Connects to [[Pressure Point Settlement]]
 - Leads to [[LORE00313_History_Entry_314]]
 - Originates from [[step_087 (phase_064)]]
-- Related: [[step_061]]
+- Related:
 - Related: [[step_037 (phase_063)]]
 - Related: [[step_008 (phase_035)]]
 - Originates from [[step_074 (phase_042)]]
-- Parallels [[step_007]]
+- Parallels
 - Connects to [[Data Analyst Current Patternweave]]
 - Originates from [[Location City Quill Precisequote V1 Quill Precisequote.svg]]
 - Leads to [[Location City the Banshee Caverns V1 the Banshee Caverns.svg]]
@@ -268,7 +263,7 @@ Forming expedition to dangerous location
 - Compare with [[LOC00059_Wilderness_Location_60]]
 - Leads to [[Downtime_Activities]]
 - Requires [[step_063 (phase_089)]]
-- Requires [[step_089]]
+- Requires
 - Affected by [[Pressure Magic]]
 - Influences [[Creature Creature Thorny Vegepygmy Mpmm V3 Thorny Vegepygmy Mpmm.png]]
 - Parallels [[Portrait NPC Free Captains Alliance V2 Free Captains Alliance.svg]]
@@ -277,7 +272,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_patriarch_valdris_lightbringer_friendly.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_dramatic.png]]
 ![[03_People/portrait_archbishop_matthias_lightbringer_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

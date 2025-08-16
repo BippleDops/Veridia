@@ -9,7 +9,6 @@ aliases: [NPC00479 Cedric Keenblade the Cunning]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00479 Cedric Keenblade the Cunning]
 - [[#Urien Quicksilver the Guardian (Personal - Nemesis)|Urien Quicksilver the Guardian (Personal - Nemesis)]]
 - [[#Ysara Thornweave the Lost (Personal - Nemesis)|Ysara Thornweave the Lost (Personal - Nemesis)]]
 - [[#Orion Thornweave the Guardian (Political - Opposition)|Orion Thornweave the Guardian (Political - Opposition)]]
-
 
 ---
 created: 2025-08-15
@@ -158,27 +156,23 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.167Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -186,11 +180,10 @@ Discovered something valuable
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -204,11 +197,11 @@ Discovered something valuable
 - Connects to [[The Depth Councils (D&D_References)]]
 - Affected by [[step_096 (phase_046)]]
 - Requires [[The Bone Palace of Sorrows 2]]
-- Originates from [[step_098]]
-- Affected by [[step_059]]
-- Affected by [[step_085]]
+- Originates from
+- Affected by
+- Affected by
 - Originates from [[Human Names German Female Xge]]
-- Compare with [[step_023]]
+- Compare with
 - Requires [[step_023 (phase_033)]]
 - Leads to [[hunters-mark-xphb (spells)]]
 - Leads to [[The Forgotten Archive 2]]
@@ -236,13 +229,13 @@ Discovered something valuable
 - Influences [[step_059 (phase_065)]]
 - See also: [[NPC01302_Zephyr_Frostwhisper_the_Strong]]
 - Compare with [[step_003 (phase_020)]]
-- Affected by [[step_053]]
+- Affected by
 - Leads to [[NPC00006_Pyria_Winterborn_the_Broken]]
 - Leads to [[Prismatic Plankton]]
 - See also: [[The Dimensional Hospital]]
 - Originates from [[Goldspire Confederacy (D&D_Statblocks)]]
 - Originates from [[Symbol Heraldry High Oracle Serenity Deepcall High Oracle Serenity Deepcall.svg]]
-- Originates from [[step_013]]
+- Originates from
 - Compare with [[Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg]]
 - See also: [[ENC00031_Social_Encounter_32]]
 - Connects to [[The Azure Chamber]]
@@ -260,7 +253,7 @@ Discovered something valuable
 - Related: [[step_041 (phase_025)]]
 - Originates from [[QUEST0057_In_Search_of_Vengeance]]
 - Parallels [[Assets Vehicles Vehicle Ship Trench Lantern Surveyor V1 Trench Lantern Surveyor.svg]]
-- Connects to [[step_096]]
+- Connects to
 - Originates from [[Deepwatch Guard 2]]
 - Leads to [[Silver Threadweaver 2]]
 - See also: [[Update Weather]]

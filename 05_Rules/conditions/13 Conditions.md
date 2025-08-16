@@ -18,7 +18,6 @@ aliases: [13 Conditions]
 - [[#See Also|See Also]]
 - [[#Related Content|Related Content]]
 
-
 ---
 
 title: 13 Conditions
@@ -86,12 +85,9 @@ world: Both
 5. Speed reduced to 0
 6. Death
 
-
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > Ancient magic still lingers here
@@ -138,11 +134,10 @@ world: Both
 - [[World_Primer.md]]
 - [[Reputation_Tracker]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -152,7 +147,6 @@ world: Both
 - **Combat**: See ACX p.189-198
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
-
 
 ## D&D 5e References
 
@@ -174,7 +168,7 @@ world: Both
 - Influences [[LORE00269_History_Entry_270]]
 - Parallels [[Noble House Politics (D&D_References)]]
 - Related: [[Shape the Flowing River]]
-- Influences [[step_018]]
+- Influences
 - Related: [[The Deep Settlements]]
 - Connects to [[ENC00348_Combat_Encounter_349]]
 - Originates from [[The Seven Shard Guardians 2]]
@@ -228,19 +222,19 @@ world: Both
 - Influences [[Order of the Silver Ancho (Groups)]]
 - See also: [[LORE00300_Legends_Entry_301]]
 - See also: [[MON00064_Constructs_Creature_65]]
-- Compare with [[step_056]]
-- Requires [[step_003]]
+- Compare with
+- Requires
 - Parallels [[step_072 (phase_060)]]
 - Connects to [[Necromantic Rituals 2]]
 - Affected by [[Welfare Director Caretake]]
 - Affected by [[Religious Communities 2]]
 - Originates from [[Deep Trenches 2]]
-- Leads to [[step_097]]
+- Leads to
 - Connects to [[Scholar Echo-Thought]]
 - Influences [[location-city-echo-truthseer-v1-echo-truthseer.svg]]
 - Related: [[step_084 (phase_055)]]
 - Parallels [[Scimitar of Speed Xdmg]]
-- Connects to [[step_068]]
+- Connects to
 - Related: [[Assets Locations Location City Diplomatic Minister Reef Diplomatic Minister Reef.svg]]
 - Influences [[step_049 (phase_038)]]
 - Parallels [[step_088 (phase_090)]]
@@ -254,12 +248,12 @@ world: Both
 - Connects to [[Baroness Seraphina Moonweaver 2]]
 - Compare with [[step_037 (phase_092)]]
 - Connects to [[Location City Temporal Harvest V1 Temporal Harvest.svg]]
-- See also: [[step_056]]
+- See also:
 - Compare with [[Antitoxin Xphb]]
 - Affected by [[Symbol Heraldry Chaplain Abyssos the Deepseeke Chaplain Abyssos the Deepseeke.svg]]
 - Related: [[Assets Locations Location City Nereidios Nereidios.svg]]
 - Connects to [[Reality_Breach_Event_Compiler (D&D_References)]]
-- Leads to [[step_059]]
+- Leads to
 - Originates from [[The Primordial Vaults (D&D_References)]]
 - Influences [[Dawn War Sehanine Dmg]]
 - Requires [[D_005_Shadow_Bloom_Player]]

@@ -18,7 +18,6 @@ aliases: [NPC00373 Wynne Frostwhisper the Strong]
 - [[#Faelyn Thornweave the Wanderer (Criminal - Fence)|Faelyn Thornweave the Wanderer (Criminal - Fence)]]
 - [[#Branwen Hawthorne (Criminal - Fence)|Branwen Hawthorne (Criminal - Fence)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Wynne Frostwhisper the Strong", "wynne frostwhisper the strong", "Wynne Frostwhisper Strong", "Strong the Frostwhisper Wynnetags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
@@ -151,16 +150,13 @@ Seeks bodyguards for dangerous journey
 ---
 *Generated: 2025-08-15T03:51:03.155Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -197,11 +193,10 @@ Modifications:
 - [[11 Rules Glossary]]
 - [[MOC_Lore]]
 - [[NPC00058_Elric_Nightfall]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -211,11 +206,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -227,10 +221,10 @@ Modifications:
 - Connects to [[step_040 (phase_048)]]
 - Leads to [[ITEM01169_Concentrated_Salve_of_Fortune]]
 - Requires [[fear-xphb (spells)]]
-- Originates from [[step_072]]
+- Originates from
 - Related: [[step_055 (phase_099)]]
 - Originates from [[step_060 (phase_088)]]
-- Parallels [[step_089]]
+- Parallels
 - Compare with [[step_048 (phase_086)]]
 - Leads to [[dark-gift-of-norganas-the-finger-of-oblivion-cos]]
 - Related: [[step_031 (phase_059)]]
@@ -274,7 +268,7 @@ Modifications:
 - Requires [[NPC01396_Delara_Proudmore_the_Risen]]
 - Originates from [[step_056 (phase_014)]]
 - Affected by [[Information Exchanges 2]]
-- Requires [[step_099]]
+- Requires
 - Related: [[Assets Locations [[Location City [[Sage Currentknow]] V1 Sage Currentknow.svg]]]]
 - See also: [[step_025 (phase_031)]]
 - Requires [[LORE00150_History_Entry_151]]
@@ -307,10 +301,10 @@ Modifications:
 - Leads to [[Symbol Heraldry Sister Benthos Scrollheart V1 Sister Benthos Scrollheart.svg]]
 - Requires [[NPC00673_Lyanna_Xendar_the_Broken]]
 - Requires [[step_044 (phase_072)]]
-- Requires [[step_045]]
+- Requires
 - See also: [[Northgate]]
 - Connects to [[step_007 (phase_014)]]
-- Connects to [[step_054]]
+- Connects to
 - Affected by [[step_034 (phase_065)]]
 - Compare with [[gold-dragon (legendary-group)]]
 - Affected by [[Current_Scene (02_Worldbuilding)]]
@@ -324,7 +318,6 @@ Modifications:
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_anchor_stronghaul_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_anchor_stronghaul_v1_anchor_stronghaul_svg_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

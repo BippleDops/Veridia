@@ -18,7 +18,6 @@ aliases: [NPC01773 Drusilla Silverleaf the Wanderer]
 - [[#Wynne Proudmore the Bold (Political - Patron)|Wynne Proudmore the Bold (Political - Patron)]]
 - [[#Orion Frostwhisper the Strong (Personal - Ex-lover)|Orion Frostwhisper the Strong (Personal - Ex-lover)]]
 
-
 ---
 aliases: ["Drusilla Silverleaf the Wanderer", "drusilla silverleaf the wanderer", "Drusilla Silverleaf Wanderer", "Wanderer the Silverleaf Drusilla"]
 tags: [npc, character]
@@ -145,25 +144,21 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.308Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- Requires [[step_005]]
+- Requires
 - Leads to [[NPC00429_Cedric_Dawnstrider_the_Guardian]]
 - Compare with [[Deputy Harbor Master Marina Stormwright (D&D_References)]]
 - Influences [[Cultural Advisor Sarah Bridgekeeper]]
@@ -181,7 +176,7 @@ Is secretly testing the party
 - Requires [[Master Merchant Luna Fairweigh]]
 - Related: [[Location City Wise Tide Truthseeker Wise Tide Truthseeker.svg]]
 - Originates from [[LOC00153_Towns_Location_154]]
-- Requires [[step_003]]
+- Requires
 - Compare with [[DUN00024_Dungeon_25]]
 - Compare with [[step_096 (phase_049)]]
 - Parallels [[S-004 Cloud Canyon Player (Encounters)]]
@@ -211,7 +206,7 @@ Is secretly testing the party
 - Requires [[step_003 (phase_075)]]
 - Related: [[Assets Vehicles Vehicle Ship Crown Council Flagship V2 Crown Council Flagship.svg]]
 - Compare with [[International Pressure 2]]
-- Originates from [[step_087]]
+- Originates from
 - Originates from [[NPC01755_Orion_Xendar_the_Lost]]
 - Originates from [[fighter-xphb (classes)]]
 - Originates from [[step_050 (phase_040)]]
@@ -233,8 +228,8 @@ Is secretly testing the party
 - See also: [[The Convergence Garden Festival]]
 - Parallels [[LORE00133_History_Entry_134]]
 - Requires [[Retired Captain Bron Saltbeard (D&D_References)]]
-- See also: [[step_040]]
-- Influences [[step_007]]
+- See also:
+- Influences
 - Leads to [[Vehicle Ship Resonance Drive Yacht V2 Resonance Drive Yacht.svg]]
 - Affected by [[step_079 (phase_097)]]
 - Related: [[LOC00199_Planes_Location_200]]
@@ -268,7 +263,6 @@ Is secretly testing the party
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

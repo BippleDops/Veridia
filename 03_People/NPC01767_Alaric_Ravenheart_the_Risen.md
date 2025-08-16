@@ -18,7 +18,6 @@ aliases: [NPC01767 Alaric Ravenheart the Risen]
 - [[#Hestara Ashford the Bold (Personal - Best friend)|Hestara Ashford the Bold (Personal - Best friend)]]
 - [[#Hilda Proudmore the Lost (Personal - Childhood friend)|Hilda Proudmore the Lost (Personal - Childhood friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Alaric Ravenheart the Risen", "alaric ravenheart the risen", "Alaric Ravenheart Risen", "Risen the Ravenheart Alarictags: [npc, character, combat, magic, lore]er]
@@ -144,16 +143,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.308Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -197,11 +193,10 @@ Modifications:
 - [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
 - [[11 Rules Glossary]]
 - [[MOC_Rules]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -211,11 +206,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -235,7 +229,7 @@ Modifications:
 - Parallels [[step_035 (phase_083)]]
 - Compare with [[Portrait NPC the Great Trade Routes the Great Trade Routes.svg_1 (Portraits)]]
 - Leads to [[LOC00299_Cities_Location_300]]
-- Leads to [[step_012]]
+- Leads to
 - Affected by [[[[Temple District]]s]]
 - Affected by [[list-spells-feats-fey-touched-xphb (lists)]]
 - Requires [[Duke Marcus Brightshield]]
@@ -280,17 +274,17 @@ Modifications:
 - Parallels [[Location City [[Guide Helpfulcurrent]] Guide Helpfulcurrent.svg]]
 - Related: [[DUN00102_Dungeon_103]]
 - Compare with [[scroll-of-protection-celestials-xdmg (items)]]
-- See also: [[step_071]]
+- See also:
 - Requires [[Portrait NPC Quest the Bio Adaptation Crisis Quest the Bio Adaptation Crisis.svg]]
 - See also: [[Assets Locations Location City [[Undead Services Bureau]] Undead Services Bureau.svg]]
 - Leads to [[Location City Maze Heart Crystal Maze Heart Crystal.svg]]
-- Originates from [[step_064]]
+- Originates from
 - Requires [[step_017_implement_audio_organization]]
 - Requires [[SPELL00007_Nature_Spell_8]]
 - Requires [[Reality Maintenance Department 2]]
 - Connects to [[myconid-adult-xmm (plant)]]
 - Connects to [[Field Medic Shadowstitch]]
-- Connects to [[step_068]]
+- Connects to
 - Connects to [[NPC00035_Wynne_Youngblood]]
 - See also: [[QUEST00168_Main_Quest_169]]
 - Connects to [[supernatural-hooks-xdmg (tables)]]
@@ -303,14 +297,14 @@ Modifications:
 - See also: [[step_073 (phase_036)]]
 - Influences [[step_034 (phase_085)]]
 - Affected by [[Choir_Master_Celestine_Hymnsinger.png]]
-- Originates from [[step_040]]
+- Originates from
 - Compare with [[Surgeon Battle Shadow]]
 - Connects to [[The Contract Archive]]
-- Influences [[step_029]]
+- Influences
 - Requires [[Quest - The Great Census]]
 - Leads to [[short-term-madness (tables)]]
-- See also: [[step_004]]
-- Requires [[Quest   Refugees of the Deep]]
+- See also:
+- Requires [[Quest Refugees of the Deep]]
 - Related: [[QUEST00015_Side_Quest_16]]
 - Related: [[step_083 (phase_045)]]
 - Originates from [[Quarantine_Notice_Crystal_Plagu]]
@@ -322,7 +316,6 @@ Modifications:
 
 ## Visual References
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

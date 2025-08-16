@@ -17,7 +17,6 @@ aliases: [Reputation Tracker]
 - [[#Connections|Connections]]
 - [[#Visual References|Visual References]]
 
-
 -tags: [reputation, tracker, social, combat]al]
 created: 2025-08-15T14:13:16.708784
 ---
@@ -35,7 +34,7 @@ created: 2025-08-15T14:13:16.708784
 
 ## Reputation Levels
 - -10 to -6: Hostile
-- -5 to -2: Unfriendly  
+- -5 to -2: Unfriendly
 - -1 to +1: Neutral
 - +2 to +5: Friendly
 - +6 to +10: Honored
@@ -84,8 +83,7 @@ created: 2025-08-15T14:13:16.708784
 - [[NPC01290_Pyria_Ashford_the_Broken]]
 - [[README]]
 - [[World_Primer.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[ULTIMATE_VAULT_ACHIEVEMENT]]
@@ -94,7 +92,6 @@ created: 2025-08-15T14:13:16.708784
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -116,7 +113,7 @@ created: 2025-08-15T14:13:16.708784
 - Parallels [[disguise-kit-xphb (items)]]
 - Parallels [[NPC01885_Vesper_Xendar_the_Mystic]]
 - Related: [[helm-of-brilliance-xdmg (items)]]
-- Originates from [[step_029]]
+- Originates from
 - Requires [[ENC0028_Random_Encounter_29]]
 - Leads to [[Transformation Specialist Doctor Prism-Current]]
 - Originates from [[step_090 (phase_026)]]
@@ -124,11 +121,11 @@ created: 2025-08-15T14:13:16.708784
 - Compare with [[MON00113_Constructs_Creature_114]]
 - See also: [[Location City Pressure Suit Malfunction Pressure Suit Malfunction.svg]]
 - Connects to [[QUEST00382_Side_Quest_383]]
-- Influences [[step_003]]
-- Influences [[step_008]]
+- Influences
+- Influences
 - Requires [[NPC00598_Idris_Brightblade]]
 - See also: [[Construct Spirit Xphb]]
-- Related: [[step_093]]
+- Related:
 - Connects to [[Hooded Lantern Xphb]]
 - Affected by [[SPELL0012_Shadow_Shield]]
 - Parallels [[natures-mantle-xdmg (items)]]
@@ -156,7 +153,7 @@ created: 2025-08-15T14:13:16.708784
 - Influences [[Crystal Harmonics]]
 - Affected by [[step_036 (phase_013)]]
 - Related: [[The Crimson Hand 2]]
-- Connects to [[step_039]]
+- Connects to
 - Connects to [[portrait-npc-captain-redbeard-captain-redbeard.svg]]
 - Connects to [[gnoll-flesh-gnawer-mpmm (monstrosity)]]
 - Influences [[Portrait NPC Quest the Divine Test V1 Quest the Divine Test.svg]]
@@ -172,16 +169,16 @@ created: 2025-08-15T14:13:16.708784
 - Leads to [[step_002 (phase_061)]]
 - Related: [[step_048 (phase_091)]]
 - See also: [[step_082 (phase_081)]]
-- Affected by [[step_084]]
+- Affected by
 - Leads to [[location-city-gem-deepseeker-gem-deepseeker.svg]]
-- Compare with [[step_076]]
+- Compare with
 - Leads to [[Professor Depth Biologist]]
 - Compare with [[NPC01698_Elric_Thornweave_the_Lost]]
 - Requires [[battleaxe-xphb (items)]]
 - Parallels [[SPELL00117_Nature_Spell_118]]
 - Requires [[Shadow Separation Mechanics]]
 - Requires [[Quest - The Defector]]
-- Originates from [[step_039]]
+- Originates from
 - Related: [[The Community Feast Halls (Places)]]
 - Parallels [[list-spells-classes-warlock 2 (lists)]]
 - Related: [[Location City Heritage Keeper Memoryshade V1 Heritage Keeper Memoryshade.svg]]

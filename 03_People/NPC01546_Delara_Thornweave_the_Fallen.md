@@ -18,7 +18,6 @@ aliases: [NPC01546 Delara Thornweave the Fallen]
 - [[#Qadim Stormwind the Strong (Criminal - Fence)|Qadim Stormwind the Strong (Criminal - Fence)]]
 - [[#Jorah Dawnstrider the Fallen (Professional - Employee)|Jorah Dawnstrider the Fallen (Professional - Employee)]]
 
-
 ---
 aliases: ["Delara Thornweave the Fallen", "delara thornweave the fallen", "Delara Thornweave Fallen", "Fallen the Thornweave Delara"]
 tags: [npc, character]
@@ -144,39 +143,35 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.284Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
-- See also: [[step_050]]
-- Connects to [[step_072]]
-- Originates from [[step_067]]
+- See also:
+- Connects to
+- Originates from
 - Affected by [[step_015 (phase_004)]]
 - Leads to [[roleplaying-a-hag-hag-ideals-vgm (tables)]]
-- Originates from [[step_029]]
+- Originates from
 - Originates from [[Location City Quest the Truth Unveiled V1 Quest the Truth Unveiled.svg]]
 - Leads to [[Crystal Gardens]]
 - Requires [[Aethermoor_Airships]]
 - Parallels [[Giant Bat Xmm]]
 - Influences [[LOC00200_Planes_Location_201]]
-- Originates from [[step_058]]
+- Originates from
 - Requires [[MON00080_Aberrations_Creature_81]]
 - See also: [[step_037 (phase_065)]]
-- See also: [[step_072]]
+- See also:
 - Affected by [[Symbol Heraldry Purist Coalition Purist Coalition.svg]]
 - Parallels [[flying-snake-xmm]]
 - Parallels [[step_082 (phase_045)]]
@@ -194,7 +189,7 @@ Forming expedition to dangerous location
 - Compare with [[MON00110_Aberrations_Creature_111]]
 - Requires [[Crystal Vein Settlements]]
 - Parallels [[ENC0022_Random_Encounter_23]]
-- Related: [[step_042]]
+- Related:
 - Parallels [[Sister Mourne (D&D_References)]]
 - Parallels [[portrait-comfy-latest.png]]
 - Compare with [[The Abyss Beneath Aquabyssos 3 (D&D_References)]]
@@ -202,7 +197,7 @@ Forming expedition to dangerous location
 - Influences [[step_056 (phase_073)]]
 - Connects to [[Historical Preservation Society]]
 - Affected by [[ENC00170_Environmental_Encounter_171]]
-- Affected by [[step_035]]
+- Affected by
 - Affected by [[The Deep Expansion]]
 - Connects to [[ITEM00081_Frost_Sword_of_Speed]]
 - See also: [[LOC0029_Groveford]]
@@ -228,13 +223,13 @@ Forming expedition to dangerous location
 - Influences [[step_071 (phase_010)]]
 - Leads to [[step_076 (phase_081)]]
 - Influences [[LOC00204_Dungeons_Location_205]]
-- Related: [[step_069]]
+- Related:
 - See also: [[Speed-Current Jet]]
 - See also: [[X-103_Leviathan_Mirror_Chase]]
 - Connects to [[step_007 (phase_036)]]
 - Compare with [[ITEM01353_Ornate_Rope_of_Convenience]]
 - Parallels [[step_081 (phase_058)]]
-- Affected by [[step_024]]
+- Affected by
 - Affected by [[Philosopher-Reformer Unity Bridgewright (D&D_References)]]
 - Leads to [[Portrait NPC Intelligence Services V1 Intelligence Services.svg_1 (Portraits)]]
 - Affected by [[Human Names English Female Xge]]
@@ -242,12 +237,12 @@ Forming expedition to dangerous location
 - Requires [[nilbog-mpmm (fey)]]
 - Affected by [[The Twilight Depths]]
 - Influences [[Meenlock Mpmm]]
-- Influences [[step_003]]
+- Influences
 - Leads to [[step_045 (phase_009)]]
 - Influences [[step_033 (phase_043)]]
 - Requires [[Giant Eagle Xmm]]
 - Influences [[one-of-a-kind-objects-hag-objects-vgm (tables)]]
-- Related: [[step_073]]
+- Related:
 - Leads to [[Enhancement Ethics Advisor (Lore)]]
 - Originates from [[step_087 (phase_098)]]
 - See also: [[NPC00712_Faelyn_Proudmore_the_Fallen]]
@@ -255,23 +250,21 @@ Forming expedition to dangerous location
 - Requires [[The Memory Bridge]]
 - Originates from [[step_093 (phase_024)]]
 - Parallels [[Location City the Sunken Library of Thalassius V1 the Sunken Library of Thalassius.svg]]
-- Originates from [[step_035]]
+- Originates from
 - Related: [[Beholder Xmm (legendary-group)]]
-- Parallels [[step_004]]
+- Parallels
 - Originates from [[Portrait NPC Character Relationship Web Core Npcs V1 Character Relationship Web Core Npcs.svg]]
 - Related: [[Update Portal]]
-- Connects to [[step_039]]
+- Connects to
 - See also: [[Fashion Guild]]
 
 ## Related Content
 *Enhanced with 1 new connections*
 
-
 ## Visual References
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_dramatic.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_sad.png]]
 ![[03_People/portrait_12_research_d_d_statblocks_archdruid_thornweaver_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

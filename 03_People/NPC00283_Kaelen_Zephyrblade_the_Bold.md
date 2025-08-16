@@ -18,7 +18,6 @@ aliases: [NPC00283 Kaelen Zephyrblade the Bold]
 - [[#Gareth Emberfall the Lost (Political - Ally)|Gareth Emberfall the Lost (Political - Ally)]]
 - [[#Solas Grimholt the Bold (Professional - Rival)|Solas Grimholt the Bold (Professional - Rival)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Kaelen Zephyrblade the Bold", "kaelen zephyrblade the bold", "Kaelen Zephyrblade Bold", "Bold the Zephyrblade Kaelen"]
@@ -154,16 +153,13 @@ Wants rivals investigated
 ---
 *Generated: 2025-08-15T03:51:03.144Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -185,11 +181,10 @@ Wants rivals investigated
 - [[Parliamentary_Voting_Guide]]
 - [[09 Adventuring]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -199,11 +194,10 @@ Wants rivals investigated
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -226,7 +220,7 @@ Wants rivals investigated
 - Originates from [[step_051 (phase_021)]]
 - Related: [[Great Dyin]]
 - Influences [[SPELL00131_Divine_Spell_132]]
-- Affected by [[step_033]]
+- Affected by
 - Parallels [[Lieutenant Marcu (D&D_References)]]
 - Requires [[step_052 (phase_080)]]
 - Influences [[Luminar the Builder]]
@@ -239,14 +233,14 @@ Wants rivals investigated
 - Connects to [[step_043 (phase_097)]]
 - Parallels [[SPELL0026_Eldritch_Blessing]]
 - Related: [[LORE00026_Prophecies_Entry_27]]
-- Affected by [[step_007]]
+- Affected by
 - Connects to [[list-spells-feats-druidic-warrior-xphb (lists)]]
-- Connects to [[step_008]]
-- Requires [[step_068]]
+- Connects to
+- Requires
 - Compare with [[strahd-zombie-cos (undead)]]
 - Affected by [[Medical Applications Coordinator 2]]
 - Parallels [[LOC00076_Planes_Location_77]]
-- Related: [[step_098]]
+- Related:
 - Requires [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-v1-innkeeper-marina-dreamwhisper.svg]]
 - Requires [[The Whispering Peaks]]
 - Originates from [[Intervention Windows]]
@@ -267,7 +261,7 @@ Wants rivals investigated
 - Compare with [[constrictor-snake-xmm]]
 - Parallels [[Assets Locations [[Location City Medical Research Facilities V1 Medical Research Facilities.svg]]]]
 - Leads to [[[[Botanist Rose Sundrinker]] (D&D_References)]]
-- Compare with [[step_042]]
+- Compare with
 - Leads to [[Assets Locations [[Location City the Listener S Code V1 the Listener S Code.svg]]]]
 - Connects to [[Template-Planet]]
 - Influences [[step_093 (phase_074)]]
@@ -280,20 +274,20 @@ Wants rivals investigated
 - Parallels [[[[Black Market Deal]] (D&D_References)]]
 - Leads to [[[[Legal Department]] (D&D_References)]]
 - Compare with [[Stormwind Supplies]]
-- Originates from [[step_059]]
-- Affected by [[step_077]]
+- Originates from
+- Affected by
 - Related: [[step_075 (phase_098)]]
 - Affected by [[Assets Locations Location City [[The Eel Keepers]] the Eel Keepers.svg]]
 - Requires [[step_076 (phase_061)]]
 - Connects to [[QUEST00233_Side_Quest_234]]
-- Compare with [[step_049]]
+- Compare with
 - Affected by [[The Cargo Inspection Station]]
 - Affected by [[Session 15 - Academy Under Siege]]
 - Influences [[ENC00099_Environmental_Encounter_100]]
 - See also: [[SPELL00086_Arcane_Spell_87]]
 - Parallels [[ENC00383_Combat_Encounter_384]]
 - Requires [[step_012 (phase_088)]]
-- Connects to [[step_074]]
+- Connects to
 - Related: [[Resoce_Equipment]]
 - Affected by [[hobgoblin-captain-xmm (fey)]]
 - Influences [[step_056 (phase_090)]]
@@ -302,7 +296,7 @@ Wants rivals investigated
 - Influences [[Crisis Communication Array]]
 - Affected by [[Master Navigator Tidal Crosscurren 2]]
 - Compare with [[sling-bullet-xphb (items)]]
-- Parallels [[step_022]]
+- Parallels
 - Originates from [[ancient-gold-dragon-xmm]]
 - Related: [[Bewitching Whispers]]
 - Originates from [[[[The Memorial Archives]] 2]]
@@ -312,7 +306,6 @@ Wants rivals investigated
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

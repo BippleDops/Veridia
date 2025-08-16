@@ -18,7 +18,6 @@ aliases: [NPC01857 Wynne Crystalbrook the Mystic]
 - [[#Kaelen Blackstone the Cunning (Personal - Best friend)|Kaelen Blackstone the Cunning (Personal - Best friend)]]
 - [[#Gavril Youngblood the Guardian (Professional - Rival)|Gavril Youngblood the Guardian (Professional - Rival)]]
 
-
 ---
 aliases: ["Wynne Crystalbrook the Mystic", "wynne crystalbrook the mystic", "Wynne Crystalbrook Mystic", "Mystic the Crystalbrook Wynne"]
 tags: [npc, character]
@@ -151,21 +150,17 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.317Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -173,7 +168,7 @@ Is secretly testing the party
 - Originates from [[step_028 (phase_073)]]
 - Influences [[step_056 (phase_058)]]
 - Parallels [[Assets Handouts Handout Handout Tavern Bill of Fare V2 Tavern Bill of Fare.png]]
-- Influences [[step_034]]
+- Influences
 - Originates from [[Indigo Deepdye (D&D_References)]]
 - Affected by [[Location City Embassy Quarter V1 Embassy Quarter.svg]]
 - Parallels [[Scroll of Protection Fey Xdmg]]
@@ -190,7 +185,7 @@ Is secretly testing the party
 - Originates from [[Elven Aerdrie Faenya Mtf]]
 - Related: [[Wood Elf Magic Xge]]
 - Compare with [[M L-05 the Dream Sovereign Player]]
-- Leads to [[step_063]]
+- Leads to
 - Parallels [[chamber-purpose-general-dungeon-chambers (tables)]]
 - Compare with [[step_075 (phase_024)]]
 - Connects to [[The Unnatural Legion]]
@@ -200,7 +195,7 @@ Is secretly testing the party
 - Requires [[Symbol Heraldry Environmental Protection Authorit Environmental Protection Authorit.svg]]
 - Connects to [[step_017 (phase_013)]]
 - Influences [[Location City the Neutral Current Tavern the Neutral Current Tavern.svg]]
-- Connects to [[step_087]]
+- Connects to
 - Related: [[Wealthy Goldcurrent (D&D_References)]]
 - Influences [[Assets Locations Location City Archkeeper Nereon V1 Archkeeper Nereon.svg]]
 - Influences [[Portrait NPC Intelligence Services V1 Intelligence Services.svg]]
@@ -220,13 +215,13 @@ Is secretly testing the party
 - See also: [[step_069 (phase_056)]]
 - Requires [[Assets Portraits Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg]]
 - Leads to [[SPELL0004_Shadow_Bolt]]
-- Influences [[step_046]]
+- Influences
 - Influences [[QUEST00285_Personal_Quest_286]]
 - Originates from [[Pressure Specialist Dr. Marina Deepcurrent]]
 - Leads to [[step_092 (phase_071)]]
 - Influences [[List Spells Optional Features Tricksters Escape Xge]]
 - Leads to [[Port Sorrow Trading Company (D&D_References)]]
-- Compare with [[step_017]]
+- Compare with
 - Leads to [[Location City Memory Parasite Infection V1 Memory Parasite Infection.svg]]
 - Parallels [[LORE00007_Legends_Entry_8]]
 - Influences [[SPELL00024_Arcane_Spell_25]]
@@ -274,7 +269,6 @@ Is secretly testing the party
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

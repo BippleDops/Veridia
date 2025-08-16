@@ -18,7 +18,6 @@ aliases: [NPC01309 Alaric Brightblade the Wanderer]
 - [[#Erasmus Dawnstrider the Risen (Criminal - Handler)|Erasmus Dawnstrider the Risen (Criminal - Handler)]]
 - [[#Xander Youngblood the Cunning (Political - Ally)|Xander Youngblood the Cunning (Political - Ally)]]
 
-
 ---
 aliases: ["Alaric Brightblade the Wanderer", "alaric brightblade the wanderer", "Alaric Brightblade Wanderer", "Wanderer the Brightblade Alaric"]
 tags: [npc, character]
@@ -147,21 +146,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.259Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -169,16 +164,16 @@ Forming expedition to dangerous location
 - Connects to [[Quest - The Failed Surgery 2]]
 - Affected by [[LORE0012_Prophecy_of_the_Dark_Times]]
 - Compare with [[50K_ENHANCEMENT_MASTER_PROMPT]]
-- Parallels [[step_032]]
+- Parallels
 - Connects to [[step_083 (phase_078)]]
 - Related: [[Assets Locations Location City the Aether Works V1 the Aether Works.svg]]
 - Originates from [[Camel Xmm]]
 - Leads to [[MON00128_Constructs_Creature_129]]
 - Related: [[Symbol Heraldry Archmerchant Codex Goldstrea V1 Archmerchant Codex Goldstrea.svg]]
-- Related: [[step_028]]
-- Originates from [[step_029]]
+- Related:
+- Originates from
 - Influences [[step_088 (phase_027)]]
-- Originates from [[step_024]]
+- Originates from
 - Influences [[NPC01051_Gareth_Nightfall_the_Broken]]
 - Affected by [[Sage Prism Lightweaver 2]]
 - Influences [[hill-giant-xmm (giant)]]
@@ -186,9 +181,9 @@ Forming expedition to dangerous location
 - Affected by [[Portrait NPC Tidal Priests Circle V1 Tidal Priests Circle.svg_1 (Portraits)]]
 - Requires [[downtime-activity-crime-xge (variant-rules)]]
 - Parallels [[NPC01887_Rhiannon_Stormwind_the_Cunning]]
-- Requires [[step_018]]
+- Requires
 - Leads to [[Assets Locations Location City the Temporal Convergence Storms V1 the Temporal Convergence Storms.svg]]
-- Originates from [[step_098]]
+- Originates from
 - Influences [[SPELL00007_Divine_Spell_8]]
 - Influences [[step_041 (phase_060)]]
 - Originates from [[male-steeder-mpmm (monstrosity)]]
@@ -217,7 +212,7 @@ Forming expedition to dangerous location
 - Leads to [[step_048 (phase_008)]]
 - Related: [[The Crystal Amphitheater]]
 - Compare with [[Campaign Management Guide (D&D_References)]]
-- Affected by [[step_093]]
+- Affected by
 - See also: [[Sarah Chronicler (D&D_References)]]
 - Affected by [[SHOP00053_General_Shop_54]]
 - Affected by [[step_029 (phase_052)]]
@@ -229,7 +224,7 @@ Forming expedition to dangerous location
 - Affected by [[Symbol Heraldry Void Touched Crew Member Void Touched Crew Member.svg]]
 - Compare with [[step_088 (phase_091)]]
 - See also: [[Fireball Fungus Xdmg]]
-- See also: [[step_050]]
+- See also:
 - See also: [[Supplemental Tables Relationship Xge]]
 - Related: [[NPC01849_Kaelen_Silverleaf_the_Scholar]]
 - Leads to [[step_023 (phase_046)]]
@@ -243,7 +238,7 @@ Forming expedition to dangerous location
 - Compare with [[lifedrinker-xphb (optional-features)]]
 - Influences [[Void Touched Pilgrims 2]]
 - Affected by [[NPC01152_Urien_Ashford_the_Wanderer]]
-- Influences [[step_074]]
+- Influences
 - Influences [[step_019 (phase_021)]]
 - Affected by [[NPC00816_Thalia_Ravenheart_the_Risen]]
 - Compare with [[02_Worldbuilding_Places_The_Crystal_Gardens]]
@@ -251,16 +246,16 @@ Forming expedition to dangerous location
 - Originates from [[step_015 (phase_088)]]
 - Compare with [[Memory Traders]]
 - Parallels [[Location City the Phosphor Markets the Phosphor Markets.png]]
-- Affected by [[step_024]]
+- Affected by
 - See also: [[LORE00218_History_Entry_219]]
 - Related: [[LOC0090_Haventhorpe]]
-- Compare with [[step_048]]
+- Compare with
 - Requires [[NPC00029_Pyria_Brightblade_the_Cunning]]
 - See also: [[Assets Locations Location City Kelp Forests Kelp Forests.svg]]
 - Leads to [[entangle-xphb (spells)]]
 - Compare with [[secondary-tables-arcane-matters-xge (tables)]]
 - Influences [[step_064 (phase_060)]]
-- Affected by [[step_059]]
+- Affected by
 - Connects to [[FAC00038_Cults_39]]
 - Influences [[The_Conductor.png]]
 - Related: [[ENC00079_Social_Encounter_80]]
@@ -270,7 +265,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_alaric_stormwatch_the_keeper_of_the_light.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

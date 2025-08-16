@@ -9,7 +9,6 @@ aliases: [NPC01082 Fiora Ashford the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01082 Fiora Ashford the Fallen]
 - [[#Erasmus Moonshadow the Strong (Political - Spy)|Erasmus Moonshadow the Strong (Political - Spy)]]
 - [[#Solas Grimholt the Wise (Political - Patron)|Solas Grimholt the Wise (Political - Patron)]]
 - [[#Felicia Ironforge the Bold (Political - Opposition)|Felicia Ironforge the Bold (Political - Opposition)]]
-
 
 ---
 created: 2025-08-15
@@ -159,16 +157,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.235Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -215,11 +210,10 @@ Modifications:
 - [[NPC00976_Alaric_Quicksilver_the_Strong]]
 - [[MOC_Rules]]
 - [[NPC01761_Idris_Moonshadow_the_Broken]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -230,11 +224,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -251,7 +244,7 @@ Modifications:
 - Connects to [[step_005 (phase_083)]]
 - Requires [[The Final Merger 2]]
 - Affected by [[Garnet Xdmg]]
-- Compare with [[step_037]]
+- Compare with
 - Influences [[Doctor Silas Voidtouch]]
 - Related: [[Assets Locations Location City [[The Sundered Vaults]] the Sundered Vaults.svg]]
 - Leads to [[lemure-xmm (fiend)]]
@@ -289,11 +282,11 @@ Modifications:
 - See also: [[Meridian Trading Company]]
 - Requires [[ENC00151_Combat_Encounter_152]]
 - Originates from [[cleaving-through-creatures (variant-rules)]]
-- Influences [[step_041]]
+- Influences
 - Leads to [[Ancient Crystaldeep (D&D_References)]]
 - Compare with [[Emperor Thalassius]]
 - See also: [[Assets Locations Location City [[The [[Noble Quarter]] Market]] the Noble Quarter Market.svg]]
-- Influences [[step_045]]
+- Influences
 - Connects to [[Assets Locations Location City [[Choir Master Celestine Hymnsinger]] Choir Master Celestine Hymnsinger.svg]]
 - Compare with [[Sword of Life Stealing Xdmg]]
 - Related: [[myconid-spore-servant-xmm]]
@@ -324,7 +317,7 @@ Modifications:
 - Compare with [[yellow-sapphire-xdmg (items)]]
 - Leads to [[The Dream Shard]]
 - Requires [[ENC00272_Social_Encounter_273]]
-- Leads to [[step_056]]
+- Leads to
 - Compare with [[Princess Celestine [[Lumengarde]] (D&D_References)]]
 - Related: [[Treasure Xdmg]]
 - Originates from [[LOC0129_Groveford]]

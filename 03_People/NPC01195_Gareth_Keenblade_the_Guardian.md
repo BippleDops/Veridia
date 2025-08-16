@@ -18,7 +18,6 @@ aliases: [NPC01195 Gareth Keenblade the Guardian]
 - [[#Solas Zephyrblade the Guardian (Criminal - Accomplice)|Solas Zephyrblade the Guardian (Criminal - Accomplice)]]
 - [[#Jorah Hawthorne the Wise (Personal - Childhood friend)|Jorah Hawthorne the Wise (Personal - Childhood friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Gareth Keenblade the Guardian", "gareth keenblade the guardian", "Gareth Keenblade Guardian", "Guardian the Keenblade Garethtags: [npc, character, combat, magic, social, lore]er]
@@ -144,16 +143,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.247Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -177,11 +173,10 @@ Modifications:
 - [[NPC01498_Gareth_Quicksilver_the_Risen]]
 - [[Faction_Relationship_Web]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -191,28 +186,27 @@ Modifications:
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- Requires [[step_022]]
+- Requires
 - Requires [[Professor Darklight (D&D_References)]]
 - Originates from [[ITEM01497_Masterwork_Lock_of_Durability]]
 - Influences [[LORE00165_History_Entry_166]]
 - Parallels [[The Void Conspiracy (D&D_References)]]
 - Affected by [[human-names-japanese-male-xge (tables)]]
 - Originates from [[Item_Catalog_Complete ([[INDEX]]es)]]
-- Originates from [[step_093]]
+- Originates from
 - Compare with [[portrait-npc-shadow-embassy-v1-shadow-embassy.svg]]
 - Requires [[World_Primer.md]]
 - Influences [[LORE00110_History_Entry_111]]
 - Related: [[Map Map Singing Trenches Rift V2 Singing Trenches Rift.svg]]
 - See also: [[NPC00160_Aldric_Ironforge_the_Swift]]
-- Affected by [[step_082]]
+- Affected by
 - Leads to [[duergar-hammerer-mpmm (construct)]]
 - Compare with [[The Divine Seekers]]
 - Leads to [[Crystal Architecture Philosophy]]
@@ -226,9 +220,9 @@ Modifications:
 - Connects to [[power-word-fortify-xphb (spells)]]
 - Connects to [[QUEST00138_Personal_Quest_139]]
 - See also: [[step_014 (phase_006)]]
-- Compare with [[step_074]]
+- Compare with
 - Requires [[LORE00172_Prophecies_Entry_173]]
-- Requires [[Quest   Refugees of the Deep]]
+- Requires [[Quest Refugees of the Deep]]
 - Compare with [[brass-dragon-xmm (legendary-group)]]
 - Influences [[EVENT00087_Magical_Event_88]]
 - Related: [[Terrain_Effects]]
@@ -276,9 +270,9 @@ Modifications:
 - Connects to [[Manufacturing Chief Gearwright]]
 - Originates from [[ITEM00378_Shadow_Bow_of_Wounding]]
 - Connects to [[QUEST00037_Side_Quest_38]]
-- Originates from [[step_057]]
+- Originates from
 - Requires [[sunsword-cos (items)]]
-- Parallels [[step_039]]
+- Parallels
 - Connects to [[Location City [[Deep Mother Zealots]] Deep Mother Zealots.svg]]
 - Connects to [[Quest - The Failing Magic]]
 - Parallels [[Location City [[Ancient Treasury of Tides]] V1 Ancient Treasury of Tides.svg]]
@@ -304,7 +298,6 @@ Modifications:
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_standard.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_commander_gareth_steelborn_lord_commander_gareth_steelborn_svg_dramatic.png]]
 ![[03_People/portrait_lord_commander_gareth_steelborn_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

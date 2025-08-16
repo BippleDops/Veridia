@@ -18,7 +18,6 @@ aliases: [NPC01559 Kaelen Moonshadow the Guardian]
 - [[#Branwen Darkwater the Broken (Personal - Nemesis)|Branwen Darkwater the Broken (Personal - Nemesis)]]
 - [[#Orion Grimholt the Strong (Family - Child)|Orion Grimholt the Strong (Family - Child)]]
 
-
 ---
 aliases: ["Kaelen Moonshadow the Guardian", "kaelen moonshadow the guardian", "Kaelen Moonshadow Guardian", "Guardian the Moonshadow Kaelen"]
 tags: [npc, character]
@@ -146,21 +145,17 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.285Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -171,14 +166,14 @@ Forming expedition to dangerous location
 - Influences [[The Crown (02_Worldbuilding)]]
 - See also: [[Refugee Camps]]
 - Related: [[Update Indexes (D&D_References)]]
-- Leads to [[step_074]]
+- Leads to
 - Influences [[Portrait NPC Tribune Cassia Deepcurrent V1 Tribune Cassia Deepcurrent.svg]]
 - Originates from [[Assets Locations Location City Quest the Portal Crisis Quest the Portal Crisis.svg]]
 - Related: [[medium-armor-master-xphb (feats)]]
 - Requires [[Patrol Boundaryrider]]
 - See also: [[QUEST00114_Personal_Quest_115]]
 - Originates from [[Quest - Crystal Corruption_1 (01_Adventures)]]
-- Influences [[step_071]]
+- Influences
 - Related: [[step_066 (phase_072)]]
 - Related: [[step_088 (phase_007)]]
 - Affected by [[improvised-weapons-xphb]]
@@ -197,7 +192,7 @@ Forming expedition to dangerous location
 - Originates from [[10 Chapter 10 Descent Into the Depths]]
 - Parallels [[ENC00171_Combat_Encounter_172]]
 - Requires [[QUEST00031_Personal_Quest_32]]
-- Requires [[step_021]]
+- Requires
 - Parallels [[Warrior Thane Visionward 2]]
 - Requires [[The Bright Network]]
 - Influences [[Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg_1 (Portraits)]]
@@ -220,11 +215,11 @@ Forming expedition to dangerous location
 - See also: [[MON00156_Constructs_Creature_157]]
 - Requires [[step_007 (phase_067)]]
 - Parallels [[Quaals Feather Token Bird Xdmg]]
-- Connects to [[step_050]]
+- Connects to
 - Connects to [[List Spells Feats Druidic Warrior Xphb]]
 - Originates from [[LOC00210_Planes_Location_211]]
 - Affected by [[polar-bear-xmm]]
-- Requires [[step_081]]
+- Requires
 - Related: [[symbol-heraldry-the-archivist-v1-the-archivist.svg]]
 - Compare with [[Medical Historian Nautilus Deepscribe]]
 - Influences [[LOC00298_Cities_Location_299]]
@@ -256,8 +251,8 @@ Forming expedition to dangerous location
 - Requires [[LOC00094_Dungeons_Location_95]]
 - Parallels [[portrait-npc-syndicate-war-v1-syndicate-war.svg]]
 - Related: [[ENC00273_Social_Encounter_274]]
-- Originates from [[step_100]]
-- Compare with [[step_046]]
+- Originates from
+- Compare with
 - Originates from [[Ranger Xphb Monster Slayer Xge]]
 - Influences [[QUEST00006_Personal_Quest_7]]
 - Originates from [[Portrait NPC Deep Mother Priestess Sira Deep Mother Priestess Sira.svg_1 (Portraits)]]
@@ -269,7 +264,6 @@ Forming expedition to dangerous location
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_dramatic.png]]
 ![[03_People/portrait_assets_locations_location_city_temple_guardian_marcus_the_drowned_v1_temple_guardian_marcus_the_drowned_svg_standard.png]]
 ![[03_People/portrait_the_crimson_shard_guardian.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

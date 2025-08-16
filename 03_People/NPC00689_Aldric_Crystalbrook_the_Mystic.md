@@ -18,7 +18,6 @@ aliases: [NPC00689 Aldric Crystalbrook the Mystic]
 - [[#Wynne Moonshadow the Lost (Professional - Rival)|Wynne Moonshadow the Lost (Professional - Rival)]]
 - [[#Malakai Hawthorne the Broken (Professional - Mentor)|Malakai Hawthorne the Broken (Professional - Mentor)]]
 
-
 ---
 aliases: ["Aldric Crystalbrook the Mystic", "aldric crystalbrook the mystic", "Aldric Crystalbrook Mystic", "Mystic the Crystalbrook Aldric"]
 tags: [npc, character]
@@ -150,21 +149,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.191Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -177,12 +172,12 @@ Family member has gone missing
 - Parallels [[Kraken Territories 2]]
 - Affected by [[Assets Locations Location City the First Truth the First Truth.svg]]
 - Requires [[Portrait NPC Sunken Kingdom of Nereon V1 Sunken Kingdom of Nereon.svg]]
-- Originates from [[step_083]]
+- Originates from
 - Parallels [[Location City Constellation Codex Constellation Codex.svg]]
 - Connects to [[step_053 (phase_015)]]
 - Parallels [[LORE00043_Prophecies_Entry_44]]
-- Leads to [[step_066]]
-- Parallels [[step_017]]
+- Leads to
+- Parallels
 - Connects to [[Gold Dragon Wyrmling Xmm]]
 - Affected by [[LOC00100_Dungeons_Location_101]]
 - Related: [[Deep Lord Pelagios the Eternal (D&D_References)]]
@@ -198,13 +193,13 @@ Family member has gone missing
 - Related: [[step_066 (phase_037)]]
 - Parallels [[step_100 (phase_098)]]
 - Requires [[Location City the Perfect Symbiosis the Perfect Symbiosis.svg]]
-- Compare with [[step_098]]
+- Compare with
 - Connects to [[Location City Deep Mother Spawning Pools V1 Deep Mother Spawning Pools.svg]]
 - Requires [[LOC00205_Dungeons_Location_206]]
 - Parallels [[holy-symbol-xphb (items)]]
 - Leads to [[Psychic Shields 2]]
 - Connects to [[Royal Ports]]
-- Parallels [[step_098]]
+- Parallels
 - See also: [[Portrait NPC Archbishop Mordecai Stormwright V2 Archbishop Mordecai Stormwright.svg]]
 - Requires [[step_047 (phase_077)]]
 - Originates from [[Senator Abyssos Traditionkeeper (D&D_References)]]
@@ -215,7 +210,7 @@ Family member has gone missing
 - Compare with [[NPC00585_Brenna_Crystalbrook]]
 - Compare with [[step_051 (phase_036)]]
 - Compare with [[step_025 (phase_063)]]
-- Parallels [[step_071]]
+- Parallels
 - Influences [[LOC00184_Wilderness_Location_185]]
 - Requires [[Truth-seeker's Lens]]
 - Compare with [[Wretched Sorrowsworn Mpmm]]
@@ -261,7 +256,7 @@ Family member has gone missing
 - Requires [[ITEM0063_Hidden_Circlet_of_Power]]
 - Influences [[New_Journey_Event_Template]]
 - Connects to [[ability-score-and-modifier-xphb (variant-rules)]]
-- Affected by [[step_035]]
+- Affected by
 - Originates from [[Arcane Destroyer Tidal Stormcaller]]
 - See also: [[QUEST00039_Main_Quest_40]]
 - Parallels [[Map Map Kelp Forest Labyrinth V1 Kelp Forest Labyrinth.svg]]
@@ -273,7 +268,6 @@ Family member has gone missing
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_aldric_blackwater_lord_aldric_blackwater_svg_friendly.png]]
 ![[03_People/portrait_assets_locations_location_city_master_archivist_valdric_stonewhisper_v1_master_archivist_valdric_stonewhisper_svg_standard.png]]
 ![[03_People/portrait_duke_aldric_blackwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

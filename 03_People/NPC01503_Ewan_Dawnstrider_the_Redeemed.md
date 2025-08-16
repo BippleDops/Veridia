@@ -9,7 +9,6 @@ aliases: [NPC01503 Ewan Dawnstrider the Redeemed]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01503 Ewan Dawnstrider the Redeemed]
 - [[#Cedric Dawnstrider the Redeemed (Family - Child)|Cedric Dawnstrider the Redeemed (Family - Child)]]
 - [[#Kaelen Keenblade the Wanderer (Political - Puppet)|Kaelen Keenblade the Wanderer (Political - Puppet)]]
 - [[#Thalia Winterborn the Swift (Criminal - Handler)|Thalia Winterborn the Swift (Criminal - Handler)]]
-
 
 ---
 created: 2025-08-15
@@ -157,16 +155,13 @@ Forming expedition to dangerous location
 ---
 *Generated: 2025-08-15T03:51:03.280Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -178,7 +173,6 @@ Modifications:
 - HP: 15
 - AC: 10
 - Notable abilities: Varies by individual
-
 
 > [!info] ℹ️ Info
 > Additional context or lore
@@ -201,11 +195,10 @@ Modifications:
 - [[Combat_Encounter_Analysis]]
 - [[Welcome_to_Aquabyssos.md]]
 - [[Character_Journal_Template]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -215,11 +208,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -242,16 +234,16 @@ Modifications:
 ## Connections
 
 - Compare with [[step_057 (phase_084)]]
-- Originates from [[step_057]]
-- Leads to [[step_058]]
-- Leads to [[step_022]]
+- Originates from
+- Leads to
+- Leads to
 - Compare with [[NPC01880_Ewan_Brightblade_the_Wise]]
 - Leads to [[Potion of Storm Giant Strength Xdmg]]
 - Requires [[#General Info]]
 - Connects to [[ITEM01393_Decorated_Journal_of_Durability]]
 - Affected by [[White Dragon Wyrmling Xmm]]
 - Compare with [[step_063 (phase_076)]]
-- Influences [[step_002]]
+- Influences
 - Parallels [[step_011 (phase_058)]]
 - Connects to [[Assets Locations Location City [[Wave Healingbringer]] Wave Healingbringer.svg]]
 - Connects to [[Captain Steelhart (D&D_References)]]
@@ -267,27 +259,27 @@ Modifications:
 - Connects to [[Bejeweled Ivory Drinking Horn With Gold]]
 - Influences [[step_100 (phase_020)]]
 - Compare with [[step_100 (phase_039)]]
-- Influences [[step_073]]
+- Influences
 - Leads to [[EVENT00040_Political_Event_41]]
 - Influences [[ENC00054_Combat_Encounter_55]]
 - Leads to [[Quest - The Democratic Crisis]]
-- Originates from [[step_001]]
+- Originates from
 - See also: [[Ink Pen Xphb]]
 - Connects to [[Heavy Armor Master Xphb]]
 - Parallels [[NPC01556_Felicia_Underhill_the_Seeker]]
 - Requires [[Shadow Mastiff Alpha Mpmm]]
 - Affected by [[Wizard_Journal]]
 - Originates from [[step_079 (phase_076)]]
-- Affected by [[step_075]]
+- Affected by
 - Connects to [[Map Map Storm Torn Lighthouse Storm Torn Lighthouse.svg]]
 - Requires [[ITEM00726_Primordial_Mirror_of_Destiny]]
 - Compare with [[Location City [[Port Meridian]] [[Harbor District]] [[Port Meridian Harbor]] District.svg]]
 - Connects to [[NPC01362_Alaric_Ashford_the_Wanderer]]
-- Affected by [[step_045]]
+- Affected by
 - Parallels [[Dual-State Armor (Items)]]
-- Influences [[step_048]]
+- Influences
 - Parallels [[[[Tavern]]_Keeper_Finn_Splitlung.png]]
-- Compare with [[step_040]]
+- Compare with
 - Affected by [[Woodcarvers Tools Xphb]]
 - Influences [[spell-scrolls-spell-scroll (tables)]]
 - Affected by [[Assets Locations [[Location City [[Memorial Current]] Memorial Current.png]]]]
@@ -298,7 +290,7 @@ Modifications:
 - Influences [[step_026 (phase_067)]]
 - Connects to [[step_050 (phase_048)]]
 - See also: [[Marina Deepcurrent]]
-- Affected by [[step_073]]
+- Affected by
 - Compare with [[Artisan Guild Master]]
 - Influences [[Archivist Supreme [[INDEX]]a]]
 - Related: [[LOC00031_Planes_Location_32]]
@@ -325,9 +317,9 @@ Modifications:
 - Requires [[totem]]
 - Related: [[Princess Nereia]]
 - Affected by [[Hobgoblin Vgm]]
-- Leads to [[step_007]]
+- Leads to
 - Originates from [[Halls of Eternal Memory]]
-- Leads to [[step_099]]
+- Leads to
 - Parallels [[Portrait NPC Professor Aldric Crystalweaver V1 Professor Aldric Crystalweaver.svg_1 (Portraits)]]
 - Affected by [[Greyhawk Hextor Xdmg]]
 - Originates from [[Merger Transit Zones]]
@@ -336,8 +328,8 @@ Modifications:
 - Parallels [[LOC00180_Planes_Location_181]]
 - Influences [[SHOP00063_General_Shop_64]]
 - Influences [[Symbol Heraldry Salvage Master Ironwork Salvage Master Ironwork.svg]]
-- See also: [[step_082]]
-- See also: [[step_006]]
+- See also:
+- See also:
 - Originates from [[D L-11 the Last Anchor Player (Encounters)]]
 - Related: [[Aetheric Wind Songs (D&D_References)]]
 - Compare with [[bard-xphb-college-of-swords-xge (classes)]]

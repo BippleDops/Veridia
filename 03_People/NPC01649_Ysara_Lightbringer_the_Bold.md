@@ -18,7 +18,6 @@ aliases: [NPC01649 Ysara Lightbringer the Bold]
 - [[#Nerys Voidwalker the Scholar (Professional - Partner)|Nerys Voidwalker the Scholar (Professional - Partner)]]
 - [[#Gavril Winterborn the Mystic (Criminal - Target)|Gavril Winterborn the Mystic (Criminal - Target)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Ysara Lightbringer the Bold", "ysara lightbringer the bold", "Ysara Lightbringer Bold", "Bold the Lightbringer Ysara"]
@@ -155,27 +154,23 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.295Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -184,11 +179,10 @@ Provides information for a price
 - **Death Saves**: See ACX p.197
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -207,7 +201,7 @@ Provides information for a price
 - See also: [[NPC0100_Ulric_Goldleaf]]
 - Originates from [[DUN00056_Dungeon_57]]
 - Originates from [[Caravan Master Dolrim]]
-- See also: [[step_092]]
+- See also:
 - Compare with [[SHOP00034_General_Shop_35]]
 - Affected by [[NPC00747_Hilda_Crystalbrook_the_Broken]]
 - Requires [[Revolutionary Crystal Consciousness]]
@@ -239,7 +233,7 @@ Provides information for a price
 - Leads to [[Patrol Boundaryrider]]
 - Parallels [[The Probability Courts]]
 - Compare with [[step_065 (phase_039)]]
-- Influences [[step_044]]
+- Influences
 - See also: [[Weapons Trader Gareth Steelmerchant]]
 - Affected by [[Locked Door Lock Quality Xdmg]]
 - Parallels [[The Crystal Academy Council]]
@@ -251,23 +245,23 @@ Provides information for a price
 - Parallels [[LOC00247_Wilderness_Location_248]]
 - Requires [[step_063 (phase_099)]]
 - Related: [[Carrion Crawler Xmm]]
-- See also: [[step_097]]
+- See also:
 - Leads to [[Symbol Heraldry Merchant Family Tidewalker Merchant Family Tidewalker.svg]]
 - Requires [[step_015 (phase_077)]]
 - Requires [[sending-xphb (spells)]]
-- Parallels [[step_023]]
+- Parallels
 - Originates from [[portrait-npc-the-cure-the-cure.svg_1 (Portraits)]]
 - Leads to [[step_010 (phase_020)]]
 - Connects to [[sunbeam-xphb (spells)]]
 - Affected by [[step_056 (phase_051)]]
 - Connects to [[step_089 (phase_060)]]
 - Compare with [[Location City Mad Oracle Thessaly V1 Mad Oracle Thessaly.svg]]
-- Related: [[step_004]]
+- Related:
 - Compare with [[ENC00446_Combat_Encounter_447]]
 - Leads to [[Portrait NPC Queen Lyralei Stormheart V2 Queen Lyralei Stormheart.svg]]
 - Compare with [[ENC0052_Random_Encounter_53]]
 - Originates from [[Location City Luminar the Builder Luminar the Builder.svg]]
-- Connects to [[step_062]]
+- Connects to
 - Compare with [[SPELL00033_Divine_Spell_34]]
 - Connects to [[Sea Hag]]
 - Compare with [[Portrait NPC Vex Shadowthorn S Apprentices V1 Vex Shadowthorn S Apprentices.svg_1 (Portraits)]]
@@ -279,9 +273,9 @@ Provides information for a price
 - Connects to [[darkvision-xphb (spells)]]
 - Related: [[step_002 (phase_007)]]
 - Compare with [[Portrait NPC Paladin Commander Sir Radiant Dawnbreaker Paladin Commander Sir Radiant Dawnbreaker.svg]]
-- Requires [[step_047]]
+- Requires
 - Requires [[LORE00071_History_Entry_72]]
-- Related: [[step_029]]
+- Related:
 - Related: [[step_079 (phase_016)]]
 - Originates from [[step_044 (phase_062)]]
 - See also: [[QUEST00157_Main_Quest_158]]
@@ -297,7 +291,6 @@ Provides information for a price
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_friendly.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_dramatic.png]]
 ![[03_People/portrait_assets_symbols_symbol_heraldry_lysara_brightshield_lysara_brightshield_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00612 Thalia Jadeclaw the Fallen]
 - [[#Solas Quicksilver the Redeemed (Criminal - Handler)|Solas Quicksilver the Redeemed (Criminal - Handler)]]
 - [[#Drusilla Zephyrblade the Wise (Family - Parent)|Drusilla Zephyrblade the Wise (Family - Parent)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Jadeclaw the Fallen", "thalia jadeclaw the fallen", "Thalia Jadeclaw Fallen", "Fallen the Jadeclaw Thalia"]
@@ -151,16 +150,13 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.182Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -184,11 +180,10 @@ Witnessed a crime
 - [[MOC_Lore]]
 - [[MOC_Items]]
 - [[NPC00058_Elric_Nightfall]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -196,11 +191,10 @@ Witnessed a crime
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -210,7 +204,7 @@ Witnessed a crime
 - Affected by [[ITEM01413_Practical_Map_Case_of_Convenience]]
 - Related: [[Linen 1 Sq Yd Xdmg]]
 - Leads to [[step_039 (phase_008)]]
-- Originates from [[step_002]]
+- Originates from
 - Affected by [[ITEM01138_Lesser_Salve_of_Healing]]
 - Originates from [[location-city-goldspire-port-goldspire-port.svg]]
 - Originates from [[step_002 (phase_061)]]
@@ -219,7 +213,7 @@ Witnessed a crime
 - Related: [[actions#Utilize]]
 - Parallels [[Portrait NPC Captain Threshold Captain Threshold.svg]]
 - Leads to [[ability-score-improvement-xphb (feats)]]
-- Requires [[step_036]]
+- Requires
 - Requires [[Merchant of Shadows 2]]
 - Originates from [[step_013 (phase_098)]]
 - Leads to [[Guide Helpfulcurrent 2]]
@@ -235,7 +229,7 @@ Witnessed a crime
 - Related: [[List Spells Classes Illusionist Xphb]]
 - Related: [[playing-cards-xphb (items)]]
 - See also: [[NPC00140_Brenna_Youngblood_the_Scholar]]
-- Parallels [[step_066]]
+- Parallels
 - Originates from [[Portrait NPC the Shadow Warren V1 the Shadow Warren.svg]]
 - See also: [[Devils Sight Xphb]]
 - Affected by [[Dolphin]]
@@ -251,7 +245,7 @@ Witnessed a crime
 - Originates from [[FAC00076_Cults_77]]
 - Related: [[Gnome Names Male Xge]]
 - Parallels [[step_054 (phase_046)]]
-- Related: [[step_043]]
+- Related:
 - Related: [[all-is-well-xdmg (tables)]]
 - See also: [[Surface Raiders]]
 - Requires [[examples-of-faction-ranks (tables)]]
@@ -271,8 +265,8 @@ Witnessed a crime
 - Connects to [[Dungeon Dressing Books Scrolls and Tomes]]
 - Originates from [[Frontier Settlement]]
 - Influences [[location-city-trade-union-trade-union.svg]]
-- Parallels [[step_057]]
-- Leads to [[step_055]]
+- Parallels
+- Leads to
 - Compare with [[step_005 (phase_072)]]
 - Requires [[step_082 (phase_033)]]
 - Leads to [[Deep Stone Eaters]]
@@ -291,8 +285,8 @@ Witnessed a crime
 - See also: [[blackrazor-xdmg (items)]]
 - Compare with [[Common Storage]]
 - Influences [[Temporal Harvest 2]]
-- Originates from [[step_040]]
-- Originates from [[step_088]]
+- Originates from
+- Originates from
 - Leads to [[Location City Adult Education Programs Adult Education Programs.svg]]
 - Connects to [[The Mirror of Succession 2]]
 - Related: [[Session 04 the Deep Mother Stirs]]
@@ -309,7 +303,6 @@ Witnessed a crime
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

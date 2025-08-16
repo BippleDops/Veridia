@@ -9,7 +9,6 @@ aliases: [Captain Zephyr Voidwing]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Overview|Overview]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [Captain Zephyr Voidwing]
 - [[#Plot Hooks|Plot Hooks]]
 - [[#DM Notes|DM Notes]]
 - [[#References|References]]
-
 
 ---
 title: Captain Zephyr Voidwing
@@ -85,31 +83,25 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 - [[Session 06 the Sky Throne]]
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Possessions
 - Personal items
 - Valuable objects
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
-
 
 ## Connections
 
@@ -140,7 +132,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Requires [[step_078 (phase_084)]]
 - Influences [[Sir Theron Crystalward]]
 - See also: [[ENC00255_Social_Encounter_256]]
-- Leads to [[step_055]]
+- Leads to
 - Originates from [[Assets Locations Location City Market Heist Market Heist.svg]]
 - Related: [[Crystal Cultivation Training Cente]]
 - Influences [[Timeline of the Drowning (Lore)]]
@@ -148,7 +140,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Parallels [[dragonlance-chislev-phb (deities)]]
 - Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-the-code-wars-the-code-wars.svg]]
 - Compare with [[Special Facility Descriptions Special Facilities Xdmg]]
-- Leads to [[step_083]]
+- Leads to
 - Related: [[step_020 (phase_049)]]
 - Influences [[LORE00250_Prophecies_Entry_251]]
 - Requires [[step_096 (phase_030)]]
@@ -158,7 +150,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Affected by [[High Hierophant Meridius 2]]
 - Originates from [[step_033 (phase_032)]]
 - Compare with [[Fractal Mascot Scc]]
-- Compare with [[step_008]]
+- Compare with
 - Originates from [[elemental-gem-xdmg (items)]]
 - See also: [[Sylvanheart (D&D_References)]]
 - Leads to [[The Sunken City of Aeridor 2]]
@@ -185,15 +177,15 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - See also: [[Consequence Chain 4 - Deep Mother Awakening 2]]
 - Requires [[The Echo Succession 2]]
 - Influences [[Session Planning Guide (02_Worldbuilding)]]
-- Connects to [[step_039]]
+- Connects to
 - Connects to [[Vehicle Ship Aether Sail Testbed V2 Aether Sail Testbed.svg]]
 - Parallels [[theater]]
 - Leads to [[location-city-mira-algaebrew-v1-mira-algaebrew.svg]]
-- Connects to [[step_008]]
+- Connects to
 - Related: [[NPC01651_Cedric_Winterborn_the_Seeker]]
 - Influences [[animated-drow-statue-oota (elemental)]]
 - Influences [[QUEST0022_In_Search_of_Peace]]
-- Requires [[step_018]]
+- Requires
 - Parallels [[step_062 (phase_015)]]
 - See also: [[stone-golem-xmm]]
 - Parallels [[FAC00087_Cults_88]]
@@ -207,7 +199,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Originates from [[Pressure Wraiths]]
 - Parallels [[Scholar-Merchant Remembrance Tidekeep (D&D_References)]]
 - Affected by [[step_032 (phase_082)]]
-- Originates from [[step_065]]
+- Originates from
 - Connects to [[step_051 (phase_046)]]
 - Originates from [[The Cipher Current]]
 - Parallels [[Quest - The Economic Conspiracy]]

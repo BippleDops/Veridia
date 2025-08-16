@@ -18,7 +18,6 @@ aliases: [NPC00723 Caelum Xendar the Risen]
 - [[#Urien Underhill the Wanderer (Political - Spy)|Urien Underhill the Wanderer (Political - Spy)]]
 - [[#Ewan Ashford the Redeemed (Personal - Childhood friend)|Ewan Ashford the Redeemed (Personal - Childhood friend)]]
 
-
 ---
 aliases: ["Caelum Xendar the Risen", "caelum xendar the risen", "Caelum Xendar Risen", "Risen the Xendar Caelum"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Discovered something valuable
 ---
 *Generated: 2025-08-15T03:51:03.195Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -191,7 +186,7 @@ Discovered something valuable
 - Affected by [[Barbarian Xphb Path of the Ancestral]]
 - Compare with [[step_032 (phase_063)]]
 - Requires [[Location City Temple of the Eternal Flame Temple of the Eternal Flame.svg]]
-- Leads to [[step_098]]
+- Leads to
 - Requires [[Energy Bow Xdmg]]
 - Affected by [[LOC00174_Planes_Location_175]]
 - Requires [[Tides_of_Destiny_Introduction (D&D_Sourcebooks)]]
@@ -209,7 +204,7 @@ Discovered something valuable
 - Compare with [[LOC00271_Dungeons_Location_272]]
 - Related: [[LORE00021_Legends_Entry_22]]
 - Related: [[Transformation Mechanics]]
-- See also: [[step_054]]
+- See also:
 - Affected by [[Creature Creature Swarm of Dretches Xmm V4 Swarm of Dretches Xmm.png]]
 - Connects to [[step_090 (phase_077)]]
 - Parallels [[QUEST00136_Personal_Quest_137]]
@@ -254,7 +249,7 @@ Discovered something valuable
 - Requires [[Crystal Engineer Spark Gemwright]]
 - Originates from [[identify-important-npcs-adventure-allies (tables)]]
 - Affected by [[Item Artifact Boots of Striding and Springing Xdmg V4 Boots of Striding and Springing Xdmg.png]]
-- Originates from [[step_084]]
+- Originates from
 - Leads to [[FAC00090_Orders_91]]
 - Parallels [[kuo-toa-dmg (races)]]
 - Parallels [[Location City Sentinel Constructs Sentinel Constructs.svg]]
@@ -276,7 +271,6 @@ Discovered something valuable
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_player.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_physical.png]]
 ![[04_Resources/maps/world_master_builder_caelum_vortexwright_gm.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

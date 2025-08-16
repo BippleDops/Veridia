@@ -18,7 +18,6 @@ aliases: [NPC01177 Thalia Underhill the Fallen]
 - [[#Fiora Underhill the Wise (Personal - Nemesis)|Fiora Underhill the Wise (Personal - Nemesis)]]
 - [[#Ysara Stormwind the Risen (Professional - Mentor)|Ysara Stormwind the Risen (Professional - Mentor)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Underhill the Fallen", "thalia underhill the fallen", "Thalia Underhill Fallen", "Fallen the Underhill Thaliatags: [npc, character, combat, social, exploration, puzzle, lore]er]
@@ -143,16 +142,13 @@ Caravan needs guards
 ---
 *Generated: 2025-08-15T03:51:03.245Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -197,11 +193,10 @@ Modifications:
 - [[NPC01229_Gavril_Ironwood_the_Scholar]]
 - [[Item_Catalog_Complete.md]]
 - [[NPC01970_Brenna_Dawnstrider_the_Wise]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -212,11 +207,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -249,11 +243,11 @@ Modifications:
 - Affected by [[The Deep Mother 3 (D&D_References)]]
 - Leads to [[Deep Current Academy (Places)]]
 - Requires [[ENC00042_Environmental_Encounter_43]]
-- Influences [[step_086]]
+- Influences
 - Requires [[step_098 (phase_098)]]
 - Requires [[NPC00898_Elric_Hawthorne_the_Mystic]]
 - Parallels [[ensnaring-strike-xphb (spells)]]
-- Related: [[step_076]]
+- Related:
 - Parallels [[step_019 (phase_054)]]
 - Related: [[[[Community Organizations]] 2]]
 - Leads to [[ASSET_EXPANSION_COMPLETE]]
@@ -287,10 +281,10 @@ Modifications:
 - Leads to [[Spell Gem Amber Oota]]
 - Leads to [[[[Explorer Captain Reef Deepdiver]] (D&D_References)]]
 - Parallels [[location-city-[[Deepsteel]]-v1-deepsteel.svg]]
-- Influences [[step_047]]
+- Influences
 - See also: [[[[Goldspire Confederacy]] (D&D_Statblocks)]]
 - Compare with [[Assets Portraits Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg]]
-- Connects to [[step_052]]
+- Connects to
 - Affected by [[MON0009_Frost_Reaper]]
 - Related: [[Equipment_Catalogs (D&D_References)]]
 - Compare with [[Location City Military Intelligence Military Intelligence.svg]]
@@ -303,7 +297,7 @@ Modifications:
 - Originates from [[LORE00050_Prophecies_Entry_51]]
 - Connects to [[step_096 (phase_087)]]
 - Affected by [[improvement_report_20250815_140442]]
-- Requires [[step_040]]
+- Requires
 - See also: [[step_015 (phase_063)]]
 - Parallels [[ENC0002_Random_Encounter_3]]
 - Connects to [[Quest - The Deep Cartographer_1 (01_Adventures)]]
@@ -314,10 +308,10 @@ Modifications:
 - Related: [[Aboleth Servants]]
 - Originates from [[Captain_Trawl_Netcaster.png]]
 - Connects to [[Resonance Equipment]]
-- See also: [[step_100]]
+- See also:
 - Affected by [[Portrait NPC Admiral Cassandra Stormwind V1 Admiral Cassandra Stormwind.svg]]
 - Parallels [[Commander Eastwind Stormbreak (D&D_References)]]
-- Compare with [[step_042]]
+- Compare with
 - Affected by [[The Archcrystal]]
 - Connects to [[Living Library]]
 
@@ -325,7 +319,6 @@ Modifications:
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

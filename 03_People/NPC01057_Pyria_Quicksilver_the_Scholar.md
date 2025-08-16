@@ -18,7 +18,6 @@ aliases: [NPC01057 Pyria Quicksilver the Scholar]
 - [[#Hestara Emberfall the Cunning (Professional - Employer)|Hestara Emberfall the Cunning (Professional - Employer)]]
 - [[#Drusilla Zephyrblade the Cunning (Political - Patron)|Drusilla Zephyrblade the Cunning (Political - Patron)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Pyria Quicksilver the Scholar", "pyria quicksilver the scholar", "Pyria Quicksilver Scholar", "Scholar the Quicksilver Pyriatags: [npc, character, combat, social, exploration, lore]er]
@@ -149,16 +148,13 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.232Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -170,7 +166,6 @@ Modifications:
 - HP: 34
 - AC: 16
 - Notable abilities: Varies by individual
-
 
 > [!tip] 💡 Tip
 > Useful information for players
@@ -195,11 +190,10 @@ Modifications:
 - [[NPC01699_Orion_Oakenshield_the_Broken]]
 - [[Parliament of Shadows Player Guide.md]]
 - [[NPC01594_Fiora_Proudmore_the_Seeker]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -210,11 +204,10 @@ Modifications:
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -271,16 +264,16 @@ Modifications:
 - Leads to [[step_024 (phase_051)]]
 - Compare with [[find-the-path-xphb (spells)]]
 - Influences [[Consequence_Chain_Name_2 (02_Worldbuilding)]]
-- Affected by [[step_054]]
+- Affected by
 - Compare with [[LOC00214_Dungeons_Location_215]]
 - Connects to [[The Reunification Coalition]]
 - Requires [[step_021 (phase_078)]]
 - Originates from [[Quest - The Perfect Purifier_1 (01_Adventures)]]
-- Compare with [[step_026]]
+- Compare with
 - Connects to [[Portrait NPC Captain Marina Saltborn V1 Captain Marina Saltborn.svg]]
 - Related: [[04_Resources_Assets_Portraits_portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg_Quick_Ref]]
 - Leads to [[step_049 (phase_044)]]
-- Requires [[step_016]]
+- Requires
 - Compare with [[SHOP00051_General_Shop_52]]
 - Influences [[Filter_Exchange_Quest]]
 - Requires [[step_046 (phase_083)]]
@@ -338,7 +331,6 @@ Modifications:
 ![[03_People/portrait_scholar_priest_tidal_memory_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_friendly.png]]
 ![[03_People/portrait_scholar_emperor_thalassius_the_wise_dramatic.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

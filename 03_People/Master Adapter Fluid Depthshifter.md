@@ -9,7 +9,6 @@ aliases: [Master Adapter Fluid Depthshifter]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Overview|Overview]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [Master Adapter Fluid Depthshifter]
 - [[#Plot Hooks|Plot Hooks]]
 - [[#DM Notes|DM Notes]]
 - [[#References|References]]
-
 
 ---
 aliases: [Master_Adapter_Fluid_Depthshifter, Master-Adapter-Fluid-Depthshifter]
@@ -86,34 +84,28 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 - [[System Cli Spells School Transmutation]]
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
 - [[10K_GENERATION_REPORT]]
@@ -123,7 +115,6 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
-
 
 ## Connections
 
@@ -145,7 +136,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Influences [[step_032 (phase_044)]]
 - Originates from [[LORE00097_Legends_Entry_98]]
 - Influences [[step_085 (phase_080)]]
-- Compare with [[step_099]]
+- Compare with
 - Influences [[MON00107_Aberrations_Creature_108]]
 - Compare with [[Tashas Bubbling Cauldron Xphb]]
 - Originates from [[EVENT00049_Magical_Event_50]]
@@ -159,13 +150,13 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Parallels [[step_015 (phase_005)]]
 - Connects to [[ITEM00813_Time-worn_Crown_of_Eternity]]
 - Related: [[step_085 (phase_028)]]
-- Connects to [[step_040]]
+- Connects to
 - Parallels [[NPC00103_Drusilla_Moonshadow_the_Guardian]]
 - Affected by [[02-chapter-2-into-darkness (out-of-the-abyss)]]
 - Requires [[Assets Locations Location City Memory Recording Chambers Memory Recording Chambers.svg]]
 - Originates from [[Stormwind Estate]]
 - Influences [[Treasure and Rewards System]]
-- Originates from [[step_030]]
+- Originates from
 - Influences [[ENC00033_Environmental_Encounter_34]]
 - Leads to [[Portrait NPC Embassy of Eternal Shadows V1 Embassy of Eternal Shadows.svg]]
 - Parallels [[Treasurer Mint Coinwise (D&D_References)]]
@@ -179,7 +170,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Affected by [[list-spells-classes-clockwork-sorcery-xphb (lists)]]
 - Influences [[creature-creature-bat-xmm-v3-bat-xmm.png]]
 - Requires [[Quest - Moral Choices 2]]
-- Connects to [[step_029]]
+- Connects to
 - Parallels [[LORE00189_Legends_Entry_190]]
 - Influences [[Duke Gale Vortex (D&D_References)]]
 - Originates from [[Archive of Forgotten Depths (D&D_References)]]
@@ -187,16 +178,16 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Parallels [[Tribune Maelstrom]]
 - See also: [[04-chapter-3-dragon-hatchery (hoard-of-the-dragon-queen)]]
 - Parallels [[Location City Reflection Pools Surgical Theater V1 Reflection Pools Surgical Theater.svg]]
-- See also: [[step_081]]
+- See also:
 - Connects to [[The Shadow Infiltration Attempt 2]]
 - Requires [[NPC00154_Dara_Winterborn]]
 - Related: [[Item Artifact Dagger of Venom Xdmg V6 Dagger of Venom Xdmg.png]]
-- Originates from [[step_095]]
+- Originates from
 - Influences [[Supernatural Mysteries (D&D_References)]]
 - Originates from [[NPC01271_Pyria_Stormwind_the_Swift]]
 - See also: [[becoming-lost-wilderness-navigation (tables)]]
 - Influences [[Master Shadow Harmonist Penumbra Duskweaver 2]]
-- See also: [[step_021]]
+- See also:
 - Related: [[ENC00070_Combat_Encounter_71]]
 - Compare with [[Tiefling Zariel Mtf]]
 - Affected by [[Portrait NPC Commodity Queen Abundance Commodity Queen Abundance.svg_1 (Portraits)]]

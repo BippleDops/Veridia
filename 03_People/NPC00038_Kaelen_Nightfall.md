@@ -9,7 +9,6 @@ aliases: [NPC00038 Kaelen Nightfall]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00038 Kaelen Nightfall]
 - [[#Aeliana Goldleaf the Swift (Family - Cousin)|Aeliana Goldleaf the Swift (Family - Cousin)]]
 - [[#Solas Youngblood (Criminal - Handler)|Solas Youngblood (Criminal - Handler)]]
 - [[#Malakai Ironforge the Swift (Family - Parent)|Malakai Ironforge the Swift (Family - Parent)]]
-
 
 ---
 created: 2025-08-15
@@ -154,27 +152,23 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.115Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -184,15 +178,14 @@ Needs discrete help with family scandal
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
-- Related: [[step_017]]
+- Related:
 - Leads to [[SPELL00063_Nature_Spell_64]]
 - Related: [[step_017 (phase_024)]]
 - Parallels [[ITEM00129_Frost_Hammer_of_Power]]
@@ -243,7 +236,7 @@ Needs discrete help with family scandal
 - Originates from [[QUEST00443_Side_Quest_444]]
 - Related: [[Portrait NPC Unite the Emperor Unite the Emperor.svg]]
 - Leads to [[LOC00105_Planes_Location_106]]
-- Parallels [[step_005]]
+- Parallels
 - Parallels [[Sky City Councils 2]]
 - See also: [[step_047 (phase_081)]]
 - Compare with [[madness]]
@@ -261,7 +254,7 @@ Needs discrete help with family scandal
 - Related: [[Portrait NPC Quest the Crown S Return Quest the Crown S Return.svg]]
 - See also: [[boon-of-fortitude-xphb (feats)]]
 - Affected by [[location-city-the-lock-v1-the-lock.svg]]
-- Affected by [[step_058]]
+- Affected by
 - Requires [[LORE00145_History_Entry_146]]
 - Requires [[step_078 (phase_016)]]
 - Leads to [[LOC00197_Wilderness_Location_198]]
@@ -272,10 +265,10 @@ Needs discrete help with family scandal
 - Affected by [[Location City Chronomancer Paradox Chronomancer Paradox.svg]]
 - Affected by [[The Silverscale Conspiracy 2]]
 - Related: [[pushing-attack-xphb (optional-features)]]
-- Leads to [[step_089]]
+- Leads to
 - Leads to [[Location City Maelstrom Palace V1 Maelstrom Palace.svg]]
 - Influences [[step_072 (phase_085)]]
-- Related: [[step_006]]
+- Related:
 - Related: [[Ancient Ocean Magic 2]]
 - See also: [[Luck Spirit 2]]
 - Originates from [[Portrait NPC Empress Tethys the Ever Drowning V2 Empress Tethys the Ever Drowning.svg_1 (Portraits)]]
@@ -291,7 +284,7 @@ Needs discrete help with family scandal
 - Compare with [[Portrait NPC Lord Erasmus Voidheart V1 Lord Erasmus Voidheart.svg]]
 - Affected by [[QUEST00109_Side_Quest_110]]
 - Compare with [[Merchant_Guilds]]
-- Connects to [[step_066]]
+- Connects to
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

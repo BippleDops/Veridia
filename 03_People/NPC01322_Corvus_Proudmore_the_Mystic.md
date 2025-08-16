@@ -18,7 +18,6 @@ aliases: [NPC01322 Corvus Proudmore the Mystic]
 - [[#Baelor Quicksilver the Seeker (Criminal - Target)|Baelor Quicksilver the Seeker (Criminal - Target)]]
 - [[#Faelyn Jadeclaw the Seeker (Personal - Best friend)|Faelyn Jadeclaw the Seeker (Personal - Best friend)]]
 
-
 ---
 aliases: ["Corvus Proudmore the Mystic", "corvus proudmore the mystic", "Corvus Proudmore Mystic", "Mystic the Proudmore Corvus"]
 tags: [npc, character]
@@ -153,21 +152,17 @@ Knows secret about major threat
 ---
 *Generated: 2025-08-15T03:51:03.260Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -182,7 +177,7 @@ Knows secret about major threat
 - Connects to [[Administrative Wing 2]]
 - Connects to [[flesh-to-stone-xphb (spells)]]
 - Leads to [[Assets Portraits Portrait NPC Captain Threshold Captain Threshold.svg]]
-- Parallels [[step_020]]
+- Parallels
 - Related: [[Contagion Xphb]]
 - Related: [[step_008 (phase_049)]]
 - Parallels [[step_024 (phase_043)]]
@@ -202,7 +197,7 @@ Knows secret about major threat
 - Originates from [[step_012 (phase_080)]]
 - See also: [[Assets Locations Location City Haven Reef Haven Reef.svg]]
 - Affected by [[step_094 (phase_032)]]
-- Affected by [[step_008]]
+- Affected by
 - See also: [[step_098 (phase_016)]]
 - Influences [[The Preservation Chamber]]
 - Affected by [[NPC01147_Vesper_Blackstone_the_Risen]]
@@ -226,10 +221,10 @@ Knows secret about major threat
 - Related: [[Dimensional Scholar Arcturus Voidwalker]]
 - Compare with [[Assets Locations Location City Temple of the Deep Waters Temple of the Deep Waters.svg]]
 - Influences [[Pressure & Depth Mechanics]]
-- See also: [[step_041]]
+- See also:
 - Affected by [[Master Archivist Valdric Stonewhisper (D&D_References)]]
 - See also: [[Quest - The Silver Revolution]]
-- See also: [[step_075]]
+- See also:
 - See also: [[step_029 (phase_008)]]
 - Related: [[New Action Breath Weapon Mm]]
 - Related: [[Symbol Heraldry Sacred Texts of Transformation Sacred Texts of Transformation.svg]]
@@ -247,13 +242,13 @@ Knows secret about major threat
 - Leads to [[step_045 (phase_084)]]
 - Affected by [[QUEST00035_Personal_Quest_36]]
 - Influences [[NPC00156_Gareth_Winterborn_the_Guardian]]
-- See also: [[step_009]]
+- See also:
 - Originates from [[Biomech Specialist Tide Metalweaver (D&D_References)]]
 - Parallels [[QUEST00063_Personal_Quest_64]]
-- Influences [[step_005]]
+- Influences
 - Leads to [[Depth Forge]]
 - Parallels [[Crystal Merchants Guild]]
-- Influences [[step_022]]
+- Influences
 - Connects to [[Healing Temples]]
 - Compare with [[Chief Marine Engineer Coral Seaforge]]
 - Connects to [[NPC00963_Nerys_Frostwhisper_the_Guardian]]
@@ -267,16 +262,15 @@ Knows secret about major threat
 - Influences [[Dungeoneers Pack Xphb]]
 - See also: [[step_003 (phase_006)]]
 - Connects to [[NPC00985_Qadim_Xendar_the_Strong]]
-- Influences [[step_077]]
+- Influences
 - Parallels [[Create New Location]]
 - Influences [[portrait-npc-shadow-brokers-v2-shadow-brokers.svg]]
-- See also: [[step_084]]
+- See also:
 
 ## Visual References
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_rain.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_interior.png]]
 ![[02_Worldbuilding/locations/location_natural_mystical_locations_night.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

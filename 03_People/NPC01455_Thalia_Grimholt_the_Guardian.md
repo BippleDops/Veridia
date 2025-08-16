@@ -18,7 +18,6 @@ aliases: [NPC01455 Thalia Grimholt the Guardian]
 - [[#Nerys Grimholt the Scholar (Professional - Mentor)|Nerys Grimholt the Scholar (Professional - Mentor)]]
 - [[#Malakai Xendar the Risen (Personal - Childhood friend)|Malakai Xendar the Risen (Personal - Childhood friend)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Grimholt the Guardian", "thalia grimholt the guardian", "Thalia Grimholt Guardian", "Guardian the Grimholt Thalia"]
@@ -154,27 +153,23 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.274Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -183,11 +178,10 @@ Has information about legendary item
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -197,7 +191,7 @@ Has information about legendary item
 - Leads to [[step_039 (phase_043)]]
 - Influences [[Darkmantle Xmm]]
 - Influences [[Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg]]
-- Connects to [[step_056]]
+- Connects to
 - Leads to [[Location City Scholar Magnus Riddlewright V1 Scholar Magnus Riddlewright.svg]]
 - Compare with [[Assets Portraits Portrait NPC Sister Morwyn Veilkeeper Sister Morwyn Veilkeeper.svg]]
 - Parallels [[LOC00292_Towns_Location_293]]
@@ -206,7 +200,7 @@ Has information about legendary item
 - Requires [[Duchess Aurora Spirelight (D&D_References)]]
 - Requires [[The Bone Palace of Sorrows]]
 - Originates from [[DUN00031_Dungeon_32]]
-- See also: [[step_073]]
+- See also:
 - Compare with [[step_047 (phase_078)]]
 - Leads to [[Portrait NPC Ambassador Korvin Blacktide V1 Ambassador Korvin Blacktide.svg]]
 - Parallels [[step_032 (phase_029)]]
@@ -214,7 +208,7 @@ Has information about legendary item
 - See also: [[step_028 (phase_050)]]
 - Related: [[House Tidecaller (D&D_References)]]
 - See also: [[Bookmark_Collections]]
-- Leads to [[Quest   The Shadow Fleet]]
+- Leads to [[Quest The Shadow Fleet]]
 - Compare with [[Magistrate Elena Greywind]]
 - Requires [[NPC00725_Wynne_Jadeclaw_the_Scholar]]
 - Leads to [[step_089 (phase_032)]]
@@ -225,7 +219,7 @@ Has information about legendary item
 - Influences [[Aether Crystals]]
 - Requires [[The Seekers' Guild]]
 - Originates from [[NPC00674_Malakai_Crystalbrook_the_Wise]]
-- Originates from [[step_077]]
+- Originates from
 - Affected by [[Reality Anchor Ring]]
 - Connects to [[The Great Cataloguing 2]]
 - Parallels [[EVENT00041_Natural_Event_42]]
@@ -246,13 +240,13 @@ Has information about legendary item
 - Leads to [[step_090 (phase_074)]]
 - See also: [[The Pressure Forges 2]]
 - Affected by [[Scholarly Theologians]]
-- Affected by [[step_076]]
+- Affected by
 - Influences [[ENC00496_Combat_Encounter_497]]
 - Affected by [[Interfaith_Council]]
 - Requires [[step_019 (phase_018)]]
 - Leads to [[Portrait NPC Aboleth Prime Yoth V2 Aboleth Prime Yoth.svg]]
 - See also: [[cinnamon-xdmg (items)]]
-- Originates from [[step_038]]
+- Originates from
 - Influences [[Portrait NPC Vex Shadowthorn the Kingpin V2 Vex Shadowthorn the Kingpin.svg]]
 - Leads to [[rod-of-absorption-xdmg (items)]]
 - Requires [[NPC00402_Hestara_Grimholt_the_Mystic]]
@@ -267,15 +261,15 @@ Has information about legendary item
 - Leads to [[DUN00060_Dungeon_61]]
 - Related: [[Player Portal]]
 - See also: [[The Final Wake]]
-- Originates from [[step_035]]
+- Originates from
 - Affected by [[winged-kobold-xmm]]
 - Parallels [[LOC00087_Wilderness_Location_88]]
 - Requires [[step_069 (phase_061)]]
-- Originates from [[step_027]]
+- Originates from
 - Parallels [[Maître d' Pelagia Smoothcurrent]]
 - Parallels [[QUEST00060_Main_Quest_61]]
 - Leads to [[Map Map Bioluminescent Forest Ambush Bioluminescent Forest Ambush.png]]
-- Originates from [[step_076]]
+- Originates from
 - Parallels [[Sacred Flame]]
 - Connects to [[Assets Locations Location City Anti Smuggling Operations V1 Anti Smuggling Operations.svg]]
 - Related: [[Location City the Dreamwhisper Inn V1 the Dreamwhisper Inn.svg]]
@@ -296,7 +290,6 @@ Has information about legendary item
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

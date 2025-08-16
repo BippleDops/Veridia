@@ -18,7 +18,6 @@ aliases: [07-customization-options (players-handbook-2014)]
 - [[#Campaign Connection|Campaign Connection]]
 - [[#See Also|See Also]]
 
-
 ---
 
 title: 07-customization-options (players-handbook-2014)
@@ -59,11 +58,9 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*
-
 
 > [!dm] DM Note
 > This NPC knows more than they let on
@@ -94,9 +91,7 @@ world: Both
 Knows the location of a key artifact
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -113,13 +108,12 @@ Following magic item guidelines (WWT p.135-136):
 ## Source References
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[NEXT_LEVEL_IMPROVEMENTS]]
 - [[fifty_improvements_20250815_155453]]
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
-
 
 ## D&D 5e References
 
@@ -179,7 +173,7 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[step_041 (phase_087)]]
 - Compare with [[NPC00074_Erasmus_Blackstone_the_Guardian]]
 - Influences [[step_026 (phase_022)]]
-- Affected by [[step_019]]
+- Affected by
 - See also: [[Solar Xmm]]
 - See also: [[3 Bestiary]]
 - Compare with [[Information Storage Crystals]]
@@ -190,9 +184,9 @@ Following magic item guidelines (WWT p.135-136):
 - Originates from [[forgotten-realms-leira (deities)]]
 - Requires [[Symbol Heraldry High Oracle Serenity Deepcall V1 High Oracle Serenity Deepcall.svg]]
 - Parallels [[Grick Ancient Xmm]]
-- See also: [[step_033]]
+- See also:
 - Affected by [[Memory Coral 2]]
-- Requires [[step_078]]
+- Requires
 - Compare with [[War of the Shattered Crown (D&D_References)]]
 - Affected by [[The Masked Broker]]
 - Influences [[Groundling]]
@@ -200,13 +194,13 @@ Following magic item guidelines (WWT p.135-136):
 - See also: [[ENC00032_Social_Encounter_33]]
 - Connects to [[boon-of-dimensional-travel-xphb (feats)]]
 - Connects to [[LORE00286_Legends_Entry_287]]
-- Influences [[step_027]]
+- Influences
 - Parallels [[Death Ward Xphb]]
-- Requires [[step_071]]
+- Requires
 - Originates from [[step_099 (phase_027)]]
 - See also: [[The Emergence]]
-- Influences [[step_028]]
-- Parallels [[step_003]]
+- Influences
+- Parallels
 - Related: [[step_043 (phase_082)]]
 - Requires [[step_088 (phase_038)]]
 - Affected by [[QUEST00302_Side_Quest_303]]
@@ -230,7 +224,7 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Portrait NPC Lord Commander Gareth V1 Lord Commander Gareth.svg]]
 - Influences [[Forgotten Realms Beshaba]]
 - Connects to [[step_020 (phase_093)]]
-- Compare with [[step_054]]
+- Compare with
 - Related: [[Portrait NPC Free Captains Alliance V2 Free Captains Alliance.svg]]
 - Requires [[Opposition Intelligence Center 2]]
 - Requires [[Assets Portraits Portrait NPC Quest the Divine Test Quest the Divine Test.svg]]

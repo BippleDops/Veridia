@@ -9,7 +9,6 @@ aliases: [NPC00394 Fiora Blackstone the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00394 Fiora Blackstone the Fallen]
 - [[#Qadim Quicksilver the Bold (Criminal - Handler)|Qadim Quicksilver the Bold (Criminal - Handler)]]
 - [[#Gavril Blackstone the Wanderer (Professional - Rival)|Gavril Blackstone the Wanderer (Professional - Rival)]]
 - [[#Wynne Dawnstrider (Political - Puppet)|Wynne Dawnstrider (Political - Puppet)]]
-
 
 ---
 aliases: ["Fiora Blackstone the Fallen", "fiora blackstone the fallen", "Fiora Blackstone Fallen", "Fallen the Blackstone Fiora"]
@@ -163,30 +161,26 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.157Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
-
 ## Connections
 
 - Influences [[step_012 (phase_088)]]
-- Originates from [[step_086]]
+- Originates from
 - Parallels [[Assets Locations Location City the Crystal Wardens the Crystal Wardens.svg]]
 - See also: [[ENC00111_Environmental_Encounter_112]]
 - Leads to [[Location City Deep Stone Eaters Deep Stone Eaters.svg]]
-- Compare with [[step_014]]
+- Compare with
 - Affected by [[Lighthouse Keeper Finn Deepbeacon 2]]
 - Influences [[ITEM01415_Practical_Lantern_of_Convenience]]
 - See also: [[step_047 (phase_067)]]
@@ -212,7 +206,7 @@ Needs discrete help with family scandal
 - Affected by [[FAC00068_Guilds_69]]
 - Originates from [[hook-horror-spore-servant-oota (plant)]]
 - Compare with [[step_043 (phase_031)]]
-- Related: [[step_077]]
+- Related:
 - Requires [[NPC_Portraits_Gallery (03_People)_Quick_Ref]]
 - Related: [[Harbor Authority (D&D_References)]]
 - See also: [[MON00142_Constructs_Creature_143]]
@@ -221,13 +215,13 @@ Needs discrete help with family scandal
 - Originates from [[step_048 (phase_021)]]
 - See also: [[list-spells-feats-strixhaven-initiate-scc (lists)]]
 - Related: [[ITEM00040_Cursed_Spear_of_Slaying]]
-- Requires [[step_056]]
+- Requires
 - Compare with [[EVENT00028_Magical_Event_29]]
 - Requires [[Maintece Tech Reef Fixwright]]
 - Parallels [[step_013 (phase_018)]]
-- See also: [[step_098]]
+- See also:
 - Requires [[Scholar Emperor Thalassius the Wise (D&D_References)]]
-- Affected by [[step_019]]
+- Affected by
 - Requires [[ITEM00761_Celestial_Chalice_of_the_Gods]]
 - Leads to [[FAC00063_Cults_64]]
 - Compare with [[guild-artisan-guild-merchant-variant]]
@@ -238,10 +232,10 @@ Needs discrete help with family scandal
 - Leads to [[Pain-Artist Cruelty Refined (D&D_References)]]
 - See also: [[QUEST00186_Main_Quest_187]]
 - Connects to [[Assets Locations Location City Shadow Current V1 Shadow Current.svg]]
-- Connects to [[step_021]]
+- Connects to
 - Requires [[Great Drowning 2]]
 - Requires [[scroll-of-protection-plants-xdmg (items)]]
-- Originates from [[step_007]]
+- Originates from
 - See also: [[Pit Fighting Complications Xge]]
 - Affected by [[Symbol Heraldry Ambassador Blacktrade Ambassador Blacktrade.svg]]
 - Leads to [[telekinetic-xphb (feats)]]
@@ -263,7 +257,7 @@ Needs discrete help with family scandal
 - Related: [[Conditions_Reference]]
 - Parallels [[Location City the Lost Expedition V1 the Lost Expedition.svg]]
 - Originates from [[Assets Locations Location City Seven Shards V1 Seven Shards.svg]]
-- Leads to [[step_024]]
+- Leads to
 - Compare with [[04_Resources_Assets_Locations_location-city-master-trader-abyss-currentbinder-master-trader-abyss-currentbinder.svg]]
 - Originates from [[QUEST00202_Personal_Quest_203]]
 - Related: [[QUEST0003_The_Haunted_Manor_War]]

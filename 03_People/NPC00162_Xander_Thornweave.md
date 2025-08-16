@@ -18,7 +18,6 @@ aliases: [NPC00162 Xander Thornweave]
 - [[#Aeliana Emberfall the Wise (Criminal - Target)|Aeliana Emberfall the Wise (Criminal - Target)]]
 - [[#Ysara Blackstone (Political - Puppet)|Ysara Blackstone (Political - Puppet)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Xander Thornweave", "xander thornweave", "Thornweave Xandertags: [npc, character, combat, magic, social, lore]er]
@@ -146,16 +145,13 @@ Needs discrete help with family scandal
 ---
 *Generated: 2025-08-15T03:51:03.130Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -187,11 +183,10 @@ Modifications:
 - [[16 Credits]]
 - [[10 Combat]]
 - [[Master_Narrative_Web.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -200,11 +195,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -220,7 +214,7 @@ Modifications:
 - Originates from [[Assets Portraits Portrait NPC High Priestess Celeste Dawnbringer High Priestess Celeste Dawnbringer.svg]]
 - Parallels [[Assets Locations Location City [[Divine Magic]] V1 Divine Magic.svg]]
 - Connects to [[Embassy Conference Chamber]]
-- See also: [[step_004]]
+- See also:
 - Leads to [[entangle-xphb (spells)]]
 - Requires [[[[Court Herald Titus]] (D&D_References)]]
 - Related: [[QUEST00087_Personal_Quest_88]]
@@ -240,7 +234,7 @@ Modifications:
 - Parallels [[[[Memory Keeper Ancient Nerida]] (D&D_References)]]
 - Parallels [[Location City [[Harbor District]] V1 Harbor District.svg]]
 - See also: [[LORE00308_History_Entry_309]]
-- Connects to [[step_043]]
+- Connects to
 - Originates from [[[[Crisis Management]] Bunker]]
 - Leads to [[step_061 (phase_083)]]
 - Connects to [[ENC0009_Random_Encounter_10]]
@@ -254,14 +248,14 @@ Modifications:
 - See also: [[Map World Layer Magical Phenomena and Storm Tracks V2 Magical Phenomena and Storm Tracks.svg]]
 - Requires [[Eyes of the Eagle Xdmg]]
 - Originates from [[molydeus-mpmm (fiend)]]
-- Leads to [[step_055]]
+- Leads to
 - Parallels [[Leatherworkers Tools Xphb]]
 - See also: [[SPELL00004_Nature_Spell_5]]
-- Compare with [[step_010]]
+- Compare with
 - See also: [[step_079 (phase_018)]]
 - Originates from [[DUN00187_Dungeon_188]]
 - Leads to [[List Spells Optional Features Dreadful Word]]
-- Leads to [[step_074]]
+- Leads to
 - See also: [[Lord Magistrate Aldrich Thornwick]]
 - Parallels [[The Inter-Realm Council Chambers]]
 - See also: [[SPELL00080_Arcane_Spell_81]]
@@ -274,7 +268,7 @@ Modifications:
 - Originates from [[step_001 (phase_064)]]
 - Influences [[Assets Portraits Portrait NPC Underground Testing Facility Underground Testing Facility.svg]]
 - Affected by [[Assets Locations [[Location City [[Veiled Hierophant]] Veiled Hierophant.svg]]]]
-- Influences [[step_069]]
+- Influences
 - Influences [[step_008 (phase_093)]]
 - Leads to [[[[Interfaith Dialogue]] (D&D_References)]]
 - Connects to [[The Deep Prophets]]
@@ -287,7 +281,7 @@ Modifications:
 - See also: [[step_036 (phase_062)]]
 - Parallels [[Assets Locations Location City [[Pressure Guard Steelwall]] V1 Pressure Guard Steelwall.svg]]
 - Parallels [[step_064 (phase_056)]]
-- Compare with [[step_068]]
+- Compare with
 - Compare with [[LORE00285_History_Entry_286]]
 - Requires [[step_093 (phase_058)]]
 - Originates from [[step_058 (phase_059)]]
@@ -304,8 +298,8 @@ Modifications:
 - Affected by [[VAULT_CLEAN_STATUS]]
 - Leads to [[Produce Flame Xphb]]
 - See also: [[The Void Watchers 2]]
-- Requires [[step_048]]
-- Compare with [[step_038]]
+- Requires
+- Compare with
 - Connects to [[MON00074_Aberrations_Creature_75]]
 - Leads to [[step_027 (phase_034)]]
 
@@ -313,7 +307,6 @@ Modifications:
 ![[03_People/portrait_duke_alexander_tidecrest_dramatic.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_standard.png]]
 ![[03_People/portrait_duke_alexander_tidecrest_friendly.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

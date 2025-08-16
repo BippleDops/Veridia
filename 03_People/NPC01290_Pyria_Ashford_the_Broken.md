@@ -9,7 +9,6 @@ aliases: [NPC01290 Pyria Ashford the Broken]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01290 Pyria Ashford the Broken]
 - [[#Ysara Ashford the Broken (Political - Ally)|Ysara Ashford the Broken (Political - Ally)]]
 - [[#Orion Zephyrblade the Strong (Professional - Mentor)|Orion Zephyrblade the Strong (Professional - Mentor)]]
 - [[#Hestara Lightbringer the Fallen (Criminal - Handler)|Hestara Lightbringer the Fallen (Criminal - Handler)]]
-
 
 ---
 created: 2025-08-15
@@ -153,16 +151,13 @@ Has information about legendary item
 ---
 *Generated: 2025-08-15T03:51:03.257Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -190,9 +185,7 @@ Has information about legendary item
 - [[NPC00362_Pyria_Stormwind_the_Wise]]
 - [[NPC00669_Zephyr_Youngblood_the_Lost]]
 - [[NPC00174_Aldric_Silverleaf_the_Fallen]]
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -211,7 +204,7 @@ Following magic item guidelines (WWT p.135-136):
 - Tasha's Mystical Formulae of Everything (TMF) p.10
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -221,11 +214,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -239,7 +231,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[bard-xphb-college-of-valor-xphb 2 (classes)]]
 - Connects to [[step_075 (phase_083)]]
 - Compare with [[The Bleeding Chambers 2]]
-- Leads to [[step_088]]
+- Leads to
 - Originates from [[keoghtoms-ointment-xdmg (items)]]
 - See also: [[difficulty-class-typical-dcs-xdmg (tables)]]
 - Related: [[Language Evolution Studies]]
@@ -258,12 +250,12 @@ Following magic item guidelines (WWT p.135-136):
 - Parallels [[Gauntlets of Ogre Power Xdmg]]
 - Influences [[The Memory Anchor 2]]
 - Requires [[QUEST0061_Hunt_the_Demons]]
-- Compare with [[step_039]]
+- Compare with
 - Influences [[Deep Wardens (D&D_References)]]
 - Originates from [[step_026 (phase_034)]]
 - Connects to [[LORE00125_History_Entry_126]]
-- See also: [[step_067]]
-- See also: [[step_006]]
+- See also:
+- See also:
 - Compare with [[Investigator Cassandra Reynolds]]
 - See also: [[Creatures Void Entities]]
 - Compare with [[Void-Touched (D&D_References)]]
@@ -271,7 +263,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[DUN00141_Dungeon_142]]
 - Compare with [[Storm Guard (D&D_References)]]
 - Requires [[Artifact Properties Minor Detrimental]]
-- Leads to [[step_090]]
+- Leads to
 - Leads to [[step_050 (phase_026)]]
 - Parallels [[Portrait NPC Watch Captain Roderick Shieldbreaker Watch Captain Roderick Shieldbreaker.svg]]
 - Requires [[step_001 (phase_054)]]
@@ -284,12 +276,12 @@ Following magic item guidelines (WWT p.135-136):
 - Influences [[Ray of Enfeeblement Xphb]]
 - Compare with [[step_053 (phase_093)]]
 - Parallels [[LORE00239_Prophecies_Entry_240]]
-- See also: [[step_082]]
+- See also:
 - Parallels [[04_Resources_Assets_Art_Places_Master_Smith_Coral Hammer.png]]
 - Leads to [[step_037 (phase_005)]]
 - Affected by [[ITEM01348_Masterwork_Lock_of_Convenience]]
 - Affected by [[ENC00126_Combat_Encounter_127]]
-- Affected by [[step_002]]
+- Affected by
 - Requires [[Eidolon Mpmm]]
 - Compare with [[The Diplomatic Quarter 2]]
 - Parallels [[SPELL00129_Nature_Spell_130]]
@@ -298,32 +290,32 @@ Following magic item guidelines (WWT p.135-136):
 - Leads to [[Symbol Heraldry Treasurer Goldenshadow V1 Treasurer Goldenshadow.svg]]
 - Leads to [[Mechanics Dimensional Travel]]
 - Parallels [[SPELL00148_Nature_Spell_149]]
-- Influences [[step_029]]
+- Influences
 - Influences [[step_037 (phase_032)]]
 - Related: [[Dark Gift of Vaund the Evasive Cos]]
 - Requires [[ENC00168_Environmental_Encounter_169]]
-- Leads to [[step_027]]
+- Leads to
 - Leads to [[step_020 (phase_086)]]
 - Compare with [[Absolute Reality Faction]]
 - Influences [[Assets Portraits Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent the Depth Blessed Fisherman Captain Sal Deepcurrent.svg]]
-- Leads to [[step_068]]
+- Leads to
 - Parallels [[ITEM00518_Mithril_Helm_of_Resistance]]
 - Originates from [[Assets Locations Location City Harbor Pilot Guild V1 Harbor Pilot Guild.svg]]
-- Originates from [[step_099]]
+- Originates from
 - Related: [[Copper Dragon Scale Mail Xdmg]]
 - Originates from [[ITEM00180_Blazing_Axe_of_the_Ancients]]
-- Connects to [[step_094]]
+- Connects to
 - Connects to [[silence-xphb (spells)]]
-- Influences [[step_015]]
+- Influences
 - Compare with [[ITEM00886_Divine_Amulet_of_Truth]]
 - Connects to [[ITEM00846_Infernal_Ring_of_the_Gods]]
 - Compare with [[Commander Darkwater (D&D_References)]]
 - Connects to [[Captain Sky Horizon (D&D_References)]]
 - Related: [[The Final Darkening]]
-- Leads to [[step_046]]
-- Related: [[step_008]]
+- Leads to
+- Related:
 - Parallels [[The Gloom Gardens (D&D_References)]]
-- Influences [[step_088]]
+- Influences
 - Connects to [[step_047 (phase_049)]]
 - Compare with [[The Memory Integration 2]]
 - See also: [[Warlock Xphb Fiend Patron Xphb]]

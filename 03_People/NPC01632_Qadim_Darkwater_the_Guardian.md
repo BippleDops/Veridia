@@ -18,7 +18,6 @@ aliases: [NPC01632 Qadim Darkwater the Guardian]
 - [[#Branwen Frostwhisper the Strong (Political - Ally)|Branwen Frostwhisper the Strong (Political - Ally)]]
 - [[#Hestara Goldleaf the Wise (Family - Sibling)|Hestara Goldleaf the Wise (Family - Sibling)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Qadim Darkwater the Guardian", "qadim darkwater the guardian", "Qadim Darkwater Guardian", "Guardian the Darkwater Qadim"]
@@ -143,16 +142,13 @@ Is secretly testing the party
 ---
 *Generated: 2025-08-15T03:51:03.293Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -190,11 +186,10 @@ Is secretly testing the party
 - [[MOC_Lore]]
 - [[09 Appendix a the Multiverse]]
 - [[NPC00761_Aldric_Moonshadow_the_Guardian]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -202,16 +197,15 @@ Is secretly testing the party
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Originates from [[LORE0079_Secret_of_the_Ancient_Pact]]
-- Related: [[step_058]]
+- Related:
 - Leads to [[Leviathan Shrines]]
 - Influences [[Mass Cure Wounds Xphb]]
 - Affected by [[Blessing of Wound Closure Xdmg]]
@@ -224,7 +218,7 @@ Is secretly testing the party
 - Parallels [[Pressure Shadows]]
 - Originates from [[Assets Locations Location City Captain Marlowe Tidecrest Captain Marlowe Tidecrest.svg]]
 - Connects to [[Community Education]]
-- Connects to [[step_018]]
+- Connects to
 - Influences [[Quality Inspector Reef Perfectwright]]
 - Parallels [[item properties#Burst%20Fire]]
 - Influences [[Assets Locations Location City Transformation Medicine Techniques V1 Transformation Medicine Techniques.svg]]
@@ -245,7 +239,7 @@ Is secretly testing the party
 - Requires [[The Battle Forge Arena 2]]
 - Influences [[staff-of-healing-xdmg (items)]]
 - Requires [[ITEM00448_Adamantine_Leather_of_Protection]]
-- Parallels [[step_098]]
+- Parallels
 - Originates from [[grassland-encounters-levels-1116-xge (tables)]]
 - Connects to [[Underwater Breathing (D&D_References)]]
 - See also: [[NPC01817_Kaelen_Zephyrblade_the_Swift]]
@@ -256,7 +250,7 @@ Is secretly testing the party
 - Influences [[LOC0012_EastBridge]]
 - See also: [[step_094 (phase_073)]]
 - Parallels [[The Hall of Records]]
-- Related: [[step_052]]
+- Related:
 - Affected by [[Silverscale Consortium]]
 - See also: [[Enspelled Weapon Level 7 Xdmg]]
 - Parallels [[Assets Portraits Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg]]
@@ -279,7 +273,7 @@ Is secretly testing the party
 - Influences [[step_048 (phase_080)]]
 - Leads to [[step_063 (phase_028)]]
 - Compare with [[LOC00128_Towns_Location_129]]
-- Related: [[step_021]]
+- Related:
 - Originates from [[step_081 (phase_017)]]
 - Related: [[Shadow Liberation Front (D&D_References)]]
 - Compare with [[undead-spirit-skeletal-xphb (undead)]]
@@ -289,9 +283,9 @@ Is secretly testing the party
 - Connects to [[ITEM01348_Masterwork_Lock_of_Convenience]]
 - Connects to [[crime-loot-value-xge (tables)]]
 - Parallels [[04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-scout-captain-vera-deepwatch.svg]]
-- Connects to [[step_056]]
+- Connects to
 - Leads to [[Quest - The Truth Unveiled]]
-- Connects to [[step_019]]
+- Connects to
 - Related: [[World Bible]]
 - Leads to [[LORE00253_History_Entry_254]]
 - Parallels [[maze-xphb (spells)]]
@@ -315,7 +309,6 @@ Is secretly testing the party
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

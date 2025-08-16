@@ -9,7 +9,6 @@ aliases: [NPC00701 Faelyn Youngblood the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00701 Faelyn Youngblood the Fallen]
 - [[#Erasmus Frostwhisper the Wanderer (Professional - Mentor)|Erasmus Frostwhisper the Wanderer (Professional - Mentor)]]
 - [[#Xander Brightblade the Strong (Professional - Employee)|Xander Brightblade the Strong (Professional - Employee)]]
 - [[#Idris Zephyrblade the Mystic (Family - Child)|Idris Zephyrblade the Mystic (Family - Child)]]
-
 
 ---
 aliases: ["Faelyn Youngblood the Fallen", "faelyn youngblood the fallen", "Faelyn Youngblood Fallen", "Fallen the Youngblood Faelyn"]
@@ -149,21 +147,17 @@ Family member has gone missing
 ---
 *Generated: 2025-08-15T03:51:03.193Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -178,12 +172,12 @@ Family member has gone missing
 - See also: [[Scene Scene Pressure Dome Festival Night Pressure Dome Festival Night.svg]]
 - See also: [[LOC00018_Wilderness_Location_19]]
 - Connects to [[hippogriff-xmm (monstrosity)]]
-- Influences [[step_096]]
+- Influences
 - Affected by [[02_Worldbuilding_Spells_Future_Glimpse]]
 - Related: [[NPC0147_Beatrix_Darkwater]]
 - Parallels [[Assets Locations Location City Silent Guardian Marcus Silent Guardian Marcus.svg]]
 - Affected by [[ITEM00328_Shadow_Spear_of_the_Ancients]]
-- See also: [[step_066]]
+- See also:
 - Connects to [[step_100 (phase_026)]]
 - Compare with [[Marquis Aldwin Goldcurrent (D&D_References)]]
 - See also: [[Captain Torren Stormwright (D&D_References)]]
@@ -195,7 +189,7 @@ Family member has gone missing
 - Leads to [[Assets Locations Location City Memory Meadows Black Market V1 Memory Meadows Black Market.svg]]
 - See also: [[damage-types (CLI_Reference)]]
 - Related: [[Korra Mindshield]]
-- Influences [[step_068]]
+- Influences
 - Originates from [[Reality Monitoring Specialists]]
 - Influences [[FAC00015_Guilds_16]]
 - Influences [[LOC00166_Towns_Location_167]]
@@ -206,18 +200,18 @@ Family member has gone missing
 - Influences [[Assets Item Artifact Windvane Pota V5 Windvane Pota.png]]
 - Originates from [[SPELL00139_Arcane_Spell_140]]
 - Compare with [[Pilgrimage Master Depth Guide Melancholy]]
-- See also: [[step_082]]
+- See also:
 - Connects to [[LORE0056_Legend_of_the_First_King]]
 - Compare with [[Biological Stabilization Unit]]
 - Connects to [[Dr. Tidal Depthhealer]]
 - Affected by [[The Memory Coral Crown (D&D_References)]]
 - Related: [[NPC01052_Idris_Brightblade_the_Mystic]]
-- Originates from [[step_030]]
+- Originates from
 - Leads to [[alchemy-jug-xdmg (items)]]
 - Requires [[yuan-ti-malison-type-3-xmm]]
 - See also: [[Location City Memory Recording Chambers V1 Memory Recording Chambers.svg]]
 - Requires [[Entities the Hungry Shadows]]
-- Connects to [[step_067]]
+- Connects to
 - Parallels [[Death_Saves]]
 - See also: [[SHOP00059_Magical_Shop_60]]
 - Parallels [[Eidolon Mpmm]]
@@ -242,11 +236,11 @@ Family member has gone missing
 - Parallels [[step_077 (phase_084)]]
 - Compare with [[step_082 (phase_085)]]
 - Compare with [[step_048 (phase_100)]]
-- Affected by [[step_056]]
+- Affected by
 - Compare with [[Location City Court Manager Noble V1 Court Manager Noble.svg]]
 - Affected by [[Local Militia Commander]]
 - Compare with [[Luck Spirits Alliance]]
-- Affected by [[step_042]]
+- Affected by
 - Affected by [[Extended Spell Xphb]]
 - Influences [[Assets Portraits Portrait NPC the Leviathan Prophets the Leviathan Prophets.svg]]
 - See also: [[International Trade]]

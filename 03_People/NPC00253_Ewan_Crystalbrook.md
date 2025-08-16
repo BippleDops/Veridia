@@ -9,7 +9,6 @@ aliases: [NPC00253 Ewan Crystalbrook]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npcs.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC00253 Ewan Crystalbrook]
 - [[#Aeliana Silverleaf the Mystic (Criminal - Fence)|Aeliana Silverleaf the Mystic (Criminal - Fence)]]
 - [[#Pyria Stormwind (Criminal - Target)|Pyria Stormwind (Criminal - Target)]]
 - [[#Branwen Stormwind (Personal - Ex-lover)|Branwen Stormwind (Personal - Ex-lover)]]
-
 
 ---
 aliases: ["Ewan Crystalbrook", "ewan crystalbrook", "Crystalbrook Ewan"]
@@ -150,21 +148,17 @@ Requires champions for trial by combat
 ---
 *Generated: 2025-08-15T03:51:03.141Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -187,7 +181,7 @@ Requires champions for trial by combat
 - Affected by [[Elder Willow Moonwhisper 2]]
 - Related: [[step_057 (phase_050)]]
 - Connects to [[QUEST00150_Main_Quest_151]]
-- Connects to [[step_064]]
+- Connects to
 - Requires [[Sky Burial Traditions]]
 - Leads to [[NPC00680_Nerys_Keenblade_the_Wanderer]]
 - Originates from [[Assets Locations Location City Memory Sanctity Laws Memory Sanctity Laws.svg]]
@@ -204,7 +198,7 @@ Requires champions for trial by combat
 - Compare with [[Tethyan Maritime Code]]
 - Parallels [[Quest - Mirror Surveillance]]
 - Compare with [[step_070 (phase_057)]]
-- Influences [[step_046]]
+- Influences
 - Affected by [[Creature Creature Goblin Hexer Xmm Goblin Hexer Xmm.png]]
 - Affected by [[ENC00111_Combat_Encounter_112]]
 - Related: [[SPELL0037_Celestial_Storm]]
@@ -215,7 +209,7 @@ Requires champions for trial by combat
 - Parallels [[Agent Whisper Voidheart (D&D_References)]]
 - Compare with [[SPELL00148_Arcane_Spell_149]]
 - Compare with [[step_081 (phase_097)]]
-- Related: [[step_015]]
+- Related:
 - Requires [[step_082 (phase_023)]]
 - Related: [[Skyforge 2]]
 - Parallels [[Crystal Corruption Cultists (D&D_References)]]
@@ -231,7 +225,7 @@ Requires champions for trial by combat
 - Related: [[ITEM00725_Primordial_Crown_of_Truth]]
 - Compare with [[LORE00084_Prophecies_Entry_85]]
 - Affected by [[ITEM00547_Dragon_Scale_Plate_of_Grace]]
-- Connects to [[step_070]]
+- Connects to
 - Compare with [[Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg]]
 - Related: [[Archmage Lyralei Stormwind 2]]
 - Compare with [[step_040 (phase_037)]]
@@ -239,7 +233,7 @@ Requires champions for trial by combat
 - Originates from [[NPC01458_Aldric_Silverleaf_the_Scholar]]
 - Affected by [[proficiency-bonus-xphb (tables)]]
 - Parallels [[Sarah Chronicler 2]]
-- Influences [[step_061]]
+- Influences
 - Related: [[Location City Keeper Seafoam the Neutral V1 Keeper Seafoam the Neutral.svg]]
 - Connects to [[Summon Greater Demon Xge]]
 - Parallels [[ITEM00439_Ethereal_Chain_Mail_of_Grace]]
@@ -263,11 +257,11 @@ Requires champions for trial by combat
 - Leads to [[step_083 (phase_095)]]
 - Compare with [[Crystal Corruption Mechanics]]
 - See also: [[Diplomatic Dining Protocol (D&D_References)]]
-- Compare with [[step_002]]
+- Compare with
 - Compare with [[Assets Locations Location City Emergency Protocols Emergency Protocols.svg]]
 - Requires [[bodak-mpmm (undead)]]
 - Connects to [[vicious-weapon-xdmg (items)]]
-- Influences [[step_023]]
+- Influences
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

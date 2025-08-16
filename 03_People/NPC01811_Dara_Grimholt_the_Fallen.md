@@ -18,7 +18,6 @@ aliases: [NPC01811 Dara Grimholt the Fallen]
 - [[#Hestara Stormwind the Redeemed (Professional - Employer)|Hestara Stormwind the Redeemed (Professional - Employer)]]
 - [[#Solas Ironwood the Swift (Family - Spouse)|Solas Ironwood the Swift (Family - Spouse)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Dara Grimholt the Fallen", "dara grimholt the fallen", "Dara Grimholt Fallen", "Fallen the Grimholt Dara"]
@@ -143,25 +142,20 @@ Provides information for a price
 ---
 *Generated: 2025-08-15T03:51:03.312Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
 - Special moves
 
 ## See Also
-- [[Related_Content]]
-
-
+-
 
 ## Item Rarity & Balance
 Following magic item guidelines (WWT p.135-136):
@@ -181,7 +175,7 @@ Following magic item guidelines (WWT p.135-136):
 - Volo's Creature Catalog to Monsters (VCC) p.181
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -191,11 +185,10 @@ Following magic item guidelines (WWT p.135-136):
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -206,7 +199,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Central Crystal Processing Plant]]
 - Influences [[Diplomatic Event Scenarios 2]]
 - Affected by [[Founding Nation]]
-- Parallels [[step_011]]
+- Parallels
 - See also: [[step_016 (phase_078)]]
 - Connects to [[oil-of-taggit-xdmg (items)]]
 - Leads to [[NPC00519_Alaric_Darkwater_the_Risen]]
@@ -218,7 +211,7 @@ Following magic item guidelines (WWT p.135-136):
 - Connects to [[using-a-published-setting-d-d-settings-xdmg (tables)]]
 - Related: [[step_036 (phase_077)]]
 - Parallels [[Portrait NPC the Shadow Surgeons V1 the Shadow Surgeons.svg]]
-- Influences [[step_012]]
+- Influences
 - Related: [[list-spells-classes-grave-domain-xge (lists)]]
 - Requires [[Magical Theory (D&D_References)]]
 - Parallels [[Harbor Master's Compass]]
@@ -231,7 +224,7 @@ Following magic item guidelines (WWT p.135-136):
 - Related: [[ENC00179_Environmental_Encounter_180]]
 - Affected by [[Astral Projection Xphb]]
 - Parallels [[LOC0115_LowerBridge]]
-- Affected by [[step_067]]
+- Affected by
 - See also: [[step_020 (phase_079)]]
 - Connects to [[Portrait NPC Captain Valeria V2 Captain Valeria.svg]]
 - Leads to [[step_083 (phase_005)]]
@@ -245,7 +238,7 @@ Following magic item guidelines (WWT p.135-136):
 - Affected by [[Investigator Lucian Brightwater]]
 - See also: [[The Floating Markets]]
 - Connects to [[The Shadowwatch Bastion 2]]
-- Originates from [[step_076]]
+- Originates from
 - Compare with [[Trade Bars Xdmg]]
 - Connects to [[NPC00124_Delara_Ravenheart_the_Redeemed]]
 - Parallels [[The Contemplation Abyss 2]]
@@ -284,7 +277,7 @@ Following magic item guidelines (WWT p.135-136):
 - Compare with [[Portrait NPC Memo... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
 - See also: [[Rations Xphb]]
 - Affected by [[FAC00067_Guilds_68]]
-- Related: [[step_017]]
+- Related:
 - Related: [[Location City the Crystal Palace Throne Room V1 the Crystal Palace Throne Room.svg]]
 - Affected by [[Personal Horror Customization]]
 - Connects to [[step_023 (phase_054)]]
@@ -292,7 +285,7 @@ Following magic item guidelines (WWT p.135-136):
 - Requires [[The Aether Works 2]]
 - Affected by [[04_Places_Lighthouse_of_Storms]]
 - Compare with [[step_050 (phase_031)]]
-- Requires [[step_060]]
+- Requires
 - Leads to [[Reef Tenders (D&D_References)]]
 - Leads to [[Bard Xphb]]
 - Leads to [[rod-of-lordly-might-xdmg (items)]]
@@ -304,7 +297,6 @@ Following magic item guidelines (WWT p.135-136):
 ![[03_People/portrait_captain_dara_ironwill_friendly.png]]
 ![[03_People/portrait_captain_dara_ironwill_dramatic.png]]
 ![[03_People/portrait_captain_dara_ironwill_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

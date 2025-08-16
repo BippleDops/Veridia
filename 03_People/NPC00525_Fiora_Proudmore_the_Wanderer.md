@@ -18,7 +18,6 @@ aliases: [NPC00525 Fiora Proudmore the Wanderer]
 - [[#Alaric Voidwalker (Personal - Love interest)|Alaric Voidwalker (Personal - Love interest)]]
 - [[#Idris Voidwalker the Lost (Personal - Nemesis)|Idris Voidwalker the Lost (Personal - Nemesis)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Fiora Proudmore the Wanderer", "fiora proudmore the wanderer", "Fiora Proudmore Wanderer", "Wanderer the Proudmore Fioratags: [npc, character, combat, lore]er]
@@ -150,16 +149,13 @@ Witnessed a crime
 ---
 *Generated: 2025-08-15T03:51:03.173Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -171,7 +167,6 @@ Modifications:
 - HP: 33
 - AC: 14
 - Notable abilities: Varies by individual
-
 
 > [!tip] 💡 Tip
 > Useful information for players
@@ -231,11 +226,10 @@ Modifications:
 - [[01 Introduction Welcome to Adventure]]
 - [[NPC00661_Corvus_Darkwater_the_Broken]]
 - [[The_Corroded_Crown.png]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -244,11 +238,10 @@ Modifications:
 - **Combat**: See ACX p.189-198
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -270,7 +263,7 @@ Modifications:
 - Originates from [[ice-toad-rot (monstrosity)]]
 - Leads to [[step_063 (phase_076)]]
 - Affected by [[Ecological Balance Protocols]]
-- See also: [[step_075]]
+- See also:
 - Originates from [[potion-of-greater-healing-xdmg (items)]]
 - Influences [[LORE00119_Legends_Entry_120]]
 - Connects to [[Reality Protection]]
@@ -283,7 +276,7 @@ Modifications:
 - Parallels [[Assets Art [[Martha Hillbrook]].png]]
 - Affected by [[Location City [[Crimson Velocity]] V1 Crimson Velocity.svg]]
 - Originates from [[Valley of Eternal Mourning]]
-- Parallels [[step_083]]
+- Parallels
 - Requires [[Assets Locations [[Location City [[Memory Parasite Infection]] Memory Parasite Infection.svg]]]]
 - Related: [[Theater of Impossible Dreams]]
 - Related: [[LOC0116_Marshshire]]
@@ -301,7 +294,7 @@ Modifications:
 - Connects to [[step_068 (phase_097)]]
 - Connects to [[Trader Cross-Current Jin]]
 - Affected by [[Deep Mother]]
-- Connects to [[step_052]]
+- Connects to
 - Related: [[Duke Lysander Crystalvein (D&D_References)]]
 - Connects to [[FAC00019_Cults_20]]
 - Related: [[cover-xphb (tables)]]
@@ -349,7 +342,7 @@ Modifications:
 - Originates from [[pair-of-engraved-bone-dice-xdmg (items)]]
 - Influences [[EVENT00004_Political_Event_5]]
 - Connects to [[Elena Starweaver.md (People)]]
-- Compare with [[step_028]]
+- Compare with
 - Parallels [[Pilgrim Guide Nautilus Pathfinder]]
 - Affected by [[step_013 (phase_039)]]
 - Requires [[sack-xphb (items)]]
@@ -369,7 +362,6 @@ Modifications:
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_bloodied.png]]
 ![[03_People/token_captain_nautilus_the_deep_wanderer_medium_normal.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_captain_nautilus_the_deep_wanderer_captain_nautilus_the_deep_wanderer_svg_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC01013 Corvus Ravenheart the Bold]
 - [[#Fiora Thornweave the Redeemed (Personal - Childhood friend)|Fiora Thornweave the Redeemed (Personal - Childhood friend)]]
 - [[#Cedric Hawthorne the Mystic (Political - Patron)|Cedric Hawthorne the Mystic (Political - Patron)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Corvus Ravenheart the Bold", "corvus ravenheart the bold", "Corvus Ravenheart Bold", "Bold the Ravenheart Corvus"]
@@ -145,16 +144,13 @@ Has map to lost treasure
 ---
 *Generated: 2025-08-15T03:51:03.228Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -181,11 +177,10 @@ Has map to lost treasure
 - [[NPC01745_Felicia_Oakenshield_the_Scholar]]
 - [[NPC00069_Thalia_Brightblade_the_Guardian]]
 - [[Complete_NPC_Matrix.md]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -194,11 +189,10 @@ Has map to lost treasure
 - **Conditions**: See ACX p.290-292
 - **Skills**: See ACX p.174-179
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
@@ -211,7 +205,7 @@ Has map to lost treasure
 - See also: [[ENC0049_Random_Encounter_50]]
 - Influences [[guard-drake-red-mpmm (dragon)]]
 - Parallels [[Immovable Rod Xdmg]]
-- Originates from [[step_086]]
+- Originates from
 - Parallels [[Chief Engineer Brass Voidwright 2]]
 - Parallels [[Assets Item Artifact Spell Gem Lapis Lazuli Oota V1 Spell Gem Lapis Lazuli Oota.png]]
 - Requires [[staff-of-charming-xdmg (items)]]
@@ -227,7 +221,7 @@ Has map to lost treasure
 - Originates from [[NPC00176_Idris_Oakenshield]]
 - Leads to [[Founding Nation]]
 - Related: [[meditation-chamber (bastions)]]
-- Compare with [[step_005]]
+- Compare with
 - Parallels [[step_023 (phase_034)]]
 - Related: [[Artist Voidbrush 2]]
 - Influences [[Symbol Heraldry Aquabyssos Faction Web V1 Aquabyssos Faction Web.svg]]
@@ -271,9 +265,9 @@ Has map to lost treasure
 - Parallels [[Location City Memory Keeper Lament V1 Memory Keeper Lament.svg]]
 - Originates from [[The Anonymous Inquisitor]]
 - Affected by [[Meld Into Stone Xphb]]
-- Related: [[step_037]]
+- Related:
 - Parallels [[FAC00046_Orders_47]]
-- Related: [[step_001]]
+- Related:
 - See also: [[Dwarven Thard Harr Mtf]]
 - Influences [[LORE00268_Legends_Entry_269]]
 - Related: [[NPC_Reactions_Quick_Ref]]
@@ -297,8 +291,8 @@ Has map to lost treasure
 - Leads to [[Great Plague of Ages Past 2]]
 - Affected by [[Quest - The Great Integration 2]]
 - Affected by [[Assets Locations Location City Royal Ports Royal Ports.svg]]
-- Connects to [[step_059]]
-- Affected by [[step_028]]
+- Connects to
+- Affected by
 - Leads to [[step_010 (phase_013)]]
 - Compare with [[ITEM00114_Thunder_Staff_of_Accuracy]]
 - See also: [[maneuvering-attack-xphb (optional-features)]]
@@ -307,7 +301,6 @@ Has map to lost treasure
 ![[04_Resources/maps/world_adventure_boldexplorer_player.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_physical.png]]
 ![[04_Resources/maps/world_assets_locations_location_city_adventure_boldexplorer_v1_adventure_boldexplorer_svg_political.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

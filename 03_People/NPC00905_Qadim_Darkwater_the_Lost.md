@@ -18,7 +18,6 @@ aliases: [NPC00905 Qadim Darkwater the Lost]
 - [[#Aeliana Nightfall the Seeker (Political - Spy)|Aeliana Nightfall the Seeker (Political - Spy)]]
 - [[#Hestara Grimholt the Lost (Political - Spy)|Hestara Grimholt the Lost (Political - Spy)]]
 
-
 ---
 aliases: ["Qadim Darkwater the Lost", "qadim darkwater the lost", "Qadim Darkwater Lost", "Lost the Darkwater Qadim"]
 tags: [npc, character]
@@ -152,21 +151,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.217Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -185,7 +180,7 @@ Seeks rare merchandise
 - Affected by [[QUEST00055_Personal_Quest_56]]
 - Compare with [[step_050 (phase_042)]]
 - Compare with [[NPC00407_Hestara_Dawnstrider]]
-- Connects to [[step_006]]
+- Connects to
 - Affected by [[Downtime Activity Crafting a Magic Item]]
 - Connects to [[grassland-encounters-levels-1116-xge (tables)]]
 - Originates from [[Tiefling Dispater Mtf]]
@@ -214,7 +209,7 @@ Seeks rare merchandise
 - Influences [[step_073 (phase_096)]]
 - See also: [[Sage Currentknow (D&D_References)]]
 - Compare with [[The Synthesis Wastes]]
-- Originates from [[step_036]]
+- Originates from
 - Influences [[step_074 (phase_085)]]
 - Originates from [[Master_Location_Index]]
 - Parallels [[QUEST00257_Personal_Quest_258]]
@@ -225,13 +220,13 @@ Seeks rare merchandise
 - See also: [[step_096 (phase_048)]]
 - Connects to [[5-halflings-and-gnomes (mordenkainens-tome-of-foes)]]
 - Compare with [[locate-animals-or-plants-xphb (spells)]]
-- Related: [[step_049]]
+- Related:
 - Influences [[LORE00155_Prophecies_Entry_156]]
 - Compare with [[giant-venomous-snake-xmm (beast)]]
 - Requires [[sentient-magic-item-senses (tables)]]
 - Related: [[Ranger Captain Orin Swiftarrow]]
 - Influences [[Crystal Wardens 2]]
-- Parallels [[step_026]]
+- Parallels
 - Parallels [[Assets Locations Location City Abyss Currentbinder Abyss Currentbinder.svg]]
 - Originates from [[Deep Mining Consortium]]
 - Requires [[step_085 (phase_081)]]
@@ -256,7 +251,7 @@ Seeks rare merchandise
 - Originates from [[Magic User Association]]
 - Parallels [[Portrait NPC Agent Whisper Voidheart V1 Agent Whisper Voidheart.svg]]
 - Requires [[NPC00120_Hestara_Zephyrblade]]
-- Requires [[step_034]]
+- Requires
 - Influences [[ITEM00659_Dragon_Scale_Boots_of_Fortitude]]
 - Originates from [[step_019 (phase_089)]]
 - Parallels [[step_032 (phase_062)]]
@@ -275,7 +270,6 @@ Seeks rare merchandise
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png]]
 ![[03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

@@ -18,7 +18,6 @@ aliases: [NPC00872 Thalia Ironwood the Broken]
 - [[#Rhiannon Ashford the Redeemed (Personal - Best friend)|Rhiannon Ashford the Redeemed (Personal - Best friend)]]
 - [[#Vesper Stormwind the Scholar (Family - Child)|Vesper Stormwind the Scholar (Family - Child)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Thalia Ironwood the Broken", "thalia ironwood the broken", "Thalia Ironwood Broken", "Broken the Ironwood Thaliatags: [npc, character, combat, social, exploration, lore]er]
@@ -147,16 +146,13 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.212Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -191,11 +187,10 @@ Competitor sabotaging business
 - [[NPC00307_Dara_Proudmore_the_Seeker]]
 - [[Character_Journal_Template]]
 - [[NPC00451_Malakai_Ravenheart_the_Broken]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -206,23 +201,22 @@ Competitor sabotaging business
 - **Conditions**: See ACX p.290-292
 - **Death Saves**: See ACX p.197
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## Connections
 
 - Originates from [[step_083 (phase_040)]]
 - Affected by [[step_033 (phase_094)]]
 - Influences [[Assets Portraits Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg]]
-- Affected by [[step_090]]
-- Compare with [[step_051]]
+- Affected by
+- Compare with
 - Parallels [[Vehicle Ship Depth Piercer Research Sub Depth Piercer Research Sub.svg]]
 - Requires [[The Loyal Shadows]]
 - Influences [[NPC01481_Hestara_Ravenheart_the_Wise]]
-- Affected by [[step_074]]
+- Affected by
 - Requires [[NPC00137_Rhiannon_Ravenheart]]
 - Originates from [[portrait-npc-aether-crystal-aether-crystal.svg_1 (Portraits)]]
 - Affected by [[NPC01427_Vesper_Dawnstrider_the_Lost]]
@@ -244,7 +238,7 @@ Competitor sabotaging business
 - Parallels [[LORE00004_History_Entry_5]]
 - Compare with [[[[Bathyal Succession]] (D&D_References)]]
 - Parallels [[clockwork-iron-cobra-mpmm (construct)]]
-- See also: [[step_031]]
+- See also:
 - Leads to [[step_040 (phase_063)]]
 - Affected by [[LOC00152_Dungeons_Location_153]]
 - Influences [[Portrait NPC Deep Fortress Network V1 Deep Fortress Network.svg_1 (Portraits)]]
@@ -289,10 +283,10 @@ Competitor sabotaging business
 - Influences [[chaos-bolt-xge (spells)]]
 - Parallels [[[[[[Port Meridian]] Council Chamber]] 2]]
 - Parallels [[The Great Circuit 2]]
-- Leads to [[step_005]]
+- Leads to
 - Requires [[Assets Locations Location City [[Captain Trawl Netcaster]] V1 Captain Trawl Netcaster.svg]]
 - Compare with [[Blue Dragon Wyrmling Xmm]]
-- Connects to [[step_083]]
+- Connects to
 - Connects to [[ITEM0103_Hidden_Tome_of_the_Dawn]]
 - See also: [[step_039 (phase_099)]]
 - Affected by [[NPC01130_Vesper_Oakenshield_the_Mystic]]
@@ -311,7 +305,7 @@ Competitor sabotaging business
 - Affected by [[Detection Technology Laboratory]]
 - Originates from [[Symbols - Faction_Heraldry (D&D_References)]]
 - Affected by [[passages-passage (tables)]]
-- See also: [[step_024]]
+- See also:
 - Affected by [[Keeper Luminous Truehart]]
 - Parallels [[step_061 (phase_062)]]
 
@@ -319,7 +313,6 @@ Competitor sabotaging business
 ![[03_People/portrait_master_cultivator_thalia_greenglow_friendly.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow.png]]
 ![[03_People/portrait_master_cultivator_thalia_greenglow_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

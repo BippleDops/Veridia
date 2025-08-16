@@ -18,7 +18,6 @@ aliases: [NPC01367 Lyanna Xendar the Wise]
 - [[#Ysara Brightblade the Broken (Political - Puppet)|Ysara Brightblade the Broken (Political - Puppet)]]
 - [[#Gavril Ashford the Guardian (Family - Cousin)|Gavril Ashford the Guardian (Family - Cousin)]]
 
-
 ---
 created: 2025-08-15
 aliases: ["Lyanna Xendar the Wise", "lyanna xendar the wise", "Lyanna Xendar Wise", "Wise the Xendar Lyannatags: [npc, character, combat, magic, exploration, puzzle, lore]er]
@@ -154,16 +153,13 @@ Needs help with personal quest
 ---
 *Generated: 2025-08-15T03:51:03.265Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Combat Tactics
 - Preferred strategies
@@ -175,7 +171,6 @@ Modifications:
 - HP: 26
 - AC: 15
 - Notable abilities: Varies by individual
-
 
 > [!warning] ⚠️ Warning
 > Important safety or rule information
@@ -209,11 +204,10 @@ Modifications:
 - [[NPC01937_Felicia_Silverleaf_the_Wanderer]]
 - [[10 Combat]]
 - [[11 Rules Glossary]]
-- [[Related_Content]]
-
+-
 
 ## Related Content
-- [[SYSTEM_STATUS]]
+-
 - [[13-conditions (players-handbook-2014)]]
 - [[06 Equipment]]
 
@@ -223,11 +217,10 @@ Modifications:
 - **Skills**: See ACX p.174-179
 - **Spellcasting**: See ACX p.201-205
 
-
 ## Thematic Connections
-- Character development and [[NPC Motivations]]
-- Social encounters and [[Diplomacy Rules]]
-- Faction relationships with [[Political Factions]]
+- Character development and
+- Social encounters and
+- Faction relationships with
 
 ## D&D 5e References
 
@@ -252,7 +245,7 @@ Modifications:
 - Parallels [[Treasure_System - Pressure_Artifacts (D&D_References)]]
 - Parallels [[step_091 (phase_047)]]
 - Compare with [[NPC00546_Wynne_Lightbringer_the_Seeker]]
-- Parallels [[step_052]]
+- Parallels
 - Affected by [[Enspelled Armor Level 1 Xdmg]]
 - Influences [[step_061 (phase_093)]]
 - Compare with [[04_Resources_Assets_Locations_location-city-futures-master-economic-sense-futures-master-economic-sense.svg]]
@@ -291,9 +284,9 @@ Modifications:
 - Connects to [[amulet-of-the-planes-xdmg (items)]]
 - Requires [[Tourmaline Xdmg]]
 - Influences [[Location City Bio Tech Supervisor Reef Lifeweaver Bio Tech Supervisor Reef Lifeweaver.png]]
-- Originates from [[step_010]]
+- Originates from
 - See also: [[Shadow Community Political Power 2]]
-- Originates from [[step_034]]
+- Originates from
 - Affected by [[Complete Faction Warfare System]]
 - Parallels [[Reality Maintenance Department (D&D_References)]]
 - Leads to [[Portrait NPC Otherworldly Patron V2 Otherworldly Patron.svg_1 (Portraits)]]
@@ -302,7 +295,7 @@ Modifications:
 - Affected by [[step_065 (phase_038)]]
 - Leads to [[Tide-Speaker Nerida of House Abyssos (D&D_References)]]
 - Related: [[Session 2 - The Crystal Fever]]
-- Influences [[step_042]]
+- Influences
 - Parallels [[QUEST00107_Personal_Quest_108]]
 - Influences [[Assets Locations Location City [[Plague Crisis]] V1 Plague Crisis.png]]
 - Affected by [[Assets Locations [[Location City Keeper Aquaeous Depth Scholar V1 Keeper Aquaeous Depth Scholar.svg]]]]
@@ -326,7 +319,7 @@ Modifications:
 - Related: [[Lieutenant Marcu (D&D_References)]]
 - Connects to [[Undead Spirit Putrid Xphb]]
 - Affected by [[Diplomat Cross-Current Thane]]
-- Parallels [[step_017]]
+- Parallels
 - Connects to [[ITEM00395_Frost_Dagger_of_Speed]]
 - Affected by [[Infiltrate Surgical Facilities (Lore)]]
 - Compare with [[Assets Locations Location City [[Finn Deepmarket]] V1 Finn Deepmarket.svg]]
@@ -354,7 +347,6 @@ Modifications:
 ![[03_People/portrait_captain_lyanna_brightshield_standard.png]]
 ![[03_People/portrait_captain_lyanna_brightshield_dramatic.png]]
 ![[03_People/portrait_captain_lyanna_brightshield.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

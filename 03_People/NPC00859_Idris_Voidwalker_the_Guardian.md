@@ -18,7 +18,6 @@ aliases: [NPC00859 Idris Voidwalker the Guardian]
 - [[#Nerys Zephyrblade the Seeker (Personal - Best friend)|Nerys Zephyrblade the Seeker (Personal - Best friend)]]
 - [[#Brenna Crystalbrook the Wanderer (Political - Opposition)|Brenna Crystalbrook the Wanderer (Political - Opposition)]]
 
-
 ---
 aliases: ["Idris Voidwalker the Guardian", "idris voidwalker the guardian", "Idris Voidwalker Guardian", "Guardian the Voidwalker Idris"]
 tags: [npc, character]
@@ -149,21 +148,17 @@ Competitor sabotaging business
 ---
 *Generated: 2025-08-15T03:51:03.210Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -172,7 +167,7 @@ Competitor sabotaging business
 - Compare with [[ENC00007_Environmental_Encounter_8]]
 - Parallels [[Symbol Heraldry Lys... Related To: Local Political Structure Connected Plots: to Be Developed]]
 - Originates from [[step_100 (phase_071)]]
-- Parallels [[step_051]]
+- Parallels
 - Compare with [[Speed-Current Jet]]
 - Affected by [[S-L-11_Platform_Unmooring]]
 - Leads to [[boon-of-dimensional-travel-xphb (feats)]]
@@ -181,14 +176,14 @@ Competitor sabotaging business
 - Affected by [[step_068 (phase_065)]]
 - Parallels [[The Whistleblower 2]]
 - Requires [[LORE00253_Legends_Entry_254]]
-- Requires [[step_024]]
+- Requires
 - Parallels [[Shadow Independence Rules]]
 - Connects to [[LORE00206_History_Entry_207]]
 - Affected by [[QUEST00197_Main_Quest_198]]
 - Requires [[Special Purpose Sentient Items Communication]]
 - Related: [[step_022 (phase_029)]]
 - Leads to [[Campaign Guide]]
-- Connects to [[step_045]]
+- Connects to
 - Parallels [[step_029 (phase_023)]]
 - Originates from [[Storm Archive]]
 - Affected by [[Assets Locations Location City the Luminous Dawn Cathedral V1 the Luminous Dawn Cathedral.svg]]
@@ -205,7 +200,7 @@ Competitor sabotaging business
 - Affected by [[Assets Locations Location City Archivist Stone Memorykeeper V1 Archivist Stone Memorykeeper.svg]]
 - Connects to [[Establish New World Order (Orders)]]
 - Requires [[step_074 (phase_042)]]
-- Affected by [[step_071]]
+- Affected by
 - Affected by [[step_026 (phase_100)]]
 - Influences [[Quest - The Missing Fleet 2]]
 - Leads to [[step_008 (phase_058)]]
@@ -220,7 +215,7 @@ Competitor sabotaging business
 - Related: [[Location City Battle Priest Cassius Depthshield Battle Priest Cassius Depthshield.svg]]
 - Influences [[Symbol Heraldry Financial Crime Investigatio Financial Crime Investigatio.svg]]
 - Influences [[couatl-xmm (celestial)]]
-- Compare with [[step_018]]
+- Compare with
 - Compare with [[comprehend-languages-xphb (spells)]]
 - Parallels [[Location City Gravity Anomaly Mechanics V1 Gravity Anomaly Mechanics.svg]]
 - Affected by [[step_059 (phase_096)]]
@@ -272,7 +267,6 @@ Competitor sabotaging business
 ![[03_People/portrait_doctor_helena_voidwalker_friendly.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_dramatic.png]]
 ![[03_People/portrait_doctor_helena_voidwalker_standard.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

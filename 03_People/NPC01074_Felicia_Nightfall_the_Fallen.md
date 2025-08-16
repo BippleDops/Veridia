@@ -9,7 +9,6 @@ aliases: [NPC01074 Felicia Nightfall the Fallen]
 ## Portrait
 ![[04_Resources/Assets/Portraits/portrait_npc.png]]
 
-
 ## Table of Contents
 - [[#Quick Reference|Quick Reference]]
 - [[#Appearance|Appearance]]
@@ -21,7 +20,6 @@ aliases: [NPC01074 Felicia Nightfall the Fallen]
 - [[#Orion Ironforge the Redeemed (Professional - Rival)|Orion Ironforge the Redeemed (Professional - Rival)]]
 - [[#Delara Grimholt the Strong (Personal - Ex-lover)|Delara Grimholt the Strong (Personal - Ex-lover)]]
 - [[#Kaelen Jadeclaw the Fallen (Criminal - Handler)|Kaelen Jadeclaw the Fallen (Criminal - Handler)]]
-
 
 ---
 aliases: ["Felicia Nightfall the Fallen", "felicia nightfall the fallen", "Felicia Nightfall Fallen", "Fallen the Nightfall Felicia"]
@@ -158,21 +156,17 @@ Seeks rare merchandise
 ---
 *Generated: 2025-08-15T03:51:03.234Z*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Connections
 
@@ -202,13 +196,13 @@ Seeks rare merchandise
 - Influences [[Swamp Encounters Levels 14 Xge]]
 - Requires [[The Screaming Gardens]]
 - Requires [[The Deep Expansion]]
-- Leads to [[step_054]]
+- Leads to
 - Parallels [[SPELL00051_Arcane_Spell_52]]
 - Requires [[Shadow Surgeon Strike Team (Criminal_Organizations)]]
 - Compare with [[step_014 (phase_070)]]
 - Requires [[NPC01869_Aldric_Dawnstrider_the_Broken]]
 - Originates from [[Chief Researcher Prism Studywright]]
-- Parallels [[step_066]]
+- Parallels
 - Requires [[longship-xphb (items)]]
 - Related: [[chunk-of-meat (items)]]
 - Originates from [[NPC01810_Solas_Hawthorne_the_Redeemed]]
@@ -222,7 +216,7 @@ Seeks rare merchandise
 - Originates from [[Assets Handouts Handout Handout Council Summons Notice V2 Council Summons Notice.png]]
 - Compare with [[step_073 (phase_048)]]
 - Compare with [[step_069 (phase_009)]]
-- Originates from [[step_054]]
+- Originates from
 - Connects to [[supplemental-tables-relationship-xge (tables)]]
 - Requires [[Anti Priest us]]
 - Requires [[Political Intrigue of Meridian 2]]
@@ -243,18 +237,18 @@ Seeks rare merchandise
 - Related: [[Figurine of Wondrous Power Ivory Goats Xdmg]]
 - Originates from [[Stone Cursed Mpmm]]
 - Connects to [[artisans-tools-xphb (items)]]
-- Related: [[step_081]]
+- Related:
 - Connects to [[Assets Locations Location City Coral Shaper Polyp Coral Shaper Polyp.svg]]
-- Parallels [[step_049]]
+- Parallels
 - Influences [[step_062 (phase_096)]]
 - See also: [[Merchant Quarter Districts 2]]
 - Parallels [[02-chapter-1-playing-the-game#Healing]]
 - Affected by [[Planar Ally Xphb]]
-- Affected by [[step_073]]
+- Affected by
 - Originates from [[location-city-crystal-speak-crystal-speak.png]]
 - Affected by [[devils-sight-xphb (optional-features)]]
 - Leads to [[Determine Numbers and Challenge Ratings Solo]]
-- Affected by [[step_088]]
+- Affected by
 - Parallels [[Tide-Speaker Nerida of House Abyssos]]
 - Compare with [[nonhuman-bahamut (deities)]]
 - Originates from [[spell-scrolls-spell-scroll (tables)]]
@@ -262,7 +256,7 @@ Seeks rare merchandise
 - Compare with [[step_095 (phase_016)]]
 - Affected by [[psychic-gray-ooze-xmm (ooze)]]
 - Affected by [[Infant Basilisk Oota]]
-- Related: [[step_097]]
+- Related:
 - Related: [[urban-encounters-levels-510-xge (tables)]]
 - Requires [[02_Worldbuilding_Groups_Memory_Thieves_Guil]]
 - Requires [[step_058 (phase_094)]]

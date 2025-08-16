@@ -1,65 +1,45 @@
----
+# {name}
 
-title: NPC_Template
-type: npc
-tags:
-- npc
-
-created: '2025-01-15'
-modified: '2025-01-15'
-
---- # NPC_Template ---
+## Basic Information
+- **Race**: {race}
+- **Class**: {class}
+- **Level**: {level}
+- **Alignment**: {alignment}
+- **Location**: [[{location}]]
 
 ## Description
+{description}
 
-Detailed description pending.
-title: NPC Template
-type: template
-tags:
-- template
-- active
+## Personality
+- **Traits**: {traits}
+- **Ideals**: {ideals}
+- **Bonds**: {bonds}
+- **Flaws**: {flaws}
 
-created: '2025-08-14'
-modified: '2025-08-14'
+## Statistics
+- **AC**: {ac}
+- **HP**: {hp}
+- **Speed**: {speed}
 
---- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 09_Templates-specific enhancement ## Quest Hooks
+### Abilities
+- **STR**: {str} ({str_mod})
+- **DEX**: {dex} ({dex_mod})
+- **CON**: {con} ({con_mod})
+- **INT**: {int} ({int_mod})
+- **WIS**: {wis} ({wis_mod})
+- **CHA**: {cha} ({cha_mod})
 
-1. 2. 3. ## Plot Hooks - A noble needs help finding before dawn
+## Combat
+- **Attacks**: {attacks}
+- **Special Abilities**: {abilities}
 
-
-- A prisoner has gone missing and truth emerges
-- A stranger needs help finding before winter ## Related Notes - [[Similar Topic 1]]
-
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 09_Templates Specific Content Contextual improvement based on 09_Templates
-
+## Relationships
+- **Allies**: {allies}
+- **Enemies**: {enemies}
+- **Faction**: [[{faction}]]
 
 ## Notes
+{notes}
 
-*Additional notes*
-
-
-## Voice & Mannerisms
-- Speaking style
-- Common phrases
-
-
-## Daily Routine
-- Morning activities
-- Evening habits
-
-
-## Possessions
-- Personal items
-- Valuable objects
-
-
-## Combat Tactics
-- Preferred strategies
-- Special moves
-
-
-## Secrets
-- Hidden knowledge
-- Personal mysteries
+---
+*Created: {date}*

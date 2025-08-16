@@ -1,80 +1,52 @@
----
+# {name}
 
-title: Location_Template
-type: location
-tags:
-- location
-
-created: '2025-01-15'
-modified: '2025-01-15'
-
---- # Location_Template ---
+## Overview
+- **Type**: {type} (City/Town/Village/Dungeon/Wilderness)
+- **Region**: [[{region}]]
+- **Population**: {population}
+- **Government**: {government}
 
 ## Description
+{description}
 
-Detailed description pending.
-title: Location Template
-type: template
-tags:
-- template
-- active
+## Notable Features
+- {feature1}
+- {feature2}
+- {feature3}
 
-created: '2025-08-14'
-modified: '2025-08-14'
+## Important NPCs
+- [[{npc1}]] - {role1}
+- [[{npc2}]] - {role2}
 
---- ### Notable Features
+## Locations of Interest
+1. **{location1}**: {loc_desc1}
+2. **{location2}**: {loc_desc2}
+3. **{location3}**: {loc_desc3}
 
-1. 2. 3. ### Districts/Areas
+## History
+{history}
 
+## Current Events
+- {event1}
+- {event2}
 
-1. **Name**: Description
-2. **Name**: Description ### Rumors ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 09_Templates-specific enhancement ## Adventure Hooks ## Random Encounters
+## Secrets
+- {secret1}
+- {secret2}
 
-
-| d12 | Encounter |
-|-----|----------|
-| 1-2 | |
-| 3-4 | |
-| 5-6 | |
-| 7-8 | |
-| 9-10 | |
-| 11-12 | | ## Maps & Images ## Semantic Connections
-
-*Related concepts and locations:*
-- [[Nightmarket Plaza (D&D_References)|Nightmarket Plaza (D&D References)]]
-- [[trade-goods-phb (tables)]]
-- [[Shadow Broker Maximian Darkmarket (D&D_References)|Shadow Broker Maximian Darkmarket (D&D References)]]
-- [[Archmerchant Codex Goldstrea (D&D_References)|Archmerchant Codex Goldstrea (D&D References)]]
-- [[Deputy Archmerchant Scroll Deepmin (D&D_References)|Deputy Archmerchant Scroll Deepmin (D&D References)]]
-- [[Deputy Archmerchant Scroll Deepmind (D&D_References)|Deputy Archmerchant Scroll Deepmind (D&D References)]]
-- [[Finn Deepmarket (D&D_References)|Finn Deepmarket (D&D References)]]
-- [[trade-goods-xdmg (tables)]] ## Plot Hooks - A stranger needs help stealing before dawn
-
-- Someone is protecting information for money
-- A prisoner has gone missing and war looms
-- Strange sightings suggest ancient magic ## 09_Templates Specific Content Contextual improvement based on 09_Templates ## 09_Templates Specific Content Contextual improvement based on 09_Templates
-
-
-## Notes
-
-*Additional notes*
-
-
-## Atmosphere
-- Mood and feeling
-- Sensory details
-
+## Connections
+- **North**: [[{north}]]
+- **South**: [[{south}]]
+- **East**: [[{east}]]
+- **West**: [[{west}]]
 
 ## Resources
-- Natural resources
-- Trade goods
+- **Exports**: {exports}
+- **Imports**: {imports}
 
+## Adventure Hooks
+1. {hook1}
+2. {hook2}
 
-## Dangers
-- Environmental hazards
-- Hostile creatures
-
-
-## Weather
-- Typical conditions
-- Seasonal changes
+---
+*Created: {date}*

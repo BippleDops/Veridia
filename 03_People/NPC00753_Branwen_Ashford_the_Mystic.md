@@ -141,3 +141,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC00753_Branwen_Ashford_the_Mystic's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00753_Branwen_Ashford_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00753_Branwen_Ashford_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

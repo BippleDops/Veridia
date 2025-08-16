@@ -143,3 +143,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00979_Pyria_Nightfall_the_Seeker is working for two opposing factions
+4. **Memory Theft**: NPC00979_Pyria_Nightfall_the_Seeker's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00979_Pyria_Nightfall_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

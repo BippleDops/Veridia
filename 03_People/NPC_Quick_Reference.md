@@ -66,3 +66,23 @@
 | 4  | Gaining power |
 | 5  | Finding truth |
 | 6  | Achieving redemption |
+
+
+## Relationships
+- Hunting [[Minister Truth Darknes 2]]
+- Student of [[Captain Sky Horizon]]
+- Student of [[Original Glaucus]]
+- Informant for the Crystal Guard
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC_Quick_Reference needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC_Quick_Reference is working for two opposing factions
+1. **The Missing Shipment**: NPC_Quick_Reference approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

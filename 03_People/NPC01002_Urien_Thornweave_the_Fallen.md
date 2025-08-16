@@ -149,3 +149,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01002_Urien_Thornweave_the_Fallen is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01002_Urien_Thornweave_the_Fallen needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01002_Urien_Thornweave_the_Fallen's memories have been stolen and sold on the black market

@@ -132,3 +132,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01501_Rhiannon_Zephyrblade_the_Lost is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01501_Rhiannon_Zephyrblade_the_Lost is working for two opposing factions
+3. **Secret Meeting**: NPC01501_Rhiannon_Zephyrblade_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches

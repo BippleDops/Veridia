@@ -136,3 +136,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01828_Corvus_Crystalbrook_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01828_Corvus_Crystalbrook_the_Wise's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01828_Corvus_Crystalbrook_the_Wise is being blackmailed by the Bloodtide Brotherhood

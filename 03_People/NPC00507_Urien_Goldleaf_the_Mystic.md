@@ -137,3 +137,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC00507_Urien_Goldleaf_the_Mystic's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00507_Urien_Goldleaf_the_Mystic is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00507_Urien_Goldleaf_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches

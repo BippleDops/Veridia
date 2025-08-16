@@ -145,3 +145,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00211_Brenna_Proudmore_the_Guardian is working for two opposing factions
+4. **Memory Theft**: NPC00211_Brenna_Proudmore_the_Guardian's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00211_Brenna_Proudmore_the_Guardian is being blackmailed by the Bloodtide Brotherhood

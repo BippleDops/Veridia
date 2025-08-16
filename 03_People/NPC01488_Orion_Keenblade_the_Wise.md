@@ -136,3 +136,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01488_Orion_Keenblade_the_Wise is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01488_Orion_Keenblade_the_Wise is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01488_Orion_Keenblade_the_Wise's memories have been stolen and sold on the black market

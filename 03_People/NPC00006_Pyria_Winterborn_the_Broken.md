@@ -134,3 +134,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00006_Pyria_Winterborn_the_Broken is working for two opposing factions
+4. **Memory Theft**: NPC00006_Pyria_Winterborn_the_Broken's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00006_Pyria_Winterborn_the_Broken is being blackmailed by the Bloodtide Brotherhood

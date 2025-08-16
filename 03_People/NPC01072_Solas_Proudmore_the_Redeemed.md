@@ -144,3 +144,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01072_Solas_Proudmore_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01072_Solas_Proudmore_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01072_Solas_Proudmore_the_Redeemed's memories have been stolen and sold on the black market

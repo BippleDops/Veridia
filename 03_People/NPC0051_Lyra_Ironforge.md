@@ -125,3 +125,11 @@ Investigation, Persuasion
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district

@@ -143,3 +143,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01029_Xander_Youngblood_the_Bold is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01029_Xander_Youngblood_the_Bold approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01029_Xander_Youngblood_the_Bold is working for two opposing factions

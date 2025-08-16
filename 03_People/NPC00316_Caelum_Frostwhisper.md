@@ -146,3 +146,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00316_Caelum_Frostwhisper approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00316_Caelum_Frostwhisper is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00316_Caelum_Frostwhisper is working for two opposing factions

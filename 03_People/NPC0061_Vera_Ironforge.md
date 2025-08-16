@@ -128,3 +128,11 @@ Perception, Persuasion, Arcana, Investigation
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique

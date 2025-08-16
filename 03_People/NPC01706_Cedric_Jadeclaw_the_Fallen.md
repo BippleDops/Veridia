@@ -136,3 +136,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC01706_Cedric_Jadeclaw_the_Fallen's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01706_Cedric_Jadeclaw_the_Fallen needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01706_Cedric_Jadeclaw_the_Fallen is working for two opposing factions

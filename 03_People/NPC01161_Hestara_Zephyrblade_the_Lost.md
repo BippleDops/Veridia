@@ -137,3 +137,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01161_Hestara_Zephyrblade_the_Lost is working for two opposing factions
+4. **Memory Theft**: NPC01161_Hestara_Zephyrblade_the_Lost's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01161_Hestara_Zephyrblade_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches

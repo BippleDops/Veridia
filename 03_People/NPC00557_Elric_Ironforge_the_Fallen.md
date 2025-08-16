@@ -135,3 +135,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00557_Elric_Ironforge_the_Fallen is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00557_Elric_Ironforge_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC00557_Elric_Ironforge_the_Fallen needs escorts to a clandestine meeting in the Abyssal Trenches

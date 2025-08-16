@@ -150,3 +150,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01819_Brenna_Moonshadow_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC01819_Brenna_Moonshadow_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01819_Brenna_Moonshadow_the_Mystic is working for two opposing factions

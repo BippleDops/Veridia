@@ -60,3 +60,23 @@ TABLE file.link as "NPC"
 FROM "03_People"
 WHERE type = "npc" AND contains(file.name, "")
 ```
+
+
+## Relationships
+- Hunting [[Crown Dome Conspiracy]]
+- Indebted to [[Information Broker Whisper Goldtongu 2]]
+- Ally of [[Void Lords]]
+- Member of the Shadow Parliament (secret)
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+1. **The Missing Shipment**: 00_NPC_Master_Database approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests 00_NPC_Master_Database is working for two opposing factions
+3. **Secret Meeting**: 00_NPC_Master_Database needs escorts to a clandestine meeting in the Abyssal Trenches

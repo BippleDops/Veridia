@@ -134,3 +134,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00216_Nerys_Proudmore_the_Scholar is working for two opposing factions
+1. **The Missing Shipment**: NPC00216_Nerys_Proudmore_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC00216_Nerys_Proudmore_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches

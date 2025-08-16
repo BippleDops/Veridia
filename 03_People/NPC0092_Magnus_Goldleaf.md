@@ -152,3 +152,12 @@ Deception, Arcana
 ![[03_People/portrait_lord_magnus_goldspire_standard.png
 ![03_People/portrait_lord_magnus_goldspire_dramatic.png]]
 ![[03_People/portrait_assets_portraits_portrait_npc_lord_magnus_goldspire_lord_magnus_goldspire_svg_standard.png]]
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders

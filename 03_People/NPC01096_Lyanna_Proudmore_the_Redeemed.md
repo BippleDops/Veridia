@@ -134,3 +134,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC01096_Lyanna_Proudmore_the_Redeemed's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01096_Lyanna_Proudmore_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01096_Lyanna_Proudmore_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

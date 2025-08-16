@@ -137,3 +137,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00227_Brenna_Frostwhisper_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC00227_Brenna_Frostwhisper_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00227_Brenna_Frostwhisper_the_Mystic is working for two opposing factions

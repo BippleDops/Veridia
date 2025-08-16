@@ -142,3 +142,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01579_Aldric_Proudmore_the_Broken is working for two opposing factions
+3. **Secret Meeting**: NPC01579_Aldric_Proudmore_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01579_Aldric_Proudmore_the_Broken's memories have been stolen and sold on the black market

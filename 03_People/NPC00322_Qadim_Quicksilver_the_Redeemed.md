@@ -143,3 +143,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00322_Qadim_Quicksilver_the_Redeemed is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00322_Qadim_Quicksilver_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00322_Qadim_Quicksilver_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

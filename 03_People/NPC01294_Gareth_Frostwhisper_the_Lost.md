@@ -146,3 +146,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC01294_Gareth_Frostwhisper_the_Lost's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01294_Gareth_Frostwhisper_the_Lost is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01294_Gareth_Frostwhisper_the_Lost is being blackmailed by the Bloodtide Brotherhood

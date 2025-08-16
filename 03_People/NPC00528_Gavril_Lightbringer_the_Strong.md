@@ -162,3 +162,12 @@ Discovered something valuable
 - A mysterious message arrives regarding this location
 - Rumors speak of hidden treasures nearby
 - Strange occurrences have been reported recently
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders

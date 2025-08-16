@@ -137,3 +137,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00202_Fiora_Dawnstrider is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00202_Fiora_Dawnstrider is working for two opposing factions
+3. **Secret Meeting**: NPC00202_Fiora_Dawnstrider needs escorts to a clandestine meeting in the Abyssal Trenches

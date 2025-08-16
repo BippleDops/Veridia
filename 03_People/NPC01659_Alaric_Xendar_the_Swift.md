@@ -138,3 +138,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01659_Alaric_Xendar_the_Swift is working for two opposing factions
+1. **The Missing Shipment**: NPC01659_Alaric_Xendar_the_Swift approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01659_Alaric_Xendar_the_Swift's memories have been stolen and sold on the black market

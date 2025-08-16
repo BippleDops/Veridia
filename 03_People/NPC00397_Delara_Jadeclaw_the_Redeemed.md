@@ -138,3 +138,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00397_Delara_Jadeclaw_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00397_Delara_Jadeclaw_the_Redeemed is working for two opposing factions
+4. **Memory Theft**: NPC00397_Delara_Jadeclaw_the_Redeemed's memories have been stolen and sold on the black market

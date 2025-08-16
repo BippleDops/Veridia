@@ -136,3 +136,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00569_Ysara_Emberfall is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00569_Ysara_Emberfall needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00569_Ysara_Emberfall is working for two opposing factions

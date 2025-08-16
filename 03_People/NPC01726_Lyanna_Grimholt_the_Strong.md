@@ -135,3 +135,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01726_Lyanna_Grimholt_the_Strong approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01726_Lyanna_Grimholt_the_Strong is working for two opposing factions
+4. **Memory Theft**: NPC01726_Lyanna_Grimholt_the_Strong's memories have been stolen and sold on the black market

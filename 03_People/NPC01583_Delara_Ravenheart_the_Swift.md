@@ -131,3 +131,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01583_Delara_Ravenheart_the_Swift is working for two opposing factions
+4. **Memory Theft**: NPC01583_Delara_Ravenheart_the_Swift's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01583_Delara_Ravenheart_the_Swift is being blackmailed by the Bloodtide Brotherhood

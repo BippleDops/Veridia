@@ -141,3 +141,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00270_Kaelen_Stormwind_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00270_Kaelen_Stormwind_the_Wanderer's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00270_Kaelen_Stormwind_the_Wanderer is working for two opposing factions

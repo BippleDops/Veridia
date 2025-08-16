@@ -148,3 +148,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01950_Baelor_Grimholt_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01950_Baelor_Grimholt_the_Broken is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01950_Baelor_Grimholt_the_Broken's memories have been stolen and sold on the black market

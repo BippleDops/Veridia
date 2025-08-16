@@ -134,3 +134,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00044_Hestara_Thornweave_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00044_Hestara_Thornweave_the_Broken's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00044_Hestara_Thornweave_the_Broken is being blackmailed by the Bloodtide Brotherhood

@@ -144,3 +144,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC00203_Qadim_Crystalbrook_the_Strong's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00203_Qadim_Crystalbrook_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00203_Qadim_Crystalbrook_the_Strong is working for two opposing factions

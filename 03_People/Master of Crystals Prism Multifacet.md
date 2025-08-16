@@ -83,3 +83,12 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading

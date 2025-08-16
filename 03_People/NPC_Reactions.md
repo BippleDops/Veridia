@@ -83,3 +83,11 @@ publish: false --- # NPC_Reactions ## Portrait![[Npc|Npc]] *Portrait reference f
 - **Estimated Time**: How long this typically takes to run
 
 *What happens next is up to you.*
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district

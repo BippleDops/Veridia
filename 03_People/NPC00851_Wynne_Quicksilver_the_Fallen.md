@@ -140,3 +140,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00851_Wynne_Quicksilver_the_Fallen is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00851_Wynne_Quicksilver_the_Fallen is working for two opposing factions
+4. **Memory Theft**: NPC00851_Wynne_Quicksilver_the_Fallen's memories have been stolen and sold on the black market

@@ -137,3 +137,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01678_Felicia_Dawnstrider_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01678_Felicia_Dawnstrider_the_Guardian approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01678_Felicia_Dawnstrider_the_Guardian is being blackmailed by the Bloodtide Brotherhood

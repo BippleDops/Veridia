@@ -132,3 +132,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00177_Idris_Goldleaf_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00177_Idris_Goldleaf_the_Swift is working for two opposing factions
+1. **The Missing Shipment**: NPC00177_Idris_Goldleaf_the_Swift approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

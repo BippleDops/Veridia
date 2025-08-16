@@ -142,3 +142,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00983_Cedric_Moonshadow_the_Cunning is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00983_Cedric_Moonshadow_the_Cunning is working for two opposing factions
+3. **Secret Meeting**: NPC00983_Cedric_Moonshadow_the_Cunning needs escorts to a clandestine meeting in the Abyssal Trenches

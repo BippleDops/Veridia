@@ -146,3 +146,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01922_Idris_Stormwind_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01922_Idris_Stormwind_the_Bold approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01922_Idris_Stormwind_the_Bold's memories have been stolen and sold on the black market

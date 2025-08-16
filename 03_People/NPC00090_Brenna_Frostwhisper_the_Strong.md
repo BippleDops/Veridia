@@ -144,3 +144,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00090_Brenna_Frostwhisper_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00090_Brenna_Frostwhisper_the_Strong is working for two opposing factions
+4. **Memory Theft**: NPC00090_Brenna_Frostwhisper_the_Strong's memories have been stolen and sold on the black market

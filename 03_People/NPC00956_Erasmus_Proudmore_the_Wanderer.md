@@ -145,3 +145,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00956_Erasmus_Proudmore_the_Wanderer is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00956_Erasmus_Proudmore_the_Wanderer is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00956_Erasmus_Proudmore_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches

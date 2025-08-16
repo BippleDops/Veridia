@@ -142,3 +142,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00722_Ysara_Frostwhisper_the_Scholar is working for two opposing factions
+1. **The Missing Shipment**: NPC00722_Ysara_Frostwhisper_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00722_Ysara_Frostwhisper_the_Scholar is being blackmailed by the Bloodtide Brotherhood

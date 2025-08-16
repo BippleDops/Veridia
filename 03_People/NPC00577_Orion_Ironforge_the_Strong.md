@@ -140,3 +140,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00577_Orion_Ironforge_the_Strong is working for two opposing factions
+4. **Memory Theft**: NPC00577_Orion_Ironforge_the_Strong's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00577_Orion_Ironforge_the_Strong is being blackmailed by the Bloodtide Brotherhood

@@ -144,3 +144,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01249_Faelyn_Zephyrblade_the_Wanderer approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01249_Faelyn_Zephyrblade_the_Wanderer is working for two opposing factions
+4. **Memory Theft**: NPC01249_Faelyn_Zephyrblade_the_Wanderer's memories have been stolen and sold on the black market

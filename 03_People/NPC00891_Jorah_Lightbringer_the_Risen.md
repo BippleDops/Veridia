@@ -138,3 +138,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00891_Jorah_Lightbringer_the_Risen is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00891_Jorah_Lightbringer_the_Risen is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00891_Jorah_Lightbringer_the_Risen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

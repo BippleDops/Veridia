@@ -148,3 +148,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC01736_Corvus_Hawthorne_the_Wise's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01736_Corvus_Hawthorne_the_Wise is working for two opposing factions
+3. **Secret Meeting**: NPC01736_Corvus_Hawthorne_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches

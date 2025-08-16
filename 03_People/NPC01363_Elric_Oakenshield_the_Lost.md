@@ -151,3 +151,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01363_Elric_Oakenshield_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01363_Elric_Oakenshield_the_Lost is working for two opposing factions
+1. **The Missing Shipment**: NPC01363_Elric_Oakenshield_the_Lost approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

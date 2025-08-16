@@ -147,3 +147,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01742_Cedric_Youngblood_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01742_Cedric_Youngblood_the_Guardian's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01742_Cedric_Youngblood_the_Guardian is working for two opposing factions

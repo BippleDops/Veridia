@@ -143,3 +143,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01385_Idris_Hawthorne_the_Fallen is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01385_Idris_Hawthorne_the_Fallen needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01385_Idris_Hawthorne_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

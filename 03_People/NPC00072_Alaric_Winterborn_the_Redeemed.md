@@ -136,3 +136,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00072_Alaric_Winterborn_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00072_Alaric_Winterborn_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00072_Alaric_Winterborn_the_Redeemed's memories have been stolen and sold on the black market

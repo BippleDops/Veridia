@@ -125,3 +125,11 @@ Investigation, Insight, Deception, Arcana
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique

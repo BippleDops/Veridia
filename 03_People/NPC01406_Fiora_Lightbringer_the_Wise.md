@@ -146,3 +146,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01406_Fiora_Lightbringer_the_Wise is working for two opposing factions
+3. **Secret Meeting**: NPC01406_Fiora_Lightbringer_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01406_Fiora_Lightbringer_the_Wise is being blackmailed by the Bloodtide Brotherhood

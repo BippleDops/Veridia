@@ -143,3 +143,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC00779_Lyanna_Lightbringer_the_Redeemed's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00779_Lyanna_Lightbringer_the_Redeemed is working for two opposing factions
+3. **Secret Meeting**: NPC00779_Lyanna_Lightbringer_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches

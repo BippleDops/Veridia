@@ -142,3 +142,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01451_Aeliana_Quicksilver_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01451_Aeliana_Quicksilver_the_Swift's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01451_Aeliana_Quicksilver_the_Swift is working for two opposing factions

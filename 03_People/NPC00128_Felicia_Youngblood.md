@@ -145,3 +145,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00128_Felicia_Youngblood needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00128_Felicia_Youngblood is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00128_Felicia_Youngblood approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

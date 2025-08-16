@@ -171,3 +171,12 @@ Seeks bodyguards for dangerous journey
 - A mysterious message arrives regarding this location
 - Rumors speak of hidden treasures nearby
 - Strange occurrences have been reported recently
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading

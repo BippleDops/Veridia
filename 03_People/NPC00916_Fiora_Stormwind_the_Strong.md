@@ -136,3 +136,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00916_Fiora_Stormwind_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00916_Fiora_Stormwind_the_Strong is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00916_Fiora_Stormwind_the_Strong is being blackmailed by the Bloodtide Brotherhood

@@ -146,3 +146,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01325_Pyria_Thornweave_the_Cunning is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01325_Pyria_Thornweave_the_Cunning is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01325_Pyria_Thornweave_the_Cunning's memories have been stolen and sold on the black market

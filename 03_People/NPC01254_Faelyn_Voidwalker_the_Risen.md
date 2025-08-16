@@ -146,3 +146,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01254_Faelyn_Voidwalker_the_Risen's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01254_Faelyn_Voidwalker_the_Risen is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01254_Faelyn_Voidwalker_the_Risen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

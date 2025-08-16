@@ -136,3 +136,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00914_Aldric_Hawthorne_the_Scholar is working for two opposing factions
+1. **The Missing Shipment**: NPC00914_Aldric_Hawthorne_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC00914_Aldric_Hawthorne_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches

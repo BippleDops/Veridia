@@ -142,3 +142,17 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01473_Dara_Frostwhisper_the_Lost is working for two opposing factions
+1. **The Missing Shipment**: NPC01473_Dara_Frostwhisper_the_Lost approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01473_Dara_Frostwhisper_the_Lost's memories have been stolen and sold on the black market

@@ -144,3 +144,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01381_Hilda_Underhill_the_Fallen is working for two opposing factions
+1. **The Missing Shipment**: NPC01381_Hilda_Underhill_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01381_Hilda_Underhill_the_Fallen is being blackmailed by the Bloodtide Brotherhood

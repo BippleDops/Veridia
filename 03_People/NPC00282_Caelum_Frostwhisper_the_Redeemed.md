@@ -149,3 +149,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00282_Caelum_Frostwhisper_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00282_Caelum_Frostwhisper_the_Redeemed's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00282_Caelum_Frostwhisper_the_Redeemed is working for two opposing factions

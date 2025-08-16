@@ -133,3 +133,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01093_Kaelen_Zephyrblade_the_Broken is working for two opposing factions
+1. **The Missing Shipment**: NPC01093_Kaelen_Zephyrblade_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC01093_Kaelen_Zephyrblade_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches

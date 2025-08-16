@@ -137,3 +137,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00768_Branwen_Keenblade_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00768_Branwen_Keenblade_the_Guardian's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00768_Branwen_Keenblade_the_Guardian is working for two opposing factions

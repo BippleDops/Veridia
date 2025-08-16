@@ -142,3 +142,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00497_Zephyr_Blackstone_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00497_Zephyr_Blackstone_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00497_Zephyr_Blackstone_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

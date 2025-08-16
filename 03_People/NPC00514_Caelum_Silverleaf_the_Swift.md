@@ -144,3 +144,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00514_Caelum_Silverleaf_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00514_Caelum_Silverleaf_the_Swift's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00514_Caelum_Silverleaf_the_Swift is working for two opposing factions

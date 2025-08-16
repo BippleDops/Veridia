@@ -137,3 +137,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01088_Dara_Xendar_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01088_Dara_Xendar_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01088_Dara_Xendar_the_Redeemed is working for two opposing factions

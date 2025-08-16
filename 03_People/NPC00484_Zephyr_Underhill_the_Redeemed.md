@@ -133,3 +133,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC00484_Zephyr_Underhill_the_Redeemed's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00484_Zephyr_Underhill_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00484_Zephyr_Underhill_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

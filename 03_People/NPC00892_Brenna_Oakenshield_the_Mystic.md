@@ -142,3 +142,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00892_Brenna_Oakenshield_the_Mystic's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00892_Brenna_Oakenshield_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00892_Brenna_Oakenshield_the_Mystic is working for two opposing factions

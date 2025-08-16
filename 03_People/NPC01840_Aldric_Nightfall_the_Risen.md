@@ -163,3 +163,12 @@ Is secretly testing the party
 - A mysterious message arrives regarding this location
 - Rumors speak of hidden treasures nearby
 - Strange occurrences have been reported recently
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district

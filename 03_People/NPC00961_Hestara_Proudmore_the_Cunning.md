@@ -136,3 +136,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00961_Hestara_Proudmore_the_Cunning is working for two opposing factions
+4. **Memory Theft**: NPC00961_Hestara_Proudmore_the_Cunning's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00961_Hestara_Proudmore_the_Cunning is being blackmailed by the Bloodtide Brotherhood

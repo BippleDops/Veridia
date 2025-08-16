@@ -148,3 +148,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00014_Alaric_Lightbringer needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00014_Alaric_Lightbringer is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00014_Alaric_Lightbringer's memories have been stolen and sold on the black market

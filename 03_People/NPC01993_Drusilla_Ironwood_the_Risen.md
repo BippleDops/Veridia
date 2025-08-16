@@ -146,3 +146,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01993_Drusilla_Ironwood_the_Risen is working for two opposing factions
+3. **Secret Meeting**: NPC01993_Drusilla_Ironwood_the_Risen needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01993_Drusilla_Ironwood_the_Risen is being blackmailed by the Bloodtide Brotherhood

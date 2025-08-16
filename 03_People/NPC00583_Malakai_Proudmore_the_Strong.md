@@ -141,3 +141,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00583_Malakai_Proudmore_the_Strong's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00583_Malakai_Proudmore_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00583_Malakai_Proudmore_the_Strong is working for two opposing factions

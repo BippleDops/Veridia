@@ -147,3 +147,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01779_Elric_Xendar_the_Wise is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01779_Elric_Xendar_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01779_Elric_Xendar_the_Wise is working for two opposing factions

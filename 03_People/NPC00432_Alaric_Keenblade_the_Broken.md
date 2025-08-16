@@ -147,3 +147,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00432_Alaric_Keenblade_the_Broken is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00432_Alaric_Keenblade_the_Broken is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00432_Alaric_Keenblade_the_Broken's memories have been stolen and sold on the black market

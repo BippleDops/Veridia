@@ -176,3 +176,12 @@ navigate floating islands connected by bridges of solidified cloud.
 - A mysterious message arrives regarding this location
 - Rumors speak of hidden treasures nearby
 - Strange occurrences have been reported recently
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world

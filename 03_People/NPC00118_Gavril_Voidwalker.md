@@ -141,3 +141,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00118_Gavril_Voidwalker is working for two opposing factions
+3. **Secret Meeting**: NPC00118_Gavril_Voidwalker needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00118_Gavril_Voidwalker is being blackmailed by the Bloodtide Brotherhood

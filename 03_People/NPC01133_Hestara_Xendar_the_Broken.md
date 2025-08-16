@@ -135,3 +135,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01133_Hestara_Xendar_the_Broken is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01133_Hestara_Xendar_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01133_Hestara_Xendar_the_Broken is working for two opposing factions

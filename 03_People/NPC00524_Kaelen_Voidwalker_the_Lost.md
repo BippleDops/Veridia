@@ -140,3 +140,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00524_Kaelen_Voidwalker_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00524_Kaelen_Voidwalker_the_Lost is working for two opposing factions
+4. **Memory Theft**: NPC00524_Kaelen_Voidwalker_the_Lost's memories have been stolen and sold on the black market

@@ -148,3 +148,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01284_Malakai_Winterborn_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01284_Malakai_Winterborn_the_Broken is working for two opposing factions
+4. **Memory Theft**: NPC01284_Malakai_Winterborn_the_Broken's memories have been stolen and sold on the black market

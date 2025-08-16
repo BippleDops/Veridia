@@ -137,3 +137,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00268_Ysara_Thornweave_the_Wise is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00268_Ysara_Thornweave_the_Wise's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00268_Ysara_Thornweave_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches

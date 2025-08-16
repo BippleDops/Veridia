@@ -140,3 +140,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00023_Corvus_Ashford_the_Mystic is working for two opposing factions
+4. **Memory Theft**: NPC00023_Corvus_Ashford_the_Mystic's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00023_Corvus_Ashford_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

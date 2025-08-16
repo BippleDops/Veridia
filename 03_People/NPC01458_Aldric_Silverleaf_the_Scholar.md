@@ -148,3 +148,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01458_Aldric_Silverleaf_the_Scholar is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01458_Aldric_Silverleaf_the_Scholar is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01458_Aldric_Silverleaf_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

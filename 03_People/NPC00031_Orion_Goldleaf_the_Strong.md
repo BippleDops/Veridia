@@ -148,3 +148,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00031_Orion_Goldleaf_the_Strong is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00031_Orion_Goldleaf_the_Strong is working for two opposing factions
+3. **Secret Meeting**: NPC00031_Orion_Goldleaf_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches

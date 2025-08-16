@@ -147,3 +147,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00483_Aeliana_Frostwhisper_the_Seeker's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00483_Aeliana_Frostwhisper_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00483_Aeliana_Frostwhisper_the_Seeker is working for two opposing factions

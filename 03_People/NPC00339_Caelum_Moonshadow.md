@@ -143,3 +143,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00339_Caelum_Moonshadow needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00339_Caelum_Moonshadow approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00339_Caelum_Moonshadow's memories have been stolen and sold on the black market

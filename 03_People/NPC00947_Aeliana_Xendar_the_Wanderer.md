@@ -133,3 +133,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00947_Aeliana_Xendar_the_Wanderer is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00947_Aeliana_Xendar_the_Wanderer's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00947_Aeliana_Xendar_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches

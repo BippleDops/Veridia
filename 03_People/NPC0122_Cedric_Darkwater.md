@@ -126,3 +126,11 @@ Arcana, Stealth, Investigation
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique

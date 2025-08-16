@@ -135,3 +135,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00376_Dara_Zephyrblade_the_Seeker is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00376_Dara_Zephyrblade_the_Seeker's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00376_Dara_Zephyrblade_the_Seeker is working for two opposing factions

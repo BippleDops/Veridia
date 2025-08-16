@@ -136,3 +136,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01814_Ewan_Oakenshield_the_Redeemed is working for two opposing factions
+4. **Memory Theft**: NPC01814_Ewan_Oakenshield_the_Redeemed's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01814_Ewan_Oakenshield_the_Redeemed is being blackmailed by the Bloodtide Brotherhood

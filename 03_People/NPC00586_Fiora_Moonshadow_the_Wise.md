@@ -137,3 +137,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00586_Fiora_Moonshadow_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00586_Fiora_Moonshadow_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00586_Fiora_Moonshadow_the_Wise is working for two opposing factions

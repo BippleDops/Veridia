@@ -136,3 +136,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00263_Zephyr_Ironforge_the_Guardian's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00263_Zephyr_Ironforge_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00263_Zephyr_Ironforge_the_Guardian is working for two opposing factions

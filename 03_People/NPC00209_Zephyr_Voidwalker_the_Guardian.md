@@ -136,3 +136,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00209_Zephyr_Voidwalker_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00209_Zephyr_Voidwalker_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00209_Zephyr_Voidwalker_the_Guardian's memories have been stolen and sold on the black market

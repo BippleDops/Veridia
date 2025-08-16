@@ -137,3 +137,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00003_Rhiannon_Emberfall_the_Seeker is working for two opposing factions
+1. **The Missing Shipment**: NPC00003_Rhiannon_Emberfall_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00003_Rhiannon_Emberfall_the_Seeker is being blackmailed by the Bloodtide Brotherhood

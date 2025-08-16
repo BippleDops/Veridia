@@ -137,3 +137,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01496_Brenna_Youngblood_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01496_Brenna_Youngblood_the_Strong is working for two opposing factions
+1. **The Missing Shipment**: NPC01496_Brenna_Youngblood_the_Strong approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

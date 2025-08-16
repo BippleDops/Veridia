@@ -150,3 +150,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01235_Lyanna_Goldleaf_the_Strong is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01235_Lyanna_Goldleaf_the_Strong's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01235_Lyanna_Goldleaf_the_Strong is working for two opposing factions

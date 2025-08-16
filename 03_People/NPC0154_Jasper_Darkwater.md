@@ -153,3 +153,12 @@ Arcana, Athletics, Investigation
 ![[03_People/portrait_high_cultivist_jasper_lifebinder_standard.png
 ![03_People/portrait_high_cultivist_jasper_lifebinder_dramatic.png]]
 ![[03_People/portrait_high_cultivist_jasper_lifebinder_friendly.png]]
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district

@@ -146,3 +146,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01611_Gavril_Ironwood_the_Wise is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01611_Gavril_Ironwood_the_Wise is working for two opposing factions
+4. **Memory Theft**: NPC01611_Gavril_Ironwood_the_Wise's memories have been stolen and sold on the black market

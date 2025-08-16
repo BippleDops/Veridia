@@ -135,3 +135,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00808_Solas_Ironforge_the_Mystic is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00808_Solas_Ironforge_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00808_Solas_Ironforge_the_Mystic is working for two opposing factions

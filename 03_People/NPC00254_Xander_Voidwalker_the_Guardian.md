@@ -147,3 +147,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00254_Xander_Voidwalker_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00254_Xander_Voidwalker_the_Guardian's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00254_Xander_Voidwalker_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches

@@ -136,3 +136,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01258_Gareth_Moonshadow_the_Risen is working for two opposing factions
+3. **Secret Meeting**: NPC01258_Gareth_Moonshadow_the_Risen needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01258_Gareth_Moonshadow_the_Risen's memories have been stolen and sold on the black market

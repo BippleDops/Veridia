@@ -145,3 +145,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00857_Solas_Crystalbrook_the_Bold is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00857_Solas_Crystalbrook_the_Bold's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00857_Solas_Crystalbrook_the_Bold is working for two opposing factions

@@ -150,3 +150,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00994_Urien_Frostwhisper_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00994_Urien_Frostwhisper_the_Guardian is working for two opposing factions
+4. **Memory Theft**: NPC00994_Urien_Frostwhisper_the_Guardian's memories have been stolen and sold on the black market

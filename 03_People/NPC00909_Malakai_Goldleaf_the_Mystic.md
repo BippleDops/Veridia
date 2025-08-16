@@ -146,3 +146,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00909_Malakai_Goldleaf_the_Mystic is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00909_Malakai_Goldleaf_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00909_Malakai_Goldleaf_the_Mystic is working for two opposing factions

@@ -136,3 +136,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01628_Dara_Keenblade_the_Guardian approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01628_Dara_Keenblade_the_Guardian is working for two opposing factions
+3. **Secret Meeting**: NPC01628_Dara_Keenblade_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches

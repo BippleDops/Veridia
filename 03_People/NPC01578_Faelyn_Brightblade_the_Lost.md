@@ -150,3 +150,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01578_Faelyn_Brightblade_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01578_Faelyn_Brightblade_the_Lost's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01578_Faelyn_Brightblade_the_Lost is being blackmailed by the Bloodtide Brotherhood

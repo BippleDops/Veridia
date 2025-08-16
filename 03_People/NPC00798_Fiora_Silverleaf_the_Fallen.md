@@ -146,3 +146,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00798_Fiora_Silverleaf_the_Fallen is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00798_Fiora_Silverleaf_the_Fallen needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00798_Fiora_Silverleaf_the_Fallen is working for two opposing factions

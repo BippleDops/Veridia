@@ -145,3 +145,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01944_Xander_Stormwind_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01944_Xander_Stormwind_the_Redeemed is working for two opposing factions
+4. **Memory Theft**: NPC01944_Xander_Stormwind_the_Redeemed's memories have been stolen and sold on the black market

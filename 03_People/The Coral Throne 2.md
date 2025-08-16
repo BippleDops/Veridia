@@ -87,3 +87,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Weather
 - Typical conditions
 - Seasonal changes
+
+
+## Relationships
+- Ally of [[Captain Torrent Swiftcurrent]]
+- Rival to [[The Shadowhawk Syndicate]]
+- Indebted to [[Portrait NPC Ques... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Member of the Shadow Parliament (secret)
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: The Coral Throne 2 needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: The Coral Throne 2's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: The Coral Throne 2 approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

@@ -143,3 +143,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00330_Gavril_Hawthorne is working for two opposing factions
+3. **Secret Meeting**: NPC00330_Gavril_Hawthorne needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00330_Gavril_Hawthorne is being blackmailed by the Bloodtide Brotherhood

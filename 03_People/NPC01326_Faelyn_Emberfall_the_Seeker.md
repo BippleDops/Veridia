@@ -151,3 +151,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Gain influence in their district
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01326_Faelyn_Emberfall_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01326_Faelyn_Emberfall_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01326_Faelyn_Emberfall_the_Seeker is being blackmailed by the Bloodtide Brotherhood

@@ -135,3 +135,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00001_Erasmus_Jadeclaw's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00001_Erasmus_Jadeclaw is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00001_Erasmus_Jadeclaw is being blackmailed by the Bloodtide Brotherhood

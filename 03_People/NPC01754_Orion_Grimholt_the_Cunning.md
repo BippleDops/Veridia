@@ -135,3 +135,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01754_Orion_Grimholt_the_Cunning needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01754_Orion_Grimholt_the_Cunning is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01754_Orion_Grimholt_the_Cunning is being blackmailed by the Bloodtide Brotherhood

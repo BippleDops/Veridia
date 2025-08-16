@@ -145,3 +145,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC01770_Solas_Dawnstrider_the_Swift's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01770_Solas_Dawnstrider_the_Swift is working for two opposing factions
+3. **Secret Meeting**: NPC01770_Solas_Dawnstrider_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches

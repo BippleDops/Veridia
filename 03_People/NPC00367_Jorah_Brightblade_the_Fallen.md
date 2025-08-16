@@ -133,3 +133,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00367_Jorah_Brightblade_the_Fallen is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00367_Jorah_Brightblade_the_Fallen is working for two opposing factions
+3. **Secret Meeting**: NPC00367_Jorah_Brightblade_the_Fallen needs escorts to a clandestine meeting in the Abyssal Trenches

@@ -143,3 +143,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC00789_Caelum_Ravenheart_the_Scholar's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00789_Caelum_Ravenheart_the_Scholar is working for two opposing factions
+3. **Secret Meeting**: NPC00789_Caelum_Ravenheart_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches

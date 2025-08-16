@@ -137,3 +137,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01878_Aldric_Quicksilver_the_Scholar is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01878_Aldric_Quicksilver_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01878_Aldric_Quicksilver_the_Scholar's memories have been stolen and sold on the black market

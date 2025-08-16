@@ -139,3 +139,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00392_Delara_Goldleaf_the_Strong's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00392_Delara_Goldleaf_the_Strong is working for two opposing factions
+1. **The Missing Shipment**: NPC00392_Delara_Goldleaf_the_Strong approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

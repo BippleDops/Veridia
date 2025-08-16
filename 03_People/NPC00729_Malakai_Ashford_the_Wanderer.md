@@ -141,3 +141,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00729_Malakai_Ashford_the_Wanderer approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00729_Malakai_Ashford_the_Wanderer's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00729_Malakai_Ashford_the_Wanderer is working for two opposing factions

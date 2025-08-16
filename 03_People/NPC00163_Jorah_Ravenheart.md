@@ -142,3 +142,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC00163_Jorah_Ravenheart's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00163_Jorah_Ravenheart is working for two opposing factions
+3. **Secret Meeting**: NPC00163_Jorah_Ravenheart needs escorts to a clandestine meeting in the Abyssal Trenches

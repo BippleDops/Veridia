@@ -137,3 +137,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01016_Malakai_Ravenheart_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01016_Malakai_Ravenheart_the_Redeemed's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01016_Malakai_Ravenheart_the_Redeemed is working for two opposing factions

@@ -150,3 +150,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01642_Pyria_Ironwood_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01642_Pyria_Ironwood_the_Redeemed is working for two opposing factions
+4. **Memory Theft**: NPC01642_Pyria_Ironwood_the_Redeemed's memories have been stolen and sold on the black market

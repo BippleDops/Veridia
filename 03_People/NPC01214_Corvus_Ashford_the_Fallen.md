@@ -151,3 +151,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC01214_Corvus_Ashford_the_Fallen's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01214_Corvus_Ashford_the_Fallen needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01214_Corvus_Ashford_the_Fallen is working for two opposing factions

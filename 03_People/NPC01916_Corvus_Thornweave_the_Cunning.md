@@ -149,3 +149,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC01916_Corvus_Thornweave_the_Cunning's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01916_Corvus_Thornweave_the_Cunning is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01916_Corvus_Thornweave_the_Cunning is working for two opposing factions

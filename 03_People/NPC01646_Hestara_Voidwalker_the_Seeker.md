@@ -138,3 +138,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01646_Hestara_Voidwalker_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01646_Hestara_Voidwalker_the_Seeker is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01646_Hestara_Voidwalker_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

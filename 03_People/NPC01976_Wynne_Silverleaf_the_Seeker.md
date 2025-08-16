@@ -135,3 +135,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01976_Wynne_Silverleaf_the_Seeker's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01976_Wynne_Silverleaf_the_Seeker is working for two opposing factions
+3. **Secret Meeting**: NPC01976_Wynne_Silverleaf_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches

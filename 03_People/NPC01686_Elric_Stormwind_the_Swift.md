@@ -141,3 +141,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01686_Elric_Stormwind_the_Swift approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01686_Elric_Stormwind_the_Swift is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01686_Elric_Stormwind_the_Swift's memories have been stolen and sold on the black market

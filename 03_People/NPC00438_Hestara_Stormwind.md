@@ -133,3 +133,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00438_Hestara_Stormwind's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00438_Hestara_Stormwind is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00438_Hestara_Stormwind needs escorts to a clandestine meeting in the Abyssal Trenches

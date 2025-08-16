@@ -140,3 +140,17 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01213_Drusilla_Underhill_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01213_Drusilla_Underhill_the_Scholar's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01213_Drusilla_Underhill_the_Scholar is being blackmailed by the Bloodtide Brotherhood

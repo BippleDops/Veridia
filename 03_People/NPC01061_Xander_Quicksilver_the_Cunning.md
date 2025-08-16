@@ -137,3 +137,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01061_Xander_Quicksilver_the_Cunning approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01061_Xander_Quicksilver_the_Cunning is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01061_Xander_Quicksilver_the_Cunning is working for two opposing factions

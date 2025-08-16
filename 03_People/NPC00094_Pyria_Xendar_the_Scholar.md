@@ -137,3 +137,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00094_Pyria_Xendar_the_Scholar is working for two opposing factions
+4. **Memory Theft**: NPC00094_Pyria_Xendar_the_Scholar's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00094_Pyria_Xendar_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

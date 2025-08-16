@@ -47,3 +47,23 @@ graph TD
 - How NPC relationships affect quests
 - Ripple effects of befriending/antagonizing key figures
 - Long-term campaign implications
+
+
+## Relationships
+- Student of [[The Great Cacophony 2]]
+- Rival to [[High Oracle Serenity Deepcall 2]]
+- Ally of [[High Theologian Commander Aurelius]]
+- Former agent of the Abyssal Trading Consortium
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC_Relationship_Map needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC_Relationship_Map's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC_Relationship_Map is working for two opposing factions

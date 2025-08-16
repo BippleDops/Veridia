@@ -145,3 +145,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01865_Erasmus_Stormwind_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC01865_Erasmus_Stormwind_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01865_Erasmus_Stormwind_the_Wise's memories have been stolen and sold on the black market

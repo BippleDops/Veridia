@@ -146,3 +146,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00097_Lyanna_Jadeclaw needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00097_Lyanna_Jadeclaw's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00097_Lyanna_Jadeclaw approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

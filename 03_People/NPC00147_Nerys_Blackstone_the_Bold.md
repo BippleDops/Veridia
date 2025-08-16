@@ -147,3 +147,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00147_Nerys_Blackstone_the_Bold is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00147_Nerys_Blackstone_the_Bold is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00147_Nerys_Blackstone_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches

@@ -147,3 +147,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01771_Malakai_Ironwood_the_Redeemed is working for two opposing factions
+1. **The Missing Shipment**: NPC01771_Malakai_Ironwood_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01771_Malakai_Ironwood_the_Redeemed's memories have been stolen and sold on the black market

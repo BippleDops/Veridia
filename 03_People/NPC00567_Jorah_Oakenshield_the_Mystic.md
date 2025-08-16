@@ -139,3 +139,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00567_Jorah_Oakenshield_the_Mystic is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00567_Jorah_Oakenshield_the_Mystic is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00567_Jorah_Oakenshield_the_Mystic's memories have been stolen and sold on the black market

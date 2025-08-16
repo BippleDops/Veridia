@@ -82,3 +82,12 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders

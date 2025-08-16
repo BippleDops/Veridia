@@ -145,3 +145,17 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC01244_Nerys_Emberfall_the_Broken's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC01244_Nerys_Emberfall_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01244_Nerys_Emberfall_the_Broken is being blackmailed by the Bloodtide Brotherhood

@@ -142,3 +142,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01942_Elric_Ironforge_the_Risen needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01942_Elric_Ironforge_the_Risen is working for two opposing factions
+4. **Memory Theft**: NPC01942_Elric_Ironforge_the_Risen's memories have been stolen and sold on the black market

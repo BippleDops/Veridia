@@ -136,3 +136,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01472_Kaelen_Ravenheart_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01472_Kaelen_Ravenheart_the_Swift is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01472_Kaelen_Ravenheart_the_Swift is being blackmailed by the Bloodtide Brotherhood

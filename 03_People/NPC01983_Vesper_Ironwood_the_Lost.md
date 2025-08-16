@@ -144,3 +144,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01983_Vesper_Ironwood_the_Lost is working for two opposing factions
+4. **Memory Theft**: NPC01983_Vesper_Ironwood_the_Lost's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC01983_Vesper_Ironwood_the_Lost approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

@@ -139,3 +139,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC00941_Felicia_Frostwhisper_the_Seeker's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00941_Felicia_Frostwhisper_the_Seeker is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00941_Felicia_Frostwhisper_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

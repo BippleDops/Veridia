@@ -139,3 +139,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00539_Brenna_Nightfall approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC00539_Brenna_Nightfall needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00539_Brenna_Nightfall is working for two opposing factions

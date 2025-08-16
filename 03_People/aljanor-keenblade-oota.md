@@ -91,3 +91,23 @@ world: Both
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
+
+
+## Relationships
+- Ally of [[Witness Protection Network 2]]
+- Student of [[Lady Penelope Procedure]]
+- Hunting [[Portrait NPC Quee... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Former agent of the Abyssal Trading Consortium
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests aljanor-keenblade-oota is working for two opposing factions
+4. **Memory Theft**: aljanor-keenblade-oota's memories have been stolen and sold on the black market
+3. **Secret Meeting**: aljanor-keenblade-oota needs escorts to a clandestine meeting in the Abyssal Trenches

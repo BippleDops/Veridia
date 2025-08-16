@@ -143,3 +143,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00034_Hestara_Oakenshield_the_Cunning is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00034_Hestara_Oakenshield_the_Cunning is working for two opposing factions
+3. **Secret Meeting**: NPC00034_Hestara_Oakenshield_the_Cunning needs escorts to a clandestine meeting in the Abyssal Trenches

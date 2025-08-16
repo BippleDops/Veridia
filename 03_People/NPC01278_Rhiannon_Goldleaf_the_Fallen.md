@@ -147,3 +147,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01278_Rhiannon_Goldleaf_the_Fallen needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01278_Rhiannon_Goldleaf_the_Fallen is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01278_Rhiannon_Goldleaf_the_Fallen's memories have been stolen and sold on the black market

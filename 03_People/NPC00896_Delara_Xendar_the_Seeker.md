@@ -140,3 +140,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00896_Delara_Xendar_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00896_Delara_Xendar_the_Seeker's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00896_Delara_Xendar_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

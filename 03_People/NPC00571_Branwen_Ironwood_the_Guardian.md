@@ -149,3 +149,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00571_Branwen_Ironwood_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00571_Branwen_Ironwood_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00571_Branwen_Ironwood_the_Guardian approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

@@ -143,3 +143,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00345_Wynne_Xendar_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00345_Wynne_Xendar_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00345_Wynne_Xendar_the_Redeemed is working for two opposing factions

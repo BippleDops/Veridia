@@ -149,3 +149,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC01311_Zephyr_Xendar_the_Wanderer's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC01311_Zephyr_Xendar_the_Wanderer approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC01311_Zephyr_Xendar_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches

@@ -143,3 +143,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC00081_Gareth_Winterborn_the_Seeker's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00081_Gareth_Winterborn_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00081_Gareth_Winterborn_the_Seeker is working for two opposing factions

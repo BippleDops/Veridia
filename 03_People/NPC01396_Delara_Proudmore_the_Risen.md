@@ -141,3 +141,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01396_Delara_Proudmore_the_Risen needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01396_Delara_Proudmore_the_Risen is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01396_Delara_Proudmore_the_Risen's memories have been stolen and sold on the black market

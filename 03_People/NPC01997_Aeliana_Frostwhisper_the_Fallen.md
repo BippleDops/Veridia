@@ -147,3 +147,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01997_Aeliana_Frostwhisper_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01997_Aeliana_Frostwhisper_the_Fallen is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01997_Aeliana_Frostwhisper_the_Fallen is being blackmailed by the Bloodtide Brotherhood

@@ -135,3 +135,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00626_Dara_Darkwater_the_Bold's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00626_Dara_Darkwater_the_Bold is working for two opposing factions
+3. **Secret Meeting**: NPC00626_Dara_Darkwater_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches

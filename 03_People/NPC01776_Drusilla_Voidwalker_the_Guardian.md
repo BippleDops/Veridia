@@ -143,3 +143,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC01776_Drusilla_Voidwalker_the_Guardian's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01776_Drusilla_Voidwalker_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01776_Drusilla_Voidwalker_the_Guardian approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

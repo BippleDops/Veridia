@@ -137,3 +137,17 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01454_Solas_Moonshadow_the_Wanderer is working for two opposing factions
+3. **Secret Meeting**: NPC01454_Solas_Moonshadow_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01454_Solas_Moonshadow_the_Wanderer is being blackmailed by the Bloodtide Brotherhood

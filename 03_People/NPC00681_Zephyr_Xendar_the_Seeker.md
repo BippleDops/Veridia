@@ -136,3 +136,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00681_Zephyr_Xendar_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC00681_Zephyr_Xendar_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00681_Zephyr_Xendar_the_Seeker's memories have been stolen and sold on the black market

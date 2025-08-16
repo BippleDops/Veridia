@@ -143,3 +143,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01143_Orion_Ravenheart_the_Risen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01143_Orion_Ravenheart_the_Risen's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01143_Orion_Ravenheart_the_Risen is being blackmailed by the Bloodtide Brotherhood

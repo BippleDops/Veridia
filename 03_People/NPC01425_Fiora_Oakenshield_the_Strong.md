@@ -138,3 +138,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01425_Fiora_Oakenshield_the_Strong approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01425_Fiora_Oakenshield_the_Strong is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01425_Fiora_Oakenshield_the_Strong is being blackmailed by the Bloodtide Brotherhood

@@ -135,3 +135,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00052_Thalia_Dawnstrider is working for two opposing factions
+4. **Memory Theft**: NPC00052_Thalia_Dawnstrider's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00052_Thalia_Dawnstrider is being blackmailed by the Bloodtide Brotherhood

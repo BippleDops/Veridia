@@ -138,3 +138,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00861_Caelum_Goldleaf_the_Risen's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00861_Caelum_Goldleaf_the_Risen needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00861_Caelum_Goldleaf_the_Risen is being blackmailed by the Bloodtide Brotherhood

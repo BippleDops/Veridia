@@ -128,3 +128,11 @@ Athletics, Perception, Persuasion
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world

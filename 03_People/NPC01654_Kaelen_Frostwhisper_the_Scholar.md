@@ -139,3 +139,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01654_Kaelen_Frostwhisper_the_Scholar is working for two opposing factions
+3. **Secret Meeting**: NPC01654_Kaelen_Frostwhisper_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01654_Kaelen_Frostwhisper_the_Scholar's memories have been stolen and sold on the black market

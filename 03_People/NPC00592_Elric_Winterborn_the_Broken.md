@@ -149,3 +149,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00592_Elric_Winterborn_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00592_Elric_Winterborn_the_Broken is working for two opposing factions
+1. **The Missing Shipment**: NPC00592_Elric_Winterborn_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

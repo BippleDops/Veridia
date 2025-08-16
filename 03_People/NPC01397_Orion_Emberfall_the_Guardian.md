@@ -141,3 +141,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01397_Orion_Emberfall_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01397_Orion_Emberfall_the_Guardian's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01397_Orion_Emberfall_the_Guardian is working for two opposing factions

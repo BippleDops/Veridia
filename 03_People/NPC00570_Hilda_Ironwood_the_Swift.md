@@ -131,3 +131,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00570_Hilda_Ironwood_the_Swift is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00570_Hilda_Ironwood_the_Swift is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00570_Hilda_Ironwood_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches

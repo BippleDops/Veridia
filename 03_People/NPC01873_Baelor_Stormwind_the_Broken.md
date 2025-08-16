@@ -153,3 +153,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01873_Baelor_Stormwind_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01873_Baelor_Stormwind_the_Broken's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01873_Baelor_Stormwind_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches

@@ -139,3 +139,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC00422_Aeliana_Thornweave_the_Wise's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00422_Aeliana_Thornweave_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC00422_Aeliana_Thornweave_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches

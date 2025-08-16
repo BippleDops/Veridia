@@ -144,3 +144,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01614_Felicia_Lightbringer_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01614_Felicia_Lightbringer_the_Mystic is working for two opposing factions
+4. **Memory Theft**: NPC01614_Felicia_Lightbringer_the_Mystic's memories have been stolen and sold on the black market

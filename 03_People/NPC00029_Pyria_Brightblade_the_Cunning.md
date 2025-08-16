@@ -140,3 +140,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC00029_Pyria_Brightblade_the_Cunning's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00029_Pyria_Brightblade_the_Cunning is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00029_Pyria_Brightblade_the_Cunning is being blackmailed by the Bloodtide Brotherhood

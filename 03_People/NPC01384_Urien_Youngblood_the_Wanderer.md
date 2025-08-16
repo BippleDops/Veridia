@@ -145,3 +145,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01384_Urien_Youngblood_the_Wanderer is working for two opposing factions
+4. **Memory Theft**: NPC01384_Urien_Youngblood_the_Wanderer's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01384_Urien_Youngblood_the_Wanderer is being blackmailed by the Bloodtide Brotherhood

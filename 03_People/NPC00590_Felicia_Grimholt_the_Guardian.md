@@ -139,3 +139,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC00590_Felicia_Grimholt_the_Guardian's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00590_Felicia_Grimholt_the_Guardian is working for two opposing factions
+1. **The Missing Shipment**: NPC00590_Felicia_Grimholt_the_Guardian approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

@@ -138,3 +138,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01246_Idris_Dawnstrider_the_Broken is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01246_Idris_Dawnstrider_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01246_Idris_Dawnstrider_the_Broken is working for two opposing factions

@@ -143,3 +143,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00304_Idris_Hawthorne is working for two opposing factions
+1. **The Missing Shipment**: NPC00304_Idris_Hawthorne approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00304_Idris_Hawthorne's memories have been stolen and sold on the black market

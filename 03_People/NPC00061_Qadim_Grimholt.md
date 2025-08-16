@@ -141,3 +141,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00061_Qadim_Grimholt needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00061_Qadim_Grimholt is working for two opposing factions
+4. **Memory Theft**: NPC00061_Qadim_Grimholt's memories have been stolen and sold on the black market

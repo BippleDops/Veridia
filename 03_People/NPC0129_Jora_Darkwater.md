@@ -150,3 +150,12 @@ Deception, Stealth, Investigation, Athletics
 ![[03_People/portrait_captain_thorne_darkwater_friendly.png
 ![03_People/portrait_captain_thorne_darkwater_dramatic.png]]
 ![[03_People/portrait_captain_thorne_darkwater_standard.png]]
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders

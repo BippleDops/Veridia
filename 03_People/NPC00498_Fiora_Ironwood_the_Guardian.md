@@ -140,3 +140,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00498_Fiora_Ironwood_the_Guardian is working for two opposing factions
+4. **Memory Theft**: NPC00498_Fiora_Ironwood_the_Guardian's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00498_Fiora_Ironwood_the_Guardian is being blackmailed by the Bloodtide Brotherhood

@@ -140,3 +140,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00471_Felicia_Frostwhisper_the_Mystic is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00471_Felicia_Frostwhisper_the_Mystic is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00471_Felicia_Frostwhisper_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

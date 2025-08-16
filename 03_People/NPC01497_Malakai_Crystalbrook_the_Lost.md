@@ -143,3 +143,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01497_Malakai_Crystalbrook_the_Lost is working for two opposing factions
+3. **Secret Meeting**: NPC01497_Malakai_Crystalbrook_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01497_Malakai_Crystalbrook_the_Lost is being blackmailed by the Bloodtide Brotherhood

@@ -136,3 +136,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01530_Cedric_Oakenshield_the_Lost is working for two opposing factions
+3. **Secret Meeting**: NPC01530_Cedric_Oakenshield_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01530_Cedric_Oakenshield_the_Lost's memories have been stolen and sold on the black market

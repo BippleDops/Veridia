@@ -145,3 +145,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00691_Felicia_Oakenshield is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00691_Felicia_Oakenshield approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC00691_Felicia_Oakenshield needs escorts to a clandestine meeting in the Abyssal Trenches

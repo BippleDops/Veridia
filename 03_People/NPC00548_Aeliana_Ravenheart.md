@@ -131,3 +131,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00548_Aeliana_Ravenheart is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00548_Aeliana_Ravenheart's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00548_Aeliana_Ravenheart is working for two opposing factions

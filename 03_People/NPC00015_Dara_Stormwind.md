@@ -135,3 +135,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00015_Dara_Stormwind needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00015_Dara_Stormwind is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00015_Dara_Stormwind approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

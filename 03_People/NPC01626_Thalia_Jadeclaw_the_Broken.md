@@ -143,3 +143,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01626_Thalia_Jadeclaw_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01626_Thalia_Jadeclaw_the_Broken's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01626_Thalia_Jadeclaw_the_Broken is working for two opposing factions

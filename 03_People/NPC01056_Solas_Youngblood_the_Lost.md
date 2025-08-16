@@ -146,3 +146,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01056_Solas_Youngblood_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01056_Solas_Youngblood_the_Lost is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01056_Solas_Youngblood_the_Lost is working for two opposing factions

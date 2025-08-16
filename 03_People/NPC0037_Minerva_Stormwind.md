@@ -127,3 +127,11 @@ Perception, Investigation, Deception
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading

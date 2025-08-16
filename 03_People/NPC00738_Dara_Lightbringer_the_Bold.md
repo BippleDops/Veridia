@@ -142,3 +142,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00738_Dara_Lightbringer_the_Bold is working for two opposing factions
+3. **Secret Meeting**: NPC00738_Dara_Lightbringer_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00738_Dara_Lightbringer_the_Bold approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

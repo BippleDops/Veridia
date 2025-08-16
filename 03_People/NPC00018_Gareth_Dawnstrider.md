@@ -143,3 +143,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00018_Gareth_Dawnstrider needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00018_Gareth_Dawnstrider approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00018_Gareth_Dawnstrider is working for two opposing factions

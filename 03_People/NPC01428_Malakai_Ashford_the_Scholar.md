@@ -147,3 +147,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01428_Malakai_Ashford_the_Scholar is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01428_Malakai_Ashford_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01428_Malakai_Ashford_the_Scholar is working for two opposing factions

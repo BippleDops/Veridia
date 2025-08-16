@@ -136,3 +136,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00500_Wynne_Ashford_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00500_Wynne_Ashford_the_Wise's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00500_Wynne_Ashford_the_Wise is working for two opposing factions

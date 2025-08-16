@@ -141,3 +141,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00802_Aldric_Moonshadow_the_Swift is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00802_Aldric_Moonshadow_the_Swift's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00802_Aldric_Moonshadow_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches

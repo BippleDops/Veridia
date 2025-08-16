@@ -79,3 +79,12 @@ tags:
 ![[04_Resources/Assets/Portraits/NPCs/portrait_npc3.png
 ![04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc3_people_friendly.png]]
 ![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc3_people_dramatic.png]]
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world

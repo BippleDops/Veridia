@@ -147,3 +147,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01393_Erasmus_Winterborn_the_Broken is working for two opposing factions
+3. **Secret Meeting**: NPC01393_Erasmus_Winterborn_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01393_Erasmus_Winterborn_the_Broken's memories have been stolen and sold on the black market

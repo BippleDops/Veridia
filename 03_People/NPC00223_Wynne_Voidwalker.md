@@ -135,3 +135,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00223_Wynne_Voidwalker's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00223_Wynne_Voidwalker needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00223_Wynne_Voidwalker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

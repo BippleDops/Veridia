@@ -144,3 +144,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01138_Brenna_Oakenshield_the_Risen is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01138_Brenna_Oakenshield_the_Risen is working for two opposing factions
+4. **Memory Theft**: NPC01138_Brenna_Oakenshield_the_Risen's memories have been stolen and sold on the black market

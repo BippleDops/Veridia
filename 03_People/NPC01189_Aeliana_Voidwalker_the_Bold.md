@@ -143,3 +143,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01189_Aeliana_Voidwalker_the_Bold is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01189_Aeliana_Voidwalker_the_Bold is working for two opposing factions
+3. **Secret Meeting**: NPC01189_Aeliana_Voidwalker_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches

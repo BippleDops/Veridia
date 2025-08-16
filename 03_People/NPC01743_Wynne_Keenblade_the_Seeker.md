@@ -139,3 +139,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01743_Wynne_Keenblade_the_Seeker is working for two opposing factions
+3. **Secret Meeting**: NPC01743_Wynne_Keenblade_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01743_Wynne_Keenblade_the_Seeker is being blackmailed by the Bloodtide Brotherhood

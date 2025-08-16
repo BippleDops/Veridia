@@ -134,3 +134,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00906_Aeliana_Ashford_the_Fallen is working for two opposing factions
+4. **Memory Theft**: NPC00906_Aeliana_Ashford_the_Fallen's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00906_Aeliana_Ashford_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

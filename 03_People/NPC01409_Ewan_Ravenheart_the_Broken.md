@@ -146,3 +146,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01409_Ewan_Ravenheart_the_Broken is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01409_Ewan_Ravenheart_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01409_Ewan_Ravenheart_the_Broken is working for two opposing factions

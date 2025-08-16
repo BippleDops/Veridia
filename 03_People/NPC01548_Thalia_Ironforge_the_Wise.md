@@ -143,3 +143,17 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01548_Thalia_Ironforge_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01548_Thalia_Ironforge_the_Wise is working for two opposing factions
+3. **Secret Meeting**: NPC01548_Thalia_Ironforge_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches

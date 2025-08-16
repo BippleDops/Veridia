@@ -148,3 +148,17 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01313_Branwen_Jadeclaw_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01313_Branwen_Jadeclaw_the_Lost's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01313_Branwen_Jadeclaw_the_Lost is being blackmailed by the Bloodtide Brotherhood

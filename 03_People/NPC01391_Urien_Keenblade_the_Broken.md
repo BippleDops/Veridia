@@ -144,3 +144,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01391_Urien_Keenblade_the_Broken is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01391_Urien_Keenblade_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01391_Urien_Keenblade_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

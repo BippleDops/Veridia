@@ -142,3 +142,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01775_Baelor_Emberfall_the_Mystic is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01775_Baelor_Emberfall_the_Mystic's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC01775_Baelor_Emberfall_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

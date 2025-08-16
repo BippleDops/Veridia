@@ -151,3 +151,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01136_Nerys_Blackstone_the_Lost's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01136_Nerys_Blackstone_the_Lost is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01136_Nerys_Blackstone_the_Lost is working for two opposing factions

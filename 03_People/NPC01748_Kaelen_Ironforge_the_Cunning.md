@@ -141,3 +141,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01748_Kaelen_Ironforge_the_Cunning is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01748_Kaelen_Ironforge_the_Cunning is working for two opposing factions
+1. **The Missing Shipment**: NPC01748_Kaelen_Ironforge_the_Cunning approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

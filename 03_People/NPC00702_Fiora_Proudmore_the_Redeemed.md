@@ -135,3 +135,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC00702_Fiora_Proudmore_the_Redeemed's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00702_Fiora_Proudmore_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00702_Fiora_Proudmore_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches

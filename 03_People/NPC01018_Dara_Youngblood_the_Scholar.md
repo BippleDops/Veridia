@@ -144,3 +144,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01018_Dara_Youngblood_the_Scholar is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01018_Dara_Youngblood_the_Scholar's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01018_Dara_Youngblood_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches

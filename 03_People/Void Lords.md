@@ -83,3 +83,12 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world

@@ -135,3 +135,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00434_Gavril_Blackstone_the_Bold is working for two opposing factions
+3. **Secret Meeting**: NPC00434_Gavril_Blackstone_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00434_Gavril_Blackstone_the_Bold's memories have been stolen and sold on the black market

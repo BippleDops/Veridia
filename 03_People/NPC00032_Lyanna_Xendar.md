@@ -143,3 +143,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00032_Lyanna_Xendar is working for two opposing factions
+1. **The Missing Shipment**: NPC00032_Lyanna_Xendar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00032_Lyanna_Xendar is being blackmailed by the Bloodtide Brotherhood

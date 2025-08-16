@@ -140,3 +140,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00399_Vesper_Nightfall is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00399_Vesper_Nightfall is working for two opposing factions
+3. **Secret Meeting**: NPC00399_Vesper_Nightfall needs escorts to a clandestine meeting in the Abyssal Trenches

@@ -135,3 +135,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC00076_Aeliana_Grimholt_the_Bold's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00076_Aeliana_Grimholt_the_Bold is working for two opposing factions
+3. **Secret Meeting**: NPC00076_Aeliana_Grimholt_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches

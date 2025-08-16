@@ -150,3 +150,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00173_Orion_Winterborn_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00173_Orion_Winterborn_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00173_Orion_Winterborn_the_Guardian is working for two opposing factions

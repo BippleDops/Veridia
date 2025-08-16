@@ -140,3 +140,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01347_Xander_Jadeclaw_the_Wise is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01347_Xander_Jadeclaw_the_Wise is working for two opposing factions
+4. **Memory Theft**: NPC01347_Xander_Jadeclaw_the_Wise's memories have been stolen and sold on the black market

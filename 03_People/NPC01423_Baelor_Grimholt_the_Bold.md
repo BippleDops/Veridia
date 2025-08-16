@@ -145,3 +145,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01423_Baelor_Grimholt_the_Bold is working for two opposing factions
+3. **Secret Meeting**: NPC01423_Baelor_Grimholt_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01423_Baelor_Grimholt_the_Bold approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

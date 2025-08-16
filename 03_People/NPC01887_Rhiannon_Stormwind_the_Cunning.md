@@ -152,3 +152,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01887_Rhiannon_Stormwind_the_Cunning is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01887_Rhiannon_Stormwind_the_Cunning's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01887_Rhiannon_Stormwind_the_Cunning needs escorts to a clandestine meeting in the Abyssal Trenches

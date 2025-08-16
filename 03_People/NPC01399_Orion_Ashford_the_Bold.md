@@ -145,3 +145,17 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01399_Orion_Ashford_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01399_Orion_Ashford_the_Bold is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01399_Orion_Ashford_the_Bold is working for two opposing factions

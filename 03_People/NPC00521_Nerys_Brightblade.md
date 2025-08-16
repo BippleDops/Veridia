@@ -137,3 +137,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00521_Nerys_Brightblade approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00521_Nerys_Brightblade is working for two opposing factions
+3. **Secret Meeting**: NPC00521_Nerys_Brightblade needs escorts to a clandestine meeting in the Abyssal Trenches

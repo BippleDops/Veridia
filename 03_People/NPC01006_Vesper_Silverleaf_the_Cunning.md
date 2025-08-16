@@ -135,3 +135,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01006_Vesper_Silverleaf_the_Cunning is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01006_Vesper_Silverleaf_the_Cunning approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01006_Vesper_Silverleaf_the_Cunning's memories have been stolen and sold on the black market

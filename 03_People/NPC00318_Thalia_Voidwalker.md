@@ -136,3 +136,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00318_Thalia_Voidwalker is working for two opposing factions
+3. **Secret Meeting**: NPC00318_Thalia_Voidwalker needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00318_Thalia_Voidwalker's memories have been stolen and sold on the black market

@@ -142,3 +142,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00958_Nerys_Xendar_the_Guardian approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00958_Nerys_Xendar_the_Guardian's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00958_Nerys_Xendar_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches

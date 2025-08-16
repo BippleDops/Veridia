@@ -140,3 +140,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01607_Branwen_Quicksilver_the_Swift is working for two opposing factions
+3. **Secret Meeting**: NPC01607_Branwen_Quicksilver_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01607_Branwen_Quicksilver_the_Swift approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

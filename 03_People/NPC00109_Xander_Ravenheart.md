@@ -147,3 +147,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC00109_Xander_Ravenheart's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00109_Xander_Ravenheart is working for two opposing factions
+1. **The Missing Shipment**: NPC00109_Xander_Ravenheart approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

@@ -135,3 +135,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00413_Faelyn_Jadeclaw_the_Cunning is working for two opposing factions
+4. **Memory Theft**: NPC00413_Faelyn_Jadeclaw_the_Cunning's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00413_Faelyn_Jadeclaw_the_Cunning needs escorts to a clandestine meeting in the Abyssal Trenches

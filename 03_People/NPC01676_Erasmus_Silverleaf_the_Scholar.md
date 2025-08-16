@@ -140,3 +140,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01676_Erasmus_Silverleaf_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01676_Erasmus_Silverleaf_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01676_Erasmus_Silverleaf_the_Scholar's memories have been stolen and sold on the black market

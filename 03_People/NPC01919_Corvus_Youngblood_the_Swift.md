@@ -152,3 +152,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01919_Corvus_Youngblood_the_Swift is working for two opposing factions
+4. **Memory Theft**: NPC01919_Corvus_Youngblood_the_Swift's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01919_Corvus_Youngblood_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches

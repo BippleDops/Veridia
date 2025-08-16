@@ -140,3 +140,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC00888_Aldric_Oakenshield_the_Lost's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00888_Aldric_Oakenshield_the_Lost is working for two opposing factions
+3. **Secret Meeting**: NPC00888_Aldric_Oakenshield_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches

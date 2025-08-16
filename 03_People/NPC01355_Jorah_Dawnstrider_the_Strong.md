@@ -137,3 +137,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01355_Jorah_Dawnstrider_the_Strong is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01355_Jorah_Dawnstrider_the_Strong's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01355_Jorah_Dawnstrider_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches

@@ -126,3 +126,11 @@ Arcana, Investigation
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders

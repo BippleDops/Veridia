@@ -140,3 +140,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01835_Xander_Frostwhisper_the_Wise is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01835_Xander_Frostwhisper_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01835_Xander_Frostwhisper_the_Wise's memories have been stolen and sold on the black market

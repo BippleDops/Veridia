@@ -144,3 +144,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01342_Jorah_Ironwood_the_Cunning's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01342_Jorah_Ironwood_the_Cunning is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01342_Jorah_Ironwood_the_Cunning is working for two opposing factions

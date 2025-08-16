@@ -149,3 +149,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00239_Hilda_Xendar_the_Bold is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00239_Hilda_Xendar_the_Bold is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00239_Hilda_Xendar_the_Bold's memories have been stolen and sold on the black market

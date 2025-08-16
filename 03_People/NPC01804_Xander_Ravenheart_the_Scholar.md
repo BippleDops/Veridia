@@ -139,3 +139,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01804_Xander_Ravenheart_the_Scholar is working for two opposing factions
+3. **Secret Meeting**: NPC01804_Xander_Ravenheart_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01804_Xander_Ravenheart_the_Scholar's memories have been stolen and sold on the black market

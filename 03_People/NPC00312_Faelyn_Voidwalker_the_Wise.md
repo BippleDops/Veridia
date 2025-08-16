@@ -148,3 +148,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00312_Faelyn_Voidwalker_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00312_Faelyn_Voidwalker_the_Wise is working for two opposing factions
+4. **Memory Theft**: NPC00312_Faelyn_Voidwalker_the_Wise's memories have been stolen and sold on the black market

@@ -145,3 +145,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00999_Pyria_Stormwind_the_Risen is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00999_Pyria_Stormwind_the_Risen needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00999_Pyria_Stormwind_the_Risen is working for two opposing factions

@@ -142,3 +142,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01557_Baelor_Keenblade_the_Wanderer is working for two opposing factions
+1. **The Missing Shipment**: NPC01557_Baelor_Keenblade_the_Wanderer approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01557_Baelor_Keenblade_the_Wanderer is being blackmailed by the Bloodtide Brotherhood

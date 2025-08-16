@@ -139,3 +139,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01647_Zephyr_Crystalbrook_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01647_Zephyr_Crystalbrook_the_Bold is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01647_Zephyr_Crystalbrook_the_Bold approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

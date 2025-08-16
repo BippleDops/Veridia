@@ -140,3 +140,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC01952_Branwen_Brightblade_the_Wise's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01952_Branwen_Brightblade_the_Wise is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01952_Branwen_Brightblade_the_Wise is being blackmailed by the Bloodtide Brotherhood

@@ -151,3 +151,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00047_Branwen_Emberfall is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00047_Branwen_Emberfall is working for two opposing factions
+4. **Memory Theft**: NPC00047_Branwen_Emberfall's memories have been stolen and sold on the black market

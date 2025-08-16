@@ -143,3 +143,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC00965_Faelyn_Quicksilver_the_Mystic's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00965_Faelyn_Quicksilver_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00965_Faelyn_Quicksilver_the_Mystic is working for two opposing factions

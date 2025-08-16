@@ -135,3 +135,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00050_Aeliana_Goldleaf_the_Wise is working for two opposing factions
+4. **Memory Theft**: NPC00050_Aeliana_Goldleaf_the_Wise's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00050_Aeliana_Goldleaf_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches

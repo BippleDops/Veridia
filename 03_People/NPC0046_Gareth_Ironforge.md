@@ -130,3 +130,11 @@ Athletics, Insight
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Find a lost artifact from the surface world

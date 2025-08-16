@@ -142,3 +142,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01173_Alaric_Voidwalker_the_Broken is working for two opposing factions
+4. **Memory Theft**: NPC01173_Alaric_Voidwalker_the_Broken's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01173_Alaric_Voidwalker_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches

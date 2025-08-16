@@ -137,3 +137,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01035_Aeliana_Nightfall_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01035_Aeliana_Nightfall_the_Bold is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01035_Aeliana_Nightfall_the_Bold is working for two opposing factions

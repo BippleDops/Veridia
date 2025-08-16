@@ -148,3 +148,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00361_Kaelen_Dawnstrider_the_Cunning needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00361_Kaelen_Dawnstrider_the_Cunning approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00361_Kaelen_Dawnstrider_the_Cunning is working for two opposing factions

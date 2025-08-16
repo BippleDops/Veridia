@@ -137,3 +137,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01907_Hilda_Oakenshield_the_Lost is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01907_Hilda_Oakenshield_the_Lost is working for two opposing factions
+1. **The Missing Shipment**: NPC01907_Hilda_Oakenshield_the_Lost approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

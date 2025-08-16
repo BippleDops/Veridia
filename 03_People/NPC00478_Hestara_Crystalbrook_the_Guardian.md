@@ -147,3 +147,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC00478_Hestara_Crystalbrook_the_Guardian's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00478_Hestara_Crystalbrook_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00478_Hestara_Crystalbrook_the_Guardian is working for two opposing factions

@@ -146,3 +146,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC00942_Nerys_Silverleaf_the_Wanderer's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00942_Nerys_Silverleaf_the_Wanderer approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00942_Nerys_Silverleaf_the_Wanderer is working for two opposing factions

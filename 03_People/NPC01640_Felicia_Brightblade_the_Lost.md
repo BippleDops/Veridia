@@ -145,3 +145,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01640_Felicia_Brightblade_the_Lost's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01640_Felicia_Brightblade_the_Lost is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01640_Felicia_Brightblade_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches

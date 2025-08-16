@@ -141,3 +141,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01304_Wynne_Xendar_the_Cunning's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01304_Wynne_Xendar_the_Cunning is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01304_Wynne_Xendar_the_Cunning needs escorts to a clandestine meeting in the Abyssal Trenches

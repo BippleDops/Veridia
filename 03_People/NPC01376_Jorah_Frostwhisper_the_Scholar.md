@@ -150,3 +150,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01376_Jorah_Frostwhisper_the_Scholar is working for two opposing factions
+1. **The Missing Shipment**: NPC01376_Jorah_Frostwhisper_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01376_Jorah_Frostwhisper_the_Scholar's memories have been stolen and sold on the black market

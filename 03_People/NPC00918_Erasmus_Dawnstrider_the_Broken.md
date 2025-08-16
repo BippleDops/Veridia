@@ -135,3 +135,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00918_Erasmus_Dawnstrider_the_Broken is working for two opposing factions
+1. **The Missing Shipment**: NPC00918_Erasmus_Dawnstrider_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00918_Erasmus_Dawnstrider_the_Broken's memories have been stolen and sold on the black market

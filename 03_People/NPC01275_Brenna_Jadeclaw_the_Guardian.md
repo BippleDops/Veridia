@@ -136,3 +136,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01275_Brenna_Jadeclaw_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01275_Brenna_Jadeclaw_the_Guardian approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01275_Brenna_Jadeclaw_the_Guardian is working for two opposing factions

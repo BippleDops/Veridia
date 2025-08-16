@@ -145,3 +145,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01417_Alaric_Zephyrblade_the_Scholar is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01417_Alaric_Zephyrblade_the_Scholar's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01417_Alaric_Zephyrblade_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches

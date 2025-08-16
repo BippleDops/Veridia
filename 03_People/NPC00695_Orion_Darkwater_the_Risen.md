@@ -135,3 +135,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00695_Orion_Darkwater_the_Risen is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00695_Orion_Darkwater_the_Risen is working for two opposing factions
+3. **Secret Meeting**: NPC00695_Orion_Darkwater_the_Risen needs escorts to a clandestine meeting in the Abyssal Trenches

@@ -132,3 +132,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00764_Faelyn_Blackstone_the_Bold approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00764_Faelyn_Blackstone_the_Bold is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00764_Faelyn_Blackstone_the_Bold is being blackmailed by the Bloodtide Brotherhood

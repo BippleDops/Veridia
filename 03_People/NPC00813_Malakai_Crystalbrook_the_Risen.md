@@ -142,3 +142,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00813_Malakai_Crystalbrook_the_Risen is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00813_Malakai_Crystalbrook_the_Risen is working for two opposing factions
+4. **Memory Theft**: NPC00813_Malakai_Crystalbrook_the_Risen's memories have been stolen and sold on the black market

@@ -144,3 +144,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01701_Malakai_Quicksilver_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01701_Malakai_Quicksilver_the_Redeemed is working for two opposing factions
+4. **Memory Theft**: NPC01701_Malakai_Quicksilver_the_Redeemed's memories have been stolen and sold on the black market

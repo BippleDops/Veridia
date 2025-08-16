@@ -133,3 +133,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01392_Idris_Oakenshield_the_Mystic is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01392_Idris_Oakenshield_the_Mystic is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01392_Idris_Oakenshield_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches

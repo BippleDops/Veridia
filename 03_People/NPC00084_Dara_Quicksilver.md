@@ -136,3 +136,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00084_Dara_Quicksilver is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00084_Dara_Quicksilver's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00084_Dara_Quicksilver approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

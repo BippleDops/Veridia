@@ -138,3 +138,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00096_Idris_Youngblood_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00096_Idris_Youngblood_the_Bold is working for two opposing factions
+4. **Memory Theft**: NPC00096_Idris_Youngblood_the_Bold's memories have been stolen and sold on the black market

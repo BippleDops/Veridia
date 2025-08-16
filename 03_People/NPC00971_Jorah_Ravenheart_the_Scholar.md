@@ -143,3 +143,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00971_Jorah_Ravenheart_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00971_Jorah_Ravenheart_the_Scholar is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00971_Jorah_Ravenheart_the_Scholar is working for two opposing factions

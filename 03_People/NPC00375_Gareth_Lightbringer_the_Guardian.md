@@ -139,3 +139,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC00375_Gareth_Lightbringer_the_Guardian's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00375_Gareth_Lightbringer_the_Guardian is working for two opposing factions
+3. **Secret Meeting**: NPC00375_Gareth_Lightbringer_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches

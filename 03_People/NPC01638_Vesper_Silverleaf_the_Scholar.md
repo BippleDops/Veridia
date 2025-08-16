@@ -141,3 +141,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01638_Vesper_Silverleaf_the_Scholar is working for two opposing factions
+3. **Secret Meeting**: NPC01638_Vesper_Silverleaf_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01638_Vesper_Silverleaf_the_Scholar's memories have been stolen and sold on the black market

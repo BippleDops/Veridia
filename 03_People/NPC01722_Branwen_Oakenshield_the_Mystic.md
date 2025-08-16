@@ -136,3 +136,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01722_Branwen_Oakenshield_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01722_Branwen_Oakenshield_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01722_Branwen_Oakenshield_the_Mystic is working for two opposing factions

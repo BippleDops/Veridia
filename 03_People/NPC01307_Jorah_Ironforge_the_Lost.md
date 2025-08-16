@@ -141,3 +141,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC01307_Jorah_Ironforge_the_Lost's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01307_Jorah_Ironforge_the_Lost is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01307_Jorah_Ironforge_the_Lost is working for two opposing factions

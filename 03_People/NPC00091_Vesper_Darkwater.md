@@ -150,3 +150,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC00091_Vesper_Darkwater's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00091_Vesper_Darkwater is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00091_Vesper_Darkwater is being blackmailed by the Bloodtide Brotherhood

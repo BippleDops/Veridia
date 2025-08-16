@@ -146,3 +146,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC01208_Qadim_Thornweave_the_Seeker's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01208_Qadim_Thornweave_the_Seeker is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01208_Qadim_Thornweave_the_Seeker is being blackmailed by the Bloodtide Brotherhood

@@ -146,3 +146,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00825_Wynne_Darkwater_the_Bold is working for two opposing factions
+4. **Memory Theft**: NPC00825_Wynne_Darkwater_the_Bold's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00825_Wynne_Darkwater_the_Bold is being blackmailed by the Bloodtide Brotherhood

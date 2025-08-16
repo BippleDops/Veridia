@@ -146,3 +146,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00648_Ysara_Blackstone_the_Wanderer approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00648_Ysara_Blackstone_the_Wanderer is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00648_Ysara_Blackstone_the_Wanderer's memories have been stolen and sold on the black market

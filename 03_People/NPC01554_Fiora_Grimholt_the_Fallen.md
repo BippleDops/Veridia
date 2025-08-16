@@ -148,3 +148,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01554_Fiora_Grimholt_the_Fallen is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01554_Fiora_Grimholt_the_Fallen is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01554_Fiora_Grimholt_the_Fallen's memories have been stolen and sold on the black market

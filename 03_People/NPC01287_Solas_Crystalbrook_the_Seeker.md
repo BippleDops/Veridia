@@ -142,3 +142,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01287_Solas_Crystalbrook_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01287_Solas_Crystalbrook_the_Seeker's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01287_Solas_Crystalbrook_the_Seeker is working for two opposing factions

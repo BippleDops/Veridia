@@ -134,3 +134,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00755_Hilda_Dawnstrider_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00755_Hilda_Dawnstrider_the_Guardian is working for two opposing factions
+4. **Memory Theft**: NPC00755_Hilda_Dawnstrider_the_Guardian's memories have been stolen and sold on the black market

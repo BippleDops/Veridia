@@ -144,3 +144,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00931_Erasmus_Winterborn_the_Swift approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00931_Erasmus_Winterborn_the_Swift is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00931_Erasmus_Winterborn_the_Swift's memories have been stolen and sold on the black market

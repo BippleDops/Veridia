@@ -145,3 +145,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC01981_Zephyr_Silverleaf_the_Scholar's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC01981_Zephyr_Silverleaf_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC01981_Zephyr_Silverleaf_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches

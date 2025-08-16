@@ -146,3 +146,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00274_Brenna_Hawthorne approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00274_Brenna_Hawthorne is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00274_Brenna_Hawthorne is being blackmailed by the Bloodtide Brotherhood

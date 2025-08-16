@@ -147,3 +147,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00518_Zephyr_Quicksilver_the_Scholar is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00518_Zephyr_Quicksilver_the_Scholar is working for two opposing factions
+3. **Secret Meeting**: NPC00518_Zephyr_Quicksilver_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches

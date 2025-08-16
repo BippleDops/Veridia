@@ -148,3 +148,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01734_Kaelen_Hawthorne_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01734_Kaelen_Hawthorne_the_Seeker is working for two opposing factions
+4. **Memory Theft**: NPC01734_Kaelen_Hawthorne_the_Seeker's memories have been stolen and sold on the black market

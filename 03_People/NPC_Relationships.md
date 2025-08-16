@@ -75,3 +75,18 @@ publish: false --- --|--------------|--------------|----------------|
 - A mysterious message arrives regarding this location
 - Rumors speak of hidden treasures nearby
 - Strange occurrences have been reported recently
+
+
+## Relationships
+- Ally of [[Border Castles]]
+- Rival to [[Portrait NPC Sist... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Rival to [[The Shadow Surgeons]]
+- Member of the Shadow Parliament (secret)
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders

@@ -141,3 +141,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01490_Ewan_Ironforge_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01490_Ewan_Ironforge_the_Mystic is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01490_Ewan_Ironforge_the_Mystic is working for two opposing factions

@@ -147,3 +147,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01265_Fiora_Hawthorne_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01265_Fiora_Hawthorne_the_Mystic's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01265_Fiora_Hawthorne_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches

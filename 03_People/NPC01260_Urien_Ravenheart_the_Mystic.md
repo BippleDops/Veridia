@@ -139,3 +139,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01260_Urien_Ravenheart_the_Mystic is working for two opposing factions
+4. **Memory Theft**: NPC01260_Urien_Ravenheart_the_Mystic's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01260_Urien_Ravenheart_the_Mystic is being blackmailed by the Bloodtide Brotherhood

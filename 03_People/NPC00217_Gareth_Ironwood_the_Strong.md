@@ -148,3 +148,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00217_Gareth_Ironwood_the_Strong is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00217_Gareth_Ironwood_the_Strong's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00217_Gareth_Ironwood_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches

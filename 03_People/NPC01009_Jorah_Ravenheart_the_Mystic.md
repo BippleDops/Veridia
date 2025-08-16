@@ -135,3 +135,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01009_Jorah_Ravenheart_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC01009_Jorah_Ravenheart_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01009_Jorah_Ravenheart_the_Mystic's memories have been stolen and sold on the black market

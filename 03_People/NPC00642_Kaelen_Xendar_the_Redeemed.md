@@ -138,3 +138,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00642_Kaelen_Xendar_the_Redeemed is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00642_Kaelen_Xendar_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00642_Kaelen_Xendar_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches

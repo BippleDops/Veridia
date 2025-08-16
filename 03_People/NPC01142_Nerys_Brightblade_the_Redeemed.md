@@ -148,3 +148,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01142_Nerys_Brightblade_the_Redeemed is working for two opposing factions
+1. **The Missing Shipment**: NPC01142_Nerys_Brightblade_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01142_Nerys_Brightblade_the_Redeemed's memories have been stolen and sold on the black market

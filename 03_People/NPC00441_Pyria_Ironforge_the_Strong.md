@@ -144,3 +144,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00441_Pyria_Ironforge_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00441_Pyria_Ironforge_the_Strong's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC00441_Pyria_Ironforge_the_Strong approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

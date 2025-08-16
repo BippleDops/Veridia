@@ -134,3 +134,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC00666_Solas_Brightblade_the_Wise's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00666_Solas_Brightblade_the_Wise is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00666_Solas_Brightblade_the_Wise is working for two opposing factions

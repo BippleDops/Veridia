@@ -139,3 +139,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01148_Ysara_Grimholt_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01148_Ysara_Grimholt_the_Bold approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01148_Ysara_Grimholt_the_Bold is being blackmailed by the Bloodtide Brotherhood

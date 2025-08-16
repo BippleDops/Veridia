@@ -133,3 +133,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00123_Lyanna_Thornweave_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00123_Lyanna_Thornweave_the_Mystic is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00123_Lyanna_Thornweave_the_Mystic is working for two opposing factions

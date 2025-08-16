@@ -148,3 +148,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC00886_Dara_Ashford_the_Bold's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00886_Dara_Ashford_the_Bold is working for two opposing factions
+3. **Secret Meeting**: NPC00886_Dara_Ashford_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches

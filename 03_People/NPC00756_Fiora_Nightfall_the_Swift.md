@@ -134,3 +134,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00756_Fiora_Nightfall_the_Swift approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00756_Fiora_Nightfall_the_Swift is working for two opposing factions
+4. **Memory Theft**: NPC00756_Fiora_Nightfall_the_Swift's memories have been stolen and sold on the black market

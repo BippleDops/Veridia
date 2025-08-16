@@ -148,3 +148,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00121_Jorah_Proudmore needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00121_Jorah_Proudmore is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00121_Jorah_Proudmore is working for two opposing factions

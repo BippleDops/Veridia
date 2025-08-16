@@ -134,3 +134,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00930_Thalia_Darkwater_the_Wanderer is working for two opposing factions
+4. **Memory Theft**: NPC00930_Thalia_Darkwater_the_Wanderer's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00930_Thalia_Darkwater_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches

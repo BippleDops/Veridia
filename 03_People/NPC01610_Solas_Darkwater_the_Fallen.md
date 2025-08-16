@@ -145,3 +145,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC01610_Solas_Darkwater_the_Fallen's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01610_Solas_Darkwater_the_Fallen is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01610_Solas_Darkwater_the_Fallen is being blackmailed by the Bloodtide Brotherhood

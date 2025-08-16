@@ -142,3 +142,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01108_Xander_Ironwood_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01108_Xander_Ironwood_the_Redeemed is working for two opposing factions
+1. **The Missing Shipment**: NPC01108_Xander_Ironwood_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

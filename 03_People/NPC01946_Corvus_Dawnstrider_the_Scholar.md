@@ -144,3 +144,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC01946_Corvus_Dawnstrider_the_Scholar's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01946_Corvus_Dawnstrider_the_Scholar is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01946_Corvus_Dawnstrider_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches

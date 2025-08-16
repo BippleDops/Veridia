@@ -134,3 +134,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01338_Ysara_Brightblade_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01338_Ysara_Brightblade_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01338_Ysara_Brightblade_the_Seeker is working for two opposing factions

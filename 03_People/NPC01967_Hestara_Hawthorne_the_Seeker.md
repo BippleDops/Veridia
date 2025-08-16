@@ -138,3 +138,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC01967_Hestara_Hawthorne_the_Seeker's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01967_Hestara_Hawthorne_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01967_Hestara_Hawthorne_the_Seeker is working for two opposing factions

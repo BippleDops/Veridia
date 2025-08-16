@@ -138,3 +138,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00530_Qadim_Silverleaf_the_Swift is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00530_Qadim_Silverleaf_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00530_Qadim_Silverleaf_the_Swift's memories have been stolen and sold on the black market

@@ -133,3 +133,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00364_Erasmus_Keenblade_the_Broken is working for two opposing factions
+4. **Memory Theft**: NPC00364_Erasmus_Keenblade_the_Broken's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00364_Erasmus_Keenblade_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches

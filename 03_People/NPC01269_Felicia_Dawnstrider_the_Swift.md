@@ -135,3 +135,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01269_Felicia_Dawnstrider_the_Swift is working for two opposing factions
+4. **Memory Theft**: NPC01269_Felicia_Dawnstrider_the_Swift's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01269_Felicia_Dawnstrider_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches

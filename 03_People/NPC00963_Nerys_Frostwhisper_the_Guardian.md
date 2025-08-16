@@ -141,3 +141,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00963_Nerys_Frostwhisper_the_Guardian is working for two opposing factions
+1. **The Missing Shipment**: NPC00963_Nerys_Frostwhisper_the_Guardian approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00963_Nerys_Frostwhisper_the_Guardian's memories have been stolen and sold on the black market

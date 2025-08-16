@@ -135,3 +135,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01122_Ewan_Zephyrblade_the_Wanderer is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01122_Ewan_Zephyrblade_the_Wanderer's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01122_Ewan_Zephyrblade_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches

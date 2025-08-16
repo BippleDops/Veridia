@@ -148,3 +148,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00874_Thalia_Blackstone_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00874_Thalia_Blackstone_the_Wise is working for two opposing factions
+4. **Memory Theft**: NPC00874_Thalia_Blackstone_the_Wise's memories have been stolen and sold on the black market

@@ -142,3 +142,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00346_Gareth_Voidwalker_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00346_Gareth_Voidwalker_the_Wise is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00346_Gareth_Voidwalker_the_Wise is being blackmailed by the Bloodtide Brotherhood

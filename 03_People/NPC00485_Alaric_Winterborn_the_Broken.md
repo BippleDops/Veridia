@@ -135,3 +135,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00485_Alaric_Winterborn_the_Broken is working for two opposing factions
+4. **Memory Theft**: NPC00485_Alaric_Winterborn_the_Broken's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00485_Alaric_Winterborn_the_Broken is being blackmailed by the Bloodtide Brotherhood

@@ -133,3 +133,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01021_Elric_Quicksilver_the_Bold approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01021_Elric_Quicksilver_the_Bold is working for two opposing factions
+4. **Memory Theft**: NPC01021_Elric_Quicksilver_the_Bold's memories have been stolen and sold on the black market

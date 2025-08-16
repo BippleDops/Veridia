@@ -148,3 +148,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00883_Jorah_Oakenshield_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00883_Jorah_Oakenshield_the_Guardian is working for two opposing factions
+4. **Memory Theft**: NPC00883_Jorah_Oakenshield_the_Guardian's memories have been stolen and sold on the black market

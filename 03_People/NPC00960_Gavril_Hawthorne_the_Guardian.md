@@ -135,3 +135,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00960_Gavril_Hawthorne_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00960_Gavril_Hawthorne_the_Guardian's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00960_Gavril_Hawthorne_the_Guardian is being blackmailed by the Bloodtide Brotherhood

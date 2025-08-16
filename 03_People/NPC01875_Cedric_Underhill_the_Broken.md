@@ -145,3 +145,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01875_Cedric_Underhill_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01875_Cedric_Underhill_the_Broken is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01875_Cedric_Underhill_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches

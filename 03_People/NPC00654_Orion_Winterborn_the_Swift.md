@@ -145,3 +145,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00654_Orion_Winterborn_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00654_Orion_Winterborn_the_Swift approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00654_Orion_Winterborn_the_Swift is being blackmailed by the Bloodtide Brotherhood

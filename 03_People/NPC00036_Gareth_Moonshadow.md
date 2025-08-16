@@ -146,3 +146,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00036_Gareth_Moonshadow needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00036_Gareth_Moonshadow is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00036_Gareth_Moonshadow is being blackmailed by the Bloodtide Brotherhood

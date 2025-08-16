@@ -136,3 +136,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01880_Ewan_Brightblade_the_Wise's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC01880_Ewan_Brightblade_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01880_Ewan_Brightblade_the_Wise is being blackmailed by the Bloodtide Brotherhood

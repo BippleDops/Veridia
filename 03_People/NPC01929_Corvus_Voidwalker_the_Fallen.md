@@ -140,3 +140,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01929_Corvus_Voidwalker_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01929_Corvus_Voidwalker_the_Fallen is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01929_Corvus_Voidwalker_the_Fallen's memories have been stolen and sold on the black market

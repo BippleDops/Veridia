@@ -146,3 +146,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00879_Felicia_Frostwhisper_the_Swift is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00879_Felicia_Frostwhisper_the_Swift is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00879_Felicia_Frostwhisper_the_Swift's memories have been stolen and sold on the black market

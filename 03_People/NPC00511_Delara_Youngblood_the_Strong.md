@@ -142,3 +142,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00511_Delara_Youngblood_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00511_Delara_Youngblood_the_Strong is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00511_Delara_Youngblood_the_Strong's memories have been stolen and sold on the black market

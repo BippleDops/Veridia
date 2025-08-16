@@ -143,3 +143,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01843_Branwen_Jadeclaw_the_Fallen's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC01843_Branwen_Jadeclaw_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01843_Branwen_Jadeclaw_the_Fallen is working for two opposing factions

@@ -137,3 +137,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC01250_Rhiannon_Brightblade_the_Redeemed's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01250_Rhiannon_Brightblade_the_Redeemed is working for two opposing factions
+1. **The Missing Shipment**: NPC01250_Rhiannon_Brightblade_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

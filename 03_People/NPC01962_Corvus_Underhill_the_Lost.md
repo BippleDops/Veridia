@@ -145,3 +145,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01962_Corvus_Underhill_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01962_Corvus_Underhill_the_Lost approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01962_Corvus_Underhill_the_Lost is working for two opposing factions

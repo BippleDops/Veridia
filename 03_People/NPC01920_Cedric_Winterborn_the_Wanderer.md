@@ -145,3 +145,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01920_Cedric_Winterborn_the_Wanderer is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01920_Cedric_Winterborn_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01920_Cedric_Winterborn_the_Wanderer is working for two opposing factions

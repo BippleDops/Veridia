@@ -142,3 +142,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01329_Fiora_Winterborn_the_Broken's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC01329_Fiora_Winterborn_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC01329_Fiora_Winterborn_the_Broken needs escorts to a clandestine meeting in the Abyssal Trenches

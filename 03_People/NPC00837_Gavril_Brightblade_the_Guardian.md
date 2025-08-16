@@ -133,3 +133,17 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00837_Gavril_Brightblade_the_Guardian is working for two opposing factions
+4. **Memory Theft**: NPC00837_Gavril_Brightblade_the_Guardian's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00837_Gavril_Brightblade_the_Guardian is being blackmailed by the Bloodtide Brotherhood

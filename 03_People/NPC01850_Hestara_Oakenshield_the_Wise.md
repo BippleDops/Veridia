@@ -149,3 +149,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01850_Hestara_Oakenshield_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01850_Hestara_Oakenshield_the_Wise is working for two opposing factions
+4. **Memory Theft**: NPC01850_Hestara_Oakenshield_the_Wise's memories have been stolen and sold on the black market

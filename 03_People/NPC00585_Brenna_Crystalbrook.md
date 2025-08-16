@@ -140,3 +140,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00585_Brenna_Crystalbrook needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00585_Brenna_Crystalbrook approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00585_Brenna_Crystalbrook's memories have been stolen and sold on the black market

@@ -138,3 +138,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01815_Qadim_Zephyrblade_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01815_Qadim_Zephyrblade_the_Scholar is working for two opposing factions
+3. **Secret Meeting**: NPC01815_Qadim_Zephyrblade_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches

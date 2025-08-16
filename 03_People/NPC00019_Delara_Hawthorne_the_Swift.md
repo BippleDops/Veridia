@@ -135,3 +135,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC00019_Delara_Hawthorne_the_Swift's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00019_Delara_Hawthorne_the_Swift is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00019_Delara_Hawthorne_the_Swift is being blackmailed by the Bloodtide Brotherhood

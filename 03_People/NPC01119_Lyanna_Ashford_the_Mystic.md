@@ -146,3 +146,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01119_Lyanna_Ashford_the_Mystic's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01119_Lyanna_Ashford_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01119_Lyanna_Ashford_the_Mystic is being blackmailed by the Bloodtide Brotherhood

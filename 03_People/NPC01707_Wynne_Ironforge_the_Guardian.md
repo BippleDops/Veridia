@@ -138,3 +138,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01707_Wynne_Ironforge_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01707_Wynne_Ironforge_the_Guardian is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01707_Wynne_Ironforge_the_Guardian is being blackmailed by the Bloodtide Brotherhood

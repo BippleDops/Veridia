@@ -146,3 +146,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC00242_Jorah_Moonshadow's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00242_Jorah_Moonshadow needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00242_Jorah_Moonshadow approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

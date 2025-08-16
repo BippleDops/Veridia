@@ -134,3 +134,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01512_Aldric_Silverleaf_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01512_Aldric_Silverleaf_the_Bold is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01512_Aldric_Silverleaf_the_Bold's memories have been stolen and sold on the black market

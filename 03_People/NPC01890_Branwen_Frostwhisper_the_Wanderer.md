@@ -142,3 +142,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC01890_Branwen_Frostwhisper_the_Wanderer's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC01890_Branwen_Frostwhisper_the_Wanderer approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01890_Branwen_Frostwhisper_the_Wanderer is working for two opposing factions

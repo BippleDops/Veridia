@@ -149,3 +149,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01977_Brenna_Youngblood_the_Swift approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01977_Brenna_Youngblood_the_Swift is working for two opposing factions
+3. **Secret Meeting**: NPC01977_Brenna_Youngblood_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches

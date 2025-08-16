@@ -151,3 +151,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01999_Gavril_Voidwalker_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01999_Gavril_Voidwalker_the_Wise is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01999_Gavril_Voidwalker_the_Wise's memories have been stolen and sold on the black market

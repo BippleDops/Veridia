@@ -143,3 +143,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01716_Gareth_Ashford_the_Fallen is working for two opposing factions
+1. **The Missing Shipment**: NPC01716_Gareth_Ashford_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01716_Gareth_Ashford_the_Fallen's memories have been stolen and sold on the black market

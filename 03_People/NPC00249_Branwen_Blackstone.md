@@ -150,3 +150,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00249_Branwen_Blackstone is working for two opposing factions
+4. **Memory Theft**: NPC00249_Branwen_Blackstone's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00249_Branwen_Blackstone needs escorts to a clandestine meeting in the Abyssal Trenches

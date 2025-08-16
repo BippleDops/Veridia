@@ -140,3 +140,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00741_Alaric_Dawnstrider_the_Redeemed is working for two opposing factions
+3. **Secret Meeting**: NPC00741_Alaric_Dawnstrider_the_Redeemed needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00741_Alaric_Dawnstrider_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

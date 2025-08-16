@@ -24,7 +24,7 @@ updated: 2025-08-14
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-# Aquabyssos_Character_Creation
+# Aquabyssos_[[Character_Creation]]
 
 ## Overview
 Aquabyssos_Character_Creation is a notable figure in the realm, known for their unique skills and complex motivations.

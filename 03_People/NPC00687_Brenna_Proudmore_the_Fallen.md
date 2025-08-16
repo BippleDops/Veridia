@@ -138,3 +138,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00687_Brenna_Proudmore_the_Fallen needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00687_Brenna_Proudmore_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00687_Brenna_Proudmore_the_Fallen's memories have been stolen and sold on the black market

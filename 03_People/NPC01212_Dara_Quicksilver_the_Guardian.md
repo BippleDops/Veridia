@@ -135,3 +135,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01212_Dara_Quicksilver_the_Guardian is working for two opposing factions
+4. **Memory Theft**: NPC01212_Dara_Quicksilver_the_Guardian's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01212_Dara_Quicksilver_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches

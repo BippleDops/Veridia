@@ -138,3 +138,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00026_Nerys_Thornweave is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00026_Nerys_Thornweave's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00026_Nerys_Thornweave is working for two opposing factions

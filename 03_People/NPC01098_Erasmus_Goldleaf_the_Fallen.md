@@ -136,3 +136,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01098_Erasmus_Goldleaf_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01098_Erasmus_Goldleaf_the_Fallen is working for two opposing factions
+4. **Memory Theft**: NPC01098_Erasmus_Goldleaf_the_Fallen's memories have been stolen and sold on the black market

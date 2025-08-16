@@ -141,3 +141,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC00306_Hilda_Nightfall's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00306_Hilda_Nightfall is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00306_Hilda_Nightfall needs escorts to a clandestine meeting in the Abyssal Trenches

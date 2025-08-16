@@ -148,3 +148,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC01220_Delara_Keenblade_the_Scholar's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01220_Delara_Keenblade_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01220_Delara_Keenblade_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

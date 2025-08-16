@@ -142,3 +142,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00210_Aeliana_Ironwood_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00210_Aeliana_Ironwood_the_Wise's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00210_Aeliana_Ironwood_the_Wise is working for two opposing factions

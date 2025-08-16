@@ -136,3 +136,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01174_Thalia_Jadeclaw_the_Wanderer approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01174_Thalia_Jadeclaw_the_Wanderer's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01174_Thalia_Jadeclaw_the_Wanderer is working for two opposing factions

@@ -144,3 +144,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00816_Thalia_Ravenheart_the_Risen needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00816_Thalia_Ravenheart_the_Risen is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00816_Thalia_Ravenheart_the_Risen is working for two opposing factions

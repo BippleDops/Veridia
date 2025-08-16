@@ -143,3 +143,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00680_Nerys_Keenblade_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00680_Nerys_Keenblade_the_Wanderer's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00680_Nerys_Keenblade_the_Wanderer is working for two opposing factions

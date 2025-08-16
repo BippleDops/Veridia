@@ -141,3 +141,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00191_Orion_Darkwater_the_Wanderer approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00191_Orion_Darkwater_the_Wanderer is working for two opposing factions
+3. **Secret Meeting**: NPC00191_Orion_Darkwater_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches

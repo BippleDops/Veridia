@@ -147,3 +147,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00988_Hilda_Proudmore_the_Guardian is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00988_Hilda_Proudmore_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00988_Hilda_Proudmore_the_Guardian's memories have been stolen and sold on the black market

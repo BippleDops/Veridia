@@ -141,3 +141,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00800_Rhiannon_Voidwalker_the_Mystic is working for two opposing factions
+1. **The Missing Shipment**: NPC00800_Rhiannon_Voidwalker_the_Mystic approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC00800_Rhiannon_Voidwalker_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches

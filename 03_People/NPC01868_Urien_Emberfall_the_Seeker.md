@@ -143,3 +143,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01868_Urien_Emberfall_the_Seeker is working for two opposing factions
+4. **Memory Theft**: NPC01868_Urien_Emberfall_the_Seeker's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01868_Urien_Emberfall_the_Seeker is being blackmailed by the Bloodtide Brotherhood

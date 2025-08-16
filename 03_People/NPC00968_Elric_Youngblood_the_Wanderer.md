@@ -146,3 +146,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00968_Elric_Youngblood_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00968_Elric_Youngblood_the_Wanderer is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00968_Elric_Youngblood_the_Wanderer is working for two opposing factions

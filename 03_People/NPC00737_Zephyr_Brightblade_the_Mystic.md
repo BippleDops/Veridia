@@ -147,3 +147,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC00737_Zephyr_Brightblade_the_Mystic's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00737_Zephyr_Brightblade_the_Mystic needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00737_Zephyr_Brightblade_the_Mystic is being blackmailed by the Bloodtide Brotherhood

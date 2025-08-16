@@ -143,3 +143,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00581_Brenna_Hawthorne_the_Bold is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00581_Brenna_Hawthorne_the_Bold's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00581_Brenna_Hawthorne_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches

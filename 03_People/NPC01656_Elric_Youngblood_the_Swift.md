@@ -147,3 +147,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01656_Elric_Youngblood_the_Swift is working for two opposing factions
+3. **Secret Meeting**: NPC01656_Elric_Youngblood_the_Swift needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01656_Elric_Youngblood_the_Swift approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

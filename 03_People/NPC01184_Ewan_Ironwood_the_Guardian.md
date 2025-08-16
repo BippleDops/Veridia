@@ -142,3 +142,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC01184_Ewan_Ironwood_the_Guardian's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01184_Ewan_Ironwood_the_Guardian is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01184_Ewan_Ironwood_the_Guardian is being blackmailed by the Bloodtide Brotherhood

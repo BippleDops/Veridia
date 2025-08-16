@@ -145,3 +145,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00705_Ewan_Grimholt_the_Lost is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00705_Ewan_Grimholt_the_Lost approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00705_Ewan_Grimholt_the_Lost's memories have been stolen and sold on the black market

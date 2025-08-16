@@ -135,3 +135,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00770_Ewan_Goldleaf_the_Scholar is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC00770_Ewan_Goldleaf_the_Scholar is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC00770_Ewan_Goldleaf_the_Scholar's memories have been stolen and sold on the black market

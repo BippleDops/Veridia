@@ -145,3 +145,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Gain influence in their district
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00284_Thalia_Winterborn_the_Broken is working for two opposing factions
+4. **Memory Theft**: NPC00284_Thalia_Winterborn_the_Broken's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00284_Thalia_Winterborn_the_Broken is being blackmailed by the Bloodtide Brotherhood

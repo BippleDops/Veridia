@@ -149,3 +149,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01914_Faelyn_Brightblade_the_Swift is working for two opposing factions
+1. **The Missing Shipment**: NPC01914_Faelyn_Brightblade_the_Swift approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC01914_Faelyn_Brightblade_the_Swift is being blackmailed by the Bloodtide Brotherhood

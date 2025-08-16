@@ -143,3 +143,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00573_Rhiannon_Dawnstrider_the_Seeker is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00573_Rhiannon_Dawnstrider_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00573_Rhiannon_Dawnstrider_the_Seeker's memories have been stolen and sold on the black market

@@ -147,3 +147,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Gain influence in their district
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00952_Brenna_Ashford_the_Lost approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00952_Brenna_Ashford_the_Lost is working for two opposing factions
+3. **Secret Meeting**: NPC00952_Brenna_Ashford_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches

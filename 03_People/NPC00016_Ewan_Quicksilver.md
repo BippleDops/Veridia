@@ -148,3 +148,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00016_Ewan_Quicksilver is working for two opposing factions
+4. **Memory Theft**: NPC00016_Ewan_Quicksilver's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00016_Ewan_Quicksilver needs escorts to a clandestine meeting in the Abyssal Trenches

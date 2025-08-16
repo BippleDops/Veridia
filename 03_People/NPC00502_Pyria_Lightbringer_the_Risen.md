@@ -132,3 +132,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00502_Pyria_Lightbringer_the_Risen needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00502_Pyria_Lightbringer_the_Risen's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00502_Pyria_Lightbringer_the_Risen is working for two opposing factions

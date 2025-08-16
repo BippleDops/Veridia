@@ -138,3 +138,17 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00440_Caelum_Blackstone_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00440_Caelum_Blackstone_the_Scholar is working for two opposing factions
+1. **The Missing Shipment**: NPC00440_Caelum_Blackstone_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

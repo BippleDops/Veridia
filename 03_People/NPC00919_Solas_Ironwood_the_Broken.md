@@ -149,3 +149,17 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00919_Solas_Ironwood_the_Broken approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00919_Solas_Ironwood_the_Broken's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00919_Solas_Ironwood_the_Broken is working for two opposing factions

@@ -136,3 +136,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01207_Orion_Thornweave_the_Wanderer needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01207_Orion_Thornweave_the_Wanderer is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01207_Orion_Thornweave_the_Wanderer is working for two opposing factions

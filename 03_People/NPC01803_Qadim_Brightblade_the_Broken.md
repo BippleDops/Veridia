@@ -150,3 +150,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01803_Qadim_Brightblade_the_Broken is working for two opposing factions
+4. **Memory Theft**: NPC01803_Qadim_Brightblade_the_Broken's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01803_Qadim_Brightblade_the_Broken is being blackmailed by the Bloodtide Brotherhood

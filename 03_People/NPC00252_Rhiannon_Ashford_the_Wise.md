@@ -138,3 +138,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC00252_Rhiannon_Ashford_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC00252_Rhiannon_Ashford_the_Wise's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00252_Rhiannon_Ashford_the_Wise is working for two opposing factions

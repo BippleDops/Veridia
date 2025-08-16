@@ -146,3 +146,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01167_Pyria_Zephyrblade_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01167_Pyria_Zephyrblade_the_Fallen is working for two opposing factions
+4. **Memory Theft**: NPC01167_Pyria_Zephyrblade_the_Fallen's memories have been stolen and sold on the black market

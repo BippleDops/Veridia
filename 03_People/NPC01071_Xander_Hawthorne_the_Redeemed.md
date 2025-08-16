@@ -142,3 +142,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC01071_Xander_Hawthorne_the_Redeemed is working for two opposing factions
+2. **Blackmail Scheme**: The party discovers NPC01071_Xander_Hawthorne_the_Redeemed is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01071_Xander_Hawthorne_the_Redeemed's memories have been stolen and sold on the black market

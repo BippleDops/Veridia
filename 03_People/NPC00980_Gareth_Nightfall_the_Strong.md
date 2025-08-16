@@ -146,3 +146,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00980_Gareth_Nightfall_the_Strong approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00980_Gareth_Nightfall_the_Strong is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00980_Gareth_Nightfall_the_Strong is working for two opposing factions

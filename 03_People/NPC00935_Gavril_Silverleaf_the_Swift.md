@@ -144,3 +144,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC00935_Gavril_Silverleaf_the_Swift's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00935_Gavril_Silverleaf_the_Swift is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00935_Gavril_Silverleaf_the_Swift is working for two opposing factions

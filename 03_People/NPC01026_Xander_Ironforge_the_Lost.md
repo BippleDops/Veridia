@@ -141,3 +141,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Gain influence in their district
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01026_Xander_Ironforge_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC01026_Xander_Ironforge_the_Lost is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01026_Xander_Ironforge_the_Lost's memories have been stolen and sold on the black market

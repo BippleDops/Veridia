@@ -132,3 +132,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Protect their community from raiders
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01089_Rhiannon_Nightfall_the_Bold is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC01089_Rhiannon_Nightfall_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01089_Rhiannon_Nightfall_the_Bold is working for two opposing factions

@@ -140,3 +140,17 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01821_Thalia_Dawnstrider_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01821_Thalia_Dawnstrider_the_Wise's memories have been stolen and sold on the black market
+1. **The Missing Shipment**: NPC01821_Thalia_Dawnstrider_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

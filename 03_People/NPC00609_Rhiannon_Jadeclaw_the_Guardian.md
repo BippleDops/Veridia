@@ -138,3 +138,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00609_Rhiannon_Jadeclaw_the_Guardian approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00609_Rhiannon_Jadeclaw_the_Guardian is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00609_Rhiannon_Jadeclaw_the_Guardian is working for two opposing factions

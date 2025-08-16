@@ -138,3 +138,17 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00637_Branwen_Stormwind_the_Fallen is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00637_Branwen_Stormwind_the_Fallen needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC00637_Branwen_Stormwind_the_Fallen is working for two opposing factions

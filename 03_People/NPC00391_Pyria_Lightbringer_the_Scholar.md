@@ -148,3 +148,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Aims to bridge the divide between Aquabyssos and Aethermoor
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders
+
+## Plot Hooks
+4. **Memory Theft**: NPC00391_Pyria_Lightbringer_the_Scholar's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00391_Pyria_Lightbringer_the_Scholar is working for two opposing factions
+1. **The Missing Shipment**: NPC00391_Pyria_Lightbringer_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

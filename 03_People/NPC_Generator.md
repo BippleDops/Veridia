@@ -88,3 +88,12 @@ updated: '2025-08-13T01:18:35.191831+00:00'
 ![[04_Resources/Assets/Portraits/NPCs/portrait_random_npc_generator.png
 ![04_Resources/Assets/Portraits/NPCs/Minor/portrait_random_npc_generator_standard.png]]
 ![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_random_npc_generator_dramatic.png]]
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Protect their community from raiders

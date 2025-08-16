@@ -134,3 +134,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01267_Qadim_Oakenshield_the_Strong is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC01267_Qadim_Oakenshield_the_Strong is working for two opposing factions
+3. **Secret Meeting**: NPC01267_Qadim_Oakenshield_the_Strong needs escorts to a clandestine meeting in the Abyssal Trenches

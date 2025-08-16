@@ -146,3 +146,17 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01248_Drusilla_Crystalbrook_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01248_Drusilla_Crystalbrook_the_Guardian's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01248_Drusilla_Crystalbrook_the_Guardian is working for two opposing factions

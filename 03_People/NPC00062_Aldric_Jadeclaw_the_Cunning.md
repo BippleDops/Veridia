@@ -141,3 +141,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00062_Aldric_Jadeclaw_the_Cunning is working for two opposing factions
+3. **Secret Meeting**: NPC00062_Aldric_Jadeclaw_the_Cunning needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC00062_Aldric_Jadeclaw_the_Cunning approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

@@ -147,3 +147,17 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00365_Xander_Dawnstrider_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC00365_Xander_Dawnstrider_the_Wise is working for two opposing factions
+4. **Memory Theft**: NPC00365_Xander_Dawnstrider_the_Wise's memories have been stolen and sold on the black market

@@ -90,3 +90,12 @@ publish: false --- # Character_Bonds ## Portrait![[Character_Bonds|Character Bon
 ![04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.png]]
 ![[04_Resources/Assets/Digital/ui-ui-character-sheet-layout-character-sheet-layout.png
 ![04_Resources/Assets/Digital/ui-ui-character-sheet-layout-v2-character-sheet-layout.png]]
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading

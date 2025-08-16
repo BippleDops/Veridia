@@ -135,3 +135,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00229_Dara_Zephyrblade is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC00229_Dara_Zephyrblade approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC00229_Dara_Zephyrblade's memories have been stolen and sold on the black market

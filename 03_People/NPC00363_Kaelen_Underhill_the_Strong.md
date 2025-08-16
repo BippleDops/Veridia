@@ -134,3 +134,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Gain influence in their district
+- Find a lost artifact from the surface world
+
+## Plot Hooks
+4. **Memory Theft**: NPC00363_Kaelen_Underhill_the_Strong's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00363_Kaelen_Underhill_the_Strong is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00363_Kaelen_Underhill_the_Strong is working for two opposing factions

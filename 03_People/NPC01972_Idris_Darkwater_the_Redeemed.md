@@ -140,3 +140,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01972_Idris_Darkwater_the_Redeemed approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01972_Idris_Darkwater_the_Redeemed's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC01972_Idris_Darkwater_the_Redeemed is working for two opposing factions

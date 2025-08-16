@@ -149,3 +149,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01783_Dara_Jadeclaw_the_Wise needs escorts to a clandestine meeting in the Abyssal Trenches
+1. **The Missing Shipment**: NPC01783_Dara_Jadeclaw_the_Wise approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+5. **Double Agent**: Evidence suggests NPC01783_Dara_Jadeclaw_the_Wise is working for two opposing factions

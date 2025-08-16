@@ -143,3 +143,17 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00152_Hestara_Grimholt is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00152_Hestara_Grimholt is working for two opposing factions
+1. **The Missing Shipment**: NPC00152_Hestara_Grimholt approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

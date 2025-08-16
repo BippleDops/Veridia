@@ -140,3 +140,17 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Master a forgotten combat technique
+
+## Plot Hooks
+3. **Secret Meeting**: NPC01025_Corvus_Moonshadow_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01025_Corvus_Moonshadow_the_Scholar's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01025_Corvus_Moonshadow_the_Scholar is being blackmailed by the Bloodtide Brotherhood

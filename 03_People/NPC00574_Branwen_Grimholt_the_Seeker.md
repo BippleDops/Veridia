@@ -148,3 +148,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+5. **Double Agent**: Evidence suggests NPC00574_Branwen_Grimholt_the_Seeker is working for two opposing factions
+4. **Memory Theft**: NPC00574_Branwen_Grimholt_the_Seeker's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC00574_Branwen_Grimholt_the_Seeker is being blackmailed by the Bloodtide Brotherhood

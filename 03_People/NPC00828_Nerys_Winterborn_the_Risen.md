@@ -137,3 +137,17 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Wants to restore their family's honor in the Depth Hierarchy
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district
+
+## Plot Hooks
+4. **Memory Theft**: NPC00828_Nerys_Winterborn_the_Risen's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC00828_Nerys_Winterborn_the_Risen needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00828_Nerys_Winterborn_the_Risen is being blackmailed by the Bloodtide Brotherhood

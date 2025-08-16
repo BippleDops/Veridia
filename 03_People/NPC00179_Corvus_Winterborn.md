@@ -148,3 +148,17 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00179_Corvus_Winterborn approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+2. **Blackmail Scheme**: The party discovers NPC00179_Corvus_Winterborn is being blackmailed by the Bloodtide Brotherhood
+3. **Secret Meeting**: NPC00179_Corvus_Winterborn needs escorts to a clandestine meeting in the Abyssal Trenches

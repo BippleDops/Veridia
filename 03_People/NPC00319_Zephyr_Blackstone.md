@@ -148,3 +148,17 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Master a forgotten combat technique
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC00319_Zephyr_Blackstone is being blackmailed by the Bloodtide Brotherhood
+5. **Double Agent**: Evidence suggests NPC00319_Zephyr_Blackstone is working for two opposing factions
+1. **The Missing Shipment**: NPC00319_Zephyr_Blackstone approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

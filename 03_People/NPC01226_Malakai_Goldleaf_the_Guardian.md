@@ -143,3 +143,17 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Seeks redemption for past failures in the Great Drowning
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01226_Malakai_Goldleaf_the_Guardian approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC01226_Malakai_Goldleaf_the_Guardian needs escorts to a clandestine meeting in the Abyssal Trenches
+4. **Memory Theft**: NPC01226_Malakai_Goldleaf_the_Guardian's memories have been stolen and sold on the black market

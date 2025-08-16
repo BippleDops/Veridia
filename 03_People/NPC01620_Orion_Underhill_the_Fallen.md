@@ -132,3 +132,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Protect their community from raiders
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC01620_Orion_Underhill_the_Fallen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01620_Orion_Underhill_the_Fallen's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01620_Orion_Underhill_the_Fallen is being blackmailed by the Bloodtide Brotherhood

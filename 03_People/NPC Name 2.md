@@ -71,3 +71,11 @@ tags:
 - **Connections**: How this links to other elements
 
 *What happens next is up to you.*
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Find a lost artifact from the surface world

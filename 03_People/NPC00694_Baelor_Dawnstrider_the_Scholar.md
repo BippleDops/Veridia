@@ -142,3 +142,17 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Protect their community from raiders
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC00694_Baelor_Dawnstrider_the_Scholar's memories have been stolen and sold on the black market
+5. **Double Agent**: Evidence suggests NPC00694_Baelor_Dawnstrider_the_Scholar is working for two opposing factions
+3. **Secret Meeting**: NPC00694_Baelor_Dawnstrider_the_Scholar needs escorts to a clandestine meeting in the Abyssal Trenches

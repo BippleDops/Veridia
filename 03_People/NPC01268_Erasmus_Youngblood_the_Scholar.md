@@ -137,3 +137,17 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01268_Erasmus_Youngblood_the_Scholar is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01268_Erasmus_Youngblood_the_Scholar approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01268_Erasmus_Youngblood_the_Scholar's memories have been stolen and sold on the black market

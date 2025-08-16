@@ -142,3 +142,17 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Master a forgotten combat technique
+
+## Plot Hooks
+4. **Memory Theft**: NPC01893_Drusilla_Ashford_the_Risen's memories have been stolen and sold on the black market
+2. **Blackmail Scheme**: The party discovers NPC01893_Drusilla_Ashford_the_Risen is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01893_Drusilla_Ashford_the_Risen approaches the party about a critical supply convoy that never arrived from the Bathyal Zone

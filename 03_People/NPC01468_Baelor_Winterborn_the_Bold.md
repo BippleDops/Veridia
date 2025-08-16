@@ -142,3 +142,17 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+4. **Memory Theft**: NPC01468_Baelor_Winterborn_the_Bold's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01468_Baelor_Winterborn_the_Bold needs escorts to a clandestine meeting in the Abyssal Trenches
+5. **Double Agent**: Evidence suggests NPC01468_Baelor_Winterborn_the_Bold is working for two opposing factions

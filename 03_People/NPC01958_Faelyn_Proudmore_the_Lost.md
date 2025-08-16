@@ -140,3 +140,17 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Pursues forbidden knowledge of Void-touched magic
+
+### Secondary Goals
+- Gain influence in their district
+- Master a forgotten combat technique
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01958_Faelyn_Proudmore_the_Lost is being blackmailed by the Bloodtide Brotherhood
+1. **The Missing Shipment**: NPC01958_Faelyn_Proudmore_the_Lost approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+4. **Memory Theft**: NPC01958_Faelyn_Proudmore_the_Lost's memories have been stolen and sold on the black market

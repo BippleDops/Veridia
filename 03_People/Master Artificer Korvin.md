@@ -62,3 +62,12 @@ Master Artificer Korvin is a character encountered in the campaign world.
 - [[01_Adventures/Current_Quest
 - [02_Worldbuilding/Locations/Town_Square]]
 - [[00_Indexes/MOCs/NPCs_MOC]]
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Accumulate wealth through pearl trading
+- Gain influence in their district

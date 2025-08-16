@@ -132,3 +132,17 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Searches for a cure to pressure sickness afflicting loved ones
+
+### Secondary Goals
+- Find a lost artifact from the surface world
+- Protect their community from raiders
+
+## Plot Hooks
+1. **The Missing Shipment**: NPC00780_Elric_Thornweave_the_Seeker approaches the party about a critical supply convoy that never arrived from the Bathyal Zone
+3. **Secret Meeting**: NPC00780_Elric_Thornweave_the_Seeker needs escorts to a clandestine meeting in the Abyssal Trenches
+2. **Blackmail Scheme**: The party discovers NPC00780_Elric_Thornweave_the_Seeker is being blackmailed by the Bloodtide Brotherhood

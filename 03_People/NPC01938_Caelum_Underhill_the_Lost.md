@@ -143,3 +143,17 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+
+## Motivations
+### Primary Motivation
+Desires to uncover the truth about the Shadow Parliament
+
+### Secondary Goals
+- Protect their community from raiders
+- Accumulate wealth through pearl trading
+
+## Plot Hooks
+2. **Blackmail Scheme**: The party discovers NPC01938_Caelum_Underhill_the_Lost is being blackmailed by the Bloodtide Brotherhood
+4. **Memory Theft**: NPC01938_Caelum_Underhill_the_Lost's memories have been stolen and sold on the black market
+3. **Secret Meeting**: NPC01938_Caelum_Underhill_the_Lost needs escorts to a clandestine meeting in the Abyssal Trenches
